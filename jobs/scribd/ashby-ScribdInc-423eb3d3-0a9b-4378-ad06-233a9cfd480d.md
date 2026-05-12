@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d
 summary: Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators.
 skills: 
 level: 
-render_hash: 0df50116
+render_hash: 93548087
 -->
 
 # Staff Software Engineer, AI & Developer Tooling

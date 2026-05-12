@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13
 summary: Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems.
 skills: Python, LLM APIs (OpenAI, Claude), RAG, search, Confluence/Jira
 level: 
-render_hash: 5e4b9713
+render_hash: b755b1cb
 -->
 
 # Applied AI Engineer – Fusion Systems

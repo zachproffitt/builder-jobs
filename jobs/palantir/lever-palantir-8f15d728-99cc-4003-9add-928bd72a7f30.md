@@ -11,7 +11,7 @@ url: https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30
 summary: Design and implement custom web applications to solve customer problems. Build end-to-end solutions for high-stakes data-driven projects.
 skills: 
 level: 
-render_hash: 29119fc0
+render_hash: 22d80c86
 -->
 
 # Forward Deployed Software Engineer - AUS Government

@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b
 summary: Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics.
 skills: 
 level: 
-render_hash: bb1accb6
+render_hash: cf62c255
 -->
 
 # Senior Engineering Technician, Operations Support

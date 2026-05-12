@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2
 summary: Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals.
 skills: 
 level: 
-render_hash: 14983a61
+render_hash: d8449ae5
 -->
 
 # Senior Electrical Systems Engineer

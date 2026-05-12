@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=50405
 summary: Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments.
 skills: FANUC, UR, RoboDK, FANUC ROBOGUIDE, Delmia
 level: 
-render_hash: ef2bb619
+render_hash: 102f5c68
 -->
 
 # Senior Robotics Engineer, Manufacturing Automation 

@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/grafanalabs/jobs/5988484004
 summary: Refactor and enhance the Grafana App Platform's core architecture to ensure scalability, multi-tenancy, and integration with observability apps. Build and maintain systems that support dashboards, alerts, and telemetry for cloud and on-premise deployments.
 skills: 
 level: 
-render_hash: fd98eda8
+render_hash: b67fbe4c
 -->
 
 # Staff Backend Engineer - Grafana App Platform| US| Remote

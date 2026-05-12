@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=51270
 summary: Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs.
 skills: Verilog, FPGA, Altium Designer, Ethernet, signal integrity
 level: 
-render_hash: f0b81357
+render_hash: 0c267136
 -->
 
 # Flight Computer Hardware Lead, Core Technology

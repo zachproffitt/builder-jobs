@@ -11,7 +11,7 @@ url: https://jobs.lever.co/zoox/9abd3543-0d46-4fd8-882c-2fe93d75a51b
 summary: Optimize GPU-based algorithms for computer vision and deep learning in self-driving systems. Influence compute platform design and resource allocation.
 skills: 
 level: 
-render_hash: bda6de73
+render_hash: ba8e3957
 -->
 
 # Software Engineer - Core Sensors

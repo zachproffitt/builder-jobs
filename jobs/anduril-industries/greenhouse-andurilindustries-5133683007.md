@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=51336
 summary: Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments.
 skills: 
 level: 
-render_hash: 25c0d974
+render_hash: 63ba694e
 -->
 
 # Staff Test Automation Engineer 

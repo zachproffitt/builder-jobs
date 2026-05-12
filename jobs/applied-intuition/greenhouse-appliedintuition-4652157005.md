@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/appliedintuition/jobs/4652157005?gh_jid=465215
 summary: Develop core middleware services for the software-defined vehicle platform, focusing on communication protocols and system management functions.
 skills: C++, SOME/IP, DDS, Protobuf/gRPC, networking
 level: 
-render_hash: d4bf28e7
+render_hash: 22679bbd
 -->
 
 # Software Engineer - Middleware

@@ -11,7 +11,7 @@ url: https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee
 summary: Build full-stack AI applications and GenAI interfaces tailored for critical infrastructure and sovereign institutions. Develop APIs, dashboards, and workflow tools for secure, compliant deployment.
 skills: 
 level: 
-render_hash: f441309e
+render_hash: 8da96a73
 -->
 
 # Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris

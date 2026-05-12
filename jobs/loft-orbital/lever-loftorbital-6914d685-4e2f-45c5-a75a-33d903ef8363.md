@@ -11,7 +11,7 @@ url: https://jobs.lever.co/loftorbital/6914d685-4e2f-45c5-a75a-33d903ef8363
 summary: Design and develop embedded software for satellite electronic payloads, advancing in-space compute and RF communication systems.
 skills: 
 level: 
-render_hash: 5973e675
+render_hash: 724fc084
 -->
 
 # Senior Embedded Software Engineer
