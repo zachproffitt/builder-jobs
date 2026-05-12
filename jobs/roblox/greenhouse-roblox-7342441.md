@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://careers.roblox.com/jobs/7342441?gh_jid=7342441
 summary: Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches.
 skills: Knowledge Graphs, Vector Databases, RAG systems, Ground Truth Data labeling, evaluation frameworks
-render_hash: fd6e7c8c
+render_hash: b9c41474
 ---
 
 # Senior AI Platform Engineer - Agentic Systems
@@ -19,16 +19,12 @@ render_hash: fd6e7c8c
 
 > Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches.
 
-| Field | Value |
+**[→ Apply at Roblox](https://careers.roblox.com/jobs/7342441?gh_jid=7342441)**
+
+| | |
 |---|---|
-| Company | Roblox |
 | Location | San Mateo, CA, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-12 |
-| Source | greenhouse |
-
-[Apply](https://careers.roblox.com/jobs/7342441?gh_jid=7342441)
 
 ---
 
@@ -77,3 +73,7 @@ Annual Salary Range$227,370&mdash;$295,250 USDRoles that are based in an office 
 Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
 
 For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H-1B sponsorship at this time.
+
+---
+
+**[→ Apply at Roblox](https://careers.roblox.com/jobs/7342441?gh_jid=7342441)**

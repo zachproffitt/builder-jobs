@@ -10,7 +10,7 @@ first_seen: 2026-05-05
 url: https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13
 summary: Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems.
 skills: Python, LLM APIs (OpenAI, Claude), RAG, search, Confluence/Jira
-render_hash: 18098e97
+render_hash: 71232850
 ---
 
 # Applied AI Engineer – Fusion Systems
@@ -19,16 +19,13 @@ render_hash: 18098e97
 
 > Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems.
 
-| Field | Value |
+**[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13)**
+
+| | |
 |---|---|
-| Company | Helion Energy |
 | Location | Everett, WA |
 | Remote | On-site |
 | Posted | 2026-05-05 |
-| First seen | 2026-05-05 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13)
 
 ---
 
@@ -95,3 +92,7 @@ Our total compensation package includes benefits, including but not limited to:
 • Annual wellness stipend
 
 Helion is an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need assistance or an accommodation during the interview process, please let us know.
+
+---
+
+**[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13)**

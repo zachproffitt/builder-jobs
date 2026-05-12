@@ -10,23 +10,19 @@ first_seen: 2026-05-07
 url: https://job-boards.greenhouse.io/tailscale/jobs/4647909005
 summary: Design and implement core client subsystems such as connection management, encrypted transport, and NAT traversal in Go.
 skills: Go, WireGuard, TCP/UDP, TLS, concurrency
-render_hash: a781721e
+render_hash: de694671
 ---
 
 # Go Core Client Engineer
 
 > Design and implement core client subsystems such as connection management, encrypted transport, and NAT traversal in Go.
 
-| Field | Value |
+**[→ Apply at Tailscale](https://job-boards.greenhouse.io/tailscale/jobs/4647909005)**
+
+| | |
 |---|---|
-| Company | Tailscale |
 | Location | Remote (Canada) |
 | Remote | Remote |
-| Posted | Unknown |
-| First seen | 2026-05-07 |
-| Source | greenhouse |
-
-[Apply](https://job-boards.greenhouse.io/tailscale/jobs/4647909005)
 
 ---
 
@@ -95,3 +91,7 @@ A build-your-own home office setup. You choose your own company-owned laptop (Ma
 Generous parental leave program from your first day. We care about your life outside of work and encourage new parents to take advantage of parental leave top-ups for up to 26 weeks.&nbsp;
 
 Please be aware that legitimate emails from Tailscale's talent team will only originate from @tailscale.com, @greenhouse.io, and @interviews.modernloop.io email addresses. For more information about protecting yourself from impersonators and scams, please visit https://tailscale.com/scam-awareness.
+
+---
+
+**[→ Apply at Tailscale](https://job-boards.greenhouse.io/tailscale/jobs/4647909005)**

@@ -10,7 +10,7 @@ first_seen: 2026-05-11
 url: https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007
 summary: Build and maintain the foundational vehicle software stack for autonomous robotics systems like the Fury unmanned fighter jet and Barracuda. Develop software for vehicle control, networking, sensor integration, and telemetry.
 skills: Python, C++, Rust, Go, JavaScript
-render_hash: 560ba0eb
+render_hash: 9e39d856
 ---
 
 # Mission Software Engineer, Vehicle Software, GenSWE
@@ -19,16 +19,12 @@ render_hash: 560ba0eb
 
 > Build and maintain the foundational vehicle software stack for autonomous robotics systems like the Fury unmanned fighter jet and Barracuda. Develop software for vehicle control, networking, sensor integration, and telemetry.
 
-| Field | Value |
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007)**
+
+| | |
 |---|---|
-| Company | Anduril Industries |
 | Location | Costa Mesa, California, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-11 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007)
 
 ---
 
@@ -102,3 +98,7 @@ To view Anduril's candidate data privacy policy, please visit https://anduril.co
 &nbsp;
 
 By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+
+---
+
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007)**

@@ -10,7 +10,7 @@ first_seen: 2026-05-08
 url: https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea
 summary: Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure.
 skills: Python, PyTorch, TensorFlow, JAX, XLA/MLIR
-render_hash: 68f61b9f
+render_hash: e787d659
 ---
 
 # Member of Technical Staff, Search
@@ -19,16 +19,13 @@ render_hash: 68f61b9f
 
 > Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure.
 
-| Field | Value |
+**[→ Apply at Cohere](https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea)**
+
+| | |
 |---|---|
-| Company | Cohere |
 | Location | United States |
 | Remote | Remote |
 | Posted | 2025-05-23 |
-| First seen | 2026-05-08 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea)
 
 ---
 
@@ -105,3 +102,7 @@ Full-Time Employees at Cohere enjoy these Perks:
 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend
 
 ✈️ 6 weeks of vacation (30 working days!)
+
+---
+
+**[→ Apply at Cohere](https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea)**

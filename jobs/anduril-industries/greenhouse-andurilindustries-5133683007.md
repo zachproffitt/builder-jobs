@@ -10,7 +10,7 @@ first_seen: 2026-04-30
 url: https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007
 summary: Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments.
 skills: 
-render_hash: c3baa6bf
+render_hash: 2199e2f8
 ---
 
 # Staff Test Automation Engineer 
@@ -19,16 +19,12 @@ render_hash: c3baa6bf
 
 > Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments.
 
-| Field | Value |
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007)**
+
+| | |
 |---|---|
-| Company | Anduril Industries |
 | Location | Seattle, Washington, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-04-30 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007)
 
 ---
 
@@ -120,3 +116,7 @@ To view Anduril's candidate data privacy policy, please visit https://anduril.co
 &nbsp;
 
 By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+
+---
+
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007)**

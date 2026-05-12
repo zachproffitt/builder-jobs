@@ -10,7 +10,7 @@ first_seen: 2026-05-08
 url: https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497
 summary: Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime.
 skills: Kubernetes, K8s controllers, containerization
-render_hash: a3585d13
+render_hash: 7280adb8
 ---
 
 # Software Engineer - Environment Platform
@@ -19,16 +19,13 @@ render_hash: a3585d13
 
 > Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime.
 
-| Field | Value |
+**[→ Apply at Palantir](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)**
+
+| | |
 |---|---|
-| Company | Palantir |
 | Location | Seattle, WA |
 | Remote | On-site |
 | Posted | 2024-09-05 |
-| First seen | 2026-05-08 |
-| Source | lever |
-
-[Apply](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)
 
 ---
 
@@ -40,3 +37,7 @@ Palantir builds the world’s leading software for data-driven decisions and ope
 The Role
  
 If you joined us today, you get to author the strategy by which each of Palantir’s software platforms - Foundry, Gotham, Apollo - achieves full containerization across an intimidating diversity of infrastructure types. Tomorrow, you get to do the same for Palantir’s ever expanding customer community. You will drive those goals by building elegant, robust APIs powered by K8s controllers which bridge the gap between a raw Kubernetes cluster and a fully-featured, infrastructure agnostic runtime that can scale to the operational needs of 100s of specialized microservices. Joining you on that journey is a highly motivated team with a diverse group of backgrounds and skillsets, brimming with ambition.
+
+---
+
+**[→ Apply at Palantir](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)**

@@ -10,23 +10,19 @@ first_seen: 2026-05-12
 url: https://nuro.ai/careersitem?gh_jid=7917839
 summary: Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure.
 skills: React, TypeScript, RESTful/gRPC APIs, PostgreSQL, GCP/AWS
-render_hash: 1e866fad
+render_hash: d04f9ce6
 ---
 
 # Full Stack Software Engineer, Fleet Platform and Operations Tooling
 
 > Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure.
 
-| Field | Value |
+**[→ Apply at Nuro](https://nuro.ai/careersitem?gh_jid=7917839)**
+
+| | |
 |---|---|
-| Company | Nuro |
 | Location | Mountain View, California (HQ) |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-12 |
-| Source | greenhouse |
-
-[Apply](https://nuro.ai/careersitem?gh_jid=7917839)
 
 ---
 
@@ -93,3 +89,7 @@ Interest in frontend platform work: design systems, shared component libraries, 
 At Nuro, your base pay is one part of your total compensation package. For this position, the reasonably expected base pay range is between $132,000 and $198,450 for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.
 
 At Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics. #LI-CD1
+
+---
+
+**[→ Apply at Nuro](https://nuro.ai/careersitem?gh_jid=7917839)**

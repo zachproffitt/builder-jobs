@@ -10,7 +10,7 @@ first_seen: 2026-05-05
 url: https://stripe.com/jobs/search?gh_jid=6567253
 summary: The person will build foundational infrastructure systems such as Compute, Networking, DocumentDB, and Distributed Caching, ensuring reliability, scalability, and performance for Stripe's products and services.
 skills: 
-render_hash: 04cbc6a7
+render_hash: 0c489311
 ---
 
 # Backend Engineer, Core Tech, Canada
@@ -19,16 +19,12 @@ render_hash: 04cbc6a7
 
 > The person will build foundational infrastructure systems such as Compute, Networking, DocumentDB, and Distributed Caching, ensuring reliability, scalability, and performance for Stripe's products and services.
 
-| Field | Value |
+**[→ Apply at Stripe](https://stripe.com/jobs/search?gh_jid=6567253)**
+
+| | |
 |---|---|
-| Company | Stripe |
 | Location | Toronto, CAN-Remote |
 | Remote | Remote |
-| Posted | Unknown |
-| First seen | 2026-05-05 |
-| Source | greenhouse |
-
-[Apply](https://stripe.com/jobs/search?gh_jid=6567253)
 
 ---
 
@@ -99,3 +95,7 @@ Experience optimizing the end to end performance of distributed systems
 Focuses on the needs of our users, both internal and external
 
 Holds yourself and others to a high bar when working with production
+
+---
+
+**[→ Apply at Stripe](https://stripe.com/jobs/search?gh_jid=6567253)**

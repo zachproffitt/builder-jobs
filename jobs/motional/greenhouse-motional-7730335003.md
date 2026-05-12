@@ -10,7 +10,7 @@ first_seen: 2026-05-04
 url: https://motional.com/open-positions/?gh_jid=7730335003#/7730335003
 summary: Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters.
 skills: 
-render_hash: e02ca045
+render_hash: 7bd2ac42
 ---
 
 # Staff Machine Learning Engineer
@@ -19,16 +19,12 @@ render_hash: e02ca045
 
 > Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters.
 
-| Field | Value |
+**[→ Apply at Motional](https://motional.com/open-positions/?gh_jid=7730335003#/7730335003)**
+
+| | |
 |---|---|
-| Company | Motional |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-04 |
-| Source | greenhouse |
-
-[Apply](https://motional.com/open-positions/?gh_jid=7730335003#/7730335003)
 
 ---
 
@@ -105,3 +101,7 @@ Our team is behind some of the industry's largest leaps forward, including the f
 Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit&nbsp; www.Motional.com and follow us on Twitter, LinkedIn,&nbsp;Instagram and YouTube.
 
 Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.
+
+---
+
+**[→ Apply at Motional](https://motional.com/open-positions/?gh_jid=7730335003#/7730335003)**

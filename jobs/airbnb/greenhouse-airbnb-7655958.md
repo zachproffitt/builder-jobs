@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://careers.airbnb.com/positions/7655958?gh_jid=7655958
 summary: Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features.
 skills: model serving, feature pipelines, online/offline evaluation, monitoring, NLP/NLU
-render_hash: df96b9cb
+render_hash: 3a5225ec
 ---
 
 # Staff Software Engineer, Communication Products
@@ -19,16 +19,12 @@ render_hash: df96b9cb
 
 > Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features.
 
-| Field | Value |
+**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7655958?gh_jid=7655958)**
+
+| | |
 |---|---|
-| Company | Airbnb |
 | Location | Remote - USA |
 | Remote | Remote |
-| Posted | Unknown |
-| First seen | 2026-05-12 |
-| Source | greenhouse |
-
-[Apply](https://careers.airbnb.com/positions/7655958?gh_jid=7655958)
 
 ---
 
@@ -96,3 +92,7 @@ How We'll Take Care of You:
 
 Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. &nbsp;
 Pay Range$204,000&mdash;$255,000 USD
+
+---
+
+**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7655958?gh_jid=7655958)**

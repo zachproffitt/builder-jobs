@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007
 summary: Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs.
 skills: Verilog, FPGA, Altium Designer, Ethernet, signal integrity
-render_hash: 1c70a8a6
+render_hash: 3a35a2c0
 ---
 
 # Flight Computer Hardware Lead, Core Technology
@@ -19,16 +19,12 @@ render_hash: 1c70a8a6
 
 > Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs.
 
-| Field | Value |
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007)**
+
+| | |
 |---|---|
-| Company | Anduril Industries |
 | Location | Costa Mesa, California, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-12 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007)
 
 ---
 
@@ -124,3 +120,7 @@ To view Anduril's candidate data privacy policy, please visit https://anduril.co
 &nbsp;
 
 By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+
+---
+
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007)**

@@ -10,7 +10,7 @@ first_seen: 2026-04-29
 url: https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004
 summary: This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives.
 skills: 
-render_hash: 42ef60ac
+render_hash: 5add7d9c
 ---
 
 # Data Scientist, Core Data -  PhD (2026)
@@ -19,16 +19,12 @@ render_hash: 42ef60ac
 
 > This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives.
 
-| Field | Value |
+**[→ Apply at Figma](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004)**
+
+| | |
 |---|---|
-| Company | Figma |
 | Location | New York, NY • United States; San Francisco, CA • New York, NY |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-04-29 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004)
 
 ---
 
@@ -97,3 +93,7 @@ Changing the mode or format of interviews&nbsp;
 To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.
 
 By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice.
+
+---
+
+**[→ Apply at Figma](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004)**

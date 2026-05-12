@@ -10,7 +10,7 @@ first_seen: 2026-05-05
 url: https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007
 summary: Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems.
 skills: 
-render_hash: 64654d8b
+render_hash: 1e07436d
 ---
 
 # Deputy Chief Engineer, Autonomous Airpower
@@ -19,16 +19,12 @@ render_hash: 64654d8b
 
 > Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems.
 
-| Field | Value |
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)**
+
+| | |
 |---|---|
-| Company | Anduril Industries |
 | Location | Costa Mesa, California, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-05 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)
 
 ---
 
@@ -120,3 +116,7 @@ To view Anduril's candidate data privacy policy, please visit https://anduril.co
 &nbsp;
 
 By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+
+---
+
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)**

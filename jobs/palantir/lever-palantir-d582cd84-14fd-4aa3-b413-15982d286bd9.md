@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9
 summary: Code custom web applications and implement data-driven solutions for customer projects.
 skills: 
-render_hash: a0cdd708
+render_hash: 2d712ea6
 ---
 
 # Forward Deployed Software Engineer, Internship - Poland
@@ -19,16 +19,13 @@ render_hash: a0cdd708
 
 > Code custom web applications and implement data-driven solutions for customer projects.
 
-| Field | Value |
+**[→ Apply at Palantir](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)**
+
+| | |
 |---|---|
-| Company | Palantir |
 | Location | New York, NY |
 | Remote | On-site |
 | Posted | 2026-02-19 |
-| First seen | 2026-05-12 |
-| Source | lever |
-
-[Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)
 
 ---
 
@@ -47,3 +44,7 @@ Core Responsibilities
 As an FDSE Intern, your responsibilities look similar to those at a small startup, with the resources, stability and mentorship of an established tech company: You’ll work in small teams with minimal supervision and own end-to-end execution of high stakes projects. Your day might span discussing architecture with fellow engineers, wrangling massive-scale data, coding a custom web app, speaking with customer executives, or establishing strategy for your team.
  
 FDSE Interns are treated just like full time engineers, with significant freedom and ownership over their work. Interns take responsibility for real world projects and outcomes that our customers rely on.
+
+---
+
+**[→ Apply at Palantir](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)**

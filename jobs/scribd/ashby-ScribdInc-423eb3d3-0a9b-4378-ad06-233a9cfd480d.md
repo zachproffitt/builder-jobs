@@ -10,7 +10,7 @@ first_seen: 2026-04-28
 url: https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d
 summary: Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators.
 skills: 
-render_hash: ee71dc67
+render_hash: f4c87ed1
 ---
 
 # Staff Software Engineer, AI & Developer Tooling
@@ -19,16 +19,13 @@ render_hash: ee71dc67
 
 > Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators.
 
-| Field | Value |
+**[→ Apply at Scribd](https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d)**
+
+| | |
 |---|---|
-| Company | Scribd |
 | Location | New York City |
 | Remote | Remote |
 | Posted | 2026-04-20 |
-| First seen | 2026-04-28 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d)
 
 ---
 
@@ -150,3 +147,7 @@ Life at Scribd, Inc. https://bit.ly/ScribdonLinkedin
 We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing accommodations@scribd.com about the need for adjustments at any point in the interview process.
 
 Scribd, Inc. is committed to equal employment opportunity regardless of race, color, religion, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage people of all backgrounds to apply, and believe that a diversity of perspectives and experiences create a foundation for the best ideas. Come join us in building something meaningful.
+
+---
+
+**[→ Apply at Scribd](https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d)**

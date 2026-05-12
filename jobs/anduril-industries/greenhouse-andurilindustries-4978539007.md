@@ -10,7 +10,7 @@ first_seen: 2026-05-09
 url: https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007
 summary: Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms.
 skills: 
-render_hash: ed0a6ca3
+render_hash: 35b9c287
 ---
 
 # Vehicle Systems Architect 
@@ -19,16 +19,12 @@ render_hash: ed0a6ca3
 
 > Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms.
 
-| Field | Value |
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007)**
+
+| | |
 |---|---|
-| Company | Anduril Industries |
 | Location | Costa Mesa, California, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-09 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007)
 
 ---
 
@@ -134,3 +130,7 @@ To view Anduril's candidate data privacy policy, please visit https://anduril.co
 &nbsp;
 
 By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+
+---
+
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007)**

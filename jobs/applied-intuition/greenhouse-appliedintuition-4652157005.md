@@ -10,7 +10,7 @@ first_seen: 2026-04-29
 url: https://boards.greenhouse.io/appliedintuition/jobs/4652157005?gh_jid=4652157005
 summary: Develop core middleware services for the software-defined vehicle platform, focusing on communication protocols and system management functions.
 skills: C++, SOME/IP, DDS, Protobuf/gRPC, networking
-render_hash: 892b1555
+render_hash: 2178bc9e
 ---
 
 # Software Engineer - Middleware
@@ -19,16 +19,12 @@ render_hash: 892b1555
 
 > Develop core middleware services for the software-defined vehicle platform, focusing on communication protocols and system management functions.
 
-| Field | Value |
+**[→ Apply at Applied Intuition](https://boards.greenhouse.io/appliedintuition/jobs/4652157005?gh_jid=4652157005)**
+
+| | |
 |---|---|
-| Company | Applied Intuition |
 | Location | Sunnyvale, California, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-04-29 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/appliedintuition/jobs/4652157005?gh_jid=4652157005)
 
 ---
 
@@ -85,3 +81,7 @@ Please reference the job posting’s subtitle for where this position will be lo
 Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
 
 Applied Intuition is an equal opportunity employer and federal contractor or subcontractor. Consequently, the parties agree that, as applicable, they will abide by the requirements of 41 CFR 60-1.4(a), 41 CFR 60-300.5(a) and 41 CFR 60-741.5(a) and that these laws are incorporated herein by reference. These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. These regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability. The parties also agree that, as applicable, they will abide by the requirements of Executive Order 13496 (29 CFR Part 471, Appendix A to Subpart A), relating to the notice of employee rights under federal labor laws.
+
+---
+
+**[→ Apply at Applied Intuition](https://boards.greenhouse.io/appliedintuition/jobs/4652157005?gh_jid=4652157005)**

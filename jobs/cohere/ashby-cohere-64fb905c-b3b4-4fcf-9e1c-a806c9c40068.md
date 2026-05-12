@@ -10,7 +10,7 @@ first_seen: 2026-04-30
 url: https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068
 summary: Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services.
 skills: Go, Python, Kubernetes, Docker, OpenSearch
-render_hash: fa6f2e48
+render_hash: ae475ba0
 ---
 
 # Software Engineer, Search Applications
@@ -19,16 +19,13 @@ render_hash: fa6f2e48
 
 > Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services.
 
-| Field | Value |
+**[→ Apply at Cohere](https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068)**
+
+| | |
 |---|---|
-| Company | Cohere |
 | Location | Toronto |
 | Remote | Remote |
 | Posted | 2025-11-10 |
-| First seen | 2026-04-30 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068)
 
 ---
 
@@ -107,3 +104,7 @@ Full-Time Employees at Cohere enjoy these Perks:
 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend
 
 ✈️ 6 weeks of vacation (30 working days!)
+
+---
+
+**[→ Apply at Cohere](https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068)**

@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328
 summary: Deploy Mistral AI products into production environments and contribute to open-source codebases for inference and fine-tuning.
 skills: 
-render_hash: e6f37e3c
+render_hash: cff73268
 ---
 
 # Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto
@@ -19,16 +19,13 @@ render_hash: e6f37e3c
 
 > Deploy Mistral AI products into production environments and contribute to open-source codebases for inference and fine-tuning.
 
-| Field | Value |
+**[→ Apply at Mistral](https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328)**
+
+| | |
 |---|---|
-| Company | Mistral |
 | Location | Palo Alto |
 | Remote | On-site |
 | Posted | 2026-04-15 |
-| First seen | 2026-05-12 |
-| Source | lever |
-
-[Apply](https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328)
 
 ---
 
@@ -91,3 +88,7 @@ Benefits
 🏀 Sport: $120/month reimbursement for gym membership
 🥕 Meal stipend: $400 monthly allowance for meals (solution might evolve as we grow bigger)
 🌎 Visa sponsorship
+
+---
+
+**[→ Apply at Mistral](https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328)**

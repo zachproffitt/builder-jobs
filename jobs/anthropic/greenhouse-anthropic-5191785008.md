@@ -10,7 +10,7 @@ first_seen: 2026-05-07
 url: https://job-boards.greenhouse.io/anthropic/jobs/5191785008
 summary: This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings.
 skills: 
-render_hash: 0b0ae462
+render_hash: 32875deb
 ---
 
 # Research Engineer, Safeguards Labs
@@ -19,16 +19,12 @@ render_hash: 0b0ae462
 
 > This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings.
 
-| Field | Value |
+**[→ Apply at Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5191785008)**
+
+| | |
 |---|---|
-| Company | Anthropic |
 | Location | San Francisco, CA | New York City, NY |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-07 |
-| Source | greenhouse |
-
-[Apply](https://job-boards.greenhouse.io/anthropic/jobs/5191785008)
 
 ---
 
@@ -111,3 +107,7 @@ The easiest way to understand our research directions is to read our recent rese
 Come work with us!
 
 Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage:&nbsp;Learn about&nbsp;our policy&nbsp;for using AI in our application process
+
+---
+
+**[→ Apply at Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5191785008)**

@@ -10,7 +10,7 @@ first_seen: 2026-05-10
 url: https://careers.airbnb.com/positions/7453190?gh_jid=7453190
 summary: This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs.
 skills: 
-render_hash: 0f00ebbd
+render_hash: f5f5ffda
 ---
 
 # Senior iOS Automation Engineer
@@ -19,16 +19,12 @@ render_hash: 0f00ebbd
 
 > This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs.
 
-| Field | Value |
+**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7453190?gh_jid=7453190)**
+
+| | |
 |---|---|
-| Company | Airbnb |
 | Location | Brazil - Remote |
 | Remote | Remote |
-| Posted | Unknown |
-| First seen | 2026-05-10 |
-| Source | greenhouse |
-
-[Apply](https://careers.airbnb.com/positions/7453190?gh_jid=7453190)
 
 ---
 
@@ -86,3 +82,7 @@ Airbnb is committed to working with the broadest talent pool possible. We believ
 We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.&nbsp;
 
 We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+
+---
+
+**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7453190?gh_jid=7453190)**

@@ -10,7 +10,7 @@ first_seen: 2026-05-06
 url: https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a
 summary: Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems.
 skills: 
-render_hash: f1211ece
+render_hash: d7da17af
 ---
 
 # Forward Deployed Software Engineer, Internship
@@ -19,16 +19,13 @@ render_hash: f1211ece
 
 > Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems.
 
-| Field | Value |
+**[→ Apply at Palantir](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a)**
+
+| | |
 |---|---|
-| Company | Palantir |
 | Location | Paris, France |
 | Remote | On-site |
 | Posted | 2026-05-06 |
-| First seen | 2026-05-06 |
-| Source | lever |
-
-[Apply](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a)
 
 ---
 
@@ -71,3 +68,7 @@ Conformément aux valeurs et à la culture de Palantir, nous estimons que les em
 Si vous souhaitez donner aux organisations les plus importantes au monde les moyens d’agir, votre place est ici. Palantir valorise l’excellence, d’où qu’elle vienne. Nous nous engageons à rendre le processus de candidature et d’embauche accessible à tous et offrirons des aménagements raisonnables aux personnes vivant en situation de handicap. Si vous avez besoin d’un aménagement pour le processus de candidature ou d’embauche, veuillez nous contacter et nous indiquer comment nous pouvons vous aider.
 
 Attention : il ne vous sera jamais demandé d’envoyer un paiement ou de partager des données financières pour participer à notre processus d’entretien. Si vous pensez avoir été contacté par un escroc, nous vous conseillons de cesser toute communication avec la personne et d’envisager de la signaler aux autorités compétentes, telles que l’Internet Crime Complaint Center (IC3) du FBI aux États-Unis.
+
+---
+
+**[→ Apply at Palantir](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a)**

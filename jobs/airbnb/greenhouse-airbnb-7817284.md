@@ -10,7 +10,7 @@ first_seen: 2026-05-09
 url: https://careers.airbnb.com/positions/7817284?gh_jid=7817284
 summary: The person will build services and APIs for web and mobile apps, develop data access and protection patterns, maintain cloud infrastructure for Airbnb guests in China, and collaborate on distributed service-oriented architecture. They will own systems related to engineering efficiency, data security, and cross-team product integration.
 skills: 
-render_hash: ade11e3b
+render_hash: 495a207a
 ---
 
 # Software Engineer, Guest & Host, Foundation
@@ -19,16 +19,12 @@ render_hash: ade11e3b
 
 > The person will build services and APIs for web and mobile apps, develop data access and protection patterns, maintain cloud infrastructure for Airbnb guests in China, and collaborate on distributed service-oriented architecture. They will own systems related to engineering efficiency, data security, and cross-team product integration.
 
-| Field | Value |
+**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7817284?gh_jid=7817284)**
+
+| | |
 |---|---|
-| Company | Airbnb |
 | Location | China |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-09 |
-| Source | greenhouse |
-
-[Apply](https://careers.airbnb.com/positions/7817284?gh_jid=7817284)
 
 ---
 
@@ -92,3 +88,7 @@ Possesses strong verbal and written communication skills.
 Your Location
 
 This position is China - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies.
+
+---
+
+**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7817284?gh_jid=7817284)**

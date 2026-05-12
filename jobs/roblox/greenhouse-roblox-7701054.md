@@ -10,7 +10,7 @@ first_seen: 2026-05-01
 url: https://careers.roblox.com/jobs/7701054?gh_jid=7701054
 summary: Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
 skills: 
-render_hash: 0ba5782e
+render_hash: 51aad6cd
 ---
 
 # Senior / Principal Data Scientist - Discovery
@@ -19,16 +19,12 @@ render_hash: 0ba5782e
 
 > Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
 
-| Field | Value |
+**[→ Apply at Roblox](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**
+
+| | |
 |---|---|
-| Company | Roblox |
 | Location | San Mateo, CA, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-01 |
-| Source | greenhouse |
-
-[Apply](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)
 
 ---
 
@@ -77,3 +73,7 @@ Annual Salary Range$307,430&mdash;$373,680 USDRoles that are based in an office 
 Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
 
 For US based roles only, please note the Company may not be able to employ candidates for this role who have United States work authorization related to certain U.S. visa categories, or support future H-1B sponsorship at this time.
+
+---
+
+**[→ Apply at Roblox](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**

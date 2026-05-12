@@ -15,7 +15,7 @@ positions where the person will primarily write code or build systems.
 
 _Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features._
 
-![model serving](https://img.shields.io/badge/model_serving-3B82F6?style=flat-square) ![feature pipelines](https://img.shields.io/badge/feature_pipelines-3B82F6?style=flat-square) ![online/offline evaluation](https://img.shields.io/badge/online/offline_evaluation-3B82F6?style=flat-square) ![monitoring](https://img.shields.io/badge/monitoring-3B82F6?style=flat-square) ![NLP/NLU](https://img.shields.io/badge/NLP/NLU-3B82F6?style=flat-square)
+![model serving](https://img.shields.io/badge/model_serving-3B82F6?style=flat-square) ![feature pipelines](https://img.shields.io/badge/feature_pipelines-3B82F6?style=flat-square) ![online/offline evaluation](https://img.shields.io/badge/online%2Foffline_evaluation-3B82F6?style=flat-square) ![monitoring](https://img.shields.io/badge/monitoring-3B82F6?style=flat-square) ![NLP/NLU](https://img.shields.io/badge/NLP%2FNLU-3B82F6?style=flat-square)
 
 ---
 
@@ -65,7 +65,7 @@ _Build integrations, connectors, and workflows across internal systems (CRM, bil
 
 _Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![RESTful/gRPC APIs](https://img.shields.io/badge/RESTful/gRPC_APIs-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![GCP/AWS](https://img.shields.io/badge/GCP/AWS-3B82F6?style=flat-square)
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![RESTful/gRPC APIs](https://img.shields.io/badge/RESTful%2FgRPC_APIs-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![GCP/AWS](https://img.shields.io/badge/GCP%2FAWS-3B82F6?style=flat-square)
 
 ---
 
@@ -229,7 +229,7 @@ _Define and lead the architecture of electrical subsystems for fusion machines, 
 
 _Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![JAX](https://img.shields.io/badge/JAX-3B82F6?style=flat-square) ![XLA/MLIR](https://img.shields.io/badge/XLA/MLIR-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![JAX](https://img.shields.io/badge/JAX-3B82F6?style=flat-square) ![XLA/MLIR](https://img.shields.io/badge/XLA%2FMLIR-3B82F6?style=flat-square)
 
 ---
 
@@ -279,7 +279,7 @@ _Build and maintain the infrastructure systems that enable ElevenLabs teams to o
 
 _Design and implement core client subsystems such as connection management, encrypted transport, and NAT traversal in Go._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![WireGuard](https://img.shields.io/badge/WireGuard-3B82F6?style=flat-square) ![TCP/UDP](https://img.shields.io/badge/TCP/UDP-3B82F6?style=flat-square) ![TLS](https://img.shields.io/badge/TLS-3B82F6?style=flat-square) ![concurrency](https://img.shields.io/badge/concurrency-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![WireGuard](https://img.shields.io/badge/WireGuard-3B82F6?style=flat-square) ![TCP/UDP](https://img.shields.io/badge/TCP%2FUDP-3B82F6?style=flat-square) ![TLS](https://img.shields.io/badge/TLS-3B82F6?style=flat-square) ![concurrency](https://img.shields.io/badge/concurrency-3B82F6?style=flat-square)
 
 ---
 
@@ -317,7 +317,7 @@ _Own vehicle subsystems from conceptual design through productionization, ensuri
 
 _Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![LLM APIs (OpenAI](https://img.shields.io/badge/LLM_APIs_(OpenAI-3B82F6?style=flat-square) ![Claude)](https://img.shields.io/badge/Claude)-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![search](https://img.shields.io/badge/search-3B82F6?style=flat-square) ![Confluence/Jira](https://img.shields.io/badge/Confluence/Jira-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![LLM APIs (OpenAI](https://img.shields.io/badge/LLM_APIs_%28OpenAI-3B82F6?style=flat-square) ![Claude)](https://img.shields.io/badge/Claude%29-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![search](https://img.shields.io/badge/search-3B82F6?style=flat-square) ![Confluence/Jira](https://img.shields.io/badge/Confluence%2FJira-3B82F6?style=flat-square)
 
 ---
 
@@ -520,7 +520,7 @@ _Optimize GPU-based algorithms for computer vision and deep learning in self-dri
 
 _Develop core middleware services for the software-defined vehicle platform, focusing on communication protocols and system management functions._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![SOME/IP](https://img.shields.io/badge/SOME/IP-3B82F6?style=flat-square) ![DDS](https://img.shields.io/badge/DDS-3B82F6?style=flat-square) ![Protobuf/gRPC](https://img.shields.io/badge/Protobuf/gRPC-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![SOME/IP](https://img.shields.io/badge/SOME%2FIP-3B82F6?style=flat-square) ![DDS](https://img.shields.io/badge/DDS-3B82F6?style=flat-square) ![Protobuf/gRPC](https://img.shields.io/badge/Protobuf%2FgRPC-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square)
 
 ---
 

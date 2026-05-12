@@ -10,7 +10,7 @@ first_seen: 2026-05-10
 url: https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007
 summary: Develop and maintain core computer vision libraries for UAV perception systems. Integrate classical and ML methods to solve real-world object detection and tracking challenges.
 skills: C++, Python, Linux, object detection, object tracking
-render_hash: 83e51b23
+render_hash: 97ac19aa
 ---
 
 # Senior Software Engineer, Perception
@@ -19,16 +19,12 @@ render_hash: 83e51b23
 
 > Develop and maintain core computer vision libraries for UAV perception systems. Integrate classical and ML methods to solve real-world object detection and tracking challenges.
 
-| Field | Value |
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007)**
+
+| | |
 |---|---|
-| Company | Anduril Industries |
 | Location | Costa Mesa, California, United States |
 | Remote | Not specified |
-| Posted | Unknown |
-| First seen | 2026-05-10 |
-| Source | greenhouse |
-
-[Apply](https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007)
 
 ---
 
@@ -124,3 +120,7 @@ To view Anduril's candidate data privacy policy, please visit https://anduril.co
 &nbsp;
 
 By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+
+---
+
+**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007)**

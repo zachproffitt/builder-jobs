@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a
 summary: Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform.
 skills: Python, TypeScript, React, APIs, dashboards
-render_hash: 357df5d6
+render_hash: 15a60e4f
 ---
 
 # Software Engineer, Enterprise Agents
@@ -19,16 +19,13 @@ render_hash: 357df5d6
 
 > Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform.
 
-| Field | Value |
+**[→ Apply at Mistral](https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a)**
+
+| | |
 |---|---|
-| Company | Mistral |
 | Location | Paris |
 | Remote | On-site |
 | Posted | 2025-09-16 |
-| First seen | 2026-05-12 |
-| Source | lever |
-
-[Apply](https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a)
 
 ---
 
@@ -83,3 +80,7 @@ Hiring Process
 • References
  
 By applying, you agree to our Applicant Privacy Policy.
+
+---
+
+**[→ Apply at Mistral](https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a)**

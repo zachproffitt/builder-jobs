@@ -10,7 +10,7 @@ first_seen: 2026-05-02
 url: https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1
 summary: Build and deploy automated moderation and guardrail systems to protect the platform and users across a multimodal space.
 skills: 
-render_hash: 00021291
+render_hash: 380b85a9
 ---
 
 # Safety Engineer
@@ -19,16 +19,13 @@ render_hash: 00021291
 
 > Build and deploy automated moderation and guardrail systems to protect the platform and users across a multimodal space.
 
-| Field | Value |
+**[→ Apply at ElevenLabs](https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1)**
+
+| | |
 |---|---|
-| Company | ElevenLabs |
 | Location | United Kingdom |
 | Remote | Remote |
 | Posted | 2026-04-28 |
-| First seen | 2026-05-02 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1)
 
 ---
 
@@ -124,3 +121,7 @@ LOCATION
 This role is remote and can be executed globally. If you prefer, you can work from our offices in Bangalore, Dublin, London, New York, San Francisco, Tokyo, and Warsaw.
 
 #LI-remote
+
+---
+
+**[→ Apply at ElevenLabs](https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1)**

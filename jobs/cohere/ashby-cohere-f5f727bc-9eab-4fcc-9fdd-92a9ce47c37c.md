@@ -10,7 +10,7 @@ first_seen: 2026-05-04
 url: https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
 summary: Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments.
 skills: Golang, React
-render_hash: 21bf7f5a
+render_hash: 8df38343
 ---
 
 # Full-Stack Software Engineer, Inference
@@ -19,16 +19,13 @@ render_hash: 21bf7f5a
 
 > Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments.
 
-| Field | Value |
+**[→ Apply at Cohere](https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c)**
+
+| | |
 |---|---|
-| Company | Cohere |
 | Location | Toronto |
 | Remote | Remote |
 | Posted | 2026-01-12 |
-| First seen | 2026-05-04 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c)
 
 ---
 
@@ -93,3 +90,7 @@ Full-Time Employees at Cohere enjoy these Perks:
 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend
 
 ✈️ 6 weeks of vacation (30 working days!)
+
+---
+
+**[→ Apply at Cohere](https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c)**

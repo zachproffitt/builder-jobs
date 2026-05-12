@@ -10,7 +10,7 @@ first_seen: 2026-05-11
 url: https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c
 summary: Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production.
 skills: CAD, prototyping, testing, production, electromechanical systems
-render_hash: 42fb10e9
+render_hash: 699f0a27
 ---
 
 # Staff Mechanical Design Engineer
@@ -19,16 +19,13 @@ render_hash: 42fb10e9
 
 > Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production.
 
-| Field | Value |
+**[→ Apply at EightSleep](https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c)**
+
+| | |
 |---|---|
-| Company | EightSleep |
 | Location | San Francisco |
 | Remote | Not specified |
 | Posted | 2026-05-06 |
-| First seen | 2026-05-11 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c)
 
 ---
 
@@ -116,3 +113,7 @@ Every Eight Sleep employee receives the very product that defines our mission: a
  - Paid parental leave
 
 At Eight Sleep we continually celebrate the diverse community different individuals cultivate. As an equal opportunity employer, we stay true to our values by ensuring everyone feels they can flourish and grow. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+---
+
+**[→ Apply at EightSleep](https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c)**

@@ -10,7 +10,7 @@ first_seen: 2026-05-09
 url: https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2
 summary: Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals.
 skills: 
-render_hash: d66a5a35
+render_hash: 8a2bc2c2
 ---
 
 # Senior Electrical Systems Engineer
@@ -19,16 +19,13 @@ render_hash: d66a5a35
 
 > Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals.
 
-| Field | Value |
+**[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2)**
+
+| | |
 |---|---|
-| Company | Helion Energy |
 | Location | Everett, WA |
 | Remote | On-site |
 | Posted | 2025-12-19 |
-| First seen | 2026-05-09 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2)
 
 ---
 
@@ -118,3 +115,7 @@ Our total compensation package includes benefits, including but not limited to:
 • Annual wellness stipend
 
 Helion is an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need assistance or an accommodation during the interview process, please let us know.
+
+---
+
+**[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2)**

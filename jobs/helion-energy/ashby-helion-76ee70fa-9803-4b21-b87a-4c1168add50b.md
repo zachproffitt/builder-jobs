@@ -10,7 +10,7 @@ first_seen: 2026-04-28
 url: https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b
 summary: Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics.
 skills: 
-render_hash: ff5e04c0
+render_hash: e23b6cba
 ---
 
 # Senior Engineering Technician, Operations Support
@@ -19,16 +19,13 @@ render_hash: ff5e04c0
 
 > Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics.
 
-| Field | Value |
+**[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b)**
+
+| | |
 |---|---|
-| Company | Helion Energy |
 | Location | Everett, WA |
 | Remote | On-site |
 | Posted | 2025-06-07 |
-| First seen | 2026-04-28 |
-| Source | ashby |
-
-[Apply](https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b)
 
 ---
 
@@ -121,3 +118,7 @@ Our total compensation package includes benefits, including but not limited to:
 • Annual wellness stipend
 
 Helion is an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need assistance or an accommodation during the interview process, please let us know.
+
+---
+
+**[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b)**
