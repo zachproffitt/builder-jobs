@@ -8,6 +8,21 @@ positions where the person will primarily write code or build systems.
 
 ---
 
+## Style preview — ignore this section
+
+### [MTS - Firmware](jobs/etched/ashby-Etched-a735c757-7d39-47de-9329-77d6362b5547.md)
+**Etched** · San Francisco, CA · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square) ← flat-square
+
+**Etched** · San Francisco, CA · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=for-the-badge) ← for-the-badge
+
+> Builds firmware for AI inference ASICs — low-level drivers, PCIe/I2C/SPI, hardware-software co-development.
+
+flat-square skills: ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Firmware](https://img.shields.io/badge/Firmware-3B82F6?style=flat-square) ![PCIe](https://img.shields.io/badge/PCIe-3B82F6?style=flat-square) ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-3B82F6?style=flat-square)
+
+for-the-badge skills: ![C](https://img.shields.io/badge/C-3B82F6?style=for-the-badge) ![Firmware](https://img.shields.io/badge/Firmware-3B82F6?style=for-the-badge) ![PCIe](https://img.shields.io/badge/PCIe-3B82F6?style=for-the-badge) ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-3B82F6?style=for-the-badge)
+
+---
+
 ## May 12, 2026
 
 ### [MTS - Firmware](jobs/etched/ashby-Etched-a735c757-7d39-47de-9329-77d6362b5547.md)
