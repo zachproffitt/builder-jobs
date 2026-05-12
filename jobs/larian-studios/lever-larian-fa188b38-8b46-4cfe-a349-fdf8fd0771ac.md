@@ -10,7 +10,7 @@ first_seen: 2026-05-01
 url: https://jobs.lever.co/larian/fa188b38-8b46-4cfe-a349-fdf8fd0771ac
 summary: 
 skills: 
-render_hash: 60129e05
+render_hash: d5ce8491
 -->
 
 # Lead Infrastructure Engineer
@@ -18,6 +18,8 @@ render_hash: 60129e05
 **Larian Studios** · Warsaw · On-site · Posted 2025-02-17
 
 > Larian Studios develops role-playing games and builds web platforms for their games.
+
+<sub>Posted February 17, 2025</sub>
 
 **[→ Apply](https://jobs.lever.co/larian/fa188b38-8b46-4cfe-a349-fdf8fd0771ac)**
 

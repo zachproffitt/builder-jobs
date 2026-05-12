@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/loftorbital/6a588112-01a4-425b-8ec8-90a57866a0df
 summary: Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution.
 skills: 
-render_hash: 3a593312
+render_hash: 0e0fddcc
 -->
 
 # Customer Delivery Engineer
@@ -20,6 +20,8 @@ render_hash: 3a593312
 > Loft Orbital builds spacecraft hardware and backend systems for satellite data management and mission control.
 
 _Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution._
+
+<sub>Posted February 27, 2026</sub>
 
 **[→ Apply](https://jobs.lever.co/loftorbital/6a588112-01a4-425b-8ec8-90a57866a0df)**
 

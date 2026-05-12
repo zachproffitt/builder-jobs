@@ -10,7 +10,7 @@ first_seen: 2026-05-11
 url: https://job-boards.greenhouse.io/astranis/jobs/4622097006
 summary: Design and build high-performance services for autonomous satellite control and real-time telemetry monitoring.
 skills: Python, Postgres, RabbitMQ, Flink, Kubernetes
-render_hash: 84f442a6
+render_hash: afa76b59
 -->
 
 # Software Engineer - Backend (Platform)
@@ -22,6 +22,8 @@ render_hash: 84f442a6
 _Design and build high-performance services for autonomous satellite control and real-time telemetry monitoring._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3B82F6?style=flat-square) ![Flink](https://img.shields.io/badge/Flink-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>First seen May 11, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/astranis/jobs/4622097006)**
 

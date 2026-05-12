@@ -10,7 +10,7 @@ first_seen: 2026-05-10
 url: https://wayve.firststage.co/jobs?gh_jid=8545427002
 summary: Develop and implement high-fidelity simulation components for autonomous driving systems, integrating machine-learned graphics and robotics subsystems.
 skills: C++, Python, NeRF, Gaussian Splatting, GenAI
-render_hash: cc07eae3
+render_hash: 0cab2ca9
 -->
 
 # Senior Software Engineer, Simulation 
@@ -20,6 +20,8 @@ render_hash: cc07eae3
 _Develop and implement high-fidelity simulation components for autonomous driving systems, integrating machine-learned graphics and robotics subsystems._
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![NeRF](https://img.shields.io/badge/NeRF-3B82F6?style=flat-square) ![Gaussian Splatting](https://img.shields.io/badge/Gaussian_Splatting-3B82F6?style=flat-square) ![GenAI](https://img.shields.io/badge/GenAI-3B82F6?style=flat-square)
+
+<sub>First seen May 10, 2026</sub>
 
 **[→ Apply](https://wayve.firststage.co/jobs?gh_jid=8545427002)**
 

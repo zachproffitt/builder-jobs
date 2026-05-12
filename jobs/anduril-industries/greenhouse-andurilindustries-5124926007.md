@@ -10,7 +10,7 @@ first_seen: 2026-05-10
 url: https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007
 summary: Develop and maintain core computer vision libraries for UAV perception systems. Integrate classical and ML methods to solve real-world object detection and tracking challenges.
 skills: C++, Python, Linux, object detection, object tracking
-render_hash: 63caa6c8
+render_hash: f0777c5c
 -->
 
 # Senior Software Engineer, Perception
@@ -22,6 +22,8 @@ render_hash: 63caa6c8
 _Develop and maintain core computer vision libraries for UAV perception systems. Integrate classical and ML methods to solve real-world object detection and tracking challenges._
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![object detection](https://img.shields.io/badge/object_detection-3B82F6?style=flat-square) ![object tracking](https://img.shields.io/badge/object_tracking-3B82F6?style=flat-square)
+
+<sub>First seen May 10, 2026</sub>
 
 **[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007)**
 

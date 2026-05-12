@@ -10,7 +10,7 @@ first_seen: 2026-05-04
 url: https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4740890101
 summary: Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams.
 skills: Siemens NX, Solidworks, PLM systems, EBOM, ICD frameworks
-render_hash: d6916965
+render_hash: a7e99210
 -->
 
 # Senior Design Engineer, Integrated Spectrum Design (m/f/d)
@@ -20,6 +20,8 @@ render_hash: d6916965
 _Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams._
 
 ![Siemens NX](https://img.shields.io/badge/Siemens_NX-3B82F6?style=flat-square) ![Solidworks](https://img.shields.io/badge/Solidworks-3B82F6?style=flat-square) ![PLM systems](https://img.shields.io/badge/PLM_systems-3B82F6?style=flat-square) ![EBOM](https://img.shields.io/badge/EBOM-3B82F6?style=flat-square) ![ICD frameworks](https://img.shields.io/badge/ICD_frameworks-3B82F6?style=flat-square)
+
+<sub>First seen May 4, 2026</sub>
 
 **[→ Apply](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4740890101)**
 

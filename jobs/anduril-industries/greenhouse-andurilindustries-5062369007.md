@@ -10,7 +10,7 @@ first_seen: 2026-05-05
 url: https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007
 summary: Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems.
 skills: 
-render_hash: 021cd34c
+render_hash: 22d21edf
 -->
 
 # Deputy Chief Engineer, Autonomous Airpower
@@ -20,6 +20,8 @@ render_hash: 021cd34c
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
 _Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems._
+
+<sub>First seen May 5, 2026</sub>
 
 **[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)**
 

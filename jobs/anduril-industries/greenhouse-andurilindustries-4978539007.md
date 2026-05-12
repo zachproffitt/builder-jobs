@@ -10,7 +10,7 @@ first_seen: 2026-05-09
 url: https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007
 summary: Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms.
 skills: 
-render_hash: 2f39ae3b
+render_hash: 1ed27f8f
 -->
 
 # Vehicle Systems Architect 
@@ -20,6 +20,8 @@ render_hash: 2f39ae3b
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
 _Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms._
+
+<sub>First seen May 9, 2026</sub>
 
 **[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007)**
 

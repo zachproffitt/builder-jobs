@@ -10,7 +10,7 @@ first_seen: 2026-04-28
 url: https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761
 summary: Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration.
 skills: Python, TypeScript, React, NodeJS, NextJS
-render_hash: 96e72aa9
+render_hash: 8aaa9766
 -->
 
 # Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore
@@ -22,6 +22,8 @@ render_hash: 96e72aa9
 _Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NodeJS](https://img.shields.io/badge/NodeJS-3B82F6?style=flat-square) ![NextJS](https://img.shields.io/badge/NextJS-3B82F6?style=flat-square)
+
+<sub>Posted March 9, 2026</sub>
 
 **[→ Apply](https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761)**
 

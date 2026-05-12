@@ -10,7 +10,7 @@ first_seen: 2026-05-06
 url: https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a
 summary: Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems.
 skills: 
-render_hash: a74f32c9
+render_hash: 39350d40
 -->
 
 # Forward Deployed Software Engineer, Internship
@@ -20,6 +20,8 @@ render_hash: a74f32c9
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
 _Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems._
+
+<sub>Posted May 6, 2026</sub>
 
 **[→ Apply](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a)**
 

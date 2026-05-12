@@ -10,7 +10,7 @@ first_seen: 2026-05-11
 url: https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c
 summary: Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production.
 skills: CAD, prototyping, testing, production, electromechanical systems
-render_hash: 05088075
+render_hash: b6921021
 -->
 
 # Staff Mechanical Design Engineer
@@ -22,6 +22,8 @@ render_hash: 05088075
 _Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production._
 
 ![CAD](https://img.shields.io/badge/CAD-3B82F6?style=flat-square) ![prototyping](https://img.shields.io/badge/prototyping-3B82F6?style=flat-square) ![testing](https://img.shields.io/badge/testing-3B82F6?style=flat-square) ![production](https://img.shields.io/badge/production-3B82F6?style=flat-square) ![electromechanical systems](https://img.shields.io/badge/electromechanical_systems-3B82F6?style=flat-square)
+
+<sub>Posted May 6, 2026</sub>
 
 **[→ Apply](https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c)**
 

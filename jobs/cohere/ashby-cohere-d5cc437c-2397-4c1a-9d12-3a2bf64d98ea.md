@@ -10,7 +10,7 @@ first_seen: 2026-05-08
 url: https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea
 summary: Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure.
 skills: Python, PyTorch, TensorFlow, JAX, XLA/MLIR
-render_hash: f8bad306
+render_hash: 43ec3a77
 -->
 
 # Member of Technical Staff, Search
@@ -22,6 +22,8 @@ render_hash: f8bad306
 _Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![JAX](https://img.shields.io/badge/JAX-3B82F6?style=flat-square) ![XLA/MLIR](https://img.shields.io/badge/XLA%2FMLIR-3B82F6?style=flat-square)
+
+<sub>Posted May 23, 2025</sub>
 
 **[→ Apply](https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea)**
 

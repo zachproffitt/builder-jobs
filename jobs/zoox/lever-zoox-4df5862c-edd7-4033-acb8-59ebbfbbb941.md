@@ -10,7 +10,7 @@ first_seen: 2026-05-08
 url: https://jobs.lever.co/zoox/4df5862c-edd7-4033-acb8-59ebbfbbb941
 summary: Design and integrate ML models for semantic map elements in autonomous vehicles.
 skills: 
-render_hash: e694ce17
+render_hash: bbb61a5e
 -->
 
 # Senior Machine Learning Engineer - Perception Mapping
@@ -20,6 +20,8 @@ render_hash: e694ce17
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
 
 _Design and integrate ML models for semantic map elements in autonomous vehicles._
+
+<sub>Posted December 4, 2025</sub>
 
 **[→ Apply](https://jobs.lever.co/zoox/4df5862c-edd7-4033-acb8-59ebbfbbb941)**
 

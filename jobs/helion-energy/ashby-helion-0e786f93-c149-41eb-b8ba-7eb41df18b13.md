@@ -10,7 +10,7 @@ first_seen: 2026-05-05
 url: https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13
 summary: Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems.
 skills: Python, LLM APIs (OpenAI, Claude), RAG, search, Confluence/Jira
-render_hash: 721319ab
+render_hash: e629453d
 -->
 
 # Applied AI Engineer – Fusion Systems
@@ -22,6 +22,8 @@ render_hash: 721319ab
 _Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![LLM APIs (OpenAI](https://img.shields.io/badge/LLM_APIs_%28OpenAI-3B82F6?style=flat-square) ![Claude)](https://img.shields.io/badge/Claude%29-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![search](https://img.shields.io/badge/search-3B82F6?style=flat-square) ![Confluence/Jira](https://img.shields.io/badge/Confluence%2FJira-3B82F6?style=flat-square)
+
+<sub>Posted May 5, 2026</sub>
 
 **[→ Apply](https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13)**
 

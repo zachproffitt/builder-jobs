@@ -10,7 +10,7 @@ first_seen: 2026-04-30
 url: https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068
 summary: Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services.
 skills: Go, Python, Kubernetes, Docker, OpenSearch
-render_hash: 3628c000
+render_hash: 8f038efc
 -->
 
 # Software Engineer, Search Applications
@@ -22,6 +22,8 @@ render_hash: 3628c000
 _Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services._
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![OpenSearch](https://img.shields.io/badge/OpenSearch-3B82F6?style=flat-square)
+
+<sub>Posted November 10, 2025</sub>
 
 **[→ Apply](https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068)**
 

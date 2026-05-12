@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://job-boards.greenhouse.io/oklo/jobs/5983994004
 summary: Design and implement instrumentation control systems, including PLC/SCADA, dashboards, and network topology for fuel recycling facilities.
 skills: PLC, SCADA, network topology
-render_hash: 634f8753
+render_hash: 08760258
 -->
 
 # Instrumentation and Control Engineer - Fuel Recycling
@@ -20,6 +20,8 @@ render_hash: 634f8753
 _Design and implement instrumentation control systems, including PLC/SCADA, dashboards, and network topology for fuel recycling facilities._
 
 ![PLC](https://img.shields.io/badge/PLC-3B82F6?style=flat-square) ![SCADA](https://img.shields.io/badge/SCADA-3B82F6?style=flat-square) ![network topology](https://img.shields.io/badge/network_topology-3B82F6?style=flat-square)
+
+<sub>First seen May 12, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/oklo/jobs/5983994004)**
 

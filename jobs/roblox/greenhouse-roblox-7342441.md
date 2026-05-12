@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://careers.roblox.com/jobs/7342441?gh_jid=7342441
 summary: Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches.
 skills: Knowledge Graphs, Vector Databases, RAG systems, Ground Truth Data labeling, evaluation frameworks
-render_hash: a169df03
+render_hash: 521f62cc
 -->
 
 # Senior AI Platform Engineer - Agentic Systems
@@ -22,6 +22,8 @@ render_hash: a169df03
 _Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches._
 
 ![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-3B82F6?style=flat-square) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-3B82F6?style=flat-square) ![RAG systems](https://img.shields.io/badge/RAG_systems-3B82F6?style=flat-square) ![Ground Truth Data labeling](https://img.shields.io/badge/Ground_Truth_Data_labeling-3B82F6?style=flat-square) ![evaluation frameworks](https://img.shields.io/badge/evaluation_frameworks-3B82F6?style=flat-square)
+
+<sub>First seen May 12, 2026</sub>
 
 **[→ Apply](https://careers.roblox.com/jobs/7342441?gh_jid=7342441)**
 

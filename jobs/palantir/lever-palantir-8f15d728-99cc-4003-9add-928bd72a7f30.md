@@ -10,7 +10,7 @@ first_seen: 2026-04-30
 url: https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30
 summary: Design and implement custom web applications to solve customer problems. Build end-to-end solutions for high-stakes data-driven projects.
 skills: 
-render_hash: 8d2470ff
+render_hash: 84244e54
 -->
 
 # Forward Deployed Software Engineer - AUS Government
@@ -20,6 +20,8 @@ render_hash: 8d2470ff
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
 _Design and implement custom web applications to solve customer problems. Build end-to-end solutions for high-stakes data-driven projects._
+
+<sub>Posted September 4, 2024</sub>
 
 **[→ Apply](https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30)**
 

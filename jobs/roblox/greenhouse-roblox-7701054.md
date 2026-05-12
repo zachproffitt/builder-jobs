@@ -10,7 +10,7 @@ first_seen: 2026-05-01
 url: https://careers.roblox.com/jobs/7701054?gh_jid=7701054
 summary: Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
 skills: 
-render_hash: 1aa4e526
+render_hash: 09d86952
 -->
 
 # Senior / Principal Data Scientist - Discovery
@@ -20,6 +20,8 @@ render_hash: 1aa4e526
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 
 _Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives._
+
+<sub>First seen May 1, 2026</sub>
 
 **[→ Apply](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**
 

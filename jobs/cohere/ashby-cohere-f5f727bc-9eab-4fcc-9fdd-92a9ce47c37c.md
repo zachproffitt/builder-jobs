@@ -10,7 +10,7 @@ first_seen: 2026-05-04
 url: https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
 summary: Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments.
 skills: Golang, React
-render_hash: 10515a99
+render_hash: 69333d9c
 -->
 
 # Full-Stack Software Engineer, Inference
@@ -22,6 +22,8 @@ render_hash: 10515a99
 _Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments._
 
 ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square)
+
+<sub>Posted January 12, 2026</sub>
 
 **[→ Apply](https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c)**
 

@@ -10,7 +10,7 @@ first_seen: 2026-04-30
 url: https://jobs.lever.co/zoox/9abd3543-0d46-4fd8-882c-2fe93d75a51b
 summary: Optimize GPU-based algorithms for computer vision and deep learning in self-driving systems. Influence compute platform design and resource allocation.
 skills: 
-render_hash: b66f572e
+render_hash: c0ccc3af
 -->
 
 # Software Engineer - Core Sensors
@@ -20,6 +20,8 @@ render_hash: b66f572e
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
 
 _Optimize GPU-based algorithms for computer vision and deep learning in self-driving systems. Influence compute platform design and resource allocation._
+
+<sub>Posted April 17, 2026</sub>
 
 **[→ Apply](https://jobs.lever.co/zoox/9abd3543-0d46-4fd8-882c-2fe93d75a51b)**
 
