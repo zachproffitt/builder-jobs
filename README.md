@@ -1,7 +1,13 @@
-# Engineering Jobs
+# Builder Jobs
 
-Builder-focused engineering job board. Updated daily.
-**15 open roles** across 1 days.
+A job board for engineers who build things — software, hardware, firmware, ML systems.
+Roles are scraped daily from company career pages and filtered by an LLM to keep only
+positions where the person will primarily write code or build systems.
+No sales engineers, TPMs, or analyst roles.
+
+**15 open roles** · updated daily
+
+---
 
 ## 2026-05-12
 
