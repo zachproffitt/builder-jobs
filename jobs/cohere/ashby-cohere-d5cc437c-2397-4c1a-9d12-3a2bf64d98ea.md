@@ -10,12 +10,14 @@ first_seen: 2026-05-08
 url: https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea
 summary: Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure.
 skills: Python, PyTorch, TensorFlow, JAX, XLA/MLIR
-render_hash: 43ec3a77
+level: 
+render_hash: 5580655e
 -->
 
 # Member of Technical Staff, Search
 
-**Cohere** · United States · `Remote` · Posted 2025-05-23
+**Cohere**  
+United States · `Remote`
 
 > Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.
 

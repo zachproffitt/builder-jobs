@@ -10,12 +10,14 @@ first_seen: 2026-05-10
 url: https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007
 summary: Develop and maintain core computer vision libraries for UAV perception systems. Integrate classical and ML methods to solve real-world object detection and tracking challenges.
 skills: C++, Python, Linux, object detection, object tracking
-render_hash: f0777c5c
+level: 
+render_hash: f6cc65e7
 -->
 
 # Senior Software Engineer, Perception
 
-**Anduril Industries** · Costa Mesa, California, United States
+**Anduril Industries**  
+Costa Mesa, California, United States
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

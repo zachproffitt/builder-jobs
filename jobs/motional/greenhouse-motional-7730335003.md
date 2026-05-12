@@ -10,12 +10,14 @@ first_seen: 2026-05-04
 url: https://motional.com/open-positions/?gh_jid=7730335003#/7730335003
 summary: Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters.
 skills: 
-render_hash: 5066740c
+level: 
+render_hash: b8473dbe
 -->
 
 # Staff Machine Learning Engineer
 
-**Motional** · Pittsburgh, Pennsylvania, United States
+**Motional**  
+Pittsburgh, Pennsylvania, United States
 
 > Motional develops and deploys autonomous vehicles and driverless technology.
 

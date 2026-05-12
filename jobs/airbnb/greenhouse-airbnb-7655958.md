@@ -10,12 +10,14 @@ first_seen: 2026-05-12
 url: https://careers.airbnb.com/positions/7655958?gh_jid=7655958
 summary: Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features.
 skills: model serving, feature pipelines, online/offline evaluation, monitoring, NLP/NLU
-render_hash: 603eeded
+level: 
+render_hash: 4050d8c8
 -->
 
 # Staff Software Engineer, Communication Products
 
-**Airbnb** · Remote - USA · `Remote`
+**Airbnb**  
+USA · `Remote`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 

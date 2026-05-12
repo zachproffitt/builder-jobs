@@ -10,12 +10,14 @@ first_seen: 2026-04-28
 url: https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d
 summary: Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators.
 skills: 
-render_hash: ccdaadad
+level: 
+render_hash: 0df50116
 -->
 
 # Staff Software Engineer, AI & Developer Tooling
 
-**Scribd** · New York City · `Remote` · Posted 2026-04-20
+**Scribd**  
+New York City · `Remote`
 
 > Scribd builds platforms for accessing and sharing documents and specialized knowledge, including Scribd, Slideshare, Everand, and Fable.
 

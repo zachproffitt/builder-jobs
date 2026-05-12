@@ -10,12 +10,14 @@ first_seen: 2026-04-28
 url: https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b
 summary: Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics.
 skills: 
-render_hash: 9228a7d5
+level: 
+render_hash: bb1accb6
 -->
 
 # Senior Engineering Technician, Operations Support
 
-**Helion Energy** · Everett, WA · On-site · Posted 2025-06-07
+**Helion Energy**  
+Everett, WA · On-site
 
 > Helion Energy builds fusion power plants, with prototype Trenta achieving 100 million degree plasma temperatures.
 

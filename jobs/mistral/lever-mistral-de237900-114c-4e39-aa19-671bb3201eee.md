@@ -10,12 +10,14 @@ first_seen: 2026-04-28
 url: https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee
 summary: Build full-stack AI applications and GenAI interfaces tailored for critical infrastructure and sovereign institutions. Develop APIs, dashboards, and workflow tools for secure, compliant deployment.
 skills: 
-render_hash: 7c136757
+level: 
+render_hash: f441309e
 -->
 
 # Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris
 
-**Mistral** · Paris · On-site · Posted 2026-05-05
+**Mistral**  
+Paris · On-site
 
 > Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology.
 

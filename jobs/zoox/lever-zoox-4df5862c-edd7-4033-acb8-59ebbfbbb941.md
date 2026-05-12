@@ -10,12 +10,14 @@ first_seen: 2026-05-08
 url: https://jobs.lever.co/zoox/4df5862c-edd7-4033-acb8-59ebbfbbb941
 summary: Design and integrate ML models for semantic map elements in autonomous vehicles.
 skills: 
-render_hash: bbb61a5e
+level: 
+render_hash: f96cff5e
 -->
 
 # Senior Machine Learning Engineer - Perception Mapping
 
-**Zoox** · Foster City, CA · On-site · Posted 2025-12-04
+**Zoox**  
+Foster City, CA · On-site
 
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
 

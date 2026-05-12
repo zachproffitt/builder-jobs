@@ -10,12 +10,14 @@ first_seen: 2026-04-30
 url: https://jobs.lever.co/zoox/9abd3543-0d46-4fd8-882c-2fe93d75a51b
 summary: Optimize GPU-based algorithms for computer vision and deep learning in self-driving systems. Influence compute platform design and resource allocation.
 skills: 
-render_hash: c0ccc3af
+level: 
+render_hash: bda6de73
 -->
 
 # Software Engineer - Core Sensors
 
-**Zoox** · Foster City, CA · On-site · Posted 2026-04-17
+**Zoox**  
+Foster City, CA · On-site
 
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
 

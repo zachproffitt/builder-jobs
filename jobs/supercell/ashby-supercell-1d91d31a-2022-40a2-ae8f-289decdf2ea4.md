@@ -10,12 +10,14 @@ first_seen: 2026-05-02
 url: https://jobs.ashbyhq.com/supercell/1d91d31a-2022-40a2-ae8f-289decdf2ea4
 summary: Design and build a scalable, highly available, and secure platform for Supercell ID, including account safety, identity systems, and cross-game infrastructure.
 skills: Java, DynamoDB, AWS, Terraform, AI-assisted development tools
-render_hash: 35e2a3f5
+level: 
+render_hash: 94b3e9b1
 -->
 
 # Senior Software Engineer, Supercell ID
 
-**Supercell** · Helsinki · `Remote` · Posted 2026-03-04
+**Supercell**  
+Helsinki · `Remote`
 
 > Supercell develops mobile games like Clash of Clans and Clash Royale using the Titan engine.
 

@@ -10,12 +10,14 @@ first_seen: 2026-05-02
 url: https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1
 summary: Build and deploy automated moderation and guardrail systems to protect the platform and users across a multimodal space.
 skills: 
-render_hash: 869cdb03
+level: 
+render_hash: e9346d3f
 -->
 
 # Safety Engineer
 
-**ElevenLabs** · United Kingdom · `Remote` · Posted 2026-04-28
+**ElevenLabs**  
+United Kingdom · `Remote`
 
 > ElevenLabs builds AI voice models and the ElevenAgent platform used by businesses and developers.
 

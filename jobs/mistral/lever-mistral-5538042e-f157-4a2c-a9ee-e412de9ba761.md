@@ -10,12 +10,14 @@ first_seen: 2026-04-28
 url: https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761
 summary: Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration.
 skills: Python, TypeScript, React, NodeJS, NextJS
-render_hash: 8aaa9766
+level: 
+render_hash: 636af25d
 -->
 
 # Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore
 
-**Mistral** · Singapore · On-site · Posted 2026-03-09
+**Mistral**  
+Singapore · On-site
 
 > Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology.
 

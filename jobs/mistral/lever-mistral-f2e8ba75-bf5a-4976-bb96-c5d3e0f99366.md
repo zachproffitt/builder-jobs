@@ -10,12 +10,14 @@ first_seen: 2026-04-30
 url: https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366
 summary: Develop scalable backend systems and APIs for AI Studio, Le Chat, and Mistral Code. Design and implement distributed systems for inference, billing, and observability.
 skills: 
-render_hash: 285cdd59
+level: 
+render_hash: 5894ec52
 -->
 
 # Software Engineer, Backend (New-York)
 
-**Mistral** · New York, NY · On-site · Posted 2026-01-14
+**Mistral**  
+New York, NY · On-site
 
 > Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology.
 

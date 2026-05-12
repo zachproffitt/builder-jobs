@@ -10,12 +10,14 @@ first_seen: 2026-04-29
 url: https://jobs.lever.co/larian/3fc7173f-bd7f-4cd8-93cb-f3022d43d892
 summary: Develop and maintain internal tools for game development.
 skills: 
-render_hash: dd81548c
+level: 
+render_hash: 64c5daf1
 -->
 
 # Senior Tools Programmer
 
-**Larian Studios** · Warsaw · On-site · Posted 2025-12-16
+**Larian Studios**  
+Warsaw · On-site
 
 > Larian Studios develops role-playing games and builds web platforms for their games.
 

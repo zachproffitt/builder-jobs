@@ -11,7 +11,7 @@ positions where the person will primarily write code.
 ## May 12, 2026
 
 ### [Staff Software Engineer, Communication Products](jobs/airbnb/greenhouse-airbnb-7655958.md)
-**Airbnb** · Remote - USA · `Remote`
+**Airbnb** · USA · `Remote`
 
 _Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features._
 
@@ -164,7 +164,7 @@ _This person will build a next-gen Agent RL training platform and integrate cutt
 ## May 10, 2026
 
 ### [Senior iOS Automation Engineer](jobs/airbnb/greenhouse-airbnb-7453190.md)
-**Airbnb** · Brazil - Remote · `Remote`
+**Airbnb** · Brazil · `Remote` · `Senior`
 
 _This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs._
 
@@ -338,7 +338,7 @@ _Design and maintain geospatial data pipelines and systems for AtomEngine's simu
 ---
 
 ### [Backend Engineer, Core Tech, Canada](jobs/stripe/greenhouse-stripe-6567253.md)
-**Stripe** · Toronto, CAN-Remote · `Remote`
+**Stripe** · Toronto, CAN · `Remote`
 
 _The person will build foundational infrastructure systems such as Compute, Networking, DocumentDB, and Distributed Caching, ensuring reliability, scalability, and performance for Stripe's products and services._
 

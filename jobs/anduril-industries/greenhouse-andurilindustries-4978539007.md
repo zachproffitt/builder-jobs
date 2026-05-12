@@ -10,12 +10,14 @@ first_seen: 2026-05-09
 url: https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007
 summary: Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms.
 skills: 
-render_hash: 1ed27f8f
+level: 
+render_hash: dac4f0ef
 -->
 
 # Vehicle Systems Architect 
 
-**Anduril Industries** · Costa Mesa, California, United States
+**Anduril Industries**  
+Costa Mesa, California, United States
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

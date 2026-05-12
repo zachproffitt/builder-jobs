@@ -10,12 +10,14 @@ first_seen: 2026-05-04
 url: https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007
 summary: Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments.
 skills: FANUC, UR, RoboDK, FANUC ROBOGUIDE, Delmia
-render_hash: abc8aeb8
+level: 
+render_hash: ef2bb619
 -->
 
 # Senior Robotics Engineer, Manufacturing Automation 
 
-**Anduril Industries** · Costa Mesa, California, United States
+**Anduril Industries**  
+Costa Mesa, California, United States
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
