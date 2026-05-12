@@ -11,9 +11,11 @@ positions where the person will primarily write code or build systems.
 ## Style preview — ignore this section
 
 ### [MTS - Firmware](jobs/etched/ashby-Etched-a735c757-7d39-47de-9329-77d6362b5547.md)
-**Etched** · San Francisco, CA · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square) ← flat-square
+**Etched** · San Francisco, CA · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square) ← flat-square badge
 
-**Etched** · San Francisco, CA · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=for-the-badge) ← for-the-badge
+**Etched** · San Francisco, CA · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=for-the-badge) ← for-the-badge badge
+
+**Etched** · San Francisco, CA · **`Remote`** ← inline code
 
 > Builds firmware for AI inference ASICs — low-level drivers, PCIe/I2C/SPI, hardware-software co-development.
 
