@@ -10,18 +10,18 @@ first_seen: 2026-05-05
 url: https://jobs.lever.co/larian/828b8b15-a5be-40c1-9530-a45b7c581b8b
 summary: Develop and optimize rendering systems, visual effects, and graphical features for immersive worlds. Collaborate with core teams on performance improvements and cutting-edge graphics technologies.
 skills: 
-render_hash: 7762c13a
+render_hash: bd3a7075
 -->
 
 # Graphics Programmer – Open Application | Programmeur graphique - candidature libre
 
 **Larian Studios** · Any · On-site · Posted 2025-05-15
 
-_Larian Studios develops role-playing games and builds web platforms for their games._
+> Larian Studios develops role-playing games and builds web platforms for their games.
 
 _Develop and optimize rendering systems, visual effects, and graphical features for immersive worlds. Collaborate with core teams on performance improvements and cutting-edge graphics technologies._
 
-**[→ Apply at Larian Studios](https://jobs.lever.co/larian/828b8b15-a5be-40c1-9530-a45b7c581b8b)**
+**[→ Apply](https://jobs.lever.co/larian/828b8b15-a5be-40c1-9530-a45b7c581b8b)**
 
 ---
 
@@ -53,4 +53,4 @@ Merci de l'intérêt que vous portez à Larian. Nous espérons avoir la possibil
 
 ---
 
-**[→ Apply at Larian Studios](https://jobs.lever.co/larian/828b8b15-a5be-40c1-9530-a45b7c581b8b)**
+**[→ Apply](https://jobs.lever.co/larian/828b8b15-a5be-40c1-9530-a45b7c581b8b)**

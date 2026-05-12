@@ -10,20 +10,20 @@ first_seen: 2026-05-12
 url: https://careers.airbnb.com/positions/7655958?gh_jid=7655958
 summary: Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features.
 skills: model serving, feature pipelines, online/offline evaluation, monitoring, NLP/NLU
-render_hash: 155f14a4
+render_hash: 297f66d7
 -->
 
 # Staff Software Engineer, Communication Products
 
 **Airbnb** · Remote - USA · `Remote`
 
-_Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries._
+> Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 
 _Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features._
 
 ![model serving](https://img.shields.io/badge/model_serving-3B82F6?style=flat-square) ![feature pipelines](https://img.shields.io/badge/feature_pipelines-3B82F6?style=flat-square) ![online/offline evaluation](https://img.shields.io/badge/online%2Foffline_evaluation-3B82F6?style=flat-square) ![monitoring](https://img.shields.io/badge/monitoring-3B82F6?style=flat-square) ![NLP/NLU](https://img.shields.io/badge/NLP%2FNLU-3B82F6?style=flat-square)
 
-**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7655958?gh_jid=7655958)**
+**[→ Apply](https://careers.airbnb.com/positions/7655958?gh_jid=7655958)**
 
 ---
 
@@ -94,4 +94,4 @@ Pay Range$204,000&mdash;$255,000 USD
 
 ---
 
-**[→ Apply at Airbnb](https://careers.airbnb.com/positions/7655958?gh_jid=7655958)**
+**[→ Apply](https://careers.airbnb.com/positions/7655958?gh_jid=7655958)**

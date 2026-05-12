@@ -10,18 +10,18 @@ first_seen: 2026-05-05
 url: https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007
 summary: Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems.
 skills: 
-render_hash: 77953ff5
+render_hash: 021cd34c
 -->
 
 # Deputy Chief Engineer, Autonomous Airpower
 
 **Anduril Industries** · Costa Mesa, California, United States
 
-_Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering._
+> Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
 _Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems._
 
-**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)**
+**[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)**
 
 ---
 
@@ -116,4 +116,4 @@ By submitting your application, you consent to Anduril Industries using a third-
 
 ---
 
-**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)**
+**[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007)**

@@ -10,7 +10,7 @@ first_seen: 2026-05-12
 url: https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004
 summary: Build and maintain end-to-end motion data pipelines integrating mocap, game engines, and generative AI models. Develop tools for kinematic retargeting and trajectory synthesis for humanoid robot reinforcement learning.
 skills: Unreal Engine, Unity, GMR, Omni-retarget, physics simulators
-render_hash: c3c48ad0
+render_hash: 6cf2ffbb
 -->
 
 # Software Engineer - Human Motion Data
@@ -21,7 +21,7 @@ _Build and maintain end-to-end motion data pipelines integrating mocap, game eng
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-3B82F6?style=flat-square) ![GMR](https://img.shields.io/badge/GMR-3B82F6?style=flat-square) ![Omni-retarget](https://img.shields.io/badge/Omni--retarget-3B82F6?style=flat-square) ![physics simulators](https://img.shields.io/badge/physics_simulators-3B82F6?style=flat-square)
 
-**[→ Apply at Apptronik](https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004)**
+**[→ Apply](https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004)**
 
 ---
 
@@ -97,4 +97,4 @@ Apptronik provides equal employment opportunities to all employees and applicant
 
 ---
 
-**[→ Apply at Apptronik](https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004)**
+**[→ Apply](https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004)**

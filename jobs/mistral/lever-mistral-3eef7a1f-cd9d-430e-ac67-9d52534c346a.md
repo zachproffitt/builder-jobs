@@ -10,20 +10,20 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a
 summary: Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform.
 skills: Python, TypeScript, React, APIs, dashboards
-render_hash: d2a60f65
+render_hash: f525396b
 -->
 
 # Software Engineer, Enterprise Agents
 
 **Mistral** · Paris · On-site · Posted 2025-09-16
 
-_Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology._
+> Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology.
 
 _Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![dashboards](https://img.shields.io/badge/dashboards-3B82F6?style=flat-square)
 
-**[→ Apply at Mistral](https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a)**
+**[→ Apply](https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a)**
 
 ---
 
@@ -81,4 +81,4 @@ By applying, you agree to our Applicant Privacy Policy.
 
 ---
 
-**[→ Apply at Mistral](https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a)**
+**[→ Apply](https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a)**

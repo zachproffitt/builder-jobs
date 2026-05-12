@@ -10,18 +10,18 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9
 summary: Code custom web applications and implement data-driven solutions for customer projects.
 skills: 
-render_hash: c9e72953
+render_hash: 3eb1dc6a
 -->
 
 # Forward Deployed Software Engineer, Internship - Poland
 
 **Palantir** · New York, NY · On-site · Posted 2026-02-19
 
-_Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children._
+> Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
 _Code custom web applications and implement data-driven solutions for customer projects._
 
-**[→ Apply at Palantir](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)**
+**[→ Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)**
 
 ---
 
@@ -43,4 +43,4 @@ FDSE Interns are treated just like full time engineers, with significant freedom
 
 ---
 
-**[→ Apply at Palantir](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)**
+**[→ Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)**

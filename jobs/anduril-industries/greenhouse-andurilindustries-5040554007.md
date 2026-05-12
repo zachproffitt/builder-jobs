@@ -10,20 +10,20 @@ first_seen: 2026-05-04
 url: https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007
 summary: Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments.
 skills: FANUC, UR, RoboDK, FANUC ROBOGUIDE, Delmia
-render_hash: 8f4f4a6b
+render_hash: cb14e5b4
 -->
 
 # Senior Robotics Engineer, Manufacturing Automation 
 
 **Anduril Industries** · Costa Mesa, California, United States
 
-_Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering._
+> Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
 _Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments._
 
 ![FANUC](https://img.shields.io/badge/FANUC-3B82F6?style=flat-square) ![UR](https://img.shields.io/badge/UR-3B82F6?style=flat-square) ![RoboDK](https://img.shields.io/badge/RoboDK-3B82F6?style=flat-square) ![FANUC ROBOGUIDE](https://img.shields.io/badge/FANUC_ROBOGUIDE-3B82F6?style=flat-square) ![Delmia](https://img.shields.io/badge/Delmia-3B82F6?style=flat-square)
 
-**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007)**
+**[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007)**
 
 ---
 
@@ -129,4 +129,4 @@ By submitting your application, you consent to Anduril Industries using a third-
 
 ---
 
-**[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007)**
+**[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007)**

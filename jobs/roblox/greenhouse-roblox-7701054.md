@@ -10,18 +10,18 @@ first_seen: 2026-05-01
 url: https://careers.roblox.com/jobs/7701054?gh_jid=7701054
 summary: Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
 skills: 
-render_hash: 5262c366
+render_hash: 1aa4e526
 -->
 
 # Senior / Principal Data Scientist - Discovery
 
 **Roblox** · San Mateo, CA, United States
 
-_Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together._
+> Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 
 _Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives._
 
-**[→ Apply at Roblox](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**
+**[→ Apply](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**
 
 ---
 
@@ -73,4 +73,4 @@ For US based roles only, please note the Company may not be able to employ candi
 
 ---
 
-**[→ Apply at Roblox](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**
+**[→ Apply](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**

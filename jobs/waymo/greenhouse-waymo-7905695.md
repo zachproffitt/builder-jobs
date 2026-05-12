@@ -10,20 +10,20 @@ first_seen: 2026-05-12
 url: https://careers.withwaymo.com/jobs?gh_jid=7905695
 summary: Build and maintain highly scalable core services for Waymo's user-facing booking system. Architect APIs and systems for internal and external partners.
 skills: C++, distributed systems, APIs
-render_hash: 01f0e6a0
+render_hash: 0de42e5f
 -->
 
 # Software Engineer, Booking
 
 **Waymo** · Mountain View, CA, United States
 
-_Waymo builds autonomous vehicle technology for transportation._
+> Waymo builds autonomous vehicle technology for transportation.
 
 _Build and maintain highly scalable core services for Waymo's user-facing booking system. Architect APIs and systems for internal and external partners._
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square)
 
-**[→ Apply at Waymo](https://careers.withwaymo.com/jobs?gh_jid=7905695)**
+**[→ Apply](https://careers.withwaymo.com/jobs?gh_jid=7905695)**
 
 ---
 
@@ -76,4 +76,4 @@ Salary Range$175,000&mdash;$215,000 USD
 
 ---
 
-**[→ Apply at Waymo](https://careers.withwaymo.com/jobs?gh_jid=7905695)**
+**[→ Apply](https://careers.withwaymo.com/jobs?gh_jid=7905695)**

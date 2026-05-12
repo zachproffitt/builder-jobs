@@ -10,20 +10,20 @@ first_seen: 2026-05-08
 url: https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497
 summary: Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime.
 skills: Kubernetes, K8s controllers, containerization
-render_hash: 494b6b23
+render_hash: afb07608
 -->
 
 # Software Engineer - Environment Platform
 
 **Palantir** · Seattle, WA · On-site · Posted 2024-09-05
 
-_Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children._
+> Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
 _Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime._
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![K8s controllers](https://img.shields.io/badge/K8s_controllers-3B82F6?style=flat-square) ![containerization](https://img.shields.io/badge/containerization-3B82F6?style=flat-square)
 
-**[→ Apply at Palantir](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)**
+**[→ Apply](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)**
 
 ---
 
@@ -38,4 +38,4 @@ If you joined us today, you get to author the strategy by which each of Palantir
 
 ---
 
-**[→ Apply at Palantir](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)**
+**[→ Apply](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)**
