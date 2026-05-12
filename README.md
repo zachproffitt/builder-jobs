@@ -6,8 +6,6 @@ positions where the person will primarily write code or build systems.
 
 **14 open roles** · updated daily
 
----
-
 ## May 12, 2026
 
 ### [Quantum Error Correction Software Engineer](jobs/atom-computing/lever-atomcomputing-0341d594-0f59-4ae8-971e-9d657843e509.md)
