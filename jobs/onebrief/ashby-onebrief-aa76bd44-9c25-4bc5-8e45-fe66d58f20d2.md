@@ -8,15 +8,16 @@ remote: Remote
 posted_at: 2026-05-07
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/onebrief/aa76bd44-9c25-4bc5-8e45-fe66d58f20d2
-summary: This person will build real-time collaboration features (dashboards, maps, timeline visualizations, briefing workflows) and evolve Onebrief’s design system, including component libraries and interaction patterns, to enhance the platform’s UX for military staff.
-source_hash: 26d8fa1d
+summary: Build and implement core real-time collaboration features such as dashboards, maps, and briefing workflows. Evolve the design system by extending component libraries and improving Figma-to-code translation.
+skills: Figma, code, component libraries, interaction patterns, prototype tools
+source_hash: 0869ecd4
 ---
 
 # Staff Design Engineer
 
 **OneBrief** — OneBrief builds collaboration and AI-powered workflow software for military staffs.
 
-> This person will build real-time collaboration features (dashboards, maps, timeline visualizations, briefing workflows) and evolve Onebrief’s design system, including component libraries and interaction patterns, to enhance the platform’s UX for military staff.
+> Build and implement core real-time collaboration features such as dashboards, maps, and briefing workflows. Evolve the design system by extending component libraries and improving Figma-to-code translation.
 
 | Field | Value |
 |---|---|

@@ -8,13 +8,16 @@ remote: Remote
 posted_at: 2026-02-24
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/runway/e22fd0c9-06f5-4b27-9157-f3d8bac5b80a
-summary: 
-source_hash: b55b4bac
+summary: Lead and scale the engineering team to build and maintain Runway's collaborative business planning platform.
+skills: 
+source_hash: f345c991
 ---
 
 # ⚙️ Engineering Manager
 
 **Runway** — Runway builds a collaborative business planning platform that replaces spreadsheets with a modern tool for all teams.
+
+> Lead and scale the engineering team to build and maintain Runway's collaborative business planning platform.
 
 | Field | Value |
 |---|---|

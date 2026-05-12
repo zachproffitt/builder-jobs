@@ -8,15 +8,16 @@ remote: Not specified
 posted_at: 2026-05-06
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c
-summary: This person will design and develop complex electromechanical systems, including hardware components integrated with sensors and actuators, and lead product development from concept through production.
-source_hash: 052ea80a
+summary: Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production.
+skills: CAD, prototyping, testing, production, electromechanical systems
+source_hash: 42fb10e9
 ---
 
 # Staff Mechanical Design Engineer
 
 **EightSleep** — Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 
-> This person will design and develop complex electromechanical systems, including hardware components integrated with sensors and actuators, and lead product development from concept through production.
+> Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production.
 
 | Field | Value |
 |---|---|

@@ -8,15 +8,16 @@ remote: Remote
 posted_at: 2026-05-08
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/qdrant.tech/2f130d2c-72a2-4542-adde-0fe5cee94a65
-summary: This person will build evaluation infrastructure for agentic retrieval, reference implementations for agent memory architectures, and experiment frameworks to test retrieval patterns in agent loops. They will also design systems for skill/tool retrieval and profile agent retrieval traces for performance.
-source_hash: 20329a6c
+summary: Build evaluation infrastructure for agentic retrieval systems and define metrics that correlate with end-to-end task success. Design reference implementations for agent memory architectures and skill retrieval patterns.
+skills: 
+source_hash: f8f6403b
 ---
 
 # Research Engineer, Agentic Retrieval (North America)
 
 **Qdrant** — Qdrant builds an open-source vector search engine for AI applications, including semantic search, retrieval-augmented generation, and real-time recommendations.
 
-> This person will build evaluation infrastructure for agentic retrieval, reference implementations for agent memory architectures, and experiment frameworks to test retrieval patterns in agent loops. They will also design systems for skill/tool retrieval and profile agent retrieval traces for performance.
+> Build evaluation infrastructure for agentic retrieval systems and define metrics that correlate with end-to-end task success. Design reference implementations for agent memory architectures and skill retrieval patterns.
 
 | Field | Value |
 |---|---|

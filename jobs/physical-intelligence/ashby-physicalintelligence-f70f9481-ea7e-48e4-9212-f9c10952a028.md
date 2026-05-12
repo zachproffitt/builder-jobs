@@ -8,15 +8,16 @@ remote: On-site
 posted_at: 2026-04-29
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/physicalintelligence/f70f9481-ea7e-48e4-9212-f9c10952a028
-summary: The Build & Release Engineer will build and maintain GitHub-based CI/CD pipelines, Bazel-based build systems, Kubernetes services, and cloud infrastructure using Terraform to enable reliable, scalable software development workflows.
-source_hash: fe86af6b
+summary: Build and maintain GitHub-based CI/CD pipelines, Bazel build systems, and Kubernetes services using Terraform. Optimize infrastructure to improve build reliability and engineering velocity.
+skills: GitHub Actions, Bazel, Kubernetes, Terraform, cloud infrastructure
+source_hash: 049dce23
 ---
 
 # Build & Release Engineer
 
 **Physical Intelligence** — Physical Intelligence develops general-purpose AI to control robots performing household and warehouse tasks.
 
-> The Build & Release Engineer will build and maintain GitHub-based CI/CD pipelines, Bazel-based build systems, Kubernetes services, and cloud infrastructure using Terraform to enable reliable, scalable software development workflows.
+> Build and maintain GitHub-based CI/CD pipelines, Bazel build systems, and Kubernetes services using Terraform. Optimize infrastructure to improve build reliability and engineering velocity.
 
 | Field | Value |
 |---|---|

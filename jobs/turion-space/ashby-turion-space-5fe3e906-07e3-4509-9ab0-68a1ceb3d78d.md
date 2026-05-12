@@ -8,15 +8,16 @@ remote: On-site
 posted_at: 2026-05-11
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/turion-space/5fe3e906-07e3-4509-9ab0-68a1ceb3d78d
-summary: This person will design and implement advanced GNC algorithms and control systems for satellite missions, including embedded flight code processes and hardware-in-the-loop testing for Rendezvous and Proximity Operations. They will own the development of novel algorithms and ensure integration with satellite subsystems.
-source_hash: 5603b688
+summary: Develop and implement advanced GNC algorithms and control systems for Rendezvous and Proximity Operation (RPO) missions. Maintain technical ownership over embedded flight code processes for satellite systems.
+skills: C++, Python, MATLAB, star trackers, GPS
+source_hash: ff21dafe
 ---
 
 # Senior GNC Engineer
 
 **Turion Space** — Turion Space builds spacecraft to secure Earth and expand humanity’s reach beyond it.
 
-> This person will design and implement advanced GNC algorithms and control systems for satellite missions, including embedded flight code processes and hardware-in-the-loop testing for Rendezvous and Proximity Operations. They will own the development of novel algorithms and ensure integration with satellite subsystems.
+> Develop and implement advanced GNC algorithms and control systems for Rendezvous and Proximity Operation (RPO) missions. Maintain technical ownership over embedded flight code processes for satellite systems.
 
 | Field | Value |
 |---|---|

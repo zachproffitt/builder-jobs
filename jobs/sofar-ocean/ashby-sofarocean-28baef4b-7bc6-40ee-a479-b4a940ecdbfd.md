@@ -8,15 +8,16 @@ remote: Not specified
 posted_at: 2026-04-28
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/sofarocean/28baef4b-7bc6-40ee-a479-b4a940ecdbfd
-summary: This person will build the Wayfinder Optimization Engine, a ship-routing tool that combines weather data with ship performance models to optimize maritime routes. They will develop and improve core algorithms, implement features, and maintain the system written in Rust and Python.
-source_hash: 435878d0
+summary: Develop and maintain the Wayfinder Optimization Engine, improving core algorithms and delivering end-to-end features for maritime route optimization.
+skills: Rust, Python, C++, C
+source_hash: c2f5a3e0
 ---
 
 # Software Engineer
 
 **Sofar Ocean** — Sofar builds a real-time ocean network that turns billions of measurements into insights for scientists, governments, and shipping fleets, making the ocean more predictable and sustainable.
 
-> This person will build the Wayfinder Optimization Engine, a ship-routing tool that combines weather data with ship performance models to optimize maritime routes. They will develop and improve core algorithms, implement features, and maintain the system written in Rust and Python.
+> Develop and maintain the Wayfinder Optimization Engine, improving core algorithms and delivering end-to-end features for maritime route optimization.
 
 | Field | Value |
 |---|---|

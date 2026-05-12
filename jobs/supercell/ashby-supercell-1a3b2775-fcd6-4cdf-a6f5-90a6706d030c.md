@@ -8,15 +8,16 @@ remote: Remote
 posted_at: 2026-05-08
 first_seen: 2026-05-12
 url: https://jobs.ashbyhq.com/supercell/1a3b2775-fcd6-4cdf-a6f5-90a6706d030c
-summary: This person will build automated reliability infrastructure, validation workflows, and test surfaces for Supercell's Titan engine, focusing on regression detection, integration stability, and performance monitoring across mobile platforms.
-source_hash: 379ed666
+summary: Build automated reliability foundations including validation workflows, regression detection, and performance/stability signals. Create tooling and infrastructure for engine and horizontal teams.
+skills: C++, iOS, Android, macOS, Windows
+source_hash: 6f208734
 ---
 
 # Senior Programmer, Engine Reliability
 
 **Supercell** — Supercell develops mobile games like Clash of Clans and Clash Royale using the Titan engine.
 
-> This person will build automated reliability infrastructure, validation workflows, and test surfaces for Supercell's Titan engine, focusing on regression detection, integration stability, and performance monitoring across mobile platforms.
+> Build automated reliability foundations including validation workflows, regression detection, and performance/stability signals. Create tooling and infrastructure for engine and horizontal teams.
 
 | Field | Value |
 |---|---|

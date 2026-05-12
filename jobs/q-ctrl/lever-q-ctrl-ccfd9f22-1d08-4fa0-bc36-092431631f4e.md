@@ -8,15 +8,16 @@ remote: On-site
 posted_at: 2026-03-31
 first_seen: 2026-05-12
 url: https://jobs.lever.co/q-ctrl/ccfd9f22-1d08-4fa0-bc36-092431631f4e
-summary: The Lead Integration Engineer will build and integrate quantum navigation systems, ensuring seamless operation of hardware and software subsystems in gravimeters, accelerometers, and magnetometers for GPS-denied navigation applications.
-source_hash: 26098df2
+summary: Integrate electronics, optics, mechanics, and software subsystems for quantum navigation products, ensuring seamless hardware-software functionality. Validate complete systems in laboratory and field environments.
+skills: 
+source_hash: 1c706e77
 ---
 
 # Lead Integration Engineer
 
 **Q-CTRL** — Q-CTRL develops software to expand quantum computing capabilities and enable quantum sensing solutions for navigation and industrial applications.
 
-> The Lead Integration Engineer will build and integrate quantum navigation systems, ensuring seamless operation of hardware and software subsystems in gravimeters, accelerometers, and magnetometers for GPS-denied navigation applications.
+> Integrate electronics, optics, mechanics, and software subsystems for quantum navigation products, ensuring seamless hardware-software functionality. Validate complete systems in laboratory and field environments.
 
 | Field | Value |
 |---|---|

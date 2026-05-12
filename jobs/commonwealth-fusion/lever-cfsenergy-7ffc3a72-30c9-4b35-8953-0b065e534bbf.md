@@ -8,15 +8,16 @@ remote: On-site
 posted_at: 2026-05-11
 first_seen: 2026-05-12
 url: https://jobs.lever.co/cfsenergy/7ffc3a72-30c9-4b35-8953-0b065e534bbf
-summary: The person will build high power RF antennas, plasma facing components, port plugs, error field correction coils, vertical stability coils, and plasma diagnostics for the SPARC Tokamak. They will also use bespoke tools for real-time control of a burning plasma.
-source_hash: 86a0432d
+summary: Build precision ultra high vacuum subassemblies for SPARC Tokamak, including high power RF antennas and plasma diagnostics.
+skills: 
+source_hash: a1d5077f
 ---
 
 # Subassemblies Specialist
 
 **Commonwealth Fusion** — Commonwealth Fusion designs and builds commercially viable fusion power plants to accelerate the transition to fusion energy.
 
-> The person will build high power RF antennas, plasma facing components, port plugs, error field correction coils, vertical stability coils, and plasma diagnostics for the SPARC Tokamak. They will also use bespoke tools for real-time control of a burning plasma.
+> Build precision ultra high vacuum subassemblies for SPARC Tokamak, including high power RF antennas and plasma diagnostics.
 
 | Field | Value |
 |---|---|
