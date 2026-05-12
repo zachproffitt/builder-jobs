@@ -164,7 +164,7 @@ _This person will build a next-gen Agent RL training platform and integrate cutt
 ## May 10, 2026
 
 ### [Senior iOS Automation Engineer](jobs/airbnb/greenhouse-airbnb-7453190.md)
-**Airbnb** · Brazil · `Remote` · `Senior`
+**Airbnb** · Brazil · `Senior` · `Remote`
 
 _This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs._
 
