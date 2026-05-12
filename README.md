@@ -3,13 +3,12 @@
 A job board for engineers who build things — software, hardware, firmware, ML systems.
 Roles are scraped daily from company career pages and filtered by an LLM to keep only
 positions where the person will primarily write code or build systems.
-No sales engineers, TPMs, or analyst roles.
 
 **15 open roles** · updated daily
 
 ---
 
-## 2026-05-12
+## May 12, 2026
 
 ### [MTS - Firmware](jobs/etched/ashby-Etched-a735c757-7d39-47de-9329-77d6362b5547.md)
 **Etched** — The person will build firmware for AI inference systems optimized for transformer models, including low-level drivers, APIs, and embedded architectures (e.g., I2C, SPI, PCIe). They will contribute to hardware-software co-development for Etched's ASICs targeting real-time video generation and deep reasoning agents.
