@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-grafanalabs-5988484004
 company: Grafana
 title: Staff Backend Engineer - Grafana App Platform| US| Remote
@@ -10,21 +10,18 @@ first_seen: 2026-05-02
 url: https://job-boards.greenhouse.io/grafanalabs/jobs/5988484004
 summary: Refactor and enhance the Grafana App Platform's core architecture to ensure scalability, multi-tenancy, and integration with observability apps. Build and maintain systems that support dashboards, alerts, and telemetry for cloud and on-premise deployments.
 skills: 
-render_hash: 86b4bed3
----
+render_hash: defd86ce
+-->
 
 # Staff Backend Engineer - Grafana App Platform| US| Remote
 
-**Grafana** — Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
+**Grafana** · United States (Remote) · `Remote`
 
-> Refactor and enhance the Grafana App Platform's core architecture to ensure scalability, multi-tenancy, and integration with observability apps. Build and maintain systems that support dashboards, alerts, and telemetry for cloud and on-premise deployments.
+_Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data._
+
+_Refactor and enhance the Grafana App Platform's core architecture to ensure scalability, multi-tenancy, and integration with observability apps. Build and maintain systems that support dashboards, alerts, and telemetry for cloud and on-premise deployments._
 
 **[→ Apply at Grafana](https://job-boards.greenhouse.io/grafanalabs/jobs/5988484004)**
-
-| | |
-|---|---|
-| Location | United States (Remote) |
-| Remote | Remote |
 
 ---
 

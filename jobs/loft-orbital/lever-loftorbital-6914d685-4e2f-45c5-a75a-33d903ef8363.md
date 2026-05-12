@@ -1,4 +1,4 @@
----
+<!--
 id: lever-loftorbital-6914d685-4e2f-45c5-a75a-33d903ef8363
 company: Loft Orbital
 title: Senior Embedded Software Engineer
@@ -10,22 +10,18 @@ first_seen: 2026-05-10
 url: https://jobs.lever.co/loftorbital/6914d685-4e2f-45c5-a75a-33d903ef8363
 summary: Design and develop embedded software for satellite electronic payloads, advancing in-space compute and RF communication systems.
 skills: 
-render_hash: 760e2f93
----
+render_hash: 97380119
+-->
 
 # Senior Embedded Software Engineer
 
-**Loft Orbital** — Loft Orbital builds spacecraft hardware and backend systems for satellite data management and mission control.
+**Loft Orbital** · Toulouse · On-site · Posted 2026-01-22
 
-> Design and develop embedded software for satellite electronic payloads, advancing in-space compute and RF communication systems.
+_Loft Orbital builds spacecraft hardware and backend systems for satellite data management and mission control._
+
+_Design and develop embedded software for satellite electronic payloads, advancing in-space compute and RF communication systems._
 
 **[→ Apply at Loft Orbital](https://jobs.lever.co/loftorbital/6914d685-4e2f-45c5-a75a-33d903ef8363)**
-
-| | |
-|---|---|
-| Location | Toulouse |
-| Remote | On-site |
-| Posted | 2026-01-22 |
 
 ---
 

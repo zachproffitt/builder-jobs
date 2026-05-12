@@ -1,4 +1,4 @@
----
+<!--
 id: lever-mistral-5538042e-f157-4a2c-a9ee-e412de9ba761
 company: Mistral
 title: Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore
@@ -10,22 +10,20 @@ first_seen: 2026-04-28
 url: https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761
 summary: Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration.
 skills: Python, TypeScript, React, NodeJS, NextJS
-render_hash: 7ae53ad4
----
+render_hash: 14e6bc5b
+-->
 
 # Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore
 
-**Mistral** — Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology.
+**Mistral** · Singapore · On-site · Posted 2026-03-09
 
-> Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration.
+_Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology._
+
+_Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NodeJS](https://img.shields.io/badge/NodeJS-3B82F6?style=flat-square) ![NextJS](https://img.shields.io/badge/NextJS-3B82F6?style=flat-square)
 
 **[→ Apply at Mistral](https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761)**
-
-| | |
-|---|---|
-| Location | Singapore |
-| Remote | On-site |
-| Posted | 2026-03-09 |
 
 ---
 

@@ -1,4 +1,4 @@
----
+<!--
 id: ashby-helion-b5659fa4-aadc-47d0-9746-f58cf8bc51e2
 company: Helion Energy
 title: Senior Electrical Systems Engineer
@@ -10,22 +10,18 @@ first_seen: 2026-05-09
 url: https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2
 summary: Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals.
 skills: 
-render_hash: 8a2bc2c2
----
+render_hash: 38790fa8
+-->
 
 # Senior Electrical Systems Engineer
 
-**Helion Energy** — Helion Energy builds fusion power plants, with prototype Trenta achieving 100 million degree plasma temperatures.
+**Helion Energy** · Everett, WA · On-site · Posted 2025-12-19
 
-> Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals.
+_Helion Energy builds fusion power plants, with prototype Trenta achieving 100 million degree plasma temperatures._
+
+_Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals._
 
 **[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2)**
-
-| | |
-|---|---|
-| Location | Everett, WA |
-| Remote | On-site |
-| Posted | 2025-12-19 |
 
 ---
 

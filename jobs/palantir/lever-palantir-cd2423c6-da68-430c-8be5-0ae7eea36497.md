@@ -1,4 +1,4 @@
----
+<!--
 id: lever-palantir-cd2423c6-da68-430c-8be5-0ae7eea36497
 company: Palantir
 title: Software Engineer - Environment Platform
@@ -10,22 +10,20 @@ first_seen: 2026-05-08
 url: https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497
 summary: Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime.
 skills: Kubernetes, K8s controllers, containerization
-render_hash: 7280adb8
----
+render_hash: 494b6b23
+-->
 
 # Software Engineer - Environment Platform
 
-**Palantir** — Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
+**Palantir** · Seattle, WA · On-site · Posted 2024-09-05
 
-> Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime.
+_Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children._
+
+_Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime._
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![K8s controllers](https://img.shields.io/badge/K8s_controllers-3B82F6?style=flat-square) ![containerization](https://img.shields.io/badge/containerization-3B82F6?style=flat-square)
 
 **[→ Apply at Palantir](https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497)**
-
-| | |
-|---|---|
-| Location | Seattle, WA |
-| Remote | On-site |
-| Posted | 2024-09-05 |
 
 ---
 

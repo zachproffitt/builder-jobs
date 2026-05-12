@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-roblox-7701054
 company: Roblox
 title: Senior / Principal Data Scientist - Discovery
@@ -10,21 +10,18 @@ first_seen: 2026-05-01
 url: https://careers.roblox.com/jobs/7701054?gh_jid=7701054
 summary: Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
 skills: 
-render_hash: 51aad6cd
----
+render_hash: 5262c366
+-->
 
 # Senior / Principal Data Scientist - Discovery
 
-**Roblox** — Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
+**Roblox** · San Mateo, CA, United States
 
-> Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
+_Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together._
+
+_Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives._
 
 **[→ Apply at Roblox](https://careers.roblox.com/jobs/7701054?gh_jid=7701054)**
-
-| | |
-|---|---|
-| Location | San Mateo, CA, United States |
-| Remote | Not specified |
 
 ---
 

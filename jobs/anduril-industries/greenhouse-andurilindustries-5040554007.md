@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-andurilindustries-5040554007
 company: Anduril Industries
 title: Senior Robotics Engineer, Manufacturing Automation 
@@ -10,21 +10,20 @@ first_seen: 2026-05-04
 url: https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007
 summary: Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments.
 skills: FANUC, UR, RoboDK, FANUC ROBOGUIDE, Delmia
-render_hash: ec1b90cb
----
+render_hash: 8f4f4a6b
+-->
 
 # Senior Robotics Engineer, Manufacturing Automation 
 
-**Anduril Industries** — Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
+**Anduril Industries** · Costa Mesa, California, United States
 
-> Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments.
+_Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering._
+
+_Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments._
+
+![FANUC](https://img.shields.io/badge/FANUC-3B82F6?style=flat-square) ![UR](https://img.shields.io/badge/UR-3B82F6?style=flat-square) ![RoboDK](https://img.shields.io/badge/RoboDK-3B82F6?style=flat-square) ![FANUC ROBOGUIDE](https://img.shields.io/badge/FANUC_ROBOGUIDE-3B82F6?style=flat-square) ![Delmia](https://img.shields.io/badge/Delmia-3B82F6?style=flat-square)
 
 **[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007)**
-
-| | |
-|---|---|
-| Location | Costa Mesa, California, United States |
-| Remote | Not specified |
 
 ---
 

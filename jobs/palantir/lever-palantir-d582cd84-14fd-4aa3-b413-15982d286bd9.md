@@ -1,4 +1,4 @@
----
+<!--
 id: lever-palantir-d582cd84-14fd-4aa3-b413-15982d286bd9
 company: Palantir
 title: Forward Deployed Software Engineer, Internship - Poland
@@ -10,22 +10,18 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9
 summary: Code custom web applications and implement data-driven solutions for customer projects.
 skills: 
-render_hash: 2d712ea6
----
+render_hash: c9e72953
+-->
 
 # Forward Deployed Software Engineer, Internship - Poland
 
-**Palantir** — Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
+**Palantir** · New York, NY · On-site · Posted 2026-02-19
 
-> Code custom web applications and implement data-driven solutions for customer projects.
+_Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children._
+
+_Code custom web applications and implement data-driven solutions for customer projects._
 
 **[→ Apply at Palantir](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9)**
-
-| | |
-|---|---|
-| Location | New York, NY |
-| Remote | On-site |
-| Posted | 2026-02-19 |
 
 ---
 

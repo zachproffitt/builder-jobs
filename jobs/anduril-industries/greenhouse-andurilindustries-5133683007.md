@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-andurilindustries-5133683007
 company: Anduril Industries
 title: Staff Test Automation Engineer 
@@ -10,21 +10,18 @@ first_seen: 2026-04-30
 url: https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007
 summary: Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments.
 skills: 
-render_hash: 2199e2f8
----
+render_hash: 47c55171
+-->
 
 # Staff Test Automation Engineer 
 
-**Anduril Industries** — Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
+**Anduril Industries** · Seattle, Washington, United States
 
-> Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments.
+_Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering._
+
+_Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments._
 
 **[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007)**
-
-| | |
-|---|---|
-| Location | Seattle, Washington, United States |
-| Remote | Not specified |
 
 ---
 

@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-stripe-6567253
 company: Stripe
 title: Backend Engineer, Core Tech, Canada
@@ -10,21 +10,18 @@ first_seen: 2026-05-05
 url: https://stripe.com/jobs/search?gh_jid=6567253
 summary: The person will build foundational infrastructure systems such as Compute, Networking, DocumentDB, and Distributed Caching, ensuring reliability, scalability, and performance for Stripe's products and services.
 skills: 
-render_hash: 0c489311
----
+render_hash: e7f09448
+-->
 
 # Backend Engineer, Core Tech, Canada
 
-**Stripe** — Stripe builds a financial services platform that enables businesses to accept payments, create billing systems, and manage money transfers.
+**Stripe** · Toronto, CAN-Remote · `Remote`
 
-> The person will build foundational infrastructure systems such as Compute, Networking, DocumentDB, and Distributed Caching, ensuring reliability, scalability, and performance for Stripe's products and services.
+_Stripe builds a financial services platform that enables businesses to accept payments, create billing systems, and manage money transfers._
+
+_The person will build foundational infrastructure systems such as Compute, Networking, DocumentDB, and Distributed Caching, ensuring reliability, scalability, and performance for Stripe's products and services._
 
 **[→ Apply at Stripe](https://stripe.com/jobs/search?gh_jid=6567253)**
-
-| | |
-|---|---|
-| Location | Toronto, CAN-Remote |
-| Remote | Remote |
 
 ---
 

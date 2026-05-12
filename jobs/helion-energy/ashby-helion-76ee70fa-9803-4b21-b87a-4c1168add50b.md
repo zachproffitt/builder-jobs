@@ -1,4 +1,4 @@
----
+<!--
 id: ashby-helion-76ee70fa-9803-4b21-b87a-4c1168add50b
 company: Helion Energy
 title: Senior Engineering Technician, Operations Support
@@ -10,22 +10,18 @@ first_seen: 2026-04-28
 url: https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b
 summary: Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics.
 skills: 
-render_hash: e23b6cba
----
+render_hash: fd3e63cf
+-->
 
 # Senior Engineering Technician, Operations Support
 
-**Helion Energy** — Helion Energy builds fusion power plants, with prototype Trenta achieving 100 million degree plasma temperatures.
+**Helion Energy** · Everett, WA · On-site · Posted 2025-06-07
 
-> Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics.
+_Helion Energy builds fusion power plants, with prototype Trenta achieving 100 million degree plasma temperatures._
+
+_Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics._
 
 **[→ Apply at Helion Energy](https://jobs.ashbyhq.com/helion/76ee70fa-9803-4b21-b87a-4c1168add50b)**
-
-| | |
-|---|---|
-| Location | Everett, WA |
-| Remote | On-site |
-| Posted | 2025-06-07 |
 
 ---
 

@@ -1,4 +1,4 @@
----
+<!--
 id: lever-zoox-9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3
 company: Zoox
 title: PhD Research Intern, Visual Object Understanding
@@ -10,22 +10,20 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/zoox/9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3
 summary: Design and implement foundation models to enhance the perception stack's semantic understanding of obstacles and behavioral signals.
 skills: vision-language models, multimodal transformers, audio-visual architectures, dataset construction, model evaluation
-render_hash: 1caf7a85
----
+render_hash: 2d403b03
+-->
 
 # PhD Research Intern, Visual Object Understanding
 
-**Zoox** — Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
+**Zoox** · Foster City, CA · On-site · Posted 2025-11-18
 
-> Design and implement foundation models to enhance the perception stack's semantic understanding of obstacles and behavioral signals.
+_Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing._
+
+_Design and implement foundation models to enhance the perception stack's semantic understanding of obstacles and behavioral signals._
+
+![vision-language models](https://img.shields.io/badge/vision--language_models-3B82F6?style=flat-square) ![multimodal transformers](https://img.shields.io/badge/multimodal_transformers-3B82F6?style=flat-square) ![audio-visual architectures](https://img.shields.io/badge/audio--visual_architectures-3B82F6?style=flat-square) ![dataset construction](https://img.shields.io/badge/dataset_construction-3B82F6?style=flat-square) ![model evaluation](https://img.shields.io/badge/model_evaluation-3B82F6?style=flat-square)
 
 **[→ Apply at Zoox](https://jobs.lever.co/zoox/9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3)**
-
-| | |
-|---|---|
-| Location | Foster City, CA |
-| Remote | On-site |
-| Posted | 2025-11-18 |
 
 ---
 

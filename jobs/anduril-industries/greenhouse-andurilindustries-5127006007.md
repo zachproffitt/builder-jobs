@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-andurilindustries-5127006007
 company: Anduril Industries
 title: Flight Computer Hardware Lead, Core Technology
@@ -10,21 +10,20 @@ first_seen: 2026-05-12
 url: https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007
 summary: Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs.
 skills: Verilog, FPGA, Altium Designer, Ethernet, signal integrity
-render_hash: 3a35a2c0
----
+render_hash: 24ca9025
+-->
 
 # Flight Computer Hardware Lead, Core Technology
 
-**Anduril Industries** — Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
+**Anduril Industries** · Costa Mesa, California, United States
 
-> Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs.
+_Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering._
+
+_Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs._
+
+![Verilog](https://img.shields.io/badge/Verilog-3B82F6?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![Ethernet](https://img.shields.io/badge/Ethernet-3B82F6?style=flat-square) ![signal integrity](https://img.shields.io/badge/signal_integrity-3B82F6?style=flat-square)
 
 **[→ Apply at Anduril Industries](https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007)**
-
-| | |
-|---|---|
-| Location | Costa Mesa, California, United States |
-| Remote | Not specified |
 
 ---
 

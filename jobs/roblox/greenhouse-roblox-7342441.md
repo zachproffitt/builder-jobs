@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-roblox-7342441
 company: Roblox
 title: Senior AI Platform Engineer - Agentic Systems
@@ -10,21 +10,20 @@ first_seen: 2026-05-12
 url: https://careers.roblox.com/jobs/7342441?gh_jid=7342441
 summary: Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches.
 skills: Knowledge Graphs, Vector Databases, RAG systems, Ground Truth Data labeling, evaluation frameworks
-render_hash: b9c41474
----
+render_hash: 48300886
+-->
 
 # Senior AI Platform Engineer - Agentic Systems
 
-**Roblox** — Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
+**Roblox** · San Mateo, CA, United States
 
-> Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches.
+_Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together._
+
+_Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches._
+
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-3B82F6?style=flat-square) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-3B82F6?style=flat-square) ![RAG systems](https://img.shields.io/badge/RAG_systems-3B82F6?style=flat-square) ![Ground Truth Data labeling](https://img.shields.io/badge/Ground_Truth_Data_labeling-3B82F6?style=flat-square) ![evaluation frameworks](https://img.shields.io/badge/evaluation_frameworks-3B82F6?style=flat-square)
 
 **[→ Apply at Roblox](https://careers.roblox.com/jobs/7342441?gh_jid=7342441)**
-
-| | |
-|---|---|
-| Location | San Mateo, CA, United States |
-| Remote | Not specified |
 
 ---
 

@@ -1,4 +1,4 @@
----
+<!--
 id: lever-mistral-0b476d3a-5f0c-4dda-9a5e-bd5ed8515328
 company: Mistral
 title: Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto
@@ -10,22 +10,18 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328
 summary: Deploy Mistral AI products into production environments and contribute to open-source codebases for inference and fine-tuning.
 skills: 
-render_hash: cff73268
----
+render_hash: 375b100a
+-->
 
 # Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto
 
-**Mistral** — Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology.
+**Mistral** · Palo Alto · On-site · Posted 2026-04-15
 
-> Deploy Mistral AI products into production environments and contribute to open-source codebases for inference and fine-tuning.
+_Mistral builds an AI platform for enterprises to customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal models using open-source technology._
+
+_Deploy Mistral AI products into production environments and contribute to open-source codebases for inference and fine-tuning._
 
 **[→ Apply at Mistral](https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328)**
-
-| | |
-|---|---|
-| Location | Palo Alto |
-| Remote | On-site |
-| Posted | 2026-04-15 |
 
 ---
 

@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-figma-5976930004
 company: Figma
 title: Data Scientist, Core Data -  PhD (2026)
@@ -10,21 +10,18 @@ first_seen: 2026-04-29
 url: https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004
 summary: This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives.
 skills: 
-render_hash: 5add7d9c
----
+render_hash: f7e7bca6
+-->
 
 # Data Scientist, Core Data -  PhD (2026)
 
-**Figma** — Figma builds a collaborative design platform for product development, enabling design, prototyping, and feedback in one place.
+**Figma** · New York, NY • United States; San Francisco, CA • New York, NY
 
-> This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives.
+_Figma builds a collaborative design platform for product development, enabling design, prototyping, and feedback in one place._
+
+_This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives._
 
 **[→ Apply at Figma](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004)**
-
-| | |
-|---|---|
-| Location | New York, NY • United States; San Francisco, CA • New York, NY |
-| Remote | Not specified |
 
 ---
 

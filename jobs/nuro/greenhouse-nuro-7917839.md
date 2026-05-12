@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-nuro-7917839
 company: Nuro
 title: Full Stack Software Engineer, Fleet Platform and Operations Tooling
@@ -10,19 +10,18 @@ first_seen: 2026-05-12
 url: https://nuro.ai/careersitem?gh_jid=7917839
 summary: Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure.
 skills: React, TypeScript, RESTful/gRPC APIs, PostgreSQL, GCP/AWS
-render_hash: d04f9ce6
----
+render_hash: c3be94eb
+-->
 
 # Full Stack Software Engineer, Fleet Platform and Operations Tooling
 
-> Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure.
+**Nuro** · Mountain View, California (HQ)
+
+_Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![RESTful/gRPC APIs](https://img.shields.io/badge/RESTful%2FgRPC_APIs-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![GCP/AWS](https://img.shields.io/badge/GCP%2FAWS-3B82F6?style=flat-square)
 
 **[→ Apply at Nuro](https://nuro.ai/careersitem?gh_jid=7917839)**
-
-| | |
-|---|---|
-| Location | Mountain View, California (HQ) |
-| Remote | Not specified |
 
 ---
 

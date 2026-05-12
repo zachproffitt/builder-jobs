@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-anthropic-5191785008
 company: Anthropic
 title: Research Engineer, Safeguards Labs
@@ -10,21 +10,18 @@ first_seen: 2026-05-07
 url: https://job-boards.greenhouse.io/anthropic/jobs/5191785008
 summary: This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings.
 skills: 
-render_hash: 32875deb
----
+render_hash: 35cabcbe
+-->
 
 # Research Engineer, Safeguards Labs
 
-**Anthropic** — Anthropic builds AI systems focused on safety, interpretability, and steerability for research.
+**Anthropic** · San Francisco, CA | New York City, NY
 
-> This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings.
+_Anthropic builds AI systems focused on safety, interpretability, and steerability for research._
+
+_This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings._
 
 **[→ Apply at Anthropic](https://job-boards.greenhouse.io/anthropic/jobs/5191785008)**
-
-| | |
-|---|---|
-| Location | San Francisco, CA | New York City, NY |
-| Remote | Not specified |
 
 ---
 

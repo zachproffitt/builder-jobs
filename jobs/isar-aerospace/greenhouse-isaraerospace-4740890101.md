@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-isaraerospace-4740890101
 company: Isar Aerospace
 title: Senior Design Engineer, Integrated Spectrum Design (m/f/d)
@@ -10,19 +10,18 @@ first_seen: 2026-05-04
 url: https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4740890101
 summary: Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams.
 skills: Siemens NX, Solidworks, PLM systems, EBOM, ICD frameworks
-render_hash: b527a7e0
----
+render_hash: 252d3692
+-->
 
 # Senior Design Engineer, Integrated Spectrum Design (m/f/d)
 
-> Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams.
+**Isar Aerospace** · Ottobrunn, Bavaria, Germany
+
+_Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams._
+
+![Siemens NX](https://img.shields.io/badge/Siemens_NX-3B82F6?style=flat-square) ![Solidworks](https://img.shields.io/badge/Solidworks-3B82F6?style=flat-square) ![PLM systems](https://img.shields.io/badge/PLM_systems-3B82F6?style=flat-square) ![EBOM](https://img.shields.io/badge/EBOM-3B82F6?style=flat-square) ![ICD frameworks](https://img.shields.io/badge/ICD_frameworks-3B82F6?style=flat-square)
 
 **[→ Apply at Isar Aerospace](https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4740890101)**
-
-| | |
-|---|---|
-| Location | Ottobrunn, Bavaria, Germany |
-| Remote | Not specified |
 
 ---
 

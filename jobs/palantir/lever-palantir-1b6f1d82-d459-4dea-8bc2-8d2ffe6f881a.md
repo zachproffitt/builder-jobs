@@ -1,4 +1,4 @@
----
+<!--
 id: lever-palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a
 company: Palantir
 title: Forward Deployed Software Engineer, Internship
@@ -10,22 +10,18 @@ first_seen: 2026-05-06
 url: https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a
 summary: Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems.
 skills: 
-render_hash: d7da17af
----
+render_hash: c8548bac
+-->
 
 # Forward Deployed Software Engineer, Internship
 
-**Palantir** — Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
+**Palantir** · Paris, France · On-site · Posted 2026-05-06
 
-> Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems.
+_Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children._
+
+_Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems._
 
 **[→ Apply at Palantir](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a)**
-
-| | |
-|---|---|
-| Location | Paris, France |
-| Remote | On-site |
-| Posted | 2026-05-06 |
 
 ---
 

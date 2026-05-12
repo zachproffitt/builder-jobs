@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-apptronik-5994540004
 company: Apptronik
 title: Software Engineer - Human Motion Data
@@ -10,19 +10,18 @@ first_seen: 2026-05-12
 url: https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004
 summary: Build and maintain end-to-end motion data pipelines integrating mocap, game engines, and generative AI models. Develop tools for kinematic retargeting and trajectory synthesis for humanoid robot reinforcement learning.
 skills: Unreal Engine, Unity, GMR, Omni-retarget, physics simulators
-render_hash: 0490340f
----
+render_hash: c3c48ad0
+-->
 
 # Software Engineer - Human Motion Data
 
-> Build and maintain end-to-end motion data pipelines integrating mocap, game engines, and generative AI models. Develop tools for kinematic retargeting and trajectory synthesis for humanoid robot reinforcement learning.
+**Apptronik** · Austin, TX
+
+_Build and maintain end-to-end motion data pipelines integrating mocap, game engines, and generative AI models. Develop tools for kinematic retargeting and trajectory synthesis for humanoid robot reinforcement learning._
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-3B82F6?style=flat-square) ![GMR](https://img.shields.io/badge/GMR-3B82F6?style=flat-square) ![Omni-retarget](https://img.shields.io/badge/Omni--retarget-3B82F6?style=flat-square) ![physics simulators](https://img.shields.io/badge/physics_simulators-3B82F6?style=flat-square)
 
 **[→ Apply at Apptronik](https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004)**
-
-| | |
-|---|---|
-| Location | Austin, TX |
-| Remote | Not specified |
 
 ---
 

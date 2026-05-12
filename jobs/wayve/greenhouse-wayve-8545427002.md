@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-wayve-8545427002
 company: Wayve
 title: Senior Software Engineer, Simulation 
@@ -10,19 +10,18 @@ first_seen: 2026-05-10
 url: https://wayve.firststage.co/jobs?gh_jid=8545427002
 summary: Develop and implement high-fidelity simulation components for autonomous driving systems, integrating machine-learned graphics and robotics subsystems.
 skills: C++, Python, NeRF, Gaussian Splatting, GenAI
-render_hash: c6a4ab4f
----
+render_hash: 02110464
+-->
 
 # Senior Software Engineer, Simulation 
 
-> Develop and implement high-fidelity simulation components for autonomous driving systems, integrating machine-learned graphics and robotics subsystems.
+**Wayve** · London
+
+_Develop and implement high-fidelity simulation components for autonomous driving systems, integrating machine-learned graphics and robotics subsystems._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![NeRF](https://img.shields.io/badge/NeRF-3B82F6?style=flat-square) ![Gaussian Splatting](https://img.shields.io/badge/Gaussian_Splatting-3B82F6?style=flat-square) ![GenAI](https://img.shields.io/badge/GenAI-3B82F6?style=flat-square)
 
 **[→ Apply at Wayve](https://wayve.firststage.co/jobs?gh_jid=8545427002)**
-
-| | |
-|---|---|
-| Location | London |
-| Remote | Not specified |
 
 ---
 

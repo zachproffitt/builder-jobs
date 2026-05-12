@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-airbnb-7453190
 company: Airbnb
 title: Senior iOS Automation Engineer
@@ -10,21 +10,18 @@ first_seen: 2026-05-10
 url: https://careers.airbnb.com/positions/7453190?gh_jid=7453190
 summary: This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs.
 skills: 
-render_hash: f5f5ffda
----
+render_hash: b06bc8cb
+-->
 
 # Senior iOS Automation Engineer
 
-**Airbnb** — Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
+**Airbnb** · Brazil - Remote · `Remote`
 
-> This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs.
+_Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries._
+
+_This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs._
 
 **[→ Apply at Airbnb](https://careers.airbnb.com/positions/7453190?gh_jid=7453190)**
-
-| | |
-|---|---|
-| Location | Brazil - Remote |
-| Remote | Remote |
 
 ---
 

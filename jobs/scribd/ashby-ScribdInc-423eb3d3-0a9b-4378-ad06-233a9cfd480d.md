@@ -1,4 +1,4 @@
----
+<!--
 id: ashby-ScribdInc-423eb3d3-0a9b-4378-ad06-233a9cfd480d
 company: Scribd
 title: Staff Software Engineer, AI & Developer Tooling
@@ -10,22 +10,18 @@ first_seen: 2026-04-28
 url: https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d
 summary: Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators.
 skills: 
-render_hash: f4c87ed1
----
+render_hash: 7ab8bae9
+-->
 
 # Staff Software Engineer, AI & Developer Tooling
 
-**Scribd** — Scribd builds platforms for accessing and sharing documents and specialized knowledge, including Scribd, Slideshare, Everand, and Fable.
+**Scribd** · New York City · `Remote` · Posted 2026-04-20
 
-> Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators.
+_Scribd builds platforms for accessing and sharing documents and specialized knowledge, including Scribd, Slideshare, Everand, and Fable._
+
+_Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators._
 
 **[→ Apply at Scribd](https://jobs.ashbyhq.com/ScribdInc/423eb3d3-0a9b-4378-ad06-233a9cfd480d)**
-
-| | |
-|---|---|
-| Location | New York City |
-| Remote | Remote |
-| Posted | 2026-04-20 |
 
 ---
 

@@ -1,4 +1,4 @@
----
+<!--
 id: greenhouse-motional-7730335003
 company: Motional
 title: Staff Machine Learning Engineer
@@ -10,21 +10,18 @@ first_seen: 2026-05-04
 url: https://motional.com/open-positions/?gh_jid=7730335003#/7730335003
 summary: Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters.
 skills: 
-render_hash: 7bd2ac42
----
+render_hash: b749064d
+-->
 
 # Staff Machine Learning Engineer
 
-**Motional** — Motional develops and deploys autonomous vehicles and driverless technology.
+**Motional** · Pittsburgh, Pennsylvania, United States
 
-> Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters.
+_Motional develops and deploys autonomous vehicles and driverless technology._
+
+_Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters._
 
 **[→ Apply at Motional](https://motional.com/open-positions/?gh_jid=7730335003#/7730335003)**
-
-| | |
-|---|---|
-| Location | Pittsburgh, Pennsylvania, United States |
-| Remote | Not specified |
 
 ---
 

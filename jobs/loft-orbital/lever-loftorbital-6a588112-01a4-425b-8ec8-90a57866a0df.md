@@ -1,4 +1,4 @@
----
+<!--
 id: lever-loftorbital-6a588112-01a4-425b-8ec8-90a57866a0df
 company: Loft Orbital
 title: Customer Delivery Engineer
@@ -10,22 +10,18 @@ first_seen: 2026-05-12
 url: https://jobs.lever.co/loftorbital/6a588112-01a4-425b-8ec8-90a57866a0df
 summary: Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution.
 skills: 
-render_hash: 328b71a6
----
+render_hash: f5947366
+-->
 
 # Customer Delivery Engineer
 
-**Loft Orbital** — Loft Orbital builds spacecraft hardware and backend systems for satellite data management and mission control.
+**Loft Orbital** · San Francisco, CA · On-site · Posted 2026-02-27
 
-> Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution.
+_Loft Orbital builds spacecraft hardware and backend systems for satellite data management and mission control._
+
+_Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution._
 
 **[→ Apply at Loft Orbital](https://jobs.lever.co/loftorbital/6a588112-01a4-425b-8ec8-90a57866a0df)**
-
-| | |
-|---|---|
-| Location | San Francisco, CA |
-| Remote | On-site |
-| Posted | 2026-02-27 |
 
 ---
 

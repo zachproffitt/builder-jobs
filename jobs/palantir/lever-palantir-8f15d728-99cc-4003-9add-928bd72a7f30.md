@@ -1,4 +1,4 @@
----
+<!--
 id: lever-palantir-8f15d728-99cc-4003-9add-928bd72a7f30
 company: Palantir
 title: Forward Deployed Software Engineer - AUS Government
@@ -10,22 +10,18 @@ first_seen: 2026-04-30
 url: https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30
 summary: Design and implement custom web applications to solve customer problems. Build end-to-end solutions for high-stakes data-driven projects.
 skills: 
-render_hash: 17c0b8f4
----
+render_hash: a308fa23
+-->
 
 # Forward Deployed Software Engineer - AUS Government
 
-**Palantir** — Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
+**Palantir** · Canberra, Australia · On-site · Posted 2024-09-04
 
-> Design and implement custom web applications to solve customer problems. Build end-to-end solutions for high-stakes data-driven projects.
+_Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children._
+
+_Design and implement custom web applications to solve customer problems. Build end-to-end solutions for high-stakes data-driven projects._
 
 **[→ Apply at Palantir](https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30)**
-
-| | |
-|---|---|
-| Location | Canberra, Australia |
-| Remote | On-site |
-| Posted | 2024-09-04 |
 
 ---
 

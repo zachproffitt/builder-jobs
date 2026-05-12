@@ -1,4 +1,4 @@
----
+<!--
 id: ashby-cohere-64fb905c-b3b4-4fcf-9e1c-a806c9c40068
 company: Cohere
 title: Software Engineer, Search Applications
@@ -10,22 +10,20 @@ first_seen: 2026-04-30
 url: https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068
 summary: Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services.
 skills: Go, Python, Kubernetes, Docker, OpenSearch
-render_hash: ae475ba0
----
+render_hash: b64d0da3
+-->
 
 # Software Engineer, Search Applications
 
-**Cohere** — Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.
+**Cohere** · Toronto · `Remote` · Posted 2025-11-10
 
-> Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services.
+_Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data._
+
+_Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![OpenSearch](https://img.shields.io/badge/OpenSearch-3B82F6?style=flat-square)
 
 **[→ Apply at Cohere](https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068)**
-
-| | |
-|---|---|
-| Location | Toronto |
-| Remote | Remote |
-| Posted | 2025-11-10 |
 
 ---
 

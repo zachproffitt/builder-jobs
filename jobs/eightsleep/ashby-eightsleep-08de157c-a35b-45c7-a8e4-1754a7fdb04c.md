@@ -1,4 +1,4 @@
----
+<!--
 id: ashby-eightsleep-08de157c-a35b-45c7-a8e4-1754a7fdb04c
 company: EightSleep
 title: Staff Mechanical Design Engineer
@@ -10,22 +10,20 @@ first_seen: 2026-05-11
 url: https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c
 summary: Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production.
 skills: CAD, prototyping, testing, production, electromechanical systems
-render_hash: 699f0a27
----
+render_hash: 7e1ebbc3
+-->
 
 # Staff Mechanical Design Engineer
 
-**EightSleep** — Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
+**EightSleep** · San Francisco · Posted 2026-05-06
 
-> Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production.
+_Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance._
+
+_Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production._
+
+![CAD](https://img.shields.io/badge/CAD-3B82F6?style=flat-square) ![prototyping](https://img.shields.io/badge/prototyping-3B82F6?style=flat-square) ![testing](https://img.shields.io/badge/testing-3B82F6?style=flat-square) ![production](https://img.shields.io/badge/production-3B82F6?style=flat-square) ![electromechanical systems](https://img.shields.io/badge/electromechanical_systems-3B82F6?style=flat-square)
 
 **[→ Apply at EightSleep](https://jobs.ashbyhq.com/eightsleep/08de157c-a35b-45c7-a8e4-1754a7fdb04c)**
-
-| | |
-|---|---|
-| Location | San Francisco |
-| Remote | Not specified |
-| Posted | 2026-05-06 |
 
 ---
 
