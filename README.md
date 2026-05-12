@@ -4,7 +4,9 @@ A job board for engineers who build things — software, hardware, firmware, ML 
 Roles are scraped daily from company career pages and filtered by an LLM to keep only
 positions where the person will primarily write code or build systems.
 
-**14 open roles** · updated daily
+### 14 open roles &nbsp;·&nbsp; updated daily
+
+<br>
 
 ## May 12, 2026
 
