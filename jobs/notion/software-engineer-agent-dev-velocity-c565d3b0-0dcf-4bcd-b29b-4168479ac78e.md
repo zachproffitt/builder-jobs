@@ -1,24 +1,24 @@
 <!--
 id: ashby-notion-c565d3b0-0dcf-4bcd-b29b-4168479ac78e
 company: Notion
-title: Software Engineer, AI Dev Velocity
+title: Software Engineer, Agent Dev Velocity
 source: ashby
 location: San Francisco, California
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-13
 first_seen: 2026-05-13
-first_seen_at: 2026-05-13T16:15:20+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e
 summary: Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization.
 skills: TypeScript, Python, Distributed Systems, Data Pipelines, LLM Evaluation, PostgreSQL, Kubernetes, CI/CD
 level: mid
 comp: $214k-$300k
 comp_extras: equity
-render_hash: 48077eaa
+render_hash: a01af912
 -->
 
-# Software Engineer, AI Dev Velocity
+# Software Engineer, Agent Dev Velocity
 
 <img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion**  
 San Francisco, California · `Mid` · `Remote` · `$214k-$300k` · `Equity`
