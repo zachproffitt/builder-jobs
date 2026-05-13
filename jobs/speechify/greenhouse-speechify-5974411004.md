@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5974411004
-summary: Design, develop, and maintain backend APIs including public TTS API, payments, subscriptions, and auth services on GCP infrastructure.
-skills: TypeScript, Node.js, GCP, Docker, Kubernetes
+summary: Design and develop robust backend APIs for Speechify's text-to-speech platform, including public TTS APIs and internal services for payments, subscriptions, authentication, and consumption tracking. Build and optimize high-availability systems serving 50+ million users across multiple platforms and cloud providers.
+skills: TypeScript, Node.js, GCP, AWS, Azure, Docker, Kubernetes, PostgreSQL
 level: mid
 comp: 
 comp_extras: 
-render_hash: db2eca6b
+render_hash: 9059b91d
 -->
 
 # Software Engineer, Platform - Recife, Brazil
@@ -22,9 +22,9 @@ render_hash: db2eca6b
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Recife, Brazil · `Mid`
 
-_Design, develop, and maintain backend APIs including public TTS API, payments, subscriptions, and auth services on GCP infrastructure._
+_Design and develop robust backend APIs for Speechify's text-to-speech platform, including public TTS APIs and internal services for payments, subscriptions, authentication, and consumption tracking. Build and optimize high-availability systems serving 50+ million users across multiple platforms and cloud providers._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

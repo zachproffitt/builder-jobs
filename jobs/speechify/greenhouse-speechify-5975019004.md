@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5975019004
-summary: Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK and WinUI, with emphasis on accessibility, performance, and cross-version compatibility.
-skills: C#, XAML, Windows App SDK, WinUI, C++
+summary: Design, architect, and develop native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML. Drive accessibility compliance and full-lifecycle feature ownership from conception through production release.
+skills: Windows App SDK, WinUI, C#, XAML, C++, Win32/WinRT/COM, Microsoft UI Automation, .NET
 level: senior
 comp: 
 comp_extras: 
-render_hash: 22464c01
+render_hash: c510e410
 -->
 
 # Senior Software Engineer, Windows/Desktop Applications - Oklahoma City, OK, USA
@@ -22,9 +22,9 @@ render_hash: 22464c01
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Oklahoma City, OK, USA · `Senior`
 
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK and WinUI, with emphasis on accessibility, performance, and cross-version compatibility._
+_Design, architect, and develop native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML. Drive accessibility compliance and full-lifecycle feature ownership from conception through production release._
 
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

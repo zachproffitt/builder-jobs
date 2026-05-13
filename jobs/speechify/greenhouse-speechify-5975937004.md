@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5975937004
-summary: Ship production code for Speechify's web products and Chrome extension, working closely with product teams to build features that scale to millions of users.
-skills: JavaScript, React, Redux, Firebase, TypeScript
+summary: Ship production code for Speechify's web products and Chrome extension, working across the full stack to build features serving millions of users. Lead technical decisions on a flat-structure team with direct impact on product roadmap and user experience at scale.
+skills: JavaScript, React, Redux, TypeScript, Firebase
 level: manager
 comp: 
 comp_extras: 
-render_hash: c73749ae
+render_hash: 45327feb
 -->
 
 # Tech Lead, Web Core Product & Chrome Extension - Shanghai, China
@@ -22,9 +22,9 @@ render_hash: c73749ae
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Shanghai, China · `Manager`
 
-_Ship production code for Speechify's web products and Chrome extension, working closely with product teams to build features that scale to millions of users._
+_Ship production code for Speechify's web products and Chrome extension, working across the full stack to build features serving millions of users. Lead technical decisions on a flat-structure team with direct impact on product roadmap and user experience at scale._
 
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

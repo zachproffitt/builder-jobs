@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/intercom/jobs/7271914
-summary: Research and productize machine learning models for Intercom's AI customer service platform, from algorithm exploration through offline evaluation to production deployment with product partners.
-skills: Transformer neural networks, supervised learning, unsupervised clustering, exploratory data analysis, n/a
+summary: Build production machine learning systems for AI-powered customer service, from algorithm research and prototyping through offline evaluation to deployment. Lead a team while raising technical standards for reliability and operational excellence in a product-focused ML organization shipping to beta in weeks.
+skills: Python, Machine Learning, Neural Networks, Transformers, Supervised Learning, Unsupervised Learning, Data Analysis
 level: staff
 comp: 
 comp_extras: 
-render_hash: 2d8f572d
+render_hash: 462953a6
 -->
 
 # Staff Machine Learning Scientist
@@ -22,9 +22,9 @@ render_hash: 2d8f572d
 <img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom**  
 London, England · `Staff`
 
-_Research and productize machine learning models for Intercom's AI customer service platform, from algorithm exploration through offline evaluation to production deployment with product partners._
+_Build production machine learning systems for AI-powered customer service, from algorithm research and prototyping through offline evaluation to deployment. Lead a team while raising technical standards for reliability and operational excellence in a product-focused ML organization shipping to beta in weeks._
 
-![Transformer neural networks](https://img.shields.io/badge/Transformer_neural_networks-3B82F6?style=flat-square) ![supervised learning](https://img.shields.io/badge/supervised_learning-3B82F6?style=flat-square) ![unsupervised clustering](https://img.shields.io/badge/unsupervised_clustering-3B82F6?style=flat-square) ![exploratory data analysis](https://img.shields.io/badge/exploratory_data_analysis-3B82F6?style=flat-square) ![n/a](https://img.shields.io/badge/n%2Fa-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-3B82F6?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-3B82F6?style=flat-square) ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-3B82F6?style=flat-square) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-3B82F6?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -1106,9 +1106,9 @@ _Build and deploy autonomous agents for North's AI workspace platform, integrati
 ### [Staff Database Platform Engineer](jobs/demandbase/ashby-demandbase-544aaca7-cef4-4e82-9be1-7207a056b296.md)
 <img src="https://www.google.com/s2/favicons?domain=demandbase.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Demandbase** · US · `Staff` · `Remote`
 
-_Design and build self-service database platforms and Infrastructure-as-Code solutions for provisioning, scaling, and operating cloud-native databases across AWS environments. Establish architectural standards and observability frameworks for microservices database operations._
+_Design and build self-service database platforms and Infrastructure-as-Code solutions that enable teams to provision, scale, and operate databases across AWS and cloud-native environments at scale. Establish architectural standards and observability frameworks for microservices environments while modernizing legacy database systems._
 
-![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS RDS](https://img.shields.io/badge/AWS_RDS-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS (RDS](https://img.shields.io/badge/AWS_%28RDS-3B82F6?style=flat-square) ![Aurora](https://img.shields.io/badge/Aurora-3B82F6?style=flat-square) ![DynamoDB)](https://img.shields.io/badge/DynamoDB%29-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-3B82F6?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square) ![Iceberg](https://img.shields.io/badge/Iceberg-3B82F6?style=flat-square) ![OpenSearch](https://img.shields.io/badge/OpenSearch-3B82F6?style=flat-square)
 
 ---
 
@@ -1214,9 +1214,9 @@ _Drive operational maturity by implementing CI/CD pipelines, infrastructure-as-c
 ### [Senior Engine Programmer, Verse Framework](jobs/epic-games/greenhouse-epicgames-5994618004.md)
 <img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Cary,North Carolina,United States · `Senior`
 
-_Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, designing APIs that expose engine capabilities across Scene Graph, networking, analytics, and the language toolchain._
+_Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, including Scene Graph, networking, analytics, and language toolchain integration. Design and maintain APIs that expose engine capabilities across multiple platforms with strong backward compatibility requirements._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Game consoles](https://img.shields.io/badge/Game_consoles-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Verse Framework](https://img.shields.io/badge/Verse_Framework-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Verse](https://img.shields.io/badge/Verse-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![game consoles](https://img.shields.io/badge/game_consoles-3B82F6?style=flat-square) ![multiple programming languages](https://img.shields.io/badge/multiple_programming_languages-3B82F6?style=flat-square)
 
 ---
 
@@ -1393,9 +1393,9 @@ _Build and maintain production-grade voice models and inference pipelines for Pi
 ### [Staff Machine Learning Scientist](jobs/intercom/greenhouse-intercom-7271914.md)
 <img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom** · London, England · `Staff`
 
-_Research and productize machine learning models for Intercom's AI customer service platform, from algorithm exploration through offline evaluation to production deployment with product partners._
+_Build production machine learning systems for AI-powered customer service, from algorithm research and prototyping through offline evaluation to deployment. Lead a team while raising technical standards for reliability and operational excellence in a product-focused ML organization shipping to beta in weeks._
 
-![Transformer neural networks](https://img.shields.io/badge/Transformer_neural_networks-3B82F6?style=flat-square) ![supervised learning](https://img.shields.io/badge/supervised_learning-3B82F6?style=flat-square) ![unsupervised clustering](https://img.shields.io/badge/unsupervised_clustering-3B82F6?style=flat-square) ![exploratory data analysis](https://img.shields.io/badge/exploratory_data_analysis-3B82F6?style=flat-square) ![n/a](https://img.shields.io/badge/n%2Fa-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-3B82F6?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-3B82F6?style=flat-square) ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-3B82F6?style=flat-square) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-3B82F6?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square)
 
 ---
 
@@ -1491,11 +1491,12 @@ _Design and optimize distributed training systems for large-scale GPU clusters._
 ---
 
 ### [Android Engineer](jobs/monzo/greenhouse-monzo-7343996.md)
-<img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo** · Barcelona · `Mid`
+<img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo** · Barcelona · `Mid` · `Hybrid`  
+`Incentive Awards tied to performance` `benefits`
 
-_Build and maintain the native Android banking app used by 11+ million customers, balancing polished user experiences with well-tested resilient code while working in small autonomous product squads._
+_Build and evolve Monzo's native Android banking app serving 11+ million users. Balance polished user experience with well-tested, resilient code while working in small autonomous product squads across personal banking and support tools._
 
-![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-3B82F6?style=flat-square)
+![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![mobile app development](https://img.shields.io/badge/mobile_app_development-3B82F6?style=flat-square) ![native mobile development](https://img.shields.io/badge/native_mobile_development-3B82F6?style=flat-square)
 
 ---
 
@@ -1909,9 +1910,9 @@ _Build and maintain the enterprise identity and access management systems for Si
 ### [Software Engineer](jobs/singlestore/greenhouse-singlestore-7790334.md)
 <img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SingleStore** · India (Remote) · `Mid` · `Remote`
 
-_Design and implement cloud infrastructure capabilities for SingleStore's managed database service, including networking, control plane, and scaling systems running on Kubernetes._
+_Design and implement cloud infrastructure capabilities for a managed database service, focusing on networking, control plane, and scaling systems running on Kubernetes. Build systems handling distributed database management across multi-cloud environments (AWS, Azure, GCP) with deep technical challenges in operational excellence and performance at scale._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![containerized services](https://img.shields.io/badge/containerized_services-3B82F6?style=flat-square) ![SaaS](https://img.shields.io/badge/SaaS-3B82F6?style=flat-square)
 
 ---
 
@@ -1952,79 +1953,80 @@ _Build and deploy LLM-powered language learning products across the full stack_
 ### [Software Engineer, Platform - Recife, Brazil](jobs/speechify/greenhouse-speechify-5974411004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Recife, Brazil · `Mid`
 
-_Design, develop, and maintain backend APIs including public TTS API, payments, subscriptions, and auth services on GCP infrastructure._
+_Design and develop robust backend APIs for Speechify's text-to-speech platform, including public TTS APIs and internal services for payments, subscriptions, authentication, and consumption tracking. Build and optimize high-availability systems serving 50+ million users across multiple platforms and cloud providers._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer, Core Experiences - Des Moines, IA, USA](jobs/speechify/greenhouse-speechify-5974664004.md)
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Des Moines, IA, USA · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Des Moines, IA, USA · `Senior`  
+`$140k-$200k` `bonus` `stock`
 
-_Build and maintain cross-platform SDKs and core backend services that power Speechify's text-to-speech product, optimizing parsing algorithms and shipping cloud functions in Kotlin._
+_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience, optimizing cloud functions, backend services, and client-side abstractions. Work at the intersection of product and infrastructure, designing efficient APIs and systems that directly enhance user experience across web, mobile, and cloud platforms._
 
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kotlin cloud functions](https://img.shields.io/badge/Kotlin_cloud_functions-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer, Windows/Desktop Applications - Norfolk, VA, USA](jobs/speechify/greenhouse-speechify-5975007004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Norfolk, VA, USA · `Senior`
 
-_Design, architect, and develop native Windows desktop applications using Windows App SDK and WinUI, with focus on accessibility, performance, and cross-version compatibility._
+_Design, architect, and develop native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML. Drive accessibility integration across the platform with deep expertise in Windows accessibility APIs and inclusive design._
 
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer, Windows/Desktop Applications - Oklahoma City, OK, USA](jobs/speechify/greenhouse-speechify-5975019004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Oklahoma City, OK, USA · `Senior`
 
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK and WinUI, with emphasis on accessibility, performance, and cross-version compatibility._
+_Design, architect, and develop native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML. Drive accessibility compliance and full-lifecycle feature ownership from conception through production release._
 
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, Data Infrastructure & Acquisition - Bucharest, Romania](jobs/speechify/greenhouse-speechify-5975224004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Bucharest, Romania · `Senior`
 
-_Build and operate the data ingestion pipeline on GCP infrastructure to collect and process petabyte-scale audio datasets for model training, working across cloud infrastructure, data processing workflows, and research collaboration._
+_Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training Speechify's text-to-speech models. Integrate web crawlers, cloud infrastructure, and data processing workflows to optimize the cost/throughput/quality frontier for AI model training._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![web crawlers](https://img.shields.io/badge/web_crawlers-3B82F6?style=flat-square) ![large-scale data processing](https://img.shields.io/badge/large--scale_data_processing-3B82F6?style=flat-square)
 
 ---
 
 ### [Tech Lead, Android Core Product - Barcelona, Spain](jobs/speechify/greenhouse-speechify-5975587004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Barcelona, Spain · `Senior`
 
-_Own major features and reliability metrics for Speechify's Android app, working across product and design teams to deliver high-quality user experiences at scale._
+_Build and own major features for Speechify's Android app, the most-used text-to-speech app on Google Play Store. Shape the Android team's technical direction while maintaining reliability metrics and delivering high-quality user experiences at scale._
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
 
 ---
 
 ### [Tech Lead, Web Core Product & Chrome Extension - Shanghai, China](jobs/speechify/greenhouse-speechify-5975937004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Shanghai, China · `Manager`
 
-_Ship production code for Speechify's web products and Chrome extension, working closely with product teams to build features that scale to millions of users._
+_Ship production code for Speechify's web products and Chrome extension, working across the full stack to build features serving millions of users. Lead technical decisions on a flat-structure team with direct impact on product roadmap and user experience at scale._
 
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
 
 ---
 
 ### [Tech Lead, Android Core Product - Zurich, Switzerland](jobs/speechify/greenhouse-speechify-5976309004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Zurich, Switzerland · `Senior`
 
-_Own major features and lead Android app development for Speechify's text-to-speech product, maintaining reliability metrics and shipping high-quality releases across the Play Store's most-used text-to-speech app._
+_Build and own major features for Speechify's Android app, the most-used text-to-speech application in the Play Store, while shaping the technical direction of the Android team. Drive reliability improvements and user experience enhancements across a product serving 50 million users._
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3B82F6?style=flat-square) ![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, iOS Core Product - London, United Kingdom](jobs/speechify/greenhouse-speechify-5981027004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · London, United Kingdom · `Senior`
 
-_Build and ship production code for the Speechify iOS app, owning key engineering decisions and maintaining the app's complex architecture at scale._
+_Build and ship production code for Speechify's iOS app, a top-20 productivity app with 50M+ users. Lead engineering decisions on app architecture and product features while maintaining a complex, scaled mobile codebase._
 
 ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square)
 
@@ -2033,9 +2035,9 @@ _Build and ship production code for the Speechify iOS app, owning key engineerin
 ### [Software Engineer, iOS Core Product - Brussels, Belgium](jobs/speechify/greenhouse-speechify-5981146004.md)
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Brussels, Belgium · `Senior`
 
-_Build and maintain the iOS app for Speechify's text-to-speech product, shipping production code and leading key engineering and product decisions for a #18 App Store productivity application._
+_Build and ship production code for the Speechify iOS app, maintaining and enhancing its complex architecture to support millions of users. Lead key engineering and product decisions within a dedicated product team while shaping the product roadmap._
 
-![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square)
 
 ---
 
@@ -2065,11 +2067,12 @@ _Build and maintain data pipelines, infrastructure, and tools using Spark, Scala
 ---
 
 ### [Software Engineer, Android](jobs/suno/ashby-suno-8a5c628e-0b44-492d-8ed4-39efae717b18.md)
-<img src="https://www.google.com/s2/favicons?domain=suno.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Suno** · NYC · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=suno.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Suno** · NYC · `Mid`  
+`equity` `401(k) with 3% employer match` `medical/dental/vision insurance` `11 paid holidays + unlimited PTO` `16 weeks paid parental leave` `creative education stipend` `commuter allowance`
 
-_Design and build Suno's Android app for music creation, exploration, and listening; create foundational libraries for performant, interactive media experiences._
+_Design and build Suno's Android app for music creation, exploring, and listening. Create foundational abstractions and libraries for performant, highly interactive media experiences._
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-3B82F6?style=flat-square) ![Material Design](https://img.shields.io/badge/Material_Design-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-3B82F6?style=flat-square) ![Media3](https://img.shields.io/badge/Media3-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Material Design](https://img.shields.io/badge/Material_Design-3B82F6?style=flat-square)
 
 ---
 

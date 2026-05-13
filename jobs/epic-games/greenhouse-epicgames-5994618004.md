@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://epicgames.com/careers/jobs/5994618004?gh_jid=5994618004
-summary: Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, designing APIs that expose engine capabilities across Scene Graph, networking, analytics, and the language toolchain.
-skills: C++, Unreal Engine, Game consoles, APIs, Verse Framework
+summary: Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, including Scene Graph, networking, analytics, and language toolchain integration. Design and maintain APIs that expose engine capabilities across multiple platforms with strong backward compatibility requirements.
+skills: C++, Verse, Unreal Engine, game consoles, multiple programming languages
 level: senior
 comp: 
 comp_extras: 
-render_hash: ad99b939
+render_hash: b7dae687
 -->
 
 # Senior Engine Programmer, Verse Framework
@@ -22,9 +22,9 @@ render_hash: ad99b939
 <img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games**  
 Cary,North Carolina,United States · `Senior`
 
-_Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, designing APIs that expose engine capabilities across Scene Graph, networking, analytics, and the language toolchain._
+_Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, including Scene Graph, networking, analytics, and language toolchain integration. Design and maintain APIs that expose engine capabilities across multiple platforms with strong backward compatibility requirements._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Game consoles](https://img.shields.io/badge/Game_consoles-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Verse Framework](https://img.shields.io/badge/Verse_Framework-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Verse](https://img.shields.io/badge/Verse-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![game consoles](https://img.shields.io/badge/game_consoles-3B82F6?style=flat-square) ![multiple programming languages](https://img.shields.io/badge/multiple_programming_languages-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

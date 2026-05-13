@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/singlestore/jobs/7790334
-summary: Design and implement cloud infrastructure capabilities for SingleStore's managed database service, including networking, control plane, and scaling systems running on Kubernetes.
-skills: Go, Kubernetes, AWS, Azure, GCP
+summary: Design and implement cloud infrastructure capabilities for a managed database service, focusing on networking, control plane, and scaling systems running on Kubernetes. Build systems handling distributed database management across multi-cloud environments (AWS, Azure, GCP) with deep technical challenges in operational excellence and performance at scale.
+skills: Go, Kubernetes, AWS, Azure, GCP, distributed systems, containerized services, SaaS
 level: mid
 comp: 
 comp_extras: 
-render_hash: c783f933
+render_hash: 5644d186
 -->
 
 # Software Engineer
@@ -22,9 +22,9 @@ render_hash: c783f933
 <img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SingleStore**  
 India (Remote) · `Mid` · `Remote`
 
-_Design and implement cloud infrastructure capabilities for SingleStore's managed database service, including networking, control plane, and scaling systems running on Kubernetes._
+_Design and implement cloud infrastructure capabilities for a managed database service, focusing on networking, control plane, and scaling systems running on Kubernetes. Build systems handling distributed database management across multi-cloud environments (AWS, Azure, GCP) with deep technical challenges in operational excellence and performance at scale._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![containerized services](https://img.shields.io/badge/containerized_services-3B82F6?style=flat-square) ![SaaS](https://img.shields.io/badge/SaaS-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

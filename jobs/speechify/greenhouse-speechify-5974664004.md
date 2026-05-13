@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5974664004
-summary: Build and maintain cross-platform SDKs and core backend services that power Speechify's text-to-speech product, optimizing parsing algorithms and shipping cloud functions in Kotlin.
-skills: Kotlin Multiplatform, GCP, Kotlin, Java
+summary: Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience, optimizing cloud functions, backend services, and client-side abstractions. Work at the intersection of product and infrastructure, designing efficient APIs and systems that directly enhance user experience across web, mobile, and cloud platforms.
+skills: Kotlin, Kotlin Multiplatform, Java, GCP, Kotlin cloud functions
 level: senior
-comp: 
-comp_extras: 
-render_hash: fa81166a
+comp: $140k-$200k
+comp_extras: bonus, stock
+render_hash: 1600215d
 -->
 
 # Senior Software Engineer, Core Experiences - Des Moines, IA, USA
@@ -22,9 +22,11 @@ render_hash: fa81166a
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Des Moines, IA, USA · `Senior`
 
-_Build and maintain cross-platform SDKs and core backend services that power Speechify's text-to-speech product, optimizing parsing algorithms and shipping cloud functions in Kotlin._
+`$140k-$200k` `bonus` `stock`
 
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience, optimizing cloud functions, backend services, and client-side abstractions. Work at the intersection of product and infrastructure, designing efficient APIs and systems that directly enhance user experience across web, mobile, and cloud platforms._
+
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kotlin cloud functions](https://img.shields.io/badge/Kotlin_cloud_functions-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 
