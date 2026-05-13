@@ -5,11 +5,99 @@ Roles are [scraped](https://github.com/zachproffitt/builder-jobs-scraper) hourly
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 50 open roles (50 new today) &nbsp;·&nbsp; 296 companies searched
+### 58 open roles (58 new today) &nbsp;·&nbsp; 296 companies searched
 
 <br>
 
 ## May 13, 2026
+
+### [Principal Technical Lead, AI Robotics](jobs/anduril-industries/greenhouse-andurilindustries-5136544007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Principal` · `$254k-$444k` · `Equity`
+
+_Architect and lead development of autonomous robotic systems for defense applications, including locomotion, manipulation, perception, and whole-body control. Requires hands-on technical contribution and experience shipping real-world robotic systems in unstructured, contested environments with an aggressive delivery timeline._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square) ![Robot Manipulation](https://img.shields.io/badge/Robot_Manipulation-3B82F6?style=flat-square) ![Legged Locomotion](https://img.shields.io/badge/Legged_Locomotion-3B82F6?style=flat-square) ![Whole-Body Control](https://img.shields.io/badge/Whole--Body_Control-3B82F6?style=flat-square) ![Sim-to-Real Transfer](https://img.shields.io/badge/Sim--to--Real_Transfer-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
+
+### [Software Engineer](jobs/applied-intuition/greenhouse-appliedintuition-4695020005.md)
+<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition** · Bengaluru, Karnataka, India · `Senior` · `Hybrid` · `$125k-$222k` · `Equity`
+
+_Design and build simulator architecture and autonomy products across multiple domains, working across the full stack from infrastructure to customer-facing features. Work on simulation, modeling, and autonomous systems in a defense and automotive context with access to high-profile customers (top 20 automakers, U.S. military)._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Simulation](https://img.shields.io/badge/Simulation-3B82F6?style=flat-square) ![ROS](https://img.shields.io/badge/ROS-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-3B82F6?style=flat-square) ![Robotics](https://img.shields.io/badge/Robotics-3B82F6?style=flat-square) ![Physics Modeling](https://img.shields.io/badge/Physics_Modeling-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
+
+### [Software Engineer- Backend Intern (Fall 2026)](jobs/astranis/greenhouse-astranis-4681183006.md)
+<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis** · San Francisco, CA · `Intern` · `$29/hour`
+
+_Design and build mission-critical backend services that autonomously control satellites, monitor telemetry, and manage fleet operations. This role requires U.S. citizenship or permanent residency due to export control regulations on space technology._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Pub/Sub Systems](https://img.shields.io/badge/Pub%2FSub_Systems-3B82F6?style=flat-square) ![Streaming Systems (Flink)](https://img.shields.io/badge/Streaming_Systems_%28Flink%29-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
+
+### [Chip Simulation Software Engineer](jobs/etched/ashby-Etched-29b303b2-f1a5-4799-a0b2-e86e28289a9b.md)
+<img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Etched** · San Jose · `Mid`
+
+_Design, develop, and maintain accurate, high-performance simulations of custom transformer ASIC hardware to enable close hardware-software co-design. Work at the intersection of chip simulation, kernel development, and ML accelerator infrastructure with tight feedback loops between simulation and real hardware validation._
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SystemC](https://img.shields.io/badge/SystemC-3B82F6?style=flat-square) ![QEMU](https://img.shields.io/badge/QEMU-3B82F6?style=flat-square) ![Linux kernel development](https://img.shields.io/badge/Linux_kernel_development-3B82F6?style=flat-square) ![Hardware verification](https://img.shields.io/badge/Hardware_verification-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Multithreading](https://img.shields.io/badge/Multithreading-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
+
+### [Senior Analytics Engineer | USA | Remote](jobs/grafana/greenhouse-grafanalabs-5850008004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · `Senior` · `Remote` · `$127,651-$153,180` · `Equity`
+
+_Build and operate the data stack architecture and infrastructure (BigQuery, dbt, Fivetran) that ingests, transforms, tests, and connects data across Grafana Labs. Partner with stakeholders to design flexible, scalable data pipelines and establish best practices for data quality, version control, and documentation as the organization scales._
+
+![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square) ![Fivetran](https://img.shields.io/badge/Fivetran-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-3B82F6?style=flat-square) ![Data Quality Testing](https://img.shields.io/badge/Data_Quality_Testing-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
+
+### [Senior Analytics Engineer | Canada | Remote](jobs/grafana/greenhouse-grafanalabs-5850010004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · `Senior` · `Remote` · `CAD 129,392 - CAD 155,272` · `Equity`
+
+_Own and operate the data stack architecture and infrastructure (BigQuery, dbt, Fivetran) that ingests, transforms, tests, and documents data across Grafana Labs. Build data pipelines and processes that scale with the business while enabling analysts and stakeholders to access accurate, accessible data._
+
+![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square) ![Fivetran](https://img.shields.io/badge/Fivetran-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-3B82F6?style=flat-square) ![Data Quality Testing](https://img.shields.io/badge/Data_Quality_Testing-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
+
+### [Director, Forward Deployed AI Engineering](jobs/natera/greenhouse-natera-5991157004.md)
+<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera** · US Remote · `Manager` · `Remote` · `$186,700–$233,400`
+
+_Build and ship AI agents and automation workflows across enterprise functions (Sales, Marketing, Finance, Legal, HR), owning the full deployment lifecycle from discovery through production with formal KPI tracking and observability. Lead a forward-deployed engineering team while spending roughly half your time as a hands-on technical contributor debugging systems, tuning prompts, and integrating with enterprise platforms._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![LLM agents](https://img.shields.io/badge/LLM_agents-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![Prompt engineering](https://img.shields.io/badge/Prompt_engineering-3B82F6?style=flat-square) ![Enterprise APIs](https://img.shields.io/badge/Enterprise_APIs-3B82F6?style=flat-square) ![Cloud platforms](https://img.shields.io/badge/Cloud_platforms-3B82F6?style=flat-square) ![Observability/monitoring](https://img.shields.io/badge/Observability%2Fmonitoring-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
+
+### [Senior Astrodynamics Engineer](jobs/slingshot-aerospace/greenhouse-slingshotaerospace-5995728004.md)
+<img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Slingshot Aerospace** · `Senior` · `Remote` · `$150k-$250k`
+
+_Develop advanced astrodynamics, orbit determination, and multi-sensor data fusion algorithms for space operations intelligence and autonomy. Requires U.S. security clearance and expertise in spacecraft navigation, dynamic systems modeling, and mission optimization for defense/government space applications._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Orbit Determination](https://img.shields.io/badge/Orbit_Determination-3B82F6?style=flat-square) ![Astrodynamics](https://img.shields.io/badge/Astrodynamics-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Data Fusion](https://img.shields.io/badge/Data_Fusion-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square) ![PhD Preferred](https://img.shields.io/badge/PhD_Preferred-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 20:43 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Full-stack](jobs/anduril-industries/greenhouse-andurilindustries-5137048007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$191,000—$253,000 USD` · `Equity`
@@ -246,17 +334,6 @@ _Design and build scalable distributed systems that extract, enrich, and process
 _Optimize the performance and reliability of Claude Code and the Bun JavaScript runtime by designing and building core systems including runtime internals, I/O paths, memory management, and the agent execution loop. Drive down memory usage, latency, and startup time across the stack from kernel interfaces through the JS engine to the agent layer._
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Linux internals](https://img.shields.io/badge/Linux_internals-3B82F6?style=flat-square) ![Memory management](https://img.shields.io/badge/Memory_management-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Bun runtime](https://img.shields.io/badge/Bun_runtime-3B82F6?style=flat-square)
-
-<sub>May 13, 2026 at 16:15 UTC</sub>
-
----
-
-### [Software Engineer, AI Dev Velocity](jobs/notion/ashby-notion-c565d3b0-0dcf-4bcd-b29b-4168479ac78e.md)
-<img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion** · San Francisco, California · `Mid` · `Remote` · `$214k-$300k` · `Equity`
-
-_Build scalable evaluation infrastructure and tooling that enables Notion's AI teams to ship high-quality models faster, including eval runners, benchmarks, datasets, and measurement systems. Work at the intersection of developer tooling and distributed systems to make LLM evaluations reliable, cost-effective, and integrated into daily shipping workflows._
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Batch Processing](https://img.shields.io/badge/Batch_Processing-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>May 13, 2026 at 16:15 UTC</sub>
 
@@ -499,6 +576,17 @@ _Build and architect the Android Maps SDK that powers mobile mapping application
 _Lead the architecture and delivery of security-focused platform primitives (compute, storage, networking, identity) across Monzo's financial infrastructure. Build secure-by-design systems and tooling that enable engineering teams to move at scale without compromising security in a high-threat environment handling millions of users' sensitive financial data._
 
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure (AWS/GCP/Azure)](https://img.shields.io/badge/Cloud_Infrastructure_%28AWS%2FGCP%2FAzure%29-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square) ![Platform Security](https://img.shields.io/badge/Platform_Security-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Software Engineer, Agent Dev Velocity](jobs/notion/ashby-notion-c565d3b0-0dcf-4bcd-b29b-4168479ac78e.md)
+<img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion** · San Francisco, California · `Mid` · `Remote` · `$214k-$300k` · `Equity`
+
+_Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 

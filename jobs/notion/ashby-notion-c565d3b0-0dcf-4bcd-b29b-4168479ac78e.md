@@ -1,33 +1,33 @@
 <!--
 id: ashby-notion-c565d3b0-0dcf-4bcd-b29b-4168479ac78e
 company: Notion
-title: Software Engineer, AI Dev Velocity
+title: Software Engineer, Agent Dev Velocity
 source: ashby
 location: San Francisco, California
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-13
 first_seen: 2026-05-13
-first_seen_at: 2026-05-13T16:15:20+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e
-summary: Build scalable evaluation infrastructure and tooling that enables Notion's AI teams to ship high-quality models faster, including eval runners, benchmarks, datasets, and measurement systems. Work at the intersection of developer tooling and distributed systems to make LLM evaluations reliable, cost-effective, and integrated into daily shipping workflows.
-skills: TypeScript, Python, Distributed Systems, Data Pipelines, LLM Evaluation, CI/CD, Batch Processing, Kubernetes
+summary: Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization.
+skills: TypeScript, Python, Distributed Systems, Data Pipelines, LLM Evaluation, PostgreSQL, Kubernetes, CI/CD
 level: mid
 comp: $214k-$300k
 comp_extras: equity
-render_hash: ce9f0b9e
+render_hash: 41fa61df
 -->
 
-# Software Engineer, AI Dev Velocity
+# Software Engineer, Agent Dev Velocity
 
 <img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion**  
 San Francisco, California · `Mid` · `Remote` · `$214k-$300k` · `Equity`
 
 > Notion builds a workspace application that combines note-taking, databases, wikis, and project management tools in a single platform. The product operates in the productivity software domain, targeting individuals, teams, and organizations that need to organize information and collaborate on work.
 
-_Build scalable evaluation infrastructure and tooling that enables Notion's AI teams to ship high-quality models faster, including eval runners, benchmarks, datasets, and measurement systems. Work at the intersection of developer tooling and distributed systems to make LLM evaluations reliable, cost-effective, and integrated into daily shipping workflows._
+_Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Batch Processing](https://img.shields.io/badge/Batch_Processing-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
 
 <sub>Posted May 13, 2026</sub>
 
