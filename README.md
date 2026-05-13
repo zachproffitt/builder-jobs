@@ -5,11 +5,44 @@ Roles are [scraped](https://github.com/zachproffitt/builder-jobs-scraper) hourly
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 65 open roles (65 new today) &nbsp;·&nbsp; 296 companies searched
+### 68 open roles (68 new today) &nbsp;·&nbsp; 296 companies searched
 
 <br>
 
 ## May 13, 2026
+
+### [Software Engineer II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5995645004.md)
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Mid` · `Hybrid` · `$150.1k-$225.1k` · `Bonus`
+
+_Build and maintain front-end applications for PlayStation social platform features across PS5 and supported platforms using React Native and modern web technologies. Develop UI frameworks and cross-platform components while collaborating with international design and product teams._
+
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![State Management (Jotai)](https://img.shields.io/badge/State_Management_%28Jotai%29-3B82F6?style=flat-square) ![Unit Testing](https://img.shields.io/badge/Unit_Testing-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 22:35 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Mobile Platform (React Native)](jobs/front/ashby-frontcareers-d4a4c46a-35a8-46c0-b09f-d96893be473a.md)
+<img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle">&ensp;**Front** · San Francisco, CA · `Senior` · `Remote`
+
+_Build and maintain Front's cross-platform React Native mobile app, diving into native-level performance optimization and iOS/Android API integration. Work with a high-growth B2B platform handling complex customer operations at scale across 9,000+ companies._
+
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android NDK](https://img.shields.io/badge/Android_NDK-3B82F6?style=flat-square) ![JNI](https://img.shields.io/badge/JNI-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 22:35 UTC</sub>
+
+---
+
+### [AV Safety Data Reporting Engineer](jobs/zoox/lever-zoox-e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9.md)
+<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Zoox** · Foster City, CA
+
+_Build data pipelines, dashboards, and workflow automations to operationalize safety data reporting and compliance for autonomous vehicle fleets at scale. Work across internal safety, legal, and engineering teams to implement rigorous, repeatable processes for large-scale fleet data analysis and event triage._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-3B82F6?style=flat-square) ![Dashboarding](https://img.shields.io/badge/Dashboarding-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 22:35 UTC</sub>
+
+---
 
 ### [Research Engineer, Asta](jobs/allen-institute-for-ai/greenhouse-thealleninstitute-7899565.md)
 <img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Mid` · `Hybrid` · `$118,800-$178,200` · `Bonus`
