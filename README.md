@@ -18,7 +18,7 @@ _Optimize the performance and reliability of Claude Code and the Bun JavaScript 
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Linux internals](https://img.shields.io/badge/Linux_internals-3B82F6?style=flat-square) ![Memory management](https://img.shields.io/badge/Memory_management-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Bun runtime](https://img.shields.io/badge/Bun_runtime-3B82F6?style=flat-square)
 
-<sub>16:15 UTC</sub>
+<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -29,7 +29,7 @@ _Build scalable evaluation infrastructure and tooling that enables Notion's AI t
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Batch Processing](https://img.shields.io/badge/Batch_Processing-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
-<sub>16:15 UTC</sub>
+<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -40,7 +40,7 @@ _Build and maintain the backend server infrastructure for a cross-platform Strat
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square)
 
-<sub>16:15 UTC</sub>
+<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -51,7 +51,7 @@ _Build and operate reliability and observability infrastructure for a multiplaye
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
 
-<sub>16:15 UTC</sub>
+<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -62,7 +62,7 @@ _Build and evolve CI/CD pipelines, automation frameworks, and internal developer
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
 
-<sub>16:15 UTC</sub>
+<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -73,7 +73,7 @@ _Build backend services and APIs in Python running on AWS for a large-scale mult
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
 
-<sub>16:15 UTC</sub>
+<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -84,7 +84,7 @@ _Build a brand-new web application for ShareGate Migrate from scratch, establish
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-3B82F6?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-3B82F6?style=flat-square) ![Azure AD/Entra ID](https://img.shields.io/badge/Azure_AD%2FEntra_ID-3B82F6?style=flat-square) ![MSAL](https://img.shields.io/badge/MSAL-3B82F6?style=flat-square) ![Relational Databases](https://img.shields.io/badge/Relational_Databases-3B82F6?style=flat-square) ![Non-relational Databases](https://img.shields.io/badge/Non--relational_Databases-3B82F6?style=flat-square)
 
-<sub>16:15 UTC</sub>
+<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -95,6 +95,7 @@ _Design and build automated test hardware and control software to validate satel
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PCB Design](https://img.shields.io/badge/PCB_Design-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-3B82F6?style=flat-square) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square) ![Test Automation](https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square) ![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-3B82F6?style=flat-square) ![Electrical Engineering (B.S./M.S. required)](https://img.shields.io/badge/Electrical_Engineering_%28B.S.%2FM.S._required%29-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -105,6 +106,7 @@ _Develop automated test systems and software to validate custom spacecraft elect
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-3B82F6?style=flat-square) ![Power Electronics](https://img.shields.io/badge/Power_Electronics-3B82F6?style=flat-square) ![Environmental Testing (vibration/thermal/TVAC)](https://img.shields.io/badge/Environmental_Testing_%28vibration%2Fthermal%2FTVAC%29-3B82F6?style=flat-square) ![PCBA Design](https://img.shields.io/badge/PCBA_Design-3B82F6?style=flat-square) ![Test Automation](https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square) ![U.S. Citizenship Required](https://img.shields.io/badge/U.S._Citizenship_Required-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -115,6 +117,7 @@ _Operate and evolve a global production network backbone connecting data centers
 
 ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-3B82F6?style=flat-square) ![IS-IS](https://img.shields.io/badge/IS--IS-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![MPLS](https://img.shields.io/badge/MPLS-3B82F6?style=flat-square) ![sFlow](https://img.shields.io/badge/sFlow-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -125,6 +128,7 @@ _Design and build reusable data pipeline components, ETL abstractions, and DataO
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Incremental ETL](https://img.shields.io/badge/Incremental_ETL-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -135,6 +139,7 @@ _Design, build, and operate cloud platform infrastructure and systems for Cockro
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -145,6 +150,7 @@ _Design and build specialized indexing systems (vector, full-text, geospatial) f
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Vector Indexing](https://img.shields.io/badge/Vector_Indexing-3B82F6?style=flat-square) ![Full-Text Search](https://img.shields.io/badge/Full--Text_Search-3B82F6?style=flat-square) ![Geospatial Indexing](https://img.shields.io/badge/Geospatial_Indexing-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -155,6 +161,7 @@ _Build intuitive, queryless exploration workflows and guided UI features for the
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Frontend Development](https://img.shields.io/badge/Frontend_Development-3B82F6?style=flat-square) ![Testing Automation](https://img.shields.io/badge/Testing_Automation-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -165,6 +172,7 @@ _Build and enhance queryless exploration workflows for the Drilldown plugin, ena
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Frontend Development](https://img.shields.io/badge/Frontend_Development-3B82F6?style=flat-square) ![Open Telemetry](https://img.shields.io/badge/Open_Telemetry-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![Testing Automation](https://img.shields.io/badge/Testing_Automation-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -175,6 +183,7 @@ _Build intuitive, guided exploration workflows and queryless user interfaces wit
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Frontend Performance Optimization](https://img.shields.io/badge/Frontend_Performance_Optimization-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![Testing Automation](https://img.shields.io/badge/Testing_Automation-3B82F6?style=flat-square) ![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -185,6 +194,7 @@ _Build intuitive, queryless exploration workflows and guided user interfaces for
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Frontend Development](https://img.shields.io/badge/Frontend_Development-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![Testing Automation](https://img.shields.io/badge/Testing_Automation-3B82F6?style=flat-square) ![Open Telemetry](https://img.shields.io/badge/Open_Telemetry-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -195,6 +205,7 @@ _Build intuitive, queryless exploration workflows and UI components for the Graf
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Open Telemetry](https://img.shields.io/badge/Open_Telemetry-3B82F6?style=flat-square) ![Testing Automation](https://img.shields.io/badge/Testing_Automation-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![User Interface Design](https://img.shields.io/badge/User_Interface_Design-3B82F6?style=flat-square) ![Remote Collaboration](https://img.shields.io/badge/Remote_Collaboration-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -205,6 +216,7 @@ _Build and architect the Android Maps SDK that powers mobile map experiences acr
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![Performance optimization](https://img.shields.io/badge/Performance_optimization-3B82F6?style=flat-square) ![Testing frameworks](https://img.shields.io/badge/Testing_frameworks-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -215,6 +227,7 @@ _Build the Android Maps SDK and related developer tools, designing expressive AP
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Native Development](https://img.shields.io/badge/Native_Development-3B82F6?style=flat-square) ![Testing Frameworks](https://img.shields.io/badge/Testing_Frameworks-3B82F6?style=flat-square) ![Performance Profiling](https://img.shields.io/badge/Performance_Profiling-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -225,6 +238,7 @@ _Build and architect the Android Maps SDK that powers mobile mapping application
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Testing frameworks](https://img.shields.io/badge/Testing_frameworks-3B82F6?style=flat-square) ![AOSP](https://img.shields.io/badge/AOSP-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -235,6 +249,7 @@ _Lead the architecture and delivery of security-focused platform primitives (com
 
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure (AWS/GCP/Azure)](https://img.shields.io/badge/Cloud_Infrastructure_%28AWS%2FGCP%2FAzure%29-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square) ![Platform Security](https://img.shields.io/badge/Platform_Security-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -245,6 +260,7 @@ _Build tools, pipelines, and systems for character asset development in League o
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Character Pipelines](https://img.shields.io/badge/Character_Pipelines-3B82F6?style=flat-square) ![3D Tools (Substance](https://img.shields.io/badge/3D_Tools_%28Substance-3B82F6?style=flat-square) ![ZBrush](https://img.shields.io/badge/ZBrush-3B82F6?style=flat-square) ![Maya)](https://img.shields.io/badge/Maya%29-3B82F6?style=flat-square) ![DCC App Development](https://img.shields.io/badge/DCC_App_Development-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -255,6 +271,7 @@ _Build and operate scalable microservices and backend systems that handle high-v
 
 ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cloud Services (Tencent Cloud)](https://img.shields.io/badge/Cloud_Services_%28Tencent_Cloud%29-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -265,6 +282,7 @@ _Build and evolve Supabase Edge Runtime, a Rust-based Deno host that executes di
 
 ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Deno](https://img.shields.io/badge/Deno-3B82F6?style=flat-square) ![V8 Isolates](https://img.shields.io/badge/V8_Isolates-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -275,6 +293,7 @@ _Own and evolve the Go-based Supabase Terraform provider, building reliability, 
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Testing Infrastructure](https://img.shields.io/badge/Testing_Infrastructure-3B82F6?style=flat-square) ![Schema Design](https://img.shields.io/badge/Schema_Design-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
 
@@ -285,5 +304,6 @@ _Design and implement Waymo's core trip platform APIs and backend services suppo
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Backend Development](https://img.shields.io/badge/Backend_Development-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-3B82F6?style=flat-square) ![Spanner](https://img.shields.io/badge/Spanner-3B82F6?style=flat-square) ![Low-Latency Systems](https://img.shields.io/badge/Low--Latency_Systems-3B82F6?style=flat-square) ![Transportation/Autonomous Vehicles](https://img.shields.io/badge/Transportation%2FAutonomous_Vehicles-3B82F6?style=flat-square)
 
+<sub>May 13, 2026</sub>
 
 ---
