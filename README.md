@@ -5,11 +5,88 @@ Roles are [scraped](https://github.com/zachproffitt/builder-jobs-scraper) hourly
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 58 open roles (58 new today) &nbsp;·&nbsp; 296 companies searched
+### 65 open roles (65 new today) &nbsp;·&nbsp; 296 companies searched
 
 <br>
 
 ## May 13, 2026
+
+### [Research Engineer, Asta](jobs/allen-institute-for-ai/greenhouse-thealleninstitute-7899565.md)
+<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Mid` · `Hybrid` · `$118,800-$178,200` · `Bonus`
+
+_Build infrastructure and AI tools to enable agentic scientific discovery systems, including machine learning pipelines, model training workflows, and agent frameworks for domains like biology and neuroscience. Bridge cutting-edge research with production systems at scale while maintaining open-source contributions._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Jax](https://img.shields.io/badge/Jax-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 21:39 UTC</sub>
+
+---
+
+### [Camera Test Engineer](jobs/anduril-industries/greenhouse-andurilindustries-5137179007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Lexington, Massachusetts, United States · `Mid` · `$98k-$130k` · `Equity`
+
+_Develop and maintain test automation software, data analytics systems, and report generation tools for infrared camera systems in defense manufacturing. Requires U.S. Secret security clearance and hands-on work with complex opto-mechanical and firmware systems in production environments._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Test Automation](https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square) ![Data Acquisition](https://img.shields.io/badge/Data_Acquisition-3B82F6?style=flat-square) ![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-3B82F6?style=flat-square) ![Infrared Systems](https://img.shields.io/badge/Infrared_Systems-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 21:39 UTC</sub>
+
+---
+
+### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/greenhouse-grafanalabs-5990670004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · `Senior` · `Remote` · `$154,445-$185,334` · `Equity` · `Bonus`
+
+_Design and operate reconciliation systems and control-plane services that manage Grafana Cloud stack lifecycle, state alignment, and configuration across distributed infrastructure. You will work on stateful systems involving eventual consistency, multi-region operations, and incident recovery at scale across a SaaS platform serving thousands of customers._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 21:39 UTC</sub>
+
+---
+
+### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/greenhouse-grafanalabs-5990671004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · `Senior` · `Remote` · `CAD 164,490 - CAD 197,389` · `Equity` · `Bonus`
+
+_Design and operate reconciliation systems and control-plane services for Grafana Cloud stack lifecycle management, ensuring state consistency across distributed components (grafana.com, Hosted Grafana, cloud regions). Build systems handling stateful workflows, eventual consistency, and multi-region infrastructure where correctness and operational clarity are critical at scale._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![TypeScript/Node.js](https://img.shields.io/badge/TypeScript%2FNode.js-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 21:39 UTC</sub>
+
+---
+
+### [Senior Engineering Manager - Age Assurance (Accounts)](jobs/roblox/greenhouse-roblox-7875734.md)
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Manager` · `Hybrid` · `$345,040-$399,420` · `Equity`
+
+_Build and operate scalable age estimation ML models and fraud detection systems serving billions of users globally on Roblox. Lead distributed systems architecture handling identity verification, behavioral analysis, and adversarial protection (deepfakes, presentation attacks) across regulatory jurisdictions._
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-3B82F6?style=flat-square) ![Facial Recognition](https://img.shields.io/badge/Facial_Recognition-3B82F6?style=flat-square) ![Privacy-Preserving Infrastructure](https://img.shields.io/badge/Privacy--Preserving_Infrastructure-3B82F6?style=flat-square) ![Scala or Python](https://img.shields.io/badge/Scala_or_Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 21:39 UTC</sub>
+
+---
+
+### [Senior Security Software Engineer, Vulnerability Management](jobs/roblox/greenhouse-roblox-7922649.md)
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Senior` · `Hybrid` · `$216,680-$269,170` · `Equity`
+
+_Build and maintain internal software products and automated systems that identify, prioritize, and remediate security vulnerabilities at scale across Roblox's platform and tech stack. Design tools that make vulnerability management accessible and actionable for engineers across the organization._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![Security Tools](https://img.shields.io/badge/Security_Tools-3B82F6?style=flat-square) ![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-3B82F6?style=flat-square) ![Automated Systems](https://img.shields.io/badge/Automated_Systems-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 21:39 UTC</sub>
+
+---
+
+### [Senior System Test Engineer, Perception](jobs/waymo/greenhouse-waymo-7599912.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA US; San Francisco, CA US · `Senior` · `Hybrid` · `$196k-$242k` · `Equity` · `Bonus`
+
+_Design and implement test automation infrastructure and metrics for autonomous vehicle perception systems, including simulation scenarios and data analysis pipelines. Work on safety-critical systems at scale across multiple vehicle platforms with an emphasis on edge cases and fault scenarios._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Autonomous Vehicles](https://img.shields.io/badge/Autonomous_Vehicles-3B82F6?style=flat-square) ![Robotics](https://img.shields.io/badge/Robotics-3B82F6?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square) ![Software Verification and Validation](https://img.shields.io/badge/Software_Verification_and_Validation-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 21:39 UTC</sub>
+
+---
 
 ### [Principal Technical Lead, AI Robotics](jobs/anduril-industries/greenhouse-andurilindustries-5136544007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Principal` · `$254k-$444k` · `Equity`
