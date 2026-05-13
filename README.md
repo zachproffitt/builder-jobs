@@ -5,11 +5,86 @@ Roles are [scraped](https://github.com/zachproffitt/builder-jobs-scraper) hourly
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 40 open roles (40 new today) &nbsp;·&nbsp; 296 companies searched
+### 47 open roles (47 new today) &nbsp;·&nbsp; 296 companies searched
 
 <br>
 
 ## May 13, 2026
+
+### [Software Engineer, Web Infrastructure](jobs/airbnb/greenhouse-airbnb-7858135.md)
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · USA · `Remote`
+
+_The person will build foundational tools and infrastructure for Airbnb's web developers, including testing frameworks, CI pipelines, observability libraries, bundlers, and editor integrations. They will own systems that improve developer productivity, reliability, and the overall developer experience._
+
+<sub>May 13, 2026 at 19:16 UTC</sub>
+
+---
+
+### [Software Engineer, Full-stack](jobs/anduril-industries/greenhouse-andurilindustries-5104521007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
+
+_Design and build real-time, map-based interfaces and backend systems for autonomous maritime vehicles, integrating sensor data streams with mission autonomy software on Lattice OS. Requires ability to work across the full software stack in a defense domain requiring security clearance and up to 20% travel to support deployed systems._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:16 UTC</sub>
+
+---
+
+### [Data Scientist, Core Experimentation](jobs/openai/ashby-openai-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · Seattle · `Staff` · `Remote` · `$293k-$325k`
+
+_Build and evolve OpenAI's core experimentation platform, designing statistical methodologies and scalable analytical systems that power trustworthy decision-making across product and research teams. Work on hard problems in online experimentation including variance reduction, causal inference, and measurement systems at frontier AI scale._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Sequential Testing](https://img.shields.io/badge/Sequential_Testing-3B82F6?style=flat-square) ![Variance Reduction (CUPED)](https://img.shields.io/badge/Variance_Reduction_%28CUPED%29-3B82F6?style=flat-square) ![Sample Ratio Mismatch Detection](https://img.shields.io/badge/Sample_Ratio_Mismatch_Detection-3B82F6?style=flat-square) ![Metric Design](https://img.shields.io/badge/Metric_Design-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:16 UTC</sub>
+
+---
+
+### [AI Operations Manager | Agentic CX](jobs/ramp/ashby-ramp-a3afd259-ba6b-4eb0-a1b6-05d01dddacd8.md)
+<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp** · New York, NY (HQ) · `Manager` · `Remote`
+
+_Build and ship AI agents, internal automation platforms, and evaluation systems that transform Ramp's customer experience operations and enable CX teams to operate at scale. Own the full stack from prototyping AI workflows to infrastructure for managing shared AI skills and reliability systems across internal and customer-facing products._
+
+![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-3B82F6?style=flat-square) ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-3B82F6?style=flat-square) ![Retrieval-Augmented Generation](https://img.shields.io/badge/Retrieval--Augmented_Generation-3B82F6?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Evaluation Frameworks](https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square) ![Agentic AI Systems](https://img.shields.io/badge/Agentic_AI_Systems-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:16 UTC</sub>
+
+---
+
+### [Senior DevOps Engineer](jobs/slingshot-aerospace/greenhouse-slingshotaerospace-5809580004.md)
+<img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Slingshot Aerospace** · United States · `Senior` · `Remote` · `$136,000-$237,000`
+
+_Design, build, and maintain Kubernetes-based cloud infrastructure and CI/CD pipelines using Infrastructure as Code to support production systems and MLOps workflows. Work on space operations software where infrastructure decisions directly impact global security and disaster response capabilities._
+
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-3B82F6?style=flat-square) ![Linux System Administration](https://img.shields.io/badge/Linux_System_Administration-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:16 UTC</sub>
+
+---
+
+### [Safety Researcher, Computational Behavior Modeling](jobs/waymo/greenhouse-waymo-7891021.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · London, England, United Kingdom · `Senior` · `Hybrid` · `£113k-£119k` · `Equity` · `Bonus`
+
+_Build computational models of road user behavior and cognition for integration into Waymo's autonomous vehicle safety evaluation and simulation infrastructure. Work at the intersection of cognitive science and AI to develop novel modeling approaches that inform safety strategies for fully autonomous driving systems._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Computational Modeling](https://img.shields.io/badge/Computational_Modeling-3B82F6?style=flat-square) ![Active Inference](https://img.shields.io/badge/Active_Inference-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![PhD Required](https://img.shields.io/badge/PhD_Required-3B82F6?style=flat-square) ![Traffic Safety Domain](https://img.shields.io/badge/Traffic_Safety_Domain-3B82F6?style=flat-square) ![Simulation Infrastructure](https://img.shields.io/badge/Simulation_Infrastructure-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:16 UTC</sub>
+
+---
+
+### [Software Engineer, Pin Infra](jobs/waymo/greenhouse-waymo-7902131.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, California · `Mid` · `Hybrid` · `$175k-$215k` · `Equity` · `Bonus`
+
+_Build infrastructure to manage pickup and drop-off locations for autonomous ride-hail services, integrating ML models and implementing demand control systems at scale. Work on geospatial and logistics systems for autonomous driving in a rapidly expanding operational environment._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Geospatial Systems](https://img.shields.io/badge/Geospatial_Systems-3B82F6?style=flat-square) ![Backend Infrastructure](https://img.shields.io/badge/Backend_Infrastructure-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-3B82F6?style=flat-square) ![Autonomous Driving](https://img.shields.io/badge/Autonomous_Driving-3B82F6?style=flat-square) ![Demand Control Systems](https://img.shields.io/badge/Demand_Control_Systems-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:16 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/greenhouse-andurilindustries-5088766007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Staff` · `$220,000–$292,000` · `Equity`
