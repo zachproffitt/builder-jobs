@@ -5,11 +5,44 @@ Roles are [scraped](https://github.com/zachproffitt/builder-jobs-scraper) hourly
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 47 open roles (47 new today) &nbsp;·&nbsp; 296 companies searched
+### 50 open roles (50 new today) &nbsp;·&nbsp; 296 companies searched
 
 <br>
 
 ## May 13, 2026
+
+### [Senior Software Engineer, Full-stack](jobs/anduril-industries/greenhouse-andurilindustries-5137048007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$191,000—$253,000 USD` · `Equity`
+
+_Design and build real-time, map-based interfaces and full-stack software systems for autonomous surface vessels and maritime command-and-control platforms. Requires Secret security clearance and involvement across the complete software lifecycle from ConOps through deployment to military customers._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Haskell](https://img.shields.io/badge/Haskell-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:41 UTC</sub>
+
+---
+
+### [Staff Simulation Engineer - Dexterity](jobs/apptronik/greenhouse-apptronik-5995710004.md)
+<img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Apptronik** · Austin, TX · `Staff`
+
+_Build and own dexterous hand simulation systems for humanoid robots, modeling contact dynamics, physics fidelity, and sim-to-real validation workflows. You will be the authoritative technical voice across mechanical design, controls, and hardware teams, ensuring simulation reliably predicts physical hand behavior end-to-end in a contact-rich embodied AI context._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-3B82F6?style=flat-square) ![MuJoCo](https://img.shields.io/badge/MuJoCo-3B82F6?style=flat-square) ![Physics Simulation](https://img.shields.io/badge/Physics_Simulation-3B82F6?style=flat-square) ![Rigid Body Dynamics](https://img.shields.io/badge/Rigid_Body_Dynamics-3B82F6?style=flat-square) ![Sim-to-Real Validation](https://img.shields.io/badge/Sim--to--Real_Validation-3B82F6?style=flat-square) ![Contact Mechanics](https://img.shields.io/badge/Contact_Mechanics-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:41 UTC</sub>
+
+---
+
+### [Sr Manager, Software Engineering](jobs/natera/greenhouse-natera-5993794004.md)
+<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera** · US Remote · `Manager` · `Remote` · `$156,000–$195,000`
+
+_Lead a distributed engineering team building genomics tertiary analysis software that processes thousands of clinical samples monthly across Natera's product portfolio. Work in a regulated biotech environment requiring FDA, HIPAA, and CLIA compliance with deep technical ownership of architecture, design, and implementation._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Genomics Analysis](https://img.shields.io/badge/Genomics_Analysis-3B82F6?style=flat-square) ![Regulated Software Development](https://img.shields.io/badge/Regulated_Software_Development-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 19:41 UTC</sub>
+
+---
 
 ### [Software Engineer, Web Infrastructure](jobs/airbnb/greenhouse-airbnb-7858135.md)
 <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · USA · `Remote`
