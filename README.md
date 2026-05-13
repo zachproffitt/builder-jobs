@@ -6,7 +6,7 @@ high enough that browsing everything new takes a few minutes and gives you a bro
 For location, we clearly identify remote and hybrid support. For seniority, we tag every role but
 recommend browsing a level above and below yourself. Listings older than 14 days are removed automatically.
 
-### 270 open roles (210 new today) &nbsp;·&nbsp; 298 companies searched
+### 327 open roles (265 new today) &nbsp;·&nbsp; 298 companies searched
 
 <br>
 
@@ -99,9 +99,9 @@ _Own the technical strategy for Claude’s core chat surface on mobile, ensuring
 ### [Senior Embedded Firmware Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5530503004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Develop and maintain embedded firmware for PlayStation products_
+_Design and implement low-latency firmware frameworks for embedded devices_
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![RF/wireless systems](https://img.shields.io/badge/RF%2Fwireless_systems-3B82F6?style=flat-square) ![low-latency communication protocols](https://img.shields.io/badge/low--latency_communication_protocols-3B82F6?style=flat-square) ![firmware frameworks](https://img.shields.io/badge/firmware_frameworks-3B82F6?style=flat-square) ![cross-platform firmware architecture](https://img.shields.io/badge/cross--platform_firmware_architecture-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![RF/wireless systems](https://img.shields.io/badge/RF%2Fwireless_systems-3B82F6?style=flat-square) ![low-latency communication protocols](https://img.shields.io/badge/low--latency_communication_protocols-3B82F6?style=flat-square) ![firmware architecture](https://img.shields.io/badge/firmware_architecture-3B82F6?style=flat-square) ![hardware-in-the-loop testing](https://img.shields.io/badge/hardware--in--the--loop_testing-3B82F6?style=flat-square)
 
 ---
 
@@ -115,16 +115,18 @@ _Build and validate CLV and Next Best Action models using machine learning techn
 ### [Staff Data Scientist – Experimentation: Innovation & Research](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5651552004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Staff`
 
-_Build and maintain experimentation infrastructure and tooling using statistical and machine learning methods._
+_Build and advance experimentation infrastructure and tooling using statistical and machine learning methods_
+
+![statistical methods](https://img.shields.io/badge/statistical_methods-3B82F6?style=flat-square) ![machine learning methods](https://img.shields.io/badge/machine_learning_methods-3B82F6?style=flat-square) ![causal inference](https://img.shields.io/badge/causal_inference-3B82F6?style=flat-square)
 
 ---
 
 ### [Staff Software Engineer - AI Tools](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5655306004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom · `Staff` · `Remote`
 
-_Build and maintain AI-powered engine/editor plugins and SDKs for game development._
+_Build and maintain AI-powered tools and integrations for game engines and backend services_
 
-![C++ (C++17/20)](https://img.shields.io/badge/C%2B%2B_%28C%2B%2B17%2F20%29-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![gRPC/HTTP](https://img.shields.io/badge/gRPC%2FHTTP-3B82F6?style=flat-square) ![UBT](https://img.shields.io/badge/UBT-3B82F6?style=flat-square) ![C++/C API](https://img.shields.io/badge/C%2B%2B%2FC_API-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C++17/20](https://img.shields.io/badge/C%2B%2B17%2F20-3B82F6?style=flat-square) ![gRPC/HTTP](https://img.shields.io/badge/gRPC%2FHTTP-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![testing frameworks](https://img.shields.io/badge/testing_frameworks-3B82F6?style=flat-square)
 
 ---
 
@@ -140,27 +142,25 @@ _Build and optimize peer-to-peer PCIe communication systems using DPDK._
 ### [Senior Software Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5679579004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA · `Senior`
 
-_Build and maintain performance tooling suites for system optimization_
+_Build and maintain performance tooling suites and automated testbeds for system optimization._
 
-![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![perf](https://img.shields.io/badge/perf-3B82F6?style=flat-square) ![ftrace](https://img.shields.io/badge/ftrace-3B82F6?style=flat-square)
+![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![perf](https://img.shields.io/badge/perf-3B82F6?style=flat-square) ![ftrace](https://img.shields.io/badge/ftrace-3B82F6?style=flat-square) ![eBPF](https://img.shields.io/badge/eBPF-3B82F6?style=flat-square)
 
 ---
 
 ### [Staff Software Engineer - DPDK](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5684638004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States · `Staff` · `Remote`
 
-_Implement and optimize DPDK-based PCIe communication systems for low-latency network devices._
+_Implement and optimize peer-to-peer PCIe communication using DPDK._
 
-![DPDK](https://img.shields.io/badge/DPDK-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![PCIe peer-to-peer communication](https://img.shields.io/badge/PCIe_peer--to--peer_communication-3B82F6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3B82F6?style=flat-square) ![UDP](https://img.shields.io/badge/UDP-3B82F6?style=flat-square)
+![DPDK](https://img.shields.io/badge/DPDK-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![PCIe](https://img.shields.io/badge/PCIe-3B82F6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3B82F6?style=flat-square) ![UDP](https://img.shields.io/badge/UDP-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Application Security Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5687553004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States · `Senior` · `Remote`
 
-_Design and implement secure solutions for PlayStation applications and infrastructure._
-
-![cloud-native architectures](https://img.shields.io/badge/cloud--native_architectures-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square)
+_Design and implement secure solutions for PlayStation products_
 
 ---
 
@@ -169,41 +169,41 @@ _Design and implement secure solutions for PlayStation applications and infrastr
 
 _Build and maintain high-performance C/C++ services for PlayStation experiences_
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![CMake](https://img.shields.io/badge/CMake-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![shader programming](https://img.shields.io/badge/shader_programming-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![CMake](https://img.shields.io/badge/CMake-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![shader programming](https://img.shields.io/badge/shader_programming-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer II (Frontend), Social](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5712556004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Mid`
 
-_Build and maintain high-quality front-end applications for PlayStation features across multiple platforms._
+_Build and maintain high-quality front-end applications for PlayStation features across mobile, console, and supported platforms._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Agile methodologies](https://img.shields.io/badge/Agile_methodologies-3B82F6?style=flat-square) ![unit/integration tests](https://img.shields.io/badge/unit%2Fintegration_tests-3B82F6?style=flat-square) ![MVC/MVVM/MVP frameworks](https://img.shields.io/badge/MVC%2FMVVM%2FMVP_frameworks-3B82F6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer II (Frontend), Social](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5712558004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Los Angeles, CA · `Mid`
 
-_Build and maintain front-end applications for PlayStation features across mobile, console, and supported platforms._
+_Build and maintain high-quality front-end applications for PlayStation features across multiple platforms._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Agile methodologies](https://img.shields.io/badge/Agile_methodologies-3B82F6?style=flat-square) ![MVC/MVVM/MVP frameworks](https://img.shields.io/badge/MVC%2FMVVM%2FMVP_frameworks-3B82F6?style=flat-square) ![unit/integration testing](https://img.shields.io/badge/unit%2Fintegration_testing-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Development Engineer in Test](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5722668004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, Bristol · `Senior`
 
-_Build and maintain CI/CD pipelines and automation tools for test orchestration and system validation._
+_Build and maintain CI/CD pipelines and automation tools for the SDK's test infrastructure_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins/Groovy](https://img.shields.io/badge/Jenkins%2FGroovy-3B82F6?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-3B82F6?style=flat-square) ![GTest](https://img.shields.io/badge/GTest-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins/Groovy](https://img.shields.io/badge/Jenkins%2FGroovy-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-3B82F6?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5722997004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Mid`
 
-_Build and maintain scalable backend services for PlayStation platforms._
+_Build and maintain scalable backend services for PlayStation platforms using Node.js and TypeScript._
 
 ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![TypeScript/JavaScript](https://img.shields.io/badge/TypeScript%2FJavaScript-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
 
@@ -221,18 +221,18 @@ _Design and develop high-quality software solutions for large-scale commerce sys
 ### [Staff Software Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5727771004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Staff`
 
-_Build and maintain the PlayStation iOS app architecture and frameworks_
+_Build and maintain iOS frameworks and SDKs for PlayStation apps_
 
-![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![iOS APIs](https://img.shields.io/badge/iOS_APIs-3B82F6?style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-3B82F6?style=flat-square) ![SDKs](https://img.shields.io/badge/SDKs-3B82F6?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-3B82F6?style=flat-square) ![iOS APIs](https://img.shields.io/badge/iOS_APIs-3B82F6?style=flat-square) ![SDKs](https://img.shields.io/badge/SDKs-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5728840004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Senior`
 
-_Develop and maintain RESTful API endpoints and dynamic web applications._
+_Build and maintain full-stack web applications and RESTful APIs for PlayStation in-house tools._
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
 
 ---
 
@@ -241,7 +241,7 @@ _Develop and maintain RESTful API endpoints and dynamic web applications._
 
 _Build and maintain high-quality front-end applications for PlayStation features across multiple platforms._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![unit tests](https://img.shields.io/badge/unit_tests-3B82F6?style=flat-square) ![component tests](https://img.shields.io/badge/component_tests-3B82F6?style=flat-square) ![MVC](https://img.shields.io/badge/MVC-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![MVP](https://img.shields.io/badge/MVP-3B82F6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![MVC](https://img.shields.io/badge/MVC-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![MVP](https://img.shields.io/badge/MVP-3B82F6?style=flat-square) ![unit tests](https://img.shields.io/badge/unit_tests-3B82F6?style=flat-square) ![component tests](https://img.shields.io/badge/component_tests-3B82F6?style=flat-square)
 
 ---
 
@@ -257,43 +257,34 @@ _Build and maintain front-end applications for PlayStation features across PS5, 
 ### [Sr Software Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5733736004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Design and implement video codecs for PlayStation SDKs and cloud gaming platforms._
+_Drive video codecs architecture design and development for PlayStation SDKs and cloud gaming platforms_
 
-![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![Vulkan](https://img.shields.io/badge/Vulkan-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![SVN](https://img.shields.io/badge/SVN-3B82F6?style=flat-square) ![JIRA](https://img.shields.io/badge/JIRA-3B82F6?style=flat-square)
+![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![Vulkan](https://img.shields.io/badge/Vulkan-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Git/SVN](https://img.shields.io/badge/Git%2FSVN-3B82F6?style=flat-square) ![JIRA](https://img.shields.io/badge/JIRA-3B82F6?style=flat-square)
 
 ---
 
 ### [Staff Data Scientist -  Experimentation & Measurement](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5743955004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Staff`
 
-_Design and implement A/B testing frameworks and causal inference tools for product experimentation_
+_Design and execute A/B tests and causal inference experiments_
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![analytics tools](https://img.shields.io/badge/analytics_tools-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Data Scientist -  Experimentation & Measurement](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5743956004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Design and execute A/B tests and causal analysis experiments for user migration and marketing strategies._
+_Design and execute A/B tests using SQL and Python to measure user migration impact._
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![causal inference methods](https://img.shields.io/badge/causal_inference_methods-3B82F6?style=flat-square) ![statistical analysis tools](https://img.shields.io/badge/statistical_analysis_tools-3B82F6?style=flat-square)
-
----
-
-### [Software Eng II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5748341004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Mid`
-
-_Build and maintain kernel security features for PlayStation systems_
-
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Linux kernel](https://img.shields.io/badge/Linux_kernel-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=flat-square) ![version control systems](https://img.shields.io/badge/version_control_systems-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![causal inference](https://img.shields.io/badge/causal_inference-3B82F6?style=flat-square) ![A/B testing](https://img.shields.io/badge/A%2FB_testing-3B82F6?style=flat-square) ![statistical analysis](https://img.shields.io/badge/statistical_analysis-3B82F6?style=flat-square)
 
 ---
 
 ### [Staff Software Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5748537004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Staff`
 
-_Refine low-level code for PlayStation kernel security systems_
+_Refine low-level code for PlayStation kernel security_
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 
@@ -302,25 +293,25 @@ _Refine low-level code for PlayStation kernel security systems_
 ### [Senior Data Scientist -  Experimentation & Measurement](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5755168004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Senior`
 
-_Design and implement experimentation frameworks for user migration and marketing initiatives_
+_Design and analyze experiments using SQL and Python_
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![causal inference methods](https://img.shields.io/badge/causal_inference_methods-3B82F6?style=flat-square) ![A/B testing](https://img.shields.io/badge/A%2FB_testing-3B82F6?style=flat-square) ![statistical analysis tools](https://img.shields.io/badge/statistical_analysis_tools-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 ---
 
-### [Staff Data Scientist -  Experimentation & Measurement](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5778928004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States · `Staff` · `Remote`
+### [Principal Engineer, Developer Experience (DevEx)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5792086004.md)
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Principal`
 
-_Build and maintain experimentation frameworks and causal inference tools._
+_Shape and drive the Developer Experience strategy across PlayStation._
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![testing](https://img.shields.io/badge/testing-3B82F6?style=flat-square) ![lifecycle automation](https://img.shields.io/badge/lifecycle_automation-3B82F6?style=flat-square) ![platform-first practices](https://img.shields.io/badge/platform--first_practices-3B82F6?style=flat-square) ![service operations](https://img.shields.io/badge/service_operations-3B82F6?style=flat-square)
 
 ---
 
 ### [Sr Software Engineer (Audio)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5793636004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Develop and implement spatial audio algorithms for 3D audio and virtual reality systems._
+_Develop and implement spatial audio algorithms for 3D audio and virtual reality systems_
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![VST Development](https://img.shields.io/badge/VST_Development-3B82F6?style=flat-square)
 
@@ -329,34 +320,34 @@ _Develop and implement spatial audio algorithms for 3D audio and virtual reality
 ### [Mobile Security Engineer (Android)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5798614004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Senior`
 
-_Develop and implement DRM and security solutions for Android mobile platforms._
+_Develop and implement DRM and security solutions for mobile platforms_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Android/AOSP](https://img.shields.io/badge/Android%2FAOSP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![TrustZone](https://img.shields.io/badge/TrustZone-3B82F6?style=flat-square) ![WideVine](https://img.shields.io/badge/WideVine-3B82F6?style=flat-square) ![PlayReady](https://img.shields.io/badge/PlayReady-3B82F6?style=flat-square)
 
 ---
 
 ### [Sr DevOps Engineer (Contract)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5799683004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Los Angeles, CA · `Senior`
 
-_Build and maintain infrastructure pipelines, scripts, and deployment tools for PlayStation development._
+_Build and maintain the CI/CD pipeline and infrastructure_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Storage Platform Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5803140004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA · `Senior`
 
-_Manage and maintain large-scale Ceph storage solutions_
+_Manage and optimize large-scale Ceph storage systems_
 
-![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![Rook](https://img.shields.io/badge/Rook-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-3B82F6?style=flat-square)
+![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![Rook](https://img.shields.io/badge/Rook-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Technical Gameplay Animator](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5804428004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Santa Monica, CA · `Senior`
 
-_Build and maintain in-game animation systems and pipelines_
+_Build and maintain the in-game animation systems and pipelines_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Maya](https://img.shields.io/badge/Maya-3B82F6?style=flat-square) ![state machines](https://img.shields.io/badge/state_machines-3B82F6?style=flat-square) ![blend trees](https://img.shields.io/badge/blend_trees-3B82F6?style=flat-square) ![IK solvers](https://img.shields.io/badge/IK_solvers-3B82F6?style=flat-square)
 
@@ -367,7 +358,7 @@ _Build and maintain in-game animation systems and pipelines_
 
 _Define and evolve the frontend architecture for PlayStation client applications using React Native._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript/TypeScript](https://img.shields.io/badge/JavaScript%2FTypeScript-3B82F6?style=flat-square) ![C++/Objective-C/Swift](https://img.shields.io/badge/C%2B%2B%2FObjective--C%2FSwift-3B82F6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![C++/Objective-C/Swift](https://img.shields.io/badge/C%2B%2B%2FObjective--C%2FSwift-3B82F6?style=flat-square) ![modern JavaScript/TypeScript](https://img.shields.io/badge/modern_JavaScript%2FTypeScript-3B82F6?style=flat-square)
 
 ---
 
@@ -381,9 +372,9 @@ _Manage and maintain large-scale Ceph storage solutions_
 ---
 
 ### [Platform Engineer - Application Networking](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5812444004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA
 
-_Build and maintain application routing frameworks for client-to-service and service-to-service communication._
+_Build and maintain application routing platforms using Kong and Kubernetes_
 
 ![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Kong Ingress Controller](https://img.shields.io/badge/Kong_Ingress_Controller-3B82F6?style=flat-square) ![Kong Konnect](https://img.shields.io/badge/Kong_Konnect-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![service mesh](https://img.shields.io/badge/service_mesh-3B82F6?style=flat-square)
 
@@ -392,27 +383,27 @@ _Build and maintain application routing frameworks for client-to-service and ser
 ### [Software Development Engineer in Test](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5817255004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, Bristol · `Senior`
 
-_Build and maintain test automation systems for development tools_
+_Build and maintain automated test frameworks for development tools_
 
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Selenium/Appium](https://img.shields.io/badge/Selenium%2FAppium-3B82F6?style=flat-square) ![Powershell](https://img.shields.io/badge/Powershell-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Selenium/Appium](https://img.shields.io/badge/Selenium%2FAppium-3B82F6?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 ---
 
 ### [Platform Engineer - Application Networking](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5818262004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA
 
-_Build and maintain application routing platforms using Kubernetes and Kong tools._
+_Build and maintain application routing frameworks for client-to-service and service-to-service communication._
 
-![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Kong Ingress Controller](https://img.shields.io/badge/Kong_Ingress_Controller-3B82F6?style=flat-square) ![Kong Konnect](https://img.shields.io/badge/Kong_Konnect-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![service mesh technologies](https://img.shields.io/badge/service_mesh_technologies-3B82F6?style=flat-square)
+![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Kong Ingress Controller](https://img.shields.io/badge/Kong_Ingress_Controller-3B82F6?style=flat-square) ![Kong Konnect](https://img.shields.io/badge/Kong_Konnect-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![service mesh](https://img.shields.io/badge/service_mesh-3B82F6?style=flat-square)
 
 ---
 
 ### [Sr. Software Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5820437004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Senior`
 
-_Design and develop scalable distributed services for the accounts platform_
+_Design and develop highly scalable, distributed services for the next-generation accounts platform._
 
-![AWS services (EC2](https://img.shields.io/badge/AWS_services_%28EC2-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![Kinesis](https://img.shields.io/badge/Kinesis-3B82F6?style=flat-square) ![Glue](https://img.shields.io/badge/Glue-3B82F6?style=flat-square) ![Lambda](https://img.shields.io/badge/Lambda-3B82F6?style=flat-square) ![SQS](https://img.shields.io/badge/SQS-3B82F6?style=flat-square) ![SNS](https://img.shields.io/badge/SNS-3B82F6?style=flat-square) ![DynamoDB)](https://img.shields.io/badge/DynamoDB%29-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![J2EE](https://img.shields.io/badge/J2EE-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![JSON/XML](https://img.shields.io/badge/JSON%2FXML-3B82F6?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-3B82F6?style=flat-square) ![Tomcat](https://img.shields.io/badge/Tomcat-3B82F6?style=flat-square) ![Reactor Netty](https://img.shields.io/badge/Reactor_Netty-3B82F6?style=flat-square) ![JAXRS](https://img.shields.io/badge/JAXRS-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![Lambda](https://img.shields.io/badge/Lambda-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square)
 
 ---
 
@@ -428,25 +419,25 @@ _Develop and maintain scalable Java-based backend services for PlayStation's Acc
 ### [Data Engineer (12 month Fixed term Contract)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5823360004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London
 
-_Build and maintain data pipelines and processing components for global business analytics_
+_Build and maintain data pipelines for global business analytics_
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Spark-based technologies (PySpark](https://img.shields.io/badge/Spark--based_technologies_%28PySpark-3B82F6?style=flat-square) ![Spark)](https://img.shields.io/badge/Spark%29-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Spark-based technologies](https://img.shields.io/badge/Spark--based_technologies-3B82F6?style=flat-square)
 
 ---
 
 ### [Audio Programmer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5824107004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Build and maintain audio tools and middleware for PlayStation Studios_
+_Build and maintain audio tools and middleware for PlayStation Studios._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![WPF](https://img.shields.io/badge/WPF-3B82F6?style=flat-square) ![FMOD](https://img.shields.io/badge/FMOD-3B82F6?style=flat-square) ![Wwise](https://img.shields.io/badge/Wwise-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![WPF](https://img.shields.io/badge/WPF-3B82F6?style=flat-square) ![Pro Tools](https://img.shields.io/badge/Pro_Tools-3B82F6?style=flat-square) ![Sound Forge](https://img.shields.io/badge/Sound_Forge-3B82F6?style=flat-square)
 
 ---
 
 ### [Sr. Software Development Engineer in Test, Compilers](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5829872004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Build and maintain automated test frameworks for PlayStation compilers and SDK components._
+_Build and maintain test infrastructure for PlayStation CPU compilers and SDK components_
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![LLVM](https://img.shields.io/badge/LLVM-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square)
 
@@ -457,14 +448,14 @@ _Build and maintain automated test frameworks for PlayStation compilers and SDK 
 
 _Build and maintain automated test frameworks for PlayStation SDK components_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![embedded firmware](https://img.shields.io/badge/embedded_firmware-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Security Engineer (Tee/ ARM TrustZone)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5830744004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Design and implement Trusted Applications (TA) running in ARM TrustZone/TEE environments_
+_Design and implement security-critical components in ARM TrustZone environments_
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![ARM TrustZone](https://img.shields.io/badge/ARM_TrustZone-3B82F6?style=flat-square) ![Trusted Execution Environment (TEE)](https://img.shields.io/badge/Trusted_Execution_Environment_%28TEE%29-3B82F6?style=flat-square) ![secure monitor calls (SMC)](https://img.shields.io/badge/secure_monitor_calls_%28SMC%29-3B82F6?style=flat-square) ![secure key storage](https://img.shields.io/badge/secure_key_storage-3B82F6?style=flat-square)
 
@@ -480,27 +471,18 @@ _Build and maintain scalable backend APIs and cloud services for PlayStation pla
 ---
 
 ### [Deep Learning Engineer for Game Technology](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5831515004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London
 
-_Develop and deploy ML models for game technology systems_
+_Develop innovative ML solutions for facial performance capture systems and on-console inference in games._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![computer vision](https://img.shields.io/badge/computer_vision-3B82F6?style=flat-square) ![GPU software stack](https://img.shields.io/badge/GPU_software_stack-3B82F6?style=flat-square) ![on-console inference](https://img.shields.io/badge/on--console_inference-3B82F6?style=flat-square) ![machine learning](https://img.shields.io/badge/machine_learning-3B82F6?style=flat-square)
-
----
-
-### [Manager, Software Engineering DevEx](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5831551004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Manager`
-
-_Lead the development of developer platforms and tools for PlayStation_
-
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![backend/platform fundamentals](https://img.shields.io/badge/backend%2Fplatform_fundamentals-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square)
 
 ---
 
 ### [- Programmeur·euse I.A. Senior/AI Programmer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5832235004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Canada, Montreal, QC · `Senior`
 
-_Build and maintain AI systems and functionalities for PlayStation games_
+_Build and maintain AI systems and functionalities for high-quality technical implementation._
 
 ---
 
@@ -516,77 +498,84 @@ _Build and maintain scalable data platforms for PlayStation's data-driven featur
 ### [Senior Software Engineer - Rendering API](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5837061004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Design and implement rendering APIs for PlayStation games_
+_Design and implement rendering APIs and GPU programming features for PlayStation games_
 
 ---
 
 ### [Graphics Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5837065004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London
 
-_Design and implement high-quality rendering scenarios for graphics evaluation. Develop production-grade SDKs and tools for PlayStation._
+_Design and implement high-quality rendering scenarios for PlayStation SDKs_
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![GPU architecture](https://img.shields.io/badge/GPU_architecture-3B82F6?style=flat-square) ![real-time rendering](https://img.shields.io/badge/real--time_rendering-3B82F6?style=flat-square) ![shader development](https://img.shields.io/badge/shader_development-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![GPU architecture](https://img.shields.io/badge/GPU_architecture-3B82F6?style=flat-square) ![Shader Model 6](https://img.shields.io/badge/Shader_Model_6-3B82F6?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Graphics Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5837067004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Design and develop high-quality rendering scenarios for PlayStation SDK._
+_Design and develop high-quality rendering scenarios and production-grade SDK tools for PlayStation graphics technologies._
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![game engine development](https://img.shields.io/badge/game_engine_development-3B82F6?style=flat-square) ![memory systems](https://img.shields.io/badge/memory_systems-3B82F6?style=flat-square) ![job systems](https://img.shields.io/badge/job_systems-3B82F6?style=flat-square) ![GPU technologies](https://img.shields.io/badge/GPU_technologies-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![real-time rendering](https://img.shields.io/badge/real--time_rendering-3B82F6?style=flat-square) ![GPU technologies](https://img.shields.io/badge/GPU_technologies-3B82F6?style=flat-square) ![PlayStation 5 graphics APIs](https://img.shields.io/badge/PlayStation_5_graphics_APIs-3B82F6?style=flat-square) ![machine learning technologies](https://img.shields.io/badge/machine_learning_technologies-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer - GPU Capture and Replay](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5837069004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Develop and maintain GPU Capture and Replay technology for PlayStation platforms._
-
-![GPU programming](https://img.shields.io/badge/GPU_programming-3B82F6?style=flat-square) ![shader development](https://img.shields.io/badge/shader_development-3B82F6?style=flat-square) ![profiling tools](https://img.shields.io/badge/profiling_tools-3B82F6?style=flat-square) ![debugging systems](https://img.shields.io/badge/debugging_systems-3B82F6?style=flat-square) ![graphics software stack](https://img.shields.io/badge/graphics_software_stack-3B82F6?style=flat-square)
+_Develop GPU Capture and Replay technology for PlayStation platforms._
 
 ---
 
 ### [Software Development Engineer in Test - Contractor](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5838100004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Build and maintain test automation frameworks for UI and API testing_
+_Build and maintain test automation frameworks for PlayStation platforms_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-3B82F6?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-3B82F6?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5838328004.md)
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
+
+_Implement DSP algorithms and audio APIs for PlayStation platforms._
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![SIMD vectorization](https://img.shields.io/badge/SIMD_vectorization-3B82F6?style=flat-square) ![embedded systems](https://img.shields.io/badge/embedded_systems-3B82F6?style=flat-square) ![source control](https://img.shields.io/badge/source_control-3B82F6?style=flat-square) ![issue tracking](https://img.shields.io/badge/issue_tracking-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Security Engineer (Tee/ ARM TrustZone)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5838749004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Senior`
 
-_Design and implement Trusted Applications (TA) running in ARM TrustZone/TEE environments_
+_Design and implement Trusted Applications in ARM TrustZone environments._
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![ARM TrustZone](https://img.shields.io/badge/ARM_TrustZone-3B82F6?style=flat-square) ![TEE](https://img.shields.io/badge/TEE-3B82F6?style=flat-square) ![secure monitor calls (SMC)](https://img.shields.io/badge/secure_monitor_calls_%28SMC%29-3B82F6?style=flat-square) ![OP-TEE](https://img.shields.io/badge/OP--TEE-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![ARM TrustZone](https://img.shields.io/badge/ARM_TrustZone-3B82F6?style=flat-square) ![TEE](https://img.shields.io/badge/TEE-3B82F6?style=flat-square) ![secure monitor calls](https://img.shields.io/badge/secure_monitor_calls-3B82F6?style=flat-square) ![Linux/embedded OS](https://img.shields.io/badge/Linux%2Fembedded_OS-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Machine Learning Engineer , Optimisation (Gurobi)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5839102004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Senior`
 
-_Design and implement large-scale optimization models using Gurobi_
+_Build and maintain large-scale optimization systems using Gurobi and OR-Tools._
 
-![Gurobi](https://img.shields.io/badge/Gurobi-3B82F6?style=flat-square) ![OR-Tools](https://img.shields.io/badge/OR--Tools-3B82F6?style=flat-square)
+![Gurobi](https://img.shields.io/badge/Gurobi-3B82F6?style=flat-square) ![OR-Tools](https://img.shields.io/badge/OR--Tools-3B82F6?style=flat-square) ![Python (implied via ML model integration)](https://img.shields.io/badge/Python_%28implied_via_ML_model_integration%29-3B82F6?style=flat-square) ![optimization algorithms](https://img.shields.io/badge/optimization_algorithms-3B82F6?style=flat-square) ![predictive modeling](https://img.shields.io/badge/predictive_modeling-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer I](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5840954004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Madison, WI · `Junior`
 
-_Build and maintain scalable telemetry applications_
+_Build and maintain scalable telemetry applications for PlayStation_
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React/ReactNative](https://img.shields.io/badge/React%2FReactNative-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![data management systems](https://img.shields.io/badge/data_management_systems-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React/ReactNative](https://img.shields.io/badge/React%2FReactNative-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer I](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5840958004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Los Angeles, CA · `Junior`
 
-_Build and maintain scalable telemetry solutions for PlayStation hardware and services._
+_Build and maintain scalable telemetry solutions for PlayStation experiences_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React/ReactNative](https://img.shields.io/badge/React%2FReactNative-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![data management systems](https://img.shields.io/badge/data_management_systems-3B82F6?style=flat-square)
 
@@ -595,18 +584,18 @@ _Build and maintain scalable telemetry solutions for PlayStation hardware and se
 ### [Software Engineer - Build & Tools](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5841158004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Canada, Waterloo, ON · `Senior`
 
-_Build and maintain scalable CI/CD pipelines for PlayStation platforms_
+_Design, develop, and maintain scalable CI/CD pipelines across platforms_
 
-![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Linux-based build environments](https://img.shields.io/badge/Linux--based_build_environments-3B82F6?style=flat-square) ![Kubernetes (preferred)](https://img.shields.io/badge/Kubernetes_%28preferred%29-3B82F6?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 ---
 
 ### [Sr. Software Development Engineer In Test](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5841196004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Build and maintain automated test frameworks for PlayStation SDK components_
+_Build and maintain automated test infrastructure for PlayStation® SDK components._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![embedded firmware](https://img.shields.io/badge/embedded_firmware-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![CI systems](https://img.shields.io/badge/CI_systems-3B82F6?style=flat-square) ![test frameworks](https://img.shields.io/badge/test_frameworks-3B82F6?style=flat-square)
 
 ---
 
@@ -619,28 +608,21 @@ _Develop and maintain cross-platform SDKs and APIs for platform services._
 
 ---
 
-### [Manager, Service Reliability Engineering](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5843866004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA · `Manager`
-
-_Lead and manage the Service Reliability Engineering team to ensure 24/7/365 infrastructure stability and operational excellence._
-
----
-
 ### [Site Reliability Engineer II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5843870004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA · `Senior`
 
-_Own and maintain production API gateway and service mesh infrastructure._
+_Own and improve the cloud gaming infrastructure reliability practices._
 
-![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Linkerd](https://img.shields.io/badge/Linkerd-3B82F6?style=flat-square) ![Kuma](https://img.shields.io/badge/Kuma-3B82F6?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS-3B82F6?style=flat-square)
+![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Linkerd](https://img.shields.io/badge/Linkerd-3B82F6?style=flat-square) ![Kuma](https://img.shields.io/badge/Kuma-3B82F6?style=flat-square) ![GitOps](https://img.shields.io/badge/GitOps-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Technical Operations Developer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5848168004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Build and maintain the research toolsets and infrastructure for PlayStation Studios User Research_
+_Build and maintain the research toolset infrastructure_
 
-![PHP](https://img.shields.io/badge/PHP-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![relational databases](https://img.shields.io/badge/relational_databases-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-3B82F6?style=flat-square) ![JS](https://img.shields.io/badge/JS-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![relational databases](https://img.shields.io/badge/relational_databases-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
 
 ---
 
@@ -656,34 +638,34 @@ _Build and maintain the mobile rendering engine for iOS/Android platforms._
 ### [Staff Cloud Security Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5850287004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States · `Staff` · `Remote`
 
-_Define and implement cloud security architecture for multi-cloud environments._
+_Architect and secure AI/ML workloads with cloud-native security controls_
 
-![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AI/ML security](https://img.shields.io/badge/AI%2FML_security-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer (AEM)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5891199004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin
 
-_Build and maintain AEM assets and sites, integrate Adobe Marketing Cloud tools, and optimize web performance._
+_Build and maintain AEM assets and sites, integrate Adobe Marketing Cloud tools._
 
-![AEM](https://img.shields.io/badge/AEM-3B82F6?style=flat-square) ![Adobe Target](https://img.shields.io/badge/Adobe_Target-3B82F6?style=flat-square) ![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-3B82F6?style=flat-square) ![SEO](https://img.shields.io/badge/SEO-3B82F6?style=flat-square) ![A/B testing](https://img.shields.io/badge/A%2FB_testing-3B82F6?style=flat-square)
+![AEM](https://img.shields.io/badge/AEM-3B82F6?style=flat-square) ![Adobe Target](https://img.shields.io/badge/Adobe_Target-3B82F6?style=flat-square) ![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-3B82F6?style=flat-square) ![web best practices (SEO](https://img.shields.io/badge/web_best_practices_%28SEO-3B82F6?style=flat-square) ![A/B testing)](https://img.shields.io/badge/A%2FB_testing%29-3B82F6?style=flat-square) ![code reviews](https://img.shields.io/badge/code_reviews-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer / Web Developer (AEM)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5910187004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Senior`
 
-_Build and maintain the AEM platform and Adobe Marketing Cloud tools for PlayStation.com_
+_Develop and maintain the AEM platform and Adobe Marketing Cloud tools_
 
 ![AEM](https://img.shields.io/badge/AEM-3B82F6?style=flat-square) ![Adobe Target](https://img.shields.io/badge/Adobe_Target-3B82F6?style=flat-square) ![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-3B82F6?style=flat-square) ![web best practices](https://img.shields.io/badge/web_best_practices-3B82F6?style=flat-square) ![code reviews](https://img.shields.io/badge/code_reviews-3B82F6?style=flat-square)
 
 ---
 
 ### [QA Automation Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5910195004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Mid`
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Senior`
 
-_Develop and maintain automated test scripts for Adobe Experience Manager sites._
+_Develop and execute automated testing scripts for Adobe Experience Manager sites._
 
 ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-3B82F6?style=flat-square) ![Applitools](https://img.shields.io/badge/Applitools-3B82F6?style=flat-square) ![Cucumber](https://img.shields.io/badge/Cucumber-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square)
 
@@ -692,34 +674,34 @@ _Develop and maintain automated test scripts for Adobe Experience Manager sites.
 ### [Senior Service Reliability Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5969109004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA · `Senior`
 
-_Design and implement scalable cloud gaming infrastructure_
+_Ensure the stability and scalability of the cloud gaming platform_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Web Services](https://img.shields.io/badge/Web_Services-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer II, Front End](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5969119004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Canada, Waterloo, ON · `Mid`
 
-_Build and maintain digital commerce solutions for PlayStation games and services_
+_Build and maintain JavaScript-based applications for PlayStation gaming consoles and services_
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square) ![unit testing](https://img.shields.io/badge/unit_testing-3B82F6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square) ![unit testing](https://img.shields.io/badge/unit_testing-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer - C#/Windows](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5969132004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London
 
-_Design and develop Windows desktop applications using C# and .NET framework for SDK integration tools._
+_Design, develop, and maintain Windows desktop applications using C# and .NET framework_
 
 ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![.NET framework](https://img.shields.io/badge/.NET_framework-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![P/Invoke](https://img.shields.io/badge/P%2FInvoke-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Development Engineer in Test II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5969889004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Develop and maintain automated tests for PlayStation® peripherals and firmware._
+_Develop and maintain automated tests for PlayStation® peripherals and firmware_
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-3B82F6?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square)
 
@@ -728,45 +710,43 @@ _Develop and maintain automated tests for PlayStation® peripherals and firmware
 ### [Senior Gameplay Programmer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5970134004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Canada, Montreal, QC · `Senior`
 
-_Build and maintain gameplay systems and technical infrastructure for PlayStation titles._
+_Build and maintain gameplay systems for PlayStation titles_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![object-oriented principles](https://img.shields.io/badge/object--oriented_principles-3B82F6?style=flat-square) ![debugging](https://img.shields.io/badge/debugging-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Data Scientist - CLV & Personalisation](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5972006004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Build and deliver advanced machine learning models to drive player value and engagement._
-
-![deep learning](https://img.shields.io/badge/deep_learning-3B82F6?style=flat-square) ![sequence modelling](https://img.shields.io/badge/sequence_modelling-3B82F6?style=flat-square)
+_Design and deliver advanced machine learning models to drive player value and engagement._
 
 ---
 
 ### [Senior Service Reliability Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5976661004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Germany, Berlin · `Senior`
 
-_Lead improvements in service reliability and scalability for cloud gaming infrastructure_
+_Own the scalability and reliability of the cloud gaming service infrastructure._
 
-![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Web Services infrastructure](https://img.shields.io/badge/Web_Services_infrastructure-3B82F6?style=flat-square) ![programming languages (specifics not listed)](https://img.shields.io/badge/programming_languages_%28specifics_not_listed%29-3B82F6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Web Services](https://img.shields.io/badge/Web_Services-3B82F6?style=flat-square) ![Production Systems](https://img.shields.io/badge/Production_Systems-3B82F6?style=flat-square) ![Platform-wide solutions](https://img.shields.io/badge/Platform--wide_solutions-3B82F6?style=flat-square) ![Development experience (specific languages not listed)](https://img.shields.io/badge/Development_experience_%28specific_languages_not_listed%29-3B82F6?style=flat-square)
 
 ---
 
 ### [Site Reliability Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5976696004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Germany, Berlin · `Senior`
 
-_Contribute to code and implement automation for cloud gaming infrastructure reliability_
+_Implement automation to improve cloud gaming service reliability_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Hadoop](https://img.shields.io/badge/Hadoop-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Cassandra](https://img.shields.io/badge/Cassandra-3B82F6?style=flat-square)
 
 ---
 
 ### [Machine Learning Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5976946004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Develop and improve generative models for graphics and video processing systems._
+_Build and improve generative models for graphics and video processing systems_
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![HDF5](https://img.shields.io/badge/HDF5-3B82F6?style=flat-square) ![sim](https://img.shields.io/badge/sim-3B82F6?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![convolutional networks](https://img.shields.io/badge/convolutional_networks-3B82F6?style=flat-square) ![transformer-based architectures](https://img.shields.io/badge/transformer--based_architectures-3B82F6?style=flat-square)
 
 ---
 
@@ -775,7 +755,7 @@ _Develop and improve generative models for graphics and video processing systems
 
 _Develop and enhance generative models for graphics and video processing systems_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![computer vision libraries](https://img.shields.io/badge/computer_vision_libraries-3B82F6?style=flat-square) ![HDF5](https://img.shields.io/badge/HDF5-3B82F6?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![computer vision libraries](https://img.shields.io/badge/computer_vision_libraries-3B82F6?style=flat-square) ![HDF5](https://img.shields.io/badge/HDF5-3B82F6?style=flat-square)
 
 ---
 
@@ -791,43 +771,41 @@ _Develop and maintain UI experiences for PlayStation products_
 ### [Staff Site Reliability Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5979101004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Staff`
 
-_Build and maintain scalable infrastructure-as-code for cloud services_
+_Improve operational reliability for PlayStation Store and Catalog platforms through code and automation._
 
-![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square) ![automation](https://img.shields.io/badge/automation-3B82F6?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square) ![automation](https://img.shields.io/badge/automation-3B82F6?style=flat-square) ![cloud-native patterns (EKS](https://img.shields.io/badge/cloud--native_patterns_%28EKS-3B82F6?style=flat-square) ![auto-scaling)](https://img.shields.io/badge/auto--scaling%29-3B82F6?style=flat-square)
 
 ---
 
 ### [Hardware Fleet Operations Specialist](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5980021004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Aliso Viejo, CA · `Mid`
 
-_Build and maintain lightweight automation scripts for operational efficiency._
+_Build and maintain lightweight automation scripts and operational runbooks for Linux-based hardware systems._
 
-![Linux terminal](https://img.shields.io/badge/Linux_terminal-3B82F6?style=flat-square) ![scripting (shell/automation)](https://img.shields.io/badge/scripting_%28shell%2Fautomation%29-3B82F6?style=flat-square) ![Jira/ServiceNow](https://img.shields.io/badge/Jira%2FServiceNow-3B82F6?style=flat-square) ![runbooks](https://img.shields.io/badge/runbooks-3B82F6?style=flat-square) ![documentation](https://img.shields.io/badge/documentation-3B82F6?style=flat-square)
-
----
-
-### [SDET II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5980025004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Mid`
-
-_Build and maintain test automation frameworks and infrastructure._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![automated testing](https://img.shields.io/badge/automated_testing-3B82F6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-3B82F6?style=flat-square) ![ServiceNow](https://img.shields.io/badge/ServiceNow-3B82F6?style=flat-square) ![scripting](https://img.shields.io/badge/scripting-3B82F6?style=flat-square) ![runbooks](https://img.shields.io/badge/runbooks-3B82F6?style=flat-square)
 
 ---
 
 ### [People Technology Platform Engineer (Workday)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5981435004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin
 
-_Build and maintain the Workday HR platform solutions_
+_Build and maintain the Workday platform for HR domains_
+
+---
+
+### [Manager, People Technology Platform Engineering (Workday)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5981439004.md)
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Manager`
+
+_Lead the design and evolution of the Workday platform_
 
 ---
 
 ### [People Technology Integration Engineer (Workday)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5981762004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Ireland, Dublin · `Senior`
 
-_Design, build, and implement scalable integration solutions across Workday platform and connected systems_
+_Build and maintain integration solutions across Workday platform and connected systems._
 
-![Workday Studio](https://img.shields.io/badge/Workday_Studio-3B82F6?style=flat-square) ![Core Connectors](https://img.shields.io/badge/Core_Connectors-3B82F6?style=flat-square) ![EIBs](https://img.shields.io/badge/EIBs-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![SOAP](https://img.shields.io/badge/SOAP-3B82F6?style=flat-square)
+![Workday Studio](https://img.shields.io/badge/Workday_Studio-3B82F6?style=flat-square) ![Core Connectors](https://img.shields.io/badge/Core_Connectors-3B82F6?style=flat-square) ![EIBs](https://img.shields.io/badge/EIBs-3B82F6?style=flat-square) ![REST/SOAP](https://img.shields.io/badge/REST%2FSOAP-3B82F6?style=flat-square) ![API-based integrations](https://img.shields.io/badge/API--based_integrations-3B82F6?style=flat-square)
 
 ---
 
@@ -836,14 +814,14 @@ _Design, build, and implement scalable integration solutions across Workday plat
 
 _Build and maintain CI/CD pipelines and cloud infrastructure tools for PlayStation platforms._
 
-![Infrastructure-as-Code (IaC)](https://img.shields.io/badge/Infrastructure--as--Code_%28IaC%29-3B82F6?style=flat-square) ![CI/CD systems](https://img.shields.io/badge/CI%2FCD_systems-3B82F6?style=flat-square) ![dashboard development](https://img.shields.io/badge/dashboard_development-3B82F6?style=flat-square)
+![Infrastructure-as-Code (IaC)](https://img.shields.io/badge/Infrastructure--as--Code_%28IaC%29-3B82F6?style=flat-square) ![cloud infrastructure automation](https://img.shields.io/badge/cloud_infrastructure_automation-3B82F6?style=flat-square) ![dashboard development](https://img.shields.io/badge/dashboard_development-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer-DevOps](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5982704004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · Canada, Waterloo, ON · `Senior`
 
-_Design, develop, and maintain CI/CD pipelines and cloud infrastructure for PlayStation platforms._
+_Build and maintain CI/CD pipelines for PlayStation platforms_
 
 ![Infrastructure-as-Code (IaC)](https://img.shields.io/badge/Infrastructure--as--Code_%28IaC%29-3B82F6?style=flat-square) ![CI/CD systems](https://img.shields.io/badge/CI%2FCD_systems-3B82F6?style=flat-square)
 
@@ -861,23 +839,23 @@ _Build and maintain JavaScript-based web features for PlayStation ecosystem_
 ### [Lead Systems Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5983598004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Los Angeles, CA · `Senior`
 
-_Design and maintain high-availability infrastructure platforms_
+_Design and maintain high-availability infrastructure systems_
 
-![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-3B82F6?style=flat-square) ![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![enterprise storage systems](https://img.shields.io/badge/enterprise_storage_systems-3B82F6?style=flat-square) ![enterprise server hardware](https://img.shields.io/badge/enterprise_server_hardware-3B82F6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-3B82F6?style=flat-square) ![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![storage systems](https://img.shields.io/badge/storage_systems-3B82F6?style=flat-square) ![virtualization](https://img.shields.io/badge/virtualization-3B82F6?style=flat-square)
 
 ---
 
 ### [Cloud Security Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5984439004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA
 
-_Build and maintain cloud security tools and infrastructure for PlayStation's distributed systems._
+_Build and maintain security tools for cloud environments, including service mesh, API gateways, and Kubernetes security._
 
-![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Kong](https://img.shields.io/badge/Kong-3B82F6?style=flat-square) ![Amazon API Gateway](https://img.shields.io/badge/Amazon_API_Gateway-3B82F6?style=flat-square) ![cert-manager](https://img.shields.io/badge/cert--manager-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Kong](https://img.shields.io/badge/Kong-3B82F6?style=flat-square) ![Amazon API Gateway](https://img.shields.io/badge/Amazon_API_Gateway-3B82F6?style=flat-square) ![OIDC](https://img.shields.io/badge/OIDC-3B82F6?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS-3B82F6?style=flat-square) ![cert-manager](https://img.shields.io/badge/cert--manager-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5985217004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Madison, WI · `Mid`
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Madison, WI
 
 _Build and maintain JavaScript-based applications for PlayStation consoles, websites, and mobile apps._
 
@@ -888,7 +866,7 @@ _Build and maintain JavaScript-based applications for PlayStation consoles, webs
 ### [Software Engineer II](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5985241004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Mid`
 
-_Build and maintain test frameworks and infrastructure for PlayStation console software_
+_Build and maintain test frameworks and infrastructure for PlayStation console software testing_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square)
 
@@ -906,7 +884,7 @@ _Build and maintain automated test frameworks for ML inference services_
 ### [Sr Software Development Engineer in Test, ML](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5985253004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior`
 
-_Build and maintain automated test frameworks for ML inference services and platform components._
+_Build and maintain automated test frameworks for ML inference services_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![microservices](https://img.shields.io/badge/microservices-3B82F6?style=flat-square) ![databases](https://img.shields.io/badge/databases-3B82F6?style=flat-square)
 
@@ -915,9 +893,9 @@ _Build and maintain automated test frameworks for ML inference services and plat
 ### [Senior Analytics Engineer](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5985600004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United Kingdom, London · `Senior`
 
-_Build and maintain the analytics platform infrastructure_
+_Build and maintain the analytics platform and data models_
 
-![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square)
+![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![dimensional modeling](https://img.shields.io/badge/dimensional_modeling-3B82F6?style=flat-square) ![facts and dimensions](https://img.shields.io/badge/facts_and_dimensions-3B82F6?style=flat-square)
 
 ---
 
@@ -935,7 +913,16 @@ _Develop and maintain automated testing scripts for AEM web applications._
 
 _Build and maintain test frameworks and infrastructure for PlayStation console software_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
+
+---
+
+### [Senior Technical Mission Designer (CONTRACT)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5989156004.md)
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, Bend, OR · `Senior`
+
+_Design and implement mission gameplay systems using scripting and state machines_
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![visual scripting tools](https://img.shields.io/badge/visual_scripting_tools-3B82F6?style=flat-square) ![state machines](https://img.shields.io/badge/state_machines-3B82F6?style=flat-square) ![event systems](https://img.shields.io/badge/event_systems-3B82F6?style=flat-square)
 
 ---
 
@@ -944,7 +931,7 @@ _Build and maintain test frameworks and infrastructure for PlayStation console s
 
 _Develop and maintain mobile applications and telemetry systems for PlayStation platforms_
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![Agile (Scrum)](https://img.shields.io/badge/Agile_%28Scrum%29-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![Agile methodologies](https://img.shields.io/badge/Agile_methodologies-3B82F6?style=flat-square)
 
 ---
 
@@ -953,7 +940,7 @@ _Develop and maintain mobile applications and telemetry systems for PlayStation 
 
 _Build and maintain cloud security tools and infrastructure for PlayStation's distributed systems._
 
-![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Kong](https://img.shields.io/badge/Kong-3B82F6?style=flat-square) ![cert-manager](https://img.shields.io/badge/cert--manager-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS-3B82F6?style=flat-square)
+![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Kong](https://img.shields.io/badge/Kong-3B82F6?style=flat-square) ![Amazon API Gateway](https://img.shields.io/badge/Amazon_API_Gateway-3B82F6?style=flat-square) ![cert-manager](https://img.shields.io/badge/cert--manager-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 ---
 
@@ -969,9 +956,27 @@ _Develop and maintain automated tests for PlayStation® peripherals and firmware
 ### [Senior Software Engineer (Android)](jobs/bend-studio/greenhouse-sonyinteractiveentertainmentglobal-5993591004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Senior`
 
-_Design and implement telemetry, logging, and diagnostic systems for mobile applications_
+_Build and maintain telemetry, logging, and diagnostic systems for mobile applications._
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![telemetry frameworks](https://img.shields.io/badge/telemetry_frameworks-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![Agile (Scrum)](https://img.shields.io/badge/Agile_%28Scrum%29-3B82F6?style=flat-square)
+
+---
+
+### [Senior IT Systems Engineer](jobs/blacksky/greenhouse-blacksky-8542154002.md)
+<img src="https://www.google.com/s2/favicons?domain=blacksky.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**BlackSky** · Seattle, WA · `Senior`
+
+_Build and maintain hybrid cloud infrastructure across AWS GovCloud and Azure._
+
+![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Hyper-V](https://img.shields.io/badge/Hyper--V-3B82F6?style=flat-square) ![GPOs](https://img.shields.io/badge/GPOs-3B82F6?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-3B82F6?style=flat-square)
+
+---
+
+### [Machine Learning Infrastructure Engineer](jobs/character-ai/ashby-character-13006848-6a69-4467-9274-5d54e80b965d.md)
+<img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
+
+_Build and maintain ML training and serving infrastructure_
+
+![Compute Engine](https://img.shields.io/badge/Compute_Engine-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square)
 
 ---
 
@@ -987,34 +992,43 @@ _Build and maintain high-performance, user-friendly interfaces for the Character
 ### [Software Engineer, AI Platform (All Industry Levels)](jobs/character-ai/ashby-character-2673e467-097e-43c0-ba0d-83e54b3a9cb1.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain data pipelines and infrastructure for AI platforms._
+_Build and maintain data pipelines for AI model training and infrastructure._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Beam](https://img.shields.io/badge/Beam-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Big Query](https://img.shields.io/badge/Big_Query-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square)
+
+---
+
+### [Research Engineer, ML Systems (All Industry Levels)](jobs/character-ai/ashby-character-3ab40c3d-63bd-4634-a126-5a3d25d3263b.md)
+<img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
+
+_Build and optimize ML training and inference systems for GPU clusters._
+
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Triton](https://img.shields.io/badge/Triton-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![CUTLASS](https://img.shields.io/badge/CUTLASS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, Applied ML (Discovery, Recommendation & Search)](jobs/character-ai/ashby-character-3cfa1472-4f6d-46fa-bd08-f6de0833a53f.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain ML backend systems for discovery, recommendation, and search features_
+_Build and maintain the ML backend systems for discovery, recommendation, and search infrastructure._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
+![RESTful](https://img.shields.io/badge/RESTful-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
 
 ---
 
 ### [Research Engineer, Post-Training (All Industry Levels)](jobs/character-ai/ashby-character-449bf7c1-41d7-47a4-89a7-0ee0b31f5918.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City or New York City · `Remote`
 
-_Develop and optimize data pipelines for model training and inference._
+_Build and maintain data pipelines for processing web data into model-ready formats._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![GPUs](https://img.shields.io/badge/GPUs-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![reinforcement learning](https://img.shields.io/badge/reinforcement_learning-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, Safety](jobs/character-ai/ashby-character-65e263f7-5edf-4832-b134-c194f19ea848.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain Trust & Safety user experiences and tools._
+_Build and maintain the front-end tools for Trust & Safety systems_
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square)
 
@@ -1023,43 +1037,43 @@ _Build and maintain Trust & Safety user experiences and tools._
 ### [Software Engineer, Backend/Applied ML (Safety & Integrity)](jobs/character-ai/ashby-character-690f5ec2-2d7b-4c28-9b4d-d710e7225851.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain backend systems for safety and integrity features using applied machine learning._
+_Build and maintain scalable backend systems for safety and integrity features_
 
-![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![distributed systems design](https://img.shields.io/badge/distributed_systems_design-3B82F6?style=flat-square) ![data engineering](https://img.shields.io/badge/data_engineering-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![data engineering](https://img.shields.io/badge/data_engineering-3B82F6?style=flat-square) ![ML pipelines](https://img.shields.io/badge/ML_pipelines-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, Monetization](jobs/character-ai/ashby-character-902c3060-f41f-4bb0-b23d-988055e94f3c.md)
-<img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Mid` · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Remote`
 
-_Build and optimize monetization features for payments and subscriptions._
+_Build and optimize monetization features for payments, subscriptions, and in-app purchase systems._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square)
+![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square)
 
 ---
 
 ### [Research Engineer, AI Safety & Alignment](jobs/character-ai/ashby-character-a7ddb640-466f-4a1f-9a94-7465006aad05.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
 
-_Develop and implement safety evaluation methodologies for large language models_
+_Develop and implement safety evaluation methodologies for AI models_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![reinforcement learning](https://img.shields.io/badge/reinforcement_learning-3B82F6?style=flat-square)
+![reinforcement learning](https://img.shields.io/badge/reinforcement_learning-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![GPUs](https://img.shields.io/badge/GPUs-3B82F6?style=flat-square) ![transformers](https://img.shields.io/badge/transformers-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, Backend](jobs/character-ai/ashby-character-b063d44b-e1fd-4777-8079-573706a589a0.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain scalable backend services for Character.AI's platform._
+_Build and maintain scalable backend systems for Character.AI's interactive entertainment platform._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![PostgreSQL/MySQL/NoSQL](https://img.shields.io/badge/PostgreSQL%2FMySQL%2FNoSQL-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 ---
 
 ### [Research Engineer, Multimodal](jobs/character-ai/ashby-character-d5a38f47-cd16-4e10-818d-45a4f845b529.md)
-<img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain large-scale data pipelines for video generation models._
+_Build and maintain large-scale data pipelines for video generation models_
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![DiT](https://img.shields.io/badge/DiT-3B82F6?style=flat-square) ![ControlNet](https://img.shields.io/badge/ControlNet-3B82F6?style=flat-square) ![FSDP](https://img.shields.io/badge/FSDP-3B82F6?style=flat-square)
 
@@ -1068,7 +1082,9 @@ _Build and maintain large-scale data pipelines for video generation models._
 ### [Staff Data Scientist, Monetization](jobs/character-ai/ashby-character-df95a7a5-87ca-4f51-85fd-4bb595a47a55.md)
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai** · Redwood City, CA · `Staff` · `Remote`
 
-_Build and maintain data science foundations for monetization systems_
+_Build and maintain the monetization data pipeline and analytics infrastructure_
+
+![data science practices](https://img.shields.io/badge/data_science_practices-3B82F6?style=flat-square) ![experimentation](https://img.shields.io/badge/experimentation-3B82F6?style=flat-square) ![metrics](https://img.shields.io/badge/metrics-3B82F6?style=flat-square) ![analytics tooling](https://img.shields.io/badge/analytics_tooling-3B82F6?style=flat-square) ![data-informed insights](https://img.shields.io/badge/data--informed_insights-3B82F6?style=flat-square)
 
 ---
 
@@ -1081,10 +1097,19 @@ _Build and deploy autonomous agents for North's AI workspace platform, integrati
 
 ---
 
+### [Staff Database Platform Engineer](jobs/demandbase/ashby-demandbase-544aaca7-cef4-4e82-9be1-7207a056b296.md)
+<img src="https://www.google.com/s2/favicons?domain=demandbase.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Demandbase** · US · `Staff` · `Remote`
+
+_Design and build self-service database platforms and Infrastructure-as-Code solutions for provisioning, scaling, and operating cloud-native databases across AWS environments. Establish architectural standards and observability frameworks for microservices database operations._
+
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS RDS](https://img.shields.io/badge/AWS_RDS-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square)
+
+---
+
 ### [Software Engineer, Editor](jobs/descript/greenhouse-descript-7449735003.md)
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript** · San Francisco, CA · `Senior` · `Remote`
 
-_Build and maintain the core video editing and streaming platform._
+_Build and maintain the core video editing platform and AI integration systems_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
 
@@ -1093,7 +1118,7 @@ _Build and maintain the core video editing and streaming platform._
 ### [Senior Software Engineer, Agent](jobs/descript/greenhouse-descript-7499700003.md)
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript** · San Francisco, CA · `Senior` · `Remote`
 
-_Build and maintain the agentic video editing platform infrastructure and product experiences_
+_Build and maintain the agentic video editing infrastructure and product experience_
 
 ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
 
@@ -1111,9 +1136,9 @@ _Own and improve the core production infrastructure_
 ### [Senior Software Engineer, AI Platform and Enablement](jobs/descript/greenhouse-descript-7580335003.md)
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript** · San Francisco, CA · `Senior`
 
-_Build and maintain AI infrastructure for model integration and deployment_
+_Build and maintain AI infrastructure supporting machine learning pipelines and model deployments_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square)
 
 ---
 
@@ -1122,43 +1147,43 @@ _Build and maintain AI infrastructure for model integration and deployment_
 
 _Build and maintain AI-powered analytics tools for marketing measurement and campaign forecasting_
 
-![Segment](https://img.shields.io/badge/Segment-3B82F6?style=flat-square) ![Census](https://img.shields.io/badge/Census-3B82F6?style=flat-square) ![Python (implied via data analysis)](https://img.shields.io/badge/Python_%28implied_via_data_analysis%29-3B82F6?style=flat-square) ![attribution models](https://img.shields.io/badge/attribution_models-3B82F6?style=flat-square) ![reverse ETL](https://img.shields.io/badge/reverse_ETL-3B82F6?style=flat-square)
+![Segment](https://img.shields.io/badge/Segment-3B82F6?style=flat-square) ![Census](https://img.shields.io/badge/Census-3B82F6?style=flat-square) ![Python (implied via data analysis)](https://img.shields.io/badge/Python_%28implied_via_data_analysis%29-3B82F6?style=flat-square) ![CDPs](https://img.shields.io/badge/CDPs-3B82F6?style=flat-square) ![reverse ETL](https://img.shields.io/badge/reverse_ETL-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer, Client Platform](jobs/descript/greenhouse-descript-7668317003.md)
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript** · San Francisco, CA · `Senior` · `Remote`
 
-_Own the frontend platform and design systems for Descript's client platform_
+_Own the React codebase and design systems for the client platform_
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React DevTools](https://img.shields.io/badge/React_DevTools-3B82F6?style=flat-square) ![performance profiling tools](https://img.shields.io/badge/performance_profiling_tools-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![design systems](https://img.shields.io/badge/design_systems-3B82F6?style=flat-square)
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![performance profiling tools](https://img.shields.io/badge/performance_profiling_tools-3B82F6?style=flat-square) ![testing frameworks](https://img.shields.io/badge/testing_frameworks-3B82F6?style=flat-square) ![design systems](https://img.shields.io/badge/design_systems-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer, Growth](jobs/descript/greenhouse-descript-7683752003.md)
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript** · San Francisco, CA · `Senior` · `Remote`
 
-_Build and maintain the data pipelines and instrumentation for real-time analytics_
+_Build and maintain the growth systems and data pipelines that drive user activation and experimentation._
 
-![TypeScript/JavaScript](https://img.shields.io/badge/TypeScript%2FJavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Frontend Engineer, Marketing Web](jobs/descript/greenhouse-descript-7716322003.md)
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript** · San Francisco, CA · `Senior` · `Remote`
 
-_Build and maintain the marketing website platform and reusable frontend components._
+_Own and maintain the marketing website and CMS platform_
 
-![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![headless CMS (Contentful](https://img.shields.io/badge/headless_CMS_%28Contentful-3B82F6?style=flat-square) ![Builder.io)](https://img.shields.io/badge/Builder.io%29-3B82F6?style=flat-square) ![visual editor tools](https://img.shields.io/badge/visual_editor_tools-3B82F6?style=flat-square) ![A/B testing setup](https://img.shields.io/badge/A%2FB_testing_setup-3B82F6?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![headless CMS (Contentful](https://img.shields.io/badge/headless_CMS_%28Contentful-3B82F6?style=flat-square) ![Builder.io)](https://img.shields.io/badge/Builder.io%29-3B82F6?style=flat-square) ![JavaScript (implied by frontend work)](https://img.shields.io/badge/JavaScript_%28implied_by_frontend_work%29-3B82F6?style=flat-square) ![A/B testing tools](https://img.shields.io/badge/A%2FB_testing_tools-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Supply Chain Security Engineer](jobs/docker/ashby-docker-4ed87069-a913-4dc8-8ee2-7f954ab3586f.md)
 <img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Docker** · Canada · `Senior` · `Remote`
 
-_Maintain and update security-hardened container image definitions and Helm charts for Docker's DHI catalog_
+_Author and maintain image definition files and Helm charts for security-hardened container images._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![YAML](https://img.shields.io/badge/YAML-3B82F6?style=flat-square) ![Helm charts](https://img.shields.io/badge/Helm_charts-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![YAML](https://img.shields.io/badge/YAML-3B82F6?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
 
 ---
 
@@ -1183,9 +1208,9 @@ _Drive operational maturity by implementing CI/CD pipelines, infrastructure-as-c
 ### [Senior Engine Programmer, Verse Framework](jobs/epic-games/greenhouse-epicgames-5994618004.md)
 <img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Cary,North Carolina,United States · `Senior`
 
-_Architect and implement low-level engine systems including Scene Graph, networking, analytics, and the language toolchain. Design stable APIs for Verse integration across Unreal Engine._
+_Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, designing APIs that expose engine capabilities across Scene Graph, networking, analytics, and the language toolchain._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![AI-assisted development tools](https://img.shields.io/badge/AI--assisted_development_tools-3B82F6?style=flat-square) ![language toolchain](https://img.shields.io/badge/language_toolchain-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square) ![analytics](https://img.shields.io/badge/analytics-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Game consoles](https://img.shields.io/badge/Game_consoles-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Verse Framework](https://img.shields.io/badge/Verse_Framework-3B82F6?style=flat-square)
 
 ---
 
@@ -1210,59 +1235,59 @@ _Architect and implement low-level engine systems including Scene Graph, network
 ### [Data Engineer](jobs/hebbia/greenhouse-hebbia-4564848005.md)
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA · `Senior`
 
-_Build and maintain ETL pipelines and data lakes for the AI platform_
+_Build and maintain ETL pipelines and data lake infrastructure_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![DBT](https://img.shields.io/badge/DBT-3B82F6?style=flat-square)
 
 ---
 
 ### [Platform Engineer, Document Intelligence](jobs/hebbia/greenhouse-hebbia-4584750005.md)
-<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA
 
-_Build and maintain the core distributed systems for high-scale document indexing and processing._
-
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![performance optimization](https://img.shields.io/badge/performance_optimization-3B82F6?style=flat-square) ![state-of-the-art infrastructure](https://img.shields.io/badge/state--of--the--art_infrastructure-3B82F6?style=flat-square)
+_Build and maintain the core distributed systems powering billions of tokens and millions of documents._
 
 ---
 
 ### [Backend Engineer, Growth and Data](jobs/hebbia/greenhouse-hebbia-4584761005.md)
-<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA
+<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA · `Senior`
 
 _Build and maintain the backend systems that power user engagement and data integration._
 
-![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-3B82F6?style=flat-square) ![Dropbox](https://img.shields.io/badge/Dropbox-3B82F6?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-3B82F6?style=flat-square) ![Dropbox](https://img.shields.io/badge/Dropbox-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square)
 
 ---
 
 ### [Backend Engineer, Agent Collaboration Platform](jobs/hebbia/greenhouse-hebbia-4584764005.md)
-<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA
+<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA · `Senior`
 
-_Build and optimize the high-scale document build system for O(1) universal indexing._
+_Build and optimize the high-scale document build system for O(1) indexing._
+
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![LLM execution engine](https://img.shields.io/badge/LLM_execution_engine-3B82F6?style=flat-square) ![performance tuning](https://img.shields.io/badge/performance_tuning-3B82F6?style=flat-square)
 
 ---
 
 ### [Backend Engineer, Agents](jobs/hebbia/greenhouse-hebbia-4584766005.md)
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA
 
-_Build and maintain the custom multi-agent framework and distributed systems infrastructure for agentic tasks._
+_Build and maintain the custom multi-agent framework and distributed systems infrastructure._
 
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![LLM inference engines](https://img.shields.io/badge/LLM_inference_engines-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square)
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![DAG orchestrator](https://img.shields.io/badge/DAG_orchestrator-3B82F6?style=flat-square) ![agentic frameworks](https://img.shields.io/badge/agentic_frameworks-3B82F6?style=flat-square)
 
 ---
 
 ### [Applied Research Engineer, Agents](jobs/hebbia/greenhouse-hebbia-4585152005.md)
-<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA
+<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA · `Senior`
 
-_Build and maintain the custom multi-agent framework for agentic systems._
+_Build and maintain agentic systems and distributed infrastructure for Hebbia's AI platform._
 
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![asynchronous DAG orchestrator](https://img.shields.io/badge/asynchronous_DAG_orchestrator-3B82F6?style=flat-square) ![LLM inference engine](https://img.shields.io/badge/LLM_inference_engine-3B82F6?style=flat-square)
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![LLM inference engines](https://img.shields.io/badge/LLM_inference_engines-3B82F6?style=flat-square) ![asynchronous DAG orchestrators](https://img.shields.io/badge/asynchronous_DAG_orchestrators-3B82F6?style=flat-square) ![private data retrieval systems](https://img.shields.io/badge/private_data_retrieval_systems-3B82F6?style=flat-square) ![agentic frameworks](https://img.shields.io/badge/agentic_frameworks-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, Site Reliability](jobs/hebbia/greenhouse-hebbia-4666955005.md)
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA
 
-_Design and build observability frameworks_
+_Build and maintain observability frameworks for production systems_
 
 ---
 
@@ -1278,7 +1303,7 @@ _Configure and deploy Hebbia environments with custom AI workflows and integrati
 ### [Integrations Engineer](jobs/hebbia/greenhouse-hebbia-4675784005.md)
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA · `Senior`
 
-_Build and maintain data pipelines for Hebbia's AI platform_
+_Build and maintain data pipelines connecting enterprise systems to Hebbia's AI platform._
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-3B82F6?style=flat-square) ![internal customer infrastructure](https://img.shields.io/badge/internal_customer_infrastructure-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square)
 
@@ -1287,7 +1312,7 @@ _Build and maintain data pipelines for Hebbia's AI platform_
 ### [Engineering Manager](jobs/hebbia/greenhouse-hebbia-4679299005.md)
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City; San Francisco, CA · `Manager`
 
-_Own and maintain the AI platform's codebase and technical direction_
+_Own the technical direction and codebase for your team's systems_
 
 ---
 
@@ -1301,36 +1326,34 @@ _Build custom integrations and domain-specific solutions on Hebbia's platform_
 ### [GTM Engineer](jobs/hebbia/greenhouse-hebbia-4679666005.md)
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City · `Senior`
 
-_Build and maintain the GTM tech stack including Salesforce, Outreach, Gong, Apollo, Clay, and Claude_
+_Own and improve the GTM tech stack including Salesforce, Outreach, and AI tools_
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Outreach](https://img.shields.io/badge/Outreach-3B82F6?style=flat-square) ![Gong](https://img.shields.io/badge/Gong-3B82F6?style=flat-square) ![Apollo](https://img.shields.io/badge/Apollo-3B82F6?style=flat-square) ![Clay](https://img.shields.io/badge/Clay-3B82F6?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square)
 
 ---
 
 ### [GTM Systems Lead](jobs/hebbia/greenhouse-hebbia-4679879005.md)
-<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia** · New York City
 
-_Own and improve the GTM tech stack including Salesforce, Outreach, Gong, and AI workflows._
+_Own and improve the GTM tech stack including Salesforce, Outreach, and AI tools_
 
-![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Outreach](https://img.shields.io/badge/Outreach-3B82F6?style=flat-square) ![Gong](https://img.shields.io/badge/Gong-3B82F6?style=flat-square) ![Clay](https://img.shields.io/badge/Clay-3B82F6?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square)
+![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Outreach](https://img.shields.io/badge/Outreach-3B82F6?style=flat-square) ![Gong](https://img.shields.io/badge/Gong-3B82F6?style=flat-square) ![Apollo](https://img.shields.io/badge/Apollo-3B82F6?style=flat-square) ![Clay](https://img.shields.io/badge/Clay-3B82F6?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square)
 
 ---
 
 ### [Member of Technical Staff – Model Training](jobs/inflection-ai/greenhouse-inflectionai-4578240006.md)
-<img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Inflection AI** · Palo Alto, CA
+<img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Inflection AI** · Palo Alto, CA · `Staff`
 
-_Build and maintain post-training pipelines for large transformer models._
+_Build and maintain the model training pipelines using PyTorch and DeepSpeed_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Torchtune](https://img.shields.io/badge/Torchtune-3B82F6?style=flat-square) ![FSDP/DeepSpeed](https://img.shields.io/badge/FSDP%2FDeepSpeed-3B82F6?style=flat-square) ![internal orchestration stack](https://img.shields.io/badge/internal_orchestration_stack-3B82F6?style=flat-square) ![RLHF/DPO/GRPO/RLAIF](https://img.shields.io/badge/RLHF%2FDPO%2FGRPO%2FRLAIF-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Torchtune](https://img.shields.io/badge/Torchtune-3B82F6?style=flat-square) ![FSDP](https://img.shields.io/badge/FSDP-3B82F6?style=flat-square) ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-3B82F6?style=flat-square) ![internal orchestration stack](https://img.shields.io/badge/internal_orchestration_stack-3B82F6?style=flat-square)
 
 ---
 
 ### [Head of IT & Internal Tools](jobs/inflection-ai/greenhouse-inflectionai-4646528006.md)
 <img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Inflection AI** · Palo Alto, California, United States · `Manager`
 
-_Design and operate secure IT infrastructure for distributed workforce_
-
-![zero-trust identity management](https://img.shields.io/badge/zero--trust_identity_management-3B82F6?style=flat-square) ![workflow automation](https://img.shields.io/badge/workflow_automation-3B82F6?style=flat-square) ![data integrations](https://img.shields.io/badge/data_integrations-3B82F6?style=flat-square) ![secure systems](https://img.shields.io/badge/secure_systems-3B82F6?style=flat-square)
+_Design and operate secure IT infrastructure for a distributed workforce_
 
 ---
 
@@ -1348,25 +1371,34 @@ _Design and build feature-rich Android applications_
 
 _Design and build backend systems that power agentic workflows in production_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS/GCP/Azure](https://img.shields.io/badge/AWS%2FGCP%2FAzure-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 ---
 
 ### [Research Engineer, Voice](jobs/inflection-ai/greenhouse-inflectionai-4681124006.md)
 <img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Inflection AI** · Palo Alto, California, United States · `Senior`
 
-_Develop and maintain neural models for voice and audio pipelines integrated into Pi's conversational stack_
+_Build and maintain production-grade voice models and inference pipelines for Pi's conversational stack._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![autoregressive codecs](https://img.shields.io/badge/autoregressive_codecs-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![GPU/accelerator clusters](https://img.shields.io/badge/GPU%2Faccelerator_clusters-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![autoregressive codecs](https://img.shields.io/badge/autoregressive_codecs-3B82F6?style=flat-square) ![flow-matching](https://img.shields.io/badge/flow--matching-3B82F6?style=flat-square)
+
+---
+
+### [Staff Machine Learning Scientist](jobs/intercom/greenhouse-intercom-7271914.md)
+<img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom** · London, England · `Staff`
+
+_Research and productize machine learning models for Intercom's AI customer service platform, from algorithm exploration through offline evaluation to production deployment with product partners._
+
+![Transformer neural networks](https://img.shields.io/badge/Transformer_neural_networks-3B82F6?style=flat-square) ![supervised learning](https://img.shields.io/badge/supervised_learning-3B82F6?style=flat-square) ![unsupervised clustering](https://img.shields.io/badge/unsupervised_clustering-3B82F6?style=flat-square) ![exploratory data analysis](https://img.shields.io/badge/exploratory_data_analysis-3B82F6?style=flat-square) ![n/a](https://img.shields.io/badge/n%2Fa-3B82F6?style=flat-square)
 
 ---
 
 ### [Sr. Staff Physical Design Timing Engineer (STA)](jobs/lightmatter/greenhouse-lightmatter-4971293008.md)
 <img src="https://www.google.com/s2/favicons?domain=lightmatter.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lightmatter** · Toronto, ON · `Staff`
 
-_Drive STA sign-off for Silicon photonics chips using Tempus/PrimeTime_
+_Drive STA sign-off for Silicon photonics chips at advanced technology nodes._
 
-![Cadence](https://img.shields.io/badge/Cadence-3B82F6?style=flat-square) ![Synopsys](https://img.shields.io/badge/Synopsys-3B82F6?style=flat-square) ![Tempus/PrimeTime](https://img.shields.io/badge/Tempus%2FPrimeTime-3B82F6?style=flat-square) ![TCL](https://img.shields.io/badge/TCL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![TCL](https://img.shields.io/badge/TCL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Tempus/PrimeTime](https://img.shields.io/badge/Tempus%2FPrimeTime-3B82F6?style=flat-square) ![Cadence/Synopsys tools](https://img.shields.io/badge/Cadence%2FSynopsys_tools-3B82F6?style=flat-square) ![scripting](https://img.shields.io/badge/scripting-3B82F6?style=flat-square)
 
 ---
 
@@ -1382,7 +1414,7 @@ _Build and maintain the LiveKit Rust SDK and shared core modules_
 ### [Software Engineer](jobs/magic/ashby-magic.dev-4123c573-3de0-41be-bcb8-8201539d1787.md)
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic** · San Francisco
 
-_Build and scale large distributed data pipelines for pre-training_
+_Build and scale large distributed data pipelines for pre-training, design filtering systems, and develop post-training datasets._
 
 ---
 
@@ -1396,29 +1428,25 @@ _Design and implement high-performance kernels for Magic's long-context models_
 ---
 
 ### [Member of Technical Staff, Inference & RL Systems](jobs/magic/ashby-magic.dev-427ffdee-d4d1-4a39-a730-4a96435daa67.md)
-<img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic** · San Francisco · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic** · San Francisco
 
-_Build and maintain distributed inference and RL systems for large-scale model execution._
-
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![GPU execution constraints](https://img.shields.io/badge/GPU_execution_constraints-3B82F6?style=flat-square) ![production ML systems](https://img.shields.io/badge/production_ML_systems-3B82F6?style=flat-square)
+_Design and scale high-performance inference serving systems for long-context models._
 
 ---
 
 ### [Member of Technical Staff, Supercomputing Platform & Infrastructure](jobs/magic/ashby-magic.dev-45d25f90-3be6-417d-810f-0d95f7704961.md)
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic** · San Francisco · `Senior`
 
-_Build and maintain the supercomputing platform's GPU infrastructure using Terraform and Kubernetes_
+_Build and maintain the supercomputing platform's GPU infrastructure using Terraform and Kubernetes._
 
-![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![cloud platforms (GCP](https://img.shields.io/badge/cloud_platforms_%28GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![OCI)](https://img.shields.io/badge/OCI%29-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square) ![storage systems](https://img.shields.io/badge/storage_systems-3B82F6?style=flat-square)
 
 ---
 
 ### [Member of Technical Staff, RL Research & Environments](jobs/magic/ashby-magic.dev-b8d6a107-3f98-4341-b114-311c7070e59f.md)
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic** · San Francisco · `Senior`
 
-_Design and build post-training datasets and evaluation frameworks for long-context models._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![ML frameworks](https://img.shields.io/badge/ML_frameworks-3B82F6?style=flat-square) ![data systems](https://img.shields.io/badge/data_systems-3B82F6?style=flat-square) ![infrastructure tools](https://img.shields.io/badge/infrastructure_tools-3B82F6?style=flat-square) ![evaluation pipelines](https://img.shields.io/badge/evaluation_pipelines-3B82F6?style=flat-square)
+_Build and maintain post-training data pipelines and evaluation frameworks for RL systems_
 
 ---
 
@@ -1427,14 +1455,16 @@ _Design and build post-training datasets and evaluation frameworks for long-cont
 
 _Build and maintain internet-scale data pipelines and research frameworks_
 
-![large GPU clusters](https://img.shields.io/badge/large_GPU_clusters-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ETL workloads](https://img.shields.io/badge/ETL_workloads-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![large GPU clusters](https://img.shields.io/badge/large_GPU_clusters-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ETL workflows](https://img.shields.io/badge/ETL_workflows-3B82F6?style=flat-square)
 
 ---
 
 ### [Member of Technical Staff, DX & Data Tooling Engineer](jobs/magic/ashby-magic.dev-e69c401c-aeca-4a0b-9dcd-8f37220b7fe4.md)
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic** · San Francisco
 
-_Build and maintain internal data tooling and infrastructure systems_
+_Build and maintain internal data tooling including dashboards, CLIs, and data exploration UIs_
+
+![build systems](https://img.shields.io/badge/build_systems-3B82F6?style=flat-square) ![CI pipelines](https://img.shields.io/badge/CI_pipelines-3B82F6?style=flat-square) ![CLI tools](https://img.shields.io/badge/CLI_tools-3B82F6?style=flat-square) ![web UIs](https://img.shields.io/badge/web_UIs-3B82F6?style=flat-square) ![data infrastructure](https://img.shields.io/badge/data_infrastructure-3B82F6?style=flat-square)
 
 ---
 
@@ -1448,25 +1478,34 @@ _Build and maintain web applications and developer-facing tools powered by long-
 ### [Member of Technical Staff, Pre-training Systems](jobs/magic/ashby-magic.dev-f1d3988f-f93c-42b7-ad1a-f9fb3d07ff26.md)
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic** · San Francisco · `Senior`
 
-_Scale distributed training infrastructure for long-context models_
+_Design and optimize distributed training systems for large-scale GPU clusters._
 
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![GPU clusters](https://img.shields.io/badge/GPU_clusters-3B82F6?style=flat-square) ![parallelism](https://img.shields.io/badge/parallelism-3B82F6?style=flat-square) ![ML systems](https://img.shields.io/badge/ML_systems-3B82F6?style=flat-square) ![fault tolerance](https://img.shields.io/badge/fault_tolerance-3B82F6?style=flat-square)
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![GPU clusters](https://img.shields.io/badge/GPU_clusters-3B82F6?style=flat-square) ![fault tolerance](https://img.shields.io/badge/fault_tolerance-3B82F6?style=flat-square) ![checkpointing](https://img.shields.io/badge/checkpointing-3B82F6?style=flat-square) ![performance optimization](https://img.shields.io/badge/performance_optimization-3B82F6?style=flat-square)
+
+---
+
+### [Android Engineer](jobs/monzo/greenhouse-monzo-7343996.md)
+<img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo** · Barcelona · `Mid`
+
+_Build and maintain the native Android banking app used by 11+ million customers, balancing polished user experiences with well-tested resilient code while working in small autonomous product squads._
+
+![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-3B82F6?style=flat-square)
 
 ---
 
 ### [Machine Learning Engineer Intern](jobs/neuralink/greenhouse-neuralink-6594261003.md)
 <img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Neuralink** · Fremont, California, United States · `Intern`
 
-_Develop novel neural decoders for Brain-Computer Interface (BCI) systems_
+_Develop and refine neural decoders for BCIs_
 
-![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![clean code development](https://img.shields.io/badge/clean_code_development-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![time series data analysis](https://img.shields.io/badge/time_series_data_analysis-3B82F6?style=flat-square) ![clean code development](https://img.shields.io/badge/clean_code_development-3B82F6?style=flat-square)
 
 ---
 
 ### [Senior Software Engineer, iOS](jobs/pika/ashby-pika-5dfeab0a-6928-4aa5-8eb3-09dca4d0f707.md)
 <img src="https://www.google.com/s2/favicons?domain=pika.art&sz=32" width="16" height="16" align="absmiddle">&ensp;**Pika** · Palo Alto HQ · `Senior`
 
-_Build and maintain iOS applications integrating AI and agentic infrastructure_
+_Lead the design and implementation of iOS applications integrating advanced AI and agentic infrastructure_
 
 ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square) ![Combine](https://img.shields.io/badge/Combine-3B82F6?style=flat-square) ![Core ML](https://img.shields.io/badge/Core_ML-3B82F6?style=flat-square) ![ML Kit](https://img.shields.io/badge/ML_Kit-3B82F6?style=flat-square)
 
@@ -1484,7 +1523,7 @@ _Build and maintain the backend infrastructure for Pika's web, mobile, and multi
 ### [Senior Software Engineer, Agent](jobs/pika/ashby-pika-d70aebf3-9798-43f9-aa83-1056c714ecf9.md)
 <img src="https://www.google.com/s2/favicons?domain=pika.art&sz=32" width="16" height="16" align="absmiddle">&ensp;**Pika** · Palo Alto HQ · `Senior`
 
-_Design and develop the AI agent runtime systems for personality, memory, and autonomous behavior_
+_Design and build the AI agent runtime systems for personality, memory, and autonomous behavior_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![LLM integration](https://img.shields.io/badge/LLM_integration-3B82F6?style=flat-square) ![prompt engineering](https://img.shields.io/badge/prompt_engineering-3B82F6?style=flat-square) ![embedding models](https://img.shields.io/badge/embedding_models-3B82F6?style=flat-square)
 
@@ -1493,7 +1532,7 @@ _Design and develop the AI agent runtime systems for personality, memory, and au
 ### [Real-time Video Researcher](jobs/pika/ashby-pika-e6ef5efb-98c0-404d-afcd-a100b8f9f774.md)
 <img src="https://www.google.com/s2/favicons?domain=pika.art&sz=32" width="16" height="16" align="absmiddle">&ensp;**Pika** · Palo Alto HQ · `Senior`
 
-_Design and prototype novel algorithms for real-time video synthesis_
+_Design and prototype real-time video synthesis algorithms and diffusion-based world models._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![autoregressive models](https://img.shields.io/badge/autoregressive_models-3B82F6?style=flat-square)
 
@@ -1522,41 +1561,282 @@ _Build and implement agent-driven workflows and automation systems across Financ
 
 _Build and maintain the content ingestion pipelines and metadata services for Scribd's content foundations._
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![ML/LLM systems](https://img.shields.io/badge/ML%2FLLM_systems-3B82F6?style=flat-square) ![data observability tools](https://img.shields.io/badge/data_observability_tools-3B82F6?style=flat-square) ![asynchronous pipelines](https://img.shields.io/badge/asynchronous_pipelines-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent Data Platform](jobs/sierra/ashby-Sierra-0c892d11-9f19-4b8d-9c2b-409346c52b7a.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Build and maintain real-time data pipelines and data lakehouse infrastructure_
+
+![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Flink](https://img.shields.io/badge/Flink-3B82F6?style=flat-square) ![Trino/Presto](https://img.shields.io/badge/Trino%2FPresto-3B82F6?style=flat-square) ![Iceberg](https://img.shields.io/badge/Iceberg-3B82F6?style=flat-square) ![Hudi](https://img.shields.io/badge/Hudi-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent (New Grad)](jobs/sierra/ashby-Sierra-0ff928f7-cca0-4d2b-ae64-c07277ff5252.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London · `Junior`
+
+_Build and ship highly performant AI agents for enterprise clients_
+
+---
+
+### [Software Engineer, Agent (Thai Speaking)](jobs/sierra/ashby-Sierra-1162dcd2-b181-49d5-9316-342cd68acbed.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Singapore
+
+_Build and ship highly performant AI agents for production environments across industries._
+
+---
+
+### [Agent Engineer, TLM](jobs/sierra/ashby-Sierra-1a0a0334-41f8-4c15-9ed8-615336855e5e.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London · `Senior`
+
+_Own the Agent Development Life Cycle (ADLC) and shape the future of Sierra’s AI agent platform_
+
+---
+
+### [Software Engineer, Voice](jobs/sierra/ashby-Sierra-1bd9c1e7-a2aa-428d-9a31-1a4eed26391f.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Build and maintain real-time speech processing infrastructure for telephony systems_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![developer tooling](https://img.shields.io/badge/developer_tooling-3B82F6?style=flat-square)
+
+---
+
+### [GTM Systems Administrator](jobs/sierra/ashby-Sierra-1c991675-099f-49dd-9b9b-bd3c9111e65c.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Design and implement Go-to-Market software for marketing, sales, and agent development teams_
+
+![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![ETL platforms](https://img.shields.io/badge/ETL_platforms-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Go-to-Market tools](https://img.shields.io/badge/Go--to--Market_tools-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Security](jobs/sierra/ashby-Sierra-201c6046-acb5-4fd4-a685-e993f34ec0d1.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA
+
+_Build and maintain security systems for Sierra’s platform, focusing on privacy, identity, and data protection._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![API design](https://img.shields.io/badge/API_design-3B82F6?style=flat-square) ![authentication frameworks](https://img.shields.io/badge/authentication_frameworks-3B82F6?style=flat-square)
+
+---
+
+### [Agent Engineer, TLM](jobs/sierra/ashby-Sierra-2dee25a0-a0c1-425e-b67a-9d49fc821369.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · New York, NY
+
+_Lead the design and delivery of production-grade AI agents_
+
+---
+
+### [Software Engineer, Agent Builder](jobs/sierra/ashby-Sierra-2fdb200f-c5cf-420c-9997-5e5cea6e1e20.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Build and maintain the simulation platform for testing AI agents_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![developer tooling](https://img.shields.io/badge/developer_tooling-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Site Reliability (SRE)](jobs/sierra/ashby-Sierra-3914e14a-2339-4d49-97e8-3a0de793cfb1.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Own and build the observability stack and cloud infrastructure for AI-driven systems_
+
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![AWS services](https://img.shields.io/badge/AWS_services-3B82F6?style=flat-square) ![container orchestration](https://img.shields.io/badge/container_orchestration-3B82F6?style=flat-square) ![cloud networking (IAM](https://img.shields.io/badge/cloud_networking_%28IAM-3B82F6?style=flat-square) ![VPC)](https://img.shields.io/badge/VPC%29-3B82F6?style=flat-square) ![observability systems (Prometheus](https://img.shields.io/badge/observability_systems_%28Prometheus-3B82F6?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3B82F6?style=flat-square) ![Datadog)](https://img.shields.io/badge/Datadog%29-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-43e6eda7-6e46-43e8-82a5-6e5035f063bb.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Singapore
+
+_Build and ship highly performant, reliable AI agents for production environments_
+
+---
+
+### [Strategist, Agent Development](jobs/sierra/ashby-Sierra-548eccd8-85c7-4cfa-a145-1c6ba5c17dc2.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London
+
+_Build and refine conversational AI agents for customer interactions_
+
+---
+
+### [Software Engineer, Infrastructure](jobs/sierra/ashby-Sierra-55e76105-7f8d-42e8-b1d1-120b7b83922e.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Build and maintain the cloud infrastructure platform using Terraform and distributed systems_
+
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Insights](jobs/sierra/ashby-Sierra-5ed4bbfa-1c27-4242-be7f-b8dc4ce8c25f.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Build and maintain the data analysis system and Explorer tool_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent (Italian speaking)](jobs/sierra/ashby-Sierra-6207b02d-d334-4000-b84e-2af779171838.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London · `Senior`
+
+_Design and build production-grade AI agents for enterprise clients_
+
+---
+
+### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-631848ec-1a74-4067-8b9f-cd04a71aab6d.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Toronto · `Senior`
+
+_Build and maintain production-grade AI agents for enterprise and startup clients_
+
+![AI agents](https://img.shields.io/badge/AI_agents-3B82F6?style=flat-square) ![production systems](https://img.shields.io/badge/production_systems-3B82F6?style=flat-square) ![scalable infrastructure](https://img.shields.io/badge/scalable_infrastructure-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-787c1efd-2327-46e7-9335-59a20ad4be18.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Sydney · `Remote`
+
+_Build and ship production-grade AI agents for enterprise and startup clients._
+
+---
+
+### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-8646493c-93a6-482e-a810-4a0aa6e3438f.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Munich · `Remote`
+
+_Build and ship highly performant AI agents for enterprise clients_
+
+---
+
+### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-8f9d2381-aa28-4ad8-bdbd-8b6a7585b56c.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Tokyo
+
+_Build and ship highly performant, reliable AI agents for production environments_
+
+---
+
+### [APX (New Grad)](jobs/sierra/ashby-Sierra-9738d0f0-13be-4e89-9fba-505e7cac288f.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Intern`
+
+_Build and ship AI agents with top global brands_
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![modern programming languages](https://img.shields.io/badge/modern_programming_languages-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent (French speaking)](jobs/sierra/ashby-Sierra-9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London
+
+_Build and ship highly performant AI agents for industries like finance and healthcare_
+
+---
+
+### [Software Engineer, Agent (German speaking)](jobs/sierra/ashby-Sierra-9ebc3a79-82bf-478d-bd98-d473d41bdeaf.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London
+
+_Build and ship highly performant AI agents for enterprise clients_
+
+---
+
+### [Corporate Security Engineer, Lead](jobs/sierra/ashby-Sierra-9ec424f1-9013-41d1-bc4d-d36ddb9c98c1.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Build and maintain the corporate security enforcement systems_
+
+---
+
+### [Software Engineer, Mobile](jobs/sierra/ashby-Sierra-a0b9444b-2354-4db3-8fe8-87892e2e282e.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Own and evolve the mobile Experience SDKs for iOS and Android._
+
+![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![OS-level integrations](https://img.shields.io/badge/OS--level_integrations-3B82F6?style=flat-square) ![SDK development](https://img.shields.io/badge/SDK_development-3B82F6?style=flat-square) ![native mobile frameworks](https://img.shields.io/badge/native_mobile_frameworks-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent (Cantonese Speaking)](jobs/sierra/ashby-Sierra-a4541730-ae7f-4771-b3e9-7f9da6cc5d23.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Singapore
+
+_Build and maintain production-grade AI agents for enterprise and startup clients_
+
+---
+
+### [Software Engineer, Agent (Spanish speaking)](jobs/sierra/ashby-Sierra-aadfc0a0-93f6-454b-9767-c24793fa3eff.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London
+
+_Build and ship highly performant AI agents for enterprise clients_
 
 ---
 
 ### [Software Engineer, Product](jobs/sierra/ashby-Sierra-b16462e4-ce32-4ce9-b788-0a8f0f096361.md)
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA
 
-_Build and maintain AI agent architectures and retrieval systems for customer interactions._
-
-![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square) ![generative tools (Cursor](https://img.shields.io/badge/generative_tools_%28Cursor-3B82F6?style=flat-square) ![Claude Code)](https://img.shields.io/badge/Claude_Code%29-3B82F6?style=flat-square) ![simulation platforms (𝜏-Bench)](https://img.shields.io/badge/simulation_platforms_%28𝜏--Bench%29-3B82F6?style=flat-square) ![content management systems](https://img.shields.io/badge/content_management_systems-3B82F6?style=flat-square)
+_Build and maintain AI agent systems and infrastructure_
 
 ---
 
 ### [Software Engineer, Agent Architecture](jobs/sierra/ashby-Sierra-b3829801-8e0b-4047-8cd8-8a51c87028fd.md)
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
 
-_Build the core systems for agent architecture including the SDK, orchestration engine, and evaluation frameworks._
+_Build and maintain the Agent SDK orchestration engine and runtime systems_
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![LLM-based applications](https://img.shields.io/badge/LLM--based_applications-3B82F6?style=flat-square) ![retrieval systems](https://img.shields.io/badge/retrieval_systems-3B82F6?style=flat-square) ![evaluation systems](https://img.shields.io/badge/evaluation_systems-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![LLM-based applications](https://img.shields.io/badge/LLM--based_applications-3B82F6?style=flat-square) ![retrieval systems](https://img.shields.io/badge/retrieval_systems-3B82F6?style=flat-square) ![evaluation frameworks](https://img.shields.io/badge/evaluation_frameworks-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-b7d1dbcd-ca72-472f-b15e-5b4b0f886be0.md)
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London
 
-_Build and maintain production-grade AI agents for enterprise clients_
+_Design and build AI agents for production environments across industries_
+
+---
+
+### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-b89816c1-80b2-449b-b69e-2c261b8e9e23.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Paris
+
+_Build and ship highly performant, reliable AI agents for production environments_
+
+---
+
+### [Software Engineer, Agent (Korean Speaking)](jobs/sierra/ashby-Sierra-b8a89b9a-70a1-4e47-874c-41542d1bc60a.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Singapore
+
+_Build and deploy AI agents for enterprise clients_
 
 ---
 
 ### [Security Engineer](jobs/sierra/ashby-Sierra-bbef339c-3365-40df-804b-ece245386b43.md)
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA
 
-_Implement security automation and tooling for CI/CD pipelines and AI-based solutions_
+_Build and maintain security automation tools and integrate them into CI/CD pipelines._
 
-![DevOps tools](https://img.shields.io/badge/DevOps_tools-3B82F6?style=flat-square) ![scripting languages](https://img.shields.io/badge/scripting_languages-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
+![DevOps tools](https://img.shields.io/badge/DevOps_tools-3B82F6?style=flat-square) ![scripting](https://img.shields.io/badge/scripting-3B82F6?style=flat-square) ![secure coding practices](https://img.shields.io/badge/secure_coding_practices-3B82F6?style=flat-square) ![cloud security platforms (AWS](https://img.shields.io/badge/cloud_security_platforms_%28AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP)](https://img.shields.io/badge/GCP%29-3B82F6?style=flat-square) ![threat modeling](https://img.shields.io/badge/threat_modeling-3B82F6?style=flat-square)
+
+---
+
+### [Support Engineer](jobs/sierra/ashby-Sierra-c6378c64-afc9-4751-a79b-a888fe6ceb70.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA
+
+_Build and maintain the support function using Agent OS and AI tools_
+
+![Agent OS](https://img.shields.io/badge/Agent_OS-3B82F6?style=flat-square) ![Codex/Claude](https://img.shields.io/badge/Codex%2FClaude-3B82F6?style=flat-square) ![internal tooling](https://img.shields.io/badge/internal_tooling-3B82F6?style=flat-square)
+
+---
+
+### [Intern, Agent Development (Fall 2026)](jobs/sierra/ashby-Sierra-c74d600c-235c-4d42-8546-b178b7adefc2.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Intern`
+
+_Develop and deploy AI agents for Sierra's customers_
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![RAG pipelines](https://img.shields.io/badge/RAG_pipelines-3B82F6?style=flat-square) ![prompt engineering](https://img.shields.io/badge/prompt_engineering-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent (Arabic speaking)](jobs/sierra/ashby-Sierra-ce463311-0c6c-43d9-ab79-dd751743104f.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · London
+
+_Design and deliver production-grade AI agents that drive revenue and scale across industries_
 
 ---
 
@@ -1565,32 +1845,191 @@ _Implement security automation and tooling for CI/CD pipelines and AI-based solu
 
 _Build and maintain the platform's agent development infrastructure_
 
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![AI-powered products](https://img.shields.io/badge/AI--powered_products-3B82F6?style=flat-square) ![developer platforms](https://img.shields.io/badge/developer_platforms-3B82F6?style=flat-square)
+---
+
+### [Forward Deployed Infrastructure Engineer](jobs/sierra/ashby-Sierra-d9c0aa93-e35d-4752-9cef-4c39dcad5365.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Own and optimize customer deployment infrastructure across enterprise environments._
+
+![infrastructure provisioning](https://img.shields.io/badge/infrastructure_provisioning-3B82F6?style=flat-square) ![automation tooling](https://img.shields.io/badge/automation_tooling-3B82F6?style=flat-square) ![deployment runbooks](https://img.shields.io/badge/deployment_runbooks-3B82F6?style=flat-square) ![VPC configuration](https://img.shields.io/badge/VPC_configuration-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-df431e56-56f5-42ed-bc62-7d6f7041bd27.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · Madrid
+
+_Build and ship production-grade AI agents that drive revenue and transform enterprise operations._
 
 ---
 
 ### [Software Engineer, Agent](jobs/sierra/ashby-Sierra-e9f5fdb6-91ee-4c55-9230-41ec8865650e.md)
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA
 
-_Build and maintain production-grade AI agents for enterprise and startup clients._
+_Build and maintain production-grade AI agents for enterprise and startup clients_
+
+---
+
+### [Software Engineer, Agent - Healthcare](jobs/sierra/ashby-Sierra-eb3ee157-3d2a-412a-88a2-e2cfc5647a66.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA
+
+_Build and deploy AI agents for healthcare applications_
 
 ---
 
 ### [Software Engineer, Frontend](jobs/sierra/ashby-Sierra-f391b10c-7a4a-42b4-9887-dd32b31d6e4e.md)
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
 
-_Own and maintain the frontend of the product and marketing surfaces_
-
-![design systems](https://img.shields.io/badge/design_systems-3B82F6?style=flat-square) ![UI components](https://img.shields.io/badge/UI_components-3B82F6?style=flat-square) ![performance optimization](https://img.shields.io/badge/performance_optimization-3B82F6?style=flat-square) ![accessibility](https://img.shields.io/badge/accessibility-3B82F6?style=flat-square) ![internationalization](https://img.shields.io/badge/internationalization-3B82F6?style=flat-square)
+_Own and maintain the frontend design system and user interfaces for the platform_
 
 ---
 
 ### [Software Engineer, Intelligence](jobs/sierra/ashby-Sierra-f4319197-e898-4756-a7f2-af884fe1e0c7.md)
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
 
-_Build the Intelligence layer for analyzing conversational data and developing learning systems for AI-powered agents._
+_Build the Intelligence layer for analyzing agent interactions and generating insights. Develop learning systems for retrieval, ranking, and personalization._
 
-![data systems](https://img.shields.io/badge/data_systems-3B82F6?style=flat-square) ![analytics](https://img.shields.io/badge/analytics-3B82F6?style=flat-square) ![machine learning-driven products](https://img.shields.io/badge/machine_learning--driven_products-3B82F6?style=flat-square) ![retrieval systems](https://img.shields.io/badge/retrieval_systems-3B82F6?style=flat-square) ![ranking systems](https://img.shields.io/badge/ranking_systems-3B82F6?style=flat-square)
+![data systems](https://img.shields.io/badge/data_systems-3B82F6?style=flat-square) ![analytics](https://img.shields.io/badge/analytics-3B82F6?style=flat-square) ![machine learning-driven products](https://img.shields.io/badge/machine_learning--driven_products-3B82F6?style=flat-square) ![retrieval systems](https://img.shields.io/badge/retrieval_systems-3B82F6?style=flat-square) ![recommendation systems](https://img.shields.io/badge/recommendation_systems-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Identity & Enterprise Platform](jobs/sierra/ashby-Sierra-fc6eaada-479c-4ff6-be79-7e267b9ed2b4.md)
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra** · San Francisco, CA · `Senior`
+
+_Build and maintain the enterprise identity and access management systems for Sierra’s platform._
+
+---
+
+### [Software Engineer](jobs/singlestore/greenhouse-singlestore-7790334.md)
+<img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SingleStore** · India (Remote) · `Mid` · `Remote`
+
+_Design and implement cloud infrastructure capabilities for SingleStore's managed database service, including networking, control plane, and scaling systems running on Kubernetes._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square)
+
+---
+
+### [Backend Engineer](jobs/speak/ashby-speak-29bdc4b4-de67-4463-a288-dd78db99bda4.md)
+<img src="https://www.google.com/s2/favicons?domain=speak.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speak** · San Francisco · `Senior` · `Remote`
+
+_Build and maintain scalable backend systems for AI-powered language learning products_
+
+---
+
+### [Platform Engineer](jobs/speak/ashby-speak-5905c113-489f-4358-8093-f1972908e5e2.md)
+<img src="https://www.google.com/s2/favicons?domain=speak.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speak** · San Francisco · `Staff` · `Remote`
+
+_Own the reliability of Speak’s infrastructure across GCP, Kubernetes, and Node.js/Postgres stack_
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
+
+---
+
+### [Machine Learning Engineer, Voice](jobs/speak/ashby-speak-e78edff4-5135-4c68-932d-e449ee460ea3.md)
+<img src="https://www.google.com/s2/favicons?domain=speak.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speak** · San Francisco · `Senior` · `Remote`
+
+_Build and maintain data infrastructure for training/evaluation datasets and labeling pipelines_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square)
+
+---
+
+### [AI Product Engineer](jobs/speak/ashby-speak-e91eb4bc-93bf-4e3a-b7c9-4a2f506df43f.md)
+<img src="https://www.google.com/s2/favicons?domain=speak.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speak** · San Francisco · `Senior` · `Remote`
+
+_Build and deploy LLM-powered language learning products across the full stack_
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![vector databases](https://img.shields.io/badge/vector_databases-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Platform - Recife, Brazil](jobs/speechify/greenhouse-speechify-5974411004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Recife, Brazil · `Mid`
+
+_Design, develop, and maintain backend APIs including public TTS API, payments, subscriptions, and auth services on GCP infrastructure._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+---
+
+### [Senior Software Engineer, Core Experiences - Des Moines, IA, USA](jobs/speechify/greenhouse-speechify-5974664004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Des Moines, IA, USA · `Senior`
+
+_Build and maintain cross-platform SDKs and core backend services that power Speechify's text-to-speech product, optimizing parsing algorithms and shipping cloud functions in Kotlin._
+
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+
+---
+
+### [Senior Software Engineer, Windows/Desktop Applications - Norfolk, VA, USA](jobs/speechify/greenhouse-speechify-5975007004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Norfolk, VA, USA · `Senior`
+
+_Design, architect, and develop native Windows desktop applications using Windows App SDK and WinUI, with focus on accessibility, performance, and cross-version compatibility._
+
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
+
+---
+
+### [Senior Software Engineer, Windows/Desktop Applications - Oklahoma City, OK, USA](jobs/speechify/greenhouse-speechify-5975019004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Oklahoma City, OK, USA · `Senior`
+
+_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK and WinUI, with emphasis on accessibility, performance, and cross-version compatibility._
+
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Data Infrastructure & Acquisition - Bucharest, Romania](jobs/speechify/greenhouse-speechify-5975224004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Bucharest, Romania · `Senior`
+
+_Build and operate the data ingestion pipeline on GCP infrastructure to collect and process petabyte-scale audio datasets for model training, working across cloud infrastructure, data processing workflows, and research collaboration._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square)
+
+---
+
+### [Tech Lead, Android Core Product - Barcelona, Spain](jobs/speechify/greenhouse-speechify-5975587004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Barcelona, Spain · `Senior`
+
+_Own major features and reliability metrics for Speechify's Android app, working across product and design teams to deliver high-quality user experiences at scale._
+
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square)
+
+---
+
+### [Tech Lead, Web Core Product & Chrome Extension - Shanghai, China](jobs/speechify/greenhouse-speechify-5975937004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Shanghai, China · `Manager`
+
+_Ship production code for Speechify's web products and Chrome extension, working closely with product teams to build features that scale to millions of users._
+
+![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square)
+
+---
+
+### [Tech Lead, Android Core Product - Zurich, Switzerland](jobs/speechify/greenhouse-speechify-5976309004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Zurich, Switzerland · `Senior`
+
+_Own major features and lead Android app development for Speechify's text-to-speech product, maintaining reliability metrics and shipping high-quality releases across the Play Store's most-used text-to-speech app._
+
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, iOS Core Product - London, United Kingdom](jobs/speechify/greenhouse-speechify-5981027004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · London, United Kingdom · `Senior`
+
+_Build and ship production code for the Speechify iOS app, owning key engineering decisions and maintaining the app's complex architecture at scale._
+
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, iOS Core Product - Brussels, Belgium](jobs/speechify/greenhouse-speechify-5981146004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Brussels, Belgium · `Senior`
+
+_Build and maintain the iOS app for Speechify's text-to-speech product, shipping production code and leading key engineering and product decisions for a #18 App Store productivity application._
+
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square)
 
 ---
 
@@ -1619,10 +2058,19 @@ _Build and maintain data pipelines, infrastructure, and tools using Spark, Scala
 
 ---
 
+### [Software Engineer, Android](jobs/suno/ashby-suno-8a5c628e-0b44-492d-8ed4-39efae717b18.md)
+<img src="https://www.google.com/s2/favicons?domain=suno.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Suno** · NYC · `Senior`
+
+_Design and build Suno's Android app for music creation, exploration, and listening; create foundational libraries for performant, interactive media experiences._
+
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-3B82F6?style=flat-square) ![Material Design](https://img.shields.io/badge/Material_Design-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
+
+---
+
 ### [Applications Engineering Internship - Fall 2026](jobs/varda-space-industries/greenhouse-vardaspace-7732511003.md)
 <img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle">&ensp;**Varda Space Industries** · El Segundo, California, United States · `Intern`
 
-_Develop and maintain data pipelines and internal tools for operational systems_
+_Build and maintain data pipelines and internal tools to integrate enterprise systems._
 
 ---
 
@@ -1640,7 +2088,7 @@ _Build and integrate ML models for depot operations such as charging and vehicle
 
 _Implement and scale the dynamic pricing engine to balance supply and demand. Develop ML models and optimization algorithms for real-time pricing._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ML/optimization infrastructure](https://img.shields.io/badge/ML%2Foptimization_infrastructure-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![backend](https://img.shields.io/badge/backend-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ML/optimization infrastructure](https://img.shields.io/badge/ML%2Foptimization_infrastructure-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 ---
 
@@ -1671,19 +2119,17 @@ _Build and maintain mission-critical fleet infrastructure for autonomous vehicle
 
 ---
 
-### [Partner Deployed Engineer - APAC](jobs/windsurf/ashby-cognition-1e47fa81-bfe3-436c-a6f7-fccd66a98b1e.md)
-<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · India · `Remote`
+### [AI Support Engineer](jobs/windsurf/ashby-cognition-02772183-104d-4cc6-92a4-8e928f51b862.md)
+<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
 
-_Enable partners to build repeatable solutions and reference architectures using Devin/Windsurf_
-
-![CI/CD environments](https://img.shields.io/badge/CI%2FCD_environments-3B82F6?style=flat-square) ![complex integrations](https://img.shields.io/badge/complex_integrations-3B82F6?style=flat-square) ![security reviews](https://img.shields.io/badge/security_reviews-3B82F6?style=flat-square) ![enterprise workflows](https://img.shields.io/badge/enterprise_workflows-3B82F6?style=flat-square) ![technical trainings](https://img.shields.io/badge/technical_trainings-3B82F6?style=flat-square)
+_Build and maintain support automation tools for customer issue resolution_
 
 ---
 
 ### [Data Engineer, Finance](jobs/windsurf/ashby-cognition-3753ba3b-3792-4ca7-82ee-8e7949eadb2e.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Senior`
 
-_Build and maintain the data pipeline and integrations for the Finance and Accounting organization_
+_Build and maintain the Finance and Accounting data stack, including ETL pipelines and reporting systems._
 
 ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Metabase](https://img.shields.io/badge/Metabase-3B82F6?style=flat-square)
 
@@ -1701,64 +2147,53 @@ _Build the agent loop and tool use infrastructure for Devin_
 ### [General Application](jobs/windsurf/ashby-cognition-4841bda0-057a-4471-801f-70309c3c02d5.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
 
-_Build and maintain the AI software agents and AI-native IDE_
+_Build and maintain AI software agents and the AI-native IDE_
 
 ---
 
 ### [Research, Mid-Training](jobs/windsurf/ashby-cognition-57e1e2a1-e0a0-4448-a278-8eed035d7428.md)
-<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Mid`
+<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
 
-_Design and implement late-stage training pipelines for AI models_
-
-![synthetic data pipelines](https://img.shields.io/badge/synthetic_data_pipelines-3B82F6?style=flat-square) ![data mixtures](https://img.shields.io/badge/data_mixtures-3B82F6?style=flat-square) ![annealing schedules](https://img.shields.io/badge/annealing_schedules-3B82F6?style=flat-square) ![context length extension](https://img.shields.io/badge/context_length_extension-3B82F6?style=flat-square) ![evaluation systems](https://img.shields.io/badge/evaluation_systems-3B82F6?style=flat-square)
+_Design and optimize synthetic data pipelines for model training_
 
 ---
 
 ### [Devops Engineer, Federal](jobs/windsurf/ashby-cognition-589326d3-9dc0-447e-ae0c-972b808f831d.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · Washington DC · `Remote`
 
-_Own and maintain the core codebase for federal deployments_
-
----
-
-### [Partner Deployed Engineer](jobs/windsurf/ashby-cognition-6d539905-c75e-45e0-8c3e-db9831a5e6e6.md)
-<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
-
-_Build repeatable solutions and reference architectures for Devin/Windsurf_
+_Build and maintain the core codebase for federal deployments_
 
 ---
 
 ### [Security Engineer](jobs/windsurf/ashby-cognition-71165bb4-9bc8-49df-9eca-49c4232f72ff.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
 
-_Secure the agent execution surface by designing sandboxing and isolation controls._
+_Secure the agent execution surface and build security tooling for code sandboxing and infrastructure protection_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS/GCP/Azure](https://img.shields.io/badge/AWS%2FGCP%2FAzure-3B82F6?style=flat-square)
 
 ---
 
 ### [Research, Post-Training](jobs/windsurf/ashby-cognition-72d3db28-07d3-4c28-b49f-1bdf6e8e0f10.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Senior`
 
-_Shape post-training recipes and alignment methods for AI software agents and IDEs_
-
-![RLHF](https://img.shields.io/badge/RLHF-3B82F6?style=flat-square) ![RLAIF](https://img.shields.io/badge/RLAIF-3B82F6?style=flat-square) ![preference modeling](https://img.shields.io/badge/preference_modeling-3B82F6?style=flat-square) ![reward learning](https://img.shields.io/badge/reward_learning-3B82F6?style=flat-square) ![distributed training](https://img.shields.io/badge/distributed_training-3B82F6?style=flat-square)
+_Shape post-training recipes and alignment methods for Devin and Windsurf_
 
 ---
 
 ### [AI Enablement Engineer](jobs/windsurf/ashby-cognition-811c3f5a-b26d-4162-b49b-93890a91794d.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Senior`
 
-_Enable teams to adopt Devin and integrate agentic workflows into their development processes_
+_Enable and integrate Devin into enterprise workflows through pair programming and training_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Devin](https://img.shields.io/badge/Devin-3B82F6?style=flat-square) ![DeepWiki](https://img.shields.io/badge/DeepWiki-3B82F6?style=flat-square) ![MCP integrations](https://img.shields.io/badge/MCP_integrations-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![DevOps tools](https://img.shields.io/badge/DevOps_tools-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square) ![AI/ML frameworks](https://img.shields.io/badge/AI%2FML_frameworks-3B82F6?style=flat-square) ![collaborative tools](https://img.shields.io/badge/collaborative_tools-3B82F6?style=flat-square)
 
 ---
 
 ### [Deployed Engineer - Europe](jobs/windsurf/ashby-cognition-818e3c35-d25b-4aec-a9e1-23cc8328d19c.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · London · `Remote`
 
-_Deploy and integrate Devin/Windsurf into customer environments_
+_Deploy and integrate Devin/Windsurf into production environments_
 
 ---
 
@@ -1781,32 +2216,30 @@ _Build and maintain the data pipeline for the AI-native IDE and software agents_
 ---
 
 ### [Research Engineer, Infrastructure](jobs/windsurf/ashby-cognition-b6f96827-ce14-44f4-98fa-b1b8640858b6.md)
-<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
 
-_Build and maintain the distributed training infrastructure for large-scale GPU clusters_
-
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![GPU optimization](https://img.shields.io/badge/GPU_optimization-3B82F6?style=flat-square) ![experiment orchestration](https://img.shields.io/badge/experiment_orchestration-3B82F6?style=flat-square)
+_Build and maintain distributed training infrastructure for large-scale GPU clusters._
 
 ---
 
-### [Deployed Engineer - APAC](jobs/windsurf/ashby-cognition-b73fd66a-f43b-4240-95c2-7a76b4ffb0c6.md)
-<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · Singapore · `Mid`
+### [Special Projects Engineer - Europe](jobs/windsurf/ashby-cognition-ca087c5e-b6e8-4852-90f0-f820c8f5f7ed.md)
+<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · London · `Senior` · `Remote`
 
-_Build and deploy Devin's integration solutions for customers_
+_Build internal tools and processes to improve operational efficiency of GTM and EPD_
 
 ---
 
 ### [Site Reliability Engineer](jobs/windsurf/ashby-cognition-d50d94b0-60c8-4dae-9c36-234f072ee4e3.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Senior`
 
-_Build and maintain the CI/CD pipelines and deployment infrastructure for Devin and Windsurf_
+_Own the deployment pipelines and infrastructure for Devin and Windsurf_
 
 ![cloud infrastructure](https://img.shields.io/badge/cloud_infrastructure-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square) ![monitoring systems](https://img.shields.io/badge/monitoring_systems-3B82F6?style=flat-square) ![observability tools](https://img.shields.io/badge/observability_tools-3B82F6?style=flat-square) ![infrastructure as code](https://img.shields.io/badge/infrastructure_as_code-3B82F6?style=flat-square)
 
 ---
 
 ### [Deployed Engineer](jobs/windsurf/ashby-cognition-d72d584c-bb11-4b6a-b043-d81425ea884a.md)
-<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
 
 _Deploy and integrate Devin/Windsurf into customer production environments_
 
@@ -1815,32 +2248,32 @@ _Deploy and integrate Devin/Windsurf into customer production environments_
 ### [QA Engineer - APAC](jobs/windsurf/ashby-cognition-e6f55fdf-151d-4282-a600-b92e4124732f.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · India · `Senior` · `Remote`
 
-_Own end-to-end test strategies for AI workflows in Devin and Windsurf_
+_Build and maintain scalable QA automation processes for AI workflows_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![test automation frameworks](https://img.shields.io/badge/test_automation_frameworks-3B82F6?style=flat-square) ![functional testing](https://img.shields.io/badge/functional_testing-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![test automation frameworks](https://img.shields.io/badge/test_automation_frameworks-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![bug tracking tools](https://img.shields.io/badge/bug_tracking_tools-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer](jobs/windsurf/ashby-cognition-e8086415-62bc-4cc0-96a4-84bb56182d35.md)
-<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco
+<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · San Francisco · `Senior`
 
-_Build core agent infrastructure and improve Windsurf as an AI-native IDE_
+_Build core agent infrastructure for Devin's long-horizon task execution. Improve Windsurf as an AI-native IDE with editor intelligence and real-time code understanding._
+
+![AI/ML models](https://img.shields.io/badge/AI%2FML_models-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![IDE tools](https://img.shields.io/badge/IDE_tools-3B82F6?style=flat-square) ![code execution environments](https://img.shields.io/badge/code_execution_environments-3B82F6?style=flat-square) ![agent orchestration](https://img.shields.io/badge/agent_orchestration-3B82F6?style=flat-square)
 
 ---
 
 ### [Deployed Engineer, Federal](jobs/windsurf/ashby-cognition-f1430967-f367-4afe-9107-e58da423633c.md)
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf** · Washington DC · `Remote`
 
-_Build and maintain product extensions and integrations using Cognition’s APIs and platform primitives_
-
-![platform primitives](https://img.shields.io/badge/platform_primitives-3B82F6?style=flat-square)
+_Build and maintain enterprise deployments for federal clients using Cognition's platform_
 
 ---
 
 ### [Principal Software Engineer - Gram Games](jobs/zynga/greenhouse-zyngacareers-5600512004.md)
 <img src="https://www.google.com/s2/favicons?domain=zynga.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Zynga** · London, UK · `Principal`
 
-_Lead the architecture and development of advanced software systems for gaming platforms._
+_Lead the architecture and development of advanced software systems for gaming platforms_
 
 ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![client-backend integrations](https://img.shields.io/badge/client--backend_integrations-3B82F6?style=flat-square)
 
@@ -1896,7 +2329,7 @@ _Deploy Mistral AI products into production environments and contribute to open-
 
 _Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![dashboards](https://img.shields.io/badge/dashboards-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![dashboards](https://img.shields.io/badge/dashboards-3B82F6?style=flat-square)
 
 ---
 
@@ -1939,7 +2372,7 @@ _Design and develop Knowledge Graph systems for large-scale ML applications. Bui
 
 _Build and maintain highly scalable core services for Waymo's user-facing booking system. Architect APIs and systems for internal and external partners._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square)
 
 ---
 
@@ -2050,6 +2483,13 @@ _The person will build services and APIs for web and mobile apps, develop data a
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States
 
 _Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms._
+
+---
+
+### [Senior Electrical Systems Engineer](jobs/helion-energy/ashby-helion-b5659fa4-aadc-47d0-9746-f58cf8bc51e2.md)
+<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Helion Energy** · Everett, WA
+
+_Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals._
 
 ---
 
@@ -2186,7 +2626,7 @@ _The person will build foundational infrastructure systems such as Compute, Netw
 
 _Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments._
 
-![FANUC](https://img.shields.io/badge/FANUC-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![RoboDK](https://img.shields.io/badge/RoboDK-3B82F6?style=flat-square) ![FANUC ROBOGUIDE](https://img.shields.io/badge/FANUC_ROBOGUIDE-3B82F6?style=flat-square) ![Delmia](https://img.shields.io/badge/Delmia-3B82F6?style=flat-square)
+![FANUC](https://img.shields.io/badge/FANUC-3B82F6?style=flat-square) ![UR](https://img.shields.io/badge/UR-3B82F6?style=flat-square) ![RoboDK](https://img.shields.io/badge/RoboDK-3B82F6?style=flat-square) ![FANUC ROBOGUIDE](https://img.shields.io/badge/FANUC_ROBOGUIDE-3B82F6?style=flat-square) ![Delmia](https://img.shields.io/badge/Delmia-3B82F6?style=flat-square)
 
 ---
 
@@ -2225,6 +2665,13 @@ _Architect scalable ML systems for data discovery and model improvement, includi
 _Develop test infrastructure and checkers for systolic arrays, DMA engines, and NoCs in SystemVerilog and Python. Build performance models and debug hardware-software stack issues._
 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![coverage monitors](https://img.shields.io/badge/coverage_monitors-3B82F6?style=flat-square) ![testbenches](https://img.shields.io/badge/testbenches-3B82F6?style=flat-square) ![performance models](https://img.shields.io/badge/performance_models-3B82F6?style=flat-square)
+
+---
+
+### [Senior Electrical Manufacturing Engineer](jobs/velo3d/lever-velo3d-1ea950a1-9227-4102-92db-4b3d09713ad0.md)
+<img src="https://www.google.com/s2/favicons?domain=velo3d.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Velo3D** · Fremont, CA
+
+_Design and develop electrical components, subsystems, and integration test systems for manufacturing processes._
 
 ---
 

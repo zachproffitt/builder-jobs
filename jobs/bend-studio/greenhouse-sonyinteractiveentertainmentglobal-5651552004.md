@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5651552004
-summary: Build and maintain experimentation infrastructure and tooling using statistical and machine learning methods.
-skills: 
+summary: Build and advance experimentation infrastructure and tooling using statistical and machine learning methods
+skills: statistical methods, machine learning methods, causal inference
 level: staff
-render_hash: 5fed6fdc
+render_hash: 80452b27
 -->
 
 # Staff Data Scientist – Experimentation: Innovation & Research
@@ -19,7 +19,9 @@ render_hash: 5fed6fdc
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Staff`
 
-_Build and maintain experimentation infrastructure and tooling using statistical and machine learning methods._
+_Build and advance experimentation infrastructure and tooling using statistical and machine learning methods_
+
+![statistical methods](https://img.shields.io/badge/statistical_methods-3B82F6?style=flat-square) ![machine learning methods](https://img.shields.io/badge/machine_learning_methods-3B82F6?style=flat-square) ![causal inference](https://img.shields.io/badge/causal_inference-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/inflectionai/jobs/4681064006?gh_jid=4681064006
 summary: Design and build backend systems that power agentic workflows in production
-skills: Python, Postgres, Redis, AWS, GCP, Azure, Kubernetes
+skills: Python, Postgres, Redis, AWS/GCP/Azure, Kubernetes
 level: senior
-render_hash: 3d6b00f2
+render_hash: f47df26c
 -->
 
 # Senior Backend Engineer, Agentic
@@ -21,7 +21,7 @@ Palo Alto, California, United States · `Senior`
 
 _Design and build backend systems that power agentic workflows in production_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS/GCP/Azure](https://img.shields.io/badge/AWS%2FGCP%2FAzure-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

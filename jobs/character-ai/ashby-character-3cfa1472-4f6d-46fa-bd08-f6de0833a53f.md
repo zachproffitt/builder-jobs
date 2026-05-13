@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2025-12-18
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/3cfa1472-4f6d-46fa-bd08-f6de0833a53f
-summary: Build and maintain ML backend systems for discovery, recommendation, and search features
-skills: PyTorch, TensorFlow, RESTful APIs, gRPC, CI/CD pipelines
+summary: Build and maintain the ML backend systems for discovery, recommendation, and search infrastructure.
+skills: RESTful, gRPC, PyTorch, TensorFlow, CI/CD pipelines
 level: senior
-render_hash: bfad6908
+render_hash: 4e165bd0
 -->
 
 # Software Engineer, Applied ML (Discovery, Recommendation & Search)
@@ -19,9 +19,9 @@ render_hash: bfad6908
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
 Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain ML backend systems for discovery, recommendation, and search features_
+_Build and maintain the ML backend systems for discovery, recommendation, and search infrastructure._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
+![RESTful](https://img.shields.io/badge/RESTful-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
 
 <sub>Posted December 18, 2025</sub>
 

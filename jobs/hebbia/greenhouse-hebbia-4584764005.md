@@ -8,18 +8,20 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4584764005
-summary: Build and optimize the high-scale document build system for O(1) universal indexing.
-skills: 
-level: 
-render_hash: 34e32fe0
+summary: Build and optimize the high-scale document build system for O(1) indexing.
+skills: distributed systems, LLM execution engine, performance tuning
+level: senior
+render_hash: 5d6fd5e5
 -->
 
 # Backend Engineer, Agent Collaboration Platform
 
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
-New York City; San Francisco, CA
+New York City; San Francisco, CA · `Senior`
 
-_Build and optimize the high-scale document build system for O(1) universal indexing._
+_Build and optimize the high-scale document build system for O(1) indexing._
+
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![LLM execution engine](https://img.shields.io/badge/LLM_execution_engine-3B82F6?style=flat-square) ![performance tuning](https://img.shields.io/badge/performance_tuning-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

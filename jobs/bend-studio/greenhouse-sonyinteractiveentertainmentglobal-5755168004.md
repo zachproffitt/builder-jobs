@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5755168004
-summary: Design and implement experimentation frameworks for user migration and marketing initiatives
-skills: SQL, Python, causal inference methods, A/B testing, statistical analysis tools
+summary: Design and analyze experiments using SQL and Python
+skills: SQL, Python
 level: senior
-render_hash: 28e19fef
+render_hash: 2c75f06a
 -->
 
 # Senior Data Scientist -  Experimentation & Measurement 
@@ -19,9 +19,9 @@ render_hash: 28e19fef
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Diego, CA · `Senior`
 
-_Design and implement experimentation frameworks for user migration and marketing initiatives_
+_Design and analyze experiments using SQL and Python_
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![causal inference methods](https://img.shields.io/badge/causal_inference_methods-3B82F6?style=flat-square) ![A/B testing](https://img.shields.io/badge/A%2FB_testing-3B82F6?style=flat-square) ![statistical analysis tools](https://img.shields.io/badge/statistical_analysis_tools-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

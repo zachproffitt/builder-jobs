@@ -8,20 +8,18 @@ remote: On-site
 posted_at: 2026-04-08
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6
-summary: Build and maintain the distributed training infrastructure for large-scale GPU clusters
-skills: PyTorch, distributed systems, data pipelines, GPU optimization, experiment orchestration
-level: senior
-render_hash: 5c2523b6
+summary: Build and maintain distributed training infrastructure for large-scale GPU clusters.
+skills: 
+level: 
+render_hash: a82f28f5
 -->
 
 # Research Engineer, Infrastructure
 
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
-San Francisco · `Senior` · On-site
+San Francisco · On-site
 
-_Build and maintain the distributed training infrastructure for large-scale GPU clusters_
-
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![GPU optimization](https://img.shields.io/badge/GPU_optimization-3B82F6?style=flat-square) ![experiment orchestration](https://img.shields.io/badge/experiment_orchestration-3B82F6?style=flat-square)
+_Build and maintain distributed training infrastructure for large-scale GPU clusters._
 
 <sub>Posted April 8, 2026</sub>
 

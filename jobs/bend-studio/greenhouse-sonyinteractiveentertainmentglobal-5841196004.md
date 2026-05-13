@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5841196004
-summary: Build and maintain automated test frameworks for PlayStation SDK components
-skills: C++, Python, Groovy, C, embedded firmware
+summary: Build and maintain automated test infrastructure for PlayStation® SDK components.
+skills: Python, Groovy, C++, CI systems, test frameworks
 level: senior
-render_hash: 17efd762
+render_hash: bbf6ab1a
 -->
 
 # Sr. Software Development Engineer In Test
@@ -19,9 +19,9 @@ render_hash: 17efd762
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Build and maintain automated test frameworks for PlayStation SDK components_
+_Build and maintain automated test infrastructure for PlayStation® SDK components._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![embedded firmware](https://img.shields.io/badge/embedded_firmware-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![CI systems](https://img.shields.io/badge/CI_systems-3B82F6?style=flat-square) ![test frameworks](https://img.shields.io/badge/test_frameworks-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

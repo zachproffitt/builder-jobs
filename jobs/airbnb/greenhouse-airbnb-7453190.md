@@ -11,7 +11,7 @@ url: https://careers.airbnb.com/positions/7453190?gh_jid=7453190
 summary: This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs.
 skills: 
 level: senior
-render_hash: e3aae369
+render_hash: 21a7d4e0
 -->
 
 # Senior iOS Automation Engineer

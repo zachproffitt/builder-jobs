@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5843870004
-summary: Own and maintain production API gateway and service mesh infrastructure.
-skills: Kong API Gateway, Istio, Linkerd, Kuma, mTLS
+summary: Own and improve the cloud gaming infrastructure reliability practices.
+skills: Kong API Gateway, Istio, Linkerd, Kuma, GitOps
 level: senior
-render_hash: c8f5fcbd
+render_hash: 5bbab679
 -->
 
 # Site Reliability Engineer II
@@ -19,9 +19,9 @@ render_hash: c8f5fcbd
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Aliso Viejo, CA · `Senior`
 
-_Own and maintain production API gateway and service mesh infrastructure._
+_Own and improve the cloud gaming infrastructure reliability practices._
 
-![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Linkerd](https://img.shields.io/badge/Linkerd-3B82F6?style=flat-square) ![Kuma](https://img.shields.io/badge/Kuma-3B82F6?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS-3B82F6?style=flat-square)
+![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Linkerd](https://img.shields.io/badge/Linkerd-3B82F6?style=flat-square) ![Kuma](https://img.shields.io/badge/Kuma-3B82F6?style=flat-square) ![GitOps](https://img.shields.io/badge/GitOps-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

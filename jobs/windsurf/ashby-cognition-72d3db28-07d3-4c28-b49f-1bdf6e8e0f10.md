@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-05-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10
-summary: Shape post-training recipes and alignment methods for AI software agents and IDEs
-skills: RLHF, RLAIF, preference modeling, reward learning, distributed training
+summary: Shape post-training recipes and alignment methods for Devin and Windsurf
+skills: 
 level: senior
-render_hash: e54e1509
+render_hash: 396b81e8
 -->
 
 # Research, Post-Training
@@ -19,9 +19,7 @@ render_hash: e54e1509
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
 San Francisco · `Senior` · On-site
 
-_Shape post-training recipes and alignment methods for AI software agents and IDEs_
-
-![RLHF](https://img.shields.io/badge/RLHF-3B82F6?style=flat-square) ![RLAIF](https://img.shields.io/badge/RLAIF-3B82F6?style=flat-square) ![preference modeling](https://img.shields.io/badge/preference_modeling-3B82F6?style=flat-square) ![reward learning](https://img.shields.io/badge/reward_learning-3B82F6?style=flat-square) ![distributed training](https://img.shields.io/badge/distributed_training-3B82F6?style=flat-square)
+_Shape post-training recipes and alignment methods for Devin and Windsurf_
 
 <sub>Posted May 1, 2026</sub>
 

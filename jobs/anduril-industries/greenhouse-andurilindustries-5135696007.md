@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5135696007?gh_jid=51356
 summary: Deploy and manage software on embedded systems for radar applications, ensuring security and reliability across heterogeneous hardware platforms.
 skills: CircleCI, Yocto, NixOS, STIGs, Nvidia Jetson, FPGA
 level: senior
-render_hash: 05ea011c
+render_hash: 33832875
 -->
 
 # Senior Edge Software Deployment Engineer

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4679666005
-summary: Build and maintain the GTM tech stack including Salesforce, Outreach, Gong, Apollo, Clay, and Claude
+summary: Own and improve the GTM tech stack including Salesforce, Outreach, and AI tools
 skills: Salesforce, Outreach, Gong, Apollo, Clay, Claude
 level: senior
-render_hash: 30a5e883
+render_hash: aeb9b85f
 -->
 
 # GTM Engineer
@@ -19,7 +19,7 @@ render_hash: 30a5e883
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
 New York City · `Senior`
 
-_Build and maintain the GTM tech stack including Salesforce, Outreach, Gong, Apollo, Clay, and Claude_
+_Own and improve the GTM tech stack including Salesforce, Outreach, and AI tools_
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Outreach](https://img.shields.io/badge/Outreach-3B82F6?style=flat-square) ![Gong](https://img.shields.io/badge/Gong-3B82F6?style=flat-square) ![Apollo](https://img.shields.io/badge/Apollo-3B82F6?style=flat-square) ![Clay](https://img.shields.io/badge/Clay-3B82F6?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square)
 

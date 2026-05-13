@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/descript/jobs/7683752003?gh_jid=7683752003
-summary: Build and maintain the data pipelines and instrumentation for real-time analytics
-skills: TypeScript/JavaScript, React, HTML, CSS, REST APIs
+summary: Build and maintain the growth systems and data pipelines that drive user activation and experimentation.
+skills: TypeScript, JavaScript, React, HTML, CSS, REST APIs
 level: senior
-render_hash: 74c410ec
+render_hash: 8a000457
 -->
 
 # Senior Software Engineer, Growth
@@ -19,9 +19,9 @@ render_hash: 74c410ec
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript**  
 San Francisco, CA | Remote · `Senior` · `Remote`
 
-_Build and maintain the data pipelines and instrumentation for real-time analytics_
+_Build and maintain the growth systems and data pipelines that drive user activation and experimentation._
 
-![TypeScript/JavaScript](https://img.shields.io/badge/TypeScript%2FJavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

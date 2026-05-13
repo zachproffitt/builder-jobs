@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5987543004
 summary: Build and maintain test frameworks and infrastructure for PlayStation console software
-skills: C++, Python, Jenkins, GitHub Actions, Linux
+skills: C++, Python, Jenkins, GitHub Actions, Docker
 level: staff
-render_hash: a01a39aa
+render_hash: 22f510ae
 -->
 
 # Staff Software Engineer
@@ -21,7 +21,7 @@ United States, San Mateo, CA · `Staff`
 
 _Build and maintain test frameworks and infrastructure for PlayStation console software_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

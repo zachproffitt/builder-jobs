@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5710456004
 summary: Build and maintain high-performance C/C++ services for PlayStation experiences
-skills: C/C++, Linux, CMake, Git, shader programming
+skills: C++, Linux, CMake, Git, shader programming
 level: senior
-render_hash: 63e91f32
+render_hash: c1ca8cd9
 -->
 
 # Senior Software Engineer (C++)
@@ -21,7 +21,7 @@ United States, Aliso Viejo, CA · `Senior`
 
 _Build and maintain high-performance C/C++ services for PlayStation experiences_
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![CMake](https://img.shields.io/badge/CMake-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![shader programming](https://img.shields.io/badge/shader_programming-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![CMake](https://img.shields.io/badge/CMake-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![shader programming](https://img.shields.io/badge/shader_programming-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

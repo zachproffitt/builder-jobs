@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-04-29
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/pika/d70aebf3-9798-43f9-aa83-1056c714ecf9
-summary: Design and develop the AI agent runtime systems for personality, memory, and autonomous behavior
+summary: Design and build the AI agent runtime systems for personality, memory, and autonomous behavior
 skills: TypeScript, Python, LLM integration, prompt engineering, embedding models
 level: senior
-render_hash: fba72d6b
+render_hash: 6dde0fdf
 -->
 
 # Senior Software Engineer, Agent
@@ -19,7 +19,7 @@ render_hash: fba72d6b
 <img src="https://www.google.com/s2/favicons?domain=pika.art&sz=32" width="16" height="16" align="absmiddle">&ensp;**Pika**  
 Palo Alto HQ · `Senior` · On-site
 
-_Design and develop the AI agent runtime systems for personality, memory, and autonomous behavior_
+_Design and build the AI agent runtime systems for personality, memory, and autonomous behavior_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![LLM integration](https://img.shields.io/badge/LLM_integration-3B82F6?style=flat-square) ![prompt engineering](https://img.shields.io/badge/prompt_engineering-3B82F6?style=flat-square) ![embedding models](https://img.shields.io/badge/embedding_models-3B82F6?style=flat-square)
 

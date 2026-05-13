@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5829876004
 summary: Build and maintain automated test frameworks for PlayStation SDK components
-skills: C++, Python, Groovy, C, embedded firmware
+skills: C++, Python, Groovy
 level: senior
-render_hash: 3f01e050
+render_hash: 710e166f
 -->
 
 # Sr. Software Development Engineer in Test
@@ -21,7 +21,7 @@ United States, San Mateo, CA · `Senior`
 
 _Build and maintain automated test frameworks for PlayStation SDK components_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![embedded firmware](https://img.shields.io/badge/embedded_firmware-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2025-09-23
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c
-summary: Deploy and integrate Devin/Windsurf into customer environments
+summary: Deploy and integrate Devin/Windsurf into production environments
 skills: 
 level: 
-render_hash: b4f016fa
+render_hash: ced85bb8
 -->
 
 # Deployed Engineer - Europe
@@ -19,7 +19,7 @@ render_hash: b4f016fa
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
 London · `Remote`
 
-_Deploy and integrate Devin/Windsurf into customer environments_
+_Deploy and integrate Devin/Windsurf into production environments_
 
 <sub>Posted September 23, 2025</sub>
 

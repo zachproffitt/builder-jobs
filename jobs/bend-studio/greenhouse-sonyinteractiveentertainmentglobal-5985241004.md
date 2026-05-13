@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985241004
-summary: Build and maintain test frameworks and infrastructure for PlayStation console software
+summary: Build and maintain test frameworks and infrastructure for PlayStation console software testing
 skills: Python, C++, JavaScript, Jenkins, GitHub Actions
 level: mid
-render_hash: 655748cf
+render_hash: b86bfd25
 -->
 
 # Software Engineer II
@@ -19,7 +19,7 @@ render_hash: 655748cf
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Mid`
 
-_Build and maintain test frameworks and infrastructure for PlayStation console software_
+_Build and maintain test frameworks and infrastructure for PlayStation console software testing_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square)
 

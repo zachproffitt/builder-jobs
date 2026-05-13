@@ -8,18 +8,18 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969889004
-summary: Develop and maintain automated tests for PlayStation® peripherals and firmware.
+summary: Develop and maintain automated tests for PlayStation® peripherals and firmware
 skills: C, Python, pytest, Appium, Jenkins
-level: 
-render_hash: 336af7d4
+level: senior
+render_hash: 78100eb0
 -->
 
 # Software Development Engineer in Test II
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-United States, San Mateo, CA
+United States, San Mateo, CA · `Senior`
 
-_Develop and maintain automated tests for PlayStation® peripherals and firmware._
+_Develop and maintain automated tests for PlayStation® peripherals and firmware_
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-3B82F6?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square)
 

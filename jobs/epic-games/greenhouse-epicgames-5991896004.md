@@ -11,7 +11,7 @@ url: https://epicgames.com/careers/jobs/5991896004?gh_jid=5991896004
 summary: Drive operational maturity by implementing CI/CD pipelines, infrastructure-as-code, and AI development tools. Own technical standards and architectural guidance for production systems.
 skills: Python, Golang, AWS, Terraform, Claude Code
 level: principal
-render_hash: 74c0011b
+render_hash: 1b41d3f3
 -->
 
 # Principal Engineer

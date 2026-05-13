@@ -8,18 +8,18 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5812444004
-summary: Build and maintain application routing frameworks for client-to-service and service-to-service communication.
+summary: Build and maintain application routing platforms using Kong and Kubernetes
 skills: Kong API Gateway, Kong Ingress Controller, Kong Konnect, Kubernetes, service mesh
-level: senior
-render_hash: f38c05cb
+level: 
+render_hash: eb253338
 -->
 
 # Platform Engineer - Application Networking
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-United States, Aliso Viejo, CA · `Senior`
+United States, Aliso Viejo, CA
 
-_Build and maintain application routing frameworks for client-to-service and service-to-service communication._
+_Build and maintain application routing platforms using Kong and Kubernetes_
 
 ![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Kong Ingress Controller](https://img.shields.io/badge/Kong_Ingress_Controller-3B82F6?style=flat-square) ![Kong Konnect](https://img.shields.io/badge/Kong_Konnect-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![service mesh](https://img.shields.io/badge/service_mesh-3B82F6?style=flat-square)
 

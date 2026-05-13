@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-05-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/71165bb4-9bc8-49df-9eca-49c4232f72ff
-summary: Secure the agent execution surface by designing sandboxing and isolation controls.
-skills: Python, Rust, Go, AWS, Kubernetes
+summary: Secure the agent execution surface and build security tooling for code sandboxing and infrastructure protection
+skills: Python, Rust, Go, Kubernetes, AWS/GCP/Azure
 level: 
-render_hash: 0f1a1d05
+render_hash: 7b1d5784
 -->
 
 # Security Engineer
@@ -19,9 +19,9 @@ render_hash: 0f1a1d05
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
 San Francisco · On-site
 
-_Secure the agent execution surface by designing sandboxing and isolation controls._
+_Secure the agent execution surface and build security tooling for code sandboxing and infrastructure protection_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS/GCP/Azure](https://img.shields.io/badge/AWS%2FGCP%2FAzure-3B82F6?style=flat-square)
 
 <sub>Posted May 1, 2026</sub>
 

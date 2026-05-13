@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838100004
-summary: Build and maintain test automation frameworks for UI and API testing
-skills: Python, JavaScript, C++, Selenium, Appium
+summary: Build and maintain test automation frameworks for PlayStation platforms
+skills: Python, JavaScript, Selenium, Appium, React
 level: senior
-render_hash: 9088f1e3
+render_hash: 92b535ee
 -->
 
 # Software Development Engineer in Test - Contractor
@@ -19,9 +19,9 @@ render_hash: 9088f1e3
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Build and maintain test automation frameworks for UI and API testing_
+_Build and maintain test automation frameworks for PlayStation platforms_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-3B82F6?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-3B82F6?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/magic.dev/42010571-7943-43d5-b182-c77d8342b088
 summary: Design and implement high-performance kernels for Magic's long-context models
 skills: NCCL, CUTLASS, Triton, Flash-Attention, Pallas
 level: senior
-render_hash: 57868b4a
+render_hash: 73f62d16
 -->
 
 # Member of Technical Staff, Kernels

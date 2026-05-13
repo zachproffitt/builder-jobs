@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5982704004
-summary: Design, develop, and maintain CI/CD pipelines and cloud infrastructure for PlayStation platforms.
+summary: Build and maintain CI/CD pipelines for PlayStation platforms
 skills: Infrastructure-as-Code (IaC), CI/CD systems
 level: senior
-render_hash: 7095913c
+render_hash: acc34bea
 -->
 
 # Senior Software Engineer-DevOps
@@ -19,7 +19,7 @@ render_hash: 7095913c
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Canada, Waterloo, ON · `Senior`
 
-_Design, develop, and maintain CI/CD pipelines and cloud infrastructure for PlayStation platforms._
+_Build and maintain CI/CD pipelines for PlayStation platforms_
 
 ![Infrastructure-as-Code (IaC)](https://img.shields.io/badge/Infrastructure--as--Code_%28IaC%29-3B82F6?style=flat-square) ![CI/CD systems](https://img.shields.io/badge/CI%2FCD_systems-3B82F6?style=flat-square)
 

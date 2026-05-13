@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5823360004
-summary: Build and maintain data pipelines and processing components for global business analytics
-skills: SQL, Python, Java, C, Spark-based technologies (PySpark, Spark)
+summary: Build and maintain data pipelines for global business analytics
+skills: SQL, Python, Java, C, Spark-based technologies
 level: 
-render_hash: 781b9671
+render_hash: 8a44e39f
 -->
 
 # Data Engineer (12 month Fixed term Contract)
@@ -19,9 +19,9 @@ render_hash: 781b9671
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London
 
-_Build and maintain data pipelines and processing components for global business analytics_
+_Build and maintain data pipelines for global business analytics_
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Spark-based technologies (PySpark, Spark)](https://img.shields.io/badge/Spark--based_technologies_%28PySpark%2C_Spark%29-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Spark-based technologies](https://img.shields.io/badge/Spark--based_technologies-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5837067004
-summary: Design and develop high-quality rendering scenarios for PlayStation SDK.
-skills: C/C++, game engine development, memory systems, job systems, GPU technologies
+summary: Design and develop high-quality rendering scenarios and production-grade SDK tools for PlayStation graphics technologies.
+skills: C/C++, real-time rendering, GPU technologies, PlayStation 5 graphics APIs, machine learning technologies
 level: senior
-render_hash: f44cfda8
+render_hash: 32c098fd
 -->
 
 # Senior Graphics Engineer
@@ -19,9 +19,9 @@ render_hash: f44cfda8
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Design and develop high-quality rendering scenarios for PlayStation SDK._
+_Design and develop high-quality rendering scenarios and production-grade SDK tools for PlayStation graphics technologies._
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![game engine development](https://img.shields.io/badge/game_engine_development-3B82F6?style=flat-square) ![memory systems](https://img.shields.io/badge/memory_systems-3B82F6?style=flat-square) ![job systems](https://img.shields.io/badge/job_systems-3B82F6?style=flat-square) ![GPU technologies](https://img.shields.io/badge/GPU_technologies-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![real-time rendering](https://img.shields.io/badge/real--time_rendering-3B82F6?style=flat-square) ![GPU technologies](https://img.shields.io/badge/GPU_technologies-3B82F6?style=flat-square) ![PlayStation 5 graphics APIs](https://img.shields.io/badge/PlayStation_5_graphics_APIs-3B82F6?style=flat-square) ![machine learning technologies](https://img.shields.io/badge/machine_learning_technologies-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

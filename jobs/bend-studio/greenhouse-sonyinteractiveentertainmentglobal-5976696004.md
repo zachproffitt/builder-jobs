@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5976696004
-summary: Contribute to code and implement automation for cloud gaming infrastructure reliability
-skills: Python, Bash, Go, Hadoop, MongoDB
+summary: Implement automation to improve cloud gaming service reliability
+skills: Python, Go, MongoDB, Redis, Cassandra
 level: senior
-render_hash: 82815788
+render_hash: cd7fb221
 -->
 
 # Site Reliability Engineer
@@ -19,9 +19,9 @@ render_hash: 82815788
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Germany, Berlin · `Senior`
 
-_Contribute to code and implement automation for cloud gaming infrastructure reliability_
+_Implement automation to improve cloud gaming service reliability_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Hadoop](https://img.shields.io/badge/Hadoop-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Cassandra](https://img.shields.io/badge/Cassandra-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

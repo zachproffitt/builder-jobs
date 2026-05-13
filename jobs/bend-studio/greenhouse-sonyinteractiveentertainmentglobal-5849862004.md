@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/58
 summary: Build and maintain the mobile rendering engine for iOS/Android platforms.
 skills: Metal, Vulkan, shaders, rendering pipelines, texture usage
 level: senior
-render_hash: 81d6093b
+render_hash: 7a23a04b
 -->
 
 # Senior Graphics Programmer, Mobile (iOS/Android)

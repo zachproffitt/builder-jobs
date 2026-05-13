@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2024-01-24
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918
-summary: Develop and optimize data pipelines for model training and inference.
-skills: PyTorch, GPUs, data pipelines, Kubernetes, Docker
+summary: Build and maintain data pipelines for processing web data into model-ready formats.
+skills: PyTorch, Kubernetes, Docker, data pipelines, reinforcement learning
 level: 
-render_hash: 6776d89b
+render_hash: fa3cca5c
 -->
 
 # Research Engineer, Post-Training (All Industry Levels)
@@ -19,9 +19,9 @@ render_hash: 6776d89b
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
 Redwood City or New York City · `Remote`
 
-_Develop and optimize data pipelines for model training and inference._
+_Build and maintain data pipelines for processing web data into model-ready formats._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![GPUs](https://img.shields.io/badge/GPUs-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![reinforcement learning](https://img.shields.io/badge/reinforcement_learning-3B82F6?style=flat-square)
 
 <sub>Posted January 24, 2024</sub>
 

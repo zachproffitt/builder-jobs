@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-02-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/4123c573-3de0-41be-bcb8-8201539d1787
-summary: Build and scale large distributed data pipelines for pre-training
+summary: Build and scale large distributed data pipelines for pre-training, design filtering systems, and develop post-training datasets.
 skills: 
 level: 
-render_hash: a1311ec6
+render_hash: eab4c8c9
 -->
 
 # Software Engineer
@@ -19,7 +19,7 @@ render_hash: a1311ec6
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic**  
 San Francisco · On-site
 
-_Build and scale large distributed data pipelines for pre-training_
+_Build and scale large distributed data pipelines for pre-training, design filtering systems, and develop post-training datasets._
 
 <sub>Posted February 28, 2026</sub>
 

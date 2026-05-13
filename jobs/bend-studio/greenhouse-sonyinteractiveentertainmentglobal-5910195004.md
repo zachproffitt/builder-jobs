@@ -8,18 +8,18 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5910195004
-summary: Develop and maintain automated test scripts for Adobe Experience Manager sites.
+summary: Develop and execute automated testing scripts for Adobe Experience Manager sites.
 skills: Java, Selenium WebDriver, Applitools, Cucumber, Jenkins
-level: mid
-render_hash: 9e4130ce
+level: senior
+render_hash: 0d67194c
 -->
 
 # QA Automation Engineer  
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-Ireland, Dublin · `Mid`
+Ireland, Dublin · `Senior`
 
-_Develop and maintain automated test scripts for Adobe Experience Manager sites._
+_Develop and execute automated testing scripts for Adobe Experience Manager sites._
 
 ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-3B82F6?style=flat-square) ![Applitools](https://img.shields.io/badge/Applitools-3B82F6?style=flat-square) ![Cucumber](https://img.shields.io/badge/Cucumber-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square)
 

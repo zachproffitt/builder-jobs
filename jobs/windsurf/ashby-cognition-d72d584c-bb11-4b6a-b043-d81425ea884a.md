@@ -10,14 +10,14 @@ first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a
 summary: Deploy and integrate Devin/Windsurf into customer production environments
 skills: 
-level: senior
-render_hash: ae93d597
+level: 
+render_hash: 855ff2ef
 -->
 
 # Deployed Engineer
 
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
-San Francisco · `Senior` · On-site
+San Francisco · On-site
 
 _Deploy and integrate Devin/Windsurf into customer production environments_
 

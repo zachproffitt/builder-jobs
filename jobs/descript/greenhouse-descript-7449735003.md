@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/descript/jobs/7449735003?gh_jid=7449735003
-summary: Build and maintain the core video editing and streaming platform.
+summary: Build and maintain the core video editing platform and AI integration systems
 skills: TypeScript, React, RESTful APIs, Postgres, Redis
 level: senior
-render_hash: cf3fa178
+render_hash: 7b18ec29
 -->
 
 # Software Engineer, Editor 
@@ -19,7 +19,7 @@ render_hash: cf3fa178
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript**  
 San Francisco, CA | Remote · `Senior` · `Remote`
 
-_Build and maintain the core video editing and streaming platform._
+_Build and maintain the core video editing platform and AI integration systems_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
 

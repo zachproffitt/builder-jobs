@@ -8,20 +8,20 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/inflectionai/jobs/4578240006?gh_jid=4578240006
-summary: Build and maintain post-training pipelines for large transformer models.
-skills: PyTorch, Torchtune, FSDP/DeepSpeed, internal orchestration stack, RLHF/DPO/GRPO/RLAIF
-level: 
-render_hash: 8e012211
+summary: Build and maintain the model training pipelines using PyTorch and DeepSpeed
+skills: PyTorch, Torchtune, FSDP, DeepSpeed, internal orchestration stack
+level: staff
+render_hash: 8de25d61
 -->
 
 # Member of Technical Staff – Model Training
 
 <img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Inflection AI**  
-Palo Alto, CA
+Palo Alto, CA · `Staff`
 
-_Build and maintain post-training pipelines for large transformer models._
+_Build and maintain the model training pipelines using PyTorch and DeepSpeed_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Torchtune](https://img.shields.io/badge/Torchtune-3B82F6?style=flat-square) ![FSDP/DeepSpeed](https://img.shields.io/badge/FSDP%2FDeepSpeed-3B82F6?style=flat-square) ![internal orchestration stack](https://img.shields.io/badge/internal_orchestration_stack-3B82F6?style=flat-square) ![RLHF/DPO/GRPO/RLAIF](https://img.shields.io/badge/RLHF%2FDPO%2FGRPO%2FRLAIF-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Torchtune](https://img.shields.io/badge/Torchtune-3B82F6?style=flat-square) ![FSDP](https://img.shields.io/badge/FSDP-3B82F6?style=flat-square) ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-3B82F6?style=flat-square) ![internal orchestration stack](https://img.shields.io/badge/internal_orchestration_stack-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

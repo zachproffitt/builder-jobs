@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5804428004
-summary: Build and maintain in-game animation systems and pipelines
+summary: Build and maintain the in-game animation systems and pipelines
 skills: Python, C#, C++, Maya, state machines, blend trees, IK solvers
 level: senior
-render_hash: c245f937
+render_hash: 4fa34137
 -->
 
 # Senior Technical Gameplay Animator
@@ -19,7 +19,7 @@ render_hash: c245f937
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Santa Monica, CA · `Senior`
 
-_Build and maintain in-game animation systems and pipelines_
+_Build and maintain the in-game animation systems and pipelines_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Maya](https://img.shields.io/badge/Maya-3B82F6?style=flat-square) ![state machines](https://img.shields.io/badge/state_machines-3B82F6?style=flat-square) ![blend trees](https://img.shields.io/badge/blend_trees-3B82F6?style=flat-square) ![IK solvers](https://img.shields.io/badge/IK_solvers-3B82F6?style=flat-square)
 

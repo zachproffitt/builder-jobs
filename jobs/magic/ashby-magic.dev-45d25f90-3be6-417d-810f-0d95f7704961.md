@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2024-01-25
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/45d25f90-3be6-417d-810f-0d95f7704961
-summary: Build and maintain the supercomputing platform's GPU infrastructure using Terraform and Kubernetes
-skills: Terraform, Kubernetes, GCP, AWS, Azure
+summary: Build and maintain the supercomputing platform's GPU infrastructure using Terraform and Kubernetes.
+skills: Terraform, Kubernetes, cloud platforms (GCP, AWS, Azure, OCI), networking, storage systems
 level: senior
-render_hash: ebb26386
+render_hash: 202171e1
 -->
 
 # Member of Technical Staff, Supercomputing Platform & Infrastructure
@@ -19,9 +19,9 @@ render_hash: ebb26386
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic**  
 San Francisco · `Senior` · On-site
 
-_Build and maintain the supercomputing platform's GPU infrastructure using Terraform and Kubernetes_
+_Build and maintain the supercomputing platform's GPU infrastructure using Terraform and Kubernetes._
 
-![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![cloud platforms (GCP, AWS, Azure, OCI)](https://img.shields.io/badge/cloud_platforms_%28GCP%2C_AWS%2C_Azure%2C_OCI%29-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square) ![storage systems](https://img.shields.io/badge/storage_systems-3B82F6?style=flat-square)
 
 <sub>Posted January 25, 2024</sub>
 

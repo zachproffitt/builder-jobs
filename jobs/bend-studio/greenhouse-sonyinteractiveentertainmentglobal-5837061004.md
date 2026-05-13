@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5837061004
-summary: Design and implement rendering APIs for PlayStation games
+summary: Design and implement rendering APIs and GPU programming features for PlayStation games
 skills: 
 level: senior
-render_hash: 22aeb46b
+render_hash: fc65e20d
 -->
 
 # Senior Software Engineer - Rendering API
@@ -19,7 +19,7 @@ render_hash: 22aeb46b
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Design and implement rendering APIs for PlayStation games_
+_Design and implement rendering APIs and GPU programming features for PlayStation games_
 
 <sub>First seen May 13, 2026</sub>
 

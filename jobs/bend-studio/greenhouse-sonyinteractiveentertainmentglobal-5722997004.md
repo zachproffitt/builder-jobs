@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5722997004
-summary: Build and maintain scalable backend services for PlayStation platforms.
+summary: Build and maintain scalable backend services for PlayStation platforms using Node.js and TypeScript.
 skills: Node.js, TypeScript/JavaScript, RESTful APIs, Git, CI/CD pipelines
 level: mid
-render_hash: 1972a62e
+render_hash: f358265d
 -->
 
 # Software Engineer II
@@ -19,7 +19,7 @@ render_hash: 1972a62e
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Mid`
 
-_Build and maintain scalable backend services for PlayStation platforms._
+_Build and maintain scalable backend services for PlayStation platforms using Node.js and TypeScript._
 
 ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![TypeScript/JavaScript](https://img.shields.io/badge/TypeScript%2FJavaScript-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
 

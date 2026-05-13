@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5850287004
-summary: Define and implement cloud security architecture for multi-cloud environments.
-skills: AWS, Azure, GCP, AI/ML, container security
+summary: Architect and secure AI/ML workloads with cloud-native security controls
+skills: AWS, Azure, GCP, AI/ML security, container security
 level: staff
-render_hash: 50b49233
+render_hash: 95d56fec
 -->
 
 #  Staff Cloud Security Engineer 
@@ -19,9 +19,9 @@ render_hash: 50b49233
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States · `Staff` · `Remote`
 
-_Define and implement cloud security architecture for multi-cloud environments._
+_Architect and secure AI/ML workloads with cloud-native security controls_
 
-![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AI/ML security](https://img.shields.io/badge/AI%2FML_security-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2026-04-30
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/df95a7a5-87ca-4f51-85fd-4bb595a47a55
-summary: Build and maintain data science foundations for monetization systems
-skills: 
+summary: Build and maintain the monetization data pipeline and analytics infrastructure
+skills: data science practices, experimentation, metrics, analytics tooling, data-informed insights
 level: staff
-render_hash: 7d00739e
+render_hash: 2198c8d6
 -->
 
 # Staff Data Scientist, Monetization
@@ -19,7 +19,9 @@ render_hash: 7d00739e
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
 Redwood City, CA · `Staff` · `Remote`
 
-_Build and maintain data science foundations for monetization systems_
+_Build and maintain the monetization data pipeline and analytics infrastructure_
+
+![data science practices](https://img.shields.io/badge/data_science_practices-3B82F6?style=flat-square) ![experimentation](https://img.shields.io/badge/experimentation-3B82F6?style=flat-square) ![metrics](https://img.shields.io/badge/metrics-3B82F6?style=flat-square) ![analytics tooling](https://img.shields.io/badge/analytics_tooling-3B82F6?style=flat-square) ![data-informed insights](https://img.shields.io/badge/data--informed_insights-3B82F6?style=flat-square)
 
 <sub>Posted April 30, 2026</sub>
 

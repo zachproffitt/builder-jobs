@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5832235004
-summary: Build and maintain AI systems and functionalities for PlayStation games
+summary: Build and maintain AI systems and functionalities for high-quality technical implementation.
 skills: 
 level: senior
-render_hash: 48df9194
+render_hash: 3658c1fe
 -->
 
 # - Programmeur·euse I.A. Senior/AI Programmer
@@ -19,7 +19,7 @@ render_hash: 48df9194
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Canada, Montreal, QC · `Senior`
 
-_Build and maintain AI systems and functionalities for PlayStation games_
+_Build and maintain AI systems and functionalities for high-quality technical implementation._
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2024-11-08
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/b8d6a107-3f98-4341-b114-311c7070e59f
-summary: Design and build post-training datasets and evaluation frameworks for long-context models.
-skills: Python, ML frameworks, data systems, infrastructure tools, evaluation pipelines
+summary: Build and maintain post-training data pipelines and evaluation frameworks for RL systems
+skills: 
 level: senior
-render_hash: 21f82744
+render_hash: 5383da5e
 -->
 
 # Member of Technical Staff, RL Research & Environments
@@ -19,9 +19,7 @@ render_hash: 21f82744
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic**  
 San Francisco · `Senior` · On-site
 
-_Design and build post-training datasets and evaluation frameworks for long-context models._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![ML frameworks](https://img.shields.io/badge/ML_frameworks-3B82F6?style=flat-square) ![data systems](https://img.shields.io/badge/data_systems-3B82F6?style=flat-square) ![infrastructure tools](https://img.shields.io/badge/infrastructure_tools-3B82F6?style=flat-square) ![evaluation pipelines](https://img.shields.io/badge/evaluation_pipelines-3B82F6?style=flat-square)
+_Build and maintain post-training data pipelines and evaluation frameworks for RL systems_
 
 <sub>Posted November 8, 2024</sub>
 

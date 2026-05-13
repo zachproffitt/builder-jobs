@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-03-31
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/pika/5dfeab0a-6928-4aa5-8eb3-09dca4d0f707
-summary: Build and maintain iOS applications integrating AI and agentic infrastructure
+summary: Lead the design and implementation of iOS applications integrating advanced AI and agentic infrastructure
 skills: Swift, SwiftUI, Combine, Core ML, ML Kit
 level: senior
-render_hash: 74f2958f
+render_hash: 09b0e10e
 -->
 
 # Senior Software Engineer, iOS
@@ -19,7 +19,7 @@ render_hash: 74f2958f
 <img src="https://www.google.com/s2/favicons?domain=pika.art&sz=32" width="16" height="16" align="absmiddle">&ensp;**Pika**  
 Palo Alto HQ · `Senior` · On-site
 
-_Build and maintain iOS applications integrating AI and agentic infrastructure_
+_Lead the design and implementation of iOS applications integrating advanced AI and agentic infrastructure_
 
 ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square) ![Combine](https://img.shields.io/badge/Combine-3B82F6?style=flat-square) ![Core ML](https://img.shields.io/badge/Core_ML-3B82F6?style=flat-square) ![ML Kit](https://img.shields.io/badge/ML_Kit-3B82F6?style=flat-square)
 

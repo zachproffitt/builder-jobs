@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/supercell/1d91d31a-2022-40a2-ae8f-289decdf2ea4
 summary: Design and build a scalable, highly available, and secure platform for Supercell ID, including account safety, identity systems, and cross-game infrastructure.
 skills: Java, DynamoDB, AWS, Terraform, AI-assisted development tools
 level: 
-render_hash: 43268033
+render_hash: 03abe5ad
 -->
 
 # Senior Software Engineer, Supercell ID

@@ -11,7 +11,7 @@ url: https://jobs.lever.co/zoox/9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3
 summary: Design and implement foundation models to enhance the perception stack's semantic understanding of obstacles and behavioral signals.
 skills: vision-language models, multimodal transformers, audio-visual architectures, dataset construction, model evaluation
 level: 
-render_hash: 6c14824c
+render_hash: cd6f07b1
 -->
 
 # PhD Research Intern, Visual Object Understanding

@@ -1,0 +1,69 @@
+<!--
+id: greenhouse-speechify-5974411004
+company: Speechify
+title: Software Engineer, Platform - Recife, Brazil
+source: greenhouse
+location: Recife, Brazil
+remote: Not specified
+posted_at: Unknown
+first_seen: 2026-05-13
+url: https://job-boards.greenhouse.io/speechify/jobs/5974411004
+summary: Design, develop, and maintain backend APIs including public TTS API, payments, subscriptions, and auth services on GCP infrastructure.
+skills: TypeScript, Node.js, GCP, Docker, Kubernetes
+level: mid
+render_hash: 3714290e
+-->
+
+# Software Engineer, Platform - Recife, Brazil
+
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
+Recife, Brazil · `Mid`
+
+_Design, develop, and maintain backend APIs including public TTS API, payments, subscriptions, and auth services on GCP infrastructure._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>First seen May 13, 2026</sub>
+
+**[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5974411004)**
+
+---
+
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+Overview
+The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;
+Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;
+What You’ll Do
+Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements
+Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability
+Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients
+Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience
+An Ideal Candidate Should Have
+Proven experience in backend development: TS/Node (required)
+Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers
+Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact
+Preferred: Experience with Docker and containerized deployments
+Preferred: Proficiency in deploying high availability applications on Kubernetes
+What We Offer
+A dynamic environment where your contributions shape the company and its products
+A team that values innovation, intuition, and drive
+Autonomy, fostering focus and creativity
+The opportunity to have a significant impact in a revolutionary industry
+Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+Think you’re a good fit for this job?&nbsp;
+Tell us more about yourself and why you're interested in the role when you apply.
+And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit?&nbsp;
+Refer them!&nbsp;
+Speechify is committed to a diverse and inclusive workplace.&nbsp;
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+---
+
+**[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5974411004)**

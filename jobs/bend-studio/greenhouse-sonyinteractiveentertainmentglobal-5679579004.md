@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5679579004
-summary: Build and maintain performance tooling suites for system optimization
-skills: C, C++, Rust, perf, ftrace
+summary: Build and maintain performance tooling suites and automated testbeds for system optimization.
+skills: C, C++, Rust, Python, Bash, perf, ftrace, eBPF
 level: senior
-render_hash: 5e71ad08
+render_hash: 35c48048
 -->
 
 # Senior Software Engineer
@@ -19,9 +19,9 @@ render_hash: 5e71ad08
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Aliso Viejo, CA · `Senior`
 
-_Build and maintain performance tooling suites for system optimization_
+_Build and maintain performance tooling suites and automated testbeds for system optimization._
 
-![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![perf](https://img.shields.io/badge/perf-3B82F6?style=flat-square) ![ftrace](https://img.shields.io/badge/ftrace-3B82F6?style=flat-square)
+![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![perf](https://img.shields.io/badge/perf-3B82F6?style=flat-square) ![ftrace](https://img.shields.io/badge/ftrace-3B82F6?style=flat-square) ![eBPF](https://img.shields.io/badge/eBPF-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

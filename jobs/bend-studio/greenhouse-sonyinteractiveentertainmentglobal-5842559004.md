@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/58
 summary: Develop and maintain cross-platform SDKs and APIs for platform services.
 skills: C++, JavaScript, TypeScript, React, Jenkins, Gradle, npm
 level: senior
-render_hash: 01f59c35
+render_hash: 35b80753
 -->
 
 # Senior Software Engineer SDK

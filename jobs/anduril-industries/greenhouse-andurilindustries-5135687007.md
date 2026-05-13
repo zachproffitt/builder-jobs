@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5135687007?gh_jid=51356
 summary: Implement high-performance software for Lattice OS and mission-critical systems. Prototype state-of-the-art algorithms in agile development environments.
 skills: Rust, C++, Python, software design, algorithm implementation
 level: senior
-render_hash: 2ca47888
+render_hash: 790c5220
 -->
 
 # Senior Research Scientist

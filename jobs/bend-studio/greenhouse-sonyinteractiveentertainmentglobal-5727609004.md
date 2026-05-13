@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/57
 summary: Design and develop high-quality software solutions for large-scale commerce systems on PlayStation Network Platform
 skills: Java, Python, Golang, Terraform, CloudFormation
 level: principal
-render_hash: e729aa33
+render_hash: baeed834
 -->
 
 # Principal Software Engineer

@@ -1,0 +1,135 @@
+<!--
+id: ashby-Sierra-aadfc0a0-93f6-454b-9767-c24793fa3eff
+company: Sierra
+title: Software Engineer, Agent (Spanish speaking)
+source: ashby
+location: London
+remote: On-site
+posted_at: 2025-08-21
+first_seen: 2026-05-13
+url: https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff
+summary: Build and ship highly performant AI agents for enterprise clients
+skills: 
+level: 
+render_hash: 45ef27d4
+-->
+
+# Software Engineer, Agent (Spanish speaking)
+
+<img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra**  
+London · On-site
+
+_Build and ship highly performant AI agents for enterprise clients_
+
+<sub>Posted August 21, 2025</sub>
+
+**[→ Apply](https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff)**
+
+---
+
+ABOUT US
+
+ - At Sierra, we’re creating a platform to help businesses build better, more human customer experiences with AI. We are primarily an in-person company based in San Francisco, with growing offices in Atlanta, New York, London, Paris, Madrid, Munich, Singapore, Japan, and Sydney.
+
+ - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
+
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
+
+
+WHAT YOU’LL DO
+
+ - Design and deliver production-grade AI agents https://sierra.ai/blog/meet-the-ai-agent-engineer: You'll build and ship highly performant, reliable, and intuitive AI agents that are central, mission-critical and drive revenue directly to Sierra's growth. These aren't prototypes—they are powerful, scalable systems running in production environments across industries like finance, healthcare, and commerce.
+
+ - Drive the Agent Development Life Cycle https://sierra.ai/blog/agent-development-life-cycle (ADLC): You'll have complete ownership and autonomy from initial pilot through deployment and continuous iteration. You'll be responsible for building, tuning, and evolving AI agents in production environments, defining the standard for ADLC best practices along the way.
+
+ - Partner with large enterprises and cutting-edge startups: You’ll work directly with leaders at some of the world’s largest enterprises to understand their most pressing business challenges, and build AI agents that transform how they operate at scale. You'll also partner with the most cutting-edge startups in London, embedding AI agents across their entire business stack to drive innovation and efficiency.
+
+ - Build the future of the platform: Your direct work with customers will guide the evolution of Sierra's core platform. You'll surface unmet needs, prototype new tools and features, and collaborate with research, product, and platform to shape the future of AI agent development and Sierra's product.
+
+
+EXAMPLE PROJECTS
+
+These are some examples of projects that engineers on our team have worked on recently:
+
+ - Design and build AI agents for large telecommunications and media companies that consistently outperform human agents in managing subscription churn
+
+ - Develop and refine AI agents capable of navigating complex customer interactions, like troubleshooting a broken device and personalizing product recommendations
+
+ - Create generalizable AI agent frameworks tailored for industry-specific use cases. See some examples in our financial services blog https://sierra.ai/blog/five-ways-to-use-ai-agents-financial-services!
+
+ - Facilitate design partnerships for new product initiatives, such as new agent architectures, self-service capabilities, and generative agent development
+
+ - Experiment with the latest voice models and figure out how to integrate them at scale to enterprise-grade customers
+
+
+WHAT YOU'LL BRING
+
+ - Experience building and scaling end-to-end production systems
+
+ - Strong technical problem-solving skills, especially in fast-changing, ambiguous environments
+
+ - A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship
+
+ - Comfort working directly with customers to understand their needs and solve real-world problems
+
+ - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences. Professional fluency in both Spanish and English.
+
+
+EVEN BETTER...
+
+ - Experience building or deploying AI/LLM systems in production
+
+ - Have been a founder or founding engineer - you know what it means to balance craft, ownership, and speed
+
+ - Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering
+
+ - Prior experience with React, TypeScript, and/or Go
+
+ - Previous roles where you interfaced with customers or led technical projects with external stakeholders
+
+
+OUR VALUES
+
+ - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.
+
+ - Customer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it.
+
+ - Craftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve.
+
+ - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
+
+ - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
+
+
+WHAT WE OFFER
+
+We want our benefits to reflect our values and offer the following to full-time employees:
+
+ - Flexible (unlimited) paid time off
+
+ - Medical, dental, and vision benefits for you and your family
+
+ - Life insurance and disability benefits
+
+ - Retirement plan dependent on country of employment
+
+ - Parental leave
+
+ - Fertility and family building benefits through Carrot
+
+ - Lunch, as well as delicious snacks and coffee to keep you energized 
+
+ - Discretionary benefit stipend giving people the ability to spend where it matters most
+
+ - Free alphorn lessons
+
+These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
+
+
+BE YOU, WITH US
+
+We're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply even if your experience doesn't precisely match the job description. We strive to evaluate all applicants consistently without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+
+---
+
+**[→ Apply](https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff)**

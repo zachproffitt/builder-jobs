@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5981435004
-summary: Build and maintain the Workday HR platform solutions
+summary: Build and maintain the Workday platform for HR domains
 skills: 
 level: 
-render_hash: 4006f71d
+render_hash: 6ad1fe76
 -->
 
 # People Technology Platform Engineer (Workday)
@@ -19,7 +19,7 @@ render_hash: 4006f71d
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Ireland, Dublin
 
-_Build and maintain the Workday HR platform solutions_
+_Build and maintain the Workday platform for HR domains_
 
 <sub>First seen May 13, 2026</sub>
 

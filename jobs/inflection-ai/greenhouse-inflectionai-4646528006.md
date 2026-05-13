@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/inflectionai/jobs/4646528006?gh_jid=4646528006
-summary: Design and operate secure IT infrastructure for distributed workforce
-skills: zero-trust identity management, workflow automation, data integrations, secure systems
+summary: Design and operate secure IT infrastructure for a distributed workforce
+skills: 
 level: manager
-render_hash: 7fce6c1b
+render_hash: dc86c495
 -->
 
 # Head of IT & Internal Tools
@@ -19,9 +19,7 @@ render_hash: 7fce6c1b
 <img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Inflection AI**  
 Palo Alto, California, United States · `Manager`
 
-_Design and operate secure IT infrastructure for distributed workforce_
-
-![zero-trust identity management](https://img.shields.io/badge/zero--trust_identity_management-3B82F6?style=flat-square) ![workflow automation](https://img.shields.io/badge/workflow_automation-3B82F6?style=flat-square) ![data integrations](https://img.shields.io/badge/data_integrations-3B82F6?style=flat-square) ![secure systems](https://img.shields.io/badge/secure_systems-3B82F6?style=flat-square)
+_Design and operate secure IT infrastructure for a distributed workforce_
 
 <sub>First seen May 13, 2026</sub>
 

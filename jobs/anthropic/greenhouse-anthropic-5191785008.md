@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/anthropic/jobs/5191785008
 summary: This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings.
 skills: 
 level: 
-render_hash: f98784d9
+render_hash: 9d3b59d5
 -->
 
 # Research Engineer, Safeguards Labs

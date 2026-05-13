@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/anthropic/jobs/4985877008
 summary: This person will build production applications with Claude models, including MCP servers, sub-agents, and agent skills for enterprise workflows. They will develop technical artifacts and deployment patterns for AI systems.
 skills: 
 level: 
-render_hash: c8dd4d3b
+render_hash: b3aba718
 -->
 
 # Forward Deployed Engineer, Applied AI

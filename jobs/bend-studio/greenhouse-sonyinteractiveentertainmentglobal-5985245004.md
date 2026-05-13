@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/59
 summary: Build and maintain automated test frameworks for ML inference services
 skills: Python, Java, RESTful APIs, microservices, databases
 level: 
-render_hash: 095d81af
+render_hash: b7b8a39b
 -->
 
 # Software Development Engineer in Test, ML

@@ -8,20 +8,18 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4584750005
-summary: Build and maintain the core distributed systems for high-scale document indexing and processing.
-skills: distributed systems, performance optimization, state-of-the-art infrastructure
-level: senior
-render_hash: 13d5e555
+summary: Build and maintain the core distributed systems powering billions of tokens and millions of documents.
+skills: 
+level: 
+render_hash: c1f90f64
 -->
 
 # Platform Engineer, Document Intelligence
 
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
-New York City; San Francisco, CA · `Senior`
+New York City; San Francisco, CA
 
-_Build and maintain the core distributed systems for high-scale document indexing and processing._
-
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![performance optimization](https://img.shields.io/badge/performance_optimization-3B82F6?style=flat-square) ![state-of-the-art infrastructure](https://img.shields.io/badge/state--of--the--art_infrastructure-3B82F6?style=flat-square)
+_Build and maintain the core distributed systems powering billions of tokens and millions of documents._
 
 <sub>First seen May 13, 2026</sub>
 

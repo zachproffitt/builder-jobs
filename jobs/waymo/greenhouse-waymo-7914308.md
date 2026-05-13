@@ -11,7 +11,7 @@ url: https://careers.withwaymo.com/jobs?gh_jid=7914308
 summary: Build and maintain mission-critical fleet infrastructure for autonomous vehicle operations, including depot logistics, automation flow, and vehicle state systems. Implement software and automation to ensure high availability and performance of core fleet services.
 skills: C++, Java, Python, distributed systems, observability tools
 level: senior
-render_hash: 678ca52a
+render_hash: b03e262b
 -->
 
 # Senior Site Reliability Engineer, Waymo Fleet

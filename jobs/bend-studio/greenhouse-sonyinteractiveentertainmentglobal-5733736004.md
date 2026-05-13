@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5733736004
-summary: Design and implement video codecs for PlayStation SDKs and cloud gaming platforms.
-skills: HLSL, Vulkan, CUDA, C, C++, Git, SVN, JIRA
+summary: Drive video codecs architecture design and development for PlayStation SDKs and cloud gaming platforms
+skills: HLSL, Vulkan, CUDA, C, C++, Git/SVN, JIRA
 level: senior
-render_hash: 4d91b116
+render_hash: 8ee9f253
 -->
 
 # Sr Software Engineer
@@ -19,9 +19,9 @@ render_hash: 4d91b116
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Design and implement video codecs for PlayStation SDKs and cloud gaming platforms._
+_Drive video codecs architecture design and development for PlayStation SDKs and cloud gaming platforms_
 
-![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![Vulkan](https://img.shields.io/badge/Vulkan-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![SVN](https://img.shields.io/badge/SVN-3B82F6?style=flat-square) ![JIRA](https://img.shields.io/badge/JIRA-3B82F6?style=flat-square)
+![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![Vulkan](https://img.shields.io/badge/Vulkan-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Git/SVN](https://img.shields.io/badge/Git%2FSVN-3B82F6?style=flat-square) ![JIRA](https://img.shields.io/badge/JIRA-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/descript/jobs/7580335003?gh_jid=7580335003
-summary: Build and maintain AI infrastructure for model integration and deployment
-skills: Python, PyTorch, TensorFlow, Docker, Kubernetes
+summary: Build and maintain AI infrastructure supporting machine learning pipelines and model deployments
+skills: Spark, Docker, Kubernetes, PyTorch, TensorFlow
 level: senior
-render_hash: d0913a0d
+render_hash: 58a5fb1f
 -->
 
 # Senior Software Engineer, AI Platform and Enablement
@@ -19,9 +19,9 @@ render_hash: d0913a0d
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript**  
 San Francisco, CA · `Senior`
 
-_Build and maintain AI infrastructure for model integration and deployment_
+_Build and maintain AI infrastructure supporting machine learning pipelines and model deployments_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

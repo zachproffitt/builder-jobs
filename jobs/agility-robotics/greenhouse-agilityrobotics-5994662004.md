@@ -11,7 +11,7 @@ url: https://www.agilityrobotics.com/about/job-post?gh_jid=5994662004
 summary: Build and maintain complex humanoid robot behaviors, integrating motion planning, object perception, and hardware systems for real-world deployment.
 skills: Python, C++, behavior trees, state machines, task planners
 level: staff
-render_hash: 8fb8c681
+render_hash: 694c833b
 -->
 
 # Staff Robotics Software Engineer, Robot Behaviors

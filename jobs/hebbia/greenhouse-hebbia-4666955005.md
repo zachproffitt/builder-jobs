@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4666955005
-summary: Design and build observability frameworks
+summary: Build and maintain observability frameworks for production systems
 skills: 
 level: 
-render_hash: 4a68aa04
+render_hash: a0953b2c
 -->
 
 # Software Engineer, Site Reliability
@@ -19,7 +19,7 @@ render_hash: 4a68aa04
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
 New York City; San Francisco, CA
 
-_Design and build observability frameworks_
+_Build and maintain observability frameworks for production systems_
 
 <sub>First seen May 13, 2026</sub>
 

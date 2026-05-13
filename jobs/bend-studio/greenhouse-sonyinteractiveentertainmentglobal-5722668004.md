@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5722668004
-summary: Build and maintain CI/CD pipelines and automation tools for test orchestration and system validation.
-skills: Python, Jenkins/Groovy, pytest, GTest, Docker
+summary: Build and maintain CI/CD pipelines and automation tools for the SDK's test infrastructure
+skills: Python, Jenkins/Groovy, Linux, Windows, pytest
 level: senior
-render_hash: 581bc5a2
+render_hash: 84300330
 -->
 
 # Senior Software Development Engineer in Test
@@ -19,9 +19,9 @@ render_hash: 581bc5a2
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, Bristol · `Senior`
 
-_Build and maintain CI/CD pipelines and automation tools for test orchestration and system validation._
+_Build and maintain CI/CD pipelines and automation tools for the SDK's test infrastructure_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins/Groovy](https://img.shields.io/badge/Jenkins%2FGroovy-3B82F6?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-3B82F6?style=flat-square) ![GTest](https://img.shields.io/badge/GTest-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Jenkins/Groovy](https://img.shields.io/badge/Jenkins%2FGroovy-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-3B82F6?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

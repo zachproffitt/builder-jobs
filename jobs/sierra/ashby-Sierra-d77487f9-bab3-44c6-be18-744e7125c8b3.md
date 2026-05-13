@@ -9,9 +9,9 @@ posted_at: 2024-08-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/d77487f9-bab3-44c6-be18-744e7125c8b3
 summary: Build and maintain the platform's agent development infrastructure
-skills: distributed systems, AI-powered products, developer platforms
+skills: 
 level: senior
-render_hash: 120c3a79
+render_hash: b3a13579
 -->
 
 # Software Engineer, Platform
@@ -20,8 +20,6 @@ render_hash: 120c3a79
 San Francisco, CA · `Senior` · On-site
 
 _Build and maintain the platform's agent development infrastructure_
-
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![AI-powered products](https://img.shields.io/badge/AI--powered_products-3B82F6?style=flat-square) ![developer platforms](https://img.shields.io/badge/developer_platforms-3B82F6?style=flat-square)
 
 <sub>Posted August 28, 2024</sub>
 

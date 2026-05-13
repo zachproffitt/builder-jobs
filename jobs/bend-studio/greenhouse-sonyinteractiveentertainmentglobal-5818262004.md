@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5818262004
-summary: Build and maintain application routing platforms using Kubernetes and Kong tools.
-skills: Kong API Gateway, Kong Ingress Controller, Kong Konnect, Kubernetes, service mesh technologies
+summary: Build and maintain application routing frameworks for client-to-service and service-to-service communication.
+skills: Kong API Gateway, Kong Ingress Controller, Kong Konnect, Kubernetes, service mesh
 level: 
-render_hash: 6eb2dd2b
+render_hash: d2b4940e
 -->
 
 # Platform Engineer - Application Networking
@@ -19,9 +19,9 @@ render_hash: 6eb2dd2b
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Diego, CA
 
-_Build and maintain application routing platforms using Kubernetes and Kong tools._
+_Build and maintain application routing frameworks for client-to-service and service-to-service communication._
 
-![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Kong Ingress Controller](https://img.shields.io/badge/Kong_Ingress_Controller-3B82F6?style=flat-square) ![Kong Konnect](https://img.shields.io/badge/Kong_Konnect-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![service mesh technologies](https://img.shields.io/badge/service_mesh_technologies-3B82F6?style=flat-square)
+![Kong API Gateway](https://img.shields.io/badge/Kong_API_Gateway-3B82F6?style=flat-square) ![Kong Ingress Controller](https://img.shields.io/badge/Kong_Ingress_Controller-3B82F6?style=flat-square) ![Kong Konnect](https://img.shields.io/badge/Kong_Konnect-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![service mesh](https://img.shields.io/badge/service_mesh-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

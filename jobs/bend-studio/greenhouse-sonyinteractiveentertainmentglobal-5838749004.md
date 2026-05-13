@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5838749004
-summary: Design and implement Trusted Applications (TA) running in ARM TrustZone/TEE environments
-skills: C/C++, ARM TrustZone, TEE, secure monitor calls (SMC), OP-TEE
+summary: Design and implement Trusted Applications in ARM TrustZone environments.
+skills: C/C++, ARM TrustZone, TEE, secure monitor calls, Linux/embedded OS
 level: senior
-render_hash: 7d5b2b88
+render_hash: 65c809d2
 -->
 
 # Senior Security Engineer (Tee/ ARM TrustZone)
@@ -19,9 +19,9 @@ render_hash: 7d5b2b88
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Diego, CA · `Senior`
 
-_Design and implement Trusted Applications (TA) running in ARM TrustZone/TEE environments_
+_Design and implement Trusted Applications in ARM TrustZone environments._
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![ARM TrustZone](https://img.shields.io/badge/ARM_TrustZone-3B82F6?style=flat-square) ![TEE](https://img.shields.io/badge/TEE-3B82F6?style=flat-square) ![secure monitor calls (SMC)](https://img.shields.io/badge/secure_monitor_calls_%28SMC%29-3B82F6?style=flat-square) ![OP-TEE](https://img.shields.io/badge/OP--TEE-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![ARM TrustZone](https://img.shields.io/badge/ARM_TrustZone-3B82F6?style=flat-square) ![TEE](https://img.shields.io/badge/TEE-3B82F6?style=flat-square) ![secure monitor calls](https://img.shields.io/badge/secure_monitor_calls-3B82F6?style=flat-square) ![Linux/embedded OS](https://img.shields.io/badge/Linux%2Fembedded_OS-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/58
 summary: Build and maintain scalable backend APIs and cloud services for PlayStation platforms.
 skills: Java, Amazon Web Services, Docker, Kubernetes, SQL/NoSQL databases
 level: mid
-render_hash: 4f96f137
+render_hash: 96656a68
 -->
 
 # Software Engineer II, Backend 

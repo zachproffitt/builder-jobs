@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5972006004
-summary: Build and deliver advanced machine learning models to drive player value and engagement.
-skills: deep learning, sequence modelling
+summary: Design and deliver advanced machine learning models to drive player value and engagement.
+skills: 
 level: senior
-render_hash: 060b473f
+render_hash: 41d2d405
 -->
 
 #  Senior Data Scientist - CLV & Personalisation
@@ -19,9 +19,7 @@ render_hash: 060b473f
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Build and deliver advanced machine learning models to drive player value and engagement._
-
-![deep learning](https://img.shields.io/badge/deep_learning-3B82F6?style=flat-square) ![sequence modelling](https://img.shields.io/badge/sequence_modelling-3B82F6?style=flat-square)
+_Design and deliver advanced machine learning models to drive player value and engagement._
 
 <sub>First seen May 13, 2026</sub>
 

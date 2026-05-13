@@ -8,20 +8,18 @@ remote: On-site
 posted_at: 2026-05-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428
-summary: Design and implement late-stage training pipelines for AI models
-skills: synthetic data pipelines, data mixtures, annealing schedules, context length extension, evaluation systems
-level: mid
-render_hash: f14c9711
+summary: Design and optimize synthetic data pipelines for model training
+skills: 
+level: 
+render_hash: d6a7ef91
 -->
 
 # Research, Mid-Training 
 
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
-San Francisco · `Mid` · On-site
+San Francisco · On-site
 
-_Design and implement late-stage training pipelines for AI models_
-
-![synthetic data pipelines](https://img.shields.io/badge/synthetic_data_pipelines-3B82F6?style=flat-square) ![data mixtures](https://img.shields.io/badge/data_mixtures-3B82F6?style=flat-square) ![annealing schedules](https://img.shields.io/badge/annealing_schedules-3B82F6?style=flat-square) ![context length extension](https://img.shields.io/badge/context_length_extension-3B82F6?style=flat-square) ![evaluation systems](https://img.shields.io/badge/evaluation_systems-3B82F6?style=flat-square)
+_Design and optimize synthetic data pipelines for model training_
 
 <sub>Posted May 1, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5830744004
-summary: Design and implement Trusted Applications (TA) running in ARM TrustZone/TEE environments
+summary: Design and implement security-critical components in ARM TrustZone environments
 skills: C/C++, ARM TrustZone, Trusted Execution Environment (TEE), secure monitor calls (SMC), secure key storage
 level: senior
-render_hash: 244e56b2
+render_hash: ffe9b689
 -->
 
 # Senior Security Engineer (Tee/ ARM TrustZone)
@@ -19,7 +19,7 @@ render_hash: 244e56b2
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Design and implement Trusted Applications (TA) running in ARM TrustZone/TEE environments_
+_Design and implement security-critical components in ARM TrustZone environments_
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![ARM TrustZone](https://img.shields.io/badge/ARM_TrustZone-3B82F6?style=flat-square) ![Trusted Execution Environment (TEE)](https://img.shields.io/badge/Trusted_Execution_Environment_%28TEE%29-3B82F6?style=flat-square) ![secure monitor calls (SMC)](https://img.shields.io/badge/secure_monitor_calls_%28SMC%29-3B82F6?style=flat-square) ![secure key storage](https://img.shields.io/badge/secure_key_storage-3B82F6?style=flat-square)
 

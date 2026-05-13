@@ -8,20 +8,18 @@ remote: On-site
 posted_at: 2026-02-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/427ffdee-d4d1-4a39-a730-4a96435daa67
-summary: Build and maintain distributed inference and RL systems for large-scale model execution.
-skills: distributed systems, GPU execution constraints, production ML systems
-level: senior
-render_hash: f8bfe587
+summary: Design and scale high-performance inference serving systems for long-context models.
+skills: 
+level: 
+render_hash: 5948e7b3
 -->
 
 # Member of Technical Staff, Inference & RL Systems
 
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic**  
-San Francisco · `Senior` · On-site
+San Francisco · On-site
 
-_Build and maintain distributed inference and RL systems for large-scale model execution._
-
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![GPU execution constraints](https://img.shields.io/badge/GPU_execution_constraints-3B82F6?style=flat-square) ![production ML systems](https://img.shields.io/badge/production_ML_systems-3B82F6?style=flat-square)
+_Design and scale high-performance inference serving systems for long-context models._
 
 <sub>Posted February 28, 2026</sub>
 

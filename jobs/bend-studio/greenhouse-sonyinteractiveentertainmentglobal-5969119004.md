@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969119004
-summary: Build and maintain digital commerce solutions for PlayStation games and services
-skills: React, React Native, JavaScript, CI/CD pipelines, unit testing
+summary: Build and maintain JavaScript-based applications for PlayStation gaming consoles and services
+skills: JavaScript, React, React Native, CI/CD pipelines, unit testing
 level: mid
-render_hash: 176fa508
+render_hash: 478adb3c
 -->
 
 # Software Engineer II, Front End
@@ -19,9 +19,9 @@ render_hash: 176fa508
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Canada, Waterloo, ON · `Mid`
 
-_Build and maintain digital commerce solutions for PlayStation games and services_
+_Build and maintain JavaScript-based applications for PlayStation gaming consoles and services_
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square) ![unit testing](https://img.shields.io/badge/unit_testing-3B82F6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square) ![unit testing](https://img.shields.io/badge/unit_testing-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,20 +8,20 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5981762004
-summary: Design, build, and implement scalable integration solutions across Workday platform and connected systems
-skills: Workday Studio, Core Connectors, EIBs, REST, SOAP
-level: 
-render_hash: a0540e8f
+summary: Build and maintain integration solutions across Workday platform and connected systems.
+skills: Workday Studio, Core Connectors, EIBs, REST/SOAP, API-based integrations
+level: senior
+render_hash: 4fd9ee54
 -->
 
 # People Technology Integration Engineer (Workday)
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-Ireland, Dublin
+Ireland, Dublin · `Senior`
 
-_Design, build, and implement scalable integration solutions across Workday platform and connected systems_
+_Build and maintain integration solutions across Workday platform and connected systems._
 
-![Workday Studio](https://img.shields.io/badge/Workday_Studio-3B82F6?style=flat-square) ![Core Connectors](https://img.shields.io/badge/Core_Connectors-3B82F6?style=flat-square) ![EIBs](https://img.shields.io/badge/EIBs-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![SOAP](https://img.shields.io/badge/SOAP-3B82F6?style=flat-square)
+![Workday Studio](https://img.shields.io/badge/Workday_Studio-3B82F6?style=flat-square) ![Core Connectors](https://img.shields.io/badge/Core_Connectors-3B82F6?style=flat-square) ![EIBs](https://img.shields.io/badge/EIBs-3B82F6?style=flat-square) ![REST/SOAP](https://img.shields.io/badge/REST%2FSOAP-3B82F6?style=flat-square) ![API-based integrations](https://img.shields.io/badge/API--based_integrations-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

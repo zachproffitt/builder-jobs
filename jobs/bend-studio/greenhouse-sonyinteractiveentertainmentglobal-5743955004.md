@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5743955004
-summary: Design and implement A/B testing frameworks and causal inference tools for product experimentation
-skills: SQL, Python, analytics tools
+summary: Design and execute A/B tests and causal inference experiments
+skills: SQL, Python
 level: staff
-render_hash: 1683225c
+render_hash: 98116502
 -->
 
 # Staff Data Scientist -  Experimentation & Measurement 
@@ -19,9 +19,9 @@ render_hash: 1683225c
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Staff`
 
-_Design and implement A/B testing frameworks and causal inference tools for product experimentation_
+_Design and execute A/B tests and causal inference experiments_
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![analytics tools](https://img.shields.io/badge/analytics_tools-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

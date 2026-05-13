@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5712558004
-summary: Build and maintain front-end applications for PlayStation features across mobile, console, and supported platforms.
-skills: React Native, React, Angular, iOS, Android
+summary: Build and maintain high-quality front-end applications for PlayStation features across multiple platforms.
+skills: React Native, JavaScript, Agile methodologies, MVC/MVVM/MVP frameworks, unit/integration testing
 level: mid
-render_hash: 8e72c952
+render_hash: 653c28a2
 -->
 
 # Software Engineer II (Frontend), Social  
@@ -19,9 +19,9 @@ render_hash: 8e72c952
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Los Angeles, CA · `Mid`
 
-_Build and maintain front-end applications for PlayStation features across mobile, console, and supported platforms._
+_Build and maintain high-quality front-end applications for PlayStation features across multiple platforms._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Agile methodologies](https://img.shields.io/badge/Agile_methodologies-3B82F6?style=flat-square) ![MVC/MVVM/MVP frameworks](https://img.shields.io/badge/MVC%2FMVVM%2FMVP_frameworks-3B82F6?style=flat-square) ![unit/integration testing](https://img.shields.io/badge/unit%2Fintegration_testing-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

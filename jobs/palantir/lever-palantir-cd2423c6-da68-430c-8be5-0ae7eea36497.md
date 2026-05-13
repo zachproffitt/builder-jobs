@@ -11,7 +11,7 @@ url: https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497
 summary: Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime.
 skills: Kubernetes, K8s controllers, containerization
 level: 
-render_hash: 2d40d103
+render_hash: cfd6308f
 -->
 
 # Software Engineer - Environment Platform

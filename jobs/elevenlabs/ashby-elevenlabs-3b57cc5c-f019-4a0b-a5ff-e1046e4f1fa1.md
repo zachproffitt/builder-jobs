@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1
 summary: Build and deploy automated moderation and guardrail systems to protect the platform and users across a multimodal space.
 skills: 
 level: 
-render_hash: 7d4e6e9c
+render_hash: 4d1344e2
 -->
 
 # Safety Engineer

@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/cognition/871bb0a1-a549-48b3-99c7-c044fbe9d424
 summary: Build and maintain the data pipeline for product and GTM reporting
 skills: SQL, Python, dbt, Airflow, Metabase
 level: senior
-render_hash: af65573a
+render_hash: beedc50c
 -->
 
 # Data Engineer, GTM & Product

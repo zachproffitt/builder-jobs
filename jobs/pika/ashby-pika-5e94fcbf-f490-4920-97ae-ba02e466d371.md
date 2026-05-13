@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/pika/5e94fcbf-f490-4920-97ae-ba02e466d371
 summary: Build and maintain the backend infrastructure for Pika's web, mobile, and multi-platform products
 skills: Node.js, Python, Go, AWS, Kubernetes
 level: senior
-render_hash: 12235857
+render_hash: f1620f1c
 -->
 
 # Senior Software Engineer, Backend

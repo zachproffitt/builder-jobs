@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5803140004
-summary: Manage and maintain large-scale Ceph storage solutions
-skills: Ceph, Rook, Kubernetes, Terraform, Ansible
+summary: Manage and optimize large-scale Ceph storage systems
+skills: Ceph, Rook, Kubernetes, Bash, Python
 level: senior
-render_hash: 085c0ec2
+render_hash: e82d2fd1
 -->
 
 # Senior Storage Platform Engineer
@@ -19,9 +19,9 @@ render_hash: 085c0ec2
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Aliso Viejo, CA · `Senior`
 
-_Manage and maintain large-scale Ceph storage solutions_
+_Manage and optimize large-scale Ceph storage systems_
 
-![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![Rook](https://img.shields.io/badge/Rook-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-3B82F6?style=flat-square)
+![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![Rook](https://img.shields.io/badge/Rook-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

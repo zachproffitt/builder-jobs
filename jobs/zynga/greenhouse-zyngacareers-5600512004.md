@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/zyngacareers/jobs/5600512004
-summary: Lead the architecture and development of advanced software systems for gaming platforms.
+summary: Lead the architecture and development of advanced software systems for gaming platforms
 skills: C#, Unity, Git, CI/CD, client-backend integrations
 level: principal
-render_hash: 4e3e76e0
+render_hash: 61ca2e1b
 -->
 
 # Principal Software Engineer - Gram Games
@@ -21,7 +21,7 @@ London, UK · `Principal`
 
 > Zynga builds online and mobile games including Farmville, Hit it Rich, and Zynga Poker.
 
-_Lead the architecture and development of advanced software systems for gaming platforms._
+_Lead the architecture and development of advanced software systems for gaming platforms_
 
 ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![client-backend integrations](https://img.shields.io/badge/client--backend_integrations-3B82F6?style=flat-square)
 

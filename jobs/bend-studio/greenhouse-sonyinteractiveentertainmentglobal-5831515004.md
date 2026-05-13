@@ -8,20 +8,20 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5831515004
-summary: Develop and deploy ML models for game technology systems
-skills: PyTorch, computer vision, GPU software stack, on-console inference, machine learning
-level: senior
-render_hash: 9df7fa7f
+summary: Develop innovative ML solutions for facial performance capture systems and on-console inference in games.
+skills: PyTorch
+level: 
+render_hash: 5e6917ed
 -->
 
 # Deep Learning Engineer for Game Technology
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-United Kingdom, London · `Senior`
+United Kingdom, London
 
-_Develop and deploy ML models for game technology systems_
+_Develop innovative ML solutions for facial performance capture systems and on-console inference in games._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![computer vision](https://img.shields.io/badge/computer_vision-3B82F6?style=flat-square) ![GPU software stack](https://img.shields.io/badge/GPU_software_stack-3B82F6?style=flat-square) ![on-console inference](https://img.shields.io/badge/on--console_inference-3B82F6?style=flat-square) ![machine learning](https://img.shields.io/badge/machine_learning-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

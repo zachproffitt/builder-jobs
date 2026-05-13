@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4675784005
-summary: Build and maintain data pipelines for Hebbia's AI platform
+summary: Build and maintain data pipelines connecting enterprise systems to Hebbia's AI platform.
 skills: Snowflake, S3, SharePoint, internal customer infrastructure, distributed systems
 level: senior
-render_hash: 6e44b8ce
+render_hash: 72caa3fb
 -->
 
 # Integrations Engineer
@@ -19,7 +19,7 @@ render_hash: 6e44b8ce
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
 New York City; San Francisco, CA · `Senior`
 
-_Build and maintain data pipelines for Hebbia's AI platform_
+_Build and maintain data pipelines connecting enterprise systems to Hebbia's AI platform._
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-3B82F6?style=flat-square) ![internal customer infrastructure](https://img.shields.io/badge/internal_customer_infrastructure-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square)
 

@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2026-05-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/docker/4ed87069-a913-4dc8-8ee2-7f954ab3586f
-summary: Maintain and update security-hardened container image definitions and Helm charts for Docker's DHI catalog
-skills: Go, YAML, Helm charts, Kubernetes, container security
+summary: Author and maintain image definition files and Helm charts for security-hardened container images.
+skills: Go, YAML, Helm, Kubernetes, container security
 level: senior
-render_hash: b6e2938f
+render_hash: cc80c9a9
 -->
 
 # Senior Supply Chain Security Engineer
@@ -21,9 +21,9 @@ Canada · `Senior` · `Remote`
 
 > Docker builds containerization tools that enable developers to build, share, and run applications using Docker Desktop, Docker Hub, and Docker Scout.
 
-_Maintain and update security-hardened container image definitions and Helm charts for Docker's DHI catalog_
+_Author and maintain image definition files and Helm charts for security-hardened container images._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![YAML](https://img.shields.io/badge/YAML-3B82F6?style=flat-square) ![Helm charts](https://img.shields.io/badge/Helm_charts-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![YAML](https://img.shields.io/badge/YAML-3B82F6?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![container security](https://img.shields.io/badge/container_security-3B82F6?style=flat-square)
 
 <sub>Posted May 12, 2026</sub>
 

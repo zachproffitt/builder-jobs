@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/lightmatter/jobs/4971293008?gh_jid=4971293008
-summary: Drive STA sign-off for Silicon photonics chips using Tempus/PrimeTime
-skills: Cadence, Synopsys, Tempus/PrimeTime, TCL, Python
+summary: Drive STA sign-off for Silicon photonics chips at advanced technology nodes.
+skills: TCL, Python, Tempus/PrimeTime, Cadence/Synopsys tools, scripting
 level: staff
-render_hash: cd175262
+render_hash: 59199b30
 -->
 
 # Sr. Staff Physical Design Timing Engineer (STA)
@@ -19,9 +19,9 @@ render_hash: cd175262
 <img src="https://www.google.com/s2/favicons?domain=lightmatter.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lightmatter**  
 Toronto, ON · `Staff`
 
-_Drive STA sign-off for Silicon photonics chips using Tempus/PrimeTime_
+_Drive STA sign-off for Silicon photonics chips at advanced technology nodes._
 
-![Cadence](https://img.shields.io/badge/Cadence-3B82F6?style=flat-square) ![Synopsys](https://img.shields.io/badge/Synopsys-3B82F6?style=flat-square) ![Tempus/PrimeTime](https://img.shields.io/badge/Tempus%2FPrimeTime-3B82F6?style=flat-square) ![TCL](https://img.shields.io/badge/TCL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![TCL](https://img.shields.io/badge/TCL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Tempus/PrimeTime](https://img.shields.io/badge/Tempus%2FPrimeTime-3B82F6?style=flat-square) ![Cadence/Synopsys tools](https://img.shields.io/badge/Cadence%2FSynopsys_tools-3B82F6?style=flat-square) ![scripting](https://img.shields.io/badge/scripting-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

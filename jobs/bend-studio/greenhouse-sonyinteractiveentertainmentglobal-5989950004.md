@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5989950004
 summary: Develop and maintain mobile applications and telemetry systems for PlayStation platforms
-skills: Java, Kotlin, React Native, Android Studio, Agile (Scrum)
+skills: Java, Kotlin, React Native, Android Studio, Agile methodologies
 level: senior
-render_hash: 286f4339
+render_hash: c05c0fdf
 -->
 
 # Senior Software Engineer (Android)
@@ -21,7 +21,7 @@ United States, San Mateo, CA · `Senior`
 
 _Develop and maintain mobile applications and telemetry systems for PlayStation platforms_
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![Agile (Scrum)](https://img.shields.io/badge/Agile_%28Scrum%29-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![Agile methodologies](https://img.shields.io/badge/Agile_methodologies-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

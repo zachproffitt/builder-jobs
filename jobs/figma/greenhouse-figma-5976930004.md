@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004
 summary: This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives.
 skills: 
 level: 
-render_hash: 87e3a4a7
+render_hash: 48c31d63
 -->
 
 # Data Scientist, Core Data -  PhD (2026)

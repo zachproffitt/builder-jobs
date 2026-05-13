@@ -11,7 +11,7 @@ url: https://stripe.com/jobs/search?gh_jid=7591894
 summary: Build and maintain automations and internal tools for customer support across multiple channels.
 skills: 
 level: 
-render_hash: 86f7f1bb
+render_hash: d9b9b2f5
 -->
 
 # Full Stack Engineer, Risk & Support

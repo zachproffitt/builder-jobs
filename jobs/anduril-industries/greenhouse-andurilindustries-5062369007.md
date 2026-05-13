@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=50623
 summary: Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems.
 skills: 
 level: 
-render_hash: 2f775b37
+render_hash: 743c0384
 -->
 
 # Deputy Chief Engineer, Autonomous Airpower

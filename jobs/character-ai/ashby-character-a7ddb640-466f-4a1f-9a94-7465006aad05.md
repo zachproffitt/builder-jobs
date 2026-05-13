@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2025-10-03
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/a7ddb640-466f-4a1f-9a94-7465006aad05
-summary: Develop and implement safety evaluation methodologies for large language models
-skills: PyTorch, Kubernetes, Docker, Python, reinforcement learning
+summary: Develop and implement safety evaluation methodologies for AI models
+skills: reinforcement learning, PyTorch, data pipelines, GPUs, transformers
 level: senior
-render_hash: 7275d000
+render_hash: 86590052
 -->
 
 # Research Engineer, AI Safety & Alignment
@@ -19,9 +19,9 @@ render_hash: 7275d000
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
 Redwood City, CA · `Senior` · `Remote`
 
-_Develop and implement safety evaluation methodologies for large language models_
+_Develop and implement safety evaluation methodologies for AI models_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![reinforcement learning](https://img.shields.io/badge/reinforcement_learning-3B82F6?style=flat-square)
+![reinforcement learning](https://img.shields.io/badge/reinforcement_learning-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![GPUs](https://img.shields.io/badge/GPUs-3B82F6?style=flat-square) ![transformers](https://img.shields.io/badge/transformers-3B82F6?style=flat-square)
 
 <sub>Posted October 3, 2025</sub>
 

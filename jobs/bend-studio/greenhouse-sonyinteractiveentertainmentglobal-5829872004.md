@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5829872004
-summary: Build and maintain automated test frameworks for PlayStation compilers and SDK components.
+summary: Build and maintain test infrastructure for PlayStation CPU compilers and SDK components
 skills: C++, Python, Groovy, LLVM, C
 level: senior
-render_hash: ee59dd6b
+render_hash: e4265a0b
 -->
 
 # Sr. Software Development Engineer in Test, Compilers 
@@ -19,7 +19,7 @@ render_hash: ee59dd6b
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Build and maintain automated test frameworks for PlayStation compilers and SDK components._
+_Build and maintain test infrastructure for PlayStation CPU compilers and SDK components_
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Groovy](https://img.shields.io/badge/Groovy-3B82F6?style=flat-square) ![LLVM](https://img.shields.io/badge/LLVM-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square)
 

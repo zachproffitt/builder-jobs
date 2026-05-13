@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5979101004
-summary: Build and maintain scalable infrastructure-as-code for cloud services
-skills: AWS, GCP, EKS, Infrastructure-as-Code, automation
+summary: Improve operational reliability for PlayStation Store and Catalog platforms through code and automation.
+skills: AWS, GCP, Infrastructure-as-Code, automation, cloud-native patterns (EKS, auto-scaling)
 level: staff
-render_hash: 290f9f4b
+render_hash: f395d826
 -->
 
 # Staff Site Reliability Engineer
@@ -19,9 +19,9 @@ render_hash: 290f9f4b
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Diego, CA · `Staff`
 
-_Build and maintain scalable infrastructure-as-code for cloud services_
+_Improve operational reliability for PlayStation Store and Catalog platforms through code and automation._
 
-![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square) ![automation](https://img.shields.io/badge/automation-3B82F6?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square) ![automation](https://img.shields.io/badge/automation-3B82F6?style=flat-square) ![cloud-native patterns (EKS, auto-scaling)](https://img.shields.io/badge/cloud--native_patterns_%28EKS%2C_auto--scaling%29-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

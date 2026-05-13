@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5748537004
-summary: Refine low-level code for PlayStation kernel security systems
+summary: Refine low-level code for PlayStation kernel security
 skills: C, C++
 level: staff
-render_hash: 4a8c7107
+render_hash: 11c3bd41
 -->
 
 # Staff Software Engineer
@@ -19,7 +19,7 @@ render_hash: 4a8c7107
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Ireland, Dublin · `Staff`
 
-_Refine low-level code for PlayStation kernel security systems_
+_Refine low-level code for PlayStation kernel security_
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 

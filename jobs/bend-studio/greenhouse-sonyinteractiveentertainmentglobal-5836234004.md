@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/58
 summary: Build and maintain scalable data platforms for PlayStation's data-driven features
 skills: Scala, Java, Python, ETL/ELT pipelines, data cataloging
 level: senior
-render_hash: 30ca2f68
+render_hash: de95b61f
 -->
 
 # Software Engineer II, Data Platform

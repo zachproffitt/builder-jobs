@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5976950004
 summary: Develop and enhance generative models for graphics and video processing systems
-skills: PyTorch, TensorFlow, Python, computer vision libraries, HDF5
+skills: TensorFlow, PyTorch, Python, computer vision libraries, HDF5
 level: senior
-render_hash: ab9e53e5
+render_hash: 06d2b967
 -->
 
 # Sr. Machine Learning Engineer
@@ -21,7 +21,7 @@ United Kingdom, London · `Senior`
 
 _Develop and enhance generative models for graphics and video processing systems_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![computer vision libraries](https://img.shields.io/badge/computer_vision_libraries-3B82F6?style=flat-square) ![HDF5](https://img.shields.io/badge/HDF5-3B82F6?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![computer vision libraries](https://img.shields.io/badge/computer_vision_libraries-3B82F6?style=flat-square) ![HDF5](https://img.shields.io/badge/HDF5-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

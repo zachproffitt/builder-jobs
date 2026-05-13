@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003
-summary: Develop novel neural decoders for Brain-Computer Interface (BCI) systems
-skills: machine learning models, clean code development
+summary: Develop and refine neural decoders for BCIs
+skills: Python, PyTorch, machine learning models, time series data analysis, clean code development
 level: intern
-render_hash: 234bea5a
+render_hash: a6133994
 -->
 
 # Machine Learning Engineer Intern
@@ -21,9 +21,9 @@ Fremont, California, United States · `Intern`
 
 > Neuralink develops neural interface technology to restore autonomy for individuals with neurological conditions and advance brain-computer interaction.
 
-_Develop novel neural decoders for Brain-Computer Interface (BCI) systems_
+_Develop and refine neural decoders for BCIs_
 
-![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![clean code development](https://img.shields.io/badge/clean_code_development-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![time series data analysis](https://img.shields.io/badge/time_series_data_analysis-3B82F6?style=flat-square) ![clean code development](https://img.shields.io/badge/clean_code_development-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

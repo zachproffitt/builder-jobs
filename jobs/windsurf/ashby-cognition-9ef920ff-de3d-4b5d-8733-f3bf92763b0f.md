@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/cognition/9ef920ff-de3d-4b5d-8733-f3bf92763b0f
 summary: Build and maintain the data pipeline for the AI-native IDE and software agents
 skills: SQL, Python, dbt, Airflow, Dagster
 level: senior
-render_hash: 5389764c
+render_hash: 0ed26868
 -->
 
 # Data Engineer, Core Product

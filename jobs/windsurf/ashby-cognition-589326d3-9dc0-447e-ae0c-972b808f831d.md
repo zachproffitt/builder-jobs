@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2026-02-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/589326d3-9dc0-447e-ae0c-972b808f831d
-summary: Own and maintain the core codebase for federal deployments
+summary: Build and maintain the core codebase for federal deployments
 skills: 
 level: 
-render_hash: 19e3d57a
+render_hash: fb7511c6
 -->
 
 # Devops Engineer, Federal
@@ -19,7 +19,7 @@ render_hash: 19e3d57a
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
 Washington DC · `Remote`
 
-_Own and maintain the core codebase for federal deployments_
+_Build and maintain the core codebase for federal deployments_
 
 <sub>Posted February 12, 2026</sub>
 

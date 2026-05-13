@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993591004
-summary: Design and implement telemetry, logging, and diagnostic systems for mobile applications
-skills: Java, Kotlin, React Native, Android Studio, telemetry frameworks
+summary: Build and maintain telemetry, logging, and diagnostic systems for mobile applications.
+skills: Java, Kotlin, React Native, Android Studio, Agile (Scrum)
 level: senior
-render_hash: 0455163f
+render_hash: 180e03cc
 -->
 
 # Senior Software Engineer (Android)
@@ -19,9 +19,9 @@ render_hash: 0455163f
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Diego, CA · `Senior`
 
-_Design and implement telemetry, logging, and diagnostic systems for mobile applications_
+_Build and maintain telemetry, logging, and diagnostic systems for mobile applications._
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![telemetry frameworks](https://img.shields.io/badge/telemetry_frameworks-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square) ![Agile (Scrum)](https://img.shields.io/badge/Agile_%28Scrum%29-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

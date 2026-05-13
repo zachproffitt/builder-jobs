@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4564848005
-summary: Build and maintain ETL pipelines and data lakes for the AI platform
+summary: Build and maintain ETL pipelines and data lake infrastructure
 skills: Python, SQL, Spark, Airflow, DBT
 level: senior
-render_hash: 02f023a1
+render_hash: d2761c63
 -->
 
 # Data Engineer
@@ -19,7 +19,7 @@ render_hash: 02f023a1
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
 New York City; San Francisco, CA · `Senior`
 
-_Build and maintain ETL pipelines and data lakes for the AI platform_
+_Build and maintain ETL pipelines and data lake infrastructure_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![DBT](https://img.shields.io/badge/DBT-3B82F6?style=flat-square)
 

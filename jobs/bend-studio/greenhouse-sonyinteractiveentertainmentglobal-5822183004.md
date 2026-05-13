@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/58
 summary: Develop and maintain scalable Java-based backend services for PlayStation's Accounts & Identity team
 skills: Java, Spring Boot, AWS, Docker, Git
 level: senior
-render_hash: 3121b29a
+render_hash: fff6831a
 -->
 
 # Software Engineer

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5799683004
-summary: Build and maintain infrastructure pipelines, scripts, and deployment tools for PlayStation development.
-skills: Python, Docker, Git, Perforce, Jenkins
+summary: Build and maintain the CI/CD pipeline and infrastructure
+skills: Python, Git, Docker, Jenkins, Perforce
 level: senior
-render_hash: 561f8be4
+render_hash: e7822e91
 -->
 
 # Sr DevOps Engineer (Contract)
@@ -19,9 +19,9 @@ render_hash: 561f8be4
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Los Angeles, CA · `Senior`
 
-_Build and maintain infrastructure pipelines, scripts, and deployment tools for PlayStation development._
+_Build and maintain the CI/CD pipeline and infrastructure_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -11,7 +11,7 @@ url: https://jobs.lever.co/zoox/4df5862c-edd7-4033-acb8-59ebbfbbb941
 summary: Design and integrate ML models for semantic map elements in autonomous vehicles.
 skills: 
 level: 
-render_hash: 5c2b6f2b
+render_hash: b73307a0
 -->
 
 # Senior Machine Learning Engineer - Perception Mapping

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985600004
-summary: Build and maintain the analytics platform infrastructure
-skills: dbt
+summary: Build and maintain the analytics platform and data models
+skills: dbt, dimensional modeling, facts and dimensions
 level: senior
-render_hash: d783a4fa
+render_hash: ba9c21fc
 -->
 
 # Senior Analytics Engineer
@@ -19,9 +19,9 @@ render_hash: d783a4fa
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Build and maintain the analytics platform infrastructure_
+_Build and maintain the analytics platform and data models_
 
-![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square)
+![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![dimensional modeling](https://img.shields.io/badge/dimensional_modeling-3B82F6?style=flat-square) ![facts and dimensions](https://img.shields.io/badge/facts_and_dimensions-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

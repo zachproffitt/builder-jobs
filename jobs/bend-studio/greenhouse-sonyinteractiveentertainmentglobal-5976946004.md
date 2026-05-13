@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5976946004
-summary: Develop and improve generative models for graphics and video processing systems.
-skills: TensorFlow, PyTorch, Python, HDF5, sim
+summary: Build and improve generative models for graphics and video processing systems
+skills: TensorFlow, PyTorch, Python, convolutional networks, transformer-based architectures
 level: senior
-render_hash: 5bb72092
+render_hash: d13dedac
 -->
 
 # Machine Learning Engineer
@@ -19,9 +19,9 @@ render_hash: 5bb72092
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Develop and improve generative models for graphics and video processing systems._
+_Build and improve generative models for graphics and video processing systems_
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![HDF5](https://img.shields.io/badge/HDF5-3B82F6?style=flat-square) ![sim](https://img.shields.io/badge/sim-3B82F6?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![convolutional networks](https://img.shields.io/badge/convolutional_networks-3B82F6?style=flat-square) ![transformer-based architectures](https://img.shields.io/badge/transformer--based_architectures-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

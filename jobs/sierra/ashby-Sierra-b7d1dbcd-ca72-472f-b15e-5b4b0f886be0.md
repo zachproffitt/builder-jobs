@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2025-02-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0
-summary: Build and maintain production-grade AI agents for enterprise clients
+summary: Design and build AI agents for production environments across industries
 skills: 
 level: 
-render_hash: b6c90605
+render_hash: 2cd81bba
 -->
 
 # Software Engineer, Agent
@@ -19,7 +19,7 @@ render_hash: b6c90605
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra**  
 London · On-site
 
-_Build and maintain production-grade AI agents for enterprise clients_
+_Design and build AI agents for production environments across industries_
 
 <sub>Posted February 13, 2025</sub>
 

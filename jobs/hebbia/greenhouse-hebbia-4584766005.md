@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4584766005
-summary: Build and maintain the custom multi-agent framework and distributed systems infrastructure for agentic tasks.
-skills: distributed systems, LLM inference engines, data pipelines
+summary: Build and maintain the custom multi-agent framework and distributed systems infrastructure.
+skills: distributed systems, DAG orchestrator, agentic frameworks
 level: 
-render_hash: c7c0c97e
+render_hash: 2e8786f5
 -->
 
 # Backend Engineer, Agents
@@ -19,9 +19,9 @@ render_hash: c7c0c97e
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
 New York City; San Francisco, CA
 
-_Build and maintain the custom multi-agent framework and distributed systems infrastructure for agentic tasks._
+_Build and maintain the custom multi-agent framework and distributed systems infrastructure._
 
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![LLM inference engines](https://img.shields.io/badge/LLM_inference_engines-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square)
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![DAG orchestrator](https://img.shields.io/badge/DAG_orchestrator-3B82F6?style=flat-square) ![agentic frameworks](https://img.shields.io/badge/agentic_frameworks-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

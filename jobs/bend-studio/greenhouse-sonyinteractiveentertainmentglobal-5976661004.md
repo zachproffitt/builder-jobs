@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5976661004
-summary: Lead improvements in service reliability and scalability for cloud gaming infrastructure
-skills: Linux, Web Services infrastructure, programming languages (specifics not listed)
+summary: Own the scalability and reliability of the cloud gaming service infrastructure.
+skills: Linux, Web Services, Production Systems, Platform-wide solutions, Development experience (specific languages not listed)
 level: senior
-render_hash: 23293d6b
+render_hash: e22454e4
 -->
 
 # Senior Service Reliability Engineer
@@ -19,9 +19,9 @@ render_hash: 23293d6b
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Germany, Berlin · `Senior`
 
-_Lead improvements in service reliability and scalability for cloud gaming infrastructure_
+_Own the scalability and reliability of the cloud gaming service infrastructure._
 
-![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Web Services infrastructure](https://img.shields.io/badge/Web_Services_infrastructure-3B82F6?style=flat-square) ![programming languages (specifics not listed)](https://img.shields.io/badge/programming_languages_%28specifics_not_listed%29-3B82F6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Web Services](https://img.shields.io/badge/Web_Services-3B82F6?style=flat-square) ![Production Systems](https://img.shields.io/badge/Production_Systems-3B82F6?style=flat-square) ![Platform-wide solutions](https://img.shields.io/badge/Platform--wide_solutions-3B82F6?style=flat-square) ![Development experience (specific languages not listed)](https://img.shields.io/badge/Development_experience_%28specific_languages_not_listed%29-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

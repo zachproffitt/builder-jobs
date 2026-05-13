@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2025-11-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/65e263f7-5edf-4832-b134-c194f19ea848
-summary: Build and maintain Trust & Safety user experiences and tools.
+summary: Build and maintain the front-end tools for Trust & Safety systems
 skills: React, React Native, TypeScript, HTML, CSS
 level: senior
-render_hash: 54263e49
+render_hash: 53d224cf
 -->
 
 # Software Engineer, Safety
@@ -19,7 +19,7 @@ render_hash: 54263e49
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
 Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain Trust & Safety user experiences and tools._
+_Build and maintain the front-end tools for Trust & Safety systems_
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square)
 

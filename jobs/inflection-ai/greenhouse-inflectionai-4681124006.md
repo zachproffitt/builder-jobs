@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/inflectionai/jobs/4681124006?gh_jid=4681124006
-summary: Develop and maintain neural models for voice and audio pipelines integrated into Pi's conversational stack
-skills: PyTorch, diffusion models, autoregressive codecs, CUDA, GPU/accelerator clusters
+summary: Build and maintain production-grade voice models and inference pipelines for Pi's conversational stack.
+skills: PyTorch, CUDA, diffusion models, autoregressive codecs, flow-matching
 level: senior
-render_hash: d6cddd01
+render_hash: 0c7184e0
 -->
 
 # Research Engineer, Voice
@@ -19,9 +19,9 @@ render_hash: d6cddd01
 <img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Inflection AI**  
 Palo Alto, California, United States · `Senior`
 
-_Develop and maintain neural models for voice and audio pipelines integrated into Pi's conversational stack_
+_Build and maintain production-grade voice models and inference pipelines for Pi's conversational stack._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![autoregressive codecs](https://img.shields.io/badge/autoregressive_codecs-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![GPU/accelerator clusters](https://img.shields.io/badge/GPU%2Faccelerator_clusters-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![autoregressive codecs](https://img.shields.io/badge/autoregressive_codecs-3B82F6?style=flat-square) ![flow-matching](https://img.shields.io/badge/flow--matching-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

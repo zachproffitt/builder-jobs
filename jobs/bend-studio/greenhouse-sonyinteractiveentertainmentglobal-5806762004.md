@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5806762004
 summary: Define and evolve the frontend architecture for PlayStation client applications using React Native.
-skills: React Native, JavaScript/TypeScript, C++/Objective-C/Swift
+skills: React Native, JavaScript, TypeScript, C++/Objective-C/Swift, modern JavaScript/TypeScript
 level: staff
-render_hash: fdf74aea
+render_hash: 6df6775c
 -->
 
 # Staff Software Engineer, React Native  
@@ -21,7 +21,7 @@ United States, San Mateo, CA · `Staff`
 
 _Define and evolve the frontend architecture for PlayStation client applications using React Native._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript/TypeScript](https://img.shields.io/badge/JavaScript%2FTypeScript-3B82F6?style=flat-square) ![C++/Objective-C/Swift](https://img.shields.io/badge/C%2B%2B%2FObjective--C%2FSwift-3B82F6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![C++/Objective-C/Swift](https://img.shields.io/badge/C%2B%2B%2FObjective--C%2FSwift-3B82F6?style=flat-square) ![modern JavaScript/TypeScript](https://img.shields.io/badge/modern_JavaScript%2FTypeScript-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

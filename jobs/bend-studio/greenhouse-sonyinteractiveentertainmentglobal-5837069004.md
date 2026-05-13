@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5837069004
-summary: Develop and maintain GPU Capture and Replay technology for PlayStation platforms.
-skills: GPU programming, shader development, profiling tools, debugging systems, graphics software stack
+summary: Develop GPU Capture and Replay technology for PlayStation platforms.
+skills: 
 level: senior
-render_hash: a0c17d42
+render_hash: 201c76cc
 -->
 
 # Senior Software Engineer - GPU Capture and Replay
@@ -19,9 +19,7 @@ render_hash: a0c17d42
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Develop and maintain GPU Capture and Replay technology for PlayStation platforms._
-
-![GPU programming](https://img.shields.io/badge/GPU_programming-3B82F6?style=flat-square) ![shader development](https://img.shields.io/badge/shader_development-3B82F6?style=flat-square) ![profiling tools](https://img.shields.io/badge/profiling_tools-3B82F6?style=flat-square) ![debugging systems](https://img.shields.io/badge/debugging_systems-3B82F6?style=flat-square) ![graphics software stack](https://img.shields.io/badge/graphics_software_stack-3B82F6?style=flat-square)
+_Develop GPU Capture and Replay technology for PlayStation platforms._
 
 <sub>First seen May 13, 2026</sub>
 

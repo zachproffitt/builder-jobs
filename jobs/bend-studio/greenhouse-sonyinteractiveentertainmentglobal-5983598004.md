@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5983598004
-summary: Design and maintain high-availability infrastructure platforms
-skills: Linux, Windows, Ceph, enterprise storage systems, enterprise server hardware
+summary: Design and maintain high-availability infrastructure systems
+skills: Linux, Windows, Ceph, storage systems, virtualization
 level: senior
-render_hash: 7793c848
+render_hash: 030ae1b8
 -->
 
 # Lead Systems Engineer
@@ -19,9 +19,9 @@ render_hash: 7793c848
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Los Angeles, CA · `Senior`
 
-_Design and maintain high-availability infrastructure platforms_
+_Design and maintain high-availability infrastructure systems_
 
-![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-3B82F6?style=flat-square) ![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![enterprise storage systems](https://img.shields.io/badge/enterprise_storage_systems-3B82F6?style=flat-square) ![enterprise server hardware](https://img.shields.io/badge/enterprise_server_hardware-3B82F6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-3B82F6?style=flat-square) ![Ceph](https://img.shields.io/badge/Ceph-3B82F6?style=flat-square) ![storage systems](https://img.shields.io/badge/storage_systems-3B82F6?style=flat-square) ![virtualization](https://img.shields.io/badge/virtualization-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

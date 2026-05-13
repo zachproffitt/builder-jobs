@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5817255004
-summary: Build and maintain test automation systems for development tools
-skills: C#, C++, Selenium/Appium, Powershell, Python
+summary: Build and maintain automated test frameworks for development tools
+skills: C#, C++, Selenium/Appium, PowerShell, Python
 level: senior
-render_hash: d2fe46dc
+render_hash: caf9644f
 -->
 
 # Software Development Engineer in Test
@@ -19,9 +19,9 @@ render_hash: d2fe46dc
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, Bristol · `Senior`
 
-_Build and maintain test automation systems for development tools_
+_Build and maintain automated test frameworks for development tools_
 
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Selenium/Appium](https://img.shields.io/badge/Selenium%2FAppium-3B82F6?style=flat-square) ![Powershell](https://img.shields.io/badge/Powershell-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Selenium/Appium](https://img.shields.io/badge/Selenium%2FAppium-3B82F6?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5743956004
-summary: Design and execute A/B tests and causal analysis experiments for user migration and marketing strategies.
-skills: SQL, Python, causal inference methods, statistical analysis tools
+summary: Design and execute A/B tests using SQL and Python to measure user migration impact.
+skills: SQL, Python, causal inference, A/B testing, statistical analysis
 level: senior
-render_hash: 3ddaa85e
+render_hash: 129652b6
 -->
 
 # Senior Data Scientist -  Experimentation & Measurement
@@ -19,9 +19,9 @@ render_hash: 3ddaa85e
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Design and execute A/B tests and causal analysis experiments for user migration and marketing strategies._
+_Design and execute A/B tests using SQL and Python to measure user migration impact._
 
-![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![causal inference methods](https://img.shields.io/badge/causal_inference_methods-3B82F6?style=flat-square) ![statistical analysis tools](https://img.shields.io/badge/statistical_analysis_tools-3B82F6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![causal inference](https://img.shields.io/badge/causal_inference-3B82F6?style=flat-square) ![A/B testing](https://img.shields.io/badge/A%2FB_testing-3B82F6?style=flat-square) ![statistical analysis](https://img.shields.io/badge/statistical_analysis-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

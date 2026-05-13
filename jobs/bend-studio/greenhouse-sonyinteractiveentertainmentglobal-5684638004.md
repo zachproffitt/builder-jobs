@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5684638004
-summary: Implement and optimize DPDK-based PCIe communication systems for low-latency network devices.
-skills: DPDK, C/C++, PCIe peer-to-peer communication, TCP/IP, UDP
+summary: Implement and optimize peer-to-peer PCIe communication using DPDK.
+skills: DPDK, C/C++, PCIe, TCP/IP, UDP
 level: staff
-render_hash: 377eb9aa
+render_hash: 4604b24c
 -->
 
 # Staff Software Engineer - DPDK
@@ -19,9 +19,9 @@ render_hash: 377eb9aa
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States · `Staff` · `Remote`
 
-_Implement and optimize DPDK-based PCIe communication systems for low-latency network devices._
+_Implement and optimize peer-to-peer PCIe communication using DPDK._
 
-![DPDK](https://img.shields.io/badge/DPDK-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![PCIe peer-to-peer communication](https://img.shields.io/badge/PCIe_peer--to--peer_communication-3B82F6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3B82F6?style=flat-square) ![UDP](https://img.shields.io/badge/UDP-3B82F6?style=flat-square)
+![DPDK](https://img.shields.io/badge/DPDK-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![PCIe](https://img.shields.io/badge/PCIe-3B82F6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3B82F6?style=flat-square) ![UDP](https://img.shields.io/badge/UDP-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

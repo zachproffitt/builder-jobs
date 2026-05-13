@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5970134004
-summary: Build and maintain gameplay systems and technical infrastructure for PlayStation titles.
-skills: C++, object-oriented principles, debugging
+summary: Build and maintain gameplay systems for PlayStation titles
+skills: C++
 level: senior
-render_hash: 3ed134a1
+render_hash: 6ea29798
 -->
 
 # Senior Gameplay Programmer
@@ -19,9 +19,9 @@ render_hash: 3ed134a1
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Canada, Montreal, QC · `Senior`
 
-_Build and maintain gameplay systems and technical infrastructure for PlayStation titles._
+_Build and maintain gameplay systems for PlayStation titles_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![object-oriented principles](https://img.shields.io/badge/object--oriented_principles-3B82F6?style=flat-square) ![debugging](https://img.shields.io/badge/debugging-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

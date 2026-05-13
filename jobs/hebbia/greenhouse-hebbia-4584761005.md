@@ -9,19 +9,19 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4584761005
 summary: Build and maintain the backend systems that power user engagement and data integration.
-skills: Snowflake, S3, SharePoint, Dropbox
-level: 
-render_hash: d8f238fd
+skills: Snowflake, S3, SharePoint, Dropbox, APIs
+level: senior
+render_hash: 9abeb938
 -->
 
 # Backend Engineer, Growth and Data
 
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
-New York City; San Francisco, CA
+New York City; San Francisco, CA · `Senior`
 
 _Build and maintain the backend systems that power user engagement and data integration._
 
-![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-3B82F6?style=flat-square) ![Dropbox](https://img.shields.io/badge/Dropbox-3B82F6?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-3B82F6?style=flat-square) ![Dropbox](https://img.shields.io/badge/Dropbox-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

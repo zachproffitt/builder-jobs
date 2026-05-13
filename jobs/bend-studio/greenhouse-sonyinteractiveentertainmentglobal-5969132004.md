@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969132004
-summary: Design and develop Windows desktop applications using C# and .NET framework for SDK integration tools.
+summary: Design, develop, and maintain Windows desktop applications using C# and .NET framework
 skills: C#, .NET framework, C/C++, P/Invoke, Git
 level: 
-render_hash: 52c25b8a
+render_hash: 87c93a27
 -->
 
 # Software Engineer - C#/Windows
@@ -19,7 +19,7 @@ render_hash: 52c25b8a
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London
 
-_Design and develop Windows desktop applications using C# and .NET framework for SDK integration tools._
+_Design, develop, and maintain Windows desktop applications using C# and .NET framework_
 
 ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![.NET framework](https://img.shields.io/badge/.NET_framework-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![P/Invoke](https://img.shields.io/badge/P%2FInvoke-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
 

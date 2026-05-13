@@ -11,7 +11,7 @@ url: https://stripe.com/jobs/search?gh_jid=7743307
 summary: Build and maintain Stripe's frontend package manager, build toolchain, bundler setup, and TypeScript infrastructure. Lay the groundwork for AI-native frontend development.
 skills: JavaScript, TypeScript, AI-native frontend development, build toolchain, bundler setup
 level: senior
-render_hash: 8ec1f968
+render_hash: 922a9a0d
 -->
 
 # Frontend Platform Engineer, JavaScript Infrastructure

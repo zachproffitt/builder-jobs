@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/vardaspace/jobs/7732511003
-summary: Develop and maintain data pipelines and internal tools for operational systems
+summary: Build and maintain data pipelines and internal tools to integrate enterprise systems.
 skills: 
 level: intern
-render_hash: 90c933d0
+render_hash: f93a23fe
 -->
 
 # Applications Engineering Internship - Fall 2026
@@ -19,7 +19,7 @@ render_hash: 90c933d0
 <img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle">&ensp;**Varda Space Industries**  
 El Segundo, California, United States · `Intern`
 
-_Develop and maintain data pipelines and internal tools for operational systems_
+_Build and maintain data pipelines and internal tools to integrate enterprise systems._
 
 <sub>First seen May 13, 2026</sub>
 

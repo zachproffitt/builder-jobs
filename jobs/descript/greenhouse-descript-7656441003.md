@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/descript/jobs/7656441003?gh_jid=7656441003
 summary: Build and maintain AI-powered analytics tools for marketing measurement and campaign forecasting
-skills: Segment, Census, Python (implied via data analysis), attribution models, reverse ETL
+skills: Segment, Census, Python (implied via data analysis), CDPs, reverse ETL
 level: senior
-render_hash: d9d73f27
+render_hash: 991a0669
 -->
 
 # Senior Data Scientist, Marketing
@@ -21,7 +21,7 @@ San Francisco, CA · `Senior`
 
 _Build and maintain AI-powered analytics tools for marketing measurement and campaign forecasting_
 
-![Segment](https://img.shields.io/badge/Segment-3B82F6?style=flat-square) ![Census](https://img.shields.io/badge/Census-3B82F6?style=flat-square) ![Python (implied via data analysis)](https://img.shields.io/badge/Python_%28implied_via_data_analysis%29-3B82F6?style=flat-square) ![attribution models](https://img.shields.io/badge/attribution_models-3B82F6?style=flat-square) ![reverse ETL](https://img.shields.io/badge/reverse_ETL-3B82F6?style=flat-square)
+![Segment](https://img.shields.io/badge/Segment-3B82F6?style=flat-square) ![Census](https://img.shields.io/badge/Census-3B82F6?style=flat-square) ![Python (implied via data analysis)](https://img.shields.io/badge/Python_%28implied_via_data_analysis%29-3B82F6?style=flat-square) ![CDPs](https://img.shields.io/badge/CDPs-3B82F6?style=flat-square) ![reverse ETL](https://img.shields.io/badge/reverse_ETL-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

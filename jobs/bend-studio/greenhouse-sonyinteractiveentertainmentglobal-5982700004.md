@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5982700004
 summary: Build and maintain CI/CD pipelines and cloud infrastructure tools for PlayStation platforms.
-skills: Infrastructure-as-Code (IaC), CI/CD systems, dashboard development
+skills: Infrastructure-as-Code (IaC), cloud infrastructure automation, dashboard development
 level: mid
-render_hash: cdedc4f2
+render_hash: 0ae3938c
 -->
 
 # Software Engineer II-DevOps
@@ -21,7 +21,7 @@ Canada, Waterloo, ON · `Mid`
 
 _Build and maintain CI/CD pipelines and cloud infrastructure tools for PlayStation platforms._
 
-![Infrastructure-as-Code (IaC)](https://img.shields.io/badge/Infrastructure--as--Code_%28IaC%29-3B82F6?style=flat-square) ![CI/CD systems](https://img.shields.io/badge/CI%2FCD_systems-3B82F6?style=flat-square) ![dashboard development](https://img.shields.io/badge/dashboard_development-3B82F6?style=flat-square)
+![Infrastructure-as-Code (IaC)](https://img.shields.io/badge/Infrastructure--as--Code_%28IaC%29-3B82F6?style=flat-square) ![cloud infrastructure automation](https://img.shields.io/badge/cloud_infrastructure_automation-3B82F6?style=flat-square) ![dashboard development](https://img.shields.io/badge/dashboard_development-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

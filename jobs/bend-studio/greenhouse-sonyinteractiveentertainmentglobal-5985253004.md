@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985253004
-summary: Build and maintain automated test frameworks for ML inference services and platform components.
+summary: Build and maintain automated test frameworks for ML inference services
 skills: Python, Java, RESTful APIs, microservices, databases
 level: senior
-render_hash: b72bd454
+render_hash: a69e0315
 -->
 
 # Sr Software Development Engineer in Test, ML
@@ -19,7 +19,7 @@ render_hash: b72bd454
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Build and maintain automated test frameworks for ML inference services and platform components._
+_Build and maintain automated test frameworks for ML inference services_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![microservices](https://img.shields.io/badge/microservices-3B82F6?style=flat-square) ![databases](https://img.shields.io/badge/databases-3B82F6?style=flat-square)
 

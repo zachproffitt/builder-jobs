@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4679299005
-summary: Own and maintain the AI platform's codebase and technical direction
+summary: Own the technical direction and codebase for your team's systems
 skills: 
 level: manager
-render_hash: 827525bb
+render_hash: 3a44af55
 -->
 
 # Engineering Manager
@@ -19,7 +19,7 @@ render_hash: 827525bb
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
 New York City; San Francisco, CA · `Manager`
 
-_Own and maintain the AI platform's codebase and technical direction_
+_Own the technical direction and codebase for your team's systems_
 
 <sub>First seen May 13, 2026</sub>
 

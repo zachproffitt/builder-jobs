@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5980021004
-summary: Build and maintain lightweight automation scripts for operational efficiency.
-skills: Linux terminal, scripting (shell/automation), Jira/ServiceNow, runbooks, documentation
+summary: Build and maintain lightweight automation scripts and operational runbooks for Linux-based hardware systems.
+skills: Linux, Jira, ServiceNow, scripting, runbooks
 level: mid
-render_hash: f4e60f5b
+render_hash: 58417bbb
 -->
 
 # Hardware Fleet Operations Specialist
@@ -19,9 +19,9 @@ render_hash: f4e60f5b
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Aliso Viejo, CA · `Mid`
 
-_Build and maintain lightweight automation scripts for operational efficiency._
+_Build and maintain lightweight automation scripts and operational runbooks for Linux-based hardware systems._
 
-![Linux terminal](https://img.shields.io/badge/Linux_terminal-3B82F6?style=flat-square) ![scripting (shell/automation)](https://img.shields.io/badge/scripting_%28shell%2Fautomation%29-3B82F6?style=flat-square) ![Jira/ServiceNow](https://img.shields.io/badge/Jira%2FServiceNow-3B82F6?style=flat-square) ![runbooks](https://img.shields.io/badge/runbooks-3B82F6?style=flat-square) ![documentation](https://img.shields.io/badge/documentation-3B82F6?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-3B82F6?style=flat-square) ![ServiceNow](https://img.shields.io/badge/ServiceNow-3B82F6?style=flat-square) ![scripting](https://img.shields.io/badge/scripting-3B82F6?style=flat-square) ![runbooks](https://img.shields.io/badge/runbooks-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

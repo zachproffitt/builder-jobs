@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/scaleai/jobs/4688021005
 summary: Build and implement agent-driven workflows and automation systems across Finance, Accounting, People, and Recruiting using iPaaS platforms and AI technologies.
 skills: Workato, NetSuite, Coupa, ADP, Deel
 level: manager
-render_hash: 004b2d21
+render_hash: 34ed58ed
 -->
 
 # Finance Systems & Automations Manager

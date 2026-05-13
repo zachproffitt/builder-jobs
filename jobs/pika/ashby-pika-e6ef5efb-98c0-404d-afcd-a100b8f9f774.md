@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-04-04
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/pika/e6ef5efb-98c0-404d-afcd-a100b8f9f774
-summary: Design and prototype novel algorithms for real-time video synthesis
+summary: Design and prototype real-time video synthesis algorithms and diffusion-based world models.
 skills: Python, PyTorch, TensorFlow, diffusion models, autoregressive models
 level: senior
-render_hash: cea10731
+render_hash: f0b3b3cc
 -->
 
 # Real-time Video Researcher
@@ -19,7 +19,7 @@ render_hash: cea10731
 <img src="https://www.google.com/s2/favicons?domain=pika.art&sz=32" width="16" height="16" align="absmiddle">&ensp;**Pika**  
 Palo Alto HQ · `Senior` · On-site
 
-_Design and prototype novel algorithms for real-time video synthesis_
+_Design and prototype real-time video synthesis algorithms and diffusion-based world models._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![autoregressive models](https://img.shields.io/badge/autoregressive_models-3B82F6?style=flat-square)
 

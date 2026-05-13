@@ -11,7 +11,7 @@ url: https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4740890101
 summary: Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams.
 skills: Siemens NX, Solidworks, PLM systems, EBOM, ICD frameworks
 level: 
-render_hash: 40f842ae
+render_hash: c0ff130b
 -->
 
 # Senior Design Engineer, Integrated Spectrum Design (m/f/d)

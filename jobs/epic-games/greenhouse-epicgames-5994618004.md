@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://epicgames.com/careers/jobs/5994618004?gh_jid=5994618004
-summary: Architect and implement low-level engine systems including Scene Graph, networking, analytics, and the language toolchain. Design stable APIs for Verse integration across Unreal Engine.
-skills: C++, AI-assisted development tools, language toolchain, networking, analytics
+summary: Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, designing APIs that expose engine capabilities across Scene Graph, networking, analytics, and the language toolchain.
+skills: C++, Unreal Engine, Game consoles, APIs, Verse Framework
 level: senior
-render_hash: 60da164f
+render_hash: a1b8ac2f
 -->
 
 # Senior Engine Programmer, Verse Framework
@@ -19,9 +19,9 @@ render_hash: 60da164f
 <img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games**  
 Cary,North Carolina,United States · `Senior`
 
-_Architect and implement low-level engine systems including Scene Graph, networking, analytics, and the language toolchain. Design stable APIs for Verse integration across Unreal Engine._
+_Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, designing APIs that expose engine capabilities across Scene Graph, networking, analytics, and the language toolchain._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![AI-assisted development tools](https://img.shields.io/badge/AI--assisted_development_tools-3B82F6?style=flat-square) ![language toolchain](https://img.shields.io/badge/language_toolchain-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square) ![analytics](https://img.shields.io/badge/analytics-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Game consoles](https://img.shields.io/badge/Game_consoles-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Verse Framework](https://img.shields.io/badge/Verse_Framework-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

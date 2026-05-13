@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5530503004
-summary: Develop and maintain embedded firmware for PlayStation products
-skills: C/C++, RF/wireless systems, low-latency communication protocols, firmware frameworks, cross-platform firmware architecture
+summary: Design and implement low-latency firmware frameworks for embedded devices
+skills: C/C++, RF/wireless systems, low-latency communication protocols, firmware architecture, hardware-in-the-loop testing
 level: senior
-render_hash: 06f73d5e
+render_hash: acf878d4
 -->
 
 # Senior Embedded Firmware Engineer
@@ -19,9 +19,9 @@ render_hash: 06f73d5e
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Develop and maintain embedded firmware for PlayStation products_
+_Design and implement low-latency firmware frameworks for embedded devices_
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![RF/wireless systems](https://img.shields.io/badge/RF%2Fwireless_systems-3B82F6?style=flat-square) ![low-latency communication protocols](https://img.shields.io/badge/low--latency_communication_protocols-3B82F6?style=flat-square) ![firmware frameworks](https://img.shields.io/badge/firmware_frameworks-3B82F6?style=flat-square) ![cross-platform firmware architecture](https://img.shields.io/badge/cross--platform_firmware_architecture-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![RF/wireless systems](https://img.shields.io/badge/RF%2Fwireless_systems-3B82F6?style=flat-square) ![low-latency communication protocols](https://img.shields.io/badge/low--latency_communication_protocols-3B82F6?style=flat-square) ![firmware architecture](https://img.shields.io/badge/firmware_architecture-3B82F6?style=flat-square) ![hardware-in-the-loop testing](https://img.shields.io/badge/hardware--in--the--loop_testing-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

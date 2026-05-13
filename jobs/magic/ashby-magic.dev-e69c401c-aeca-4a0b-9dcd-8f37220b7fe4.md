@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-02-27
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/e69c401c-aeca-4a0b-9dcd-8f37220b7fe4
-summary: Build and maintain internal data tooling and infrastructure systems
-skills: 
+summary: Build and maintain internal data tooling including dashboards, CLIs, and data exploration UIs
+skills: build systems, CI pipelines, CLI tools, web UIs, data infrastructure
 level: 
-render_hash: e7b67845
+render_hash: 346ade5f
 -->
 
 # Member of Technical Staff, DX & Data Tooling Engineer
@@ -19,7 +19,9 @@ render_hash: e7b67845
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic**  
 San Francisco · On-site
 
-_Build and maintain internal data tooling and infrastructure systems_
+_Build and maintain internal data tooling including dashboards, CLIs, and data exploration UIs_
+
+![build systems](https://img.shields.io/badge/build_systems-3B82F6?style=flat-square) ![CI pipelines](https://img.shields.io/badge/CI_pipelines-3B82F6?style=flat-square) ![CLI tools](https://img.shields.io/badge/CLI_tools-3B82F6?style=flat-square) ![web UIs](https://img.shields.io/badge/web_UIs-3B82F6?style=flat-square) ![data infrastructure](https://img.shields.io/badge/data_infrastructure-3B82F6?style=flat-square)
 
 <sub>Posted February 27, 2026</sub>
 

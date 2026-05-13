@@ -11,7 +11,7 @@ url: https://jobs.lever.co/loftorbital/6a588112-01a4-425b-8ec8-90a57866a0df
 summary: Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution.
 skills: 
 level: 
-render_hash: 27be178c
+render_hash: b676fddd
 -->
 
 # Customer Delivery Engineer

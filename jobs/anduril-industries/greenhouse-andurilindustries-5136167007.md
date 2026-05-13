@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5136167007?gh_jid=51361
 summary: Lead the development of security tooling and set technical direction for security features across Anduril's products. Implement critical security components in collaboration with engineering teams.
 skills: C/C++, Golang, Rust, Python, Linux
 level: manager
-render_hash: 499d492f
+render_hash: 7fe74bdc
 -->
 
 # Manager, Security Software Engineering

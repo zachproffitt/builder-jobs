@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6
 summary: Build the agent loop and tool use infrastructure for Devin
 skills: Python, TypeScript, React
 level: senior
-render_hash: 5d2c66fc
+render_hash: 84031dd5
 -->
 
 # Product Engineer

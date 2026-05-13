@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2025-04-30
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/bbef339c-3365-40df-804b-ece245386b43
-summary: Implement security automation and tooling for CI/CD pipelines and AI-based solutions
-skills: DevOps tools, scripting languages, CI/CD pipelines
+summary: Build and maintain security automation tools and integrate them into CI/CD pipelines.
+skills: DevOps tools, scripting, secure coding practices, cloud security platforms (AWS, Azure, GCP), threat modeling
 level: 
-render_hash: 4bbdbb3d
+render_hash: 569101f5
 -->
 
 # Security Engineer
@@ -19,9 +19,9 @@ render_hash: 4bbdbb3d
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra**  
 San Francisco, CA · On-site
 
-_Implement security automation and tooling for CI/CD pipelines and AI-based solutions_
+_Build and maintain security automation tools and integrate them into CI/CD pipelines._
 
-![DevOps tools](https://img.shields.io/badge/DevOps_tools-3B82F6?style=flat-square) ![scripting languages](https://img.shields.io/badge/scripting_languages-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
+![DevOps tools](https://img.shields.io/badge/DevOps_tools-3B82F6?style=flat-square) ![scripting](https://img.shields.io/badge/scripting-3B82F6?style=flat-square) ![secure coding practices](https://img.shields.io/badge/secure_coding_practices-3B82F6?style=flat-square) ![cloud security platforms (AWS, Azure, GCP)](https://img.shields.io/badge/cloud_security_platforms_%28AWS%2C_Azure%2C_GCP%29-3B82F6?style=flat-square) ![threat modeling](https://img.shields.io/badge/threat_modeling-3B82F6?style=flat-square)
 
 <sub>Posted April 30, 2025</sub>
 

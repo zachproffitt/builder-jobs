@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/56
 summary: Build and optimize peer-to-peer PCIe communication systems using DPDK.
 skills: DPDK, C/C++, PCIe communication, TCP/IP, UDP
 level: staff
-render_hash: eadba625
+render_hash: 246508e6
 -->
 
 # Staff Software Engineer - DPDK

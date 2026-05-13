@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
 summary: Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments.
 skills: Golang, React
 level: 
-render_hash: 21bfa58a
+render_hash: e552b5fc
 -->
 
 # Full-Stack Software Engineer, Inference

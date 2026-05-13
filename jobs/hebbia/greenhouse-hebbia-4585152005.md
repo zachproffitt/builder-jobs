@@ -8,20 +8,20 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/hebbia/jobs/4585152005
-summary: Build and maintain the custom multi-agent framework for agentic systems.
-skills: distributed systems, asynchronous DAG orchestrator, LLM inference engine
-level: 
-render_hash: af0b1612
+summary: Build and maintain agentic systems and distributed infrastructure for Hebbia's AI platform.
+skills: distributed systems, LLM inference engines, asynchronous DAG orchestrators, private data retrieval systems, agentic frameworks
+level: senior
+render_hash: a70e69bd
 -->
 
 # Applied Research Engineer, Agents
 
 <img src="https://www.google.com/s2/favicons?domain=hebbia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Hebbia**  
-New York City; San Francisco, CA
+New York City; San Francisco, CA · `Senior`
 
-_Build and maintain the custom multi-agent framework for agentic systems._
+_Build and maintain agentic systems and distributed infrastructure for Hebbia's AI platform._
 
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![asynchronous DAG orchestrator](https://img.shields.io/badge/asynchronous_DAG_orchestrator-3B82F6?style=flat-square) ![LLM inference engine](https://img.shields.io/badge/LLM_inference_engine-3B82F6?style=flat-square)
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![LLM inference engines](https://img.shields.io/badge/LLM_inference_engines-3B82F6?style=flat-square) ![asynchronous DAG orchestrators](https://img.shields.io/badge/asynchronous_DAG_orchestrators-3B82F6?style=flat-square) ![private data retrieval systems](https://img.shields.io/badge/private_data_retrieval_systems-3B82F6?style=flat-square) ![agentic frameworks](https://img.shields.io/badge/agentic_frameworks-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

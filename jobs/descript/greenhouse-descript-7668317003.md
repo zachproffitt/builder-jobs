@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/descript/jobs/7668317003?gh_jid=7668317003
-summary: Own the frontend platform and design systems for Descript's client platform
-skills: React, React DevTools, performance profiling tools, GitHub Actions, design systems
+summary: Own the React codebase and design systems for the client platform
+skills: React, JavaScript, performance profiling tools, testing frameworks, design systems
 level: senior
-render_hash: 6574529d
+render_hash: 6d74b15e
 -->
 
 # Senior Software Engineer, Client Platform
@@ -19,9 +19,9 @@ render_hash: 6574529d
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript**  
 San Francisco, CA | Remote · `Senior` · `Remote`
 
-_Own the frontend platform and design systems for Descript's client platform_
+_Own the React codebase and design systems for the client platform_
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React DevTools](https://img.shields.io/badge/React_DevTools-3B82F6?style=flat-square) ![performance profiling tools](https://img.shields.io/badge/performance_profiling_tools-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![design systems](https://img.shields.io/badge/design_systems-3B82F6?style=flat-square)
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![performance profiling tools](https://img.shields.io/badge/performance_profiling_tools-3B82F6?style=flat-square) ![testing frameworks](https://img.shields.io/badge/testing_frameworks-3B82F6?style=flat-square) ![design systems](https://img.shields.io/badge/design_systems-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

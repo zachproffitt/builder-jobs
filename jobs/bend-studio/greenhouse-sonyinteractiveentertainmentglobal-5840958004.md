@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840958004
-summary: Build and maintain scalable telemetry solutions for PlayStation hardware and services.
+summary: Build and maintain scalable telemetry solutions for PlayStation experiences
 skills: TypeScript, JavaScript, React/ReactNative, Kubernetes, data management systems
 level: junior
-render_hash: 6d546872
+render_hash: c25c4d50
 -->
 
 # Software Engineer I
@@ -19,7 +19,7 @@ render_hash: 6d546872
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Los Angeles, CA · `Junior`
 
-_Build and maintain scalable telemetry solutions for PlayStation hardware and services._
+_Build and maintain scalable telemetry solutions for PlayStation experiences_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React/ReactNative](https://img.shields.io/badge/React%2FReactNative-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![data management systems](https://img.shields.io/badge/data_management_systems-3B82F6?style=flat-square)
 

@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://careers.withwaymo.com/jobs?gh_jid=7905643
 summary: Implement and scale the dynamic pricing engine to balance supply and demand. Develop ML models and optimization algorithms for real-time pricing.
-skills: C++, distributed systems, ML/optimization infrastructure, Python
+skills: backend, C++, distributed systems, ML/optimization infrastructure, Python
 level: senior
-render_hash: 53b52c57
+render_hash: 8d2757fe
 -->
 
 # Software Engineer, Marketplace Pricing
@@ -23,7 +23,7 @@ Mountain View, CA, United States   · `Senior`
 
 _Implement and scale the dynamic pricing engine to balance supply and demand. Develop ML models and optimization algorithms for real-time pricing._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ML/optimization infrastructure](https://img.shields.io/badge/ML%2Foptimization_infrastructure-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![backend](https://img.shields.io/badge/backend-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ML/optimization infrastructure](https://img.shields.io/badge/ML%2Foptimization_infrastructure-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

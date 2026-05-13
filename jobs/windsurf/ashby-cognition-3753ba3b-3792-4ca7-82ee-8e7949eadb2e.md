@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-03-31
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/3753ba3b-3792-4ca7-82ee-8e7949eadb2e
-summary: Build and maintain the data pipeline and integrations for the Finance and Accounting organization
+summary: Build and maintain the Finance and Accounting data stack, including ETL pipelines and reporting systems.
 skills: SQL, Python, dbt, Airflow, Metabase
 level: senior
-render_hash: 5df9804d
+render_hash: a7595208
 -->
 
 # Data Engineer, Finance
@@ -19,7 +19,7 @@ render_hash: 5df9804d
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
 San Francisco · `Senior` · On-site
 
-_Build and maintain the data pipeline and integrations for the Finance and Accounting organization_
+_Build and maintain the Finance and Accounting data stack, including ETL pipelines and reporting systems._
 
 ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Metabase](https://img.shields.io/badge/Metabase-3B82F6?style=flat-square)
 

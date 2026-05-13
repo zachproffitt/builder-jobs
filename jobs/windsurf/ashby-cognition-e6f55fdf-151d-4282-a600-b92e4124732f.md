@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2026-02-27
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/e6f55fdf-151d-4282-a600-b92e4124732f
-summary: Own end-to-end test strategies for AI workflows in Devin and Windsurf
-skills: Python, TypeScript, CI/CD, test automation frameworks, functional testing
+summary: Build and maintain scalable QA automation processes for AI workflows
+skills: Python, TypeScript, test automation frameworks, CI/CD, bug tracking tools
 level: senior
-render_hash: ce0445d2
+render_hash: 940bbc68
 -->
 
 # QA Engineer - APAC
@@ -19,9 +19,9 @@ render_hash: ce0445d2
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
 India · `Senior` · `Remote`
 
-_Own end-to-end test strategies for AI workflows in Devin and Windsurf_
+_Build and maintain scalable QA automation processes for AI workflows_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![test automation frameworks](https://img.shields.io/badge/test_automation_frameworks-3B82F6?style=flat-square) ![functional testing](https://img.shields.io/badge/functional_testing-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![test automation frameworks](https://img.shields.io/badge/test_automation_frameworks-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![bug tracking tools](https://img.shields.io/badge/bug_tracking_tools-3B82F6?style=flat-square)
 
 <sub>Posted February 27, 2026</sub>
 

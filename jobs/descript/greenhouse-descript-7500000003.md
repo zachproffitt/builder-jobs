@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/descript/jobs/7500000003?gh_jid=7500000003
 summary: Own and improve the core production infrastructure
 skills: TypeScript, Kubernetes, Google Cloud Platform, Terraform, Linux systems administration
 level: senior
-render_hash: 5c7ac1e1
+render_hash: 034b212c
 -->
 
 # Senior Infrastructure Engineer

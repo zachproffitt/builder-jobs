@@ -9,9 +9,9 @@ posted_at: 2026-05-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/ScribdInc/df3f9e47-6df4-4ae6-be4a-cba1de5a36de
 summary: Build and maintain the content ingestion pipelines and metadata services for Scribd's content foundations.
-skills: Ruby on Rails, Python
+skills: Ruby on Rails, Python, ML/LLM systems, data observability tools, asynchronous pipelines
 level: senior
-render_hash: 87362d6a
+render_hash: a72a2c51
 -->
 
 # Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations
@@ -23,7 +23,7 @@ San Francisco · `Senior`
 
 _Build and maintain the content ingestion pipelines and metadata services for Scribd's content foundations._
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![ML/LLM systems](https://img.shields.io/badge/ML%2FLLM_systems-3B82F6?style=flat-square) ![data observability tools](https://img.shields.io/badge/data_observability_tools-3B82F6?style=flat-square) ![asynchronous pipelines](https://img.shields.io/badge/asynchronous_pipelines-3B82F6?style=flat-square)
 
 <sub>Posted May 12, 2026</sub>
 

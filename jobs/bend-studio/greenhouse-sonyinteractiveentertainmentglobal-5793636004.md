@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5793636004
-summary: Develop and implement spatial audio algorithms for 3D audio and virtual reality systems.
+summary: Develop and implement spatial audio algorithms for 3D audio and virtual reality systems
 skills: C, C++, Python, Git, VST Development
 level: senior
-render_hash: b902a0d1
+render_hash: 601ef364
 -->
 
 # Sr Software Engineer (Audio)
@@ -19,7 +19,7 @@ render_hash: b902a0d1
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Senior`
 
-_Develop and implement spatial audio algorithms for 3D audio and virtual reality systems._
+_Develop and implement spatial audio algorithms for 3D audio and virtual reality systems_
 
 ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![VST Development](https://img.shields.io/badge/VST_Development-3B82F6?style=flat-square)
 

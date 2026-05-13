@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5841158004
-summary: Build and maintain scalable CI/CD pipelines for PlayStation platforms
-skills: Jenkins, GitHub Actions, Docker, Linux-based build environments, Kubernetes (preferred)
+summary: Design, develop, and maintain scalable CI/CD pipelines across platforms
+skills: Jenkins, GitHub Actions, Docker, Linux, Kubernetes
 level: senior
-render_hash: b342e6fe
+render_hash: a501d7a7
 -->
 
 # Software Engineer - Build & Tools
@@ -19,9 +19,9 @@ render_hash: b342e6fe
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Canada, Waterloo, ON · `Senior`
 
-_Build and maintain scalable CI/CD pipelines for PlayStation platforms_
+_Design, develop, and maintain scalable CI/CD pipelines across platforms_
 
-![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Linux-based build environments](https://img.shields.io/badge/Linux--based_build_environments-3B82F6?style=flat-square) ![Kubernetes (preferred)](https://img.shields.io/badge/Kubernetes_%28preferred%29-3B82F6?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

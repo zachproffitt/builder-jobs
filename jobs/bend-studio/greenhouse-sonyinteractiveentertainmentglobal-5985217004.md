@@ -10,14 +10,14 @@ first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985217004
 summary: Build and maintain JavaScript-based applications for PlayStation consoles, websites, and mobile apps.
 skills: JavaScript, React, React Native, unit tests, component tests
-level: mid
-render_hash: 67840510
+level: 
+render_hash: dcd8ae3e
 -->
 
 # Software Engineer II
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-United States, Madison, WI · `Mid`
+United States, Madison, WI
 
 _Build and maintain JavaScript-based applications for PlayStation consoles, websites, and mobile apps._
 

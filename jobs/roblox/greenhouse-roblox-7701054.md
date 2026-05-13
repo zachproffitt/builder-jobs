@@ -11,7 +11,7 @@ url: https://careers.roblox.com/jobs/7701054?gh_jid=7701054
 summary: Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
 skills: 
 level: 
-render_hash: 666b97b5
+render_hash: f9d97a75
 -->
 
 # Senior / Principal Data Scientist - Discovery

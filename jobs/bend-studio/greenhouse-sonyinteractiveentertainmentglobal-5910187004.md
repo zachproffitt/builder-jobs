@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5910187004
-summary: Build and maintain the AEM platform and Adobe Marketing Cloud tools for PlayStation.com
+summary: Develop and maintain the AEM platform and Adobe Marketing Cloud tools
 skills: AEM, Adobe Target, Adobe Analytics, web best practices, code reviews
 level: senior
-render_hash: 75712153
+render_hash: ef46a166
 -->
 
 # Senior Software Engineer / Web Developer (AEM)
@@ -19,7 +19,7 @@ render_hash: 75712153
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Ireland, Dublin · `Senior`
 
-_Build and maintain the AEM platform and Adobe Marketing Cloud tools for PlayStation.com_
+_Develop and maintain the AEM platform and Adobe Marketing Cloud tools_
 
 ![AEM](https://img.shields.io/badge/AEM-3B82F6?style=flat-square) ![Adobe Target](https://img.shields.io/badge/Adobe_Target-3B82F6?style=flat-square) ![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-3B82F6?style=flat-square) ![web best practices](https://img.shields.io/badge/web_best_practices-3B82F6?style=flat-square) ![code reviews](https://img.shields.io/badge/code_reviews-3B82F6?style=flat-square)
 

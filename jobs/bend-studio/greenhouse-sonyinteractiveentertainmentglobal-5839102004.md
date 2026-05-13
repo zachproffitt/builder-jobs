@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5839102004
-summary: Design and implement large-scale optimization models using Gurobi
-skills: Gurobi, OR-Tools
+summary: Build and maintain large-scale optimization systems using Gurobi and OR-Tools.
+skills: Gurobi, OR-Tools, Python (implied via ML model integration), optimization algorithms, predictive modeling
 level: senior
-render_hash: e0e142b6
+render_hash: 2f6ffc54
 -->
 
 # Senior Machine Learning Engineer , Optimisation (Gurobi)
@@ -19,9 +19,9 @@ render_hash: e0e142b6
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Ireland, Dublin · `Senior`
 
-_Design and implement large-scale optimization models using Gurobi_
+_Build and maintain large-scale optimization systems using Gurobi and OR-Tools._
 
-![Gurobi](https://img.shields.io/badge/Gurobi-3B82F6?style=flat-square) ![OR-Tools](https://img.shields.io/badge/OR--Tools-3B82F6?style=flat-square)
+![Gurobi](https://img.shields.io/badge/Gurobi-3B82F6?style=flat-square) ![OR-Tools](https://img.shields.io/badge/OR--Tools-3B82F6?style=flat-square) ![Python (implied via ML model integration)](https://img.shields.io/badge/Python_%28implied_via_ML_model_integration%29-3B82F6?style=flat-square) ![optimization algorithms](https://img.shields.io/badge/optimization_algorithms-3B82F6?style=flat-square) ![predictive modeling](https://img.shields.io/badge/predictive_modeling-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

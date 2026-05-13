@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5824107004
-summary: Build and maintain audio tools and middleware for PlayStation Studios
-skills: C++, C#, WPF, FMOD, Wwise
+summary: Build and maintain audio tools and middleware for PlayStation Studios.
+skills: C++, C#, WPF, Pro Tools, Sound Forge
 level: senior
-render_hash: ad84d73d
+render_hash: 3a8073c4
 -->
 
 # Audio Programmer
@@ -19,9 +19,9 @@ render_hash: ad84d73d
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Build and maintain audio tools and middleware for PlayStation Studios_
+_Build and maintain audio tools and middleware for PlayStation Studios._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![WPF](https://img.shields.io/badge/WPF-3B82F6?style=flat-square) ![FMOD](https://img.shields.io/badge/FMOD-3B82F6?style=flat-square) ![Wwise](https://img.shields.io/badge/Wwise-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![WPF](https://img.shields.io/badge/WPF-3B82F6?style=flat-square) ![Pro Tools](https://img.shields.io/badge/Pro_Tools-3B82F6?style=flat-square) ![Sound Forge](https://img.shields.io/badge/Sound_Forge-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

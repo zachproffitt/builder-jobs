@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/59
 summary: Develop and maintain automated tests for PlayStation® peripherals and firmware
 skills: C, Python, pytest, Appium, Git
 level: 
-render_hash: a42c7964
+render_hash: 034163c3
 -->
 
 # Software Development Engineer in Test Contractor (SDET Contractor)

@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/descript/jobs/7499700003?gh_jid=7499700003
-summary: Build and maintain the agentic video editing platform infrastructure and product experiences
+summary: Build and maintain the agentic video editing infrastructure and product experience
 skills: Typescript, React, RESTful APIs, Postgres, Redis
 level: senior
-render_hash: 5ec0d1de
+render_hash: eb0e4309
 -->
 
 # Senior Software Engineer, Agent 
@@ -19,7 +19,7 @@ render_hash: 5ec0d1de
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript**  
 San Francisco, CA | Remote · `Senior` · `Remote`
 
-_Build and maintain the agentic video editing platform infrastructure and product experiences_
+_Build and maintain the agentic video editing infrastructure and product experience_
 
 ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![Postgres](https://img.shields.io/badge/Postgres-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
 

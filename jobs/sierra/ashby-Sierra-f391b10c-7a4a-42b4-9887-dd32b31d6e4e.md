@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2025-06-04
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/f391b10c-7a4a-42b4-9887-dd32b31d6e4e
-summary: Own and maintain the frontend of the product and marketing surfaces
-skills: design systems, UI components, performance optimization, accessibility, internationalization
+summary: Own and maintain the frontend design system and user interfaces for the platform
+skills: 
 level: senior
-render_hash: 2f7e8c94
+render_hash: 6113861f
 -->
 
 # Software Engineer, Frontend
@@ -19,9 +19,7 @@ render_hash: 2f7e8c94
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra**  
 San Francisco, CA · `Senior` · On-site
 
-_Own and maintain the frontend of the product and marketing surfaces_
-
-![design systems](https://img.shields.io/badge/design_systems-3B82F6?style=flat-square) ![UI components](https://img.shields.io/badge/UI_components-3B82F6?style=flat-square) ![performance optimization](https://img.shields.io/badge/performance_optimization-3B82F6?style=flat-square) ![accessibility](https://img.shields.io/badge/accessibility-3B82F6?style=flat-square) ![internationalization](https://img.shields.io/badge/internationalization-3B82F6?style=flat-square)
+_Own and maintain the frontend design system and user interfaces for the platform_
 
 <sub>Posted June 4, 2025</sub>
 

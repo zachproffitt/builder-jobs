@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/57
 summary: Build and maintain front-end applications for PlayStation features across PS5, mobile, and other platforms.
 skills: React Native
 level: senior
-render_hash: 2eb0ec73
+render_hash: 3da86043
 -->
 
 # Senior Software Engineer (Frontend), Social

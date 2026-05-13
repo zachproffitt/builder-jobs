@@ -8,20 +8,20 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5891199004
-summary: Build and maintain AEM assets and sites, integrate Adobe Marketing Cloud tools, and optimize web performance.
-skills: AEM, Adobe Target, Adobe Analytics, SEO, A/B testing
-level: senior
-render_hash: 91e20717
+summary: Build and maintain AEM assets and sites, integrate Adobe Marketing Cloud tools.
+skills: AEM, Adobe Target, Adobe Analytics, web best practices (SEO, A/B testing), code reviews
+level: 
+render_hash: 95618213
 -->
 
 # Software Engineer (AEM)
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-Ireland, Dublin · `Senior`
+Ireland, Dublin
 
-_Build and maintain AEM assets and sites, integrate Adobe Marketing Cloud tools, and optimize web performance._
+_Build and maintain AEM assets and sites, integrate Adobe Marketing Cloud tools._
 
-![AEM](https://img.shields.io/badge/AEM-3B82F6?style=flat-square) ![Adobe Target](https://img.shields.io/badge/Adobe_Target-3B82F6?style=flat-square) ![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-3B82F6?style=flat-square) ![SEO](https://img.shields.io/badge/SEO-3B82F6?style=flat-square) ![A/B testing](https://img.shields.io/badge/A%2FB_testing-3B82F6?style=flat-square)
+![AEM](https://img.shields.io/badge/AEM-3B82F6?style=flat-square) ![Adobe Target](https://img.shields.io/badge/Adobe_Target-3B82F6?style=flat-square) ![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-3B82F6?style=flat-square) ![web best practices (SEO, A/B testing)](https://img.shields.io/badge/web_best_practices_%28SEO%2C_A%2FB_testing%29-3B82F6?style=flat-square) ![code reviews](https://img.shields.io/badge/code_reviews-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-05-09
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3
-summary: Build and maintain the CI/CD pipelines and deployment infrastructure for Devin and Windsurf
+summary: Own the deployment pipelines and infrastructure for Devin and Windsurf
 skills: cloud infrastructure, CI/CD pipelines, monitoring systems, observability tools, infrastructure as code
 level: senior
-render_hash: 6af86047
+render_hash: 6db8d263
 -->
 
 # Site Reliability Engineer
@@ -19,7 +19,7 @@ render_hash: 6af86047
 <img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
 San Francisco · `Senior` · On-site
 
-_Build and maintain the CI/CD pipelines and deployment infrastructure for Devin and Windsurf_
+_Own the deployment pipelines and infrastructure for Devin and Windsurf_
 
 ![cloud infrastructure](https://img.shields.io/badge/cloud_infrastructure-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square) ![monitoring systems](https://img.shields.io/badge/monitoring_systems-3B82F6?style=flat-square) ![observability tools](https://img.shields.io/badge/observability_tools-3B82F6?style=flat-square) ![infrastructure as code](https://img.shields.io/badge/infrastructure_as_code-3B82F6?style=flat-square)
 

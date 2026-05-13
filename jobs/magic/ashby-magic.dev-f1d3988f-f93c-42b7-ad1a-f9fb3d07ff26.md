@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2026-02-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/f1d3988f-f93c-42b7-ad1a-f9fb3d07ff26
-summary: Scale distributed training infrastructure for long-context models
-skills: distributed systems, GPU clusters, parallelism, ML systems, fault tolerance
+summary: Design and optimize distributed training systems for large-scale GPU clusters.
+skills: distributed systems, GPU clusters, fault tolerance, checkpointing, performance optimization
 level: senior
-render_hash: 5577c94d
+render_hash: 710745ef
 -->
 
 # Member of Technical Staff, Pre-training Systems
@@ -19,9 +19,9 @@ render_hash: 5577c94d
 <img src="https://www.google.com/s2/favicons?domain=magic.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Magic**  
 San Francisco · `Senior` · On-site
 
-_Scale distributed training infrastructure for long-context models_
+_Design and optimize distributed training systems for large-scale GPU clusters._
 
-![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![GPU clusters](https://img.shields.io/badge/GPU_clusters-3B82F6?style=flat-square) ![parallelism](https://img.shields.io/badge/parallelism-3B82F6?style=flat-square) ![ML systems](https://img.shields.io/badge/ML_systems-3B82F6?style=flat-square) ![fault tolerance](https://img.shields.io/badge/fault_tolerance-3B82F6?style=flat-square)
+![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![GPU clusters](https://img.shields.io/badge/GPU_clusters-3B82F6?style=flat-square) ![fault tolerance](https://img.shields.io/badge/fault_tolerance-3B82F6?style=flat-square) ![checkpointing](https://img.shields.io/badge/checkpointing-3B82F6?style=flat-square) ![performance optimization](https://img.shields.io/badge/performance_optimization-3B82F6?style=flat-square)
 
 <sub>Posted February 28, 2026</sub>
 

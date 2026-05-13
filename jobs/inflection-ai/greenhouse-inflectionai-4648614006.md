@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/inflectionai/jobs/4648614006?gh_jid=4648614006
 summary: Design and build feature-rich Android applications
 skills: Kotlin, Jetpack Compose
 level: senior
-render_hash: db0822e9
+render_hash: 732af2d1
 -->
 
 # Senior Android Engineer

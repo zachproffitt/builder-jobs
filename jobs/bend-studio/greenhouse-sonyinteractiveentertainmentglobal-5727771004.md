@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727771004
-summary: Build and maintain the PlayStation iOS app architecture and frameworks
-skills: Swift, C++, iOS APIs, Objective-C, SDKs
+summary: Build and maintain iOS frameworks and SDKs for PlayStation apps
+skills: Swift, C++, Objective-C, iOS APIs, SDKs
 level: staff
-render_hash: 832de2aa
+render_hash: 4255d6d8
 -->
 
 # Staff Software Engineer
@@ -19,9 +19,9 @@ render_hash: 832de2aa
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Mateo, CA · `Staff`
 
-_Build and maintain the PlayStation iOS app architecture and frameworks_
+_Build and maintain iOS frameworks and SDKs for PlayStation apps_
 
-![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![iOS APIs](https://img.shields.io/badge/iOS_APIs-3B82F6?style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-3B82F6?style=flat-square) ![SDKs](https://img.shields.io/badge/SDKs-3B82F6?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-3B82F6?style=flat-square) ![iOS APIs](https://img.shields.io/badge/iOS_APIs-3B82F6?style=flat-square) ![SDKs](https://img.shields.io/badge/SDKs-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

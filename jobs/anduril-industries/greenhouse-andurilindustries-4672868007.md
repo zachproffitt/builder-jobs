@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=46728
 summary: Build and maintain the foundational vehicle software stack for autonomous robotics systems like the Fury unmanned fighter jet and Barracuda. Develop software for vehicle control, networking, sensor integration, and telemetry.
 skills: Python, C++, Rust, Go, JavaScript
 level: 
-render_hash: 4af0d7cb
+render_hash: 5aa0ee10
 -->
 
 # Mission Software Engineer, Vehicle Software, GenSWE

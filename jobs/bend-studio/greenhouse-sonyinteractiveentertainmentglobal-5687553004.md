@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5687553004
-summary: Design and implement secure solutions for PlayStation applications and infrastructure.
-skills: cloud-native architectures, distributed systems
+summary: Design and implement secure solutions for PlayStation products
+skills: 
 level: senior
-render_hash: 5404b3b3
+render_hash: 105d51d6
 -->
 
 # Senior Application Security Engineer
@@ -19,9 +19,7 @@ render_hash: 5404b3b3
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States · `Senior` · `Remote`
 
-_Design and implement secure solutions for PlayStation applications and infrastructure._
-
-![cloud-native architectures](https://img.shields.io/badge/cloud--native_architectures-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square)
+_Design and implement secure solutions for PlayStation products_
 
 <sub>First seen May 13, 2026</sub>
 

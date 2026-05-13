@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/anthropic/jobs/5204401008
 summary: Own the technical strategy for Claude’s core chat surface on mobile, ensuring seamless integration with product and design teams.
 skills: iOS, Android, rendering, performance optimization, text handling
 level: staff
-render_hash: 5c9cee4b
+render_hash: 059bf8c0
 -->
 
 # Senior Staff Software Engineer

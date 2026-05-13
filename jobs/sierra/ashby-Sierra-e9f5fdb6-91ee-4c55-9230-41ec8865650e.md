@@ -8,10 +8,10 @@ remote: On-site
 posted_at: 2025-04-18
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e
-summary: Build and maintain production-grade AI agents for enterprise and startup clients.
+summary: Build and maintain production-grade AI agents for enterprise and startup clients
 skills: 
 level: 
-render_hash: 4bf558e3
+render_hash: a261a9b5
 -->
 
 # Software Engineer, Agent
@@ -19,7 +19,7 @@ render_hash: 4bf558e3
 <img src="https://www.google.com/s2/favicons?domain=sierra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sierra**  
 San Francisco, CA · On-site
 
-_Build and maintain production-grade AI agents for enterprise and startup clients._
+_Build and maintain production-grade AI agents for enterprise and startup clients_
 
 <sub>Posted April 18, 2025</sub>
 

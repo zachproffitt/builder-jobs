@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/58
 summary: Manage and maintain large-scale Ceph storage solutions
 skills: Ceph, Rook, Kubernetes, Bash, Python
 level: senior
-render_hash: 2b11fce0
+render_hash: eee29138
 -->
 
 # Senior Storage Platform Engineer

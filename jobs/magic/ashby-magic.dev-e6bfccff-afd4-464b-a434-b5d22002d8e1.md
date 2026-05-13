@@ -11,7 +11,7 @@ url: https://jobs.ashbyhq.com/magic.dev/e6bfccff-afd4-464b-a434-b5d22002d8e1
 summary: Build and maintain web applications and developer-facing tools powered by long-context models
 skills: 
 level: 
-render_hash: 9474b439
+render_hash: 7d775fa1
 -->
 
 # Member of Technical Staff, Product

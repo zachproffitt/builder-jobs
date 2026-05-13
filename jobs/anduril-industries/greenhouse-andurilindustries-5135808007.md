@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5135808007?gh_jid=51358
 summary: Design and implement test strategies for AI-enabled software and agentic workflows on CorpOS and ArsenalOS. Build automated testing and observability systems to ensure reliability and resiliency in AI-first development.
 skills: 
 level: senior
-render_hash: 7229c86b
+render_hash: 3459bf20
 -->
 
 # Senior Quality Engineer, Applied AI

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969109004
-summary: Design and implement scalable cloud gaming infrastructure
-skills: Python, Bash, Go, Java, C++
+summary: Ensure the stability and scalability of the cloud gaming platform
+skills: Python, Go, Bash, Linux, Web Services
 level: senior
-render_hash: 42a25074
+render_hash: c0246dbd
 -->
 
 # Senior Service Reliability Engineer 
@@ -19,9 +19,9 @@ render_hash: 42a25074
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Aliso Viejo, CA · `Senior`
 
-_Design and implement scalable cloud gaming infrastructure_
+_Ensure the stability and scalability of the cloud gaming platform_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Web Services](https://img.shields.io/badge/Web_Services-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

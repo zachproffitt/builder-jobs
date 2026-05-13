@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5732890004
 summary: Build and maintain high-quality front-end applications for PlayStation features across multiple platforms.
-skills: React Native, unit tests, component tests, MVC, MVVM, MVP
+skills: React Native, MVC, MVVM, MVP, unit tests, component tests
 level: senior
-render_hash: c2c9a1ae
+render_hash: 5b588c91
 -->
 
 # Senior Software Engineer (Frontend), Social
@@ -21,7 +21,7 @@ United States, San Diego, CA · `Senior`
 
 _Build and maintain high-quality front-end applications for PlayStation features across multiple platforms._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![unit tests](https://img.shields.io/badge/unit_tests-3B82F6?style=flat-square) ![component tests](https://img.shields.io/badge/component_tests-3B82F6?style=flat-square) ![MVC](https://img.shields.io/badge/MVC-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![MVP](https://img.shields.io/badge/MVP-3B82F6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![MVC](https://img.shields.io/badge/MVC-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![MVP](https://img.shields.io/badge/MVP-3B82F6?style=flat-square) ![unit tests](https://img.shields.io/badge/unit_tests-3B82F6?style=flat-square) ![component tests](https://img.shields.io/badge/component_tests-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

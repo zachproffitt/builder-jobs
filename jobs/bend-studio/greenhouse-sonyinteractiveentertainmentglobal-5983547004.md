@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/59
 summary: Build and maintain JavaScript-based web features for PlayStation ecosystem
 skills: JavaScript, React, React Native, unit testing, pull request reviews
 level: mid
-render_hash: e97b9d5a
+render_hash: 83c40b38
 -->
 
 # Software Engineer II, Contractor

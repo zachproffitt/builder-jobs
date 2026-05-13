@@ -11,7 +11,7 @@ url: https://epicgames.com/careers/jobs/5994979004?gh_jid=5994979004
 summary: Architect and implement low-level engine systems including Scene Graph, networking, analytics, and the language toolchain. Design stable APIs for Verse integration.
 skills: C++, AI-assisted development tools, language toolchain
 level: senior
-render_hash: 47b421f5
+render_hash: b1e10230
 -->
 
 # Senior Engine Programmer, Verse Framework

@@ -11,7 +11,7 @@ url: https://motional.com/open-positions/?gh_jid=7730335003#/7730335003
 summary: Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters.
 skills: 
 level: 
-render_hash: 22b536dc
+render_hash: e9ae3058
 -->
 
 # Staff Machine Learning Engineer

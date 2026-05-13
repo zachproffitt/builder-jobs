@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/55
 summary: Build and validate CLV and Next Best Action models using machine learning techniques to influence player engagement strategies.
 skills: 
 level: 
-render_hash: 5fc2683f
+render_hash: e26bc8e5
 -->
 
 # Data Scientist – CLV & Next Best Action

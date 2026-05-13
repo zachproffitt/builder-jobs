@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004
 summary: Build and maintain end-to-end motion data pipelines integrating mocap, game engines, and generative AI models. Develop tools for kinematic retargeting and trajectory synthesis for humanoid robot reinforcement learning.
 skills: Unreal Engine, Unity, GMR, Omni-retarget, physics simulators
 level: 
-render_hash: cd172519
+render_hash: d1acad98
 -->
 
 # Software Engineer - Human Motion Data

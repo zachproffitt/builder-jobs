@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840954004
-summary: Build and maintain scalable telemetry applications
-skills: TypeScript, JavaScript, React/ReactNative, Kubernetes, data management systems
+summary: Build and maintain scalable telemetry applications for PlayStation
+skills: TypeScript, JavaScript, React/ReactNative, Kubernetes, C++
 level: junior
-render_hash: 725639a6
+render_hash: 86744ae6
 -->
 
 # Software Engineer I
@@ -19,9 +19,9 @@ render_hash: 725639a6
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, Madison, WI · `Junior`
 
-_Build and maintain scalable telemetry applications_
+_Build and maintain scalable telemetry applications for PlayStation_
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React/ReactNative](https://img.shields.io/badge/React%2FReactNative-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![data management systems](https://img.shields.io/badge/data_management_systems-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React/ReactNative](https://img.shields.io/badge/React%2FReactNative-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

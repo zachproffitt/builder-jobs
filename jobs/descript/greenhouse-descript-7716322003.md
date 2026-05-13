@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/descript/jobs/7716322003?gh_jid=7716322003
-summary: Build and maintain the marketing website platform and reusable frontend components.
-skills: HTML, CSS, headless CMS (Contentful, Builder.io), visual editor tools, A/B testing setup
+summary: Own and maintain the marketing website and CMS platform
+skills: HTML, CSS, headless CMS (Contentful, Builder.io), JavaScript (implied by frontend work), A/B testing tools
 level: senior
-render_hash: 5cfaf0e0
+render_hash: a09dc6b5
 -->
 
 # Senior Frontend Engineer, Marketing Web
@@ -19,9 +19,9 @@ render_hash: 5cfaf0e0
 <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Descript**  
 San Francisco, CA | Remote · `Senior` · `Remote`
 
-_Build and maintain the marketing website platform and reusable frontend components._
+_Own and maintain the marketing website and CMS platform_
 
-![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![headless CMS (Contentful, Builder.io)](https://img.shields.io/badge/headless_CMS_%28Contentful%2C_Builder.io%29-3B82F6?style=flat-square) ![visual editor tools](https://img.shields.io/badge/visual_editor_tools-3B82F6?style=flat-square) ![A/B testing setup](https://img.shields.io/badge/A%2FB_testing_setup-3B82F6?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![headless CMS (Contentful, Builder.io)](https://img.shields.io/badge/headless_CMS_%28Contentful%2C_Builder.io%29-3B82F6?style=flat-square) ![JavaScript (implied by frontend work)](https://img.shields.io/badge/JavaScript_%28implied_by_frontend_work%29-3B82F6?style=flat-square) ![A/B testing tools](https://img.shields.io/badge/A%2FB_testing_tools-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

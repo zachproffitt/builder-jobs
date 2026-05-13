@@ -8,18 +8,18 @@ remote: Remote
 posted_at: 2026-03-06
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/d5a38f47-cd16-4e10-818d-45a4f845b529
-summary: Build and maintain large-scale data pipelines for video generation models.
+summary: Build and maintain large-scale data pipelines for video generation models
 skills: PyTorch, diffusion models, DiT, ControlNet, FSDP
-level: 
-render_hash: 2df61b66
+level: senior
+render_hash: e5720997
 -->
 
 # Research Engineer, Multimodal
 
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
-Redwood City, CA · `Remote`
+Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain large-scale data pipelines for video generation models._
+_Build and maintain large-scale data pipelines for video generation models_
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![diffusion models](https://img.shields.io/badge/diffusion_models-3B82F6?style=flat-square) ![DiT](https://img.shields.io/badge/DiT-3B82F6?style=flat-square) ![ControlNet](https://img.shields.io/badge/ControlNet-3B82F6?style=flat-square) ![FSDP](https://img.shields.io/badge/FSDP-3B82F6?style=flat-square)
 

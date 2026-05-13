@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5820437004
-summary: Design and develop scalable distributed services for the accounts platform
-skills: AWS services (EC2, EKS, S3, Kinesis, Glue, Lambda, SQS, SNS, DynamoDB), Java, J2EE, REST, JSON/XML, Spring, Tomcat, Reactor Netty, JAXRS
+summary: Design and develop highly scalable, distributed services for the next-generation accounts platform.
+skills: Java, EC2, S3, Lambda, REST
 level: senior
-render_hash: 35744b15
+render_hash: 58f57706
 -->
 
 # Sr. Software Engineer
@@ -19,9 +19,9 @@ render_hash: 35744b15
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Diego, CA · `Senior`
 
-_Design and develop scalable distributed services for the accounts platform_
+_Design and develop highly scalable, distributed services for the next-generation accounts platform._
 
-![AWS services (EC2, EKS, S3, Kinesis, Glue, Lambda, SQS, SNS, DynamoDB)](https://img.shields.io/badge/AWS_services_%28EC2%2C_EKS%2C_S3%2C_Kinesis%2C_Glue%2C_Lambda%2C_SQS%2C_SNS%2C_DynamoDB%29-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![J2EE](https://img.shields.io/badge/J2EE-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![JSON/XML](https://img.shields.io/badge/JSON%2FXML-3B82F6?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-3B82F6?style=flat-square) ![Tomcat](https://img.shields.io/badge/Tomcat-3B82F6?style=flat-square) ![Reactor Netty](https://img.shields.io/badge/Reactor_Netty-3B82F6?style=flat-square) ![JAXRS](https://img.shields.io/badge/JAXRS-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![Lambda](https://img.shields.io/badge/Lambda-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

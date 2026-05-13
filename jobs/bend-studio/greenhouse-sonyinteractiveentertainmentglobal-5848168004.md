@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5848168004
-summary: Build and maintain the research toolsets and infrastructure for PlayStation Studios User Research
-skills: PHP, JavaScript, React, relational databases, AWS
+summary: Build and maintain the research toolset infrastructure
+skills: PHP, JS, React, relational databases, AWS
 level: senior
-render_hash: 22c10cef
+render_hash: 79831a09
 -->
 
 # Senior Technical Operations Developer
@@ -19,9 +19,9 @@ render_hash: 22c10cef
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom, London · `Senior`
 
-_Build and maintain the research toolsets and infrastructure for PlayStation Studios User Research_
+_Build and maintain the research toolset infrastructure_
 
-![PHP](https://img.shields.io/badge/PHP-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![relational databases](https://img.shields.io/badge/relational_databases-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-3B82F6?style=flat-square) ![JS](https://img.shields.io/badge/JS-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![relational databases](https://img.shields.io/badge/relational_databases-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

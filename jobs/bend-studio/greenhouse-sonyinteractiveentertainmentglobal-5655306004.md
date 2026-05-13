@@ -8,10 +8,10 @@ remote: Remote
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5655306004
-summary: Build and maintain AI-powered engine/editor plugins and SDKs for game development.
-skills: C++ (C++17/20), CI/CD, gRPC/HTTP, UBT, C++/C API
+summary: Build and maintain AI-powered tools and integrations for game engines and backend services
+skills: C++, C++17/20, gRPC/HTTP, CI/CD, testing frameworks
 level: staff
-render_hash: c36e4bb7
+render_hash: 2ebf8a41
 -->
 
 # Staff Software Engineer - AI Tools
@@ -19,9 +19,9 @@ render_hash: c36e4bb7
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United Kingdom · `Staff` · `Remote`
 
-_Build and maintain AI-powered engine/editor plugins and SDKs for game development._
+_Build and maintain AI-powered tools and integrations for game engines and backend services_
 
-![C++ (C++17/20)](https://img.shields.io/badge/C%2B%2B_%28C%2B%2B17%2F20%29-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![gRPC/HTTP](https://img.shields.io/badge/gRPC%2FHTTP-3B82F6?style=flat-square) ![UBT](https://img.shields.io/badge/UBT-3B82F6?style=flat-square) ![C++/C API](https://img.shields.io/badge/C%2B%2B%2FC_API-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C++17/20](https://img.shields.io/badge/C%2B%2B17%2F20-3B82F6?style=flat-square) ![gRPC/HTTP](https://img.shields.io/badge/gRPC%2FHTTP-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![testing frameworks](https://img.shields.io/badge/testing_frameworks-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5728840004
-summary: Develop and maintain RESTful API endpoints and dynamic web applications.
-skills: Java, Go, Python, React, TypeScript, Docker, Kubernetes, CI/CD pipelines
+summary: Build and maintain full-stack web applications and RESTful APIs for PlayStation in-house tools.
+skills: Java, Go, Python, React, Docker
 level: senior
-render_hash: f81620af
+render_hash: 5b8034dc
 -->
 
 # Software Engineer
@@ -19,9 +19,9 @@ render_hash: f81620af
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Ireland, Dublin · `Senior`
 
-_Develop and maintain RESTful API endpoints and dynamic web applications._
+_Build and maintain full-stack web applications and RESTful APIs for PlayStation in-house tools._
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD pipelines](https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -8,10 +8,10 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5798614004
-summary: Develop and implement DRM and security solutions for Android mobile platforms.
-skills: C++, Android, Java, Kotlin, Android Studio
+summary: Develop and implement DRM and security solutions for mobile platforms
+skills: C++, Android/AOSP, Java, Kotlin, TrustZone, WideVine, PlayReady
 level: senior
-render_hash: b009c493
+render_hash: 9956c0f9
 -->
 
 # Mobile Security Engineer (Android)
@@ -19,9 +19,9 @@ render_hash: b009c493
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 United States, San Diego, CA · `Senior`
 
-_Develop and implement DRM and security solutions for Android mobile platforms._
+_Develop and implement DRM and security solutions for mobile platforms_
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Android/AOSP](https://img.shields.io/badge/Android%2FAOSP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![TrustZone](https://img.shields.io/badge/TrustZone-3B82F6?style=flat-square) ![WideVine](https://img.shields.io/badge/WideVine-3B82F6?style=flat-square) ![PlayReady](https://img.shields.io/badge/PlayReady-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

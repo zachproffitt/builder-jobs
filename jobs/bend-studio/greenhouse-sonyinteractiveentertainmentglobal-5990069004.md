@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5990069004
 summary: Build and maintain cloud security tools and infrastructure for PlayStation's distributed systems.
-skills: Istio, Kong, cert-manager, Kubernetes, mTLS
+skills: Istio, Kong, Amazon API Gateway, cert-manager, Kubernetes
 level: senior
-render_hash: feb9bb1a
+render_hash: 6c27312d
 -->
 
 # Cloud Security Engineer
@@ -21,7 +21,7 @@ United States, San Diego, CA · `Senior`
 
 _Build and maintain cloud security tools and infrastructure for PlayStation's distributed systems._
 
-![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Kong](https://img.shields.io/badge/Kong-3B82F6?style=flat-square) ![cert-manager](https://img.shields.io/badge/cert--manager-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS-3B82F6?style=flat-square)
+![Istio](https://img.shields.io/badge/Istio-3B82F6?style=flat-square) ![Kong](https://img.shields.io/badge/Kong-3B82F6?style=flat-square) ![Amazon API Gateway](https://img.shields.io/badge/Amazon_API_Gateway-3B82F6?style=flat-square) ![cert-manager](https://img.shields.io/badge/cert--manager-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

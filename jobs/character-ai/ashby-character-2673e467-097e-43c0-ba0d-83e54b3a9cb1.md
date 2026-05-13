@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2026-01-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/2673e467-097e-43c0-ba0d-83e54b3a9cb1
-summary: Build and maintain data pipelines and infrastructure for AI platforms.
-skills: Python, SQL, Spark, Beam, Terraform
+summary: Build and maintain data pipelines for AI model training and infrastructure.
+skills: Python, SQL, Big Query, Spark, Golang
 level: senior
-render_hash: 04f7dfe2
+render_hash: b25acf69
 -->
 
 # Software Engineer, AI Platform (All Industry Levels)
@@ -19,9 +19,9 @@ render_hash: 04f7dfe2
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
 Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain data pipelines and infrastructure for AI platforms._
+_Build and maintain data pipelines for AI model training and infrastructure._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Beam](https://img.shields.io/badge/Beam-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Big Query](https://img.shields.io/badge/Big_Query-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square)
 
 <sub>Posted January 12, 2026</sub>
 

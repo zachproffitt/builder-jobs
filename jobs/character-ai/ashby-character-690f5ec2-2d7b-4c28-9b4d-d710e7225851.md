@@ -8,10 +8,10 @@ remote: Remote
 posted_at: 2026-01-07
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/690f5ec2-2d7b-4c28-9b4d-d710e7225851
-summary: Build and maintain backend systems for safety and integrity features using applied machine learning.
-skills: machine learning models, distributed systems design, data engineering
+summary: Build and maintain scalable backend systems for safety and integrity features
+skills: Python, machine learning models, distributed systems, data engineering, ML pipelines
 level: senior
-render_hash: dba28041
+render_hash: 3ed6b386
 -->
 
 # Software Engineer, Backend/Applied ML (Safety & Integrity)
@@ -19,9 +19,9 @@ render_hash: dba28041
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
 Redwood City, CA · `Senior` · `Remote`
 
-_Build and maintain backend systems for safety and integrity features using applied machine learning._
+_Build and maintain scalable backend systems for safety and integrity features_
 
-![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![distributed systems design](https://img.shields.io/badge/distributed_systems_design-3B82F6?style=flat-square) ![data engineering](https://img.shields.io/badge/data_engineering-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![machine learning models](https://img.shields.io/badge/machine_learning_models-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![data engineering](https://img.shields.io/badge/data_engineering-3B82F6?style=flat-square) ![ML pipelines](https://img.shields.io/badge/ML_pipelines-3B82F6?style=flat-square)
 
 <sub>Posted January 7, 2026</sub>
 

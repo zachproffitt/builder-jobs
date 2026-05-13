@@ -9,9 +9,9 @@ posted_at: 2024-01-24
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/bcc8d988-47ea-4089-9619-80260abb71b5
 summary: Build and maintain internet-scale data pipelines and research frameworks
-skills: large GPU clusters, distributed systems, ETL workloads
+skills: PyTorch, Python, large GPU clusters, distributed systems, ETL workflows
 level: senior
-render_hash: 6e742b68
+render_hash: 5b8c1637
 -->
 
 # Research Engineer
@@ -21,7 +21,7 @@ San Francisco · `Senior` · On-site
 
 _Build and maintain internet-scale data pipelines and research frameworks_
 
-![large GPU clusters](https://img.shields.io/badge/large_GPU_clusters-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ETL workloads](https://img.shields.io/badge/ETL_workloads-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![large GPU clusters](https://img.shields.io/badge/large_GPU_clusters-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ETL workflows](https://img.shields.io/badge/ETL_workflows-3B82F6?style=flat-square)
 
 <sub>Posted January 24, 2024</sub>
 

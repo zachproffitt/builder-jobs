@@ -11,7 +11,7 @@ url: https://nuro.ai/careersitem?gh_jid=7917839
 summary: Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure.
 skills: React, TypeScript, RESTful/gRPC APIs, PostgreSQL, GCP/AWS
 level: 
-render_hash: c1294fde
+render_hash: 15b36507
 -->
 
 # Full Stack Software Engineer, Fleet Platform and Operations Tooling

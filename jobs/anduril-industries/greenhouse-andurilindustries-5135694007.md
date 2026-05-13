@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5135694007?gh_jid=51356
 summary: Implement high-performance software for tactical systems and web applications using C/C++ and Python.
 skills: C/C++, Python, NoSQL, machine learning, differential equations
 level: senior
-render_hash: 072b14e6
+render_hash: cdca6a60
 -->
 
 # Senior Software Engineer

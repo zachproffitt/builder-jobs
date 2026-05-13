@@ -8,20 +8,20 @@ remote: Remote
 posted_at: 2025-10-03
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/902c3060-f41f-4bb0-b23d-988055e94f3c
-summary: Build and optimize monetization features for payments and subscriptions.
-skills: React, React Native, Typescript, Python, Golang
-level: mid
-render_hash: f041aaf4
+summary: Build and optimize monetization features for payments, subscriptions, and in-app purchase systems.
+skills: Typescript, React, React Native, Python, Golang
+level: 
+render_hash: 202de936
 -->
 
 # Software Engineer, Monetization
 
 <img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Character.ai**  
-Redwood City, CA · `Mid` · `Remote`
+Redwood City, CA · `Remote`
 
-_Build and optimize monetization features for payments and subscriptions._
+_Build and optimize monetization features for payments, subscriptions, and in-app purchase systems._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square)
+![Typescript](https://img.shields.io/badge/Typescript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square)
 
 <sub>Posted October 3, 2025</sub>
 

@@ -11,7 +11,7 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5047082007?gh_jid=50470
 summary: Implement high-performance software spanning tactical systems to web applications and prototype state-of-the-art algorithms in agile development environments.
 skills: 
 level: 
-render_hash: 6e123203
+render_hash: bdcd50f4
 -->
 
 # Research Scientist

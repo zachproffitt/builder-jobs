@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/59
 summary: Develop and maintain automated testing scripts for AEM web applications.
 skills: Java, Selenium WebDriver, Cucumber, Jenkins, Maven
 level: senior
-render_hash: a40b6636
+render_hash: 7f4296a5
 -->
 
 # QA Automation Engineer

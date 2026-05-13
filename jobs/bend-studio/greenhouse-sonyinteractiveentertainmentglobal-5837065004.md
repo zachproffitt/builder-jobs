@@ -8,20 +8,20 @@ remote: Not specified
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5837065004
-summary: Design and implement high-quality rendering scenarios for graphics evaluation. Develop production-grade SDKs and tools for PlayStation.
-skills: C/C++, HLSL, GPU architecture, real-time rendering, shader development
-level: senior
-render_hash: 3cbf1d6e
+summary: Design and implement high-quality rendering scenarios for PlayStation SDKs
+skills: C/C++, HLSL, GPU architecture, Shader Model 6, GitHub
+level: 
+render_hash: a3e9b365
 -->
 
 # Graphics Engineer
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-United Kingdom, London · `Senior`
+United Kingdom, London
 
-_Design and implement high-quality rendering scenarios for graphics evaluation. Develop production-grade SDKs and tools for PlayStation._
+_Design and implement high-quality rendering scenarios for PlayStation SDKs_
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![GPU architecture](https://img.shields.io/badge/GPU_architecture-3B82F6?style=flat-square) ![real-time rendering](https://img.shields.io/badge/real--time_rendering-3B82F6?style=flat-square) ![shader development](https://img.shields.io/badge/shader_development-3B82F6?style=flat-square)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![GPU architecture](https://img.shields.io/badge/GPU_architecture-3B82F6?style=flat-square) ![Shader Model 6](https://img.shields.io/badge/Shader_Model_6-3B82F6?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

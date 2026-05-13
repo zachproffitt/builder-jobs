@@ -11,7 +11,7 @@ url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/59
 summary: Develop and maintain UI experiences for PlayStation products
 skills: JavaScript, React, TypeScript, Node.js, Jest
 level: mid
-render_hash: d0c3fecf
+render_hash: 0ff464ac
 -->
 
 # Software Engineer II

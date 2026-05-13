@@ -11,7 +11,7 @@ url: https://stripe.com/jobs/search?gh_jid=7913700
 summary: Build and maintain data pipelines, infrastructure, and tools using Spark, Scala, and Python to enable data-driven decision-making across Stripe.
 skills: Spark, Scala, Java, SQL, Python
 level: senior
-render_hash: 00240cec
+render_hash: 7db5042b
 -->
 
 # Backend Engineer, Data
