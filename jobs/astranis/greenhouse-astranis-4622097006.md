@@ -14,7 +14,7 @@ skills: Python, Postgres, RabbitMQ, Flink, Kubernetes
 level: 
 comp: 
 comp_extras: 
-render_hash: 8172d0ae
+render_hash: bf88d23b
 -->
 
 # Software Engineer - Backend (Platform)

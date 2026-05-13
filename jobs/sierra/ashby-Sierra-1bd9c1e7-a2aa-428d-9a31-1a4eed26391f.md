@@ -14,7 +14,7 @@ skills: Go, TypeScript, developer tooling
 level: senior
 comp: 
 comp_extras: 
-render_hash: 87d6fff6
+render_hash: d8698bab
 -->
 
 # Software Engineer, Voice

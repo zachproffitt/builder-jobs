@@ -14,7 +14,7 @@ skills: C/C++, real-time rendering, GPU technologies, PlayStation 5 graphics API
 level: senior
 comp: 
 comp_extras: 
-render_hash: 6876ee38
+render_hash: ba00a5e6
 -->
 
 # Senior Graphics Engineer

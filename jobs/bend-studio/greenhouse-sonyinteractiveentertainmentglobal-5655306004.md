@@ -14,7 +14,7 @@ skills: C++, C++17/20, gRPC/HTTP, CI/CD, testing frameworks
 level: staff
 comp: 
 comp_extras: 
-render_hash: 1a7322ed
+render_hash: 60e78784
 -->
 
 # Staff Software Engineer - AI Tools

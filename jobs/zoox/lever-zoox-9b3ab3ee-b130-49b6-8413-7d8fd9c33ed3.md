@@ -14,7 +14,7 @@ skills: vision-language models, multimodal transformers, audio-visual architectu
 level: 
 comp: 
 comp_extras: 
-render_hash: b8188850
+render_hash: 181e182b
 -->
 
 # PhD Research Intern, Visual Object Understanding

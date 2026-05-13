@@ -14,7 +14,7 @@ skills: SQL, Python
 level: senior
 comp: 
 comp_extras: 
-render_hash: a26b9946
+render_hash: 64956908
 -->
 
 # Senior Data Scientist -  Experimentation & Measurement 

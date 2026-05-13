@@ -14,7 +14,7 @@ skills: Python, C#, C++, Maya, state machines, blend trees, IK solvers
 level: senior
 comp: 
 comp_extras: 
-render_hash: d722ab74
+render_hash: b0c9a938
 -->
 
 # Senior Technical Gameplay Animator

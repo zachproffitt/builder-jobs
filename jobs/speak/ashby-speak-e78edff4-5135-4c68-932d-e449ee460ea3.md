@@ -14,7 +14,7 @@ skills: Python, PyTorch
 level: senior
 comp: 
 comp_extras: 
-render_hash: 58ca3f6d
+render_hash: 96ddcb04
 -->
 
 # Machine Learning Engineer, Voice

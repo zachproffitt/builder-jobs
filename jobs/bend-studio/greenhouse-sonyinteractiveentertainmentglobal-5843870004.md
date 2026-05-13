@@ -14,7 +14,7 @@ skills: Kong API Gateway, Istio, Linkerd, Kuma, GitOps
 level: senior
 comp: 
 comp_extras: 
-render_hash: 736bac09
+render_hash: 8a8f28d9
 -->
 
 # Site Reliability Engineer II

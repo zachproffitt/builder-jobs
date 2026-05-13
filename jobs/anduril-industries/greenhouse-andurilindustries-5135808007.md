@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: 63307f79
+render_hash: 4cd6c6a8
 -->
 
 # Senior Quality Engineer, Applied AI

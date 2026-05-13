@@ -14,7 +14,7 @@ skills: Python, C++, behavior trees, state machines, task planners
 level: staff
 comp: 
 comp_extras: 
-render_hash: fc6696dd
+render_hash: 37dca4a3
 -->
 
 # Staff Robotics Software Engineer, Robot Behaviors

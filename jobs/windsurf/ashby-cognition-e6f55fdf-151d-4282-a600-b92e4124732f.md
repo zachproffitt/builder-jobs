@@ -14,7 +14,7 @@ skills: Python, TypeScript, test automation frameworks, CI/CD, bug tracking tool
 level: senior
 comp: 
 comp_extras: 
-render_hash: 9a3793ac
+render_hash: 6ead072d
 -->
 
 # QA Engineer - APAC

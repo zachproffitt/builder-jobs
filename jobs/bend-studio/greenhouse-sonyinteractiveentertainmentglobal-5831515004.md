@@ -14,7 +14,7 @@ skills: PyTorch
 level: 
 comp: 
 comp_extras: 
-render_hash: 831b9f37
+render_hash: 48b2d66c
 -->
 
 # Deep Learning Engineer for Game Technology

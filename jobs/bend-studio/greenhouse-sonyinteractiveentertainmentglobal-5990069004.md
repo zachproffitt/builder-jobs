@@ -14,7 +14,7 @@ skills: Istio, Kong, Amazon API Gateway, cert-manager, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: d0de697b
+render_hash: e7965162
 -->
 
 # Cloud Security Engineer

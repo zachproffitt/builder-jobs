@@ -14,7 +14,7 @@ skills: Python, Golang, AWS, Terraform, Claude Code
 level: principal
 comp: 
 comp_extras: 
-render_hash: db3bea95
+render_hash: a5dfcf1b
 -->
 
 # Principal Engineer

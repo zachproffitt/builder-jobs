@@ -14,7 +14,7 @@ skills: Knowledge Graphs, Vector Databases, RAG systems, Ground Truth Data label
 level: 
 comp: 
 comp_extras: 
-render_hash: f03258a2
+render_hash: bcbe092f
 -->
 
 # Senior AI Platform Engineer - Agentic Systems

@@ -14,7 +14,7 @@ skills: Python, C++, JavaScript, Jenkins, GitHub Actions
 level: mid
 comp: 
 comp_extras: 
-render_hash: 4296dffd
+render_hash: bccc8b88
 -->
 
 # Software Engineer II

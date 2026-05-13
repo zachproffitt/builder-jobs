@@ -14,7 +14,7 @@ skills: C, C++
 level: staff
 comp: 
 comp_extras: 
-render_hash: c2ed2ada
+render_hash: b1e9799d
 -->
 
 # Staff Software Engineer

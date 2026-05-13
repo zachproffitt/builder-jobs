@@ -14,7 +14,7 @@ skills: Salesforce, Outreach, Gong, Apollo, Clay, Claude
 level: senior
 comp: 
 comp_extras: 
-render_hash: cf466ff1
+render_hash: 518fbdb6
 -->
 
 # GTM Engineer

@@ -14,7 +14,7 @@ skills: TypeScript, Kubernetes, Google Cloud Platform, Terraform, Linux systems 
 level: senior
 comp: 
 comp_extras: 
-render_hash: d5be7028
+render_hash: abef3983
 -->
 
 # Senior Infrastructure Engineer

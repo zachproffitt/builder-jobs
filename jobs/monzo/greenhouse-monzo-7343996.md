@@ -9,24 +9,22 @@ hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/monzo/jobs/7343996
-summary: Build and evolve Monzo's native Android banking app serving 11+ million users. Balance polished user experience with well-tested, resilient code while working in small autonomous product squads across personal banking and support tools.
-skills: Android, Kotlin, Java, mobile app development, native mobile development
-level: mid
+summary: Build and evolve Monzo's native Android banking app serving 11+ million users. Balance polished user experiences with well-tested, resilient code while working in small, autonomous product squads across personal banking, customer support tools, and mobile platform infrastructure.
+skills: Android, Kotlin, Java, Mobile UI/UX, REST APIs
+level: 
 comp: 
-comp_extras: Incentive Awards tied to performance, benefits
-render_hash: bf556129
+comp_extras: bonus
+render_hash: d3fcbaea
 -->
 
 # Android Engineer
 
 <img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo**  
-Barcelona · `Mid` · `Hybrid`
+Barcelona · `Hybrid` · `bonus`
 
-`Incentive Awards tied to performance` `benefits`
+_Build and evolve Monzo's native Android banking app serving 11+ million users. Balance polished user experiences with well-tested, resilient code while working in small, autonomous product squads across personal banking, customer support tools, and mobile platform infrastructure._
 
-_Build and evolve Monzo's native Android banking app serving 11+ million users. Balance polished user experience with well-tested, resilient code while working in small autonomous product squads across personal banking and support tools._
-
-![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![mobile app development](https://img.shields.io/badge/mobile_app_development-3B82F6?style=flat-square) ![native mobile development](https://img.shields.io/badge/native_mobile_development-3B82F6?style=flat-square)
+![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Mobile UI/UX](https://img.shields.io/badge/Mobile_UI%2FUX-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

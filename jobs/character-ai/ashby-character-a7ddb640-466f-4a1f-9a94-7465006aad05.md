@@ -14,7 +14,7 @@ skills: reinforcement learning, PyTorch, data pipelines, GPUs, transformers
 level: senior
 comp: 
 comp_extras: 
-render_hash: bb05a839
+render_hash: 02251020
 -->
 
 # Research Engineer, AI Safety & Alignment

@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: 51c2af9f
+render_hash: 9e890c24
 -->
 
 #  Senior Data Scientist - CLV & Personalisation

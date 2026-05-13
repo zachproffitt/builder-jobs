@@ -14,7 +14,7 @@ skills: React Native, JavaScript, TypeScript, C++/Objective-C/Swift, modern Java
 level: staff
 comp: 
 comp_extras: 
-render_hash: 9236ed48
+render_hash: 189cc250
 -->
 
 # Staff Software Engineer, React Native  

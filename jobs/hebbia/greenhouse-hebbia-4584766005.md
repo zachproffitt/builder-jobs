@@ -14,7 +14,7 @@ skills: distributed systems, DAG orchestrator, agentic frameworks
 level: 
 comp: 
 comp_extras: 
-render_hash: 50d03f58
+render_hash: 4357977a
 -->
 
 # Backend Engineer, Agents

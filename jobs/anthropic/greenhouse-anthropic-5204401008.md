@@ -14,7 +14,7 @@ skills: iOS, Android, rendering, performance optimization, text handling
 level: staff
 comp: 
 comp_extras: 
-render_hash: 52f73538
+render_hash: 87048364
 -->
 
 # Senior Staff Software Engineer

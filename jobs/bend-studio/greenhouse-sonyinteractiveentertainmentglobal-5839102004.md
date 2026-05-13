@@ -14,7 +14,7 @@ skills: Gurobi, OR-Tools, Python (implied via ML model integration), optimizatio
 level: senior
 comp: 
 comp_extras: 
-render_hash: b51f3e5e
+render_hash: 5fcaba66
 -->
 
 # Senior Machine Learning Engineer , Optimisation (Gurobi)

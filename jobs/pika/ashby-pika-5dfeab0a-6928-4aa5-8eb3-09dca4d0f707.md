@@ -14,7 +14,7 @@ skills: Swift, SwiftUI, Combine, Core ML, ML Kit
 level: senior
 comp: 
 comp_extras: 
-render_hash: 26f819b4
+render_hash: 9b78ebda
 -->
 
 # Senior Software Engineer, iOS

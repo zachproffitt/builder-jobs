@@ -14,7 +14,7 @@ skills: Snowflake, S3, SharePoint, Dropbox, APIs
 level: senior
 comp: 
 comp_extras: 
-render_hash: afb02056
+render_hash: 22032cfd
 -->
 
 # Backend Engineer, Growth and Data

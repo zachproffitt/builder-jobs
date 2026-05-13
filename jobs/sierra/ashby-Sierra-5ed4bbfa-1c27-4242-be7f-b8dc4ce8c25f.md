@@ -14,7 +14,7 @@ skills: Go, TypeScript
 level: senior
 comp: 
 comp_extras: 
-render_hash: 2c23e37f
+render_hash: 1bb170d1
 -->
 
 # Software Engineer, Insights

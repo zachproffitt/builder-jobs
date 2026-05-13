@@ -14,7 +14,7 @@ skills: C++, Python, Groovy, LLVM, C
 level: senior
 comp: 
 comp_extras: 
-render_hash: b30cbcb6
+render_hash: d5cd35ec
 -->
 
 # Sr. Software Development Engineer in Test, Compilers 

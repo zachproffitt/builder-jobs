@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: d2a75bfa
+render_hash: f9f1f119
 -->
 
 # Senior Embedded Software Engineer

@@ -14,7 +14,7 @@ skills: Python, LLM APIs (OpenAI, Claude), RAG, search, Confluence/Jira
 level: 
 comp: 
 comp_extras: 
-render_hash: 94bb8d54
+render_hash: 4a6d8aab
 -->
 
 # Applied AI Engineer – Fusion Systems

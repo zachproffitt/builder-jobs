@@ -14,7 +14,7 @@ skills: C++, Python, Groovy
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1a216bba
+render_hash: b09b202d
 -->
 
 # Sr. Software Development Engineer in Test

@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 58b75fcc
+render_hash: edafd4c5
 -->
 
 # Software Engineer, Agent (Cantonese Speaking)

@@ -14,7 +14,7 @@ skills: React, Node.js, TypeScript, Python, vector databases
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1005a391
+render_hash: d2108cc6
 -->
 
 # AI Product Engineer

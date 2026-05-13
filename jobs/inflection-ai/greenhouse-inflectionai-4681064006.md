@@ -14,7 +14,7 @@ skills: Python, Postgres, Redis, AWS/GCP/Azure, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: e5048ad1
+render_hash: 171e9493
 -->
 
 # Senior Backend Engineer, Agentic

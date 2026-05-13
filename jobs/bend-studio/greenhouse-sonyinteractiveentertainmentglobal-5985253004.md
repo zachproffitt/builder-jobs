@@ -14,7 +14,7 @@ skills: Python, Java, RESTful APIs, microservices, databases
 level: senior
 comp: 
 comp_extras: 
-render_hash: ac32ee6c
+render_hash: 7d083f39
 -->
 
 # Sr Software Development Engineer in Test, ML

@@ -14,7 +14,7 @@ skills: Python, Java, RESTful APIs, microservices, databases
 level: 
 comp: 
 comp_extras: 
-render_hash: 312a481f
+render_hash: 8198a954
 -->
 
 # Software Development Engineer in Test, ML

@@ -14,7 +14,7 @@ skills: C#, Unity, Git, CI/CD, client-backend integrations
 level: principal
 comp: 
 comp_extras: 
-render_hash: 52b74304
+render_hash: badf9a4e
 -->
 
 # Principal Software Engineer - Gram Games

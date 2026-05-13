@@ -14,7 +14,7 @@ skills: Linux, Jira, ServiceNow, scripting, runbooks
 level: mid
 comp: 
 comp_extras: 
-render_hash: 2111910b
+render_hash: 711e0c48
 -->
 
 # Hardware Fleet Operations Specialist

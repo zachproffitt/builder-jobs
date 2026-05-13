@@ -14,7 +14,7 @@ skills: Java, Amazon Web Services, Docker, Kubernetes, SQL/NoSQL databases
 level: mid
 comp: 
 comp_extras: 
-render_hash: 935abf0e
+render_hash: 8d8a36a5
 -->
 
 # Software Engineer II, Backend 

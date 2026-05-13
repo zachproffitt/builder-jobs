@@ -14,7 +14,7 @@ skills: Python, machine learning models, distributed systems, data engineering, 
 level: senior
 comp: 
 comp_extras: 
-render_hash: 8856e6ec
+render_hash: c3bdd0e6
 -->
 
 # Software Engineer, Backend/Applied ML (Safety & Integrity)

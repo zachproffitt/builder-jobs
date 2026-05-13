@@ -14,7 +14,7 @@ skills: Jenkins, GitHub Actions, Docker, Linux, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: 443f0e30
+render_hash: 69da380a
 -->
 
 # Software Engineer - Build & Tools

@@ -14,7 +14,7 @@ skills: Typescript, React, React Native, Python, Golang
 level: 
 comp: 
 comp_extras: 
-render_hash: 7dbd96fc
+render_hash: 83391f10
 -->
 
 # Software Engineer, Monetization

@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: d5e86db2
+render_hash: 8c18a6f6
 -->
 
 # Forward Deployed Software Engineer, Internship - Poland

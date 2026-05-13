@@ -14,7 +14,7 @@ skills: CircleCI, Yocto, NixOS, STIGs, Nvidia Jetson, FPGA
 level: senior
 comp: 
 comp_extras: 
-render_hash: 57dd7340
+render_hash: 61198d46
 -->
 
 # Senior Edge Software Deployment Engineer

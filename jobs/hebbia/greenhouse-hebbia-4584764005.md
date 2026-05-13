@@ -14,7 +14,7 @@ skills: distributed systems, LLM execution engine, performance tuning
 level: senior
 comp: 
 comp_extras: 
-render_hash: d824ab06
+render_hash: de0086ac
 -->
 
 # Backend Engineer, Agent Collaboration Platform

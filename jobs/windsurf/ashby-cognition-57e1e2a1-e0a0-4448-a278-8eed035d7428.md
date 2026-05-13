@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: a726f9a6
+render_hash: 4ceb36ad
 -->
 
 # Research, Mid-Training 

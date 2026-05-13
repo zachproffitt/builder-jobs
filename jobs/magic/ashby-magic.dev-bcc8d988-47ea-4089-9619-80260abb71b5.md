@@ -14,7 +14,7 @@ skills: PyTorch, Python, large GPU clusters, distributed systems, ETL workflows
 level: senior
 comp: 
 comp_extras: 
-render_hash: 88d3bb98
+render_hash: 20396b98
 -->
 
 # Research Engineer

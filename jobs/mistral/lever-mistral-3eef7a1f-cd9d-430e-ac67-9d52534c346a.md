@@ -14,7 +14,7 @@ skills: Python, TypeScript, React, APIs, dashboards
 level: 
 comp: 
 comp_extras: 
-render_hash: b9c8545f
+render_hash: abe3515d
 -->
 
 # Software Engineer, Enterprise Agents

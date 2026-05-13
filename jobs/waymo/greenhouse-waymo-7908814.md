@@ -14,7 +14,7 @@ skills: C++, Java, Python
 level: mid
 comp: 
 comp_extras: 
-render_hash: b5e33fe0
+render_hash: bd661016
 -->
 
 # Software Reliability Engineer 

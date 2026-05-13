@@ -14,7 +14,7 @@ skills: C++, C#, WPF, Pro Tools, Sound Forge
 level: senior
 comp: 
 comp_extras: 
-render_hash: 6078713c
+render_hash: d1574610
 -->
 
 # Audio Programmer

@@ -14,7 +14,7 @@ skills: React, TypeScript, RESTful/gRPC APIs, PostgreSQL, GCP/AWS
 level: 
 comp: 
 comp_extras: 
-render_hash: fabe7404
+render_hash: 5ac32bc4
 -->
 
 # Full Stack Software Engineer, Fleet Platform and Operations Tooling

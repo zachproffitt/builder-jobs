@@ -14,7 +14,7 @@ skills: C#, .NET framework, C/C++, P/Invoke, Git
 level: 
 comp: 
 comp_extras: 
-render_hash: c4f34fd9
+render_hash: 9a754c7c
 -->
 
 # Software Engineer - C#/Windows

@@ -14,7 +14,7 @@ skills: React Native
 level: senior
 comp: 
 comp_extras: 
-render_hash: 57ccf0a6
+render_hash: fff3f015
 -->
 
 # Senior Software Engineer (Frontend), Social

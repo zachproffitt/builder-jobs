@@ -14,7 +14,7 @@ skills: Infrastructure-as-Code (IaC), cloud infrastructure automation, dashboard
 level: mid
 comp: 
 comp_extras: 
-render_hash: 22a86c08
+render_hash: 61d2d19d
 -->
 
 # Software Engineer II-DevOps

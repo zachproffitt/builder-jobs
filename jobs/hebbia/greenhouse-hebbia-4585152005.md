@@ -14,7 +14,7 @@ skills: distributed systems, LLM inference engines, asynchronous DAG orchestrato
 level: senior
 comp: 
 comp_extras: 
-render_hash: d27292c9
+render_hash: 27d64a24
 -->
 
 # Applied Research Engineer, Agents

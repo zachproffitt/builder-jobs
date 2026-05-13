@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://epicgames.com/careers/jobs/5994618004?gh_jid=5994618004
-summary: Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, including Scene Graph, networking, analytics, and language toolchain integration. Design and maintain APIs that expose engine capabilities across multiple platforms with strong backward compatibility requirements.
-skills: C++, Verse, Unreal Engine, game consoles, multiple programming languages
+summary: Architect and implement low-level engine systems for Unreal Engine's Verse Framework, including Scene Graph, networking, analytics, and language toolchain integration. You'll design stable APIs that expose engine capabilities to internal and external developers while driving technical excellence across multiple hardware platforms.
+skills: C++, Unreal Engine, Game Systems Architecture, API Design, Networking, Scene Graph, Multiple Programming Languages, Game Consoles
 level: senior
 comp: 
 comp_extras: 
-render_hash: b7dae687
+render_hash: 1dfce2b1
 -->
 
 # Senior Engine Programmer, Verse Framework
@@ -22,9 +22,9 @@ render_hash: b7dae687
 <img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games**  
 Cary,North Carolina,United States · `Senior`
 
-_Architect and implement low-level engine systems for the Verse Framework within Unreal Engine, including Scene Graph, networking, analytics, and language toolchain integration. Design and maintain APIs that expose engine capabilities across multiple platforms with strong backward compatibility requirements._
+_Architect and implement low-level engine systems for Unreal Engine's Verse Framework, including Scene Graph, networking, analytics, and language toolchain integration. You'll design stable APIs that expose engine capabilities to internal and external developers while driving technical excellence across multiple hardware platforms._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Verse](https://img.shields.io/badge/Verse-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![game consoles](https://img.shields.io/badge/game_consoles-3B82F6?style=flat-square) ![multiple programming languages](https://img.shields.io/badge/multiple_programming_languages-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Game Systems Architecture](https://img.shields.io/badge/Game_Systems_Architecture-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square) ![Scene Graph](https://img.shields.io/badge/Scene_Graph-3B82F6?style=flat-square) ![Multiple Programming Languages](https://img.shields.io/badge/Multiple_Programming_Languages-3B82F6?style=flat-square) ![Game Consoles](https://img.shields.io/badge/Game_Consoles-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

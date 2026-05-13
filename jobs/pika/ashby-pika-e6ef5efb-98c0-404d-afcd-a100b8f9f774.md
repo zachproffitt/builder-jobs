@@ -14,7 +14,7 @@ skills: Python, PyTorch, TensorFlow, diffusion models, autoregressive models
 level: senior
 comp: 
 comp_extras: 
-render_hash: 64b7abf6
+render_hash: c38c7c2d
 -->
 
 # Real-time Video Researcher

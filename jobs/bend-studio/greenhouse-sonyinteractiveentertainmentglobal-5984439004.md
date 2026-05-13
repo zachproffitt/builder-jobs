@@ -14,7 +14,7 @@ skills: Istio, Kong, Amazon API Gateway, OIDC, mTLS, cert-manager, Kubernetes
 level: 
 comp: 
 comp_extras: 
-render_hash: ef5abf32
+render_hash: 1d85bfbf
 -->
 
 # Cloud Security Engineer

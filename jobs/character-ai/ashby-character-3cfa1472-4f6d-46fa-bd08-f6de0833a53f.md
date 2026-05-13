@@ -14,7 +14,7 @@ skills: RESTful, gRPC, PyTorch, TensorFlow, CI/CD pipelines
 level: senior
 comp: 
 comp_extras: 
-render_hash: 8461b55a
+render_hash: d5d5b3e6
 -->
 
 # Software Engineer, Applied ML (Discovery, Recommendation & Search)

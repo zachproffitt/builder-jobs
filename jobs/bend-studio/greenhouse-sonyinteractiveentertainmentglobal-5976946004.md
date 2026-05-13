@@ -14,7 +14,7 @@ skills: TensorFlow, PyTorch, Python, convolutional networks, transformer-based a
 level: senior
 comp: 
 comp_extras: 
-render_hash: f7785f7f
+render_hash: c9436de6
 -->
 
 # Machine Learning Engineer

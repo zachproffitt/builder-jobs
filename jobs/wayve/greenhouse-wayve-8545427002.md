@@ -14,7 +14,7 @@ skills: C++, Python, NeRF, Gaussian Splatting, GenAI
 level: 
 comp: 
 comp_extras: 
-render_hash: d762163e
+render_hash: f5aedb8d
 -->
 
 # Senior Software Engineer, Simulation 

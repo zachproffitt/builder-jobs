@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 95356e4e
+render_hash: 0e0f3252
 -->
 
 # Senior / Principal Data Scientist - Discovery

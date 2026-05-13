@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: b3e67504
+render_hash: 345880b8
 -->
 
 # Research Engineer, Safeguards Labs

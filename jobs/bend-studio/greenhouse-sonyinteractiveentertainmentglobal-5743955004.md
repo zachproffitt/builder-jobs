@@ -14,7 +14,7 @@ skills: SQL, Python
 level: staff
 comp: 
 comp_extras: 
-render_hash: 5bdcdeb1
+render_hash: 4f53bde4
 -->
 
 # Staff Data Scientist -  Experimentation & Measurement 

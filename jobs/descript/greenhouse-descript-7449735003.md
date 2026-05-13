@@ -14,7 +14,7 @@ skills: TypeScript, React, RESTful APIs, Postgres, Redis
 level: senior
 comp: 
 comp_extras: 
-render_hash: d5e636ff
+render_hash: 1f5f81f2
 -->
 
 # Software Engineer, Editor 

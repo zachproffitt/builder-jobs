@@ -14,7 +14,7 @@ skills: Python, PyTorch, TensorFlow, JAX, XLA/MLIR
 level: 
 comp: 
 comp_extras: 
-render_hash: 00c15d0d
+render_hash: 8f6803d9
 -->
 
 # Member of Technical Staff, Search

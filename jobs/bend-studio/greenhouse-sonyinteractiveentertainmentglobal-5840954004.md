@@ -14,7 +14,7 @@ skills: TypeScript, JavaScript, React/ReactNative, Kubernetes, C++
 level: junior
 comp: 
 comp_extras: 
-render_hash: a48546bc
+render_hash: d06450a5
 -->
 
 # Software Engineer I

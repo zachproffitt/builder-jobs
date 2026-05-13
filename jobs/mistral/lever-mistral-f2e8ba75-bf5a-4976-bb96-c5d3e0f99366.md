@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: e479f0ab
+render_hash: 62c643a2
 -->
 
 # Software Engineer, Backend (New-York)

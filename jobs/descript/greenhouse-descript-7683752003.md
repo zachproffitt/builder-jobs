@@ -14,7 +14,7 @@ skills: TypeScript, JavaScript, React, HTML, CSS, REST APIs
 level: senior
 comp: 
 comp_extras: 
-render_hash: a35dd2ec
+render_hash: 3e12b08f
 -->
 
 # Senior Software Engineer, Growth

@@ -14,7 +14,7 @@ skills: Java, Python, Golang, Terraform, CloudFormation
 level: principal
 comp: 
 comp_extras: 
-render_hash: 4407c253
+render_hash: 9f43810b
 -->
 
 # Principal Software Engineer

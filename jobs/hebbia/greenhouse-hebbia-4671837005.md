@@ -14,7 +14,7 @@ skills: AI workflows, integrations, SSO configuration, environment setup, techni
 level: 
 comp: 
 comp_extras: 
-render_hash: d7d07164
+render_hash: 8e45a7e7
 -->
 
 # Technical Delivery

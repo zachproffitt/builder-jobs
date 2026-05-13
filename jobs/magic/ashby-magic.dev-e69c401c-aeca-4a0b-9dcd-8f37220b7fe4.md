@@ -14,7 +14,7 @@ skills: build systems, CI pipelines, CLI tools, web UIs, data infrastructure
 level: 
 comp: 
 comp_extras: 
-render_hash: e40ddda6
+render_hash: e10ec59c
 -->
 
 # Member of Technical Staff, DX & Data Tooling Engineer

@@ -14,7 +14,7 @@ skills: NCCL, CUTLASS, Triton, Flash-Attention, Pallas
 level: senior
 comp: 
 comp_extras: 
-render_hash: ae25667b
+render_hash: 25078762
 -->
 
 # Member of Technical Staff, Kernels

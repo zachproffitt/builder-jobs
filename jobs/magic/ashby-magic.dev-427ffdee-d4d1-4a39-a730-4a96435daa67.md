@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 4757ff69
+render_hash: c5611749
 -->
 
 # Member of Technical Staff, Inference & RL Systems

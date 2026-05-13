@@ -14,7 +14,7 @@ skills: Typescript, React, RESTful APIs, Postgres, Redis
 level: senior
 comp: 
 comp_extras: 
-render_hash: 7fa13f32
+render_hash: 32505aee
 -->
 
 # Senior Software Engineer, Agent 

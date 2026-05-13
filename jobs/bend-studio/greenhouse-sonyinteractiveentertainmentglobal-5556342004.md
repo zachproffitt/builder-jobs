@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 36879213
+render_hash: e4eeecd5
 -->
 
 # Data Scientist – CLV & Next Best Action

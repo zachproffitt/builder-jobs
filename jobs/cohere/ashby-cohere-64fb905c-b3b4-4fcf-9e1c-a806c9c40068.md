@@ -14,7 +14,7 @@ skills: Go, Python, Kubernetes, Docker, OpenSearch
 level: 
 comp: 
 comp_extras: 
-render_hash: 59ba48a1
+render_hash: 1de8f3cc
 -->
 
 # Software Engineer, Search Applications

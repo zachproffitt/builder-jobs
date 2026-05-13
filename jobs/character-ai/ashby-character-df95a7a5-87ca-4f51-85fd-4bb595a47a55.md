@@ -14,7 +14,7 @@ skills: data science practices, experimentation, metrics, analytics tooling, dat
 level: staff
 comp: 
 comp_extras: 
-render_hash: 1375edb3
+render_hash: a4a65784
 -->
 
 # Staff Data Scientist, Monetization

@@ -14,7 +14,7 @@ skills: Python, Go, Bash, Linux, Web Services
 level: senior
 comp: 
 comp_extras: 
-render_hash: 45e74f27
+render_hash: d20155b9
 -->
 
 # Senior Service Reliability Engineer 

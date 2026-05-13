@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 6404509e
+render_hash: 51de1805
 -->
 
 # Software Engineer, Agent (Spanish speaking)

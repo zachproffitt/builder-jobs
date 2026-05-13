@@ -14,7 +14,7 @@ skills: React, JavaScript, performance profiling tools, testing frameworks, desi
 level: senior
 comp: 
 comp_extras: 
-render_hash: ef9521a9
+render_hash: e7ec5164
 -->
 
 # Senior Software Engineer, Client Platform

@@ -14,7 +14,7 @@ skills:
 level: junior
 comp: 
 comp_extras: 
-render_hash: 53aa27dc
+render_hash: d5cf05e7
 -->
 
 # Software Engineer, Agent (New Grad)

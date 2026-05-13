@@ -14,7 +14,7 @@ skills: C, C++, Python, Git, VST Development
 level: senior
 comp: 
 comp_extras: 
-render_hash: 212b70a7
+render_hash: f6594d3a
 -->
 
 # Sr Software Engineer (Audio)

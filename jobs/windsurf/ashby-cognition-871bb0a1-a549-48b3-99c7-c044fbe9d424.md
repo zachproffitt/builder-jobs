@@ -14,7 +14,7 @@ skills: SQL, Python, dbt, Airflow, Metabase
 level: senior
 comp: 
 comp_extras: 
-render_hash: 22ec639a
+render_hash: 6d5ec2c4
 -->
 
 # Data Engineer, GTM & Product

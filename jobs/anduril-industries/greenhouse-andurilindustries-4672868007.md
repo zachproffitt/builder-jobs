@@ -14,7 +14,7 @@ skills: Python, C++, Rust, Go, JavaScript
 level: 
 comp: 
 comp_extras: 
-render_hash: 9f3ea157
+render_hash: 9147c952
 -->
 
 # Mission Software Engineer, Vehicle Software, GenSWE

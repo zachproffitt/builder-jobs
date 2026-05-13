@@ -14,7 +14,7 @@ skills: JavaScript, React, React Native, CI/CD pipelines, unit testing
 level: mid
 comp: 
 comp_extras: 
-render_hash: 6b01bf2d
+render_hash: 5ee834e7
 -->
 
 # Software Engineer II, Front End

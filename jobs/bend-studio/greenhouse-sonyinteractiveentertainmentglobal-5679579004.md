@@ -14,7 +14,7 @@ skills: C, C++, Rust, Python, Bash, perf, ftrace, eBPF
 level: senior
 comp: 
 comp_extras: 
-render_hash: 48e11b42
+render_hash: c97636fb
 -->
 
 # Senior Software Engineer

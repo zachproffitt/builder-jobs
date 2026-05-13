@@ -14,7 +14,7 @@ skills: JavaScript, React, React Native, unit testing, pull request reviews
 level: mid
 comp: 
 comp_extras: 
-render_hash: 93a93105
+render_hash: b0ebce73
 -->
 
 # Software Engineer II, Contractor

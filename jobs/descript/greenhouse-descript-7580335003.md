@@ -14,7 +14,7 @@ skills: Spark, Docker, Kubernetes, PyTorch, TensorFlow
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1e7969f4
+render_hash: bfc7de56
 -->
 
 # Senior Software Engineer, AI Platform and Enablement

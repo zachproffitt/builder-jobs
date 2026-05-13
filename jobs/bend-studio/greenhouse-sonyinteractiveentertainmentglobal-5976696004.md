@@ -14,7 +14,7 @@ skills: Python, Go, MongoDB, Redis, Cassandra
 level: senior
 comp: 
 comp_extras: 
-render_hash: d3b7964e
+render_hash: c5d7d6bd
 -->
 
 # Site Reliability Engineer

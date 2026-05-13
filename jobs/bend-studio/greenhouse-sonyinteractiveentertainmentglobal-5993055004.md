@@ -14,7 +14,7 @@ skills: C, Python, pytest, Appium, Git
 level: 
 comp: 
 comp_extras: 
-render_hash: 8f71cfd3
+render_hash: 02c5601c
 -->
 
 # Software Development Engineer in Test Contractor (SDET Contractor)

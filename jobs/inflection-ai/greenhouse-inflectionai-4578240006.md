@@ -14,7 +14,7 @@ skills: PyTorch, Torchtune, FSDP, DeepSpeed, internal orchestration stack
 level: staff
 comp: 
 comp_extras: 
-render_hash: 66d24bc4
+render_hash: 85f1be00
 -->
 
 # Member of Technical Staff – Model Training

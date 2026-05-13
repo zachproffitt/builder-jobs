@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: 07353b49
+render_hash: 422b96ae
 -->
 
 # Senior Software Engineer - Rendering API

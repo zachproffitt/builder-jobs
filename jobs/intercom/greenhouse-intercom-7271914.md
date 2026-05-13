@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/intercom/jobs/7271914
-summary: Build production machine learning systems for AI-powered customer service, from algorithm research and prototyping through offline evaluation to deployment. Lead a team while raising technical standards for reliability and operational excellence in a product-focused ML organization shipping to beta in weeks.
-skills: Python, Machine Learning, Neural Networks, Transformers, Supervised Learning, Unsupervised Learning, Data Analysis
+summary: Build and productize machine learning models and systems for Intercom's AI customer service platform, from research through offline evaluation to production deployment. Lead the ML team in hiring, mentorship, and raising technical standards while partnering with Product and Design to identify high-impact ML applications.
+skills: Python, PyTorch, Transformer Neural Networks, Machine Learning, Supervised Learning, Unsupervised Learning, Data Analysis, MSc in ML or Related Field
 level: staff
 comp: 
 comp_extras: 
-render_hash: 462953a6
+render_hash: 70ff4b09
 -->
 
 # Staff Machine Learning Scientist
@@ -22,9 +22,9 @@ render_hash: 462953a6
 <img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom**  
 London, England · `Staff`
 
-_Build production machine learning systems for AI-powered customer service, from algorithm research and prototyping through offline evaluation to deployment. Lead a team while raising technical standards for reliability and operational excellence in a product-focused ML organization shipping to beta in weeks._
+_Build and productize machine learning models and systems for Intercom's AI customer service platform, from research through offline evaluation to production deployment. Lead the ML team in hiring, mentorship, and raising technical standards while partnering with Product and Design to identify high-impact ML applications._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-3B82F6?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-3B82F6?style=flat-square) ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-3B82F6?style=flat-square) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-3B82F6?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Transformer Neural Networks](https://img.shields.io/badge/Transformer_Neural_Networks-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-3B82F6?style=flat-square) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-3B82F6?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square) ![MSc in ML or Related Field](https://img.shields.io/badge/MSc_in_ML_or_Related_Field-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

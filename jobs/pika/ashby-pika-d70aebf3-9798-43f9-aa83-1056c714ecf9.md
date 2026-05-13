@@ -14,7 +14,7 @@ skills: TypeScript, Python, LLM integration, prompt engineering, embedding model
 level: senior
 comp: 
 comp_extras: 
-render_hash: f6d8b829
+render_hash: 3f36b2ee
 -->
 
 # Senior Software Engineer, Agent

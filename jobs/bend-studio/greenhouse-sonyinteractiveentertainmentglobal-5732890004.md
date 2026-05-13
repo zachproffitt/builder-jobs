@@ -14,7 +14,7 @@ skills: React Native, MVC, MVVM, MVP, unit tests, component tests
 level: senior
 comp: 
 comp_extras: 
-render_hash: f19666a8
+render_hash: bfa4c72a
 -->
 
 # Senior Software Engineer (Frontend), Social

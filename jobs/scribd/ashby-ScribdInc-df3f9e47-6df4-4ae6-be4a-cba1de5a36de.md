@@ -14,7 +14,7 @@ skills: Ruby on Rails, Python, ML/LLM systems, data observability tools, asynchr
 level: senior
 comp: 
 comp_extras: 
-render_hash: 268c1346
+render_hash: 9a193549
 -->
 
 # Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations

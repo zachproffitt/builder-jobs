@@ -14,7 +14,7 @@ skills: Python, SQL, Spark, Airflow, DBT
 level: senior
 comp: 
 comp_extras: 
-render_hash: 8f5771cb
+render_hash: 6ff49f1f
 -->
 
 # Data Engineer

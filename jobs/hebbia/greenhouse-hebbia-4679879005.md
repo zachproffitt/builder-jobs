@@ -14,7 +14,7 @@ skills: Salesforce, Outreach, Gong, Apollo, Clay, Claude
 level: 
 comp: 
 comp_extras: 
-render_hash: 527afa63
+render_hash: 8dadc259
 -->
 
 # GTM Systems Lead

@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: e2f93a2f
+render_hash: 414945d1
 -->
 
 # - Programmeur·euse I.A. Senior/AI Programmer

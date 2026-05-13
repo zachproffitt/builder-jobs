@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: da2ae597
+render_hash: 92b5e712
 -->
 
 # Special Projects Engineer - Europe

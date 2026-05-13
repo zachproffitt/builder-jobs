@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5974411004
-summary: Design and develop robust backend APIs for Speechify's text-to-speech platform, including public TTS APIs and internal services for payments, subscriptions, authentication, and consumption tracking. Build and optimize high-availability systems serving 50+ million users across multiple platforms and cloud providers.
-skills: TypeScript, Node.js, GCP, AWS, Azure, Docker, Kubernetes, PostgreSQL
+summary: Design and develop robust backend APIs and services for a text-to-speech platform serving 50M+ users, including payment systems, subscriptions, authentication, and consumption tracking. Scale high-availability applications across GCP infrastructure while collaborating with cross-functional teams on B2B solutions and enterprise integrations.
+skills: TypeScript, Node.js, GCP, AWS, Docker, Kubernetes, PostgreSQL, Redis
 level: mid
 comp: 
 comp_extras: 
-render_hash: 9059b91d
+render_hash: 084239b4
 -->
 
 # Software Engineer, Platform - Recife, Brazil
@@ -22,9 +22,9 @@ render_hash: 9059b91d
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Recife, Brazil · `Mid`
 
-_Design and develop robust backend APIs for Speechify's text-to-speech platform, including public TTS APIs and internal services for payments, subscriptions, authentication, and consumption tracking. Build and optimize high-availability systems serving 50+ million users across multiple platforms and cloud providers._
+_Design and develop robust backend APIs and services for a text-to-speech platform serving 50M+ users, including payment systems, subscriptions, authentication, and consumption tracking. Scale high-availability applications across GCP infrastructure while collaborating with cross-functional teams on B2B solutions and enterprise integrations._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

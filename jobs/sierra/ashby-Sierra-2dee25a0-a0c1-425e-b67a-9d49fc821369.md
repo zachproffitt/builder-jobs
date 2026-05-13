@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 59f2bbbf
+render_hash: f8815a37
 -->
 
 # Agent Engineer, TLM

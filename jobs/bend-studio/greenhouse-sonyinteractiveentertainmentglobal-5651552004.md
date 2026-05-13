@@ -14,7 +14,7 @@ skills: statistical methods, machine learning methods, causal inference
 level: staff
 comp: 
 comp_extras: 
-render_hash: 904e0563
+render_hash: cdc11c2c
 -->
 
 # Staff Data Scientist – Experimentation: Innovation & Research

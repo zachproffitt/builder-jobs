@@ -14,7 +14,7 @@ skills: SQL, Python, dbt, Airflow, Metabase
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1f96b2d7
+render_hash: 9196831e
 -->
 
 # Data Engineer, Finance

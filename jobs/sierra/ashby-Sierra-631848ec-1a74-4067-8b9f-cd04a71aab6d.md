@@ -14,7 +14,7 @@ skills: AI agents, production systems, scalable infrastructure
 level: senior
 comp: 
 comp_extras: 
-render_hash: d569e13f
+render_hash: 4f5cc459
 -->
 
 # Software Engineer, Agent

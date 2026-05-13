@@ -14,7 +14,7 @@ skills: Rust, C++, Python, software design, algorithm implementation
 level: senior
 comp: 
 comp_extras: 
-render_hash: d33eb71d
+render_hash: 7f3c049e
 -->
 
 # Senior Research Scientist

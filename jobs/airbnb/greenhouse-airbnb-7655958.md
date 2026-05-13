@@ -14,7 +14,7 @@ skills: model serving, feature pipelines, online/offline evaluation, monitoring,
 level: 
 comp: 
 comp_extras: 
-render_hash: d452db9e
+render_hash: c4a93e36
 -->
 
 # Staff Software Engineer, Communication Products

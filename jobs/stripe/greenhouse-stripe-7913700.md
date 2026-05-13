@@ -14,7 +14,7 @@ skills: Spark, Scala, Java, SQL, Python
 level: senior
 comp: 
 comp_extras: 
-render_hash: 9a71701d
+render_hash: f3d528d4
 -->
 
 # Backend Engineer, Data

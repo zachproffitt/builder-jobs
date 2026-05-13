@@ -14,7 +14,7 @@ skills:
 level: manager
 comp: 
 comp_extras: 
-render_hash: 676d9efd
+render_hash: 55bed279
 -->
 
 # Manager, People Technology Platform Engineering (Workday)

@@ -14,15 +14,13 @@ skills: Python, PyTorch, distributed training, GPU infrastructure, computer visi
 level: mid
 comp: $128.8k-$193.3k
 comp_extras: bonus plans
-render_hash: 732c78a6
+render_hash: a02a0a0e
 -->
 
 # Software Engineer, AI for the Planet
 
 <img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI**  
-Seattle, WA · `Mid` · `Hybrid`
-
-`$128.8k-$193.3k` `bonus plans`
+Seattle, WA · `Mid` · `Hybrid` · `$128.8k-$193.3k` · `bonus plans`
 
 > Allen Institute for AI conducts research and engineering to tackle key problems in artificial intelligence.
 

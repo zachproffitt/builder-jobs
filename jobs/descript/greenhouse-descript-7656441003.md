@@ -14,7 +14,7 @@ skills: Segment, Census, Python (implied via data analysis), CDPs, reverse ETL
 level: senior
 comp: 
 comp_extras: 
-render_hash: ae0bd7d1
+render_hash: f4b09d56
 -->
 
 # Senior Data Scientist, Marketing

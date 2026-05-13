@@ -14,7 +14,7 @@ skills: C/C++, SIMD vectorization, embedded systems, source control, issue track
 level: senior
 comp: 
 comp_extras: 
-render_hash: 3dc1f69d
+render_hash: 397319d0
 -->
 
 # Software Engineer II

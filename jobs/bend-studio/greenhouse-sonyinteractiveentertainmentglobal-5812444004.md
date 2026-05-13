@@ -14,7 +14,7 @@ skills: Kong API Gateway, Kong Ingress Controller, Kong Konnect, Kubernetes, ser
 level: 
 comp: 
 comp_extras: 
-render_hash: 5ddf4845
+render_hash: 72329d94
 -->
 
 # Platform Engineer - Application Networking

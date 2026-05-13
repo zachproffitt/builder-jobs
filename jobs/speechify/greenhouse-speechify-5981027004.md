@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5981027004
-summary: Build and ship production code for Speechify's iOS app, a top-20 productivity app with 50M+ users. Lead engineering decisions on app architecture and product features while maintaining a complex, scaled mobile codebase.
+summary: Build and ship production code for the Speechify iOS app, maintaining and enhancing its complex architecture to support millions of users. Lead engineering and product decisions on a high-growth consumer product recognized by Apple.
 skills: Swift, SwiftUI
 level: senior
 comp: 
 comp_extras: 
-render_hash: a8068b6a
+render_hash: 15777a4c
 -->
 
 # Software Engineer, iOS Core Product - London, United Kingdom
@@ -22,7 +22,7 @@ render_hash: a8068b6a
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 London, United Kingdom · `Senior`
 
-_Build and ship production code for Speechify's iOS app, a top-20 productivity app with 50M+ users. Lead engineering decisions on app architecture and product features while maintaining a complex, scaled mobile codebase._
+_Build and ship production code for the Speechify iOS app, maintaining and enhancing its complex architecture to support millions of users. Lead engineering and product decisions on a high-growth consumer product recognized by Apple._
 
 ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square)
 

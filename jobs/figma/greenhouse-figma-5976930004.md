@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 50c38ef8
+render_hash: 30f97782
 -->
 
 # Data Scientist, Core Data -  PhD (2026)

@@ -14,7 +14,7 @@ skills: dbt, dimensional modeling, facts and dimensions
 level: senior
 comp: 
 comp_extras: 
-render_hash: 5bedd8e7
+render_hash: 4a697eb4
 -->
 
 # Senior Analytics Engineer

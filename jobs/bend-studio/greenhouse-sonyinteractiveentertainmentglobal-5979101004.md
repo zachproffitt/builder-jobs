@@ -14,7 +14,7 @@ skills: AWS, GCP, Infrastructure-as-Code, automation, cloud-native patterns (EKS
 level: staff
 comp: 
 comp_extras: 
-render_hash: d41a7a9b
+render_hash: a384943a
 -->
 
 # Staff Site Reliability Engineer

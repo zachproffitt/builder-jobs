@@ -14,7 +14,7 @@ skills: Go, Typescript, developer tooling
 level: senior
 comp: 
 comp_extras: 
-render_hash: a6aeae51
+render_hash: a11a2288
 -->
 
 # Software Engineer, Agent Builder

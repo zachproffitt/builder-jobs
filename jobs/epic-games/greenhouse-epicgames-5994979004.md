@@ -14,7 +14,7 @@ skills: C++, AI-assisted development tools, language toolchain
 level: senior
 comp: 
 comp_extras: 
-render_hash: 7824f714
+render_hash: 6b634d4d
 -->
 
 # Senior Engine Programmer, Verse Framework

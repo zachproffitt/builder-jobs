@@ -14,7 +14,7 @@ skills: AWS, Azure, GCP, AI/ML security, container security
 level: staff
 comp: 
 comp_extras: 
-render_hash: 04fc0b5e
+render_hash: a219d183
 -->
 
 #  Staff Cloud Security Engineer 

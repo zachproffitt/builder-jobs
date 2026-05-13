@@ -14,7 +14,7 @@ skills: Agent OS, Codex/Claude, internal tooling
 level: 
 comp: 
 comp_extras: 
-render_hash: d3d8fb8f
+render_hash: 68737e16
 -->
 
 # Support Engineer

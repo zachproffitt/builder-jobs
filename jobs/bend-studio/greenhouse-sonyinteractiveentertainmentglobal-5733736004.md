@@ -14,7 +14,7 @@ skills: HLSL, Vulkan, CUDA, C, C++, Git/SVN, JIRA
 level: senior
 comp: 
 comp_extras: 
-render_hash: 7d92ffb5
+render_hash: 9ef43822
 -->
 
 # Sr Software Engineer

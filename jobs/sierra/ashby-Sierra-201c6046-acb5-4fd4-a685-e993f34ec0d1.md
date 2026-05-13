@@ -14,7 +14,7 @@ skills: Python, Go, TypeScript, API design, authentication frameworks
 level: 
 comp: 
 comp_extras: 
-render_hash: b5a3c9f4
+render_hash: a59b1a5a
 -->
 
 # Software Engineer, Security

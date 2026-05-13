@@ -14,7 +14,7 @@ skills: JavaScript, React, React Native, unit tests, component tests
 level: 
 comp: 
 comp_extras: 
-render_hash: 327d4feb
+render_hash: 5d77b62d
 -->
 
 # Software Engineer II

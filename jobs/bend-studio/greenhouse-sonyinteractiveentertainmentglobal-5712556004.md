@@ -14,7 +14,7 @@ skills: React Native, React, Angular, iOS, Android
 level: mid
 comp: 
 comp_extras: 
-render_hash: b27ca4a0
+render_hash: 0edb6163
 -->
 
 # Software Engineer II (Frontend), Social  

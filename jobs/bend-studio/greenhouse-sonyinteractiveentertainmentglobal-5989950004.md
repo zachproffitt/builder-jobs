@@ -14,7 +14,7 @@ skills: Java, Kotlin, React Native, Android Studio, Agile methodologies
 level: senior
 comp: 
 comp_extras: 
-render_hash: f25ea5fa
+render_hash: b365e2e8
 -->
 
 # Senior Software Engineer (Android)

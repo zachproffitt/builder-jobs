@@ -14,7 +14,7 @@ skills: Scala, Java, Python, ETL/ELT pipelines, data cataloging
 level: senior
 comp: 
 comp_extras: 
-render_hash: 43f26c61
+render_hash: 5fef1b5b
 -->
 
 # Software Engineer II, Data Platform

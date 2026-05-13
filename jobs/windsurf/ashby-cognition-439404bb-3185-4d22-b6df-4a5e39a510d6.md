@@ -14,7 +14,7 @@ skills: Python, TypeScript, React
 level: senior
 comp: 
 comp_extras: 
-render_hash: e5ba8ef6
+render_hash: 15cc434e
 -->
 
 # Product Engineer

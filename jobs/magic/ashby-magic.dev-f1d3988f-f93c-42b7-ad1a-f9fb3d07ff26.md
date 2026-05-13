@@ -14,7 +14,7 @@ skills: distributed systems, GPU clusters, fault tolerance, checkpointing, perfo
 level: senior
 comp: 
 comp_extras: 
-render_hash: fba593af
+render_hash: 13e93995
 -->
 
 # Member of Technical Staff, Pre-training Systems

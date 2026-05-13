@@ -14,7 +14,7 @@ skills: C/C++, ARM TrustZone, Trusted Execution Environment (TEE), secure monito
 level: senior
 comp: 
 comp_extras: 
-render_hash: 75e326b0
+render_hash: efffa73c
 -->
 
 # Senior Security Engineer (Tee/ ARM TrustZone)

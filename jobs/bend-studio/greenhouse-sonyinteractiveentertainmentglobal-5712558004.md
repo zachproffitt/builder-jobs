@@ -14,7 +14,7 @@ skills: React Native, JavaScript, Agile methodologies, MVC/MVVM/MVP frameworks, 
 level: mid
 comp: 
 comp_extras: 
-render_hash: 4a6bdcc5
+render_hash: 77f311ca
 -->
 
 # Software Engineer II (Frontend), Social  

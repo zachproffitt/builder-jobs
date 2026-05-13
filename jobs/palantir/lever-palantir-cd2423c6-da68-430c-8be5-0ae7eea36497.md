@@ -14,7 +14,7 @@ skills: Kubernetes, K8s controllers, containerization
 level: 
 comp: 
 comp_extras: 
-render_hash: 1ffebcb4
+render_hash: e8047b5b
 -->
 
 # Software Engineer - Environment Platform

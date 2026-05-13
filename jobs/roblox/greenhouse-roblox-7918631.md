@@ -14,7 +14,7 @@ skills: React, C#, Java, C++, Node.js
 level: senior
 comp: 
 comp_extras: 
-render_hash: d0d9a1c6
+render_hash: 75f18361
 -->
 
 # Senior Software Engineer, Fullstack

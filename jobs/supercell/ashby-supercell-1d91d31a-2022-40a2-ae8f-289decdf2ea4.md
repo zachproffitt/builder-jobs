@@ -14,7 +14,7 @@ skills: Java, DynamoDB, AWS, Terraform, AI-assisted development tools
 level: 
 comp: 
 comp_extras: 
-render_hash: 759f5721
+render_hash: 14c9fb8a
 -->
 
 # Senior Software Engineer, Supercell ID

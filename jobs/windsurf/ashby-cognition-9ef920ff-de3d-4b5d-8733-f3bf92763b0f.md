@@ -14,7 +14,7 @@ skills: SQL, Python, dbt, Airflow, Dagster
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4225ba78
+render_hash: e8d2d445
 -->
 
 # Data Engineer, Core Product

@@ -14,7 +14,7 @@ skills: Metal, Vulkan, shaders, rendering pipelines, texture usage
 level: senior
 comp: 
 comp_extras: 
-render_hash: 42a2dbc2
+render_hash: 0eefe505
 -->
 
 # Senior Graphics Programmer, Mobile (iOS/Android)

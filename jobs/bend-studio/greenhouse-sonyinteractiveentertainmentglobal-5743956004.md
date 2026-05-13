@@ -14,7 +14,7 @@ skills: SQL, Python, causal inference, A/B testing, statistical analysis
 level: senior
 comp: 
 comp_extras: 
-render_hash: bc4f51a4
+render_hash: b6fc55fa
 -->
 
 # Senior Data Scientist -  Experimentation & Measurement

@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: ce1c1f4b
+render_hash: 2246277c
 -->
 
 # Software Engineer, Agent (Korean Speaking)

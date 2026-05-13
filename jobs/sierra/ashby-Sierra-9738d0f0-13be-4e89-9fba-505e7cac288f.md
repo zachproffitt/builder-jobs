@@ -14,7 +14,7 @@ skills: React, TypeScript, Python, Go, modern programming languages
 level: intern
 comp: 
 comp_extras: 
-render_hash: 6ad2cde3
+render_hash: e2c1ce85
 -->
 
 # APX (New Grad)

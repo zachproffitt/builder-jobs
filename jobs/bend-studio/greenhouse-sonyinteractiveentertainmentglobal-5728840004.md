@@ -14,7 +14,7 @@ skills: Java, Go, Python, React, Docker
 level: senior
 comp: 
 comp_extras: 
-render_hash: eaf40eef
+render_hash: 74fe7b9a
 -->
 
 # Software Engineer

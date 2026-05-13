@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: bc3af3fe
+render_hash: 17bd2b80
 -->
 
 # Forward Deployed Software Engineer - AUS Government

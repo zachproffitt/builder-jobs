@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5975007004
-summary: Design, architect, and develop native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML. Drive accessibility integration across the platform with deep expertise in Windows accessibility APIs and inclusive design.
+summary: Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++. Drive accessibility integration and maintain production-quality standards across Windows 10/11+ platforms.
 skills: Windows App SDK, WinUI, C#, XAML, C++, Win32/WinRT/COM, Microsoft UI Automation, .NET
 level: senior
 comp: 
 comp_extras: 
-render_hash: e7cb98a9
+render_hash: 49a23319
 -->
 
 # Senior Software Engineer, Windows/Desktop Applications - Norfolk, VA, USA
@@ -22,7 +22,7 @@ render_hash: e7cb98a9
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Norfolk, VA, USA · `Senior`
 
-_Design, architect, and develop native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML. Drive accessibility integration across the platform with deep expertise in Windows accessibility APIs and inclusive design._
+_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++. Drive accessibility integration and maintain production-quality standards across Windows 10/11+ platforms._
 
 ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
 

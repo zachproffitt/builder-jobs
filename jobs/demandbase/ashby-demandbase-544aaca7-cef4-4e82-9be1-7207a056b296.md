@@ -9,12 +9,12 @@ hybrid: no
 posted_at: 2026-04-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/demandbase/544aaca7-cef4-4e82-9be1-7207a056b296
-summary: Design and build self-service database platforms and Infrastructure-as-Code solutions that enable teams to provision, scale, and operate databases across AWS and cloud-native environments at scale. Establish architectural standards and observability frameworks for microservices environments while modernizing legacy database systems.
-skills: Terraform, Kubernetes, AWS (RDS, Aurora, DynamoDB), PostgreSQL, MySQL, Prometheus, Grafana, Datadog, GitLab CI/CD, Helm, BigQuery, Iceberg, OpenSearch
+summary: Design and build self-service database platforms and infrastructure-as-code solutions that enable teams to provision, operate, and scale databases across AWS environments. Lead modernization of database systems in a global organization while establishing architectural standards for microservices and analytical workloads at scale.
+skills: Terraform, Kubernetes, PostgreSQL, MySQL, DynamoDB, AWS, GitLab CI/CD, Prometheus
 level: staff
 comp: 
 comp_extras: 
-render_hash: c3865823
+render_hash: d891a492
 -->
 
 # Staff Database Platform Engineer
@@ -22,9 +22,9 @@ render_hash: c3865823
 <img src="https://www.google.com/s2/favicons?domain=demandbase.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Demandbase**  
 US · `Staff` · `Remote`
 
-_Design and build self-service database platforms and Infrastructure-as-Code solutions that enable teams to provision, scale, and operate databases across AWS and cloud-native environments at scale. Establish architectural standards and observability frameworks for microservices environments while modernizing legacy database systems._
+_Design and build self-service database platforms and infrastructure-as-code solutions that enable teams to provision, operate, and scale databases across AWS environments. Lead modernization of database systems in a global organization while establishing architectural standards for microservices and analytical workloads at scale._
 
-![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS (RDS, Aurora, DynamoDB)](https://img.shields.io/badge/AWS_%28RDS%2C_Aurora%2C_DynamoDB%29-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-3B82F6?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square) ![Iceberg](https://img.shields.io/badge/Iceberg-3B82F6?style=flat-square) ![OpenSearch](https://img.shields.io/badge/OpenSearch-3B82F6?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square)
 
 <sub>Posted April 1, 2026</sub>
 

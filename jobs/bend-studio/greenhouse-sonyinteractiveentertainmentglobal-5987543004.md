@@ -14,7 +14,7 @@ skills: C++, Python, Jenkins, GitHub Actions, Docker
 level: staff
 comp: 
 comp_extras: 
-render_hash: ba85f025
+render_hash: bfcf14ae
 -->
 
 # Staff Software Engineer

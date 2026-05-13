@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 990495f4
+render_hash: 2096be6a
 -->
 
 # Full Stack Engineer, Risk & Support

@@ -14,15 +14,13 @@ skills: Terraform, GCP, AWS, Okta, Python, security automation, incident respons
 level: senior
 comp: $100k-$150k
 comp_extras: bonus plans
-render_hash: 9d7d89eb
+render_hash: e812cd96
 -->
 
 # Infrastructure Engineer 
 
 <img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI**  
-Seattle, WA · `Senior` · `Hybrid`
-
-`$100k-$150k` `bonus plans`
+Seattle, WA · `Senior` · `Hybrid` · `$100k-$150k` · `bonus plans`
 
 > Allen Institute for AI conducts research and engineering to tackle key problems in artificial intelligence.
 

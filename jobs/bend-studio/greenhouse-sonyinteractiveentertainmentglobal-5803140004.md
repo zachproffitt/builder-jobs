@@ -14,7 +14,7 @@ skills: Ceph, Rook, Kubernetes, Bash, Python
 level: senior
 comp: 
 comp_extras: 
-render_hash: b877102b
+render_hash: cdf3ba23
 -->
 
 # Senior Storage Platform Engineer

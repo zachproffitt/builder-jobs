@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 06bca6ee
+render_hash: 980e53a9
 -->
 
 # Software Engineer, Agent (Thai Speaking)

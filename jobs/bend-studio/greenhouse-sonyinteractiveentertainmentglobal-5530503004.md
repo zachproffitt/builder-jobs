@@ -14,7 +14,7 @@ skills: C/C++, RF/wireless systems, low-latency communication protocols, firmwar
 level: senior
 comp: 
 comp_extras: 
-render_hash: 67d9fbfe
+render_hash: 5befcd7c
 -->
 
 # Senior Embedded Firmware Engineer

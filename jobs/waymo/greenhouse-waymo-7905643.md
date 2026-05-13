@@ -14,7 +14,7 @@ skills: backend, C++, distributed systems, ML/optimization infrastructure, Pytho
 level: senior
 comp: 
 comp_extras: 
-render_hash: f179eecc
+render_hash: 3881abd4
 -->
 
 # Software Engineer, Marketplace Pricing

@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5981146004
-summary: Build and ship production code for the Speechify iOS app, maintaining and enhancing its complex architecture to support millions of users. Lead key engineering and product decisions within a dedicated product team while shaping the product roadmap.
-skills: Swift, SwiftUI
+summary: Build and maintain the iOS app for Speechify's text-to-speech platform, shipping production code and leading key engineering decisions for a product with millions of users. Drive product architecture decisions and participate in roadmap planning for a #18 productivity app on the App Store.
+skills: Swift, SwiftUI, iOS Development
 level: senior
 comp: 
 comp_extras: 
-render_hash: 3fd30151
+render_hash: 3be94832
 -->
 
 # Software Engineer, iOS Core Product - Brussels, Belgium
@@ -22,9 +22,9 @@ render_hash: 3fd30151
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Brussels, Belgium · `Senior`
 
-_Build and ship production code for the Speechify iOS app, maintaining and enhancing its complex architecture to support millions of users. Lead key engineering and product decisions within a dedicated product team while shaping the product roadmap._
+_Build and maintain the iOS app for Speechify's text-to-speech platform, shipping production code and leading key engineering decisions for a product with millions of users. Drive product architecture decisions and participate in roadmap planning for a #18 productivity app on the App Store._
 
-![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square) ![iOS Development](https://img.shields.io/badge/iOS_Development-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

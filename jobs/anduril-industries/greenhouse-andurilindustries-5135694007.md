@@ -14,7 +14,7 @@ skills: C/C++, Python, NoSQL, machine learning, differential equations
 level: senior
 comp: 
 comp_extras: 
-render_hash: e23a059e
+render_hash: 7e94f465
 -->
 
 # Senior Software Engineer

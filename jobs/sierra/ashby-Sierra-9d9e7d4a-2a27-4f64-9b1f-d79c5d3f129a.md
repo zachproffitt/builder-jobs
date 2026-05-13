@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: b016a685
+render_hash: b4b92aae
 -->
 
 # Software Engineer, Agent (French speaking)

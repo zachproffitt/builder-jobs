@@ -14,7 +14,7 @@ skills: C++, JavaScript, TypeScript, React, Jenkins, Gradle, npm
 level: senior
 comp: 
 comp_extras: 
-render_hash: fb2f6b5a
+render_hash: 1e9c01ed
 -->
 
 # Senior Software Engineer SDK

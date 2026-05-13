@@ -14,7 +14,7 @@ skills: CAD, prototyping, testing, production, electromechanical systems
 level: 
 comp: 
 comp_extras: 
-render_hash: 88dd23b0
+render_hash: 6aaf192b
 -->
 
 # Staff Mechanical Design Engineer

@@ -14,7 +14,7 @@ skills: Python, SQL, Big Query, Spark, Golang
 level: senior
 comp: 
 comp_extras: 
-render_hash: 6a04437c
+render_hash: 29253cbe
 -->
 
 # Software Engineer, AI Platform (All Industry Levels)

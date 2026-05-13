@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 35ec4bee
+render_hash: a9ee5148
 -->
 
 # Strategist, Agent Development

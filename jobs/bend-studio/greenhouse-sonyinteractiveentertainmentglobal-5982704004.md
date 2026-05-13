@@ -14,7 +14,7 @@ skills: Infrastructure-as-Code (IaC), CI/CD systems
 level: senior
 comp: 
 comp_extras: 
-render_hash: 61f79572
+render_hash: f4901628
 -->
 
 # Senior Software Engineer-DevOps

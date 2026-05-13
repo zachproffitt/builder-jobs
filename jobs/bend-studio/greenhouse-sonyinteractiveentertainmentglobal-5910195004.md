@@ -14,7 +14,7 @@ skills: Java, Selenium WebDriver, Applitools, Cucumber, Jenkins
 level: senior
 comp: 
 comp_extras: 
-render_hash: 9f0683d9
+render_hash: b44c0df1
 -->
 
 # QA Automation Engineer  

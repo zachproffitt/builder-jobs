@@ -14,7 +14,7 @@ skills: JavaScript, React, TypeScript, Node.js, Jest
 level: mid
 comp: 
 comp_extras: 
-render_hash: 48f9e915
+render_hash: 1e56fbe3
 -->
 
 # Software Engineer II

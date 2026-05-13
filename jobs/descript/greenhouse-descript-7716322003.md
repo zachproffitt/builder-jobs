@@ -14,7 +14,7 @@ skills: HTML, CSS, headless CMS (Contentful, Builder.io), JavaScript (implied by
 level: senior
 comp: 
 comp_extras: 
-render_hash: e4d27d91
+render_hash: 67612ae7
 -->
 
 # Senior Frontend Engineer, Marketing Web

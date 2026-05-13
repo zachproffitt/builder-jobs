@@ -14,7 +14,7 @@ skills: C/C++, HLSL, GPU architecture, Shader Model 6, GitHub
 level: 
 comp: 
 comp_extras: 
-render_hash: 4ecd9a05
+render_hash: d0365cb2
 -->
 
 # Graphics Engineer

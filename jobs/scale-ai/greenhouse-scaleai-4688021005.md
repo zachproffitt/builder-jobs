@@ -14,7 +14,7 @@ skills: Workato, NetSuite, Coupa, ADP, Deel
 level: manager
 comp: 
 comp_extras: 
-render_hash: e448c0df
+render_hash: bde4741b
 -->
 
 # Finance Systems & Automations Manager

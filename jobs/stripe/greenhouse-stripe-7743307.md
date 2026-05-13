@@ -14,7 +14,7 @@ skills: JavaScript, TypeScript, AI-native frontend development, build toolchain,
 level: senior
 comp: 
 comp_extras: 
-render_hash: dbb24ec5
+render_hash: d2f6361a
 -->
 
 # Frontend Platform Engineer, JavaScript Infrastructure

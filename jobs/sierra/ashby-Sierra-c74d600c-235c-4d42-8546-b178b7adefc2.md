@@ -14,7 +14,7 @@ skills: React, TypeScript, Go, RAG pipelines, prompt engineering
 level: intern
 comp: 
 comp_extras: 
-render_hash: ee7164e9
+render_hash: 76cfe58f
 -->
 
 # Intern, Agent Development (Fall 2026)

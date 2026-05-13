@@ -14,7 +14,7 @@ skills: CI/CD, testing, lifecycle automation, platform-first practices, service 
 level: principal
 comp: 
 comp_extras: 
-render_hash: 8044a880
+render_hash: cbca6470
 -->
 
 # Principal Engineer, Developer Experience (DevEx)

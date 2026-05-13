@@ -14,7 +14,7 @@ skills: C/C++, Golang, Rust, Python, Linux
 level: manager
 comp: 
 comp_extras: 
-render_hash: 490f31ef
+render_hash: d49319b0
 -->
 
 # Manager, Security Software Engineering

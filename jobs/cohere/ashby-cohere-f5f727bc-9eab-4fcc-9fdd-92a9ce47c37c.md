@@ -14,7 +14,7 @@ skills: Golang, React
 level: 
 comp: 
 comp_extras: 
-render_hash: 89e5877a
+render_hash: 407ee2f3
 -->
 
 # Full-Stack Software Engineer, Inference

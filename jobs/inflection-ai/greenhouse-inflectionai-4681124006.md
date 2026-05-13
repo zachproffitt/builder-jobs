@@ -14,7 +14,7 @@ skills: PyTorch, CUDA, diffusion models, autoregressive codecs, flow-matching
 level: senior
 comp: 
 comp_extras: 
-render_hash: cfc51591
+render_hash: 417e68a2
 -->
 
 # Research Engineer, Voice

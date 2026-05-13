@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5975224004
-summary: Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training Speechify's text-to-speech models. Integrate web crawlers, cloud infrastructure, and data processing workflows to optimize the cost/throughput/quality frontier for AI model training.
-skills: Python, Bash, Docker, Terraform, GCP, Linux, web crawlers, large-scale data processing
+summary: Build and operate cloud-based data ingestion pipelines on GCP that collect and process petabyte-scale audio datasets to power model training. Integrate infrastructure, engineering, and research to optimize the cost/throughput/quality frontier for next-generation AI models.
+skills: Python, Bash, Docker, Terraform, GCP, Web Crawlers, Large-Scale Data Processing, Infrastructure-as-Code
 level: senior
 comp: 
 comp_extras: 
-render_hash: d7ff2962
+render_hash: 03eecbf1
 -->
 
 # Software Engineer, Data Infrastructure & Acquisition - Bucharest, Romania
@@ -22,9 +22,9 @@ render_hash: d7ff2962
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Bucharest, Romania · `Senior`
 
-_Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training Speechify's text-to-speech models. Integrate web crawlers, cloud infrastructure, and data processing workflows to optimize the cost/throughput/quality frontier for AI model training._
+_Build and operate cloud-based data ingestion pipelines on GCP that collect and process petabyte-scale audio datasets to power model training. Integrate infrastructure, engineering, and research to optimize the cost/throughput/quality frontier for next-generation AI models._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![web crawlers](https://img.shields.io/badge/web_crawlers-3B82F6?style=flat-square) ![large-scale data processing](https://img.shields.io/badge/large--scale_data_processing-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Large-Scale Data Processing](https://img.shields.io/badge/Large--Scale_Data_Processing-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

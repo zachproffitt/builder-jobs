@@ -14,7 +14,7 @@ skills: AWS, Azure, Hyper-V, GPOs, PowerShell
 level: senior
 comp: 
 comp_extras: 
-render_hash: 676c6319
+render_hash: 68f14c76
 -->
 
 # Senior IT Systems Engineer

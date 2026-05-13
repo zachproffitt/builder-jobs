@@ -9,22 +9,20 @@ hybrid: no
 posted_at: 2025-02-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/suno/8a5c628e-0b44-492d-8ed4-39efae717b18
-summary: Design and build Suno's Android app for music creation, exploring, and listening. Create foundational abstractions and libraries for performant, highly interactive media experiences.
+summary: Build Suno's Android app for music creation, exploring, and listening. Create foundational abstractions and libraries for performant, highly interactive media experiences with audio streaming and real-time interaction at scale.
 skills: Kotlin, Android, ExoPlayer, Media3, REST APIs, Material Design
 level: mid
 comp: 
-comp_extras: equity, 401(k) with 3% employer match, medical/dental/vision insurance, 11 paid holidays + unlimited PTO, 16 weeks paid parental leave, creative education stipend, commuter allowance
-render_hash: 9f2f349e
+comp_extras: equity
+render_hash: 4d5e6ae7
 -->
 
 # Software Engineer, Android
 
 <img src="https://www.google.com/s2/favicons?domain=suno.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Suno**  
-NYC · `Mid` · On-site
+NYC · `Mid` · On-site · `equity`
 
-`equity` `401(k) with 3% employer match` `medical/dental/vision insurance` `11 paid holidays + unlimited PTO` `16 weeks paid parental leave` `creative education stipend` `commuter allowance`
-
-_Design and build Suno's Android app for music creation, exploring, and listening. Create foundational abstractions and libraries for performant, highly interactive media experiences._
+_Build Suno's Android app for music creation, exploring, and listening. Create foundational abstractions and libraries for performant, highly interactive media experiences with audio streaming and real-time interaction at scale._
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![ExoPlayer](https://img.shields.io/badge/ExoPlayer-3B82F6?style=flat-square) ![Media3](https://img.shields.io/badge/Media3-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Material Design](https://img.shields.io/badge/Material_Design-3B82F6?style=flat-square)
 

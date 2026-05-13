@@ -14,7 +14,7 @@ skills: Node.js, TypeScript/JavaScript, RESTful APIs, Git, CI/CD pipelines
 level: mid
 comp: 
 comp_extras: 
-render_hash: 86812f3b
+render_hash: ef4410ca
 -->
 
 # Software Engineer II

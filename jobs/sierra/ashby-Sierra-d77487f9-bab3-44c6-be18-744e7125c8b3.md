@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: 59cf0236
+render_hash: 97ef6277
 -->
 
 # Software Engineer, Platform

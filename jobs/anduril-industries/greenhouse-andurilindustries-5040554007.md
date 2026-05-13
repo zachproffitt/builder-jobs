@@ -14,7 +14,7 @@ skills: FANUC, UR, RoboDK, FANUC ROBOGUIDE, Delmia
 level: 
 comp: 
 comp_extras: 
-render_hash: abca2d85
+render_hash: c5b574fa
 -->
 
 # Senior Robotics Engineer, Manufacturing Automation 

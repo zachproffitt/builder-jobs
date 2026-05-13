@@ -14,7 +14,7 @@ skills: Go, YAML, Helm, Kubernetes, container security
 level: senior
 comp: 
 comp_extras: 
-render_hash: 9161401a
+render_hash: 293798e9
 -->
 
 # Senior Supply Chain Security Engineer

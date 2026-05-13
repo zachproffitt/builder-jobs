@@ -14,7 +14,7 @@ skills: cloud infrastructure, CI/CD pipelines, monitoring systems, observability
 level: senior
 comp: 
 comp_extras: 
-render_hash: 555392b3
+render_hash: 95f5f1dc
 -->
 
 # Site Reliability Engineer

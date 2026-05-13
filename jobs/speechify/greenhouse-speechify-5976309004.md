@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5976309004
-summary: Build and own major features for Speechify's Android app, the most-used text-to-speech application in the Play Store, while shaping the technical direction of the Android team. Drive reliability improvements and user experience enhancements across a product serving 50 million users.
-skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Clean Architecture, Android Jetpack, JUnit
+summary: Build and own major features for Speechify's Android app, the most-used text-to-speech app on the Play Store, while shaping the Android team's technical direction. Drive reliability, performance, and user experience across millions of users.
+skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Android, Jetpack Navigation
 level: senior
 comp: 
 comp_extras: 
-render_hash: fe02a313
+render_hash: 05ef768f
 -->
 
 # Tech Lead, Android Core Product - Zurich, Switzerland
@@ -22,9 +22,9 @@ render_hash: fe02a313
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
 Zurich, Switzerland · `Senior`
 
-_Build and own major features for Speechify's Android app, the most-used text-to-speech application in the Play Store, while shaping the technical direction of the Android team. Drive reliability improvements and user experience enhancements across a product serving 50 million users._
+_Build and own major features for Speechify's Android app, the most-used text-to-speech app on the Play Store, while shaping the Android team's technical direction. Drive reliability, performance, and user experience across millions of users._
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3B82F6?style=flat-square) ![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Jetpack Navigation](https://img.shields.io/badge/Jetpack_Navigation-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -14,7 +14,7 @@ skills:
 level: manager
 comp: 
 comp_extras: 
-render_hash: 14271a23
+render_hash: 7aa43f96
 -->
 
 # Head of IT & Internal Tools

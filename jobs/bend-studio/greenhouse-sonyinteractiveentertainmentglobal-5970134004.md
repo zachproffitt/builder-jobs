@@ -14,7 +14,7 @@ skills: C++
 level: senior
 comp: 
 comp_extras: 
-render_hash: 3e2be3c9
+render_hash: ee498c11
 -->
 
 # Senior Gameplay Programmer

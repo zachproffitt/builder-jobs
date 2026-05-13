@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: e306367a
+render_hash: 1c54d72d
 -->
 
 # Backend Engineer, Core Tech, Canada

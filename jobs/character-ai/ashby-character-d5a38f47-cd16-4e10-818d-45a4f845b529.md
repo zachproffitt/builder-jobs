@@ -14,7 +14,7 @@ skills: PyTorch, diffusion models, DiT, ControlNet, FSDP
 level: senior
 comp: 
 comp_extras: 
-render_hash: 531bddbf
+render_hash: 96eb9935
 -->
 
 # Research Engineer, Multimodal

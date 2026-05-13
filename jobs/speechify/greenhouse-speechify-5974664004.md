@@ -9,24 +9,22 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/speechify/jobs/5974664004
-summary: Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience, optimizing cloud functions, backend services, and client-side abstractions. Work at the intersection of product and infrastructure, designing efficient APIs and systems that directly enhance user experience across web, mobile, and cloud platforms.
-skills: Kotlin, Kotlin Multiplatform, Java, GCP, Kotlin cloud functions
+summary: Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience, optimizing for speed and user experience. Design efficient abstractions and ship cloud functions, backend services, and jobs serving millions of users with accessibility-focused audio products.
+skills: Kotlin, Kotlin Multiplatform, Java, GCP, Cloud Functions, Backend Services
 level: senior
 comp: $140k-$200k
-comp_extras: bonus, stock
-render_hash: 1600215d
+comp_extras: bonus, equity
+render_hash: 701eb13c
 -->
 
 # Senior Software Engineer, Core Experiences - Des Moines, IA, USA
 
 <img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Des Moines, IA, USA · `Senior`
+Des Moines, IA, USA · `Senior` · `$140k-$200k` · `bonus` · `equity`
 
-`$140k-$200k` `bonus` `stock`
+_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience, optimizing for speed and user experience. Design efficient abstractions and ship cloud functions, backend services, and jobs serving millions of users with accessibility-focused audio products._
 
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience, optimizing cloud functions, backend services, and client-side abstractions. Work at the intersection of product and infrastructure, designing efficient APIs and systems that directly enhance user experience across web, mobile, and cloud platforms._
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kotlin cloud functions](https://img.shields.io/badge/Kotlin_cloud_functions-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

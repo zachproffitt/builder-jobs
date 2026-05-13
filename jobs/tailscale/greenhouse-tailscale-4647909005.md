@@ -14,7 +14,7 @@ skills: Go, WireGuard, TCP/UDP, TLS, concurrency
 level: 
 comp: 
 comp_extras: 
-render_hash: 5eee2071
+render_hash: 7cdb2356
 -->
 
 # Go Core Client Engineer

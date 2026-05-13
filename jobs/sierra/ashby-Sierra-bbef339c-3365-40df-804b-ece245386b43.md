@@ -14,7 +14,7 @@ skills: DevOps tools, scripting, secure coding practices, cloud security platfor
 level: 
 comp: 
 comp_extras: 
-render_hash: 042ec93a
+render_hash: c01bb100
 -->
 
 # Security Engineer

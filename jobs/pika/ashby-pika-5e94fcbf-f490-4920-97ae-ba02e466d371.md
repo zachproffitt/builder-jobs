@@ -14,7 +14,7 @@ skills: Node.js, Python, Go, AWS, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: 84e40e86
+render_hash: a18d54d4
 -->
 
 # Senior Software Engineer, Backend

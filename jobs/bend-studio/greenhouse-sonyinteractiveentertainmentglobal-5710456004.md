@@ -14,7 +14,7 @@ skills: C++, Linux, CMake, Git, shader programming
 level: senior
 comp: 
 comp_extras: 
-render_hash: ed624db6
+render_hash: 44ef04df
 -->
 
 # Senior Software Engineer (C++)

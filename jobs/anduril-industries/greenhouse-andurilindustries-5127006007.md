@@ -14,7 +14,7 @@ skills: Verilog, FPGA, Altium Designer, Ethernet, signal integrity
 level: 
 comp: 
 comp_extras: 
-render_hash: 055ee88c
+render_hash: 1ae93c70
 -->
 
 # Flight Computer Hardware Lead, Core Technology

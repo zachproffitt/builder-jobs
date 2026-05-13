@@ -14,7 +14,7 @@ skills: Terraform, Kubernetes, cloud platforms (GCP, AWS, Azure, OCI), networkin
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4678fa5b
+render_hash: 5f21074e
 -->
 
 # Member of Technical Staff, Supercomputing Platform & Infrastructure

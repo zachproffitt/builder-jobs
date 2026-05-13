@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4167d41d
+render_hash: 41fbe079
 -->
 
 # Software Engineer, Frontend

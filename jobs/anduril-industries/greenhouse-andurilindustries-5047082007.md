@@ -14,7 +14,7 @@ skills: Applied mathematics, differential equations, linear algebra, numerical a
 level: senior
 comp: 
 comp_extras: 
-render_hash: 42e71c7a
+render_hash: ed51d318
 -->
 
 # Research Scientist

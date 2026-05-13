@@ -14,7 +14,7 @@ skills: Python, Rust, Go, Kubernetes, AWS/GCP/Azure
 level: 
 comp: 
 comp_extras: 
-render_hash: ab8e52f5
+render_hash: 26c7e77a
 -->
 
 # Security Engineer

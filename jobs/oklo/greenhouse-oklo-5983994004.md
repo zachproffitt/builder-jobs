@@ -14,7 +14,7 @@ skills: PLC, SCADA, network topology
 level: 
 comp: 
 comp_extras: 
-render_hash: 45d8f015
+render_hash: 60eaeabc
 -->
 
 # Instrumentation and Control Engineer - Fuel Recycling

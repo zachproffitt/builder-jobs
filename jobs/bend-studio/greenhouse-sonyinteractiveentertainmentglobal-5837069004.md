@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: 5114c00a
+render_hash: 57e70ef4
 -->
 
 # Senior Software Engineer - GPU Capture and Replay

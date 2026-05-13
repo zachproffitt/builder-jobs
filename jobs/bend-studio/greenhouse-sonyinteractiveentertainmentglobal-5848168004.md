@@ -14,7 +14,7 @@ skills: PHP, JS, React, relational databases, AWS
 level: senior
 comp: 
 comp_extras: 
-render_hash: 06a8c70d
+render_hash: 27884553
 -->
 
 # Senior Technical Operations Developer

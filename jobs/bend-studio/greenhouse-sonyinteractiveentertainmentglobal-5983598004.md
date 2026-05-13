@@ -14,7 +14,7 @@ skills: Linux, Windows, Ceph, storage systems, virtualization
 level: senior
 comp: 
 comp_extras: 
-render_hash: 7dd4eea2
+render_hash: 372f97a1
 -->
 
 # Lead Systems Engineer

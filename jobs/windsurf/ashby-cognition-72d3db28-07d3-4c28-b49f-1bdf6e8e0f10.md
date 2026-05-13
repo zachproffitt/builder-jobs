@@ -14,7 +14,7 @@ skills:
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1bb28dfa
+render_hash: 20148dd9
 -->
 
 # Research, Post-Training

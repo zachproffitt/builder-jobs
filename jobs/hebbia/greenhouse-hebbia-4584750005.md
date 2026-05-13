@@ -14,7 +14,7 @@ skills:
 level: 
 comp: 
 comp_extras: 
-render_hash: 4c43a857
+render_hash: d4e3a5df
 -->
 
 # Platform Engineer, Document Intelligence
