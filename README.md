@@ -5,29 +5,86 @@ Roles are scraped hourly from company career pages and classified by Claude Haik
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 22 open roles (22 new today) &nbsp;·&nbsp; 296 companies searched
+### 27 open roles (27 new today) &nbsp;·&nbsp; 296 companies searched
 
 <br>
 
 ## May 13, 2026
 
-### [Site Reliability Engineer - UK](jobs/anduril-industries/greenhouse-andurilindustries-5038708007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · London, England, United Kingdom · `Senior` · `£75k-£100k` · `Equity`
+### [Software Engineer, Systems - Claude Code](jobs/anthropic/greenhouse-anthropic-5218395008.md)
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · San Francisco, CA · `Senior` · `Hybrid` · `$320k-$485k` · `Equity`
 
-_Design and deploy infrastructure automation, DevSecOps toolchains, and observability systems to support sovereign and multinational defense programs in the UK and Australia. Requires UK security clearance and experience in highly regulated defense or government environments._
+_Optimize the performance and reliability of Claude Code and the Bun JavaScript runtime by designing and building core systems including runtime internals, I/O paths, memory management, and the agent execution loop. Drive down memory usage, latency, and startup time across the stack from kernel interfaces through the JS engine to the agent layer._
 
-![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![DevSecOps](https://img.shields.io/badge/DevSecOps-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![PKI](https://img.shields.io/badge/PKI-3B82F6?style=flat-square) ![TLS](https://img.shields.io/badge/TLS-3B82F6?style=flat-square) ![VMWare](https://img.shields.io/badge/VMWare-3B82F6?style=flat-square)
+![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Linux internals](https://img.shields.io/badge/Linux_internals-3B82F6?style=flat-square) ![Memory management](https://img.shields.io/badge/Memory_management-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Bun runtime](https://img.shields.io/badge/Bun_runtime-3B82F6?style=flat-square)
 
+<sub>16:15 UTC</sub>
 
 ---
 
-### [Senior Software Engineer, Intelligence Systems](jobs/anduril-industries/greenhouse-andurilindustries-5136534007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Reston, Virginia, United States · `Senior` · `$191k-$253k` · `Equity`
+### [Software Engineer, AI Dev Velocity](jobs/notion/ashby-notion-c565d3b0-0dcf-4bcd-b29b-4168479ac78e.md)
+<img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion** · San Francisco, California · `Mid` · `Remote` · `$214k-$300k` · `Equity`
 
-_Design and implement test automation frameworks, scripts, and custom utilities to validate advanced networking devices and systems. Requires active security clearance and involves Hardware-In-The-Loop testing of defense/IC systems in a specialized domain._
+_Build scalable evaluation infrastructure and tooling that enables Notion's AI teams to ship high-quality models faster, including eval runners, benchmarks, datasets, and measurement systems. Work at the intersection of developer tooling and distributed systems to make LLM evaluations reliable, cost-effective, and integrated into daily shipping workflows._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-3B82F6?style=flat-square) ![Test Automation Frameworks](https://img.shields.io/badge/Test_Automation_Frameworks-3B82F6?style=flat-square) ![Hardware-In-The-Loop Testing](https://img.shields.io/badge/Hardware--In--The--Loop_Testing-3B82F6?style=flat-square) ![Networking Protocols](https://img.shields.io/badge/Networking_Protocols-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Batch Processing](https://img.shields.io/badge/Batch_Processing-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
+<sub>16:15 UTC</sub>
+
+---
+
+### [Senior Engineer, Server](jobs/scopely/greenhouse-scopely-4662589008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · `Hybrid`
+
+_Build and maintain the backend server infrastructure for a cross-platform Strategy/MMO game's LiveOps platform, delivering high-performance web services that handle millions of concurrent players. Design scalable, low-latency cloud solutions in AWS supporting real-time game operations and player engagement at massive scale._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square)
+
+<sub>16:15 UTC</sub>
+
+---
+
+### [Platform Engineer (Reliability) - Unannounced Project](jobs/scopely/greenhouse-scopely-5081833008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Spain; GB - United Kingdom; IE - Ireland; PT - Portugal · `Senior` · `Hybrid`
+
+_Build and operate reliability and observability infrastructure for a multiplayer strategy MMO, automating operational toil and implementing systems that scale to millions of concurrent players. Drive production incident response, performance optimization, and cloud cost management across distributed game services._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+
+<sub>16:15 UTC</sub>
+
+---
+
+### [Platform Engineer (Automation) - Unannounced Project](jobs/scopely/greenhouse-scopely-5098020008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain; ES - Spain; GB - United Kingdom; IE - Dublin, Ireland; PT - Portugal · `Senior` · `Hybrid`
+
+_Build and evolve CI/CD pipelines, automation frameworks, and internal developer tooling that enable safe, reliable software delivery across development and production environments. This role requires operating systems across multiple environments and improving engineering team productivity through infrastructure-as-code and deployment automation._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+
+<sub>16:15 UTC</sub>
+
+---
+
+### [Engineer, Server](jobs/scopely/greenhouse-scopely-5124529008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · `Hybrid`
+
+_Build backend services and APIs in Python running on AWS for a large-scale multiplayer strategy game, handling server architecture, performance optimization, and anti-cheat systems. Work on foundational server technologies supporting millions of concurrent players with requirements for high availability, low latency, and security hardening._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+
+<sub>16:15 UTC</sub>
+
+---
+
+### [Software Developer II - ShareGate Migrate [Web Experience]](jobs/workleap/greenhouse-workleap-5133911007.md)
+<img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Workleap** · Canada · `Mid` · `Remote` · `$100k-$130k CAD`
+
+_Build a brand-new web application for ShareGate Migrate from scratch, establishing technical foundations and shipping full-stack features using TypeScript and React. Integrate Microsoft 365 APIs (Microsoft Graph, Azure AD/Entra ID, MSAL) to enable migration and authentication workflows at scale for thousands of IT professionals._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-3B82F6?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-3B82F6?style=flat-square) ![Azure AD/Entra ID](https://img.shields.io/badge/Azure_AD%2FEntra_ID-3B82F6?style=flat-square) ![MSAL](https://img.shields.io/badge/MSAL-3B82F6?style=flat-square) ![Relational Databases](https://img.shields.io/badge/Relational_Databases-3B82F6?style=flat-square) ![Non-relational Databases](https://img.shields.io/badge/Non--relational_Databases-3B82F6?style=flat-square)
+
+<sub>16:15 UTC</sub>
 
 ---
 
