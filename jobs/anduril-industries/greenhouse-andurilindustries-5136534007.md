@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007
 summary: Design and implement test automation frameworks, scripts, and custom utilities to validate advanced networking devices and systems. Requires active security clearance and involves Hardware-In-The-Loop testing of defense/IC systems in a specialized domain.
 skills: Python, Wireshark, Test Automation Frameworks, Hardware-In-The-Loop Testing, Networking Protocols, Security Clearance
 level: senior
 comp: $191k-$253k
 comp_extras: equity
-render_hash: cc436c3f
+render_hash: f72574ec
 -->
 
 # Senior Software Engineer, Intelligence Systems

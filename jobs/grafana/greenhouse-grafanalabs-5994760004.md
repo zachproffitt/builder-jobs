@@ -8,13 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://job-boards.greenhouse.io/grafanalabs/jobs/5994760004
 summary: Build intuitive, queryless exploration workflows and guided user interfaces for the Grafana observability platform using React and TypeScript. The role requires ownership of frontend systems that must maintain responsive, high-performance interactions while integrating across the broader Grafana ecosystem.
 skills: React, TypeScript, Frontend Development, Performance Optimization, Accessibility, Testing Automation, Open Telemetry
 level: staff
 comp: €94,025-€112,830
 comp_extras: equity
-render_hash: 0b66becc
+render_hash: 585dfb40
 -->
 
 # Staff Frontend Engineer - Observability Drilldown | EMEA | Remote

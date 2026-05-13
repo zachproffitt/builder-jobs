@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://www.riotgames.com/en/work-with-us/job/7892751?gh_jid=7892751
 summary: Build and operate scalable microservices and backend systems that handle high-volume gaming infrastructure and China-specific requirements. Work with distributed systems operating at massive scale (100+ million monthly players) while maintaining fault tolerance and reliability across multiple tech stacks.
 skills: Java, Go, C++, C#, Microservices, AWS, Distributed Systems, Cloud Services (Tencent Cloud)
 level: senior
 comp: 
 comp_extras: 
-render_hash: 034f4a4c
+render_hash: 27be649f
 -->
 
 # Senior Software Engineer -  Tech Foundations

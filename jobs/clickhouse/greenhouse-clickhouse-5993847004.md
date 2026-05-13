@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://job-boards.greenhouse.io/clickhouse/jobs/5993847004
 summary: Design and build reusable data pipeline components, ETL abstractions, and DataOps tooling on ClickHouse to power real-time analytics across the organization. Optimize high-throughput pipelines processing 2.5+ PB of data with sub-hour latency requirements.
 skills: Python, Airflow, dbt, SQL, ClickHouse, GitHub Actions, AWS, Incremental ETL
 level: senior
 comp: $84k-$170k
 comp_extras: equity
-render_hash: 64b99821
+render_hash: fa4cb039
 -->
 
 # Senior Data Engineer - Python, CI/CD

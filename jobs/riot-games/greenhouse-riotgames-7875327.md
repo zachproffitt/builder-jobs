@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://www.riotgames.com/en/work-with-us/job/7875327?gh_jid=7875327
 summary: Build tools, pipelines, and systems for character asset development in League of Legends, enabling artists to author and scale high-quality content. Work at the intersection of art and engineering to maintain data pipelines at scale across multiple live-service content types and partner studios.
 skills: Python, C++, C#, CI/CD, Character Pipelines, 3D Tools (Substance, ZBrush, Maya), DCC App Development
 level: senior
 comp: 
 comp_extras: 
-render_hash: 14ba5a97
+render_hash: 34c6abcb
 -->
 
 # Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech

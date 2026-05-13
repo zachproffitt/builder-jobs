@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://www.cockroachlabs.com/careers/job/?gh_jid=7422578
 summary: Design and build specialized indexing systems (vector, full-text, geospatial) for CockroachDB's distributed SQL engine. Work on high-performance indexing at the frontier of databases and AI, integrating new indexing mechanisms into the query engine and developing hybrid search capabilities.
 skills: Go, C++, Rust, PostgreSQL, Vector Indexing, Full-Text Search, Geospatial Indexing, Distributed Systems
 level: staff
 comp: 
 comp_extras: equity
-render_hash: 7202be4c
+render_hash: 77b0d3ca
 -->
 
 # Member of Technical Staff (Senior - Specialized Indexing)

@@ -8,13 +8,14 @@ remote: Remote
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://job-boards.greenhouse.io/monzo/jobs/7912647
 summary: Lead the architecture and delivery of security-focused platform primitives (compute, storage, networking, identity) across Monzo's financial infrastructure. Build secure-by-design systems and tooling that enable engineering teams to move at scale without compromising security in a high-threat environment handling millions of users' sensitive financial data.
 skills: Distributed Systems, Cryptography, Kubernetes, Cloud Infrastructure (AWS/GCP/Azure), Go, Rust, Threat Modeling, Platform Security
 level: manager
 comp: £170k-£200k
 comp_extras: equity
-render_hash: fc422ed4
+render_hash: eb80e85f
 -->
 
 # Engineering Director, Security

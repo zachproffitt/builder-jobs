@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://boards.greenhouse.io/andurilindustries/jobs/5038708007?gh_jid=5038708007
 summary: Design and deploy infrastructure automation, DevSecOps toolchains, and observability systems to support sovereign and multinational defense programs in the UK and Australia. Requires UK security clearance and experience in highly regulated defense or government environments.
 skills: Terraform, AWS, Infrastructure as Code, DevSecOps, Linux, PKI, TLS, VMWare
 level: senior
 comp: £75k-£100k
 comp_extras: equity
-render_hash: 7aa41042
+render_hash: b1274962
 -->
 
 # Site Reliability Engineer - UK

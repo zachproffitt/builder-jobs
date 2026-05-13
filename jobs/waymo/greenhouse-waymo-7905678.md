@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://careers.withwaymo.com/jobs?gh_jid=7905678
 summary: Design and implement Waymo's core trip platform APIs and backend services supporting ride-hailing and delivery across 1st and 3rd party partners. Build low-latency, large-scale distributed systems handling trip requests, pricing, and routing in the autonomous vehicle domain.
 skills: C++, Backend Development, API Design, Distributed Systems, Google Cloud Platform, Spanner, Low-Latency Systems, Transportation/Autonomous Vehicles
 level: mid
 comp: $175k-$215k
 comp_extras: equity, bonus
-render_hash: 91bf33b7
+render_hash: 549f4ef1
 -->
 
 # Software Engineer, Trip Platform

@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://www.cockroachlabs.com/careers/job/?gh_jid=7349702
 summary: Design, build, and operate cloud platform infrastructure and systems for CockroachDB Cloud across multiple cloud providers (AWS, Azure, GCP), including Kubernetes cluster management, deployment automation, and production reliability tooling. You will work on globally distributed, mission-critical systems managing multi-region deployments and elastic scaling at scale.
 skills: Go, Python, Kubernetes, AWS, Azure, GCP, Terraform, Distributed Systems
 level: mid
 comp: 
 comp_extras: equity
-render_hash: aa0faa5a
+render_hash: 2eeb703f
 -->
 
 # Member of Technical Staff (Cloud Platform)

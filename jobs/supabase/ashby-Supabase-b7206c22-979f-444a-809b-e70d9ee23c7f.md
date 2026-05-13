@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://jobs.ashbyhq.com/Supabase/b7206c22-979f-444a-809b-e70d9ee23c7f
 summary: Own and evolve the Go-based Supabase Terraform provider, building reliability, ergonomics, and migration paths for infrastructure-as-code workflows at scale. Focus on resource lifecycle correctness, schema evolution, and backwards compatibility for millions of developers.
 skills: Go, Terraform, PostgreSQL, TypeScript, CI/CD, Testing Infrastructure, Schema Design, Distributed Systems
 level: senior
 comp: 
 comp_extras: equity
-render_hash: b58623a6
+render_hash: f4127c1c
 -->
 
 # Software Engineer: IaC Platform Experience

@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://job-boards.greenhouse.io/astranis/jobs/4681218006
 summary: Design and build automated test hardware and control software to validate satellite avionics flight systems. Work on mission-critical test infrastructure for space-qualified hardware in a defense/government contracting environment.
 skills: Python, PCB Design, Altium Designer, Oscilloscope, Embedded Systems, Test Automation, Signal Integrity, Electrical Engineering (B.S./M.S. required)
 level: mid
 comp: $105k-$165k
 comp_extras: equity
-render_hash: 27019d97
+render_hash: 8af26d64
 -->
 
 # Electrical Test Hardware Development Engineer

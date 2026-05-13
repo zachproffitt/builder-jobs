@@ -8,13 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://jobs.ashbyhq.com/Mapbox/ed5ea787-aa68-4968-9c93-eb4d2bd5ac45
 summary: Build and architect the Android Maps SDK that powers mobile mapping applications across phones, tablets, smartwatches, and embedded devices. Lead cross-functional technical initiatives integrating Navigation, Maps, and Search SDKs while mentoring teams and setting long-term architectural direction.
 skills: Kotlin, Java, Android, C++, SDK design, Performance profiling, Testing frameworks, AOSP
 level: senior
 comp: 
 comp_extras: 
-render_hash: a67533ec
+render_hash: 3de18e6e
 -->
 
 # Software Development Engineer III, Android, Maps SDK

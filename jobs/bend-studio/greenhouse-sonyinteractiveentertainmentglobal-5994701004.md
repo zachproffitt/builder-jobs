@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5994701004
 summary: Operate and evolve a global production network backbone connecting data centers, studios, and cloud platforms that power PlayStation services. Work on large-scale networking infrastructure with 24/7 on-call responsibilities in a follow-the-sun operational model.
 skills: BGP, OSPF, IS-IS, Git, Python, Linux, MPLS, sFlow
 level: junior
 comp: 
 comp_extras: 
-render_hash: 5d8e5b05
+render_hash: 855c6db4
 -->
 
 # Network Engineer I

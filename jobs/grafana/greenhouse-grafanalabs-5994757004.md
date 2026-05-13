@@ -8,13 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://job-boards.greenhouse.io/grafanalabs/jobs/5994757004
 summary: Build intuitive, queryless exploration workflows and guided UI features for the Grafana Drilldown plugin that help users navigate and analyze telemetry data. Optimize for performance and responsiveness while integrating across the Grafana observability ecosystem.
 skills: React, TypeScript, Frontend Development, Testing Automation, Accessibility, Performance Optimization, OpenTelemetry
 level: staff
 comp: €117,600-€141,200
 comp_extras: equity
-render_hash: 160378f2
+render_hash: c5e97050
 -->
 
 # Staff Frontend Engineer - Observability Drilldown | EMEA | Remote

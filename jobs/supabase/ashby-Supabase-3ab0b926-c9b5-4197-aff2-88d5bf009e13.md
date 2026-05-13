@@ -8,13 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://jobs.ashbyhq.com/Supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13
 summary: Build and evolve Supabase Edge Runtime, a Rust-based Deno host that executes distributed TypeScript functions at the edge globally. Drive performance optimization, reliability, and developer experience through monitoring, observability, and tight integration with the Supabase platform stack.
 skills: Rust, TypeScript, Deno, V8 Isolates, Kubernetes, AWS, PostgreSQL, OpenTelemetry
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 7d033b9d
+render_hash: 8e0d55be
 -->
 
 # Edge Functions Engineer

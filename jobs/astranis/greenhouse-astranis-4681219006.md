@@ -8,13 +8,14 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
+first_seen_at: 
 url: https://job-boards.greenhouse.io/astranis/jobs/4681219006
 summary: Develop automated test systems and software to validate custom spacecraft electronics across environmental conditions. Work on satellite avionics test infrastructure for high-reliability defense and government communications systems.
 skills: Python, Altium Designer, Oscilloscope, Power Electronics, Environmental Testing (vibration/thermal/TVAC), PCBA Design, Test Automation, U.S. Citizenship Required
 level: mid
 comp: $105k-$165k
 comp_extras: equity
-render_hash: 6299e4c7
+render_hash: 7f12412c
 -->
 
 # Electronics Test Engineer
