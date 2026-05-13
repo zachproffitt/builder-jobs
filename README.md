@@ -5,13 +5,24 @@ Roles are [scraped](https://github.com/zachproffitt/builder-jobs-scraper) hourly
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 69 open roles (69 new today) &nbsp;·&nbsp; 296 companies searched
+### 70 open roles (70 new today) &nbsp;·&nbsp; 296 companies searched
 
-<sub>Last updated May 13, 2026 at 23:00 UTC</sub>
+<sub>Last updated May 13, 2026 at 23:32 UTC</sub>
 
 <br>
 
 ## May 13, 2026
+
+### [Senior Software Engineer | GTM Platform, Backend](jobs/ramp/senior-software-engineer-gtm-platform-backend-428f41e2-48e8-409d-b5e3-8053f7fc7a27.md)
+<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp** · New York, NY (HQ) · `Senior` · `Remote`
+
+_Build self-serve platform tooling and agentic workflows that automate marketing operations at scale, converting repeated requests into reusable platform capabilities. Own end-to-end systems integrating AI agents with guardrails to reduce manual marketing work and drive compounding leverage across 9+ teams._
+
+![Next.js](https://img.shields.io/badge/Next.js-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-3B82F6?style=flat-square) ![LLMs/AI Agents](https://img.shields.io/badge/LLMs%2FAI_Agents-3B82F6?style=flat-square) ![MCP (Model Context Protocol)](https://img.shields.io/badge/MCP_%28Model_Context_Protocol%29-3B82F6?style=flat-square) ![A/B Testing Platforms](https://img.shields.io/badge/A%2FB_Testing_Platforms-3B82F6?style=flat-square) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=flat-square)
+
+<sub>May 13, 2026 at 23:32 UTC</sub>
+
+---
 
 ### [Principle Software Engineer, AI Observability & Evals Platform](jobs/langchain/principle-software-engineer-ai-observability-evals-platform-d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93.md)
 <img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**LangChain** · Boston, MA · `Principal` · `Hybrid` · `$230k-$270k` · `Equity` · `Bonus`
