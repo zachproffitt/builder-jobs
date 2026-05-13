@@ -6,7 +6,246 @@ high enough that browsing everything new takes a few minutes and gives you a bro
 For location, we clearly identify remote and hybrid support. For seniority, we tag every role but
 recommend browsing a level above and below yourself. Listings older than 14 days are removed automatically.
 
-### 68 open roles (13 new today) &nbsp;·&nbsp; 298 companies searched
+### 89 open roles (13 new today) &nbsp;·&nbsp; 298 companies searched
+
+<br>
+
+## May 13, 2026
+
+### [Staff Robotics Software Engineer, Robot Behaviors](jobs/agility-robotics/greenhouse-agilityrobotics-5994662004.md)
+<img src="https://www.google.com/s2/favicons?domain=agilityrobotics.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Agility Robotics** · Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA) · `Staff`
+
+_Build and maintain complex humanoid robot behaviors, integrating motion planning, object perception, and hardware systems for real-world deployment._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![behavior trees](https://img.shields.io/badge/behavior_trees-3B82F6?style=flat-square) ![state machines](https://img.shields.io/badge/state_machines-3B82F6?style=flat-square) ![task planners](https://img.shields.io/badge/task_planners-3B82F6?style=flat-square)
+
+---
+
+### [Infrastructure Engineer](jobs/allen-institute-for-ai/greenhouse-thealleninstitute-7902196.md)
+<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Senior`
+
+_Build and deploy Terraform configurations for GCP and AWS. Develop automated pipelines to manage user accounts, permissions, and security monitoring systems._
+
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, AI for the Planet](jobs/allen-institute-for-ai/greenhouse-thealleninstitute-7909771.md)
+<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA
+
+_Build and maintain the OlmoEarth Platform, including distributed training and inference systems for geospatial feature detection. Develop full-stack products integrating state-of-the-art ML models for environmental applications._
+
+---
+
+### [Research Scientist](jobs/anduril-industries/greenhouse-andurilindustries-5047082007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Broomfield, Colorado, United States
+
+_Implement high-performance software spanning tactical systems to web applications and prototype state-of-the-art algorithms in agile development environments._
+
+---
+
+### [Senior Research Scientist](jobs/anduril-industries/greenhouse-andurilindustries-5135687007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Broomfield, Colorado, United States · `Senior`
+
+_Implement high-performance software for Lattice OS and mission-critical systems. Prototype state-of-the-art algorithms in agile development environments._
+
+![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![software design](https://img.shields.io/badge/software_design-3B82F6?style=flat-square) ![algorithm implementation](https://img.shields.io/badge/algorithm_implementation-3B82F6?style=flat-square)
+
+---
+
+### [Senior Software Engineer](jobs/anduril-industries/greenhouse-andurilindustries-5135694007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Fort Collins, Colorado, United States · `Senior`
+
+_Implement high-performance software for tactical systems and web applications using C/C++ and Python._
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![NoSQL](https://img.shields.io/badge/NoSQL-3B82F6?style=flat-square) ![machine learning](https://img.shields.io/badge/machine_learning-3B82F6?style=flat-square) ![differential equations](https://img.shields.io/badge/differential_equations-3B82F6?style=flat-square)
+
+---
+
+### [Senior Edge Software Deployment Engineer](jobs/anduril-industries/greenhouse-andurilindustries-5135696007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Fort Collins, Colorado, United States · `Senior`
+
+_Deploy and manage software on embedded systems for radar applications, ensuring security and reliability across heterogeneous hardware platforms._
+
+![CircleCI](https://img.shields.io/badge/CircleCI-3B82F6?style=flat-square) ![Yocto](https://img.shields.io/badge/Yocto-3B82F6?style=flat-square) ![NixOS](https://img.shields.io/badge/NixOS-3B82F6?style=flat-square) ![STIGs](https://img.shields.io/badge/STIGs-3B82F6?style=flat-square) ![Nvidia Jetson](https://img.shields.io/badge/Nvidia_Jetson-3B82F6?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-3B82F6?style=flat-square)
+
+---
+
+### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/greenhouse-andurilindustries-5135808007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior`
+
+_Design and implement test strategies for AI-enabled software and agentic workflows on CorpOS and ArsenalOS. Build automated testing and observability systems to ensure reliability and resiliency in AI-first development._
+
+---
+
+### [Manager, Security Software Engineering](jobs/anduril-industries/greenhouse-andurilindustries-5136167007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Manager`
+
+_Lead the development of security tooling and set technical direction for security features across Anduril's products. Implement critical security components in collaboration with engineering teams._
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+
+---
+
+### [Senior Staff Software Engineer](jobs/anthropic/greenhouse-anthropic-5204401008.md)
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · San Francisco, CA · `Staff`
+
+_Own the technical strategy for Claude’s core chat surface on mobile, ensuring seamless integration with product and design teams._
+
+![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![rendering](https://img.shields.io/badge/rendering-3B82F6?style=flat-square) ![performance optimization](https://img.shields.io/badge/performance_optimization-3B82F6?style=flat-square) ![text handling](https://img.shields.io/badge/text_handling-3B82F6?style=flat-square)
+
+---
+
+### [Forward Deployed Engineer, Agentic Platform (UK/Europe)](jobs/cohere/ashby-cohere-2d256112-b336-4539-8133-a0bf7f6698f0.md)
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere** · London · `Remote`
+
+_Build and deploy autonomous agents for North's AI workspace platform, integrating with enterprise data and deploying in private cloud/on-prem environments._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![agentic applications](https://img.shields.io/badge/agentic_applications-3B82F6?style=flat-square)
+
+---
+
+### [UI Programmer](jobs/epic-games/greenhouse-epicgames-5739430004.md)
+<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Porto Alegre,Rio Grande do Sul,Brazil
+
+_Build and maintain UI systems for Fortnite, ensuring compliance, layout, and performance across platforms._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![mobile development](https://img.shields.io/badge/mobile_development-3B82F6?style=flat-square) ![web services](https://img.shields.io/badge/web_services-3B82F6?style=flat-square) ![profiling](https://img.shields.io/badge/profiling-3B82F6?style=flat-square)
+
+---
+
+### [Principal Engineer](jobs/epic-games/greenhouse-epicgames-5991896004.md)
+<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Cary,North Carolina,United States · `Principal`
+
+_Drive operational maturity by implementing CI/CD pipelines, infrastructure-as-code, and AI development tools. Own technical standards and architectural guidance for production systems._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude_Code-3B82F6?style=flat-square)
+
+---
+
+### [Senior Engine Programmer, Verse Framework](jobs/epic-games/greenhouse-epicgames-5994618004.md)
+<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Cary,North Carolina,United States · `Senior`
+
+_Architect and implement low-level engine systems including Scene Graph, networking, analytics, and the language toolchain. Design stable APIs for Verse integration across Unreal Engine._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![AI-assisted development tools](https://img.shields.io/badge/AI--assisted_development_tools-3B82F6?style=flat-square) ![language toolchain](https://img.shields.io/badge/language_toolchain-3B82F6?style=flat-square) ![networking](https://img.shields.io/badge/networking-3B82F6?style=flat-square) ![analytics](https://img.shields.io/badge/analytics-3B82F6?style=flat-square)
+
+---
+
+### [Principal Engineer](jobs/epic-games/greenhouse-epicgames-5994751004.md)
+<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Bellevue,Washington,United States · `Principal`
+
+_Drive operational maturity by implementing CI/CD pipelines, infrastructure-as-code, and AI development tools. Own technical standards and architectural guidance for production systems._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude_Code-3B82F6?style=flat-square)
+
+---
+
+### [Senior Engine Programmer, Verse Framework](jobs/epic-games/greenhouse-epicgames-5994979004.md)
+<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · BLANK,BLANK,Multiple Locations · `Senior`
+
+_Architect and implement low-level engine systems including Scene Graph, networking, analytics, and the language toolchain. Design stable APIs for Verse integration._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![AI-assisted development tools](https://img.shields.io/badge/AI--assisted_development_tools-3B82F6?style=flat-square) ![language toolchain](https://img.shields.io/badge/language_toolchain-3B82F6?style=flat-square)
+
+---
+
+### [Senior Software Engineer, Fullstack](jobs/roblox/greenhouse-roblox-7918631.md)
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Senior`
+
+_Architect and maintain the design system and component library for Roblox's web platform and backend services. Build end-to-end product features for the core web experience and consumer apps._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square)
+
+---
+
+### [Finance Systems & Automations Manager](jobs/scale-ai/greenhouse-scaleai-4688021005.md)
+<img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scale AI** · San Francisco, CA · `Manager`
+
+_Build and implement agent-driven workflows and automation systems across Finance, Accounting, People, and Recruiting using iPaaS platforms and AI technologies._
+
+![Workato](https://img.shields.io/badge/Workato-3B82F6?style=flat-square) ![NetSuite](https://img.shields.io/badge/NetSuite-3B82F6?style=flat-square) ![Coupa](https://img.shields.io/badge/Coupa-3B82F6?style=flat-square) ![ADP](https://img.shields.io/badge/ADP-3B82F6?style=flat-square) ![Deel](https://img.shields.io/badge/Deel-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, iOS Core Product - Copenhagen, Denmark](jobs/speechify/greenhouse-speechify-5981170004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Copenhagen, Denmark · `Senior`
+
+_Build and maintain the Speechify iOS app architecture. Enhance the existing complex app infrastructure._
+
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square)
+
+---
+
+### [Full Stack Engineer, Risk & Support](jobs/stripe/greenhouse-stripe-7591894.md)
+<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe** · N/A
+
+_Build and maintain automations and internal tools for customer support across multiple channels._
+
+---
+
+### [Frontend Platform Engineer, JavaScript Infrastructure](jobs/stripe/greenhouse-stripe-7743307.md)
+<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe** · Canada · `Senior`
+
+_Build and maintain Stripe's frontend package manager, build toolchain, bundler setup, and TypeScript infrastructure. Lay the groundwork for AI-native frontend development._
+
+![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AI-native frontend development](https://img.shields.io/badge/AI--native_frontend_development-3B82F6?style=flat-square) ![build toolchain](https://img.shields.io/badge/build_toolchain-3B82F6?style=flat-square) ![bundler setup](https://img.shields.io/badge/bundler_setup-3B82F6?style=flat-square)
+
+---
+
+### [Backend Engineer, Data](jobs/stripe/greenhouse-stripe-7913700.md)
+<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe** · Canada · `Senior`
+
+_Build and maintain data pipelines, infrastructure, and tools using Spark, Scala, and Python to enable data-driven decision-making across Stripe._
+
+![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+---
+
+### [Machine Learning Engineer, Depot Automation](jobs/waymo/greenhouse-waymo-7852501.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA, US · `Senior`
+
+_Build and integrate ML models for depot operations such as charging and vehicle inspection using reinforcement learning and simulation._
+
+![foundation models](https://img.shields.io/badge/foundation_models-3B82F6?style=flat-square) ![reinforcement learning](https://img.shields.io/badge/reinforcement_learning-3B82F6?style=flat-square) ![simulation](https://img.shields.io/badge/simulation-3B82F6?style=flat-square) ![ML model integration](https://img.shields.io/badge/ML_model_integration-3B82F6?style=flat-square)
+
+---
+
+### [Software Engineer, Marketplace Pricing](jobs/waymo/greenhouse-waymo-7905643.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA, United States · `Senior`
+
+_Implement and scale the dynamic pricing engine to balance supply and demand. Develop ML models and optimization algorithms for real-time pricing._
+
+![backend](https://img.shields.io/badge/backend-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![ML/optimization infrastructure](https://img.shields.io/badge/ML%2Foptimization_infrastructure-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+---
+
+### [Software Reliability Engineer](jobs/waymo/greenhouse-waymo-7908814.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA, USA; San Francisco, CA, USA · `Mid`
+
+_Build and maintain the ride-hailing service infrastructure and real-time communications systems between cars and offboard infrastructure. Implement software to improve system reliability, telemetry, and fault tolerance._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+---
+
+### [Software Reliability Engineer, Waymo Fleet](jobs/waymo/greenhouse-waymo-7908882.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA, USA; San Fransisco, CA, USA · `Mid`
+
+_Build and maintain fleet-specific mission-critical services for autonomous vehicle operations, including depot logistics and vehicle state infrastructure. Implement software and automation to ensure global infrastructure reliability and performance._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+---
+
+### [Senior Site Reliability Engineer, Waymo Fleet](jobs/waymo/greenhouse-waymo-7914308.md)
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA, USA; San Francisco, CA, USA · `Senior`
+
+_Build and maintain mission-critical fleet infrastructure for autonomous vehicle operations, including depot logistics, automation flow, and vehicle state systems. Implement software and automation to ensure high availability and performance of core fleet services._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![observability tools](https://img.shields.io/badge/observability_tools-3B82F6?style=flat-square)
+
+---
 
 <br>
 
@@ -553,55 +792,5 @@ _Design and implement custom web applications and end-to-end solutions to addres
 _Develop and optimize ISP and encoder pipelines for autonomous flight camera systems, implementing real-time image processing algorithms on embedded hardware._
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GStreamer](https://img.shields.io/badge/GStreamer-3B82F6?style=flat-square) ![Android Camera HAL3](https://img.shields.io/badge/Android_Camera_HAL3-3B82F6?style=flat-square) ![Linux V4L2](https://img.shields.io/badge/Linux_V4L2-3B82F6?style=flat-square)
-
----
-
-<br>
-
-## April 28, 2026
-
-### [Senior Engineering Technician, Operations Support](jobs/helion-energy/ashby-helion-76ee70fa-9803-4b21-b87a-4c1168add50b.md)
-<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Helion Energy** · Everett, WA
-
-_Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics._
-
----
-
-### [Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore](jobs/mistral/lever-mistral-5538042e-f157-4a2c-a9ee-e412de9ba761.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mistral** · Singapore
-
-_Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NodeJS](https://img.shields.io/badge/NodeJS-3B82F6?style=flat-square) ![NextJS](https://img.shields.io/badge/NextJS-3B82F6?style=flat-square)
-
----
-
-### [Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris](jobs/mistral/lever-mistral-de237900-114c-4e39-aa19-671bb3201eee.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mistral** · Paris
-
-_Build full-stack AI applications and GenAI interfaces tailored for critical infrastructure and sovereign institutions. Develop APIs, dashboards, and workflow tools for secure, compliant deployment._
-
----
-
-### [Staff Software Engineer, AI & Developer Tooling](jobs/scribd/ashby-ScribdInc-423eb3d3-0a9b-4378-ad06-233a9cfd480d.md)
-<img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scribd** · New York City · `Remote`
-
-_Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators._
-
----
-
-### [Wireless Hardware Engineer Intern](jobs/skydio/ashby-skydio-5e1057a4-214f-4783-b676-c1315cfa81ea.md)
-<img src="https://www.google.com/s2/favicons?domain=skydio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Skydio** · San Mateo, California, United States · `Remote`
-
-_Build scalable data processing pipelines and cloud-based tools to analyze wireless validation data from lab and factory testing environments._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![scripting](https://img.shields.io/badge/scripting-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![data visualization tools](https://img.shields.io/badge/data_visualization_tools-3B82F6?style=flat-square)
-
----
-
-### [Machine Learning Engineer, 3D Simulation](jobs/zoox/lever-zoox-2d73563c-8039-4d1b-844c-3953259ba6b1.md)
-<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Zoox** · Foster City, CA
-
-_Develop and implement 3D vision algorithms to enhance simulation environments and improve diversity in virtual scenarios._
 
 ---
