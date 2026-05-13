@@ -13,7 +13,7 @@ recommend browsing a level above and below yourself. Listings older than 14 days
 ## May 12, 2026
 
 ### [Staff Software Engineer, Communication Products](jobs/airbnb/greenhouse-airbnb-7655958.md)
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16">&nbsp;**Airbnb** · USA · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Airbnb** · USA · `Remote`
 
 _Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features._
 
@@ -22,7 +22,7 @@ _Design and build systems that serve ML models within the messaging stack, focus
 ---
 
 ### [Flight Computer Hardware Lead, Core Technology](jobs/anduril-industries/greenhouse-andurilindustries-5127006007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
 
 _Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs._
 
@@ -31,7 +31,7 @@ _Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and S
 ---
 
 ### [Software Engineer - Human Motion Data](jobs/apptronik/greenhouse-apptronik-5994540004.md)
-<img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16">&nbsp;**Apptronik** · Austin, TX
+<img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Apptronik** · Austin, TX
 
 _Build and maintain end-to-end motion data pipelines integrating mocap, game engines, and generative AI models. Develop tools for kinematic retargeting and trajectory synthesis for humanoid robot reinforcement learning._
 
@@ -40,21 +40,21 @@ _Build and maintain end-to-end motion data pipelines integrating mocap, game eng
 ---
 
 ### [Customer Delivery Engineer](jobs/loft-orbital/lever-loftorbital-6a588112-01a4-425b-8ec8-90a57866a0df.md)
-<img src="https://www.google.com/s2/favicons?domain=loftorbital.com&sz=32" width="16" height="16">&nbsp;**Loft Orbital** · San Francisco, CA
+<img src="https://www.google.com/s2/favicons?domain=loftorbital.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Loft Orbital** · San Francisco, CA
 
 _Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution._
 
 ---
 
 ### [Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto](jobs/mistral/lever-mistral-0b476d3a-5f0c-4dda-9a5e-bd5ed8515328.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16">&nbsp;**Mistral** · Palo Alto
+<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Mistral** · Palo Alto
 
 _Deploy Mistral AI products into production environments and contribute to open-source codebases for inference and fine-tuning._
 
 ---
 
 ### [Software Engineer, Enterprise Agents](jobs/mistral/lever-mistral-3eef7a1f-cd9d-430e-ac67-9d52534c346a.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16">&nbsp;**Mistral** · Paris
+<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Mistral** · Paris
 
 _Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform._
 
@@ -63,7 +63,7 @@ _Build integrations, connectors, and workflows across internal systems (CRM, bil
 ---
 
 ### [Full Stack Software Engineer, Fleet Platform and Operations Tooling](jobs/nuro/greenhouse-nuro-7917839.md)
-<img src="https://www.google.com/s2/favicons?domain=nuro.ai&sz=32" width="16" height="16">&nbsp;**Nuro** · Mountain View, California (HQ)
+<img src="https://www.google.com/s2/favicons?domain=nuro.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Nuro** · Mountain View, California (HQ)
 
 _Build internal tools and platform systems for fleet operations, including responsive frontends and backend services integrating with vehicle systems and cloud infrastructure._
 
@@ -72,7 +72,7 @@ _Build internal tools and platform systems for fleet operations, including respo
 ---
 
 ### [Instrumentation and Control Engineer - Fuel Recycling](jobs/oklo/greenhouse-oklo-5983994004.md)
-<img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16">&nbsp;**Oklo** · Santa Clara, CA or Remote · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Oklo** · Santa Clara, CA or Remote · `Remote`
 
 _Design and implement instrumentation control systems, including PLC/SCADA, dashboards, and network topology for fuel recycling facilities._
 
@@ -81,14 +81,14 @@ _Design and implement instrumentation control systems, including PLC/SCADA, dash
 ---
 
 ### [Forward Deployed Software Engineer, Internship - Poland](jobs/palantir/lever-palantir-d582cd84-14fd-4aa3-b413-15982d286bd9.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16">&nbsp;**Palantir** · New York, NY
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Palantir** · New York, NY
 
 _Code custom web applications and implement data-driven solutions for customer projects._
 
 ---
 
 ### [Senior AI Platform Engineer - Agentic Systems](jobs/roblox/greenhouse-roblox-7342441.md)
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16">&nbsp;**Roblox** · San Mateo, CA, United States
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Roblox** · San Mateo, CA, United States
 
 _Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches._
 
@@ -97,7 +97,7 @@ _Design and develop Knowledge Graph systems for large-scale ML applications. Bui
 ---
 
 ### [Software Engineer, Booking](jobs/waymo/greenhouse-waymo-7905695.md)
-<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16">&nbsp;**Waymo** · Mountain View, CA, United States
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Waymo** · Mountain View, CA, United States
 
 _Build and maintain highly scalable core services for Waymo's user-facing booking system. Architect APIs and systems for internal and external partners._
 
@@ -106,7 +106,7 @@ _Build and maintain highly scalable core services for Waymo's user-facing bookin
 ---
 
 ### [PhD Research Intern, Visual Object Understanding](jobs/zoox/lever-zoox-9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3.md)
-<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16">&nbsp;**Zoox** · Foster City, CA
+<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Zoox** · Foster City, CA
 
 _Design and implement foundation models to enhance the perception stack's semantic understanding of obstacles and behavioral signals._
 
@@ -115,7 +115,7 @@ _Design and implement foundation models to enhance the perception stack's semant
 ---
 
 ### [AI Developer Productivity Engineer](jobs/zoox/lever-zoox-fe3ec246-6f0a-4405-9ae8-10e322ac6799.md)
-<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16">&nbsp;**Zoox** · Foster City, CA
+<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Zoox** · Foster City, CA
 
 _Build and implement tools using Large Language Models to streamline engineering workflows and improve development velocity for autonomy software._
 
@@ -128,7 +128,7 @@ _Build and implement tools using Large Language Models to streamline engineering
 ## May 11, 2026
 
 ### [Mission Software Engineer, Vehicle Software, GenSWE](jobs/anduril-industries/greenhouse-andurilindustries-4672868007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
 
 _Build and maintain the foundational vehicle software stack for autonomous robotics systems like the Fury unmanned fighter jet and Barracuda. Develop software for vehicle control, networking, sensor integration, and telemetry._
 
@@ -137,7 +137,7 @@ _Build and maintain the foundational vehicle software stack for autonomous robot
 ---
 
 ### [Software Engineer - Backend (Platform)](jobs/astranis/greenhouse-astranis-4622097006.md)
-<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16">&nbsp;**Astranis** · San Francisco
+<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Astranis** · San Francisco
 
 _Design and build high-performance services for autonomous satellite control and real-time telemetry monitoring._
 
@@ -146,7 +146,7 @@ _Design and build high-performance services for autonomous satellite control and
 ---
 
 ### [Staff Mechanical Design Engineer](jobs/eightsleep/ashby-eightsleep-08de157c-a35b-45c7-a8e4-1754a7fdb04c.md)
-<img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16">&nbsp;**EightSleep** · San Francisco
+<img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**EightSleep** · San Francisco
 
 _Design and develop complex electromechanical systems, including plastic, metal, and soft goods components integrated with novel sensors and actuators. Drive product development from concept through production._
 
@@ -155,7 +155,7 @@ _Design and develop complex electromechanical systems, including plastic, metal,
 ---
 
 ### [Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI](jobs/scale-ai/greenhouse-scaleai-4625337005.md)
-<img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16">&nbsp;**Scale AI** · San Francisco, CA; New York, NY
+<img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Scale AI** · San Francisco, CA; New York, NY
 
 _This person will build a next-gen Agent RL training platform and integrate cutting-edge algorithms into the training stack to enable complex multi-agent systems for enterprise use cases._
 
@@ -166,14 +166,14 @@ _This person will build a next-gen Agent RL training platform and integrate cutt
 ## May 10, 2026
 
 ### [Senior iOS Automation Engineer](jobs/airbnb/greenhouse-airbnb-7453190.md)
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16">&nbsp;**Airbnb** · Brazil · `Senior` · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Airbnb** · Brazil · `Senior` · `Remote`
 
 _This person will build and maintain automation coverage for iOS features and releases, develop test tools and frameworks, and integrate automated testing into CI/CD pipelines. They will also contribute to improving testability of systems and collaborate on testable fault-tolerant designs._
 
 ---
 
 ### [Senior Software Engineer, Perception](jobs/anduril-industries/greenhouse-andurilindustries-5124926007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
 
 _Develop and maintain core computer vision libraries for UAV perception systems. Integrate classical and ML methods to solve real-world object detection and tracking challenges._
 
@@ -182,14 +182,14 @@ _Develop and maintain core computer vision libraries for UAV perception systems.
 ---
 
 ### [Senior Embedded Software Engineer](jobs/loft-orbital/lever-loftorbital-6914d685-4e2f-45c5-a75a-33d903ef8363.md)
-<img src="https://www.google.com/s2/favicons?domain=loftorbital.com&sz=32" width="16" height="16">&nbsp;**Loft Orbital** · Toulouse
+<img src="https://www.google.com/s2/favicons?domain=loftorbital.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Loft Orbital** · Toulouse
 
 _Design and develop embedded software for satellite electronic payloads, advancing in-space compute and RF communication systems._
 
 ---
 
 ### [Senior Software Engineer, Simulation](jobs/wayve/greenhouse-wayve-8545427002.md)
-<img src="https://www.google.com/s2/favicons?domain=wayve.ai&sz=32" width="16" height="16">&nbsp;**Wayve** · London
+<img src="https://www.google.com/s2/favicons?domain=wayve.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Wayve** · London
 
 _Develop and implement high-fidelity simulation components for autonomous driving systems, integrating machine-learned graphics and robotics subsystems._
 
@@ -202,21 +202,21 @@ _Develop and implement high-fidelity simulation components for autonomous drivin
 ## May 9, 2026
 
 ### [Software Engineer, Guest & Host, Foundation](jobs/airbnb/greenhouse-airbnb-7817284.md)
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16">&nbsp;**Airbnb** · China
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Airbnb** · China
 
 _The person will build services and APIs for web and mobile apps, develop data access and protection patterns, maintain cloud infrastructure for Airbnb guests in China, and collaborate on distributed service-oriented architecture. They will own systems related to engineering efficiency, data security, and cross-team product integration._
 
 ---
 
 ### [Vehicle Systems Architect](jobs/anduril-industries/greenhouse-andurilindustries-4978539007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
 
 _Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms._
 
 ---
 
 ### [Senior Electrical Systems Engineer](jobs/helion-energy/ashby-helion-b5659fa4-aadc-47d0-9746-f58cf8bc51e2.md)
-<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16">&nbsp;**Helion Energy** · Everett, WA
+<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Helion Energy** · Everett, WA
 
 _Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals._
 
@@ -227,7 +227,7 @@ _Define and lead the architecture of electrical subsystems for fusion machines, 
 ## May 8, 2026
 
 ### [Member of Technical Staff, Search](jobs/cohere/ashby-cohere-d5cc437c-2397-4c1a-9d12-3a2bf64d98ea.md)
-<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16">&nbsp;**Cohere** · United States · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Cohere** · United States · `Remote`
 
 _Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure._
 
@@ -236,7 +236,7 @@ _Build and improve cutting-edge search models for semantic retrieval, optimize d
 ---
 
 ### [Software Engineer - Environment Platform](jobs/palantir/lever-palantir-cd2423c6-da68-430c-8be5-0ae7eea36497.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16">&nbsp;**Palantir** · Seattle, WA
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Palantir** · Seattle, WA
 
 _Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernetes clusters and a fully-featured, infrastructure-agnostic runtime._
 
@@ -245,7 +245,7 @@ _Build elegant, robust APIs powered by K8s controllers that bridge raw Kubernete
 ---
 
 ### [Senior Machine Learning Engineer - Perception Mapping](jobs/zoox/lever-zoox-4df5862c-edd7-4033-acb8-59ebbfbbb941.md)
-<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16">&nbsp;**Zoox** · Foster City, CA
+<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Zoox** · Foster City, CA
 
 _Design and integrate ML models for semantic map elements in autonomous vehicles._
 
@@ -256,28 +256,28 @@ _Design and integrate ML models for semantic map elements in autonomous vehicles
 ## May 7, 2026
 
 ### [Forward Deployed Engineer, Applied AI](jobs/anthropic/greenhouse-anthropic-4985877008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16">&nbsp;**Anthropic** · Boston, MA; Chicago, IL; New York City, NY
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anthropic** · Boston, MA; Chicago, IL; New York City, NY
 
 _This person will build production applications with Claude models, including MCP servers, sub-agents, and agent skills for enterprise workflows. They will develop technical artifacts and deployment patterns for AI systems._
 
 ---
 
 ### [Research Engineer, Safeguards Labs](jobs/anthropic/greenhouse-anthropic-5191785008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16">&nbsp;**Anthropic** · San Francisco, CA
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anthropic** · San Francisco, CA
 
 _This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings._
 
 ---
 
 ### [Infrastructure Engineer (Data & Automations)](jobs/elevenlabs/ashby-elevenlabs-01d0899b-0e40-4af2-a859-5d21962666b1.md)
-<img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16">&nbsp;**ElevenLabs** · United Kingdom · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle">&nbsp;**ElevenLabs** · United Kingdom · `Remote`
 
 _Build and maintain the infrastructure systems that enable ElevenLabs teams to operate at scale. Own the tooling and platforms required for safe, high-velocity development across the company._
 
 ---
 
 ### [Go Core Client Engineer](jobs/tailscale/greenhouse-tailscale-4647909005.md)
-<img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16">&nbsp;**Tailscale** · Remote (Canada) · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Tailscale** · Remote (Canada) · `Remote`
 
 _Design and implement core client subsystems such as connection management, encrypted transport, and NAT traversal in Go._
 
@@ -290,14 +290,14 @@ _Design and implement core client subsystems such as connection management, encr
 ## May 6, 2026
 
 ### [CyberSecurity, Offensive Security Engineer](jobs/mistral/lever-mistral-2414ad08-5756-4875-afb5-04d26464b397.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16">&nbsp;**Mistral** · Paris
+<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Mistral** · Paris
 
 _Build and automate offensive tooling to identify and mitigate vulnerabilities in agentic applications, cloud infrastructure, and foundational models._
 
 ---
 
 ### [Forward Deployed Software Engineer, Internship](jobs/palantir/lever-palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16">&nbsp;**Palantir** · Paris, France
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Palantir** · Paris, France
 
 _Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems._
 
@@ -308,14 +308,14 @@ _Build and implement custom software solutions for clients using data, including
 ## May 5, 2026
 
 ### [Deputy Chief Engineer, Autonomous Airpower](jobs/anduril-industries/greenhouse-andurilindustries-5062369007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
 
 _Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems._
 
 ---
 
 ### [Applied AI Engineer – Fusion Systems](jobs/helion-energy/ashby-helion-0e786f93-c149-41eb-b8ba-7eb41df18b13.md)
-<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16">&nbsp;**Helion Energy** · Everett, WA
+<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Helion Energy** · Everett, WA
 
 _Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems._
 
@@ -324,14 +324,14 @@ _Build AI-assisted tools and workflows to integrate operational data with docume
 ---
 
 ### [Graphics Programmer – Open Application | Programmeur graphique - candidature libre](jobs/larian-studios/lever-larian-828b8b15-a5be-40c1-9530-a45b7c581b8b.md)
-<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16">&nbsp;**Larian Studios** · Any
+<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Larian Studios** · Any
 
 _Develop and optimize rendering systems, visual effects, and graphical features for immersive worlds. Collaborate with core teams on performance improvements and cutting-edge graphics technologies._
 
 ---
 
 ### [Geospatial Engineer, Battle Road](jobs/onebrief/ashby-onebrief-89a6cd19-422b-4d2d-84ff-7076e2857054.md)
-<img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16">&nbsp;**OneBrief** · United States · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**OneBrief** · United States · `Remote`
 
 _Design and maintain geospatial data pipelines and systems for AtomEngine's simulation runtime, ensuring scalability, performance, and integration of geospatial datasets._
 
@@ -340,7 +340,7 @@ _Design and maintain geospatial data pipelines and systems for AtomEngine's simu
 ---
 
 ### [Backend Engineer, Core Tech, Canada](jobs/stripe/greenhouse-stripe-6567253.md)
-<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16">&nbsp;**Stripe** · Toronto, CAN · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Stripe** · Toronto, CAN · `Remote`
 
 _The person will build foundational infrastructure systems such as Compute, Networking, DocumentDB, and Distributed Caching, ensuring reliability, scalability, and performance for Stripe's products and services._
 
@@ -351,7 +351,7 @@ _The person will build foundational infrastructure systems such as Compute, Netw
 ## May 4, 2026
 
 ### [Senior Robotics Engineer, Manufacturing Automation](jobs/anduril-industries/greenhouse-andurilindustries-5040554007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anduril Industries** · Costa Mesa, California, United States
 
 _Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments._
 
@@ -360,7 +360,7 @@ _Develop and optimize robot programs for manufacturing automation systems, inclu
 ---
 
 ### [Full-Stack Software Engineer, Inference](jobs/cohere/ashby-cohere-f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c.md)
-<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16">&nbsp;**Cohere** · Toronto · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Cohere** · Toronto · `Remote`
 
 _Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments._
 
@@ -369,7 +369,7 @@ _Improve the platform’s auth, billing, and payment systems. Add new features t
 ---
 
 ### [Senior Design Engineer, Integrated Spectrum Design (m/f/d)](jobs/isar-aerospace/greenhouse-isaraerospace-4740890101.md)
-<img src="https://www.google.com/s2/favicons?domain=isaraerospace.com&sz=32" width="16" height="16">&nbsp;**Isar Aerospace** · Ottobrunn, Bavaria, Germany
+<img src="https://www.google.com/s2/favicons?domain=isaraerospace.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Isar Aerospace** · Ottobrunn, Bavaria, Germany
 
 _Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams._
 
@@ -378,7 +378,7 @@ _Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern 
 ---
 
 ### [Staff Machine Learning Engineer](jobs/motional/greenhouse-motional-7730335003.md)
-<img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16">&nbsp;**Motional** · Pittsburgh, Pennsylvania, United States
+<img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Motional** · Pittsburgh, Pennsylvania, United States
 
 _Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters._
 
@@ -389,7 +389,7 @@ _Architect scalable ML systems for data discovery and model improvement, includi
 ## May 3, 2026
 
 ### [Design Verification Engineer - SoC](jobs/etched/ashby-Etched-a99318bd-b433-44b7-9600-2ee9533c90a1.md)
-<img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16">&nbsp;**Etched** · San Jose
+<img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Etched** · San Jose
 
 _Develop test infrastructure and checkers for systolic arrays, DMA engines, and NoCs in SystemVerilog and Python. Build performance models and debug hardware-software stack issues._
 
@@ -398,7 +398,7 @@ _Develop test infrastructure and checkers for systolic arrays, DMA engines, and 
 ---
 
 ### [Senior Electrical Manufacturing Engineer](jobs/velo3d/lever-velo3d-1ea950a1-9227-4102-92db-4b3d09713ad0.md)
-<img src="https://www.google.com/s2/favicons?domain=velo3d.com&sz=32" width="16" height="16">&nbsp;**Velo3D** · Fremont, CA
+<img src="https://www.google.com/s2/favicons?domain=velo3d.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Velo3D** · Fremont, CA
 
 _Design and develop electrical components, subsystems, and integration test systems for manufacturing processes._
 
@@ -409,28 +409,28 @@ _Design and develop electrical components, subsystems, and integration test syst
 ## May 2, 2026
 
 ### [Safety Engineer](jobs/elevenlabs/ashby-elevenlabs-3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1.md)
-<img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16">&nbsp;**ElevenLabs** · United Kingdom · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle">&nbsp;**ElevenLabs** · United Kingdom · `Remote`
 
 _Build and deploy automated moderation and guardrail systems to protect the platform and users across a multimodal space._
 
 ---
 
 ### [Staff Backend Engineer - Grafana App Platform| US| Remote](jobs/grafana/greenhouse-grafanalabs-5988484004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16">&nbsp;**Grafana** · United States (Remote) · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Grafana** · United States (Remote) · `Remote`
 
 _Refactor and enhance the Grafana App Platform's core architecture to ensure scalability, multi-tenancy, and integration with observability apps. Build and maintain systems that support dashboards, alerts, and telemetry for cloud and on-premise deployments._
 
 ---
 
 ### [DevOps – Open Application | DevOps - candidature libre](jobs/larian-studios/lever-larian-19153167-a979-4236-917d-1a83c0ab631e.md)
-<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16">&nbsp;**Larian Studios** · Any
+<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Larian Studios** · Any
 
 _Manage CI/CD pipelines and improve deployment workflows. Maintain automation systems for build stability._
 
 ---
 
 ### [Senior Software Engineer, Supercell ID](jobs/supercell/ashby-supercell-1d91d31a-2022-40a2-ae8f-289decdf2ea4.md)
-<img src="https://www.google.com/s2/favicons?domain=supercell.com&sz=32" width="16" height="16">&nbsp;**Supercell** · Helsinki · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=supercell.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Supercell** · Helsinki · `Remote`
 
 _Design and build a scalable, highly available, and secure platform for Supercell ID, including account safety, identity systems, and cross-game infrastructure._
 
@@ -443,12 +443,12 @@ _Design and build a scalable, highly available, and secure platform for Supercel
 ## May 1, 2026
 
 ### [Lead Infrastructure Engineer](jobs/larian-studios/lever-larian-fa188b38-8b46-4cfe-a349-fdf8fd0771ac.md)
-<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16">&nbsp;**Larian Studios** · Warsaw
+<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Larian Studios** · Warsaw
 
 ---
 
 ### [Research Engineer, Machine Learning](jobs/mistral/lever-mistral-bada0014-0f32-4370-b55f-81c5595c7339.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16">&nbsp;**Mistral** · Palo Alto
+<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Mistral** · Palo Alto
 
 _Build and optimize large-scale ML systems for open-weight models, delivering production-grade components for Le Chat and enterprise API._
 
@@ -457,7 +457,7 @@ _Build and optimize large-scale ML systems for open-weight models, delivering pr
 ---
 
 ### [Senior / Principal Data Scientist - Discovery](jobs/roblox/greenhouse-roblox-7701054.md)
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16">&nbsp;**Roblox** · San Mateo, CA, United States
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Roblox** · San Mateo, CA, United States
 
 _Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives._
 
@@ -468,14 +468,14 @@ _Build and maintain ML solutions and ranking frameworks that power discovery can
 ## April 30, 2026
 
 ### [Staff Test Automation Engineer](jobs/anduril-industries/greenhouse-andurilindustries-5133683007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16">&nbsp;**Anduril Industries** · Seattle, Washington, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Anduril Industries** · Seattle, Washington, United States
 
 _Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments._
 
 ---
 
 ### [Software Engineer, Search Applications](jobs/cohere/ashby-cohere-64fb905c-b3b4-4fcf-9e1c-a806c9c40068.md)
-<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16">&nbsp;**Cohere** · Toronto · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Cohere** · Toronto · `Remote`
 
 _Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services._
 
@@ -484,7 +484,7 @@ _Build the data ingestion and search platform powering Cohere's AI assistant, in
 ---
 
 ### [Senior Electrical Simulation Engineer](jobs/helion-energy/ashby-helion-520b0d15-04e0-4da0-8d27-9b76e879548a.md)
-<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16">&nbsp;**Helion Energy** · Everett, WA
+<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Helion Energy** · Everett, WA
 
 _Develop and validate electrical simulation models for fusion systems. Integrate with mechanical, thermal, and controls simulations to optimize performance._
 
@@ -493,21 +493,21 @@ _Develop and validate electrical simulation models for fusion systems. Integrate
 ---
 
 ### [Software Engineer, Backend (New-York)](jobs/mistral/lever-mistral-f2e8ba75-bf5a-4976-bb96-c5d3e0f99366.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16">&nbsp;**Mistral** · New York, NY
+<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Mistral** · New York, NY
 
 _Develop scalable backend systems and APIs for AI Studio, Le Chat, and Mistral Code. Design and implement distributed systems for inference, billing, and observability._
 
 ---
 
 ### [Forward Deployed Software Engineer - AUS Government](jobs/palantir/lever-palantir-8f15d728-99cc-4003-9add-928bd72a7f30.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16">&nbsp;**Palantir** · Canberra, Australia
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Palantir** · Canberra, Australia
 
 _Design and implement custom web applications to solve customer problems. Build end-to-end solutions for high-stakes data-driven projects._
 
 ---
 
 ### [Software Engineer - Core Sensors](jobs/zoox/lever-zoox-9abd3543-0d46-4fd8-882c-2fe93d75a51b.md)
-<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16">&nbsp;**Zoox** · Foster City, CA
+<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Zoox** · Foster City, CA
 
 _Optimize GPU-based algorithms for computer vision and deep learning in self-driving systems. Influence compute platform design and resource allocation._
 
@@ -518,7 +518,7 @@ _Optimize GPU-based algorithms for computer vision and deep learning in self-dri
 ## April 29, 2026
 
 ### [Software Engineer - Middleware](jobs/applied-intuition/greenhouse-appliedintuition-4652157005.md)
-<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16">&nbsp;**Applied Intuition** · Sunnyvale, California, United States
+<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Applied Intuition** · Sunnyvale, California, United States
 
 _Develop core middleware services for the software-defined vehicle platform, focusing on communication protocols and system management functions._
 
@@ -527,28 +527,28 @@ _Develop core middleware services for the software-defined vehicle platform, foc
 ---
 
 ### [Data Scientist, Core Data -  PhD (2026)](jobs/figma/greenhouse-figma-5976930004.md)
-<img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16">&nbsp;**Figma** · New York, NY • United States; San Francisco, CA • New York, NY
+<img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Figma** · New York, NY • United States; San Francisco, CA • New York, NY
 
 _This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives._
 
 ---
 
 ### [Senior Tools Programmer](jobs/larian-studios/lever-larian-3fc7173f-bd7f-4cd8-93cb-f3022d43d892.md)
-<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16">&nbsp;**Larian Studios** · Warsaw
+<img src="https://www.google.com/s2/favicons?domain=larian.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Larian Studios** · Warsaw
 
 _Develop and maintain internal tools for game development._
 
 ---
 
 ### [Forward Deployed Software Engineer](jobs/palantir/lever-palantir-8148182c-6127-4689-b615-7815a94173bb.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16">&nbsp;**Palantir** · Dubai, United Arab Emirates
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Palantir** · Dubai, United Arab Emirates
 
 _Design and implement custom web applications and end-to-end solutions to address customer data challenges._
 
 ---
 
 ### [Senior/Staff Embedded Software Engineer – Camera Systems](jobs/skydio/ashby-skydio-71033170-d9d0-474b-b712-a11e4f11c146.md)
-<img src="https://www.google.com/s2/favicons?domain=skydio.com&sz=32" width="16" height="16">&nbsp;**Skydio** · San Mateo, California, United States
+<img src="https://www.google.com/s2/favicons?domain=skydio.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Skydio** · San Mateo, California, United States
 
 _Develop and optimize ISP and encoder pipelines for autonomous flight camera systems, implementing real-time image processing algorithms on embedded hardware._
 
@@ -561,14 +561,14 @@ _Develop and optimize ISP and encoder pipelines for autonomous flight camera sys
 ## April 28, 2026
 
 ### [Senior Engineering Technician, Operations Support](jobs/helion-energy/ashby-helion-76ee70fa-9803-4b21-b87a-4c1168add50b.md)
-<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16">&nbsp;**Helion Energy** · Everett, WA
+<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Helion Energy** · Everett, WA
 
 _Build and maintain fusion systems on Polaris, including high-voltage pulsed power systems and diagnostics._
 
 ---
 
 ### [Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore](jobs/mistral/lever-mistral-5538042e-f157-4a2c-a9ee-e412de9ba761.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16">&nbsp;**Mistral** · Singapore
+<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Mistral** · Singapore
 
 _Develop and maintain full-stack applications integrating AI models into client software. Design scalable applications ensuring seamless front-end and back-end integration._
 
@@ -577,21 +577,21 @@ _Develop and maintain full-stack applications integrating AI models into client 
 ---
 
 ### [Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris](jobs/mistral/lever-mistral-de237900-114c-4e39-aa19-671bb3201eee.md)
-<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16">&nbsp;**Mistral** · Paris
+<img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Mistral** · Paris
 
 _Build full-stack AI applications and GenAI interfaces tailored for critical infrastructure and sovereign institutions. Develop APIs, dashboards, and workflow tools for secure, compliant deployment._
 
 ---
 
 ### [Staff Software Engineer, AI & Developer Tooling](jobs/scribd/ashby-ScribdInc-423eb3d3-0a9b-4378-ad06-233a9cfd480d.md)
-<img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16">&nbsp;**Scribd** · New York City · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Scribd** · New York City · `Remote`
 
 _Define the architecture for the agentic engineering platform and evolve the development environment to integrate AI agents as collaborators._
 
 ---
 
 ### [Wireless Hardware Engineer Intern](jobs/skydio/ashby-skydio-5e1057a4-214f-4783-b676-c1315cfa81ea.md)
-<img src="https://www.google.com/s2/favicons?domain=skydio.com&sz=32" width="16" height="16">&nbsp;**Skydio** · San Mateo, California, United States · `Remote`
+<img src="https://www.google.com/s2/favicons?domain=skydio.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Skydio** · San Mateo, California, United States · `Remote`
 
 _Build scalable data processing pipelines and cloud-based tools to analyze wireless validation data from lab and factory testing environments._
 
@@ -600,7 +600,7 @@ _Build scalable data processing pipelines and cloud-based tools to analyze wirel
 ---
 
 ### [Machine Learning Engineer, 3D Simulation](jobs/zoox/lever-zoox-2d73563c-8039-4d1b-844c-3953259ba6b1.md)
-<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16">&nbsp;**Zoox** · Foster City, CA
+<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&nbsp;**Zoox** · Foster City, CA
 
 _Develop and implement 3D vision algorithms to enhance simulation environments and improve diversity in virtual scenarios._
 
