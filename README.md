@@ -7,6 +7,8 @@ Listings older than 14 days are removed automatically.
 
 ### 69 open roles (69 new today) &nbsp;·&nbsp; 296 companies searched
 
+<sub>Last updated May 13, 2026 at 23:00 UTC</sub>
+
 <br>
 
 ## May 13, 2026
