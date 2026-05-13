@@ -11,12 +11,12 @@ url: https://job-boards.greenhouse.io/scaleai/jobs/4625337005
 summary: This person will build a next-gen Agent RL training platform and integrate cutting-edge algorithms into the training stack to enable complex multi-agent systems for enterprise use cases.
 skills: 
 level: 
-render_hash: efc44638
+render_hash: 29419d3b
 -->
 
 # Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI
 
-**Scale AI**  
+<img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scale AI**  
 San Francisco, CA; New York, NY
 
 > Scale AI provides data, evaluations, and outcomes to AI labs, governments, and Fortune 500 companies.

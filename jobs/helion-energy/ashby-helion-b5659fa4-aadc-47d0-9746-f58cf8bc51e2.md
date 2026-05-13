@@ -11,12 +11,12 @@ url: https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2
 summary: Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals.
 skills: 
 level: 
-render_hash: d8449ae5
+render_hash: 028524a9
 -->
 
 # Senior Electrical Systems Engineer
 
-**Helion Energy**  
+<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Helion Energy**  
 Everett, WA · On-site
 
 > Helion Energy builds fusion power plants, with prototype Trenta achieving 100 million degree plasma temperatures.

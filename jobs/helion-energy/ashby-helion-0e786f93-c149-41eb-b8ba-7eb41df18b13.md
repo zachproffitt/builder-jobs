@@ -11,12 +11,12 @@ url: https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13
 summary: Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems.
 skills: Python, LLM APIs (OpenAI, Claude), RAG, search, Confluence/Jira
 level: 
-render_hash: b755b1cb
+render_hash: b97c72d3
 -->
 
 # Applied AI Engineer – Fusion Systems
 
-**Helion Energy**  
+<img src="https://www.google.com/s2/favicons?domain=helionenergy.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Helion Energy**  
 Everett, WA · On-site
 
 > Helion Energy builds fusion power plants, with prototype Trenta achieving 100 million degree plasma temperatures.

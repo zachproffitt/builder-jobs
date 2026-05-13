@@ -11,12 +11,12 @@ url: https://job-boards.greenhouse.io/astranis/jobs/4622097006
 summary: Design and build high-performance services for autonomous satellite control and real-time telemetry monitoring.
 skills: Python, Postgres, RabbitMQ, Flink, Kubernetes
 level: 
-render_hash: 991fc2cb
+render_hash: 8bfb1df6
 -->
 
 # Software Engineer - Backend (Platform)
 
-**Astranis**  
+<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis**  
 San Francisco
 
 > Astranis designs, builds, and operates high-orbit satellites.

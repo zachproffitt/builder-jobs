@@ -11,12 +11,12 @@ url: https://jobs.lever.co/loftorbital/6a588112-01a4-425b-8ec8-90a57866a0df
 summary: Build mission applications on Loft’s API and operational infrastructure. Translate mission objectives into executable workflows, configurations, and tooling for on-orbit execution.
 skills: 
 level: 
-render_hash: f3be67d1
+render_hash: 27be178c
 -->
 
 # Customer Delivery Engineer
 
-**Loft Orbital**  
+<img src="https://www.google.com/s2/favicons?domain=loftorbital.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Loft Orbital**  
 San Francisco, CA · On-site
 
 > Loft Orbital builds spacecraft hardware and backend systems for satellite data management and mission control.

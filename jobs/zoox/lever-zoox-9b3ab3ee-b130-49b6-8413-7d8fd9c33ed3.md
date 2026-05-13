@@ -11,12 +11,12 @@ url: https://jobs.lever.co/zoox/9b3ab3ee-b130-49b6-8413-7d8fd9c33ed3
 summary: Design and implement foundation models to enhance the perception stack's semantic understanding of obstacles and behavioral signals.
 skills: vision-language models, multimodal transformers, audio-visual architectures, dataset construction, model evaluation
 level: 
-render_hash: 1237bc9d
+render_hash: 6c14824c
 -->
 
 # PhD Research Intern, Visual Object Understanding
 
-**Zoox**  
+<img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Zoox**  
 Foster City, CA · On-site
 
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.

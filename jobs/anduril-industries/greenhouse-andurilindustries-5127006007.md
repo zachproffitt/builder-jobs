@@ -11,12 +11,12 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=51270
 summary: Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs.
 skills: Verilog, FPGA, Altium Designer, Ethernet, signal integrity
 level: 
-render_hash: 0c267136
+render_hash: 8be59636
 -->
 
 # Flight Computer Hardware Lead, Core Technology
 
-**Anduril Industries**  
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
 Costa Mesa, California, United States
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.

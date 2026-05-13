@@ -11,12 +11,12 @@ url: https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068
 summary: Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services.
 skills: Go, Python, Kubernetes, Docker, OpenSearch
 level: 
-render_hash: 7d7050e2
+render_hash: 072228d5
 -->
 
 # Software Engineer, Search Applications
 
-**Cohere**  
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere**  
 Toronto · `Remote`
 
 > Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.

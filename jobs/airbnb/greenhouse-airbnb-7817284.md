@@ -11,12 +11,12 @@ url: https://careers.airbnb.com/positions/7817284?gh_jid=7817284
 summary: The person will build services and APIs for web and mobile apps, develop data access and protection patterns, maintain cloud infrastructure for Airbnb guests in China, and collaborate on distributed service-oriented architecture. They will own systems related to engineering efficiency, data security, and cross-team product integration.
 skills: 
 level: 
-render_hash: f8dea6cd
+render_hash: 8a69289c
 -->
 
 # Software Engineer, Guest & Host, Foundation
 
-**Airbnb**  
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb**  
 China
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.

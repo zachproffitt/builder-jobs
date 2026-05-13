@@ -11,12 +11,12 @@ url: https://job-boards.greenhouse.io/oklo/jobs/5983994004
 summary: Design and implement instrumentation control systems, including PLC/SCADA, dashboards, and network topology for fuel recycling facilities.
 skills: PLC, SCADA, network topology
 level: 
-render_hash: 782f787c
+render_hash: 4d873870
 -->
 
 # Instrumentation and Control Engineer - Fuel Recycling
 
-**Oklo**  
+<img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Oklo**  
 Santa Clara, CA or Remote · `Remote`
 
 _Design and implement instrumentation control systems, including PLC/SCADA, dashboards, and network topology for fuel recycling facilities._

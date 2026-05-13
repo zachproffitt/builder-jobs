@@ -11,12 +11,12 @@ url: https://careers.roblox.com/jobs/7342441?gh_jid=7342441
 summary: Design and develop Knowledge Graph systems for large-scale ML applications. Build and scale Vector Database infrastructure to support 100B+ vector searches.
 skills: Knowledge Graphs, Vector Databases, RAG systems, Ground Truth Data labeling, evaluation frameworks
 level: 
-render_hash: da4afd96
+render_hash: 6c87f94b
 -->
 
 # Senior AI Platform Engineer - Agentic Systems
 
-**Roblox**  
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox**  
 San Mateo, CA, United States
 
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.

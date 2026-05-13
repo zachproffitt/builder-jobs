@@ -11,12 +11,12 @@ url: https://careers.withwaymo.com/jobs?gh_jid=7905695
 summary: Build and maintain highly scalable core services for Waymo's user-facing booking system. Architect APIs and systems for internal and external partners.
 skills: C++, distributed systems, APIs
 level: 
-render_hash: 5be9efe7
+render_hash: be1abe53
 -->
 
 # Software Engineer, Booking
 
-**Waymo**  
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo**  
 Mountain View, CA, United States
 
 > Waymo builds autonomous vehicle technology for transportation.

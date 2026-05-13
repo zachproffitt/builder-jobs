@@ -11,12 +11,12 @@ url: https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
 summary: Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments.
 skills: Golang, React
 level: 
-render_hash: a419438e
+render_hash: 21bfa58a
 -->
 
 # Full-Stack Software Engineer, Inference
 
-**Cohere**  
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere**  
 Toronto · `Remote`
 
 > Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.

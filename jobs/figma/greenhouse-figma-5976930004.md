@@ -11,12 +11,12 @@ url: https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004
 summary: This person will build experimentation platforms, machine learning-based analytical systems, tools, datasets, and infrastructure to improve data accessibility and rigor across the organization. They will develop A/B testing frameworks, causal inference systems, and ML models to support product and business initiatives.
 skills: 
 level: 
-render_hash: fdc34990
+render_hash: 87e3a4a7
 -->
 
 # Data Scientist, Core Data -  PhD (2026)
 
-**Figma**  
+<img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Figma**  
 New York, NY • United States; San Francisco, CA • New York, NY
 
 > Figma builds a collaborative design platform for product development, enabling design, prototyping, and feedback in one place.

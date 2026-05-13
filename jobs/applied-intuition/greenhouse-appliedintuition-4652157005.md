@@ -11,12 +11,12 @@ url: https://boards.greenhouse.io/appliedintuition/jobs/4652157005?gh_jid=465215
 summary: Develop core middleware services for the software-defined vehicle platform, focusing on communication protocols and system management functions.
 skills: C++, SOME/IP, DDS, Protobuf/gRPC, networking
 level: 
-render_hash: 22679bbd
+render_hash: ec3a55c7
 -->
 
 # Software Engineer - Middleware
 
-**Applied Intuition**  
+<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition**  
 Sunnyvale, California, United States
 
 > Applied Intuition builds physical AI systems automating machines in automotive, defense, trucking, mining, construction, and agriculture.

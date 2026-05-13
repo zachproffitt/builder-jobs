@@ -11,12 +11,12 @@ url: https://jobs.lever.co/loftorbital/6914d685-4e2f-45c5-a75a-33d903ef8363
 summary: Design and develop embedded software for satellite electronic payloads, advancing in-space compute and RF communication systems.
 skills: 
 level: 
-render_hash: 724fc084
+render_hash: 2ebe273e
 -->
 
 # Senior Embedded Software Engineer
 
-**Loft Orbital**  
+<img src="https://www.google.com/s2/favicons?domain=loftorbital.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Loft Orbital**  
 Toulouse · On-site
 
 > Loft Orbital builds spacecraft hardware and backend systems for satellite data management and mission control.

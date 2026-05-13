@@ -11,12 +11,12 @@ url: https://job-boards.greenhouse.io/tailscale/jobs/4647909005
 summary: Design and implement core client subsystems such as connection management, encrypted transport, and NAT traversal in Go.
 skills: Go, WireGuard, TCP/UDP, TLS, concurrency
 level: 
-render_hash: 90463ffe
+render_hash: 8021c7fd
 -->
 
 # Go Core Client Engineer
 
-**Tailscale**  
+<img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Tailscale**  
 Remote (Canada) · `Remote`
 
 _Design and implement core client subsystems such as connection management, encrypted transport, and NAT traversal in Go._

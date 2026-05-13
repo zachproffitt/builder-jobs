@@ -11,12 +11,12 @@ url: https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=46728
 summary: Build and maintain the foundational vehicle software stack for autonomous robotics systems like the Fury unmanned fighter jet and Barracuda. Develop software for vehicle control, networking, sensor integration, and telemetry.
 skills: Python, C++, Rust, Go, JavaScript
 level: 
-render_hash: 9f1b486c
+render_hash: 4af0d7cb
 -->
 
 # Mission Software Engineer, Vehicle Software, GenSWE
 
-**Anduril Industries**  
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
 Costa Mesa, California, United States
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
