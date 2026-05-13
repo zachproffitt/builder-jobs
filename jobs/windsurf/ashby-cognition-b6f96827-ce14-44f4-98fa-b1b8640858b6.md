@@ -1,0 +1,101 @@
+<!--
+id: ashby-cognition-b6f96827-ce14-44f4-98fa-b1b8640858b6
+company: Windsurf
+title: Research Engineer, Infrastructure
+source: ashby
+location: San Francisco
+remote: On-site
+posted_at: 2026-04-08
+first_seen: 2026-05-13
+url: https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6
+summary: Build and maintain the distributed training infrastructure for large-scale GPU clusters
+skills: PyTorch, distributed systems, data pipelines, GPU optimization, experiment orchestration
+level: senior
+render_hash: 5c2523b6
+-->
+
+# Research Engineer, Infrastructure
+
+<img src="https://www.google.com/s2/favicons?domain=windsurf.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Windsurf**  
+San Francisco · `Senior` · On-site
+
+_Build and maintain the distributed training infrastructure for large-scale GPU clusters_
+
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![data pipelines](https://img.shields.io/badge/data_pipelines-3B82F6?style=flat-square) ![GPU optimization](https://img.shields.io/badge/GPU_optimization-3B82F6?style=flat-square) ![experiment orchestration](https://img.shields.io/badge/experiment_orchestration-3B82F6?style=flat-square)
+
+<sub>Posted April 8, 2026</sub>
+
+**[→ Apply](https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6)**
+
+---
+
+WHO WE ARE
+
+We are an applied AI lab building end-to-end software agents. We're the team behind Devin, the first AI software engineer, and Windsurf, an AI-native IDE. These products represent our vision for AI that doesn't just assist engineers, but works alongside them as a genuine teammate.
+
+Our team is small and talent-dense: world-class competitive programmers, former founders, and researchers from the frontier of AI, including Scale AI, Palantir, Cursor, Google DeepMind, and others.
+
+
+ROLE MISSION
+
+Research moves at the speed of the infrastructure underneath it. Every training run, evaluation loop, and experimental iteration depends on systems that are fast, reliable, and built to scale. This role exists to make sure nothing in the stack becomes the bottleneck that slows down the frontier.
+
+You will own the core systems that researchers depend on daily: distributed training infrastructure, experiment orchestration, data pipelines, and the tooling that turns raw compute into usable research velocity. This is not a support role. You will work directly alongside researchers, understand the science deeply enough to anticipate what they need next, and build systems that hold up under the pressure of training jobs running across thousands of GPUs. We don't distinguish between research and engineering; the best infrastructure engineers here are also the ones who understand why the research works.
+
+
+WHAT YOU'LL ACCOMPLISH
+
+ - Distributed Training Infrastructure: Build and own the systems that run large-scale training jobs reliably across GPU clusters. This includes job launchers, checkpointing and recovery, fault tolerance, and the monitoring that keeps researchers informed and unblocked.
+
+ - Scaling Agent Rollouts: Own the infrastructure that runs hundreds of thousands of concurrent coding agent rollouts in VM sandboxes, from high-fidelity environment design to the distributed systems that hold up at our largest RL training scales.
+
+ - Performance Optimization: Profile and improve training throughput end to end. Identify bottlenecks across data loading, communication overhead, memory utilization, and compute efficiency. Implement solutions that meaningfully improve step time and MFU at scale.
+
+ - Experiment Orchestration and Tooling: Design and maintain the systems researchers use to launch, track, and analyze experiments. Reduce friction in the research loop so that more time is spent on ideas and less on waiting.
+
+ - Data Pipeline Engineering: Build high-throughput, reliable data pipelines for training and evaluation. Ensure data quality, reproducibility, and efficiency at the scale our training runs demand.
+
+ - Debugging and Reliability: Diagnose and resolve training failures across GPUs, networking, numerics, and data. Maintain detailed understanding of failure modes and build systems that fail gracefully and recover fast.
+
+ - Parallelism and Systems Research: Implement and optimize parallelism strategies: data, tensor, pipeline, and sequence parallelism. Understand the tradeoffs deeply and apply them to get the most out of available hardware.
+
+ - Scaling Infrastructure Ahead of Research: Anticipate what the research team will need next and build it before it becomes a constraint. The best infrastructure engineers here are proactive, not reactive.
+
+
+EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
+
+ - Deep experience building and operating distributed training systems for large models; comfortable owning infrastructure end to end from the cluster level down to the training loop
+
+ - Strong systems engineering fundamentals: distributed systems, networking, storage, and the ability to reason about performance across the full hardware-software stack
+
+ - Proficiency in Python and C++; experience with PyTorch or equivalent deep learning frameworks at a systems level, not just API usage
+
+ - Hands-on experience with GPU performance profiling, memory optimization, and compute efficiency; able to diagnose why a training run is underperforming and fix it
+
+ - Experience implementing or optimizing parallelism strategies (data, tensor, pipeline, sequence) for large model training
+
+ - Track record of building tooling and abstractions that meaningfully accelerate research workflows
+
+ - Strong debugging instincts across complex, distributed systems where failures are non-deterministic and hard to reproduce
+
+ - Enough ML knowledge to engage substantively with researchers: understand what they are training, why the architecture choices matter, and what the infrastructure needs to support
+
+ - We care more about demonstrated capability than credentials. A PhD is one signal among many.
+
+
+RESOURCES & ENVIRONMENT
+
+ - Small, highly selective team where research and product move together; prototypes reach real deployment quickly
+
+ - You'll own and operate infrastructure running across thousands of GPUs; compute is not a constraint and neither is access to the systems you need to do the work well
+
+ - The environment rewards speed, autonomy, and technical depth with minimal process overhead; this is one of the most competitive and fast-moving problems in AI
+
+
+EQUAL OPPORTUNITY
+
+Cognition is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic under applicable law. We are committed to providing reasonable accommodations for candidates with disabilities throughout the hiring process - please let us know if you need any.
+
+---
+
+**[→ Apply](https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6)**

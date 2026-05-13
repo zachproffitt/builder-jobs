@@ -9,9 +9,9 @@ posted_at: 2025-09-16
 first_seen: 2026-05-12
 url: https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a
 summary: Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform.
-skills: Python, TypeScript, React, APIs, dashboards
+skills: Python, TypeScript, React, dashboards
 level: 
-render_hash: 20f274dd
+render_hash: dd0c5767
 -->
 
 # Software Engineer, Enterprise Agents
@@ -23,7 +23,7 @@ Paris · On-site
 
 _Build integrations, connectors, and workflows across internal systems (CRM, billing, HRIS) and develop end-to-end web apps for Mistral's Enterprise Agents platform._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![dashboards](https://img.shields.io/badge/dashboards-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![dashboards](https://img.shields.io/badge/dashboards-3B82F6?style=flat-square)
 
 <sub>Posted September 16, 2025</sub>
 

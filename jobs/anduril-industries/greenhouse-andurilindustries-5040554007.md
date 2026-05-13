@@ -9,9 +9,9 @@ posted_at: Unknown
 first_seen: 2026-05-04
 url: https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007
 summary: Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments.
-skills: FANUC, UR, RoboDK, FANUC ROBOGUIDE, Delmia
+skills: FANUC, Unreal Engine, RoboDK, FANUC ROBOGUIDE, Delmia
 level: 
-render_hash: 1b779a2f
+render_hash: 348834c1
 -->
 
 # Senior Robotics Engineer, Manufacturing Automation 
@@ -23,7 +23,7 @@ Costa Mesa, California, United States
 
 _Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments._
 
-![FANUC](https://img.shields.io/badge/FANUC-3B82F6?style=flat-square) ![UR](https://img.shields.io/badge/UR-3B82F6?style=flat-square) ![RoboDK](https://img.shields.io/badge/RoboDK-3B82F6?style=flat-square) ![FANUC ROBOGUIDE](https://img.shields.io/badge/FANUC_ROBOGUIDE-3B82F6?style=flat-square) ![Delmia](https://img.shields.io/badge/Delmia-3B82F6?style=flat-square)
+![FANUC](https://img.shields.io/badge/FANUC-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![RoboDK](https://img.shields.io/badge/RoboDK-3B82F6?style=flat-square) ![FANUC ROBOGUIDE](https://img.shields.io/badge/FANUC_ROBOGUIDE-3B82F6?style=flat-square) ![Delmia](https://img.shields.io/badge/Delmia-3B82F6?style=flat-square)
 
 <sub>First seen May 4, 2026</sub>
 
