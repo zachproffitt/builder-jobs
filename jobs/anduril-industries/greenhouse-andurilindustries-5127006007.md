@@ -5,13 +5,16 @@ title: Flight Computer Hardware Lead, Core Technology
 source: greenhouse
 location: Costa Mesa, California, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-12
 url: https://boards.greenhouse.io/andurilindustries/jobs/5127006007?gh_jid=5127006007
 summary: Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and SoMs.
 skills: Verilog, FPGA, Altium Designer, Ethernet, signal integrity
 level: 
-render_hash: cbd6fdd3
+comp: 
+comp_extras: 
+render_hash: 055ee88c
 -->
 
 # Flight Computer Hardware Lead, Core Technology
@@ -32,6 +35,7 @@ _Design and develop high-performance PCBs and host boards for FPGAs, SoCs, and S
 ---
 
 Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
 WHAT YOU’LL DO
 
 Define, own, and execute the product portfolio and roadmap for critical core technology products, leading a cross-functional engineering team (Electrical, Firmware, FPGA, Test) to deliver robust embedded compute solutions for vehicle management, DSP, and networking.

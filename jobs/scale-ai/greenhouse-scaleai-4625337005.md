@@ -5,13 +5,16 @@ title: Staff Machine Learning Research Engineer, Agent Post-training - Enterpris
 source: greenhouse
 location: San Francisco, CA; New York, NY
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-11
 url: https://job-boards.greenhouse.io/scaleai/jobs/4625337005
 summary: This person will build a next-gen Agent RL training platform and integrate cutting-edge algorithms into the training stack to enable complex multi-agent systems for enterprise use cases.
 skills: 
 level: 
-render_hash: ed459319
+comp: 
+comp_extras: 
+render_hash: 628089d3
 -->
 
 # Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI
@@ -54,6 +57,7 @@ Publications in top conferences such as NEURIPS, ICLR, or ICML within the last t
 PhD or Masters in Computer Science or a related field
 
 Compensation packages at Scale for eligible roles include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position, determined by work location and additional factors, including job-related skills, experience, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You’ll also receive benefits including, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+
 Please reference the job posting's subtitle for where this position will be located. For pay transparency purposes, the base salary range for this full-time position in the locations of San Francisco, New York, Seattle is:$250,000&mdash;$350,000 USDPLEASE NOTE:&nbsp;Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.
 
 About Us:

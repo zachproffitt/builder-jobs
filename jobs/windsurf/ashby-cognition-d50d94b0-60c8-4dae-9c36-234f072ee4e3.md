@@ -5,13 +5,16 @@ title: Site Reliability Engineer
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-05-09
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3
 summary: Own the deployment pipelines and infrastructure for Devin and Windsurf
 skills: cloud infrastructure, CI/CD pipelines, monitoring systems, observability tools, infrastructure as code
 level: senior
-render_hash: 6db8d263
+comp: 
+comp_extras: 
+render_hash: 555392b3
 -->
 
 # Site Reliability Engineer
@@ -35,13 +38,11 @@ We are an applied AI lab building end-to-end software agents. We're the team beh
 
 Our team is small and talent-dense: world-class competitive programmers, former founders, and researchers from the frontier of AI, including Scale AI, Palantir, Cursor, Google DeepMind, and others.
 
-
 ROLE MISSION
 
 Devin and Windsurf are used by hundreds of thousands of developers every day. When something goes wrong, it goes wrong for all of them at once. This role exists to make sure that doesn't happen, and when it does, to make sure it's resolved faster than anyone expects.
 
 You will own both the production reliability of our user-facing products and the platform engineering that lets our team ship quickly and confidently. That means SLOs, incident response, and on-call on one side, and CI/CD pipelines, deployment infrastructure, and developer tooling on the other. At Cognition, these are not separate jobs. The best SREs here understand that reliability is engineered in, not bolted on.
-
 
 WHAT YOU'LL ACCOMPLISH
 
@@ -58,7 +59,6 @@ WHAT YOU'LL ACCOMPLISH
  - Security and Reliability as One: Treat security not as a separate concern but as a reliability requirement. Ensure that misconfigurations, vulnerabilities, and access failures are caught and remediated with the same urgency as outages.
 
  - Reliability Culture: Partner closely with product and engineering teams to build reliability in from the start. Be the person who catches the single point of failure in the architecture review before it becomes a page at 2am.
-
 
 EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
@@ -80,7 +80,6 @@ EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
  - Experience with developer-facing products or platforms is a strong plus
 
-
 RESOURCES & ENVIRONMENT
 
  - Small, highly selective team shipping products used by hundreds of thousands of developers daily
@@ -88,7 +87,6 @@ RESOURCES & ENVIRONMENT
  - High ownership and high trust: you'll set the reliability bar, not inherit someone else's standards
 
  - The environment rewards engineers who are proactive, systematic, and treat reliability as a craft, not a checklist
-
 
 COMPENSATION & BENEFITS
 
@@ -99,7 +97,6 @@ COMPENSATION & BENEFITS
  - 401(k): Company match included
 
  - Perks: Private chef, cozy slippers, endless snacks, and more
-
 
 EQUAL OPPORTUNITY
 

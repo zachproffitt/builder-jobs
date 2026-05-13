@@ -5,13 +5,16 @@ title: Member of Technical Staff, Kernels
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2024-01-24
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/42010571-7943-43d5-b182-c77d8342b088
 summary: Design and implement high-performance kernels for Magic's long-context models
 skills: NCCL, CUTLASS, Triton, Flash-Attention, Pallas
 level: senior
-render_hash: 73f62d16
+comp: 
+comp_extras: 
+render_hash: ae25667b
 -->
 
 # Member of Technical Staff, Kernels
@@ -31,13 +34,11 @@ _Design and implement high-performance kernels for Magic's long-context models_
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE
 
 As a Kernel Engineer, you will design, implement, and maintain high-performance kernels to optimize throughput and latency during training and inference.
 
 Magic's long-context windows create distinct kernel optimization challenges around memory utilization, data movement, and sustained throughput.
-
 
 WHAT YOU'LL WORK ON
 
@@ -53,7 +54,6 @@ WHAT YOU'LL WORK ON
 
  - For a sample of our work, see Magic-Attention, presented at GTC 2026 https://www.nvidia.com/gtc/session-catalog/sessions/gtc26-s82294/
 
-
 WHAT WE’RE LOOKING FOR
 
  - Low-level programming experience targeting AI accelerators such as NVIDIA Blackwell or Google TPUs
@@ -65,7 +65,6 @@ WHAT WE’RE LOOKING FOR
  - Strong depth over shallow breadth: for kernel engineering, we prefer candidates with deep expertise in computer architecture, low-level machine optimizations, and code generation, with breadth across ML
 
  - Agility, ownership mindset, and grit
-
 
 COMPENSATION, BENEFITS AND PERKS (US)
 
@@ -84,7 +83,6 @@ COMPENSATION, BENEFITS AND PERKS (US)
  - A small, fast-paced, highly focused team
 
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

@@ -5,13 +5,16 @@ title: Mission Software Engineer, Vehicle Software, GenSWE
 source: greenhouse
 location: Costa Mesa, California, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-11
 url: https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007
 summary: Build and maintain the foundational vehicle software stack for autonomous robotics systems like the Fury unmanned fighter jet and Barracuda. Develop software for vehicle control, networking, sensor integration, and telemetry.
 skills: Python, C++, Rust, Go, JavaScript
 level: 
-render_hash: 5aa0ee10
+comp: 
+comp_extras: 
+render_hash: 9f3ea157
 -->
 
 # Mission Software Engineer, Vehicle Software, GenSWE
@@ -32,6 +35,7 @@ _Build and maintain the foundational vehicle software stack for autonomous robot
 ---
 
 Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
 ABOUT THE TEAM
 
 Air Dominance &amp; Strike (AD&amp;S) is responsible for autonomous robotics systems like the Fury unmanned fighter jet and the Barracuda family of advanced effects. The AD&amp;S Vehicle Software team is responsible for the software running on these systems. Our software engineers collaborate with other engineering disciplines to develop software for vehicle control, networking, sensor integration, and telemetry. We are looking for engineers excited to build the foundational vehicle software stack that supports the wide range of AD&amp;S initiatives, from early concept simulation to first flight to live operations to large scale fleet management.

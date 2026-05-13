@@ -5,13 +5,16 @@ title: Research Engineer
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2024-01-24
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/bcc8d988-47ea-4089-9619-80260abb71b5
 summary: Build and maintain internet-scale data pipelines and research frameworks
 skills: PyTorch, Python, large GPU clusters, distributed systems, ETL workflows
 level: senior
-render_hash: 5b8c1637
+comp: 
+comp_extras: 
+render_hash: 88d3bb98
 -->
 
 # Research Engineer
@@ -31,11 +34,9 @@ _Build and maintain internet-scale data pipelines and research frameworks_
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE
 
 As a Research Engineer, you’ll work on training, evaluating, and serving large AI models and new inference-time compute techniques, build internet-scale datasets, and help prototype new research and product ideas.
-
 
 WHAT YOU'LL WORK ON
 
@@ -53,7 +54,6 @@ WHAT YOU'LL WORK ON
 
  - Contribute to research across long-context, inference-time compute, RL, and more
 
-
 WHAT WE’RE LOOKING FOR
 
  - Strong general software engineering skills
@@ -62,12 +62,11 @@ WHAT WE’RE LOOKING FOR
 
  - Experience with pre- and post-training of LLMs
 
- - Ability to come up with and evaluate research ideas 
+ - Ability to come up with and evaluate research ideas
 
  - Experience working with large distributed systems
 
  - Ability to handle large ETL workloads
-
 
 COMPENSATION, BENEFITS, AND PERKS (US)
 
@@ -86,7 +85,6 @@ COMPENSATION, BENEFITS, AND PERKS (US)
  - A small, fast-paced, highly focused team
 
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

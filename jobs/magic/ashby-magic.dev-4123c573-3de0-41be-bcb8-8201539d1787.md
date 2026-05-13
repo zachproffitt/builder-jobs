@@ -5,13 +5,16 @@ title: Software Engineer
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-02-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/4123c573-3de0-41be-bcb8-8201539d1787
 summary: Build and scale large distributed data pipelines for pre-training, design filtering systems, and develop post-training datasets.
 skills: 
 level: 
-render_hash: eab4c8c9
+comp: 
+comp_extras: 
+render_hash: 50cce327
 -->
 
 # Software Engineer
@@ -29,7 +32,6 @@ _Build and scale large distributed data pipelines for pre-training, design filte
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE
 
 As a Software Engineer at Magic, you will work on core systems or product surfaces that directly determine model capability and user experience.
@@ -39,7 +41,6 @@ This role can map onto Pre-training Data, RL Research & Environments, or Product
 Magic’s long-context models introduce unique technical challenges — internet-scale data acquisition, long-horizon post-training loops, and product workflows that make complex model behavior understandable and controllable. You will operate close to these constraints, building systems that are both technically rigorous and production-ready.
 
 This role can evolve into deeper specialization in data systems, post-training capability development, or product engineering leadership, depending on strengths and interests.
-
 
 WHAT YOU’LL WORK ON
 
@@ -59,7 +60,6 @@ Depending on team placement, you may:
 
  - Improve reliability, observability, and performance of production systems
 
-
 WHAT WE’RE LOOKING FOR
 
  - Strong software engineering fundamentals
@@ -73,7 +73,6 @@ WHAT WE’RE LOOKING FOR
  - Strong technical judgment and bias toward shipping
 
  - Track record of turning complex technical problems into working systems
-
 
 COMPENSATION, BENEFITS, AND PERKS (US):
 
@@ -92,7 +91,6 @@ COMPENSATION, BENEFITS, AND PERKS (US):
  - A small, fast-paced, highly focused team
 
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

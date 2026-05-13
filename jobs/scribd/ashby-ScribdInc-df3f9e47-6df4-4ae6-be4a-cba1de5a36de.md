@@ -5,13 +5,16 @@ title: Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations
 source: ashby
 location: San Francisco
 remote: Not specified
+hybrid: no
 posted_at: 2026-05-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/ScribdInc/df3f9e47-6df4-4ae6-be4a-cba1de5a36de
 summary: Build and maintain the content ingestion pipelines and metadata services for Scribd's content foundations.
 skills: Ruby on Rails, Python, ML/LLM systems, data observability tools, asynchronous pipelines
 level: senior
-render_hash: a72a2c51
+comp: 
+comp_extras: 
+render_hash: 268c1346
 -->
 
 # Senior Backend Engineer (Ruby on Rails/Python) - Content Foundations
@@ -33,7 +36,6 @@ _Build and maintain the content ingestion pipelines and metadata services for Sc
 
 Scribd, Inc. is on a mission to advance human understanding. Our four products — Scribd®, Slideshare®, Everand™, and Fable — help billions of people across the globe move beyond access and into insight, application, and expertise.
 
-
 CULTURE AT SCRIBD, INC.
 
 We support a culture where our employees can be real and be bold; where we debate and commit as we embrace plot twists; and where every employee is empowered to take action as we prioritize the customer.
@@ -43,7 +45,6 @@ We believe the best work happens when individual flexibility is balanced with me
 So what are we looking for in new team members? At Scribd, Inc., we hire for “GRIT.” Traditionally defined as the intersection of passion and perseverance toward long-term goals, GRIT reflects the mindset we expect from every employee. For us, it also serves as a practical framework for how we work: setting and achieving Goals, delivering Results within your role, contributing Innovative ideas and solutions, and strengthening the broader Team through collaboration and attitude.
 
 This posting reflects an approved, open position within the organization.
-
 
 ABOUT THE TEAM & ROLE
 
@@ -65,7 +66,6 @@ Current focus areas include:
 
  - Architectural improvements to how content and metadata flow across systems, including improving data observability for complex, asynchronous pipelines
 
-
 WHAT YOU’LL DO
 
  - Own and drive technical initiatives: Lead the design, implementation, and scaling of core content systems, including ingestion pipelines, metadata services, and content processing workflows.
@@ -81,7 +81,6 @@ WHAT YOU’LL DO
  - Mentor and lead: Provide technical guidance across teams and help raise the bar on system design, data modeling, and production excellence.
 
  - Champion AI-driven engineering: Help shape how we leverage AI and LLM-based systems within content processing, while maintaining a high bar for quality and reliability. In addition to building AI into our pipeline, you will help lead the team's adoption of AI coding agents and advanced developer tools to accelerate how we build and scale our systems.
-
 
 WHO YOU ARE
 
@@ -101,7 +100,6 @@ WHO YOU ARE
 
  - Enjoy mentoring others and working collaboratively across teams.
 
-
 NICE-TO-HAVE
 
  - Experience with document formats (PDF, ebooks, markdown) and internals (OCR, parsing, transformation).
@@ -120,12 +118,11 @@ In Canada, the reasonably expected salary range is between $153,000 CAD[minimum 
 
 We carefully consider a wide range of factors when determining compensation, including but not limited to experience; job-related skill sets; relevant education or training; and other business and organizational needs. The salary range listed is for the level at which this job has been scoped. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for a competitive equity ownership, and a comprehensive and generous benefits package.
 
-
 WORKING AT SCRIBD, INC.
 
 Are you currently based in a location where Scribd, Inc. can employ you?
-Employees must have their primary residence in or near one of the following cities. This includes surrounding metro areas or locations within a typical commuting distance:
 
+Employees must have their primary residence in or near one of the following cities. This includes surrounding metro areas or locations within a typical commuting distance:
 
 United States:
 
@@ -138,9 +135,6 @@ Ottawa | Toronto | Vancouver
 Mexico:
 
 Mexico City
-
-
-
 
 Benefits at Scribd, Inc.
 
@@ -165,7 +159,9 @@ Benefits at Scribd, Inc.
  - Enterprise access to leading AI tools
 
 Get to Know Scribd, Inc.
+
 About Scribd, Inc. https://www.scribdinc.com/about
+
 Life at Scribd, Inc. https://bit.ly/ScribdonLinkedin
 
 We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing accommodations@scribd.com about the need for adjustments at any point in the interview process.

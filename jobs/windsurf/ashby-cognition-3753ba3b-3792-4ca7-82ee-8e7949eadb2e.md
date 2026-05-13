@@ -5,13 +5,16 @@ title: Data Engineer, Finance
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-03-31
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/3753ba3b-3792-4ca7-82ee-8e7949eadb2e
 summary: Build and maintain the Finance and Accounting data stack, including ETL pipelines and reporting systems.
 skills: SQL, Python, dbt, Airflow, Metabase
 level: senior
-render_hash: a7595208
+comp: 
+comp_extras: 
+render_hash: 1f96b2d7
 -->
 
 # Data Engineer, Finance
@@ -36,10 +39,6 @@ We're the makers of Devin, the first AI software engineer, and Windsurf, the AI-
 Our team is small and talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
 
 Building Devin and Windsurf is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
-
-
-
-
 
 ABOUT THE ROLE
 
@@ -80,7 +79,6 @@ Requirements for the role:
  - Familiarity with GAAP vs. non-GAAP reporting and revenue recognition concepts
 
  - Based in SF and willing to be in office 5 days a week
-
 
 EQUAL OPPORTUNITY
 

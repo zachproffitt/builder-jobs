@@ -5,13 +5,16 @@ title: Software Reliability Engineer, Waymo Fleet
 source: greenhouse
 location: Mountain View, CA, USA; San Fransisco, CA, USA
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://careers.withwaymo.com/jobs?gh_jid=7908882
 summary: Build and maintain fleet-specific mission-critical services for autonomous vehicle operations, including depot logistics and vehicle state infrastructure. Implement software and automation to ensure global infrastructure reliability and performance.
 skills: C++, Java, Python
 level: mid
-render_hash: 1b726124
+comp: 
+comp_extras: 
+render_hash: 0bace017
 -->
 
 # Software Reliability Engineer, Waymo Fleet 
@@ -32,30 +35,55 @@ _Build and maintain fleet-specific mission-critical services for autonomous vehi
 ---
 
 Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.
+
 Waymo’s Software Reliability Engineers (SRE) are responsible for the stable operation of Waymo’s fully autonomous systems and supporting infrastructure. As an SRE, you combine software and systems engineering techniques to build and run large-scale, fault-tolerant, reliable systems. You focus on optimizing existing systems, building new infrastructure, eliminating manual, error-prone or time-consuming work through automation, and ensuring products that are fast, efficient, and effective.
+
 This role follows a hybrid work schedule and reports to the Tech Lead Manager.
+
 You will:
+
 Collaborate with other engineers to build reliable systems for autonomous vehicle operations, including depot logistics, automation flow, and critical vehicle state infrastructure
+
 Manage end-to-end availability and performance for core fleet services, ensuring we have enough usable vehicle supply available to meet targeted user demand, and developing observability and automation to support this goal
+
 Involvement in the whole lifecycle of services - from inception and design, through deployment, operation and refinement
+
 Write designs and implement software to improve system architecture, telemetry or deployment for fleet-specific mission-critical services, preventing outages that could hinder vehicle launch or maintenance
+
 Write designs and code software/automation for Global Infrastructure
+
 Serve as the first responder for fleet and supply infrastructure by leading incident response efforts. You’ll participate in a sustainable on-call rotation, while championing a culture of blameless retrospectives to drive continuous improvement
+
 &nbsp;
+
 You have:
+
 2+ years of experience writing clean, efficient code in C++, Java and/or Python
+
 Interest and enthusiasm for massive distributed systems and a drive to solve the unique production engineering challenges found at the intersection of software and physical vehicle fleets
+
 A proven track record of enhancing system visibility and reliability through sophisticated monitoring, hands-on troubleshooting, and experience with exponential service scaling
+
 A Bachelor's degree in a relevant field or similar experience
+
 &nbsp;
+
 We prefer:
+
 Demonstrated ability as an individual contributor engineer, contributing to scalable, high quality software
+
 3+ years of industry experience
+
 A Bachelors of Computer Science (or similar)
+
 Strong interpersonal communication skills, a collaborative interpersonal approach, and high customer empathy
+
 &nbsp;
+
 The expected base salary range for this full-time position across US locations is listed below. Actual starting pay will be based on job-related factors, including exact work location, experience, relevant training and education, and skill level. Your recruiter can share more about the specific salary range for the role location or, if the role can be performed remote, the specific salary range for your preferred location, during the hiring process.&nbsp;
+
 Waymo employees are also eligible to participate in Waymo’s discretionary annual bonus program, equity incentive plan, and generous Company benefits program, subject to eligibility requirements.&nbsp;
+
 Salary Range$175,000&mdash;$215,000 USD
 
 ---

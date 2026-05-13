@@ -5,13 +5,16 @@ title: Real-time Video Researcher
 source: ashby
 location: Palo Alto HQ
 remote: On-site
+hybrid: no
 posted_at: 2026-04-04
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/pika/e6ef5efb-98c0-404d-afcd-a100b8f9f774
 summary: Design and prototype real-time video synthesis algorithms and diffusion-based world models.
 skills: Python, PyTorch, TensorFlow, diffusion models, autoregressive models
 level: senior
-render_hash: f0b3b3cc
+comp: 
+comp_extras: 
+render_hash: 64b7abf6
 -->
 
 # Real-time Video Researcher

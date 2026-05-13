@@ -5,13 +5,16 @@ title: Devops Engineer, Federal
 source: ashby
 location: Washington DC
 remote: Remote
+hybrid: no
 posted_at: 2026-02-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/589326d3-9dc0-447e-ae0c-972b808f831d
 summary: Build and maintain the core codebase for federal deployments
 skills: 
 level: 
-render_hash: fb7511c6
+comp: 
+comp_extras: 
+render_hash: 208cef24
 -->
 
 # Devops Engineer, Federal
@@ -104,7 +107,6 @@ You might excel if….
  - Enjoy hard, ambiguous problems without obvious solutions and thrive on the autonomy to figure them out.
 
  - Have a high tolerance for ambiguity, intensity, and sustained effort when the mission-critical nature of the work demands it.
-
 
 EQUAL OPPORTUNITY
 

@@ -5,13 +5,16 @@ title: Software Engineer, Monetization
 source: ashby
 location: Redwood City, CA
 remote: Remote
+hybrid: no
 posted_at: 2025-10-03
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/902c3060-f41f-4bb0-b23d-988055e94f3c
 summary: Build and optimize monetization features for payments, subscriptions, and in-app purchase systems.
 skills: Typescript, React, React Native, Python, Golang
 level: 
-render_hash: 202de936
+comp: 
+comp_extras: 
+render_hash: 7dbd96fc
 -->
 
 # Software Engineer, Monetization
@@ -35,7 +38,6 @@ We are scaling personalized AI to billions of users and monetization is at the c
 
 If you have experience with subscriptions, ads, virtual economies, or in-app purchase flows, and care deeply about building high-quality user experiences we’d love to work with you.
 
-
 WHAT YOU’LL DO
 
  - Build and optimize user-facing features across mobile and web that power payments, subscriptions, and in-app purchase flows.
@@ -52,7 +54,6 @@ WHAT YOU’LL DO
 
  - Help shape the company’s approach to monetization experimentation, including frameworks for A/B testing and iteration velocity.
 
-
 WHO YOU ARE
 
  - Experience in consumer products with monetization, IAP, or subscription flows.
@@ -67,7 +68,6 @@ WHO YOU ARE
 
  - Excellent communication and collaboration skills across engineering, product, design, and data.
 
-
 NICE TO HAVE
 
  - Background in gaming, virtual currencies, or digital goods ecosystems.
@@ -78,17 +78,13 @@ NICE TO HAVE
 
  - Exposure to startup or zero-to-one product development environments.
 
-
 ABOUT CHARACTER.AI
 
 Character.AI http://Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI http://Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
 
-
 In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
 
-
 Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
-
 
 At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.
 

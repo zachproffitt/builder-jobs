@@ -5,13 +5,16 @@ title: Special Projects Engineer - Europe
 source: ashby
 location: London
 remote: Remote
+hybrid: no
 posted_at: 2025-09-23
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/ca087c5e-b6e8-4852-90f0-f820c8f5f7ed
 summary: Build internal tools and processes to improve operational efficiency of GTM and EPD
 skills: 
 level: senior
-render_hash: 14995d29
+comp: 
+comp_extras: 
+render_hash: da2ae597
 -->
 
 # Special Projects Engineer - Europe
@@ -34,10 +37,6 @@ We're the makers of Devin, the first AI software engineer, and Windsurf, the AI-
 Our team is small and talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
 
 Building Devin and Windsurf is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
-
-
-
-
 
 ABOUT THE ROLE
 
@@ -64,7 +63,6 @@ What We Require:
  - Strong engineering foundation (e.g., Computer Science, Mathematics, or related technical discipline).
 
  - 2+ years of experience or equivalent startup/founder exposure.
-
 
 EQUAL OPPORTUNITY
 

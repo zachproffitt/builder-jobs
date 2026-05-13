@@ -5,13 +5,16 @@ title: Research Engineer, ML Systems (All Industry Levels)
 source: ashby
 location: Redwood City, CA
 remote: Remote
+hybrid: no
 posted_at: 2024-11-20
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/3ab40c3d-63bd-4634-a126-5a3d25d3263b
 summary: Build and optimize ML training and inference systems for GPU clusters.
 skills: PyTorch, Triton, CUDA, CUTLASS, Kubernetes
 level: senior
-render_hash: 1cf9337b
+comp: 
+comp_extras: 
+render_hash: 41d47219
 -->
 
 # Research Engineer, ML Systems (All Industry Levels)
@@ -33,13 +36,9 @@ ABOUT THE ROLE AND TEAM
 
 Joining us as a Research Engineer on the ML Systems team, you’ll be working on cutting-edge ML training and inference systems, optimizing the performance and efficiency of our GPU clusters, and developing new technologies that fine-tune leading consumer AI models with a data flywheel, and serve 20K+ QPS in production with LLMs. Your work will directly contribute to our groundbreaking advancements in AI, helping shape an era where technology is not just a tool, but a companion in our daily lives. At Character.AI http://Character.AI, your talent, creativity, and expertise will not just be valued—they will be the catalyst for change in an AI-driven future.
 
-
-
-
-
 WHAT YOU'LL DO
 
-The ML Systems team is responsible for the research and deployment of systems that efficiently utilize GPU for AI-enabled products. 
+The ML Systems team is responsible for the research and deployment of systems that efficiently utilize GPU for AI-enabled products.
 
 As a research engineer, you will work across teams and our technical stack to improve our training performance and inference runtime. You will get to shape the conversational experience of millions of users per day.
 
@@ -55,7 +54,6 @@ Example projects:
 
  - Develop systems for efficient multimodal (image gen/video gen) model training & inference
 
-
 WHO YOU ARE
 
  - "All Industry Levels": at least PhD (or equivalent) research experience
@@ -67,7 +65,6 @@ WHO YOU ARE
  - Track record of exceptional research or creative ML systems projects
 
  - Comfortable writing model development code (PyTorch) for either training or inference
-
 
 NICE TO HAVE
 
@@ -81,17 +78,13 @@ NICE TO HAVE
 
  - Publications in relevant academic journals or conferences in the field of machine learning and systems
 
-
 ABOUT CHARACTER.AI
 
 Character.AI http://Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI http://Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
 
-
 In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
 
-
 Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
-
 
 At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.
 

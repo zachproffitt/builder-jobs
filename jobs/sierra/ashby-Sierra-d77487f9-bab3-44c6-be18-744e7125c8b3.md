@@ -5,13 +5,16 @@ title: Software Engineer, Platform
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2024-08-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/d77487f9-bab3-44c6-be18-744e7125c8b3
 summary: Build and maintain the platform's agent development infrastructure
 skills: 
 level: senior
-render_hash: b3a13579
+comp: 
+comp_extras: 
+render_hash: 59cf0236
 -->
 
 # Software Engineer, Platform
@@ -33,8 +36,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU'LL DO
 
@@ -43,7 +45,6 @@ WHAT YOU'LL DO
  - Invent the foundations of agent development. You’ll design systems that enable engineers and customers to build reliable, steerable agents, including runtime systems, developer tooling, and internal infrastructure.
 
  - Enable engineers to move faster. You’ll build tools and workflows that accelerate how engineers build and deploy agents across Sierra.
-
 
 WHAT YOU'LL BRING
 
@@ -57,7 +58,6 @@ WHAT YOU'LL BRING
 
  - Degree in Computer Science or related field, or equivalent professional experience.
 
-
 EVEN BETTER
 
  - Experience building developer platforms or SDKs.
@@ -67,7 +67,6 @@ EVEN BETTER
  - Experience building AI-powered products.
 
  - Leadership experience on technical projects.
-
 
 OUR VALUES
 
@@ -80,7 +79,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -98,14 +96,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

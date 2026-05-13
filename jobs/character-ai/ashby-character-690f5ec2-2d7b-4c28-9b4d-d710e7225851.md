@@ -5,13 +5,16 @@ title: Software Engineer, Backend/Applied ML (Safety & Integrity)
 source: ashby
 location: Redwood City, CA
 remote: Remote
+hybrid: no
 posted_at: 2026-01-07
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/690f5ec2-2d7b-4c28-9b4d-d710e7225851
 summary: Build and maintain scalable backend systems for safety and integrity features
 skills: Python, machine learning models, distributed systems, data engineering, ML pipelines
 level: senior
-render_hash: 3ed6b386
+comp: 
+comp_extras: 
+render_hash: 8856e6ec
 -->
 
 # Software Engineer, Backend/Applied ML (Safety & Integrity)
@@ -33,8 +36,6 @@ ABOUT THE ROLE
 
 We’re looking for a talented and creative Software Engineer to join our Safety Engineering team at Character.AI http://Character.AI! In this role, you will be at the forefront of designing, developing, and scaling robust backend systems and leveraging applied machine learning to tackle critical integrity and safety challenges. You will be architecting and implementing innovative solutions in a key role in addressing the unique safety challenges that come with human-to-AI interaction—bringing your technical expertise to the table as we define industry best practices in this emerging space. This is a high-impact role where you will provide technical leadership, drive innovation, and contribute to the core of our platform's trustworthiness.
 
-
-
 WHAT YOU'LL DO
 
  - Architect & Build: Design, develop, and maintain highly scalable, resilient, and performant backend systems that power our integrity and safety features.
@@ -54,8 +55,6 @@ WHAT YOU'LL DO
  - System Optimization: Continuously analyze and improve the performance, scalability, reliability, and cost-effectiveness of existing integrity platforms and ML models.
 
  - Stay Current: Keep abreast of emerging threats, new technologies, and advancements in backend engineering, distributed systems, the application of machine learning to trust and safety, and the evolving landscape of Generative AI safety research and mitigation techniques.
-   
-
 
 WHO YOU ARE
 
@@ -76,11 +75,10 @@ WHO YOU ARE
  - Proven ability to work in a fast-paced development environment and deliver timely results.
 
  - Strong communication, interpersonal, and leadership skills, with the ability to articulate complex technical concepts to diverse audiences.
-   
 
 You will be a great fit if:
 
- - You care deeply about Trust & Safety and see it as a value-add to the business 
+ - You care deeply about Trust & Safety and see it as a value-add to the business
 
  - Prior experience in a dedicated Trust & Safety, Integrity, or Risk engineering team.
 
@@ -88,17 +86,13 @@ You will be a great fit if:
 
  - Experience leading large, cross-cutting technical projects.
 
-
 ABOUT CHARACTER.AI
 
 Character.AI http://Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI http://Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
 
-
 In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
 
-
 Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
-
 
 At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.
 

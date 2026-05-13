@@ -5,13 +5,16 @@ title: Software Engineer, Agent Builder
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2026-01-05
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/2fdb200f-c5cf-420c-9997-5e5cea6e1e20
 summary: Build and maintain the simulation platform for testing AI agents
 skills: Go, Typescript, developer tooling
 level: senior
-render_hash: 4bb0f59e
+comp: 
+comp_extras: 
+render_hash: a6aeae51
 -->
 
 # Software Engineer, Agent Builder
@@ -35,8 +38,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU’LL DO
 
@@ -47,7 +49,6 @@ WHAT YOU’LL DO
  - Agent Development Lifecycle: How do we adapt traditional software development methodologies to accommodate AI agents’ non-deterministic behavior, natural language interactions, and reliance on large language models? (See Sierra’s ADLC https://sierra.ai/blog/agent-development-life-cycle)
 
  - Generative Agent Development: How do we accelerate agent creation using generative tools like Cursor and Claude Code? Can we build self-improving systems based on real-world interactions, customer-driven feedback, and self-play?
-
 
 WHAT YOU'LL BRING
 
@@ -63,7 +64,6 @@ WHAT YOU'LL BRING
 
  - Degree in Computer Science or related field, or equivalent professional experience.
 
-
 EVEN BETTER...
 
  - Experience building AI-powered products.
@@ -76,7 +76,6 @@ EVEN BETTER...
 
  - Leadership experience on technical projects or teams.
 
-
 OUR VALUES
 
  - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.
@@ -88,7 +87,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -106,14 +104,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

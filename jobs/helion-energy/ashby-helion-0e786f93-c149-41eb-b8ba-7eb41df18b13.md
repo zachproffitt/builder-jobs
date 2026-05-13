@@ -5,13 +5,16 @@ title: Applied AI Engineer – Fusion Systems
 source: ashby
 location: Everett, WA
 remote: On-site
+hybrid: no
 posted_at: 2026-05-05
 first_seen: 2026-05-05
 url: https://jobs.ashbyhq.com/helion/0e786f93-c149-41eb-b8ba-7eb41df18b13
 summary: Build AI-assisted tools and workflows to integrate operational data with documentation, using LLMs and structured schemas. Develop lightweight automation agents to support fusion systems.
 skills: Python, LLM APIs (OpenAI, Claude), RAG, search, Confluence/Jira
 level: 
-render_hash: b7068a17
+comp: 
+comp_extras: 
+render_hash: 94bb8d54
 -->
 
 # Applied AI Engineer – Fusion Systems
@@ -86,11 +89,17 @@ Benefits
 Our total compensation package includes benefits, including but not limited to:
 
 • Medical, Dental, and Vision plans for employees and their families
+
 • 31 Days of PTO (21 vacation days and 10 sick days)
+
 • 10 Paid holidays, plus company-wide winter break
+
 • Up to 5% employer 401(k) match
+
 • Short term disability, long term disability, and life insurance
+
 • Paid parental leave and support (up to 16 weeks)
+
 • Annual wellness stipend
 
 Helion is an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need assistance or an accommodation during the interview process, please let us know.

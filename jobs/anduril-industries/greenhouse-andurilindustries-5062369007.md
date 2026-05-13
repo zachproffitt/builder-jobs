@@ -5,13 +5,16 @@ title: Deputy Chief Engineer, Autonomous Airpower
 source: greenhouse
 location: Costa Mesa, California, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-05
 url: https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007
 summary: Own vehicle subsystems from conceptual design through productionization, ensuring technical and programmatic risks are managed for autonomous airpower systems.
 skills: 
 level: 
-render_hash: 743c0384
+comp: 
+comp_extras: 
+render_hash: 7166cf01
 -->
 
 # Deputy Chief Engineer, Autonomous Airpower
@@ -30,6 +33,7 @@ _Own vehicle subsystems from conceptual design through productionization, ensuri
 ---
 
 Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
 WHAT YOU'LL DO
 
 Own vehicle subsystems / design scope from conceptual design phase through detailed design, build, test and productionization.

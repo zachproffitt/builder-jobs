@@ -5,13 +5,16 @@ title: GTM Systems Administrator
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2026-01-29
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/1c991675-099f-49dd-9b9b-bd3c9111e65c
 summary: Design and implement Go-to-Market software for marketing, sales, and agent development teams
 skills: Salesforce, SQL, ETL platforms, APIs, Go-to-Market tools
 level: senior
-render_hash: 35549280
+comp: 
+comp_extras: 
+render_hash: ad2534fe
 -->
 
 # GTM Systems Administrator
@@ -35,8 +38,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU'LL DO
 
@@ -54,7 +56,6 @@ WHAT YOU'LL DO
 
  - Support broader GTM Operations team through thoughtful system design, UX enhancements, and AI-first process optimization
 
-
 WHAT YOU'LL BRING
 
  - 4+ years of Salesforce administration and configuration experience (Flow, SOQL, lightning apps, APIs, profiles, permissions, objects, etc.)
@@ -71,7 +72,6 @@ WHAT YOU'LL BRING
 
  - Strong collaboration and project ownership mindset, with a track record of delivering complex systems on time
 
-
 EVEN BETTER…
 
  - Built applications using LLMs, ideally with exposure to production-grade AI/ML systems
@@ -79,7 +79,6 @@ EVEN BETTER…
  - Developed custom Salesforce solutions using apex classes, apex triggers, LWC, SLDS
 
  - Integrated salesforce with other business systems using REST/SOAP APIs, Platform Events, and External Services
-
 
 OUR VALUES
 
@@ -92,7 +91,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -110,14 +108,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

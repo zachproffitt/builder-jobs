@@ -5,13 +5,16 @@ title: Member of Technical Staff, RL Research & Environments
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2024-11-08
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/b8d6a107-3f98-4341-b114-311c7070e59f
 summary: Build and maintain post-training data pipelines and evaluation frameworks for RL systems
 skills: 
 level: senior
-render_hash: 5383da5e
+comp: 
+comp_extras: 
+render_hash: c52ffc30
 -->
 
 # Member of Technical Staff, RL Research & Environments
@@ -29,7 +32,6 @@ _Build and maintain post-training data pipelines and evaluation frameworks for R
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE
 
 As a Software Engineer on the RL Research & Environments team, you will design and operate the data, evaluation, and environment systems that improve model capabilities after pre-training.
@@ -39,7 +41,6 @@ This role focuses on post-training: identifying capability gaps, building target
 Magic’s long-context models introduce distinct post-training challenges: long-horizon reasoning, sustained coherence over extended trajectories, context-use quality, and tool-augmented behavior. You will build systems that expose failure modes, generate high-signal training data, and enable rapid RL iteration at scale.
 
 This role can evolve into ownership of major capability areas, deeper RL systems work, or broader influence over post-training strategy as Magic scales long-context model performance and reliability.
-
 
 WHAT YOU’LL WORK ON
 
@@ -57,7 +58,6 @@ WHAT YOU’LL WORK ON
 
  - Collaborate closely with Product and Research to translate capability goals into measurable iteration cycles
 
-
 WHAT WE’RE LOOKING FOR
 
  - Strong software engineering fundamentals
@@ -71,10 +71,6 @@ WHAT WE’RE LOOKING FOR
  - Strong attention to data quality and evaluation rigor
 
  - Track record of owning experimental or production systems end-to-end
-
-
-
-
 
 COMPENSATION, BENEFITS, AND PERKS (US):
 
@@ -93,7 +89,6 @@ COMPENSATION, BENEFITS, AND PERKS (US):
  - A small, fast-paced, highly focused team
 
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

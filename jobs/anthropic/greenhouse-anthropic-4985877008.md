@@ -5,13 +5,16 @@ title: Forward Deployed Engineer, Applied AI
 source: greenhouse
 location: Boston, MA; Chicago, IL; New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY; Washington, DC
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-07
 url: https://job-boards.greenhouse.io/anthropic/jobs/4985877008
 summary: This person will build production applications with Claude models, including MCP servers, sub-agents, and agent skills for enterprise workflows. They will develop technical artifacts and deployment patterns for AI systems.
 skills: 
 level: 
-render_hash: b3aba718
+comp: 
+comp_extras: 
+render_hash: 7533585e
 -->
 
 # Forward Deployed Engineer, Applied AI
@@ -32,6 +35,7 @@ _This person will build production applications with Claude models, including MC
 About Anthropic
 
 Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
 About the role:
 
 As a member of the Applied AI team at Anthropic, you will be a Forward Deployed Engineer (FDE) who embeds directly with our most strategic customers to drive transformational AI adoption. You will collaborate closely with customer teams to ship advanced AI applications that solve real world business problems. Our FDEs engage with customers to accelerate the adoption of existing products and create new applications built on our models.
@@ -83,6 +87,7 @@ Experience working as an FDE or in a professional services context is a plus.
 The annual compensation range for this role is listed below.&nbsp;
 
 For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+
 Annual Salary:$200,000&mdash;$300,000 USDLogistics
 
 Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience

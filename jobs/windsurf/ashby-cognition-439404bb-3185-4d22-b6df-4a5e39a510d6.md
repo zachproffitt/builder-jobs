@@ -5,13 +5,16 @@ title: Product Engineer
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-05-11
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6
 summary: Build the agent loop and tool use infrastructure for Devin
 skills: Python, TypeScript, React
 level: senior
-render_hash: 84031dd5
+comp: 
+comp_extras: 
+render_hash: e5ba8ef6
 -->
 
 # Product Engineer
@@ -35,13 +38,11 @@ We are an applied AI lab building end-to-end software agents. We're the team beh
 
 Our team is small and talent-dense: world-class competitive programmers, former founders, and researchers from the frontier of AI, including Scale AI, Palantir, Cursor, Google DeepMind, and others.
 
-
 ROLE MISSION
 
 AI coding is a more mature and competitive market than it was two years ago. User expectations have risen sharply: developers now expect first-minute magic, polished experiences, and a consistently high quality bar across every surface they touch. Meeting that bar across an IDE, a web product, and a CLI requires engineers who can own the full experience, not just the implementation.
 
 This role exists for engineers who build with taste. You'll make product decisions, push through technical walls, and ship experiences that developers love, without waiting for a PM or designer to define the problem for you. The best product engineers at frontier AI companies are the ones who feel the gap between what exists and what should exist, and then close it. That's what we're looking for.
-
 
 WHAT YOU'LL ACCOMPLISH
 
@@ -56,7 +57,6 @@ WHAT YOU'LL ACCOMPLISH
  - Punch Through Technical Walls: The best developer experiences often require solving hard engineering problems. You won't hand those off; you'll solve them.
 
  - Move Fast Across Surfaces: Ship across our IDE, web, and CLI products. Context-switch quickly and maintain a high quality bar across all of them simultaneously.
-
 
 EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
@@ -75,10 +75,6 @@ EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
  - Relevant industry experience: Prior experience at a frontier AI lab, applied AI company, or developer tools company; you know what good looks like in this category.
 
  - Degree from a top-tier university: BS, MS, or equivalent in Computer Science, Mathematics, Engineering, or a related technical discipline from a highly selective program.
-
-
-
-
 
 EQUAL OPPORTUNITY
 

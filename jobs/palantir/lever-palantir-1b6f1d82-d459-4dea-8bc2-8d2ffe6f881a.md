@@ -5,13 +5,16 @@ title: Forward Deployed Software Engineer, Internship
 source: lever
 location: Paris, France
 remote: On-site
+hybrid: no
 posted_at: 2026-05-06
 first_seen: 2026-05-06
 url: https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a
 summary: Build and implement custom software solutions for clients using data, including coding web applications and managing large-scale data systems.
 skills: 
 level: 
-render_hash: fd72efab
+comp: 
+comp_extras: 
+render_hash: 187e3467
 -->
 
 # Forward Deployed Software Engineer, Internship
@@ -40,27 +43,47 @@ En tant que stagiaire chez FDSE, vos responsabilités s’apparentent à celles 
 Les stagiaires FDSE sont traités exactement comme des ingénieurs à temps plein, et bénéficient d’une grande liberté et d’une grande autonomie dans leur travail. Ils assument la responsabilité des projets et des résultats réels sur lesquels nos clients comptent.
 
 Nos principes:
+
 Impact : nous gérons des projets significatifs et enthousiasmants qui rendent le monde meilleur.
+
 Responsabilité : nous menons nos projets du début à la fin, en surmontant tous les obstacles que nous pourrions rencontrer. Nous nous faisons mutuellement confiance afin de gérer efficacement le temps et les priorités et donner aux individus l’espace nécessaire pour réfléchir par eux-mêmes.
+
 Collaboration : nous travaillons en interne avec des personnes d’horizons variés, tels que d’autres FDSE, des équipes Produits et des Deployment Strategists. Nous travaillons également en externe avec nos clients, souvent sur site, afin de comprendre et de répondre à leurs problèmes.
+
 Développement : nous pensons que l’apprentissage par l’expérience est l’une des meilleures écoles et nous nous encourageons nous-mêmes tout comme nos pairs à rechercher de nouveaux défis et de nouvelles opportunités de croissance, ainsi qu’à trouver de nouvelles façons d’innover et de partager les connaissances.
+
 Le profil recherché
+
 Propension et intérêt à se déplacer sur les sites client en fonction des besoins. Capacité de passer 25 à 50 % du temps en déplacement de préférence, mais les exigences peuvent varier selon l’équipe et l’emplacement.
+
 Capacité démontrée à apprendre continuellement, à travailler de manière autonome et à prendre des décisions avec un minimum de direction.
+
 Capacité à collaborer avec des équipes de personnes techniques et non techniques, et à être à l’aise pour travailler dans un environnement en évolution constante avec des objectifs dynamiques et des itérations avec les utilisateurs.
+
 Volonté de résoudre de façon créative les problèmes techniques liés aux structures de données, aux systèmes de stockage, à l’infrastructure cloud, aux frameworks front-end et à d’autres outils techniques.
+
 Intérêt à travailler avec des données à grande échelle et à les utiliser pour résoudre des problèmes opérationnels importants.
+
 Les exigences
+
 Expérience en ingénierie, de préférence dans des domaines tels que l’informatique, les mathématiques, le Software Engineering, la physique et la science des données.
+
 Maîtrise de langages de programmation tels que Python, Java, C++, TypeScript/JavaScript ou similaire.
+
 Vous devez prévoir d’obtenir votre diplôme en 2027. Il doit s’agir de votre dernier stage avant d’obtenir votre diplôme.
+
 Pour postuler, veuillez soumettre ce qui suit :
+
 Un CV à jour
+
 Des réponses réfléchies à nos questions de candidature
+
 Date limite de l’offre
 
 Afin de renforcer la transparence de notre processus de recrutement, nous aimerions vous faire part de nos attentes concernant la date limite de l’offre. En postulant à ce poste, vous vous engagez à confirmer votre décision dans les deux semaines suivant la réception de votre offre écrite.
+
 La vie chez Palantir
+
  Nous tenons à ce que chaque Palantirien(ne) atteigne son meilleur potentiel, c’est pourquoi nous célébrons les forces, les compétences et les intérêts des individus, de votre premier entretien à votre croissance à long terme, plutôt que de nous appuyer sur les échelles de carrière traditionnelles. L’attention portée aux besoins de notre communauté nous permet d’optimiser nos possibilités de croissance et contribue à garantir de nombreuses voies de réussite chez Palantir. Promouvoir la santé et le bien-être dans tous les domaines de la vie des Palantiriens n’est que l’une des façons dont nous investissons dans notre communauté. Apprenez-en davantage sur la vie chez Palantir et notez que nos offres peuvent varier selon les régions.
 
 Conformément aux valeurs et à la culture de Palantir, nous estimons que les employés sont « meilleurs ensemble » et que le travail en présentiel permet d’obtenir des résultats plus créatifs. En conséquence, nous encourageons les employés à travailler depuis nos bureaux pour favoriser la connectivité et l’innovation. De nombreuses équipes proposent des options hybrides (télétravail un jour ou deux par semaine), ce qui permet à nos employés de trouver le bon compromis pour leur productivité personnelle. En fonction des besoins de l’entreprise, il existe quelques postes qui permettent de travailler « à distance » de manière exceptionnelle. Si vous postulez à l’un de ces postes, vous devez travailler depuis la ville et/ou le pays dans lequel vous êtes employé(e). Si le poste précise « sur site », vous devez travailler depuis un bureau.

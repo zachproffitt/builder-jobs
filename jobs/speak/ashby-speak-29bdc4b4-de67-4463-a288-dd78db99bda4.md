@@ -5,13 +5,16 @@ title: Backend Engineer
 source: ashby
 location: San Francisco
 remote: Remote
+hybrid: no
 posted_at: 2024-07-16
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/speak/29bdc4b4-de67-4463-a288-dd78db99bda4
 summary: Build and maintain scalable backend systems for AI-powered language learning products
 skills: 
 level: senior
-render_hash: 6c3e83e2
+comp: 
+comp_extras: 
+render_hash: 5b345e82
 -->
 
 # Backend Engineer
@@ -35,11 +38,9 @@ Learning a language can change a life by opening doors to new cultures, careers,
 
 Speak first launched in South Korea in 2019, where Speak has now become the number one language learning app, and we now serve learners across many markets and 15+ languages. Speak is one of the world’s leading AI companies, with over $150m raised in venture investment from OpenAI, Accel, Founders Fund, Khosla Ventures, and more, with a distributed team across San Francisco, Seoul, Tokyo, Taipei, and Ljubljana.
 
-
 ABOUT THIS ROLE
 
 We are looking for a senior backend focused but full-stack capable engineer to work on building novel AI-powered product experiences. The ideal candidate will have experience working in close coordination with product, design, and machine learning teams, as well as have a background in building polished consumer applications. This role sits at the center of developing our newest products focused on programmatic, conversationally-driven language learning and will be an instrumental contributor to the future of our company.
-
 
 WHAT YOU'LL BE DOING
 
@@ -53,11 +54,10 @@ WHAT YOU'LL BE DOING
 
  - You'll be able to write code very quickly, ship frequently, and make a huge impact on our business by helping us scale our content
 
-
 WHAT WE'RE LOOKING FOR
 
  - 5+ years of industry experience working as a Backend Engineer, preferably in a fast-paced startup environment
-   
+
    - bonus: worked on an app that has been used by 1M users
 
  - Excellent problem-solving and communication skills, and the ability to work independently or as part of a team
@@ -65,7 +65,6 @@ WHAT WE'RE LOOKING FOR
  - Coach and mentor other engineers
 
  - Strong product sense: ability to think broadly/cross-functionally about product experiences
-
 
 WHY WORK AT SPEAK
 

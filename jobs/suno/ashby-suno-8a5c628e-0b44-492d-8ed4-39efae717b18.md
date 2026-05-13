@@ -5,13 +5,16 @@ title: Software Engineer, Android
 source: ashby
 location: NYC
 remote: On-site
+hybrid: no
 posted_at: 2025-02-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/suno/8a5c628e-0b44-492d-8ed4-39efae717b18
 summary: Design and build Suno's Android app for music creation, exploration, and listening; create foundational libraries for performant, interactive media experiences.
 skills: Kotlin, Android, ExoPlayer, Material Design, REST APIs
 level: senior
-render_hash: 78ffa051
+comp: 
+comp_extras: 
+render_hash: 5fbc5b30
 -->
 
 # Software Engineer, Android
@@ -37,14 +40,11 @@ Building the future of entertainment requires ambition. The pace is fast, the pr
 
 Suno is the fastest growing consumer entertainment company and the leader in AI music. We are backed by leading investors including Menlo Ventures, Lightspeed Venture Partners, Matrix Partners, NVentures (venture arm of NVIDIA).
 
-
-
 ABOUT THE ROLE
 
 We're looking for talented Android developers to join our growing mobile team. You'll collaborate with experienced engineers and contribute to building Suno's Android app, bringing music creation to millions of users.
 
 Check out the Suno version of this role https://suno.com/s/oEdmOtkZDLHCopSG!
-
 
 WHAT YOU’LL DO
 
@@ -57,7 +57,6 @@ WHAT YOU’LL DO
  - Contribute to design and product decisions across the app
 
  - Optimize the performance, joy, beauty, and feel of our products
-
 
 WHAT YOU’LL NEED
 
@@ -73,7 +72,6 @@ WHAT YOU’LL NEED
 
  - Bachelor's degree or equivalent required.
 
-
 NICE TO HAVE
 
  - Experience with ExoPlayer or Media3
@@ -86,10 +84,7 @@ NICE TO HAVE
 
  - A love of music (listening, exploring, making) is a huge plus
 
- 
-
-Additional Notes: Applicants must be eligible to work in the US. 
-
+Additional Notes: Applicants must be eligible to work in the US.
 
 PERKS & BENEFITS FOR FULL-TIME EMPLOYEES
 
@@ -110,6 +105,7 @@ PERKS & BENEFITS FOR FULL-TIME EMPLOYEES
  - In-Office Lunch (5 days per week)
 
 Life at Suno: https://suno.com/about
+
 Series C Announcement: https://suno.com/blog/series-c-announcement
 
 Suno is proud to be an Equal Opportunity Employer. We consider qualified applicants without regard to race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, genetic information, veteran status, or any other legally protected basis under provincial, federal, state, and local laws, regulations, or ordinances. We will also consider qualified applicants with criminal histories in a manner consistent with the requirements of state and local laws, including the Massachusetts Fair Chance in Employment Act, NYC Fair Chance Act, LA City Fair Chance Ordinance, and San Francisco Fair Chance Ordinance.

@@ -5,13 +5,16 @@ title: Staff Test Automation Engineer
 source: greenhouse
 location: Seattle, Washington, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-04-30
 url: https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007
 summary: Build and implement robust automated systems for development, verification, and deployment across multi-stage release pipelines and end-to-end test environments.
 skills: 
 level: 
-render_hash: dca143fe
+comp: 
+comp_extras: 
+render_hash: 03b69760
 -->
 
 # Staff Test Automation Engineer 
@@ -30,11 +33,14 @@ _Build and implement robust automated systems for development, verification, and
 ---
 
 Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
 ABOUT THE TEAM
+
 The Software Platform Foundations team at Anduril is dedicated to building the foundational systems that empower our engineering teams to develop, test, and deploy cutting-edge defense technology with unparalleled efficiency and reliability. We design and implement sophisticated automated systems that enhance efficiency, reduce manual labor, and optimize critical processes and control systems across our software development lifecycle and production pipelines. As a Software Engineer on this team, you will be instrumental in ensuring the quality, traceability, and rapid deployment of our software solutions, directly contributing to our mission of delivering advanced autonomous systems.
 
 ABOUT THE ROLE
-Ensuring we deliver high quality, trustable products is table stakes. Every regression you catch, every manual test you automate away, every closed loop you implement to flag and fix issues has material impact on Engineering’s ability to build awesome products fast. As the Staff Test Automation Engineer, you will work within a complex ecosystem system (multi-stage release pipelines, Cloud and Robot environments, etc..) and up and down the entire stack where architectural decisions have concrete, measurable consequences and correctness matters. This is how Lattice gets to customers safely, and how operators trust the platform in the field - and how every SWP team ships without breaking the teams next to them. This role, and this team is what makes that possible at scale. 
+
+Ensuring we deliver high quality, trustable products is table stakes. Every regression you catch, every manual test you automate away, every closed loop you implement to flag and fix issues has material impact on Engineering’s ability to build awesome products fast. As the Staff Test Automation Engineer, you will work within a complex ecosystem system (multi-stage release pipelines, Cloud and Robot environments, etc..) and up and down the entire stack where architectural decisions have concrete, measurable consequences and correctness matters. This is how Lattice gets to customers safely, and how operators trust the platform in the field - and how every SWP team ships without breaking the teams next to them. This role, and this team is what makes that possible at scale.
 
 This role is open to senior technical leaders ready to own the architecture of how Software Platform ships — the Integrated Continuous Release (ICR) pipeline, full automation of local and integrated end-to-end test environments, and enforcement of contract-verification models that every Lattice service will ship against. If you've spent your career building the frameworks and infrastructure that other engineers depend on, and you want to do it on systems that protect real defense technology, this role is for you!
 

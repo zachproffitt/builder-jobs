@@ -5,13 +5,16 @@ title: Senior Tools Programmer
 source: lever
 location: Warsaw
 remote: On-site
+hybrid: no
 posted_at: 2025-12-16
 first_seen: 2026-04-29
 url: https://jobs.lever.co/larian/3fc7173f-bd7f-4cd8-93cb-f3022d43d892
 summary: Develop and maintain internal tools for game development.
 skills: 
 level: 
-render_hash: 83437137
+comp: 
+comp_extras: 
+render_hash: 2dbc721a
 -->
 
 # Senior Tools Programmer

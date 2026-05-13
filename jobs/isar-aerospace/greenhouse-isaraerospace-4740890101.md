@@ -5,13 +5,16 @@ title: Senior Design Engineer, Integrated Spectrum Design (m/f/d)
 source: greenhouse
 location: Ottobrunn, Bavaria, Germany
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-04
 url: https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4740890101
 summary: Integrate subsystem kits into the Spectrum Launch Vehicle architecture, govern CAD models and EBOM, and enforce design standards across Propulsion, AGNC, and LV Structures teams.
 skills: Siemens NX, Solidworks, PLM systems, EBOM, ICD frameworks
 level: 
-render_hash: c0ff130b
+comp: 
+comp_extras: 
+render_hash: c7a43c39
 -->
 
 # Senior Design Engineer, Integrated Spectrum Design (m/f/d)
@@ -53,19 +56,19 @@ Collaborate with Production, DFMA and AIT, incorporating feedback into design it
 
 Qualification Checklist&nbsp;
 
-Bachelor’s or Master’s degree in Aerospace Engineering, Mechanical Engineering, or a related technical field. 
+Bachelor’s or Master’s degree in Aerospace Engineering, Mechanical Engineering, or a related technical field.
 
-5+ years in launch vehicle or aerospace system design, with proven experience in subsystem integration and managing top level complex assemblies. 
+5+ years in launch vehicle or aerospace system design, with proven experience in subsystem integration and managing top level complex assemblies.
 
-High proficiency in CAD tools (e.g., Siemens NX, Solidworks), PLM systems, and EBOM management. 
+High proficiency in CAD tools (e.g., Siemens NX, Solidworks), PLM systems, and EBOM management.
 
-Deep knowledge about Propulsion, AGNC, and LV Structures (depending on the position knowledge only in one department required); ability to work across multiple disciplines and define the framework for ICDs. 
+Deep knowledge about Propulsion, AGNC, and LV Structures (depending on the position knowledge only in one department required); ability to work across multiple disciplines and define the framework for ICDs.
 
-Deeply integrated into company processes such as ECR workflows, configuration management, and workflows in PLM, able to improve these processes according to the needs of subsystem departments. 
+Deeply integrated into company processes such as ECR workflows, configuration management, and workflows in PLM, able to improve these processes according to the needs of subsystem departments.
 
-Strong communication and stakeholder management skills; ability to work in a cross-functional team and drive decisions under time constraints in accordance with architectural design envelope. 
+Strong communication and stakeholder management skills; ability to work in a cross-functional team and drive decisions under time constraints in accordance with architectural design envelope.
 
-Structured problem-solving approach with high attention to detail and capability to meet the needs of subsystem design departments and Production / AIT. 
+Structured problem-solving approach with high attention to detail and capability to meet the needs of subsystem design departments and Production / AIT.
 
 Fluent in English
 

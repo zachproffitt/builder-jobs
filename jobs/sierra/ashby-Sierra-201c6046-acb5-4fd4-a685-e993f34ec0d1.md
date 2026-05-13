@@ -5,13 +5,16 @@ title: Software Engineer, Security
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2026-01-07
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1
 summary: Build and maintain security systems for Sierra’s platform, focusing on privacy, identity, and data protection.
 skills: Python, Go, TypeScript, API design, authentication frameworks
 level: 
-render_hash: 15760096
+comp: 
+comp_extras: 
+render_hash: b5a3c9f4
 -->
 
 # Software Engineer, Security
@@ -35,8 +38,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU'LL DO
 
@@ -48,7 +50,6 @@ WHAT YOU'LL DO
 
  - Automate and Scale Security-Adjacent Workflows. Create developer-friendly tooling to reduce risk and friction — whether through automating security checks in CI/CD, enforcing privacy boundaries through schema validation, or instrumenting runtime monitoring for sensitive events.
 
-
 WHAT YOU'LL BRING
 
  - Strong Software Engineering Skills. Experience building and maintaining production systems in Python, Go, or TypeScript. You’re comfortable designing APIs, integrating with authentication or identity frameworks, and shipping high-quality code in a fast-paced environment.
@@ -59,23 +60,17 @@ WHAT YOU'LL BRING
 
  - Curiosity and Ownership. You’re the kind of engineer who goes deep — tracing how a token propagates through the stack, or how an LLM might interact with internal APIs — because you want to understand and strengthen the system.
 
-
 EVEN BETTER IF…
 
  - You’ve worked on privacy, identity, trust & safety, auth/authz, or data protection systems.
-   
 
  - You’ve built security frameworks, libraries, or tooling that developers actually use or integrated security automation into CI/CD pipelines.
-   
 
  - You have exposure to AI systems or care about designing secure-by-default LLM applications.
-   
 
  - You think like an attacker — you naturally ask "what could go wrong?" when reviewing designs or while building systems. You've found or fixed real security issues in production systems.
-   
 
  - You thrive in 0→1 environments, where foundational systems have to balance speed, reliability, and trust.
-
 
 OUR VALUES
 
@@ -88,7 +83,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -106,14 +100,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

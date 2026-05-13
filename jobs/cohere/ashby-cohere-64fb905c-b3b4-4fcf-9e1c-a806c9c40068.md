@@ -5,13 +5,16 @@ title: Software Engineer, Search Applications
 source: ashby
 location: Toronto
 remote: Remote
+hybrid: no
 posted_at: 2025-11-10
 first_seen: 2026-04-30
 url: https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068
 summary: Build the data ingestion and search platform powering Cohere's AI assistant, including backend systems, data pipelines, and indexing services.
 skills: Go, Python, Kubernetes, Docker, OpenSearch
 level: 
-render_hash: 793e1b0a
+comp: 
+comp_extras: 
+render_hash: 59ba48a1
 -->
 
 # Software Engineer, Search Applications
@@ -91,13 +94,13 @@ We value and celebrate diversity and strive to create an inclusive work environm
 
 Full-Time Employees at Cohere enjoy these Perks:
 
-🤝 An open and inclusive culture and work environment 
+🤝 An open and inclusive culture and work environment
 
-🧑‍💻 Work closely with a team on the cutting edge of AI research 
+🧑‍💻 Work closely with a team on the cutting edge of AI research
 
 🍽 Weekly lunch stipend, in-office lunches & snacks
 
-🦷 Full health and dental benefits, including a separate budget to take care of your mental health 
+🦷 Full health and dental benefits, including a separate budget to take care of your mental health
 
 🐣 100% Parental Leave top-up for up to 6 months
 

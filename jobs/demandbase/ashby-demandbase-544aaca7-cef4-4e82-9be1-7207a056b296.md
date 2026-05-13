@@ -5,13 +5,16 @@ title: Staff Database Platform Engineer
 source: ashby
 location: US - Remote
 remote: Remote
+hybrid: no
 posted_at: 2026-04-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/demandbase/544aaca7-cef4-4e82-9be1-7207a056b296
 summary: Design and build self-service database platforms and Infrastructure-as-Code solutions for provisioning, scaling, and operating cloud-native databases across AWS environments. Establish architectural standards and observability frameworks for microservices database operations.
 skills: Terraform, Kubernetes, PostgreSQL, AWS RDS, Prometheus
 level: staff
-render_hash: 11223e92
+comp: 
+comp_extras: 
+render_hash: 8ee66025
 -->
 
 # Staff Database Platform Engineer
@@ -35,7 +38,6 @@ Demandbase is the only pipeline AI platform that empowers GTM teams to automate 
 
 As a company, we’re as committed to growing careers as we are to building world-class technology. We invest heavily in people, our culture, and the community around us. We have also continuously been recognized as One of The Best Places To Work in the San Francisco Bay Area by Fortune, and One of The 60 Best Companies To Sell For by Selling Power. Our offices are located in San Francisco, New York, Austin, Seattle, India, and the United Kingdom.
 
-
 ABOUT THE ROLE
 
 As a Staff Database Platform Engineer, you will design, build, and evolve scalable database platforms that power Demandbase’s cloud-native applications. You will play a key role in defining the future of database reliability by embedding automation, observability, and compliance into how teams provision, operate, and scale databases across AWS environments.
@@ -44,9 +46,7 @@ This is a senior individual contributor role with strong technical ownership and
 
 The base compensation range for this position are for candidates based in San Francisco, CA. For all other locations, the base compensation range is based on the primary work location of the candidate as our ranges are location specific. Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skillset, years of experience, and depth of experience.
 
-
 RESPONSIBILITIES
-
 
 CORE ENGINEERING
 
@@ -62,7 +62,6 @@ CORE ENGINEERING
 
  - Enhance system reliability through proactive monitoring, performance tuning, automation, and documentation.
 
-
 LEADERSHIP & BUSINESS ACUMEN
 
  - Define and drive the technical roadmap for database platform modernization aligned with broader engineering strategy.
@@ -75,7 +74,6 @@ LEADERSHIP & BUSINESS ACUMEN
 
  - Balance innovation with operational stability to maintain high availability for mission-critical systems.
 
-
 COLLABORATION & MENTORSHIP
 
  - Collaborate with product and platform teams on schema design, query optimization, and database best practices.
@@ -87,7 +85,6 @@ COLLABORATION & MENTORSHIP
  - Participate in incident response and postmortems, driving continuous improvement across database operations.
 
  - Foster a culture of shift-left ownership, reliability engineering, and engineering excellence.
-
 
 QUALIFICATIONS
 
@@ -108,7 +105,6 @@ QUALIFICATIONS
  - Demonstrated ability to mentor DBREs/DBAs and influence engineering culture toward automation and service ownership.
 
  - Excellent communication skills and ability to collaborate effectively across product, platform, DBRE, and data teams.
-
 
 BENEFITS
 

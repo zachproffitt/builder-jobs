@@ -5,13 +5,16 @@ title: Software Engineer - Backend (Platform)
 source: greenhouse
 location: San Francisco
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-11
 url: https://job-boards.greenhouse.io/astranis/jobs/4622097006
 summary: Design and build high-performance services for autonomous satellite control and real-time telemetry monitoring.
 skills: Python, Postgres, RabbitMQ, Flink, Kubernetes
 level: 
-render_hash: d5474e97
+comp: 
+comp_extras: 
+render_hash: 8172d0ae
 -->
 
 # Software Engineer - Backend (Platform)
@@ -82,15 +85,21 @@ Proficiency in C++, Go, Rust
 Experience building fleet management systems
 
 What we offer:&nbsp;
+
 &nbsp;
+
 All our positions offer a compensation package that includes equity and robust benefits.
+
 &nbsp;
 
 Base pay is just one component of Astranis’s total rewards package. Your compensation also includes a significant equity package via incentive stock options, high-quality company-subsidized healthcare, disability and life insurance, 401(k) retirement planning, flexible PTO, and free on-site catered meals.
 
 Astranis pay ranges are informed and defined through professional-grade salary surveys and compensation data sources. The actual base salary offered to a successful candidate will additionally be influenced by a variety of factors including experience, credentials &amp; certifications, educational attainment, skill level requirements, and the level and scope of the position.Base Salary$125,000&mdash;$170,000 USDU.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required
+
 (To comply with U.S. Government space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as defined by 8 U.S.C. 1324b(a)(3))
+
 &nbsp;
+
 Our mission and our products are meant to connect the world and everyone in it, regardless of gender, race, creed, or any other distinction. We believe in a diverse and inclusive workplace, and we encourage all people to join our team and bring their unique perspective to help make us stronger.
 
 ---

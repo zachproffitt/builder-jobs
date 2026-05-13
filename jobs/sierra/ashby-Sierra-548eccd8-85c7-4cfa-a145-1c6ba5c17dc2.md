@@ -5,13 +5,16 @@ title: Strategist, Agent Development
 source: ashby
 location: London
 remote: On-site
+hybrid: no
 posted_at: 2025-06-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2
 summary: Build and refine conversational AI agents for customer interactions
 skills: 
 level: 
-render_hash: 8fea393c
+comp: 
+comp_extras: 
+render_hash: 35ec4bee
 -->
 
 # Strategist, Agent Development
@@ -33,8 +36,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU'LL DO
 
@@ -54,7 +56,6 @@ You’ll play a central role in agent development, combining product strategy, c
 
  - Contribute data-driven, strategic insights to customers and internal team decisions.
 
-
 WHAT YOU'LL BRING
 
  - Outstanding Communication Skills: Excellent verbal and written communication skills to convey complex technical information to non-technical stakeholders, fostering collaboration and driving projects forward with clarity.
@@ -66,11 +67,10 @@ WHAT YOU'LL BRING
  - Leadership and Team Management: Proven ability to manage multiple projects simultaneously, leading and inspiring teams to deliver innovative ideas and exceptional agents.
 
  - Foundational Expertise:
-   
-   - Degree in Computer Science, Engineering, Mathematics, a related technical field, or equivalent practical experience that demonstrates comparable expertise is a strong plus.
-   
-   - MBA or comparable experience at the intersection of technology and operations is another strong plus.
 
+   - Degree in Computer Science, Engineering, Mathematics, a related technical field, or equivalent practical experience that demonstrates comparable expertise is a strong plus.
+
+   - MBA or comparable experience at the intersection of technology and operations is another strong plus.
 
 OUR VALUES
 
@@ -83,7 +83,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -101,14 +100,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

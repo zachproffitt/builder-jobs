@@ -5,13 +5,16 @@ title: Research Engineer, Safeguards Labs
 source: greenhouse
 location: San Francisco, CA | New York City, NY
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-07
 url: https://job-boards.greenhouse.io/anthropic/jobs/5191785008
 summary: This person will build detection systems, classifiers, and evaluation methodologies for safeguarding AI models, including prototypes that integrate into real-time safety infrastructure. They will develop tools to identify misuse patterns and measure the effectiveness of safeguards in agentic settings.
 skills: 
 level: 
-render_hash: 9d3b59d5
+comp: 
+comp_extras: 
+render_hash: b3e67504
 -->
 
 # Research Engineer, Safeguards Labs
@@ -32,6 +35,7 @@ _This person will build detection systems, classifiers, and evaluation methodolo
 About Anthropic
 
 Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
 About the Team
 
 Safeguards Labs is a new team operating at the intersection of research and engineering, chartered to investigate novel safety methods that protect Claude and the people who use it. We prototype new approaches to safe models, usage safeguards, and production safety — pressure-testing ideas through offline analysis and subsets of traffic before they graduate into production systems run by our partner Safeguards teams. Our work overlaps closely with account abuse, model behavior safeguards, and other safeguard subteams, and we serve as a research arm that can take on ambitious, ambiguous problems and turn them into deployed defenses.
@@ -83,6 +87,7 @@ A history of taking research prototypes and transferring them into production sy
 The annual compensation range for this role is listed below.&nbsp;
 
 For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+
 Annual Salary:$350,000&mdash;$850,000 USDLogistics
 
 Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience

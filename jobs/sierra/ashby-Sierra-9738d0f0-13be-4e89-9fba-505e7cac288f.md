@@ -5,13 +5,16 @@ title: APX (New Grad)
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2025-09-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/9738d0f0-13be-4e89-9fba-505e7cac288f
 summary: Build and ship AI agents with top global brands
 skills: React, TypeScript, Python, Go, modern programming languages
 level: intern
-render_hash: ebc7ce2e
+comp: 
+comp_extras: 
+render_hash: 6ad2cde3
 -->
 
 # APX (New Grad)
@@ -35,8 +38,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 PROGRAM OVERVIEW
 
@@ -47,7 +49,6 @@ PROGRAM OVERVIEW
  - As an APX, you’ll be among the first to live in this exciting future. You’ll build AI agents directly with top global brands and gain access to comprehensive training opportunities and rotations across our Agent Development and Core Product teams. If you’re hungry to shape the most important technological wave of our lifetimes, come build at Sierra.
 
  - The APX program is open to students graduating from undergraduate or Master’s programs by June 2026.
-
 
 WHAT YOU’LL DO
 
@@ -61,7 +62,6 @@ WHAT YOU’LL DO
 
  - Participate in internal reviews and product discussions to push the boundaries of what agents can do.
 
-
 WHAT YOU'LL BRING
 
  - Pursuing a Bachelor’s or Master’s degree (or comparable program) in Computer Science or a related field.
@@ -71,7 +71,6 @@ WHAT YOU'LL BRING
  - Expertise in React, TypeScript, Python, Go, and other modern programming languages.
 
  - Demonstrated curiosity and interest in AI applications (e.g., research, jobs, side projects).
-
 
 OUR VALUES
 
@@ -84,7 +83,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -102,14 +100,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

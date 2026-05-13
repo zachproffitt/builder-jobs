@@ -5,13 +5,16 @@ title: Member of Technical Staff, Pre-training Systems
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-02-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/f1d3988f-f93c-42b7-ad1a-f9fb3d07ff26
 summary: Design and optimize distributed training systems for large-scale GPU clusters.
 skills: distributed systems, GPU clusters, fault tolerance, checkpointing, performance optimization
 level: senior
-render_hash: 710745ef
+comp: 
+comp_extras: 
+render_hash: fba593af
 -->
 
 # Member of Technical Staff, Pre-training Systems
@@ -31,7 +34,6 @@ _Design and optimize distributed training systems for large-scale GPU clusters._
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE
 
 As a Software Engineer on the Pre-training Systems team, you will design and operate the distributed infrastructure that trains Magic’s long-context models at scale.
@@ -39,7 +41,6 @@ As a Software Engineer on the Pre-training Systems team, you will design and ope
 This role focuses on large-scale model training across massive GPU clusters. You will work at the boundary between deep learning and distributed systems, ensuring that training runs are performant, reliable, and reproducible under extreme scale.
 
 Magic’s long-context models create non-trivial systems challenges: sustained memory pressure, communication overhead across thousands of devices, long-running jobs that must survive failures, and efficient sequence packing under hardware constraints. You will own the systems that make large-scale pre-training stable and fast.
-
 
 WHAT YOU’LL WORK ON
 
@@ -57,7 +58,6 @@ WHAT YOU’LL WORK ON
 
  - Collaborate with Kernels and Research to align model architecture with systems realities
 
-
 WHAT WE’RE LOOKING FOR
 
  - Strong software engineering and distributed systems fundamentals
@@ -71,7 +71,6 @@ WHAT WE’RE LOOKING FOR
  - Strong ownership mindset and ability to operate critical infrastructure
 
  - Track record of improving performance or reliability of large-scale systems
-
 
 COMPENSATION, BENEFITS, AND PERKS (US):
 
@@ -90,7 +89,6 @@ COMPENSATION, BENEFITS, AND PERKS (US):
  - A small, fast-paced, highly focused team
 
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

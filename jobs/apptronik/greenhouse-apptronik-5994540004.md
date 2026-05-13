@@ -5,13 +5,16 @@ title: Software Engineer - Human Motion Data
 source: greenhouse
 location: Austin, TX
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-12
 url: https://boards.greenhouse.io/apptronik/jobs/5994540004?gh_jid=5994540004
 summary: Build and maintain end-to-end motion data pipelines integrating mocap, game engines, and generative AI models. Develop tools for kinematic retargeting and trajectory synthesis for humanoid robot reinforcement learning.
 skills: Unreal Engine, Unity, GMR, Omni-retarget, physics simulators
 level: 
-render_hash: d1acad98
+comp: 
+comp_extras: 
+render_hash: da5413a1
 -->
 
 # Software Engineer - Human Motion Data
@@ -32,6 +35,7 @@ _Build and maintain end-to-end motion data pipelines integrating mocap, game eng
 Apptronik is a human-centered robotics company developing AI-powered robots to support humanity in every facet of life. Our flagship humanoid robot, Apollo, is built to collaborate thoughtfully with people, starting with critical industries such as manufacturing and logistics, with future applications in healthcare, the home, and beyond.
 
 We operate at the cutting edge of embodied AI, applying our expertise across the full robotics stack to solve some of society's most important problems. You will join a team dedicated to bringing Apollo to market at scale, tackling the complex challenges like safety, commercialization, and mass production to change the world for the better.
+
 JOB SUMMARY
 
 As a Software Engineer- Human Motion Data, you will leverage your background in robotics to build the crucial link between human-data and our reinforcement learning pipelines. This role is dedicated to architecting robust motion data pipelines—integrating diverse sources like mocap, game engines (like Unreal or Unity), teleoperation, and generative AI motion models to generate thousands of rich, physically accurate human motion trajectories. You will apply your deep expertise in kinematics and rigid body dynamics to translate raw human movement into actionable, dynamically feasible data for whole-body reinforcement learning. As a core member of the Motion Control and Planning team, you will work closely with Controls stakeholders to play a key role in maintaining a high-velocity, ego-free engineering culture while ensuring our humanoid robots move with unprecedented fluidity.
@@ -63,6 +67,7 @@ Expertise in Python for scripting, data processing, and pipeline automation.
 A results-oriented mindset with an eagerness to bridge the gap between human motion data and real-world robotic control algorithms.
 
 High adaptability and a willingness to explore new tools, moving seamlessly across different layers of the robotics software stack as project needs evolve.
+
 NICE TO HAVE (BONUS QUALIFICATIONS)
 
 Hands-on experience with state-of-the-art motion generation models and open-source retargeting libraries (e.g., GMR, Omni-retarget).

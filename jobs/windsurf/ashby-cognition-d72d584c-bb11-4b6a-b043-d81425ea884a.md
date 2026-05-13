@@ -5,13 +5,16 @@ title: Deployed Engineer
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2025-07-10
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a
 summary: Deploy and integrate Devin/Windsurf into customer production environments
 skills: 
 level: 
-render_hash: 855ff2ef
+comp: 
+comp_extras: 
+render_hash: 9aa2573c
 -->
 
 # Deployed Engineer
@@ -34,10 +37,6 @@ We're the makers of Devin, the first AI software engineer, and Windsurf, the AI-
 Our team is small and talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
 
 Building Devin and Windsurf is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
-
-
-
-
 
 ABOUT THE ROLE
 
@@ -98,7 +97,6 @@ You might excel if you…
  - Learn quickly by being embedded in challenging, real-world environments
 
  - Have worked at an early-stage startup or in a role where you operated well beyond your job description
-
 
 EQUAL OPPORTUNITY
 

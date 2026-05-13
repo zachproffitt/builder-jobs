@@ -22,25 +22,31 @@ _Build and maintain complex humanoid robot behaviors, integrating motion plannin
 ---
 
 ### [Infrastructure Engineer](jobs/allen-institute-for-ai/greenhouse-thealleninstitute-7902196.md)
-<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Senior`
+<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Senior` · `Hybrid`  
+`$100k-$150k` `bonus plans`
 
-_Build and deploy Terraform configurations for GCP and AWS. Develop automated pipelines to manage user accounts, permissions, and security monitoring systems._
+_Build infrastructure automation and deployment pipelines including Terraform configurations for GCP/AWS, security monitoring systems, and incident response automation. Support AI research operations at a nonprofit focused on AI for the common good._
 
-![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Okta](https://img.shields.io/badge/Okta-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![security automation](https://img.shields.io/badge/security_automation-3B82F6?style=flat-square) ![incident response automation](https://img.shields.io/badge/incident_response_automation-3B82F6?style=flat-square) ![infrastructure-as-code](https://img.shields.io/badge/infrastructure--as--code-3B82F6?style=flat-square)
 
 ---
 
 ### [Software Engineer, AI for the Planet](jobs/allen-institute-for-ai/greenhouse-thealleninstitute-7909771.md)
-<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA
+<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Mid` · `Hybrid`  
+`$128.8k-$193.3k` `bonus plans`
 
-_Build and maintain the OlmoEarth Platform, including distributed training and inference systems for geospatial feature detection. Develop full-stack products integrating state-of-the-art ML models for environmental applications._
+_Build full-stack, scalable AI products that integrate state-of-the-art ML models for environmental impact (maritime conservation, food security, climate solutions). Work on systems like Skylight (real-time vessel detection) and OlmoEarth (foundation models platform for Earth observation), with infrastructure supporting thousands of parallel GPUs._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![distributed training](https://img.shields.io/badge/distributed_training-3B82F6?style=flat-square) ![GPU infrastructure](https://img.shields.io/badge/GPU_infrastructure-3B82F6?style=flat-square) ![computer vision](https://img.shields.io/badge/computer_vision-3B82F6?style=flat-square) ![geospatial data](https://img.shields.io/badge/geospatial_data-3B82F6?style=flat-square) ![Sentinel imagery](https://img.shields.io/badge/Sentinel_imagery-3B82F6?style=flat-square) ![full-stack product development](https://img.shields.io/badge/full--stack_product_development-3B82F6?style=flat-square)
 
 ---
 
 ### [Research Scientist](jobs/anduril-industries/greenhouse-andurilindustries-5047082007.md)
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Broomfield, Colorado, United States
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Broomfield, Colorado, United States · `Senior`
 
-_Implement high-performance software spanning tactical systems to web applications and prototype state-of-the-art algorithms in agile development environments._
+_Build state-of-the-art algorithms and high-performance software for AI-powered autonomous systems, sensor fusion, and command-and-control platforms deployed in mission-critical defense applications. Work spans mathematical modeling, algorithm prototyping, and production implementation across tactical systems to web applications._
+
+![Applied mathematics](https://img.shields.io/badge/Applied_mathematics-3B82F6?style=flat-square) ![differential equations](https://img.shields.io/badge/differential_equations-3B82F6?style=flat-square) ![linear algebra](https://img.shields.io/badge/linear_algebra-3B82F6?style=flat-square) ![numerical analysis](https://img.shields.io/badge/numerical_analysis-3B82F6?style=flat-square) ![optimization](https://img.shields.io/badge/optimization-3B82F6?style=flat-square) ![controls](https://img.shields.io/badge/controls-3B82F6?style=flat-square) ![estimation theory](https://img.shields.io/badge/estimation_theory-3B82F6?style=flat-square) ![digital signal processing](https://img.shields.io/badge/digital_signal_processing-3B82F6?style=flat-square) ![machine learning](https://img.shields.io/badge/machine_learning-3B82F6?style=flat-square) ![scientific computing](https://img.shields.io/badge/scientific_computing-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![software design](https://img.shields.io/badge/software_design-3B82F6?style=flat-square) ![algorithm implementation](https://img.shields.io/badge/algorithm_implementation-3B82F6?style=flat-square)
 
 ---
 

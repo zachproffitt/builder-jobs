@@ -5,13 +5,16 @@ title: Software Engineer, Identity & Enterprise Platform
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2026-02-04
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/fc6eaada-479c-4ff6-be79-7e267b9ed2b4
 summary: Build and maintain the enterprise identity and access management systems for Sierra’s platform.
 skills: 
 level: senior
-render_hash: 0e196db9
+comp: 
+comp_extras: 
+render_hash: e6f18cde
 -->
 
 # Software Engineer, Identity & Enterprise Platform
@@ -33,20 +36,21 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU’LL DO
 
  - Build Sierra’s enterprise platform capabilities.
+
    You’ll design and build the foundational systems and capabilities that enable Sierra to serve the world’s largest and most demanding enterprises. This includes the identity, access management, integration points, and extensibility that enterprise customers require to allow customers to embed Sierra into their existing ecosystems.
 
  - Scale with our largest customers.
+
    Our enterprise customers have complex environments, strict security requirements, and high expectations for reliability. You’ll ensure Sierra’s platform scales across organizations, regions, and use cases while maintaining performance and simplicity.
 
  - Form the foundation of trust.
-   Enterprise customers trust Sierra with their most sensitive workflows and data. You’ll help set and uphold a high bar for security, compliance readiness, reliability, and operational excellence across the platform.
 
+   Enterprise customers trust Sierra with their most sensitive workflows and data. You’ll help set and uphold a high bar for security, compliance readiness, reliability, and operational excellence across the platform.
 
 WHAT YOU’LL BRING
 
@@ -62,7 +66,6 @@ WHAT YOU’LL BRING
 
  - Degree in Computer Science or related field, or equivalent professional experience.
 
-
 EVEN BETTER…
 
  - Experience building enterprise features such as SSO, RBAC, IAM, audit logs, or compliance-adjacent systems.
@@ -75,7 +78,6 @@ EVEN BETTER…
 
  - Experience building AI-powered products or platforms.
 
-
 OUR VALUES
 
  - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.
@@ -87,7 +89,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -105,14 +106,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

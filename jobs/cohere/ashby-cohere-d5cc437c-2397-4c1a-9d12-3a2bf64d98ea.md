@@ -5,13 +5,16 @@ title: Member of Technical Staff, Search
 source: ashby
 location: United States
 remote: Remote
+hybrid: no
 posted_at: 2025-05-23
 first_seen: 2026-05-08
 url: https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea
 summary: Build and improve cutting-edge search models for semantic retrieval, optimize data pipelines for training and evaluation, and collaborate on inference systems for search infrastructure.
 skills: Python, PyTorch, TensorFlow, JAX, XLA/MLIR
 level: 
-render_hash: 6c4d33ea
+comp: 
+comp_extras: 
+render_hash: 00c15d0d
 -->
 
 # Member of Technical Staff, Search
@@ -89,13 +92,13 @@ We value and celebrate diversity and strive to create an inclusive work environm
 
 Full-Time Employees at Cohere enjoy these Perks:
 
-🤝 An open and inclusive culture and work environment 
+🤝 An open and inclusive culture and work environment
 
-🧑‍💻 Work closely with a team on the cutting edge of AI research 
+🧑‍💻 Work closely with a team on the cutting edge of AI research
 
 🍽 Weekly lunch stipend, in-office lunches & snacks
 
-🦷 Full health and dental benefits, including a separate budget to take care of your mental health 
+🦷 Full health and dental benefits, including a separate budget to take care of your mental health
 
 🐣 100% Parental Leave top-up for up to 6 months
 

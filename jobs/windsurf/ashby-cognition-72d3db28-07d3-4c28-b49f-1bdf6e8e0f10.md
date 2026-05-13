@@ -5,13 +5,16 @@ title: Research, Post-Training
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-05-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10
 summary: Shape post-training recipes and alignment methods for Devin and Windsurf
 skills: 
 level: senior
-render_hash: 396b81e8
+comp: 
+comp_extras: 
+render_hash: 1bb28dfa
 -->
 
 # Research, Post-Training
@@ -33,11 +36,9 @@ We are an applied AI lab building end-to-end software agents. We're the team beh
 
 Our team is small and talent-dense: world-class competitive programmers, former founders, and researchers from the frontier of AI, including Scale AI, Palantir, Cursor, Google DeepMind, and others.
 
-
 ROLE MISSION
 
 Post-training is the critical bridge between raw model capability and a system that is actually useful, safe, and effective in the real world. You will shape how our agents learn by iterating on training recipes, evaluations, and alignment methods that directly determine what Devin and our future systems can do. This role blends deep research and hands-on engineering. We don't distinguish between the two.
-
 
 WHAT YOU'LL ACCOMPLISH
 
@@ -50,7 +51,6 @@ WHAT YOU'LL ACCOMPLISH
  - Alignment and Agent Behavior: Apply and advance techniques like RLHF, RLAIF, and constitutional approaches to shape how agents reason, act, and collaborate with humans in long-horizon tasks.
 
  - Scaling and Exploration: Measure how performance scales with data and compute, and develop new methodologies when existing ones hit ceilings. We expect both rigor and invention.
-
 
 EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
@@ -68,7 +68,6 @@ EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
  - We care more about demonstrated capability than credentials. A PhD is one signal among many.
 
-
 RESOURCES & ENVIRONMENT
 
  - Small, highly selective team where research and product move together; prototypes reach real deployment quickly
@@ -78,7 +77,6 @@ RESOURCES & ENVIRONMENT
  - The environment rewards speed, autonomy, and technical depth with minimal process overhead; this is one of the most competitive and fast-moving problems in AI
 
  - Everything needed to operate at frontier scale from day one.
-
 
 EQUAL OPPORTUNITY
 

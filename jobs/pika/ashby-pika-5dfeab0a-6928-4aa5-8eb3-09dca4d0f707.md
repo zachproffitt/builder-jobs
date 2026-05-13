@@ -5,13 +5,16 @@ title: Senior Software Engineer, iOS
 source: ashby
 location: Palo Alto HQ
 remote: On-site
+hybrid: no
 posted_at: 2026-03-31
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/pika/5dfeab0a-6928-4aa5-8eb3-09dca4d0f707
 summary: Lead the design and implementation of iOS applications integrating advanced AI and agentic infrastructure
 skills: Swift, SwiftUI, Combine, Core ML, ML Kit
 level: senior
-render_hash: 09b0e10e
+comp: 
+comp_extras: 
+render_hash: 26f819b4
 -->
 
 # Senior Software Engineer, iOS

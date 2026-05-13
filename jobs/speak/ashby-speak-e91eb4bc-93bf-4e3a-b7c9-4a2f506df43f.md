@@ -5,13 +5,16 @@ title: AI Product Engineer
 source: ashby
 location: San Francisco
 remote: Remote
+hybrid: no
 posted_at: 2023-09-19
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/speak/e91eb4bc-93bf-4e3a-b7c9-4a2f506df43f
 summary: Build and deploy LLM-powered language learning products across the full stack
 skills: React, Node.js, TypeScript, Python, vector databases
 level: senior
-render_hash: 71f77943
+comp: 
+comp_extras: 
+render_hash: 1005a391
 -->
 
 # AI Product Engineer
@@ -37,7 +40,6 @@ Learning a language can change a life by opening doors to new cultures, careers,
 
 Speak first launched in South Korea in 2019, where Speak has now become the number one language learning app, and we now serve learners across many markets and 15+ languages. Speak is one of the world’s leading AI companies, with over $150m raised in venture investment from OpenAI, Accel, Founders Fund, Khosla Ventures, and more, with a distributed team across San Francisco, Seoul, Tokyo, Taipei, and Ljubljana.
 
-
 ABOUT THIS ROLE
 
 As an AI Product Engineer at Speak, you'll play a pivotal role in developing the future of language learning and creating the most effective path to language fluency. Your primary responsibility will be developing innovative product experiences powered by Language Learning Models (LLMs) and deploying them to millions of users.
@@ -45,7 +47,6 @@ As an AI Product Engineer at Speak, you'll play a pivotal role in developing the
 Your tasks will span the full stack and beyond, from evaluating models and testing prompts to developing and iterating on various product features such as our conversational onboarding and lesson experiences, grammatical assessment and feedback, and personalized lessons.
 
 We're constantly pushing the boundaries of what LLMs can do to provide an exceptional and unparalleled language learning experience to users in over 30 countries worldwide.
-
 
 WHAT YOU'LL BE DOING
 
@@ -57,11 +58,10 @@ WHAT YOU'LL BE DOING
 
  - Scaling existing product features to many more users and languages
 
-
 WHAT WE'RE LOOKING FOR
 
  - 3-5+ years of experience in full stack/backend, product-focused software engineering
-   
+
    - Proficiency in React/Node/Typescript and Python
 
  - You have real-world experience developing and deploying LLM apps and a strong understanding, gained through experience, of what works and what doesn't
@@ -74,11 +74,9 @@ WHAT WE'RE LOOKING FOR
 
  - Ability to work independently and build at a high velocity
 
-
 OFFICE
 
  - San Francisco, CA
-
 
 WHY WORK AT SPEAK
 

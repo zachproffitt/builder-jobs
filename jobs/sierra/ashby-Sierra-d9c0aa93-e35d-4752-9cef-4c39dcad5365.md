@@ -5,13 +5,16 @@ title: Forward Deployed Infrastructure Engineer
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2026-04-21
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365
 summary: Own and optimize customer deployment infrastructure across enterprise environments.
 skills: infrastructure provisioning, automation tooling, deployment runbooks, VPC configuration, networking
 level: senior
-render_hash: c6a11657
+comp: 
+comp_extras: 
+render_hash: bfee2897
 -->
 
 # Forward Deployed Infrastructure Engineer
@@ -35,14 +38,11 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU’LL DO
 
-
 As a Forward Deployed Infrastructure Engineer at Sierra, and a founding member of this function, you will own the end-to-end lifecycle of customer deployments, while helping define how Sierra’s AI platform is deployed and operated across enterprise environments. You'll work directly with enterprise customers to architect, deploy, upgrade, and manage Sierra's AI platform infrastructure — ensuring every deployment meets their security, compliance, and operational requirements. In addition, you’ll establish the standards, tooling, and processes that make deployments scalable and repeatable, and partner cross-functionally with Engineering, Product, Sales, and Customer Success. This role will define how Sierra scales some of its most complex customer engagements.
-
 
  - Own deployment architecture conversations and execution — designing and implementing deployment strategies across customer environments, including VPC configuration, permissioning, networking, and infrastructure provisioning.
 
@@ -55,7 +55,6 @@ As a Forward Deployed Infrastructure Engineer at Sierra, and a founding member o
  - Work with customers' platform engineering, security, and DevOps teams to navigate their infrastructure constraints and compliance requirements.
 
  - Collaborate with Sales and Customer Success to scope infrastructure requirements during pre-sales and onboarding, translating customer needs into concrete deployment plans.
-
 
 WHAT YOU'LL BRING
 
@@ -73,7 +72,6 @@ WHAT YOU'LL BRING
 
  - Degree in Computer Science or a related field, or equivalent professional experience.
 
-
 EVEN BETTER…
 
  - Hands-on experience with Go services, GraphQL APIs, or LLM infrastructure in production environments.
@@ -83,7 +81,6 @@ EVEN BETTER…
  - Familiarity with observability and incident management in distributed systems (Prometheus, Grafana, Datadog, or similar).
 
  - Experience with CI/CD pipeline design, deployment automation, or infrastructure self-service tooling for enterprise customers.
-
 
 OUR VALUES
 
@@ -96,7 +93,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -114,14 +110,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

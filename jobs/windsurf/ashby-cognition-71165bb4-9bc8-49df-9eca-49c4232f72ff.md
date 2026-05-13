@@ -5,13 +5,16 @@ title: Security Engineer
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-05-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/71165bb4-9bc8-49df-9eca-49c4232f72ff
 summary: Secure the agent execution surface and build security tooling for code sandboxing and infrastructure protection
 skills: Python, Rust, Go, Kubernetes, AWS/GCP/Azure
 level: 
-render_hash: 7b1d5784
+comp: 
+comp_extras: 
+render_hash: ab8e52f5
 -->
 
 # Security Engineer
@@ -80,7 +83,6 @@ Compensation & Benefits
  - 401(k): Company match included
 
 Perks: Private chef, cozy slippers, endless snacks, and more
-
 
 EQUAL OPPORTUNITY
 

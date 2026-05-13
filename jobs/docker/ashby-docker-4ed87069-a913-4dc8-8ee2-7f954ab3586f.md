@@ -5,13 +5,16 @@ title: Senior Supply Chain Security Engineer
 source: ashby
 location: Canada
 remote: Remote
+hybrid: no
 posted_at: 2026-05-12
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/docker/4ed87069-a913-4dc8-8ee2-7f954ab3586f
 summary: Author and maintain image definition files and Helm charts for security-hardened container images.
 skills: Go, YAML, Helm, Kubernetes, container security
 level: senior
-render_hash: cc80c9a9
+comp: 
+comp_extras: 
+render_hash: 9161401a
 -->
 
 # Senior Supply Chain Security Engineer
@@ -39,7 +42,6 @@ Docker Hardened Images (DHI) is Docker's catalogue of security-hardened, enterpr
 
 This is not a traditional software engineering role. You'll spend most of your time working with YAML definition files, upstream OSS projects, and the container and Kubernetes ecosystems - packaging and adapting software rather than building it from scratch. If you've ever maintained packages for a Linux distribution, contributed to a Helm chart upstream, or worked as a platform/infrastructure engineer with a strong security lean, this will feel familiar.
 
-
 RESPONSIBILITIES
 
  - Authoring and maintaining image definition files that track upstream OSS project releases, define build steps, and keep our catalogue current across dozens of images
@@ -53,7 +55,6 @@ RESPONSIBILITIES
  - Triaging CVEs and contributing to security hardening decisions across images
 
  - Reviewing peers' definitions and chart PRs against established conventions and catching subtle issues before they reach customers
-
 
 QUALIFICATIONS
 
@@ -72,7 +73,6 @@ QUALIFICATIONS
  - A maintainer mindset - you take pride in consistency, catch drift from patterns, and think about how your change affects others downstream
 
  - Familiarity with GitHub-heavy open source workflows - PRs, upstream tracking, monorepo conventions
-
 
 BONUS
 

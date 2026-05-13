@@ -5,13 +5,16 @@ title: Senior Electrical Systems Engineer
 source: ashby
 location: Everett, WA
 remote: On-site
+hybrid: no
 posted_at: 2025-12-19
 first_seen: 2026-05-09
 url: https://jobs.ashbyhq.com/helion/b5659fa4-aadc-47d0-9746-f58cf8bc51e2
 summary: Define and lead the architecture of electrical subsystems for fusion machines, ensuring alignment with machine requirements and operational goals.
 skills: 
 level: 
-render_hash: 17fc777b
+comp: 
+comp_extras: 
+render_hash: 4db21481
 -->
 
 # Senior Electrical Systems Engineer
@@ -39,7 +42,6 @@ This is a pivotal time to join Helion. You will tackle real-world challenges wit
 
 What You Will Be Doing:
 
-
 As a Senior Electrical Systems Engineer, you will define the electrical hardware that powers and controls our next-generation fusion machines. You will work at the architecture level to ensure electrical subsystems, including power distribution, controls interfaces, sensors, and communication networks, function together as a coherent and reliable platform. In this role, you will lead architectural decisions, own requirements and interfaces, and drive verification and hardware bring-up. You will work closely with engineering, test, and commissioning teams to translate technical objectives into implementable designs and ensure those designs perform as intended during testing and deployment. This role blends architecture development, requirements ownership, and hands-on hardware work, and is well suited for engineers who enjoy working across disciplines while remaining closely connected to the physical system.
 
 You Will:
@@ -55,14 +57,15 @@ You Will:
  - Operate hands-on during hardware bring-up and prototyping, leading efforts to diagnose and resolve issues across electrical hardware, controls systems, and subsystem interfaces.
 
  - Drive collaboration across electrical, controls, mechanical, and test teams to ensure designs function correctly within the overall machine.
+
    Own integration of new hardware and subsystems during development and commissioning.
 
  - Drive system documentation and engineering processes, including requirements management, design reviews, and integration planning, and mentor junior engineers in these practices.
-   
 
 Required Skills:
 
  - Bachelor’s or Master’s degree in Electrical Engineering or a related field.
+
    8+ years of experience in electrical systems engineering, integration, test, or hardware development.
 
  - Proven experience leading system or subsystem architecture, including defining electrical subsystems and their interactions.
@@ -80,7 +83,6 @@ Required Skills:
  - Strong technical documentation and communication skills, including the ability to clearly capture requirements, interfaces, and design decisions and influence cross-functional teams.
 
  - Proven experience working with hardware suppliers or external partners to define technical requirements, review deliverables, and drive outcomes.
-   
 
 Desired Skills:
 
@@ -107,11 +109,17 @@ Benefits
 Our total compensation package includes benefits, including but not limited to:
 
 • Medical, Dental, and Vision plans for employees and their families
+
 • 31 Days of PTO (21 vacation days and 10 sick days)
+
 • 10 Paid holidays, plus company-wide winter break
+
 • Up to 5% employer 401(k) match
+
 • Short term disability, long term disability, and life insurance
+
 • Paid parental leave and support (up to 16 weeks)
+
 • Annual wellness stipend
 
 Helion is an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you need assistance or an accommodation during the interview process, please let us know.

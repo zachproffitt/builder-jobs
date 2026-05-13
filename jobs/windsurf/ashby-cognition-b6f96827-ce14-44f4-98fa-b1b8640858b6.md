@@ -5,13 +5,16 @@ title: Research Engineer, Infrastructure
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-04-08
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6
 summary: Build and maintain distributed training infrastructure for large-scale GPU clusters.
 skills: 
 level: 
-render_hash: a82f28f5
+comp: 
+comp_extras: 
+render_hash: 0929efb7
 -->
 
 # Research Engineer, Infrastructure
@@ -33,13 +36,11 @@ We are an applied AI lab building end-to-end software agents. We're the team beh
 
 Our team is small and talent-dense: world-class competitive programmers, former founders, and researchers from the frontier of AI, including Scale AI, Palantir, Cursor, Google DeepMind, and others.
 
-
 ROLE MISSION
 
 Research moves at the speed of the infrastructure underneath it. Every training run, evaluation loop, and experimental iteration depends on systems that are fast, reliable, and built to scale. This role exists to make sure nothing in the stack becomes the bottleneck that slows down the frontier.
 
 You will own the core systems that researchers depend on daily: distributed training infrastructure, experiment orchestration, data pipelines, and the tooling that turns raw compute into usable research velocity. This is not a support role. You will work directly alongside researchers, understand the science deeply enough to anticipate what they need next, and build systems that hold up under the pressure of training jobs running across thousands of GPUs. We don't distinguish between research and engineering; the best infrastructure engineers here are also the ones who understand why the research works.
-
 
 WHAT YOU'LL ACCOMPLISH
 
@@ -58,7 +59,6 @@ WHAT YOU'LL ACCOMPLISH
  - Parallelism and Systems Research: Implement and optimize parallelism strategies: data, tensor, pipeline, and sequence parallelism. Understand the tradeoffs deeply and apply them to get the most out of available hardware.
 
  - Scaling Infrastructure Ahead of Research: Anticipate what the research team will need next and build it before it becomes a constraint. The best infrastructure engineers here are proactive, not reactive.
-
 
 EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
@@ -80,7 +80,6 @@ EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
  - We care more about demonstrated capability than credentials. A PhD is one signal among many.
 
-
 RESOURCES & ENVIRONMENT
 
  - Small, highly selective team where research and product move together; prototypes reach real deployment quickly
@@ -88,7 +87,6 @@ RESOURCES & ENVIRONMENT
  - You'll own and operate infrastructure running across thousands of GPUs; compute is not a constraint and neither is access to the systems you need to do the work well
 
  - The environment rewards speed, autonomy, and technical depth with minimal process overhead; this is one of the most competitive and fast-moving problems in AI
-
 
 EQUAL OPPORTUNITY
 

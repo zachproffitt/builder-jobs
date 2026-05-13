@@ -5,13 +5,16 @@ title: Lead Infrastructure Engineer
 source: lever
 location: Warsaw
 remote: On-site
+hybrid: no
 posted_at: 2025-02-17
 first_seen: 2026-05-01
 url: https://jobs.lever.co/larian/fa188b38-8b46-4cfe-a349-fdf8fd0771ac
 summary: 
 skills: 
 level: 
-render_hash: 70e723d0
+comp: 
+comp_extras: 
+render_hash: cb431a40
 -->
 
 # Lead Infrastructure Engineer

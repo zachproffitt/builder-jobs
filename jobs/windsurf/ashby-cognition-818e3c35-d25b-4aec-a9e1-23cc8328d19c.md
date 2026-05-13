@@ -5,13 +5,16 @@ title: Deployed Engineer - Europe
 source: ashby
 location: London
 remote: Remote
+hybrid: no
 posted_at: 2025-09-23
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c
 summary: Deploy and integrate Devin/Windsurf into production environments
 skills: 
 level: 
-render_hash: ced85bb8
+comp: 
+comp_extras: 
+render_hash: b18d6ba5
 -->
 
 # Deployed Engineer - Europe
@@ -34,10 +37,6 @@ We're the makers of Devin, the first AI software engineer, and Windsurf, the AI-
 Our team is small and talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
 
 Building Devin and Windsurf is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
-
-
-
-
 
 ABOUT THE ROLE
 
@@ -98,7 +97,6 @@ You might excel if you…
  - Learn quickly by being embedded in challenging, real-world environments
 
  - Have worked at an early-stage startup or in a role where you operated well beyond your job description
-
 
 EQUAL OPPORTUNITY
 

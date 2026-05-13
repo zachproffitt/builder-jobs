@@ -5,13 +5,16 @@ title: Staff Software Engineer, Communication Products
 source: greenhouse
 location: Remote - USA
 remote: Remote
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-12
 url: https://careers.airbnb.com/positions/7655958?gh_jid=7655958
 summary: Design and build systems that serve ML models within the messaging stack, focusing on latency, reliability, and scalability. Implement feature pipelines, model serving, and monitoring for ML-powered messaging features.
 skills: model serving, feature pipelines, online/offline evaluation, monitoring, NLP/NLU
 level: 
-render_hash: a3bd632b
+comp: 
+comp_extras: 
+render_hash: d452db9e
 -->
 
 # Staff Software Engineer, Communication Products
@@ -32,6 +35,7 @@ _Design and build systems that serve ML models within the messaging stack, focus
 ---
 
 Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+
 The Community You Will Join:
 
 Messaging is a critical component in building connections with our users. Our mission as the Communication Products team is to build a first-class messaging experience at Airbnb, bringing together guests and hosts across the world. We are investing heavily in machine learning to make these conversations smarter, safer, and more productive. As a staff software engineer on this team, you'll lead the technical vision for ML-powered messaging features: architecting and delivering intelligent capabilities end-to-end, partnering deeply with ML and product teams, and raising the engineering bar across the organization.
@@ -91,9 +95,11 @@ Airbnb is committed to working with the broadest talent pool possible. We believ
 We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.&nbsp;
 
 We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+
 How We'll Take Care of You:
 
 Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. &nbsp;
+
 Pay Range$204,000&mdash;$255,000 USD
 
 ---

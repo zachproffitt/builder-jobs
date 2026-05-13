@@ -5,13 +5,16 @@ title: Software Engineer, Applied ML (Discovery, Recommendation & Search)
 source: ashby
 location: Redwood City, CA
 remote: Remote
+hybrid: no
 posted_at: 2025-12-18
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/3cfa1472-4f6d-46fa-bd08-f6de0833a53f
 summary: Build and maintain the ML backend systems for discovery, recommendation, and search infrastructure.
 skills: RESTful, gRPC, PyTorch, TensorFlow, CI/CD pipelines
 level: senior
-render_hash: 4e165bd0
+comp: 
+comp_extras: 
+render_hash: 8461b55a
 -->
 
 # Software Engineer, Applied ML (Discovery, Recommendation & Search)
@@ -61,17 +64,13 @@ Desired Experience:
 
 You will be a good fit if you are proactive and have a “get things done” mindset. Given our current pace of growth and load on our systems, most people have had a significant impact during their first week at the company.
 
-
 ABOUT CHARACTER.AI
 
 Character.AI http://Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI http://Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
 
-
 In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
 
-
 Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
-
 
 At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.
 

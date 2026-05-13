@@ -5,13 +5,16 @@ title: Senior Service Reliability Engineer
 source: greenhouse
 location: Germany, Berlin
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5976661004
 summary: Own the scalability and reliability of the cloud gaming service infrastructure.
 skills: Linux, Web Services, Production Systems, Platform-wide solutions, Development experience (specific languages not listed)
 level: senior
-render_hash: e22454e4
+comp: 
+comp_extras: 
+render_hash: f8f56bac
 -->
 
 # Senior Service Reliability Engineer
@@ -30,56 +33,107 @@ _Own the scalability and reliability of the cloud gaming service infrastructure.
 ---
 
 Why Sony Interactive Entertainment?
+
 Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.
+
 Senior Service Reliability Engineer&nbsp;
+
 As a part of Sony Interactive Entertainment, the Gaming,&nbsp;Developer&nbsp;&amp; Future&nbsp;Technology Group (GDFT) is leading the cloud gaming revolution, putting console-quality video games on any device, from TVs to consoles to mobile devices and beyond.&nbsp;
+
 Our Site Reliability Engineering team plays a significant role in delivering on the promise of a great cloud gaming experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the gaming service. Our SREs focus on three main things: overall ownership of production, production code quality, and deployments. The successful candidate will be self-directed and able to participate in the way we make decisions at different levels.&nbsp;
+
 We expect our SREs to have opinions on the state of our service and provide critical feedback during different phases of the operational lifecycle. We are engaged throughout the software development lifecycle, ensuring operational readiness and stability.&nbsp;
+
 What you'll be doing:&nbsp;
+
 Taking a leadership role in ongoing improvements in Reliability and Scalability&nbsp;
+
 Work closely with SRE Management to define KPIs, processes and drive continuous improvement&nbsp;
+
 Influence the architecture and implementation of solutions within the division&nbsp;
+
 Mentor more junior SRE staff and enable them for success&nbsp;
+
 Act as a voice to represent SRE in the wider organisation&nbsp;
+
 Represent the operational scalability of solutions in the wider division&nbsp;
+
 Lead small-scale projects from inception to implementation&nbsp;
+
 Design platform-wide solutions and provide technical leadership during their implementation&nbsp;
+
 Demonstrate a high-level of organizational skills and initiative in the role&nbsp;
+
 What we're looking for:
+
 Minimum of 7+ years working experience in Software Development and/or Linux Systems Administration role.&nbsp;
+
 Strong interpersonal, written and verbal communication skills.&nbsp;
+
 Available to be scheduled in on-call rotation.&nbsp;
+
 Skills &amp; Knowledge:
+
 Proficient as a Linux Production Systems Engineer, with experience managing large scale Web Services infrastructure.&nbsp;
+
 Development experience in one or more of the following programming languages:&nbsp;
+
 Python (preferred)&nbsp;
+
 Bash, Go, Java, C++, or Rust&nbsp;
+
 In addition, experience with at least 3 of the following topics:&nbsp;
+
 Distributed data storage at scale (Hadoop, Ceph)&nbsp;
+
 NoSQL at scale (MongoDB, Redis, Cassandra)&nbsp;
+
 Data aggregation technologies. (ElasticSearch, Kafka)&nbsp;
+
 Scaling and running traditional RDBMS (PostgreSQL, MySQL) with High Availability&nbsp;
+
 Monitoring &amp; alerting (Prometheus, Grafana), and Incident Management toolsets &nbsp;
+
 Kubernetes and/or AWS (deployment and management)&nbsp;&nbsp;
+
 Software distribution (Package management and distribution at scale)&nbsp;
+
 Configuration management (ansible, saltstack, puppet, chef)&nbsp;
+
 Software performance analysis and load testing (QA or SDET experience: a plus)&nbsp;
+
 &nbsp;What you'll be doing:&nbsp;
+
 Taking a leadership role in ongoing improvements in Reliability and Scalability&nbsp;
+
 Work closely with SRE Management to define KPIs, processes and drive continuous improvement&nbsp;
+
 Influence the architecture and implementation of solutions within the division&nbsp;
+
 Mentor more junior SRE staff and enable them for success&nbsp;
+
 Act as a voice to represent SRE in the wider organisation&nbsp;
+
 Represent the operational scalability of solutions in the wider division&nbsp;
+
 Lead small-scale projects from inception to implementation&nbsp;
+
 Design platform-wide solutions and provide technical leadership during their implementation&nbsp;
+
 Demonstrate a high-level of organizational skills and initiative in the role&nbsp;
+
 Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.
+
 Please refer to our&nbsp;Candidate Privacy Notice&nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.
+
 Equal Opportunity Statement:
+
 Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.
+
 We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&nbsp;
+
 Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.
+
 &nbsp;
 
 ---

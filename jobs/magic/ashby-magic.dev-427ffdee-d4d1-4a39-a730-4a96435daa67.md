@@ -5,13 +5,16 @@ title: Member of Technical Staff, Inference & RL Systems
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-02-28
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/427ffdee-d4d1-4a39-a730-4a96435daa67
 summary: Design and scale high-performance inference serving systems for long-context models.
 skills: 
 level: 
-render_hash: 5948e7b3
+comp: 
+comp_extras: 
+render_hash: 4757ff69
 -->
 
 # Member of Technical Staff, Inference & RL Systems
@@ -29,7 +32,6 @@ _Design and scale high-performance inference serving systems for long-context mo
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE
 
 As a Software Engineer on the Inference & RL Systems team, you will design and operate the distributed systems that serve our models in production and power large-scale post-training workflows.
@@ -37,7 +39,6 @@ As a Software Engineer on the Inference & RL Systems team, you will design and o
 This role sits at the boundary between model execution and distributed infrastructure. You will work on systems that determine inference latency, throughput, stability, and the reliability of RL and post-training training loops.
 
 Magic’s long-context models introduce demanding execution constraints: KV-cache scaling, memory pressure under long sequences, batching trade-offs, long-horizon trajectory rollouts, and sustained throughput under real-world workloads. You will own the infrastructure that makes both production inference and large-scale RL iteration fast and reliable.
-
 
 WHAT YOU’LL WORK ON
 
@@ -57,7 +58,6 @@ WHAT YOU’LL WORK ON
 
  - Collaborate with Kernels and Research to align execution systems with model architecture
 
-
 WHAT WE’RE LOOKING FOR
 
  - Strong software engineering and distributed systems fundamentals
@@ -71,7 +71,6 @@ WHAT WE’RE LOOKING FOR
  - Ability to reason about system-level trade-offs between latency, throughput, and cost
 
  - Track record of owning critical production infrastructure
-
 
 COMPENSATION, BENEFITS, AND PERKS (US)
 
@@ -90,7 +89,6 @@ COMPENSATION, BENEFITS, AND PERKS (US)
  - A small, fast-paced, highly focused team
 
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

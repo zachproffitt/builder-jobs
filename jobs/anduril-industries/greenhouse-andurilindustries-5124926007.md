@@ -5,13 +5,16 @@ title: Senior Software Engineer, Perception
 source: greenhouse
 location: Costa Mesa, California, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-10
 url: https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007
 summary: Develop and maintain core computer vision libraries for UAV perception systems. Integrate classical and ML methods to solve real-world object detection and tracking challenges.
 skills: C++, Python, Linux, object detection, object tracking
 level: 
-render_hash: 9c065c69
+comp: 
+comp_extras: 
+render_hash: bddeb5bd
 -->
 
 # Senior Software Engineer, Perception
@@ -32,6 +35,7 @@ _Develop and maintain core computer vision libraries for UAV perception systems.
 ---
 
 Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
 ABOUT THE TEAM
 
 Anduril’s Tactical Recon &amp; Strike (TRS) is a division with two missions: 1) build highly capable autonomous drones, and 2) build solid rocket motors at scale. We transform products like Ghost, Anvil, Bolt, and Altius from early concepts into fully operational capabilities by partnering closely with specialist engineering, operations, and production teams. Through our Anduril Rocket Motor Systems (RMS) team, we design and manufacture solid rocket motors using advanced materials, proprietary formulations, and high-volume production methods—delivering safe, reliable propulsion systems that support a wide range of mission requirements. TRS hires software engineers &amp; hardware engineers, who are excited to build across a diverse and powerful portfolio—from autonomous aerial systems to high-performance solid rocket motors. Our teams contribute to highly capable autonomous robotics systems and propulsion products that operate reliably in the most demanding mission environment.

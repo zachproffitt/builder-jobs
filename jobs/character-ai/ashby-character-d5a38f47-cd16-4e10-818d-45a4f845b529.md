@@ -5,13 +5,16 @@ title: Research Engineer, Multimodal
 source: ashby
 location: Redwood City, CA
 remote: Remote
+hybrid: no
 posted_at: 2026-03-06
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/d5a38f47-cd16-4e10-818d-45a4f845b529
 summary: Build and maintain large-scale data pipelines for video generation models
 skills: PyTorch, diffusion models, DiT, ControlNet, FSDP
 level: senior
-render_hash: e5720997
+comp: 
+comp_extras: 
+render_hash: 531bddbf
 -->
 
 # Research Engineer, Multimodal
@@ -37,7 +40,6 @@ The Multimodal team is responsible for training, fine-tuning, and deploying cutt
 
 As a Multimodal Research Engineer, you will own and advance our video model training efforts, including joint audio-visual generation and image-to-video. You will collaborate across research, product, and infrastructure to push the boundaries of what AI-generated visuals can look and feel like at scale.
 
-
 WHAT YOU'LL DO
 
  - Lead fine-tuning and continued training of video generation models, including image-to-video and joint audio-visual generation.
@@ -49,7 +51,6 @@ WHAT YOU'LL DO
  - Design and build large-scale data pipelines and automated annotation workflows to support continuous model improvement.
 
  - Explore model compression, inference acceleration, and serving optimizations to enable efficient real-time video processing at scale.
-
 
 WHO YOU ARE
 
@@ -65,7 +66,6 @@ WHO YOU ARE
 
  - Experience with large-scale data processing, dataset construction, and automated data cleaning
 
-
 NICE TO HAVE
 
  - Experience with joint audio-visual or speech-conditioned generation models
@@ -76,17 +76,13 @@ NICE TO HAVE
 
  - Publications in relevant venues (NeurIPS, ICLR, CVPR, ECCV, ICCV, or similar)
 
-
 ABOUT CHARACTER.AI
 
 Character.AI http://Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI http://Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
 
-
 In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
 
-
 Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
-
 
 At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.
 

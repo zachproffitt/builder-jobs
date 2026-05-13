@@ -5,13 +5,16 @@ title: Safety Engineer
 source: ashby
 location: United Kingdom
 remote: Remote
+hybrid: no
 posted_at: 2026-04-28
 first_seen: 2026-05-02
 url: https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1
 summary: Build and deploy automated moderation and guardrail systems to protect the platform and users across a multimodal space.
 skills: 
 level: 
-render_hash: 4d1344e2
+comp: 
+comp_extras: 
+render_hash: b81eec43
 -->
 
 # Safety Engineer
@@ -45,7 +48,6 @@ We have expanded from voice into three main platforms:
 
 Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.
 
-
 HOW WE WORK
 
  - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.
@@ -57,7 +59,6 @@ HOW WE WORK
  - Excellence everywhere: Everything we do should match the quality of our AI models.
 
  - Global team: We prioritize your talent, not your location.
-
 
 WHAT WE OFFER
 
@@ -72,7 +73,6 @@ WHAT WE OFFER
  - Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy.
 
  - Co-working: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.
-
 
 ABOUT THE ROLE
 
@@ -91,7 +91,6 @@ What you'll do:
  - Partner with ML engineers to translate research models into production-ready systems and integrate them across our product suite
 
  - Drive technical decisions and contribute vision to the safety roadmap on how the next generation of platform guardrails should be built for scale and precision.
-
 
 REQUIREMENTS
 
@@ -114,7 +113,6 @@ Bonus:
  - Experience with SQL, data analysis tools, real-time streaming systems (Kafka, Redis), or event-driven architectures
 
  - Familiarity with React or modern frontend frameworks
-
 
 LOCATION
 

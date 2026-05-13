@@ -5,13 +5,16 @@ title: Full-Stack Software Engineer, Inference
 source: ashby
 location: Toronto
 remote: Remote
+hybrid: no
 posted_at: 2026-01-12
 first_seen: 2026-05-04
 url: https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c
 summary: Improve the platform’s auth, billing, and payment systems. Add new features to the interactive Playground and implement platform features for managing deployments.
 skills: Golang, React
 level: 
-render_hash: e552b5fc
+comp: 
+comp_extras: 
+render_hash: 89e5877a
 -->
 
 # Full-Stack Software Engineer, Inference
@@ -45,7 +48,6 @@ Why this role?
 
 Cohere customers self-serve our API without any intervention. This team unlocks the complex technology we build for customers to understand, trust, and pay for.
 
-
 AS A SENIOR SOFTWARE ENGINEER, YOU WILL:
 
  - Improve the platform’s auth, billing, and payment systems
@@ -57,7 +59,6 @@ AS A SENIOR SOFTWARE ENGINEER, YOU WILL:
  - Write and ship minimal code that runs in low-resource environments, and has highly stringent deployment mechanisms
 
  - As security and privacy are paramount, you will sometimes need to reinvent the wheel, and won’t be able to use the most popular libraries or tooling
-
 
 YOU MAY BE A GOOD FIT IF:
 
@@ -77,13 +78,13 @@ We value and celebrate diversity and strive to create an inclusive work environm
 
 Full-Time Employees at Cohere enjoy these Perks:
 
-🤝 An open and inclusive culture and work environment 
+🤝 An open and inclusive culture and work environment
 
-🧑‍💻 Work closely with a team on the cutting edge of AI research 
+🧑‍💻 Work closely with a team on the cutting edge of AI research
 
 🍽 Weekly lunch stipend, in-office lunches & snacks
 
-🦷 Full health and dental benefits, including a separate budget to take care of your mental health 
+🦷 Full health and dental benefits, including a separate budget to take care of your mental health
 
 🐣 100% Parental Leave top-up for up to 6 months
 

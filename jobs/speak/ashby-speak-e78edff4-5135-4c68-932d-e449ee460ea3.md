@@ -5,13 +5,16 @@ title: Machine Learning Engineer, Voice
 source: ashby
 location: San Francisco
 remote: Remote
+hybrid: no
 posted_at: 2024-03-05
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/speak/e78edff4-5135-4c68-932d-e449ee460ea3
 summary: Build and maintain data infrastructure for training/evaluation datasets and labeling pipelines
 skills: Python, PyTorch
 level: senior
-render_hash: abaea7c9
+comp: 
+comp_extras: 
+render_hash: 58ca3f6d
 -->
 
 # Machine Learning Engineer, Voice
@@ -37,11 +40,9 @@ Learning a language can change a life by opening doors to new cultures, careers,
 
 Speak first launched in South Korea in 2019, where Speak has now become the number one language learning app, and we now serve learners across many markets and 15+ languages. Speak is one of the world’s leading AI companies, with over $150m raised in venture investment from OpenAI, Accel, Founders Fund, Khosla Ventures, and more, with a distributed team across San Francisco, Seoul, Tokyo, Taipei, and Ljubljana.
 
-
 ABOUT THIS ROLE
 
 We are looking for an experienced Machine Learning Engineer to join our team and help develop cutting-edge speech recognition models that help teach language fluency. In this role you will take ownership of the end-to-end modeling pipeline, from training and experimentation to deployment and monitoring. You will also work closely with Product teams to design innovative learning experiences and measure the efficacy of production models as they affect our end users. We are a small, dynamic team where you will contribute as a developer and thought partner on team projects like ASR, assessment, pronunciation, content personalization, and much more. This is an incredibly exciting time to join an ML team designing a personalized learning experience that will revolutionize language learning for millions of learners worldwide — come join us!
-
 
 WHAT YOU'LL BE DOING
 
@@ -54,7 +55,6 @@ WHAT YOU'LL BE DOING
  - Expanding our ASR systems to new languages and markets
 
  - Building and maintaining data infrastructure such as training/evaluation datasets and labeling pipelines
-
 
 WHAT WE'RE LOOKING FOR
 
@@ -69,14 +69,12 @@ WHAT WE'RE LOOKING FOR
  - Sharp product sense and an ability to think broadly and cross-functionally about model quality in the context of user experience
 
  - Bonus
-   
-   - Experience with speech or audio
 
+   - Experience with speech or audio
 
 OFFICE
 
  - San Francisco, CA
-
 
 WHY WORK AT SPEAK
 

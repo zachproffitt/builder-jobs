@@ -5,13 +5,16 @@ title: Senior Software Engineer, Simulation
 source: greenhouse
 location: London
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-10
 url: https://wayve.firststage.co/jobs?gh_jid=8545427002
 summary: Develop and implement high-fidelity simulation components for autonomous driving systems, integrating machine-learned graphics and robotics subsystems.
 skills: C++, Python, NeRF, Gaussian Splatting, GenAI
 level: 
-render_hash: 5fff4a9c
+comp: 
+comp_extras: 
+render_hash: d762163e
 -->
 
 # Senior Software Engineer, Simulation 
@@ -33,13 +36,14 @@ About us&nbsp;&nbsp;&nbsp;
 
 Founded in 2017, Wayve is the leading developer of Embodied AI technology.&nbsp; Our advanced AI software and foundation models enable vehicles to perceive, understand, and navigate any complex environment, enhancing the usability and safety of automated driving systems.
 
-Our vision is to create autonomy that propels the world forward.&nbsp; Our intelligent, mapless, and hardware-agnostic AI products are designed for automakers, accelerating the transition from assisted to automated driving.&nbsp; 
+Our vision is to create autonomy that propels the world forward.&nbsp; Our intelligent, mapless, and hardware-agnostic AI products are designed for automakers, accelerating the transition from assisted to automated driving.&nbsp;
 
 In our fast-paced environment big problems ignite us—we embrace uncertainty, leaning into complex challenges to unlock groundbreaking solutions. We aim high and stay humble in our pursuit of excellence, constantly learning and evolving as we pave the way for a smarter, safer future.
 
 At Wayve, your contributions matter.&nbsp; We value diversity, embrace new perspectives, and foster an inclusive work environment; we back each other to deliver impact.&nbsp;&nbsp;
 
 Make Wayve the experience that defines your career!&nbsp;&nbsp;
+
 The role&nbsp;
 
 As a software engineer for Wayve’s Simulation Technology team, you will be an expert software engineer who evolves a core component of Wayve’s simulation platform, which is used to develop and evaluate Wayve’s driving intelligence.&nbsp;
@@ -97,6 +101,7 @@ Experience with cloud infrastructure (AWS, Azure and/or GCP).
 This is a full-time role based in our office in Sunnyvale.&nbsp; At Wayve we want the best of all worlds so we operate a hybrid working policy that combines time together in our offices and workshops to fuel innovation, culture, relationships and learning, and time spent working from home. &nbsp; We operate core working hours so you can determine the schedule that works best for you and your team.&nbsp;&nbsp;
 
 #LI-FH1
+
 Wayve is committed to creating an inclusive interview experience. If you require any accommodations or adjustments to participate fully in our interview process, please let us know.
 
 We understand that everyone has a unique set of skills and experiences and that not everyone will meet all of the requirements listed above. If you’re passionate about self-driving cars and think you have what it takes to make a positive impact on the world, we encourage you to apply.

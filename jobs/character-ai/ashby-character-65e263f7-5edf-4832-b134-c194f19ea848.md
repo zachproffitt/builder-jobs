@@ -5,13 +5,16 @@ title: Software Engineer, Safety
 source: ashby
 location: Redwood City, CA
 remote: Remote
+hybrid: no
 posted_at: 2025-11-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/65e263f7-5edf-4832-b134-c194f19ea848
 summary: Build and maintain the front-end tools for Trust & Safety systems
 skills: React, React Native, TypeScript, HTML, CSS
 level: senior
-render_hash: 53d224cf
+comp: 
+comp_extras: 
+render_hash: 1b7be642
 -->
 
 # Software Engineer, Safety
@@ -33,8 +36,6 @@ ABOUT THE ROLE
 
 We’re looking for a talented and creative Software Engineer to join our Safety Engineering team at Character.AI http://Character.AI! In this role, you’ll work closely with Product, Design and Trust and Safety operations teams to design and build tooling and product experiences that help ensure a safe, transparent and engaging experience for our users. You’ll play a key role in shaping innovative solutions to the unique Trust & Safety challenges that come with human-to-AI interaction—bringing your technical expertise to the table as we define industry best practices in this emerging space.
 
-
-
 WHAT YOU'LL DO
 
  - Design and develop the front end experience of how users interact with our Trust and Safety systems. Balance the needs for reducing risk, improving UX and enhancing platform reliability and scalability across a host of features to build the best experience possible for users
@@ -48,8 +49,6 @@ WHAT YOU'LL DO
  - Work with engineers and Trust & Safety stakeholders to design interfaces and interaction models that incorporate AI-assisted moderation, ensuring smooth human-AI collaboration.
 
  - Help us leverage user data and insights to improve our core LLM and other models and predictions. Create frontend systems that visualize feedback loops between moderation actions and AI training. Ensure that data insights are clearly surfaced to support safe and positive user experiences across the platform.
-   
-
 
 WHO YOU ARE
 
@@ -64,27 +63,22 @@ WHO YOU ARE
  - Proven ability to work in a fast-paced development environment and deliver timely results.
 
  - Excellent communication and interpersonal skills
-   
 
 You will be a great fit if:
 
- - You care deeply about Trust & Safety and see it as a value-add to the business 
+ - You care deeply about Trust & Safety and see it as a value-add to the business
 
  - You enjoy working cross-functionally across different teams (e.g. Legal and Product) and balancing privacy, safety, and product needs
 
  - You are proactive and have a “get things done” mindset.
 
-
 ABOUT CHARACTER.AI
 
 Character.AI http://Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI http://Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
 
-
 In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
 
-
 Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
-
 
 At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.
 

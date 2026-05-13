@@ -5,13 +5,16 @@ title: Data Engineer, GTM & Product
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2025-11-26
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/871bb0a1-a549-48b3-99c7-c044fbe9d424
 summary: Build and maintain the data pipeline for product and GTM reporting
 skills: SQL, Python, dbt, Airflow, Metabase
 level: senior
-render_hash: beedc50c
+comp: 
+comp_extras: 
+render_hash: 22ec639a
 -->
 
 # Data Engineer, GTM & Product
@@ -36,10 +39,6 @@ We're the makers of Devin, the first AI software engineer, and Windsurf, the AI-
 Our team is small and talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.
 
 Building Devin and Windsurf is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
-
-
-
-
 
 ABOUT THE ROLE
 
@@ -72,7 +71,6 @@ Requirements for the role:
  - Strong knowledge of statistics and experimentation
 
  - Based in SF or NYC
-
 
 EQUAL OPPORTUNITY
 

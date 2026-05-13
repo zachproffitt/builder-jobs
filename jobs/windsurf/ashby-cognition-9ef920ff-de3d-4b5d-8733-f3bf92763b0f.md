@@ -5,13 +5,16 @@ title: Data Engineer, Core Product
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2025-11-26
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/9ef920ff-de3d-4b5d-8733-f3bf92763b0f
 summary: Build and maintain the data pipeline for the AI-native IDE and software agents
 skills: SQL, Python, dbt, Airflow, Dagster
 level: senior
-render_hash: 0ed26868
+comp: 
+comp_extras: 
+render_hash: 4225ba78
 -->
 
 # Data Engineer, Core Product
@@ -37,14 +40,9 @@ Our team is small and talent-dense. Among our founding team, we have world-class
 
 Building Devin and Windsurf is just the first step—our hardest challenges still lie ahead. If you’re excited to solve some of the world’s biggest problems and build AI that can reason on real-world tasks, apply to join us.
 
-
-
-
-
 ABOUT THE ROLE
 
 We're hiring a technical Data Engineer to own our full data stack – from database architecture and pipelines to instrumenting telemetry and owning integrations and reporting. You'll design and maintain the systems that keep our data reliable, accessible, and actionable across the company
-
 
 IN THIS ROLE YOU WILL:
 
@@ -57,7 +55,6 @@ IN THIS ROLE YOU WILL:
  - Own business reporting: datasets, dashboards, metrics, and self-serve analytics
 
  - Ensure data quality, observability, governance, and documentation
-
 
 REQUIREMENTS FOR THE ROLE:
 
@@ -76,7 +73,6 @@ REQUIREMENTS FOR THE ROLE:
  - Strong knowledge of statistics and experimentation
 
  - SF, NYC or Remote
-
 
 EQUAL OPPORTUNITY
 

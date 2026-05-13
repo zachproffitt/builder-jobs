@@ -5,13 +5,16 @@ title: Senior Robotics Engineer, Manufacturing Automation
 source: greenhouse
 location: Costa Mesa, California, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-04
 url: https://boards.greenhouse.io/andurilindustries/jobs/5040554007?gh_jid=5040554007
 summary: Develop and optimize robot programs for manufacturing automation systems, including motion planning, path planning, and vision-based guidance. Design and integrate industrial robots and cobots into production environments.
 skills: FANUC, UR, RoboDK, FANUC ROBOGUIDE, Delmia
 level: 
-render_hash: df362056
+comp: 
+comp_extras: 
+render_hash: abca2d85
 -->
 
 # Senior Robotics Engineer, Manufacturing Automation 

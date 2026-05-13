@@ -5,13 +5,16 @@ title: Software Engineer, Agent - Healthcare
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2026-03-09
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66
 summary: Build and deploy AI agents for healthcare applications
 skills: 
 level: 
-render_hash: a56c96c3
+comp: 
+comp_extras: 
+render_hash: ee9a7240
 -->
 
 # Software Engineer, Agent - Healthcare
@@ -33,8 +36,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 ABOUT THE HEALTHCARE TEAM
 
@@ -43,7 +45,6 @@ ABOUT THE HEALTHCARE TEAM
  - Our healthcare customers include major health insurance networks, nonprofit providers, multi-site primary and urgent care practices, healthcare diagnostics companies, and healthcare financial platforms. We're proud that our work with partners like Sutter Health, Stellarus, and R1 RCM is demonstrating what's possible when conversational AI truly understands context and nuance.
 
  - Join us to transform the patient experience across the healthcare system—and help build technology that makes care more accessible, more human and more affordable for everyone.
-
 
 WHAT YOU'LL DO
 
@@ -56,7 +57,6 @@ WHAT YOU'LL DO
  - Navigate healthcare complexity: You’ll develop deep expertise in healthcare systems and workflows, including integrations across EHR and patient access platforms, payer and provider operations, and common healthcare data and interoperability standards. You’ll become fluent in the nuances of benefits and eligibility, claims and billing, scheduling and intake, and translate that understanding into exceptional, trustworthy AI experiences.
 
  - Build the future of the platform: Your direct work with healthcare customers will guide the evolution of Sierra's core platform. You'll surface unmet needs, prototype new tools and features, and collaborate with research, product, and platform to shape the future of AI agent development in healthcare.
-
 
 EXAMPLE PROJECTS
 
@@ -74,7 +74,6 @@ These are examples of projects our healthcare team has worked on:
 
  - Experiment with the latest voice models and integrate them at scale for healthcare enterprises requiring secure, compliant phone interactions;
 
-
 WHAT YOU'LL BRING
 
  - Experience building and scaling end-to-end production systems.
@@ -88,7 +87,6 @@ WHAT YOU'LL BRING
  - Excellent communication skills—clear, direct, and persuasive across technical and non-technical audiences.
 
  - Genuine interest in healthcare and improving patient/member experiences.
-
 
 EVEN BETTER...
 
@@ -108,7 +106,6 @@ EVEN BETTER...
 
  - Previous roles where you interfaced with customers or led technical projects with external stakeholders.
 
-
 OUR VALUES
 
  - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.
@@ -120,7 +117,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -138,14 +134,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

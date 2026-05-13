@@ -5,13 +5,16 @@ title: Member of Technical Staff, Supercomputing Platform & Infrastructure
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2024-01-25
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/45d25f90-3be6-417d-810f-0d95f7704961
 summary: Build and maintain the supercomputing platform's GPU infrastructure using Terraform and Kubernetes.
 skills: Terraform, Kubernetes, cloud platforms (GCP, AWS, Azure, OCI), networking, storage systems
 level: senior
-render_hash: 202171e1
+comp: 
+comp_extras: 
+render_hash: 4678fa5b
 -->
 
 # Member of Technical Staff, Supercomputing Platform & Infrastructure
@@ -31,7 +34,6 @@ _Build and maintain the supercomputing platform's GPU infrastructure using Terra
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE
 
 As an engineer on the Supercomputing Platform & Infrastructure team, you will design, build, and operate the large-scale GPU infrastructure that powers Magic’s model training and inference workloads.
@@ -41,7 +43,6 @@ A core part of this role is building and maintaining our infrastructure using Te
 Magic’s long-context models create sustained pressure on compute, networking, and storage systems. Long-running distributed jobs, high-throughput data movement, and strict availability requirements demand infrastructure that is automated, observable, and resilient by design. You will own the systems and IaC foundations that make this possible, including the Kubernetes (K8s) environments that coordinate workloads across our GPU infrastructure.
 
 This role can evolve into broader ownership of supercomputing platform architecture, shaping how Magic scales GPU clusters and infrastructure reliability as model workloads grow.
-
 
 WHAT YOU’LL WORK ON
 
@@ -63,7 +64,6 @@ WHAT YOU’LL WORK ON
 
  - Improve observability, monitoring, and reliability of core platform systems
 
-
 WHAT WE’RE LOOKING FOR
 
  - Strong systems engineering fundamentals
@@ -77,7 +77,6 @@ WHAT WE’RE LOOKING FOR
  - Experience with major cloud platforms (GCP, AWS, Azure, OCI, etc.)
 
  - Track record of owning production-critical infrastructure end-to-end
-
 
 COMPENSATION, BENEFITS, AND PERKS (US):
 
@@ -96,7 +95,6 @@ COMPENSATION, BENEFITS, AND PERKS (US):
  - A small, fast-paced, highly focused team
 
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

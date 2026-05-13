@@ -5,13 +5,16 @@ title: Software Engineer, Agent (Thai Speaking)
 source: ashby
 location: Singapore
 remote: On-site
+hybrid: no
 posted_at: 2026-04-17
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/1162dcd2-b181-49d5-9316-342cd68acbed
 summary: Build and ship highly performant AI agents for production environments across industries.
 skills: 
 level: 
-render_hash: 19d4b46b
+comp: 
+comp_extras: 
+render_hash: 06bca6ee
 -->
 
 # Software Engineer, Agent (Thai Speaking)
@@ -33,8 +36,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU’LL DO
 
@@ -45,7 +47,6 @@ WHAT YOU’LL DO
  - Partner with large enterprises and cutting-edge startups: You’ll work directly with leaders at some of the world’s largest enterprises to understand their most pressing business challenges, and build AI agents that transform how they operate at scale. You'll also partner with the most cutting-edge startups, embedding AI agents across their entire business stack to drive innovation and efficiency.
 
  - Build the future of the platform: Your direct work with customers will guide the evolution of Sierra's core platform. You'll surface unmet needs, prototype new tools and features, and collaborate with research, product, and platform to shape the future of AI agent development and Sierra's product.
-
 
 EXAMPLE PROJECTS
 
@@ -61,7 +62,6 @@ These are some examples of projects that engineers on our team have worked on re
 
  - Experiment with the latest voice models and figure out how to integrate them at scale to enterprise-grade customers
 
-
 WHAT YOU'LL BRING
 
  - Experience building and scaling end-to-end production systems
@@ -73,7 +73,6 @@ WHAT YOU'LL BRING
  - Comfort working directly with customers to understand their needs and solve real-world problems
 
  - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences
-
 
 EVEN BETTER...
 
@@ -89,7 +88,6 @@ EVEN BETTER...
 
  - Proficiency in Thai is preferred to support interactions with Thai-speaking clients.
 
-
 OUR VALUES
 
  - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.
@@ -101,7 +99,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -119,14 +116,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

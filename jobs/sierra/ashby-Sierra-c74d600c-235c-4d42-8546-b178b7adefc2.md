@@ -5,13 +5,16 @@ title: Intern, Agent Development (Fall 2026)
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2026-03-19
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/c74d600c-235c-4d42-8546-b178b7adefc2
 summary: Develop and deploy AI agents for Sierra's customers
 skills: React, TypeScript, Go, RAG pipelines, prompt engineering
 level: intern
-render_hash: eb214080
+comp: 
+comp_extras: 
+render_hash: ee7164e9
 -->
 
 # Intern, Agent Development (Fall 2026)
@@ -35,16 +38,13 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU'LL DO
-
 
 Sierra is building the next generation of AI agents-and we're looking for interns who want to help us do it.
 
 As a Software Engineer, Agent Intern, you'll work directly on production AI agents for Sierra's customers. You'll gain hands-on experience contributing to the design and development of AI agents, shipping features, and learning from real-world use cases at scale. If you're hungry to shape and learn from the most important technological wave in history, come build at Sierra.
-
 
 WHAT YOU'LL BRING
 
@@ -56,7 +56,6 @@ WHAT YOU'LL BRING
 
  - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences
 
-
 EVEN BETTER
 
  - Experience building or deploying AI/LLM systems in production
@@ -65,13 +64,11 @@ EVEN BETTER
 
  - Prior experience with React, TypeScript, and/or Go
 
-
 INTERN QUALIFICATIONS
 
  - The intern program is open to students graduating December 2026 - June 2027
 
  - Note: The full benefits listed below are available only to full-time employees. Interns are eligible for a monthly stipend for health insurance, daily lunch, and, of course, free alphorn lessons.
-
 
 OUR VALUES
 
@@ -84,7 +81,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -102,14 +98,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

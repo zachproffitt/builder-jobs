@@ -5,13 +5,16 @@ title: Instrumentation and Control Engineer - Fuel Recycling
 source: greenhouse
 location: Santa Clara, CA or Remote
 remote: Remote
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-12
 url: https://job-boards.greenhouse.io/oklo/jobs/5983994004
 summary: Design and implement instrumentation control systems, including PLC/SCADA, dashboards, and network topology for fuel recycling facilities.
 skills: PLC, SCADA, network topology
 level: 
-render_hash: be1bc959
+comp: 
+comp_extras: 
+render_hash: 45d8f015
 -->
 
 # Instrumentation and Control Engineer - Fuel Recycling
@@ -130,10 +133,15 @@ This position may involve access to information subject to U.S. export control l
 About Oklo Inc.: Oklo Inc. is developing fast fission power plants to deliver clean, reliable, and affordable energy at scale; establishing a domestic supply chain for critical radioisotopes; and advancing nuclear fuel recycling to convert nuclear waste into clean energy. Oklo was the first to receive a site use permit from the U.S. Department of Energy for a commercial advanced fission plant, was awarded fuel material from Idaho National Laboratory, and submitted the first custom combined license application for an advanced reactor to the U.S. Nuclear Regulatory Commission. Oklo is also developing advanced fuel recycling technologies in collaboration with the U.S. Department of Energy and U.S. National Laboratories.
 
 #CHOP: Oklo’s Values
+
 Collaboration: We go further, together. We bring diverse perspectives, listen actively, and build trust through transparency and respect. We work across disciplines, sharing ownership to turn complex challenges into shared successes.
+
 Humility: We are team players who act for the good of the company and for the world. We are focused on our mission, not personal recognition.
+
 Ownership: We take pride in what we do and how we do it. We are proactive in finding solutions and see tasks through&nbsp; to completion. We are committed to delivering on our promises to provide clean, reliable, and affordable energy.
+
 Pathfinding: We chart new ground where no path exists by approaching challenges with curiosity, courage, and creativity while navigating ambiguity.
+
 Candidates should be aware that employment may be contingent upon successful completion of a drug screening, and employees may be subject to drug testing at any time in accordance with company policy and applicable laws.
 
 Recruitment Fraud Disclaimer

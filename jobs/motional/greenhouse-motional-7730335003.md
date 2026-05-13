@@ -5,13 +5,16 @@ title: Staff Machine Learning Engineer
 source: greenhouse
 location: Pittsburgh, Pennsylvania, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-04
 url: https://motional.com/open-positions/?gh_jid=7730335003#/7730335003
 summary: Architect scalable ML systems for data discovery and model improvement, including multimodal representation learning and active learning loops. Own system-level architecture for real-time inference across GPU/CPU clusters.
 skills: 
 level: 
-render_hash: e9ae3058
+comp: 
+comp_extras: 
+render_hash: 0465cc29
 -->
 
 # Staff Machine Learning Engineer
@@ -82,9 +85,11 @@ Deep knowledge of model serving tools (TF Serving, Triton, TorchServe) and enter
 Demonstrated experience leading org-wide severity reviews or establishing incident response planning for mission-critical ML platforms.
 
 We encourage a hybrid schedule with in-office time at one of our locations in Boston, Pittsburgh, or Las Vegas to support collaboration, or this role can be fully remote.
+
 The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.&nbsp;
 
 Candidates for certain positions are eligible to participate in Motional’s benefits program. Motional’s benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more.
+
 Salary Range$205,000&mdash;$272,500 USDMotional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We’re driven by something more.
 
 Our journey is always people first.

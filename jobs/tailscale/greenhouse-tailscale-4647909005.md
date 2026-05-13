@@ -5,13 +5,16 @@ title: Go Core Client Engineer
 source: greenhouse
 location: Remote (Canada)
 remote: Remote
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-07
 url: https://job-boards.greenhouse.io/tailscale/jobs/4647909005
 summary: Design and implement core client subsystems such as connection management, encrypted transport, and NAT traversal in Go.
 skills: Go, WireGuard, TCP/UDP, TLS, concurrency
 level: 
-render_hash: f869c5db
+comp: 
+comp_extras: 
+render_hash: 5eee2071
 -->
 
 # Go Core Client Engineer
@@ -32,6 +35,7 @@ _Design and implement core client subsystems such as connection management, encr
 About Tailscale&nbsp;
 
 Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.
+
 Job Description
 
 We’re hiring a Go Core Client Engineer. This remote role is for an engineer who will design, implement, and operate the Go-based shared client code that powers our product. You’ll work on core client subsystems: connection management, NAT traversal, control connection, encrypted transport, client lifecycle, and cross-platform runtime. You will be expected to ship end-to-end features, and improve reliability, performance, and observability.
@@ -71,6 +75,7 @@ Solid networking and systems fundamentals: IP, routing, NATs, TCP/UDP, and TLS.
 Experience with P2P, WireGuard or similar encrypted transports and NAT traversal techniques.
 
 As a company, we strive to maintain fair and equitable compensation practices within our team across all roles and all levels. Tailscale's compensation package includes base salary, equity, and comprehensive benefits. The salary range displayed on each job posting represents the target range for a new hire's base salary. Individual offers may vary based on experience and skill set.
+
 CAN Pay Range$218,420&mdash;$302,840 CADFrequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications.&nbsp;We encourage you to help us break that statistic!
 
 What We Offer

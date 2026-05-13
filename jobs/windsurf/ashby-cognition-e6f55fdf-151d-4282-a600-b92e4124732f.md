@@ -5,13 +5,16 @@ title: QA Engineer - APAC
 source: ashby
 location: India
 remote: Remote
+hybrid: no
 posted_at: 2026-02-27
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/e6f55fdf-151d-4282-a600-b92e4124732f
 summary: Build and maintain scalable QA automation processes for AI workflows
 skills: Python, TypeScript, test automation frameworks, CI/CD, bug tracking tools
 level: senior
-render_hash: 940bbc68
+comp: 
+comp_extras: 
+render_hash: 9a3793ac
 -->
 
 # QA Engineer - APAC
@@ -39,7 +42,6 @@ Building Devin and Windsurf is just the first step—our hardest challenges stil
 
 About the Role
 
-
 KEY RESPONSIBILITIES
 
  - Own end-to-end product quality across AI workflows: Test Windsurf and Devin across onboarding flows, chat interactions, multi-file edits, agentic task execution, and autonomous workflows—thinking like a developer and testing like a user.
@@ -54,9 +56,7 @@ KEY RESPONSIBILITIES
 
  - Build scalable QA processes and automation: Establish QA playbooks, test processes, and automation where it has leverage; help evolve CI/CD and testing practices as the product scales.
 
-
 QUALIFICATIONS
-
 
 MUST-HAVE
 
@@ -74,7 +74,6 @@ MUST-HAVE
 
  - Schedule flexibility: overlap with US time zones required; release cycles may require weekend availability.
 
-
 STRONG PLUS
 
  - Experience testing AI-powered products with non-deterministic outputs; ability to evaluate quality when responses vary.
@@ -84,11 +83,6 @@ STRONG PLUS
  - Familiarity with AI coding tools (Windsurf, Copilot, Cursor, Devin, etc.) and informed opinions on what “good” looks like.
 
  - Prior software engineering background with shipped production code.
-
-
-
-
-
 
 EQUAL OPPORTUNITY
 

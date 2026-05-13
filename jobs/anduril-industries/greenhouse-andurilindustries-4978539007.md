@@ -5,13 +5,16 @@ title: Vehicle Systems Architect
 source: greenhouse
 location: Costa Mesa, California, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-09
 url: https://boards.greenhouse.io/andurilindustries/jobs/4978539007?gh_jid=4978539007
 summary: Design and develop system architecture for UAVs, integrating hardware, software, and electrical components for new Anduril drone platforms.
 skills: 
 level: 
-render_hash: e2104542
+comp: 
+comp_extras: 
+render_hash: 4d7bf564
 -->
 
 # Vehicle Systems Architect 
@@ -30,6 +33,7 @@ _Design and develop system architecture for UAVs, integrating hardware, software
 ---
 
 Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
 ABOUT THE TEAM
 
 As part of the larger Tactical Recon &amp; Strike division, the Precision Engagement Systems (PES) team at Anduril develops aerial small drones (Group 1-2) and all equipment to test, deploy and operate. The team is responsible for taking products like Anvil and Bolt from paper sketches to operational systems. We work in close coordination with specialist teams to solve some of the hardest problems facing our customers. We are looking for software engineers, hardware engineers, roboticists, and front-end mobile developers who are excited about creating a powerful robotics platform that can be tasked and viewed in real-time through a variety of interfaces.

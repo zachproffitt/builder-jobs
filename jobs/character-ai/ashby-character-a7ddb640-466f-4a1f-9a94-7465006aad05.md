@@ -5,13 +5,16 @@ title: Research Engineer, AI Safety & Alignment
 source: ashby
 location: Redwood City, CA
 remote: Remote
+hybrid: no
 posted_at: 2025-10-03
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/character/a7ddb640-466f-4a1f-9a94-7465006aad05
 summary: Develop and implement safety evaluation methodologies for AI models
 skills: reinforcement learning, PyTorch, data pipelines, GPUs, transformers
 level: senior
-render_hash: 86590052
+comp: 
+comp_extras: 
+render_hash: bb05a839
 -->
 
 # Research Engineer, AI Safety & Alignment
@@ -35,7 +38,6 @@ Joining us as a Research Engineer, you'll be at the forefront of tackling one of
 
 The Safety team is dedicated to pioneering and implementing techniques that make our models more robust, honest, and harmless. As a Research Engineer, you will bridge the gap between theoretical research and practical application, writing high-quality code to test hypotheses and integrating successful safety solutions directly into our products. Your research will not only protect millions of users but also contribute to the broader scientific community's understanding of how to build safe, beneficial AI.
 
-
 WHAT YOU'LL DO
 
  - Develop and implement novel evaluation methodologies and metrics to assess the safety and alignment of large language models.
@@ -49,8 +51,6 @@ WHAT YOU'LL DO
  - Collaborate with engineering and product teams to translate safety research into practical, scalable solutions and best practices.
 
  - Stay abreast of the latest advancements in AI safety research and contribute to the academic community through publications and presentations.
-   
-
 
 WHO YOU ARE
 
@@ -65,8 +65,6 @@ WHO YOU ARE
  - Strong understanding of modern machine learning techniques, particularly transformers and reinforcement learning, with a focus on their safety implications.
 
  - Are passionate about the responsible development of AI and dedicated to solving complex safety challenges.
-   
-
 
 NICE TO HAVE
 
@@ -84,17 +82,13 @@ NICE TO HAVE
 
  - Publications in relevant academic journals or conferences in the field of machine learning
 
-
 ABOUT CHARACTER.AI
 
 Character.AI http://Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI http://Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
 
-
 In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
 
-
 Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
-
 
 At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.
 

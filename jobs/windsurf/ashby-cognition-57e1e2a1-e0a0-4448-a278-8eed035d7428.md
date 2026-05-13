@@ -5,13 +5,16 @@ title: Research, Mid-Training
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-05-01
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428
 summary: Design and optimize synthetic data pipelines for model training
 skills: 
 level: 
-render_hash: d6a7ef91
+comp: 
+comp_extras: 
+render_hash: a726f9a6
 -->
 
 # Research, Mid-Training 
@@ -33,13 +36,11 @@ We are an applied AI lab building end-to-end software agents. We're the team beh
 
 Our team is small and talent-dense: world-class competitive programmers, former founders, and researchers from the frontier of AI, including Scale AI, Palantir, Cursor, Google DeepMind, and others.
 
-
 ROLE MISSION
 
 Mid-training sits at the seam between pre-training and post-training and is one of the highest-leverage points in the entire model pipeline. This is where raw base model capability is sharpened into something that can reason deeply, generalize reliably, and serve as the foundation that post-training builds on.
 
 You will own the late-stage training decisions that determine what our models are fundamentally capable of: data mix and quality uplift, annealing schedules, context length extension, capability injection across coding, math, and reasoning, and the synthetic data strategies that make all of it scale. This role does cross-cutting work across what is classically considered both pre-training and post-training. We don't distinguish between research and engineering; we expect both.
-
 
 WHAT YOU'LL ACCOMPLISH
 
@@ -56,7 +57,6 @@ WHAT YOU'LL ACCOMPLISH
  - Evaluation and Iteration: Build evals that distinguish real capability improvements from benchmark overfitting. Close the loop between training decisions and what actually matters for Devin and our other systems in deployment.
 
  - Scaling and Methodology: Measure how mid-training interventions scale with compute and data. Develop new approaches when existing methods hit ceilings; we expect both rigorous empiricism and original thinking.
-
 
 EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
@@ -78,7 +78,6 @@ EXCEPTIONAL CANDIDATES HAVE DEMONSTRATED
 
  - We care more about demonstrated capability than credentials. A PhD is one signal among many.
 
-
 RESOURCES & ENVIRONMENT
 
  - Small, highly selective team where research and product move together; prototypes reach real deployment quickly
@@ -86,8 +85,6 @@ RESOURCES & ENVIRONMENT
  - Compute is not a constraint: large allocations with training jobs routinely running across thousands of GPUs from day one
 
  - The environment rewards speed, autonomy, and technical depth with minimal process overhead; this is one of the most competitive and fast-moving problems in AI
-   
-
 
 EQUAL OPPORTUNITY
 

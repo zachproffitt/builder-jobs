@@ -5,13 +5,16 @@ title: Software Engineer, Guest & Host, Foundation
 source: greenhouse
 location: China
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-09
 url: https://careers.airbnb.com/positions/7817284?gh_jid=7817284
 summary: The person will build services and APIs for web and mobile apps, develop data access and protection patterns, maintain cloud infrastructure for Airbnb guests in China, and collaborate on distributed service-oriented architecture. They will own systems related to engineering efficiency, data security, and cross-team product integration.
 skills: 
 level: 
-render_hash: 8439edd3
+comp: 
+comp_extras: 
+render_hash: 38da7bc3
 -->
 
 # Software Engineer, Guest & Host, Foundation
@@ -30,6 +33,7 @@ _The person will build services and APIs for web and mobile apps, develop data a
 ---
 
 Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+
 NO VISA SUPPORT
 
 &nbsp;

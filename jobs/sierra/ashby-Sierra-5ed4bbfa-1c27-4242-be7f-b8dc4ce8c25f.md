@@ -5,13 +5,16 @@ title: Software Engineer, Insights
 source: ashby
 location: San Francisco, CA
 remote: On-site
+hybrid: no
 posted_at: 2025-12-03
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Sierra/5ed4bbfa-1c27-4242-be7f-b8dc4ce8c25f
 summary: Build and maintain the data analysis system and Explorer tool
 skills: Go, TypeScript
 level: senior
-render_hash: d6f73323
+comp: 
+comp_extras: 
+render_hash: 2c23e37f
 -->
 
 # Software Engineer, Insights
@@ -35,8 +38,7 @@ ABOUT US
 
  - We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and Family. These values are the foundation of our work, and we are committed to upholding them in everything we do.
 
- - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace. 
-
+ - Our co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.
 
 WHAT YOU’LL DO
 
@@ -45,7 +47,6 @@ WHAT YOU’LL DO
  - Data Exploration: Build Explorer, the equivalent of ChatGPT + AI-powered clustering over conversational data.
 
  - Monitoring: Build systems for proactively monitoring agents for defects or new patterns.
-
 
 WHAT YOU'LL BRING
 
@@ -61,7 +62,6 @@ WHAT YOU'LL BRING
 
  - Degree in Computer Science or related field, or equivalent professional experience.
 
-
 EVEN BETTER...
 
  - Experience building AI-powered products.
@@ -74,7 +74,6 @@ EVEN BETTER...
 
  - Leadership experience on technical projects or teams.
 
-
 OUR VALUES
 
  - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.
@@ -86,7 +85,6 @@ OUR VALUES
  - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.
 
  - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.
-
 
 WHAT WE OFFER
 
@@ -104,14 +102,13 @@ We want our benefits to reflect our values and offer the following to full-time 
 
  - Fertility and family building benefits through Carrot
 
- - Lunch, as well as delicious snacks and coffee to keep you energized 
+ - Lunch, as well as delicious snacks and coffee to keep you energized
 
  - Discretionary benefit stipend giving people the ability to spend where it matters most
 
  - Free alphorn lessons
 
 These benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
-
 
 BE YOU, WITH US
 

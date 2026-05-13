@@ -5,13 +5,16 @@ title: Senior Embedded Software Engineer
 source: lever
 location: Toulouse
 remote: On-site
+hybrid: no
 posted_at: 2026-01-22
 first_seen: 2026-05-10
 url: https://jobs.lever.co/loftorbital/6914d685-4e2f-45c5-a75a-33d903ef8363
 summary: Design and develop embedded software for satellite electronic payloads, advancing in-space compute and RF communication systems.
 skills: 
 level: 
-render_hash: 40e306e2
+comp: 
+comp_extras: 
+render_hash: d2a75bfa
 -->
 
 # Senior Embedded Software Engineer

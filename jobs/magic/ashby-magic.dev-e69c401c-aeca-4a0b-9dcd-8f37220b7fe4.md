@@ -5,13 +5,16 @@ title: Member of Technical Staff, DX & Data Tooling Engineer
 source: ashby
 location: San Francisco
 remote: On-site
+hybrid: no
 posted_at: 2026-02-27
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/magic.dev/e69c401c-aeca-4a0b-9dcd-8f37220b7fe4
 summary: Build and maintain internal data tooling including dashboards, CLIs, and data exploration UIs
 skills: build systems, CI pipelines, CLI tools, web UIs, data infrastructure
 level: 
-render_hash: 346ade5f
+comp: 
+comp_extras: 
+render_hash: e40ddda6
 -->
 
 # Member of Technical Staff, DX & Data Tooling Engineer
@@ -31,14 +34,11 @@ _Build and maintain internal data tooling including dashboards, CLIs, and data e
 
 Magic’s mission is to build safe AGI that accelerates humanity’s progress on the world’s most important problems. We believe the most promising path to safe AGI lies in automating research and code generation to improve models and solve alignment more reliably than humans can alone. Our approach combines frontier-scale pre-training, domain-specific RL, ultra-long context, and inference-time compute to achieve this goal.
 
-
 ABOUT THE ROLE:
 
 We're looking for someone to lead developer experience and data tooling for our pre-training data team. This person will build internal tools and infrastructure that make the team more productive—dashboards, CLIs, data exploration UIs, and the systems that tie them together.
 
 The role is focused on DX and tooling—we're looking for someone who genuinely loves hacking on things, shipping fast, and tinkering.
-
-
 
 WHAT YOU MIGHT WORK ON:
 
@@ -51,7 +51,6 @@ WHAT YOU MIGHT WORK ON:
  - Identify opportunities by engaging with the team, listening to pain points, and proactively improving workflows
 
  - Raise the bar on code organization, packaging, and engineering best practices
-
 
 WHAT WE’RE LOOKING FOR:
 
@@ -81,11 +80,9 @@ Not Required
 
  - Prior experience specifically in "data engineering" pipelines—we care more about tooling instincts than domain experience
 
-
 WHY THIS ROLE
 
 You'll have significant ownership over how a high-performing team works day-to-day. The scope is broad, the feedback loops are fast, and the work directly impacts how quickly we can move on core research and data efforts.
-
 
 COMPENSATION, BENEFITS, AND PERKS (US):
 
@@ -103,11 +100,7 @@ COMPENSATION, BENEFITS, AND PERKS (US):
 
  - A small, fast-paced, highly focused team
 
-
-
-
 Magic strives to be the place where high-potential individuals can do their best work. We value quick learning and grit just as much as skill and experience.
-
 
 OUR CULTURE
 

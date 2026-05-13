@@ -5,13 +5,16 @@ title: Senior / Principal Data Scientist - Discovery
 source: greenhouse
 location: San Mateo, CA, United States
 remote: Not specified
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-01
 url: https://careers.roblox.com/jobs/7701054?gh_jid=7701054
 summary: Build and maintain ML solutions and ranking frameworks that power discovery canvases. Develop causal inference models to measure platform initiatives.
 skills: 
 level: 
-render_hash: f9d97a75
+comp: 
+comp_extras: 
+render_hash: 95356e4e
 -->
 
 # Senior / Principal Data Scientist - Discovery
@@ -34,6 +37,7 @@ Every day, tens of millions of people come to Roblox to explore, create, play, l
 At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.&nbsp;
 
 A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
+
 WHY DATA SCIENCE &amp; ANALYTICS?
 
 The Data Science &amp; Analytics organization's mission is to increase our speed, frequency and acumen of making decisions at scale by instilling a data-influenced approach to building products. We cover a wide area of the data spectrum including analytical data engineering, product analytics, experimentation, causal inference, statistical modeling and machine learning. Aligned and partnering with product verticals, we use this extensive tool belt to discover new opportunities and unmet use cases, influence and shape the product roadmap and prioritization, build data products and measure impact on our community of players and developers.
@@ -69,6 +73,7 @@ Ability to design sophisticated experiments that account for the nuances of a tw
 Ability to&nbsp;distill high-dimensional problems into succinct, actionable narratives for non-technical executive audiences.
 
 For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits as described on this page.
+
 Annual Salary Range$307,430&mdash;$373,680 USDRoles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
 
 Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
