@@ -9,24 +9,24 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/grafanalabs/jobs/5994758004
-summary: Build intuitive, guided UI workflows for the Drilldown plugin that help users explore complex telemetry data through point-and-click interactions without writing queries. Optimize for responsive performance while integrating seamlessly across the Grafana observability ecosystem serving 20M+ users.
-skills: React, TypeScript, JavaScript, Plugin Architecture, Frontend Performance, Grafana, Telemetry/Observability Platforms, User Experience Design
+summary: Build and enhance queryless exploration workflows for the Drilldown plugin, enabling users to navigate telemetry data through intuitive point-and-click interfaces. Optimize for performance and responsiveness while integrating with the broader Grafana observability ecosystem.
+skills: React, TypeScript, Frontend Development, Open Telemetry, Accessibility, Performance Optimization, Testing Automation
 level: staff
-comp: 
-comp_extras: 
-render_hash: 24e83412
+comp: €109,709-€131,651
+comp_extras: equity
+render_hash: 6cfcf1d4
 -->
 
 # Staff Frontend Engineer - Observability Drilldown | EMEA | Remote
 
 <img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana**  
-Germany (Remote) · `Staff` · `Remote`
+Germany · `Staff` · `Remote` · `€109,709-€131,651` · `Equity`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 
-_Build intuitive, guided UI workflows for the Drilldown plugin that help users explore complex telemetry data through point-and-click interactions without writing queries. Optimize for responsive performance while integrating seamlessly across the Grafana observability ecosystem serving 20M+ users._
+_Build and enhance queryless exploration workflows for the Drilldown plugin, enabling users to navigate telemetry data through intuitive point-and-click interfaces. Optimize for performance and responsiveness while integrating with the broader Grafana observability ecosystem._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Plugin Architecture](https://img.shields.io/badge/Plugin_Architecture-3B82F6?style=flat-square) ![Frontend Performance](https://img.shields.io/badge/Frontend_Performance-3B82F6?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3B82F6?style=flat-square) ![Telemetry/Observability Platforms](https://img.shields.io/badge/Telemetry%2FObservability_Platforms-3B82F6?style=flat-square) ![User Experience Design](https://img.shields.io/badge/User_Experience_Design-3B82F6?style=flat-square)
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Frontend Development](https://img.shields.io/badge/Frontend_Development-3B82F6?style=flat-square) ![Open Telemetry](https://img.shields.io/badge/Open_Telemetry-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![Testing Automation](https://img.shields.io/badge/Testing_Automation-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

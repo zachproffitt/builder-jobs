@@ -5,28 +5,28 @@ title: Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech
 source: greenhouse
 location: Los Angeles, USA
 remote: Not specified
-hybrid: no
+hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://www.riotgames.com/en/work-with-us/job/7875327?gh_jid=7875327
-summary: Build and maintain tools, pipelines, and systems for character asset development in League of Legends. Work at scale across multiple partner studios to develop processes and enforce data pipelines for live-service content delivery.
-skills: Python, 3D tools (Maya/Blender), Character pipeline development, VFX, Rendering, Substance, ZBrush, DCC applications
+summary: Build tools, pipelines, and systems for character asset development in League of Legends, enabling artists to author and scale high-quality content. Work at the intersection of art and engineering to maintain data pipelines at scale across multiple live-service content types and partner studios.
+skills: Python, C++, C#, CI/CD, Character Pipelines, 3D Tools (Substance, ZBrush, Maya), DCC App Development
 level: senior
 comp: 
 comp_extras: 
-render_hash: d74e655c
+render_hash: 14ba5a97
 -->
 
 # Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech
 
 <img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games**  
-Los Angeles, USA · `Senior`
+Los Angeles, USA · `Senior` · `Hybrid`
 
 > Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 
-_Build and maintain tools, pipelines, and systems for character asset development in League of Legends. Work at scale across multiple partner studios to develop processes and enforce data pipelines for live-service content delivery._
+_Build tools, pipelines, and systems for character asset development in League of Legends, enabling artists to author and scale high-quality content. Work at the intersection of art and engineering to maintain data pipelines at scale across multiple live-service content types and partner studios._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![3D tools (Maya/Blender)](https://img.shields.io/badge/3D_tools_%28Maya%2FBlender%29-3B82F6?style=flat-square) ![Character pipeline development](https://img.shields.io/badge/Character_pipeline_development-3B82F6?style=flat-square) ![VFX](https://img.shields.io/badge/VFX-3B82F6?style=flat-square) ![Rendering](https://img.shields.io/badge/Rendering-3B82F6?style=flat-square) ![Substance](https://img.shields.io/badge/Substance-3B82F6?style=flat-square) ![ZBrush](https://img.shields.io/badge/ZBrush-3B82F6?style=flat-square) ![DCC applications](https://img.shields.io/badge/DCC_applications-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Character Pipelines](https://img.shields.io/badge/Character_Pipelines-3B82F6?style=flat-square) ![3D Tools (Substance, ZBrush, Maya)](https://img.shields.io/badge/3D_Tools_%28Substance%2C_ZBrush%2C_Maya%29-3B82F6?style=flat-square) ![DCC App Development](https://img.shields.io/badge/DCC_App_Development-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

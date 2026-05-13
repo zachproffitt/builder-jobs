@@ -9,22 +9,22 @@ hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13
-summary: Build and evolve Supabase Edge Runtime, a Rust-based host for distributed TypeScript functions that executes code globally at the edge. Optimize for latency and reliability at scale while integrating tightly with Postgres, Auth, Storage, and Realtime services.
+summary: Build and evolve Supabase Edge Runtime, a Rust-based Deno host that executes distributed TypeScript functions at the edge globally. Drive performance optimization, reliability, and developer experience through monitoring, observability, and tight integration with the Supabase platform stack.
 skills: Rust, TypeScript, Deno, V8 Isolates, Kubernetes, AWS, PostgreSQL, OpenTelemetry
 level: senior
 comp: 
-comp_extras: 
-render_hash: 95c2dd0b
+comp_extras: equity
+render_hash: 7d033b9d
 -->
 
 # Edge Functions Engineer
 
 <img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Supabase**  
-`Senior` · `Remote`
+`Senior` · `Remote` · `Equity`
 
 > Supabase builds a Postgres development platform with Database, Auth, Storage, Edge Functions, Realtime, and Vector Search, providing a complete backend solution for developers.
 
-_Build and evolve Supabase Edge Runtime, a Rust-based host for distributed TypeScript functions that executes code globally at the edge. Optimize for latency and reliability at scale while integrating tightly with Postgres, Auth, Storage, and Realtime services._
+_Build and evolve Supabase Edge Runtime, a Rust-based Deno host that executes distributed TypeScript functions at the edge globally. Drive performance optimization, reliability, and developer experience through monitoring, observability, and tight integration with the Supabase platform stack._
 
 ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Deno](https://img.shields.io/badge/Deno-3B82F6?style=flat-square) ![V8 Isolates](https://img.shields.io/badge/V8_Isolates-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square)
 

@@ -9,24 +9,24 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/andurilindustries/jobs/5038708007?gh_jid=5038708007
-summary: Design and operate developer productivity and DevSecOps infrastructure serving software engineering teams across sovereign UK and Australian defense programs. Requires UK security clearance and experience in highly regulated defense or government environments.
-skills: Terraform, AWS, Infrastructure as Code, DevSecOps, Linux, Network Security, Kubernetes, Security Clearance (SC level)
+summary: Design and deploy infrastructure automation, DevSecOps toolchains, and observability systems to support sovereign and multinational defense programs in the UK and Australia. Requires UK security clearance and experience in highly regulated defense or government environments.
+skills: Terraform, AWS, Infrastructure as Code, DevSecOps, Linux, PKI, TLS, VMWare
 level: senior
-comp: 
-comp_extras: 
-render_hash: 687a9a01
+comp: £75k-£100k
+comp_extras: equity
+render_hash: 7aa41042
 -->
 
 # Site Reliability Engineer - UK
 
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-London, England, United Kingdom · `Senior`
+London, England, United Kingdom · `Senior` · `£75k-£100k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
-_Design and operate developer productivity and DevSecOps infrastructure serving software engineering teams across sovereign UK and Australian defense programs. Requires UK security clearance and experience in highly regulated defense or government environments._
+_Design and deploy infrastructure automation, DevSecOps toolchains, and observability systems to support sovereign and multinational defense programs in the UK and Australia. Requires UK security clearance and experience in highly regulated defense or government environments._
 
-![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![DevSecOps](https://img.shields.io/badge/DevSecOps-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Network Security](https://img.shields.io/badge/Network_Security-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Security Clearance (SC level)](https://img.shields.io/badge/Security_Clearance_%28SC_level%29-3B82F6?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![DevSecOps](https://img.shields.io/badge/DevSecOps-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![PKI](https://img.shields.io/badge/PKI-3B82F6?style=flat-square) ![TLS](https://img.shields.io/badge/TLS-3B82F6?style=flat-square) ![VMWare](https://img.shields.io/badge/VMWare-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 
