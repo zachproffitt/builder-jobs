@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/astranis/jobs/4681218006
-summary: Build automated test hardware and control software in Python to validate satellite avionics and flight systems. Work in a mission-critical domain (space/defense) where test infrastructure directly enables satellite launches supporting government and military customers.
-skills: Python, PCB Design, Altium Designer, Oscilloscope, Electrical Test Equipment, Hardware-in-the-Loop Testing, Design for Test (DFT), Signal Integrity
+summary: Build automated hardware test systems and PCBAs to validate flight electronics for satellite systems. Write Python control software for bench equipment and test infrastructure supporting qualification of avionics hardware in space environments.
+skills: Python, PCB design, Altium Designer, Oscilloscope, Test automation, Embedded systems debugging, Signal integrity, Electrical test equipment
 level: mid
 comp: 
 comp_extras: equity
-render_hash: 88f282dc
+render_hash: 269b4004
 -->
 
 # Electrical Test Hardware Development Engineer
@@ -24,9 +24,9 @@ San Francisco, California · `Mid` · `Equity`
 
 > Astranis designs, builds, and operates high-orbit satellites.
 
-_Build automated test hardware and control software in Python to validate satellite avionics and flight systems. Work in a mission-critical domain (space/defense) where test infrastructure directly enables satellite launches supporting government and military customers._
+_Build automated hardware test systems and PCBAs to validate flight electronics for satellite systems. Write Python control software for bench equipment and test infrastructure supporting qualification of avionics hardware in space environments._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PCB Design](https://img.shields.io/badge/PCB_Design-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-3B82F6?style=flat-square) ![Electrical Test Equipment](https://img.shields.io/badge/Electrical_Test_Equipment-3B82F6?style=flat-square) ![Hardware-in-the-Loop Testing](https://img.shields.io/badge/Hardware--in--the--Loop_Testing-3B82F6?style=flat-square) ![Design for Test (DFT)](https://img.shields.io/badge/Design_for_Test_%28DFT%29-3B82F6?style=flat-square) ![Signal Integrity](https://img.shields.io/badge/Signal_Integrity-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PCB design](https://img.shields.io/badge/PCB_design-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-3B82F6?style=flat-square) ![Test automation](https://img.shields.io/badge/Test_automation-3B82F6?style=flat-square) ![Embedded systems debugging](https://img.shields.io/badge/Embedded_systems_debugging-3B82F6?style=flat-square) ![Signal integrity](https://img.shields.io/badge/Signal_integrity-3B82F6?style=flat-square) ![Electrical test equipment](https://img.shields.io/badge/Electrical_test_equipment-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007
-summary: Design and implement test automation frameworks, custom software utilities, and validation systems for advanced networking devices and intelligence systems. Requires active security clearance and work on defense technology with national security applications.
-skills: Python, Wireshark, Hardware-In-The-Loop Testing, Network Protocols, Security Clearance, Embedded Systems, Test Automation, Root Cause Analysis
+summary: Design and implement test automation frameworks, custom scripts, and validation strategies for advanced networking devices and systems. Requires active security clearance and will involve Hardware-In-The-Loop testing of embedded networking systems in a defense/intelligence community context.
+skills: Python, Wireshark, Hardware-In-The-Loop Testing, Embedded Systems, Network Protocols, Security Clearance
 level: senior
 comp: 
 comp_extras: 
-render_hash: 54be5856
+render_hash: 150804b0
 -->
 
 # Senior Software Engineer, Intelligence Systems
@@ -24,9 +24,9 @@ Reston, Virginia, United States · `Senior`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
-_Design and implement test automation frameworks, custom software utilities, and validation systems for advanced networking devices and intelligence systems. Requires active security clearance and work on defense technology with national security applications._
+_Design and implement test automation frameworks, custom scripts, and validation strategies for advanced networking devices and systems. Requires active security clearance and will involve Hardware-In-The-Loop testing of embedded networking systems in a defense/intelligence community context._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-3B82F6?style=flat-square) ![Hardware-In-The-Loop Testing](https://img.shields.io/badge/Hardware--In--The--Loop_Testing-3B82F6?style=flat-square) ![Network Protocols](https://img.shields.io/badge/Network_Protocols-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square) ![Test Automation](https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square) ![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-3B82F6?style=flat-square) ![Hardware-In-The-Loop Testing](https://img.shields.io/badge/Hardware--In--The--Loop_Testing-3B82F6?style=flat-square) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square) ![Network Protocols](https://img.shields.io/badge/Network_Protocols-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

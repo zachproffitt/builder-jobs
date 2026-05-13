@@ -9,12 +9,12 @@ hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Supabase/b7206c22-979f-444a-809b-e70d9ee23c7f
-summary: Own the Go Terraform provider codebase for Supabase, shipping reliable infrastructure-as-code tooling at scale. Focus on resource behavior, lifecycle correctness, schema evolution, and migration paths for existing users.
-skills: Go, Terraform, PostgreSQL, TypeScript, GitHub, CI/CD, Schema Design, Testing Infrastructure
+summary: Own the Go codebase and architecture of Supabase's Terraform provider, shipping reliable infrastructure-as-code tooling for developers at scale. Drive schema design, resource lifecycle correctness, and migration paths while partnering with product leadership on roadmap and technical strategy.
+skills: Go, Terraform, PostgreSQL, TypeScript, CI/CD, Distributed Systems, Infrastructure as Code
 level: senior
 comp: 
 comp_extras: 
-render_hash: e1646da4
+render_hash: 5ad7ca8c
 -->
 
 # Software Engineer: IaC Platform Experience
@@ -24,9 +24,9 @@ Remote · `Senior`
 
 > Supabase builds a Postgres development platform with Database, Auth, Storage, Edge Functions, Realtime, and Vector Search, providing a complete backend solution for developers.
 
-_Own the Go Terraform provider codebase for Supabase, shipping reliable infrastructure-as-code tooling at scale. Focus on resource behavior, lifecycle correctness, schema evolution, and migration paths for existing users._
+_Own the Go codebase and architecture of Supabase's Terraform provider, shipping reliable infrastructure-as-code tooling for developers at scale. Drive schema design, resource lifecycle correctness, and migration paths while partnering with product leadership on roadmap and technical strategy._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Schema Design](https://img.shields.io/badge/Schema_Design-3B82F6?style=flat-square) ![Testing Infrastructure](https://img.shields.io/badge/Testing_Infrastructure-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square)
 
 <sub>Posted May 13, 2026</sub>
 

@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://www.riotgames.com/en/work-with-us/job/7875327?gh_jid=7875327
-summary: Build and maintain tools, pipelines, and systems for character, material, and rig development in League of Legends. Scale content pipelines to support multiple partner studios shipping thousands of assets for a live-service title.
-skills: Python, 3D Tools, Character Pipeline Architecture, Substance, ZBrush, Marmoset, Adobe Products
+summary: Build and maintain tools, pipelines, and systems for character asset development in League of Legends. Work at scale across multiple partner studios to develop processes and enforce data pipelines for live-service content delivery.
+skills: Python, 3D tools (Maya/Blender), Character pipeline development, VFX, Rendering, Substance, ZBrush, DCC applications
 level: senior
 comp: 
 comp_extras: 
-render_hash: c98859d6
+render_hash: d74e655c
 -->
 
 # Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech
@@ -24,9 +24,9 @@ Los Angeles, USA · `Senior`
 
 > Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 
-_Build and maintain tools, pipelines, and systems for character, material, and rig development in League of Legends. Scale content pipelines to support multiple partner studios shipping thousands of assets for a live-service title._
+_Build and maintain tools, pipelines, and systems for character asset development in League of Legends. Work at scale across multiple partner studios to develop processes and enforce data pipelines for live-service content delivery._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![3D Tools](https://img.shields.io/badge/3D_Tools-3B82F6?style=flat-square) ![Character Pipeline Architecture](https://img.shields.io/badge/Character_Pipeline_Architecture-3B82F6?style=flat-square) ![Substance](https://img.shields.io/badge/Substance-3B82F6?style=flat-square) ![ZBrush](https://img.shields.io/badge/ZBrush-3B82F6?style=flat-square) ![Marmoset](https://img.shields.io/badge/Marmoset-3B82F6?style=flat-square) ![Adobe Products](https://img.shields.io/badge/Adobe_Products-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![3D tools (Maya/Blender)](https://img.shields.io/badge/3D_tools_%28Maya%2FBlender%29-3B82F6?style=flat-square) ![Character pipeline development](https://img.shields.io/badge/Character_pipeline_development-3B82F6?style=flat-square) ![VFX](https://img.shields.io/badge/VFX-3B82F6?style=flat-square) ![Rendering](https://img.shields.io/badge/Rendering-3B82F6?style=flat-square) ![Substance](https://img.shields.io/badge/Substance-3B82F6?style=flat-square) ![ZBrush](https://img.shields.io/badge/ZBrush-3B82F6?style=flat-square) ![DCC applications](https://img.shields.io/badge/DCC_applications-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

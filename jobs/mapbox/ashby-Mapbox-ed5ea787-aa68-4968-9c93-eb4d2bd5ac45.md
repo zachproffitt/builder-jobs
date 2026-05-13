@@ -9,12 +9,12 @@ hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
 url: https://jobs.ashbyhq.com/Mapbox/ed5ea787-aa68-4968-9c93-eb4d2bd5ac45
-summary: Build the Android Maps SDK — a public library powering mobile maps across Flutter, Android, iOS, and embedded devices. Design expressive APIs and optimize cross-platform performance for apps, games, and navigation experiences at scale.
-skills: Kotlin, Java, Android, SDK Development, Navigation Systems, Cross-Platform Integration, Performance Optimization, API Design
+summary: Build the Android Maps SDK — a public library powering mobile maps across Flutter, Android, iOS, and embedded devices. Design scalable APIs and cross-platform implementations that integrate Navigation, Maps, and Search SDKs for high-traffic consumer and enterprise applications.
+skills: Kotlin, Java, Android, SDK design, C++, Cross-platform development, Performance optimization, API design
 level: senior
 comp: 
 comp_extras: 
-render_hash: 957385bf
+render_hash: 93cfc2fd
 -->
 
 # Software Development Engineer III, Android, Maps SDK
@@ -24,9 +24,9 @@ Mapbox Helsinki · `Senior` · `Remote`
 
 > Mapbox builds mapping and location APIs, SDKs, and developer tools that enable applications to display custom maps, perform geocoding and routing, and analyze geospatial data. They operate in the geospatial technology and mapping services domain, serving developers who need to integrate location features into mobile and web applications.
 
-_Build the Android Maps SDK — a public library powering mobile maps across Flutter, Android, iOS, and embedded devices. Design expressive APIs and optimize cross-platform performance for apps, games, and navigation experiences at scale._
+_Build the Android Maps SDK — a public library powering mobile maps across Flutter, Android, iOS, and embedded devices. Design scalable APIs and cross-platform implementations that integrate Navigation, Maps, and Search SDKs for high-traffic consumer and enterprise applications._
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![SDK Development](https://img.shields.io/badge/SDK_Development-3B82F6?style=flat-square) ![Navigation Systems](https://img.shields.io/badge/Navigation_Systems-3B82F6?style=flat-square) ![Cross-Platform Integration](https://img.shields.io/badge/Cross--Platform_Integration-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Cross-platform development](https://img.shields.io/badge/Cross--platform_development-3B82F6?style=flat-square) ![Performance optimization](https://img.shields.io/badge/Performance_optimization-3B82F6?style=flat-square) ![API design](https://img.shields.io/badge/API_design-3B82F6?style=flat-square)
 
 <sub>Posted May 13, 2026</sub>
 

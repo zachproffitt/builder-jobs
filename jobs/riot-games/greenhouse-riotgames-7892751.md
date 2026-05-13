@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://www.riotgames.com/en/work-with-us/job/7892751?gh_jid=7892751
-summary: Build scalable backend microservices and core infrastructure to support League of Legends in China, meeting region-specific requirements and high-volume player traffic. Operate distributed systems at massive scale serving over 100 million monthly players.
-skills: C++, Java, Go, C#, AWS, Azure, Tencent Cloud, Microservices Architecture
+summary: Build and operate scalable microservices and core backend services for League of Legends, ensuring high quality of service and reliability at massive scale (100M+ monthly players). Work with China-specific requirements and Riot's standard tech stack across multiple languages and cloud platforms.
+skills: C++, Java, Go, C#, AWS, Azure, Tencent Cloud, Microservices
 level: senior
 comp: 
 comp_extras: 
-render_hash: f98ec4b5
+render_hash: 1ae66ebf
 -->
 
 # Senior Software Engineer -  Tech Foundations
@@ -24,9 +24,9 @@ Shanghai, China · `Senior`
 
 > Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 
-_Build scalable backend microservices and core infrastructure to support League of Legends in China, meeting region-specific requirements and high-volume player traffic. Operate distributed systems at massive scale serving over 100 million monthly players._
+_Build and operate scalable microservices and core backend services for League of Legends, ensuring high quality of service and reliability at massive scale (100M+ monthly players). Work with China-specific requirements and Riot's standard tech stack across multiple languages and cloud platforms._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

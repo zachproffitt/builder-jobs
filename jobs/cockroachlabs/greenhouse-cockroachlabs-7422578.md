@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://www.cockroachlabs.com/careers/job/?gh_jid=7422578
-summary: Design and build specialized indexing systems (vector, full-text, geospatial) for CockroachDB's distributed SQL engine. Work on high-performance systems supporting AI-native and hybrid search workloads at scale in a mature distributed database.
-skills: Go, C++, Rust, PostgreSQL, Vector Indexing, Query Optimization, Distributed Systems
+summary: Design and build specialized indexing systems for CockroachDB, including vector, full-text, and geospatial indexes to support AI-native and search-driven applications. Work on distributed systems challenges integrating high-performance indexing into a production SQL query engine at scale.
+skills: Go, C++, Rust, Vector Indexing, Query Execution, Distributed Systems, SQL, PostgreSQL
 level: senior
 comp: 
 comp_extras: 
-render_hash: bc2136e5
+render_hash: 7f0eea79
 -->
 
 # Member of Technical Staff (Senior - Specialized Indexing)
@@ -24,9 +24,9 @@ Bangalore, India · `Senior`
 
 > CockroachLabs builds CockroachDB, a distributed SQL database that runs across multiple cloud regions and data centers while maintaining strong consistency guarantees. The company operates in the database infrastructure and cloud data management domain.
 
-_Design and build specialized indexing systems (vector, full-text, geospatial) for CockroachDB's distributed SQL engine. Work on high-performance systems supporting AI-native and hybrid search workloads at scale in a mature distributed database._
+_Design and build specialized indexing systems for CockroachDB, including vector, full-text, and geospatial indexes to support AI-native and search-driven applications. Work on distributed systems challenges integrating high-performance indexing into a production SQL query engine at scale._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Vector Indexing](https://img.shields.io/badge/Vector_Indexing-3B82F6?style=flat-square) ![Query Optimization](https://img.shields.io/badge/Query_Optimization-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Vector Indexing](https://img.shields.io/badge/Vector_Indexing-3B82F6?style=flat-square) ![Query Execution](https://img.shields.io/badge/Query_Execution-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

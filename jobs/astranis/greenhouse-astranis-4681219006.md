@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/astranis/jobs/4681219006
-summary: Develop automated hardware and software test systems to validate custom spacecraft electronics across environmental conditions. Work on mission-critical satellite systems for defense and government customers requiring highest reliability standards.
-skills: Python, Oscilloscope, Multimeter, Power Electronics, PCBA Design, Altium Designer, Vibration Testing, TVAC Testing
+summary: Develop automated test systems and software to validate custom spacecraft electronics across environmental conditions. Work on flight-critical power and communications hardware for satellites in orbit.
+skills: Python, Altium Designer, Power Electronics, Environmental Testing (Thermal/Vibration/TVAC), Oscilloscope/Test Equipment, PCBA Design, Embedded Systems, Electrical Harness Design
 level: junior
 comp: 
 comp_extras: equity
-render_hash: 2a896289
+render_hash: 1824769b
 -->
 
 # Electronics Test Engineer
@@ -24,9 +24,9 @@ San Francisco, California · `Junior` · `Equity`
 
 > Astranis designs, builds, and operates high-orbit satellites.
 
-_Develop automated hardware and software test systems to validate custom spacecraft electronics across environmental conditions. Work on mission-critical satellite systems for defense and government customers requiring highest reliability standards._
+_Develop automated test systems and software to validate custom spacecraft electronics across environmental conditions. Work on flight-critical power and communications hardware for satellites in orbit._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-3B82F6?style=flat-square) ![Multimeter](https://img.shields.io/badge/Multimeter-3B82F6?style=flat-square) ![Power Electronics](https://img.shields.io/badge/Power_Electronics-3B82F6?style=flat-square) ![PCBA Design](https://img.shields.io/badge/PCBA_Design-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![Vibration Testing](https://img.shields.io/badge/Vibration_Testing-3B82F6?style=flat-square) ![TVAC Testing](https://img.shields.io/badge/TVAC_Testing-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![Power Electronics](https://img.shields.io/badge/Power_Electronics-3B82F6?style=flat-square) ![Environmental Testing (Thermal/Vibration/TVAC)](https://img.shields.io/badge/Environmental_Testing_%28Thermal%2FVibration%2FTVAC%29-3B82F6?style=flat-square) ![Oscilloscope/Test Equipment](https://img.shields.io/badge/Oscilloscope%2FTest_Equipment-3B82F6?style=flat-square) ![PCBA Design](https://img.shields.io/badge/PCBA_Design-3B82F6?style=flat-square) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square) ![Electrical Harness Design](https://img.shields.io/badge/Electrical_Harness_Design-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

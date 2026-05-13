@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5994701004
-summary: Operate and evolve a global backbone network connecting PlayStation data centers, studios, and cloud platforms. Troubleshoot production connectivity issues and contribute to network automation and infrastructure improvements.
-skills: BGP, OSPF, IS-IS, Git, Python, Linux, Network Telemetry (sFlow, IPFIX), MPLS
+summary: Operate and evolve a global, high-capacity backbone network connecting PlayStation data centers, studios, and cloud platforms through incident response, troubleshooting, and automation. Work on production infrastructure at scale across distributed regions in a 24/7 follow-the-sun operational model.
+skills: BGP, OSPF, IS-IS, Python, Git, Linux, sFlow, IPFIX
 level: junior
 comp: 
 comp_extras: 
-render_hash: cb3fc1f4
+render_hash: ea189b72
 -->
 
 # Network Engineer I
@@ -26,9 +26,9 @@ Australia, Adelaide · `Junior`
 
 Bend Studio develops video games, primarily known for the Days Gone franchise, a post-apocalyptic action-adventure series for PlayStation platforms. The studio is based in Bend, Oregon, and operates in the video game development industry.
 
-_Operate and evolve a global backbone network connecting PlayStation data centers, studios, and cloud platforms. Troubleshoot production connectivity issues and contribute to network automation and infrastructure improvements._
+_Operate and evolve a global, high-capacity backbone network connecting PlayStation data centers, studios, and cloud platforms through incident response, troubleshooting, and automation. Work on production infrastructure at scale across distributed regions in a 24/7 follow-the-sun operational model._
 
-![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-3B82F6?style=flat-square) ![IS-IS](https://img.shields.io/badge/IS--IS-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Network Telemetry (sFlow, IPFIX)](https://img.shields.io/badge/Network_Telemetry_%28sFlow%2C_IPFIX%29-3B82F6?style=flat-square) ![MPLS](https://img.shields.io/badge/MPLS-3B82F6?style=flat-square)
+![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-3B82F6?style=flat-square) ![IS-IS](https://img.shields.io/badge/IS--IS-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![sFlow](https://img.shields.io/badge/sFlow-3B82F6?style=flat-square) ![IPFIX](https://img.shields.io/badge/IPFIX-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

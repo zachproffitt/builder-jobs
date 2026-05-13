@@ -9,12 +9,12 @@ hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/clickhouse/jobs/5993847004
-summary: Design and build reusable data pipeline components, ETL abstractions, and DataOps tooling across a high-scale internal data warehouse processing 2.5 PB of data. Lead technically demanding data modeling work optimized for ClickHouse with 1-hour end-to-end latency requirements across 30+ data sources.
-skills: Python, Airflow, dbt, ClickHouse, SQL, AWS, GitHub Actions, CI/CD
+summary: Build and evolve a high-performance internal data warehouse platform using ClickHouse, dbt, and Airflow, delivering optimized data pipelines and models to support company-wide analytics and decision-making. Optimize and maintain data infrastructure processing 2.5 PB of data with sub-hour latency requirements across 30+ external data sources.
+skills: Python, Airflow, dbt, ClickHouse, SQL, AWS, CI/CD, GitHub Actions
 level: senior
 comp: 
 comp_extras: 
-render_hash: 541c946b
+render_hash: 5698c03b
 -->
 
 # Senior Data Engineer - Python, CI/CD
@@ -24,9 +24,9 @@ AMER · `Senior`
 
 > ClickHouse builds a columnar database management system designed for fast analytical queries on large datasets. The company operates in the data infrastructure domain, providing an open-source database engine optimized for OLAP (online analytical processing) workloads.
 
-_Design and build reusable data pipeline components, ETL abstractions, and DataOps tooling across a high-scale internal data warehouse processing 2.5 PB of data. Lead technically demanding data modeling work optimized for ClickHouse with 1-hour end-to-end latency requirements across 30+ data sources._
+_Build and evolve a high-performance internal data warehouse platform using ClickHouse, dbt, and Airflow, delivering optimized data pipelines and models to support company-wide analytics and decision-making. Optimize and maintain data infrastructure processing 2.5 PB of data with sub-hour latency requirements across 30+ external data sources._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![ClickHouse](https://img.shields.io/badge/ClickHouse-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 

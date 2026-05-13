@@ -9,12 +9,12 @@ hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-13
 url: https://job-boards.greenhouse.io/monzo/jobs/7912647
-summary: Lead a security engineering organization building secure-by-design platform primitives (compute, storage, networking, identity) and eliminating systemic security risks across Monzo's financial infrastructure. Manage high-performing engineering leaders and individual contributors to deliver security tooling and frameworks that enable teams to move at speed without compromising security in a fintech environment handling sensitive financial data.
-skills: Security Architecture, Secure by Design, Platform Security, Identity Systems, Cryptography, Cloud Security, Threat Modeling, Distributed Systems Security
+summary: Lead a security engineering organization building secure-by-design platform primitives (compute, storage, networking, identity) and infrastructure that embed security properties at the architectural level. Direct high-performing security engineers and engineering leaders across a fintech platform handling sensitive financial data at scale, protecting against sophisticated adversaries.
+skills: Secure by Design, Platform Architecture, Distributed Systems, Cloud Infrastructure, Identity Systems, Threat Modeling, Security Tools, Kubernetes
 level: manager
 comp: $170k-$200k
 comp_extras: equity
-render_hash: 52c56a7b
+render_hash: 00417885
 -->
 
 # Engineering Director, Security
@@ -24,9 +24,9 @@ Cardiff, London or Remote (UK) · `Manager` · `Remote` · `$170k-$200k` · `Equ
 
 > Monzo builds a mobile banking app that provides current accounts, debit cards, and financial management tools to consumers in the UK and Europe. They operate in the retail banking and fintech domain, offering services like spending tracking, budgeting, savings features, and international money transfers.
 
-_Lead a security engineering organization building secure-by-design platform primitives (compute, storage, networking, identity) and eliminating systemic security risks across Monzo's financial infrastructure. Manage high-performing engineering leaders and individual contributors to deliver security tooling and frameworks that enable teams to move at speed without compromising security in a fintech environment handling sensitive financial data._
+_Lead a security engineering organization building secure-by-design platform primitives (compute, storage, networking, identity) and infrastructure that embed security properties at the architectural level. Direct high-performing security engineers and engineering leaders across a fintech platform handling sensitive financial data at scale, protecting against sophisticated adversaries._
 
-![Security Architecture](https://img.shields.io/badge/Security_Architecture-3B82F6?style=flat-square) ![Secure by Design](https://img.shields.io/badge/Secure_by_Design-3B82F6?style=flat-square) ![Platform Security](https://img.shields.io/badge/Platform_Security-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square) ![Cloud Security](https://img.shields.io/badge/Cloud_Security-3B82F6?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square) ![Distributed Systems Security](https://img.shields.io/badge/Distributed_Systems_Security-3B82F6?style=flat-square)
+![Secure by Design](https://img.shields.io/badge/Secure_by_Design-3B82F6?style=flat-square) ![Platform Architecture](https://img.shields.io/badge/Platform_Architecture-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square) ![Security Tools](https://img.shields.io/badge/Security_Tools-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>First seen May 13, 2026</sub>
 
