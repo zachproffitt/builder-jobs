@@ -14,7 +14,7 @@ skills: C++, Java, Go, C#, AWS, Azure, Tencent Cloud, Microservices Architecture
 level: senior
 comp: 
 comp_extras: 
-render_hash: b92be06a
+render_hash: f98ec4b5
 -->
 
 # Senior Software Engineer -  Tech Foundations

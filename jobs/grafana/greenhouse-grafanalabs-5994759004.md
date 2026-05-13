@@ -14,7 +14,7 @@ skills: React, TypeScript, Frontend Performance Optimization, Observability/Tele
 level: staff
 comp: 
 comp_extras: 
-render_hash: 59ea59f6
+render_hash: a893ccd8
 -->
 
 # Staff Frontend Engineer - Observability Drilldown | EMEA | Remote

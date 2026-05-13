@@ -14,13 +14,15 @@ skills: Python, Airflow, dbt, ClickHouse, SQL, AWS, GitHub Actions, CI/CD
 level: senior
 comp: 
 comp_extras: 
-render_hash: 19ef6cff
+render_hash: 541c946b
 -->
 
 # Senior Data Engineer - Python, CI/CD
 
 <img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**ClickHouse**  
 AMER · `Senior`
+
+> ClickHouse builds a columnar database management system designed for fast analytical queries on large datasets. The company operates in the data infrastructure domain, providing an open-source database engine optimized for OLAP (online analytical processing) workloads.
 
 _Design and build reusable data pipeline components, ETL abstractions, and DataOps tooling across a high-scale internal data warehouse processing 2.5 PB of data. Lead technically demanding data modeling work optimized for ClickHouse with 1-hour end-to-end latency requirements across 30+ data sources._
 

@@ -14,13 +14,17 @@ skills: BGP, OSPF, IS-IS, Git, Python, Linux, Network Telemetry (sFlow, IPFIX), 
 level: junior
 comp: 
 comp_extras: 
-render_hash: da069b4e
+render_hash: cb3fc1f4
 -->
 
 # Network Engineer I
 
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
 Australia, Adelaide · `Junior`
+
+> # Bend Studio
+
+Bend Studio develops video games, primarily known for the Days Gone franchise, a post-apocalyptic action-adventure series for PlayStation platforms. The studio is based in Bend, Oregon, and operates in the video game development industry.
 
 _Operate and evolve a global backbone network connecting PlayStation data centers, studios, and cloud platforms. Troubleshoot production connectivity issues and contribute to network automation and infrastructure improvements._
 

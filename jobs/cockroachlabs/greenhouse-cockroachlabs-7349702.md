@@ -14,13 +14,15 @@ skills: Kubernetes, AWS, Azure, GCP, Go, Distributed Systems, Infrastructure as 
 level: staff
 comp: 
 comp_extras: 
-render_hash: 72ae638b
+render_hash: e0c1657c
 -->
 
 # Member of Technical Staff (Cloud Platform)
 
 <img src="https://www.google.com/s2/favicons?domain=cockroachlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CockroachLabs**  
 Bangalore, India · `Staff`
+
+> CockroachLabs builds CockroachDB, a distributed SQL database that runs across multiple cloud regions and data centers while maintaining strong consistency guarantees. The company operates in the database infrastructure and cloud data management domain.
 
 _Design, build, and maintain cloud platform infrastructure and systems for CockroachDB Cloud across multiple cloud providers, including cluster management, deployment automation, and production reliability tooling. You'll work on mission-critical distributed infrastructure operating at global scale across AWS, Azure, and GCP._
 

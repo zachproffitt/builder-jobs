@@ -14,7 +14,7 @@ skills: React, TypeScript, Grafana, Frontend Performance Optimization, User Expe
 level: staff
 comp: 
 comp_extras: 
-render_hash: 659fce91
+render_hash: 7d967c1e
 -->
 
 # Staff Frontend Engineer - Observability Drilldown | EMEA | Remote

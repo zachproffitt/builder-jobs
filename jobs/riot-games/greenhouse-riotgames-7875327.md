@@ -14,7 +14,7 @@ skills: Python, 3D Tools, Character Pipeline Architecture, Substance, ZBrush, Ma
 level: senior
 comp: 
 comp_extras: 
-render_hash: 80d8a2a4
+render_hash: c98859d6
 -->
 
 # Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech

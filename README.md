@@ -31,7 +31,7 @@ _Design and implement test automation frameworks, custom software utilities, and
 ---
 
 ### [Electrical Test Hardware Development Engineer](jobs/astranis/greenhouse-astranis-4681218006.md)
-<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis** · San Francisco, California · `Mid` · `equity`
+<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis** · San Francisco, California · `Mid` · `Equity`
 
 _Build automated test hardware and control software in Python to validate satellite avionics and flight systems. Work in a mission-critical domain (space/defense) where test infrastructure directly enables satellite launches supporting government and military customers._
 
@@ -40,7 +40,7 @@ _Build automated test hardware and control software in Python to validate satell
 ---
 
 ### [Electronics Test Engineer](jobs/astranis/greenhouse-astranis-4681219006.md)
-<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis** · San Francisco, California · `Junior` · `equity`
+<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis** · San Francisco, California · `Junior` · `Equity`
 
 _Develop automated hardware and software test systems to validate custom spacecraft electronics across environmental conditions. Work on mission-critical satellite systems for defense and government customers requiring highest reliability standards._
 
@@ -157,7 +157,7 @@ _Build the Android Maps SDK — a public library powering mobile maps across Flu
 ---
 
 ### [Engineering Director, Security](jobs/monzo/greenhouse-monzo-7912647.md)
-<img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo** · Cardiff, London or Remote (UK) · `Manager` · `Remote` · `$170k-$200k` · `equity`
+<img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo** · Cardiff, London or Remote (UK) · `Manager` · `Remote` · `$170k-$200k` · `Equity`
 
 _Lead a security engineering organization building secure-by-design platform primitives (compute, storage, networking, identity) and eliminating systemic security risks across Monzo's financial infrastructure. Manage high-performing engineering leaders and individual contributors to deliver security tooling and frameworks that enable teams to move at speed without compromising security in a fintech environment handling sensitive financial data._
 

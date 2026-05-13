@@ -14,13 +14,15 @@ skills: Kotlin, Java, Android, SDK Development, Navigation Systems, Cross-Platfo
 level: senior
 comp: 
 comp_extras: 
-render_hash: 579d153b
+render_hash: 957385bf
 -->
 
 # Software Development Engineer III, Android, Maps SDK
 
 <img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox**  
 Mapbox Helsinki · `Senior` · `Remote`
+
+> Mapbox builds mapping and location APIs, SDKs, and developer tools that enable applications to display custom maps, perform geocoding and routing, and analyze geospatial data. They operate in the geospatial technology and mapping services domain, serving developers who need to integrate location features into mobile and web applications.
 
 _Build the Android Maps SDK — a public library powering mobile maps across Flutter, Android, iOS, and embedded devices. Design expressive APIs and optimize cross-platform performance for apps, games, and navigation experiences at scale._
 

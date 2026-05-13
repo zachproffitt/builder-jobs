@@ -14,7 +14,7 @@ skills: Rust, TypeScript, Deno, V8 Isolates, Kubernetes, AWS, PostgreSQL, OpenTe
 level: senior
 comp: 
 comp_extras: 
-render_hash: 55bbe1e3
+render_hash: adba694d
 -->
 
 # Edge Functions Engineer

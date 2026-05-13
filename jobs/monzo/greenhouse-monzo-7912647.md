@@ -14,13 +14,15 @@ skills: Security Architecture, Secure by Design, Platform Security, Identity Sys
 level: manager
 comp: $170k-$200k
 comp_extras: equity
-render_hash: d885d06f
+render_hash: 52c56a7b
 -->
 
 # Engineering Director, Security
 
 <img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo**  
-Cardiff, London or Remote (UK) · `Manager` · `Remote` · `$170k-$200k` · `equity`
+Cardiff, London or Remote (UK) · `Manager` · `Remote` · `$170k-$200k` · `Equity`
+
+> Monzo builds a mobile banking app that provides current accounts, debit cards, and financial management tools to consumers in the UK and Europe. They operate in the retail banking and fintech domain, offering services like spending tracking, budgeting, savings features, and international money transfers.
 
 _Lead a security engineering organization building secure-by-design platform primitives (compute, storage, networking, identity) and eliminating systemic security risks across Monzo's financial infrastructure. Manage high-performing engineering leaders and individual contributors to deliver security tooling and frameworks that enable teams to move at speed without compromising security in a fintech environment handling sensitive financial data._
 

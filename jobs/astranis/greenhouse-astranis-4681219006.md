@@ -14,13 +14,13 @@ skills: Python, Oscilloscope, Multimeter, Power Electronics, PCBA Design, Altium
 level: junior
 comp: 
 comp_extras: equity
-render_hash: 9b5a8b55
+render_hash: 2a896289
 -->
 
 # Electronics Test Engineer
 
 <img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis**  
-San Francisco, California · `Junior` · `equity`
+San Francisco, California · `Junior` · `Equity`
 
 > Astranis designs, builds, and operates high-orbit satellites.
 

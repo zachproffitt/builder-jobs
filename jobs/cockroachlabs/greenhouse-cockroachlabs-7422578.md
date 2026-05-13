@@ -14,13 +14,15 @@ skills: Go, C++, Rust, PostgreSQL, Vector Indexing, Query Optimization, Distribu
 level: senior
 comp: 
 comp_extras: 
-render_hash: 001243cc
+render_hash: bc2136e5
 -->
 
 # Member of Technical Staff (Senior - Specialized Indexing)
 
 <img src="https://www.google.com/s2/favicons?domain=cockroachlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CockroachLabs**  
 Bangalore, India · `Senior`
+
+> CockroachLabs builds CockroachDB, a distributed SQL database that runs across multiple cloud regions and data centers while maintaining strong consistency guarantees. The company operates in the database infrastructure and cloud data management domain.
 
 _Design and build specialized indexing systems (vector, full-text, geospatial) for CockroachDB's distributed SQL engine. Work on high-performance systems supporting AI-native and hybrid search workloads at scale in a mature distributed database._
 

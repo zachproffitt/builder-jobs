@@ -14,7 +14,7 @@ skills: C++, Backend API Development, Distributed Systems, Google Cloud Platform
 level: mid
 comp: 
 comp_extras: 
-render_hash: 00172256
+render_hash: 08191a55
 -->
 
 # Software Engineer, Trip Platform

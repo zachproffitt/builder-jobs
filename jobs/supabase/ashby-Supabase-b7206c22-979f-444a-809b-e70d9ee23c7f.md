@@ -14,7 +14,7 @@ skills: Go, Terraform, PostgreSQL, TypeScript, GitHub, CI/CD, Schema Design, Tes
 level: senior
 comp: 
 comp_extras: 
-render_hash: 98a76d6f
+render_hash: e1646da4
 -->
 
 # Software Engineer: IaC Platform Experience
