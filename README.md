@@ -4,7 +4,9 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors. [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### 97 open roles (28 new today) &nbsp;·&nbsp; 731 companies searched
+### **97 open roles** (28 new today) &nbsp;·&nbsp; 799 companies searched
+
+[Remote only →](REMOTE.md)
 
 <sub>Last updated May 14, 2026 at 13:26 UTC</sub>
 
