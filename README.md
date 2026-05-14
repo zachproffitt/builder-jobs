@@ -4,15 +4,26 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **133 open roles** (64 new today) &nbsp;·&nbsp; 817 companies searched
+### **134 open roles** (65 new today) &nbsp;·&nbsp; 817 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 17:12 UTC</sub>
+<sub>Last updated May 14, 2026 at 17:45 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Engineering Manager, Experimentation Infrastructure](jobs/airbnb/engineering-manager-experimentation-infrastructure-7707946.md)
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · United States · `Manager` · `$204k-$255k` · `Bonus` · `Equity`
+
+_Lead the Experimentation Infrastructure team in building and scaling Airbnb's next-generation experimentation platform, including feature flagging clients, adaptive experimentation methodology, and flag change ramping systems. You'll own technical strategy and direction for a platform that enables data-driven decision-making across the company at scale._
+
+![Feature Flagging](https://img.shields.io/badge/Feature_Flagging-3B82F6?style=flat-square) ![Experimentation Platforms](https://img.shields.io/badge/Experimentation_Platforms-3B82F6?style=flat-square) ![Data Infrastructure](https://img.shields.io/badge/Data_Infrastructure-3B82F6?style=flat-square) ![Systems Design](https://img.shields.io/badge/Systems_Design-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 17:45 UTC</sub>
+
+---
 
 ### [GNC Engineer](jobs/anduril-industries/gnc-engineer-4632178007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Mid` · `$138k-$207k` · `Equity`
