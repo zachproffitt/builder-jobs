@@ -4,13 +4,101 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 86 open roles (17 new today) &nbsp;·&nbsp; 731 companies searched
+### 94 open roles (25 new today) &nbsp;·&nbsp; 731 companies searched
 
-<sub>Last updated May 14, 2026 at 11:42 UTC</sub>
+<sub>Last updated May 14, 2026 at 12:58 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Copy of Staff Software Engineer - Grafana Cloud k6 | UK | Remote](jobs/grafana/copy-of-staff-software-engineer-grafana-cloud-k6-uk-remote-5996124004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United Kingdom · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `£103k-£124k` · `Equity` · `Bonus`
+
+_Build and operate Grafana Cloud k6, a distributed performance testing platform that runs load tests at scale from 15+ regions worldwide, ingesting and analyzing millions of requests per second. Establish and scale DevOps/SRE practices across teams while guiding architectural decisions for large-scale distributed cloud systems._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![SRE/DevOps Practices](https://img.shields.io/badge/SRE%2FDevOps_Practices-3B82F6?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Grafana Cloud k6 | Germany | Remote](jobs/grafana/staff-software-engineer-grafana-cloud-k6-germany-remote-5996123004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Germany · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `€109k-€131k` · `Equity` · `Bonus`
+
+_Build and operate Grafana Cloud k6, a distributed performance testing platform that scales to hundreds of thousands of virtual users across 15+ regions worldwide. Design and implement DevOps/SRE practices, reliability frameworks, and large-scale cloud infrastructure while establishing engineering excellence standards across teams._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-3B82F6?style=flat-square) ![SLIs/SLOs](https://img.shields.io/badge/SLIs%2FSLOs-3B82F6?style=flat-square) ![Performance Testing](https://img.shields.io/badge/Performance_Testing-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Grafana Cloud k6 | Ireland | Remote](jobs/grafana/staff-software-engineer-grafana-cloud-k6-ireland-remote-5996122004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Republic of Ireland · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `€117k-€141k` · `Equity` · `Bonus`
+
+_Build and operate Grafana Cloud k6, a distributed performance testing platform handling millions of requests per second across 15+ regions, while establishing DevOps/SRE practices and reliability engineering standards across engineering teams. Scale large distributed cloud systems and drive architectural decisions for a product used by thousands of enterprises including Bloomberg, JPMorgan Chase, and eBay._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![SRE/DevOps practices](https://img.shields.io/badge/SRE%2FDevOps_practices-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Grafana Cloud k6 | Spain | Remote](jobs/grafana/staff-software-engineer-grafana-cloud-k6-spain-remote-5996121004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Spain · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `€94k-€112k` · `Equity` · `Bonus`
+
+_Build and operate Grafana Cloud k6, a distributed performance testing platform that scales to hundreds of thousands of virtual users across 15+ regions worldwide. Establish SRE/DevOps practices, reliability frameworks, and operational excellence standards across teams managing large-scale cloud infrastructure._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Incident Management](https://img.shields.io/badge/Incident_Management-3B82F6?style=flat-square) ![SLOs/SLIs](https://img.shields.io/badge/SLOs%2FSLIs-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
+
+### [Staff / Principal Software Engineer, Platform](jobs/lovable/staff-principal-software-engineer-platform-dc19c01d-a6d5-4fbd-bba6-47efa01a8dce.md)
+<img src="https://www.google.com/s2/favicons?domain=lovable.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lovable** · Stockholm · `Staff`
+
+_Design and build core platform infrastructure including gVisor-based runtime systems, sandbox schedulers, and observability stacks that power Lovable's AI product. Operate at scale across multiple cloud providers with responsibility for hardening systems against failure and eliminating infrastructure bottlenecks for a rapidly growing engineering organization._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![gVisor](https://img.shields.io/badge/gVisor-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Clickhouse](https://img.shields.io/badge/Clickhouse-3B82F6?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
+
+### [Staff / Principal Software Engineer, Product](jobs/lovable/staff-principal-software-engineer-product-45db5790-4305-4fad-b96b-1fbdf42b88f2.md)
+<img src="https://www.google.com/s2/favicons?domain=lovable.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lovable** · Stockholm · `Staff`
+
+_Build and scale the core systems powering Lovable's AI-driven software creation platform, handling full-stack development across frontend, backend, and infrastructure serving millions of users. You'll own systems end-to-end from architecture through production, collaborating with ML and design teams to translate capabilities into user-facing features._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
+
+### [Staff / Principal Software Engineer, Security](jobs/lovable/staff-principal-software-engineer-security-0cafed78-f2d9-4f75-9f3b-6cd6f190312c.md)
+<img src="https://www.google.com/s2/favicons?domain=lovable.dev&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lovable** · Stockholm · `Principal`
+
+_Build end-to-end security product features including audit flows, compliance tooling, and static analysis systems integrated with AI/LLM capabilities. Ship across the full stack (React/TypeScript frontend, Golang backend) as part of a small self-sufficient team, with influence over technical direction and security strategy for an AI-powered software platform used hundreds of millions of times monthly._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![Static Analysis (SAST)](https://img.shields.io/badge/Static_Analysis_%28SAST%29-3B82F6?style=flat-square) ![Audit & Compliance Systems](https://img.shields.io/badge/Audit_&_Compliance_Systems-3B82F6?style=flat-square) ![AI/LLM Integration](https://img.shields.io/badge/AI%2FLLM_Integration-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
+
+### [Software Engineer, Java](jobs/rockstar-games/software-engineer-java-7734376003.md)
+<img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rockstar Games** · Dundee, Scotland, United Kingdom · `Mid`
+
+_Design and implement backend software tools for game development studios, including task management systems, defect trackers with console integration, distributed video recording, and analytics applications. Work at scale supporting worldwide game development teams across multiple large-scale creative projects._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3B82F6?style=flat-square) ![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-3B82F6?style=flat-square) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 12:58 UTC</sub>
+
+---
 
 ### [Senior Firmware Engineer](jobs/spire-global/senior-firmware-engineer-7317124.md)
 <img src="https://www.google.com/s2/favicons?domain=spire.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Spire Global** · Glasgow · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
