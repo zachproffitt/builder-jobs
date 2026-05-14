@@ -4,15 +4,125 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **115 open roles** (46 new today) &nbsp;·&nbsp; 817 companies searched
+### **127 open roles** (58 new today) &nbsp;·&nbsp; 817 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 15:47 UTC</sub>
+<sub>Last updated May 14, 2026 at 16:52 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Senior Software Engineer, Data Authoring Platform](jobs/airbnb/senior-software-engineer-data-authoring-platform-7094964.md)
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · Remote USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$196k–$230k` · `Equity` · `Bonus`
+
+_Build and extend Airbnb's semantic layer and data transformation platform that serves 4,000+ internal data producers and consumers. Work on query rewriting services, data abstraction layers, and infrastructure that democratizes access to high-quality data models and metrics across the company._
+
+![Data warehouse technologies](https://img.shields.io/badge/Data_warehouse_technologies-3B82F6?style=flat-square) ![DSL/API design](https://img.shields.io/badge/DSL%2FAPI_design-3B82F6?style=flat-square) ![Query rewriting](https://img.shields.io/badge/Query_rewriting-3B82F6?style=flat-square) ![Semantic layers](https://img.shields.io/badge/Semantic_layers-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Distributed systems](https://img.shields.io/badge/Distributed_systems-3B82F6?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Product Engineer](jobs/cosine/product-engineer-1c4aef01-61ee-40ba-b919-f77a244b3847.md)
+<img src="https://www.google.com/s2/favicons?domain=www.cosine.sh&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cosine** · London Office · `Senior` · `£70k-£90k` · `Equity`
+
+_Build IDE extensions and web applications that expose Cosine's autonomous AI coding models through intuitive developer interfaces and workflows. Work at the intersection of product, platform, and research to translate emerging model capabilities into production-grade developer tools, with emphasis on performance, reliability, and rapid iteration._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Senior Cloud Database Engineer](jobs/marqeta/senior-cloud-database-engineer-7891942.md)
+<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$144k-$180k` · `Bonus` · `Equity`
+
+_Build and maintain highly available distributed database infrastructure powering Marqeta's card issuing platform, which processes over 5 billion transactions annually across multiple regions globally. Automate AWS Aurora lifecycle management, design disaster recovery solutions, and drive database architecture evolution including partitioning and sharding strategies._
+
+![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Security Engineer](jobs/mysten-labs/security-engineer-c5f1f701-0cee-46f1-8eaa-59952a71a42f.md)
+<img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mysten Labs** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
+
+_Build and maintain custody systems, key management infrastructure, and anti-scam tooling for the Sui blockchain. Harden signing paths, conduct security reviews of cryptographic and access control systems, and investigate security incidents in a high-stakes production environment._
+
+![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Move](https://img.shields.io/badge/Move-3B82F6?style=flat-square) ![Key Management Systems](https://img.shields.io/badge/Key_Management_Systems-3B82F6?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square) ![HSM](https://img.shields.io/badge/HSM-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Senior Data Engineer, Core Experimentation](jobs/openai/senior-data-engineer-core-experimentation-2796d32a-9f7c-4008-a2c5-50dd53b0f2fe.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · Seattle · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
+
+_Design and build data pipelines and canonical datasets powering OpenAI's experimentation platform, data warehouse, and product analytics at massive scale. Work with infrastructure, research, and product teams to enable trustworthy, statistically rigorous experimentation across frontier AI products._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![AWS (S3)](https://img.shields.io/badge/AWS_%28S3%29-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Design Engineer](jobs/retell-ai/design-engineer-ai-42680778-ec20-4fb0-9057-3b1f35128a64.md)
+<img src="https://www.google.com/s2/favicons?domain=retellai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Retell AI** · San Francisco Bay Area · `Senior` · `$180k-$300k` · `Equity`
+
+_Build and maintain Retell's design system including component library, Storybook, and design tokens, translating Figma designs into production-grade React components with pixel-level accuracy. Work AI-first using Cursor and Claude Code, own design-code parity across the dashboard and core product surfaces, and collaborate with product designers and engineers to raise visual quality at a fast-growing voice AI startup._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![Storybook](https://img.shields.io/badge/Storybook-3B82F6?style=flat-square) ![Design Systems](https://img.shields.io/badge/Design_Systems-3B82F6?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Client Engineer - Star Trek Fleet Command](jobs/scopely/client-engineer-star-trek-fleet-command-5215599008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · IE - Dublin, Ireland; IE - Ireland · `Mid`
+
+_Build and maintain core client systems for a large-scale 4X Strategy MMO in Unity, including asset loading, UI frameworks, performance monitoring, and platform integration across mobile and PC. Work on systems at massive scale supporting millions of daily players, with focus on performance optimization, memory management, and cross-platform stability._
+
+![Unity](https://img.shields.io/badge/Unity-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![AssetBundles](https://img.shields.io/badge/AssetBundles-3B82F6?style=flat-square) ![Memory Management](https://img.shields.io/badge/Memory_Management-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Sr. Software Engineer](jobs/singlestore/sr-software-engineer-7868658.md)
+<img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SingleStore** · United States · `Senior` · `Bonus`
+
+_Design and implement core distributed systems for SingleStore's cloud-native database platform, with focus on billing systems, control plane, and managed service infrastructure. Lead large release-defining projects in a system-level role requiring deep expertise in distributed systems and production reliability at scale._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cloud-Native Architecture](https://img.shields.io/badge/Cloud--Native_Architecture-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Billing Systems](https://img.shields.io/badge/Billing_Systems-3B82F6?style=flat-square) ![PostgreSQL or similar database internals](https://img.shields.io/badge/PostgreSQL_or_similar_database_internals-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Software Engineer (I-II), Prototype](jobs/true-anomaly/software-engineer-i-ii-prototype-5137655007.md)
+<img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle">&ensp;**True Anomaly** · Denver, CO · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$70k-$130k` · `Equity`
+
+_Build rapid prototypes and automated workflows that transform business questions into working applications, integrating corporate APIs, databases, and data sources for executive decision-making. Work in space technology domain subject to ITAR export controls requiring U.S. citizenship or equivalent authorization._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![NoSQL](https://img.shields.io/badge/NoSQL-3B82F6?style=flat-square) ![ETL/Data Pipelines](https://img.shields.io/badge/ETL%2FData_Pipelines-3B82F6?style=flat-square) ![AI-assisted Development Tools](https://img.shields.io/badge/AI--assisted_Development_Tools-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Infrastructure & DevOps Engineer (Technical Marketing)](jobs/vectra-ai/infrastructure-devops-engineer-technical-marketing-6889453.md)
+<img src="https://www.google.com/s2/favicons?domain=vectra.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Vectra AI** · Bengaluru, Karnataka, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `Equity`
+
+_Design, deploy, and maintain demo and sandbox environments across on-premises and cloud infrastructure that support internal testing, partner enablement, and customer demonstrations. Manage Linux, Windows, and VMware systems alongside AWS and Azure resources while building automation for environment lifecycle management._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
 
 ### [Manager, Cyber Threat Intelligence](jobs/anduril-industries/manager-cyber-threat-intelligence-5137718007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
@@ -509,12 +619,34 @@ _Design, deploy, and maintain high-performance networks across multiple data cen
 
 ---
 
+### [Security Engineer (Product)](jobs/coder/security-engineer-product-b608ce17-2f96-46cb-8a40-90463c5f1ad7.md)
+<img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
+
+_Build secure-by-default patterns, tooling, and CI/CD workflows to embed security into the software development lifecycle. Partner with engineering teams to turn security findings into fixes and make threat modeling and secure design reviews repeatable for developers._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![SAST](https://img.shields.io/badge/SAST-3B82F6?style=flat-square) ![SCA](https://img.shields.io/badge/SCA-3B82F6?style=flat-square) ![Dependency Scanning](https://img.shields.io/badge/Dependency_Scanning-3B82F6?style=flat-square) ![Secret Scanning](https://img.shields.io/badge/Secret_Scanning-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
 ### [Associate Director/Director of Statistical Programming](jobs/exscientia/associate-director-director-of-statistical-programming-7923391.md)
 <img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Exscientia** · Remote Opportunity - United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$200k-$260k` · `Bonus` · `Equity`
 
 _Lead statistical programming infrastructure and quality assurance for clinical drug development programs, overseeing analysis datasets, tables, figures, and exploratory analyses. Build and maintain analytics tools and open-source R packages for clinical data monitoring, cleaning, and knowledge discovery in a regulated pharmaceutical environment._
 
 ![SAS](https://img.shields.io/badge/SAS-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![R-Shiny](https://img.shields.io/badge/R--Shiny-3B82F6?style=flat-square) ![CDISC](https://img.shields.io/badge/CDISC-3B82F6?style=flat-square) ![SDTM](https://img.shields.io/badge/SDTM-3B82F6?style=flat-square) ![ADaM](https://img.shields.io/badge/ADaM-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Regulatory Compliance](https://img.shields.io/badge/Regulatory_Compliance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Senior Engineer III, Small Molecules – High Throughput Screening & Technology](jobs/joyn-bio/senior-engineer-iii-small-molecules-high-throughput-screening-technology-5137770007.md)
+<img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle">&ensp;**Joyn Bio** · Boston, Massachusetts · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$180k` · `Equity`
+
+_Design and operate high-throughput screening workflows for small-molecule and functional genomics assays, including HTS workcells, Drug-Seq, and imaging/viability platforms. Lead a technical team across multiple concurrent programs while driving operational excellence, assay optimization, and automation improvements on internal robotic systems._
+
+![High-Throughput Screening](https://img.shields.io/badge/High--Throughput_Screening-3B82F6?style=flat-square) ![Drug-Seq](https://img.shields.io/badge/Drug--Seq-3B82F6?style=flat-square) ![NGS](https://img.shields.io/badge/NGS-3B82F6?style=flat-square) ![CRISPR](https://img.shields.io/badge/CRISPR-3B82F6?style=flat-square) ![Experimental Design](https://img.shields.io/badge/Experimental_Design-3B82F6?style=flat-square) ![LIMS](https://img.shields.io/badge/LIMS-3B82F6?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-3B82F6?style=flat-square) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 

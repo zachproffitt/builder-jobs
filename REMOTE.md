@@ -4,13 +4,57 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **42 open roles** (15 new today)
+### **47 open roles** (20 new today)
 
-<sub>Last updated May 14, 2026 at 15:47 UTC</sub>
+<sub>Last updated May 14, 2026 at 16:52 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Senior Software Engineer, Data Authoring Platform](jobs/airbnb/senior-software-engineer-data-authoring-platform-7094964.md)
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · Remote USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$196k–$230k` · `Equity` · `Bonus`
+
+_Build and extend Airbnb's semantic layer and data transformation platform that serves 4,000+ internal data producers and consumers. Work on query rewriting services, data abstraction layers, and infrastructure that democratizes access to high-quality data models and metrics across the company._
+
+![Data warehouse technologies](https://img.shields.io/badge/Data_warehouse_technologies-3B82F6?style=flat-square) ![DSL/API design](https://img.shields.io/badge/DSL%2FAPI_design-3B82F6?style=flat-square) ![Query rewriting](https://img.shields.io/badge/Query_rewriting-3B82F6?style=flat-square) ![Semantic layers](https://img.shields.io/badge/Semantic_layers-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Distributed systems](https://img.shields.io/badge/Distributed_systems-3B82F6?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Senior Cloud Database Engineer](jobs/marqeta/senior-cloud-database-engineer-7891942.md)
+<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$144k-$180k` · `Bonus` · `Equity`
+
+_Build and maintain highly available distributed database infrastructure powering Marqeta's card issuing platform, which processes over 5 billion transactions annually across multiple regions globally. Automate AWS Aurora lifecycle management, design disaster recovery solutions, and drive database architecture evolution including partitioning and sharding strategies._
+
+![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Security Engineer](jobs/mysten-labs/security-engineer-c5f1f701-0cee-46f1-8eaa-59952a71a42f.md)
+<img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mysten Labs** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
+
+_Build and maintain custody systems, key management infrastructure, and anti-scam tooling for the Sui blockchain. Harden signing paths, conduct security reviews of cryptographic and access control systems, and investigate security incidents in a high-stakes production environment._
+
+![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Move](https://img.shields.io/badge/Move-3B82F6?style=flat-square) ![Key Management Systems](https://img.shields.io/badge/Key_Management_Systems-3B82F6?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square) ![HSM](https://img.shields.io/badge/HSM-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
+
+### [Senior Data Engineer, Core Experimentation](jobs/openai/senior-data-engineer-core-experimentation-2796d32a-9f7c-4008-a2c5-50dd53b0f2fe.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · Seattle · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
+
+_Design and build data pipelines and canonical datasets powering OpenAI's experimentation platform, data warehouse, and product analytics at massive scale. Work with infrastructure, research, and product teams to enable trustworthy, statistically rigorous experimentation across frontier AI products._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![AWS (S3)](https://img.shields.io/badge/AWS_%28S3%29-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 16:52 UTC</sub>
+
+---
 
 ### [Manager, Cyber Threat Intelligence](jobs/anduril-industries/manager-cyber-threat-intelligence-5137718007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
@@ -161,6 +205,17 @@ _Build and operate Grafana Cloud k6, a distributed performance testing platform 
 _Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Security Engineer (Product)](jobs/coder/security-engineer-product-b608ce17-2f96-46cb-8a40-90463c5f1ad7.md)
+<img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
+
+_Build secure-by-default patterns, tooling, and CI/CD workflows to embed security into the software development lifecycle. Partner with engineering teams to turn security findings into fixes and make threat modeling and secure design reviews repeatable for developers._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![SAST](https://img.shields.io/badge/SAST-3B82F6?style=flat-square) ![SCA](https://img.shields.io/badge/SCA-3B82F6?style=flat-square) ![Dependency Scanning](https://img.shields.io/badge/Dependency_Scanning-3B82F6?style=flat-square) ![Secret Scanning](https://img.shields.io/badge/Secret_Scanning-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
