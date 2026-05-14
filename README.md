@@ -4,13 +4,24 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 85 open roles (16 new today) &nbsp;·&nbsp; 731 companies searched
+### 86 open roles (17 new today) &nbsp;·&nbsp; 731 companies searched
 
-<sub>Last updated May 14, 2026 at 10:56 UTC</sub>
+<sub>Last updated May 14, 2026 at 11:42 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Senior Firmware Engineer](jobs/spire-global/senior-firmware-engineer-7317124.md)
+<img src="https://www.google.com/s2/favicons?domain=spire.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Spire Global** · Glasgow · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Design, implement, and maintain embedded firmware for satellite systems operating in a fast-paced, weeks-to-months development cycle. Work on real-time systems requiring debugging and optimization for remote on-orbit resolution without standard debugging access._
+
+![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-3B82F6?style=flat-square) ![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![GDB](https://img.shields.io/badge/GDB-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 11:42 UTC</sub>
+
+---
 
 ### [Senior Product Engineer - Pricing & Packaging](jobs/intercom/senior-product-engineer-pricing-packaging-7925313.md)
 <img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom** · Dublin, Ireland · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
