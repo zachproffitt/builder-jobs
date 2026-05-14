@@ -1,7 +1,7 @@
 <!--
 id: greenhouse-clickhouse-5993847004
 company: ClickHouse
-title: Senior Data Engineer - Python, CI/CD
+title: Senior Data Engineer - Dbt, CI/CD
 source: greenhouse
 location: AMER
 remote: Not specified
@@ -15,10 +15,10 @@ skills: Python, Airflow, dbt, SQL, ClickHouse, GitHub Actions, AWS, Incremental 
 level: senior
 comp: $84k-$170k
 comp_extras: equity
-render_hash: 1e01c7cb
+render_hash: 76b8432a
 -->
 
-# Senior Data Engineer - Python, CI/CD
+# Senior Data Engineer - Dbt, CI/CD
 
 <img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**ClickHouse**  
 AMER · `Senior` · `$84k-$170k` · `Equity`
