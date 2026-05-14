@@ -1,35 +1,35 @@
 <!--
 id: greenhouse-anthropic-5170073008
 company: Anthropic
-title: Network Engineer
+title: Staff Network Engineer
 source: greenhouse
 location: Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY
 remote: Remote
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T00:21:02+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/anthropic/jobs/5170073008
-summary: Build and operate production networking infrastructure across multiple data centers, including physical network design, routing protocols, and security. Develop network automation and tooling while scaling infrastructure for AI workloads at massive scale.
-skills: Python, Go, Linux, BGP, OSPF, Kubernetes, AWS, Terraform
-level: senior
-comp: $320k-$405k
+summary: Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers.
+skills: Python, Go, BGP, Kubernetes, AWS, GCP, Azure, Linux
+level: staff
+comp: $320,000—$405,000
 comp_extras: equity
-render_hash: 9689cc0a
+render_hash: 1a2fe6b3
 -->
 
-# Network Engineer
+# Staff Network Engineer
 
 <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic**  
-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY · `Senior` · `Remote` · `$320k-$405k` · `Equity`
+(Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY · `Staff` · `Remote` · `$320,000—$405,000` · `Equity`
 
 > Anthropic builds AI systems focused on safety, interpretability, and steerability for research.
 
-_Build and operate production networking infrastructure across multiple data centers, including physical network design, routing protocols, and security. Develop network automation and tooling while scaling infrastructure for AI workloads at massive scale._
+_Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
 
-<sub>First seen May 14, 2026 at 00:21 UTC</sub>
+<sub>First seen May 14, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/anthropic/jobs/5170073008)**
 
@@ -39,51 +39,43 @@ About Anthropic
 
 Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
 
-About Anthropic
+About the role
 
-Anthropic is an AI safety company working to build reliable, interpretable, and steerable AI systems. Our first product, Claude, is an AI assistant built on our research into training honest, harmless AI systems. We're rapidly scaling our infrastructure to support state-of-the-art AI research and deployment.
+We're looking for network engineers who are also skilled software developers to help build and scale the networking infrastructure that powers Claude and our AI research. This is a hands-on role spanning everything from physical network builds to software-defined networking, from extending connectivity to new data center sites to building robust monitoring and automation systems.
 
-About the Role
+You'll be joining a small, growing team working on mission-critical infrastructure for one of the most consequential AI systems in the world. The role calls for genuine technical depth in networking and the flexibility to solve problems across the stack—from configuring routers to writing automation, from troubleshooting physical connectivity to designing scalable architectures.
 
-We're looking for experienced network engineers who are also skilled software developers to help build and scale the networking infrastructure that powers Claude and our AI research. This is a hands-on role where you'll work on everything from physical network builds to software-defined networking, from extending connectivity to new data center sites to building robust monitoring and automation systems. The bytes must flow!
+Key responsibilities
 
-You'll be joining a small, growing team working on mission-critical infrastructure for one of the most exciting AI systems in the world. This role requires both technical depth in networking and the flexibility to solve problems across the stack—from configuring routers to writing automation, from troubleshooting physical connectivity to designing scalable network architectures.
+Design, deploy, and maintain high-performance networks across multiple data center sites, including managing physical infrastructure, routing protocols, and network security
 
-Key Responsibilities
+Write software to automate network provisioning, configuration management, and operational workflows
 
-Build and operate production networks: Design, deploy, and maintain high-performance networks across multiple data center sites, including managing physical infrastructure, routing protocols, and network security
+Implement comprehensive monitoring, build debugging tools, investigate outages, and drive continuous reliability improvements
 
-Develop network automation and tooling: Write software to automate network provisioning, configuration management, and operational workflows
+Plan and execute network expansions to new sites and facilities, including working with vendors, managing physical builds, and migrating live traffic
 
-Ensure reliability and performance: Implement comprehensive monitoring, build debugging tools, investigate outages, and drive continuous reliability improvements
+Partner with compute, storage, and ML infrastructure teams to optimize network performance for AI workloads and troubleshoot complex distributed systems issues
 
-Scale networking infrastructure: Plan and execute network expansions to new sites and facilities, including working with vendors, managing physical builds, and migrating live traffic
+Participate in on-call rotation and lead response to network-related incidents
 
-Collaborate cross-functionally: Partner with compute, storage, and ML infrastructure teams to optimize network performance for AI workloads and troubleshoot complex distributed systems issues
+Minimum qualifications
 
-Incident response: Participate in on-call rotation and lead response to network-related incidents
-
-About You
-
-We're looking for engineers who think of themselves as problem-solvers first, who happen to have deep networking expertise. The ideal candidate has:
-
-Required:
-
-5+ years of experience in network engineering, with hands-on experience building and operating production networks
-
-Strong software development skills (Python, Go, or similar) and experience building network automation, tooling, or infrastructure software
+Strong software development skills in Python, Go, or similar languages, with experience building network automation, tooling, or infrastructure software
 
 Deep understanding of networking fundamentals: TCP/IP, BGP, ISIS, OSPF, VLANs, VPCs, routing, switching, and network security
 
-Experience with the full stack of networking—from physical layer concerns (cabling, optics, hardware) through software-defined networking
+Hands-on experience building and operating production networks end-to-end—from physical layer (cabling, optics, hardware) through software-defined networking
 
 Comfort working with Linux, command-line tools, and infrastructure-as-code approaches
 
 Track record of debugging complex distributed systems issues that span network, compute, and application layers
 
-Strong communication skills and ability to work collaboratively with diverse teams
+Strong communication skills and ability to collaborate across teams
 
-Preferred:
+Preferred qualifications
+
+8+ years of experience in network engineering, with hands-on experience building and operating production networks
 
 Experience scaling networks in cloud environments (AWS, GCP, Azure) and/or on-premises data centers
 
@@ -91,21 +83,11 @@ Background in DevOps/SRE practices including monitoring, observability, and reli
 
 Experience with Kubernetes networking, container orchestration, or service mesh technologies
 
-Prior work at startups, small ISPs, or environments requiring broad technical responsibilities
-
 Familiarity with AI/ML infrastructure and the unique networking requirements of large-scale training clusters
 
-What makes a great fit:
+Prior experience in environments requiring broad technical ownership—startups, small ISPs, or similar contexts where wearing multiple hats was the norm
 
-Generalist mindset: You've done more than just networking—maybe you've built web applications, worked with embedded systems, or worn multiple hats in smaller organizations
-
-End-to-end problem solver: You don't just file tickets; you chase down issues across organizational boundaries and get to root causes
-
-Builder mentality: You're comfortable working in environments where you sometimes need to invent the solution because best practices don't exist yet
-
-High adaptability: You thrive in evolving environments with unique challenges and can collaborate effectively with strong, opinionated technical personalities
-
-Pragmatic technologist: You balance technical excellence with practical constraints, knowing when to build custom solutions versus leveraging existing tools
+Generalist background beyond networking (web applications, embedded systems, systems programming, etc.) that reflects comfort operating across the stack
 
 The annual compensation range for this role is listed below.&nbsp;
 

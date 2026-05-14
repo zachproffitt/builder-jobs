@@ -4,13 +4,46 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **39 open roles** (12 new today)
+### **42 open roles** (15 new today)
 
-<sub>Last updated May 14, 2026 at 14:48 UTC</sub>
+<sub>Last updated May 14, 2026 at 15:47 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Manager, Cyber Threat Intelligence](jobs/anduril-industries/manager-cyber-threat-intelligence-5137718007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
+
+_Lead a team of threat intelligence analysts and security engineers to conduct cyber threat research, vulnerability analysis, and adversary tracking for Anduril's defense systems and infrastructure. Build and maintain threat intelligence platforms, signature systems, and data integration pipelines while managing complex investigations into nation-state and supply chain threats targeting the defense industrial base._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-3B82F6?style=flat-square) ![Snort](https://img.shields.io/badge/Snort-3B82F6?style=flat-square) ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
+
+### [Security Engineering Intern - Summer 2026](jobs/lambda-labs/security-engineering-intern-summer-2026-0663f04c-097d-414f-b0a0-414a7cf153d6.md)
+<img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lambda Labs** · San Francisco Office (Fremont St) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern` · `Equity`
+
+_Build production security detections against Lambda's real log data, shipping code that fires on real events and routes to an on-call team. Work with LLM-based classifiers and rule-based systems to detect sensitive data exposure and identity/access pattern anomalies across AI cloud infrastructure._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Log Analysis](https://img.shields.io/badge/Log_Analysis-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Security](https://img.shields.io/badge/Security-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
+
+### [Head of Measurement & Performance Intelligence](jobs/openai/head-of-measurement-performance-intelligence-57b9ce42-b17f-4b43-96b3-a67d9d705d5d.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · US · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead the measurement and performance intelligence function for OpenAI's compute platforms, defining metrics, benchmarking methodologies, and acceptance criteria across hardware and software systems. Partner with training, inference, and infrastructure teams to translate performance data into architectural and capacity decisions at scale._
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![HPC](https://img.shields.io/badge/HPC-3B82F6?style=flat-square) ![Performance Engineering](https://img.shields.io/badge/Performance_Engineering-3B82F6?style=flat-square) ![Benchmarking](https://img.shields.io/badge/Benchmarking-3B82F6?style=flat-square) ![AI/ML Infrastructure](https://img.shields.io/badge/AI%2FML_Infrastructure-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
 
 ### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana/software-engineer-platform-productivity-canada-remote-5807986004.md)
 <img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
@@ -122,14 +155,14 @@ _Build and operate Grafana Cloud k6, a distributed performance testing platform 
 
 ---
 
-### [Network Engineer](jobs/anthropic/network-engineer-5170073008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · (Travel-Required) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$320k-$405k` · `Equity`
+### [Staff Network Engineer](jobs/anthropic/staff-network-engineer-5170073008.md)
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · (Travel-Required) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$320k—$405k` · `Equity`
 
-_Build and operate production networking infrastructure across multiple data centers, including physical network design, routing protocols, and security. Develop network automation and tooling while scaling infrastructure for AI workloads at massive scale._
+_Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 00:21 UTC</sub>
+<sub>May 14, 2026</sub>
 
 ---
 

@@ -4,15 +4,81 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **109 open roles** (40 new today) &nbsp;·&nbsp; 817 companies searched
+### **115 open roles** (46 new today) &nbsp;·&nbsp; 817 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 14:48 UTC</sub>
+<sub>Last updated May 14, 2026 at 15:47 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Manager, Cyber Threat Intelligence](jobs/anduril-industries/manager-cyber-threat-intelligence-5137718007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
+
+_Lead a team of threat intelligence analysts and security engineers to conduct cyber threat research, vulnerability analysis, and adversary tracking for Anduril's defense systems and infrastructure. Build and maintain threat intelligence platforms, signature systems, and data integration pipelines while managing complex investigations into nation-state and supply chain threats targeting the defense industrial base._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-3B82F6?style=flat-square) ![Snort](https://img.shields.io/badge/Snort-3B82F6?style=flat-square) ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
+
+### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai-5137803007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Seattle, Washington, United States · `Senior` · `$191k-$253k` · `Equity`
+
+_Design and implement test strategies, validation approaches, and operational safeguards for AI-enabled software, automation, and agentic workflows in a defense technology environment. Partner with software and AI engineers to identify failure modes across code, prompts, models, and infrastructure while building confidence in fast-moving solutions through automated testing and observability._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![LLM applications](https://img.shields.io/badge/LLM_applications-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
+
+### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai-5137806007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Boston, Massachusetts, United States · `Senior` · `$191k-$253k` · `Equity`
+
+_Design and implement test strategies, validation approaches, and reliability safeguards for AI-enabled software, automation, and agentic workflows in fast-moving development pods. Build confidence in production systems through automated testing, observability, and operational standards while balancing speed with engineering rigor in an AI-first development model._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![LLM applications](https://img.shields.io/badge/LLM_applications-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
+
+### [Senior Quantum Scientist](jobs/ionq/senior-quantum-scientist-5986072004.md)
+<img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**IonQ** · Boulder, Colorado, United States · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$126k-$166k` · `Bonus` · `Equity`
+
+_Design and execute experiments on trapped-ion quantum processors, prototyping coherent control schemes and calibrating quantum systems to achieve ultra-low gate errors. Work hands-on with current hardware while validating emerging trap technologies and analyzing complex hardware/software interactions to push quantum computing performance at scale._
+
+![Trapped ion physics](https://img.shields.io/badge/Trapped_ion_physics-3B82F6?style=flat-square) ![Quantum control](https://img.shields.io/badge/Quantum_control-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Atomic/molecular/optical physics](https://img.shields.io/badge/Atomic%2Fmolecular%2Foptical_physics-3B82F6?style=flat-square) ![Gate fidelity benchmarking](https://img.shields.io/badge/Gate_fidelity_benchmarking-3B82F6?style=flat-square) ![Spectroscopy](https://img.shields.io/badge/Spectroscopy-3B82F6?style=flat-square) ![Data analysis](https://img.shields.io/badge/Data_analysis-3B82F6?style=flat-square) ![PhD Required](https://img.shields.io/badge/PhD_Required-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
+
+### [Security Engineering Intern - Summer 2026](jobs/lambda-labs/security-engineering-intern-summer-2026-0663f04c-097d-414f-b0a0-414a7cf153d6.md)
+<img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lambda Labs** · San Francisco Office (Fremont St) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern` · `Equity`
+
+_Build production security detections against Lambda's real log data, shipping code that fires on real events and routes to an on-call team. Work with LLM-based classifiers and rule-based systems to detect sensitive data exposure and identity/access pattern anomalies across AI cloud infrastructure._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Log Analysis](https://img.shields.io/badge/Log_Analysis-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Security](https://img.shields.io/badge/Security-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
+
+### [Head of Measurement & Performance Intelligence](jobs/openai/head-of-measurement-performance-intelligence-57b9ce42-b17f-4b43-96b3-a67d9d705d5d.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · US · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead the measurement and performance intelligence function for OpenAI's compute platforms, defining metrics, benchmarking methodologies, and acceptance criteria across hardware and software systems. Partner with training, inference, and infrastructure teams to translate performance data into architectural and capacity decisions at scale._
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![HPC](https://img.shields.io/badge/HPC-3B82F6?style=flat-square) ![Performance Engineering](https://img.shields.io/badge/Performance_Engineering-3B82F6?style=flat-square) ![Benchmarking](https://img.shields.io/badge/Benchmarking-3B82F6?style=flat-square) ![AI/ML Infrastructure](https://img.shields.io/badge/AI%2FML_Infrastructure-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 15:47 UTC</sub>
+
+---
 
 ### [Staff Data Scientist, Commercial Analytics](jobs/10x-genomics/staff-data-scientist-commercial-analytics-7922933.md)
 <img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**10x Genomics** · Pleasanton, California, USA HQ · `Senior` · `$198k–$268k` · `Equity` · `Bonus`
@@ -399,17 +465,6 @@ _Lead design and development of an identity verification and KYC/KYB platform ha
 
 ---
 
-### [Network Engineer](jobs/anthropic/network-engineer-5170073008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · (Travel-Required) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$320k-$405k` · `Equity`
-
-_Build and operate production networking infrastructure across multiple data centers, including physical network design, routing protocols, and security. Develop network automation and tooling while scaling infrastructure for AI workloads at massive scale._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
-
-<sub>May 14, 2026 at 00:21 UTC</sub>
-
----
-
 ### [Senior Engine Programmer, Verse Framework](jobs/epic-games/senior-engine-programmer-verse-framework-5994995004.md)
 <img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Vancouver,British Columbia,Canada · `Senior` · `$182k–$268k CAD`
 
@@ -440,6 +495,17 @@ _Build the Open Cloud platform and HTTP API infrastructure that enables Roblox c
 ![HTTP APIs](https://img.shields.io/badge/HTTP_APIs-3B82F6?style=flat-square) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=flat-square) ![Backend Systems](https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square) ![Authentication/Authorization](https://img.shields.io/badge/Authentication%2FAuthorization-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Developer Platforms](https://img.shields.io/badge/Developer_Platforms-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Monitoring](https://img.shields.io/badge/Monitoring-3B82F6?style=flat-square)
 
 <sub>May 14, 2026 at 00:21 UTC</sub>
+
+---
+
+### [Staff Network Engineer](jobs/anthropic/staff-network-engineer-5170073008.md)
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · (Travel-Required) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$320k—$405k` · `Equity`
+
+_Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
 
 ---
 
