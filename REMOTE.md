@@ -4,13 +4,57 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **35 open roles** (8 new today)
+### **39 open roles** (12 new today)
 
-<sub>Last updated May 14, 2026 at 13:26 UTC</sub>
+<sub>Last updated May 14, 2026 at 14:48 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana/software-engineer-platform-productivity-canada-remote-5807986004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
+
+_Build and maintain Grafana's Internal Engineering Platform (IEP), including CI/CD systems, deployment automation, and developer productivity tooling that serves internal engineering teams. Own the full lifecycle from design through production operation, including on-call support for platform reliability._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Backstage](https://img.shields.io/badge/Backstage-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Software Engineer - Platform Productivity | USA | Remote](jobs/grafana/software-engineer-platform-productivity-usa-remote-5807984004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$127k-$153k` · `Equity` · `Bonus`
+
+_Build and maintain the internal engineering platform's CI/CD systems, release automation, and deployment tooling that enables Grafana's application teams to ship software securely and reliably. Operate production infrastructure on-call and work across cloud, Kubernetes, and Infrastructure as Code to support diverse internal engineering teams._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Backstage](https://img.shields.io/badge/Backstage-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer-7916937.md)
+<img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Planet Labs** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$142k-$203k` · `Equity` · `Bonus`
+
+_Design and build core infrastructure-as-code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Lead platform modernization initiatives including migration from legacy tooling and enhance observability across cloud-native systems at scale._
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-3B82F6?style=flat-square) ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer-7921074.md)
+<img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Planet Labs** · Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Design and build core Infrastructure-as-Code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Work on platform modernization initiatives across a global cloud-native infrastructure serving a constellation of imaging satellites._
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google_Cloud_Platform_%28GCP%29-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
 
 ### [Senior Software Engineer - OpenTelemetry | Canada | Remote](jobs/grafana/senior-software-engineer-opentelemetry-canada-remote-5995398004.md)
 <img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 205k` · `Equity` · `Bonus`

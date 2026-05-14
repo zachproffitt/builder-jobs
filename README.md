@@ -1,18 +1,150 @@
 # Builder Jobs
 
-For engineers who build. Roles are scraped hourly from company ATS and classified by Claude — curation keeps the signal high enough that browsing everything new takes a few minutes. Listings older than 14 days are removed automatically.
+For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-> *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors. [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
+[How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **97 open roles** (28 new today) &nbsp;·&nbsp; 799 companies searched
+### **109 open roles** (40 new today) &nbsp;·&nbsp; 817 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 13:26 UTC</sub>
+<sub>Last updated May 14, 2026 at 14:48 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Staff Data Scientist, Commercial Analytics](jobs/10x-genomics/staff-data-scientist-commercial-analytics-7922933.md)
+<img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**10x Genomics** · Pleasanton, California, USA HQ · `Senior` · `$198k–$268k` · `Equity` · `Bonus`
+
+_Build and deploy production ML pipelines for sales forecasting, churn prediction, and account expansion signals, replacing rule-based spreadsheet systems with ML models across Snowflake and AWS. Work within a complex B2B enterprise sales domain with global distribution networks and long sales cycles where predictive accuracy directly impacts commercial strategy._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Early Career Software Engineer](jobs/anduril-industries/early-career-software-engineer-4824364007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Seattle, Washington, United States · `Junior` · `$130k-$135k` · `Equity`
+
+_Build software solutions for Lattice OS, Anduril's AI-powered military command and control system, shipping autonomy, computer vision, and sensor fusion capabilities to defense customers. Requires U.S. Person status and security clearance eligibility for access to export-controlled defense technology._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square) ![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Robotic Software Engineer (Drone Stack)](jobs/applied-intuition/robotic-software-engineer-drone-stack-4677114005.md)
+<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition** · Washington, District of Columbia, United States · `Mid` · `$135k-$175k` · `Equity`
+
+_Design and integrate autonomy software onto robotic platforms (drones, vehicles) across simulation, hardware-in-the-loop, and live test environments. Work in defense robotics requiring security clearance and frequent on-site integration with customer hardware._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Pixhawk/ArduPilot](https://img.shields.io/badge/Pixhawk%2FArduPilot-3B82F6?style=flat-square) ![UART/RS232/I2C/Ethernet](https://img.shields.io/badge/UART%2FRS232%2FI2C%2FEthernet-3B82F6?style=flat-square) ![embedded systems](https://img.shields.io/badge/embedded_systems-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana/software-engineer-platform-productivity-canada-remote-5807986004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
+
+_Build and maintain Grafana's Internal Engineering Platform (IEP), including CI/CD systems, deployment automation, and developer productivity tooling that serves internal engineering teams. Own the full lifecycle from design through production operation, including on-call support for platform reliability._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Backstage](https://img.shields.io/badge/Backstage-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Software Engineer - Platform Productivity | USA | Remote](jobs/grafana/software-engineer-platform-productivity-usa-remote-5807984004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$127k-$153k` · `Equity` · `Bonus`
+
+_Build and maintain the internal engineering platform's CI/CD systems, release automation, and deployment tooling that enables Grafana's application teams to ship software securely and reliably. Operate production infrastructure on-call and work across cloud, Kubernetes, and Infrastructure as Code to support diverse internal engineering teams._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Backstage](https://img.shields.io/badge/Backstage-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [IT Systems Engineer](jobs/intercom/it-systems-engineer-7918638.md)
+<img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom** · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$142k-$237k` · `Equity` · `Bonus`
+
+_Design and build infrastructure automation and integrations across identity management, endpoint management, compliance, and email deliverability using infrastructure-as-code and no-code platforms. Drive IT infrastructure evolution in a cloud-native environment with emphasis on enterprise automation and AI tooling adoption._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Ruby](https://img.shields.io/badge/Ruby-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Okta](https://img.shields.io/badge/Okta-3B82F6?style=flat-square) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-3B82F6?style=flat-square) ![Jamf Pro](https://img.shields.io/badge/Jamf_Pro-3B82F6?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-3B82F6?style=flat-square) ![Tines](https://img.shields.io/badge/Tines-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [IT Systems Engineer](jobs/intercom/it-systems-engineer-7918715.md)
+<img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom** · Dublin, Ireland; London, England · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `Equity`
+
+_Design and build automation and integration systems for corporate IT infrastructure, identity & access management, and compliance using infrastructure-as-code and low-code platforms. Drive high-impact cross-organizational projects in cloud environments with emphasis on eliminating toil and scaling IT operations._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Ruby](https://img.shields.io/badge/Ruby-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Okta](https://img.shields.io/badge/Okta-3B82F6?style=flat-square) ![Tines](https://img.shields.io/badge/Tines-3B82F6?style=flat-square) ![Workato](https://img.shields.io/badge/Workato-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square) ![Jamf Pro](https://img.shields.io/badge/Jamf_Pro-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Infrastructure Engineer](jobs/lago/infrastructure-engineer-9aca194c-df12-4252-9a5c-03f70dca7a8a.md)
+<img src="https://www.google.com/s2/favicons?domain=www.getlago.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lago** · Brazil · `Senior` · `$80k-$120k`
+
+_Own and scale Lago's cloud infrastructure, designing automated provisioning, database optimization, and observability systems using Kubernetes and infrastructure-as-code. This role requires managing production infrastructure for a high-scale billing platform serving companies like PayPal and Mistral.ai._
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Pulumi](https://img.shields.io/badge/Pulumi-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Ruby](https://img.shields.io/badge/Ruby-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer-7916937.md)
+<img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Planet Labs** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$142k-$203k` · `Equity` · `Bonus`
+
+_Design and build core infrastructure-as-code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Lead platform modernization initiatives including migration from legacy tooling and enhance observability across cloud-native systems at scale._
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-3B82F6?style=flat-square) ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer-7921074.md)
+<img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Planet Labs** · Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Design and build core Infrastructure-as-Code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Work on platform modernization initiatives across a global cloud-native infrastructure serving a constellation of imaging satellites._
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google_Cloud_Platform_%28GCP%29-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Java](jobs/rockstar-games/senior-software-engineer-java-7734497003.md)
+<img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rockstar Games** · Leeds, England, United Kingdom · `Senior`
+
+_Build and maintain production software tools and systems supporting game development across Rockstar's worldwide studios, including task management, defect tracking, distributed video recording, and analytics applications. Design and scale distributed backend systems handling large-scale creative production workflows._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3B82F6?style=flat-square) ![Hibernate/JPA](https://img.shields.io/badge/Hibernate%2FJPA-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![FFmpeg](https://img.shields.io/badge/FFmpeg-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
+
+### [Staff Full Stack Engineer - Support Products](jobs/stripe/staff-full-stack-engineer-support-products-7925073.md)
+<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe** · Dublin · `Staff`
+
+_Design and build production systems for Stripe's Paid Support Experience platform, including AI-driven support automation and internal tooling for support staff. Set technical strategy for the team and mentor senior engineers while maintaining high standards for reliability and extensibility._
+
+![Ruby](https://img.shields.io/badge/Ruby-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Backend Development](https://img.shields.io/badge/Backend_Development-3B82F6?style=flat-square) ![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 14:48 UTC</sub>
+
+---
 
 ### [Sr Software Engineer](jobs/bend-studio/sr-software-engineer-5996147004.md)
 <img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$193k-$289k` · `Bonus` · `Equity`
