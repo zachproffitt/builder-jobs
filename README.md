@@ -4,15 +4,114 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **172 open roles** (103 new today) &nbsp;·&nbsp; 823 companies searched
+### **181 open roles** (112 new today) &nbsp;·&nbsp; 823 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 21:36 UTC</sub>
+<sub>Last updated May 14, 2026 at 22:33 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions-5138391007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Seattle, Washington, United States · `Staff` · `$220k—$292k USD` · `Equity`
+
+_Architect and implement distributed systems for manufacturing execution—work order management, scheduling, material flow, and capacity planning—that transform Anduril's factories into adaptive, software-defined production networks. You'll bridge manufacturing operations and platform infrastructure at scale, ensuring production requirements shape broader technical decisions in a defense technology environment with export-controlled systems._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Manufacturing Execution Systems](https://img.shields.io/badge/Manufacturing_Execution_Systems-3B82F6?style=flat-square) ![Distributed Systems Architecture](https://img.shields.io/badge/Distributed_Systems_Architecture-3B82F6?style=flat-square) ![Remix](https://img.shields.io/badge/Remix-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square) ![Enterprise Resource Planning](https://img.shields.io/badge/Enterprise_Resource_Planning-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Founding Design Engineer](jobs/bretton-ai/founding-design-engineer-eecf782b-8897-4e5d-8cd1-883b6bb5073d.md)
+<img src="https://www.google.com/s2/favicons?domain=www.bretton.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bretton AI** · San Francisco, CA · `Senior`
+
+_Build and own the design system in code, creating production-grade React components and patterns that compliance analysts depend on for hours at a time. Design interfaces that make AI agent behavior legible and auditable in financial services, where trust is non-negotiable._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-3B82F6?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude_Code-3B82F6?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![PostHog](https://img.shields.io/badge/PostHog-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Software Development Engineer III, Maps API](jobs/mapbox/software-development-engineer-iii-maps-api-497f955d-b325-44cd-bc25-001169d78fbf.md)
+<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox US · `Senior`
+
+_Build and maintain high-traffic distributed APIs and ETL pipelines that serve billions of map requests daily to millions of developers globally. Lead architectural decisions for geospatial data processing at scale while mentoring engineers and balancing rapid feature development with operational reliability._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Geospatial Data](https://img.shields.io/badge/Geospatial_Data-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Avatar Animation](jobs/roblox/senior-software-engineer-avatar-animation-7923268.md)
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · Vancouver, British Columbia, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build character animation systems and tools for the Roblox game engine, helping developers create engaging experiences at scale. You'll analyze existing animation tech, author documentation, and implement innovative features while optimizing for performance across mobile and desktop platforms._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Lua](https://img.shields.io/badge/Lua-3B82F6?style=flat-square) ![Game Engine Architecture](https://img.shields.io/badge/Game_Engine_Architecture-3B82F6?style=flat-square) ![3D Math](https://img.shields.io/badge/3D_Math-3B82F6?style=flat-square) ![Animation Systems](https://img.shields.io/badge/Animation_Systems-3B82F6?style=flat-square) ![Mobile Performance Optimization](https://img.shields.io/badge/Mobile_Performance_Optimization-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Principal AI Engineer (Remote)](jobs/rula/principal-ai-engineer-remote-e5500bc1-5dd1-4a93-8571-20f77f0f66ad.md)
+<img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rula** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
+
+_Own the AI foundation for generative AI across mental healthcare, architecting production-grade systems (RAG, agentic loops) that power patient engagement and provider workflows at scale. Design durable, compliant solutions in a regulated healthcare environment with real-world clinical constraints._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Embedded Security Engineer (Starlink)](jobs/spacex/embedded-security-engineer-starlink-8543670002.md)
+<img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SpaceX** · Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
+
+_Design and build security infrastructure for Starlink's satellite constellation, routers, and gateways, including cryptographic services, secure boot, and network security across factory processes and production systems. Work on inter-planetary scale systems requiring cryptographic primitives, operating system security, and adversary detection at different levels of abstraction._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![Applied Cryptography](https://img.shields.io/badge/Applied_Cryptography-3B82F6?style=flat-square) ![Operating System Security](https://img.shields.io/badge/Operating_System_Security-3B82F6?style=flat-square) ![Network Security](https://img.shields.io/badge/Network_Security-3B82F6?style=flat-square) ![TPM](https://img.shields.io/badge/TPM-3B82F6?style=flat-square) ![HSM](https://img.shields.io/badge/HSM-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Product Security Engineer (Starlink)](jobs/spacex/product-security-engineer-starlink-8543671002.md)
+<img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SpaceX** · Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
+
+_Design and build security infrastructure for Starlink's satellite internet system, including cryptographic services, secure boot, and security features for routers, dishes, gateways, and satellites. Work across a complex, mission-critical system serving millions of users globally with high reliability and adversarial threat modeling requirements._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Applied Cryptography](https://img.shields.io/badge/Applied_Cryptography-3B82F6?style=flat-square) ![Network Security](https://img.shields.io/badge/Network_Security-3B82F6?style=flat-square) ![Operating System Security](https://img.shields.io/badge/Operating_System_Security-3B82F6?style=flat-square) ![TPM](https://img.shields.io/badge/TPM-3B82F6?style=flat-square) ![HSM](https://img.shields.io/badge/HSM-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Security Software Engineer (Starlink)](jobs/spacex/security-software-engineer-starlink-8543668002.md)
+<img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SpaceX** · Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
+
+_Design and build security infrastructure for Starlink's satellite constellation, routers, dishes, and gateways, including cryptographic services and secure boot systems. Work on internet-scale systems with ITAR compliance requirements and the mission to provide secure internet to underserved communities globally._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Applied Cryptography](https://img.shields.io/badge/Applied_Cryptography-3B82F6?style=flat-square) ![Operating System Security](https://img.shields.io/badge/Operating_System_Security-3B82F6?style=flat-square) ![Network Security](https://img.shields.io/badge/Network_Security-3B82F6?style=flat-square) ![TPM](https://img.shields.io/badge/TPM-3B82F6?style=flat-square) ![HSM](https://img.shields.io/badge/HSM-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Member of Technical Staff, QA](jobs/vapi/member-of-technical-staff-qa-94e93b56-c7ac-4765-9ffb-aefcbe0bb795.md)
+<img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Vapi** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Build and own end-to-end testing infrastructure for a production voice AI platform handling 1M+ calls daily. Test complex distributed systems (LLMs, STT, TTS, telephony integrations) and define QA practices for a non-deterministic product at scale._
+
+![Playwright](https://img.shields.io/badge/Playwright-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Distributed Systems Testing](https://img.shields.io/badge/Distributed_Systems_Testing-3B82F6?style=flat-square) ![AI Coding Agents](https://img.shields.io/badge/AI_Coding_Agents-3B82F6?style=flat-square) ![Conversational AI](https://img.shields.io/badge/Conversational_AI-3B82F6?style=flat-square) ![LLM Evals](https://img.shields.io/badge/LLM_Evals-3B82F6?style=flat-square) ![Voice AI](https://img.shields.io/badge/Voice_AI-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
 
 ### [Engineering Manager, Storage SRE](jobs/airbnb/engineering-manager-storage-sre-7927371.md)
 <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · United States · `Manager` · `$212k-$265k` · `Bonus` · `Equity`

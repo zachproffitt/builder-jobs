@@ -4,13 +4,35 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **57 open roles** (30 new today)
+### **59 open roles** (32 new today)
 
-<sub>Last updated May 14, 2026 at 21:36 UTC</sub>
+<sub>Last updated May 14, 2026 at 22:33 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Principal AI Engineer (Remote)](jobs/rula/principal-ai-engineer-remote-e5500bc1-5dd1-4a93-8571-20f77f0f66ad.md)
+<img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rula** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
+
+_Own the AI foundation for generative AI across mental healthcare, architecting production-grade systems (RAG, agentic loops) that power patient engagement and provider workflows at scale. Design durable, compliant solutions in a regulated healthcare environment with real-world clinical constraints._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Member of Technical Staff, QA](jobs/vapi/member-of-technical-staff-qa-94e93b56-c7ac-4765-9ffb-aefcbe0bb795.md)
+<img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Vapi** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Build and own end-to-end testing infrastructure for a production voice AI platform handling 1M+ calls daily. Test complex distributed systems (LLMs, STT, TTS, telephony integrations) and define QA practices for a non-deterministic product at scale._
+
+![Playwright](https://img.shields.io/badge/Playwright-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Distributed Systems Testing](https://img.shields.io/badge/Distributed_Systems_Testing-3B82F6?style=flat-square) ![AI Coding Agents](https://img.shields.io/badge/AI_Coding_Agents-3B82F6?style=flat-square) ![Conversational AI](https://img.shields.io/badge/Conversational_AI-3B82F6?style=flat-square) ![LLM Evals](https://img.shields.io/badge/LLM_Evals-3B82F6?style=flat-square) ![Voice AI](https://img.shields.io/badge/Voice_AI-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 22:33 UTC</sub>
+
+---
 
 ### [Engineering Manager, Software](jobs/instacart/engineering-manager-software-7927378.md)
 <img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Instacart** · Canada (ON, AB, BC, or NS Only) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `CAD$196k—$207k` · `Equity`
