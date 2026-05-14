@@ -4,13 +4,35 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 79 open roles (10 new today) &nbsp;·&nbsp; 718 companies searched
+### 81 open roles (12 new today) &nbsp;·&nbsp; 718 companies searched
 
-<sub>Last updated May 14, 2026 at 03:55 UTC</sub>
+<sub>Last updated May 14, 2026 at 05:27 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Senior Staff Machine Learning Engineer, Infrastructure](jobs/airbnb/senior-staff-machine-learning-engineer-infrastructure-7759457.md)
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · United States · `Staff` · `$248k-$310k` · `Bonus` · `Equity`
+
+_Build ML/AI infrastructure, data foundations, and feature platforms that power Airbnb's machine learning models and applications at scale. Work on generative AI infrastructure, model serving systems, and governance frameworks across both batch and real-time production use cases._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 05:27 UTC</sub>
+
+---
+
+### [Member of Technical Staff, Deployed Research](jobs/sieve/member-of-technical-staff-deployed-research-d294868e-1b94-425c-934b-b1cf806e05aa.md)
+<img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sieve** · San Francisco · `Mid`
+
+_Build custom algorithms, models, and data pipelines to process and transform video datasets at scale for frontier AI labs. Work forward-deployed at customer sites translating ambiguous requirements into production systems spanning computer vision, audio processing, and multimodal data handling._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Video Processing](https://img.shields.io/badge/Video_Processing-3B82F6?style=flat-square) ![Audio Processing](https://img.shields.io/badge/Audio_Processing-3B82F6?style=flat-square) ![Model Fine-tuning](https://img.shields.io/badge/Model_Fine--tuning-3B82F6?style=flat-square) ![Inference Optimization](https://img.shields.io/badge/Inference_Optimization-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 05:27 UTC</sub>
+
+---
 
 ### [Software Engineer, Robotics & Autonomous Systems](jobs/scale-ai/software-engineer-robotics-autonomous-systems-4618065005.md)
 <img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scale AI** · San Francisco, CA · `Mid` · `$180k-$225k` · `Equity`
