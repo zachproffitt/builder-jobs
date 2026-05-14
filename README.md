@@ -4,13 +4,35 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 75 open roles (5 new today) &nbsp;·&nbsp; 296 companies searched
+### 77 open roles (8 new today) &nbsp;·&nbsp; 718 companies searched
 
-<sub>Last updated May 14, 2026 at 00:55 UTC</sub>
+<sub>Last updated May 14, 2026 at 02:36 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Security Engineer (Product)](jobs/coder/security-engineer-product-b608ce17-2f96-46cb-8a40-90463c5f1ad7.md)
+<img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · `Mid` · `Remote`
+
+_Build secure-by-default patterns, tooling, and CI/CD workflows to embed security into the software development lifecycle. Partner with engineering teams to turn security findings into fixes and make threat modeling and secure design reviews repeatable for developers._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![SAST](https://img.shields.io/badge/SAST-3B82F6?style=flat-square) ![SCA](https://img.shields.io/badge/SCA-3B82F6?style=flat-square) ![Dependency Scanning](https://img.shields.io/badge/Dependency_Scanning-3B82F6?style=flat-square) ![Secret Scanning](https://img.shields.io/badge/Secret_Scanning-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 02:36 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Unreal Ecosystem](jobs/riot-games/senior-software-engineer-unreal-ecosystem-7915310.md)
+<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games** · Sydney, Australia · `Senior`
+
+_Design and maintain shared libraries, plugins, and tools that power Unreal Engine development across multiple game teams at Riot. Build developer infrastructure including build systems, editor tooling, and CI/CD pipelines that serve as foundational platform capabilities._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Build Systems](https://img.shields.io/badge/Build_Systems-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Plugin Development](https://img.shields.io/badge/Plugin_Development-3B82F6?style=flat-square) ![Developer Tools](https://img.shields.io/badge/Developer_Tools-3B82F6?style=flat-square) ![Game Development](https://img.shields.io/badge/Game_Development-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 02:36 UTC</sub>
+
+---
 
 ### [Manager, Software Engineering - Identity Platform](jobs/marqeta/manager-software-engineering-identity-platform-7892053.md)
 <img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta** · Toronto, Canada; Vancouver, Canada · `Manager` · `$156,800-$196,000 CAD` · `Equity` · `Bonus`
@@ -67,6 +89,17 @@ _Build the Open Cloud platform and HTTP API infrastructure that enables Roblox c
 
 ---
 
+### [Associate Director/Director of Statistical Programming](jobs/exscientia/associate-director-director-of-statistical-programming-7923391.md)
+<img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Exscientia** · Remote Opportunity - United States · `Manager` · `Remote` · `$200,600-$260,200` · `Bonus` · `Equity`
+
+_Lead statistical programming infrastructure and quality assurance for clinical drug development programs, overseeing analysis datasets, tables, figures, and exploratory analyses. Build and maintain analytics tools and open-source R packages for clinical data monitoring, cleaning, and knowledge discovery in a regulated pharmaceutical environment._
+
+![SAS](https://img.shields.io/badge/SAS-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![R-Shiny](https://img.shields.io/badge/R--Shiny-3B82F6?style=flat-square) ![CDISC](https://img.shields.io/badge/CDISC-3B82F6?style=flat-square) ![SDTM](https://img.shields.io/badge/SDTM-3B82F6?style=flat-square) ![ADaM](https://img.shields.io/badge/ADaM-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Regulatory Compliance](https://img.shields.io/badge/Regulatory_Compliance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
 <br>
 
 ## May 13, 2026
@@ -90,15 +123,6 @@ _Build and architect LangSmith's observability and evaluation platform across fu
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
 
 <sub>May 13, 2026 at 23:00 UTC</sub>
-
----
-
-### [Software Engineer, Web Infrastructure](jobs/airbnb/software-engineer-web-infrastructure-7858135.md)
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · USA · `Remote`
-
-_The person will build foundational tools and infrastructure for Airbnb's web developers, including testing frameworks, CI pipelines, observability libraries, bundlers, and editor integrations. They will own systems that improve developer productivity, reliability, and the overall developer experience._
-
-<sub>May 13, 2026</sub>
 
 ---
 
@@ -454,12 +478,12 @@ _Build intuitive, queryless exploration workflows and UI components for the Graf
 
 ---
 
-### [SmithDB](jobs/langchain/smithdb-068b2e23-af01-42c7-9bce-d86976ea4d6e.md)
+### [Software Engineer, SmithDB](jobs/langchain/software-engineer-smithdb-068b2e23-af01-42c7-9bce-d86976ea4d6e.md)
 <img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**LangChain** · San Francisco, CA · `Senior` · `$175k-$240k` · `Equity`
 
-_Engineer a distributed database storage layer for AI observability, optimized for ingesting and querying trillions of traces at scale. Design and optimize execution engines, storage layout, and cloud integration while profiling performance across memory, CPU, and async runtimes._
+_Engineer a distributed, high-performance storage layer for AI observability built in Rust, optimized for ingestion, querying, and scaling to trillions of traces. Scale and harden a multi-tenant system running on Kubernetes with tight integration to cloud object stores._
 
-![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Database internals](https://img.shields.io/badge/Database_internals-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![S3/GCS/Azure Blob](https://img.shields.io/badge/S3%2FGCS%2FAzure_Blob-3B82F6?style=flat-square) ![Query engines](https://img.shields.io/badge/Query_engines-3B82F6?style=flat-square) ![Distributed systems](https://img.shields.io/badge/Distributed_systems-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Systems programming](https://img.shields.io/badge/Systems_programming-3B82F6?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Database Systems](https://img.shields.io/badge/Database_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Object Storage (S3/GCS/Azure)](https://img.shields.io/badge/Cloud_Object_Storage_%28S3%2FGCS%2FAzure%29-3B82F6?style=flat-square) ![Query Execution Engines](https://img.shields.io/badge/Query_Execution_Engines-3B82F6?style=flat-square) ![Systems Performance Analysis](https://img.shields.io/badge/Systems_Performance_Analysis-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Memory and CPU Profiling](https://img.shields.io/badge/Memory_and_CPU_Profiling-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
