@@ -4,7 +4,7 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 77 open roles (10 new today) &nbsp;·&nbsp; 718 companies searched
+### 79 open roles (10 new today) &nbsp;·&nbsp; 718 companies searched
 
 <sub>Last updated May 14, 2026 at 03:55 UTC</sub>
 
@@ -35,7 +35,7 @@ _Design, develop, and maintain fully automated test systems for avionics electro
 ---
 
 ### [Security Engineer (Product)](jobs/coder/security-engineer-product-b608ce17-2f96-46cb-8a40-90463c5f1ad7.md)
-<img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · `Mid` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 _Build secure-by-default patterns, tooling, and CI/CD workflows to embed security into the software development lifecycle. Partner with engineering teams to turn security findings into fixes and make threat modeling and secure design reviews repeatable for developers._
 
@@ -68,7 +68,7 @@ _Lead design and development of an identity verification and KYC/KYB platform ha
 ---
 
 ### [Network Engineer](jobs/anthropic/network-engineer-5170073008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · (Travel-Required) · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$320k-$405k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · (Travel-Required) · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$320k-$405k` · `Equity`
 
 _Build and operate production networking infrastructure across multiple data centers, including physical network design, routing protocols, and security. Develop network automation and tooling while scaling infrastructure for AI workloads at massive scale._
 
@@ -83,7 +83,7 @@ _Build and operate production networking infrastructure across multiple data cen
 
 _Design and implement low-level engine systems for Unreal Engine's Verse Framework, including Scene Graph, networking, analytics, and language toolchain integration. Build stable, forward-thinking APIs that expose engine capabilities while maintaining robustness, performance, and cross-platform reliability across game consoles and multiple hardware platforms._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square) ![Scene Graph](https://img.shields.io/badge/Scene_Graph-3B82F6?style=flat-square) ![Game Console Development](https://img.shields.io/badge/Game_Console_Development-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square) ![Scene Graph](https://img.shields.io/badge/Scene_Graph-3B82F6?style=flat-square) ![Game Console Development](https://img.shields.io/badge/Game_Console_Development-3B82F6?style=flat-square) ![Multiple Programming Languages](https://img.shields.io/badge/Multiple_Programming_Languages-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square)
 
 <sub>May 14, 2026 at 00:21 UTC</sub>
 
@@ -101,7 +101,7 @@ _Design and implement low-level engine systems across Scene Graph, networking, a
 ---
 
 ### [Senior Software Engineer - Open Cloud](jobs/roblox/senior-software-engineer-open-cloud-7919050.md)
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$196k-$243k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$196k-$243k` · `Equity`
 
 _Build the Open Cloud platform and HTTP API infrastructure that enables Roblox creators and AI agents to automate community management, CI/CD, and in-game economy tasks. Own projects end-to-end across the full stack while serving millions of developers on a platform handling massive scale._
 
@@ -112,7 +112,7 @@ _Build the Open Cloud platform and HTTP API infrastructure that enables Roblox c
 ---
 
 ### [Associate Director/Director of Statistical Programming](jobs/exscientia/associate-director-director-of-statistical-programming-7923391.md)
-<img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Exscientia** · Remote Opportunity - United States · `Manager` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$200k-$260k` · `Bonus` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Exscientia** · Remote Opportunity - United States · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$200k-$260k` · `Bonus` · `Equity`
 
 _Lead statistical programming infrastructure and quality assurance for clinical drug development programs, overseeing analysis datasets, tables, figures, and exploratory analyses. Build and maintain analytics tools and open-source R packages for clinical data monitoring, cleaning, and knowledge discovery in a regulated pharmaceutical environment._
 
@@ -127,7 +127,7 @@ _Lead statistical programming infrastructure and quality assurance for clinical 
 ## May 13, 2026
 
 ### [Senior Software Engineer | GTM Platform, Backend](jobs/ramp/senior-software-engineer-gtm-platform-backend-428f41e2-48e8-409d-b5e3-8053f7fc7a27.md)
-<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp** · New York, NY (HQ) · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp** · New York, NY (HQ) · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 _Build self-serve platform tooling and agentic workflows that automate marketing operations at scale, converting repeated requests into reusable platform capabilities. Own end-to-end systems integrating AI agents with guardrails to reduce manual marketing work and drive compounding leverage across 9+ teams._
 
@@ -138,7 +138,7 @@ _Build self-serve platform tooling and agentic workflows that automate marketing
 ---
 
 ### [Principle Software Engineer, AI Observability & Evals Platform](jobs/langchain/principle-software-engineer-ai-observability-evals-platform-d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93.md)
-<img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**LangChain** · Boston, MA · `Principal` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$230k-$270k` · `Equity` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**LangChain** · Boston, MA · `Principal` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$230k-$270k` · `Equity` · `Bonus`
 
 _Build and architect LangSmith's observability and evaluation platform across full-stack Go, Python, and TypeScript, driving tracing, monitoring, and AI system reliability at production scale. Lead technical direction for high-throughput data systems handling millions of developer interactions across Fortune 500 companies._
 
@@ -149,7 +149,7 @@ _Build and architect LangSmith's observability and evaluation platform across fu
 ---
 
 ### [Research Engineer, Asta](jobs/allen-institute-for-ai/research-engineer-asta-7899565.md)
-<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Mid` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$118k-$178k` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI** · Seattle, WA · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$118k-$178k` · `Bonus`
 
 _Build infrastructure and AI tools to enable agentic scientific discovery systems, including machine learning pipelines, model training workflows, and agent frameworks for domains like biology and neuroscience. Bridge cutting-edge research with production systems at scale while maintaining open-source contributions._
 
@@ -248,7 +248,7 @@ _Architect and build distributed systems for manufacturing execution (work order
 ---
 
 ### [Software Engineer, Systems - Claude Code](jobs/anthropic/software-engineer-systems-claude-code-5218395008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · San Francisco, CA · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$320k-$485k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$320k-$485k` · `Equity`
 
 _Optimize the performance and reliability of Claude Code and the Bun JavaScript runtime by designing and building core systems including runtime internals, I/O paths, memory management, and the agent execution loop. Drive down memory usage, latency, and startup time across the stack from kernel interfaces through the JS engine to the agent layer._
 
@@ -259,7 +259,7 @@ _Optimize the performance and reliability of Claude Code and the Bun JavaScript 
 ---
 
 ### [Software Engineer](jobs/applied-intuition/software-engineer-4695020005.md)
-<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition** · Bengaluru, Karnataka, India · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$125k-$222k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition** · Bengaluru, Karnataka, India · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$125k-$222k` · `Equity`
 
 _Design and build simulator architecture and autonomy products across multiple domains, working across the full stack from infrastructure to customer-facing features. Work on simulation, modeling, and autonomous systems in a defense and automotive context with access to high-profile customers (top 20 automakers, U.S. military)._
 
@@ -325,7 +325,7 @@ _Operate and evolve a global production network backbone connecting data centers
 ---
 
 ### [Software Engineer II](jobs/bend-studio/software-engineer-ii-5995645004.md)
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Mid` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$150.1k-$225.1k` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Diego, CA · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$150.1k-$225.1k` · `Bonus`
 
 _Build and maintain front-end applications for PlayStation social platform features across PS5 and supported platforms using React Native and modern web technologies. Develop UI frameworks and cross-platform components while collaborating with international design and product teams._
 
@@ -347,7 +347,7 @@ _Design and build reusable data pipeline components, ETL abstractions, and DataO
 ---
 
 ### [Member of Technical Staff (Cloud Platform)](jobs/cockroachlabs/member-of-technical-staff-cloud-platform-7349702.md)
-<img src="https://www.google.com/s2/favicons?domain=cockroachlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CockroachLabs** · Bangalore, India · `Mid` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=cockroachlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CockroachLabs** · Bangalore, India · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Equity`
 
 _Design, build, and operate cloud platform infrastructure and systems for CockroachDB Cloud across multiple cloud providers (AWS, Azure, GCP), including Kubernetes cluster management, deployment automation, and production reliability tooling. You will work on globally distributed, mission-critical systems managing multi-region deployments and elastic scaling at scale._
 
@@ -358,7 +358,7 @@ _Design, build, and operate cloud platform infrastructure and systems for Cockro
 ---
 
 ### [Member of Technical Staff (Senior - Specialized Indexing)](jobs/cockroachlabs/member-of-technical-staff-senior-specialized-indexing-7422578.md)
-<img src="https://www.google.com/s2/favicons?domain=cockroachlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CockroachLabs** · Bangalore, India · `Staff` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=cockroachlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CockroachLabs** · Bangalore, India · `Staff` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Equity`
 
 _Design and build specialized indexing systems (vector, full-text, geospatial) for CockroachDB's distributed SQL engine. Work on high-performance indexing at the frontier of databases and AI, integrating new indexing mechanisms into the query engine and developing hybrid search capabilities._
 
@@ -391,7 +391,7 @@ _Build and operationalize AI-powered workflows that integrate across the GTM sta
 ---
 
 ### [Senior Software Engineer, Mobile Platform (React Native)](jobs/front/senior-software-engineer-mobile-platform-react-native-d4a4c46a-35a8-46c0-b09f-d96893be473a.md)
-<img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle">&ensp;**Front** · San Francisco, CA · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle">&ensp;**Front** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 _Build and maintain Front's cross-platform React Native mobile app, diving into native-level performance optimization and iOS/Android API integration. Work with a high-growth B2B platform handling complex customer operations at scale across 9,000+ companies._
 
@@ -402,7 +402,7 @@ _Build and maintain Front's cross-platform React Native mobile app, diving into 
 ---
 
 ### [Senior Analytics Engineer | Canada | Remote](jobs/grafana/senior-analytics-engineer-canada-remote-5850010004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `CAD 129k - CAD 155k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `CAD 129k - CAD 155k` · `Equity`
 
 _Own and operate the data stack architecture and infrastructure (BigQuery, dbt, Fivetran) that ingests, transforms, tests, and documents data across Grafana Labs. Build data pipelines and processes that scale with the business while enabling analysts and stakeholders to access accurate, accessible data._
 
@@ -413,7 +413,7 @@ _Own and operate the data stack architecture and infrastructure (BigQuery, dbt, 
 ---
 
 ### [Senior Analytics Engineer | USA | Remote](jobs/grafana/senior-analytics-engineer-usa-remote-5850008004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$127k-$153k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$127k-$153k` · `Equity`
 
 _Build and operate the data stack architecture and infrastructure (BigQuery, dbt, Fivetran) that ingests, transforms, tests, and connects data across Grafana Labs. Partner with stakeholders to design flexible, scalable data pipelines and establish best practices for data quality, version control, and documentation as the organization scales._
 
@@ -424,7 +424,7 @@ _Build and operate the data stack architecture and infrastructure (BigQuery, dbt
 ---
 
 ### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/senior-backend-engineer-application-core-services-stacks-usa-remote-5990670004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$154k-$185k` · `Equity` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$154k-$185k` · `Equity` · `Bonus`
 
 _Design and operate reconciliation systems and control-plane services that manage Grafana Cloud stack lifecycle, state alignment, and configuration across distributed infrastructure. You will work on stateful systems involving eventual consistency, multi-region operations, and incident recovery at scale across a SaaS platform serving thousands of customers._
 
@@ -435,7 +435,7 @@ _Design and operate reconciliation systems and control-plane services that manag
 ---
 
 ### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/senior-backend-engineer-application-core-services-stacks-usa-remote-5990671004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `CAD 164k - CAD 197k` · `Equity` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `CAD 164k - CAD 197k` · `Equity` · `Bonus`
 
 _Design and operate reconciliation systems and control-plane services for Grafana Cloud stack lifecycle management, ensuring state consistency across distributed components (grafana.com, Hosted Grafana, cloud regions). Build systems handling stateful workflows, eventual consistency, and multi-region infrastructure where correctness and operational clarity are critical at scale._
 
@@ -446,7 +446,7 @@ _Design and operate reconciliation systems and control-plane services for Grafan
 ---
 
 ### [Staff Frontend Engineer - Observability Drilldown | EMEA | Remote](jobs/grafana/staff-frontend-engineer-observability-drilldown-emea-remote-5994757004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Republic of Ireland · `Staff` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `€117k-€141k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Republic of Ireland · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `€117k-€141k` · `Equity`
 
 _Build intuitive, queryless exploration workflows and guided UI features for the Grafana Drilldown plugin that help users navigate and analyze telemetry data. Optimize for performance and responsiveness while integrating across the Grafana observability ecosystem._
 
@@ -457,7 +457,7 @@ _Build intuitive, queryless exploration workflows and guided UI features for the
 ---
 
 ### [Staff Frontend Engineer - Observability Drilldown | EMEA | Remote](jobs/grafana/staff-frontend-engineer-observability-drilldown-emea-remote-5994758004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Germany · `Staff` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `€109k-€131k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Germany · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `€109k-€131k` · `Equity`
 
 _Build and enhance queryless exploration workflows for the Drilldown plugin, enabling users to navigate telemetry data through intuitive point-and-click interfaces. Optimize for performance and responsiveness while integrating with the broader Grafana observability ecosystem._
 
@@ -468,7 +468,7 @@ _Build and enhance queryless exploration workflows for the Drilldown plugin, ena
 ---
 
 ### [Staff Frontend Engineer - Observability Drilldown | EMEA | Remote](jobs/grafana/staff-frontend-engineer-observability-drilldown-emea-remote-5994759004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United Kingdom · `Staff` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `£103k-£124k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United Kingdom · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `£103k-£124k` · `Equity`
 
 _Build intuitive, guided exploration workflows and queryless user interfaces within Grafana's Drilldown plugin that help users navigate complex telemetry data through point-and-click interactions. Drive frontend architecture improvements and feature delivery while maintaining high performance standards in a production observability platform used by millions._
 
@@ -479,7 +479,7 @@ _Build intuitive, guided exploration workflows and queryless user interfaces wit
 ---
 
 ### [Staff Frontend Engineer - Observability Drilldown | EMEA | Remote](jobs/grafana/staff-frontend-engineer-observability-drilldown-emea-remote-5994760004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Spain · `Staff` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `€94k-€112k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Spain · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `€94k-€112k` · `Equity`
 
 _Build intuitive, queryless exploration workflows and guided user interfaces for the Grafana observability platform using React and TypeScript. The role requires ownership of frontend systems that must maintain responsive, high-performance interactions while integrating across the broader Grafana ecosystem._
 
@@ -490,7 +490,7 @@ _Build intuitive, queryless exploration workflows and guided user interfaces for
 ---
 
 ### [Staff Frontend Engineer - Observability Drilldown | EMEA | Remote](jobs/grafana/staff-frontend-engineer-observability-drilldown-emea-remote-5994761004.md)
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Sweden · `Staff` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `SEK 878k - SEK 1054k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Sweden · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `SEK 878k - SEK 1054k` · `Equity`
 
 _Build intuitive, queryless exploration workflows and UI components for the Grafana Drilldown plugin that enable users to navigate telemetry data through point-and-click interactions. Drive performance optimization and cross-ecosystem integration across Grafana's observability platform serving millions of users._
 
@@ -512,7 +512,7 @@ _Engineer a distributed, high-performance storage layer for AI observability bui
 ---
 
 ### [Software Development Engineer III, Android, Maps SDK](jobs/mapbox/software-development-engineer-iii-android-maps-sdk-36355d3d-4b6c-4c18-b692-4a522e348328.md)
-<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Germany · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Germany · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 _Build and architect the Android Maps SDK that powers mobile map experiences across millions of developer applications. Design scalable APIs and cross-platform implementations that integrate Navigation, Maps, and Search SDKs while optimizing performance across diverse device types from phones to smartwatches._
 
@@ -523,7 +523,7 @@ _Build and architect the Android Maps SDK that powers mobile map experiences acr
 ---
 
 ### [Software Development Engineer III, Android, Maps SDK](jobs/mapbox/software-development-engineer-iii-android-maps-sdk-4002a267-2f04-4062-824d-bd73c03c2247.md)
-<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Poland · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$95k-$143k`
+<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Poland · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$95k-$143k`
 
 _Build the Android Maps SDK and related developer tools, designing expressive APIs and cross-platform implementations for mobile mapping applications at scale. Integrate multiple Mapbox SDKs (Navigation, Maps, Search) while optimizing performance across diverse device form factors from phones to embedded boards._
 
@@ -534,7 +534,7 @@ _Build the Android Maps SDK and related developer tools, designing expressive AP
 ---
 
 ### [Software Development Engineer III, Android, Maps SDK](jobs/mapbox/software-development-engineer-iii-android-maps-sdk-ed5ea787-aa68-4968-9c93-eb4d2bd5ac45.md)
-<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Helsinki · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Helsinki · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 _Build and architect the Android Maps SDK that powers mobile mapping applications across phones, tablets, smartwatches, and embedded devices. Lead cross-functional technical initiatives integrating Navigation, Maps, and Search SDKs while mentoring teams and setting long-term architectural direction._
 
@@ -545,7 +545,7 @@ _Build and architect the Android Maps SDK that powers mobile mapping application
 ---
 
 ### [Engineering Director, Security](jobs/monzo/engineering-director-security-7912647.md)
-<img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo** · Cardiff, London or Remote (UK) · `Manager` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `£170k-£200k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=monzo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Monzo** · Cardiff, London or Remote (UK) · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `£170k-£200k` · `Equity`
 
 _Lead the architecture and delivery of security-focused platform primitives (compute, storage, networking, identity) across Monzo's financial infrastructure. Build secure-by-design systems and tooling that enable engineering teams to move at scale without compromising security in a high-threat environment handling millions of users' sensitive financial data._
 
@@ -556,7 +556,7 @@ _Lead the architecture and delivery of security-focused platform primitives (com
 ---
 
 ### [Director, Forward Deployed AI Engineering](jobs/natera/director-forward-deployed-ai-engineering-5991157004.md)
-<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera** · US Remote · `Manager` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$186k–$233k`
+<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera** · US Remote · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$186k–$233k`
 
 _Build and ship AI agents and automation workflows across enterprise functions (Sales, Marketing, Finance, Legal, HR), owning the full deployment lifecycle from discovery through production with formal KPI tracking and observability. Lead a forward-deployed engineering team while spending roughly half your time as a hands-on technical contributor debugging systems, tuning prompts, and integrating with enterprise platforms._
 
@@ -567,7 +567,7 @@ _Build and ship AI agents and automation workflows across enterprise functions (
 ---
 
 ### [Sr Manager, Software Engineering](jobs/natera/sr-manager-software-engineering-5993794004.md)
-<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera** · US Remote · `Manager` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$156k–$195k`
+<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera** · US Remote · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$156k–$195k`
 
 _Lead a distributed engineering team building genomics tertiary analysis software that processes thousands of clinical samples monthly across Natera's product portfolio. Work in a regulated biotech environment requiring FDA, HIPAA, and CLIA compliance with deep technical ownership of architecture, design, and implementation._
 
@@ -578,11 +578,33 @@ _Lead a distributed engineering team building genomics tertiary analysis softwar
 ---
 
 ### [Software Engineer, Agent Dev Velocity](jobs/notion/software-engineer-agent-dev-velocity-c565d3b0-0dcf-4bcd-b29b-4168479ac78e.md)
-<img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion** · San Francisco, California · `Mid` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$214k-$300k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion** · San Francisco, California · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$214k-$300k` · `Equity`
 
 _Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization._
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Data Engineer, People Innovation Labs](jobs/openai/data-engineer-people-innovation-labs-579595e5-0b16-485e-b7c5-102fc7467def.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · San Francisco · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+
+_Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Data Scientist, Core Experimentation](jobs/openai/data-scientist-core-experimentation-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · Seattle · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$293k-$325k`
+
+_Build and evolve OpenAI's core experimentation platform, designing statistical methodologies and scalable analytical systems that power trustworthy decision-making across product and research teams. Work on hard problems in online experimentation including variance reduction, causal inference, and measurement systems at frontier AI scale._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Sequential Testing](https://img.shields.io/badge/Sequential_Testing-3B82F6?style=flat-square) ![Variance Reduction (CUPED)](https://img.shields.io/badge/Variance_Reduction_%28CUPED%29-3B82F6?style=flat-square) ![Sample Ratio Mismatch Detection](https://img.shields.io/badge/Sample_Ratio_Mismatch_Detection-3B82F6?style=flat-square) ![Metric Design](https://img.shields.io/badge/Metric_Design-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
@@ -600,7 +622,7 @@ _Design and build automation and observability systems for database deployment a
 ---
 
 ### [AI Operations Manager | Agentic CX](jobs/ramp/ai-operations-manager-agentic-cx-a3afd259-ba6b-4eb0-a1b6-05d01dddacd8.md)
-<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp** · New York, NY (HQ) · `Manager` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp** · New York, NY (HQ) · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 _Build and ship AI agents, internal automation platforms, and evaluation systems that transform Ramp's customer experience operations and enable CX teams to operate at scale. Own the full stack from prototyping AI workflows to infrastructure for managing shared AI skills and reliability systems across internal and customer-facing products._
 
@@ -611,7 +633,7 @@ _Build and ship AI agents, internal automation platforms, and evaluation systems
 ---
 
 ### [Product Security Architect](jobs/replit/product-security-architect-16f1c784-449b-4c84-bee7-b2bf18768977.md)
-<img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Replit** · Foster City, CA · `Staff` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Replit** · Foster City, CA · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 _Design and implement application security architecture for Replit's multi-tenant SaaS platform, defining secure patterns for tenant separation, authentication, authorization, and encryption. Lead threat modeling, security code reviews, and architecture documentation while mentoring engineering teams on secure-by-design practices._
 
@@ -622,7 +644,7 @@ _Design and implement application security architecture for Replit's multi-tenan
 ---
 
 ### [Senior Software Engineer, Player Experience Tools & Services - Publishing Platform](jobs/riot-games/senior-software-engineer-player-experience-tools-services-publishing-platform-7545471.md)
-<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games** · Los Angeles, USA · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games** · Los Angeles, USA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 _Build and evolve scalable backend services and frontend architecture for Riot's content publishing platform that delivers content across game clients, websites, and mobile apps to millions of players. Own the full-stack systems (CMS, microservices, internal tools) that enable content creators to manage and distribute content at global scale across a complex ecosystem._
 
@@ -644,7 +666,7 @@ _Build and operate scalable microservices and backend systems that handle high-v
 ---
 
 ### [Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech](jobs/riot-games/senior-tools-pipeline-technical-artist-league-of-legends-champs-tech-7875327.md)
-<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games** · Los Angeles, USA · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games** · Los Angeles, USA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 _Build tools, pipelines, and systems for character asset development in League of Legends, enabling artists to author and scale high-quality content. Work at the intersection of art and engineering to maintain data pipelines at scale across multiple live-service content types and partner studios._
 
@@ -655,7 +677,7 @@ _Build tools, pipelines, and systems for character asset development in League o
 ---
 
 ### [Senior Engineering Manager - Age Assurance (Accounts)](jobs/roblox/senior-engineering-manager-age-assurance-accounts-7875734.md)
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Manager` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$345k-$399k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Manager` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$345k-$399k` · `Equity`
 
 _Build and operate scalable age estimation ML models and fraud detection systems serving billions of users globally on Roblox. Lead distributed systems architecture handling identity verification, behavioral analysis, and adversarial protection (deepfakes, presentation attacks) across regulatory jurisdictions._
 
@@ -666,7 +688,7 @@ _Build and operate scalable age estimation ML models and fraud detection systems
 ---
 
 ### [Senior Security Software Engineer, Vulnerability Management](jobs/roblox/senior-security-software-engineer-vulnerability-management-7922649.md)
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$216k-$269k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$216k-$269k` · `Equity`
 
 _Build and maintain internal software products and automated systems that identify, prioritize, and remediate security vulnerabilities at scale across Roblox's platform and tech stack. Design tools that make vulnerability management accessible and actionable for engineers across the organization._
 
@@ -688,7 +710,7 @@ _Develop full-stack online services infrastructure (matchmaking, cloud saves, pl
 ---
 
 ### [Engineer, Server](jobs/scopely/engineer-server-5124529008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 _Build backend services and APIs in Python running on AWS for a large-scale multiplayer strategy game, handling server architecture, performance optimization, and anti-cheat systems. Work on foundational server technologies supporting millions of concurrent players with requirements for high availability, low latency, and security hardening._
 
@@ -699,7 +721,7 @@ _Build backend services and APIs in Python running on AWS for a large-scale mult
 ---
 
 ### [Platform Engineer (Automation) - Unannounced Project](jobs/scopely/platform-engineer-automation-unannounced-project-5098020008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain; ES - Spain; GB - United Kingdom; IE - Dublin, Ireland; PT - Portugal · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain; ES - Spain; GB - United Kingdom; IE - Dublin, Ireland; PT - Portugal · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 _Build and evolve CI/CD pipelines, automation frameworks, and internal developer tooling that enable safe, reliable software delivery across development and production environments. This role requires operating systems across multiple environments and improving engineering team productivity through infrastructure-as-code and deployment automation._
 
@@ -710,7 +732,7 @@ _Build and evolve CI/CD pipelines, automation frameworks, and internal developer
 ---
 
 ### [Platform Engineer (Reliability) - Unannounced Project](jobs/scopely/platform-engineer-reliability-unannounced-project-5081833008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Spain; GB - United Kingdom; IE - Ireland; PT - Portugal · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Spain; GB - United Kingdom; IE - Ireland; PT - Portugal · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 _Build and operate reliability and observability infrastructure for a multiplayer strategy MMO, automating operational toil and implementing systems that scale to millions of concurrent players. Drive production incident response, performance optimization, and cloud cost management across distributed game services._
 
@@ -721,7 +743,7 @@ _Build and operate reliability and observability infrastructure for a multiplaye
 ---
 
 ### [Senior Engineer, Server](jobs/scopely/senior-engineer-server-4662589008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 _Build and maintain the backend server infrastructure for a cross-platform Strategy/MMO game's LiveOps platform, delivering high-performance web services that handle millions of concurrent players. Design scalable, low-latency cloud solutions in AWS supporting real-time game operations and player engagement at massive scale._
 
@@ -732,7 +754,7 @@ _Build and maintain the backend server infrastructure for a cross-platform Strat
 ---
 
 ### [Sr Software Engineer (iOS) – Digital Products](jobs/scout-motors/sr-software-engineer-ios-digital-products-5128323007.md)
-<img src="https://www.google.com/s2/favicons?domain=scoutmotors.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scout Motors** · United States · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$140k-$187k` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=scoutmotors.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scout Motors** · United States · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$140k-$187k` · `Bonus`
 
 _Design, develop, and maintain iOS applications for Scout's digital products ecosystem. Drive technical architecture and implementation of mobile platforms from the ground up, ensuring scalability and performance in the automotive IoT space._
 
@@ -743,7 +765,7 @@ _Design, develop, and maintain iOS applications for Scout's digital products eco
 ---
 
 ### [Software Engineer (Backend, Python) - Content Understanding](jobs/scribd/software-engineer-backend-python-content-understanding-be9b9e96-34c3-4600-b1d3-aaae65b788c0.md)
-<img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scribd** · San Francisco · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$103k-$196k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scribd** · San Francisco · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$103k-$196k` · `Equity`
 
 _Design and build scalable distributed systems that extract, enrich, and process metadata from millions of documents, images, and audio content using Python and cloud infrastructure. Integrate LLMs into production metadata pipelines operating at global scale across hundreds of millions of documents._
 
@@ -754,7 +776,7 @@ _Design and build scalable distributed systems that extract, enrich, and process
 ---
 
 ### [Senior Astrodynamics Engineer](jobs/slingshot-aerospace/senior-astrodynamics-engineer-5995728004.md)
-<img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Slingshot Aerospace** · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$150k-$250k`
+<img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Slingshot Aerospace** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$150k-$250k`
 
 _Develop advanced astrodynamics, orbit determination, and multi-sensor data fusion algorithms for space operations intelligence and autonomy. Requires U.S. security clearance and expertise in spacecraft navigation, dynamic systems modeling, and mission optimization for defense/government space applications._
 
@@ -765,7 +787,7 @@ _Develop advanced astrodynamics, orbit determination, and multi-sensor data fusi
 ---
 
 ### [Senior DevOps Engineer](jobs/slingshot-aerospace/senior-devops-engineer-5809580004.md)
-<img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Slingshot Aerospace** · United States · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$136k-$237k`
+<img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Slingshot Aerospace** · United States · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$136k-$237k`
 
 _Design, build, and maintain Kubernetes-based cloud infrastructure and CI/CD pipelines using Infrastructure as Code to support production systems and MLOps workflows. Work on space operations software where infrastructure decisions directly impact global security and disaster response capabilities._
 
@@ -776,7 +798,7 @@ _Design, build, and maintain Kubernetes-based cloud infrastructure and CI/CD pip
 ---
 
 ### [Edge Functions Engineer](jobs/supabase/edge-functions-engineer-3ab0b926-c9b5-4197-aff2-88d5bf009e13.md)
-<img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Supabase** · `Senior` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Supabase** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 _Build and evolve Supabase Edge Runtime, a Rust-based Deno host that executes distributed TypeScript functions at the edge globally. Drive performance optimization, reliability, and developer experience through monitoring, observability, and tight integration with the Supabase platform stack._
 
@@ -798,7 +820,7 @@ _Own and evolve the Go-based Supabase Terraform provider, building reliability, 
 ---
 
 ### [Safety Researcher, Computational Behavior Modeling](jobs/waymo/safety-researcher-computational-behavior-modeling-7891021.md)
-<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · London, England, United Kingdom · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `£113k-£119k` · `Equity` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · London, England, United Kingdom · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `£113k-£119k` · `Equity` · `Bonus`
 
 _Build computational models of road user behavior and cognition for integration into Waymo's autonomous vehicle safety evaluation and simulation infrastructure. Work at the intersection of cognitive science and AI to develop novel modeling approaches that inform safety strategies for fully autonomous driving systems._
 
@@ -809,7 +831,7 @@ _Build computational models of road user behavior and cognition for integration 
 ---
 
 ### [Senior System Test Engineer, Perception](jobs/waymo/senior-system-test-engineer-perception-7599912.md)
-<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA US; San Francisco, CA US · `Senior` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$196k-$242k` · `Equity` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, CA US; San Francisco, CA US · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$196k-$242k` · `Equity` · `Bonus`
 
 _Design and implement test automation infrastructure and metrics for autonomous vehicle perception systems, including simulation scenarios and data analysis pipelines. Work on safety-critical systems at scale across multiple vehicle platforms with an emphasis on edge cases and fault scenarios._
 
@@ -820,7 +842,7 @@ _Design and implement test automation infrastructure and metrics for autonomous 
 ---
 
 ### [Software Engineer, Pin Infra](jobs/waymo/software-engineer-pin-infra-7902131.md)
-<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, California · `Mid` · ![Hybrid](https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square&logoColor=white) · `$175k-$215k` · `Equity` · `Bonus`
+<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo** · Mountain View, California · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$175k-$215k` · `Equity` · `Bonus`
 
 _Build infrastructure to manage pickup and drop-off locations for autonomous ride-hail services, integrating ML models and implementing demand control systems at scale. Work on geospatial and logistics systems for autonomous driving in a rapidly expanding operational environment._
 
@@ -842,7 +864,7 @@ _Design and implement Waymo's core trip platform APIs and backend services suppo
 ---
 
 ### [Software Developer II - ShareGate Migrate [Web Experience]](jobs/workleap/software-developer-ii-sharegate-migrate-web-experience-5133911007.md)
-<img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Workleap** · Canada · `Mid` · ![Remote](https://img.shields.io/badge/Remote-22C55E?style=flat-square&logoColor=white) · `$100k-$130k CAD`
+<img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Workleap** · Canada · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$100k-$130k CAD`
 
 _Build a brand-new web application for ShareGate Migrate from scratch, establishing technical foundations and shipping full-stack features using TypeScript and React. Integrate Microsoft 365 APIs (Microsoft Graph, Azure AD/Entra ID, MSAL) to enable migration and authentication workflows at scale for thousands of IT professionals._
 
