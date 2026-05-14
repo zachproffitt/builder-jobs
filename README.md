@@ -1,24 +1,27 @@
 # Builder Jobs
 
-For engineers who build.
-Roles are scraped hourly from company career pages and classified by Claude — curation keeps the signal
-high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
-Listings older than 14 days are removed automatically.
+For engineers who build. Roles are scraped hourly from company ATS and classified by Claude — curation keeps the signal high enough that browsing everything new takes a few minutes. Listings older than 14 days are removed automatically.
 
-> **Companies are sourced, not scraped.**  
-> Every company on this board was deliberately added — from Y Combinator batches, top VC portfolios
-> (Founders Fund, Khosla, and others), and curated lists of engineering-first companies across 20+ sectors:
-> AI, defense, climate, gaming, biotech, autonomous vehicles, and more. Listings are pulled directly
-> from each company's ATS — not aggregators — so roles appear here as soon as they're posted,
-> without the noise of non-engineering roles.
+> *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 74 open roles (4 new today) &nbsp;·&nbsp; 296 companies searched
+### 75 open roles (5 new today) &nbsp;·&nbsp; 296 companies searched
 
-<sub>Last updated May 14, 2026 at 00:21 UTC</sub>
+<sub>Last updated May 14, 2026 at 00:55 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Manager, Software Engineering - Identity Platform](jobs/marqeta/manager-software-engineering-identity-platform-7892053.md)
+<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta** · Toronto, Canada; Vancouver, Canada · `Manager` · `$156,800-$196,000 CAD` · `Equity` · `Bonus`
+
+_Lead design and development of an identity verification and KYC/KYB platform handling the full customer lifecycle from account opening through continuous risk monitoring. Drive AI-first automation to reduce manual review rates and scale identity verification across multiple jurisdictions and regulatory frameworks._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Backend Systems](https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square) ![Event-Driven Architectures](https://img.shields.io/badge/Event--Driven_Architectures-3B82F6?style=flat-square) ![AI/ML Automation](https://img.shields.io/badge/AI%2FML_Automation-3B82F6?style=flat-square) ![KYC/AML Compliance](https://img.shields.io/badge/KYC%2FAML_Compliance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 00:55 UTC</sub>
+
+---
 
 ### [Network Engineer](jobs/anthropic/network-engineer-5170073008.md)
 <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · Friendly (Travel-Required) · `Senior` · `Remote` · `$320k-$405k` · `Equity`
