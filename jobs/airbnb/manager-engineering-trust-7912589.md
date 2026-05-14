@@ -8,28 +8,28 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:41:30+00:00
+first_seen_at: 2026-05-14T20:53:23+00:00
 url: https://careers.airbnb.com/positions/7912589?gh_jid=7912589
-summary: Lead the engineering team building Trust & Safety systems that safeguard Airbnb's platform integrity and protect users globally. Drive technical strategy for large-scale, secure systems while hiring, mentoring, and aligning a high-performing team across India and global counterparts.
-skills: Java, Python, Go, Machine Learning, AI/ML systems, Distributed Systems, Security
+summary: Lead a high-performing engineering team building trust and safety systems that protect Airbnb's global platform of millions of hosts and guests. Drive technical strategy for critical systems that detect fraud, ensure security, and maintain community integrity at scale.
+skills: Java, Python, Go, AI/ML Systems, Machine Learning, Distributed Systems, Security Systems
 level: manager
-comp: ₹6,600,000—₹9,400,000 INR
+comp: ₹6,600,000—₹9,400,000
 comp_extras: bonus, equity
-render_hash: fe865935
+render_hash: 3de15f55
 -->
 
 # Manager, Engineering - Trust
 
 <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb**  
-Bangalore, India · `Manager` · `₹6,600,000—₹9,400,000 INR` · `Bonus` · `Equity`
+Bangalore, India · `Manager` · `₹6,600,000—₹9,400,000` · `Bonus` · `Equity`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 
-_Lead the engineering team building Trust & Safety systems that safeguard Airbnb's platform integrity and protect users globally. Drive technical strategy for large-scale, secure systems while hiring, mentoring, and aligning a high-performing team across India and global counterparts._
+_Lead a high-performing engineering team building trust and safety systems that protect Airbnb's global platform of millions of hosts and guests. Drive technical strategy for critical systems that detect fraud, ensure security, and maintain community integrity at scale._
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![AI/ML systems](https://img.shields.io/badge/AI%2FML_systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Security](https://img.shields.io/badge/Security-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![AI/ML Systems](https://img.shields.io/badge/AI%2FML_Systems-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Security Systems](https://img.shields.io/badge/Security_Systems-3B82F6?style=flat-square)
 
-<sub>First seen May 14, 2026 at 20:41 UTC</sub>
+<sub>First seen May 14, 2026 at 20:53 UTC</sub>
 
 **[→ Apply](https://careers.airbnb.com/positions/7912589?gh_jid=7912589)**
 

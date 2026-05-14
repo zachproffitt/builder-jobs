@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:41:30+00:00
+first_seen_at: 2026-05-14T20:53:23+00:00
 url: https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9
-summary: Build and integrate marketing technology stacks across patient, provider, and partner channels, designing scalable distributed systems that connect CDPs, marketing automation platforms, and analytics tools. Lead technical initiatives in a fast-paced, high-growth environment where you'll mentor peers and shape an AI-forward engineering culture.
-skills: TypeScript, React, Node.js, AWS, PostgreSQL, Kafka, Docker, Kubernetes
+summary: Build and integrate marketing technology stacks (CDPs, marketing automation platforms, analytics tools) to drive growth across patient, provider, and partner segments. Lead technical initiatives in a fast-paced martech environment while mentoring peers and shaping an AI-forward engineering culture.
+skills: TypeScript, React, Node.js, Kafka, PostgreSQL, AWS, Docker, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: 3d150b88
+render_hash: 511e6e47
 -->
 
 # Sr. Software Engineer - MarTech(Remote)
@@ -25,9 +25,9 @@ United States · `Senior` · `Remote`
 
 > Rula develops mental health software that provides evidence-based care and reduces stigma by addressing the whole person.
 
-_Build and integrate marketing technology stacks across patient, provider, and partner channels, designing scalable distributed systems that connect CDPs, marketing automation platforms, and analytics tools. Lead technical initiatives in a fast-paced, high-growth environment where you'll mentor peers and shape an AI-forward engineering culture._
+_Build and integrate marketing technology stacks (CDPs, marketing automation platforms, analytics tools) to drive growth across patient, provider, and partner segments. Lead technical initiatives in a fast-paced martech environment while mentoring peers and shaping an AI-forward engineering culture._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>Posted May 14, 2026</sub>
 

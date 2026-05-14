@@ -10,12 +10,12 @@ posted_at: 2026-04-23
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019
-summary: Build software solutions that help government customers deploy AI-powered platforms and transform how organizations operate with data. Work on forward-deployed teams directly with customers on critical national security and operations problems.
+summary: Build software and deploy AI-powered solutions for government customers, helping organizations unlock critical data insights and operational outcomes. Work on real problems at scale within defense and national security institutions.
 skills: 
 level: intern
 comp: 
 comp_extras: 
-render_hash: ba9b3409
+render_hash: 8cb1851a
 -->
 
 # Year at Palantir - Forward Deployed Software Engineer, Internship - USG
@@ -25,7 +25,7 @@ Washington, D.C. · `Intern` · On-site
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
-_Build software solutions that help government customers deploy AI-powered platforms and transform how organizations operate with data. Work on forward-deployed teams directly with customers on critical national security and operations problems._
+_Build software and deploy AI-powered solutions for government customers, helping organizations unlock critical data insights and operational outcomes. Work on real problems at scale within defense and national security institutions._
 
 <sub>Posted April 23, 2026</sub>
 

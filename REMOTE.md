@@ -6,7 +6,7 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 ### **55 open roles** (28 new today)
 
-<sub>Last updated May 14, 2026 at 20:41 UTC</sub>
+<sub>Last updated May 14, 2026 at 20:53 UTC</sub>
 
 <br>
 
@@ -15,33 +15,33 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 ### [Software Engineer (Ray Core)](jobs/anyscale/software-engineer-ray-core-73a973b1-6377-4144-a6e5-610b78719882.md)
 <img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anyscale** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Develop and optimize the Ray C++ distributed computing backend, including the scheduler, runtime integration, and memory subsystems. Lead architectural improvements and fault tolerance enhancements for large-scale ML workloads while mentoring junior engineers on the core team._
+_Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance infrastructure. Work on high-performance distributed systems at scale, mentoring junior engineers and leading architectural improvements for a system powering AI applications at companies like OpenAI and Spotify._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![GPU Programming](https://img.shields.io/badge/GPU_Programming-3B82F6?style=flat-square) ![Tensor Parallelism](https://img.shields.io/badge/Tensor_Parallelism-3B82F6?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-3B82F6?style=flat-square) ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![GPU Programming](https://img.shields.io/badge/GPU_Programming-3B82F6?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-3B82F6?style=flat-square) ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-3B82F6?style=flat-square) ![Tensor Parallelism](https://img.shields.io/badge/Tensor_Parallelism-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Software Engineer, Data Infrastructure](jobs/cohere/software-engineer-data-infrastructure-6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f.md)
 <img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere** · New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Build and maintain petabyte-scale data storage infrastructure for frontier AI model training and evaluation workloads. Work directly with distributed data processing frameworks and storage backends (S3, GCS, POSIX) to transform unstructured data into performant datasets for demanding modeling teams._
+_Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Sr. Software Engineer - MarTech(Remote)](jobs/rula/sr-software-engineer-martech-remote-01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9.md)
 <img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rula** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Build and integrate marketing technology stacks across patient, provider, and partner channels, designing scalable distributed systems that connect CDPs, marketing automation platforms, and analytics tools. Lead technical initiatives in a fast-paced, high-growth environment where you'll mentor peers and shape an AI-forward engineering culture._
+_Build and integrate marketing technology stacks (CDPs, marketing automation platforms, analytics tools) to drive growth across patient, provider, and partner segments. Lead technical initiatives in a fast-paced martech environment while mentoring peers and shaping an AI-forward engineering culture._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 

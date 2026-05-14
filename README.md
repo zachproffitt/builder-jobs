@@ -4,11 +4,11 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **166 open roles** (97 new today) &nbsp;·&nbsp; 823 companies searched
+### **167 open roles** (98 new today) &nbsp;·&nbsp; 823 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 20:41 UTC</sub>
+<sub>Last updated May 14, 2026 at 20:53 UTC</sub>
 
 <br>
 
@@ -17,110 +17,121 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 ### [R&D Test Engineer](jobs/9-mothers/r-d-test-engineer-mothers-87342437-0377-4256-93a8-05e29795fd54.md)
 <img src="https://www.google.com/s2/favicons?domain=9mothers.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**9 Mothers** · Austin · `Mid` · `Equity`
 
-_Own the high-speed imaging capability end-to-end for a counter-drone defense system, designing test setups and extracting quantitative kinematic data from ballistic and mechanical test campaigns. Work in an active test environment with live fire, directly supporting design decisions for AI-powered threat interception systems._
+_Own the high-speed imaging capability end-to-end for counter-drone and firearms systems, designing test setups and extracting quantitative kinematic data that directly informs mechanical engineering decisions. Work in an active test environment with live fire, requiring comfort around firearms and field testing in central Texas conditions._
 
-![High-speed imaging (Photron Fastcam](https://img.shields.io/badge/High--speed_imaging_%28Photron_Fastcam-3B82F6?style=flat-square) ![Phantom)](https://img.shields.io/badge/Phantom%29-3B82F6?style=flat-square) ![Motion analysis software (PFA](https://img.shields.io/badge/Motion_analysis_software_%28PFA-3B82F6?style=flat-square) ![ProAnalyst)](https://img.shields.io/badge/ProAnalyst%29-3B82F6?style=flat-square) ![Trigger circuit design](https://img.shields.io/badge/Trigger_circuit_design-3B82F6?style=flat-square) ![Data acquisition systems](https://img.shields.io/badge/Data_acquisition_systems-3B82F6?style=flat-square) ![Mechanical Engineering](https://img.shields.io/badge/Mechanical_Engineering-3B82F6?style=flat-square) ![Ballistics testing](https://img.shields.io/badge/Ballistics_testing-3B82F6?style=flat-square) ![Schlieren imaging](https://img.shields.io/badge/Schlieren_imaging-3B82F6?style=flat-square)
+![Photron Fastcam](https://img.shields.io/badge/Photron_Fastcam-3B82F6?style=flat-square) ![Phantom cameras](https://img.shields.io/badge/Phantom_cameras-3B82F6?style=flat-square) ![PFA](https://img.shields.io/badge/PFA-3B82F6?style=flat-square) ![ProAnalyst](https://img.shields.io/badge/ProAnalyst-3B82F6?style=flat-square) ![Motion analysis software](https://img.shields.io/badge/Motion_analysis_software-3B82F6?style=flat-square) ![Data acquisition systems](https://img.shields.io/badge/Data_acquisition_systems-3B82F6?style=flat-square) ![Trigger circuit design](https://img.shields.io/badge/Trigger_circuit_design-3B82F6?style=flat-square) ![Ballistics testing](https://img.shields.io/badge/Ballistics_testing-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Manager, Engineering - Trust](jobs/airbnb/manager-engineering-trust-7912589.md)
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · Bangalore, India · `Manager` · `₹6600k—₹9400k INR` · `Bonus` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · Bangalore, India · `Manager` · `₹6600k—₹9400k` · `Bonus` · `Equity`
 
-_Lead the engineering team building Trust & Safety systems that safeguard Airbnb's platform integrity and protect users globally. Drive technical strategy for large-scale, secure systems while hiring, mentoring, and aligning a high-performing team across India and global counterparts._
+_Lead a high-performing engineering team building trust and safety systems that protect Airbnb's global platform of millions of hosts and guests. Drive technical strategy for critical systems that detect fraud, ensure security, and maintain community integrity at scale._
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![AI/ML systems](https://img.shields.io/badge/AI%2FML_systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Security](https://img.shields.io/badge/Security-3B82F6?style=flat-square)
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![AI/ML Systems](https://img.shields.io/badge/AI%2FML_Systems-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Security Systems](https://img.shields.io/badge/Security_Systems-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Senior Machine Learning Engineer, RL / Locomotion](jobs/anduril-industries/senior-machine-learning-engineer-rl-locomotion-5136528007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$220k-$336k` · `Equity`
 
-_Design, train, and deploy reinforcement learning policies for legged robotic platforms using GPU-parallelized simulation and sim-to-real transfer, enabling mobility across challenging terrain in contested environments. Requires demonstrated experience closing reality gaps between simulation and physical systems operating in defense applications._
+_Design, train, and deploy reinforcement learning policies for legged robotic platforms using GPU-parallelized simulation, from Isaac Gym training through real-world deployment on physical systems. Work in defense robotics with direct impact on Department of Defense and Intelligence Community capabilities operating in contested, unstructured environments._
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square) ![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-3B82F6?style=flat-square) ![PPO](https://img.shields.io/badge/PPO-3B82F6?style=flat-square) ![SAC](https://img.shields.io/badge/SAC-3B82F6?style=flat-square) ![Physics Simulation](https://img.shields.io/badge/Physics_Simulation-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-3B82F6?style=flat-square) ![Physics Simulation](https://img.shields.io/badge/Physics_Simulation-3B82F6?style=flat-square) ![PPO](https://img.shields.io/badge/PPO-3B82F6?style=flat-square) ![SAC](https://img.shields.io/badge/SAC-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [[Pipeline] Software Engineer, Safeguards Labs](jobs/anthropic/pipeline-software-engineer-safeguards-labs-5219486008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · New York City, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$405k–$485k` · `Equity`
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · New York City, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$405k–$485k USD` · `Equity`
 
-_Build and harden research prototypes into production-grade safeguards that integrate with Claude's real-time safety systems. Design data and evaluation infrastructure to measure safeguard effectiveness at scale, own deployment and monitoring, and partner with research engineers on novel AI safety methods._
+_Build production-grade safeguards infrastructure that hardens research prototypes into reliable systems protecting Claude and its users. Own deployment, monitoring, and reliability for safety systems operating in real-time, and develop data and evaluation infrastructure to measure safeguard effectiveness at scale._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning Systems](https://img.shields.io/badge/Machine_Learning_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Backend Systems](https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square) ![Production Deployment](https://img.shields.io/badge/Production_Deployment-3B82F6?style=flat-square) ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square) ![Monitoring and Observability](https://img.shields.io/badge/Monitoring_and_Observability-3B82F6?style=flat-square) ![Evaluation Methodologies](https://img.shields.io/badge/Evaluation_Methodologies-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square) ![Production Systems](https://img.shields.io/badge/Production_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Machine Learning Deployment](https://img.shields.io/badge/Machine_Learning_Deployment-3B82F6?style=flat-square) ![Trust and Safety](https://img.shields.io/badge/Trust_and_Safety-3B82F6?style=flat-square) ![Monitoring and Observability](https://img.shields.io/badge/Monitoring_and_Observability-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Software Engineer (Ray Core)](jobs/anyscale/software-engineer-ray-core-73a973b1-6377-4144-a6e5-610b78719882.md)
 <img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anyscale** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Develop and optimize the Ray C++ distributed computing backend, including the scheduler, runtime integration, and memory subsystems. Lead architectural improvements and fault tolerance enhancements for large-scale ML workloads while mentoring junior engineers on the core team._
+_Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance infrastructure. Work on high-performance distributed systems at scale, mentoring junior engineers and leading architectural improvements for a system powering AI applications at companies like OpenAI and Spotify._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![GPU Programming](https://img.shields.io/badge/GPU_Programming-3B82F6?style=flat-square) ![Tensor Parallelism](https://img.shields.io/badge/Tensor_Parallelism-3B82F6?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-3B82F6?style=flat-square) ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![GPU Programming](https://img.shields.io/badge/GPU_Programming-3B82F6?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-3B82F6?style=flat-square) ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-3B82F6?style=flat-square) ![Tensor Parallelism](https://img.shields.io/badge/Tensor_Parallelism-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Forward Deployed Engineer (FDE)](jobs/blaxel/forward-deployed-engineer-fde-4acea42a-589d-42b1-949e-d4ec4b8907a2.md)
 <img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Blaxel** · San Francisco · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid`
 
-_Deploy and debug Blaxel's serverless agent infrastructure at strategic customer sites, owning the full technical path from discovery through production. Work across agent frameworks, LLM integrations, sandbox runtimes, and cloud infrastructure to solve real deployment problems while feeding learnings back into product._
+_Deploy and debug Blaxel's serverless AI agent infrastructure in customer production environments, working across their architecture, APIs, and deployment pipelines. You'll own customer success from technical discovery through implementation, translating real-world constraints into working systems while feeding product learnings back to the platform team._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Software Engineer, Data Infrastructure](jobs/cohere/software-engineer-data-infrastructure-6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f.md)
 <img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere** · New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Build and maintain petabyte-scale data storage infrastructure for frontier AI model training and evaluation workloads. Work directly with distributed data processing frameworks and storage backends (S3, GCS, POSIX) to transform unstructured data into performant datasets for demanding modeling teams._
+_Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Software Engineer | 3D Visualization Platform](jobs/gecko-robotics/software-engineer-3d-visualization-platform-robotics-f1dc5c24-f814-40bf-af02-f5c460ea97f3.md)
 <img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Gecko Robotics** · New York City · `Mid` · `Equity`
 
-_Build and evolve a high-performance 3D visualization platform that streams large-scale models (GB-scale) to a React frontend, enabling users to explore complex critical infrastructure assets in extraordinary detail. Work across backend services, frontend applications, and system architecture, including server-side rendering with Unreal Engine, in real-world deployment environments where reliability and performance are critical._
+_Build and extend a server-side rendering application that streams GB-scale 3D models to a React frontend, powering critical infrastructure visualization within Cantilever. Work across backend APIs, frontend applications, and system architecture to deliver scalable solutions for complex 3D workflows in real-world deployment environments where performance and reliability are critical._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square) ![3D Visualization](https://img.shields.io/badge/3D_Visualization-3B82F6?style=flat-square) ![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-3B82F6?style=flat-square)
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square) ![3D Graphics/Visualization](https://img.shields.io/badge/3D_Graphics%2FVisualization-3B82F6?style=flat-square) ![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
+
+---
+
+### [Neuroengineer Intern](jobs/neuralink/neuroengineer-intern-7483748003.md)
+<img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Neuralink** · Fremont, California, United States · `Intern` · `$35/hr`
+
+_Design computational models and machine vision algorithms for brain-computer interfaces, optimizing electrical stimulation parameters and sensory neural encoding. Work on next-generation bidirectional neural interfaces with real in-vivo electrophysiology and closed-loop BCI experiments._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Neural Stimulation](https://img.shields.io/badge/Neural_Stimulation-3B82F6?style=flat-square) ![NEURON](https://img.shields.io/badge/NEURON-3B82F6?style=flat-square) ![Finite Element Modeling](https://img.shields.io/badge/Finite_Element_Modeling-3B82F6?style=flat-square) ![In-vivo Electrophysiology](https://img.shields.io/badge/In--vivo_Electrophysiology-3B82F6?style=flat-square) ![Machine Vision](https://img.shields.io/badge/Machine_Vision-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Senior/Principal Platform Engineer, ML Platform](jobs/roblox/senior-principal-platform-engineer-ml-platform-7185278.md)
 <img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$277170-$343340` · `Equity`
 
-_Build end-to-end ML platform infrastructure at Roblox—serving layer, model registry, pipeline orchestrator, training/inference control planes—serving hundreds of use cases and billions of inferences per day. Design and ship developer-facing APIs, SDKs, CLIs, and UIs that let ML engineers move from idea to production in weeks, with clear SLOs for latency, availability, and cost across GPU-intensive training and high-QPS inference at scale._
+_Build and own the ML Platform that powers hundreds of use cases and billions of inferences per day—designing APIs, SDKs, CLIs, and serving infrastructure that let ML teams train, evaluate, deploy, and operate models in weeks. Optimize for developer experience, scale, reliability, and cost across training and inference workloads serving Discovery, Safety, Economy, and Creation use cases._
 
-![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![GPU resource management](https://img.shields.io/badge/GPU_resource_management-3B82F6?style=flat-square) ![Model serving](https://img.shields.io/badge/Model_serving-3B82F6?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-3B82F6?style=flat-square) ![Infrastructure-as-code](https://img.shields.io/badge/Infrastructure--as--code-3B82F6?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Model Serving](https://img.shields.io/badge/Model_Serving-3B82F6?style=flat-square) ![ML model lifecycle](https://img.shields.io/badge/ML_model_lifecycle-3B82F6?style=flat-square) ![GPU resource management](https://img.shields.io/badge/GPU_resource_management-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
 ### [Sr. Software Engineer - MarTech(Remote)](jobs/rula/sr-software-engineer-martech-remote-01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9.md)
 <img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rula** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Build and integrate marketing technology stacks across patient, provider, and partner channels, designing scalable distributed systems that connect CDPs, marketing automation platforms, and analytics tools. Lead technical initiatives in a fast-paced, high-growth environment where you'll mentor peers and shape an AI-forward engineering culture._
+_Build and integrate marketing technology stacks (CDPs, marketing automation platforms, analytics tools) to drive growth across patient, provider, and partner segments. Lead technical initiatives in a fast-paced martech environment while mentoring peers and shaping an AI-forward engineering culture._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
-<sub>May 14, 2026 at 20:41 UTC</sub>
+<sub>May 14, 2026 at 20:53 UTC</sub>
 
 ---
 
@@ -1040,7 +1051,7 @@ _Design and operate high-throughput screening workflows for small-molecule and f
 ### [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-commercial-e6789b17-62fb-4226-a079-f8c17ff19e2d.md)
 <img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
 
-_Build software solutions and deploy AI-powered systems for enterprise customers, working on real critical problems alongside Palantir engineers. You'll be held to the same performance standards as full engineers and directly influence how organizations make data-driven decisions at scale._
+_Build software and deliver customer outcomes by helping clients deploy AI-powered solutions and transforming how organizations operate with Palantir's data platforms. You'll work on critical problems across diverse industries with real deployment responsibility._
 
 <sub>May 14, 2026</sub>
 
@@ -1049,7 +1060,7 @@ _Build software solutions and deploy AI-powered systems for enterprise customers
 ### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg-5c4c65c5-77da-4d36-856c-4ade87631019.md)
 <img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · Washington, D.C. · `Intern`
 
-_Build software solutions that help government customers deploy AI-powered platforms and transform how organizations operate with data. Work on forward-deployed teams directly with customers on critical national security and operations problems._
+_Build software and deploy AI-powered solutions for government customers, helping organizations unlock critical data insights and operational outcomes. Work on real problems at scale within defense and national security institutions._
 
 <sub>May 14, 2026</sub>
 
@@ -1058,7 +1069,7 @@ _Build software solutions that help government customers deploy AI-powered platf
 ### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg-5c7bb70c-83ea-43e7-8055-0c8f319f4333.md)
 <img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
 
-_Build software and deliver customer outcomes for U.S. Government partners, helping deploy AI-powered solutions and transforming how organizations operate with Palantir's data platforms._
+_Build and deploy AI-powered software solutions for U.S. Government customers, helping critical institutions transform data-driven operations. Work on real production systems at scale with direct customer impact and access to classified environments._
 
 <sub>May 14, 2026</sub>
 
@@ -1067,7 +1078,7 @@ _Build software and deliver customer outcomes for U.S. Government partners, help
 ### [Year at Palantir - Software Engineer, Internship](jobs/palantir/year-at-palantir-software-engineer-internship-655f9937-a4ce-4e7d-80e2-a6659af07329.md)
 <img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
 
-_Build software and deliver customer outcomes on Palantir's data platforms, working on real problems including AI-powered solutions and organizational transformation. You'll be held to the same performance standards as full engineers and gain deep exposure to critical industries while working directly with customers._
+_Build software solutions on Palantir's data platforms, working on real customer problems including AI-powered deployments and organizational transformation. Work held to the same standards as full engineers with direct impact on critical industries._
 
 <sub>May 14, 2026</sub>
 

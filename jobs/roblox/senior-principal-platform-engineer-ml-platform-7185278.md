@@ -8,14 +8,14 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:41:30+00:00
+first_seen_at: 2026-05-14T20:53:23+00:00
 url: https://careers.roblox.com/jobs/7185278?gh_jid=7185278
-summary: Build end-to-end ML platform infrastructure at Roblox—serving layer, model registry, pipeline orchestrator, training/inference control planes—serving hundreds of use cases and billions of inferences per day. Design and ship developer-facing APIs, SDKs, CLIs, and UIs that let ML engineers move from idea to production in weeks, with clear SLOs for latency, availability, and cost across GPU-intensive training and high-QPS inference at scale.
-skills: gRPC, REST APIs, Python, Kubernetes, GPU resource management, Model serving, MLflow, Infrastructure-as-code
+summary: Build and own the ML Platform that powers hundreds of use cases and billions of inferences per day—designing APIs, SDKs, CLIs, and serving infrastructure that let ML teams train, evaluate, deploy, and operate models in weeks. Optimize for developer experience, scale, reliability, and cost across training and inference workloads serving Discovery, Safety, Economy, and Creation use cases.
+skills: gRPC, REST APIs, Model Serving, ML model lifecycle, GPU resource management, Python, Kubernetes, Infrastructure-as-Code
 level: principal
 comp: $277170-$343340
 comp_extras: equity
-render_hash: 8aa9c947
+render_hash: 4aa18495
 -->
 
 # Senior/Principal Platform Engineer, ML Platform
@@ -25,11 +25,11 @@ San Mateo, CA, United States · `Principal` · `Hybrid` · `$277170-$343340` · 
 
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 
-_Build end-to-end ML platform infrastructure at Roblox—serving layer, model registry, pipeline orchestrator, training/inference control planes—serving hundreds of use cases and billions of inferences per day. Design and ship developer-facing APIs, SDKs, CLIs, and UIs that let ML engineers move from idea to production in weeks, with clear SLOs for latency, availability, and cost across GPU-intensive training and high-QPS inference at scale._
+_Build and own the ML Platform that powers hundreds of use cases and billions of inferences per day—designing APIs, SDKs, CLIs, and serving infrastructure that let ML teams train, evaluate, deploy, and operate models in weeks. Optimize for developer experience, scale, reliability, and cost across training and inference workloads serving Discovery, Safety, Economy, and Creation use cases._
 
-![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![GPU resource management](https://img.shields.io/badge/GPU_resource_management-3B82F6?style=flat-square) ![Model serving](https://img.shields.io/badge/Model_serving-3B82F6?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-3B82F6?style=flat-square) ![Infrastructure-as-code](https://img.shields.io/badge/Infrastructure--as--code-3B82F6?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Model Serving](https://img.shields.io/badge/Model_Serving-3B82F6?style=flat-square) ![ML model lifecycle](https://img.shields.io/badge/ML_model_lifecycle-3B82F6?style=flat-square) ![GPU resource management](https://img.shields.io/badge/GPU_resource_management-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
 
-<sub>First seen May 14, 2026 at 20:41 UTC</sub>
+<sub>First seen May 14, 2026 at 20:53 UTC</sub>
 
 **[→ Apply](https://careers.roblox.com/jobs/7185278?gh_jid=7185278)**
 

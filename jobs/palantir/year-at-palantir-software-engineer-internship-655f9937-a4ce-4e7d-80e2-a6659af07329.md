@@ -10,12 +10,12 @@ posted_at: 2026-03-20
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329
-summary: Build software and deliver customer outcomes on Palantir's data platforms, working on real problems including AI-powered solutions and organizational transformation. You'll be held to the same performance standards as full engineers and gain deep exposure to critical industries while working directly with customers.
+summary: Build software solutions on Palantir's data platforms, working on real customer problems including AI-powered deployments and organizational transformation. Work held to the same standards as full engineers with direct impact on critical industries.
 skills: 
 level: intern
 comp: 
 comp_extras: 
-render_hash: 19e63381
+render_hash: 31dcdcab
 -->
 
 # Year at Palantir - Software Engineer, Internship
@@ -25,7 +25,7 @@ New York, NY · `Intern` · On-site
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
-_Build software and deliver customer outcomes on Palantir's data platforms, working on real problems including AI-powered solutions and organizational transformation. You'll be held to the same performance standards as full engineers and gain deep exposure to critical industries while working directly with customers._
+_Build software solutions on Palantir's data platforms, working on real customer problems including AI-powered deployments and organizational transformation. Work held to the same standards as full engineers with direct impact on critical industries._
 
 <sub>Posted March 20, 2026</sub>
 

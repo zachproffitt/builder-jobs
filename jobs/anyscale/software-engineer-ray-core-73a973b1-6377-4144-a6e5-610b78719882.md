@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:41:30+00:00
+first_seen_at: 2026-05-14T20:53:23+00:00
 url: https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882
-summary: Develop and optimize the Ray C++ distributed computing backend, including the scheduler, runtime integration, and memory subsystems. Lead architectural improvements and fault tolerance enhancements for large-scale ML workloads while mentoring junior engineers on the core team.
-skills: C++, C, Distributed Systems, GPU Programming, Tensor Parallelism, Ray, Fault Tolerance
+summary: Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance infrastructure. Work on high-performance distributed systems at scale, mentoring junior engineers and leading architectural improvements for a system powering AI applications at companies like OpenAI and Spotify.
+skills: C++, Distributed Systems, GPU Programming, Ray, Fault Tolerance, Tensor Parallelism, Python
 level: senior
 comp: 
 comp_extras: 
-render_hash: ac5ff053
+render_hash: c462dacb
 -->
 
 # Software Engineer (Ray Core)
@@ -25,9 +25,9 @@ San Francisco · `Senior` · `Remote`
 
 > Anyscale builds Ray, an open-source distributed computing framework, and offers a managed cloud platform for running Ray workloads at scale. The company operates in the machine learning infrastructure and distributed computing domain, serving data scientists and engineers who need to parallelize Python workloads across clusters.
 
-_Develop and optimize the Ray C++ distributed computing backend, including the scheduler, runtime integration, and memory subsystems. Lead architectural improvements and fault tolerance enhancements for large-scale ML workloads while mentoring junior engineers on the core team._
+_Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance infrastructure. Work on high-performance distributed systems at scale, mentoring junior engineers and leading architectural improvements for a system powering AI applications at companies like OpenAI and Spotify._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![GPU Programming](https://img.shields.io/badge/GPU_Programming-3B82F6?style=flat-square) ![Tensor Parallelism](https://img.shields.io/badge/Tensor_Parallelism-3B82F6?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-3B82F6?style=flat-square) ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![GPU Programming](https://img.shields.io/badge/GPU_Programming-3B82F6?style=flat-square) ![Ray](https://img.shields.io/badge/Ray-3B82F6?style=flat-square) ![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-3B82F6?style=flat-square) ![Tensor Parallelism](https://img.shields.io/badge/Tensor_Parallelism-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
 
 <sub>Posted May 14, 2026</sub>
 

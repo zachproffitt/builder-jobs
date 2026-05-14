@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:41:30+00:00
+first_seen_at: 2026-05-14T20:53:23+00:00
 url: https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f
-summary: Build and maintain petabyte-scale data storage infrastructure for frontier AI model training and evaluation workloads. Work directly with distributed data processing frameworks and storage backends (S3, GCS, POSIX) to transform unstructured data into performant datasets for demanding modeling teams.
-skills: Python, Kubernetes, Apache Spark, Apache Beam, S3, GCS, Distributed Systems, PostgreSQL
+summary: Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible.
+skills: Python, Kubernetes, Apache Spark, Apache Beam, S3, GCS, Distributed Systems, BigQuery
 level: senior
 comp: 
 comp_extras: 
-render_hash: 053877b8
+render_hash: 48abf74d
 -->
 
 # Software Engineer, Data Infrastructure
@@ -25,9 +25,9 @@ New York · `Senior` · `Remote`
 
 > Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.
 
-_Build and maintain petabyte-scale data storage infrastructure for frontier AI model training and evaluation workloads. Work directly with distributed data processing frameworks and storage backends (S3, GCS, POSIX) to transform unstructured data into performant datasets for demanding modeling teams._
+_Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square)
 
 <sub>Posted May 14, 2026</sub>
 
