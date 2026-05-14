@@ -4,13 +4,24 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **59 open roles** (32 new today)
+### **60 open roles** (33 new today)
 
-<sub>Last updated May 14, 2026 at 22:33 UTC</sub>
+<sub>Last updated May 14, 2026 at 23:28 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Staff Software Engineer, Embedded Finance](jobs/toast/staff-software-engineer-embedded-finance-7851302.md)
+<img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Toast** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus`
+
+_Build scalable full-stack financial services platforms (lending, equipment financing, bank accounts) tailored for restaurants using Java/Kotlin microservices and distributed systems. Work on enterprise-grade embedded finance capabilities serving over 100,000 restaurants at scale._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Enterprise Messaging](https://img.shields.io/badge/Enterprise_Messaging-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 23:28 UTC</sub>
+
+---
 
 ### [Principal AI Engineer (Remote)](jobs/rula/principal-ai-engineer-remote-e5500bc1-5dd1-4a93-8571-20f77f0f66ad.md)
 <img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rula** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`

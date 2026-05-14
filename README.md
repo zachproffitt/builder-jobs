@@ -4,15 +4,59 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **181 open roles** (112 new today) &nbsp;·&nbsp; 823 companies searched
+### **185 open roles** (116 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 22:33 UTC</sub>
+<sub>Last updated May 14, 2026 at 23:28 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Sr Software Verification Engineer](jobs/archer-aviation/sr-software-verification-engineer-7698902003.md)
+<img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Archer Aviation** · San Jose, California, United States · `Senior` · `$120k-$180k`
+
+_Design and execute comprehensive verification and validation testing for safety-critical battery management system software using SIL/HIL frameworks and DO-178C standards. Work on certification-level embedded systems testing in the aerospace domain with high-voltage battery diagnostics and fault detection algorithms._
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![DO-178C](https://img.shields.io/badge/DO--178C-3B82F6?style=flat-square) ![CAN](https://img.shields.io/badge/CAN-3B82F6?style=flat-square) ![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%2FSimulink-3B82F6?style=flat-square) ![Hardware-in-the-Loop](https://img.shields.io/badge/Hardware--in--the--Loop-3B82F6?style=flat-square) ![ISO 26262](https://img.shields.io/badge/ISO_26262-3B82F6?style=flat-square) ![SPI/I2C](https://img.shields.io/badge/SPI%2FI2C-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 23:28 UTC</sub>
+
+---
+
+### [Staff Test Engineer, Flight Controls System](jobs/archer-aviation/staff-test-engineer-flight-controls-system-7719731003.md)
+<img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Archer Aviation** · San Jose, California, United States · `Senior` · `$160k-$190k`
+
+_Design and execute requirements-based verification tests for an all-electric vertical takeoff and landing aircraft's fly-by-wire flight control system, correlating test results with analyses and ensuring compliance with FAA and DoD certification standards. This role requires executing complex test campaigns across integrated avionics, power distribution, and engine subsystems for a safety-critical aerospace system._
+
+![DO-178C](https://img.shields.io/badge/DO--178C-3B82F6?style=flat-square) ![ARP4754A](https://img.shields.io/badge/ARP4754A-3B82F6?style=flat-square) ![Polarion](https://img.shields.io/badge/Polarion-3B82F6?style=flat-square) ![DOORS](https://img.shields.io/badge/DOORS-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![ARINC429](https://img.shields.io/badge/ARINC429-3B82F6?style=flat-square) ![CAN](https://img.shields.io/badge/CAN-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 23:28 UTC</sub>
+
+---
+
+### [Head of Data Engineering & Platform, Real-World Data (RWD)](jobs/natera/head-of-data-engineering-platform-real-world-data-rwd-5977290004.md)
+<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera** · San Carlos, CA · `Manager` · `$154k–$192k` · `Bonus` · `Equity`
+
+_Lead the strategy, architecture, and team delivery of a Real-World Data platform for clinical, research, and business use—building production-grade pipelines, data marts, and secure data solutions in healthcare. You'll partner across product, bioinformatics, analytics, and AI teams to design scalable, observable systems that handle sensitive genomic and clinical data at scale in AWS environments._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Healthcare Data (FHIR/OMOP)](https://img.shields.io/badge/Healthcare_Data_%28FHIR%2FOMOP%29-3B82F6?style=flat-square) ![Bioinformatics Pipelines](https://img.shields.io/badge/Bioinformatics_Pipelines-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 23:28 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Embedded Finance](jobs/toast/staff-software-engineer-embedded-finance-7851302.md)
+<img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Toast** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus`
+
+_Build scalable full-stack financial services platforms (lending, equipment financing, bank accounts) tailored for restaurants using Java/Kotlin microservices and distributed systems. Work on enterprise-grade embedded finance capabilities serving over 100,000 restaurants at scale._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Enterprise Messaging](https://img.shields.io/badge/Enterprise_Messaging-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 23:28 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions-5138391007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Seattle, Washington, United States · `Staff` · `$220k—$292k USD` · `Equity`
