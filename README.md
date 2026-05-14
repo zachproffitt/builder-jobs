@@ -4,15 +4,81 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **127 open roles** (58 new today) &nbsp;·&nbsp; 817 companies searched
+### **133 open roles** (64 new today) &nbsp;·&nbsp; 817 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 16:52 UTC</sub>
+<sub>Last updated May 14, 2026 at 17:12 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [GNC Engineer](jobs/anduril-industries/gnc-engineer-4632178007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Mid` · `$138k-$207k` · `Equity`
+
+_Develop flight control algorithms, guidance laws, and navigation solutions for autonomous drone platforms. Design and validate Software-In-The-Loop and Hardware-In-The-Loop test environments for airborne systems operating in GPS and communication-denied environments; requires Secret security clearance._
+
+![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Simulink](https://img.shields.io/badge/Simulink-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Kalman Filtering](https://img.shields.io/badge/Kalman_Filtering-3B82F6?style=flat-square) ![Control Systems](https://img.shields.io/badge/Control_Systems-3B82F6?style=flat-square) ![State Estimation](https://img.shields.io/badge/State_Estimation-3B82F6?style=flat-square) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 17:12 UTC</sub>
+
+---
+
+### [Robotics & Simulation Engineer, Discovery](jobs/anduril-industries/robotics-simulation-engineer-discovery-5136834007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Mid` · `$146k-$194k` · `Equity`
+
+_Build and scale simulation environments (Isaac Gym, Isaac Lab, MuJoCo) for RL/IL training, including physics fidelity, domain randomization, and deployment pipelines. Own the telemetry, safety systems, and real-world diagnostics that connect sim to field operations on autonomous robotic systems for defense applications._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-3B82F6?style=flat-square) ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-3B82F6?style=flat-square) ![MuJoCo](https://img.shields.io/badge/MuJoCo-3B82F6?style=flat-square) ![URDF/MJCF](https://img.shields.io/badge/URDF%2FMJCF-3B82F6?style=flat-square) ![ROS2](https://img.shields.io/badge/ROS2-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 17:12 UTC</sub>
+
+---
+
+### [Senior GNC Engineer, Robotics](jobs/anduril-industries/senior-gnc-engineer-robotics-4588656007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$168k-$252k` · `Equity`
+
+_Develop flight control algorithms, guidance laws, and navigation solutions for autonomous drone platforms. Design and validate GNC software through simulation and flight testing in defense applications requiring security clearance and on-site presence in Costa Mesa._
+
+![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Simulink](https://img.shields.io/badge/Simulink-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Kalman Filtering](https://img.shields.io/badge/Kalman_Filtering-3B82F6?style=flat-square) ![Control Systems](https://img.shields.io/badge/Control_Systems-3B82F6?style=flat-square) ![State Estimation](https://img.shields.io/badge/State_Estimation-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 17:12 UTC</sub>
+
+---
+
+### [Senior Manipulation Engineer (Imitation Learning), Discovery](jobs/anduril-industries/senior-manipulation-engineer-imitation-learning-discovery-5136832007.md)
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States; Washington, District of Columbia, United States · `Senior` · `$166k-$220k` · `Equity`
+
+_Design, train, and deploy learned manipulation policies for robotic systems using imitation learning and behavior cloning, owning the full pipeline from teleoperation data collection through real-world evaluation on hardware. Work on defense robotics at scale with access to cutting-edge hardware and national security impact requiring security clearance._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Imitation Learning](https://img.shields.io/badge/Imitation_Learning-3B82F6?style=flat-square) ![Behavior Cloning](https://img.shields.io/badge/Behavior_Cloning-3B82F6?style=flat-square) ![Robot Manipulation](https://img.shields.io/badge/Robot_Manipulation-3B82F6?style=flat-square) ![Visuomotor Control](https://img.shields.io/badge/Visuomotor_Control-3B82F6?style=flat-square) ![Teleoperation Systems](https://img.shields.io/badge/Teleoperation_Systems-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 17:12 UTC</sub>
+
+---
+
+### [Software Engineer (C#/.NET)](jobs/rockstar-games/software-engineer-csharp-dotnet-7711702003.md)
+<img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rockstar Games** · Manhattan, New York, United States · `Mid` · `$101k-$134k` · `Bonus` · `Equity`
+
+_Develop high-volume, highly scalable server-side online services for game franchises including matchmaking, cloud saves, leaderboards, and player inventory systems. Build distributed systems serving millions of concurrent players across console and external clients with expertise in Windows Server, SQL Server, and .NET infrastructure._
+
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square) ![Xbox Live](https://img.shields.io/badge/Xbox_Live-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 17:12 UTC</sub>
+
+---
+
+### [Software Engineer (C#/.NET)](jobs/rockstar-games/software-engineer-csharp-dotnet-7734679003.md)
+<img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rockstar Games** · Carlsbad, California, United States · `Senior` · `$101k–$134k` · `Bonus` · `Equity`
+
+_Build high-volume, highly scalable server-side online services for Rockstar Games franchises, including matchmaking, cloud saves, leaderboards, and player inventory systems. Work with distributed systems at scale serving millions of concurrent players across console and PC platforms._
+
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![API design](https://img.shields.io/badge/API_design-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Windows Server](https://img.shields.io/badge/Windows_Server-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 17:12 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Data Authoring Platform](jobs/airbnb/senior-software-engineer-data-authoring-platform-7094964.md)
 <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · Remote USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$196k–$230k` · `Equity` · `Bonus`
