@@ -4,13 +4,24 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **52 open roles** (25 new today)
+### **53 open roles** (26 new today)
 
-<sub>Last updated May 14, 2026 at 18:49 UTC</sub>
+<sub>Last updated May 14, 2026 at 19:44 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Software Engineer, Data Infrastructure](jobs/cohere/software-engineer-data-infrastructure-6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f.md)
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere** · New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build and maintain petabyte-scale data storage infrastructure for AI model training and evaluation workloads. Work on distributed data processing pipelines and storage optimization across S3, GCS, and POSIX backends supporting frontier model training._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 19:44 UTC</sub>
+
+---
 
 ### [Engineering Manager](jobs/clipboard/engineering-manager-2f7bc179-c657-455f-a0a1-e0c43ec7bd4c.md)
 <img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Clipboard** · Remote (Canada) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`

@@ -1,35 +1,35 @@
 <!--
-id: lever-palantir-5c4c65c5-77da-4d36-856c-4ade87631019
+id: lever-palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333
 company: Palantir
-title: Forward Deployed Software Engineer, Internship - USG - Year at Palantir
+title: Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 source: lever
-location: Washington, D.C.
+location: New York, NY
 remote: On-site
 hybrid: no
-posted_at: 2026-04-23
+posted_at: 2026-03-20
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
-url: https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019
-summary: Build and deploy AI-powered software solutions for U.S. government customers, helping them integrate Palantir's data platforms to make faster operational decisions. Work on critical government use cases including supply chain forecasting, search and rescue, and drug development.
+first_seen_at: 
+url: https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333
+summary: Build software solutions deployed at U.S. Government customers, helping them operationalize AI-powered data platforms for critical decision-making. Work on real customer problems at scale with access to classified environments and national security infrastructure.
 skills: 
 level: intern
 comp: 
 comp_extras: 
-render_hash: d3baeb2d
+render_hash: 61fe96dd
 -->
 
-# Forward Deployed Software Engineer, Internship - USG - Year at Palantir
+# Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 
 <img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir**  
-Washington, D.C. · `Intern` · On-site
+New York, NY · `Intern` · On-site
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
-_Build and deploy AI-powered software solutions for U.S. government customers, helping them integrate Palantir's data platforms to make faster operational decisions. Work on critical government use cases including supply chain forecasting, search and rescue, and drug development._
+_Build software solutions deployed at U.S. Government customers, helping them operationalize AI-powered data platforms for critical decision-making. Work on real customer problems at scale with access to classified environments and national security infrastructure._
 
-<sub>Posted April 23, 2026</sub>
+<sub>Posted March 20, 2026</sub>
 
-**[→ Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019)**
+**[→ Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333)**
 
 ---
 
@@ -51,4 +51,4 @@ You’ll have the rare opportunity to gain deep insight into and directly influe
 
 ---
 
-**[→ Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019)**
+**[→ Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333)**

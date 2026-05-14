@@ -1,35 +1,35 @@
 <!--
-id: lever-palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333
+id: lever-palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d
 company: Palantir
-title: Forward Deployed Software Engineer, Internship - USG - Year at Palantir
+title: Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
 source: lever
 location: New York, NY
 remote: On-site
 hybrid: no
 posted_at: 2026-03-20
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
-url: https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333
-summary: Build software solutions deployed at U.S. government agencies, helping customers operationalize AI-powered data systems and transform organizational decision-making. Work on critical infrastructure at scale with direct customer impact and merit-based career progression.
+first_seen_at: 
+url: https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d
+summary: Build software solutions deployed directly with commercial customers, helping them leverage Palantir's data platforms and AI capabilities to solve critical operational problems. Work on real customer deployments at scale with mentorship from senior engineers.
 skills: 
 level: intern
 comp: 
 comp_extras: 
-render_hash: 1b7d3c19
+render_hash: 58254ff9
 -->
 
-# Forward Deployed Software Engineer, Internship - USG - Year at Palantir
+# Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
 
 <img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir**  
 New York, NY · `Intern` · On-site
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
-_Build software solutions deployed at U.S. government agencies, helping customers operationalize AI-powered data systems and transform organizational decision-making. Work on critical infrastructure at scale with direct customer impact and merit-based career progression._
+_Build software solutions deployed directly with commercial customers, helping them leverage Palantir's data platforms and AI capabilities to solve critical operational problems. Work on real customer deployments at scale with mentorship from senior engineers._
 
 <sub>Posted March 20, 2026</sub>
 
-**[→ Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333)**
+**[→ Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d)**
 
 ---
 
@@ -51,4 +51,4 @@ You’ll have the rare opportunity to gain deep insight into and directly influe
 
 ---
 
-**[→ Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333)**
+**[→ Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d)**

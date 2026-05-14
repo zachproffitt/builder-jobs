@@ -4,15 +4,70 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **158 open roles** (89 new today) &nbsp;·&nbsp; 823 companies searched
+### **161 open roles** (92 new today) &nbsp;·&nbsp; 823 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 18:49 UTC</sub>
+<sub>Last updated May 14, 2026 at 19:44 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [R&D Test Engineer](jobs/9-mothers/r-d-test-engineer-mothers-87342437-0377-4256-93a8-05e29795fd54.md)
+<img src="https://www.google.com/s2/favicons?domain=9mothers.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**9 Mothers** · Austin · `Mid` · `Equity`
+
+_Own high-speed imaging capability end-to-end for counter-drone and firearms testing, designing test setups, operating Photron Fastcam and Phantom camera systems, and extracting quantitative kinematic data that directly inform mechanical engineering decisions. Work in active test environments with live fire and field testing, delivering clean, defensible data on tight timelines in a mission-critical defense application._
+
+![Photron Fastcam](https://img.shields.io/badge/Photron_Fastcam-3B82F6?style=flat-square) ![Phantom High-Speed Cameras](https://img.shields.io/badge/Phantom_High--Speed_Cameras-3B82F6?style=flat-square) ![ProAnalyst](https://img.shields.io/badge/ProAnalyst-3B82F6?style=flat-square) ![PFA (Photron FASTCAM Analysis)](https://img.shields.io/badge/PFA_%28Photron_FASTCAM_Analysis%29-3B82F6?style=flat-square) ![Motion Analysis](https://img.shields.io/badge/Motion_Analysis-3B82F6?style=flat-square) ![Trigger Circuit Design](https://img.shields.io/badge/Trigger_Circuit_Design-3B82F6?style=flat-square) ![Data Acquisition Systems](https://img.shields.io/badge/Data_Acquisition_Systems-3B82F6?style=flat-square) ![B.S. in Mechanical Engineering or Physics](https://img.shields.io/badge/B.S._in_Mechanical_Engineering_or_Physics-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 19:44 UTC</sub>
+
+---
+
+### [[Pipeline] Software Engineer, Safeguards Labs](jobs/anthropic/pipeline-software-engineer-safeguards-labs-5219486008.md)
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · New York City, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$405k—$485k` · `Equity`
+
+_Build production-grade safeguards infrastructure and evaluation systems that protect Claude from misuse, hardening research prototypes into reliable services integrated with real-time safety systems. Work at the intersection of AI safety research and engineering, with direct leverage on reducing real-world harms from large language models._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning Systems](https://img.shields.io/badge/Machine_Learning_Systems-3B82F6?style=flat-square) ![Production Backend Systems](https://img.shields.io/badge/Production_Backend_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![Monitoring and Reliability](https://img.shields.io/badge/Monitoring_and_Reliability-3B82F6?style=flat-square) ![Trust and Safety](https://img.shields.io/badge/Trust_and_Safety-3B82F6?style=flat-square) ![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 19:44 UTC</sub>
+
+---
+
+### [Forward Deployed Engineer (FDE)](jobs/blaxel/forward-deployed-engineer-fde-4acea42a-589d-42b1-949e-d4ec4b8907a2.md)
+<img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Blaxel** · San Francisco · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid`
+
+_Build integrations, deployment plans, debugging workflows, and runbooks to help strategic customers deploy Blaxel's AI agent infrastructure in production environments. Work embedded at customer sites and in code, debugging agent deployment, LLM networking, and sandbox runtime issues while shipping product fixes._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 19:44 UTC</sub>
+
+---
+
+### [Software Engineer, Data Infrastructure](jobs/cohere/software-engineer-data-infrastructure-6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f.md)
+<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere** · New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build and maintain petabyte-scale data storage infrastructure for AI model training and evaluation workloads. Work on distributed data processing pipelines and storage optimization across S3, GCS, and POSIX backends supporting frontier model training._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 19:44 UTC</sub>
+
+---
+
+### [Software Engineer | 3D Visualization Platform](jobs/gecko-robotics/software-engineer-3d-visualization-platform-robotics-f1dc5c24-f814-40bf-af02-f5c460ea97f3.md)
+<img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Gecko Robotics** · New York City · `Mid` · `Equity`
+
+_Build and extend a server-side rendering application that streams large-scale 3D models to a React frontend, including systems built on Unreal Engine. Work across the full stack on a high-performance 3D visualization platform used to protect critical infrastructure, with deployments in real-world constrained environments where reliability and performance are critical._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-3B82F6?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square) ![3D Graphics](https://img.shields.io/badge/3D_Graphics-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 19:44 UTC</sub>
+
+---
 
 ### [PLM Senior Software Architect](jobs/anduril-industries/plm-senior-software-architect-5138059007.md)
 <img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
@@ -152,60 +207,6 @@ _Design and build real-time backend systems and data pipelines that capture, pro
 _Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements._
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
-
-<sub>May 14, 2026 at 18:49 UTC</sub>
-
----
-
-### [Forward Deployed Software Engineer, Internship - Commercial - Year at Palantir](jobs/palantir/forward-deployed-software-engineer-internship-commercial-year-at-palantir-e24202f1-fccd-470f-b001-e24d901735a4.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · Washington, D.C. · `Intern`
-
-_Build and deploy software solutions for customers using Palantir's data platforms and AI capabilities. Work directly with customers on real-world problems while contributing to production systems at scale._
-
-<sub>May 14, 2026 at 18:49 UTC</sub>
-
----
-
-### [Forward Deployed Software Engineer, Internship - Commercial - Year at Palantir](jobs/palantir/forward-deployed-software-engineer-internship-commercial-year-at-palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
-
-_Build and deploy AI-powered software solutions for Palantir's commercial customers, working on real-world problems in data-driven operations and decision-making. You'll be held to full engineer performance standards and gain direct exposure to critical industries while working on the company's core platforms._
-
-<sub>May 14, 2026 at 18:49 UTC</sub>
-
----
-
-### [Forward Deployed Software Engineer, Internship - USG - Year at Palantir](jobs/palantir/forward-deployed-software-engineer-internship-usg-year-at-palantir-5c4c65c5-77da-4d36-856c-4ade87631019.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · Washington, D.C. · `Intern`
-
-_Build and deploy AI-powered software solutions for U.S. government customers, helping them integrate Palantir's data platforms to make faster operational decisions. Work on critical government use cases including supply chain forecasting, search and rescue, and drug development._
-
-<sub>May 14, 2026 at 18:49 UTC</sub>
-
----
-
-### [Forward Deployed Software Engineer, Internship - USG - Year at Palantir](jobs/palantir/forward-deployed-software-engineer-internship-usg-year-at-palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
-
-_Build software solutions deployed at U.S. government agencies, helping customers operationalize AI-powered data systems and transform organizational decision-making. Work on critical infrastructure at scale with direct customer impact and merit-based career progression._
-
-<sub>May 14, 2026 at 18:49 UTC</sub>
-
----
-
-### [Software Engineer, Internship - Year at Palantir](jobs/palantir/software-engineer-internship-year-at-palantir-655f9937-a4ce-4e7d-80e2-a6659af07329.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
-
-_Build software on Palantir's data-driven decision platforms, delivering real customer outcomes in AI-powered solutions and critical infrastructure across government and enterprise. You'll work at the same standard as full engineers on problems spanning supply chain forecasting, healthcare, and national security._
-
-<sub>May 14, 2026 at 18:49 UTC</sub>
-
----
-
-### [Software Engineer, Internship - Year at Palantir](jobs/palantir/software-engineer-internship-year-at-palantir-7b269a3a-77c7-4060-9171-4fb655dfc676.md)
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · Washington, D.C. · `Intern`
-
-_Build software on Palantir's data-driven platforms to deliver customer outcomes, including AI-powered solutions and enterprise systems that help organizations make faster, data-informed decisions._
 
 <sub>May 14, 2026 at 18:49 UTC</sub>
 
@@ -976,6 +977,42 @@ _Lead statistical programming infrastructure and quality assurance for clinical 
 _Design and operate high-throughput screening workflows for small-molecule and functional genomics assays, including HTS workcells, Drug-Seq, and imaging/viability platforms. Lead a technical team across multiple concurrent programs while driving operational excellence, assay optimization, and automation improvements on internal robotic systems._
 
 ![High-Throughput Screening](https://img.shields.io/badge/High--Throughput_Screening-3B82F6?style=flat-square) ![Drug-Seq](https://img.shields.io/badge/Drug--Seq-3B82F6?style=flat-square) ![NGS](https://img.shields.io/badge/NGS-3B82F6?style=flat-square) ![CRISPR](https://img.shields.io/badge/CRISPR-3B82F6?style=flat-square) ![Experimental Design](https://img.shields.io/badge/Experimental_Design-3B82F6?style=flat-square) ![LIMS](https://img.shields.io/badge/LIMS-3B82F6?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-3B82F6?style=flat-square) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-commercial-e6789b17-62fb-4226-a079-f8c17ff19e2d.md)
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
+
+_Build software solutions deployed directly with commercial customers, helping them leverage Palantir's data platforms and AI capabilities to solve critical operational problems. Work on real customer deployments at scale with mentorship from senior engineers._
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg-5c4c65c5-77da-4d36-856c-4ade87631019.md)
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · Washington, D.C. · `Intern`
+
+_Build software solutions that help US Government customers deploy AI-powered operations and data-driven decision systems. Work embedded with customers on real, critical problems with direct impact on organizational outcomes._
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg-5c7bb70c-83ea-43e7-8055-0c8f319f4333.md)
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
+
+_Build software solutions deployed at U.S. Government customers, helping them operationalize AI-powered data platforms for critical decision-making. Work on real customer problems at scale with access to classified environments and national security infrastructure._
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Year at Palantir - Software Engineer, Internship](jobs/palantir/year-at-palantir-software-engineer-internship-655f9937-a4ce-4e7d-80e2-a6659af07329.md)
+<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir** · New York, NY · `Intern`
+
+_Build software on Palantir's data-driven platforms, working directly with customers to deploy AI-powered solutions and transform how organizations operate. You'll be held to the same performance standards as full engineers and work on problems in critical industries._
 
 <sub>May 14, 2026</sub>
 

@@ -1,0 +1,120 @@
+<!--
+id: greenhouse-anthropic-5219486008
+company: Anthropic
+title: [Pipeline] Software Engineer, Safeguards Labs
+source: greenhouse
+location: New York City, NY
+remote: Not specified
+hybrid: yes
+posted_at: Unknown
+first_seen: 2026-05-14
+first_seen_at: 2026-05-14T19:44:48+00:00
+url: https://job-boards.greenhouse.io/anthropic/jobs/5219486008
+summary: Build production-grade safeguards infrastructure and evaluation systems that protect Claude from misuse, hardening research prototypes into reliable services integrated with real-time safety systems. Work at the intersection of AI safety research and engineering, with direct leverage on reducing real-world harms from large language models.
+skills: Python, Machine Learning Systems, Production Backend Systems, Data Pipelines, LLM Evaluation, Monitoring and Reliability, Trust and Safety, Fraud Detection
+level: senior
+comp: $405,000—$485,000
+comp_extras: equity
+render_hash: abb574f8
+-->
+
+# [Pipeline] Software Engineer, Safeguards Labs
+
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic**  
+New York City, NY · `Senior` · `Hybrid` · `$405,000—$485,000` · `Equity`
+
+> Anthropic builds AI systems focused on safety, interpretability, and steerability for research.
+
+_Build production-grade safeguards infrastructure and evaluation systems that protect Claude from misuse, hardening research prototypes into reliable services integrated with real-time safety systems. Work at the intersection of AI safety research and engineering, with direct leverage on reducing real-world harms from large language models._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning Systems](https://img.shields.io/badge/Machine_Learning_Systems-3B82F6?style=flat-square) ![Production Backend Systems](https://img.shields.io/badge/Production_Backend_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![Monitoring and Reliability](https://img.shields.io/badge/Monitoring_and_Reliability-3B82F6?style=flat-square) ![Trust and Safety](https://img.shields.io/badge/Trust_and_Safety-3B82F6?style=flat-square) ![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-3B82F6?style=flat-square)
+
+<sub>First seen May 14, 2026 at 19:44 UTC</sub>
+
+**[→ Apply](https://job-boards.greenhouse.io/anthropic/jobs/5219486008)**
+
+---
+
+About Anthropic
+
+Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+About the role
+
+Safeguards Labs is a new team operating at the intersection of research and engineering, chartered to investigate novel safety methods that protect Claude and the people who use it. We prototype new approaches to safe models, usage safeguards, and production safety, pressure-testing ideas before they graduate into production systems run by our partner Safeguards teams.
+
+We're hiring software engineers to partner with our research engineers and turn promising prototypes into reliable, production-grade safeguards. The team is small, so each engineer has substantial latitude over what they work on and high leverage on the team's direction.
+
+Key responsibilities
+
+Take research prototypes and harden them into production services that integrate with Anthropic's real-time safeguards path.
+
+Build data and evaluation infrastructure that lets the team iterate on prototypes quickly and measure whether safeguards actually work, including in agentic settings.
+
+Own deployment, monitoring, and reliability for systems Labs ships.
+
+Build internal tooling that helps investigators surface and act on abuse patterns.
+
+Collaborate with research engineers on scoping and contribute to decisions about which prototypes are ready to graduate.
+
+Minimum qualifications
+
+Strong proficiency in Python and comfort working with large datasets.
+
+A track record of designing, building, and operating production backend systems or data pipelines.
+
+Experience taking software from prototype to production, including testing, monitoring, and reliability work.
+
+Working familiarity with how large language models operate, even if LLMs aren't your primary background.
+
+Care about the societal impacts of AI and want your work to directly reduce real-world harm.
+
+Preferred qualifications
+
+At least 5 years of software engineering experience.
+
+Experience deploying ML systems or classifiers into production.
+
+Background in trust and safety, integrity, fraud detection, threat intelligence, or adversarial ML.
+
+Experience building developer-facing tooling or platforms that accelerate research workflows.
+
+Familiarity with evaluation methodologies for language models.
+
+Experience with agentic environments.
+
+A history of partnering with researchers and successfully transferring prototypes into production.
+
+The annual compensation range for this role is listed below.&nbsp;
+
+For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+
+Annual Salary:$405,000&mdash;$485,000 USDLogistics
+
+Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience
+
+Required field of study:&nbsp;A field relevant to the role as demonstrated through coursework, training, or professional experience
+
+Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position
+
+Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+
+Visa sponsorship:&nbsp;We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+
+We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed.&nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+
+Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&nbsp;@anthropic.com&nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit&nbsp;anthropic.com/careers&nbsp;directly for confirmed position openings.
+
+How we're different
+
+We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.
+
+The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
+
+Come work with us!
+
+Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage:&nbsp;Learn about&nbsp;our policy&nbsp;for using AI in our application process
+
+---
+
+**[→ Apply](https://job-boards.greenhouse.io/anthropic/jobs/5219486008)**

@@ -1,35 +1,35 @@
 <!--
-id: lever-palantir-7b269a3a-77c7-4060-9171-4fb655dfc676
+id: lever-palantir-655f9937-a4ce-4e7d-80e2-a6659af07329
 company: Palantir
-title: Software Engineer, Internship - Year at Palantir
+title: Year at Palantir - Software Engineer, Internship
 source: lever
-location: Washington, D.C.
+location: New York, NY
 remote: On-site
 hybrid: no
-posted_at: 2026-04-23
+posted_at: 2026-03-20
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
-url: https://jobs.lever.co/palantir/7b269a3a-77c7-4060-9171-4fb655dfc676
-summary: Build software on Palantir's data-driven platforms to deliver customer outcomes, including AI-powered solutions and enterprise systems that help organizations make faster, data-informed decisions.
+first_seen_at: 
+url: https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329
+summary: Build software on Palantir's data-driven platforms, working directly with customers to deploy AI-powered solutions and transform how organizations operate. You'll be held to the same performance standards as full engineers and work on problems in critical industries.
 skills: 
 level: intern
 comp: 
 comp_extras: 
-render_hash: 96a165a5
+render_hash: 2a06aaff
 -->
 
-# Software Engineer, Internship - Year at Palantir
+# Year at Palantir - Software Engineer, Internship
 
 <img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir**  
-Washington, D.C. · `Intern` · On-site
+New York, NY · `Intern` · On-site
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
-_Build software on Palantir's data-driven platforms to deliver customer outcomes, including AI-powered solutions and enterprise systems that help organizations make faster, data-informed decisions._
+_Build software on Palantir's data-driven platforms, working directly with customers to deploy AI-powered solutions and transform how organizations operate. You'll be held to the same performance standards as full engineers and work on problems in critical industries._
 
-<sub>Posted April 23, 2026</sub>
+<sub>Posted March 20, 2026</sub>
 
-**[→ Apply](https://jobs.lever.co/palantir/7b269a3a-77c7-4060-9171-4fb655dfc676)**
+**[→ Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329)**
 
 ---
 
@@ -51,4 +51,4 @@ You’ll have the rare opportunity to gain deep insight into and directly influe
 
 ---
 
-**[→ Apply](https://jobs.lever.co/palantir/7b269a3a-77c7-4060-9171-4fb655dfc676)**
+**[→ Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329)**
