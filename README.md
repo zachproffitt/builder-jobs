@@ -4,13 +4,57 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 82 open roles (13 new today) &nbsp;·&nbsp; 731 companies searched
+### 85 open roles (16 new today) &nbsp;·&nbsp; 731 companies searched
 
-<sub>Last updated May 14, 2026 at 09:08 UTC</sub>
+<sub>Last updated May 14, 2026 at 10:56 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Senior Product Engineer - Pricing & Packaging](jobs/intercom/senior-product-engineer-pricing-packaging-7925313.md)
+<img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom** · Dublin, Ireland · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Design and build distributed systems for pricing configuration, packaging, trial mechanics, paywalls, and billing integrations that directly impact revenue. Work across a fast-changing environment where pricing correctness and data integrity are critical, with direct revenue impact from every deployment._
+
+![backend engineering](https://img.shields.io/badge/backend_engineering-3B82F6?style=flat-square) ![distributed systems](https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square) ![Stripe](https://img.shields.io/badge/Stripe-3B82F6?style=flat-square) ![Salesforce CPQ](https://img.shields.io/badge/Salesforce_CPQ-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AI-assisted development](https://img.shields.io/badge/AI--assisted_development-3B82F6?style=flat-square) ![system design](https://img.shields.io/badge/system_design-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 10:56 UTC</sub>
+
+---
+
+### [QA Automation Engineer](jobs/scopely/qa-automation-engineer-5070430008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · IN - India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid`
+
+_Build robust test automation frameworks for mobile, web, and game platforms, automating gameplay features and user engagement flows at scale. Work on top-grossing casino games with a focus on converting manual tests into scalable automated test suites integrated into CI/CD pipelines._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Senior Artificial Intelligence Engineer](jobs/scopely/senior-artificial-intelligence-engineer-5216135008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · IN - India · `Senior`
+
+_Design and deploy advanced AI systems for conversational analytics, knowledge bases, QA automation, and in-game intelligent experiences. Lead AI infrastructure including model deployment workflows, performance tuning, and production observability for a major mobile games platform at scale._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-3B82F6?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Staff ML Performance Engineer (Inference Optimisation)](jobs/wayve/staff-ml-performance-engineer-inference-optimisation-8545371002.md)
+<img src="https://www.google.com/s2/favicons?domain=wayve.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Wayve** · London · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff`
+
+_Optimize ML inference performance for large transformer models running on edge accelerators and GPUs in autonomous vehicles. Profile and implement optimizations across the full inference stack—from model graph to kernel execution—ensuring production-grade reliability on low-power, cost-constrained in-vehicle hardware._
+
+![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![NVIDIA Orin](https://img.shields.io/badge/NVIDIA_Orin-3B82F6?style=flat-square) ![Qualcomm QNN](https://img.shields.io/badge/Qualcomm_QNN-3B82F6?style=flat-square) ![Kernel optimization](https://img.shields.io/badge/Kernel_optimization-3B82F6?style=flat-square) ![Quantization-aware performance](https://img.shields.io/badge/Quantization--aware_performance-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 10:56 UTC</sub>
+
+---
 
 ### [Engineer, SoC Infrastructure](jobs/tenstorrent/engineer-soc-infrastructure-4780808007.md)
 <img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Tenstorrent** · Santa Clara, California, United States · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$100k-$500k` · `Equity` · `Bonus`
@@ -64,17 +108,6 @@ _Design, develop, and maintain fully automated test systems for avionics electro
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![NX](https://img.shields.io/badge/NX-3B82F6?style=flat-square) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square) ![High-Voltage Electronics Testing](https://img.shields.io/badge/High--Voltage_Electronics_Testing-3B82F6?style=flat-square) ![Environmental/Qualification Testing](https://img.shields.io/badge/Environmental%2FQualification_Testing-3B82F6?style=flat-square) ![Data Acquisition Systems](https://img.shields.io/badge/Data_Acquisition_Systems-3B82F6?style=flat-square)
 
 <sub>May 14, 2026 at 03:19 UTC</sub>
-
----
-
-### [Security Engineer (Product)](jobs/coder/security-engineer-product-b608ce17-2f96-46cb-8a40-90463c5f1ad7.md)
-<img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
-
-_Build secure-by-default patterns, tooling, and CI/CD workflows to embed security into the software development lifecycle. Partner with engineering teams to turn security findings into fixes and make threat modeling and secure design reviews repeatable for developers._
-
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![SAST](https://img.shields.io/badge/SAST-3B82F6?style=flat-square) ![SCA](https://img.shields.io/badge/SCA-3B82F6?style=flat-square) ![Dependency Scanning](https://img.shields.io/badge/Dependency_Scanning-3B82F6?style=flat-square) ![Secret Scanning](https://img.shields.io/badge/Secret_Scanning-3B82F6?style=flat-square)
-
-<sub>May 14, 2026 at 02:36 UTC</sub>
 
 ---
 
