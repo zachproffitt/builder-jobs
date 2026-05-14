@@ -1,13 +1,68 @@
 # Builder Jobs
 
 For engineers who build.
-Roles are [scraped](https://github.com/zachproffitt/builder-jobs-scraper) hourly from company career pages and classified by Claude Haiku 4.5 — curation keeps the signal
+Roles are scraped hourly from company career pages and classified by Claude — curation keeps the signal
 high enough that browsing everything new takes a few minutes and gives you a broader picture of the market.
 Listings older than 14 days are removed automatically.
 
-### 70 open roles (70 new today) &nbsp;·&nbsp; 296 companies searched
+> **Companies are sourced, not scraped.**  
+> Every company on this board was deliberately added — from Y Combinator batches, top VC portfolios
+> (Founders Fund, Khosla, and others), and curated lists of engineering-first companies across 20+ sectors:
+> AI, defense, climate, gaming, biotech, autonomous vehicles, and more. Listings are pulled directly
+> from each company's ATS — not aggregators — so roles appear here as soon as they're posted,
+> without the noise of non-engineering roles.
 
-<sub>Last updated May 13, 2026 at 23:32 UTC</sub>
+### 74 open roles (4 new today) &nbsp;·&nbsp; 296 companies searched
+
+<sub>Last updated May 14, 2026 at 00:21 UTC</sub>
+
+<br>
+
+## May 14, 2026
+
+### [Network Engineer](jobs/anthropic/network-engineer-5170073008.md)
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · Friendly (Travel-Required) · `Senior` · `Remote` · `$320k-$405k` · `Equity`
+
+_Build and operate production networking infrastructure across multiple data centers, including physical network design, routing protocols, and security. Develop network automation and tooling while scaling infrastructure for AI workloads at massive scale._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![OSPF](https://img.shields.io/badge/OSPF-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 00:21 UTC</sub>
+
+---
+
+### [Senior Engine Programmer, Verse Framework](jobs/epic-games/senior-engine-programmer-verse-framework-5994995004.md)
+<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Vancouver,British Columbia,Canada · `Senior` · `$182,815–$268,128 CAD`
+
+_Design and implement low-level engine systems for Unreal Engine's Verse Framework, including Scene Graph, networking, analytics, and language toolchain integration. Build stable, forward-thinking APIs that expose engine capabilities while maintaining robustness, performance, and cross-platform reliability across game consoles and multiple hardware platforms._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square) ![Scene Graph](https://img.shields.io/badge/Scene_Graph-3B82F6?style=flat-square) ![Game Console Development](https://img.shields.io/badge/Game_Console_Development-3B82F6?style=flat-square) ![Multiple Programming Languages](https://img.shields.io/badge/Multiple_Programming_Languages-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 00:21 UTC</sub>
+
+---
+
+### [Senior Engine Programmer, Verse Framework](jobs/epic-games/senior-engine-programmer-verse-framework-5995948004.md)
+<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games** · Montreal,Quebec,Canada · `Senior`
+
+_Design and implement low-level engine systems across Scene Graph, networking, analytics, and the language toolchain for Unreal Engine's Verse Framework. Shape stable APIs that expose engine capabilities while navigating cross-team integration challenges at scale across multiple platforms including game consoles._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Verse](https://img.shields.io/badge/Verse-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square) ![Scene Graph](https://img.shields.io/badge/Scene_Graph-3B82F6?style=flat-square) ![Game Console Development](https://img.shields.io/badge/Game_Console_Development-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 00:21 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Open Cloud](jobs/roblox/senior-software-engineer-open-cloud-7919050.md)
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · `Senior` · `Hybrid` · `$196,750-$243,290` · `Equity`
+
+_Build the Open Cloud platform and HTTP API infrastructure that enables Roblox creators and AI agents to automate community management, CI/CD, and in-game economy tasks. Own projects end-to-end across the full stack while serving millions of developers on a platform handling massive scale._
+
+![HTTP APIs](https://img.shields.io/badge/HTTP_APIs-3B82F6?style=flat-square) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=flat-square) ![Backend Systems](https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square) ![Authentication/Authorization](https://img.shields.io/badge/Authentication%2FAuthorization-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Developer Platforms](https://img.shields.io/badge/Developer_Platforms-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Monitoring](https://img.shields.io/badge/Monitoring-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 00:21 UTC</sub>
+
+---
 
 <br>
 
@@ -32,72 +87,6 @@ _Build and architect LangSmith's observability and evaluation platform across fu
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
 
 <sub>May 13, 2026 at 23:00 UTC</sub>
-
----
-
-### [Software Engineer, Systems - Claude Code](jobs/anthropic/software-engineer-systems-claude-code-5218395008.md)
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · San Francisco, CA · `Senior` · `Hybrid` · `$320k-$485k` · `Equity`
-
-_Optimize the performance and reliability of Claude Code and the Bun JavaScript runtime by designing and building core systems including runtime internals, I/O paths, memory management, and the agent execution loop. Drive down memory usage, latency, and startup time across the stack from kernel interfaces through the JS engine to the agent layer._
-
-![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Linux internals](https://img.shields.io/badge/Linux_internals-3B82F6?style=flat-square) ![Memory management](https://img.shields.io/badge/Memory_management-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Bun runtime](https://img.shields.io/badge/Bun_runtime-3B82F6?style=flat-square)
-
-<sub>May 13, 2026 at 16:15 UTC</sub>
-
----
-
-### [Engineer, Server](jobs/scopely/engineer-server-5124529008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · `Hybrid`
-
-_Build backend services and APIs in Python running on AWS for a large-scale multiplayer strategy game, handling server architecture, performance optimization, and anti-cheat systems. Work on foundational server technologies supporting millions of concurrent players with requirements for high availability, low latency, and security hardening._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
-
-<sub>May 13, 2026 at 16:15 UTC</sub>
-
----
-
-### [Platform Engineer (Automation) - Unannounced Project](jobs/scopely/platform-engineer-automation-unannounced-project-5098020008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain; ES - Spain; GB - United Kingdom; IE - Dublin, Ireland; PT - Portugal · `Senior` · `Hybrid`
-
-_Build and evolve CI/CD pipelines, automation frameworks, and internal developer tooling that enable safe, reliable software delivery across development and production environments. This role requires operating systems across multiple environments and improving engineering team productivity through infrastructure-as-code and deployment automation._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
-
-<sub>May 13, 2026 at 16:15 UTC</sub>
-
----
-
-### [Platform Engineer (Reliability) - Unannounced Project](jobs/scopely/platform-engineer-reliability-unannounced-project-5081833008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Spain; GB - United Kingdom; IE - Ireland; PT - Portugal · `Senior` · `Hybrid`
-
-_Build and operate reliability and observability infrastructure for a multiplayer strategy MMO, automating operational toil and implementing systems that scale to millions of concurrent players. Drive production incident response, performance optimization, and cloud cost management across distributed game services._
-
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
-
-<sub>May 13, 2026 at 16:15 UTC</sub>
-
----
-
-### [Senior Engineer, Server](jobs/scopely/senior-engineer-server-4662589008.md)
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · `Hybrid`
-
-_Build and maintain the backend server infrastructure for a cross-platform Strategy/MMO game's LiveOps platform, delivering high-performance web services that handle millions of concurrent players. Design scalable, low-latency cloud solutions in AWS supporting real-time game operations and player engagement at massive scale._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square)
-
-<sub>May 13, 2026 at 16:15 UTC</sub>
-
----
-
-### [Software Developer II - ShareGate Migrate [Web Experience]](jobs/workleap/software-developer-ii-sharegate-migrate-web-experience-5133911007.md)
-<img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Workleap** · Canada · `Mid` · `Remote` · `$100k-$130k CAD`
-
-_Build a brand-new web application for ShareGate Migrate from scratch, establishing technical foundations and shipping full-stack features using TypeScript and React. Integrate Microsoft 365 APIs (Microsoft Graph, Azure AD/Entra ID, MSAL) to enable migration and authentication workflows at scale for thousands of IT professionals._
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-3B82F6?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-3B82F6?style=flat-square) ![Azure AD/Entra ID](https://img.shields.io/badge/Azure_AD%2FEntra_ID-3B82F6?style=flat-square) ![MSAL](https://img.shields.io/badge/MSAL-3B82F6?style=flat-square) ![Relational Databases](https://img.shields.io/badge/Relational_Databases-3B82F6?style=flat-square) ![Non-relational Databases](https://img.shields.io/badge/Non--relational_Databases-3B82F6?style=flat-square)
-
-<sub>May 13, 2026 at 16:15 UTC</sub>
 
 ---
 
@@ -204,6 +193,17 @@ _Design and build real-time, map-based interfaces and backend systems for autono
 _Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems._
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Remix](https://img.shields.io/badge/Remix-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Manufacturing Execution Systems (MES)](https://img.shields.io/badge/Manufacturing_Execution_Systems_%28MES%29-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![U.S. Person Status / TS/SCI Clearance](https://img.shields.io/badge/U.S._Person_Status_%2F_TS%2FSCI_Clearance-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Software Engineer, Systems - Claude Code](jobs/anthropic/software-engineer-systems-claude-code-5218395008.md)
+<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic** · San Francisco, CA · `Senior` · `Hybrid` · `$320k-$485k` · `Equity`
+
+_Optimize the performance and reliability of Claude Code and the Bun JavaScript runtime by designing and building core systems including runtime internals, I/O paths, memory management, and the agent execution loop. Drive down memory usage, latency, and startup time across the stack from kernel interfaces through the JS engine to the agent layer._
+
+![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Linux internals](https://img.shields.io/badge/Linux_internals-3B82F6?style=flat-square) ![Memory management](https://img.shields.io/badge/Memory_management-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Bun runtime](https://img.shields.io/badge/Bun_runtime-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
@@ -660,6 +660,50 @@ _Develop full-stack online services infrastructure (matchmaking, cloud saves, pl
 
 ---
 
+### [Engineer, Server](jobs/scopely/engineer-server-5124529008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · `Hybrid`
+
+_Build backend services and APIs in Python running on AWS for a large-scale multiplayer strategy game, handling server architecture, performance optimization, and anti-cheat systems. Work on foundational server technologies supporting millions of concurrent players with requirements for high availability, low latency, and security hardening._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Platform Engineer (Automation) - Unannounced Project](jobs/scopely/platform-engineer-automation-unannounced-project-5098020008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain; ES - Spain; GB - United Kingdom; IE - Dublin, Ireland; PT - Portugal · `Senior` · `Hybrid`
+
+_Build and evolve CI/CD pipelines, automation frameworks, and internal developer tooling that enable safe, reliable software delivery across development and production environments. This role requires operating systems across multiple environments and improving engineering team productivity through infrastructure-as-code and deployment automation._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Platform Engineer (Reliability) - Unannounced Project](jobs/scopely/platform-engineer-reliability-unannounced-project-5081833008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Spain; GB - United Kingdom; IE - Ireland; PT - Portugal · `Senior` · `Hybrid`
+
+_Build and operate reliability and observability infrastructure for a multiplayer strategy MMO, automating operational toil and implementing systems that scale to millions of concurrent players. Drive production incident response, performance optimization, and cloud cost management across distributed game services._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Senior Engineer, Server](jobs/scopely/senior-engineer-server-4662589008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · ES - Barcelona, Spain · `Senior` · `Hybrid`
+
+_Build and maintain the backend server infrastructure for a cross-platform Strategy/MMO game's LiveOps platform, delivering high-performance web services that handle millions of concurrent players. Design scalable, low-latency cloud solutions in AWS supporting real-time game operations and player engagement at massive scale._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
 ### [Sr Software Engineer (iOS) – Digital Products](jobs/scout-motors/sr-software-engineer-ios-digital-products-5128323007.md)
 <img src="https://www.google.com/s2/favicons?domain=scoutmotors.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scout Motors** · United States · `Senior` · `Remote` · `$140k-$187k` · `Bonus`
 
@@ -765,6 +809,17 @@ _Build infrastructure to manage pickup and drop-off locations for autonomous rid
 _Design and implement Waymo's core trip platform APIs and backend services supporting ride-hailing and delivery across 1st and 3rd party partners. Build low-latency, large-scale distributed systems handling trip requests, pricing, and routing in the autonomous vehicle domain._
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Backend Development](https://img.shields.io/badge/Backend_Development-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-3B82F6?style=flat-square) ![Spanner](https://img.shields.io/badge/Spanner-3B82F6?style=flat-square) ![Low-Latency Systems](https://img.shields.io/badge/Low--Latency_Systems-3B82F6?style=flat-square) ![Transportation/Autonomous Vehicles](https://img.shields.io/badge/Transportation%2FAutonomous_Vehicles-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Software Developer II - ShareGate Migrate [Web Experience]](jobs/workleap/software-developer-ii-sharegate-migrate-web-experience-5133911007.md)
+<img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Workleap** · Canada · `Mid` · `Remote` · `$100k-$130k CAD`
+
+_Build a brand-new web application for ShareGate Migrate from scratch, establishing technical foundations and shipping full-stack features using TypeScript and React. Integrate Microsoft 365 APIs (Microsoft Graph, Azure AD/Entra ID, MSAL) to enable migration and authentication workflows at scale for thousands of IT professionals._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-3B82F6?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-3B82F6?style=flat-square) ![Azure AD/Entra ID](https://img.shields.io/badge/Azure_AD%2FEntra_ID-3B82F6?style=flat-square) ![MSAL](https://img.shields.io/badge/MSAL-3B82F6?style=flat-square) ![Relational Databases](https://img.shields.io/badge/Relational_Databases-3B82F6?style=flat-square) ![Non-relational Databases](https://img.shields.io/badge/Non--relational_Databases-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
