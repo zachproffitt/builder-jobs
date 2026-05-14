@@ -4,13 +4,24 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 81 open roles (12 new today) &nbsp;·&nbsp; 718 companies searched
+### 79 open roles (13 new today) &nbsp;·&nbsp; 718 companies searched
 
-<sub>Last updated May 14, 2026 at 05:27 UTC</sub>
+<sub>Last updated May 14, 2026 at 09:08 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Engineer, SoC Infrastructure](jobs/tenstorrent/engineer-soc-infrastructure-4780808007.md)
+<img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Tenstorrent** · Santa Clara, California, United States · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$100k-$500k` · `Equity` · `Bonus`
+
+_Build and maintain Linux infrastructure for silicon design and EDA workflows, including schedulers, tool environments, and observability systems. Support large-scale shared environments serving design and emulation teams at a cutting-edge AI chip company._
+
+![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![LSF](https://img.shields.io/badge/LSF-3B82F6?style=flat-square) ![SLURM](https://img.shields.io/badge/SLURM-3B82F6?style=flat-square) ![Environment Modules](https://img.shields.io/badge/Environment_Modules-3B82F6?style=flat-square) ![Lmod](https://img.shields.io/badge/Lmod-3B82F6?style=flat-square) ![Monitoring and Alerting](https://img.shields.io/badge/Monitoring_and_Alerting-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 09:08 UTC</sub>
+
+---
 
 ### [Senior Staff Machine Learning Engineer, Infrastructure](jobs/airbnb/senior-staff-machine-learning-engineer-infrastructure-7759457.md)
 <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · United States · `Staff` · `$248k-$310k` · `Bonus` · `Equity`
@@ -390,17 +401,6 @@ _Design and build specialized indexing systems (vector, full-text, geospatial) f
 
 ---
 
-### [Chip Simulation Software Engineer](jobs/etched/chip-simulation-software-engineer-29b303b2-f1a5-4799-a0b2-e86e28289a9b.md)
-<img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Etched** · San Jose · `Mid`
-
-_Design, develop, and maintain accurate, high-performance simulations of custom transformer ASIC hardware to enable close hardware-software co-design. Work at the intersection of chip simulation, kernel development, and ML accelerator infrastructure with tight feedback loops between simulation and real hardware validation._
-
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SystemC](https://img.shields.io/badge/SystemC-3B82F6?style=flat-square) ![QEMU](https://img.shields.io/badge/QEMU-3B82F6?style=flat-square) ![Linux kernel development](https://img.shields.io/badge/Linux_kernel_development-3B82F6?style=flat-square) ![Hardware verification](https://img.shields.io/badge/Hardware_verification-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Multithreading](https://img.shields.io/badge/Multithreading-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
 ### [Sales AI Engineer](jobs/figma/sales-ai-engineer-5991176004.md)
 <img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Figma** · San Francisco, CA • New York, NY • United States · `Mid` · `$140k—$296k USD` · `Equity` · `Bonus`
 
@@ -605,28 +605,6 @@ _Lead a distributed engineering team building genomics tertiary analysis softwar
 _Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization._
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Data Engineer, People Innovation Labs](jobs/openai/data-engineer-people-innovation-labs-579595e5-0b16-485e-b7c5-102fc7467def.md)
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Data Scientist, Core Experimentation](jobs/openai/data-scientist-core-experimentation-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92.md)
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · Seattle · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$293k-$325k`
-
-_Build and evolve OpenAI's core experimentation platform, designing statistical methodologies and scalable analytical systems that power trustworthy decision-making across product and research teams. Work on hard problems in online experimentation including variance reduction, causal inference, and measurement systems at frontier AI scale._
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Sequential Testing](https://img.shields.io/badge/Sequential_Testing-3B82F6?style=flat-square) ![Variance Reduction (CUPED)](https://img.shields.io/badge/Variance_Reduction_%28CUPED%29-3B82F6?style=flat-square) ![Sample Ratio Mismatch Detection](https://img.shields.io/badge/Sample_Ratio_Mismatch_Detection-3B82F6?style=flat-square) ![Metric Design](https://img.shields.io/badge/Metric_Design-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
