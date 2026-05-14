@@ -1,33 +1,33 @@
 <!--
 id: ashby-langchain-d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93
 company: LangChain
-title: Principle Software Engineer, AI Observability & Evals Platform
+title: Principal Software Engineer, AI Observability & Evals Platform
 source: ashby
 location: Boston, MA
 remote: On-site
-hybrid: yes
+hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
-first_seen_at: 2026-05-13T23:00:21+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93
-summary: Build and architect LangSmith's observability and evaluation platform across full-stack Go, Python, and TypeScript, driving tracing, monitoring, and AI system reliability at production scale. Lead technical direction for high-throughput data systems handling millions of developer interactions across Fortune 500 companies.
-skills: Python, Go, TypeScript, React, PostgreSQL, Redis, AWS, Distributed Systems
+summary: Build LangSmith's full-stack AI observability platform—backend services, APIs, and frontend product surfaces—handling tracing, evaluation, and monitoring workflows at production scale. You'll drive architectural decisions across Go, Python, and TypeScript while establishing engineering standards and mentoring a growing team.
+skills: Go, Python, TypeScript, React, PostgreSQL, AWS, Distributed Systems, Production Observability
 level: principal
-comp: $230k-$270k
-comp_extras: equity, bonus
-render_hash: d1056c6c
+comp: $230,000-$270,000
+comp_extras: equity
+render_hash: 3a5823ea
 -->
 
-# Principle Software Engineer, AI Observability & Evals Platform
+# Principal Software Engineer, AI Observability & Evals Platform
 
 <img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**LangChain**  
-Boston, MA · `Principal` · `Hybrid` · `$230k-$270k` · `Equity` · `Bonus`
+Boston, MA · `Principal` · On-site · `$230,000-$270,000` · `Equity`
 
 > LangChain builds open-source Python and JavaScript libraries that simplify building applications with large language models by providing abstractions for chaining together LLM calls, managing prompts, and integrating external data sources. The company operates in the developer tools space for AI/machine learning applications.
 
-_Build and architect LangSmith's observability and evaluation platform across full-stack Go, Python, and TypeScript, driving tracing, monitoring, and AI system reliability at production scale. Lead technical direction for high-throughput data systems handling millions of developer interactions across Fortune 500 companies._
+_Build LangSmith's full-stack AI observability platform—backend services, APIs, and frontend product surfaces—handling tracing, evaluation, and monitoring workflows at production scale. You'll drive architectural decisions across Go, Python, and TypeScript while establishing engineering standards and mentoring a growing team._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Production Observability](https://img.shields.io/badge/Production_Observability-3B82F6?style=flat-square)
 
 <sub>Posted May 13, 2026</sub>
 

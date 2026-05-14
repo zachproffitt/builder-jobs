@@ -4,13 +4,68 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **47 open roles** (20 new today)
+### **52 open roles** (25 new today)
 
-<sub>Last updated May 14, 2026 at 16:52 UTC</sub>
+<sub>Last updated May 14, 2026 at 18:49 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Engineering Manager](jobs/clipboard/engineering-manager-2f7bc179-c657-455f-a0a1-e0c43ec7bd4c.md)
+<img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Clipboard** · Remote (Canada) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead and mentor a distributed engineering team, owning delivery, process optimization, and technical guidance across product initiatives. You'll balance hands-on technical review with people leadership, scaling team capability and impact in a fast-growing healthcare marketplace._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Engineering Manager](jobs/clipboard/engineering-manager-4871e102-00a5-4693-8e2f-8672435f1ba2.md)
+<img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Clipboard** · U.S. · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead and manage a software engineering team, owning process, delivery, and technical quality while mentoring engineers and aligning product roadmap with business goals. Partner with distributed teams in a fast-paced startup environment where you'll maintain hands-on technical involvement through code review and system design guidance._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Ads AI Analyst](jobs/instacart/ads-ai-analyst-7658241.md)
+<img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Instacart** · Canada (ON, AB, BC, or NS Only) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD$115k–$121k` · `Equity`
+
+_Design the semantic layer and ontologies for Instacart's Ads AI agents, building dbt models and curated datasets in Snowflake to power campaign analysis, performance diagnosis, and ROI recommendations. Own end-to-end evaluation frameworks and A/B experiments to quantify agent impact on ROAS lift and operational efficiency across millions of merchants and campaigns._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Ads Analytics](https://img.shields.io/badge/Ads_Analytics-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Staff / Senior Staff Backend Engineer, B2B Flywheel](jobs/openai/staff-senior-staff-backend-engineer-b2b-flywheel-e9fa3446-0b1e-48c0-a567-ef85f1621b76.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293K-$385K`
+
+_Design and build real-time backend systems and data pipelines that capture, process, and translate product and usage signals across OpenAI's B2B API surfaces. Operate in high-scale, low-latency, privacy-constrained environments while partnering with data science and research teams to improve products and models through production feedback loops._
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![API Services](https://img.shields.io/badge/API_Services-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Staff+ Software Engineer, Identity Infrastructure Engineering](jobs/openai/staff-software-engineer-identity-infrastructure-engineering-72a58872-70e2-4340-a259-e9bea3596883.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
+
+_Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 18:49 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Data Authoring Platform](jobs/airbnb/senior-software-engineer-data-authoring-platform-7094964.md)
 <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · Remote USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$196k–$230k` · `Equity` · `Bonus`

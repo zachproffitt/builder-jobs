@@ -1,0 +1,178 @@
+<!--
+id: greenhouse-andurilindustries-5138059007
+company: Anduril Industries
+title: PLM Senior Software Architect
+source: greenhouse
+location: Costa Mesa, California, United States
+remote: Not specified
+hybrid: no
+posted_at: Unknown
+first_seen: 2026-05-14
+first_seen_at: 2026-05-14T18:49:00+00:00
+url: https://boards.greenhouse.io/andurilindustries/jobs/5138059007?gh_jid=5138059007
+summary: Architect and implement mission-critical Teamcenter customizations, integrations, and scalable PLM solutions that connect CAD, ERP, MES, and manufacturing systems into a unified engineering backbone for defense hardware production. You'll work in a greenfield environment building next-generation systems with modern software practices, avoiding legacy PLM patterns.
+skills: Teamcenter, ITK, C++, Java, C#, SOA, Active Workspace, BMIDE
+level: senior
+comp: $166k-$220k
+comp_extras: equity
+render_hash: ae46b664
+-->
+
+# PLM Senior Software Architect
+
+<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
+Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
+
+> Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
+
+_Architect and implement mission-critical Teamcenter customizations, integrations, and scalable PLM solutions that connect CAD, ERP, MES, and manufacturing systems into a unified engineering backbone for defense hardware production. You'll work in a greenfield environment building next-generation systems with modern software practices, avoiding legacy PLM patterns._
+
+![Teamcenter](https://img.shields.io/badge/Teamcenter-3B82F6?style=flat-square) ![ITK](https://img.shields.io/badge/ITK-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![SOA](https://img.shields.io/badge/SOA-3B82F6?style=flat-square) ![Active Workspace](https://img.shields.io/badge/Active_Workspace-3B82F6?style=flat-square) ![BMIDE](https://img.shields.io/badge/BMIDE-3B82F6?style=flat-square)
+
+<sub>First seen May 14, 2026 at 18:49 UTC</sub>
+
+**[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5138059007?gh_jid=5138059007)**
+
+---
+
+Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
+ABOUT THE TEAM
+
+ArsenalOS is Anduril's unified production systems platform — the digital backbone for our manufacturing operations spanning PLM, MES, WMS, and supply chain systems. We're building modern, integrated solutions that enable us to scale hardware production with software velocity.
+
+In the ArsenalOS future state, users will not experience the lifecycle as disconnected silos. A design change will propagate into the bill of materials, planning systems, work instructions, quality workflows, and supplier-facing systems with minimal lag. A production issue will immediately surface to the teams responsible for design, manufacturing, supplier performance, and sustainment. Field signals will flow upstream fast enough to influence the next build of a product, not the next quarterly review. ArsenalOS will turn the Build Chain into a continuous learning system.
+
+ABOUT THE JOB
+
+We are looking for a experienced PLM Software Engineer with strong Teamcenter expertise to join the ArsenalOS PLM team. As a PLM Software Engineer on ArsenalOS, you will be architecting and implementing mission-critical Teamcenter customizations, integrations, and solutions that enable engineering teams to design, manage, and deliver complex hardware products at scale.
+
+This is not a traditional "maintain legacy PLM" role. We want builders. As a member of ArsenalOS PLM, you will help architect and develop next-generation Engineering Backbone from the ground up — integrating CAD, ERP, MES, manufacturing, and engineering systems into scalable modern platforms. You'll be developing custom ITK services, SOA integrations, Active Workspace customizations, and enterprise integrations that serve engineering teams across multiple product lines. We spend time with engineering teams, then provide solutions for the challenges they face managing product data, BOMs, change management, and configuration management.
+
+The ideal candidate is a hands-on, deeply technical Teamcenter Software Engineer who thrives in fast-moving, greenfield environments. You combine strong software engineering foundations with Teamcenter expertise, while avoiding the "this is how PLM has always been done" mindset. We value curiosity, speed, ownership, clean architecture, and pragmatic execution over heavyweight process or legacy baggage.
+
+You should be equally comfortable with:
+
+Teamcenter internals and workflows
+
+APIs and distributed systems
+
+CI/CD and cloud-native architecture
+
+Integration patterns and event-driven services
+
+Data modeling and scalable engineering platforms
+
+WHAT YOU'LL DO
+
+Own and deliver complex Teamcenter customizations and integrations for ArsenalOS PLM (ITK, SOA, BMIDE, Active Workspace)
+
+Build high-performance integrations between Teamcenter and other ArsenalOS systems (ERP, MES, change management, requirements management, CAD)
+
+Design and implement scalable data models, business logic, and workflow solutions while minimizing upgrade friction
+
+Contribute to improving the platform observability (Datadog, etc) and reliability
+
+Set the bar for engineering excellence — raise standards through opinionated technical decisions, architectural guidance, and high-quality code contributions
+
+Leverage frontier AI tooling (Claude Code, GitHub Copilot, etc.) for rapid development and serve as a model for how the team should work at speed
+
+Collaborate cross-functionally with systems architecture, software product and design, change management, requirements management, and manufacturing teams
+
+Define architecture standards for scalable growth and move quickly from concept → prototype → production
+
+&nbsp;
+
+REQUIRED QUALIFICATIONS
+
+5+ years of experience in a software engineering role building products, ideally in a fast-paced environment
+
+3+ years of hands-on Teamcenter development experience including:
+
+ITK (Integration Toolkit) development in C/C++
+
+BMIDE (Business Modeler IDE) data modeling and customization
+
+SOA (Service Oriented Architecture) services and handlers
+
+Active Workspace (AWC) customization and development
+
+Teamcenter architecture, database schema, and administration
+
+Strong programming skills in Java, C++, and C#
+
+Experience with modern software development practices: version control (Git), CI/CD, automated testing, code review
+
+Proficiency with AI-assisted development tools (Claude Code, GitHub Copilot, Cursor, etc.) and ability to leverage them for rapid, high-quality development
+
+Experience working with large enterprise applications and platforms with high availability requirements
+
+Database experience (SQL, Oracle or SQL Server, data modeling, query optimization)
+
+Strong opinions about code quality, architecture, and engineering best practices — you're a bar raiser
+
+Degree in Computer Science, Information Systems, Electrical Engineering or related field
+
+U.S. Person status is required as this position needs to access export controlled data
+
+&nbsp;
+
+PREFERRED QUALIFICATIONS
+
+Experience with Teamcenter upgrades/migrations (14.x → 2506/25.x) and cloud deployment architectures
+
+Experience with CAD integrations (NX, SolidWorks) and other PLM platforms (Windchill, Aras, Enovia)
+
+Experience in hyper growth startup-like environments or aerospace/defense manufacturing
+
+Understanding of PLM adjacent systems: ERP (Oracle, SAP), MES, WMS, CAD, BOM management
+
+Cloud platforms (AWS, Azure, GCP)
+
+Knowledge of manufacturing processes, product development lifecycle, and engineering change management
+
+Experience with web technologies (JavaScript/TypeScript, React, REST APIs)
+
+Eligible to obtain and maintain a U.S. Secret/Top Secret Security clearance
+
+US Salary Range$166,000&mdash;$220,000 USDThe salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:&nbsp;
+
+&nbsp;
+
+Benefits
+
+At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next.&nbsp;For more information, Explore Our Benefits.
+
+&nbsp;
+
+Protecting Yourself from Recruitment Scams
+
+Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information.
+
+To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind:
+
+No Financial Requests:&nbsp;Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates.
+
+Please always verify communications:
+
+Direct from Anduril: If you receive an email from one of our recruiters, it will only come from an @anduril.com address.
+
+Via Agency Partner: If contacted by a recruiting agency for an Anduril role, their email will clearly identify their agency. If you suspect any suspicious activity, please verify the agency's authenticity by reaching out to contact@anduril.com.&nbsp;
+
+Exercise Caution with Unsolicited Outreach:&nbsp;If you receive any communication that appears suspicious, contains grammatical errors, or makes unusual requests, do not engage. Always confirm the sender's email domain is @anduril.com before providing any personal information or clicking on links.
+
+What to Do If You Suspect Fraud:&nbsp;Should you encounter any questionable or fraudulent outreach claiming to be from Anduril, please report it immediately to&nbsp;contact@anduril.com. Your proactive caution is invaluable in protecting your personal information and upholding the security and trustworthiness of our recruitment efforts.
+
+&nbsp;
+
+Data Privacy
+
+To view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/.&nbsp;
+
+&nbsp;
+
+By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+
+---
+
+**[→ Apply](https://boards.greenhouse.io/andurilindustries/jobs/5138059007?gh_jid=5138059007)**
