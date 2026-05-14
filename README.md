@@ -4,15 +4,70 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **167 open roles** (98 new today) &nbsp;·&nbsp; 823 companies searched
+### **172 open roles** (103 new today) &nbsp;·&nbsp; 823 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 14, 2026 at 20:53 UTC</sub>
+<sub>Last updated May 14, 2026 at 21:36 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Engineering Manager, Storage SRE](jobs/airbnb/engineering-manager-storage-sre-7927371.md)
+<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · United States · `Manager` · `$212k-$265k` · `Bonus` · `Equity`
+
+_Lead Airbnb's Storage SRE team to own database infrastructure reliability, tooling, and operational excellence across a fleet of relational databases and emerging distributed systems at internet scale. Guide the team through technology transitions while maintaining operational rigor on mission-critical data services serving a global marketplace._
+
+![Database Infrastructure](https://img.shields.io/badge/Database_Infrastructure-3B82F6?style=flat-square) ![SRE](https://img.shields.io/badge/SRE-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Production Database Operations](https://img.shields.io/badge/Production_Database_Operations-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Senior Communications Systems Engineer II](jobs/cesiumastro/senior-communications-systems-engineer-ii-d877e4f4-aa45-4560-ab45-74e6095105fe.md)
+<img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CesiumAstro** · Austin, TX · `Senior`
+
+_Design and deploy machine learning solutions for distributed processing platforms supporting satellite and airborne communication systems. Work at the intersection of ML and aerospace systems with U.S. export control requirements and active mission-critical constraints._
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Model Deployment](https://img.shields.io/badge/Model_Deployment-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Engineering Manager, Software](jobs/instacart/engineering-manager-software-7927378.md)
+<img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Instacart** · Canada (ON, AB, BC, or NS Only) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `CAD$196k—$207k` · `Equity`
+
+_Lead a team building an AI-native platform and pipelines that create, enrich, and maintain product attributes across tens of millions of items from 100,000+ retailer locations. Scale a system that blends LLMs, classical inference, workflow orchestration, and human review to serve search, recommendations, ads, and ML teams across Instacart's marketplace._
+
+![Workflow Orchestration (Temporal](https://img.shields.io/badge/Workflow_Orchestration_%28Temporal-3B82F6?style=flat-square) ![Airflow)](https://img.shields.io/badge/Airflow%29-3B82F6?style=flat-square) ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Governance](https://img.shields.io/badge/Data_Governance-3B82F6?style=flat-square) ![ML Platforms](https://img.shields.io/badge/ML_Platforms-3B82F6?style=flat-square) ![Streaming Systems](https://img.shields.io/badge/Streaming_Systems-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Principal Security Engineer, Product & AI](jobs/marqeta/principal-security-engineer-product-ai-7868953.md)
+<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$218k-$321k` · `Bonus` · `Equity`
+
+_Lead product security engineering for a payment platform—owning threat modeling, secure architecture reviews, API security, and secure SDLC practices across the engineering organization. Build and scale AI security programs including genAI controls, ML pipeline security, and model risk assessment for customer-facing AI products and fraud detection systems in a high-scale fintech environment._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square) ![API Security](https://img.shields.io/badge/API_Security-3B82F6?style=flat-square) ![Machine Learning Security](https://img.shields.io/badge/Machine_Learning_Security-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PCI DSS](https://img.shields.io/badge/PCI_DSS-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Release](jobs/roblox/senior-software-engineer-release-7923586.md)
+<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox** · San Mateo, CA, United States · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$243k-$295k` · `Equity`
+
+_Design and develop build, release, and continuous integration automation tools for the Roblox Game Engine, serving multi-platform deployments to millions of concurrent players. Support the full software lifecycle including crash reporting, test environments, and deployment systems at scale._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![TeamCity](https://img.shields.io/badge/TeamCity-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 21:36 UTC</sub>
+
+---
 
 ### [R&D Test Engineer](jobs/9-mothers/r-d-test-engineer-mothers-87342437-0377-4256-93a8-05e29795fd54.md)
 <img src="https://www.google.com/s2/favicons?domain=9mothers.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**9 Mothers** · Austin · `Mid` · `Equity`

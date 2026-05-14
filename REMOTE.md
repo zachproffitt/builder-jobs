@@ -4,13 +4,35 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **55 open roles** (28 new today)
+### **57 open roles** (30 new today)
 
-<sub>Last updated May 14, 2026 at 20:53 UTC</sub>
+<sub>Last updated May 14, 2026 at 21:36 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Engineering Manager, Software](jobs/instacart/engineering-manager-software-7927378.md)
+<img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Instacart** · Canada (ON, AB, BC, or NS Only) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `CAD$196k—$207k` · `Equity`
+
+_Lead a team building an AI-native platform and pipelines that create, enrich, and maintain product attributes across tens of millions of items from 100,000+ retailer locations. Scale a system that blends LLMs, classical inference, workflow orchestration, and human review to serve search, recommendations, ads, and ML teams across Instacart's marketplace._
+
+![Workflow Orchestration (Temporal](https://img.shields.io/badge/Workflow_Orchestration_%28Temporal-3B82F6?style=flat-square) ![Airflow)](https://img.shields.io/badge/Airflow%29-3B82F6?style=flat-square) ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Governance](https://img.shields.io/badge/Data_Governance-3B82F6?style=flat-square) ![ML Platforms](https://img.shields.io/badge/ML_Platforms-3B82F6?style=flat-square) ![Streaming Systems](https://img.shields.io/badge/Streaming_Systems-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Principal Security Engineer, Product & AI](jobs/marqeta/principal-security-engineer-product-ai-7868953.md)
+<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$218k-$321k` · `Bonus` · `Equity`
+
+_Lead product security engineering for a payment platform—owning threat modeling, secure architecture reviews, API security, and secure SDLC practices across the engineering organization. Build and scale AI security programs including genAI controls, ML pipeline security, and model risk assessment for customer-facing AI products and fraud detection systems in a high-scale fintech environment._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square) ![API Security](https://img.shields.io/badge/API_Security-3B82F6?style=flat-square) ![Machine Learning Security](https://img.shields.io/badge/Machine_Learning_Security-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PCI DSS](https://img.shields.io/badge/PCI_DSS-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 21:36 UTC</sub>
+
+---
 
 ### [Software Engineer (Ray Core)](jobs/anyscale/software-engineer-ray-core-73a973b1-6377-4144-a6e5-610b78719882.md)
 <img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anyscale** · San Francisco · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
