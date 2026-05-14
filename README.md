@@ -4,13 +4,24 @@ For engineers who build. Roles are scraped hourly from company ATS and classifie
 
 > *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
 
-### 77 open roles (8 new today) &nbsp;·&nbsp; 718 companies searched
+### 78 open roles (9 new today) &nbsp;·&nbsp; 718 companies searched
 
-<sub>Last updated May 14, 2026 at 02:36 UTC</sub>
+<sub>Last updated May 14, 2026 at 03:19 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Lead, Avionics Test Engineering](jobs/relativity-space/lead-avionics-test-engineering-8548054002.md)
+<img src="https://www.google.com/s2/favicons?domain=relativityspace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Relativity Space** · Long Beach, California · `Manager` · `$151,000—$208,000` · `Equity`
+
+_Design, develop, and maintain fully automated test systems for avionics electronics in production, supporting acceptance and qualification testing for Terran R rocket hardware. Lead a team of test engineers while managing complex test architectures for high-voltage DC systems, motor drives, and power electronics in a rapid-iteration aerospace environment._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Altium Designer](https://img.shields.io/badge/Altium_Designer-3B82F6?style=flat-square) ![NX](https://img.shields.io/badge/NX-3B82F6?style=flat-square) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square) ![High-Voltage Electronics Testing](https://img.shields.io/badge/High--Voltage_Electronics_Testing-3B82F6?style=flat-square) ![Environmental/Qualification Testing](https://img.shields.io/badge/Environmental%2FQualification_Testing-3B82F6?style=flat-square) ![Data Acquisition Systems](https://img.shields.io/badge/Data_Acquisition_Systems-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 03:19 UTC</sub>
+
+---
 
 ### [Security Engineer (Product)](jobs/coder/security-engineer-product-b608ce17-2f96-46cb-8a40-90463c5f1ad7.md)
 <img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · `Mid` · `Remote`
