@@ -2,15 +2,48 @@
 
 For engineers who build. Roles are scraped hourly from company ATS and classified by Claude — curation keeps the signal high enough that browsing everything new takes a few minutes. Listings older than 14 days are removed automatically.
 
-> *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors.*
+> *Companies sourced from Y Combinator, top VC portfolios, and industry curation across 20+ sectors. [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### 94 open roles (25 new today) &nbsp;·&nbsp; 731 companies searched
+### 97 open roles (28 new today) &nbsp;·&nbsp; 731 companies searched
 
-<sub>Last updated May 14, 2026 at 12:58 UTC</sub>
+<sub>Last updated May 14, 2026 at 13:26 UTC</sub>
 
 <br>
 
 ## May 14, 2026
+
+### [Sr Software Engineer](jobs/bend-studio/sr-software-engineer-5996147004.md)
+<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio** · United States, San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$193k-$289k` · `Bonus` · `Equity`
+
+_Build video codec architecture and encoder/decoder systems for PlayStation SDKs and cloud gaming platforms. Own feature delivery from design through validation, with GPU optimization and ML-based video quality enhancement across CPU and GPU pipelines at scale._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![Vulkan](https://img.shields.io/badge/Vulkan-3B82F6?style=flat-square) ![H.264](https://img.shields.io/badge/H.264-3B82F6?style=flat-square) ![H.265](https://img.shields.io/badge/H.265-3B82F6?style=flat-square) ![AV1](https://img.shields.io/badge/AV1-3B82F6?style=flat-square) ![GPU programming](https://img.shields.io/badge/GPU_programming-3B82F6?style=flat-square) ![Multi-threaded programming](https://img.shields.io/badge/Multi--threaded_programming-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 13:26 UTC</sub>
+
+---
+
+### [Senior Software Engineer - OpenTelemetry | Canada | Remote](jobs/grafana/senior-software-engineer-opentelemetry-canada-remote-5995398004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 205k` · `Equity` · `Bonus`
+
+_Contribute to OpenTelemetry projects and Grafana Labs' observability infrastructure, working across upstream open source communities and customer needs. Lead technical strategy around instrumentation, telemetry pipelines, and distributed tracing systems at scale._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 13:26 UTC</sub>
+
+---
+
+### [Senior Software Engineer - OpenTelemetry | US | Remote](jobs/grafana/senior-software-engineer-opentelemetry-us-remote-5995397004.md)
+<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United States · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$154k-$193k` · `Equity` · `Bonus`
+
+_Contribute to OpenTelemetry components and related observability infrastructure across the open source ecosystem, while defining and executing Grafana Labs' technical strategy for OpenTelemetry adoption. Work with upstream maintainers and customers to build production-quality telemetry pipelines and instrumentation tooling._
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square)
+
+<sub>May 14, 2026 at 13:26 UTC</sub>
+
+---
 
 ### [Copy of Staff Software Engineer - Grafana Cloud k6 | UK | Remote](jobs/grafana/copy-of-staff-software-engineer-grafana-cloud-k6-uk-remote-5996124004.md)
 <img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana** · United Kingdom · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `£103k-£124k` · `Equity` · `Bonus`
