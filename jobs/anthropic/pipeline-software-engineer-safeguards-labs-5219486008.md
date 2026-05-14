@@ -8,28 +8,28 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T19:44:48+00:00
+first_seen_at: 2026-05-14T20:41:30+00:00
 url: https://job-boards.greenhouse.io/anthropic/jobs/5219486008
-summary: Build production-grade safeguards infrastructure and evaluation systems that protect Claude from misuse, hardening research prototypes into reliable services integrated with real-time safety systems. Work at the intersection of AI safety research and engineering, with direct leverage on reducing real-world harms from large language models.
-skills: Python, Machine Learning Systems, Production Backend Systems, Data Pipelines, LLM Evaluation, Monitoring and Reliability, Trust and Safety, Fraud Detection
+summary: Build and harden research prototypes into production-grade safeguards that integrate with Claude's real-time safety systems. Design data and evaluation infrastructure to measure safeguard effectiveness at scale, own deployment and monitoring, and partner with research engineers on novel AI safety methods.
+skills: Python, Machine Learning Systems, Data Pipelines, Backend Systems, Production Deployment, Large Language Models, Monitoring and Observability, Evaluation Methodologies
 level: senior
-comp: $405,000—$485,000
+comp: $405,000–$485,000
 comp_extras: equity
-render_hash: abb574f8
+render_hash: 9c3be49d
 -->
 
 # [Pipeline] Software Engineer, Safeguards Labs
 
 <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic**  
-New York City, NY · `Senior` · `Hybrid` · `$405,000—$485,000` · `Equity`
+New York City, NY · `Senior` · `Hybrid` · `$405,000–$485,000` · `Equity`
 
 > Anthropic builds AI systems focused on safety, interpretability, and steerability for research.
 
-_Build production-grade safeguards infrastructure and evaluation systems that protect Claude from misuse, hardening research prototypes into reliable services integrated with real-time safety systems. Work at the intersection of AI safety research and engineering, with direct leverage on reducing real-world harms from large language models._
+_Build and harden research prototypes into production-grade safeguards that integrate with Claude's real-time safety systems. Design data and evaluation infrastructure to measure safeguard effectiveness at scale, own deployment and monitoring, and partner with research engineers on novel AI safety methods._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning Systems](https://img.shields.io/badge/Machine_Learning_Systems-3B82F6?style=flat-square) ![Production Backend Systems](https://img.shields.io/badge/Production_Backend_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![Monitoring and Reliability](https://img.shields.io/badge/Monitoring_and_Reliability-3B82F6?style=flat-square) ![Trust and Safety](https://img.shields.io/badge/Trust_and_Safety-3B82F6?style=flat-square) ![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Machine Learning Systems](https://img.shields.io/badge/Machine_Learning_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Backend Systems](https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square) ![Production Deployment](https://img.shields.io/badge/Production_Deployment-3B82F6?style=flat-square) ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square) ![Monitoring and Observability](https://img.shields.io/badge/Monitoring_and_Observability-3B82F6?style=flat-square) ![Evaluation Methodologies](https://img.shields.io/badge/Evaluation_Methodologies-3B82F6?style=flat-square)
 
-<sub>First seen May 14, 2026 at 19:44 UTC</sub>
+<sub>First seen May 14, 2026 at 20:41 UTC</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/anthropic/jobs/5219486008)**
 

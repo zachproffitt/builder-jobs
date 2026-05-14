@@ -8,14 +8,14 @@ remote: On-site
 hybrid: yes
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T19:44:48+00:00
+first_seen_at: 2026-05-14T20:41:30+00:00
 url: https://jobs.ashbyhq.com/blaxel/4acea42a-589d-42b1-949e-d4ec4b8907a2
-summary: Build integrations, deployment plans, debugging workflows, and runbooks to help strategic customers deploy Blaxel's AI agent infrastructure in production environments. Work embedded at customer sites and in code, debugging agent deployment, LLM networking, and sandbox runtime issues while shipping product fixes.
-skills: TypeScript, Python, Docker, Kubernetes, AWS, GCP, Azure, CI/CD
+summary: Deploy and debug Blaxel's serverless agent infrastructure at strategic customer sites, owning the full technical path from discovery through production. Work across agent frameworks, LLM integrations, sandbox runtimes, and cloud infrastructure to solve real deployment problems while feeding learnings back into product.
+skills: TypeScript, Python, Docker, Kubernetes, AWS, Go, Rust, CI/CD
 level: mid
 comp: 
 comp_extras: 
-render_hash: ff5f3798
+render_hash: 8a739da5
 -->
 
 # Forward Deployed Engineer (FDE)
@@ -25,9 +25,9 @@ San Francisco · `Mid` · `Hybrid`
 
 > Blaxel builds a persistent sandbox platform that allows AI agents to run code securely in always-available environments with shared storage and co-hosted infrastructure. They operate in the AI infrastructure domain, providing compute sandboxes, distributed filesystems, and agent hosting services that maintain state across sessions without continuous compute costs.
 
-_Build integrations, deployment plans, debugging workflows, and runbooks to help strategic customers deploy Blaxel's AI agent infrastructure in production environments. Work embedded at customer sites and in code, debugging agent deployment, LLM networking, and sandbox runtime issues while shipping product fixes._
+_Deploy and debug Blaxel's serverless agent infrastructure at strategic customer sites, owning the full technical path from discovery through production. Work across agent frameworks, LLM integrations, sandbox runtimes, and cloud infrastructure to solve real deployment problems while feeding learnings back into product._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
 
 <sub>Posted May 14, 2026</sub>
 

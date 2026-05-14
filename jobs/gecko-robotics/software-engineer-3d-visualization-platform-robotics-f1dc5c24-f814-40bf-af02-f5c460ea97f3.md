@@ -8,14 +8,14 @@ remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T19:44:48+00:00
+first_seen_at: 2026-05-14T20:41:30+00:00
 url: https://jobs.ashbyhq.com/gecko-robotics/f1dc5c24-f814-40bf-af02-f5c460ea97f3
-summary: Build and extend a server-side rendering application that streams large-scale 3D models to a React frontend, including systems built on Unreal Engine. Work across the full stack on a high-performance 3D visualization platform used to protect critical infrastructure, with deployments in real-world constrained environments where reliability and performance are critical.
-skills: React, TypeScript, Python, GCP, Unreal Engine, Real-time Streaming, Backend APIs, 3D Graphics
+summary: Build and evolve a high-performance 3D visualization platform that streams large-scale models (GB-scale) to a React frontend, enabling users to explore complex critical infrastructure assets in extraordinary detail. Work across backend services, frontend applications, and system architecture, including server-side rendering with Unreal Engine, in real-world deployment environments where reliability and performance are critical.
+skills: React, TypeScript, Python, GCP, Unreal Engine, Backend APIs, 3D Visualization, Real-time Streaming
 level: mid
 comp: 
 comp_extras: equity
-render_hash: 46c80eca
+render_hash: ca250922
 -->
 
 # Software Engineer | 3D Visualization Platform
@@ -25,9 +25,9 @@ New York City · `Mid` · On-site · `Equity`
 
 > Gecko Robotics builds robotic systems and software for inspecting and maintaining critical infrastructure, particularly in the energy and industrial sectors. Their autonomous robots perform non-destructive testing and inspection of equipment like boilers, pipes, and pressure vessels to detect corrosion and defects without requiring human workers to enter hazardous environments.
 
-_Build and extend a server-side rendering application that streams large-scale 3D models to a React frontend, including systems built on Unreal Engine. Work across the full stack on a high-performance 3D visualization platform used to protect critical infrastructure, with deployments in real-world constrained environments where reliability and performance are critical._
+_Build and evolve a high-performance 3D visualization platform that streams large-scale models (GB-scale) to a React frontend, enabling users to explore complex critical infrastructure assets in extraordinary detail. Work across backend services, frontend applications, and system architecture, including server-side rendering with Unreal Engine, in real-world deployment environments where reliability and performance are critical._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-3B82F6?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square) ![3D Graphics](https://img.shields.io/badge/3D_Graphics-3B82F6?style=flat-square)
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square) ![3D Visualization](https://img.shields.io/badge/3D_Visualization-3B82F6?style=flat-square) ![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-3B82F6?style=flat-square)
 
 <sub>Posted May 14, 2026</sub>
 
