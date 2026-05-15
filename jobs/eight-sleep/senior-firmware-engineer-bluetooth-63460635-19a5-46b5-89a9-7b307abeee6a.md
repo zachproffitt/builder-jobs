@@ -1,6 +1,6 @@
 <!--
 id: ashby-eightsleep-63460635-19a5-46b5-89a9-7b307abeee6a
-company: EightSleep
+company: Eight Sleep
 title: Senior Firmware Engineer, Bluetooth
 source: ashby
 location: San Francisco, CA or New York, NY
@@ -20,7 +20,7 @@ render_hash: 297e5670
 
 # Senior Firmware Engineer, Bluetooth
 
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, CA or New York, NY · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California or New York, New York · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 
