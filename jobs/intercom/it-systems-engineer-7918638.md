@@ -8,14 +8,14 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T14:48:00+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/intercom/jobs/7918638
 summary: Design and build infrastructure automation and integrations across identity management, endpoint management, compliance, and email deliverability using infrastructure-as-code and no-code platforms. Drive IT infrastructure evolution in a cloud-native environment with emphasis on enterprise automation and AI tooling adoption.
 skills: Python, Ruby, AWS, Okta, Google Workspace, Jamf Pro, Intune, Tines
 level: mid
 comp: $142,000-$237,000
 comp_extras: equity, bonus
-render_hash: 65825f2a
+render_hash: 8edf8ca5
 -->
 
 # IT Systems Engineer
@@ -29,84 +29,6 @@ _Design and build infrastructure automation and integrations across identity man
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Ruby](https://img.shields.io/badge/Ruby-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Okta](https://img.shields.io/badge/Okta-3B82F6?style=flat-square) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-3B82F6?style=flat-square) ![Jamf Pro](https://img.shields.io/badge/Jamf_Pro-3B82F6?style=flat-square) ![Intune](https://img.shields.io/badge/Intune-3B82F6?style=flat-square) ![Tines](https://img.shields.io/badge/Tines-3B82F6?style=flat-square)
 
-<sub>First seen May 14, 2026 at 14:48 UTC</sub>
-
-**[→ Apply](https://job-boards.greenhouse.io/intercom/jobs/7918638)**
-
----
-
-Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&nbsp;
-
-Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&nbsp;
-
-Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.
-
-What's the opportunity?&nbsp;
-
-At Fin you’ll be a Systems Engineer in IT, you will work on evolving our IT infrastructure with a focus on deliverability, identity &amp; access management and compliance. This is a great opportunity to join an ambitious IT team that leverages SaaS-based solutions to be at the forefront in the business processes and employee lifecycle automation space. If you are coming from a traditional systems engineering or dev ops background, this role will expand the scope of your experience to truly agile, cutting edge, cloud environments. If you are already in the identity management and employee lifecycle automation space, this is the chance to take an ambitious next step in your career and be part of an engineering organisation that is scaling at incredible speed.
-
-What will I be doing?&nbsp;
-
-Identify and solve team, organisational, and business automation and integration problems.&nbsp;&nbsp;
-
-Design, build, and own efficient and easy-to-maintain automations and integrations that address challenges and improve our posture in identity &amp; access management, endpoint management, security, compliance and enterprise email deliverability.
-
-Take part in high-impact cross-organisational projects to integrate, expand, and evolve our corporate IT infrastructure, with a strong emphasis on infrastructure-as-code.
-
-Govern and promote automation and AI adoption through enablement and education with the aim of eliminating friction and toil and help the business to work sustainably.
-
-Take part and drive bleeding edge aim tools - we don’t shy away from being beta testers for new features/products to optimise our organisation
-
-Drive IT incident response in concert with other InfoSec and engineering teams
-
-Look to drive and lead impact across the organisation to adhere to our values and consistently raise the bar
-
-Integrate and utilise AI tooling and continuously drive our automated no code infrastructure via tools such as Tines and Workato
-
-What skills do I need?&nbsp;
-
-First and foremost, you must have a passion for systems and automation and the desire to develop your skills in a fast-moving company! Having experience with iPaaS platforms and enterprise email deliverability are a plus.
-
-You have 3 to 5 years of experience as a Systems Engineer and possess great problem-solving skills with the ability to challenge assumptions by making data-driven discoveries and finding corresponding solutions.
-
-You have good knowledge of a high-level programming language, e.g. Ruby, Python, Perl etc… Note that the language doesn’t have to be one that we use here!
-
-You have experience building and operating systems in the cloud, without a traditional corporate network perimeter. Our primary IT infrastructure is built on AWS, Okta, Google Workspace, Jamf Pro, Intune, Tines and Workato.
-
-Benefits
-
-We are a well-treated bunch with awesome benefits! If there’s something important to you that’s not on this list, talk to us!&nbsp;
-
-Competitive salary and meaningful equity
-
-Comprehensive medical, dental, and vision coverage
-
-Regular compensation reviews - great work is rewarded!
-
-Unlimited access to Claude Code and best-in-class AI tools; experimentation &amp; building is encouraged &amp; celebrated.
-
-Flexible paid time off policy
-
-Paid Parental Leave Program
-
-401k plan &amp; match
-
-In-office bicycle storage
-
-Fun events for employees, friends, and family
-
-The base salary range for candidates within the San Francisco Bay Area is $142,000 - $237,000. Actual base pay will depend on a variety of factors such as education, skills, experience, location, etc. The base pay range is subject to change and may be modified in the future. All regular employees may also be eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs).&nbsp;
-
-MacBooks are our standard, but we’re happy to get you whatever equipment helps you get your job done. We are a diverse bunch of people and we want to continue to attract and retain a diverse range of people into our organisation.&nbsp;
-
-Policies&nbsp;
-
-Intercom has a hybrid working policy. We believe that working in person helps us stay connected, collaborate easier and create a great culture while still providing flexibility to work from home. We expect employees to be in the office at least three days per week.
-
-We have a radically open and accepting culture at Intercom. We avoid spending time on divisive subjects to foster a safe and cohesive work environment for everyone. As an organization, our policy is to not advocate on behalf of the company or our employees on any social or political topics out of our internal or external communications. We respect personal opinion and expression on these topics on personal social platforms on personal time, and do not challenge or confront anyone for their views on non-work related topics. Our goal is to focus on doing incredible work to achieve our goals and unite the company through our core values.&nbsp;&nbsp;
-
-Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law.
-
----
+<sub>First seen May 14, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/intercom/jobs/7918638)**
