@@ -1,0 +1,121 @@
+<!--
+id: greenhouse-toast-7757899
+company: Toast
+title:  Senior GTM Engineer,  AI Innovation
+source: greenhouse
+location: Remote
+remote: Remote
+hybrid: yes
+posted_at: Unknown
+first_seen: 2026-05-15
+first_seen_at: 2026-05-15T21:34:38+00:00
+url: https://careers.toasttab.com/jobs?gh_jid=7757899
+summary: Own the multi-quarter AI-in-GTM strategy and roadmap across Marketing, Sales, and Customer Success, designing reusable infrastructure, deploying production agents, and translating AI capability into measurable revenue impact. Lead a hands-on role shipping custom workflows, evaluation frameworks, and agentic systems that transform how GTM teams operate — from Clay workflows to Salesforce integrations to Voice AI SDR pilots.
+skills: Python, JavaScript, SQL, LangChain, CrewAI, OpenAI, Claude, Salesforce
+level: senior
+comp: $90k-$184k
+comp_extras: equity, bonus
+render_hash: f1818639
+-->
+
+#  Senior GTM Engineer,  AI Innovation
+
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$90k-$184k` · `Equity` · `Bonus`
+
+> Toast is a cloud-based point-of-sale and restaurant management platform that helps restaurants manage orders, payments, inventory, and staff scheduling. The company serves full-service restaurants, quick-service restaurants, and other food service establishments globally.
+
+_Own the multi-quarter AI-in-GTM strategy and roadmap across Marketing, Sales, and Customer Success, designing reusable infrastructure, deploying production agents, and translating AI capability into measurable revenue impact. Lead a hands-on role shipping custom workflows, evaluation frameworks, and agentic systems that transform how GTM teams operate — from Clay workflows to Salesforce integrations to Voice AI SDR pilots._
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/CrewAI-3B82F6?style=flat-square" alt="CrewAI"> <img src="https://img.shields.io/badge/OpenAI-3B82F6?style=flat-square" alt="OpenAI"> <img src="https://img.shields.io/badge/Claude-3B82F6?style=flat-square" alt="Claude"> <img src="https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square" alt="Salesforce">
+
+<sub>First seen May 15, 2026 at 21:34 UTC</sub>
+
+**[→ Apply](https://careers.toasttab.com/jobs?gh_jid=7757899)**
+
+---
+
+Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.
+
+The Marketing Operations team is looking for a Senior, GTM Engineering &amp; AI Innovation to set the strategy — and ship the systems — that transform how Toast's go-to-market teams operate. You'll own the multi-quarter roadmap for AI in GTM, lead cross-functional initiatives across Marketing, Sales, Customer Success, and Engineering, and remain hands-on as a builder: designing reusable infrastructure, deploying production agents, and translating AI capability into measurable revenue impact. This is a player-coach role for a senior builder who is equally comfortable defending a portfolio investment thesis to executives and shipping a Clay workflow before lunch. This role is open to remote candidates.
+
+About this roll* (Responsibilities)
+
+Own the AI-in-GTM strategy and roadmap. Define and maintain a multi-quarter portfolio of AI initiatives across Marketing, Sales, and Customer Success — prioritized against revenue-direct, revenue-adjacent, and strategic/foundational tiers.
+
+Lead build-vs-buy at the portfolio level. Drive evaluation, business case, and final recommendation for major AI investments. Defend the call to executive stakeholders even when the conclusion is politically inconvenient.
+
+Design and manage governance. Define governance for AI solutions across GTM at scale - what makes it to production, how is it maintained and monitored
+
+Architect and ship reusable GTM infrastructure. Partner with engineering (BTT and platform teams) to design connectors, MCP servers, and data pipelines that surface AI insights inside Salesforce, Gong, Slack, Google Drive, Marketo, and Snowflake — where reps already work.
+
+Run AI pilots from POC to scaled adoption. Lead Voice AI SDR pilots, inbound enrichment, Intercom AI chat, outbound prospecting, and Generative Engine Optimization (GEO) from hypothesis through deployment, with clear success criteria and structured eval frameworks.
+
+Drive AI enablement and adoption at org scale. Move the marketing and sales orgs from "directive to use AI" to fully integrated workflows. Design stepping-stone adoption paths, not mandate-to-automation leaps.
+
+Build evaluation frameworks for production AI. Stand up prompt evals, agent benchmarking, regression testing, and quality scoring so AI systems are measured against ground truth and human baselines — not vibes.
+
+Lead cross-functionally without direct authority. Align Demand Gen, SDR Ops, Product Marketing, Sales Ops, and Engineering on shared roadmaps, shared data contracts, and shared definitions of success.
+
+Represent the function to executive stakeholders. Translate technical work into business outcomes for VP and C-level audiences. Own quarterly business reviews, investment requests, and the narrative for how AI is reshaping Toast's GTM motion.
+
+Coach a growing team of builders. Mentor AI Solutions Specialists and embedded GTM engineers. Set technical bar, review architecture decisions, and create the documentation, playbooks, and reusable templates the broader org leverages.
+
+Stay hands-on. Continue to design, build, and deploy custom AI agents and agentic workflows yourself. The best engineers in this role ship code.
+
+Do you have the right ingredients*? (Requirements)
+
+10+ years in growth marketing, product management, GTM engineering, systems, or operations, including 4+ years in GTM Engineering, AI Engineering, or Solutions Engineering.
+
+Track record of owning AI or GTM strategy end-to-end — from problem identification, through portfolio prioritization, build-vs-buy, technical design, deployment, and measurable revenue impact.
+
+Demonstrated experience designing, building, and deploying AI agents and agentic workflows that transformed real work — not just using AI, but building with it in production.
+
+Cross-functional leadership: proven ability to drive initiatives spanning Marketing, Sales, Customer Success, and Engineering without direct authority over those teams.
+
+Hands-on with AI APIs and agent frameworks (OpenAI, Anthropic/Claude, Gemini, LangChain, CrewAI, RAG, MCP) and with the systems GTM teams actually run on (Salesforce, Marketo, Snowflake, Clay, Zapier).
+
+Strong builder fundamentals: comfortable with SQL, scripting (Python or JavaScript), API integrations, webhook design, and prompt engineering. You can debug a Clay table or a Marketo webhook integration without escalating.
+
+Experience building evaluation frameworks for AI systems — prompt evals, output quality scoring, agent benchmarking, regression testing.
+
+Hypothesis-driven operator who runs structured pilots with clear success criteria and is willing to reach — and defend — politically inconvenient conclusions.
+
+Exceptional communicator who can translate technical concepts for non-technical audiences and represent the function in front of executive stakeholders.
+
+Track record of enabling others to permanently change how they work; bias toward stepping-stone adoption over mandate-to-automation.
+
+Demonstrated Clay experience and fluency with modern martech stacks (automation tools, CDPs, CRMs, data warehouses).
+
+AI at Toast
+
+At Toast, one of our company values is that we're hungry to build and learn. We believe learning new AI tools empowers us to build for our customers faster, more independently, and with higher quality. We provide these tools across all disciplines, from Engineering and Product to Sales and Support, and are inspired by how our Toasters are already driving real value with them. The people who thrive here are those who embrace changes that let us build more for our customers; it’s a core part of our culture.
+
+Our Total Rewards Philosophy
+
+We strive to provide competitive compensation and benefits programs that help to attract, retain, and motivate the best and brightest people in our industry. Our total rewards package goes beyond great earnings potential and provides the means to a healthy lifestyle with the flexibility to meet Toasters’ changing needs. Learn more about our benefits at https://careers.toasttab.com/toast-benefits.
+
+The base salary range for this role is listed below. The starting salary will be determined based on skills, experience, and geographic location. In addition to base salary, our total rewards components include cash compensation (overtime, bonus/commissions if eligible), equity, and benefits. You can learn more about how we align pay with local labor markets in our Geographic Pay Zone Philosophy.
+
+Zone A$115,000&mdash;$184,000 USDZone B$100,000&mdash;$160,000 USDZone C$90,000&mdash;$144,000 USDHow Toast Uses AI in its Hiring Process
+
+Throughout the hiring process, our goal is to get to know you. We use AI tools to support our recruiters and interviewers with tasks like note-taking, summarization, and documentation of interviews to ensure they can be fully focused on your conversation. All hiring decisions are made by people. To learn more: https://careers.toasttab.com/ai-in-hiring
+
+Diversity, Equity, and Inclusion is Baked into our Recipe for Success
+
+At Toast, our employees are our secret ingredient—when they thrive, we thrive.&nbsp;The restaurant industry is one of the most diverse, and we embrace that diversity with authenticity, inclusivity, respect, and humility. By embedding these principles into our culture and design, we create equitable opportunities for all and raise the bar in delivering exceptional experiences.
+
+We Thrive Together
+
+We embrace a hybrid work model that fosters in-person collaboration while valuing individual needs. Our goal is to build a strong culture of connection as we work together to empower the restaurant community. To learn more about how we work globally and regionally, check out: https://careers.toasttab.com/locations-toast.
+
+Apply today!
+
+Toast is committed to creating an accessible and inclusive hiring process. As part of this commitment, we strive to provide reasonable accommodations for persons with disabilities to enable them to access the hiring process. If you need an accommodation to access the job application or interview process, please contact candidateaccommodations@toasttab.com.
+
+------
+
+For roles in the United States, it is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+---
+
+**[→ Apply](https://careers.toasttab.com/jobs?gh_jid=7757899)**
