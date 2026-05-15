@@ -4,15 +4,26 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **212 open roles** (86 new today) &nbsp;·&nbsp; 893 companies searched
+### **213 open roles** (87 new today) &nbsp;·&nbsp; 893 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 20:35 UTC</sub>
+<sub>Last updated May 15, 2026 at 20:43 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Chief of Staff & Agents](jobs/ekho/chief-of-staff-agents-f6859821-786e-4700-8c9c-ee8b1e0e1438.md)
+<a href="https://www.ekho.com"><img src="https://www.google.com/s2/favicons?domain=www.ekho.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ekho** · New York, NY / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$150k-$200k` · `Equity`
+
+_Own Ekho's marketing function end-to-end and build the AI agent orchestration layer that scales critical business operations—from RevOps and CS automation to hiring and BizOps. You'll stand up agents across functions, starting with dealer outbound and expanding the infrastructure downstream as the company grows. · [Apply →](https://jobs.ashbyhq.com/ekho/f6859821-786e-4700-8c9c-ee8b1e0e1438)_
+
+![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![HubSpot](https://img.shields.io/badge/HubSpot-3B82F6?style=flat-square) ![GTM Strategy](https://img.shields.io/badge/GTM_Strategy-3B82F6?style=flat-square) ![RevOps](https://img.shields.io/badge/RevOps-3B82F6?style=flat-square) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-3B82F6?style=flat-square) ![Paid Advertising](https://img.shields.io/badge/Paid_Advertising-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 20:43 UTC</sub>
+
+---
 
 ### [Forward Deployed Robotics Engineer](jobs/gecko-robotics/forward-deployed-robotics-engineer-robotics-241e909f-fa90-4615-a026-4ed7b7a767f9.md)
 <a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · Pittsburgh · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
