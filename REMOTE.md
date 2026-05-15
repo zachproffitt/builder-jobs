@@ -4,13 +4,35 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **63 open roles** (23 new today)
+### **62 open roles** (25 new today)
 
-<sub>Last updated May 15, 2026 at 19:43 UTC</sub>
+<sub>Last updated May 15, 2026 at 20:35 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Engineering Manager, Delivery](jobs/onebrief/engineering-manager-delivery-49c8a08e-5bfe-45d0-9184-4530b5f47ff3.md)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead a cross-functional team of platform, software, and security engineers responsible for CI/CD, release automation, and deployment infrastructure that enables safe, reliable shipping in mission-critical defense environments. You will own the delivery pipeline, enforce security controls across the software lifecycle, and establish standards for tested releases, rollback procedures, and compliance across air-gapped and regulated customer environments. · [Apply →](https://jobs.ashbyhq.com/onebrief/49c8a08e-5bfe-45d0-9184-4530b5f47ff3)_
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![GitOps](https://img.shields.io/badge/GitOps-3B82F6?style=flat-square) ![Release Automation](https://img.shields.io/badge/Release_Automation-3B82F6?style=flat-square) ![SAST](https://img.shields.io/badge/SAST-3B82F6?style=flat-square) ![DAST](https://img.shields.io/badge/DAST-3B82F6?style=flat-square) ![FedRAMP](https://img.shields.io/badge/FedRAMP-3B82F6?style=flat-square) ![Risk Management Framework](https://img.shields.io/badge/Risk_Management_Framework-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 20:35 UTC</sub>
+
+---
+
+### [Staff Software Engineer](jobs/toast/staff-software-engineer-7812414.md)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus`
+
+_Lead the design and delivery of large-scale distributed systems for Toast's Catering & Events platform, building backend infrastructure that enables restaurants and venues to manage complex event workflows. Balance rapid feature delivery with long-term system health while mentoring engineers and driving technical strategy across multiple teams. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7812414)_
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Scalability](https://img.shields.io/badge/Scalability-3B82F6?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 20:35 UTC</sub>
+
+---
 
 ### [Senior Machine Learning Engineer](jobs/censys/senior-machine-learning-engineer-8500292002.md)
 <a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$150k-$203k` · `Equity` · `Bonus`
@@ -543,39 +565,6 @@ _Build and own end-to-end testing infrastructure for a production voice AI platf
 _Build and maintain Front's cross-platform React Native mobile app, diving into native-level performance optimization and iOS/Android API integration. Work with a high-growth B2B platform handling complex customer operations at scale across 9,000+ companies. · [Apply →](https://jobs.ashbyhq.com/frontcareers/d4a4c46a-35a8-46c0-b09f-d96893be473a)_
 
 ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android NDK](https://img.shields.io/badge/Android_NDK-3B82F6?style=flat-square) ![JNI](https://img.shields.io/badge/JNI-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Senior Analytics Engineer | Canada | Remote](jobs/grafana/senior-analytics-engineer-canada-remote-5850010004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 129k - CAD 155k` · `Equity`
-
-_Own and operate the data stack architecture and infrastructure (BigQuery, dbt, Fivetran) that ingests, transforms, tests, and documents data across Grafana Labs. Build data pipelines and processes that scale with the business while enabling analysts and stakeholders to access accurate, accessible data. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5850010004)_
-
-![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square) ![Fivetran](https://img.shields.io/badge/Fivetran-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-3B82F6?style=flat-square) ![Data Quality Testing](https://img.shields.io/badge/Data_Quality_Testing-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Senior Analytics Engineer | USA | Remote](jobs/grafana/senior-analytics-engineer-usa-remote-5850008004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$127k-$153k` · `Equity`
-
-_Build and operate the data stack architecture and infrastructure (BigQuery, dbt, Fivetran) that ingests, transforms, tests, and connects data across Grafana Labs. Partner with stakeholders to design flexible, scalable data pipelines and establish best practices for data quality, version control, and documentation as the organization scales. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5850008004)_
-
-![dbt](https://img.shields.io/badge/dbt-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square) ![Fivetran](https://img.shields.io/badge/Fivetran-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-3B82F6?style=flat-square) ![Data Quality Testing](https://img.shields.io/badge/Data_Quality_Testing-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/senior-backend-engineer-application-core-services-stacks-usa-remote.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · Remote / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 197k` · `Equity` · `Bonus`
-
-_Design and operate reconciliation systems and control-plane services for Grafana Cloud stack lifecycle management, ensuring state consistency across distributed components (grafana.com, Hosted Grafana, cloud regions). Build systems handling stateful workflows, eventual consistency, and multi-region infrastructure where correctness and operational clarity are critical at scale._
-
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![TypeScript/Node.js](https://img.shields.io/badge/TypeScript%2FNode.js-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
