@@ -4,13 +4,79 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **54 open roles** (13 new today)
+### **60 open roles** (19 new today)
 
-<sub>Last updated May 15, 2026 at 16:46 UTC</sub>
+<sub>Last updated May 15, 2026 at 17:43 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Senior Software Engineer, Front-End - D&I Solutions](jobs/planet-labs/senior-software-engineer-front-end-d-i-solutions-7870463.md)
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$160k—$228k` · `Equity` · `Bonus`
+
+_Design and implement frontend features for a geospatial monitoring application using React and TypeScript, serving Defense & Intelligence customers with daily satellite data insights. Lead architectural decisions on component design and state management while mentoring engineers on frontend best practices. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7870463)_
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![State Management](https://img.shields.io/badge/State_Management-3B82F6?style=flat-square) ![Mapping Libraries](https://img.shields.io/badge/Mapping_Libraries-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Director of Safety ML](jobs/reddit/director-of-safety-ml-7926627.md)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · San Francisco, CA / Los Angeles, CA / New York, NY / Chicago, IL / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$276k–$387k` · `Equity` · `Bonus`
+
+_Lead Reddit's Safety and Moderation ML organization to build industry-leading systems for detecting and preventing harmful content at scale. Drive strategy, build and deploy fine-tuned LLMs and transformer models for real-time abuse detection across a platform with 126M daily active users, managing a team of 25+ applied scientists and engineers. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7926627)_
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-3B82F6?style=flat-square) ![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-3B82F6?style=flat-square) ![Transformer Models](https://img.shields.io/badge/Transformer_Models-3B82F6?style=flat-square) ![Content Moderation](https://img.shields.io/badge/Content_Moderation-3B82F6?style=flat-square) ![Abuse Detection](https://img.shields.io/badge/Abuse_Detection-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Senior Data Science Manager, Marketing](jobs/reddit/senior-data-science-manager-marketing-7931010.md)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead a team of data scientists building causal measurement frameworks, LTV models, and analytics infrastructure to drive Reddit's marketing strategy and budget allocation decisions. Requires expertise in experimentation, metrics governance, and enabling self-serve analytics at scale across cross-functional teams. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7931010)_
+
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![LTV Modeling](https://img.shields.io/badge/LTV_Modeling-3B82F6?style=flat-square) ![Experimentation Design](https://img.shields.io/badge/Experimentation_Design-3B82F6?style=flat-square) ![Analytics Engineering](https://img.shields.io/badge/Analytics_Engineering-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Staff Data Scientist, Consumer](jobs/reddit/staff-data-scientist-consumer-7931007.md)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
+
+_Drive product strategy for Reddit's consumer platform by designing metrics, conducting exploratory analyses, and running experiments to understand user behavior and optimize community discovery. Work at scale mentoring junior data scientists and building self-serve analytics tools for cross-functional product and engineering teams. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7931007)_
+
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-3B82F6?style=flat-square) ![Master's or PhD in Statistics/Mathematics/Physics/Economics/Operations Research](https://img.shields.io/badge/Master's_or_PhD_in_Statistics%2FMathematics%2FPhysics%2FEconomics%2FOperations_Research-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Staff Data Scientist, Marketing](jobs/reddit/staff-data-scientist-marketing-7931000.md)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
+
+_Lead the design and implementation of Marketing Mix Models, Multi-Touch Attribution systems, and causal inference frameworks to measure and optimize Reddit's hundreds of millions in annual marketing spend across B2B advertiser acquisition and B2C user growth. Navigate ambiguity in a fast-paced social media environment to build measurement methodologies that influence C-suite budget allocation decisions. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7931000)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Marketing Mix Modeling](https://img.shields.io/badge/Marketing_Mix_Modeling-3B82F6?style=flat-square) ![Bayesian Structural Time Series](https://img.shields.io/badge/Bayesian_Structural_Time_Series-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Incrementality Testing](https://img.shields.io/badge/Incrementality_Testing-3B82F6?style=flat-square) ![Master's or PhD in Statistics/Economics/Mathematics](https://img.shields.io/badge/Master's_or_PhD_in_Statistics%2FEconomics%2FMathematics-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Software Development Engineer in Test](jobs/socure/software-development-engineer-in-test-6785101c-e12a-4711-8e12-ed68d9e216de.md)
+<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · US · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and build automated quality and validation systems for production and disaster recovery environments, including synthetic transaction validation, continuous health checks, and AI-driven failure analysis. Integrate observability signals with test automation to enable self-diagnosis and autonomous remediation in complex distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
+
+![Playwright](https://img.shields.io/badge/Playwright-3B82F6?style=flat-square) ![Jest](https://img.shields.io/badge/Jest-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 17:43 UTC</sub>
+
+---
 
 ### [Software Engineer, Payments](jobs/airbnb/software-engineer-payments-7872758.md)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$162k–$186k` · `Equity` · `Bonus`
