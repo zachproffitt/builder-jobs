@@ -4,7 +4,7 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **67 open roles** (7 new today)
+### **63 open roles** (6 new today)
 
 <sub>Last updated May 15, 2026 at 10:58 UTC</sub>
 
@@ -18,17 +18,6 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 _Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology._
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engine Architecture](https://img.shields.io/badge/Game_Engine_Architecture-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 10:58 UTC</sub>
-
----
-
-### [Software Engineer](jobs/twilio/software-engineer-7658027.md)
-<img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Twilio** · Estonia · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
-
-_Design, develop, and maintain mission-critical backend services for Twilio's core messaging platform, handling some of the world's largest message volumes. Focus on building scalable, reliable, and low-latency systems with strong emphasis on distributed systems fundamentals and operational excellence._
-
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Agile](https://img.shields.io/badge/Agile-3B82F6?style=flat-square)
 
 <sub>May 15, 2026 at 10:58 UTC</sub>
 
@@ -264,17 +253,6 @@ _Lead a team of threat intelligence analysts and security engineers to conduct c
 _Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![BGP](https://img.shields.io/badge/BGP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Security Engineer (Product)](jobs/coder/security-engineer-product-b608ce17-2f96-46cb-8a40-90463c5f1ad7.md)
-<img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Coder** · United Kingdom · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
-
-_Build secure-by-default patterns, tooling, and CI/CD workflows to embed security into the software development lifecycle. Partner with engineering teams to turn security findings into fixes and make threat modeling and secure design reviews repeatable for developers._
-
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-3B82F6?style=flat-square) ![SAST](https://img.shields.io/badge/SAST-3B82F6?style=flat-square) ![SCA](https://img.shields.io/badge/SCA-3B82F6?style=flat-square) ![Dependency Scanning](https://img.shields.io/badge/Dependency_Scanning-3B82F6?style=flat-square) ![Secret Scanning](https://img.shields.io/badge/Secret_Scanning-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
@@ -581,34 +559,12 @@ _Build intuitive, queryless exploration workflows and UI components for the Graf
 
 ---
 
-### [Software Development Engineer III, Android, Maps SDK](jobs/mapbox/software-development-engineer-iii-android-maps-sdk-36355d3d-4b6c-4c18-b692-4a522e348328.md)
-<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Germany · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Build and architect the Android Maps SDK that powers mobile map experiences across millions of developer applications. Design scalable APIs and cross-platform implementations that integrate Navigation, Maps, and Search SDKs while optimizing performance across diverse device types from phones to smartwatches._
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![Performance optimization](https://img.shields.io/badge/Performance_optimization-3B82F6?style=flat-square) ![Testing frameworks](https://img.shields.io/badge/Testing_frameworks-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
 ### [Software Development Engineer III, Android, Maps SDK](jobs/mapbox/software-development-engineer-iii-android-maps-sdk-4002a267-2f04-4062-824d-bd73c03c2247.md)
 <img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Poland · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$95k-$143k`
 
 _Build the Android Maps SDK and related developer tools, designing expressive APIs and cross-platform implementations for mobile mapping applications at scale. Integrate multiple Mapbox SDKs (Navigation, Maps, Search) while optimizing performance across diverse device form factors from phones to embedded boards._
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Native Development](https://img.shields.io/badge/Native_Development-3B82F6?style=flat-square) ![Testing Frameworks](https://img.shields.io/badge/Testing_Frameworks-3B82F6?style=flat-square) ![Performance Profiling](https://img.shields.io/badge/Performance_Profiling-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Software Development Engineer III, Android, Maps SDK](jobs/mapbox/software-development-engineer-iii-android-maps-sdk-ed5ea787-aa68-4968-9c93-eb4d2bd5ac45.md)
-<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox** · Mapbox Helsinki · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Build and architect the Android Maps SDK that powers mobile mapping applications across phones, tablets, smartwatches, and embedded devices. Lead cross-functional technical initiatives integrating Navigation, Maps, and Search SDKs while mentoring teams and setting long-term architectural direction._
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Testing frameworks](https://img.shields.io/badge/Testing_frameworks-3B82F6?style=flat-square) ![AOSP](https://img.shields.io/badge/AOSP-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
