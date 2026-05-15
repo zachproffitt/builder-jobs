@@ -1,40 +1,40 @@
 <!--
-id: greenhouse-slingshotaerospace-5996935004
+id: greenhouse-slingshotaerospace-5997017004
 company: Slingshot Aerospace
 title: Senior Technical Architect
 source: greenhouse
-location: Washington, DC / Remote
-remote: Not specified
+location: Remote / Washington, DC
+remote: Remote
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
 first_seen_at: 
 url: 
-summary: Architect and implement secure, scalable Python-based data processing platforms including ETL frameworks, event-driven streaming systems, and FastAPI microservices for space operations data. This on-site role requires deep expertise across distributed systems, Kafka/RabbitMQ, MongoDB, and Kubernetes in a defense-adjacent domain with security and compliance demands.
-skills: Python, FastAPI, Kafka, RabbitMQ, MongoDB, Redis, Kubernetes, AWS
+summary: Lead the design of secure, scalable application and data platforms across backend (.NET/Python), frontend (React), distributed systems, and AI-powered components for a space operations company. Guide architecture standards, mentoring, and end-to-end platform design with responsibility for microservices, RAG/LLM workflows, and enterprise security practices.
+skills: .NET, C#, React, Python, SQL Server, Redis, AWS, Kubernetes
 level: senior
 comp: $175k-$250k
-comp_extras: equity
-render_hash: 393b8127
+comp_extras: 
+render_hash: 7cf97ac1
 -->
 
 # Senior Technical Architect
 
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, DC / Remote · `Senior` · `$175k-$250k` · `Equity`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Remote / Washington, DC · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$175k-$250k`
 
 > # Slingshot Aerospace
 
 Slingshot Aerospace builds software and analytical tools for space situational awareness, focusing on tracking and predicting the trajectories of objects in orbit, including satellites and debris. The company operates in the commercial space domain, serving government agencies and private space operators.
 
-_Architect and implement secure, scalable Python-based data processing platforms including ETL frameworks, event-driven streaming systems, and FastAPI microservices for space operations data. This on-site role requires deep expertise across distributed systems, Kafka/RabbitMQ, MongoDB, and Kubernetes in a defense-adjacent domain with security and compliance demands._
+_Lead the design of secure, scalable application and data platforms across backend (.NET/Python), frontend (React), distributed systems, and AI-powered components for a space operations company. Guide architecture standards, mentoring, and end-to-end platform design with responsibility for microservices, RAG/LLM workflows, and enterprise security practices._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>First seen May 15, 2026</sub>
 
 **Apply by location:**
-- **[Washington, DC →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**
 - **[Remote →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004)**
+- **[Washington, DC →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**
 
 ---
 
@@ -42,65 +42,67 @@ Meet Slingshot&nbsp;
 
 At Slingshot Aerospace,&nbsp;we're&nbsp;on a mission to make space safer and more secure&nbsp;for everyone. Our work directly&nbsp;impacts&nbsp;global security, disaster response, climate monitoring, and the critical infrastructure that connects our world.&nbsp;We're&nbsp;a team of builders, thinkers, and problem-solvers who believe that the next generation of space operations will be powered by better data and smarter software. We move fast,&nbsp;we're&nbsp;not afraid to fail, and we believe the best ideas can come from anywhere—whether&nbsp;you're&nbsp;in engineering, sales, product, or operations. If you want to work on something that truly matters, with people who care deeply about the impact&nbsp;we're&nbsp;making and help shape the future of an industry&nbsp;that's&nbsp;just getting started,&nbsp;you're&nbsp;in the right place.&nbsp;
 
-What You'll Be Launching
+What&nbsp;You’ll&nbsp;Be Launching
 
-Seeking a Technical Architect to lead the design and implementation of secure, scalable, and high‑performance data processing platforms. This on‑site role (Washington DC–Baltimore area) requires deep expertise in Python, FastAPI, distributed event‑driven architectures, MongoDB, and at least one in‑memory data store such as Redis. The architect will own system design, standards, and production‑grade delivery across ingestion, transformation, streaming, and service layers while enforcing Secure SDLC practices.
+Seeking a Senior Architect with deep expertise in .NET, React, and Python to lead the design of secure, scalable, high‑performance application and data platforms. This is a hands‑on role with significant responsibility for defining architecture standards, mentoring engineering teams, and overseeing end‑to‑end platform design across backend, frontend, distributed systems, ETL pipelines, and AI‑powered components. Candidates should bring strong architectural leadership across APIs, microservices, event-driven systems, RAG/LLM workflows, and enterprise-grade security practices.
 
-&nbsp;Your Mission (Should you choose to accept it)&nbsp;&nbsp;
+&nbsp;Your Mission (Should you choose to accept it)&nbsp;
 
-Architect and implement Python‑based ETL frameworks, orchestration layers, and high‑throughput data pipelines.
+Architect and oversee backend service ecosystems built with .NET (C#/.NET Core) and Python.
 
-Design and optimize real‑time event‑driven streaming systems using Kafka and/or RabbitMQ.
+Define front-end architecture patterns and guide implementation of scalable React applications.Lead 3D visualization and UI architecture using Three.js for interactive, data‑driven interfaces.
 
-Build and scale FastAPI‑based microservices with strong focus on performance, security, and observability.
+Lead database architecture for SQL Server: schema design, indexing strategies, performance optimization.
 
-Lead MongoDB data modeling, indexing strategies, aggregation pipelines, and performance tuning.
+Architect caching, messaging, and high-speed data layers using Redis or similar in-memory systems.
 
-Architect caching, session management, and high‑speed data access layers using Redis or similar memory‑based databases.
+Design and govern RAG architectures, vector search integrations, and retrieval‑optimized AI solutions.
 
-Apply Secure SDLC principles across architecture, coding, CI/CD, and deployment workflows.
+Define patterns and frameworks for Agentic AI workflows (LangChain, AutoGen, DSPy, etc.).
 
-Lead architecture reviews and define engineering standards for distributed systems.
+Establish Secure SDLC, architecture governance, code quality, and CI/CD standards.
 
-Diagnose and resolve complex system, data, and performance issues in production environments.
+Conduct architecture reviews, perform threat modeling, and ensure compliance with best practices.
 
-Drive containerization, Kubernetes‑native deployment patterns, and AWS cloud integration.
+Guide resolution of complex production, system, and performance challenges across distributed systems.
+
+Drive cloud-native architecture on AWS, including containerization, Kubernetes, networking, and security.
+
+Partner with product, security, and engineering leadership to align architecture with business goals.
+
+&nbsp;
 
 Pre-flight Checklist&nbsp;
 
-Expert‑level Python experience across ETL systems, microservices, and distributed data processing.
+Extensive architecture and engineering experience with .NET (C#/.NET Core).
 
-Strong FastAPI design and implementation experience.
+Strong architectural understanding of React applications (state management, performance, security).
 
-Deep, production-level experience with Kafka and/or RabbitMQ.
+Deep experience designing distributed systems, microservices, and event-driven architectures.
 
-Mandatory MongoDB expertise: schema design, indexing, aggregation, sharding/replication.
+Strong SQL Server background: schema design, query optimization, indexing, performance tuning.
 
-Experience with at least one memory‑based database (Redis strongly preferred).
+Expertise with Redis or similar high-performance in-memory data systems.
 
-Strong Linux proficiency and experience with Docker/Kubernetes.
+Hands-on architectural experience with RAG frameworks, vector databases, and retrieval pipelines.
 
-Demonstrated ability to debug complex distributed or high‑scale systems.
+Experience with agent-driven AI architectures based on LangChain, AutoGen, DSPy, or similar.
 
-Implement Agentic AI workflows using LangChain and Crew AI.
+Strong background with AWS, Docker, Kubernetes, Linux, and cloud-native deployment models.
 
-Hands‑on AWS experience across compute, data, networking, and security services.
+Ability to diagnose complex system issues across multiple layers of a distributed environment.
 
-Proven application of Secure SDLC principles and secure architecture patterns.
+Strong grounding in Secure SDLC, secure architecture principles, and platform hardening.
 
 Bachelor’s or advanced degree in CS, Engineering, or related field.
-
-&nbsp;
 
 Bonus Cargo&nbsp;
 
 Space industry data familiarity is a plus.
 
-Location: Onsite in Washington DC-Baltimore Area&nbsp;
+Location: Remote, US
 
-Compensation: $175k - 250k, Equity and Benefits&nbsp;
-
-&nbsp;
+Salary Range: $175k - 250k&nbsp;
 
 &nbsp;
 
@@ -113,5 +115,5 @@ Equity, Diversity &amp; Inclusion are key to our success. We are an Equal Opport
 ---
 
 **Apply by location:**
-- **[Washington, DC →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**
 - **[Remote →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004)**
+- **[Washington, DC →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**

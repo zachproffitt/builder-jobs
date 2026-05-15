@@ -2,17 +2,48 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-[How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+### **218 open roles** (92 new today) &nbsp;·&nbsp; 897 companies searched
 
-### **215 open roles** (89 new today) &nbsp;·&nbsp; 893 companies searched
+[How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
-[Remote only →](REMOTE.md)
-
-<sub>Last updated May 15, 2026 at 21:15 UTC</sub>
+<sub>Last updated May 15, 2026 at 21:22 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Senior Software Engineer, Air AI](jobs/commure/senior-software-engineer-air-ai-b8d40cf3-3bde-4aec-a2a9-ded988ab128f.md)
+<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, CA · `Senior`
+
+_Build production AI-powered clinical documentation, provider copilots, and autonomous coding systems that integrate LLMs into real-time clinical workflows. Work across full-stack architecture (Python backend, TypeScript/React frontend, Kubernetes infrastructure) to deliver intelligent healthcare automation that clinicians trust with critical patient care tasks. · [Apply →](https://jobs.ashbyhq.com/commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-3B82F6?style=flat-square) ![Bachelor's in Computer Science or Engineering](https://img.shields.io/badge/Bachelor's_in_Computer_Science_or_Engineering-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 21:22 UTC</sub>
+
+---
+
+### [Software Engineer, Air AI Provider](jobs/commure/software-engineer-air-ai-provider-4dd01cb1-6568-48b3-be62-37032ad487e1.md)
+<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, CA · `Mid`
+
+_Build fullstack AI-powered clinical documentation and autonomous workflow systems that process real-time patient interactions and assist clinicians at scale. You'll design production LLM integrations and healthcare automation features handling 100M+ patient interactions annually across 500K clinicians. · [Apply →](https://jobs.ashbyhq.com/commure/4dd01cb1-6568-48b3-be62-37032ad487e1)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-3B82F6?style=flat-square) ![Healthcare/Clinical Domain](https://img.shields.io/badge/Healthcare%2FClinical_Domain-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 21:22 UTC</sub>
+
+---
+
+### [Technical Director, Content Platform](jobs/roblox/technical-director-content-platform-7754152.md)
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$399k-$457k` · `Equity`
+
+_Lead multidisciplinary engineering teams building and scaling Roblox's asset infrastructure platform, managing 100+ million requests per second across creation, upload, storage, indexing, and delivery of all asset types. Drive long-term technical strategy, architecture, and roadmap for one of the largest backend services in the world serving tens of millions of creators and players. · [Apply →](https://careers.roblox.com/jobs/7754152?gh_jid=7754152)_
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-3B82F6?style=flat-square) ![Infrastructure at Scale](https://img.shields.io/badge/Infrastructure_at_Scale-3B82F6?style=flat-square) ![Large-scale Data Storage](https://img.shields.io/badge/Large--scale_Data_Storage-3B82F6?style=flat-square) ![Asset Management Systems](https://img.shields.io/badge/Asset_Management_Systems-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Leadership](https://img.shields.io/badge/Leadership-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 21:22 UTC</sub>
+
+---
 
 ### [Vice President Site Reliability Engineering (Data Centers)](jobs/galaxy-digital/vice-president-site-reliability-engineering-data-centers-5997360004.md)
 <a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
@@ -606,8 +637,8 @@ _Build and productionize cutting-edge GenAI applications—RAG systems, multi-ag
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, CA or New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, CA or New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -617,8 +648,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
@@ -750,11 +781,11 @@ _Lead technical direction and build features for MONOPOLY GO! Chat, a React Nati
 ---
 
 ### [Senior Technical Architect](jobs/slingshot-aerospace/senior-technical-architect.md)
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, DC / Remote · `Senior` · `$175k-$250k` · `Equity`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Remote / Washington, DC · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k`
 
-_Architect and implement secure, scalable Python-based data processing platforms including ETL frameworks, event-driven streaming systems, and FastAPI microservices for space operations data. This on-site role requires deep expertise across distributed systems, Kafka/RabbitMQ, MongoDB, and Kubernetes in a defense-adjacent domain with security and compliance demands._
+_Lead the design of secure, scalable application and data platforms across backend (.NET/Python), frontend (React), distributed systems, and AI-powered components for a space operations company. Guide architecture standards, mentoring, and end-to-end platform design with responsibility for microservices, RAG/LLM workflows, and enterprise security practices._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -1325,17 +1356,6 @@ _Design and implement low-level engine systems across Scene Graph, networking, a
 
 ---
 
-### [Associate Director/Director of Statistical Programming](jobs/exscientia/associate-director-director-of-statistical-programming-7923391.md)
-<a href="https://exscientia.ai"><img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Exscientia** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$200k-$260k` · `Bonus` · `Equity`
-
-_Lead statistical programming infrastructure and quality assurance for clinical drug development programs, overseeing analysis datasets, tables, figures, and exploratory analyses. Build and maintain analytics tools and open-source R packages for clinical data monitoring, cleaning, and knowledge discovery in a regulated pharmaceutical environment. · [Apply →](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7923391)_
-
-![SAS](https://img.shields.io/badge/SAS-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![R-Shiny](https://img.shields.io/badge/R--Shiny-3B82F6?style=flat-square) ![CDISC](https://img.shields.io/badge/CDISC-3B82F6?style=flat-square) ![SDTM](https://img.shields.io/badge/SDTM-3B82F6?style=flat-square) ![ADaM](https://img.shields.io/badge/ADaM-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Regulatory Compliance](https://img.shields.io/badge/Regulatory_Compliance-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
 ### [Software Engineer | 3D Visualization Platform](jobs/gecko-robotics/software-engineer-3d-visualization-platform-robotics-f1dc5c24-f814-40bf-af02-f5c460ea97f3.md)
 <a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · New York City, NY · `Mid` · `Equity`
 
@@ -1633,6 +1653,17 @@ _Build software solutions on Palantir's data platforms, working on real customer
 _Develop software solutions for calibration and optimization of superconducting quantum hardware, including tuning two-qubit gates and optimizing full processors at scale. Work on quantum error correction and integration with high-performance computing systems at the forefront of near-term quantum advantage. · [Apply →](https://jobs.lever.co/q-ctrl/c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3)_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Control Theory](https://img.shields.io/badge/Control_Theory-3B82F6?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Physics](https://img.shields.io/badge/Physics-3B82F6?style=flat-square) ![Optimization Algorithms](https://img.shields.io/badge/Optimization_Algorithms-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Associate Director/Director of Statistical Programming](jobs/recursion/associate-director-director-of-statistical-programming-7923391.md)
+<a href="https://recursion.com"><img src="https://www.google.com/s2/favicons?domain=recursion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Recursion** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$200k-$260k` · `Bonus` · `Equity`
+
+_Lead statistical programming infrastructure and quality assurance for clinical drug development programs, overseeing analysis datasets, tables, figures, and exploratory analyses. Build and maintain analytics tools and open-source R packages for clinical data monitoring, cleaning, and knowledge discovery in a regulated pharmaceutical environment. · [Apply →](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7923391)_
+
+![SAS](https://img.shields.io/badge/SAS-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![R-Shiny](https://img.shields.io/badge/R--Shiny-3B82F6?style=flat-square) ![CDISC](https://img.shields.io/badge/CDISC-3B82F6?style=flat-square) ![SDTM](https://img.shields.io/badge/SDTM-3B82F6?style=flat-square) ![ADaM](https://img.shields.io/badge/ADaM-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Regulatory Compliance](https://img.shields.io/badge/Regulatory_Compliance-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 

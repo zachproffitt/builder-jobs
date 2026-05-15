@@ -1,6 +1,6 @@
 <!--
 id: greenhouse-recursionpharmaceuticals-7923391
-company: Exscientia
+company: Recursion
 title: Associate Director/Director of Statistical Programming
 source: greenhouse
 location: Remote
@@ -20,7 +20,7 @@ render_hash: 19e5855e
 
 # Associate Director/Director of Statistical Programming
 
-<a href="https://exscientia.ai"><img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Exscientia** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$200,600-$260,200` · `Bonus` · `Equity`
+<a href="https://recursion.com"><img src="https://www.google.com/s2/favicons?domain=recursion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Recursion** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$200,600-$260,200` · `Bonus` · `Equity`
 
 > Recursion builds AI platforms for drug discovery using biological data.
 

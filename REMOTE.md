@@ -2,9 +2,9 @@
 
 Remote engineering roles only, scraped hourly and classified by Claude. Listings older than 14 days are removed automatically.
 
-> *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
+### **65 open roles** (28 new today)
 
-### **64 open roles** (27 new today)
+[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <sub>Last updated May 15, 2026 at 21:15 UTC</sub>
 
@@ -287,6 +287,17 @@ _Design and deploy GenAI solutions for enterprise customers, building hands-on p
 
 ---
 
+### [Senior Technical Architect](jobs/slingshot-aerospace/senior-technical-architect.md)
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Remote / Washington, DC · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k`
+
+_Lead the design of secure, scalable application and data platforms across backend (.NET/Python), frontend (React), distributed systems, and AI-powered components for a space operations company. Guide architecture standards, mentoring, and end-to-end platform design with responsibility for microservices, RAG/LLM workflows, and enterprise security practices._
+
+![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
 ### [Engineering Manager - Code Plane [M3]](jobs/sourcegraph/engineering-manager-code-plane-m3-5996694004.md)
 <a href="https://sourcegraph.com"><img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sourcegraph** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$144k-$192k` · `Equity`
 
@@ -374,17 +385,6 @@ _Lead and manage a software engineering team, owning process, delivery, and tech
 _Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible. · [Apply →](https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f)_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![Apache Beam](https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square) ![S3](https://img.shields.io/badge/S3-3B82F6?style=flat-square) ![GCS](https://img.shields.io/badge/GCS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Associate Director/Director of Statistical Programming](jobs/exscientia/associate-director-director-of-statistical-programming-7923391.md)
-<a href="https://exscientia.ai"><img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Exscientia** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$200k-$260k` · `Bonus` · `Equity`
-
-_Lead statistical programming infrastructure and quality assurance for clinical drug development programs, overseeing analysis datasets, tables, figures, and exploratory analyses. Build and maintain analytics tools and open-source R packages for clinical data monitoring, cleaning, and knowledge discovery in a regulated pharmaceutical environment. · [Apply →](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7923391)_
-
-![SAS](https://img.shields.io/badge/SAS-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![R-Shiny](https://img.shields.io/badge/R--Shiny-3B82F6?style=flat-square) ![CDISC](https://img.shields.io/badge/CDISC-3B82F6?style=flat-square) ![SDTM](https://img.shields.io/badge/SDTM-3B82F6?style=flat-square) ![ADaM](https://img.shields.io/badge/ADaM-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Regulatory Compliance](https://img.shields.io/badge/Regulatory_Compliance-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
@@ -528,6 +528,17 @@ _Design and build real-time backend systems and data pipelines that capture, pro
 _Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements. · [Apply →](https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883)_
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Associate Director/Director of Statistical Programming](jobs/recursion/associate-director-director-of-statistical-programming-7923391.md)
+<a href="https://recursion.com"><img src="https://www.google.com/s2/favicons?domain=recursion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Recursion** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$200k-$260k` · `Bonus` · `Equity`
+
+_Lead statistical programming infrastructure and quality assurance for clinical drug development programs, overseeing analysis datasets, tables, figures, and exploratory analyses. Build and maintain analytics tools and open-source R packages for clinical data monitoring, cleaning, and knowledge discovery in a regulated pharmaceutical environment. · [Apply →](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7923391)_
+
+![SAS](https://img.shields.io/badge/SAS-3B82F6?style=flat-square) ![R](https://img.shields.io/badge/R-3B82F6?style=flat-square) ![R-Shiny](https://img.shields.io/badge/R--Shiny-3B82F6?style=flat-square) ![CDISC](https://img.shields.io/badge/CDISC-3B82F6?style=flat-square) ![SDTM](https://img.shields.io/badge/SDTM-3B82F6?style=flat-square) ![ADaM](https://img.shields.io/badge/ADaM-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Regulatory Compliance](https://img.shields.io/badge/Regulatory_Compliance-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
