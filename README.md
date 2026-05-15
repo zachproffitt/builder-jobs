@@ -648,8 +648,8 @@ _Build and productionize cutting-edge GenAI applications—RAG systems, multi-ag
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, CA or New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, CA or New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -659,8 +659,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
@@ -814,11 +814,11 @@ _Lead a small team of engineers building Sourcegraph's Code Plane products—Bat
 ---
 
 ### [Wireless Firmware Engineer (Starlink Mobile)](jobs/spacex/wireless-firmware-engineer-starlink-mobile.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, WA / Remote / Sunnyvale, CA · `Junior` · `$125k-$175k` · `Equity` · `Bonus`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Sunnyvale, CA / Redmond, WA / Remote · `Junior` · `$135k-$185k` · `Equity` · `Bonus`
 
-_Design and implement physical layer algorithms and signal processing firmware for satellite-based 4G/5G systems, optimizing for resource-constrained space hardware. Work on novel wireless communications challenges unique to satellite networks operating at scale._
+_Design and implement physical layer (PHY) algorithms and optimized signal processing software for satellite-based 4G/5G systems on Starlink Mobile's space-to-ground network. Work across wireless systems and protocol layers to solve interdisciplinary challenges in resource-constrained satellite and ground station environments._
 
-<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/C-3B82F6?style=flat-square" alt="C"> <img src="https://img.shields.io/badge/Signal_Processing-3B82F6?style=flat-square" alt="Signal Processing"> <img src="https://img.shields.io/badge/4G%2F5G_%28LTE%2FNR%29-3B82F6?style=flat-square" alt="4G/5G (LTE/NR)"> <img src="https://img.shields.io/badge/DSP-3B82F6?style=flat-square" alt="DSP"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git">
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/C-3B82F6?style=flat-square" alt="C"> <img src="https://img.shields.io/badge/Wireless_Signal_Processing-3B82F6?style=flat-square" alt="Wireless Signal Processing"> <img src="https://img.shields.io/badge/4G%2F5G_%28LTE%2FNR%29-3B82F6?style=flat-square" alt="4G/5G (LTE/NR)"> <img src="https://img.shields.io/badge/DSP_%28Digital_Signal_Processing%29-3B82F6?style=flat-square" alt="DSP (Digital Signal Processing)"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux">
 
 <sub>May 15, 2026</sub>
 
@@ -2015,11 +2015,11 @@ _Design and build real-time, map-based interfaces and backend systems for autono
 ---
 
 ### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA / Seattle, WA · `Staff` · `$220k–$292k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA / Costa Mesa, CA · `Staff` · `$220k—$292k USD` · `Equity`
 
-_Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems._
+_Architect and implement distributed systems for manufacturing execution—work order management, scheduling, material flow, and capacity planning—that transform Anduril's factories into adaptive, software-defined production networks. You'll bridge manufacturing operations and platform infrastructure at scale, ensuring production requirements shape broader technical decisions in a defense technology environment with export-controlled systems._
 
-<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Remix-3B82F6?style=flat-square" alt="Remix"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Manufacturing_Execution_Systems_%28MES%29-3B82F6?style=flat-square" alt="Manufacturing Execution Systems (MES)"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/U.S._Person_Status_%2F_TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="U.S. Person Status / TS/SCI Clearance">
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Manufacturing_Execution_Systems-3B82F6?style=flat-square" alt="Manufacturing Execution Systems"> <img src="https://img.shields.io/badge/Distributed_Systems_Architecture-3B82F6?style=flat-square" alt="Distributed Systems Architecture"> <img src="https://img.shields.io/badge/Remix-3B82F6?style=flat-square" alt="Remix"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance"> <img src="https://img.shields.io/badge/Enterprise_Resource_Planning-3B82F6?style=flat-square" alt="Enterprise Resource Planning">
 
 <sub>May 13, 2026</sub>
 

@@ -1,6 +1,6 @@
 <!--
 id: ashby-eightsleep-b1c37913-179d-4927-8745-f6ef88a02e82
-company: EightSleep
+company: Eight Sleep
 title: Senior Software Engineer - Mobile (iOS)
 source: ashby
 location: San Francisco
@@ -20,13 +20,13 @@ render_hash: e8003199
 
 # Senior Software Engineer - Mobile (iOS)
 
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
 
 > Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams._
 
-![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![SwiftUI](https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square) ![Combine](https://img.shields.io/badge/Combine-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![App Extensions](https://img.shields.io/badge/App_Extensions-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square" alt="SwiftUI"> <img src="https://img.shields.io/badge/Combine-3B82F6?style=flat-square" alt="Combine"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS"> <img src="https://img.shields.io/badge/App_Extensions-3B82F6?style=flat-square" alt="App Extensions"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
 
 <sub>Posted May 15, 2026</sub>
 
