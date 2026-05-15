@@ -4,15 +4,26 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **569 open roles** (384 new today) &nbsp;·&nbsp; 947 companies searched
+### **570 open roles** (385 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 10:58 UTC</sub>
+<sub>Last updated May 15, 2026 at 11:46 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Senior Technical Artist](jobs/zynga/senior-technical-artist-5813315004.md)
+<img src="https://www.google.com/s2/favicons?domain=zynga.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Zynga** · Bengaluru, India · `Senior`
+
+_Design and implement UI tooling, shaders, and animations in Unity while integrating art assets, VFX, and optimizing visual content for performance across mobile and other platforms. Work on large-scale social games with 6+ billion downloads, requiring mobile optimization expertise and profiling on diverse devices._
+
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-3B82F6?style=flat-square) ![Shaders](https://img.shields.io/badge/Shaders-3B82F6?style=flat-square) ![VFX](https://img.shields.io/badge/VFX-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square) ![HLSL](https://img.shields.io/badge/HLSL-3B82F6?style=flat-square) ![After Effects](https://img.shields.io/badge/After_Effects-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 11:46 UTC</sub>
+
+---
 
 ### [Forward Deployed Engineer (EMEA)](jobs/applied-intuition/forward-deployed-engineer-emea-4694910005.md)
 <img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition** · München, Bavaria, Germany · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `€93k-€145k` · `Equity`
