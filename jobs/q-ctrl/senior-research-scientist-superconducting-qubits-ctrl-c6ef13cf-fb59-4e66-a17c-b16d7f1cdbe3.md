@@ -1,32 +1,32 @@
 <!--
 id: lever-q-ctrl-c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3
 company: Q-CTRL
-title: Research Scientist, Superconducting Qubits
+title: Senior Research Scientist, Superconducting Qubits
 source: lever
-location: Los Angeles, CA
+location: Los Angeles
 remote: On-site
 hybrid: no
 posted_at: 2026-05-12
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.lever.co/q-ctrl/c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3
-summary: Build software solutions for calibration and optimization of superconducting quantum hardware, including routines for tuning two-qubit gates and processor-scale optimization. Work at the intersection of control theory, physics, and AI to solve quantum computing challenges at scale.
-skills: Python, Quantum Computing, Control Theory, Machine Learning, Optimization, Physics Simulation
+summary: Develop software solutions for calibration and optimization of superconducting quantum hardware, including tuning two-qubit gates and optimizing full processors at scale. Work on quantum error correction and integration with high-performance computing systems at the forefront of near-term quantum advantage.
+skills: Python, Control Theory, Quantum Computing, Machine Learning, Physics, Optimization Algorithms
 level: senior
 comp: 
 comp_extras: 
-render_hash: 0b8909c6
+render_hash: 43a308d8
 -->
 
-# Research Scientist, Superconducting Qubits
+# Senior Research Scientist, Superconducting Qubits
 
-<a href="https://q-ctrl.com"><img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q-CTRL** · Los Angeles, CA · `Senior` · On-site
+<a href="https://q-ctrl.com"><img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q-CTRL** · Los Angeles · `Senior` · On-site
 
 > Q-CTRL develops software to expand quantum computing capabilities and enable quantum sensing solutions for navigation and industrial applications.
 
-_Build software solutions for calibration and optimization of superconducting quantum hardware, including routines for tuning two-qubit gates and processor-scale optimization. Work at the intersection of control theory, physics, and AI to solve quantum computing challenges at scale._
+_Develop software solutions for calibration and optimization of superconducting quantum hardware, including tuning two-qubit gates and optimizing full processors at scale. Work on quantum error correction and integration with high-performance computing systems at the forefront of near-term quantum advantage._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-3B82F6?style=flat-square) ![Control Theory](https://img.shields.io/badge/Control_Theory-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Optimization](https://img.shields.io/badge/Optimization-3B82F6?style=flat-square) ![Physics Simulation](https://img.shields.io/badge/Physics_Simulation-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Control Theory](https://img.shields.io/badge/Control_Theory-3B82F6?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Physics](https://img.shields.io/badge/Physics-3B82F6?style=flat-square) ![Optimization Algorithms](https://img.shields.io/badge/Optimization_Algorithms-3B82F6?style=flat-square)
 
 <sub>Posted May 12, 2026</sub>
 

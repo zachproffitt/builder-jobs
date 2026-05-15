@@ -4,13 +4,24 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **60 open roles** (19 new today)
+### **60 open roles** (20 new today)
 
-<sub>Last updated May 15, 2026 at 17:43 UTC</sub>
+<sub>Last updated May 15, 2026 at 18:45 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Principal Security Engineer - Threat Intelligence](jobs/snowflake/principal-security-engineer-threat-intelligence-7504df05-ebf7-4c43-b9bf-f3820d0171e5.md)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
+
+_Build AI-assisted threat intelligence workflows and automation platforms that identify, track, and operationalize threats against Snowflake's cloud platform, translating threat actor research into detection strategies and defensive priorities. Scale threat intelligence collection, analysis, and reporting using modern engineering practices and AI automation in a security context requiring expertise in cloud-native threat actors and OSINT methodologies. · [Apply →](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![OSINT Tools](https://img.shields.io/badge/OSINT_Tools-3B82F6?style=flat-square) ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 18:45 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Front-End - D&I Solutions](jobs/planet-labs/senior-software-engineer-front-end-d-i-solutions-7870463.md)
 <a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$160k—$228k` · `Equity` · `Bonus`
@@ -440,17 +451,6 @@ _Design and build real-time backend systems and data pipelines that capture, pro
 _Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements. · [Apply →](https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883)_
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer.md)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · Remote / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
-
-_Design and build core Infrastructure-as-Code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Work on platform modernization initiatives across a global cloud-native infrastructure serving a constellation of imaging satellites._
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google_Cloud_Platform_%28GCP%29-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 

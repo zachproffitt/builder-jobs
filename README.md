@@ -4,15 +4,70 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **198 open roles** (68 new today) &nbsp;·&nbsp; 912 companies searched
+### **202 open roles** (73 new today) &nbsp;·&nbsp; 912 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 17:43 UTC</sub>
+<sub>Last updated May 15, 2026 at 18:45 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Software Engineer - Trade](jobs/bitgo/software-engineer-trade-8298001002.md)
+<a href="https://bitgo.com"><img src="https://www.google.com/s2/favicons?domain=bitgo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BitGo** · Toronto, Canada · `Mid` · `$180k-$200k CAD` · `Equity` · `Bonus`
+
+_Design and build resilient APIs, libraries, and services for BitGo's financial services platform—clearing, settlement, lending, and trading. Own features end-to-end from inception through customer integration, working on critical projects with limited supervision in a fast-paced environment handling significant digital asset transaction volume. · [Apply →](https://job-boards.greenhouse.io/bitgo/jobs/8298001002)_
+
+![Golang](https://img.shields.io/badge/Golang-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 18:45 UTC</sub>
+
+---
+
+### [Staff iOS Engineer](jobs/robinhood/staff-ios-engineer-7804686.md)
+<a href="https://robinhood.com"><img src="https://www.google.com/s2/favicons?domain=robinhood.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Robinhood** · New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$230k–$270k` · `Equity` · `Bonus`
+
+_Design and implement scalable iOS architecture for retirement and account management products serving millions of customers. Lead technical initiatives across multiple teams, improve application performance and testing practices, and mentor iOS engineers on a high-performing platform team. · [Apply →](https://boards.greenhouse.io/robinhood/jobs/7804686?t=gh_src=&gh_jid=7804686)_
+
+![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Architecture Design](https://img.shields.io/badge/Architecture_Design-3B82F6?style=flat-square) ![Mobile Systems](https://img.shields.io/badge/Mobile_Systems-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![Testing Infrastructure](https://img.shields.io/badge/Testing_Infrastructure-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 18:45 UTC</sub>
+
+---
+
+### [Principal Security Engineer - Threat Intelligence](jobs/snowflake/principal-security-engineer-threat-intelligence-7504df05-ebf7-4c43-b9bf-f3820d0171e5.md)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
+
+_Build AI-assisted threat intelligence workflows and automation platforms that identify, track, and operationalize threats against Snowflake's cloud platform, translating threat actor research into detection strategies and defensive priorities. Scale threat intelligence collection, analysis, and reporting using modern engineering practices and AI automation in a security context requiring expertise in cloud-native threat actors and OSINT methodologies. · [Apply →](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![OSINT Tools](https://img.shields.io/badge/OSINT_Tools-3B82F6?style=flat-square) ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 18:45 UTC</sub>
+
+---
+
+### [Software Engineer, Data Governance](jobs/snowflake/software-engineer-data-governance-d8816f3f-89d6-4434-bc24-eaf4169c1d95.md)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · US-CA-Menlo Park · `Senior`
+
+_Design and build data governance features and services that help customers govern data assets through fine-grained secure access, privacy controls, and auditability at large scale. Apply systems programming expertise to solve complex challenges in database security and governance across Snowflake's platform. · [Apply →](https://jobs.ashbyhq.com/snowflake/d8816f3f-89d6-4434-bc24-eaf4169c1d95)_
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Systems Programming](https://img.shields.io/badge/Systems_Programming-3B82F6?style=flat-square) ![Multi-threading](https://img.shields.io/badge/Multi--threading-3B82F6?style=flat-square) ![Concurrency](https://img.shields.io/badge/Concurrency-3B82F6?style=flat-square) ![Database Security](https://img.shields.io/badge/Database_Security-3B82F6?style=flat-square) ![Data Governance](https://img.shields.io/badge/Data_Governance-3B82F6?style=flat-square) ![BS in Computer Science](https://img.shields.io/badge/BS_in_Computer_Science-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 18:45 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Agentic Workflows](jobs/waymo/senior-software-engineer-agentic-workflows-7926984.md)
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$213k—$263k` · `Bonus` · `Equity`
+
+_Deploy agentic AI workflows to automate ML development and integrate autonomous agents into Waymo's ML platform tooling. Work at scale with ML engineers to improve developer productivity across the autonomous driving stack. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7926984)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Angular](https://img.shields.io/badge/Angular-3B82F6?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-3B82F6?style=flat-square) ![ML platforms](https://img.shields.io/badge/ML_platforms-3B82F6?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-3B82F6?style=flat-square) ![Backend Systems](https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 18:45 UTC</sub>
+
+---
 
 ### [Senior Robotics Engineer, Sensor Integration](jobs/anduril-industries/senior-robotics-engineer-sensor-integration-5138979007.md)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$220k-$292k` · `Equity`
@@ -130,17 +185,6 @@ _Design and build automated quality and validation systems for production and di
 _Design, develop, and optimize PLC automation and controls systems for high-volume solar cell manufacturing equipment, including electrical design, HMI/SCADA integration, and robotics commissioning. Work on cutting-edge aerospace manufacturing with ANSI/OSHA safety compliance and ITAR requirements. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8545793002?gh_jid=8545793002)_
 
 ![PLC programming](https://img.shields.io/badge/PLC_programming-3B82F6?style=flat-square) ![Siemens TIA Portal](https://img.shields.io/badge/Siemens_TIA_Portal-3B82F6?style=flat-square) ![Beckhoff TwinCAT](https://img.shields.io/badge/Beckhoff_TwinCAT-3B82F6?style=flat-square) ![HMI/SCADA](https://img.shields.io/badge/HMI%2FSCADA-3B82F6?style=flat-square) ![EtherCAT](https://img.shields.io/badge/EtherCAT-3B82F6?style=flat-square) ![Profinet](https://img.shields.io/badge/Profinet-3B82F6?style=flat-square) ![ABB Robotics](https://img.shields.io/badge/ABB_Robotics-3B82F6?style=flat-square) ![Electrical design (NEC/NFPA/UL508A)](https://img.shields.io/badge/Electrical_design_%28NEC%2FNFPA%2FUL508A%29-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 17:43 UTC</sub>
-
----
-
-### [Wireless Firmware Engineer (Starlink Mobile)](jobs/spacex/wireless-firmware-engineer-starlink-mobile.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Sunnyvale, CA / Redmond, WA / Remote · `Junior` · `$135k-$185k` · `Equity` · `Bonus`
-
-_Design and implement physical layer (PHY) algorithms and optimized signal processing software for satellite-based 4G/5G systems on Starlink Mobile's space-to-ground network. Work across wireless systems and protocol layers to solve interdisciplinary challenges in resource-constrained satellite and ground station environments._
-
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Wireless Signal Processing](https://img.shields.io/badge/Wireless_Signal_Processing-3B82F6?style=flat-square) ![4G/5G (LTE/NR)](https://img.shields.io/badge/4G%2F5G_%28LTE%2FNR%29-3B82F6?style=flat-square) ![DSP (Digital Signal Processing)](https://img.shields.io/badge/DSP_%28Digital_Signal_Processing%29-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
 
 <sub>May 15, 2026 at 17:43 UTC</sub>
 
@@ -548,6 +592,17 @@ _Lead technical direction and build features for MONOPOLY GO! Chat, a React Nati
 _Lead a small team of engineers building Sourcegraph's Code Plane products—Batch Changes, MCP Server, Code Monitors, and src CLI—that power large-scale code transformations and enable agents to operate on massive codebases. You'll spend up to 50% of your time writing code and guiding architecture decisions while managing hiring, performance, and roadmap execution for a product-facing team serving developers and AI agents at scale. · [Apply →](https://job-boards.greenhouse.io/sourcegraph91/jobs/5996694004)_
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-3B82F6?style=flat-square) ![SvelteKit](https://img.shields.io/badge/SvelteKit-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Wireless Firmware Engineer (Starlink Mobile)](jobs/spacex/wireless-firmware-engineer-starlink-mobile.md)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, WA / Remote / Sunnyvale, CA · `Junior` · `$125k-$175k` · `Equity` · `Bonus`
+
+_Design and implement physical layer algorithms and signal processing firmware for satellite-based 4G/5G systems, optimizing for resource-constrained space hardware. Work on novel wireless communications challenges unique to satellite networks operating at scale._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Signal Processing](https://img.shields.io/badge/Signal_Processing-3B82F6?style=flat-square) ![4G/5G (LTE/NR)](https://img.shields.io/badge/4G%2F5G_%28LTE%2FNR%29-3B82F6?style=flat-square) ![DSP](https://img.shields.io/badge/DSP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -1398,23 +1453,12 @@ _Build software solutions on Palantir's data platforms, working on real customer
 
 ---
 
-### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer.md)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · Remote / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+### [Senior Research Scientist, Superconducting Qubits](jobs/q-ctrl/senior-research-scientist-superconducting-qubits-ctrl-c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3.md)
+<a href="https://q-ctrl.com"><img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q-CTRL** · Los Angeles · `Senior`
 
-_Design and build core Infrastructure-as-Code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Work on platform modernization initiatives across a global cloud-native infrastructure serving a constellation of imaging satellites._
+_Develop software solutions for calibration and optimization of superconducting quantum hardware, including tuning two-qubit gates and optimizing full processors at scale. Work on quantum error correction and integration with high-performance computing systems at the forefront of near-term quantum advantage. · [Apply →](https://jobs.lever.co/q-ctrl/c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3)_
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google_Cloud_Platform_%28GCP%29-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Research Scientist, Superconducting Qubits](jobs/q-ctrl/research-scientist-superconducting-qubits-ctrl-c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3.md)
-<a href="https://q-ctrl.com"><img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q-CTRL** · Los Angeles, CA · `Senior`
-
-_Build software solutions for calibration and optimization of superconducting quantum hardware, including routines for tuning two-qubit gates and processor-scale optimization. Work at the intersection of control theory, physics, and AI to solve quantum computing challenges at scale. · [Apply →](https://jobs.lever.co/q-ctrl/c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-3B82F6?style=flat-square) ![Control Theory](https://img.shields.io/badge/Control_Theory-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Optimization](https://img.shields.io/badge/Optimization-3B82F6?style=flat-square) ![Physics Simulation](https://img.shields.io/badge/Physics_Simulation-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Control Theory](https://img.shields.io/badge/Control_Theory-3B82F6?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Physics](https://img.shields.io/badge/Physics-3B82F6?style=flat-square) ![Optimization Algorithms](https://img.shields.io/badge/Optimization_Algorithms-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
@@ -1755,11 +1799,11 @@ _Design and build real-time, map-based interfaces and backend systems for autono
 ---
 
 ### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA / Costa Mesa, CA · `Staff` · `$220k—$292k USD` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA / Seattle, WA · `Staff` · `$220k–$292k` · `Equity`
 
-_Architect and implement distributed systems for manufacturing execution—work order management, scheduling, material flow, and capacity planning—that transform Anduril's factories into adaptive, software-defined production networks. You'll bridge manufacturing operations and platform infrastructure at scale, ensuring production requirements shape broader technical decisions in a defense technology environment with export-controlled systems._
+_Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Manufacturing Execution Systems](https://img.shields.io/badge/Manufacturing_Execution_Systems-3B82F6?style=flat-square) ![Distributed Systems Architecture](https://img.shields.io/badge/Distributed_Systems_Architecture-3B82F6?style=flat-square) ![Remix](https://img.shields.io/badge/Remix-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square) ![Enterprise Resource Planning](https://img.shields.io/badge/Enterprise_Resource_Planning-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Remix](https://img.shields.io/badge/Remix-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Manufacturing Execution Systems (MES)](https://img.shields.io/badge/Manufacturing_Execution_Systems_%28MES%29-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![U.S. Person Status / TS/SCI Clearance](https://img.shields.io/badge/U.S._Person_Status_%2F_TS%2FSCI_Clearance-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
