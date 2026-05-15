@@ -6,8 +6,6 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 [← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-<sub>Last updated May 15, 2026 at 21:34 UTC</sub>
-
 <br>
 
 ## May 15, 2026
@@ -401,8 +399,8 @@ _Build and maintain petabyte-scale storage infrastructure supporting frontier AI
 
 ---
 
-### [Senior Software Engineer - OpenTelemetry | Canada | Remote](jobs/grafana/senior-software-engineer-opentelemetry-canada-remote-5995398004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 205k` · `Equity` · `Bonus`
+### [Senior Software Engineer - OpenTelemetry | Canada | Remote](jobs/grafana-labs/senior-software-engineer-opentelemetry-canada-remote-5995398004.md)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 205k` · `Equity` · `Bonus`
 
 _Contribute to OpenTelemetry projects and Grafana Labs' observability infrastructure, working across upstream open source communities and customer needs. Lead technical strategy around instrumentation, telemetry pipelines, and distributed tracing systems at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5995398004)_
 
@@ -412,8 +410,8 @@ _Contribute to OpenTelemetry projects and Grafana Labs' observability infrastruc
 
 ---
 
-### [Senior Software Engineer - OpenTelemetry | US | Remote](jobs/grafana/senior-software-engineer-opentelemetry-us-remote-5995397004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$154k-$193k` · `Equity` · `Bonus`
+### [Senior Software Engineer - OpenTelemetry | US | Remote](jobs/grafana-labs/senior-software-engineer-opentelemetry-us-remote-5995397004.md)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$154k-$193k` · `Equity` · `Bonus`
 
 _Contribute to OpenTelemetry components and related observability infrastructure across the open source ecosystem, while defining and executing Grafana Labs' technical strategy for OpenTelemetry adoption. Work with upstream maintainers and customers to build production-quality telemetry pipelines and instrumentation tooling. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5995397004)_
 
@@ -423,8 +421,8 @@ _Contribute to OpenTelemetry components and related observability infrastructure
 
 ---
 
-### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana/software-engineer-platform-productivity-canada-remote-5807986004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
+### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana-labs/software-engineer-platform-productivity-canada-remote-5807986004.md)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
 
 _Build and maintain Grafana's Internal Engineering Platform (IEP), including CI/CD systems, deployment automation, and developer productivity tooling that serves internal engineering teams. Own the full lifecycle from design through production operation, including on-call support for platform reliability. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5807986004)_
 
@@ -434,8 +432,8 @@ _Build and maintain Grafana's Internal Engineering Platform (IEP), including CI/
 
 ---
 
-### [Software Engineer - Platform Productivity | USA | Remote](jobs/grafana/software-engineer-platform-productivity-usa-remote-5807984004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$127k-$153k` · `Equity` · `Bonus`
+### [Software Engineer - Platform Productivity | USA | Remote](jobs/grafana-labs/software-engineer-platform-productivity-usa-remote-5807984004.md)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$127k-$153k` · `Equity` · `Bonus`
 
 _Build and maintain the internal engineering platform's CI/CD systems, release automation, and deployment tooling that enables Grafana's application teams to ship software securely and reliably. Operate production infrastructure on-call and work across cloud, Kubernetes, and Infrastructure as Code to support diverse internal engineering teams. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5807984004)_
 
