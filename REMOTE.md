@@ -2,13 +2,24 @@
 
 Remote engineering roles only, scraped hourly and classified by Claude. Listings older than 14 days are removed automatically.
 
-### **66 open roles** (29 new today)
+### **67 open roles** (30 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 15, 2026
+
+### [Software Engineer, Infrastructure](jobs/anrok/software-engineer-infrastructure-006ac43b-0a0a-4ccc-9170-0482abed125e.md)
+<a href="https://anrok.com"><img src="https://www.google.com/s2/favicons?domain=anrok.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anrok** · San Francisco, California / New York, New York / Salt Lake City, Utah / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Design and operate infrastructure systems that support Anrok's tax automation platform, including database scaling, observability, and reliability for a product serving 40% of Forbes Top 50 AI companies. Work at scale across GCP and manage relational databases handling complex tax compliance logic across 50+ US jurisdictions and 100+ countries. · [Apply →](https://jobs.ashbyhq.com/anrok/006ac43b-0a0a-4ccc-9170-0482abed125e)_
+
+<img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Pulumi-3B82F6?style=flat-square" alt="Pulumi"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square" alt="Infrastructure as Code"> <img src="https://img.shields.io/badge/Cloud_Security-3B82F6?style=flat-square" alt="Cloud Security"> <img src="https://img.shields.io/badge/Database_Scaling-3B82F6?style=flat-square" alt="Database Scaling">
+
+<sub>May 15, 2026 at 23:03 UTC</sub>
+
+---
 
 ### [Senior GTM Engineer,  AI Innovation](jobs/toast/senior-gtm-engineer-ai-innovation-7757899.md)
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$90k-$184k` · `Equity` · `Bonus`
@@ -22,7 +33,7 @@ _Own the multi-quarter AI-in-GTM strategy and roadmap across Marketing, Sales, a
 ---
 
 ### [Vice President Site Reliability Engineering (Data Centers)](jobs/galaxy-digital/vice-president-site-reliability-engineering-data-centers-5997360004.md)
-<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Lead a specialized SRE team designing, deploying, and maintaining automation platforms and infrastructure-as-code systems across hybrid cloud and on-prem data center environments. Establish IaC governance standards, optimize configuration management workflows, and build self-service platforms that enhance engineering velocity while managing complex hybrid infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)_
 
@@ -121,7 +132,7 @@ _Design and implement frontend features for a geospatial monitoring application 
 ---
 
 ### [Director of Safety ML](jobs/reddit/director-of-safety-ml-7926627.md)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · San Francisco, CA / Los Angeles, CA / New York, NY / Chicago, IL / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$276k–$387k` · `Equity` · `Bonus`
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · San Francisco, California / Los Angeles, California / New York, New York / Chicago, Illinois / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$276k–$387k` · `Equity` · `Bonus`
 
 _Lead Reddit's Safety and Moderation ML organization to build industry-leading systems for detecting and preventing harmful content at scale. Drive strategy, build and deploy fine-tuned LLMs and transformer models for real-time abuse detection across a platform with 126M daily active users, managing a team of 25+ applied scientists and engineers. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7926627)_
 
@@ -264,7 +275,7 @@ _Build and productionize cutting-edge GenAI applications—RAG systems, multi-ag
 ---
 
 ### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications.md)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
 
 _Design and build data curation, mining, and search applications that power ML dataset generation and accelerate autonomous vehicle development. Work at scale in the autonomous vehicles domain with cross-functional collaboration on data platform infrastructure._
 
@@ -275,7 +286,7 @@ _Design and build data curation, mining, and search applications that power ML d
 ---
 
 ### [Senior Computational Fluid Dynamics Engineer](jobs/oklo/senior-computational-fluid-dynamics-engineer-5996719004.md)
-<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, CA / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$190k` · `Equity` · `Bonus`
+<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$190k` · `Equity` · `Bonus`
 
 _Develop and conduct high-fidelity CFD thermal-hydraulic analyses of advanced fission reactor systems, including core, vessel, heat exchangers, and power conversion components. This role requires deep expertise in thermal-fluid dynamics for nuclear applications at a startup advancing commercial advanced reactors. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/5996719004)_
 
@@ -286,7 +297,7 @@ _Develop and conduct high-fidelity CFD thermal-hydraulic analyses of advanced fi
 ---
 
 ### [Solutions Architect, Digital Natives](jobs/openai/solutions-architect-digital-natives-e827d138-22de-49f0-9de5-60f3e3ce07a0.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$240k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$240k`
 
 _Design and deploy GenAI solutions for enterprise customers, building hands-on prototypes and providing architectural guidance on RAG systems, multi-agent orchestration, and production scaling. Work embedded with senior stakeholders at large multinational corporations to identify and validate high-value AI applications. · [Apply →](https://jobs.ashbyhq.com/openai/e827d138-22de-49f0-9de5-60f3e3ce07a0)_
 
@@ -297,7 +308,7 @@ _Design and deploy GenAI solutions for enterprise customers, building hands-on p
 ---
 
 ### [Senior Technical Architect](jobs/slingshot-aerospace/senior-technical-architect.md)
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Remote / Washington, DC · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Remote / Washington, D.C. · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k`
 
 _Lead the design of secure, scalable application and data platforms across backend (.NET/Python), frontend (React), distributed systems, and AI-powered components for a space operations company. Guide architecture standards, mentoring, and end-to-end platform design with responsibility for microservices, RAG/LLM workflows, and enterprise security practices._
 
@@ -319,7 +330,7 @@ _Lead a small team of engineers building Sourcegraph's Code Plane products—Bat
 ---
 
 ### [[TEMPLATE] Default Template](jobs/stripe/template-default-template-7919030.md)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Chicago, IL / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Chicago, Illinois / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
 
 _Troubleshoot and advise technical users on Stripe payment integrations across multiple platforms and languages, helping developers optimize their implementations. You'll learn full-stack development across Stripe's supported backend languages, JavaScript/React, SQL, and LogScale while providing 24/5 developer support. · [Apply →](https://stripe.com/jobs/search?gh_jid=7919030)_
 
@@ -356,7 +367,7 @@ _Lead a team of threat intelligence analysts and security engineers to conduct c
 ---
 
 ### [Staff Network Engineer](jobs/anthropic/staff-network-engineer-5170073008.md)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, CA / Seattle, WA / New York City, NY / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$320k—$405k` · `Equity`
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Seattle, Washington / New York City, New York / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$320k—$405k` · `Equity`
 
 _Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5170073008)_
 
@@ -367,7 +378,7 @@ _Design, deploy, and maintain high-performance networks across multiple data cen
 ---
 
 ### [Software Engineer (Ray Core)](jobs/anyscale/software-engineer-ray-core-73a973b1-6377-4144-a6e5-610b78719882.md)
-<a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance infrastructure. Work on high-performance distributed systems at scale, mentoring junior engineers and leading architectural improvements for a system powering AI applications at companies like OpenAI and Spotify. · [Apply →](https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882)_
 
@@ -389,7 +400,7 @@ _Lead and manage a software engineering team, owning process, delivery, and tech
 ---
 
 ### [Software Engineer, Data Infrastructure](jobs/cohere/software-engineer-data-infrastructure-6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f.md)
-<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible. · [Apply →](https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f)_
 
@@ -466,7 +477,7 @@ _Lead a team building an AI-native platform and pipelines that create, enrich, a
 ---
 
 ### [Security Engineering Intern - Summer 2026](jobs/lambda-labs/security-engineering-intern-summer-2026-0663f04c-097d-414f-b0a0-414a7cf153d6.md)
-<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern` · `Equity`
+<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern` · `Equity`
 
 _Build production security detections against Lambda's real log data, shipping code that fires on real events and routes to an on-call team. Work with LLM-based classifiers and rule-based systems to detect sensitive data exposure and identity/access pattern anomalies across AI cloud infrastructure. · [Apply →](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6)_
 
@@ -499,7 +510,7 @@ _Build and maintain custody systems, key management infrastructure, and anti-sca
 ---
 
 ### [Head of Measurement & Performance Intelligence](jobs/openai/head-of-measurement-performance-intelligence-57b9ce42-b17f-4b43-96b3-a67d9d705d5d.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Lead the measurement and performance intelligence function for OpenAI's compute platforms, defining metrics, benchmarking methodologies, and acceptance criteria across hardware and software systems. Partner with training, inference, and infrastructure teams to translate performance data into architectural and capacity decisions at scale. · [Apply →](https://jobs.ashbyhq.com/openai/57b9ce42-b17f-4b43-96b3-a67d9d705d5d)_
 
@@ -510,7 +521,7 @@ _Lead the measurement and performance intelligence function for OpenAI's compute
 ---
 
 ### [Senior Data Engineer, Core Experimentation](jobs/openai/senior-data-engineer-core-experimentation-2796d32a-9f7c-4008-a2c5-50dd53b0f2fe.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, Washington · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
 
 _Design and build data pipelines and canonical datasets powering OpenAI's experimentation platform, data warehouse, and product analytics at massive scale. Work with infrastructure, research, and product teams to enable trustworthy, statistically rigorous experimentation across frontier AI products. · [Apply →](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe)_
 
@@ -521,7 +532,7 @@ _Design and build data pipelines and canonical datasets powering OpenAI's experi
 ---
 
 ### [Staff / Senior Staff Backend Engineer, B2B Flywheel](jobs/openai/staff-senior-staff-backend-engineer-b2b-flywheel-e9fa3446-0b1e-48c0-a567-ef85f1621b76.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293K-$385K`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293K-$385K`
 
 _Design and build real-time backend systems and data pipelines that capture, process, and translate product and usage signals across OpenAI's B2B API surfaces. Operate in high-scale, low-latency, privacy-constrained environments while partnering with data science and research teams to improve products and models through production feedback loops. · [Apply →](https://jobs.ashbyhq.com/openai/e9fa3446-0b1e-48c0-a567-ef85f1621b76)_
 
@@ -532,7 +543,7 @@ _Design and build real-time backend systems and data pipelines that capture, pro
 ---
 
 ### [Staff+ Software Engineer, Identity Infrastructure Engineering](jobs/openai/staff-software-engineer-identity-infrastructure-engineering-72a58872-70e2-4340-a259-e9bea3596883.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
 
 _Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements. · [Apply →](https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883)_
 
@@ -587,7 +598,7 @@ _Build scalable full-stack financial services platforms (lending, equipment fina
 ---
 
 ### [Member of Technical Staff, QA](jobs/vapi/member-of-technical-staff-qa-94e93b56-c7ac-4765-9ffb-aefcbe0bb795.md)
-<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
 
 _Build and own end-to-end testing infrastructure for a production voice AI platform handling 1M+ calls daily. Test complex distributed systems (LLMs, STT, TTS, telephony integrations) and define QA practices for a non-deterministic product at scale. · [Apply →](https://jobs.ashbyhq.com/vapi/94e93b56-c7ac-4765-9ffb-aefcbe0bb795)_
 
@@ -602,7 +613,7 @@ _Build and own end-to-end testing infrastructure for a production voice AI platf
 ## May 13, 2026
 
 ### [Senior Software Engineer, Mobile Platform (React Native)](jobs/front/senior-software-engineer-mobile-platform-react-native-d4a4c46a-35a8-46c0-b09f-d96893be473a.md)
-<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and maintain Front's cross-platform React Native mobile app, diving into native-level performance optimization and iOS/Android API integration. Work with a high-growth B2B platform handling complex customer operations at scale across 9,000+ companies. · [Apply →](https://jobs.ashbyhq.com/frontcareers/d4a4c46a-35a8-46c0-b09f-d96893be473a)_
 
@@ -635,7 +646,7 @@ _Lead a distributed engineering team building genomics tertiary analysis softwar
 ---
 
 ### [Software Engineer, Agent Dev Velocity](jobs/notion/software-engineer-agent-dev-velocity-c565d3b0-0dcf-4bcd-b29b-4168479ac78e.md)
-<a href="https://notion.so"><img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Notion** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$214k-$300k` · `Equity`
+<a href="https://notion.so"><img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Notion** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$214k-$300k` · `Equity`
 
 _Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization. · [Apply →](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e)_
 
@@ -646,7 +657,7 @@ _Build scalable evaluation infrastructure and harnesses that enable AI engineers
 ---
 
 ### [Data Engineer, People Innovation Labs](jobs/openai/data-engineer-people-innovation-labs-579595e5-0b16-485e-b7c5-102fc7467def.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics. · [Apply →](https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def)_
 
@@ -657,7 +668,7 @@ _Design and build data pipelines and canonical datasets in Databricks to power P
 ---
 
 ### [Data Scientist, Core Experimentation](jobs/openai/data-scientist-core-experimentation-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$293k-$325k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, Washington · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$293k-$325k`
 
 _Build and evolve OpenAI's core experimentation platform, designing statistical methodologies and scalable analytical systems that power trustworthy decision-making across product and research teams. Work on hard problems in online experimentation including variance reduction, causal inference, and measurement systems at frontier AI scale. · [Apply →](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92)_
 
@@ -668,7 +679,7 @@ _Build and evolve OpenAI's core experimentation platform, designing statistical 
 ---
 
 ### [AI Operations Manager | Agentic CX](jobs/ramp/ai-operations-manager-agentic-cx-a3afd259-ba6b-4eb0-a1b6-05d01dddacd8.md)
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Build and ship AI agents, internal automation platforms, and evaluation systems that transform Ramp's customer experience operations and enable CX teams to operate at scale. Own the full stack from prototyping AI workflows to infrastructure for managing shared AI skills and reliability systems across internal and customer-facing products. · [Apply →](https://jobs.ashbyhq.com/ramp/a3afd259-ba6b-4eb0-a1b6-05d01dddacd8)_
 
@@ -679,7 +690,7 @@ _Build and ship AI agents, internal automation platforms, and evaluation systems
 ---
 
 ### [Senior Software Engineer | GTM Platform, Backend](jobs/ramp/senior-software-engineer-gtm-platform-backend-428f41e2-48e8-409d-b5e3-8053f7fc7a27.md)
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build self-serve platform tooling and agentic workflows that automate marketing operations at scale, converting repeated requests into reusable platform capabilities. Own end-to-end systems integrating AI agents with guardrails to reduce manual marketing work and drive compounding leverage across 9+ teams. · [Apply →](https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27)_
 
@@ -690,7 +701,7 @@ _Build self-serve platform tooling and agentic workflows that automate marketing
 ---
 
 ### [Product Security Architect](jobs/replit/product-security-architect-16f1c784-449b-4c84-bee7-b2bf18768977.md)
-<a href="https://replit.com"><img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Replit** · Foster City, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Equity`
+<a href="https://replit.com"><img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Replit** · Foster City, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Equity`
 
 _Design and implement application security architecture for Replit's multi-tenant SaaS platform, defining secure patterns for tenant separation, authentication, authorization, and encryption. Lead threat modeling, security code reviews, and architecture documentation while mentoring engineering teams on secure-by-design practices. · [Apply →](https://jobs.ashbyhq.com/replit/16f1c784-449b-4c84-bee7-b2bf18768977)_
 

@@ -2,7 +2,7 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **220 open roles** (94 new today) &nbsp;·&nbsp; 908 companies searched
+### **223 open roles** (97 new today) &nbsp;·&nbsp; 908 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
@@ -10,8 +10,41 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 ## May 15, 2026
 
+### [Software Engineer, Infrastructure](jobs/anrok/software-engineer-infrastructure-006ac43b-0a0a-4ccc-9170-0482abed125e.md)
+<a href="https://anrok.com"><img src="https://www.google.com/s2/favicons?domain=anrok.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anrok** · San Francisco, California / New York, New York / Salt Lake City, Utah / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+
+_Design and operate infrastructure systems that support Anrok's tax automation platform, including database scaling, observability, and reliability for a product serving 40% of Forbes Top 50 AI companies. Work at scale across GCP and manage relational databases handling complex tax compliance logic across 50+ US jurisdictions and 100+ countries. · [Apply →](https://jobs.ashbyhq.com/anrok/006ac43b-0a0a-4ccc-9170-0482abed125e)_
+
+<img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Pulumi-3B82F6?style=flat-square" alt="Pulumi"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square" alt="Infrastructure as Code"> <img src="https://img.shields.io/badge/Cloud_Security-3B82F6?style=flat-square" alt="Cloud Security"> <img src="https://img.shields.io/badge/Database_Scaling-3B82F6?style=flat-square" alt="Database Scaling">
+
+<sub>May 15, 2026 at 23:03 UTC</sub>
+
+---
+
+### [[2026] Software Engineer, Game Developer](jobs/roblox/2026-software-engineer-game-developer-7557910.md)
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$153k-$182k` · `Equity`
+
+_Build prototypes and production features for the Roblox engine in Luau, working directly with external game studios to push the boundaries of performance, scalability, and what's possible on the platform. Shape the engine roadmap by identifying, advocating for, and implementing core engine and tooling improvements. · [Apply →](https://careers.roblox.com/jobs/7557910?gh_jid=7557910)_
+
+<img src="https://img.shields.io/badge/Luau-3B82F6?style=flat-square" alt="Luau"> <img src="https://img.shields.io/badge/Lua-3B82F6?style=flat-square" alt="Lua"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/Roblox-3B82F6?style=flat-square" alt="Roblox">
+
+<sub>May 15, 2026 at 23:03 UTC</sub>
+
+---
+
+### [Full Stack Software Engineer, Data](jobs/spacex/full-stack-software-engineer-data-8553026002.md)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Junior` · `$125k-$175k` · `Equity` · `Bonus`
+
+_Build highly reliable and scalable data analysis libraries, systems, and pipelines that empower engineers across SpaceX to analyze rocket launches, factory production, and Starlink satellite telemetry. Work on mission-critical applications with full ownership of challenging problems at the intersection of data engineering, machine learning, and full-stack development in an aerospace context. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Angular-3B82F6?style=flat-square" alt="Angular"> <img src="https://img.shields.io/badge/Pandas-3B82F6?style=flat-square" alt="Pandas"> <img src="https://img.shields.io/badge/OpenCV-3B82F6?style=flat-square" alt="OpenCV"> <img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET">
+
+<sub>May 15, 2026 at 23:03 UTC</sub>
+
+---
+
 ### [Staff QA Engineer](jobs/archer-aviation/staff-qa-engineer-7589572003.md)
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Senior` · `$140k-$180k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, California · `Senior` · `$140k-$180k`
 
 _Design, develop, and maintain comprehensive test plans and automated test suites for Archer's electric aircraft ride-sharing and airline operational platforms. Lead QA processes and mentor engineers on high-reliability systems in aerospace where software failures have real-world safety implications. · [Apply →](https://job-boards.greenhouse.io/archer56/jobs/7589572003)_
 
@@ -33,7 +66,7 @@ _Own the multi-quarter AI-in-GTM strategy and roadmap across Marketing, Sales, a
 ---
 
 ### [Senior Software Engineer, Air AI](jobs/commure/senior-software-engineer-air-ai-b8d40cf3-3bde-4aec-a2a9-ded988ab128f.md)
-<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, CA · `Senior`
+<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, California · `Senior`
 
 _Build production AI-powered clinical documentation, provider copilots, and autonomous coding systems that integrate LLMs into real-time clinical workflows. Work across full-stack architecture (Python backend, TypeScript/React frontend, Kubernetes infrastructure) to deliver intelligent healthcare automation that clinicians trust with critical patient care tasks. · [Apply →](https://jobs.ashbyhq.com/commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f)_
 
@@ -44,7 +77,7 @@ _Build production AI-powered clinical documentation, provider copilots, and auto
 ---
 
 ### [Software Engineer, Air AI Provider](jobs/commure/software-engineer-air-ai-provider-4dd01cb1-6568-48b3-be62-37032ad487e1.md)
-<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, CA · `Mid`
+<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, California · `Mid`
 
 _Build fullstack AI-powered clinical documentation and autonomous workflow systems that process real-time patient interactions and assist clinicians at scale. You'll design production LLM integrations and healthcare automation features handling 100M+ patient interactions annually across 500K clinicians. · [Apply →](https://jobs.ashbyhq.com/commure/4dd01cb1-6568-48b3-be62-37032ad487e1)_
 
@@ -55,7 +88,7 @@ _Build fullstack AI-powered clinical documentation and autonomous workflow syste
 ---
 
 ### [Technical Director, Content Platform](jobs/roblox/technical-director-content-platform-7754152.md)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$399k-$457k` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$399k-$457k` · `Equity`
 
 _Lead multidisciplinary engineering teams building and scaling Roblox's asset infrastructure platform, managing 100+ million requests per second across creation, upload, storage, indexing, and delivery of all asset types. Drive long-term technical strategy, architecture, and roadmap for one of the largest backend services in the world serving tens of millions of creators and players. · [Apply →](https://careers.roblox.com/jobs/7754152?gh_jid=7754152)_
 
@@ -66,7 +99,7 @@ _Lead multidisciplinary engineering teams building and scaling Roblox's asset in
 ---
 
 ### [Vice President Site Reliability Engineering (Data Centers)](jobs/galaxy-digital/vice-president-site-reliability-engineering-data-centers-5997360004.md)
-<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Lead a specialized SRE team designing, deploying, and maintaining automation platforms and infrastructure-as-code systems across hybrid cloud and on-prem data center environments. Establish IaC governance standards, optimize configuration management workflows, and build self-service platforms that enhance engineering velocity while managing complex hybrid infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)_
 
@@ -88,7 +121,7 @@ _Lead a specialized technical operations team managing enterprise CX infrastruct
 ---
 
 ### [Chief of Staff & Agents](jobs/ekho/chief-of-staff-agents-f6859821-786e-4700-8c9c-ee8b1e0e1438.md)
-<a href="https://www.ekho.com"><img src="https://www.google.com/s2/favicons?domain=www.ekho.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ekho** · New York, NY / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$150k-$200k` · `Equity`
+<a href="https://www.ekho.com"><img src="https://www.google.com/s2/favicons?domain=www.ekho.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ekho** · New York, New York / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$150k-$200k` · `Equity`
 
 _Own Ekho's marketing function end-to-end and build the AI agent orchestration layer that scales critical business operations—from RevOps and CS automation to hiring and BizOps. You'll stand up agents across functions, starting with dealer outbound and expanding the infrastructure downstream as the company grows. · [Apply →](https://jobs.ashbyhq.com/ekho/f6859821-786e-4700-8c9c-ee8b1e0e1438)_
 
@@ -121,7 +154,7 @@ _Lead a cross-functional team of platform, software, and security engineers resp
 ---
 
 ### [Data & Control Systems Engineer](jobs/spacex/data-control-systems-engineer-8552660002.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Cape Canaveral, FL · `Junior`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Cape Canaveral, Florida · `Junior`
 
 _Design and build control systems infrastructure for Starship Launch Vehicle ground support equipment, including data acquisition systems, hardware integration, and real-time sensor data pipelines to pad operators. Work on mission-critical automation and electrical systems in the space launch domain requiring Air Force background clearance and ITAR compliance. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8552660002?gh_jid=8552660002)_
 
@@ -165,7 +198,7 @@ _Develop foundation models, world models, and reinforcement learning systems for
 ---
 
 ### [Software Engineer - Ride and Fleet Services](jobs/zoox/software-engineer-ride-and-fleet-services-2783987b-5ab8-4447-a9e4-77745439e7ba.md)
-<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · San Diego, CA
+<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · San Diego, California
 
 _Build the Fleet Dispatch System that routes missions (rideshare trips, charging, cleaning, depot returns) to autonomous robots. This is the core backbone of Zoox's fleet management platform connecting riders and operators to a real-world autonomous vehicle fleet. · [Apply →](https://jobs.lever.co/zoox/2783987b-5ab8-4447-a9e4-77745439e7ba)_
 
@@ -174,7 +207,7 @@ _Build the Fleet Dispatch System that routes missions (rideshare trips, charging
 ---
 
 ### [Staff Full Stack Software Engineer](jobs/archer-aviation/staff-full-stack-software-engineer-7499030003.md)
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Staff` · `$173k-$216k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, California · `Staff` · `$173k-$216k`
 
 _Design and deploy an internal tooling ecosystem serving hardware engineers, operations teams, and other stakeholders—web apps for flight data analysis, time-series platforms with anomaly detection, and generative AI integrations. Lead a team building custom tools in an aerospace context where reliability and data integrity directly support flight testing and aircraft certification. · [Apply →](https://job-boards.greenhouse.io/archer56/jobs/7499030003)_
 
@@ -229,7 +262,7 @@ _Design and deliver secure, scalable data and application platforms combining ba
 ---
 
 ### [Senior Python Engineer](jobs/slingshot-aerospace/senior-python-engineer-5997251004.md)
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, DC · `Senior` · `$150k-$220k` · `Equity`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, D.C. · `Senior` · `$150k-$220k` · `Equity`
 
 _Build secure, scalable Python-based data processing platforms and microservices for space operations, integrating event-driven streaming, vector search, and agentic AI workflows. Production role requiring deep expertise in distributed systems, real-time data pipelines, and secure software development practices at scale. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997251004?gh_jid=5997251004)_
 
@@ -295,7 +328,7 @@ _Design and deploy software for autonomous robotic systems, integrating sensors,
 ---
 
 ### [Software Development Engineer In Test](jobs/bend-studio/software-development-engineer-in-test-5993042004.md)
-<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · United States, San Mateo, CA · `Senior` · `$140k—$210k` · `Bonus`
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · United States, San Mateo, California · `Senior` · `$140k—$210k` · `Bonus`
 
 _Build automated test infrastructure and frameworks for PlayStation SDK components and platform software. Drive technical strategy for CI systems, test architecture, and quality validation across C++, embedded firmware, and Python-based tools supporting a platform with 100M+ users. · [Apply →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993042004)_
 
@@ -317,7 +350,7 @@ _Research, design, and implement advanced speech and audio ML models, inference 
 ---
 
 ### [Sr. Security Engineer](jobs/lucid-software/sr-security-engineer-5997142004.md)
-<a href="https://lucid.co"><img src="https://www.google.com/s2/favicons?domain=lucid.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lucid Software** · Raleigh, NC · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://lucid.co"><img src="https://www.google.com/s2/favicons?domain=lucid.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lucid Software** · Raleigh, North Carolina · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Lead the design and implementation of security controls across Lucid's information systems, SaaS applications, and cloud infrastructure to protect customer data at scale. Drive automated security solutions, conduct security design reviews on complex system architectures, and mentor the security team while building a culture of practical, risk-informed security. · [Apply →](https://job-boards.greenhouse.io/lucidsoftware/jobs/5997142004)_
 
@@ -339,7 +372,7 @@ _Design and implement frontend features for a geospatial monitoring application 
 ---
 
 ### [Director of Safety ML](jobs/reddit/director-of-safety-ml-7926627.md)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · San Francisco, CA / Los Angeles, CA / New York, NY / Chicago, IL / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$276k–$387k` · `Equity` · `Bonus`
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · San Francisco, California / Los Angeles, California / New York, New York / Chicago, Illinois / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$276k–$387k` · `Equity` · `Bonus`
 
 _Lead Reddit's Safety and Moderation ML organization to build industry-leading systems for detecting and preventing harmful content at scale. Drive strategy, build and deploy fine-tuned LLMs and transformer models for real-time abuse detection across a platform with 126M daily active users, managing a team of 25+ applied scientists and engineers. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7926627)_
 
@@ -394,7 +427,7 @@ _Design and build automated quality and validation systems for production and di
 ---
 
 ### [Automation & Controls Engineer, Solar Cell Factory (Starlink)](jobs/spacex/automation-controls-engineer-solar-cell-factory-starlink-8545793002.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Bastrop, TX · `Junior`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Bastrop, Texas · `Junior`
 
 _Design, develop, and optimize PLC automation and controls systems for high-volume solar cell manufacturing equipment, including electrical design, HMI/SCADA integration, and robotics commissioning. Work on cutting-edge aerospace manufacturing with ANSI/OSHA safety compliance and ITAR requirements. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8545793002?gh_jid=8545793002)_
 
@@ -427,7 +460,7 @@ _Build and own features powering Airbnb's guest payment systems, handling all mo
 ---
 
 ### [DevOps Engineer](jobs/apptronik/devops-engineer-5997000004.md)
-<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik** · Onsite - Austin, TX · `Senior`
+<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik** · Onsite - Austin, Texas · `Senior`
 
 _Own the CI/CD systems, build infrastructure, and developer-facing platforms that determine how quickly the company ships robot software. Work spans on-prem and cloud deployments, with particular challenges in release engineering for embedded targets and fleet rollout at scale. · [Apply →](https://boards.greenhouse.io/apptronik/jobs/5997000004?gh_jid=5997000004)_
 
@@ -460,7 +493,7 @@ _Build and architect scalable backend systems and REST APIs for an audit, risk, 
 ---
 
 ### [Staff Data Scientist, Risk](jobs/gusto/staff-data-scientist-risk-7656216.md)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, CO / San Francisco, CA / New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$154k-$230k` · `Equity`
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$154k-$230k` · `Equity`
 
 _Build statistical models and experimentation frameworks to identify and mitigate risk across Gusto's payroll and HR platform, serving 500,000+ small businesses. Apply causal inference and experimental design to influence product decisions in a domain requiring deep risk modeling expertise. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/7656216)_
 
@@ -482,7 +515,7 @@ _Design and execute comprehensive validation frameworks for autonomous vehicle s
 ---
 
 ### [Lead Autonomy Behavior Engineer](jobs/may-mobility/lead-autonomy-behavior-engineer-8551864002.md)
-<a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · Ann Arbor, MI · `Senior` · `$190k-$230k`
+<a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · Ann Arbor, Michigan · `Senior` · `$190k-$230k`
 
 _Design, implement, and test state-of-the-art robotics software in C/C++ for autonomous vehicle behavior planning, decision making, and control systems. Lead a team on real-world robot systems with 7+ years of commercial deployment experience in critical autonomy functions. · [Apply →](https://job-boards.greenhouse.io/maymobility/jobs/8551864002)_
 
@@ -493,7 +526,7 @@ _Design, implement, and test state-of-the-art robotics software in C/C++ for aut
 ---
 
 ### [Machine Learning Engineer](jobs/true-anomaly/machine-learning-engineer-5138856007.md)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, CO / Long Beach, CA · `Junior` · `$85k-$180k` · `Equity`
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Junior` · `$85k-$180k` · `Equity`
 
 _Develop machine learning models and data pipelines for autonomous spacecraft and space-based systems, including object classification, anomaly detection, and decision-making algorithms. Work on mission-critical AI capabilities in the space domain with ITAR compliance and U.S. citizenship requirement. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007)_
 
@@ -504,7 +537,7 @@ _Develop machine learning models and data pipelines for autonomous spacecraft an
 ---
 
 ### [Senior Machine Learning Engineer](jobs/true-anomaly/senior-machine-learning-engineer-5138859007.md)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, CO / Long Beach, CA · `Senior` · `$155k-$260k` · `Equity`
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Senior` · `$155k-$260k` · `Equity`
 
 _Design, implement, and deploy machine learning and AI models for autonomous spacecraft and space-based systems, including object classification, anomaly detection, and threat assessment. This role requires hands-on development in a space domain with real-world operational requirements and ITAR compliance. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138859007)_
 
@@ -526,7 +559,7 @@ _Build a brand-new web application for ShareGate Migrate from scratch, creating 
 ---
 
 ### [CPU Core Design Verification Test Generator Lead](jobs/tenstorrent/cpu-core-design-verification-test-generator-lead-5137633007.md)
-<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Austin, TX / Santa Clara, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$500k`
+<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Austin, Texas / Santa Clara, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$500k`
 
 _Lead development of CPU core-level test generators and verification strategy for high-performance out-of-order RISC-V cores, owning generator infrastructure, ISA and microarchitectural stimulus, and RISC-V certification workflows. This role requires deep expertise in CPU design verification at scale, involves guiding a small team while staying hands-on with implementation and debug, and demands direct access to US export-controlled semiconductor technology. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/5137633007)_
 
@@ -581,7 +614,7 @@ _Lead the Segmentation Platform and Insights Platform teams, owning the technica
 ---
 
 ### [Lead AI Enablement Engineer, Aerospace Programs](jobs/archer-aviation/lead-ai-enablement-engineer-aerospace-programs-7703614003.md)
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Staff` · `$228k-$285k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, California · `Staff` · `$228k-$285k`
 
 _Own AI tooling adoption strategy across aerospace engineering teams — embed with structures, GN&C, propulsion, avionics, and flight test engineers to identify manual workflows, build prototype tools that compress cycle time, and scale adoption through enablement and mentorship. You'll work on safety-critical aircraft design and manufacturing in a regulated industry with aggressive program timelines where credibility with senior aerospace engineers is non-negotiable. · [Apply →](https://job-boards.greenhouse.io/archer56/jobs/7703614003)_
 
@@ -603,7 +636,7 @@ _Design and operate high-integrity financial systems for ledgering, transaction 
 ---
 
 ### [Systems, Senior Manager](jobs/brex/systems-senior-manager.md)
-<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · San Francisco, CA / Seattle, WA / New York, NY / Vancouver, Canada / Salt Lake City, UT · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity`
+<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · San Francisco, California / Seattle, Washington / New York, New York / Vancouver, Canada / Salt Lake City, Utah · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity`
 
 _Lead a technical team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Transform traditional operations through intelligent automation, agentic workflows, and decision infrastructure while navigating high ambiguity across Finance, Engineering, Data, and Operations._
 
@@ -625,7 +658,7 @@ _Design and build AI/ML interfaces embedding large language models, RAG pipeline
 ---
 
 ### [AI Engineer, Model Quality and Performance](jobs/cerebras-systems/ai-engineer-model-quality-and-performance-7735288003.md)
-<a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems** · Sunnyvale, CA · `Mid`
+<a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems** · Sunnyvale, California · `Mid`
 
 _Build AI-driven evaluation systems and performance benchmarking infrastructure for Cerebras' inference offerings, using AI agents to automate model quality assessment, eval suite generation, and customer-specific performance forecasting. Design tooling that synthesizes quality and performance data into production-ready artifacts for both internal teams and customers. · [Apply →](https://job-boards.greenhouse.io/cerebrassystems/jobs/7735288003)_
 
@@ -636,7 +669,7 @@ _Build AI-driven evaluation systems and performance benchmarking infrastructure 
 ---
 
 ### [Forward Deployed Engineer](jobs/claim-health/forward-deployed-engineer-health-c9512763-dcae-40ed-a929-37d16d915ed0.md)
-<a href="https://www.claimhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.claimhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Claim Health** · New York City, NY · `Mid`
+<a href="https://www.claimhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.claimhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Claim Health** · New York City, New York · `Mid`
 
 _Build production-grade full-stack systems that automate post-acute care workflows, including orchestration layers, integrations, and AI-powered automation directly deployed into healthcare operations. You'll embed with customers to translate operational complexity into scalable platform abstractions while maintaining high reliability standards in a high-stakes healthcare environment. · [Apply →](https://jobs.ashbyhq.com/claim-health/c9512763-dcae-40ed-a929-37d16d915ed0)_
 
@@ -658,7 +691,7 @@ _Build and productionize cutting-edge GenAI applications—RAG systems, multi-ag
 ---
 
 ### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, CA or New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -680,7 +713,7 @@ _Build the iOS mobile app that lets Eight Sleep users control their smart sleep 
 ---
 
 ### [Java Software Developer (Mid-Senior Level)](jobs/interactive-brokers/java-software-developer-mid-senior-level-7909026002.md)
-<a href="https://interactivebrokers.com"><img src="https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Interactive Brokers** · Greenwich, CT · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://interactivebrokers.com"><img src="https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Interactive Brokers** · Greenwich, Connecticut · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build back-end clearing and brokerage applications in Java supporting funds, banking operations, securities trading, settlement, and regulatory reporting. Work on mission-critical financial systems handling client cash, trade reconciliation, and automated risk controls at scale across 200+ countries. · [Apply →](https://job-boards.greenhouse.io/ibkr/jobs/7909026002)_
 
@@ -691,7 +724,7 @@ _Build back-end clearing and brokerage applications in Java supporting funds, ba
 ---
 
 ### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications.md)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
 
 _Design and build data curation, mining, and search applications that power ML dataset generation and accelerate autonomous vehicle development. Work at scale in the autonomous vehicles domain with cross-functional collaboration on data platform infrastructure._
 
@@ -702,7 +735,7 @@ _Design and build data curation, mining, and search applications that power ML d
 ---
 
 ### [Senior Computational Fluid Dynamics Engineer](jobs/oklo/senior-computational-fluid-dynamics-engineer-5996719004.md)
-<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, CA / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$190k` · `Equity` · `Bonus`
+<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$190k` · `Equity` · `Bonus`
 
 _Develop and conduct high-fidelity CFD thermal-hydraulic analyses of advanced fission reactor systems, including core, vessel, heat exchangers, and power conversion components. This role requires deep expertise in thermal-fluid dynamics for nuclear applications at a startup advancing commercial advanced reactors. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/5996719004)_
 
@@ -724,7 +757,7 @@ _Design and implement backend systems, APIs, and services that bring identity an
 ---
 
 ### [AI Systems Engineer, Codex Agents](jobs/openai/ai-systems-engineer-codex-agents-de06790a-7243-4e33-a6f1-e7bd34009588.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior`
 
 _Design and build the core agent harness, execution loop, and sandboxing infrastructure that enables AI agents to safely interpret model outputs, execute code, and complete long-horizon tasks in production environments. Work across the full stack—from Rust systems code to inference optimization to GPU fleet management—debugging and improving agent reliability, latency, cost, and solve rate end-to-end. · [Apply →](https://jobs.ashbyhq.com/openai/de06790a-7243-4e33-a6f1-e7bd34009588)_
 
@@ -735,7 +768,7 @@ _Design and build the core agent harness, execution loop, and sandboxing infrast
 ---
 
 ### [Senior Staff Backend Software Engineer, Codex for Finance](jobs/openai/senior-staff-backend-software-engineer-codex-for-finance-6ccb669b-7c0c-4531-819b-47fb0a5c9dbd.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior`
 
 _Design and scale backend systems powering AI capabilities in financial products, including integrations with Excel and enterprise platforms. Lead end-to-end development of platform features serving billions of requests while working directly with research teams on next-generation models. · [Apply →](https://jobs.ashbyhq.com/openai/6ccb669b-7c0c-4531-819b-47fb0a5c9dbd)_
 
@@ -746,7 +779,7 @@ _Design and scale backend systems powering AI capabilities in financial products
 ---
 
 ### [Solutions Architect, Digital Natives](jobs/openai/solutions-architect-digital-natives-e827d138-22de-49f0-9de5-60f3e3ce07a0.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$240k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$240k`
 
 _Design and deploy GenAI solutions for enterprise customers, building hands-on prototypes and providing architectural guidance on RAG systems, multi-agent orchestration, and production scaling. Work embedded with senior stakeholders at large multinational corporations to identify and validate high-value AI applications. · [Apply →](https://jobs.ashbyhq.com/openai/e827d138-22de-49f0-9de5-60f3e3ce07a0)_
 
@@ -757,7 +790,7 @@ _Design and deploy GenAI solutions for enterprise customers, building hands-on p
 ---
 
 ### [Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance](jobs/openai/staff-senior-staff-product-engineer-full-stack-codex-for-finance-1f179760-8bfd-477c-a5dd-16d465d40307.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior`
 
 _Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle. · [Apply →](https://jobs.ashbyhq.com/openai/1f179760-8bfd-477c-a5dd-16d465d40307)_
 
@@ -768,7 +801,7 @@ _Build end-to-end enterprise AI products for finance, including web and backend 
 ---
 
 ### [Satellite Tasking Engineer, Collection Planning](jobs/planet-labs/satellite-tasking-engineer-collection-planning-7402921.md)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · San Francisco, CA / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$71k–$89k` · `Equity` · `Bonus`
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · San Francisco, California / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$71k–$89k` · `Equity` · `Bonus`
 
 _Develop operational tools and automation for satellite imagery tasking and collection planning. Work with geospatial data analysis and process automation to support Earth observation satellite operations at scale. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7402921)_
 
@@ -801,7 +834,7 @@ _Lead technical direction and build features for MONOPOLY GO! Chat, a React Nati
 ---
 
 ### [Senior Technical Architect](jobs/slingshot-aerospace/senior-technical-architect.md)
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Remote / Washington, DC · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Remote / Washington, D.C. · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k`
 
 _Lead the design of secure, scalable application and data platforms across backend (.NET/Python), frontend (React), distributed systems, and AI-powered components for a space operations company. Guide architecture standards, mentoring, and end-to-end platform design with responsibility for microservices, RAG/LLM workflows, and enterprise security practices._
 
@@ -823,7 +856,7 @@ _Lead a small team of engineers building Sourcegraph's Code Plane products—Bat
 ---
 
 ### [Wireless Firmware Engineer (Starlink Mobile)](jobs/spacex/wireless-firmware-engineer-starlink-mobile.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Sunnyvale, CA / Redmond, WA / Remote · `Junior` · `$135k-$185k` · `Equity` · `Bonus`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Sunnyvale, California / Redmond, Washington / Remote · `Junior` · `$135k-$185k` · `Equity` · `Bonus`
 
 _Design and implement physical layer (PHY) algorithms and optimized signal processing software for satellite-based 4G/5G systems on Starlink Mobile's space-to-ground network. Work across wireless systems and protocol layers to solve interdisciplinary challenges in resource-constrained satellite and ground station environments._
 
@@ -845,7 +878,7 @@ _Build and maintain foundational services and SDKs that power Speechify's cross-
 ---
 
 ### [Senior Software Engineer, Core Experiences](jobs/speechify/senior-software-engineer-core-experiences.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, OR / Charlotte, NC / Chicago, IL / College Park, MD / Columbia, SC / Dallas, TX / Durham, NC / Frisco, TX / Greensboro, NC / Iowa City, IA / Jacksonville, FL / Milwaukee, WI / Nashville, TN / Omaha, NE / Orlando, FL / Redmond, WA / Rochester, NY / Saint Paul, MN / San Francisco, CA / Santa Clara, CA / Scottsdale, AZ / Seattle, WA / Tucson, AZ / Tulsa, OK / Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, Oregon / Charlotte, North Carolina / Chicago, Illinois / College Park, Maryland / Columbia, South Carolina / Dallas, Texas / Durham, North Carolina / Frisco, Texas / Greensboro, North Carolina / Iowa City, Iowa / Jacksonville, Florida / Milwaukee, Wisconsin / Nashville, Tennessee / Omaha, Nebraska / Orlando, Florida / Redmond, Washington / Rochester, New York / Saint Paul, Minnesota / San Francisco, California / Santa Clara, California / Scottsdale, Arizona / Seattle, Washington / Tucson, Arizona / Tulsa, Oklahoma / Washington, D.C. · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Build and maintain foundational services and SDKs powering Speechify's cross-platform audio information product. Design efficient abstractions and optimize end-to-end systems from cloud backend to mobile clients, balancing product velocity with infrastructure reliability._
 
@@ -856,7 +889,7 @@ _Build and maintain foundational services and SDKs powering Speechify's cross-pl
 ---
 
 ### [Senior Software Engineer, Windows/Desktop Applications - St. Petersburg, FL, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-st-petersburg-fl-usa-5975010004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · St. Petersburg, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · St. Petersburg, Florida · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility, performance, and reliability. Drive accessibility initiatives integrating Microsoft UI Automation and ensure cross-version compatibility (Windows 10/11+) for millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975010004)_
 
@@ -878,7 +911,7 @@ _Lead the design, architecture, and development of native Windows desktop applic
 ---
 
 ### [Senior Software Engineer, Windows/Desktop Applications](jobs/speechify/senior-software-engineer-windows-desktop-applications.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, AK / Baltimore, MD / Bend, OR / Berkeley, CA / Birmingham, AL / Chicago, IL / Cincinnati, OH / Dallas, TX / Fort Lauderdale, FL / Houston, TX / Jersey City, NJ / Miami, FL / Minneapolis, MN / Naperville, IL / Philadelphia, PA / Portland, OR / Rochester, NY / Sacramento, CA / San Diego, CA / San Francisco, CA / Santa Cruz, CA / Seattle, WA / Tallahassee, FL / Washington, DC / West Lafayette, IN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, Alaska / Baltimore, Maryland / Bend, Oregon / Berkeley, California / Birmingham, Alabama / Chicago, Illinois / Cincinnati, Ohio / Dallas, Texas / Fort Lauderdale, Florida / Houston, Texas / Jersey City, New Jersey / Miami, Florida / Minneapolis, Minnesota / Naperville, Illinois / Philadelphia, Pennsylvania / Portland, Oregon / Rochester, New York / Sacramento, California / San Diego, California / San Francisco, California / Santa Cruz, California / Seattle, Washington / Tallahassee, Florida / Washington, D.C. / West Lafayette, Indiana · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with emphasis on accessibility, performance, and cross-version compatibility. Drive accessibility integration across Microsoft UI Automation and ensure production-quality reliability for millions of users._
 
@@ -900,7 +933,7 @@ _Build and operate petabyte-scale data ingestion pipelines on GCP to collect hig
 ---
 
 ### [Software Engineer, Data Infrastructure & Acquisition - Winston-Salem, NC, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-winston-salem-nc-usa-5975363004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Winston-Salem, NC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Winston-Salem, North Carolina · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Build and operate cloud infrastructure for petabyte-scale audio data ingestion pipelines on GCP to power text-to-speech model training. Work at the intersection of data engineering, infrastructure, and AI research to optimize cost, throughput, and quality of datasets for next-generation speech models. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975363004)_
 
@@ -911,7 +944,7 @@ _Build and operate cloud infrastructure for petabyte-scale audio data ingestion 
 ---
 
 ### [Software Engineer, Data Infrastructure & Acquisition](jobs/speechify/software-engineer-data-infrastructure-acquisition.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Baltimore, MD / Baton Rouge, LA / Bend, OR / Chattanooga, TN / Chicago, IL / Culver City, CA / Dallas, TX / Gainesville, FL / Indianapolis, IN / Lexington, KY / Naperville, IL / Pasadena, CA / Plano, TX / Princeton, NJ / Providence, RI / Redmond, WA / Riverside, CA / Sacramento, CA / San Antonio, TX / San Francisco, CA / San Mateo, CA / Scottsdale, AZ / Seattle, WA / Stony Brook, NY / Tucson, AZ / Tulsa, OK / Virginia Beach, VA / Washington, DC, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Baltimore, Maryland / Baton Rouge, Louisiana / Bend, Oregon / Chattanooga, Tennessee / Chicago, Illinois / Culver City, California / Dallas, Texas / Gainesville, Florida / Indianapolis, Indiana / Lexington, Kentucky / Naperville, Illinois / Pasadena, California / Plano, Texas / Princeton, New Jersey / Providence, Rhode Island / Redmond, Washington / Riverside, California / Sacramento, California / San Antonio, Texas / San Francisco, California / San Mateo, California / Scottsdale, Arizona / Seattle, Washington / Stony Brook, New York / Tucson, Arizona / Tulsa, Oklahoma / Virginia Beach, Virginia / Washington, D.C., D.C. · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training Speechify's text-to-speech models. Work at the intersection of infrastructure engineering and machine learning research to optimize the cost, throughput, and quality of datasets powering next-generation AI products._
 
@@ -922,7 +955,7 @@ _Build and operate large-scale data ingestion pipelines on GCP to collect petaby
 ---
 
 ### [Software Engineer, Platform](jobs/speechify/software-engineer-platform.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, AK / Arlington, VA / Atlanta, GA / Austin, TX / Bellevue, WA / Bloomington, IN / Chapel Hill, NC / Columbia, SC / Detroit, MI / El Paso, TX / Grand Rapids, MI / Jersey City, NJ / Menlo Park, CA / Miami, FL / Milwaukee, WI / Minneapolis, MN / Pasadena, CA / Philadelphia, PA / Redmond, WA / Riverside, CA / Sacramento, CA / Salt Lake City, UT / San Francisco, CA / Stamford, CT / Tallahassee, FL / Virginia Beach, VA / Washington, DC, DC · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, Alaska / Arlington, Virginia / Atlanta, Georgia / Austin, Texas / Bellevue, Washington / Bloomington, Indiana / Chapel Hill, North Carolina / Columbia, South Carolina / Detroit, Michigan / El Paso, Texas / Grand Rapids, Michigan / Jersey City, New Jersey / Menlo Park, California / Miami, Florida / Milwaukee, Wisconsin / Minneapolis, Minnesota / Pasadena, California / Philadelphia, Pennsylvania / Redmond, Washington / Riverside, California / Sacramento, California / Salt Lake City, Utah / San Francisco, California / Stamford, Connecticut / Tallahassee, Florida / Virginia Beach, Virginia / Washington, D.C., D.C. · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Design and maintain backend APIs for text-to-speech products at scale, including payments, subscriptions, analytics, and TTS infrastructure serving 50+ million users. Work in a 100% distributed environment on systems handling high-availability, multi-platform consumption across iOS, Android, Web, and Chrome Extension._
 
@@ -933,7 +966,7 @@ _Design and maintain backend APIs for text-to-speech products at scale, includin
 ---
 
 ### [Tech Lead, Android Core Product - St. Louis, MO, USA](jobs/speechify/tech-lead-android-core-product-st-louis-mo-usa-5975530004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · St. Louis, MO · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · St. Louis, Missouri · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Lead major feature ownership and Android team strategy for Speechify's most-used text-to-speech app on the Play Store, working closely with design and product to deliver high-quality features at scale. Build user experiences that delight millions of people with learning differences, including dyslexia, ADD, and low vision. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975530004)_
 
@@ -955,7 +988,7 @@ _Build and own major features for Speechify's Android app, the most-used text-to
 ---
 
 ### [Tech Lead, Android Core Product - Winston-Salem, NC, USA](jobs/speechify/tech-lead-android-core-product-winston-salem-nc-usa-5975680004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Winston-Salem, NC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Winston-Salem, North Carolina · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Lead the development and reliability of major Android features in Speechify's text-to-speech app, which serves over 50 million users across iOS, Android, Web, and Chrome. Own features end-to-end from product design through release, shape team technical direction, and mentor engineers on a flat, fully-distributed team. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975680004)_
 
@@ -966,7 +999,7 @@ _Lead the development and reliability of major Android features in Speechify's t
 ---
 
 ### [Tech Lead, Android Core Product](jobs/speechify/tech-lead-android-core-product.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Alexandria, VA / Ann Arbor, MI / Bend, OR / Birmingham, AL / Cambridge, MA / Chicago, IL / Cleveland, OH / Columbus, OH / Dallas, TX / Frisco, TX / Jacksonville, FL / Las Vegas, NV / Louisville, KY / Memphis, TN / Milwaukee, WI / Norfolk, VA / Redmond, WA / Saint Paul, MN / San Francisco, CA / Scottsdale, AZ / Seattle, WA / State College, PA / Syracuse, NY / Tucson, AZ / Tulsa, OK / Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Alexandria, Virginia / Ann Arbor, Michigan / Bend, Oregon / Birmingham, Alabama / Cambridge, Massachusetts / Chicago, Illinois / Cleveland, Ohio / Columbus, Ohio / Dallas, Texas / Frisco, Texas / Jacksonville, Florida / Las Vegas, Nevada / Louisville, Kentucky / Memphis, Tennessee / Milwaukee, Wisconsin / Norfolk, Virginia / Redmond, Washington / Saint Paul, Minnesota / San Francisco, California / Scottsdale, Arizona / Seattle, Washington / State College, Pennsylvania / Syracuse, New York / Tucson, Arizona / Tulsa, Oklahoma / Washington, D.C. · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Lead the development and reliability of major Android features for Speechify's text-to-speech app, used by 50+ million people. Own feature ownership, shape the Android team's direction, and drive improvements to UI/UX and codebase quality while working closely with product and design teams._
 
@@ -988,7 +1021,7 @@ _Lead the development and shipping of production code for Speechify's web produc
 ---
 
 ### [Tech Lead, Web Core Product & Chrome Extension](jobs/speechify/tech-lead-web-core-product-chrome-extension.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Arlington, VA / Baton Rouge, LA / Bend, OR / Boulder, CO / Buffalo, NY / Burlington, VT / Charleston, SC / Chicago, IL / Cincinnati, OH / Culver City, CA / Dallas, TX / Houston, TX / Iowa City, IA / Madison, WI / Milwaukee, WI / Orlando, FL / Pasadena, CA / Princeton, NJ / Redmond, WA / San Francisco, CA / Savannah, GA / Scottsdale, AZ / Seattle, WA / Silver Spring, MD / Stamford, CT / Tucson, AZ / Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Arlington, Virginia / Baton Rouge, Louisiana / Bend, Oregon / Boulder, Colorado / Buffalo, New York / Burlington, Vermont / Charleston, South Carolina / Chicago, Illinois / Cincinnati, Ohio / Culver City, California / Dallas, Texas / Houston, Texas / Iowa City, Iowa / Madison, Wisconsin / Milwaukee, Wisconsin / Orlando, Florida / Pasadena, California / Princeton, New Jersey / Redmond, Washington / San Francisco, California / Savannah, Georgia / Scottsdale, Arizona / Seattle, Washington / Silver Spring, Maryland / Stamford, Connecticut / Tucson, Arizona / Washington, D.C. · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Lead the development of Speechify's web products and Chrome extension, shipping production code that serves 50+ million users. Drive product strategy alongside design and PM teams in a fast-paced, distributed environment where you'll shape the technical roadmap for text-to-speech features used at scale._
 
@@ -999,7 +1032,7 @@ _Lead the development of Speechify's web products and Chrome extension, shipping
 ---
 
 ### [Senior Machine Learning Engineer, Zeitgeist, Personalization](jobs/spotify/senior-machine-learning-engineer-zeitgeist-personalization-351ad979-231f-4bee-ae49-8ff55b64f605.md)
-<a href="https://spotify.com"><img src="https://www.google.com/s2/favicons?domain=spotify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spotify** · New York, NY · `Senior`
+<a href="https://spotify.com"><img src="https://www.google.com/s2/favicons?domain=spotify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spotify** · New York, New York · `Senior`
 
 _Build systems and models that help Spotify understand culture in real time using large language models and agentic workflows to power personalized listening experiences. Work at the intersection of platform-level content understanding and user-facing product features serving millions of listeners. · [Apply →](https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605)_
 
@@ -1010,7 +1043,7 @@ _Build systems and models that help Spotify understand culture in real time usin
 ---
 
 ### [[TEMPLATE] Default Template](jobs/stripe/template-default-template-7919030.md)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Chicago, IL / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Chicago, Illinois / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
 
 _Troubleshoot and advise technical users on Stripe payment integrations across multiple platforms and languages, helping developers optimize their implementations. You'll learn full-stack development across Stripe's supported backend languages, JavaScript/React, SQL, and LogScale while providing 24/5 developer support. · [Apply →](https://stripe.com/jobs/search?gh_jid=7919030)_
 
@@ -1021,7 +1054,7 @@ _Troubleshoot and advise technical users on Stripe payment integrations across m
 ---
 
 ### [AI Researcher (Multimodal Audio/Video Generation)](jobs/tavus/ai-researcher-multimodal-audio-video-generation-09972bf5-780d-4209-a758-d4ad32c012e0.md)
-<a href="https://www.tavus.io"><img src="https://www.google.com/s2/favicons?domain=www.tavus.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tavus** · San Francisco, CA / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://www.tavus.io"><img src="https://www.google.com/s2/favicons?domain=www.tavus.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tavus** · San Francisco, California / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Lead research on audio-visual avatar generation models for real-time conversational AI, designing diffusion-based systems that generate synchronized verbal and non-verbal signals. Scale generative models from research into production while mentoring a research team and publishing at top-tier venues. · [Apply →](https://jobs.ashbyhq.com/tavus/09972bf5-780d-4209-a758-d4ad32c012e0)_
 
@@ -1032,7 +1065,7 @@ _Lead research on audio-visual avatar generation models for real-time conversati
 ---
 
 ### [Lead AI Research Scientist](jobs/workato/lead-ai-research-scientist-8516213002.md)
-<a href="https://workato.com"><img src="https://www.google.com/s2/favicons?domain=workato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workato** · San Francisco, CA · `Principal` · `$357k+` · `Equity`
+<a href="https://workato.com"><img src="https://www.google.com/s2/favicons?domain=workato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workato** · San Francisco, California · `Principal` · `$357k+` · `Equity`
 
 _Define and execute a 24-month research vision for enterprise AI systems, including deterministic planners, self-healing automations, and agent evaluation frameworks. Lead a team of 10+ applied researchers to transition cutting-edge research into production-ready solutions within six months of proof of concept, working directly with enterprise customers to validate and scale innovations. · [Apply →](https://job-boards.greenhouse.io/workato/jobs/8516213002)_
 
@@ -1047,7 +1080,7 @@ _Define and execute a 24-month research vision for enterprise AI systems, includ
 ## May 14, 2026
 
 ### [Staff Data Scientist, Commercial Analytics](jobs/10x-genomics/staff-data-scientist-commercial-analytics-7922933.md)
-<a href="https://10xgenomics.com"><img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**10x Genomics** · Pleasanton, CA · `Senior` · `$198k–$268k` · `Equity` · `Bonus`
+<a href="https://10xgenomics.com"><img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**10x Genomics** · Pleasanton, California · `Senior` · `$198k–$268k` · `Equity` · `Bonus`
 
 _Build and deploy production ML pipelines for sales forecasting, churn prediction, and account expansion signals, replacing rule-based spreadsheet systems with ML models across Snowflake and AWS. Work within a complex B2B enterprise sales domain with global distribution networks and long sales cycles where predictive accuracy directly impacts commercial strategy. · [Apply →](https://boards.greenhouse.io/10xgenomics/jobs/7922933?gh_jid=7922933)_
 
@@ -1058,7 +1091,7 @@ _Build and deploy production ML pipelines for sales forecasting, churn predictio
 ---
 
 ### [R&D Test Engineer](jobs/9-mothers/r-d-test-engineer-mothers-87342437-0377-4256-93a8-05e29795fd54.md)
-<a href="https://9mothers.com"><img src="https://www.google.com/s2/favicons?domain=9mothers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**9 Mothers** · Austin, TX · `Mid` · `Equity`
+<a href="https://9mothers.com"><img src="https://www.google.com/s2/favicons?domain=9mothers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**9 Mothers** · Austin, Texas · `Mid` · `Equity`
 
 _Own the high-speed imaging capability end-to-end for counter-drone and firearms systems, designing test setups and extracting quantitative kinematic data that directly informs mechanical engineering decisions. Work in an active test environment with live fire, requiring comfort around firearms and field testing in central Texas conditions. · [Apply →](https://jobs.ashbyhq.com/9-mothers/87342437-0377-4256-93a8-05e29795fd54)_
 
@@ -1113,7 +1146,7 @@ _Build ML/AI infrastructure, data foundations, and feature platforms that power 
 ---
 
 ### [Early Career Software Engineer](jobs/anduril-industries/early-career-software-engineer-4824364007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA · `Junior` · `$130k-$135k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, Washington · `Junior` · `$130k-$135k` · `Equity`
 
 _Build software solutions for Lattice OS, Anduril's AI-powered military command and control system, shipping autonomy, computer vision, and sensor fusion capabilities to defense customers. Requires U.S. Person status and security clearance eligibility for access to export-controlled defense technology. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007)_
 
@@ -1124,7 +1157,7 @@ _Build software solutions for Lattice OS, Anduril's AI-powered military command 
 ---
 
 ### [GNC Engineer](jobs/anduril-industries/gnc-engineer-4632178007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Mid` · `$138k-$207k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Mid` · `$138k-$207k` · `Equity`
 
 _Develop flight control algorithms, guidance laws, and navigation solutions for autonomous drone platforms. Design and validate Software-In-The-Loop and Hardware-In-The-Loop test environments for airborne systems operating in GPS and communication-denied environments; requires Secret security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/4632178007?gh_jid=4632178007)_
 
@@ -1146,7 +1179,7 @@ _Lead a team of threat intelligence analysts and security engineers to conduct c
 ---
 
 ### [PLM Senior Software Architect](jobs/anduril-industries/plm-senior-software-architect-5138059007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity`
 
 _Architect and implement mission-critical Teamcenter customizations, integrations, and scalable PLM solutions that connect CAD, ERP, MES, and manufacturing systems into a unified engineering backbone for defense hardware production. You'll work in a greenfield environment building next-generation systems with modern software practices, avoiding legacy PLM patterns. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5138059007?gh_jid=5138059007)_
 
@@ -1157,7 +1190,7 @@ _Architect and implement mission-critical Teamcenter customizations, integration
 ---
 
 ### [Robotics & Simulation Engineer, Discovery](jobs/anduril-industries/robotics-simulation-engineer-discovery-5136834007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Mid` · `$146k-$194k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Mid` · `$146k-$194k` · `Equity`
 
 _Build and scale simulation environments (Isaac Gym, Isaac Lab, MuJoCo) for RL/IL training, including physics fidelity, domain randomization, and deployment pipelines. Own the telemetry, safety systems, and real-world diagnostics that connect sim to field operations on autonomous robotic systems for defense applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136834007?gh_jid=5136834007)_
 
@@ -1168,7 +1201,7 @@ _Build and scale simulation environments (Isaac Gym, Isaac Lab, MuJoCo) for RL/I
 ---
 
 ### [Senior GNC Engineer, Robotics](jobs/anduril-industries/senior-gnc-engineer-robotics-4588656007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$168k-$252k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$168k-$252k` · `Equity`
 
 _Develop flight control algorithms, guidance laws, and navigation solutions for autonomous drone platforms. Design and validate GNC software through simulation and flight testing in defense applications requiring security clearance and on-site presence in Costa Mesa. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/4588656007?gh_jid=4588656007)_
 
@@ -1179,7 +1212,7 @@ _Develop flight control algorithms, guidance laws, and navigation solutions for 
 ---
 
 ### [Senior Machine Learning Engineer, RL / Locomotion](jobs/anduril-industries/senior-machine-learning-engineer-rl-locomotion-5136528007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$220k-$336k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$220k-$336k` · `Equity`
 
 _Design, train, and deploy reinforcement learning policies for legged robotic platforms using GPU-parallelized simulation, from Isaac Gym training through real-world deployment on physical systems. Work in defense robotics with direct impact on Department of Defense and Intelligence Community capabilities operating in contested, unstructured environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136528007?gh_jid=5136528007)_
 
@@ -1190,7 +1223,7 @@ _Design, train, and deploy reinforcement learning policies for legged robotic pl
 ---
 
 ### [Senior Manipulation Engineer (Imitation Learning), Discovery](jobs/anduril-industries/senior-manipulation-engineer-imitation-learning-discovery-5136832007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA / Washington, DC · `Senior` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California / Washington, D.C. · `Senior` · `$166k-$220k` · `Equity`
 
 _Design, train, and deploy learned manipulation policies for robotic systems using imitation learning and behavior cloning, owning the full pipeline from teleoperation data collection through real-world evaluation on hardware. Work on defense robotics at scale with access to cutting-edge hardware and national security impact requiring security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136832007?gh_jid=5136832007)_
 
@@ -1201,7 +1234,7 @@ _Design, train, and deploy learned manipulation policies for robotic systems usi
 ---
 
 ### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA / Boston, MA · `Senior` · `$191k-$253k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, Washington / Boston, Massachusetts · `Senior` · `$191k-$253k` · `Equity`
 
 _Design and implement test strategies, validation approaches, and operational safeguards for AI-enabled software, automation, and agentic workflows in a defense technology environment. Partner with software and AI engineers to identify failure modes across code, prompts, models, and infrastructure while building confidence in fast-moving solutions through automated testing and observability._
 
@@ -1212,7 +1245,7 @@ _Design and implement test strategies, validation approaches, and operational sa
 ---
 
 ### [Senior Software Engineer, PLM](jobs/anduril-industries/senior-software-engineer-plm-5138057007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$166k—$220k USD` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$166k—$220k USD` · `Equity`
 
 _Design and implement mission-critical Teamcenter customizations, integrations, and enterprise platform solutions that connect CAD, ERP, MES, and manufacturing systems at scale. Work in a defense technology context with export-controlled data and high-reliability requirements. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5138057007?gh_jid=5138057007)_
 
@@ -1223,7 +1256,7 @@ _Design and implement mission-critical Teamcenter customizations, integrations, 
 ---
 
 ### [[Pipeline] Software Engineer, Safeguards Labs](jobs/anthropic/pipeline-software-engineer-safeguards-labs-5219486008.md)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$405k–$485k USD` · `Equity`
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$405k–$485k USD` · `Equity`
 
 _Build production-grade safeguards infrastructure that hardens research prototypes into reliable systems protecting Claude and its users. Own deployment, monitoring, and reliability for safety systems operating in real-time, and develop data and evaluation infrastructure to measure safeguard effectiveness at scale. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5219486008)_
 
@@ -1234,7 +1267,7 @@ _Build production-grade safeguards infrastructure that hardens research prototyp
 ---
 
 ### [Staff Network Engineer](jobs/anthropic/staff-network-engineer-5170073008.md)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, CA / Seattle, WA / New York City, NY / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$320k—$405k` · `Equity`
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Seattle, Washington / New York City, New York / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$320k—$405k` · `Equity`
 
 _Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5170073008)_
 
@@ -1245,7 +1278,7 @@ _Design, deploy, and maintain high-performance networks across multiple data cen
 ---
 
 ### [Software Engineer (Ray Core)](jobs/anyscale/software-engineer-ray-core-73a973b1-6377-4144-a6e5-610b78719882.md)
-<a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance infrastructure. Work on high-performance distributed systems at scale, mentoring junior engineers and leading architectural improvements for a system powering AI applications at companies like OpenAI and Spotify. · [Apply →](https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882)_
 
@@ -1256,7 +1289,7 @@ _Build and optimize the Ray C++ distributed computing backend, including the sch
 ---
 
 ### [Robotic Software Engineer (Drone Stack)](jobs/applied-intuition/robotic-software-engineer-drone-stack-4677114005.md)
-<a href="https://appliedintuition.com"><img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Applied Intuition** · Washington, DC · `Mid` · `$135k-$175k` · `Equity`
+<a href="https://appliedintuition.com"><img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Applied Intuition** · Washington, D.C. · `Mid` · `$135k-$175k` · `Equity`
 
 _Design and integrate autonomy software onto robotic platforms (drones, vehicles) across simulation, hardware-in-the-loop, and live test environments. Work in defense robotics requiring security clearance and frequent on-site integration with customer hardware. · [Apply →](https://boards.greenhouse.io/appliedintuition/jobs/4677114005?gh_jid=4677114005)_
 
@@ -1267,7 +1300,7 @@ _Design and integrate autonomy software onto robotic platforms (drones, vehicles
 ---
 
 ### [Flight Test Instrumentation Engineer](jobs/archer-aviation/flight-test-instrumentation-engineer-7728464003.md)
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Senior` · `$140k-$200k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, California · `Senior` · `$140k-$200k`
 
 _Design, install, and maintain data acquisition systems and instrumentation for Archer's all-electric eVTOL flight test aircraft. Lead instrumentation planning across strain, temperature, vibration, pressure, and airdata monitoring systems while supporting developmental test and certification activities. · [Apply →](https://job-boards.greenhouse.io/archer56/jobs/7728464003)_
 
@@ -1278,7 +1311,7 @@ _Design, install, and maintain data acquisition systems and instrumentation for 
 ---
 
 ### [Sr Software Verification Engineer](jobs/archer-aviation/sr-software-verification-engineer-7698902003.md)
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Senior` · `$120k-$180k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, California · `Senior` · `$120k-$180k`
 
 _Design and execute comprehensive verification and validation testing for safety-critical battery management system software using SIL/HIL frameworks and DO-178C standards. Work on certification-level embedded systems testing in the aerospace domain with high-voltage battery diagnostics and fault detection algorithms. · [Apply →](https://job-boards.greenhouse.io/archer56/jobs/7698902003)_
 
@@ -1289,7 +1322,7 @@ _Design and execute comprehensive verification and validation testing for safety
 ---
 
 ### [Staff Test Engineer, Flight Controls System](jobs/archer-aviation/staff-test-engineer-flight-controls-system-7719731003.md)
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Senior` · `$160k-$190k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, California · `Senior` · `$160k-$190k`
 
 _Design and execute requirements-based verification tests for an all-electric vertical takeoff and landing aircraft's fly-by-wire flight control system, correlating test results with analyses and ensuring compliance with FAA and DoD certification standards. This role requires executing complex test campaigns across integrated avionics, power distribution, and engine subsystems for a safety-critical aerospace system. · [Apply →](https://job-boards.greenhouse.io/archer56/jobs/7719731003)_
 
@@ -1300,7 +1333,7 @@ _Design and execute requirements-based verification tests for an all-electric ve
 ---
 
 ### [Sr Software Engineer](jobs/bend-studio/sr-software-engineer-5996147004.md)
-<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$193k-$289k` · `Bonus` · `Equity`
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$193k-$289k` · `Bonus` · `Equity`
 
 _Build video codec architecture and encoder/decoder systems for PlayStation SDKs and cloud gaming platforms. Own feature delivery from design through validation, with GPU optimization and ML-based video quality enhancement across CPU and GPU pipelines at scale. · [Apply →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5996147004)_
 
@@ -1311,7 +1344,7 @@ _Build video codec architecture and encoder/decoder systems for PlayStation SDKs
 ---
 
 ### [Forward Deployed Engineer (FDE)](jobs/blaxel/forward-deployed-engineer-fde-4acea42a-589d-42b1-949e-d4ec4b8907a2.md)
-<a href="https://blaxel.ai"><img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Blaxel** · San Francisco, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid`
+<a href="https://blaxel.ai"><img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Blaxel** · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid`
 
 _Deploy and debug Blaxel's serverless AI agent infrastructure in customer production environments, working across their architecture, APIs, and deployment pipelines. You'll own customer success from technical discovery through implementation, translating real-world constraints into working systems while feeding product learnings back to the platform team. · [Apply →](https://jobs.ashbyhq.com/blaxel/4acea42a-589d-42b1-949e-d4ec4b8907a2)_
 
@@ -1322,7 +1355,7 @@ _Deploy and debug Blaxel's serverless AI agent infrastructure in customer produc
 ---
 
 ### [Founding Design Engineer](jobs/bretton-ai/founding-design-engineer-eecf782b-8897-4e5d-8cd1-883b6bb5073d.md)
-<a href="https://www.bretton.com"><img src="https://www.google.com/s2/favicons?domain=www.bretton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bretton AI** · San Francisco, CA · `Senior`
+<a href="https://www.bretton.com"><img src="https://www.google.com/s2/favicons?domain=www.bretton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bretton AI** · San Francisco, California · `Senior`
 
 _Build and own the design system in code, creating production-grade React components and patterns that compliance analysts depend on for hours at a time. Design interfaces that make AI agent behavior legible and auditable in financial services, where trust is non-negotiable. · [Apply →](https://jobs.ashbyhq.com/brettonai/eecf782b-8897-4e5d-8cd1-883b6bb5073d)_
 
@@ -1333,7 +1366,7 @@ _Build and own the design system in code, creating production-grade React compon
 ---
 
 ### [Senior Communications Systems Engineer II](jobs/cesiumastro/senior-communications-systems-engineer-ii-d877e4f4-aa45-4560-ab45-74e6095105fe.md)
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Austin, TX · `Senior`
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Austin, Texas · `Senior`
 
 _Design and deploy machine learning solutions for distributed processing platforms supporting satellite and airborne communication systems. Work at the intersection of ML and aerospace systems with U.S. export control requirements and active mission-critical constraints. · [Apply →](https://jobs.lever.co/CesiumAstro/d877e4f4-aa45-4560-ab45-74e6095105fe)_
 
@@ -1355,7 +1388,7 @@ _Lead and manage a software engineering team, owning process, delivery, and tech
 ---
 
 ### [Software Engineer, Data Infrastructure](jobs/cohere/software-engineer-data-infrastructure-6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f.md)
-<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible. · [Apply →](https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f)_
 
@@ -1377,7 +1410,7 @@ _Design and implement low-level engine systems across Scene Graph, networking, a
 ---
 
 ### [Software Engineer | 3D Visualization Platform](jobs/gecko-robotics/software-engineer-3d-visualization-platform-robotics-f1dc5c24-f814-40bf-af02-f5c460ea97f3.md)
-<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · New York City, NY · `Mid` · `Equity`
+<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · New York City, New York · `Mid` · `Equity`
 
 _Build and extend a server-side rendering application that streams GB-scale 3D models to a React frontend, powering critical infrastructure visualization within Cantilever. Work across backend APIs, frontend applications, and system architecture to deliver scalable solutions for complex 3D workflows in real-world deployment environments where performance and reliability are critical. · [Apply →](https://jobs.ashbyhq.com/gecko-robotics/f1dc5c24-f814-40bf-af02-f5c460ea97f3)_
 
@@ -1454,7 +1487,7 @@ _Lead a team building an AI-native platform and pipelines that create, enrich, a
 ---
 
 ### [IT Systems Engineer](jobs/intercom/it-systems-engineer-7918638.md)
-<a href="https://intercom.com"><img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intercom** · San Francisco, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$142k-$237k` · `Equity` · `Bonus`
+<a href="https://intercom.com"><img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intercom** · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$142k-$237k` · `Equity` · `Bonus`
 
 _Design and build infrastructure automation and integrations across identity management, endpoint management, compliance, and email deliverability using infrastructure-as-code and no-code platforms. Drive IT infrastructure evolution in a cloud-native environment with emphasis on enterprise automation and AI tooling adoption. · [Apply →](https://job-boards.greenhouse.io/intercom/jobs/7918638)_
 
@@ -1465,7 +1498,7 @@ _Design and build infrastructure automation and integrations across identity man
 ---
 
 ### [Senior Quantum Scientist](jobs/ionq/senior-quantum-scientist-5986072004.md)
-<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Boulder, CO · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$126k-$166k` · `Bonus` · `Equity`
+<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Boulder, Colorado · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$126k-$166k` · `Bonus` · `Equity`
 
 _Design and execute experiments on trapped-ion quantum processors, prototyping coherent control schemes and calibrating quantum systems to achieve ultra-low gate errors. Work hands-on with current hardware while validating emerging trap technologies and analyzing complex hardware/software interactions to push quantum computing performance at scale. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/5986072004)_
 
@@ -1476,7 +1509,7 @@ _Design and execute experiments on trapped-ion quantum processors, prototyping c
 ---
 
 ### [Senior Engineer III, Small Molecules – High Throughput Screening & Technology](jobs/joyn-bio/senior-engineer-iii-small-molecules-high-throughput-screening-technology-5137770007.md)
-<a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio** · Boston, MA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$180k` · `Equity`
+<a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio** · Boston, Massachusetts · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$180k` · `Equity`
 
 _Design and operate high-throughput screening workflows for small-molecule and functional genomics assays, including HTS workcells, Drug-Seq, and imaging/viability platforms. Lead a technical team across multiple concurrent programs while driving operational excellence, assay optimization, and automation improvements on internal robotic systems. · [Apply →](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5137770007)_
 
@@ -1487,7 +1520,7 @@ _Design and operate high-throughput screening workflows for small-molecule and f
 ---
 
 ### [Security Engineering Intern - Summer 2026](jobs/lambda-labs/security-engineering-intern-summer-2026-0663f04c-097d-414f-b0a0-414a7cf153d6.md)
-<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern` · `Equity`
+<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern` · `Equity`
 
 _Build production security detections against Lambda's real log data, shipping code that fires on real events and routes to an on-call team. Work with LLM-based classifiers and rule-based systems to detect sensitive data exposure and identity/access pattern anomalies across AI cloud infrastructure. · [Apply →](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6)_
 
@@ -1553,7 +1586,7 @@ _Build and maintain custody systems, key management infrastructure, and anti-sca
 ---
 
 ### [Head of Data Engineering & Platform, Real-World Data (RWD)](jobs/natera/head-of-data-engineering-platform-real-world-data-rwd-5977290004.md)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · San Carlos, CA · `Manager` · `$154k–$192k` · `Bonus` · `Equity`
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · San Carlos, California · `Manager` · `$154k–$192k` · `Bonus` · `Equity`
 
 _Lead the strategy, architecture, and team delivery of a Real-World Data platform for clinical, research, and business use—building production-grade pipelines, data marts, and secure data solutions in healthcare. You'll partner across product, bioinformatics, analytics, and AI teams to design scalable, observable systems that handle sensitive genomic and clinical data at scale in AWS environments. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/5977290004)_
 
@@ -1564,7 +1597,7 @@ _Lead the strategy, architecture, and team delivery of a Real-World Data platfor
 ---
 
 ### [Neuroengineer Intern](jobs/neuralink/neuroengineer-intern-7483748003.md)
-<a href="https://neuralink.com"><img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Neuralink** · Fremont, CA · `Intern` · `$35/hr`
+<a href="https://neuralink.com"><img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Neuralink** · Fremont, California · `Intern` · `$35/hr`
 
 _Design computational models and machine vision algorithms for brain-computer interfaces, optimizing electrical stimulation parameters and sensory neural encoding. Work on next-generation bidirectional neural interfaces with real in-vivo electrophysiology and closed-loop BCI experiments. · [Apply →](https://boards.greenhouse.io/neuralink/jobs/7483748003?gh_jid=7483748003)_
 
@@ -1586,7 +1619,7 @@ _Build and maintain security automation, infrastructure, and integrations across
 ---
 
 ### [Android Engineer, ChatGPT (Seattle)](jobs/openai/android-engineer-chatgpt-seattle-5a1a0c32-0b82-482a-8149-e6b096c3e732.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Seattle, WA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Seattle, Washington · `Senior`
 
 _Build and ship new Android experiences for ChatGPT, expanding mobile AI capabilities. Drive foundational improvements in app architecture, performance optimization, and testing frameworks while collaborating across product, design, and research teams. · [Apply →](https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732)_
 
@@ -1597,7 +1630,7 @@ _Build and ship new Android experiences for ChatGPT, expanding mobile AI capabil
 ---
 
 ### [Head of Measurement & Performance Intelligence](jobs/openai/head-of-measurement-performance-intelligence-57b9ce42-b17f-4b43-96b3-a67d9d705d5d.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Lead the measurement and performance intelligence function for OpenAI's compute platforms, defining metrics, benchmarking methodologies, and acceptance criteria across hardware and software systems. Partner with training, inference, and infrastructure teams to translate performance data into architectural and capacity decisions at scale. · [Apply →](https://jobs.ashbyhq.com/openai/57b9ce42-b17f-4b43-96b3-a67d9d705d5d)_
 
@@ -1608,7 +1641,7 @@ _Lead the measurement and performance intelligence function for OpenAI's compute
 ---
 
 ### [Senior Data Engineer, Core Experimentation](jobs/openai/senior-data-engineer-core-experimentation-2796d32a-9f7c-4008-a2c5-50dd53b0f2fe.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, Washington · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
 
 _Design and build data pipelines and canonical datasets powering OpenAI's experimentation platform, data warehouse, and product analytics at massive scale. Work with infrastructure, research, and product teams to enable trustworthy, statistically rigorous experimentation across frontier AI products. · [Apply →](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe)_
 
@@ -1619,7 +1652,7 @@ _Design and build data pipelines and canonical datasets powering OpenAI's experi
 ---
 
 ### [Staff / Senior Staff Backend Engineer, B2B Flywheel](jobs/openai/staff-senior-staff-backend-engineer-b2b-flywheel-e9fa3446-0b1e-48c0-a567-ef85f1621b76.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293K-$385K`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293K-$385K`
 
 _Design and build real-time backend systems and data pipelines that capture, process, and translate product and usage signals across OpenAI's B2B API surfaces. Operate in high-scale, low-latency, privacy-constrained environments while partnering with data science and research teams to improve products and models through production feedback loops. · [Apply →](https://jobs.ashbyhq.com/openai/e9fa3446-0b1e-48c0-a567-ef85f1621b76)_
 
@@ -1630,7 +1663,7 @@ _Design and build real-time backend systems and data pipelines that capture, pro
 ---
 
 ### [Staff+ Software Engineer, Identity Infrastructure Engineering](jobs/openai/staff-software-engineer-identity-infrastructure-engineering-72a58872-70e2-4340-a259-e9bea3596883.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
 
 _Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements. · [Apply →](https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883)_
 
@@ -1641,7 +1674,7 @@ _Lead the design, development, and operation of identity and access management i
 ---
 
 ### [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-commercial-e6789b17-62fb-4226-a079-f8c17ff19e2d.md)
-<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · New York, NY · `Intern`
+<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · New York, New York · `Intern`
 
 _Build software and deliver customer outcomes by helping clients deploy AI-powered solutions and transforming how organizations operate with Palantir's data platforms. You'll work on critical problems across diverse industries with real deployment responsibility. · [Apply →](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d)_
 
@@ -1650,7 +1683,7 @@ _Build software and deliver customer outcomes by helping clients deploy AI-power
 ---
 
 ### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg.md)
-<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · Washington, D.C. / New York, NY · `Intern`
+<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · Washington, D.C. / New York, New York · `Intern`
 
 _Build software and deploy AI-powered solutions for government customers, helping organizations unlock critical data insights and operational outcomes. Work on real problems at scale within defense and national security institutions._
 
@@ -1659,7 +1692,7 @@ _Build software and deploy AI-powered solutions for government customers, helpin
 ---
 
 ### [Year at Palantir - Software Engineer, Internship](jobs/palantir/year-at-palantir-software-engineer-internship-655f9937-a4ce-4e7d-80e2-a6659af07329.md)
-<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · New York, NY · `Intern`
+<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · New York, New York · `Intern`
 
 _Build software solutions on Palantir's data platforms, working on real customer problems including AI-powered deployments and organizational transformation. Work held to the same standards as full engineers with direct impact on critical industries. · [Apply →](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329)_
 
@@ -1690,7 +1723,7 @@ _Lead statistical programming infrastructure and quality assurance for clinical 
 ---
 
 ### [Lead, Avionics Test Engineering](jobs/relativity-space/lead-avionics-test-engineering-8548054002.md)
-<a href="https://relativityspace.com"><img src="https://www.google.com/s2/favicons?domain=relativityspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Relativity Space** · Long Beach, CA · `Manager` · `$151k—$208k` · `Equity`
+<a href="https://relativityspace.com"><img src="https://www.google.com/s2/favicons?domain=relativityspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Relativity Space** · Long Beach, California · `Manager` · `$151k—$208k` · `Equity`
 
 _Design, develop, and maintain fully automated test systems for avionics electronics in production, supporting acceptance and qualification testing for Terran R rocket hardware. Lead a team of test engineers while managing complex test architectures for high-voltage DC systems, motor drives, and power electronics in a rapid-iteration aerospace environment. · [Apply →](https://boards.greenhouse.io/relativity/jobs/8548054002?gh_jid=8548054002)_
 
@@ -1701,7 +1734,7 @@ _Design, develop, and maintain fully automated test systems for avionics electro
 ---
 
 ### [Design Engineer](jobs/retell-ai/design-engineer-ai-42680778-ec20-4fb0-9057-3b1f35128a64.md)
-<a href="https://retellai.com"><img src="https://www.google.com/s2/favicons?domain=retellai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Retell AI** · Redwood City, CA · `Senior` · `$180k-$300k` · `Equity`
+<a href="https://retellai.com"><img src="https://www.google.com/s2/favicons?domain=retellai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Retell AI** · Redwood City, California · `Senior` · `$180k-$300k` · `Equity`
 
 _Build and maintain Retell's design system including component library, Storybook, and design tokens, translating Figma designs into production-grade React components with pixel-level accuracy. Work AI-first using Cursor and Claude Code, own design-code parity across the dashboard and core product surfaces, and collaborate with product designers and engineers to raise visual quality at a fast-growing voice AI startup. · [Apply →](https://jobs.ashbyhq.com/retell-ai/42680778-ec20-4fb0-9057-3b1f35128a64)_
 
@@ -1712,7 +1745,7 @@ _Build and maintain Retell's design system including component library, Storyboo
 ---
 
 ### [Data Scientist, ML (Agentic, CX)](jobs/robinhood/data-scientist-ml-agentic-cx-7489476.md)
-<a href="https://robinhood.com"><img src="https://www.google.com/s2/favicons?domain=robinhood.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Robinhood** · Menlo Park, CA / New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$123k-$185k` · `Bonus` · `Equity`
+<a href="https://robinhood.com"><img src="https://www.google.com/s2/favicons?domain=robinhood.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Robinhood** · Menlo Park, California / New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$123k-$185k` · `Bonus` · `Equity`
 
 _Build and deploy machine learning models and evaluation frameworks for customer support systems including intent classification, agent orchestration, and personalization at scale. Work in a regulated financial environment integrating advanced AI techniques with product and engineering teams to deliver production-ready systems. · [Apply →](https://boards.greenhouse.io/robinhood/jobs/7489476?t=gh_src=&gh_jid=7489476)_
 
@@ -1723,7 +1756,7 @@ _Build and deploy machine learning models and evaluation frameworks for customer
 ---
 
 ### [Senior/Principal Platform Engineer, ML Platform](jobs/roblox/senior-principal-platform-engineer-ml-platform-7185278.md)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$277170-$343340` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$277170-$343340` · `Equity`
 
 _Build and own the ML Platform that powers hundreds of use cases and billions of inferences per day—designing APIs, SDKs, CLIs, and serving infrastructure that let ML teams train, evaluate, deploy, and operate models in weeks. Optimize for developer experience, scale, reliability, and cost across training and inference workloads serving Discovery, Safety, Economy, and Creation use cases. · [Apply →](https://careers.roblox.com/jobs/7185278?gh_jid=7185278)_
 
@@ -1745,7 +1778,7 @@ _Build character animation systems and tools for the Roblox game engine, helping
 ---
 
 ### [Senior Software Engineer - Open Cloud](jobs/roblox/senior-software-engineer-open-cloud-7919050.md)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$196k-$243k` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$196k-$243k` · `Equity`
 
 _Build the Open Cloud platform and HTTP API infrastructure that enables Roblox creators and AI agents to automate community management, CI/CD, and in-game economy tasks. Own projects end-to-end across the full stack while serving millions of developers on a platform handling massive scale. · [Apply →](https://careers.roblox.com/jobs/7919050?gh_jid=7919050)_
 
@@ -1756,7 +1789,7 @@ _Build the Open Cloud platform and HTTP API infrastructure that enables Roblox c
 ---
 
 ### [Senior Software Engineer - Release](jobs/roblox/senior-software-engineer-release-7923586.md)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$243k-$295k` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$243k-$295k` · `Equity`
 
 _Design and develop build, release, and continuous integration automation tools for the Roblox Game Engine, serving multi-platform deployments to millions of concurrent players. Support the full software lifecycle including crash reporting, test environments, and deployment systems at scale. · [Apply →](https://careers.roblox.com/jobs/7923586?gh_jid=7923586)_
 
@@ -1767,7 +1800,7 @@ _Design and develop build, release, and continuous integration automation tools 
 ---
 
 ### [Software Engineer (C#/.NET)](jobs/rockstar-games/software-engineer-csharp-dotnet.md)
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Carlsbad, CA / Manhattan, NY · `Senior` · `$101k–$134k` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Carlsbad, California / Manhattan, New York · `Senior` · `$101k–$134k` · `Bonus` · `Equity`
 
 _Build high-volume, highly scalable server-side online services for Rockstar Games franchises, including matchmaking, cloud saves, leaderboards, and player inventory systems. Work with distributed systems at scale serving millions of concurrent players across console and PC platforms._
 
@@ -1800,7 +1833,7 @@ _Build and integrate marketing technology stacks (CDPs, marketing automation pla
 ---
 
 ### [Software Engineer, Robotics & Autonomous Systems](jobs/scale-ai/software-engineer-robotics-autonomous-systems-4618065005.md)
-<a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scale AI** · San Francisco, CA · `Mid` · `$180k-$225k` · `Equity`
+<a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scale AI** · San Francisco, California · `Mid` · `$180k-$225k` · `Equity`
 
 _Build production data processing pipelines, ML training infrastructure, and evaluation systems for robotics and autonomous vehicle datasets. Work across full-stack (Python, C++, React, TypeScript) to own critical robotics platform components serving cutting-edge AV and embodied AI customers at scale. · [Apply →](https://job-boards.greenhouse.io/scaleai/jobs/4618065005)_
 
@@ -1811,7 +1844,7 @@ _Build production data processing pipelines, ML training infrastructure, and eva
 ---
 
 ### [Member of Technical Staff, Deployed Research](jobs/sieve/member-of-technical-staff-deployed-research-d294868e-1b94-425c-934b-b1cf806e05aa.md)
-<a href="https://sievedata.com"><img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sieve** · San Francisco, CA · `Mid`
+<a href="https://sievedata.com"><img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sieve** · San Francisco, California · `Mid`
 
 _Build custom algorithms, models, and data pipelines to process and transform video datasets at scale for frontier AI labs. Work forward-deployed at customer sites translating ambiguous requirements into production systems spanning computer vision, audio processing, and multimodal data handling. · [Apply →](https://jobs.ashbyhq.com/sieve/d294868e-1b94-425c-934b-b1cf806e05aa)_
 
@@ -1833,7 +1866,7 @@ _Design and implement core distributed systems for SingleStore's cloud-native da
 ---
 
 ### [Embedded Security Engineer (Starlink)](jobs/spacex/embedded-security-engineer-starlink-8543670002.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
 
 _Design and build security infrastructure for Starlink's satellite constellation, routers, and gateways, including cryptographic services, secure boot, and network security across factory processes and production systems. Work on inter-planetary scale systems requiring cryptographic primitives, operating system security, and adversary detection at different levels of abstraction. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002)_
 
@@ -1844,7 +1877,7 @@ _Design and build security infrastructure for Starlink's satellite constellation
 ---
 
 ### [Product Security Engineer (Starlink)](jobs/spacex/product-security-engineer-starlink-8543671002.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
 
 _Design and build security infrastructure for Starlink's satellite internet system, including cryptographic services, secure boot, and security features for routers, dishes, gateways, and satellites. Work across a complex, mission-critical system serving millions of users globally with high reliability and adversarial threat modeling requirements. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8543671002?gh_jid=8543671002)_
 
@@ -1855,7 +1888,7 @@ _Design and build security infrastructure for Starlink's satellite internet syst
 ---
 
 ### [Security Software Engineer (Starlink)](jobs/spacex/security-software-engineer-starlink-8543668002.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
 
 _Design and build security infrastructure for Starlink's satellite constellation, routers, dishes, and gateways, including cryptographic services and secure boot systems. Work on internet-scale systems with ITAR compliance requirements and the mission to provide secure internet to underserved communities globally. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8543668002?gh_jid=8543668002)_
 
@@ -1866,7 +1899,7 @@ _Design and build security infrastructure for Starlink's satellite constellation
 ---
 
 ### [Engineer, SoC Infrastructure](jobs/tenstorrent/engineer-soc-infrastructure-4780808007.md)
-<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Santa Clara, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$100k-$500k` · `Equity` · `Bonus`
+<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Santa Clara, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$100k-$500k` · `Equity` · `Bonus`
 
 _Build and maintain Linux infrastructure for silicon design and EDA workflows, including schedulers, tool environments, and observability systems. Support large-scale shared environments serving design and emulation teams at a cutting-edge AI chip company. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/4780808007)_
 
@@ -1888,7 +1921,7 @@ _Build scalable full-stack financial services platforms (lending, equipment fina
 ---
 
 ### [Software Engineer (I-II), Prototype](jobs/true-anomaly/software-engineer-i-ii-prototype-5137655007.md)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, CO · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$70k-$130k` · `Equity`
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$70k-$130k` · `Equity`
 
 _Build rapid prototypes and automated workflows that transform business questions into working applications, integrating corporate APIs, databases, and data sources for executive decision-making. Work in space technology domain subject to ITAR export controls requiring U.S. citizenship or equivalent authorization. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5137655007)_
 
@@ -1899,7 +1932,7 @@ _Build rapid prototypes and automated workflows that transform business question
 ---
 
 ### [Threat Detection & Response Engineer III](jobs/true-anomaly/threat-detection-response-engineer-iii-5138120007.md)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, CO / Long Beach, CA · `Senior` · `$115k-$165k` · `Equity`
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Senior` · `$115k-$165k` · `Equity`
 
 _Design and implement security detection capabilities, incident response playbooks, and SIEM/EDR automation across corporate and cloud environments. Build the detection and response infrastructure for a defense contractor securing space systems, with on-call incident response duties and access to classified space operations. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138120007)_
 
@@ -1910,7 +1943,7 @@ _Design and implement security detection capabilities, incident response playboo
 ---
 
 ### [Senior GNC Engineer](jobs/turion-space/senior-gnc-engineer-space-efc634a0-9568-46ee-80f7-38d629cae0d2.md)
-<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, CA · `Senior` · `$150k-$213k` · `Equity`
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, California · `Senior` · `$150k-$213k` · `Equity`
 
 _Design and implement guidance, navigation, and control algorithms for satellite rendezvous and proximity operations missions, including modeling, simulation, hardware-in-the-loop testing, and on-orbit validation. Lead technical strategy for GNC subsystems on small satellite platforms in low Earth orbit, mentoring junior engineers and owning functional areas such as embedded flight code processes. · [Apply →](https://jobs.ashbyhq.com/turion-space/efc634a0-9568-46ee-80f7-38d629cae0d2)_
 
@@ -1921,7 +1954,7 @@ _Design and implement guidance, navigation, and control algorithms for satellite
 ---
 
 ### [Senior Mission Operations Engineer](jobs/turion-space/senior-mission-operations-engineer-space-66b0e0e5-bd12-4242-a739-642a0e86fe10.md)
-<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, CA · `Senior` · `$140k-$190k` · `Equity`
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, California · `Senior` · `$140k-$190k` · `Equity`
 
 _Lead the development, integration, and execution of mission operations across the spacecraft lifecycle, serving as the primary operational integrator between engineering, ground software, and flight teams. Drive operational procedures, flight rules, constraints, and risk mitigations while supporting real-time operations and mentoring junior engineers on small, fast-paced teams in rapidly evolving mission environments. · [Apply →](https://jobs.ashbyhq.com/turion-space/66b0e0e5-bd12-4242-a739-642a0e86fe10)_
 
@@ -1932,7 +1965,7 @@ _Lead the development, integration, and execution of mission operations across t
 ---
 
 ### [Member of Technical Staff, QA](jobs/vapi/member-of-technical-staff-qa-94e93b56-c7ac-4765-9ffb-aefcbe0bb795.md)
-<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
 
 _Build and own end-to-end testing infrastructure for a production voice AI platform handling 1M+ calls daily. Test complex distributed systems (LLMs, STT, TTS, telephony integrations) and define QA practices for a non-deterministic product at scale. · [Apply →](https://jobs.ashbyhq.com/vapi/94e93b56-c7ac-4765-9ffb-aefcbe0bb795)_
 
@@ -1947,7 +1980,7 @@ _Build and own end-to-end testing infrastructure for a production voice AI platf
 ## May 13, 2026
 
 ### [Research Engineer, Asta](jobs/allen-institute-for-ai/research-engineer-asta-7899565.md)
-<a href="https://allenai.org"><img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Allen Institute for AI** · Seattle, WA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$118k-$178k` · `Bonus`
+<a href="https://allenai.org"><img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Allen Institute for AI** · Seattle, Washington · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$118k-$178k` · `Bonus`
 
 _Build infrastructure and AI tools to enable agentic scientific discovery systems, including machine learning pipelines, model training workflows, and agent frameworks for domains like biology and neuroscience. Bridge cutting-edge research with production systems at scale while maintaining open-source contributions. · [Apply →](https://job-boards.greenhouse.io/thealleninstitute/jobs/7899565)_
 
@@ -1958,7 +1991,7 @@ _Build infrastructure and AI tools to enable agentic scientific discovery system
 ---
 
 ### [Camera Test Engineer](jobs/anduril-industries/camera-test-engineer-5137179007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Lexington, MA · `Mid` · `$98k-$130k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Lexington, Massachusetts · `Mid` · `$98k-$130k` · `Equity`
 
 _Develop and maintain test automation software, data analytics systems, and report generation tools for infrared camera systems in defense manufacturing. Requires U.S. Secret security clearance and hands-on work with complex opto-mechanical and firmware systems in production environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137179007?gh_jid=5137179007)_
 
@@ -1969,7 +2002,7 @@ _Develop and maintain test automation software, data analytics systems, and repo
 ---
 
 ### [Principal Technical Lead, AI Robotics](jobs/anduril-industries/principal-technical-lead-ai-robotics-5136544007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Principal` · `$254k-$444k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Principal` · `$254k-$444k` · `Equity`
 
 _Architect and lead development of autonomous robotic systems for defense applications, including locomotion, manipulation, perception, and whole-body control. Requires hands-on technical contribution and experience shipping real-world robotic systems in unstructured, contested environments with an aggressive delivery timeline. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136544007?gh_jid=5136544007)_
 
@@ -1980,7 +2013,7 @@ _Architect and lead development of autonomous robotic systems for defense applic
 ---
 
 ### [Senior Software Engineer, Full-stack](jobs/anduril-industries/senior-software-engineer-full-stack-5137048007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$191k—$253k USD` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$191k—$253k USD` · `Equity`
 
 _Design and build real-time, map-based interfaces and full-stack software systems for autonomous surface vessels and maritime command-and-control platforms. Requires Secret security clearance and involvement across the complete software lifecycle from ConOps through deployment to military customers. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137048007?gh_jid=5137048007)_
 
@@ -1991,7 +2024,7 @@ _Design and build real-time, map-based interfaces and full-stack software system
 ---
 
 ### [Senior Software Engineer, Intelligence Systems](jobs/anduril-industries/senior-software-engineer-intelligence-systems-5136534007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Reston, VA · `Senior` · `$191k-$253k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Reston, Virginia · `Senior` · `$191k-$253k` · `Equity`
 
 _Design and implement test automation frameworks, scripts, and custom utilities to validate advanced networking devices and systems. Requires active security clearance and involves Hardware-In-The-Loop testing of defense/IC systems in a specialized domain. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007)_
 
@@ -2002,7 +2035,7 @@ _Design and implement test automation frameworks, scripts, and custom utilities 
 ---
 
 ### [Software Engineer](jobs/anduril-industries/software-engineer-5136753007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boston, MA · `Mid` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boston, Massachusetts · `Mid` · `$166k-$220k` · `Equity`
 
 _Build autonomy, simulation, and command-and-control software for autonomous maritime platforms and underwater vessels operating at scale. Requires active U.S. Secret security clearance and involvement in full lifecycle product delivery including manufacturing, deployment, and field operations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136753007?gh_jid=5136753007)_
 
@@ -2013,7 +2046,7 @@ _Build autonomy, simulation, and command-and-control software for autonomous mar
 ---
 
 ### [Software Engineer, Full-stack](jobs/anduril-industries/software-engineer-full-stack-5104521007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity`
 
 _Design and build real-time, map-based interfaces and backend systems for autonomous maritime vehicles, integrating sensor data streams with mission autonomy software on Lattice OS. Requires ability to work across the full software stack in a defense domain requiring security clearance and up to 20% travel to support deployed systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007)_
 
@@ -2024,7 +2057,7 @@ _Design and build real-time, map-based interfaces and backend systems for autono
 ---
 
 ### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA / Seattle, WA · `Staff` · `$220k–$292k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California / Seattle, Washington · `Staff` · `$220k–$292k` · `Equity`
 
 _Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems._
 
@@ -2035,7 +2068,7 @@ _Architect and build distributed systems for manufacturing execution (work order
 ---
 
 ### [Software Engineer, Systems - Claude Code](jobs/anthropic/software-engineer-systems-claude-code-5218395008.md)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$320k-$485k` · `Equity`
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$320k-$485k` · `Equity`
 
 _Optimize the performance and reliability of Claude Code and the Bun JavaScript runtime by designing and building core systems including runtime internals, I/O paths, memory management, and the agent execution loop. Drive down memory usage, latency, and startup time across the stack from kernel interfaces through the JS engine to the agent layer. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5218395008)_
 
@@ -2046,7 +2079,7 @@ _Optimize the performance and reliability of Claude Code and the Bun JavaScript 
 ---
 
 ### [Staff Simulation Engineer - Dexterity](jobs/apptronik/staff-simulation-engineer-dexterity-5995710004.md)
-<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik** · Austin, TX · `Staff`
+<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik** · Austin, Texas · `Staff`
 
 _Build and own dexterous hand simulation systems for humanoid robots, modeling contact dynamics, physics fidelity, and sim-to-real validation workflows. You will be the authoritative technical voice across mechanical design, controls, and hardware teams, ensuring simulation reliably predicts physical hand behavior end-to-end in a contact-rich embodied AI context. · [Apply →](https://boards.greenhouse.io/apptronik/jobs/5995710004?gh_jid=5995710004)_
 
@@ -2057,7 +2090,7 @@ _Build and own dexterous hand simulation systems for humanoid robots, modeling c
 ---
 
 ### [Electrical Test Hardware Development Engineer](jobs/astranis/electrical-test-hardware-development-engineer-4681218006.md)
-<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, CA · `Mid` · `$105k-$165k` · `Equity`
+<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, California · `Mid` · `$105k-$165k` · `Equity`
 
 _Design and build automated test hardware and control software to validate satellite avionics flight systems. Work on mission-critical test infrastructure for space-qualified hardware in a defense/government contracting environment. · [Apply →](https://job-boards.greenhouse.io/astranis/jobs/4681218006)_
 
@@ -2068,7 +2101,7 @@ _Design and build automated test hardware and control software to validate satel
 ---
 
 ### [Electronics Test Engineer](jobs/astranis/electronics-test-engineer-4681219006.md)
-<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, CA · `Mid` · `$105k-$165k` · `Equity`
+<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, California · `Mid` · `$105k-$165k` · `Equity`
 
 _Develop automated test systems and software to validate custom spacecraft electronics across environmental conditions. Work on satellite avionics test infrastructure for high-reliability defense and government communications systems. · [Apply →](https://job-boards.greenhouse.io/astranis/jobs/4681219006)_
 
@@ -2079,7 +2112,7 @@ _Develop automated test systems and software to validate custom spacecraft elect
 ---
 
 ### [Software Engineer- Backend Intern (Fall 2026)](jobs/astranis/software-engineer-backend-intern-fall-2026-4681183006.md)
-<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, CA · `Intern` · `$29/hour`
+<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, California · `Intern` · `$29/hour`
 
 _Design and build mission-critical backend services that autonomously control satellites, monitor telemetry, and manage fleet operations. This role requires U.S. citizenship or permanent residency due to export control regulations on space technology. · [Apply →](https://job-boards.greenhouse.io/astranis/jobs/4681183006)_
 
@@ -2090,7 +2123,7 @@ _Design and build mission-critical backend services that autonomously control sa
 ---
 
 ### [Software Engineer II](jobs/bend-studio/software-engineer-ii-5995645004.md)
-<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · San Diego, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$150.1k-$225.1k` · `Bonus`
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · San Diego, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$150.1k-$225.1k` · `Bonus`
 
 _Build and maintain front-end applications for PlayStation social platform features across PS5 and supported platforms using React Native and modern web technologies. Develop UI frameworks and cross-platform components while collaborating with international design and product teams. · [Apply →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5995645004)_
 
@@ -2112,7 +2145,7 @@ _Design and build reusable data pipeline components, ETL abstractions, and DataO
 ---
 
 ### [Chip Simulation Software Engineer](jobs/etched/chip-simulation-software-engineer-29b303b2-f1a5-4799-a0b2-e86e28289a9b.md)
-<a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Etched** · San Jose, CA · `Mid`
+<a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Etched** · San Jose, California · `Mid`
 
 _Design, develop, and maintain accurate, high-performance simulations of custom transformer ASIC hardware to enable close hardware-software co-design. Work at the intersection of chip simulation, kernel development, and ML accelerator infrastructure with tight feedback loops between simulation and real hardware validation. · [Apply →](https://jobs.ashbyhq.com/Etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b)_
 
@@ -2123,7 +2156,7 @@ _Design, develop, and maintain accurate, high-performance simulations of custom 
 ---
 
 ### [Sales AI Engineer](jobs/figma/sales-ai-engineer-5991176004.md)
-<a href="https://figma.com"><img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Figma** · San Francisco, CA / New York, NY · `Mid` · `$140k—$296k USD` · `Equity` · `Bonus`
+<a href="https://figma.com"><img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Figma** · San Francisco, California / New York, New York · `Mid` · `$140k—$296k USD` · `Equity` · `Bonus`
 
 _Build and operationalize AI-powered workflows that integrate across the GTM stack (Salesforce, Slack, data systems) to automate sales operations. Apply LLMs pragmatically to production workflows with quality checks, monitoring, and reusable patterns for distributed adoption. · [Apply →](https://boards.greenhouse.io/figma/jobs/5991176004?gh_jid=5991176004)_
 
@@ -2134,7 +2167,7 @@ _Build and operationalize AI-powered workflows that integrate across the GTM sta
 ---
 
 ### [Senior Software Engineer, Mobile Platform (React Native)](jobs/front/senior-software-engineer-mobile-platform-react-native-d4a4c46a-35a8-46c0-b09f-d96893be473a.md)
-<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and maintain Front's cross-platform React Native mobile app, diving into native-level performance optimization and iOS/Android API integration. Work with a high-growth B2B platform handling complex customer operations at scale across 9,000+ companies. · [Apply →](https://jobs.ashbyhq.com/frontcareers/d4a4c46a-35a8-46c0-b09f-d96893be473a)_
 
@@ -2145,7 +2178,7 @@ _Build and maintain Front's cross-platform React Native mobile app, diving into 
 ---
 
 ### [Principal Software Engineer, AI Observability & Evals Platform](jobs/langchain/principal-software-engineer-ai-observability-evals-platform-d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93.md)
-<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · Boston, MA / San Francisco, CA / New York, NY · `Principal` · `$230k-$270k` · `Equity`
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · Boston, Massachusetts / San Francisco, California / New York, New York · `Principal` · `$230k-$270k` · `Equity`
 
 _Build LangSmith's full-stack AI observability platform—backend services, APIs, and frontend product surfaces—handling tracing, evaluation, and monitoring workflows at production scale. You'll drive architectural decisions across Go, Python, and TypeScript while establishing engineering standards and mentoring a growing team. · [Apply →](https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93)_
 
@@ -2156,7 +2189,7 @@ _Build LangSmith's full-stack AI observability platform—backend services, APIs
 ---
 
 ### [Software Engineer, SmithDB](jobs/langchain/software-engineer-smithdb-068b2e23-af01-42c7-9bce-d86976ea4d6e.md)
-<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · San Francisco, CA · `Senior` · `$175k-$240k` · `Equity`
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · San Francisco, California · `Senior` · `$175k-$240k` · `Equity`
 
 _Engineer a distributed, high-performance storage layer for AI observability built in Rust, optimized for ingestion, querying, and scaling to trillions of traces. Scale and harden a multi-tenant system running on Kubernetes with tight integration to cloud object stores. · [Apply →](https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e)_
 
@@ -2189,7 +2222,7 @@ _Lead a distributed engineering team building genomics tertiary analysis softwar
 ---
 
 ### [Software Engineer, Agent Dev Velocity](jobs/notion/software-engineer-agent-dev-velocity-c565d3b0-0dcf-4bcd-b29b-4168479ac78e.md)
-<a href="https://notion.so"><img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Notion** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$214k-$300k` · `Equity`
+<a href="https://notion.so"><img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Notion** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$214k-$300k` · `Equity`
 
 _Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization. · [Apply →](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e)_
 
@@ -2200,7 +2233,7 @@ _Build scalable evaluation infrastructure and harnesses that enable AI engineers
 ---
 
 ### [Data Engineer, People Innovation Labs](jobs/openai/data-engineer-people-innovation-labs-579595e5-0b16-485e-b7c5-102fc7467def.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics. · [Apply →](https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def)_
 
@@ -2211,7 +2244,7 @@ _Design and build data pipelines and canonical datasets in Databricks to power P
 ---
 
 ### [Data Scientist, Core Experimentation](jobs/openai/data-scientist-core-experimentation-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$293k-$325k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, Washington · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$293k-$325k`
 
 _Build and evolve OpenAI's core experimentation platform, designing statistical methodologies and scalable analytical systems that power trustworthy decision-making across product and research teams. Work on hard problems in online experimentation including variance reduction, causal inference, and measurement systems at frontier AI scale. · [Apply →](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92)_
 
@@ -2222,7 +2255,7 @@ _Build and evolve OpenAI's core experimentation platform, designing statistical 
 ---
 
 ### [AI Operations Manager | Agentic CX](jobs/ramp/ai-operations-manager-agentic-cx-a3afd259-ba6b-4eb0-a1b6-05d01dddacd8.md)
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Build and ship AI agents, internal automation platforms, and evaluation systems that transform Ramp's customer experience operations and enable CX teams to operate at scale. Own the full stack from prototyping AI workflows to infrastructure for managing shared AI skills and reliability systems across internal and customer-facing products. · [Apply →](https://jobs.ashbyhq.com/ramp/a3afd259-ba6b-4eb0-a1b6-05d01dddacd8)_
 
@@ -2233,7 +2266,7 @@ _Build and ship AI agents, internal automation platforms, and evaluation systems
 ---
 
 ### [Senior Software Engineer | GTM Platform, Backend](jobs/ramp/senior-software-engineer-gtm-platform-backend-428f41e2-48e8-409d-b5e3-8053f7fc7a27.md)
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build self-serve platform tooling and agentic workflows that automate marketing operations at scale, converting repeated requests into reusable platform capabilities. Own end-to-end systems integrating AI agents with guardrails to reduce manual marketing work and drive compounding leverage across 9+ teams. · [Apply →](https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27)_
 
@@ -2244,7 +2277,7 @@ _Build self-serve platform tooling and agentic workflows that automate marketing
 ---
 
 ### [Product Security Architect](jobs/replit/product-security-architect-16f1c784-449b-4c84-bee7-b2bf18768977.md)
-<a href="https://replit.com"><img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Replit** · Foster City, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Equity`
+<a href="https://replit.com"><img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Replit** · Foster City, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Equity`
 
 _Design and implement application security architecture for Replit's multi-tenant SaaS platform, defining secure patterns for tenant separation, authentication, authorization, and encryption. Lead threat modeling, security code reviews, and architecture documentation while mentoring engineering teams on secure-by-design practices. · [Apply →](https://jobs.ashbyhq.com/replit/16f1c784-449b-4c84-bee7-b2bf18768977)_
 
@@ -2255,7 +2288,7 @@ _Design and implement application security architecture for Replit's multi-tenan
 ---
 
 ### [Senior Software Engineer, Player Experience Tools & Services - Publishing Platform](jobs/riot-games/senior-software-engineer-player-experience-tools-services-publishing-platform-7545471.md)
-<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and evolve scalable backend services and frontend architecture for Riot's content publishing platform that delivers content across game clients, websites, and mobile apps to millions of players. Own the full-stack systems (CMS, microservices, internal tools) that enable content creators to manage and distribute content at global scale across a complex ecosystem. · [Apply →](https://www.riotgames.com/en/work-with-us/job/7545471?gh_jid=7545471)_
 
@@ -2266,7 +2299,7 @@ _Build and evolve scalable backend services and frontend architecture for Riot's
 ---
 
 ### [Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech](jobs/riot-games/senior-tools-pipeline-technical-artist-league-of-legends-champs-tech-7875327.md)
-<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build tools, pipelines, and systems for character asset development in League of Legends, enabling artists to author and scale high-quality content. Work at the intersection of art and engineering to maintain data pipelines at scale across multiple live-service content types and partner studios. · [Apply →](https://www.riotgames.com/en/work-with-us/job/7875327?gh_jid=7875327)_
 
@@ -2277,7 +2310,7 @@ _Build tools, pipelines, and systems for character asset development in League o
 ---
 
 ### [Senior Engineering Manager - Age Assurance (Accounts)](jobs/roblox/senior-engineering-manager-age-assurance-accounts-7875734.md)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$345k-$399k` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$345k-$399k` · `Equity`
 
 _Build and operate scalable age estimation ML models and fraud detection systems serving billions of users globally on Roblox. Lead distributed systems architecture handling identity verification, behavioral analysis, and adversarial protection (deepfakes, presentation attacks) across regulatory jurisdictions. · [Apply →](https://careers.roblox.com/jobs/7875734?gh_jid=7875734)_
 
@@ -2288,7 +2321,7 @@ _Build and operate scalable age estimation ML models and fraud detection systems
 ---
 
 ### [Senior Security Software Engineer, Vulnerability Management](jobs/roblox/senior-security-software-engineer-vulnerability-management-7922649.md)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$216k-$269k` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$216k-$269k` · `Equity`
 
 _Build and maintain internal software products and automated systems that identify, prioritize, and remediate security vulnerabilities at scale across Roblox's platform and tech stack. Design tools that make vulnerability management accessible and actionable for engineers across the organization. · [Apply →](https://careers.roblox.com/jobs/7922649?gh_jid=7922649)_
 
@@ -2299,7 +2332,7 @@ _Build and maintain internal software products and automated systems that identi
 ---
 
 ### [Full Stack Engineer (C#/React)](jobs/rockstar-games/full-stack-engineer-csharp-react-7711703003.md)
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, NY · `Mid` · `$101k–$134k` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, New York · `Mid` · `$101k–$134k` · `Bonus` · `Equity`
 
 _Develop full-stack online services infrastructure (matchmaking, cloud saves, player stats, leaderboards) that powers Rockstar's game platforms using C#, React, and SQL. Work on foundational systems and tooling that enable global teams to build and maintain the online environment at scale. · [Apply →](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003)_
 
@@ -2321,7 +2354,7 @@ _Design, develop, and maintain iOS applications for Scout's digital products eco
 ---
 
 ### [Software Engineer (Backend, Python) - Content Understanding](jobs/scribd/software-engineer-backend-python-content-understanding-be9b9e96-34c3-4600-b1d3-aaae65b788c0.md)
-<a href="https://scribd.com"><img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribd** · San Francisco, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$103k-$196k` · `Equity`
+<a href="https://scribd.com"><img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribd** · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$103k-$196k` · `Equity`
 
 _Design and build scalable distributed systems that extract, enrich, and process metadata from millions of documents, images, and audio content using Python and cloud infrastructure. Integrate LLMs into production metadata pipelines operating at global scale across hundreds of millions of documents. · [Apply →](https://jobs.ashbyhq.com/ScribdInc/be9b9e96-34c3-4600-b1d3-aaae65b788c0)_
 
@@ -2343,7 +2376,7 @@ _Develop advanced astrodynamics, orbit determination, and multi-sensor data fusi
 ---
 
 ### [Senior DevOps Engineer](jobs/slingshot-aerospace/senior-devops-engineer-5809580004.md)
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Colorado Springs, CO · `Senior` · `$136k-$237k`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Colorado Springs, Colorado · `Senior` · `$136k-$237k`
 
 _Design, build, and maintain Kubernetes-based cloud infrastructure and CI/CD pipelines using Infrastructure as Code to support production systems and MLOps workflows. Work on space operations software where infrastructure decisions directly impact global security and disaster response capabilities. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5809580004?gh_jid=5809580004)_
 
@@ -2376,7 +2409,7 @@ _Own and evolve the Go-based Supabase Terraform provider, building reliability, 
 ---
 
 ### [Senior System Test Engineer, Perception](jobs/waymo/senior-system-test-engineer-perception-7599912.md)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, CA / San Francisco, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$196k-$242k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California / San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$196k-$242k` · `Equity` · `Bonus`
 
 _Design and implement test automation infrastructure and metrics for autonomous vehicle perception systems, including simulation scenarios and data analysis pipelines. Work on safety-critical systems at scale across multiple vehicle platforms with an emphasis on edge cases and fault scenarios. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7599912)_
 
@@ -2387,7 +2420,7 @@ _Design and implement test automation infrastructure and metrics for autonomous 
 ---
 
 ### [Software Engineer, Pin Infra](jobs/waymo/software-engineer-pin-infra-7902131.md)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
 
 _Build infrastructure to manage pickup and drop-off locations for autonomous ride-hail services, integrating ML models and implementing demand control systems at scale. Work on geospatial and logistics systems for autonomous driving in a rapidly expanding operational environment. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7902131)_
 
@@ -2398,7 +2431,7 @@ _Build infrastructure to manage pickup and drop-off locations for autonomous rid
 ---
 
 ### [Software Engineer, Trip Platform](jobs/waymo/software-engineer-trip-platform-7905678.md)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, CA · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
 
 _Design and implement Waymo's core trip platform APIs and backend services supporting ride-hailing and delivery across 1st and 3rd party partners. Build low-latency, large-scale distributed systems handling trip requests, pricing, and routing in the autonomous vehicle domain. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7905678)_
 
@@ -2420,7 +2453,7 @@ _Build a brand-new web application for ShareGate Migrate from scratch, establish
 ---
 
 ### [AV Safety Data Reporting Engineer](jobs/zoox/av-safety-data-reporting-engineer-e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9.md)
-<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, CA
+<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, California
 
 _Build data pipelines, dashboards, and workflow automations to operationalize safety data reporting and compliance for autonomous vehicle fleets at scale. Work across internal safety, legal, and engineering teams to implement rigorous, repeatable processes for large-scale fleet data analysis and event triage. · [Apply →](https://jobs.lever.co/zoox/e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9)_
 
