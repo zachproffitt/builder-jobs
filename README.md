@@ -4,15 +4,59 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **570 open roles** (385 new today) &nbsp;·&nbsp; 947 companies searched
+### **574 open roles** (389 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 11:46 UTC</sub>
+<sub>Last updated May 15, 2026 at 12:51 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [AI Engineer, Model Quality and Performance](jobs/cerebras-systems/ai-engineer-model-quality-and-performance-7735288003.md)
+<img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cerebras Systems** · Sunnyvale, CA · `Mid`
+
+_Build AI-driven evaluation systems and performance benchmarking infrastructure for Cerebras' inference offerings, using AI agents to automate model quality assessment, eval suite generation, and customer-specific performance forecasting. Design tooling that synthesizes quality and performance data into production-ready artifacts for both internal teams and customers._
+
+![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Evaluation Frameworks](https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square) ![Performance Benchmarking](https://img.shields.io/badge/Performance_Benchmarking-3B82F6?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 12:51 UTC</sub>
+
+---
+
+### [Senior Software Engineer, AI Framework & Services](jobs/okta/senior-software-engineer-ai-framework-services-7872569.md)
+<img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Okta** · Toronto, Ontario, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$136k-$187k CAD` · `Equity` · `Bonus`
+
+_Design and implement backend systems, APIs, and services that bring identity and authorization capabilities to AI agent workflows. Build foundational infrastructure for a nascent space where industry patterns for agent identity and delegated access are still being defined._
+
+![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 12:51 UTC</sub>
+
+---
+
+### [Senior Front End Engineer](jobs/scopely/senior-front-end-engineer-5200013008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · CA - Canada; US - United States · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$107k–$212k` · `Equity` · `Bonus`
+
+_Build and improve MONOPOLY GO! Chat features in React Native for a companion app serving millions of players worldwide. Own mobile app performance, testing, and release readiness while adopting AI-assisted development workflows in a fast-moving gaming environment._
+
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React profiling tools](https://img.shields.io/badge/React_profiling_tools-3B82F6?style=flat-square) ![Xcode Instruments](https://img.shields.io/badge/Xcode_Instruments-3B82F6?style=flat-square) ![Android Studio profilers](https://img.shields.io/badge/Android_Studio_profilers-3B82F6?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 12:51 UTC</sub>
+
+---
+
+### [Staff Front End Engineer](jobs/scopely/staff-front-end-engineer-5212412008.md)
+<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely** · CA - Canada; US - United States · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$169k-$253k` · `Equity` · `Bonus`
+
+_Lead technical direction and build features for MONOPOLY GO! Chat, a React Native companion app serving millions of players worldwide. Own performance, quality, and platform integrations while mentoring engineers on a cross-functional mobile team._
+
+![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-3B82F6?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![Mobile Performance Optimization](https://img.shields.io/badge/Mobile_Performance_Optimization-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 12:51 UTC</sub>
+
+---
 
 ### [Senior Technical Artist](jobs/zynga/senior-technical-artist-5813315004.md)
 <img src="https://www.google.com/s2/favicons?domain=zynga.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Zynga** · Bengaluru, India · `Senior`
