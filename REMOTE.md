@@ -4,13 +4,35 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **62 open roles** (25 new today)
+### **64 open roles** (27 new today)
 
-<sub>Last updated May 15, 2026 at 20:35 UTC</sub>
+<sub>Last updated May 15, 2026 at 21:15 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Vice President Site Reliability Engineering (Data Centers)](jobs/galaxy-digital/vice-president-site-reliability-engineering-data-centers-5997360004.md)
+<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead a specialized SRE team designing, deploying, and maintaining automation platforms and infrastructure-as-code systems across hybrid cloud and on-prem data center environments. Establish IaC governance standards, optimize configuration management workflows, and build self-service platforms that enhance engineering velocity while managing complex hybrid infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)_
+
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-3B82F6?style=flat-square) ![Packer](https://img.shields.io/badge/Packer-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![VMware](https://img.shields.io/badge/VMware-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 21:15 UTC</sub>
+
+---
+
+### [Manager, Systems Operations](jobs/wealthsimple/manager-systems-operations-b4e6f8c7-5da8-4eb6-a30b-4ebdf6c9cd43.md)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · Remote / Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `Equity` · `Bonus`
+
+_Lead a specialized technical operations team managing enterprise CX infrastructure (Zendesk, Five9, GenAI systems) serving 2,000+ agents at Canada's largest fintech. Own sprint delivery, platform stability, AI quality assurance, and rapid incident response in a heavily integrated, high-scale environment. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/b4e6f8c7-5da8-4eb6-a30b-4ebdf6c9cd43)_
+
+![Zendesk](https://img.shields.io/badge/Zendesk-3B82F6?style=flat-square) ![Five9](https://img.shields.io/badge/Five9-3B82F6?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![GenAI Operations](https://img.shields.io/badge/GenAI_Operations-3B82F6?style=flat-square) ![CX Systems Administration](https://img.shields.io/badge/CX_Systems_Administration-3B82F6?style=flat-square) ![Fintech](https://img.shields.io/badge/Fintech-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 21:15 UTC</sub>
+
+---
 
 ### [Engineering Manager, Delivery](jobs/onebrief/engineering-manager-delivery-49c8a08e-5bfe-45d0-9184-4530b5f47ff3.md)
 <a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`

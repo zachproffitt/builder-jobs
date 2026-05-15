@@ -4,15 +4,37 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **213 open roles** (87 new today) &nbsp;·&nbsp; 893 companies searched
+### **215 open roles** (89 new today) &nbsp;·&nbsp; 893 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 20:43 UTC</sub>
+<sub>Last updated May 15, 2026 at 21:15 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Vice President Site Reliability Engineering (Data Centers)](jobs/galaxy-digital/vice-president-site-reliability-engineering-data-centers-5997360004.md)
+<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, NY · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead a specialized SRE team designing, deploying, and maintaining automation platforms and infrastructure-as-code systems across hybrid cloud and on-prem data center environments. Establish IaC governance standards, optimize configuration management workflows, and build self-service platforms that enhance engineering velocity while managing complex hybrid infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)_
+
+![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Ansible](https://img.shields.io/badge/Ansible-3B82F6?style=flat-square) ![Packer](https://img.shields.io/badge/Packer-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![VMware](https://img.shields.io/badge/VMware-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 21:15 UTC</sub>
+
+---
+
+### [Manager, Systems Operations](jobs/wealthsimple/manager-systems-operations-b4e6f8c7-5da8-4eb6-a30b-4ebdf6c9cd43.md)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · Remote / Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `Equity` · `Bonus`
+
+_Lead a specialized technical operations team managing enterprise CX infrastructure (Zendesk, Five9, GenAI systems) serving 2,000+ agents at Canada's largest fintech. Own sprint delivery, platform stability, AI quality assurance, and rapid incident response in a heavily integrated, high-scale environment. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/b4e6f8c7-5da8-4eb6-a30b-4ebdf6c9cd43)_
+
+![Zendesk](https://img.shields.io/badge/Zendesk-3B82F6?style=flat-square) ![Five9](https://img.shields.io/badge/Five9-3B82F6?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![GenAI Operations](https://img.shields.io/badge/GenAI_Operations-3B82F6?style=flat-square) ![CX Systems Administration](https://img.shields.io/badge/CX_Systems_Administration-3B82F6?style=flat-square) ![Fintech](https://img.shields.io/badge/Fintech-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 21:15 UTC</sub>
+
+---
 
 ### [Chief of Staff & Agents](jobs/ekho/chief-of-staff-agents-f6859821-786e-4700-8c9c-ee8b1e0e1438.md)
 <a href="https://www.ekho.com"><img src="https://www.google.com/s2/favicons?domain=www.ekho.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ekho** · New York, NY / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$150k-$200k` · `Equity`
@@ -750,11 +772,11 @@ _Lead a small team of engineers building Sourcegraph's Code Plane products—Bat
 ---
 
 ### [Wireless Firmware Engineer (Starlink Mobile)](jobs/spacex/wireless-firmware-engineer-starlink-mobile.md)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Sunnyvale, CA / Redmond, WA / Remote · `Junior` · `$135k-$185k` · `Equity` · `Bonus`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, WA / Remote / Sunnyvale, CA · `Junior` · `$125k-$175k` · `Equity` · `Bonus`
 
-_Design and implement physical layer (PHY) algorithms and optimized signal processing software for satellite-based 4G/5G systems on Starlink Mobile's space-to-ground network. Work across wireless systems and protocol layers to solve interdisciplinary challenges in resource-constrained satellite and ground station environments._
+_Design and implement physical layer algorithms and signal processing firmware for satellite-based 4G/5G systems, optimizing for resource-constrained space hardware. Work on novel wireless communications challenges unique to satellite networks operating at scale._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Wireless Signal Processing](https://img.shields.io/badge/Wireless_Signal_Processing-3B82F6?style=flat-square) ![4G/5G (LTE/NR)](https://img.shields.io/badge/4G%2F5G_%28LTE%2FNR%29-3B82F6?style=flat-square) ![DSP (Digital Signal Processing)](https://img.shields.io/badge/DSP_%28Digital_Signal_Processing%29-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![C](https://img.shields.io/badge/C-3B82F6?style=flat-square) ![Signal Processing](https://img.shields.io/badge/Signal_Processing-3B82F6?style=flat-square) ![4G/5G (LTE/NR)](https://img.shields.io/badge/4G%2F5G_%28LTE%2FNR%29-3B82F6?style=flat-square) ![DSP](https://img.shields.io/badge/DSP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -1128,11 +1150,11 @@ _Design, train, and deploy learned manipulation policies for robotic systems usi
 ---
 
 ### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA / Boston, MA · `Senior` · `$191k-$253k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boston, MA / Seattle, WA · `Senior` · `$191k-$253k` · `Equity`
 
-_Design and implement test strategies, validation approaches, and operational safeguards for AI-enabled software, automation, and agentic workflows in a defense technology environment. Partner with software and AI engineers to identify failure modes across code, prompts, models, and infrastructure while building confidence in fast-moving solutions through automated testing and observability._
+_Design and implement test strategies, validation approaches, and reliability safeguards for AI-enabled software, automation, and agentic workflows in fast-moving development pods. Build confidence in production systems through automated testing, observability, and operational standards while balancing speed with engineering rigor in an AI-first development model._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![LLM applications](https://img.shields.io/badge/LLM_applications-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![LLM applications](https://img.shields.io/badge/LLM_applications-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
