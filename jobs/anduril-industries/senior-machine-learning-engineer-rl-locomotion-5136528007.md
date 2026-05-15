@@ -15,13 +15,12 @@ skills: Reinforcement Learning, PyTorch, Python, Isaac Gym, Physics Simulation, 
 level: senior
 comp: $220k-$336k
 comp_extras: equity
-render_hash: 1deab8bd
+render_hash: 508b48e6
 -->
 
 # Senior Machine Learning Engineer, RL / Locomotion
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Costa Mesa, CA · `Senior` · `$220k-$336k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$220k-$336k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

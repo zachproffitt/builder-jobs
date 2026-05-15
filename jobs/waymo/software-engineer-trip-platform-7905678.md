@@ -15,13 +15,12 @@ skills: C++, Backend Development, API Design, Distributed Systems, Google Cloud 
 level: mid
 comp: $175k-$215k
 comp_extras: equity, bonus
-render_hash: ee82b247
+render_hash: 25bbadc0
 -->
 
 # Software Engineer, Trip Platform
 
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo**  
-Mountain View, CA · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, CA · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
 
 > Waymo builds autonomous vehicle technology for transportation.
 

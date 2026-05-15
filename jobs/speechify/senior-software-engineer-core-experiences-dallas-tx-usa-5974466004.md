@@ -15,13 +15,12 @@ skills: Kotlin, Kotlin Multiplatform, Java, GCP, Cloud Functions, SDKs, Backend 
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 85bcaf80
+render_hash: 7df29331
 -->
 
 # Senior Software Engineer, Core Experiences - Dallas, TX, USA
 
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
-Dallas, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Dallas, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

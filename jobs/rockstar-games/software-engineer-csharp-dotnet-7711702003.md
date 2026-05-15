@@ -15,13 +15,12 @@ skills: C#, C++, .NET, SQL Server, API Design, Distributed Systems, Perforce, Xb
 level: mid
 comp: $101,100-$134,300
 comp_extras: bonus, equity
-render_hash: 5604c100
+render_hash: f0d92493
 -->
 
 # Software Engineer (C#/.NET)
 
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games**  
-Manhattan, NY · `Mid` · `$101,100-$134,300` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, NY · `Mid` · `$101,100-$134,300` · `Bonus` · `Equity`
 
 > Rockstar Games builds video games, including the Grand Theft Auto series.
 

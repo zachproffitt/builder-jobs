@@ -15,13 +15,12 @@ skills: C++, Linux, Docker, Git, Pixhawk/ArduPilot, UART/RS232/I2C/Ethernet, emb
 level: mid
 comp: $135k-$175k
 comp_extras: equity
-render_hash: e0b76bb5
+render_hash: cc113084
 -->
 
 # Robotic Software Engineer (Drone Stack)
 
-<a href="https://appliedintuition.com"><img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Applied Intuition**  
-Washington, DC · `Mid` · `$135k-$175k` · `Equity`
+<a href="https://appliedintuition.com"><img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Applied Intuition** · Washington, DC · `Mid` · `$135k-$175k` · `Equity`
 
 > Applied Intuition builds physical AI systems automating machines in automotive, defense, trucking, mining, construction, and agriculture.
 

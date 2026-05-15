@@ -15,13 +15,12 @@ skills: MATLAB, Simulink, C/C++, Kalman Filtering, Control Systems, State Estima
 level: mid
 comp: $138k-$207k
 comp_extras: equity
-render_hash: b36592ce
+render_hash: 7d215bd2
 -->
 
 # GNC Engineer
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Costa Mesa, CA · `Mid` · `$138k-$207k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Mid` · `$138k-$207k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

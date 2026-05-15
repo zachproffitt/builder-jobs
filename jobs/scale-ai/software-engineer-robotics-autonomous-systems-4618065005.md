@@ -15,13 +15,12 @@ skills: Python, TypeScript, React, C++, ROS2, Kubernetes, AWS, PostgreSQL
 level: mid
 comp: $180k-$225k
 comp_extras: equity
-render_hash: 9541ccb2
+render_hash: 8ca4f316
 -->
 
 # Software Engineer, Robotics & Autonomous Systems
 
-<a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scale AI**  
-San Francisco, CA · `Mid` · `$180k-$225k` · `Equity`
+<a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scale AI** · San Francisco, CA · `Mid` · `$180k-$225k` · `Equity`
 
 > Scale AI provides data, evaluations, and outcomes to AI labs, governments, and Fortune 500 companies.
 

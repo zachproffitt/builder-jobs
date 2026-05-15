@@ -15,13 +15,12 @@ skills: Machine Learning, Python, Distributed Systems, Model Deployment, PyTorch
 level: senior
 comp: 
 comp_extras: 
-render_hash: b84bc024
+render_hash: 4c82c519
 -->
 
 # Senior Communications Systems Engineer II
 
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro**  
-Austin, TX · `Senior` · On-site
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Austin, TX · `Senior` · On-site
 
 > CesiumAstro develops radio frequency and antenna technologies for satellite communications, focusing on phased array systems that enable improved connectivity and beam steering capabilities. The company operates in the space technology and satellite communications domain, serving both government and commercial customers requiring advanced satellite ground terminals and in-space antenna solutions.
 

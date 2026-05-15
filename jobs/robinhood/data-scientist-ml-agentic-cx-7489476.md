@@ -15,13 +15,12 @@ skills: Python, SQL, Machine Learning, LLMs, Retrieval-Augmented Generation, A/B
 level: mid
 comp: $123k-$185k
 comp_extras: bonus, equity
-render_hash: 5ed2440f
+render_hash: 2c37e0b6
 -->
 
 # Data Scientist, ML (Agentic, CX)
 
-<a href="https://robinhood.com"><img src="https://www.google.com/s2/favicons?domain=robinhood.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Robinhood**  
-Menlo Park, CA / New York, NY · `Mid` · `Hybrid` · `$123k-$185k` · `Bonus` · `Equity`
+<a href="https://robinhood.com"><img src="https://www.google.com/s2/favicons?domain=robinhood.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Robinhood** · Menlo Park, CA / New York, NY · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$123k-$185k` · `Bonus` · `Equity`
 
 > Robinhood operates a financial services platform that offers commission-free trading of stocks, exchange-traded funds, options, and cryptocurrencies to retail investors through a mobile app and web interface. The company operates in the retail investment and brokerage domain, primarily serving individual traders and investors in the United States.
 

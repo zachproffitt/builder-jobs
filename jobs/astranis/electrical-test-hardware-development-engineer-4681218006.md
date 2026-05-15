@@ -15,13 +15,12 @@ skills: Python, PCB Design, Altium Designer, Oscilloscope, Embedded Systems, Tes
 level: mid
 comp: $105k-$165k
 comp_extras: equity
-render_hash: 6eb26db0
+render_hash: 562b37c4
 -->
 
 # Electrical Test Hardware Development Engineer
 
-<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis**  
-San Francisco, CA · `Mid` · `$105k-$165k` · `Equity`
+<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, CA · `Mid` · `$105k-$165k` · `Equity`
 
 > Astranis designs, builds, and operates high-orbit satellites.
 

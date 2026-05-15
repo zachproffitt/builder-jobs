@@ -15,13 +15,12 @@ skills: Python, Bash, Docker, Terraform, GCP, Data pipelines, Web crawlers, Linu
 level: senior
 comp: 
 comp_extras: 
-render_hash: d15c2628
+render_hash: 50f038c9
 -->
 
 # Software Engineer, Data Infrastructure & Acquisition - Toronto, Canada
 
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
-Toronto, Canada · `Senior`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Toronto, Canada · `Senior`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

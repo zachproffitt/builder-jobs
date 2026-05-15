@@ -15,13 +15,12 @@ skills: Distributed Data Systems, Backend Infrastructure, Data Pipelines, Observ
 level: manager
 comp: $212,000—$265,000 USD
 comp_extras: equity, bonus
-render_hash: fa6103f3
+render_hash: bfb8d5cc
 -->
 
 # Engineering Manager, Marketing Technology - Segmentation Platform & Insights Platform
 
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb**  
-Remote · `Manager` · `$212,000—$265,000 USD` · `Equity` · `Bonus`
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · Remote · `Manager` · `$212,000—$265,000 USD` · `Equity` · `Bonus`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 

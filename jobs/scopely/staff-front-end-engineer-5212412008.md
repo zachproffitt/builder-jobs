@@ -15,13 +15,12 @@ skills: React Native, TypeScript, JavaScript, Java, Kotlin, Objective-C, Swift, 
 level: staff
 comp: $169,600-$253,000
 comp_extras: equity, bonus
-render_hash: 53674f8d
+render_hash: c6cc1d90
 -->
 
 # Staff Front End Engineer
 
-<a href="https://scopely.com"><img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scopely**  
-Kelowna, BC / Remote · `Staff` · `Hybrid` · `$169,600-$253,000` · `Equity` · `Bonus`
+<a href="https://scopely.com"><img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scopely** · Kelowna, BC / Remote · `Staff` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$169,600-$253,000` · `Equity` · `Bonus`
 
 > Scopely builds mobile games that foster community engagement and competitive interaction among players.
 

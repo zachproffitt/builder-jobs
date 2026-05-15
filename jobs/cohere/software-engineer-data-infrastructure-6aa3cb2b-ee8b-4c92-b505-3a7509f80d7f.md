@@ -15,13 +15,12 @@ skills: Python, Kubernetes, Apache Spark, Apache Beam, S3, GCS, Distributed Syst
 level: senior
 comp: 
 comp_extras: 
-render_hash: c15018b4
+render_hash: 8a81af4a
 -->
 
 # Software Engineer, Data Infrastructure
 
-<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere**  
-New York, NY · `Senior` · `Remote`
+<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · New York, NY · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.
 

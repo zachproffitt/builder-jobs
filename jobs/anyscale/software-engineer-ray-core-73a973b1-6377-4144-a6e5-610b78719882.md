@@ -15,13 +15,12 @@ skills: C++, Distributed Systems, GPU Programming, Ray, Fault Tolerance, Tensor 
 level: senior
 comp: 
 comp_extras: 
-render_hash: 122c5f07
+render_hash: fe98d4c8
 -->
 
 # Software Engineer (Ray Core)
 
-<a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale**  
-San Francisco, CA · `Senior` · `Remote`
+<a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Anyscale builds Ray, an open-source distributed computing framework, and offers a managed cloud platform for running Ray workloads at scale. The company operates in the machine learning infrastructure and distributed computing domain, serving data scientists and engineers who need to parallelize Python workloads across clusters.
 

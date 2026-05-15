@@ -15,13 +15,12 @@ skills: Python, SQL, Snowflake, AWS, Salesforce, Machine Learning, MLOps, Tablea
 level: senior
 comp: $198,500–$268,500
 comp_extras: equity, bonus
-render_hash: df0a0e0e
+render_hash: 67473201
 -->
 
 # Staff Data Scientist, Commercial Analytics
 
-<a href="https://10xgenomics.com"><img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**10x Genomics**  
-Pleasanton, CA · `Senior` · `$198,500–$268,500` · `Equity` · `Bonus`
+<a href="https://10xgenomics.com"><img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**10x Genomics** · Pleasanton, CA · `Senior` · `$198,500–$268,500` · `Equity` · `Bonus`
 
 > 10x Genomics develops genomic research tools to advance human health.
 

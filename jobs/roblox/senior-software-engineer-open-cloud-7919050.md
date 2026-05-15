@@ -15,13 +15,12 @@ skills: HTTP APIs, OAuth 2.0, Backend Systems, Authentication/Authorization, API
 level: senior
 comp: $196,750-$243,290
 comp_extras: equity
-render_hash: 58b13efd
+render_hash: 25702597
 -->
 
 # Senior Software Engineer - Open Cloud 
 
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox**  
-San Mateo, CA · `Senior` · `Hybrid` · `$196,750-$243,290` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, CA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$196,750-$243,290` · `Equity`
 
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 

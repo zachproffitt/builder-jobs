@@ -15,13 +15,12 @@ skills: Python, MATLAB, Altium Designer, NX, Embedded Systems, High-Voltage Elec
 level: manager
 comp: $151,000—$208,000
 comp_extras: equity
-render_hash: e1f53a83
+render_hash: 5eacdf2c
 -->
 
 # Lead, Avionics Test Engineering
 
-<a href="https://relativityspace.com"><img src="https://www.google.com/s2/favicons?domain=relativityspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Relativity Space**  
-Long Beach, CA · `Manager` · `$151,000—$208,000` · `Equity`
+<a href="https://relativityspace.com"><img src="https://www.google.com/s2/favicons?domain=relativityspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Relativity Space** · Long Beach, CA · `Manager` · `$151,000—$208,000` · `Equity`
 
 > Relativity Space builds reusable rockets to make space access reliable and routine.
 

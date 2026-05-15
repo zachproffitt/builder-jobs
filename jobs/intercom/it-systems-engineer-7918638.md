@@ -15,13 +15,12 @@ skills: Python, Ruby, AWS, Okta, Google Workspace, Jamf Pro, Intune, Tines
 level: mid
 comp: $142,000-$237,000
 comp_extras: equity, bonus
-render_hash: f9da32fb
+render_hash: dbd892af
 -->
 
 # IT Systems Engineer
 
-<a href="https://intercom.com"><img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intercom**  
-San Francisco, CA · `Mid` · `Hybrid` · `$142,000-$237,000` · `Equity` · `Bonus`
+<a href="https://intercom.com"><img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intercom** · San Francisco, CA · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$142,000-$237,000` · `Equity` · `Bonus`
 
 > Intercom builds customer communication software that combines live chat, chatbots, email, and help desk tools on a single platform. The company operates in the customer service and communication software domain, serving businesses that want to manage customer interactions across multiple channels.
 

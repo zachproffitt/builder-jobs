@@ -15,13 +15,12 @@ skills: Python, SQL, dbt, Snowflake, Airflow, A/B Testing, Machine Learning, Ads
 level: mid
 comp: CAD$115,000–$121,500
 comp_extras: equity
-render_hash: a1629682
+render_hash: aa823de4
 -->
 
 # Ads AI Analyst 
 
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart**  
-`Mid` · `Remote` · `CAD$115,000–$121,500` · `Equity`
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `CAD$115,000–$121,500` · `Equity`
 
 > Instacart operates an e-commerce platform that enables customers to order groceries and household items from local supermarkets and specialty retailers for same-day or scheduled delivery. The company partners with grocery chains and independent stores to fulfill orders through a network of shoppers who pick and deliver items to customers' homes.
 

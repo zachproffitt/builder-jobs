@@ -15,13 +15,12 @@ skills: Python, SQL, AWS, Snowflake, Data Warehousing, CI/CD, Healthcare Data (F
 level: manager
 comp: $154,100–$192,600
 comp_extras: bonus, equity
-render_hash: 65c9eed7
+render_hash: c7f90135
 -->
 
 # Head of Data Engineering & Platform, Real-World Data (RWD)
 
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera**  
-San Carlos, CA · `Manager` · `$154,100–$192,600` · `Bonus` · `Equity`
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · San Carlos, CA · `Manager` · `$154,100–$192,600` · `Bonus` · `Equity`
 
 > # Natera
 

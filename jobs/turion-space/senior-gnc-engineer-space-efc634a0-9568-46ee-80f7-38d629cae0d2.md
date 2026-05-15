@@ -15,13 +15,12 @@ skills: C++, Python, MATLAB, Orbital Mechanics, Control Systems, TS/SCI Clearanc
 level: senior
 comp: $150,000-$213,000
 comp_extras: equity
-render_hash: 5780a894
+render_hash: 70525abe
 -->
 
 # Senior GNC Engineer
 
-<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space**  
-Irvine, CA · `Senior` · On-site · `$150,000-$213,000` · `Equity`
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, CA · `Senior` · On-site · `$150,000-$213,000` · `Equity`
 
 > Turion Space builds spacecraft to secure Earth and expand humanity’s reach beyond it.
 

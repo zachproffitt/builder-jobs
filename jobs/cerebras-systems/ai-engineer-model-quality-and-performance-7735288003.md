@@ -15,13 +15,12 @@ skills: Claude, Python, Docker, Git, Machine Learning, Evaluation Frameworks, Pe
 level: mid
 comp: 
 comp_extras: 
-render_hash: 5857565d
+render_hash: b0cd93ae
 -->
 
 # AI Engineer, Model Quality and Performance
 
-<a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems**  
-Sunnyvale, CA · `Mid`
+<a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems** · Sunnyvale, CA · `Mid`
 
 > Cerebras builds AI training platforms used by machine learning engineers.
 

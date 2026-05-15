@@ -15,13 +15,12 @@ skills: High-Throughput Screening, Drug-Seq, NGS, CRISPR, Experimental Design, L
 level: senior
 comp: $160k-$180k
 comp_extras: equity
-render_hash: 2de93bbf
+render_hash: d5b3f7d3
 -->
 
 # Senior Engineer III, Small Molecules – High Throughput Screening & Technology 
 
-<a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio**  
-Boston, MA · `Senior` · `Hybrid` · `$160k-$180k` · `Equity`
+<a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio** · Boston, MA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$160k-$180k` · `Equity`
 
 > # Joyn Bio
 

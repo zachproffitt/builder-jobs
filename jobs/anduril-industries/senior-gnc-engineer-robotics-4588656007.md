@@ -15,13 +15,12 @@ skills: MATLAB, Simulink, C/C++, Kalman Filtering, Control Systems, State Estima
 level: senior
 comp: $168k-$252k
 comp_extras: equity
-render_hash: 0be997fb
+render_hash: 43dbfd63
 -->
 
 # Senior GNC Engineer, Robotics
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Costa Mesa, CA · `Senior` · `$168k-$252k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$168k-$252k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

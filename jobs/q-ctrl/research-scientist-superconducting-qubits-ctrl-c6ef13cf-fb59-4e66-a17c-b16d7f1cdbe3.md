@@ -15,13 +15,12 @@ skills: Python, Quantum Computing, Control Theory, Machine Learning, Optimizatio
 level: senior
 comp: 
 comp_extras: 
-render_hash: 89fce03f
+render_hash: 0b8909c6
 -->
 
 # Research Scientist, Superconducting Qubits
 
-<a href="https://q-ctrl.com"><img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q-CTRL**  
-Los Angeles, CA · `Senior` · On-site
+<a href="https://q-ctrl.com"><img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q-CTRL** · Los Angeles, CA · `Senior` · On-site
 
 > Q-CTRL develops software to expand quantum computing capabilities and enable quantum sensing solutions for navigation and industrial applications.
 

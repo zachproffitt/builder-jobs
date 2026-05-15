@@ -15,13 +15,12 @@ skills: Python, MATLAB, Test Automation, Data Acquisition, Root Cause Analysis, 
 level: mid
 comp: $98k-$130k
 comp_extras: equity
-render_hash: ab83c0ba
+render_hash: bc204673
 -->
 
 # Camera Test Engineer
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Lexington, MA · `Mid` · `$98k-$130k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Lexington, MA · `Mid` · `$98k-$130k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

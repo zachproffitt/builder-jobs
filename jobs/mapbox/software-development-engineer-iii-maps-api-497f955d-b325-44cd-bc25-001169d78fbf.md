@@ -15,13 +15,12 @@ skills: Python, TypeScript, AWS, PostgreSQL, Kubernetes, Geospatial Data, Distri
 level: senior
 comp: 
 comp_extras: 
-render_hash: c5e27d1d
+render_hash: 51a967f7
 -->
 
 # Software Development Engineer III, Maps API
 
-<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox**  
-Remote · `Senior`
+<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox** · Remote · `Senior`
 
 > Mapbox builds mapping and location APIs, SDKs, and developer tools that enable applications to display custom maps, perform geocoding and routing, and analyze geospatial data. They operate in the geospatial technology and mapping services domain, serving developers who need to integrate location features into mobile and web applications.
 

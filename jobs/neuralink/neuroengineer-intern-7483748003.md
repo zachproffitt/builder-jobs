@@ -15,13 +15,12 @@ skills: Python, Machine Learning, Neural Stimulation, NEURON, Finite Element Mod
 level: intern
 comp: $35/hr
 comp_extras: 
-render_hash: f55e542b
+render_hash: 4032db71
 -->
 
 # Neuroengineer Intern
 
-<a href="https://neuralink.com"><img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Neuralink**  
-Fremont, CA · `Intern` · `$35/hr`
+<a href="https://neuralink.com"><img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Neuralink** · Fremont, CA · `Intern` · `$35/hr`
 
 > Neuralink develops neural interface technology to restore autonomy for individuals with neurological conditions and advance brain-computer interaction.
 

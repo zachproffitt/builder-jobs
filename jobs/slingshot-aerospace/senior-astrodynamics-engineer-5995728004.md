@@ -15,13 +15,12 @@ skills: Python, C/C++, Orbit Determination, Astrodynamics, Machine Learning, Dat
 level: senior
 comp: $150k-$250k
 comp_extras: 
-render_hash: 68e621db
+render_hash: b7aa9cad
 -->
 
 # Senior Astrodynamics Engineer
 
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace**  
-`Senior` · `Remote` · `$150k-$250k`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$150k-$250k`
 
 > # Slingshot Aerospace
 

@@ -15,13 +15,12 @@ skills: Go, Kubernetes, Distributed Systems, Cloud-Native Architecture, React, B
 level: senior
 comp: 
 comp_extras: bonus
-render_hash: 95dd99b1
+render_hash: 3aa12f12
 -->
 
 # Sr. Software Engineer
 
-<a href="https://singlestore.com"><img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SingleStore**  
-Remote · `Senior` · `Bonus`
+<a href="https://singlestore.com"><img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SingleStore** · Remote · `Senior` · `Bonus`
 
 > SingleStore builds a distributed SQL database designed to handle both transactional and analytical workloads at scale, operating in the enterprise data management and cloud database domain.
 

@@ -15,13 +15,12 @@ skills: Python, PostgreSQL, Django, AWS, Payment Systems, Card Networks, Ledger 
 level: senior
 comp: $200k-$240k
 comp_extras: equity
-render_hash: ea95e053
+render_hash: bd564b60
 -->
 
 # Staff Software Engineer (Fintech)
 
-<a href="https://www.getbenepass.com"><img src="https://www.google.com/s2/favicons?domain=www.getbenepass.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benepass**  
-Remote · `Senior` · `$200k-$240k` · `Equity`
+<a href="https://www.getbenepass.com"><img src="https://www.google.com/s2/favicons?domain=www.getbenepass.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benepass** · Remote · `Senior` · `$200k-$240k` · `Equity`
 
 > Benepass builds a benefits management platform that helps employers and employees navigate health insurance options, wellness programs, and dependent care benefits. The company operates in the employee benefits administration space, providing tools for benefits enrollment, decision support, and claims management.
 

@@ -15,13 +15,12 @@ skills: Python, CI/CD, Kubernetes, LLM applications, Distributed Systems, Infras
 level: senior
 comp: $191k-$253k
 comp_extras: equity
-render_hash: 5171f2b6
+render_hash: 70d98df0
 -->
 
 # Senior Quality Engineer, Applied AI
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Seattle, WA · `Senior` · `$191k-$253k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA · `Senior` · `$191k-$253k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

@@ -15,13 +15,12 @@ skills: Python, Go, LLMs, AWS, GCP, Log Analysis, Machine Learning, Security
 level: intern
 comp: 
 comp_extras: equity
-render_hash: 68c6c786
+render_hash: f47714de
 -->
 
 # Security Engineering Intern - Summer 2026
 
-<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs**  
-San Francisco, CA · `Intern` · `Remote` · `Equity`
+<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, CA · `Intern` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 > Lambda Labs builds GPU cloud computing infrastructure and hardware systems designed for machine learning, AI, and deep learning workloads. They operate in the cloud computing and AI infrastructure domain, offering on-demand GPU instances, pre-configured deep learning environments, and physical AI workstations for researchers and enterprises.
 

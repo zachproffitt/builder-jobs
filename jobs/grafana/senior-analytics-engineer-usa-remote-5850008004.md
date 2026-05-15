@@ -15,13 +15,12 @@ skills: dbt, BigQuery, Fivetran, AWS, GCP, Data Modeling, Data Quality Testing, 
 level: senior
 comp: $127,651-$153,180
 comp_extras: equity
-render_hash: 447eee13
+render_hash: fb01cea5
 -->
 
 # Senior Analytics Engineer | USA | Remote  
 
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana**  
-`Senior` · `Remote` · `$127,651-$153,180` · `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$127,651-$153,180` · `Equity`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 

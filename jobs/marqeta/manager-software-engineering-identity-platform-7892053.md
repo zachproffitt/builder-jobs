@@ -15,13 +15,12 @@ skills: Java, Spring Boot, Python, Airflow, Backend Systems, Event-Driven Archit
 level: manager
 comp: $156,800-$196,000 CAD
 comp_extras: equity, bonus
-render_hash: 98926aa6
+render_hash: c9fc214d
 -->
 
 # Manager, Software Engineering - Identity Platform
 
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta**  
-Toronto, Canada / Vancouver, Canada · `Manager` · `$156,800-$196,000 CAD` · `Equity` · `Bonus`
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · Toronto, Canada / Vancouver, Canada · `Manager` · `$156,800-$196,000 CAD` · `Equity` · `Bonus`
 
 > Marqeta builds a card-issuing platform that enables companies to create and manage payment cards and digital wallets. They operate in the fintech infrastructure space, providing APIs and services for businesses to issue cards for various use cases including payroll, gig worker payments, and corporate expense management.
 

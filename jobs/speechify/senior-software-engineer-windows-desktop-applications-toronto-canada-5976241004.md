@@ -15,13 +15,12 @@ skills: Windows App SDK, WinUI, C#, XAML, C++, Win32/WinRT/COM, Microsoft UI Aut
 level: senior
 comp: 
 comp_extras: 
-render_hash: dc4ea681
+render_hash: c23578d0
 -->
 
 # Senior Software Engineer, Windows/Desktop Applications - Toronto, Canada
 
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
-Toronto, Canada · `Senior`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Toronto, Canada · `Senior`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

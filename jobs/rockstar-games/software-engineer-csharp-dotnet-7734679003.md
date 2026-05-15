@@ -15,13 +15,12 @@ skills: C#, .NET, SQL Server, C++, API design, Distributed Systems, Windows Serv
 level: senior
 comp: $101,100–$134,300
 comp_extras: bonus, equity
-render_hash: 5bc25a8c
+render_hash: e7455617
 -->
 
 # Software Engineer (C#/.NET)
 
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games**  
-Carlsbad, CA · `Senior` · `$101,100–$134,300` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Carlsbad, CA · `Senior` · `$101,100–$134,300` · `Bonus` · `Equity`
 
 > Rockstar Games builds video games, including the Grand Theft Auto series.
 

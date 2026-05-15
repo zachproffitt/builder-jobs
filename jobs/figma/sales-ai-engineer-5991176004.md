@@ -15,13 +15,12 @@ skills: Python, SQL, Salesforce, Slack, OpenAI, Anthropic, LLMs, API Integration
 level: mid
 comp: $140,000—$296,000 USD
 comp_extras: equity, bonus
-render_hash: 12f6d995
+render_hash: 6a63196d
 -->
 
 # Sales AI Engineer
 
-<a href="https://figma.com"><img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Figma**  
-San Francisco, CA / New York, NY · `Mid` · `$140,000—$296,000 USD` · `Equity` · `Bonus`
+<a href="https://figma.com"><img src="https://www.google.com/s2/favicons?domain=figma.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Figma** · San Francisco, CA / New York, NY · `Mid` · `$140,000—$296,000 USD` · `Equity` · `Bonus`
 
 > Figma builds a collaborative design platform for product development, enabling design, prototyping, and feedback in one place.
 

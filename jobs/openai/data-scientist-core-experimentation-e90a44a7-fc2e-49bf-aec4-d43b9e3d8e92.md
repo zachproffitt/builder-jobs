@@ -15,13 +15,12 @@ skills: Python, Spark, Statistics, Causal Inference, Sequential Testing, Varianc
 level: staff
 comp: $293k-$325k
 comp_extras: 
-render_hash: 42fb9472
+render_hash: 669ea9dd
 -->
 
 # Data Scientist, Core Experimentation 
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
-Bellevue, WA · `Staff` · `Remote` · `$293k-$325k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$293k-$325k`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

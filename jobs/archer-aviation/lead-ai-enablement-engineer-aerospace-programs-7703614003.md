@@ -15,13 +15,12 @@ skills: Python, MATLAB, Claude/Claude Code, Cursor, LLM agents, CAD/CAE (NX/ANSY
 level: staff
 comp: $228k-$285k
 comp_extras: 
-render_hash: 71823dcc
+render_hash: 33ce1b1f
 -->
 
 # Lead AI Enablement Engineer, Aerospace Programs
 
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation**  
-San Jose, CA · `Staff` · `$228k-$285k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Staff` · `$228k-$285k`
 
 > Archer Aviation builds electric vertical takeoff and landing aircraft (eVTOL) designed for urban air mobility applications. The company is developing aircraft intended to transport passengers on short-distance routes in metropolitan areas.
 

@@ -15,13 +15,12 @@ skills: Python, MATLAB, TS/SCI Clearance, Spacecraft Operations, Mission Plannin
 level: senior
 comp: $140,000-$190,000
 comp_extras: equity
-render_hash: 57590c25
+render_hash: 1cfd7390
 -->
 
 # Senior Mission Operations Engineer
 
-<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space**  
-Irvine, CA · `Senior` · On-site · `$140,000-$190,000` · `Equity`
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, CA · `Senior` · On-site · `$140,000-$190,000` · `Equity`
 
 > Turion Space builds spacecraft to secure Earth and expand humanity’s reach beyond it.
 

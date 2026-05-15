@@ -15,13 +15,12 @@ skills: Terraform, Kubernetes, AWS, Docker, CI/CD Pipelines, Linux System Admini
 level: senior
 comp: $136,000-$237,000
 comp_extras: 
-render_hash: 809139a9
+render_hash: 1345e890
 -->
 
 # Senior DevOps Engineer
 
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace**  
-Colorado Springs, CO · `Senior` · `$136,000-$237,000`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Colorado Springs, CO · `Senior` · `$136,000-$237,000`
 
 > # Slingshot Aerospace
 

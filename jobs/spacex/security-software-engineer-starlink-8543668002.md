@@ -15,13 +15,12 @@ skills: Python, C++, Go, Applied Cryptography, Operating System Security, Networ
 level: mid
 comp: $130k-$175k
 comp_extras: equity, bonus
-render_hash: 8ee1312b
+render_hash: 6b99ef44
 -->
 
 # Security Software Engineer (Starlink)
 
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX**  
-Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Redmond, WA · `Mid` · `$130k-$175k` · `Equity` · `Bonus`
 
 > SpaceX designs and manufactures rockets and spacecraft for transporting cargo and people to orbit and beyond, including the Falcon 9 and Falcon Heavy launch vehicles, the Dragon spacecraft for cargo resupply and crew transport to the International Space Station, and the Starship vehicle intended for lunar and Mars missions. The company operates in the commercial spaceflight and aerospace industry, competing with traditional launch providers while also contracting with government agencies like NASA.
 

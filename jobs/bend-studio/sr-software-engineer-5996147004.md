@@ -15,13 +15,12 @@ skills: C++, CUDA, Vulkan, H.264, H.265, AV1, GPU programming, Multi-threaded pr
 level: senior
 comp: $193,300-$289,900
 comp_extras: bonus, equity
-render_hash: 56ed46e0
+render_hash: 81a37e28
 -->
 
 # Sr Software Engineer
 
-<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio**  
-San Mateo, CA · `Senior` · `Hybrid` · `$193,300-$289,900` · `Bonus` · `Equity`
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · San Mateo, CA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$193,300-$289,900` · `Bonus` · `Equity`
 
 > # Bend Studio
 

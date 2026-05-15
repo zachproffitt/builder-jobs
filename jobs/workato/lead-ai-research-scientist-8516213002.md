@@ -15,13 +15,12 @@ skills: PyTorch, JAX, CUDA, Reinforcement Learning, Transformer Architectures, L
 level: principal
 comp: $357k+
 comp_extras: equity
-render_hash: 6c01c939
+render_hash: 063fff7e
 -->
 
 # Lead AI Research Scientist
 
-<a href="https://workato.com"><img src="https://www.google.com/s2/favicons?domain=workato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workato**  
-San Francisco, CA · `Principal` · `$357k+` · `Equity`
+<a href="https://workato.com"><img src="https://www.google.com/s2/favicons?domain=workato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workato** · San Francisco, CA · `Principal` · `$357k+` · `Equity`
 
 > Workato is an enterprise integration and automation platform that connects business applications and automates workflows across systems like Salesforce, ServiceNow, SAP, and hundreds of other enterprise software solutions. The company serves mid-market and enterprise organizations that need to integrate disparate systems and automate complex business processes without extensive custom coding.
 

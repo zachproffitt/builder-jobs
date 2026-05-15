@@ -15,13 +15,12 @@ skills: Go, TypeScript, React, GraphQL, PostgreSQL, Kubernetes, AI Agents, Svelt
 level: manager
 comp: $144,000-$192,000
 comp_extras: equity
-render_hash: 0c5ccef9
+render_hash: 4e63aa90
 -->
 
 # Engineering Manager - Code Plane [M3]
 
-<a href="https://sourcegraph.com"><img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sourcegraph**  
-`Manager` · `Remote` · `$144,000-$192,000` · `Equity`
+<a href="https://sourcegraph.com"><img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sourcegraph** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$144,000-$192,000` · `Equity`
 
 > Sourcegraph builds a code search and intelligence platform that helps developers navigate, understand, and fix code across large codebases and multiple repositories. The platform operates in the developer tools and software development productivity domain, serving teams that need to manage code comprehension and refactoring at scale.
 

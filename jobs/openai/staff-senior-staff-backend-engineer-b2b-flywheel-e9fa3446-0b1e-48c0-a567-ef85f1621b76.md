@@ -15,13 +15,12 @@ skills: Distributed Systems, Data Pipelines, PostgreSQL, Kafka, Python, API Serv
 level: senior
 comp: $293K-$385K
 comp_extras: 
-render_hash: f0b6f81f
+render_hash: fcadfd55
 -->
 
 # Staff / Senior Staff Backend Engineer, B2B Flywheel
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
-San Francisco, CA · `Senior` · `Remote` · `$293K-$385K`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$293K-$385K`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

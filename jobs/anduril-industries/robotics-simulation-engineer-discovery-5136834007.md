@@ -15,13 +15,12 @@ skills: Python, C++, Isaac Gym, Isaac Lab, MuJoCo, URDF/MJCF, ROS2, TS/SCI Clear
 level: mid
 comp: $146k-$194k
 comp_extras: equity
-render_hash: bdbf5adc
+render_hash: 4b5eec50
 -->
 
 # Robotics & Simulation Engineer, Discovery 
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Costa Mesa, CA · `Mid` · `$146k-$194k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Mid` · `$146k-$194k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

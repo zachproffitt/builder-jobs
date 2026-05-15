@@ -15,13 +15,12 @@ skills: TypeScript, Node.js, GCP, AWS, Docker, Kubernetes, API Design, PostgreSQ
 level: mid
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: f5c605c3
+render_hash: 1571035b
 -->
 
 # Software Engineer, Platform - Pasadena, CA, USA
 
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
-Pasadena, CA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Pasadena, CA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

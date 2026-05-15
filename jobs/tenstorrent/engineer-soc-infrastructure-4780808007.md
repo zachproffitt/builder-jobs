@@ -15,13 +15,12 @@ skills: Linux, Python, Bash, LSF, SLURM, Environment Modules, Lmod, Monitoring a
 level: junior
 comp: $100k-$500k
 comp_extras: equity, bonus
-render_hash: 6ea653b7
+render_hash: 2fcdb3ac
 -->
 
 # Engineer, SoC Infrastructure 
 
-<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent**  
-Santa Clara, CA · `Junior` · `Hybrid` · `$100k-$500k` · `Equity` · `Bonus`
+<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Santa Clara, CA · `Junior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$100k-$500k` · `Equity` · `Bonus`
 
 > Tenstorrent builds AI computing hardware using ASICs and RISC-V technology for AI developers.
 

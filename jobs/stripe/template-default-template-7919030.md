@@ -15,13 +15,12 @@ skills: SQL, JavaScript, React, Python, Stripe API, LogScale, Full-stack develop
 level: junior
 comp: 
 comp_extras: 
-render_hash: f5dc460b
+render_hash: 669d8266
 -->
 
 # [TEMPLATE] Default Template
 
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe**  
-Chicago, IL / Remote · `Junior` · `Remote`
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Chicago, IL / Remote · `Junior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Stripe builds a financial services platform that enables businesses to accept payments, create billing systems, and manage money transfers.
 

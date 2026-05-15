@@ -15,13 +15,12 @@ skills: Android, Kotlin, Java, Performance Optimization, App Architecture, Testi
 level: senior
 comp: 
 comp_extras: 
-render_hash: 15a98f7f
+render_hash: 76f55e96
 -->
 
 # Android Engineer, ChatGPT (Seattle)
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
-Seattle, WA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Seattle, WA · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

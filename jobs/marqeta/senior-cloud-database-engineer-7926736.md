@@ -15,13 +15,12 @@ skills: AWS Aurora, PostgreSQL, MySQL, DynamoDB, Terraform, Python, Datadog, Lin
 level: senior
 comp: CAD 116,000 - CAD 145,000
 comp_extras: bonus, equity
-render_hash: af948629
+render_hash: 83e05eaf
 -->
 
 # Senior Cloud Database Engineer
 
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta**  
-Toronto, Canada / Vancouver, Canada · `Senior` · `Hybrid` · `CAD 116,000 - CAD 145,000` · `Bonus` · `Equity`
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · Toronto, Canada / Vancouver, Canada · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `CAD 116,000 - CAD 145,000` · `Bonus` · `Equity`
 
 > Marqeta builds a card-issuing platform that enables companies to create and manage payment cards and digital wallets. They operate in the fintech infrastructure space, providing APIs and services for businesses to issue cards for various use cases including payroll, gig worker payments, and corporate expense management.
 

@@ -15,13 +15,12 @@ skills: Python, Bash, Docker, Terraform, GCP, Data pipelines, Web crawlers, Linu
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: db45a817
+render_hash: 3cdf0b5b
 -->
 
 # Software Engineer, Data Infrastructure & Acquisition - Riverside, CA, USA
 
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
-Riverside, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Riverside, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

@@ -15,13 +15,12 @@ skills: Python, Airflow, dbt, SQL, ClickHouse, GitHub Actions, AWS, Incremental 
 level: senior
 comp: $84k-$170k
 comp_extras: equity
-render_hash: 79b648b6
+render_hash: 88a05ae8
 -->
 
 # Senior Data Engineer - Dbt, CI/CD
 
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse**  
-Remote · `Senior` · `$84k-$170k` · `Equity`
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · Remote · `Senior` · `$84k-$170k` · `Equity`
 
 > ClickHouse builds a columnar database management system designed for fast analytical queries on large datasets. The company operates in the data infrastructure domain, providing an open-source database engine optimized for OLAP (online analytical processing) workloads.
 

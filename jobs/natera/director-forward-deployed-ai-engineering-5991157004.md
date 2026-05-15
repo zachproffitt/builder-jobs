@@ -15,13 +15,12 @@ skills: Python, SQL, LLM agents, RAG, Prompt engineering, Enterprise APIs, Cloud
 level: manager
 comp: $186,700–$233,400
 comp_extras: 
-render_hash: 24393c14
+render_hash: f2e32b25
 -->
 
 # Director, Forward Deployed AI Engineering
 
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera**  
-`Manager` · `Remote` · `$186,700–$233,400`
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$186,700–$233,400`
 
 > # Natera
 

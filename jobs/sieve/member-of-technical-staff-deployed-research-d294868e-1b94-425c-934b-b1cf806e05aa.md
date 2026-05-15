@@ -15,13 +15,12 @@ skills: Python, PyTorch, Computer Vision, Data Pipelines, Video Processing, Audi
 level: mid
 comp: 
 comp_extras: 
-render_hash: fa6bc5e8
+render_hash: c08aebc5
 -->
 
 # Member of Technical Staff, Deployed Research
 
-<a href="https://sievedata.com"><img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sieve**  
-San Francisco, CA · `Mid` · On-site
+<a href="https://sievedata.com"><img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sieve** · San Francisco, CA · `Mid` · On-site
 
 > Sieve builds infrastructure and tools for processing unstructured data like images, audio, and video at scale, enabling developers to extract structured information and insights from these media types. The company operates in the data infrastructure and machine learning operations space, serving enterprises and developers who need to build data pipelines for computer vision and multimodal AI applications.
 

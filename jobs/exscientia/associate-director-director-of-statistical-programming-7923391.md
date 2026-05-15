@@ -15,13 +15,12 @@ skills: SAS, R, R-Shiny, CDISC, SDTM, ADaM, Python, Regulatory Compliance
 level: manager
 comp: $200,600-$260,200
 comp_extras: bonus, equity
-render_hash: a9dad93e
+render_hash: 19e5855e
 -->
 
 # Associate Director/Director of Statistical Programming
 
-<a href="https://exscientia.ai"><img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Exscientia**  
-`Manager` · `Remote` · `$200,600-$260,200` · `Bonus` · `Equity`
+<a href="https://exscientia.ai"><img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Exscientia** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$200,600-$260,200` · `Bonus` · `Equity`
 
 > Recursion builds AI platforms for drug discovery using biological data.
 

@@ -15,13 +15,12 @@ skills: Go, Kubernetes, Terraform, TypeScript/Node.js, AWS, GCP, Azure, Distribu
 level: senior
 comp: CAD 164,490 - CAD 197,389
 comp_extras: equity, bonus
-render_hash: 3bb6d225
+render_hash: 2a60d847
 -->
 
 # Senior Backend Engineer - Application Core Services, Stacks | USA | Remote
 
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana**  
-`Senior` · `Remote` · `CAD 164,490 - CAD 197,389` · `Equity` · `Bonus`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `CAD 164,490 - CAD 197,389` · `Equity` · `Bonus`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 

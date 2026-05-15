@@ -8,20 +8,19 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T13:45:49+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/ibkr/jobs/7909026002
 summary: Build back-end clearing and brokerage applications in Java supporting funds, banking operations, securities trading, settlement, and regulatory reporting. Work on mission-critical financial systems handling client cash, trade reconciliation, and automated risk controls at scale across 200+ countries.
 skills: Java, Oracle, JBoss, RESTful Web Services, Microservices, Message-Oriented Systems, JEE, C++
 level: senior
 comp: 
 comp_extras: 
-render_hash: 96e5997c
+render_hash: f1fc19fb
 -->
 
 # Java Software Developer (Mid-Senior Level)
 
-<a href="https://interactivebrokers.com"><img src="https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Interactive Brokers**  
-Greenwich, CT · `Senior` · `Hybrid`
+<a href="https://interactivebrokers.com"><img src="https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Interactive Brokers** · Greenwich, CT · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Interactive Brokers is a financial services company that provides electronic brokerage services, allowing retail and institutional investors to trade stocks, options, futures, forex, bonds, and other securities across multiple global markets. The company operates as a broker-dealer offering trading platforms, clearing services, and custodial accounts for self-directed investors.
 
@@ -29,7 +28,7 @@ _Build back-end clearing and brokerage applications in Java supporting funds, ba
 
 ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-3B82F6?style=flat-square) ![JBoss](https://img.shields.io/badge/JBoss-3B82F6?style=flat-square) ![RESTful Web Services](https://img.shields.io/badge/RESTful_Web_Services-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![Message-Oriented Systems](https://img.shields.io/badge/Message--Oriented_Systems-3B82F6?style=flat-square) ![JEE](https://img.shields.io/badge/JEE-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 13:45 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/ibkr/jobs/7909026002)**
 

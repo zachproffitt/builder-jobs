@@ -15,13 +15,12 @@ skills: TypeScript, React, React Native, C++, Go, Android, Swift, Security Clear
 level: senior
 comp: $166k-$220k
 comp_extras: equity
-render_hash: 45bc2a8d
+render_hash: 075ee2a2
 -->
 
 # Software Engineer, Full-stack
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Costa Mesa, CA · `Senior` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Senior` · `$166k-$220k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

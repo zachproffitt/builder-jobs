@@ -15,13 +15,12 @@ skills: Full-stack development, Workflow orchestration, AI systems, Healthcare o
 level: mid
 comp: 
 comp_extras: 
-render_hash: f68227da
+render_hash: 194fcee4
 -->
 
 # Forward Deployed Engineer
 
-<a href="https://www.claimhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.claimhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Claim Health**  
-New York City, NY · `Mid` · On-site
+<a href="https://www.claimhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.claimhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Claim Health** · New York City, NY · `Mid` · On-site
 
 > Claim Health builds software that helps healthcare providers and patients automate and manage the insurance claims process, including claims submission, tracking, and appeals. The company operates in the healthcare technology and revenue cycle management domain, serving medical practices, clinics, and health systems.
 

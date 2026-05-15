@@ -15,13 +15,12 @@ skills: C++, Machine Learning, Geospatial Systems, Backend Infrastructure, APIs,
 level: mid
 comp: $175k-$215k
 comp_extras: equity, bonus
-render_hash: 7ed71b1d
+render_hash: 9f2d73e1
 -->
 
 # Software Engineer, Pin Infra
 
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo**  
-Mountain View, CA · `Mid` · `Hybrid` · `$175k-$215k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, CA · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$175k-$215k` · `Equity` · `Bonus`
 
 > Waymo builds autonomous vehicle technology for transportation.
 

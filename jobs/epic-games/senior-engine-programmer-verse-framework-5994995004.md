@@ -15,13 +15,12 @@ skills: C++, Unreal Engine, API Design, Networking, Scene Graph, Game Console De
 level: senior
 comp: $182,815–$268,128 CAD
 comp_extras: 
-render_hash: b9b7470e
+render_hash: 69e05558
 -->
 
 # Senior Engine Programmer, Verse Framework
 
-<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games**  
-Vancouver, Canada · `Senior` · `$182,815–$268,128 CAD`
+<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · Vancouver, Canada · `Senior` · `$182,815–$268,128 CAD`
 
 > Epic Games develops the Unreal Engine, a real-time 3D graphics engine used for video game development and visualization across industries, and operates the Epic Games Store, a digital distribution platform for PC games. The company also develops and publishes games, most notably Fortnite, a free-to-play battle royale game.
 

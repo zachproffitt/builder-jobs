@@ -15,13 +15,12 @@ skills: Python, SQL, Data Pipeline, Dashboarding, ETL, Apache Spark, AWS, Workfl
 level: 
 comp: 
 comp_extras: 
-render_hash: 4b4222ec
+render_hash: 527b043d
 -->
 
 # AV Safety Data Reporting Engineer
 
-<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox**  
-Foster City, CA · On-site
+<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, CA · On-site
 
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
 

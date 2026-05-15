@@ -15,13 +15,12 @@ skills: STAR-CCM+, ANSYS Fluent, Python, Heat Transfer, Fluid Dynamics, Nuclear 
 level: senior
 comp: $100,000-$190,000
 comp_extras: equity, bonus
-render_hash: 4e03b0a5
+render_hash: f2b5ca13
 -->
 
 # Senior Computational Fluid Dynamics Engineer
 
-<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo**  
-Santa Clara, CA / Remote · `Senior` · `Remote` · `$100,000-$190,000` · `Equity` · `Bonus`
+<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, CA / Remote · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$100,000-$190,000` · `Equity` · `Bonus`
 
 > # Oklo
 

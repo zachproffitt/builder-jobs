@@ -15,13 +15,12 @@ skills: Kotlin, Kotlin Multiplatform, Java, GCP, Cloud Functions, APIs, Backend 
 level: senior
 comp: $140,000-$200,000
 comp_extras: bonus, equity
-render_hash: 675b1ed0
+render_hash: 89fdf5c3
 -->
 
 # Senior Software Engineer, Core Experiences - Tucson, AZ, USA
 
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
-Tucson, AZ · `Senior` · `$140,000-$200,000` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tucson, AZ · `Senior` · `$140,000-$200,000` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

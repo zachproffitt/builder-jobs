@@ -15,13 +15,12 @@ skills: Python, C++, Reinforcement Learning, Robot Manipulation, Legged Locomoti
 level: principal
 comp: $254k-$444k
 comp_extras: equity
-render_hash: 76e40285
+render_hash: 19cef63f
 -->
 
 # Principal Technical Lead, AI Robotics
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Costa Mesa, CA · `Principal` · `$254k-$444k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Principal` · `$254k-$444k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

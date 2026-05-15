@@ -15,13 +15,12 @@ skills: TypeScript, Python, Kubernetes, AWS, Docker, Go, Rust, CI/CD
 level: mid
 comp: 
 comp_extras: 
-render_hash: 99fbd753
+render_hash: 380ef79d
 -->
 
 # Forward Deployed Engineer (FDE)
 
-<a href="https://blaxel.ai"><img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Blaxel**  
-San Francisco, CA · `Mid` · `Hybrid`
+<a href="https://blaxel.ai"><img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Blaxel** · San Francisco, CA · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Blaxel builds a persistent sandbox platform that allows AI agents to run code securely in always-available environments with shared storage and co-hosted infrastructure. They operate in the AI infrastructure domain, providing compute sandboxes, distributed filesystems, and agent hosting services that maintain state across sessions without continuous compute costs.
 

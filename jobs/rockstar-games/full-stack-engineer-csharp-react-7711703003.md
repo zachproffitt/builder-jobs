@@ -15,13 +15,12 @@ skills: C#, React, TypeScript, JavaScript, MSSQL, T-SQL, Perforce, Redis
 level: mid
 comp: $101,100–$134,300
 comp_extras: bonus, equity
-render_hash: 76b0b9e2
+render_hash: c019a305
 -->
 
 # Full Stack Engineer (C#/React)
 
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games**  
-Manhattan, NY · `Mid` · `$101,100–$134,300` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, NY · `Mid` · `$101,100–$134,300` · `Bonus` · `Equity`
 
 > Rockstar Games builds video games, including the Grand Theft Auto series.
 

@@ -8,20 +8,19 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T13:45:49+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/planetlabs/jobs/7402921
 summary: Develop operational tools and automation for satellite imagery tasking and collection planning. Work with geospatial data analysis and process automation to support Earth observation satellite operations at scale.
 skills: Python, SQL, Git, QGIS, GeoPandas, Bash, Jenkins, GDAL
 level: mid
 comp: $71,300–$89,100
 comp_extras: equity, bonus
-render_hash: 0b6d5b6f
+render_hash: 7469c95e
 -->
 
 # Satellite Tasking Engineer, Collection Planning
 
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs**  
-San Francisco, CA / Remote · `Mid` · `Hybrid` · `$71,300–$89,100` · `Equity` · `Bonus`
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · San Francisco, CA / Remote · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$71,300–$89,100` · `Equity` · `Bonus`
 
 > Planet Labs builds daily satellite imagery and insights used by decision-makers to monitor planetary changes.
 
@@ -29,7 +28,7 @@ _Develop operational tools and automation for satellite imagery tasking and coll
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![QGIS](https://img.shields.io/badge/QGIS-3B82F6?style=flat-square) ![GeoPandas](https://img.shields.io/badge/GeoPandas-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GDAL](https://img.shields.io/badge/GDAL-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 13:45 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/planetlabs/jobs/7402921)**
 

@@ -15,13 +15,12 @@ skills: Java, Python, Distributed Systems, Genomics Analysis, Regulated Software
 level: manager
 comp: $156,000–$195,000
 comp_extras: 
-render_hash: 772d8565
+render_hash: 33f1aa6d
 -->
 
 # Sr Manager, Software Engineering
 
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera**  
-`Manager` · `Remote` · `$156,000–$195,000`
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$156,000–$195,000`
 
 > # Natera
 

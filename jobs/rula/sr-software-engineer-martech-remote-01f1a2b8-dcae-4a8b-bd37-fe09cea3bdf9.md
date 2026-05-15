@@ -15,13 +15,12 @@ skills: TypeScript, React, Node.js, Kafka, PostgreSQL, AWS, Docker, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: 84292e70
+render_hash: 317dff1b
 -->
 
 # Sr. Software Engineer - MarTech(Remote)
 
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula**  
-`Senior` · `Remote`
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Rula develops mental health software that provides evidence-based care and reduces stigma by addressing the whole person.
 

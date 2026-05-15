@@ -15,13 +15,12 @@ skills: Data Acquisition Systems, Flight Test Instrumentation, Python, C++, MATL
 level: senior
 comp: $140,680-$200,600
 comp_extras: 
-render_hash: 79c8ecb4
+render_hash: f28a0cb3
 -->
 
 # Flight Test Instrumentation Engineer 
 
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation**  
-San Jose, CA · `Senior` · `$140,680-$200,600`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Senior` · `$140,680-$200,600`
 
 > Archer Aviation builds electric vertical takeoff and landing aircraft (eVTOL) designed for urban air mobility applications. The company is developing aircraft intended to transport passengers on short-distance routes in metropolitan areas.
 

@@ -15,13 +15,12 @@ skills: Python, Altium Designer, Oscilloscope, Power Electronics, Environmental 
 level: mid
 comp: $105k-$165k
 comp_extras: equity
-render_hash: 53f8b614
+render_hash: fe117063
 -->
 
 # Electronics Test Engineer
 
-<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis**  
-San Francisco, CA · `Mid` · `$105k-$165k` · `Equity`
+<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, CA · `Mid` · `$105k-$165k` · `Equity`
 
 > Astranis designs, builds, and operates high-orbit satellites.
 

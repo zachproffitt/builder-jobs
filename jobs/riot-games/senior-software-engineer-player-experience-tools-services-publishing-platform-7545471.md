@@ -15,13 +15,12 @@ skills: TypeScript, React, Java, Node.js, CI/CD Pipelines, AWS Lambda, Content M
 level: senior
 comp: 
 comp_extras: 
-render_hash: 69aebde5
+render_hash: 60ca794b
 -->
 
 # Senior Software Engineer, Player Experience Tools & Services - Publishing Platform
 
-<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games**  
-Los Angeles, CA · `Senior` · `Hybrid`
+<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, CA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 

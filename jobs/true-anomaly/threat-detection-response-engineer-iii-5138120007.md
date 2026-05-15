@@ -15,13 +15,12 @@ skills: Python, PowerShell, Bash, SIEM (Splunk/Elastic), EDR platforms, MITRE AT
 level: senior
 comp: $115k-$165k
 comp_extras: equity
-render_hash: 2d8aeac0
+render_hash: 9a0ec5d1
 -->
 
 # Threat Detection & Response Engineer III
 
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly**  
-Denver, CO / Long Beach, CA · `Senior` · `$115k-$165k` · `Equity`
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, CO / Long Beach, CA · `Senior` · `$115k-$165k` · `Equity`
 
 > True Anomaly builds mission-critical software for space operations used by defense and aerospace organizations.
 

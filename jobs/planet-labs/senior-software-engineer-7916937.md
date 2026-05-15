@@ -15,13 +15,12 @@ skills: Kubernetes, Terraform, Go, Python, Google Cloud Platform, Amazon Web Ser
 level: senior
 comp: $142,800-$203,200
 comp_extras: equity, bonus
-render_hash: 6688d9ae
+render_hash: e37d57bc
 -->
 
 # Senior Software Engineer
 
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs**  
-`Senior` · `Remote` · `$142,800-$203,200` · `Equity` · `Bonus`
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$142,800-$203,200` · `Equity` · `Bonus`
 
 > Planet Labs builds daily satellite imagery and insights used by decision-makers to monitor planetary changes.
 

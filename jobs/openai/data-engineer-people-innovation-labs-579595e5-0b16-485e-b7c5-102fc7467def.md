@@ -15,13 +15,12 @@ skills: Python, Databricks, Spark, Airflow, ETL, Data Warehousing, Scala, Java
 level: senior
 comp: 
 comp_extras: 
-render_hash: 49c6ded3
+render_hash: f84b6a41
 -->
 
 # Data Engineer, People Innovation Labs
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
-San Francisco, CA · `Senior` · `Remote`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

@@ -15,13 +15,12 @@ skills: Python, C++, C#, CI/CD, Character Pipelines, 3D Tools (Substance, ZBrush
 level: senior
 comp: 
 comp_extras: 
-render_hash: be483c3a
+render_hash: e17c9904
 -->
 
 # Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech
 
-<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games**  
-Los Angeles, CA · `Senior` · `Hybrid`
+<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, CA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 

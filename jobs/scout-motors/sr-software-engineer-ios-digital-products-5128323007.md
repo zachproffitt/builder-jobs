@@ -15,13 +15,12 @@ skills: Swift, SwiftUI, iOS, GraphQL, Git, CI/CD, Mobile Security, IoT
 level: senior
 comp: $140k-$187k
 comp_extras: bonus
-render_hash: 3415614d
+render_hash: 2c7b8eb3
 -->
 
 # Sr Software Engineer (iOS) – Digital Products
 
-<a href="https://scoutmotors.com"><img src="https://www.google.com/s2/favicons?domain=scoutmotors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scout Motors**  
-`Senior` · `Remote` · `$140k-$187k` · `Bonus`
+<a href="https://scoutmotors.com"><img src="https://www.google.com/s2/favicons?domain=scoutmotors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scout Motors** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$140k-$187k` · `Bonus`
 
 > Scout Motors builds electric sport utility vehicles (SUVs) and is developing manufacturing operations to produce them domestically in the United States. The company operates in the automotive industry, specifically focused on electric vehicle production.
 

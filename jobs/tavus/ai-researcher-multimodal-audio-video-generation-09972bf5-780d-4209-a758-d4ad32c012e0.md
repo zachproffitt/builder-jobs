@@ -15,13 +15,12 @@ skills: PyTorch, Diffusion Models, Video Generation, Audio Generation, Multimoda
 level: senior
 comp: 
 comp_extras: 
-render_hash: e2170938
+render_hash: 4fb7f59e
 -->
 
 # AI Researcher (Multimodal Audio/Video Generation)
 
-<a href="https://www.tavus.io"><img src="https://www.google.com/s2/favicons?domain=www.tavus.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tavus**  
-San Francisco, CA / Remote · `Senior` · `Hybrid`
+<a href="https://www.tavus.io"><img src="https://www.google.com/s2/favicons?domain=www.tavus.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tavus** · San Francisco, CA / Remote · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Tavus builds AI-powered video personalization software that enables businesses to create and send individualized video messages at scale. The platform operates in the marketing automation and customer engagement domain, allowing companies to generate personalized videos for outreach, sales, and communication purposes without requiring manual video production for each recipient.
 

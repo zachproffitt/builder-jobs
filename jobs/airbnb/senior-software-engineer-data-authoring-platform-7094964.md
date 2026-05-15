@@ -15,13 +15,12 @@ skills: Data warehouse technologies, DSL/API design, Query rewriting, Semantic l
 level: senior
 comp: $196,000–$230,000
 comp_extras: equity, bonus
-render_hash: a632f5e5
+render_hash: e696a936
 -->
 
 # Senior Software Engineer, Data Authoring Platform
 
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb**  
-`Senior` · `Remote` · `$196,000–$230,000` · `Equity` · `Bonus`
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$196,000–$230,000` · `Equity` · `Bonus`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 

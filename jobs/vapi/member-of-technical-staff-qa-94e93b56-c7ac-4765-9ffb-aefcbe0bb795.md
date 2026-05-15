@@ -15,13 +15,12 @@ skills: Playwright, TypeScript, JavaScript, Distributed Systems Testing, AI Codi
 level: senior
 comp: 
 comp_extras: equity
-render_hash: bed3dc03
+render_hash: 1e64100e
 -->
 
 # Member of Technical Staff, QA
 
-<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi**  
-San Francisco, CA · `Senior` · `Remote` · `Equity`
+<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 > Vapi builds an API platform that enables developers to create and deploy voice AI agents that can make and receive phone calls. The platform operates in the conversational AI and voice technology domain, allowing businesses to automate customer interactions through natural language conversations over phone lines.
 

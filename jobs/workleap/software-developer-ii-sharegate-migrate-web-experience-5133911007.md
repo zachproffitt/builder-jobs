@@ -15,13 +15,12 @@ skills: TypeScript, React, C#/.NET, Microsoft Graph, Azure AD/Entra ID, MSAL, Re
 level: mid
 comp: $100k-$130k CAD
 comp_extras: 
-render_hash: 8ba2efb6
+render_hash: 27cdc6fa
 -->
 
 # Software Developer II - ShareGate Migrate [Web Experience]
 
-<a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap**  
-`Mid` · `Remote` · `$100k-$130k CAD`
+<a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$100k-$130k CAD`
 
 > # Workleap
 

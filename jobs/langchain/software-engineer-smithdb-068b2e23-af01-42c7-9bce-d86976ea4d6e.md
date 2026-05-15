@@ -15,13 +15,12 @@ skills: Rust, Database Systems, Kubernetes, Cloud Object Storage (S3/GCS/Azure),
 level: senior
 comp: $175k-$240k
 comp_extras: equity
-render_hash: b1bb100e
+render_hash: 50840e0a
 -->
 
 # Software Engineer, SmithDB
 
-<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain**  
-San Francisco, CA · `Senior` · On-site · `$175k-$240k` · `Equity`
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · San Francisco, CA · `Senior` · On-site · `$175k-$240k` · `Equity`
 
 > LangChain builds open-source Python and JavaScript libraries that simplify building applications with large language models by providing abstractions for chaining together LLM calls, managing prompts, and integrating external data sources. The company operates in the developer tools space for AI/machine learning applications.
 

@@ -15,13 +15,12 @@ skills: SAS, R, Python, LLM APIs, RAG pipelines, MLOps, 21 CFR Part 11, CDISC
 level: senior
 comp: $173,800-$217,000 USD
 comp_extras: equity, bonus
-render_hash: 387918e0
+render_hash: a2fc6c2f
 -->
 
 # Associate Director, Biostatistics & AI
 
-<a href="https://bridgebio.com"><img src="https://www.google.com/s2/favicons?domain=bridgebio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BridgeBio**  
-`Senior` · `Remote` · `$173,800-$217,000 USD` · `Equity` · `Bonus`
+<a href="https://bridgebio.com"><img src="https://www.google.com/s2/favicons?domain=bridgebio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BridgeBio** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$173,800-$217,000 USD` · `Equity` · `Bonus`
 
 > BridgeBio Pharma is a biotechnology company that develops gene therapy and other biological medicines for genetic diseases, with a focus on rare and severe conditions where there are currently limited treatment options.
 

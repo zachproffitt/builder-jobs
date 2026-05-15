@@ -15,13 +15,12 @@ skills: LLMs, Prompt Engineering, Fine-tuning, Retrieval-Augmented Generation, C
 level: manager
 comp: 
 comp_extras: 
-render_hash: 14983eda
+render_hash: be7dd77a
 -->
 
 # AI Operations Manager | Agentic CX
 
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp**  
-New York, NY · `Manager` · `Remote`
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, NY · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Ramp builds a corporate expense management platform that handles employee spending, receipt tracking, and bill payments for mid-market companies. The platform integrates with accounting software and provides real-time visibility into business expenses across a company's spend.
 

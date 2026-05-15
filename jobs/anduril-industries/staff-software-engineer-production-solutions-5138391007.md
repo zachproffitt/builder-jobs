@@ -15,13 +15,12 @@ skills: TypeScript, React, AWS, Manufacturing Execution Systems, Distributed Sys
 level: staff
 comp: $220,000—$292,000 USD
 comp_extras: equity
-render_hash: abad419a
+render_hash: 75d93a95
 -->
 
 # Staff Software Engineer, Production Solutions
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Seattle, WA · `Staff` · `$220,000—$292,000 USD` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA · `Staff` · `$220,000—$292,000 USD` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

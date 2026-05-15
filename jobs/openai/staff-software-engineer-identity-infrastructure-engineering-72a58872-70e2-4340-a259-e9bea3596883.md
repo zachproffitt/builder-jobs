@@ -15,13 +15,12 @@ skills: Go, Rust, Python, Kubernetes, Cloud Infrastructure, Identity Systems, Di
 level: staff
 comp: 
 comp_extras: 
-render_hash: c3601d95
+render_hash: 71c94171
 -->
 
 # Staff+ Software Engineer, Identity Infrastructure Engineering
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
-San Francisco, CA · `Staff` · `Remote`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

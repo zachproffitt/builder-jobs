@@ -15,13 +15,12 @@ skills: TypeScript, React, Python, Go, Rust, PostgreSQL, Distributed Systems, AI
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1e7c9566
+render_hash: 52f5139c
 -->
 
 # Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
-San Francisco, CA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

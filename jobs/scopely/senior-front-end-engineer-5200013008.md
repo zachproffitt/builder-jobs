@@ -15,13 +15,12 @@ skills: React Native, TypeScript, JavaScript, React profiling tools, Xcode Instr
 level: senior
 comp: $107,500–$212,000
 comp_extras: equity, bonus
-render_hash: 788690a9
+render_hash: 919d04b0
 -->
 
 # Senior Front End Engineer
 
-<a href="https://scopely.com"><img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scopely**  
-Kelowna, British Columbia, Canada / Remote · `Senior` · `Hybrid` · `$107,500–$212,000` · `Equity` · `Bonus`
+<a href="https://scopely.com"><img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scopely** · Kelowna, British Columbia, Canada / Remote · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$107,500–$212,000` · `Equity` · `Bonus`
 
 > Scopely builds mobile games that foster community engagement and competitive interaction among players.
 

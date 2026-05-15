@@ -15,13 +15,12 @@ skills: Rust, TypeScript, Python, Move, Key Management Systems, Cryptography, HS
 level: mid
 comp: 
 comp_extras: 
-render_hash: 8bc84346
+render_hash: 3a75424d
 -->
 
 # Security Engineer
 
-<a href="https://mystenlabs.com"><img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mysten Labs**  
-`Mid` · `Remote`
+<a href="https://mystenlabs.com"><img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mysten Labs** · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Mysten Labs builds Sui, a blockchain platform that uses an object-oriented data model and horizontal scaling to process transactions in parallel. The company operates in the layer-1 blockchain infrastructure space, focusing on enabling fast and low-cost transaction settlement for decentralized applications.
 

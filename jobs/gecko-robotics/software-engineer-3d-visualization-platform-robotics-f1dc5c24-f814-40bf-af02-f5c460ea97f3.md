@@ -15,13 +15,12 @@ skills: React, TypeScript, Python, GCP, Unreal Engine, Backend APIs, 3D Graphics
 level: mid
 comp: 
 comp_extras: equity
-render_hash: 6c1d76b2
+render_hash: d9410956
 -->
 
 # Software Engineer | 3D Visualization Platform
 
-<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics**  
-New York City, NY · `Mid` · On-site · `Equity`
+<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · New York City, NY · `Mid` · On-site · `Equity`
 
 > Gecko Robotics builds robotic systems and software for inspecting and maintaining critical infrastructure, particularly in the energy and industrial sectors. Their autonomous robots perform non-destructive testing and inspection of equipment like boilers, pipes, and pressure vessels to detect corrosion and defects without requiring human workers to enter hazardous environments.
 

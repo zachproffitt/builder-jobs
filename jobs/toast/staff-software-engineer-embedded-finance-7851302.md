@@ -15,13 +15,12 @@ skills: Java, Kotlin, REST, GraphQL, Microservices, Distributed Systems, Enterpr
 level: staff
 comp: $151k-$309k
 comp_extras: equity, bonus
-render_hash: 7dcd9074
+render_hash: a93cc262
 -->
 
 # Staff Software Engineer, Embedded Finance
 
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast**  
-`Staff` · `Remote` · `$151k-$309k` · `Equity` · `Bonus`
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$151k-$309k` · `Equity` · `Bonus`
 
 > Toast is a cloud-based point-of-sale and restaurant management platform that helps restaurants manage orders, payments, inventory, and staff scheduling. The company serves full-service restaurants, quick-service restaurants, and other food service establishments globally.
 

@@ -15,13 +15,12 @@ skills: TypeScript, React, Remix, AWS, Manufacturing Execution Systems (MES), Di
 level: staff
 comp: $220,000–$292,000
 comp_extras: equity
-render_hash: 8ca9d9c2
+render_hash: 94200f4c
 -->
 
 # Staff Software Engineer, Production Solutions
 
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
-Costa Mesa, CA · `Staff` · `$220,000–$292,000` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Staff` · `$220,000–$292,000` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

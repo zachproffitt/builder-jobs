@@ -15,13 +15,12 @@ skills: C/C++, Python, DO-178C, CAN, MATLAB/Simulink, Hardware-in-the-Loop, ISO 
 level: senior
 comp: $120k-$180k
 comp_extras: 
-render_hash: 7e6d1ba6
+render_hash: 466b2e20
 -->
 
 # Sr Software Verification Engineer
 
-<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation**  
-San Jose, CA · `Senior` · `$120k-$180k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · San Jose, CA · `Senior` · `$120k-$180k`
 
 > Archer Aviation builds electric vertical takeoff and landing aircraft (eVTOL) designed for urban air mobility applications. The company is developing aircraft intended to transport passengers on short-distance routes in metropolitan areas.
 

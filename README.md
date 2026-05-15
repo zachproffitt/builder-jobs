@@ -4,46 +4,145 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **328 open roles** (189 new today) &nbsp;·&nbsp; 947 companies searched
+### **340 open roles** (201 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 13:45 UTC</sub>
+<sub>Last updated May 15, 2026 at 14:59 UTC</sub>
 
 <br>
 
 ## May 15, 2026
 
-### [AI Engineer - FDE (Forward Deployed Engineer)](jobs/databricks/ai-engineer-fde-forward-deployed-engineer-8551531002.md)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8550065002.md)
+<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · San Francisco, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity`
 
-_Build and productionize cutting-edge GenAI applications—RAG systems, multi-agent architectures, fine-tuned models, and Text2SQL solutions—deployed at scale on AWS, Azure, or GCP for Databricks customers. Work with latest LLM techniques and Databricks' AI research to solve production problems while serving as a trusted technical advisor and thought leader. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002)_
+_Lead a technical team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Transform traditional operations through intelligent automation, agentic workflows, and decision infrastructure while navigating high ambiguity across Finance, Engineering, Data, and Operations. · [Apply →](https://www.brex.com/careers/8550065002?gh_jid=8550065002)_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3B82F6?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
 
-<sub>May 15, 2026 at 13:45 UTC</sub>
-
----
-
-### [Java Software Developer (Mid-Senior Level)](jobs/interactive-brokers/java-software-developer-mid-senior-level-7909026002.md)
-<a href="https://interactivebrokers.com"><img src="https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Interactive Brokers** · Greenwich, CT · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
-
-_Build back-end clearing and brokerage applications in Java supporting funds, banking operations, securities trading, settlement, and regulatory reporting. Work on mission-critical financial systems handling client cash, trade reconciliation, and automated risk controls at scale across 200+ countries. · [Apply →](https://job-boards.greenhouse.io/ibkr/jobs/7909026002)_
-
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-3B82F6?style=flat-square) ![JBoss](https://img.shields.io/badge/JBoss-3B82F6?style=flat-square) ![RESTful Web Services](https://img.shields.io/badge/RESTful_Web_Services-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![Message-Oriented Systems](https://img.shields.io/badge/Message--Oriented_Systems-3B82F6?style=flat-square) ![JEE](https://img.shields.io/badge/JEE-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 13:45 UTC</sub>
+<sub>May 15, 2026 at 14:59 UTC</sub>
 
 ---
 
-### [Satellite Tasking Engineer, Collection Planning](jobs/planet-labs/satellite-tasking-engineer-collection-planning-7402921.md)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · San Francisco, CA / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$71k–$89k` · `Equity` · `Bonus`
+### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551691002.md)
+<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · Seattle, WA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity`
 
-_Develop operational tools and automation for satellite imagery tasking and collection planning. Work with geospatial data analysis and process automation to support Earth observation satellite operations at scale. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7402921)_
+_Lead a team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Define long-term vision for operational scalability while executing on high-impact workflows, agentic systems, and decision infrastructure in a rapidly AI-transforming fintech environment. · [Apply →](https://www.brex.com/careers/8551691002?gh_jid=8551691002)_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![QGIS](https://img.shields.io/badge/QGIS-3B82F6?style=flat-square) ![GeoPandas](https://img.shields.io/badge/GeoPandas-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GDAL](https://img.shields.io/badge/GDAL-3B82F6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM automation](https://img.shields.io/badge/AI%2FLLM_automation-3B82F6?style=flat-square) ![Data infrastructure](https://img.shields.io/badge/Data_infrastructure-3B82F6?style=flat-square)
 
-<sub>May 15, 2026 at 13:45 UTC</sub>
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551693002.md)
+<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$210k-$263k` · `Equity`
+
+_Lead a team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Shape the future of operational work by combining systems thinking, business context, and intelligent automation across a high-growth fintech company. · [Apply →](https://www.brex.com/careers/8551693002?gh_jid=8551693002)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551699002.md)
+<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · Salt Lake City, UT · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$180k-$225k` · `Equity`
+
+_Lead a team building AI-native operational systems, automation, and internal platforms that power Risk, Compliance, Payment Operations, and Banking Operations at scale. Shape Brex's operational infrastructure by combining business strategy with hands-on engineering on complex cross-functional challenges in a high-growth fintech environment. · [Apply →](https://www.brex.com/careers/8551699002?gh_jid=8551699002)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551701002.md)
+<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · Vancouver, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `CAD $180k - CAD $225k` · `Equity`
+
+_Lead a team building AI-native operational systems, workflows, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Shape the future of operational automation by combining business context, systems thinking, and AI-powered tooling across a rapidly scaling fintech organization. · [Apply →](https://www.brex.com/careers/8551701002?gh_jid=8551701002)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7672319003.md)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$149k–$198k` · `Bonus` · `Equity`
+
+_Design and build data curation, mining, and search applications to accelerate ML dataset generation and model development for autonomous vehicles. Work with ML researchers and data platform teams to integrate solutions across a growing company scaling toward commercialization. · [Apply →](https://motional.com/open-positions/?gh_jid=7672319003#/7672319003)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7735397003.md)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Equity` · `Bonus`
+
+_Build the next generation of data curation, mining, and search applications to accelerate ML dataset generation and power autonomous vehicle development. This role directly impacts the operational readiness of driverless technology at scale, with exposure to autonomous vehicle data pipelines and infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735397003#/7735397003)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Bazel](https://img.shields.io/badge/Bazel-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7735400003.md)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Equity` · `Bonus`
+
+_Design and build data curation, mining, and search applications powering ML dataset generation and autonomous vehicle development. Work at scale in the driverless vehicle industry with cross-functional teams integrating web, backend, and data infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735400003#/7735400003)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Bazel](https://img.shields.io/badge/Bazel-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7735404003.md)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
+
+_Design and build data curation, mining, and search applications that power ML dataset generation and accelerate autonomous vehicle development. Work at scale in the autonomous vehicles domain with cross-functional collaboration on data platform infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735404003#/7735404003)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Platform](jobs/okta/senior-software-engineer-platform-7635237.md)
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · Remote · `Senior` · `$136k—$187k CAD` · `Equity` · `Bonus`
+
+_Build scalable internal platform services and developer productivity tools that support Okta's authentication infrastructure serving 100+ million logins daily. Participate in on-call rotation for Tier-0 global services with emphasis on reliability, security, and operational excellence. · [Apply →](https://www.okta.com/company/careers/opportunity/7635237?gh_jid=7635237)_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [AI Tooling Engineer](jobs/supabase/ai-tooling-engineer-14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e.md)
+<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `Equity`
+
+_Build and maintain Supabase's AI tooling—including MCP, agent skills, dashboard assistant, and developer interfaces—that serve both AI products and developers building with Supabase. Drive an eval-first approach across instrumentation, documentation exposure to agents, and edge function patterns, translating real customer AI workflows into reliable product experiences. · [Apply →](https://jobs.ashbyhq.com/Supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-3B82F6?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-3B82F6?style=flat-square) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-3B82F6?style=flat-square) ![Agent Patterns](https://img.shields.io/badge/Agent_Patterns-3B82F6?style=flat-square) ![Evaluation Frameworks](https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Software Engineer (L2) Segment Team](jobs/twilio/software-engineer-l2-segment-team-7767263.md)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$116k-$171k` · `Equity` · `Bonus`
+
+_Design and build scalable backend APIs and systems for Twilio Segment's customer data platform, handling 12 trillion API calls annually. Work on distributed event-driven architecture processing large-scale async data with responsibility for system reliability and on-call operations. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7767263)_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
 
 ---
 
@@ -91,17 +190,6 @@ _Design and build AI/ML interfaces embedding large language models, RAG pipeline
 
 ---
 
-### [Machine Learning & Game Tech Architect](jobs/cd-projekt-red/machine-learning-game-tech-architect-744000126662869.md)
-<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Montreal, Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126662869)_
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engine Architecture](https://img.shields.io/badge/Game_Engine_Architecture-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [AI Engineer, Model Quality and Performance](jobs/cerebras-systems/ai-engineer-model-quality-and-performance-7735288003.md)
 <a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems** · Sunnyvale, CA · `Mid`
 
@@ -119,6 +207,28 @@ _Build AI-driven evaluation systems and performance benchmarking infrastructure 
 _Build production-grade full-stack systems that automate post-acute care workflows, including orchestration layers, integrations, and AI-powered automation directly deployed into healthcare operations. You'll embed with customers to translate operational complexity into scalable platform abstractions while maintaining high reliability standards in a high-stakes healthcare environment. · [Apply →](https://jobs.ashbyhq.com/claim-health/c9512763-dcae-40ed-a929-37d16d915ed0)_
 
 ![Full-stack development](https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square) ![Workflow orchestration](https://img.shields.io/badge/Workflow_orchestration-3B82F6?style=flat-square) ![AI systems](https://img.shields.io/badge/AI_systems-3B82F6?style=flat-square) ![Healthcare operations](https://img.shields.io/badge/Healthcare_operations-3B82F6?style=flat-square) ![Production deployments](https://img.shields.io/badge/Production_deployments-3B82F6?style=flat-square) ![System reliability](https://img.shields.io/badge/System_reliability-3B82F6?style=flat-square) ![Customer collaboration](https://img.shields.io/badge/Customer_collaboration-3B82F6?style=flat-square) ![n/a](https://img.shields.io/badge/n%2Fa-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [AI Engineer - FDE (Forward Deployed Engineer)](jobs/databricks/ai-engineer-fde-forward-deployed-engineer-8551531002.md)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+
+_Build and productionize cutting-edge GenAI applications—RAG systems, multi-agent architectures, fine-tuned models, and Text2SQL solutions—deployed at scale on AWS, Azure, or GCP for Databricks customers. Work with latest LLM techniques and Databricks' AI research to solve production problems while serving as a trusted technical advisor and thought leader. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002)_
+
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3B82F6?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Java Software Developer (Mid-Senior Level)](jobs/interactive-brokers/java-software-developer-mid-senior-level-7909026002.md)
+<a href="https://interactivebrokers.com"><img src="https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Interactive Brokers** · Greenwich, CT · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build back-end clearing and brokerage applications in Java supporting funds, banking operations, securities trading, settlement, and regulatory reporting. Work on mission-critical financial systems handling client cash, trade reconciliation, and automated risk controls at scale across 200+ countries. · [Apply →](https://job-boards.greenhouse.io/ibkr/jobs/7909026002)_
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-3B82F6?style=flat-square) ![JBoss](https://img.shields.io/badge/JBoss-3B82F6?style=flat-square) ![RESTful Web Services](https://img.shields.io/badge/RESTful_Web_Services-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square) ![Message-Oriented Systems](https://img.shields.io/badge/Message--Oriented_Systems-3B82F6?style=flat-square) ![JEE](https://img.shields.io/badge/JEE-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -185,6 +295,17 @@ _Design and deploy GenAI solutions for enterprise customers, building hands-on p
 _Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle. · [Apply →](https://jobs.ashbyhq.com/openai/1f179760-8bfd-477c-a5dd-16d465d40307)_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Satellite Tasking Engineer, Collection Planning](jobs/planet-labs/satellite-tasking-engineer-collection-planning-7402921.md)
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · San Francisco, CA / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$71k–$89k` · `Equity` · `Bonus`
+
+_Develop operational tools and automation for satellite imagery tasking and collection planning. Work with geospatial data analysis and process automation to support Earth observation satellite operations at scale. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7402921)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![QGIS](https://img.shields.io/badge/QGIS-3B82F6?style=flat-square) ![GeoPandas](https://img.shields.io/badge/GeoPandas-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square) ![GDAL](https://img.shields.io/badge/GDAL-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -2055,6 +2176,17 @@ _Lead the development and delivery of Speechify's web products and Chrome extens
 _Build and ship production code for Speechify's web products and Chrome extension, serving millions of users. Shape product decisions and drive technical strategy for a text-to-speech platform with high user impact. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975790004)_
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Senior Machine Learning Engineer, Zeitgeist, Personalization](jobs/spotify/senior-machine-learning-engineer-zeitgeist-personalization-351ad979-231f-4bee-ae49-8ff55b64f605.md)
+<a href="https://spotify.com"><img src="https://www.google.com/s2/favicons?domain=spotify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spotify** · New York, NY · `Senior`
+
+_Build systems and models that help Spotify understand culture in real time using large language models and agentic workflows to power personalized listening experiences. Work at the intersection of platform-level content understanding and user-facing product features serving millions of listeners. · [Apply →](https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605)_
+
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative_AI-3B82F6?style=flat-square) ![Data Systems](https://img.shields.io/badge/Data_Systems-3B82F6?style=flat-square) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 

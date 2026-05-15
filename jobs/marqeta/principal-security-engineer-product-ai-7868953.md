@@ -15,13 +15,12 @@ skills: Python, AWS, Threat Modeling, API Security, Machine Learning Security, K
 level: principal
 comp: $218,300-$321,000
 comp_extras: bonus, equity
-render_hash: 13761677
+render_hash: a1938f46
 -->
 
 # Principal Security Engineer, Product & AI
 
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta**  
-`Principal` · `Remote` · `$218,300-$321,000` · `Bonus` · `Equity`
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `Principal` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$218,300-$321,000` · `Bonus` · `Equity`
 
 > Marqeta builds a card-issuing platform that enables companies to create and manage payment cards and digital wallets. They operate in the fintech infrastructure space, providing APIs and services for businesses to issue cards for various use cases including payroll, gig worker payments, and corporate expense management.
 

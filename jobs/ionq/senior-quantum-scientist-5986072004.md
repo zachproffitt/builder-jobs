@@ -15,13 +15,12 @@ skills: Trapped ion physics, Quantum control, Python, Atomic/molecular/optical p
 level: senior
 comp: $126,887-$166,127
 comp_extras: bonus, equity
-render_hash: 9530e24a
+render_hash: 5ba3a88f
 -->
 
 # Senior Quantum Scientist
 
-<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ**  
-Boulder, CO · `Senior` · `Hybrid` · `$126,887-$166,127` · `Bonus` · `Equity`
+<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Boulder, CO · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$126,887-$166,127` · `Bonus` · `Equity`
 
 > IonQ builds trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.
 

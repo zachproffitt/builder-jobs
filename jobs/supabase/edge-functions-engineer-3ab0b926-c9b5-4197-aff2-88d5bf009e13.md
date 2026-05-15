@@ -15,13 +15,12 @@ skills: Rust, TypeScript, Deno, V8 Isolates, Kubernetes, AWS, PostgreSQL, OpenTe
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 4058e6de
+render_hash: 36273dee
 -->
 
 # Edge Functions Engineer
 
-<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase**  
-`Senior` · `Remote` · `Equity`
+<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 > Supabase builds a Postgres development platform with Database, Auth, Storage, Edge Functions, Realtime, and Vector Search, providing a complete backend solution for developers.
 

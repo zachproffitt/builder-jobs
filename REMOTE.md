@@ -4,22 +4,44 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **52 open roles** (7 new today)
+### **54 open roles** (9 new today)
 
-<sub>Last updated May 15, 2026 at 13:45 UTC</sub>
+<sub>Last updated May 15, 2026 at 14:59 UTC</sub>
 
 <br>
 
 ## May 15, 2026
 
-### [AI Engineer - FDE (Forward Deployed Engineer)](jobs/databricks/ai-engineer-fde-forward-deployed-engineer-8551531002.md)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7735404003.md)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
 
-_Build and productionize cutting-edge GenAI applications—RAG systems, multi-agent architectures, fine-tuned models, and Text2SQL solutions—deployed at scale on AWS, Azure, or GCP for Databricks customers. Work with latest LLM techniques and Databricks' AI research to solve production problems while serving as a trusted technical advisor and thought leader. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002)_
+_Design and build data curation, mining, and search applications that power ML dataset generation and accelerate autonomous vehicle development. Work at scale in the autonomous vehicles domain with cross-functional collaboration on data platform infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735404003#/7735404003)_
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3B82F6?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square)
 
-<sub>May 15, 2026 at 13:45 UTC</sub>
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [AI Tooling Engineer](jobs/supabase/ai-tooling-engineer-14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e.md)
+<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `Equity`
+
+_Build and maintain Supabase's AI tooling—including MCP, agent skills, dashboard assistant, and developer interfaces—that serve both AI products and developers building with Supabase. Drive an eval-first approach across instrumentation, documentation exposure to agents, and edge function patterns, translating real customer AI workflows into reliable product experiences. · [Apply →](https://jobs.ashbyhq.com/Supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-3B82F6?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-3B82F6?style=flat-square) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-3B82F6?style=flat-square) ![Agent Patterns](https://img.shields.io/badge/Agent_Patterns-3B82F6?style=flat-square) ![Evaluation Frameworks](https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
+
+---
+
+### [Software Engineer (L2) Segment Team](jobs/twilio/software-engineer-l2-segment-team-7767263.md)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$116k-$171k` · `Equity` · `Bonus`
+
+_Design and build scalable backend APIs and systems for Twilio Segment's customer data platform, handling 12 trillion API calls annually. Work on distributed event-driven architecture processing large-scale async data with responsibility for system reliability and on-call operations. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7767263)_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 14:59 UTC</sub>
 
 ---
 
@@ -34,12 +56,12 @@ _Design and build AI/ML interfaces embedding large language models, RAG pipeline
 
 ---
 
-### [Machine Learning & Game Tech Architect](jobs/cd-projekt-red/machine-learning-game-tech-architect-744000126662869.md)
-<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Montreal, Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+### [AI Engineer - FDE (Forward Deployed Engineer)](jobs/databricks/ai-engineer-fde-forward-deployed-engineer-8551531002.md)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
-_Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126662869)_
+_Build and productionize cutting-edge GenAI applications—RAG systems, multi-agent architectures, fine-tuned models, and Text2SQL solutions—deployed at scale on AWS, Azure, or GCP for Databricks customers. Work with latest LLM techniques and Databricks' AI research to solve production problems while serving as a trusted technical advisor and thought leader. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002)_
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engine Architecture](https://img.shields.io/badge/Game_Engine_Architecture-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3B82F6?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 

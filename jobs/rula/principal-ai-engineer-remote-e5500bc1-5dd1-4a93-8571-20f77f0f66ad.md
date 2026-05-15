@@ -15,13 +15,12 @@ skills: Python, TypeScript, AWS, GCP, RAG, LangChain, LlamaIndex, MLOps
 level: principal
 comp: 
 comp_extras: 
-render_hash: fd754d08
+render_hash: e47ab5f6
 -->
 
 # Principal AI Engineer (Remote)
 
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula**  
-`Principal` · `Remote`
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `Principal` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Rula develops mental health software that provides evidence-based care and reduces stigma by addressing the whole person.
 

@@ -15,13 +15,12 @@ skills: C++, Lua, Game Engine Architecture, 3D Math, Animation Systems, Mobile P
 level: senior
 comp: 
 comp_extras: 
-render_hash: ba5b1d7f
+render_hash: 4657fb81
 -->
 
 # Senior Software Engineer, Avatar Animation 
 
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox**  
-Vancouver, Canada · `Senior` · `Hybrid`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · Vancouver, Canada · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 
