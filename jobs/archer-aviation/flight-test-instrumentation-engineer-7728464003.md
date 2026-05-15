@@ -3,7 +3,7 @@ id: greenhouse-archer56-7728464003
 company: Archer Aviation
 title: Flight Test Instrumentation Engineer 
 source: greenhouse
-location: San Jose, California, United States
+location: San Jose, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Data Acquisition Systems, Flight Test Instrumentation, Python, C++, MATL
 level: senior
 comp: $140,680-$200,600
 comp_extras: 
-render_hash: 0f4e5790
+render_hash: 79c8ecb4
 -->
 
 # Flight Test Instrumentation Engineer 
 
-<img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Archer Aviation**  
-San Jose, California, United States · `Senior` · `$140,680-$200,600`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation**  
+San Jose, CA · `Senior` · `$140,680-$200,600`
 
 > Archer Aviation builds electric vertical takeoff and landing aircraft (eVTOL) designed for urban air mobility applications. The company is developing aircraft intended to transport passengers on short-distance routes in metropolitan areas.
 

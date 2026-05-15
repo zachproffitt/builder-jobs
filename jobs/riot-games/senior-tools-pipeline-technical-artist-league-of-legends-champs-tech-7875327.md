@@ -3,7 +3,7 @@ id: greenhouse-riotgames-7875327
 company: Riot Games
 title: Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech
 source: greenhouse
-location: Los Angeles, USA
+location: Los Angeles, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, C++, C#, CI/CD, Character Pipelines, 3D Tools (Substance, ZBrush
 level: senior
 comp: 
 comp_extras: 
-render_hash: 18565fde
+render_hash: be483c3a
 -->
 
 # Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech
 
-<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games**  
-Los Angeles, USA · `Senior` · `Hybrid`
+<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games**  
+Los Angeles, CA · `Senior` · `Hybrid`
 
 > Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 

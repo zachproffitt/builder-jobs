@@ -3,25 +3,25 @@ id: ashby-openai-e827d138-22de-49f0-9de5-60f3e3ce07a0
 company: OpenAI
 title: Solutions Architect, Digital Natives
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T01:09:51+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/e827d138-22de-49f0-9de5-60f3e3ce07a0
 summary: Design and deploy GenAI solutions for enterprise customers, building hands-on prototypes and providing architectural guidance on RAG systems, multi-agent orchestration, and production scaling. Work embedded with senior stakeholders at large multinational corporations to identify and validate high-value AI applications.
 skills: Python, JavaScript, TypeScript, React, AWS, GCP, Azure, Docker
 level: senior
 comp: $175,000-$240,000
 comp_extras: 
-render_hash: f084a577
+render_hash: 537a9294
 -->
 
 # Solutions Architect, Digital Natives
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-San Francisco · `Senior` · `Remote` · `$175,000-$240,000`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Senior` · `Remote` · `$175,000-$240,000`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

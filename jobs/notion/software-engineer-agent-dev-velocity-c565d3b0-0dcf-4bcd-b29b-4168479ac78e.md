@@ -3,7 +3,7 @@ id: ashby-notion-c565d3b0-0dcf-4bcd-b29b-4168479ac78e
 company: Notion
 title: Software Engineer, Agent Dev Velocity
 source: ashby
-location: San Francisco, California
+location: San Francisco, CA
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-13
@@ -15,13 +15,13 @@ skills: TypeScript, Python, Distributed Systems, Data Pipelines, LLM Evaluation,
 level: mid
 comp: $214k-$300k
 comp_extras: equity
-render_hash: a01af912
+render_hash: bf1d03dd
 -->
 
 # Software Engineer, Agent Dev Velocity
 
-<img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle">&ensp;**Notion**  
-San Francisco, California · `Mid` · `Remote` · `$214k-$300k` · `Equity`
+<a href="https://notion.so"><img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Notion**  
+San Francisco, CA · `Mid` · `Remote` · `$214k-$300k` · `Equity`
 
 > Notion builds a workspace application that combines note-taking, databases, wikis, and project management tools in a single platform. The product operates in the productivity software domain, targeting individuals, teams, and organizations that need to organize information and collaborate on work.
 

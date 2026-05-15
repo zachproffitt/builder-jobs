@@ -3,7 +3,7 @@ id: greenhouse-airbnb-7927371
 company: Airbnb
 title: Engineering Manager, Storage SRE
 source: greenhouse
-location: United States
+location: Remote
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Database Infrastructure, SRE, Distributed Systems, Cloud Infrastructure,
 level: manager
 comp: $212,000-$265,000
 comp_extras: bonus, equity
-render_hash: 893af45b
+render_hash: 2f254b59
 -->
 
 # Engineering Manager, Storage SRE
 
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb**  
-United States · `Manager` · `$212,000-$265,000` · `Bonus` · `Equity`
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb**  
+Remote · `Manager` · `$212,000-$265,000` · `Bonus` · `Equity`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 

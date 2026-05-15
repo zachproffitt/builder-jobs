@@ -3,7 +3,7 @@ id: ashby-ScribdInc-be9b9e96-34c3-4600-b1d3-aaae65b788c0
 company: Scribd
 title: Software Engineer (Backend, Python) - Content Understanding
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Not specified
 hybrid: yes
 posted_at: 2026-05-13
@@ -15,13 +15,13 @@ skills: Python, Scala, Airflow, Spark, Databricks, AWS, Terraform, LLMs
 level: senior
 comp: $103,500-$196,000
 comp_extras: equity
-render_hash: b78e15c1
+render_hash: 7358ff26
 -->
 
 # Software Engineer (Backend, Python) - Content Understanding
 
-<img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scribd**  
-San Francisco · `Senior` · `Hybrid` · `$103,500-$196,000` · `Equity`
+<a href="https://scribd.com"><img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribd**  
+San Francisco, CA · `Senior` · `Hybrid` · `$103,500-$196,000` · `Equity`
 
 > Scribd builds platforms for accessing and sharing documents and specialized knowledge, including Scribd, Slideshare, Everand, and Fable.
 

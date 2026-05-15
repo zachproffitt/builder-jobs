@@ -3,25 +3,25 @@ id: greenhouse-scopely-5212412008
 company: Scopely
 title: Staff Front End Engineer
 source: greenhouse
-location: CA - Canada; US - United States
+location: Kelowna, BC / Remote
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T12:51:20+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/scopely/jobs/5212412008
 summary: Lead technical direction and build features for MONOPOLY GO! Chat, a React Native companion app serving millions of players worldwide. Own performance, quality, and platform integrations while mentoring engineers on a cross-functional mobile team.
 skills: React Native, TypeScript, JavaScript, Java, Kotlin, Objective-C, Swift, Mobile Performance Optimization
 level: staff
 comp: $169,600-$253,000
 comp_extras: equity, bonus
-render_hash: 1efe8dda
+render_hash: 53674f8d
 -->
 
 # Staff Front End Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scopely**  
-CA - Canada; US - United States · `Staff` · `Hybrid` · `$169,600-$253,000` · `Equity` · `Bonus`
+<a href="https://scopely.com"><img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scopely**  
+Kelowna, BC / Remote · `Staff` · `Hybrid` · `$169,600-$253,000` · `Equity` · `Bonus`
 
 > Scopely builds mobile games that foster community engagement and competitive interaction among players.
 
@@ -29,7 +29,7 @@ _Lead technical direction and build features for MONOPOLY GO! Chat, a React Nati
 
 ![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Objective-C](https://img.shields.io/badge/Objective--C-3B82F6?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-3B82F6?style=flat-square) ![Mobile Performance Optimization](https://img.shields.io/badge/Mobile_Performance_Optimization-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 12:51 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/scopely/jobs/5212412008)**
 

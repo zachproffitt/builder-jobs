@@ -3,7 +3,7 @@ id: greenhouse-grafanalabs-5990670004
 company: Grafana
 title: Senior Backend Engineer - Application Core Services, Stacks | USA | Remote
 source: greenhouse
-location: United States (Remote)
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Go, Kubernetes, Terraform, TypeScript, AWS, GCP, Azure, Helm
 level: senior
 comp: $154,445-$185,334
 comp_extras: equity, bonus
-render_hash: c3d27f99
+render_hash: 8ba6b31c
 -->
 
 # Senior Backend Engineer - Application Core Services, Stacks | USA | Remote
 
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana**  
-United States · `Senior` · `Remote` · `$154,445-$185,334` · `Equity` · `Bonus`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana**  
+`Senior` · `Remote` · `$154,445-$185,334` · `Equity` · `Bonus`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 

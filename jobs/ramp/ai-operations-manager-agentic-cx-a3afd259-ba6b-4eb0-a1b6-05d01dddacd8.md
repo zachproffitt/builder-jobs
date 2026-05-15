@@ -3,7 +3,7 @@ id: ashby-ramp-a3afd259-ba6b-4eb0-a1b6-05d01dddacd8
 company: Ramp
 title: AI Operations Manager | Agentic CX
 source: ashby
-location: New York, NY (HQ)
+location: New York, NY
 remote: Remote
 hybrid: no
 posted_at: 2026-05-13
@@ -15,13 +15,13 @@ skills: LLMs, Prompt Engineering, Fine-tuning, Retrieval-Augmented Generation, C
 level: manager
 comp: 
 comp_extras: 
-render_hash: 29a7aa37
+render_hash: 14983eda
 -->
 
 # AI Operations Manager | Agentic CX
 
-<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp**  
-New York, NY (HQ) · `Manager` · `Remote`
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp**  
+New York, NY · `Manager` · `Remote`
 
 > Ramp builds a corporate expense management platform that handles employee spending, receipt tracking, and bill payments for mid-market companies. The platform integrates with accounting software and provides real-time visibility into business expenses across a company's spend.
 

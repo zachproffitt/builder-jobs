@@ -3,25 +3,25 @@ id: ashby-openai-de06790a-7243-4e33-a6f1-e7bd34009588
 company: OpenAI
 title: AI Systems Engineer, Codex Agents
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T01:09:51+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/de06790a-7243-4e33-a6f1-e7bd34009588
 summary: Design and build the core agent harness, execution loop, and sandboxing infrastructure that enables AI agents to safely interpret model outputs, execute code, and complete long-horizon tasks in production environments. Work across the full stack—from Rust systems code to inference optimization to GPU fleet management—debugging and improving agent reliability, latency, cost, and solve rate end-to-end.
 skills: Rust, Python, Distributed Systems, LLM Inference, Sandboxing/Virtualization, GPU Systems, Agent Orchestration, Compiler/Runtime Optimization
 level: senior
 comp: 
 comp_extras: 
-render_hash: fa11f126
+render_hash: 6929ee23
 -->
 
 # AI Systems Engineer, Codex Agents
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-San Francisco · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5138057007
 company: Anduril Industries
 title: Senior Software Engineer, PLM
 source: greenhouse
-location: Costa Mesa, California, United States
+location: Costa Mesa, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Teamcenter, ITK, C++, Java, Git, Oracle, AWS, Security Clearance
 level: senior
 comp: $166,000—$220,000 USD
 comp_extras: equity
-render_hash: 7085f730
+render_hash: 8b7a1fa4
 -->
 
 # Senior Software Engineer, PLM
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Costa Mesa, California, United States · `Senior` · `$166,000—$220,000 USD` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Costa Mesa, CA · `Senior` · `$166,000—$220,000 USD` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

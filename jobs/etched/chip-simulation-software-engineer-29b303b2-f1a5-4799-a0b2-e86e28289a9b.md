@@ -3,7 +3,7 @@ id: ashby-Etched-29b303b2-f1a5-4799-a0b2-e86e28289a9b
 company: Etched
 title: Chip Simulation Software Engineer
 source: ashby
-location: San Jose
+location: San Jose, CA
 remote: On-site
 hybrid: no
 posted_at: 2026-05-13
@@ -15,13 +15,13 @@ skills: C/C++, Python, SystemC, QEMU, Linux kernel development, Hardware verific
 level: mid
 comp: 
 comp_extras: 
-render_hash: e3801ece
+render_hash: 41cae133
 -->
 
 # Chip Simulation Software Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Etched**  
-San Jose · `Mid` · On-site
+<a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Etched**  
+San Jose, CA · `Mid` · On-site
 
 > Etched builds AI inference systems purpose-built for transformers, delivering 10x higher performance and lower cost/latency than B200 using ASICs.
 

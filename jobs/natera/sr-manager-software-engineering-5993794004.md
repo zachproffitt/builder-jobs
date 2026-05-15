@@ -3,7 +3,7 @@ id: greenhouse-natera-5993794004
 company: Natera
 title: Sr Manager, Software Engineering
 source: greenhouse
-location: US Remote
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Java, Python, Distributed Systems, Genomics Analysis, Regulated Software
 level: manager
 comp: $156,000–$195,000
 comp_extras: 
-render_hash: 8eeb9d52
+render_hash: 772d8565
 -->
 
 # Sr Manager, Software Engineering
 
-<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera**  
-US Remote · `Manager` · `Remote` · `$156,000–$195,000`
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera**  
+`Manager` · `Remote` · `$156,000–$195,000`
 
 > # Natera
 

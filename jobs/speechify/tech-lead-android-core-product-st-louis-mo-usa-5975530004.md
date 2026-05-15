@@ -3,7 +3,7 @@ id: greenhouse-speechify-5975530004
 company: Speechify
 title: Tech Lead, Android Core Product - St. Louis, MO, USA
 source: greenhouse
-location: St. Louis, MO, USA
+location: St. Louis, MO
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Jetpack Compose,
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: d748b895
+render_hash: 163f17a7
 -->
 
 # Tech Lead, Android Core Product - St. Louis, MO, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-St. Louis, MO, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+St. Louis, MO · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

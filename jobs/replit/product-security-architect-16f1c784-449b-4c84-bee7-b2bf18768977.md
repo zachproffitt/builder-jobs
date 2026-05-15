@@ -15,12 +15,12 @@ skills: Python, Go, JavaScript, OAuth, SAML, OIDC, mTLS, Threat Modeling
 level: staff
 comp: 
 comp_extras: equity
-render_hash: 25387e2a
+render_hash: bdb0a84a
 -->
 
 # Product Security Architect
 
-<img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Replit**  
+<a href="https://replit.com"><img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Replit**  
 Foster City, CA · `Staff` · `Remote` · `Equity`
 
 > Replit builds a web-based integrated development environment (IDE) that allows users to write, run, and share code in dozens of programming languages without installing software locally. The platform operates in the online code editor and cloud computing space, serving individual developers, students, and teams who need quick access to a coding environment.

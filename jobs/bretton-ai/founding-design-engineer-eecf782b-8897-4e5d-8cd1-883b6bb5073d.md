@@ -8,19 +8,19 @@ remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T22:33:12+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/brettonai/eecf782b-8897-4e5d-8cd1-883b6bb5073d
 summary: Build and own the design system in code, creating production-grade React components and patterns that compliance analysts depend on for hours at a time. Design interfaces that make AI agent behavior legible and auditable in financial services, where trust is non-negotiable.
 skills: React, TypeScript, CSS, Figma, Claude Code, Cursor, Accessibility, PostHog
 level: senior
 comp: 
 comp_extras: 
-render_hash: 86653177
+render_hash: 02ee3e30
 -->
 
 # Founding Design Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=www.bretton.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bretton AI**  
+<a href="https://www.bretton.com"><img src="https://www.google.com/s2/favicons?domain=www.bretton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bretton AI**  
 San Francisco, CA · `Senior` · On-site
 
 > Bretton AI builds an AI agents platform designed to automate financial crime compliance workflows, including anti-money laundering investigations, enhanced due diligence, and sanctions screening, that integrates directly into existing compliance systems without requiring migration. The company operates in the financial services and regulatory compliance domain, serving banks and financial institutions regulated by bodies like the OCC, FDIC, and Federal Reserve.

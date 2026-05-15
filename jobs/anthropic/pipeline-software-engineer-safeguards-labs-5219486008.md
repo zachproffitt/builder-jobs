@@ -15,12 +15,12 @@ skills: Python, Large Language Models, Production Systems, Data Pipelines, Machi
 level: senior
 comp: $405,000–$485,000 USD
 comp_extras: equity
-render_hash: e1adb509
+render_hash: 35d1b18d
 -->
 
 # [Pipeline] Software Engineer, Safeguards Labs
 
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic**  
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic**  
 New York City, NY · `Senior` · `Hybrid` · `$405,000–$485,000 USD` · `Equity`
 
 > Anthropic builds AI systems focused on safety, interpretability, and steerability for research.

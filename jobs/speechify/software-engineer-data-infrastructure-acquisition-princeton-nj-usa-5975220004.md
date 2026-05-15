@@ -3,7 +3,7 @@ id: greenhouse-speechify-5975220004
 company: Speechify
 title: Software Engineer, Data Infrastructure & Acquisition - Princeton, NJ, USA
 source: greenhouse
-location: Princeton, NJ, USA
+location: Princeton, NJ
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, Bash, Docker, GCP, Terraform, Infrastructure-as-Code, Web crawle
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: c7e79bc4
+render_hash: e9204d01
 -->
 
 # Software Engineer, Data Infrastructure & Acquisition - Princeton, NJ, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Princeton, NJ, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Princeton, NJ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

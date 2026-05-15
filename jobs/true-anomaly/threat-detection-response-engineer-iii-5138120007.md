@@ -3,7 +3,7 @@ id: greenhouse-trueanomalyinc-5138120007
 company: True Anomaly
 title: Threat Detection & Response Engineer III
 source: greenhouse
-location: Denver, CO or Long Beach, CA
+location: Denver, CO / Long Beach, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, PowerShell, Bash, SIEM (Splunk/Elastic), EDR platforms, MITRE AT
 level: senior
 comp: $115k-$165k
 comp_extras: equity
-render_hash: 07cb9d6e
+render_hash: 2d8aeac0
 -->
 
 # Threat Detection & Response Engineer III
 
-<img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle">&ensp;**True Anomaly**  
-Denver, CO or Long Beach, CA · `Senior` · `$115k-$165k` · `Equity`
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly**  
+Denver, CO / Long Beach, CA · `Senior` · `$115k-$165k` · `Equity`
 
 > True Anomaly builds mission-critical software for space operations used by defense and aerospace organizations.
 

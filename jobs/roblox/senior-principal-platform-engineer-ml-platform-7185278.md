@@ -3,7 +3,7 @@ id: greenhouse-roblox-7185278
 company: Roblox
 title: Senior/Principal Platform Engineer, ML Platform
 source: greenhouse
-location: San Mateo, CA, United States
+location: San Mateo, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: gRPC, REST APIs, Model Serving, ML model lifecycle, GPU resource managem
 level: principal
 comp: $277170-$343340
 comp_extras: equity
-render_hash: c79c1508
+render_hash: aebf4cc5
 -->
 
 # Senior/Principal Platform Engineer, ML Platform
 
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox**  
-San Mateo, CA, United States · `Principal` · `Hybrid` · `$277170-$343340` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox**  
+San Mateo, CA · `Principal` · `Hybrid` · `$277170-$343340` · `Equity`
 
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 

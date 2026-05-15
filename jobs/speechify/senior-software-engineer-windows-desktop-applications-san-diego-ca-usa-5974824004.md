@@ -3,25 +3,25 @@ id: greenhouse-speechify-5974824004
 company: Speechify
 title: Senior Software Engineer, Windows/Desktop Applications - San Diego, CA, USA
 source: greenhouse
-location: San Diego, CA, USA
+location: San Diego, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5974824004
 summary: Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, and C#, with a focus on accessibility and performance. Drive long-term technical direction for the Windows platform across millions of users, mentoring engineers and making architecture-level decisions.
 skills: Windows App SDK, WinUI, C#, XAML, C++, Microsoft UI Automation, .NET, Win32
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 1890c5ba
+render_hash: e85ae8a0
 -->
 
 # Senior Software Engineer, Windows/Desktop Applications - San Diego, CA, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-San Diego, CA, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+San Diego, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Lead the design, architecture, and development of native Windows desktop applic
 
 ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32](https://img.shields.io/badge/Win32-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5974824004)**
 

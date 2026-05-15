@@ -3,7 +3,7 @@ id: greenhouse-rockstargames-7734679003
 company: Rockstar Games
 title: Software Engineer (C#/.NET)
 source: greenhouse
-location: Carlsbad, California, United States
+location: Carlsbad, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C#, .NET, SQL Server, C++, API design, Distributed Systems, Windows Serv
 level: senior
 comp: $101,100–$134,300
 comp_extras: bonus, equity
-render_hash: e2b75aa9
+render_hash: 5bc25a8c
 -->
 
 # Software Engineer (C#/.NET)
 
-<img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rockstar Games**  
-Carlsbad, California, United States · `Senior` · `$101,100–$134,300` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games**  
+Carlsbad, CA · `Senior` · `$101,100–$134,300` · `Bonus` · `Equity`
 
 > Rockstar Games builds video games, including the Grand Theft Auto series.
 

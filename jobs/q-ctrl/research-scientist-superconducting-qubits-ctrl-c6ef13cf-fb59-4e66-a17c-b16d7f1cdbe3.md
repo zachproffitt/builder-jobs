@@ -3,25 +3,25 @@ id: lever-q-ctrl-c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3
 company: Q-CTRL
 title: Research Scientist, Superconducting Qubits
 source: lever
-location: Los Angeles
+location: Los Angeles, CA
 remote: On-site
 hybrid: no
 posted_at: 2026-05-12
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
+first_seen_at: 
 url: https://jobs.lever.co/q-ctrl/c6ef13cf-fb59-4e66-a17c-b16d7f1cdbe3
 summary: Build software solutions for calibration and optimization of superconducting quantum hardware, including routines for tuning two-qubit gates and processor-scale optimization. Work at the intersection of control theory, physics, and AI to solve quantum computing challenges at scale.
 skills: Python, Quantum Computing, Control Theory, Machine Learning, Optimization, Physics Simulation
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1a953f74
+render_hash: 89fce03f
 -->
 
 # Research Scientist, Superconducting Qubits
 
-<img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Q-CTRL**  
-Los Angeles · `Senior` · On-site
+<a href="https://q-ctrl.com"><img src="https://www.google.com/s2/favicons?domain=q-ctrl.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q-CTRL**  
+Los Angeles, CA · `Senior` · On-site
 
 > Q-CTRL develops software to expand quantum computing capabilities and enable quantum sensing solutions for navigation and industrial applications.
 

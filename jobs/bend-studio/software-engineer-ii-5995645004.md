@@ -3,7 +3,7 @@ id: greenhouse-sonyinteractiveentertainmentglobal-5995645004
 company: Bend Studio
 title: Software Engineer II
 source: greenhouse
-location: United States, San Diego, CA
+location: San Diego, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: React Native, React, TypeScript, JavaScript, State Management (Jotai), U
 level: mid
 comp: $150.1k-$225.1k
 comp_extras: bonus
-render_hash: bba2dfc7
+render_hash: 1658a710
 -->
 
 # Software Engineer II
 
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-United States, San Diego, CA · `Mid` · `Hybrid` · `$150.1k-$225.1k` · `Bonus`
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio**  
+San Diego, CA · `Mid` · `Hybrid` · `$150.1k-$225.1k` · `Bonus`
 
 > # Bend Studio
 

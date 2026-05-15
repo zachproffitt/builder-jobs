@@ -3,25 +3,25 @@ id: smartrecruiters-CDPROJEKTRED-744000126662869
 company: CD Projekt Red
 title: Machine Learning & Game Tech Architect
 source: smartrecruiters
-location: Montreal, ca
+location: Montreal, Canada
 remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T10:58:44+00:00
+first_seen_at: 
 url: https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126662869
 summary: Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology.
 skills: Machine Learning, Game Engine Architecture, Python, C++, System Design, Deep Learning
 level: senior
 comp: 
 comp_extras: 
-render_hash: 31830165
+render_hash: dd3bf935
 -->
 
 # Machine Learning & Game Tech Architect
 
-<img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CD Projekt Red**  
-Montreal, ca · `Senior` · `Remote`
+<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red**  
+Montreal, Canada · `Senior` · `Remote`
 
 > CD Projekt Red is a Polish video game developer that creates role-playing games and action games for PC and console platforms, most notably the Witcher series and Cyberpunk franchise. The studio is known for developing narrative-driven, open-world games with extensive storytelling and player choice mechanics.
 

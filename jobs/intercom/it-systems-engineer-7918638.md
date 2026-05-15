@@ -3,7 +3,7 @@ id: greenhouse-intercom-7918638
 company: Intercom
 title: IT Systems Engineer
 source: greenhouse
-location: San Francisco, California
+location: San Francisco, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, Ruby, AWS, Okta, Google Workspace, Jamf Pro, Intune, Tines
 level: mid
 comp: $142,000-$237,000
 comp_extras: equity, bonus
-render_hash: 8edf8ca5
+render_hash: f9da32fb
 -->
 
 # IT Systems Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Intercom**  
-San Francisco, California · `Mid` · `Hybrid` · `$142,000-$237,000` · `Equity` · `Bonus`
+<a href="https://intercom.com"><img src="https://www.google.com/s2/favicons?domain=intercom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intercom**  
+San Francisco, CA · `Mid` · `Hybrid` · `$142,000-$237,000` · `Equity` · `Bonus`
 
 > Intercom builds customer communication software that combines live chat, chatbots, email, and help desk tools on a single platform. The company operates in the customer service and communication software domain, serving businesses that want to manage customer interactions across multiple channels.
 

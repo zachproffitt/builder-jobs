@@ -15,12 +15,12 @@ skills: React Native, C/C++, TypeScript, Kotlin, Android NDK, JNI, iOS, Android
 level: senior
 comp: 
 comp_extras: 
-render_hash: 161c321a
+render_hash: f1760626
 -->
 
 # Senior Software Engineer, Mobile Platform (React Native)
 
-<img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle">&ensp;**Front**  
+<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front**  
 San Francisco, CA · `Senior` · `Remote`
 
 > Front builds a customer communication platform that centralizes email, chat, and messaging channels into a single inbox for teams. The platform operates in the business software domain, specifically serving customer support, sales, and operations teams that need to manage multi-channel communications.

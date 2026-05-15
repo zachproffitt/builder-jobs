@@ -3,25 +3,25 @@ id: ashby-anyscale-73a973b1-6377-4144-a6e5-610b78719882
 company: Anyscale
 title: Software Engineer (Ray Core)
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:53:23+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882
 summary: Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance infrastructure. Work on high-performance distributed systems at scale, mentoring junior engineers and leading architectural improvements for a system powering AI applications at companies like OpenAI and Spotify.
 skills: C++, Distributed Systems, GPU Programming, Ray, Fault Tolerance, Tensor Parallelism, Python
 level: senior
 comp: 
 comp_extras: 
-render_hash: c462dacb
+render_hash: 122c5f07
 -->
 
 # Software Engineer (Ray Core)
 
-<img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anyscale**  
-San Francisco · `Senior` · `Remote`
+<a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale**  
+San Francisco, CA · `Senior` · `Remote`
 
 > Anyscale builds Ray, an open-source distributed computing framework, and offers a managed cloud platform for running Ray workloads at scale. The company operates in the machine learning infrastructure and distributed computing domain, serving data scientists and engineers who need to parallelize Python workloads across clusters.
 

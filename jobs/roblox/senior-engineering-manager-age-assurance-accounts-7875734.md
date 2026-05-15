@@ -3,7 +3,7 @@ id: greenhouse-roblox-7875734
 company: Roblox
 title: Senior Engineering Manager - Age Assurance (Accounts)
 source: greenhouse
-location: San Mateo, CA, United States
+location: San Mateo, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Machine Learning, Distributed Systems, Fraud Detection, Facial Recogniti
 level: manager
 comp: $345,040-$399,420
 comp_extras: equity
-render_hash: a3a1387f
+render_hash: ffef0d11
 -->
 
 # Senior Engineering Manager - Age Assurance (Accounts)
 
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox**  
-San Mateo, CA, United States · `Manager` · `Hybrid` · `$345,040-$399,420` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox**  
+San Mateo, CA · `Manager` · `Hybrid` · `$345,040-$399,420` · `Equity`
 
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 

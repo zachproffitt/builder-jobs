@@ -3,7 +3,7 @@ id: greenhouse-appliedintuition-4677114005
 company: Applied Intuition
 title: Robotic Software Engineer (Drone Stack)
 source: greenhouse
-location: Washington, District of Columbia, United States
+location: Washington, DC
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C++, Linux, Docker, Git, Pixhawk/ArduPilot, UART/RS232/I2C/Ethernet, emb
 level: mid
 comp: $135k-$175k
 comp_extras: equity
-render_hash: b91152ea
+render_hash: e0b76bb5
 -->
 
 # Robotic Software Engineer (Drone Stack)
 
-<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition**  
-Washington, District of Columbia, United States · `Mid` · `$135k-$175k` · `Equity`
+<a href="https://appliedintuition.com"><img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Applied Intuition**  
+Washington, DC · `Mid` · `$135k-$175k` · `Equity`
 
 > Applied Intuition builds physical AI systems automating machines in automotive, defense, trucking, mining, construction, and agriculture.
 

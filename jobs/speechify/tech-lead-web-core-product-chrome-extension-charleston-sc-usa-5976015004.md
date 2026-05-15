@@ -3,25 +3,25 @@ id: greenhouse-speechify-5976015004
 company: Speechify
 title: Tech Lead, Web Core Product & Chrome Extension - Charleston, SC, USA
 source: greenhouse
-location: Charleston, SC, USA
+location: Charleston, SC
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5976015004
 summary: Build and ship production web products and a Chrome extension serving 50M+ users, architecting core systems that power text-to-speech functionality across multiple platforms. Drive product decisions alongside designers and PMs in a 100% distributed, high-growth environment where speed and technical judgment directly impact millions of users.
 skills: JavaScript, React, TypeScript, Redux, Firebase
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: a8255314
+render_hash: 39f60471
 -->
 
 # Tech Lead, Web Core Product & Chrome Extension - Charleston, SC, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Charleston, SC, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Charleston, SC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Build and ship production web products and a Chrome extension serving 50M+ user
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5976015004)**
 

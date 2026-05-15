@@ -3,7 +3,7 @@ id: greenhouse-waymo-7599912
 company: Waymo
 title: Senior System Test Engineer, Perception
 source: greenhouse
-location: Mountain View, CA US; San Francisco, CA US
+location: Mountain View, CA / San Francisco, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, SQL, C++, Machine Learning, Autonomous Vehicles, Robotics, Data 
 level: senior
 comp: $196k-$242k
 comp_extras: equity, bonus
-render_hash: 74bce865
+render_hash: ed3f70c9
 -->
 
 # Senior System Test Engineer, Perception
 
-<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo**  
-Mountain View, CA US; San Francisco, CA US · `Senior` · `Hybrid` · `$196k-$242k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo**  
+Mountain View, CA / San Francisco, CA · `Senior` · `Hybrid` · `$196k-$242k` · `Equity` · `Bonus`
 
 > Waymo builds autonomous vehicle technology for transportation.
 

@@ -3,7 +3,7 @@ id: greenhouse-airbnb-7707946
 company: Airbnb
 title: Engineering Manager, Experimentation Infrastructure
 source: greenhouse
-location: United States
+location: Remote
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Feature Flagging, Experimentation Platforms, Data Infrastructure, System
 level: manager
 comp: $204k-$255k
 comp_extras: bonus, equity
-render_hash: 617ad296
+render_hash: ed83e561
 -->
 
 # Engineering Manager, Experimentation Infrastructure
 
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb**  
-United States · `Manager` · `$204k-$255k` · `Bonus` · `Equity`
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb**  
+Remote · `Manager` · `$204k-$255k` · `Bonus` · `Equity`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 

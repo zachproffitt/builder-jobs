@@ -3,25 +3,25 @@ id: ashby-openai-e9fa3446-0b1e-48c0-a567-ef85f1621b76
 company: OpenAI
 title: Staff / Senior Staff Backend Engineer, B2B Flywheel
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/e9fa3446-0b1e-48c0-a567-ef85f1621b76
 summary: Design and build real-time backend systems and data pipelines that capture, process, and translate product and usage signals across OpenAI's B2B API surfaces. Operate in high-scale, low-latency, privacy-constrained environments while partnering with data science and research teams to improve products and models through production feedback loops.
 skills: Distributed Systems, Data Pipelines, PostgreSQL, Kafka, Python, API Services, Kubernetes, AWS
 level: senior
 comp: $293K-$385K
 comp_extras: 
-render_hash: fc55a033
+render_hash: f0b6f81f
 -->
 
 # Staff / Senior Staff Backend Engineer, B2B Flywheel
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-San Francisco · `Senior` · `Remote` · `$293K-$385K`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Senior` · `Remote` · `$293K-$385K`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

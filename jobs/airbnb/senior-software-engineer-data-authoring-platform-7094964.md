@@ -3,7 +3,7 @@ id: greenhouse-airbnb-7094964
 company: Airbnb
 title: Senior Software Engineer, Data Authoring Platform
 source: greenhouse
-location: Remote USA
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Data warehouse technologies, DSL/API design, Query rewriting, Semantic l
 level: senior
 comp: $196,000–$230,000
 comp_extras: equity, bonus
-render_hash: 1d7fbfbb
+render_hash: a632f5e5
 -->
 
 # Senior Software Engineer, Data Authoring Platform
 
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb**  
-Remote USA · `Senior` · `Remote` · `$196,000–$230,000` · `Equity` · `Bonus`
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb**  
+`Senior` · `Remote` · `$196,000–$230,000` · `Equity` · `Bonus`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 

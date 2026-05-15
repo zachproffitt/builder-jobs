@@ -3,7 +3,7 @@ id: greenhouse-marqeta-7926736
 company: Marqeta
 title: Senior Cloud Database Engineer
 source: greenhouse
-location: Toronto, Canada; Vancouver, Canada
+location: Toronto, Canada / Vancouver, Canada
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: AWS Aurora, PostgreSQL, MySQL, DynamoDB, Terraform, Python, Datadog, Lin
 level: senior
 comp: CAD 116,000 - CAD 145,000
 comp_extras: bonus, equity
-render_hash: 3f2fa043
+render_hash: af948629
 -->
 
 # Senior Cloud Database Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta**  
-Toronto, Canada; Vancouver, Canada · `Senior` · `Hybrid` · `CAD 116,000 - CAD 145,000` · `Bonus` · `Equity`
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta**  
+Toronto, Canada / Vancouver, Canada · `Senior` · `Hybrid` · `CAD 116,000 - CAD 145,000` · `Bonus` · `Equity`
 
 > Marqeta builds a card-issuing platform that enables companies to create and manage payment cards and digital wallets. They operate in the fintech infrastructure space, providing APIs and services for businesses to issue cards for various use cases including payroll, gig worker payments, and corporate expense management.
 

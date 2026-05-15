@@ -3,7 +3,7 @@ id: greenhouse-planetlabs-7921074
 company: Planet Labs
 title: Senior Software Engineer
 source: greenhouse
-location: Canada, Remote
+location: Remote
 remote: Remote
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Kubernetes, Terraform, Go, Python, Google Cloud Platform (GCP), AWS, Git
 level: senior
 comp: 
 comp_extras: equity
-render_hash: dd343246
+render_hash: 804bf4ae
 -->
 
 # Senior Software Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Planet Labs**  
-Canada · `Senior` · `Remote` · `Equity`
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs**  
+`Senior` · `Remote` · `Equity`
 
 > Planet Labs builds daily satellite imagery and insights used by decision-makers to monitor planetary changes.
 

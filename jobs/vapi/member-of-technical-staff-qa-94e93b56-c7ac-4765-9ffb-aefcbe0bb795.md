@@ -3,25 +3,25 @@ id: ashby-vapi-94e93b56-c7ac-4765-9ffb-aefcbe0bb795
 company: Vapi
 title: Member of Technical Staff, QA
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T22:33:12+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/vapi/94e93b56-c7ac-4765-9ffb-aefcbe0bb795
 summary: Build and own end-to-end testing infrastructure for a production voice AI platform handling 1M+ calls daily. Test complex distributed systems (LLMs, STT, TTS, telephony integrations) and define QA practices for a non-deterministic product at scale.
 skills: Playwright, TypeScript, JavaScript, Distributed Systems Testing, AI Coding Agents, Conversational AI, LLM Evals, Voice AI
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 1a3726f6
+render_hash: bed3dc03
 -->
 
 # Member of Technical Staff, QA
 
-<img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Vapi**  
-San Francisco · `Senior` · `Remote` · `Equity`
+<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi**  
+San Francisco, CA · `Senior` · `Remote` · `Equity`
 
 > Vapi builds an API platform that enables developers to create and deploy voice AI agents that can make and receive phone calls. The platform operates in the conversational AI and voice technology domain, allowing businesses to automate customer interactions through natural language conversations over phone lines.
 

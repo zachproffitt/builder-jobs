@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5137803007
 company: Anduril Industries
 title: Senior Quality Engineer, Applied AI
 source: greenhouse
-location: Seattle, Washington, United States
+location: Seattle, WA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, CI/CD, Kubernetes, LLM applications, Distributed Systems, Infras
 level: senior
 comp: $191k-$253k
 comp_extras: equity
-render_hash: 629606ca
+render_hash: 5171f2b6
 -->
 
 # Senior Quality Engineer, Applied AI
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Seattle, Washington, United States · `Senior` · `$191k-$253k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Seattle, WA · `Senior` · `$191k-$253k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

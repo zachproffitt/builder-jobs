@@ -3,7 +3,7 @@ id: greenhouse-astranis-4681218006
 company: Astranis
 title: Electrical Test Hardware Development Engineer
 source: greenhouse
-location: San Francisco, California
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, PCB Design, Altium Designer, Oscilloscope, Embedded Systems, Tes
 level: mid
 comp: $105k-$165k
 comp_extras: equity
-render_hash: b3ba1908
+render_hash: 6eb26db0
 -->
 
 # Electrical Test Hardware Development Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis**  
-San Francisco, California · `Mid` · `$105k-$165k` · `Equity`
+<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis**  
+San Francisco, CA · `Mid` · `$105k-$165k` · `Equity`
 
 > Astranis designs, builds, and operates high-orbit satellites.
 

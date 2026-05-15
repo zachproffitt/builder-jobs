@@ -3,25 +3,25 @@ id: ashby-lambda-0663f04c-097d-414f-b0a0-414a7cf153d6
 company: Lambda Labs
 title: Security Engineering Intern - Summer 2026
 source: ashby
-location: San Francisco Office (Fremont St)
+location: San Francisco, CA
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T15:47:44+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6
 summary: Build production security detections against Lambda's real log data, shipping code that fires on real events and routes to an on-call team. Work with LLM-based classifiers and rule-based systems to detect sensitive data exposure and identity/access pattern anomalies across AI cloud infrastructure.
 skills: Python, Go, LLMs, AWS, GCP, Log Analysis, Machine Learning, Security
 level: intern
 comp: 
 comp_extras: equity
-render_hash: e41cbe64
+render_hash: 68c6c786
 -->
 
 # Security Engineering Intern - Summer 2026
 
-<img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Lambda Labs**  
-San Francisco Office (Fremont St) · `Intern` · `Remote` · `Equity`
+<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs**  
+San Francisco, CA · `Intern` · `Remote` · `Equity`
 
 > Lambda Labs builds GPU cloud computing infrastructure and hardware systems designed for machine learning, AI, and deep learning workloads. They operate in the cloud computing and AI infrastructure domain, offering on-demand GPU instances, pre-configured deep learning environments, and physical AI workstations for researchers and enterprises.
 

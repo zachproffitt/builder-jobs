@@ -3,25 +3,25 @@ id: greenhouse-speechify-5975778004
 company: Speechify
 title: Tech Lead, Web Core Product & Chrome Extension - San Francisco, CA, USA
 source: greenhouse
-location: San Francisco, CA, USA
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5975778004
 summary: Lead development of Speechify's web products and Chrome Extension, shipping production code that serves millions of users. Build and scale high-performance text-to-speech interfaces across browser and web platforms while shaping product strategy alongside designers and PMs.
 skills: React, TypeScript, JavaScript, Firebase, Redux
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 90a93172
+render_hash: 5ba210eb
 -->
 
 # Tech Lead, Web Core Product & Chrome Extension - San Francisco, CA, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-San Francisco, CA, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+San Francisco, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Lead development of Speechify's web products and Chrome Extension, shipping pro
 
 ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5975778004)**
 

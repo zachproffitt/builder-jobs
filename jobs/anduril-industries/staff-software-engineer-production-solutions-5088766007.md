@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5088766007
 company: Anduril Industries
 title: Staff Software Engineer, Production Solutions
 source: greenhouse
-location: Costa Mesa, California, United States
+location: Costa Mesa, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: TypeScript, React, Remix, AWS, Manufacturing Execution Systems (MES), Di
 level: staff
 comp: $220,000–$292,000
 comp_extras: equity
-render_hash: 5aee7148
+render_hash: 8ca9d9c2
 -->
 
 # Staff Software Engineer, Production Solutions
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Costa Mesa, California, United States · `Staff` · `$220,000–$292,000` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Costa Mesa, CA · `Staff` · `$220,000–$292,000` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

@@ -3,7 +3,7 @@ id: greenhouse-archer56-7698902003
 company: Archer Aviation
 title: Sr Software Verification Engineer
 source: greenhouse
-location: San Jose, California, United States
+location: San Jose, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C/C++, Python, DO-178C, CAN, MATLAB/Simulink, Hardware-in-the-Loop, ISO 
 level: senior
 comp: $120k-$180k
 comp_extras: 
-render_hash: af511f93
+render_hash: 7e6d1ba6
 -->
 
 # Sr Software Verification Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Archer Aviation**  
-San Jose, California, United States · `Senior` · `$120k-$180k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation**  
+San Jose, CA · `Senior` · `$120k-$180k`
 
 > Archer Aviation builds electric vertical takeoff and landing aircraft (eVTOL) designed for urban air mobility applications. The company is developing aircraft intended to transport passengers on short-distance routes in metropolitan areas.
 

@@ -3,7 +3,7 @@ id: greenhouse-anthropic-5170073008
 company: Anthropic
 title: Staff Network Engineer
 source: greenhouse
-location: Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY
+location: San Francisco, CA / Seattle, WA / New York City, NY / Remote
 remote: Remote
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, Go, BGP, Kubernetes, AWS, GCP, Azure, Linux
 level: staff
 comp: $320,000—$405,000
 comp_extras: equity
-render_hash: 6a575b5d
+render_hash: a09e6082
 -->
 
 # Staff Network Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic**  
-(Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY · `Staff` · `Remote` · `$320,000—$405,000` · `Equity`
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic**  
+San Francisco, CA / Seattle, WA / New York City, NY / Remote · `Staff` · `Remote` · `$320,000—$405,000` · `Equity`
 
 > Anthropic builds AI systems focused on safety, interpretability, and steerability for research.
 

@@ -3,25 +3,25 @@ id: ashby-openai-57b9ce42-b17f-4b43-96b3-a67d9d705d5d
 company: OpenAI
 title: Head of Measurement & Performance Intelligence
 source: ashby
-location: Remote - US
+location: San Francisco, CA
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T15:47:44+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/57b9ce42-b17f-4b43-96b3-a67d9d705d5d
 summary: Lead the measurement and performance intelligence function for OpenAI's compute platforms, defining metrics, benchmarking methodologies, and acceptance criteria across hardware and software systems. Partner with training, inference, and infrastructure teams to translate performance data into architectural and capacity decisions at scale.
 skills: Distributed Systems, HPC, Performance Engineering, Benchmarking, AI/ML Infrastructure, Systems Architecture
 level: manager
 comp: 
 comp_extras: 
-render_hash: 49887bbe
+render_hash: ce1eab38
 -->
 
 # Head of Measurement & Performance Intelligence
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-US · `Manager` · `Remote`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Manager` · `Remote`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

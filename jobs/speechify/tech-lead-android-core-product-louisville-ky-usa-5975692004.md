@@ -3,25 +3,25 @@ id: greenhouse-speechify-5975692004
 company: Speechify
 title: Tech Lead, Android Core Product - Louisville, KY, USA
 source: greenhouse
-location: Louisville, KY, USA
+location: Louisville, KY
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5975692004
 summary: Own major features and lead the Android team for Speechify's text-to-speech app, the most-used in the Play Store, shaping product decisions and setting technical direction for a flat organization. Drive architecture improvements, reliability metrics, and user experience while mentoring teammates across a 100% distributed, fully remote company.
 skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Jetpack Compose, JUnit, Android
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 584f8ded
+render_hash: fb8db22b
 -->
 
 # Tech Lead, Android Core Product - Louisville, KY, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Louisville, KY, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Louisville, KY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Own major features and lead the Android team for Speechify's text-to-speech app
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5975692004)**
 

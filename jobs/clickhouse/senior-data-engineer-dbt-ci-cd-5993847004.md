@@ -3,7 +3,7 @@ id: greenhouse-clickhouse-5993847004
 company: ClickHouse
 title: Senior Data Engineer - Dbt, CI/CD
 source: greenhouse
-location: AMER
+location: Remote
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, Airflow, dbt, SQL, ClickHouse, GitHub Actions, AWS, Incremental 
 level: senior
 comp: $84k-$170k
 comp_extras: equity
-render_hash: 76b8432a
+render_hash: 79b648b6
 -->
 
 # Senior Data Engineer - Dbt, CI/CD
 
-<img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**ClickHouse**  
-AMER · `Senior` · `$84k-$170k` · `Equity`
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse**  
+Remote · `Senior` · `$84k-$170k` · `Equity`
 
 > ClickHouse builds a columnar database management system designed for fast analytical queries on large datasets. The company operates in the data infrastructure domain, providing an open-source database engine optimized for OLAP (online analytical processing) workloads.
 

@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5136528007
 company: Anduril Industries
 title: Senior Machine Learning Engineer, RL / Locomotion
 source: greenhouse
-location: Costa Mesa, California, United States
+location: Costa Mesa, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Reinforcement Learning, PyTorch, Python, Isaac Gym, Physics Simulation, 
 level: senior
 comp: $220k-$336k
 comp_extras: equity
-render_hash: a4c441f7
+render_hash: 1deab8bd
 -->
 
 # Senior Machine Learning Engineer, RL / Locomotion
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Costa Mesa, California, United States · `Senior` · `$220k-$336k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Costa Mesa, CA · `Senior` · `$220k-$336k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

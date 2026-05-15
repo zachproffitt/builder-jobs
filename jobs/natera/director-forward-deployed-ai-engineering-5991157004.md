@@ -3,7 +3,7 @@ id: greenhouse-natera-5991157004
 company: Natera
 title: Director, Forward Deployed AI Engineering
 source: greenhouse
-location: US Remote
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, SQL, LLM agents, RAG, Prompt engineering, Enterprise APIs, Cloud
 level: manager
 comp: $186,700–$233,400
 comp_extras: 
-render_hash: 25a8c30d
+render_hash: 24393c14
 -->
 
 # Director, Forward Deployed AI Engineering
 
-<img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Natera**  
-US Remote · `Manager` · `Remote` · `$186,700–$233,400`
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera**  
+`Manager` · `Remote` · `$186,700–$233,400`
 
 > # Natera
 

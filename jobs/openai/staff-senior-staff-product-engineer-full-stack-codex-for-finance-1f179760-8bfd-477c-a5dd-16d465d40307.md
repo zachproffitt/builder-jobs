@@ -3,25 +3,25 @@ id: ashby-openai-1f179760-8bfd-477c-a5dd-16d465d40307
 company: OpenAI
 title: Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T03:22:37+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/1f179760-8bfd-477c-a5dd-16d465d40307
 summary: Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle.
 skills: TypeScript, React, Python, Go, Rust, PostgreSQL, Distributed Systems, AI/ML
 level: senior
 comp: 
 comp_extras: 
-render_hash: 7d44ca6e
+render_hash: 1e7c9566
 -->
 
 # Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-San Francisco · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

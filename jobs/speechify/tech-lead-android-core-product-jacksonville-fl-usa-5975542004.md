@@ -3,25 +3,25 @@ id: greenhouse-speechify-5975542004
 company: Speechify
 title: Tech Lead, Android Core Product - Jacksonville, FL, USA
 source: greenhouse
-location: Jacksonville, FL, USA
+location: Jacksonville, FL
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5975542004
 summary: Lead the Android engineering team to build and scale Speechify's text-to-speech mobile app, the most-used app in its category on the Play Store. Own major features end-to-end, shape team direction, and drive product decisions that impact 50+ million users, many with learning differences like dyslexia and low vision.
 skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Jetpack Compose, Android
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 2bc83100
+render_hash: b0de5926
 -->
 
 # Tech Lead, Android Core Product - Jacksonville, FL, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Jacksonville, FL, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Jacksonville, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Lead the Android engineering team to build and scale Speechify's text-to-speech
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5975542004)**
 

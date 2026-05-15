@@ -3,25 +3,25 @@ id: ashby-openai-5a1a0c32-0b82-482a-8149-e6b096c3e732
 company: OpenAI
 title: Android Engineer, ChatGPT (Seattle)
 source: ashby
-location: Seattle
+location: Seattle, WA
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732
 summary: Build and ship new Android experiences for ChatGPT, expanding mobile AI capabilities. Drive foundational improvements in app architecture, performance optimization, and testing frameworks while collaborating across product, design, and research teams.
 skills: Android, Kotlin, Java, Performance Optimization, App Architecture, Testing Frameworks
 level: senior
 comp: 
 comp_extras: 
-render_hash: b24ddd5f
+render_hash: 15a98f7f
 -->
 
 # Android Engineer, ChatGPT (Seattle)
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-Seattle · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+Seattle, WA · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

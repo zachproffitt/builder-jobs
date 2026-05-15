@@ -15,12 +15,12 @@ skills:
 level: intern
 comp: 
 comp_extras: 
-render_hash: 31dcdcab
+render_hash: 20cd372e
 -->
 
 # Year at Palantir - Software Engineer, Internship
 
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir**  
+<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir**  
 New York, NY · `Intern` · On-site
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.

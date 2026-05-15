@@ -8,19 +8,19 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5976301004
 summary: Build and own major features for Speechify's Android app, the most-used text-to-speech app in the Play Store, serving millions of users with accessibility needs. Lead technical strategy for the Android team and drive reliability and UX improvements across the platform.
 skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Jetpack Compose, JUnit
 level: senior
 comp: 
 comp_extras: 
-render_hash: 65ddc64c
+render_hash: 642e3b03
 -->
 
 # Tech Lead, Android Core Product - Toronto, Canada
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
 Toronto, Canada · `Senior`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
@@ -29,7 +29,7 @@ _Build and own major features for Speechify's Android app, the most-used text-to
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5976301004)**
 

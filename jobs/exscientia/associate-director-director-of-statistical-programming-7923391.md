@@ -3,7 +3,7 @@ id: greenhouse-recursionpharmaceuticals-7923391
 company: Exscientia
 title: Associate Director/Director of Statistical Programming
 source: greenhouse
-location: Remote Opportunity - United States
+location: Remote
 remote: Remote
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: SAS, R, R-Shiny, CDISC, SDTM, ADaM, Python, Regulatory Compliance
 level: manager
 comp: $200,600-$260,200
 comp_extras: bonus, equity
-render_hash: 8356f67b
+render_hash: a9dad93e
 -->
 
 # Associate Director/Director of Statistical Programming
 
-<img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Exscientia**  
-Remote Opportunity - United States · `Manager` · `Remote` · `$200,600-$260,200` · `Bonus` · `Equity`
+<a href="https://exscientia.ai"><img src="https://www.google.com/s2/favicons?domain=exscientia.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Exscientia**  
+`Manager` · `Remote` · `$200,600-$260,200` · `Bonus` · `Equity`
 
 > Recursion builds AI platforms for drug discovery using biological data.
 

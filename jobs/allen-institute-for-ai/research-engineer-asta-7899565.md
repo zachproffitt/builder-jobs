@@ -15,12 +15,12 @@ skills: Python, PyTorch, Jax, TensorFlow, GCP, AWS, Docker, NLP
 level: mid
 comp: $118,800-$178,200
 comp_extras: bonus
-render_hash: 3e64012f
+render_hash: 5f758f41
 -->
 
 # Research Engineer, Asta
 
-<img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle">&ensp;**Allen Institute for AI**  
+<a href="https://allenai.org"><img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Allen Institute for AI**  
 Seattle, WA · `Mid` · `Hybrid` · `$118,800-$178,200` · `Bonus`
 
 > Allen Institute for AI conducts research and engineering to tackle key problems in artificial intelligence.

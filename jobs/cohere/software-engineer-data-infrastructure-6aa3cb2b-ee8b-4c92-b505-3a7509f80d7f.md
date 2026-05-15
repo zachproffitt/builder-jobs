@@ -3,25 +3,25 @@ id: ashby-cohere-6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f
 company: Cohere
 title: Software Engineer, Data Infrastructure
 source: ashby
-location: New York
+location: New York, NY
 remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:53:23+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f
 summary: Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible.
 skills: Python, Kubernetes, Apache Spark, Apache Beam, S3, GCS, Distributed Systems, BigQuery
 level: senior
 comp: 
 comp_extras: 
-render_hash: 48abf74d
+render_hash: c15018b4
 -->
 
 # Software Engineer, Data Infrastructure
 
-<img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cohere**  
-New York · `Senior` · `Remote`
+<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere**  
+New York, NY · `Senior` · `Remote`
 
 > Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.
 

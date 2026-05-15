@@ -3,7 +3,7 @@ id: greenhouse-toast-7851302
 company: Toast
 title: Staff Software Engineer, Embedded Finance
 source: greenhouse
-location: Remote, USA
+location: Remote
 remote: Remote
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Java, Kotlin, REST, GraphQL, Microservices, Distributed Systems, Enterpr
 level: staff
 comp: $151k-$309k
 comp_extras: equity, bonus
-render_hash: 9cd3e37a
+render_hash: 7dcd9074
 -->
 
 # Staff Software Engineer, Embedded Finance
 
-<img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Toast**  
-USA · `Staff` · `Remote` · `$151k-$309k` · `Equity` · `Bonus`
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast**  
+`Staff` · `Remote` · `$151k-$309k` · `Equity` · `Bonus`
 
 > Toast is a cloud-based point-of-sale and restaurant management platform that helps restaurants manage orders, payments, inventory, and staff scheduling. The company serves full-service restaurants, quick-service restaurants, and other food service establishments globally.
 

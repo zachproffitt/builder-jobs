@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5136753007
 company: Anduril Industries
 title: Software Engineer
 source: greenhouse
-location: Boston, Massachusetts, United States
+location: Boston, MA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C++, Rust, Go, TypeScript, React, Robotics, Computer Vision, Security Cl
 level: mid
 comp: $166k-$220k
 comp_extras: equity
-render_hash: b06451e8
+render_hash: e860e01d
 -->
 
 # Software Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Boston, Massachusetts, United States · `Mid` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Boston, MA · `Mid` · `$166k-$220k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

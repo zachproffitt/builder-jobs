@@ -8,19 +8,19 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T12:51:20+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/cerebrassystems/jobs/7735288003
 summary: Build AI-driven evaluation systems and performance benchmarking infrastructure for Cerebras' inference offerings, using AI agents to automate model quality assessment, eval suite generation, and customer-specific performance forecasting. Design tooling that synthesizes quality and performance data into production-ready artifacts for both internal teams and customers.
 skills: Claude, Python, Docker, Git, Machine Learning, Evaluation Frameworks, Performance Benchmarking, Statistics
 level: mid
 comp: 
 comp_extras: 
-render_hash: cdd0b005
+render_hash: 5857565d
 -->
 
 # AI Engineer, Model Quality and Performance
 
-<img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle">&ensp;**Cerebras Systems**  
+<a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems**  
 Sunnyvale, CA · `Mid`
 
 > Cerebras builds AI training platforms used by machine learning engineers.
@@ -29,7 +29,7 @@ _Build AI-driven evaluation systems and performance benchmarking infrastructure 
 
 ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Evaluation Frameworks](https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square) ![Performance Benchmarking](https://img.shields.io/badge/Performance_Benchmarking-3B82F6?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 12:51 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/cerebrassystems/jobs/7735288003)**
 

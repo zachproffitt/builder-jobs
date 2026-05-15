@@ -3,7 +3,7 @@ id: greenhouse-archer56-7719731003
 company: Archer Aviation
 title: Staff Test Engineer, Flight Controls System
 source: greenhouse
-location: San Jose, California, United States
+location: San Jose, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: DO-178C, ARP4754A, Polarion, DOORS, Python, MATLAB, ARINC429, CAN
 level: senior
 comp: $160k-$190k
 comp_extras: 
-render_hash: c4badeca
+render_hash: b639dc0e
 -->
 
 # Staff Test Engineer, Flight Controls System
 
-<img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Archer Aviation**  
-San Jose, California, United States · `Senior` · `$160k-$190k`
+<a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation**  
+San Jose, CA · `Senior` · `$160k-$190k`
 
 > Archer Aviation builds electric vertical takeoff and landing aircraft (eVTOL) designed for urban air mobility applications. The company is developing aircraft intended to transport passengers on short-distance routes in metropolitan areas.
 

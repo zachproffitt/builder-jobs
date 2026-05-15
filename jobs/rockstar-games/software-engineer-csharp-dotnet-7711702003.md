@@ -3,7 +3,7 @@ id: greenhouse-rockstargames-7711702003
 company: Rockstar Games
 title: Software Engineer (C#/.NET)
 source: greenhouse
-location: Manhattan, New York, United States
+location: Manhattan, NY
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C#, C++, .NET, SQL Server, API Design, Distributed Systems, Perforce, Xb
 level: mid
 comp: $101,100-$134,300
 comp_extras: bonus, equity
-render_hash: efa89175
+render_hash: 5604c100
 -->
 
 # Software Engineer (C#/.NET)
 
-<img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rockstar Games**  
-Manhattan, New York, United States · `Mid` · `$101,100-$134,300` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games**  
+Manhattan, NY · `Mid` · `$101,100-$134,300` · `Bonus` · `Equity`
 
 > Rockstar Games builds video games, including the Grand Theft Auto series.
 

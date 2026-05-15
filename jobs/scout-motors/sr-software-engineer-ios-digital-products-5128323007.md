@@ -3,7 +3,7 @@ id: greenhouse-scoutmotors-5128323007
 company: Scout Motors
 title: Sr Software Engineer (iOS) – Digital Products
 source: greenhouse
-location: Remote, United States
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Swift, SwiftUI, iOS, GraphQL, Git, CI/CD, Mobile Security, IoT
 level: senior
 comp: $140k-$187k
 comp_extras: bonus
-render_hash: 21e0b4cb
+render_hash: 3415614d
 -->
 
 # Sr Software Engineer (iOS) – Digital Products
 
-<img src="https://www.google.com/s2/favicons?domain=scoutmotors.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Scout Motors**  
-United States · `Senior` · `Remote` · `$140k-$187k` · `Bonus`
+<a href="https://scoutmotors.com"><img src="https://www.google.com/s2/favicons?domain=scoutmotors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scout Motors**  
+`Senior` · `Remote` · `$140k-$187k` · `Bonus`
 
 > Scout Motors builds electric sport utility vehicles (SUVs) and is developing manufacturing operations to produce them domestically in the United States. The company operates in the automotive industry, specifically focused on electric vehicle production.
 

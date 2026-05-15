@@ -3,7 +3,7 @@ id: greenhouse-epicgames-5995948004
 company: Epic Games
 title: Senior Engine Programmer, Verse Framework
 source: greenhouse
-location: Montreal,Quebec,Canada
+location: Montreal, Canada
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C++, Unreal Engine, Verse, API Design, Networking, Scene Graph, Game Con
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4b0ba790
+render_hash: 565fb817
 -->
 
 # Senior Engine Programmer, Verse Framework
 
-<img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Epic Games**  
-Montreal,Quebec,Canada · `Senior`
+<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games**  
+Montreal, Canada · `Senior`
 
 > Epic Games develops the Unreal Engine, a real-time 3D graphics engine used for video game development and visualization across industries, and operates the Epic Games Store, a digital distribution platform for PC games. The company also develops and publishes games, most notably Fortnite, a free-to-play battle royale game.
 

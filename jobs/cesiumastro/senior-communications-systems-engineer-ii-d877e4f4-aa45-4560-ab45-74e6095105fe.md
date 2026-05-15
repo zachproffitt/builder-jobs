@@ -8,19 +8,19 @@ remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T21:36:32+00:00
+first_seen_at: 
 url: https://jobs.lever.co/CesiumAstro/d877e4f4-aa45-4560-ab45-74e6095105fe
 summary: Design and deploy machine learning solutions for distributed processing platforms supporting satellite and airborne communication systems. Work at the intersection of ML and aerospace systems with U.S. export control requirements and active mission-critical constraints.
 skills: Machine Learning, Python, Distributed Systems, Model Deployment, PyTorch, TensorFlow, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: 3e2fcfb7
+render_hash: b84bc024
 -->
 
 # Senior Communications Systems Engineer II
 
-<img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CesiumAstro**  
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro**  
 Austin, TX · `Senior` · On-site
 
 > CesiumAstro develops radio frequency and antenna technologies for satellite communications, focusing on phased array systems that enable improved connectivity and beam steering capabilities. The company operates in the space technology and satellite communications domain, serving both government and commercial customers requiring advanced satellite ground terminals and in-space antenna solutions.

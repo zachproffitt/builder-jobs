@@ -3,25 +3,25 @@ id: ashby-blaxel-4acea42a-589d-42b1-949e-d4ec4b8907a2
 company: Blaxel
 title: Forward Deployed Engineer (FDE)
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: On-site
 hybrid: yes
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:53:23+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/blaxel/4acea42a-589d-42b1-949e-d4ec4b8907a2
 summary: Deploy and debug Blaxel's serverless AI agent infrastructure in customer production environments, working across their architecture, APIs, and deployment pipelines. You'll own customer success from technical discovery through implementation, translating real-world constraints into working systems while feeding product learnings back to the platform team.
 skills: TypeScript, Python, Kubernetes, AWS, Docker, Go, Rust, CI/CD
 level: mid
 comp: 
 comp_extras: 
-render_hash: 860bc762
+render_hash: 99fbd753
 -->
 
 # Forward Deployed Engineer (FDE)
 
-<img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Blaxel**  
-San Francisco · `Mid` · `Hybrid`
+<a href="https://blaxel.ai"><img src="https://www.google.com/s2/favicons?domain=blaxel.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Blaxel**  
+San Francisco, CA · `Mid` · `Hybrid`
 
 > Blaxel builds a persistent sandbox platform that allows AI agents to run code securely in always-available environments with shared storage and co-hosted infrastructure. They operate in the AI infrastructure domain, providing compute sandboxes, distributed filesystems, and agent hosting services that maintain state across sessions without continuous compute costs.
 

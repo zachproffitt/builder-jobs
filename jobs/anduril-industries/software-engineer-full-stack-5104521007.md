@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5104521007
 company: Anduril Industries
 title: Software Engineer, Full-stack
 source: greenhouse
-location: Costa Mesa, California, United States
+location: Costa Mesa, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: TypeScript, React, React Native, C++, Go, Android, Swift, Security Clear
 level: senior
 comp: $166k-$220k
 comp_extras: equity
-render_hash: f1ddde66
+render_hash: 45bc2a8d
 -->
 
 # Software Engineer, Full-stack
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Costa Mesa, CA · `Senior` · `$166k-$220k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

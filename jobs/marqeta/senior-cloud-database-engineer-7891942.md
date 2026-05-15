@@ -3,7 +3,7 @@ id: greenhouse-marqeta-7891942
 company: Marqeta
 title: Senior Cloud Database Engineer
 source: greenhouse
-location: Remote, USA
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: AWS Aurora, Python, Terraform, PostgreSQL, MySQL, DynamoDB, Datadog, Lin
 level: senior
 comp: $144,100-$180,100
 comp_extras: bonus, equity
-render_hash: 5c0f51e5
+render_hash: d1605573
 -->
 
 # Senior Cloud Database Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta**  
-USA · `Senior` · `Remote` · `$144,100-$180,100` · `Bonus` · `Equity`
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta**  
+`Senior` · `Remote` · `$144,100-$180,100` · `Bonus` · `Equity`
 
 > Marqeta builds a card-issuing platform that enables companies to create and manage payment cards and digital wallets. They operate in the fintech infrastructure space, providing APIs and services for businesses to issue cards for various use cases including payroll, gig worker payments, and corporate expense management.
 

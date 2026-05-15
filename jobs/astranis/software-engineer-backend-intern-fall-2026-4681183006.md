@@ -15,12 +15,12 @@ skills: Python, PostgreSQL, RabbitMQ, Kubernetes, Pub/Sub Systems, Streaming Sys
 level: intern
 comp: $29/hour
 comp_extras: 
-render_hash: a586c575
+render_hash: e6c370e1
 -->
 
 # Software Engineer- Backend Intern (Fall 2026)
 
-<img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Astranis**  
+<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis**  
 San Francisco, CA · `Intern` · `$29/hour`
 
 > Astranis designs, builds, and operates high-orbit satellites.

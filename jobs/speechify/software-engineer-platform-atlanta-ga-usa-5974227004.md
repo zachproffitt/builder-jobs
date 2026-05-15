@@ -3,25 +3,25 @@ id: greenhouse-speechify-5974227004
 company: Speechify
 title: Software Engineer, Platform - Atlanta, GA, USA
 source: greenhouse
-location: Atlanta, GA, USA
+location: Atlanta, GA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5974227004
 summary: Design and maintain backend APIs for a text-to-speech platform serving 50+ million users, including payment, subscription, authentication, and TTS systems. Build high-availability services on GCP/Kubernetes supporting both consumer and enterprise B2B products.
 skills: TypeScript, Node.js, GCP, Kubernetes, Docker, AWS, REST APIs, Payment Systems
 level: mid
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: d39fbacd
+render_hash: 8edc242a
 -->
 
 # Software Engineer, Platform - Atlanta, GA, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Atlanta, GA, USA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Atlanta, GA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Design and maintain backend APIs for a text-to-speech platform serving 50+ mill
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5974227004)**
 

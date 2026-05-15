@@ -3,25 +3,25 @@ id: greenhouse-workato-8516213002
 company: Workato
 title: Lead AI Research Scientist
 source: greenhouse
-location: San Francisco, California
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/workato/jobs/8516213002
 summary: Define and execute a 24-month research vision for enterprise AI systems, including deterministic planners, self-healing automations, and agent evaluation frameworks. Lead a team of 10+ applied researchers to transition cutting-edge research into production-ready solutions within six months of proof of concept, working directly with enterprise customers to validate and scale innovations.
 skills: PyTorch, JAX, CUDA, Reinforcement Learning, Transformer Architectures, Large Language Models, PhD
 level: principal
 comp: $357k+
 comp_extras: equity
-render_hash: 69863472
+render_hash: 6c01c939
 -->
 
 # Lead AI Research Scientist
 
-<img src="https://www.google.com/s2/favicons?domain=workato.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Workato**  
-San Francisco, California · `Principal` · `$357k+` · `Equity`
+<a href="https://workato.com"><img src="https://www.google.com/s2/favicons?domain=workato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workato**  
+San Francisco, CA · `Principal` · `$357k+` · `Equity`
 
 > Workato is an enterprise integration and automation platform that connects business applications and automates workflows across systems like Salesforce, ServiceNow, SAP, and hundreds of other enterprise software solutions. The company serves mid-market and enterprise organizations that need to integrate disparate systems and automate complex business processes without extensive custom coding.
 
@@ -29,7 +29,7 @@ _Define and execute a 24-month research vision for enterprise AI systems, includ
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![JAX](https://img.shields.io/badge/JAX-3B82F6?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-3B82F6?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square) ![Transformer Architectures](https://img.shields.io/badge/Transformer_Architectures-3B82F6?style=flat-square) ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square) ![PhD](https://img.shields.io/badge/PhD-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/workato/jobs/8516213002)**
 

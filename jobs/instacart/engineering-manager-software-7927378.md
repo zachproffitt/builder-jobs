@@ -3,7 +3,7 @@ id: greenhouse-instacart-7927378
 company: Instacart
 title: Engineering Manager, Software
 source: greenhouse
-location: Canada - Remote (ON, AB, BC, or NS Only)
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Workflow Orchestration (Temporal, Airflow), Large Language Models, Data 
 level: manager
 comp: CAD$196,000—$207,000
 comp_extras: equity
-render_hash: f6b274e4
+render_hash: f003d301
 -->
 
 # Engineering Manager, Software
 
-<img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Instacart**  
-Canada (ON, AB, BC, or NS Only) · `Manager` · `Remote` · `CAD$196,000—$207,000` · `Equity`
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart**  
+`Manager` · `Remote` · `CAD$196,000—$207,000` · `Equity`
 
 > Instacart operates an e-commerce platform that enables customers to order groceries and household items from local supermarkets and specialty retailers for same-day or scheduled delivery. The company partners with grocery chains and independent stores to fulfill orders through a network of shoppers who pick and deliver items to customers' homes.
 

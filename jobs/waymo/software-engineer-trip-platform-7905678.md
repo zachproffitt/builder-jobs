@@ -3,7 +3,7 @@ id: greenhouse-waymo-7905678
 company: Waymo
 title: Software Engineer, Trip Platform
 source: greenhouse
-location: Mountain View, CA, United States 
+location: Mountain View, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C++, Backend Development, API Design, Distributed Systems, Google Cloud 
 level: mid
 comp: $175k-$215k
 comp_extras: equity, bonus
-render_hash: c68e5697
+render_hash: ee82b247
 -->
 
 # Software Engineer, Trip Platform
 
-<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo**  
-Mountain View, CA, United States  · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo**  
+Mountain View, CA · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
 
 > Waymo builds autonomous vehicle technology for transportation.
 

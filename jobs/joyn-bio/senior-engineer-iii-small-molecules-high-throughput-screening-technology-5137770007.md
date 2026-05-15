@@ -3,7 +3,7 @@ id: greenhouse-ginkgobioworks-5137770007
 company: Joyn Bio
 title: Senior Engineer III, Small Molecules – High Throughput Screening & Technology 
 source: greenhouse
-location: Boston, Massachusetts
+location: Boston, MA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: High-Throughput Screening, Drug-Seq, NGS, CRISPR, Experimental Design, L
 level: senior
 comp: $160k-$180k
 comp_extras: equity
-render_hash: 50579b83
+render_hash: 2de93bbf
 -->
 
 # Senior Engineer III, Small Molecules – High Throughput Screening & Technology 
 
-<img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle">&ensp;**Joyn Bio**  
-Boston, Massachusetts · `Senior` · `Hybrid` · `$160k-$180k` · `Equity`
+<a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio**  
+Boston, MA · `Senior` · `Hybrid` · `$160k-$180k` · `Equity`
 
 > # Joyn Bio
 

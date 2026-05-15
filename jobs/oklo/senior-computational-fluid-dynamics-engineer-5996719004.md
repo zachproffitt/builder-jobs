@@ -3,25 +3,25 @@ id: greenhouse-oklo-5996719004
 company: Oklo
 title: Senior Computational Fluid Dynamics Engineer
 source: greenhouse
-location: Santa Clara, CA or Remote
+location: Santa Clara, CA / Remote
 remote: Remote
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T01:09:51+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/oklo/jobs/5996719004
 summary: Develop and conduct high-fidelity CFD thermal-hydraulic analyses of advanced fission reactor systems, including core, vessel, heat exchangers, and power conversion components. This role requires deep expertise in thermal-fluid dynamics for nuclear applications at a startup advancing commercial advanced reactors.
 skills: STAR-CCM+, ANSYS Fluent, Python, Heat Transfer, Fluid Dynamics, Nuclear Engineering, Thermodynamics, RELAP
 level: senior
 comp: $100,000-$190,000
 comp_extras: equity, bonus
-render_hash: 8c1f9bc9
+render_hash: 4e03b0a5
 -->
 
 # Senior Computational Fluid Dynamics Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Oklo**  
-Santa Clara, CA or Remote · `Senior` · `Remote` · `$100,000-$190,000` · `Equity` · `Bonus`
+<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo**  
+Santa Clara, CA / Remote · `Senior` · `Remote` · `$100,000-$190,000` · `Equity` · `Bonus`
 
 > # Oklo
 
@@ -31,7 +31,7 @@ _Develop and conduct high-fidelity CFD thermal-hydraulic analyses of advanced fi
 
 ![STAR-CCM+](https://img.shields.io/badge/STAR--CCM%2B-3B82F6?style=flat-square) ![ANSYS Fluent](https://img.shields.io/badge/ANSYS_Fluent-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Heat Transfer](https://img.shields.io/badge/Heat_Transfer-3B82F6?style=flat-square) ![Fluid Dynamics](https://img.shields.io/badge/Fluid_Dynamics-3B82F6?style=flat-square) ![Nuclear Engineering](https://img.shields.io/badge/Nuclear_Engineering-3B82F6?style=flat-square) ![Thermodynamics](https://img.shields.io/badge/Thermodynamics-3B82F6?style=flat-square) ![RELAP](https://img.shields.io/badge/RELAP-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 01:09 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/oklo/jobs/5996719004)**
 

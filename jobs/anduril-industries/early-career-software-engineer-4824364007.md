@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-4824364007
 company: Anduril Industries
 title: Early Career Software Engineer
 source: greenhouse
-location: Seattle, Washington, United States
+location: Seattle, WA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C++, Go, Rust, Java, Python, Cloud Infrastructure, Computer Vision, Sens
 level: junior
 comp: $130k-$135k
 comp_extras: equity
-render_hash: 46a49ac8
+render_hash: 872b2fb1
 -->
 
 # Early Career Software Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Seattle, Washington, United States · `Junior` · `$130k-$135k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Seattle, WA · `Junior` · `$130k-$135k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

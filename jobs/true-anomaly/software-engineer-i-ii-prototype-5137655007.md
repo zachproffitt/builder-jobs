@@ -15,12 +15,12 @@ skills: Python, TypeScript, Go, REST APIs, SQL, NoSQL, ETL/Data Pipelines, AI-as
 level: junior
 comp: $70k-$130k
 comp_extras: equity
-render_hash: cc42e869
+render_hash: de55a282
 -->
 
 # Software Engineer (I-II), Prototype
 
-<img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle">&ensp;**True Anomaly**  
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly**  
 Denver, CO · `Junior` · `Hybrid` · `$70k-$130k` · `Equity`
 
 > True Anomaly builds mission-critical software for space operations used by defense and aerospace organizations.

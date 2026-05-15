@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5137179007
 company: Anduril Industries
 title: Camera Test Engineer
 source: greenhouse
-location: Lexington, Massachusetts, United States
+location: Lexington, MA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, MATLAB, Test Automation, Data Acquisition, Root Cause Analysis, 
 level: mid
 comp: $98k-$130k
 comp_extras: equity
-render_hash: 54089a1a
+render_hash: ab83c0ba
 -->
 
 # Camera Test Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Lexington, Massachusetts, United States · `Mid` · `$98k-$130k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Lexington, MA · `Mid` · `$98k-$130k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

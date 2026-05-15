@@ -3,7 +3,7 @@ id: greenhouse-airbnb-7759457
 company: Airbnb
 title: Senior Staff Machine Learning Engineer, Infrastructure
 source: greenhouse
-location: United States
+location: Remote
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, Scala, PyTorch, TensorFlow, Kubernetes, Spark, Airflow, Kafka
 level: staff
 comp: $248,000-$310,000
 comp_extras: bonus, equity
-render_hash: d3cfd492
+render_hash: 16131372
 -->
 
 # Senior Staff Machine Learning Engineer, Infrastructure
 
-<img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb**  
-United States · `Staff` · `$248,000-$310,000` · `Bonus` · `Equity`
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb**  
+Remote · `Staff` · `$248,000-$310,000` · `Bonus` · `Equity`
 
 > Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 

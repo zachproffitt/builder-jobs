@@ -3,7 +3,7 @@ id: ashby-langchain-d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93
 company: LangChain
 title: Principal Software Engineer, AI Observability & Evals Platform
 source: ashby
-location: Boston, MA
+location: Boston, MA / San Francisco, CA / New York, NY
 remote: On-site
 hybrid: no
 posted_at: 2026-05-13
@@ -15,13 +15,13 @@ skills: Go, Python, TypeScript, React, PostgreSQL, AWS, Distributed Systems, Pro
 level: principal
 comp: $230,000-$270,000
 comp_extras: equity
-render_hash: 3a5823ea
+render_hash: 60d45070
 -->
 
 # Principal Software Engineer, AI Observability & Evals Platform
 
-<img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**LangChain**  
-Boston, MA · `Principal` · On-site · `$230,000-$270,000` · `Equity`
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain**  
+Boston, MA / San Francisco, CA / New York, NY · `Principal` · On-site · `$230,000-$270,000` · `Equity`
 
 > LangChain builds open-source Python and JavaScript libraries that simplify building applications with large language models by providing abstractions for chaining together LLM calls, managing prompts, and integrating external data sources. The company operates in the developer tools space for AI/machine learning applications.
 

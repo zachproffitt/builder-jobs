@@ -15,12 +15,12 @@ skills: C, C++, Rust, JavaScript, Linux internals, Memory management, Performanc
 level: senior
 comp: $320k-$485k
 comp_extras: equity
-render_hash: 54c0b481
+render_hash: a46542ec
 -->
 
 # Software Engineer, Systems - Claude Code
 
-<img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anthropic**  
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic**  
 San Francisco, CA · `Senior` · `Hybrid` · `$320k-$485k` · `Equity`
 
 > Anthropic builds AI systems focused on safety, interpretability, and steerability for research.

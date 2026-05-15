@@ -3,7 +3,7 @@ id: greenhouse-singlestore-7868658
 company: SingleStore
 title: Sr. Software Engineer
 source: greenhouse
-location: United States
+location: Remote
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Go, Kubernetes, Distributed Systems, Cloud-Native Architecture, React, B
 level: senior
 comp: 
 comp_extras: bonus
-render_hash: 980de4da
+render_hash: 95dd99b1
 -->
 
 # Sr. Software Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**SingleStore**  
-United States · `Senior` · `Bonus`
+<a href="https://singlestore.com"><img src="https://www.google.com/s2/favicons?domain=singlestore.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SingleStore**  
+Remote · `Senior` · `Bonus`
 
 > SingleStore builds a distributed SQL database designed to handle both transactional and analytical workloads at scale, operating in the enterprise data management and cloud database domain.
 

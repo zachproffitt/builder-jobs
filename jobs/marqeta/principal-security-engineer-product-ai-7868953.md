@@ -3,7 +3,7 @@ id: greenhouse-marqeta-7868953
 company: Marqeta
 title: Principal Security Engineer, Product & AI
 source: greenhouse
-location: Remote, USA
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, AWS, Threat Modeling, API Security, Machine Learning Security, K
 level: principal
 comp: $218,300-$321,000
 comp_extras: bonus, equity
-render_hash: 2c2f2f3c
+render_hash: 13761677
 -->
 
 # Principal Security Engineer, Product & AI
 
-<img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Marqeta**  
-USA · `Principal` · `Remote` · `$218,300-$321,000` · `Bonus` · `Equity`
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta**  
+`Principal` · `Remote` · `$218,300-$321,000` · `Bonus` · `Equity`
 
 > Marqeta builds a card-issuing platform that enables companies to create and manage payment cards and digital wallets. They operate in the fintech infrastructure space, providing APIs and services for businesses to issue cards for various use cases including payroll, gig worker payments, and corporate expense management.
 

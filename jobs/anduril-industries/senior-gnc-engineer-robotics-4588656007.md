@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-4588656007
 company: Anduril Industries
 title: Senior GNC Engineer, Robotics
 source: greenhouse
-location: Costa Mesa, California, United States
+location: Costa Mesa, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: MATLAB, Simulink, C/C++, Kalman Filtering, Control Systems, State Estima
 level: senior
 comp: $168k-$252k
 comp_extras: equity
-render_hash: 83266e92
+render_hash: 0be997fb
 -->
 
 # Senior GNC Engineer, Robotics
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Costa Mesa, California, United States · `Senior` · `$168k-$252k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Costa Mesa, CA · `Senior` · `$168k-$252k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

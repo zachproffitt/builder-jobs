@@ -3,25 +3,25 @@ id: ashby-tavus-09972bf5-780d-4209-a758-d4ad32c012e0
 company: Tavus
 title: AI Researcher (Multimodal Audio/Video Generation)
 source: ashby
-location: San Francisco
+location: San Francisco, CA / Remote
 remote: On-site
 hybrid: yes
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T10:58:44+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/tavus/09972bf5-780d-4209-a758-d4ad32c012e0
 summary: Lead research on audio-visual avatar generation models for real-time conversational AI, designing diffusion-based systems that generate synchronized verbal and non-verbal signals. Scale generative models from research into production while mentoring a research team and publishing at top-tier venues.
 skills: PyTorch, Diffusion Models, Video Generation, Audio Generation, Multimodal Learning, GPU Optimization, 3D Graphics, Gaussian Splatting
 level: senior
 comp: 
 comp_extras: 
-render_hash: 0dfc6169
+render_hash: e2170938
 -->
 
 # AI Researcher (Multimodal Audio/Video Generation)
 
-<img src="https://www.google.com/s2/favicons?domain=www.tavus.io&sz=32" width="16" height="16" align="absmiddle">&ensp;**Tavus**  
-San Francisco · `Senior` · `Hybrid`
+<a href="https://www.tavus.io"><img src="https://www.google.com/s2/favicons?domain=www.tavus.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tavus**  
+San Francisco, CA / Remote · `Senior` · `Hybrid`
 
 > Tavus builds AI-powered video personalization software that enables businesses to create and send individualized video messages at scale. The platform operates in the marketing automation and customer engagement domain, allowing companies to generate personalized videos for outreach, sales, and communication purposes without requiring manual video production for each recipient.
 

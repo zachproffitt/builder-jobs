@@ -3,7 +3,7 @@ id: greenhouse-speechify-5976009004
 company: Speechify
 title: Tech Lead, Web Core Product & Chrome Extension - Savannah, GA, USA
 source: greenhouse
-location: Savannah, GA, USA
+location: Savannah, GA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: React, TypeScript, Firebase, Redux, Vanilla JavaScript
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 612d8819
+render_hash: aea6be2c
 -->
 
 # Tech Lead, Web Core Product & Chrome Extension - Savannah, GA, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Savannah, GA, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Savannah, GA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

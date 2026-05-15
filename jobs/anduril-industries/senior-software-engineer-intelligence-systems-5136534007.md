@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5136534007
 company: Anduril Industries
 title: Senior Software Engineer, Intelligence Systems
 source: greenhouse
-location: Reston, Virginia, United States
+location: Reston, VA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, Wireshark, Test Automation Frameworks, Hardware-In-The-Loop Test
 level: senior
 comp: $191k-$253k
 comp_extras: equity
-render_hash: 4f6bc395
+render_hash: 7c7a539a
 -->
 
 # Senior Software Engineer, Intelligence Systems
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Reston, Virginia, United States · `Senior` · `$191k-$253k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Reston, VA · `Senior` · `$191k-$253k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

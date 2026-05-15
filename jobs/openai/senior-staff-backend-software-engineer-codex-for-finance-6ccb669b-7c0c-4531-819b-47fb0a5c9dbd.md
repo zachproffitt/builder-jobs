@@ -3,25 +3,25 @@ id: ashby-openai-6ccb669b-7c0c-4531-819b-47fb0a5c9dbd
 company: OpenAI
 title: Senior Staff Backend Software Engineer, Codex for Finance
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T03:22:37+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/6ccb669b-7c0c-4531-819b-47fb0a5c9dbd
 summary: Design and scale backend systems powering AI capabilities in financial products, including integrations with Excel and enterprise platforms. Lead end-to-end development of platform features serving billions of requests while working directly with research teams on next-generation models.
 skills: Python, Go, Rust, TypeScript, Distributed Systems, Kubernetes, PostgreSQL
 level: senior
 comp: 
 comp_extras: 
-render_hash: 82f3448f
+render_hash: 5238a86a
 -->
 
 # Senior Staff Backend Software Engineer, Codex for Finance
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-San Francisco · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

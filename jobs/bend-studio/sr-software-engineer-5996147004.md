@@ -3,7 +3,7 @@ id: greenhouse-sonyinteractiveentertainmentglobal-5996147004
 company: Bend Studio
 title: Sr Software Engineer
 source: greenhouse
-location: United States, San Mateo, CA
+location: San Mateo, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C++, CUDA, Vulkan, H.264, H.265, AV1, GPU programming, Multi-threaded pr
 level: senior
 comp: $193,300-$289,900
 comp_extras: bonus, equity
-render_hash: 77e5634c
+render_hash: 56ed46e0
 -->
 
 # Sr Software Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Bend Studio**  
-United States, San Mateo, CA · `Senior` · `Hybrid` · `$193,300-$289,900` · `Bonus` · `Equity`
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio**  
+San Mateo, CA · `Senior` · `Hybrid` · `$193,300-$289,900` · `Bonus` · `Equity`
 
 > # Bend Studio
 

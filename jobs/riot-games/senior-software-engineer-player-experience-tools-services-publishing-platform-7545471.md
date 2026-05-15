@@ -3,7 +3,7 @@ id: greenhouse-riotgames-7545471
 company: Riot Games
 title: Senior Software Engineer, Player Experience Tools & Services - Publishing Platform
 source: greenhouse
-location: Los Angeles, USA
+location: Los Angeles, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: TypeScript, React, Java, Node.js, CI/CD Pipelines, AWS Lambda, Content M
 level: senior
 comp: 
 comp_extras: 
-render_hash: bf0d529e
+render_hash: 69aebde5
 -->
 
 # Senior Software Engineer, Player Experience Tools & Services - Publishing Platform
 
-<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games**  
-Los Angeles, USA · `Senior` · `Hybrid`
+<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games**  
+Los Angeles, CA · `Senior` · `Hybrid`
 
 > Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 

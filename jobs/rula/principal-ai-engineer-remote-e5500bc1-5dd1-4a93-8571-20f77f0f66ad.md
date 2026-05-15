@@ -3,25 +3,25 @@ id: ashby-rula-e5500bc1-5dd1-4a93-8571-20f77f0f66ad
 company: Rula
 title: Principal AI Engineer (Remote)
 source: ashby
-location: Remote - United States
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T22:33:12+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad
 summary: Own the AI foundation for generative AI across mental healthcare, architecting production-grade systems (RAG, agentic loops) that power patient engagement and provider workflows at scale. Design durable, compliant solutions in a regulated healthcare environment with real-world clinical constraints.
 skills: Python, TypeScript, AWS, GCP, RAG, LangChain, LlamaIndex, MLOps
 level: principal
 comp: 
 comp_extras: 
-render_hash: dae5006d
+render_hash: fd754d08
 -->
 
 # Principal AI Engineer (Remote)
 
-<img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rula**  
-United States · `Principal` · `Remote`
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula**  
+`Principal` · `Remote`
 
 > Rula develops mental health software that provides evidence-based care and reduces stigma by addressing the whole person.
 

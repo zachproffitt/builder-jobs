@@ -3,7 +3,7 @@ id: greenhouse-speechify-5975636004
 company: Speechify
 title: Tech Lead, Android Core Product - Milwaukee, WI, USA
 source: greenhouse
-location: Milwaukee, WI, USA
+location: Milwaukee, WI
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Jetpack Compose,
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 3f06f4f0
+render_hash: bd37e33f
 -->
 
 # Tech Lead, Android Core Product - Milwaukee, WI, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Milwaukee, WI, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Milwaukee, WI · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

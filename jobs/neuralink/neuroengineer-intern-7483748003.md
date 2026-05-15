@@ -3,7 +3,7 @@ id: greenhouse-neuralink-7483748003
 company: Neuralink
 title: Neuroengineer Intern
 source: greenhouse
-location: Fremont, California, United States
+location: Fremont, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, Machine Learning, Neural Stimulation, NEURON, Finite Element Mod
 level: intern
 comp: $35/hr
 comp_extras: 
-render_hash: 67b268ee
+render_hash: f55e542b
 -->
 
 # Neuroengineer Intern
 
-<img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Neuralink**  
-Fremont, California, United States · `Intern` · `$35/hr`
+<a href="https://neuralink.com"><img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Neuralink**  
+Fremont, CA · `Intern` · `$35/hr`
 
 > Neuralink develops neural interface technology to restore autonomy for individuals with neurological conditions and advance brain-computer interaction.
 

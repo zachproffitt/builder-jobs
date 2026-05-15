@@ -15,12 +15,12 @@ skills: Go, Terraform, PostgreSQL, TypeScript, CI/CD, Testing Infrastructure, Sc
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 38278685
+render_hash: d5952aa4
 -->
 
 # Software Engineer: IaC Platform Experience
 
-<img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Supabase**  
+<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase**  
 Remote · `Senior` · `Equity`
 
 > Supabase builds a Postgres development platform with Database, Auth, Storage, Edge Functions, Realtime, and Vector Search, providing a complete backend solution for developers.

@@ -3,25 +3,25 @@ id: ashby-openai-72a58872-70e2-4340-a259-e9bea3596883
 company: OpenAI
 title: Staff+ Software Engineer, Identity Infrastructure Engineering
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883
 summary: Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements.
 skills: Go, Rust, Python, Kubernetes, Cloud Infrastructure, Identity Systems, Distributed Systems, Infrastructure-as-Code
 level: staff
 comp: 
 comp_extras: 
-render_hash: 1c33d23c
+render_hash: c3601d95
 -->
 
 # Staff+ Software Engineer, Identity Infrastructure Engineering
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-San Francisco · `Staff` · `Remote`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Staff` · `Remote`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

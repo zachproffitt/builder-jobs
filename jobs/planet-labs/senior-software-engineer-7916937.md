@@ -3,7 +3,7 @@ id: greenhouse-planetlabs-7916937
 company: Planet Labs
 title: Senior Software Engineer
 source: greenhouse
-location: United States, Remote
+location: Remote
 remote: Remote
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Kubernetes, Terraform, Go, Python, Google Cloud Platform, Amazon Web Ser
 level: senior
 comp: $142,800-$203,200
 comp_extras: equity, bonus
-render_hash: 2a793d50
+render_hash: 6688d9ae
 -->
 
 # Senior Software Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Planet Labs**  
-United States · `Senior` · `Remote` · `$142,800-$203,200` · `Equity` · `Bonus`
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs**  
+`Senior` · `Remote` · `$142,800-$203,200` · `Equity` · `Bonus`
 
 > Planet Labs builds daily satellite imagery and insights used by decision-makers to monitor planetary changes.
 

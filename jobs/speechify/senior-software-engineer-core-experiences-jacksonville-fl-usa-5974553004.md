@@ -3,7 +3,7 @@ id: greenhouse-speechify-5974553004
 company: Speechify
 title: Senior Software Engineer, Core Experiences - Jacksonville, FL, USA
 source: greenhouse
-location: Jacksonville, FL, USA
+location: Jacksonville, FL
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Kotlin, Kotlin Multiplatform, GCP, Java, Backend Services, Cloud Functio
 level: senior
 comp: $140,000-$200,000
 comp_extras: bonus, equity
-render_hash: 934c78d4
+render_hash: 7f0dc63e
 -->
 
 # Senior Software Engineer, Core Experiences - Jacksonville, FL, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Jacksonville, FL, USA · `Senior` · `$140,000-$200,000` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Jacksonville, FL · `Senior` · `$140,000-$200,000` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 

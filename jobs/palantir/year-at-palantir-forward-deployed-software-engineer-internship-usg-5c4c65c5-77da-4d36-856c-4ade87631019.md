@@ -15,12 +15,12 @@ skills:
 level: intern
 comp: 
 comp_extras: 
-render_hash: 8cb1851a
+render_hash: 6fe4b748
 -->
 
 # Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 
-<img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Palantir**  
+<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir**  
 Washington, D.C. · `Intern` · On-site
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.

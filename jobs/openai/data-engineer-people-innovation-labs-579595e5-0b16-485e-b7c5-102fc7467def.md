@@ -3,7 +3,7 @@ id: ashby-openai-579595e5-0b16-485e-b7c5-102fc7467def
 company: OpenAI
 title: Data Engineer, People Innovation Labs
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-13
@@ -15,13 +15,13 @@ skills: Python, Databricks, Spark, Airflow, ETL, Data Warehousing, Scala, Java
 level: senior
 comp: 
 comp_extras: 
-render_hash: e5105656
+render_hash: 49c6ded3
 -->
 
 # Data Engineer, People Innovation Labs
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-San Francisco · `Senior` · `Remote`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+San Francisco, CA · `Senior` · `Remote`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

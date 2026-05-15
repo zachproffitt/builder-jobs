@@ -3,7 +3,7 @@ id: greenhouse-grafanalabs-5850010004
 company: Grafana
 title: Senior Analytics Engineer | Canada | Remote  
 source: greenhouse
-location: Canada (Remote)
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: dbt, BigQuery, Fivetran, AWS, GCP, Data Modeling, Data Quality Testing, 
 level: senior
 comp: CAD 129,392 - CAD 155,272
 comp_extras: equity
-render_hash: c0c80909
+render_hash: 5dc1a7b1
 -->
 
 # Senior Analytics Engineer | Canada | Remote  
 
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana**  
-Canada · `Senior` · `Remote` · `CAD 129,392 - CAD 155,272` · `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana**  
+`Senior` · `Remote` · `CAD 129,392 - CAD 155,272` · `Equity`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 

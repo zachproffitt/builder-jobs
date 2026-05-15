@@ -3,7 +3,7 @@ id: greenhouse-ionq-5986072004
 company: IonQ
 title: Senior Quantum Scientist
 source: greenhouse
-location: Boulder, Colorado, United States
+location: Boulder, CO
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Trapped ion physics, Quantum control, Python, Atomic/molecular/optical p
 level: senior
 comp: $126,887-$166,127
 comp_extras: bonus, equity
-render_hash: 5f85abd2
+render_hash: 9530e24a
 -->
 
 # Senior Quantum Scientist
 
-<img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**IonQ**  
-Boulder, Colorado, United States · `Senior` · `Hybrid` · `$126,887-$166,127` · `Bonus` · `Equity`
+<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ**  
+Boulder, CO · `Senior` · `Hybrid` · `$126,887-$166,127` · `Bonus` · `Equity`
 
 > IonQ builds trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.
 

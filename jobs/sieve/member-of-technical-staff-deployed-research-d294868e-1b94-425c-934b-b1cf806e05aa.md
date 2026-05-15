@@ -3,25 +3,25 @@ id: ashby-sieve-d294868e-1b94-425c-934b-b1cf806e05aa
 company: Sieve
 title: Member of Technical Staff, Deployed Research
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T05:27:20+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/sieve/d294868e-1b94-425c-934b-b1cf806e05aa
 summary: Build custom algorithms, models, and data pipelines to process and transform video datasets at scale for frontier AI labs. Work forward-deployed at customer sites translating ambiguous requirements into production systems spanning computer vision, audio processing, and multimodal data handling.
 skills: Python, PyTorch, Computer Vision, Data Pipelines, Video Processing, Audio Processing, Model Fine-tuning, Inference Optimization
 level: mid
 comp: 
 comp_extras: 
-render_hash: 2002f1f8
+render_hash: fa6bc5e8
 -->
 
 # Member of Technical Staff, Deployed Research
 
-<img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Sieve**  
-San Francisco · `Mid` · On-site
+<a href="https://sievedata.com"><img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sieve**  
+San Francisco, CA · `Mid` · On-site
 
 > Sieve builds infrastructure and tools for processing unstructured data like images, audio, and video at scale, enabling developers to extract structured information and insights from these media types. The company operates in the data infrastructure and machine learning operations space, serving enterprises and developers who need to build data pipelines for computer vision and multimodal AI applications.
 

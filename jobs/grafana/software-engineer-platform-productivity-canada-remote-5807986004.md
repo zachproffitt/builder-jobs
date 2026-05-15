@@ -3,7 +3,7 @@ id: greenhouse-grafanalabs-5807986004
 company: Grafana
 title: Software Engineer - Platform Productivity | Canada | Remote  
 source: greenhouse
-location: Canada (Remote)
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Go, Kubernetes, Docker, Terraform, CI/CD, Infrastructure as Code, Git, B
 level: mid
 comp: CAD 129,392-CAD 155,272
 comp_extras: equity, bonus
-render_hash: aa4cfe05
+render_hash: b901cc1d
 -->
 
 # Software Engineer - Platform Productivity | Canada | Remote  
 
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana**  
-Canada · `Mid` · `Remote` · `CAD 129,392-CAD 155,272` · `Equity` · `Bonus`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana**  
+`Mid` · `Remote` · `CAD 129,392-CAD 155,272` · `Equity` · `Bonus`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 

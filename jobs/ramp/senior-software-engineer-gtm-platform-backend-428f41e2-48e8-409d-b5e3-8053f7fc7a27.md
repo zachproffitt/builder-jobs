@@ -3,25 +3,25 @@ id: ashby-ramp-428f41e2-48e8-409d-b5e3-8053f7fc7a27
 company: Ramp
 title: Senior Software Engineer | GTM Platform, Backend
 source: ashby
-location: New York, NY (HQ)
+location: New York, NY
 remote: Remote
 hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-13
-first_seen_at: 2026-05-13T23:32:10+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27
 summary: Build self-serve platform tooling and agentic workflows that automate marketing operations at scale, converting repeated requests into reusable platform capabilities. Own end-to-end systems integrating AI agents with guardrails to reduce manual marketing work and drive compounding leverage across 9+ teams.
 skills: Next.js, TypeScript, Python, Sanity CMS, LLMs/AI Agents, MCP (Model Context Protocol), A/B Testing Platforms, Agentic Workflows
 level: senior
 comp: 
 comp_extras: 
-render_hash: cac80ec5
+render_hash: 8aa28883
 -->
 
 # Senior Software Engineer | GTM Platform, Backend
 
-<img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Ramp**  
-New York, NY (HQ) · `Senior` · `Remote`
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp**  
+New York, NY · `Senior` · `Remote`
 
 > Ramp builds a corporate expense management platform that handles employee spending, receipt tracking, and bill payments for mid-market companies. The platform integrates with accounting software and provides real-time visibility into business expenses across a company's spend.
 

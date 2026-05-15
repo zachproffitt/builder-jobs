@@ -3,25 +3,25 @@ id: greenhouse-speechify-5976289004
 company: Speechify
 title: Software Engineer, Data Infrastructure & Acquisition - Chicago, IL, USA
 source: greenhouse
-location: Chicago, IL, USA
+location: Chicago, IL
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5976289004
 summary: Build and operate cloud infrastructure for petabyte-scale audio data ingestion pipelines supporting AI model training. Integrate data collection, infrastructure engineering, and research to shift the cost/throughput/quality frontier for next-generation speech models.
 skills: Python, Bash, Docker, Terraform, GCP, Data Pipelines, Web Crawlers, Linux
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 8677a658
+render_hash: 9c13584d
 -->
 
 # Software Engineer, Data Infrastructure & Acquisition - Chicago, IL, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Chicago, IL, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Chicago, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Build and operate cloud infrastructure for petabyte-scale audio data ingestion 
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5976289004)**
 

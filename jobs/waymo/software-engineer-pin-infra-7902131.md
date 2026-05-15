@@ -3,7 +3,7 @@ id: greenhouse-waymo-7902131
 company: Waymo
 title: Software Engineer, Pin Infra
 source: greenhouse
-location: Mountain View, California
+location: Mountain View, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: C++, Machine Learning, Geospatial Systems, Backend Infrastructure, APIs,
 level: mid
 comp: $175k-$215k
 comp_extras: equity, bonus
-render_hash: a8812301
+render_hash: 7ed71b1d
 -->
 
 # Software Engineer, Pin Infra
 
-<img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Waymo**  
-Mountain View, California · `Mid` · `Hybrid` · `$175k-$215k` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo**  
+Mountain View, CA · `Mid` · `Hybrid` · `$175k-$215k` · `Equity` · `Bonus`
 
 > Waymo builds autonomous vehicle technology for transportation.
 

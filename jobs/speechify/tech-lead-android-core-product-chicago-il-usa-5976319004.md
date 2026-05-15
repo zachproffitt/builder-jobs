@@ -3,25 +3,25 @@ id: greenhouse-speechify-5976319004
 company: Speechify
 title: Tech Lead, Android Core Product - Chicago, IL, USA
 source: greenhouse
-location: Chicago, IL, USA
+location: Chicago, IL
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5976319004
 summary: Lead the development and reliability of major Android features for Speechify's text-to-speech app, used by 50+ million people. Own feature releases, shape the Android team's technical direction, and work closely with design and product to deliver high-quality user experiences at scale.
 skills: Kotlin, Kotlin Coroutines, Jetpack Compose, Dagger 2, MVVM, Android Animations, Room, JUnit
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 1c815d5e
+render_hash: 4ef4b602
 -->
 
 # Tech Lead, Android Core Product - Chicago, IL, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Chicago, IL, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Chicago, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Lead the development and reliability of major Android features for Speechify's 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Android Animations](https://img.shields.io/badge/Android_Animations-3B82F6?style=flat-square) ![Room](https://img.shields.io/badge/Room-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5976319004)**
 

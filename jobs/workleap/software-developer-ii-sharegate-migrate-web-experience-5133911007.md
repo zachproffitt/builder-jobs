@@ -3,7 +3,7 @@ id: greenhouse-workleap-5133911007
 company: Workleap
 title: Software Developer II - ShareGate Migrate [Web Experience]
 source: greenhouse
-location: Canada - Remote
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: TypeScript, React, C#/.NET, Microsoft Graph, Azure AD/Entra ID, MSAL, Re
 level: mid
 comp: $100k-$130k CAD
 comp_extras: 
-render_hash: a10d5d58
+render_hash: 8ba2efb6
 -->
 
 # Software Developer II - ShareGate Migrate [Web Experience]
 
-<img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Workleap**  
-Canada · `Mid` · `Remote` · `$100k-$130k CAD`
+<a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap**  
+`Mid` · `Remote` · `$100k-$130k CAD`
 
 > # Workleap
 

@@ -3,7 +3,7 @@ id: greenhouse-relativity-8548054002
 company: Relativity Space
 title: Lead, Avionics Test Engineering
 source: greenhouse
-location: Long Beach, California
+location: Long Beach, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, MATLAB, Altium Designer, NX, Embedded Systems, High-Voltage Elec
 level: manager
 comp: $151,000—$208,000
 comp_extras: equity
-render_hash: ab72d163
+render_hash: e1f53a83
 -->
 
 # Lead, Avionics Test Engineering
 
-<img src="https://www.google.com/s2/favicons?domain=relativityspace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Relativity Space**  
-Long Beach, California · `Manager` · `$151,000—$208,000` · `Equity`
+<a href="https://relativityspace.com"><img src="https://www.google.com/s2/favicons?domain=relativityspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Relativity Space**  
+Long Beach, CA · `Manager` · `$151,000—$208,000` · `Equity`
 
 > Relativity Space builds reusable rockets to make space access reliable and routine.
 

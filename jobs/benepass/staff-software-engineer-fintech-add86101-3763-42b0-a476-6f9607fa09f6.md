@@ -3,25 +3,25 @@ id: ashby-benepass-add86101-3763-42b0-a476-6f9607fa09f6
 company: Benepass
 title: Staff Software Engineer (Fintech)
 source: ashby
-location: U.S Remote
+location: Remote
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T01:09:51+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/benepass/add86101-3763-42b0-a476-6f9607fa09f6
 summary: Design and operate high-integrity financial systems for ledgering, transaction processing, decisioning, and money movement at scale. You'll take end-to-end ownership of systems handling real funds where correctness, consistency, and auditability are non-negotiable.
 skills: Python, PostgreSQL, Django, AWS, Payment Systems, Card Networks, Ledger Systems, Distributed Systems
 level: senior
 comp: $200k-$240k
 comp_extras: equity
-render_hash: 0d3f1f08
+render_hash: ea95e053
 -->
 
 # Staff Software Engineer (Fintech)
 
-<img src="https://www.google.com/s2/favicons?domain=www.getbenepass.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Benepass**  
-U.S Remote · `Senior` · `$200k-$240k` · `Equity`
+<a href="https://www.getbenepass.com"><img src="https://www.google.com/s2/favicons?domain=www.getbenepass.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benepass**  
+Remote · `Senior` · `$200k-$240k` · `Equity`
 
 > Benepass builds a benefits management platform that helps employers and employees navigate health insurance options, wellness programs, and dependent care benefits. The company operates in the employee benefits administration space, providing tools for benefits enrollment, decision support, and claims management.
 

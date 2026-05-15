@@ -15,12 +15,12 @@ skills: Python, C++, Isaac Sim, MuJoCo, Physics Simulation, Rigid Body Dynamics,
 level: staff
 comp: 
 comp_extras: 
-render_hash: fd042f38
+render_hash: e1baad16
 -->
 
 # Staff Simulation Engineer - Dexterity 
 
-<img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Apptronik**  
+<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik**  
 Austin, TX · `Staff`
 
 > # Apptronik

@@ -3,7 +3,7 @@ id: greenhouse-grafanalabs-5807984004
 company: Grafana
 title: Software Engineer - Platform Productivity | USA | Remote  
 source: greenhouse
-location: United States (Remote)
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Go, Kubernetes, Terraform, Docker, CI/CD, Infrastructure as Code, Backst
 level: mid
 comp: $127,651-$153,180
 comp_extras: equity, bonus
-render_hash: 562c1491
+render_hash: 11c0971a
 -->
 
 # Software Engineer - Platform Productivity | USA | Remote  
 
-<img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Grafana**  
-United States · `Mid` · `Remote` · `$127,651-$153,180` · `Equity` · `Bonus`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana**  
+`Mid` · `Remote` · `$127,651-$153,180` · `Equity` · `Bonus`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 

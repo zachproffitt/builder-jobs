@@ -3,7 +3,7 @@ id: ashby-openai-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92
 company: OpenAI
 title: Data Scientist, Core Experimentation 
 source: ashby
-location: Seattle
+location: Bellevue, WA
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-13
@@ -15,13 +15,13 @@ skills: Python, Spark, Statistics, Causal Inference, Sequential Testing, Varianc
 level: staff
 comp: $293k-$325k
 comp_extras: 
-render_hash: fde899ad
+render_hash: 42fb9472
 -->
 
 # Data Scientist, Core Experimentation 
 
-<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI**  
-Seattle · `Staff` · `Remote` · `$293k-$325k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI**  
+Bellevue, WA · `Staff` · `Remote` · `$293k-$325k`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 

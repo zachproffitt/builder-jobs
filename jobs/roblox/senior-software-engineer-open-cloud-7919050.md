@@ -3,7 +3,7 @@ id: greenhouse-roblox-7919050
 company: Roblox
 title: Senior Software Engineer - Open Cloud 
 source: greenhouse
-location: San Mateo, CA, United States
+location: San Mateo, CA
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: HTTP APIs, OAuth 2.0, Backend Systems, Authentication/Authorization, API
 level: senior
 comp: $196,750-$243,290
 comp_extras: equity
-render_hash: 9842a008
+render_hash: 58b13efd
 -->
 
 # Senior Software Engineer - Open Cloud 
 
-<img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Roblox**  
-San Mateo, CA, United States · `Senior` · `Hybrid` · `$196,750-$243,290` · `Equity`
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox**  
+San Mateo, CA · `Senior` · `Hybrid` · `$196,750-$243,290` · `Equity`
 
 > Roblox builds a platform for user-generated 3D games and virtual worlds where millions of people create and play together.
 

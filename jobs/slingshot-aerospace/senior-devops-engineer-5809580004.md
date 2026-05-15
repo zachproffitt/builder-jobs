@@ -3,8 +3,8 @@ id: greenhouse-slingshotaerospace-5809580004
 company: Slingshot Aerospace
 title: Senior DevOps Engineer
 source: greenhouse
-location: Remote, United States
-remote: Remote
+location: Colorado Springs, CO
+remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-13
@@ -15,13 +15,13 @@ skills: Terraform, Kubernetes, AWS, Docker, CI/CD Pipelines, Linux System Admini
 level: senior
 comp: $136,000-$237,000
 comp_extras: 
-render_hash: 65b9d57c
+render_hash: 809139a9
 -->
 
 # Senior DevOps Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Slingshot Aerospace**  
-United States · `Senior` · `Remote` · `$136,000-$237,000`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace**  
+Colorado Springs, CO · `Senior` · `$136,000-$237,000`
 
 > # Slingshot Aerospace
 

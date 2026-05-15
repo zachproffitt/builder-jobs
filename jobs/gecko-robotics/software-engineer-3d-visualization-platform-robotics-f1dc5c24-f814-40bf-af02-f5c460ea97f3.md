@@ -3,25 +3,25 @@ id: ashby-gecko-robotics-f1dc5c24-f814-40bf-af02-f5c460ea97f3
 company: Gecko Robotics
 title: Software Engineer | 3D Visualization Platform
 source: ashby
-location: New York City
+location: New York City, NY
 remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:53:23+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/gecko-robotics/f1dc5c24-f814-40bf-af02-f5c460ea97f3
 summary: Build and extend a server-side rendering application that streams GB-scale 3D models to a React frontend, powering critical infrastructure visualization within Cantilever. Work across backend APIs, frontend applications, and system architecture to deliver scalable solutions for complex 3D workflows in real-world deployment environments where performance and reliability are critical.
 skills: React, TypeScript, Python, GCP, Unreal Engine, Backend APIs, 3D Graphics/Visualization, Real-time Streaming
 level: mid
 comp: 
 comp_extras: equity
-render_hash: 4ce53628
+render_hash: 6c1d76b2
 -->
 
 # Software Engineer | 3D Visualization Platform
 
-<img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Gecko Robotics**  
-New York City · `Mid` · On-site · `Equity`
+<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics**  
+New York City, NY · `Mid` · On-site · `Equity`
 
 > Gecko Robotics builds robotic systems and software for inspecting and maintaining critical infrastructure, particularly in the energy and industrial sectors. Their autonomous robots perform non-destructive testing and inspection of equipment like boilers, pipes, and pressure vessels to detect corrosion and defects without requiring human workers to enter hazardous environments.
 

@@ -15,12 +15,12 @@ skills: Python, Go, Rust, YARA, Snort, Threat Intelligence, TS/SCI Clearance
 level: manager
 comp: $129,000—$220,000
 comp_extras: equity
-render_hash: 379880e7
+render_hash: 3e2c611b
 -->
 
 # Manager, Cyber Threat Intelligence
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
 `Manager` · `Remote` · `$129,000—$220,000` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.

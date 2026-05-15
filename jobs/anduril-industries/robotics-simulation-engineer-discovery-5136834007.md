@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5136834007
 company: Anduril Industries
 title: Robotics & Simulation Engineer, Discovery 
 source: greenhouse
-location: Costa Mesa, California, United States
+location: Costa Mesa, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, C++, Isaac Gym, Isaac Lab, MuJoCo, URDF/MJCF, ROS2, TS/SCI Clear
 level: mid
 comp: $146k-$194k
 comp_extras: equity
-render_hash: c6172507
+render_hash: bdbf5adc
 -->
 
 # Robotics & Simulation Engineer, Discovery 
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Costa Mesa, California, United States · `Mid` · `$146k-$194k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Costa Mesa, CA · `Mid` · `$146k-$194k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

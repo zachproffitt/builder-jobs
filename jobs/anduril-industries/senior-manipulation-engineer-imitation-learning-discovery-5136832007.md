@@ -3,7 +3,7 @@ id: greenhouse-andurilindustries-5136832007
 company: Anduril Industries
 title: Senior Manipulation Engineer (Imitation Learning), Discovery
 source: greenhouse
-location: Costa Mesa, California, United States; Washington, District of Columbia, United States
+location: Costa Mesa, CA / Washington, DC
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, PyTorch, Imitation Learning, Behavior Cloning, Robot Manipulatio
 level: senior
 comp: $166k-$220k
 comp_extras: equity
-render_hash: 8b33d00b
+render_hash: 2ff1f2f0
 -->
 
 # Senior Manipulation Engineer (Imitation Learning), Discovery
 
-<img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Anduril Industries**  
-Costa Mesa, California, United States; Washington, District of Columbia, United States · `Senior` · `$166k-$220k` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries**  
+Costa Mesa, CA / Washington, DC · `Senior` · `$166k-$220k` · `Equity`
 
 > Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 

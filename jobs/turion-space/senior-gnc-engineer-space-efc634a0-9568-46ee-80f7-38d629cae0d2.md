@@ -8,19 +8,19 @@ remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/turion-space/efc634a0-9568-46ee-80f7-38d629cae0d2
 summary: Design and implement guidance, navigation, and control algorithms for satellite rendezvous and proximity operations missions, including modeling, simulation, hardware-in-the-loop testing, and on-orbit validation. Lead technical strategy for GNC subsystems on small satellite platforms in low Earth orbit, mentoring junior engineers and owning functional areas such as embedded flight code processes.
 skills: C++, Python, MATLAB, Orbital Mechanics, Control Systems, TS/SCI Clearance, Hardware-in-the-Loop Testing, Rendezvous and Proximity Operations
 level: senior
 comp: $150,000-$213,000
 comp_extras: equity
-render_hash: 09942a67
+render_hash: 5780a894
 -->
 
 # Senior GNC Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Turion Space**  
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space**  
 Irvine, CA · `Senior` · On-site · `$150,000-$213,000` · `Equity`
 
 > Turion Space builds spacecraft to secure Earth and expand humanity’s reach beyond it.

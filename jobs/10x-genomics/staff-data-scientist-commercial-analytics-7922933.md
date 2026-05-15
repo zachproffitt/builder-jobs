@@ -3,7 +3,7 @@ id: greenhouse-10xgenomics-7922933
 company: 10x Genomics
 title: Staff Data Scientist, Commercial Analytics
 source: greenhouse
-location: Pleasanton, California, USA HQ
+location: Pleasanton, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
@@ -15,13 +15,13 @@ skills: Python, SQL, Snowflake, AWS, Salesforce, Machine Learning, MLOps, Tablea
 level: senior
 comp: $198,500–$268,500
 comp_extras: equity, bonus
-render_hash: 0bd3f6d9
+render_hash: df0a0e0e
 -->
 
 # Staff Data Scientist, Commercial Analytics
 
-<img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**10x Genomics**  
-Pleasanton, California, USA HQ · `Senior` · `$198,500–$268,500` · `Equity` · `Bonus`
+<a href="https://10xgenomics.com"><img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**10x Genomics**  
+Pleasanton, CA · `Senior` · `$198,500–$268,500` · `Equity` · `Bonus`
 
 > 10x Genomics develops genomic research tools to advance human health.
 

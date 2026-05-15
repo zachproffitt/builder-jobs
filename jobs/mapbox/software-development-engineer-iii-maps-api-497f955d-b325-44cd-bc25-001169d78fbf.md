@@ -3,25 +3,25 @@ id: ashby-Mapbox-497f955d-b325-44cd-bc25-001169d78fbf
 company: Mapbox
 title: Software Development Engineer III, Maps API
 source: ashby
-location: Mapbox US
+location: Remote
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T22:33:12+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf
 summary: Build and maintain high-traffic distributed APIs and ETL pipelines that serve billions of map requests daily to millions of developers globally. Lead architectural decisions for geospatial data processing at scale while mentoring engineers and balancing rapid feature development with operational reliability.
 skills: Python, TypeScript, AWS, PostgreSQL, Kubernetes, Geospatial Data, Distributed Systems, Microservices
 level: senior
 comp: 
 comp_extras: 
-render_hash: de0bc853
+render_hash: c5e27d1d
 -->
 
 # Software Development Engineer III, Maps API
 
-<img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mapbox**  
-Mapbox US · `Senior`
+<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox**  
+Remote · `Senior`
 
 > Mapbox builds mapping and location APIs, SDKs, and developer tools that enable applications to display custom maps, perform geocoding and routing, and analyze geospatial data. They operate in the geospatial technology and mapping services domain, serving developers who need to integrate location features into mobile and web applications.
 

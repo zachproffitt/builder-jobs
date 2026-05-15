@@ -8,19 +8,19 @@ remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/turion-space/66b0e0e5-bd12-4242-a739-642a0e86fe10
 summary: Lead the development, integration, and execution of mission operations across the spacecraft lifecycle, serving as the primary operational integrator between engineering, ground software, and flight teams. Drive operational procedures, flight rules, constraints, and risk mitigations while supporting real-time operations and mentoring junior engineers on small, fast-paced teams in rapidly evolving mission environments.
 skills: Python, MATLAB, TS/SCI Clearance, Spacecraft Operations, Mission Planning, FMEA, GEO Operations
 level: senior
 comp: $140,000-$190,000
 comp_extras: equity
-render_hash: ea673e95
+render_hash: 57590c25
 -->
 
 # Senior Mission Operations Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Turion Space**  
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space**  
 Irvine, CA · `Senior` · On-site · `$140,000-$190,000` · `Equity`
 
 > Turion Space builds spacecraft to secure Earth and expand humanity’s reach beyond it.

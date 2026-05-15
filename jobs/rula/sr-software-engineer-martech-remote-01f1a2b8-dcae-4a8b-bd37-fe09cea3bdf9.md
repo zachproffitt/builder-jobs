@@ -3,25 +3,25 @@ id: ashby-rula-01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9
 company: Rula
 title: Sr. Software Engineer - MarTech(Remote)
 source: ashby
-location: Remote - United States
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T20:53:23+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9
 summary: Build and integrate marketing technology stacks (CDPs, marketing automation platforms, analytics tools) to drive growth across patient, provider, and partner segments. Lead technical initiatives in a fast-paced martech environment while mentoring peers and shaping an AI-forward engineering culture.
 skills: TypeScript, React, Node.js, Kafka, PostgreSQL, AWS, Docker, Kubernetes
 level: senior
 comp: 
 comp_extras: 
-render_hash: 511e6e47
+render_hash: 84292e70
 -->
 
 # Sr. Software Engineer - MarTech(Remote)
 
-<img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rula**  
-United States · `Senior` · `Remote`
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula**  
+`Senior` · `Remote`
 
 > Rula develops mental health software that provides evidence-based care and reduces stigma by addressing the whole person.
 

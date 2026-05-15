@@ -3,25 +3,25 @@ id: greenhouse-speechify-5974460004
 company: Speechify
 title: Senior Software Engineer, Core Experiences - San Francisco, CA, USA
 source: greenhouse
-location: San Francisco, CA, USA
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5974460004
 summary: Build foundational services and SDKs that power Speechify's cross-platform text-to-speech product. Design efficient abstractions and optimize parsing algorithms to improve loading speed and user experience across web, mobile, and cloud platforms.
 skills: Kotlin, Kotlin Multiplatform, GCP, Java, APIs, Backend Services, Cloud Functions
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 657fe8d9
+render_hash: 413146e9
 -->
 
 # Senior Software Engineer, Core Experiences - San Francisco, CA, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-San Francisco, CA, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+San Francisco, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Build foundational services and SDKs that power Speechify's cross-platform text
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5974460004)**
 

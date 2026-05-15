@@ -3,25 +3,25 @@ id: ashby-clipboard-2f7bc179-c657-455f-a0a1-e0c43ec7bd4c
 company: Clipboard
 title: Engineering Manager
 source: ashby
-location: Remote (Canada)
+location: Remote
 remote: Remote
 hybrid: yes
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T18:49:00+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/clipboard/2f7bc179-c657-455f-a0a1-e0c43ec7bd4c
 summary: Lead and mentor a distributed engineering team, owning delivery, process optimization, and technical guidance across product initiatives. You'll balance hands-on technical review with people leadership, scaling team capability and impact in a fast-growing healthcare marketplace.
 skills: TypeScript, React, NestJS, Microservices Architecture
 level: manager
 comp: 
 comp_extras: 
-render_hash: 8702c63d
+render_hash: 7f2c83bd
 -->
 
 # Engineering Manager
 
-<img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Clipboard**  
-Remote (Canada) · `Manager` · `Remote`
+<a href="https://www.clipboardworks.com"><img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clipboard**  
+`Manager` · `Remote`
 
 > Clipboard builds software for managing patient intake, consent, and communication workflows in healthcare settings. The platform operates in the healthcare technology domain, helping medical practices streamline administrative processes like appointment scheduling, patient forms, and secure messaging.
 

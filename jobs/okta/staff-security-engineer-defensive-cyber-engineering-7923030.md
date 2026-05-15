@@ -15,12 +15,12 @@ skills: Python, Terraform, Okta, AWS, GCP, Azure, Bash, Go
 level: staff
 comp: $141,000—$193,600 CAD
 comp_extras: equity, bonus
-render_hash: fb140408
+render_hash: 820eb479
 -->
 
 # Staff Security Engineer, Defensive Cyber Engineering
 
-<img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Okta**  
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta**  
 Toronto, Ontario, Canada · `Staff` · `Hybrid` · `$141,000—$193,600 CAD` · `Equity` · `Bonus`
 
 > Okta builds identity and access management (IAM) software that enables organizations to securely connect their users to applications and systems across cloud and on-premises environments. The company operates in the cybersecurity and enterprise software domain, providing authentication, authorization, and user lifecycle management solutions for businesses of all sizes.

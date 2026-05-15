@@ -3,25 +3,25 @@ id: ashby-mystenlabs-c5f1f701-0cee-46f1-8eaa-59952a71a42f
 company: Mysten Labs
 title: Security Engineer
 source: ashby
-location: USA (Remote)
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
-first_seen_at: 2026-05-14T16:52:08+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/mystenlabs/c5f1f701-0cee-46f1-8eaa-59952a71a42f
 summary: Build and maintain custody systems, key management infrastructure, and anti-scam tooling for the Sui blockchain. Harden signing paths, conduct security reviews of cryptographic and access control systems, and investigate security incidents in a high-stakes production environment.
 skills: Rust, TypeScript, Python, Move, Key Management Systems, Cryptography, HSM
 level: mid
 comp: 
 comp_extras: 
-render_hash: c97b7002
+render_hash: 8bc84346
 -->
 
 # Security Engineer
 
-<img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Mysten Labs**  
-USA · `Mid` · `Remote`
+<a href="https://mystenlabs.com"><img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mysten Labs**  
+`Mid` · `Remote`
 
 > Mysten Labs builds Sui, a blockchain platform that uses an object-oriented data model and horizontal scaling to process transactions in parallel. The company operates in the layer-1 blockchain infrastructure space, focusing on enabling fast and low-cost transaction settlement for decentralized applications.
 

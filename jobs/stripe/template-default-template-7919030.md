@@ -3,25 +3,25 @@ id: greenhouse-stripe-7919030
 company: Stripe
 title: [TEMPLATE] Default Template
 source: greenhouse
-location: Chicago, IL, Remote in IL
+location: Chicago, IL / Remote
 remote: Remote
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T03:22:37+00:00
+first_seen_at: 
 url: https://stripe.com/jobs/search?gh_jid=7919030
 summary: Troubleshoot and advise technical users on Stripe payment integrations across multiple platforms and languages, helping developers optimize their implementations. You'll learn full-stack development across Stripe's supported backend languages, JavaScript/React, SQL, and LogScale while providing 24/5 developer support.
 skills: SQL, JavaScript, React, Python, Stripe API, LogScale, Full-stack development, REST APIs
 level: junior
 comp: 
 comp_extras: 
-render_hash: e7231103
+render_hash: f5dc460b
 -->
 
 # [TEMPLATE] Default Template
 
-<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe**  
-Chicago, IL in IL · `Junior` · `Remote`
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe**  
+Chicago, IL / Remote · `Junior` · `Remote`
 
 > Stripe builds a financial services platform that enables businesses to accept payments, create billing systems, and manage money transfers.
 
@@ -29,7 +29,7 @@ _Troubleshoot and advise technical users on Stripe payment integrations across m
 
 ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Stripe API](https://img.shields.io/badge/Stripe_API-3B82F6?style=flat-square) ![LogScale](https://img.shields.io/badge/LogScale-3B82F6?style=flat-square) ![Full-stack development](https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 03:22 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://stripe.com/jobs/search?gh_jid=7919030)**
 

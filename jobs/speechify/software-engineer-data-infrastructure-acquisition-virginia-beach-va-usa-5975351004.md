@@ -3,25 +3,25 @@ id: greenhouse-speechify-5975351004
 company: Speechify
 title: Software Engineer, Data Infrastructure & Acquisition - Virginia Beach, VA, USA
 source: greenhouse
-location: Virginia Beach, VA, USA
+location: Virginia Beach, VA
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T07:24:15+00:00
+first_seen_at: 
 url: https://job-boards.greenhouse.io/speechify/jobs/5975351004
 summary: Build and operate petabyte-scale data ingestion pipelines on GCP infrastructure to collect high-quality audio datasets for training next-generation text-to-speech models. Collaborate with AI researchers and leadership to optimize the cost/throughput/quality frontier while sourcing and processing diverse audio data at scale.
 skills: Python, Bash, Docker, Terraform, GCP, Data pipelines, Web crawlers, Kubernetes
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 497742da
+render_hash: 6506b0d5
 -->
 
 # Software Engineer, Data Infrastructure & Acquisition - Virginia Beach, VA, USA
 
-<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
-Virginia Beach, VA, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify**  
+Virginia Beach, VA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 > Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
 
@@ -29,7 +29,7 @@ _Build and operate petabyte-scale data ingestion pipelines on GCP infrastructure
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 07:24 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5975351004)**
 
