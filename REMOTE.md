@@ -4,13 +4,24 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **64 open roles** (4 new today)
+### **65 open roles** (5 new today)
 
-<sub>Last updated May 15, 2026 at 01:09 UTC</sub>
+<sub>Last updated May 15, 2026 at 03:22 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [[TEMPLATE] Default Template](jobs/stripe/template-default-template-7919030.md)
+<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe** · Chicago, IL in IL · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
+
+_Troubleshoot and advise technical users on Stripe payment integrations across multiple platforms and languages, helping developers optimize their implementations. You'll learn full-stack development across Stripe's supported backend languages, JavaScript/React, SQL, and LogScale while providing 24/5 developer support._
+
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Stripe API](https://img.shields.io/badge/Stripe_API-3B82F6?style=flat-square) ![LogScale](https://img.shields.io/badge/LogScale-3B82F6?style=flat-square) ![Full-stack development](https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 03:22 UTC</sub>
+
+---
 
 ### [Associate Director, Biostatistics & AI](jobs/bridgebio/associate-director-biostatistics-ai-5136136007.md)
 <img src="https://www.google.com/s2/favicons?domain=bridgebio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**BridgeBio** · USA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$173k-$217k USD` · `Equity` · `Bonus`

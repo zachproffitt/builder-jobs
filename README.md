@@ -4,15 +4,59 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **194 open roles** (9 new today) &nbsp;·&nbsp; 947 companies searched
+### **198 open roles** (13 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 01:09 UTC</sub>
+<sub>Last updated May 15, 2026 at 03:22 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Senior Staff Backend Software Engineer, Codex for Finance](jobs/openai/senior-staff-backend-software-engineer-codex-for-finance-6ccb669b-7c0c-4531-819b-47fb0a5c9dbd.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · San Francisco · `Senior`
+
+_Design and scale backend systems powering AI capabilities in financial products, including integrations with Excel and enterprise platforms. Lead end-to-end development of platform features serving billions of requests while working directly with research teams on next-generation models._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 03:22 UTC</sub>
+
+---
+
+### [Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance](jobs/openai/staff-senior-staff-product-engineer-full-stack-codex-for-finance-1f179760-8bfd-477c-a5dd-16d465d40307.md)
+<img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · San Francisco · `Senior`
+
+_Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 03:22 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Gameplay - Unpublished R&D Product](jobs/riot-games/staff-software-engineer-gameplay-unpublished-r-d-product-7922898.md)
+<img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Riot Games** · Guangzhou, China · `Staff`
+
+_Lead the design and implementation of core gameplay systems for an unreleased Riot Games title, making critical technical decisions in complex systems and owning key module outcomes. Integrate AI agents into development workflows to improve team efficiency while balancing engineering quality with iteration speed across a collaborative, cross-functional team._
+
+![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Gameplay Framework](https://img.shields.io/badge/Gameplay_Framework-3B82F6?style=flat-square) ![Blueprint](https://img.shields.io/badge/Blueprint-3B82F6?style=flat-square) ![AI Agent Integration](https://img.shields.io/badge/AI_Agent_Integration-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![Game Systems Architecture](https://img.shields.io/badge/Game_Systems_Architecture-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 03:22 UTC</sub>
+
+---
+
+### [[TEMPLATE] Default Template](jobs/stripe/template-default-template-7919030.md)
+<img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe** · Chicago, IL in IL · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
+
+_Troubleshoot and advise technical users on Stripe payment integrations across multiple platforms and languages, helping developers optimize their implementations. You'll learn full-stack development across Stripe's supported backend languages, JavaScript/React, SQL, and LogScale while providing 24/5 developer support._
+
+![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Stripe API](https://img.shields.io/badge/Stripe_API-3B82F6?style=flat-square) ![LogScale](https://img.shields.io/badge/LogScale-3B82F6?style=flat-square) ![Full-stack development](https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 03:22 UTC</sub>
+
+---
 
 ### [Engineering Manager, Marketing Technology - Segmentation Platform & Insights Platform](jobs/airbnb/engineering-manager-marketing-technology-segmentation-platform-insights-platform-7927488.md)
 <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Airbnb** · United States · `Manager` · `$212k—$265k USD` · `Equity` · `Bonus`
