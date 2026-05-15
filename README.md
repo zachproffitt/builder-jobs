@@ -4,7 +4,7 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **159 open roles** (39 new today) &nbsp;·&nbsp; 947 companies searched
+### **173 open roles** (43 new today) &nbsp;·&nbsp; 912 companies searched
 
 [Remote only →](REMOTE.md)
 
@@ -185,6 +185,50 @@ _Develop and conduct high-fidelity CFD thermal-hydraulic analyses of advanced fi
 _Design and implement backend systems, APIs, and services that bring identity and authorization capabilities to AI agent workflows. Build foundational infrastructure for a nascent space where industry patterns for agent identity and delegated access are still being defined. · [Apply →](https://www.okta.com/company/careers/opportunity/7872569?gh_jid=7872569)_
 
 ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [AI Systems Engineer, Codex Agents](jobs/openai/ai-systems-engineer-codex-agents-de06790a-7243-4e33-a6f1-e7bd34009588.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+
+_Design and build the core agent harness, execution loop, and sandboxing infrastructure that enables AI agents to safely interpret model outputs, execute code, and complete long-horizon tasks in production environments. Work across the full stack—from Rust systems code to inference optimization to GPU fleet management—debugging and improving agent reliability, latency, cost, and solve rate end-to-end. · [Apply →](https://jobs.ashbyhq.com/openai/de06790a-7243-4e33-a6f1-e7bd34009588)_
+
+![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![LLM Inference](https://img.shields.io/badge/LLM_Inference-3B82F6?style=flat-square) ![Sandboxing/Virtualization](https://img.shields.io/badge/Sandboxing%2FVirtualization-3B82F6?style=flat-square) ![GPU Systems](https://img.shields.io/badge/GPU_Systems-3B82F6?style=flat-square) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-3B82F6?style=flat-square) ![Compiler/Runtime Optimization](https://img.shields.io/badge/Compiler%2FRuntime_Optimization-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Senior Staff Backend Software Engineer, Codex for Finance](jobs/openai/senior-staff-backend-software-engineer-codex-for-finance-6ccb669b-7c0c-4531-819b-47fb0a5c9dbd.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+
+_Design and scale backend systems powering AI capabilities in financial products, including integrations with Excel and enterprise platforms. Lead end-to-end development of platform features serving billions of requests while working directly with research teams on next-generation models. · [Apply →](https://jobs.ashbyhq.com/openai/6ccb669b-7c0c-4531-819b-47fb0a5c9dbd)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Solutions Architect, Digital Natives](jobs/openai/solutions-architect-digital-natives-e827d138-22de-49f0-9de5-60f3e3ce07a0.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$240k`
+
+_Design and deploy GenAI solutions for enterprise customers, building hands-on prototypes and providing architectural guidance on RAG systems, multi-agent orchestration, and production scaling. Work embedded with senior stakeholders at large multinational corporations to identify and validate high-value AI applications. · [Apply →](https://jobs.ashbyhq.com/openai/e827d138-22de-49f0-9de5-60f3e3ce07a0)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance](jobs/openai/staff-senior-staff-product-engineer-full-stack-codex-for-finance-1f179760-8bfd-477c-a5dd-16d465d40307.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+
+_Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle. · [Apply →](https://jobs.ashbyhq.com/openai/1f179760-8bfd-477c-a5dd-16d465d40307)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -909,6 +953,17 @@ _Build production security detections against Lambda's real log data, shipping c
 
 ---
 
+### [Software Development Engineer III, Maps API](jobs/mapbox/software-development-engineer-iii-maps-api-497f955d-b325-44cd-bc25-001169d78fbf.md)
+<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox** · Remote · `Senior`
+
+_Build and maintain high-traffic distributed APIs and ETL pipelines that serve billions of map requests daily to millions of developers globally. Lead architectural decisions for geospatial data processing at scale while mentoring engineers and balancing rapid feature development with operational reliability. · [Apply →](https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Geospatial Data](https://img.shields.io/badge/Geospatial_Data-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
 ### [Manager, Software Engineering - Identity Platform](jobs/marqeta/manager-software-engineering-identity-platform-7892053.md)
 <a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · Toronto, Canada / Vancouver, Canada · `Manager` · `$156k-$196k CAD` · `Equity` · `Bonus`
 
@@ -981,6 +1036,61 @@ _Design computational models and machine vision algorithms for brain-computer in
 _Build and maintain security automation, infrastructure, and integrations across Okta's enterprise security tools and cloud platforms using code-first approaches. Lead technical evaluations and implementations of endpoint detection, cloud security, and identity infrastructure to protect organizational security posture at scale. · [Apply →](https://www.okta.com/company/careers/opportunity/7923030?gh_jid=7923030)_
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Okta](https://img.shields.io/badge/Okta-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Android Engineer, ChatGPT (Seattle)](jobs/openai/android-engineer-chatgpt-seattle-5a1a0c32-0b82-482a-8149-e6b096c3e732.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Seattle, WA · `Senior`
+
+_Build and ship new Android experiences for ChatGPT, expanding mobile AI capabilities. Drive foundational improvements in app architecture, performance optimization, and testing frameworks while collaborating across product, design, and research teams. · [Apply →](https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732)_
+
+![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![App Architecture](https://img.shields.io/badge/App_Architecture-3B82F6?style=flat-square) ![Testing Frameworks](https://img.shields.io/badge/Testing_Frameworks-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Head of Measurement & Performance Intelligence](jobs/openai/head-of-measurement-performance-intelligence-57b9ce42-b17f-4b43-96b3-a67d9d705d5d.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+
+_Lead the measurement and performance intelligence function for OpenAI's compute platforms, defining metrics, benchmarking methodologies, and acceptance criteria across hardware and software systems. Partner with training, inference, and infrastructure teams to translate performance data into architectural and capacity decisions at scale. · [Apply →](https://jobs.ashbyhq.com/openai/57b9ce42-b17f-4b43-96b3-a67d9d705d5d)_
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![HPC](https://img.shields.io/badge/HPC-3B82F6?style=flat-square) ![Performance Engineering](https://img.shields.io/badge/Performance_Engineering-3B82F6?style=flat-square) ![Benchmarking](https://img.shields.io/badge/Benchmarking-3B82F6?style=flat-square) ![AI/ML Infrastructure](https://img.shields.io/badge/AI%2FML_Infrastructure-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Senior Data Engineer, Core Experimentation](jobs/openai/senior-data-engineer-core-experimentation-2796d32a-9f7c-4008-a2c5-50dd53b0f2fe.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
+
+_Design and build data pipelines and canonical datasets powering OpenAI's experimentation platform, data warehouse, and product analytics at massive scale. Work with infrastructure, research, and product teams to enable trustworthy, statistically rigorous experimentation across frontier AI products. · [Apply →](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![AWS (S3)](https://img.shields.io/badge/AWS_%28S3%29-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Staff / Senior Staff Backend Engineer, B2B Flywheel](jobs/openai/staff-senior-staff-backend-engineer-b2b-flywheel-e9fa3446-0b1e-48c0-a567-ef85f1621b76.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293K-$385K`
+
+_Design and build real-time backend systems and data pipelines that capture, process, and translate product and usage signals across OpenAI's B2B API surfaces. Operate in high-scale, low-latency, privacy-constrained environments while partnering with data science and research teams to improve products and models through production feedback loops. · [Apply →](https://jobs.ashbyhq.com/openai/e9fa3446-0b1e-48c0-a567-ef85f1621b76)_
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![API Services](https://img.shields.io/badge/API_Services-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Staff+ Software Engineer, Identity Infrastructure Engineering](jobs/openai/staff-software-engineer-identity-infrastructure-engineering-72a58872-70e2-4340-a259-e9bea3596883.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
+
+_Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements. · [Apply →](https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883)_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
@@ -1523,6 +1633,28 @@ _Design and operate reconciliation systems and control-plane services for Grafan
 
 ---
 
+### [Principal Software Engineer, AI Observability & Evals Platform](jobs/langchain/principal-software-engineer-ai-observability-evals-platform-d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93.md)
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · Boston, MA / San Francisco, CA / New York, NY · `Principal` · `$230k-$270k` · `Equity`
+
+_Build LangSmith's full-stack AI observability platform—backend services, APIs, and frontend product surfaces—handling tracing, evaluation, and monitoring workflows at production scale. You'll drive architectural decisions across Go, Python, and TypeScript while establishing engineering standards and mentoring a growing team. · [Apply →](https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93)_
+
+![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Production Observability](https://img.shields.io/badge/Production_Observability-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Software Engineer, SmithDB](jobs/langchain/software-engineer-smithdb-068b2e23-af01-42c7-9bce-d86976ea4d6e.md)
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · San Francisco, CA · `Senior` · `$175k-$240k` · `Equity`
+
+_Engineer a distributed, high-performance storage layer for AI observability built in Rust, optimized for ingestion, querying, and scaling to trillions of traces. Scale and harden a multi-tenant system running on Kubernetes with tight integration to cloud object stores. · [Apply →](https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e)_
+
+![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Database Systems](https://img.shields.io/badge/Database_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Object Storage (S3/GCS/Azure)](https://img.shields.io/badge/Cloud_Object_Storage_%28S3%2FGCS%2FAzure%29-3B82F6?style=flat-square) ![Query Execution Engines](https://img.shields.io/badge/Query_Execution_Engines-3B82F6?style=flat-square) ![Systems Performance Analysis](https://img.shields.io/badge/Systems_Performance_Analysis-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Memory and CPU Profiling](https://img.shields.io/badge/Memory_and_CPU_Profiling-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
 ### [Director, Forward Deployed AI Engineering](jobs/natera/director-forward-deployed-ai-engineering-5991157004.md)
 <a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$186k–$233k`
 
@@ -1551,6 +1683,28 @@ _Lead a distributed engineering team building genomics tertiary analysis softwar
 _Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization. · [Apply →](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e)_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Data Engineer, People Innovation Labs](jobs/openai/data-engineer-people-innovation-labs-579595e5-0b16-485e-b7c5-102fc7467def.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics. · [Apply →](https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Data Scientist, Core Experimentation](jobs/openai/data-scientist-core-experimentation-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92.md)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$293k-$325k`
+
+_Build and evolve OpenAI's core experimentation platform, designing statistical methodologies and scalable analytical systems that power trustworthy decision-making across product and research teams. Work on hard problems in online experimentation including variance reduction, causal inference, and measurement systems at frontier AI scale. · [Apply →](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Sequential Testing](https://img.shields.io/badge/Sequential_Testing-3B82F6?style=flat-square) ![Variance Reduction (CUPED)](https://img.shields.io/badge/Variance_Reduction_%28CUPED%29-3B82F6?style=flat-square) ![Sample Ratio Mismatch Detection](https://img.shields.io/badge/Sample_Ratio_Mismatch_Detection-3B82F6?style=flat-square) ![Metric Design](https://img.shields.io/badge/Metric_Design-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 

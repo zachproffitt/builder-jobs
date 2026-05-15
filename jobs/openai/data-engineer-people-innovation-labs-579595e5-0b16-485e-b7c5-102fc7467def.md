@@ -1,0 +1,93 @@
+<!--
+id: ashby-openai-579595e5-0b16-485e-b7c5-102fc7467def
+company: OpenAI
+title: Data Engineer, People Innovation Labs
+source: ashby
+location: San Francisco, CA
+remote: Remote
+hybrid: no
+posted_at: 2026-05-13
+first_seen: 2026-05-13
+first_seen_at: 
+url: https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def
+summary: Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics.
+skills: Python, Databricks, Spark, Airflow, ETL, Data Warehousing, Scala, Java
+level: senior
+comp: 
+comp_extras: 
+render_hash: f84b6a41
+-->
+
+# Data Engineer, People Innovation Labs
+
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+
+> OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
+
+_Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
+
+<sub>Posted May 13, 2026</sub>
+
+**[→ Apply](https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def)**
+
+---
+
+About the Team
+
+At OpenAI, we’re building the connective tissue between our mission and our people. People Innovation Labs is a fast-moving engineering team embedded in the People organization, focused on rethinking how we find and retain the best talent and empower everyone to do their best work. From recruiting to culture, we’re designing systems that give our People Team a significant edge by infusing OpenAI’s models and first-principles thinking into every aspect of our work. Our projects range from greenfield 0-1 products like OpenHouse (our internal knowledge hub) to AI-powered automations and scalable recruiting tools. We’re defining the future of work at OpenAI, creating a blueprint for how AI can supercharge productivity, culture, and innovation.
+
+About the Role
+
+We are looking for a hands-on engineering manager to lead technical and product strategy and execution for People Innovation Labs’ OpenHouse pod. OpenHouse is our flagship employee-facing product, serving as a culture and communication hub and an organization-wide front door into all other aspects of People Innovation Labs’ work. The OpenHouse pod is composed of full stack product engineers who are deeply curious about culture, recruiting and people development, and want to know everything from the business strategy and metrics down through the code that gets us there. In this role, you will work with People Innovation Labs leadership to build and grow the team and OpenHouse product, innovating on how we apply LLMs along the way.
+
+We’re seeking a Data Engineer to build data-intensive systems that will power People Innovation Labs’ internal products and enable the People Analytics function to do their best work. These data pipelines are crucial for our build-out of people products backed by business systems of record and for ongoing people data analytics.
+
+One example of an employee-facing product you’ll help us build is OpenHouse, which serves as a culture and communication hub and an organization-wide front door into all other aspects of People Innovation Labs’ work. OpenHouse and other products in our portfolio are built by full stack product engineers who are deeply curious about culture, recruiting and people development, and want to know everything from the business strategy and metrics down through the code that gets us there. In this role, you will work with People Innovation Labs leadership and software engineers and the People Analytics team to build the data systems that enable this work.
+
+In this role, you will:
+
+ - Design, build and manage people data pipelines, ensuring all data is seamlessly integrated into our Databricks warehouse.
+
+ - Develop canonical datasets to track key people metrics and People Innovation Labs product metrics.
+
+ - Work collaboratively with various teams, including, Data Platform, Data Science, People Analytics, and Compensation and Equity to understand their data needs and provide solutions.
+
+ - Implement robust and fault-tolerant systems for data ingestion and processing.
+
+ - Participate in data architecture and engineering decisions, bringing your strong experience and knowledge to bear as the primary data engineering expert on the team.
+
+ - Ensure the security, integrity, and compliance of data according to industry and company standards.
+
+Your background might look something like:
+
+ - Have 3+ years of experience as a data engineer and 8+ years of any software engineering experience (including data engineering).
+
+ - Proficiency in at least one programming language commonly used within Data Engineering, such as Python, Scala, or Java.
+
+ - Experience with data warehousing technologies such as Databricks and Snowflake, and expertise with ETL schedulers such as Fivetran, Airflow, Dagster, Prefect, or similar.
+
+ - Experience with distributed processing technologies and frameworks, such as Spark, Hadoop, Flink and distributed storage systems (e.g., HDFS, S3).
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+
+For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.
+
+OpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+---
+
+**[→ Apply](https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def)**
