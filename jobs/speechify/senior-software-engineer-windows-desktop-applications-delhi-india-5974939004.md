@@ -1,0 +1,124 @@
+<!--
+id: greenhouse-speechify-5974939004
+company: Speechify
+title: Senior Software Engineer, Windows/Desktop Applications - Delhi, India
+source: greenhouse
+location: Delhi, India
+remote: Not specified
+hybrid: no
+posted_at: Unknown
+first_seen: 2026-05-15
+first_seen_at: 
+url: https://job-boards.greenhouse.io/speechify/jobs/5974939004
+summary: Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and cross-version compatibility. Own features end-to-end from conception through release, mentoring other engineers and driving long-term technical direction for the Windows platform serving millions of users.
+skills: Windows App SDK, WinUI, C#, XAML, C++, Microsoft UI Automation, .NET, Win32/WinRT/COM
+level: senior
+comp: 
+comp_extras: 
+render_hash: f90d53c5
+-->
+
+# Senior Software Engineer, Windows/Desktop Applications - Delhi, India
+
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify**  
+Delhi, India · `Senior`
+
+> Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
+
+_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and cross-version compatibility. Own features end-to-end from conception through release, mentoring other engineers and driving long-term technical direction for the Windows platform serving millions of users._
+
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square)
+
+<sub>First seen May 15, 2026</sub>
+
+**[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5974939004)**
+
+---
+
+Mission
+
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;
+
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies
+
+What You’ll Do
+
+Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI (or related UI frameworks), C#, XAML, and — when needed — C++.
+
+Define and enforce best-practices for Windows desktop development across the codebase: code architecture, performance, memory usage, responsive UI, cross-version compatibility (Windows 10/11+), and maintainability.
+
+Drive accessibility efforts: integrate and validate support for accessibility APIs (e.g. Microsoft UI Automation or other relevant Windows accessibility frameworks), ensure UI controls, focus management, keyboard navigation, screen-reader support, and usability for users with disabilities.
+
+Collaborate closely with product designers, UX researchers, QA, and other stakeholders to shape feature planning, UI/UX architecture, and long-term roadmap for the Windows platform.
+
+Take ownership of full lifecycle of features: conception → design → implementation → testing → release → maintenance. Ensure quality, reliability, and consistency across releases.
+
+Identify, diagnose, and resolve complex bugs, performance bottlenecks, memory leaks, rendering issues, or compatibility problems — and propose robust architectural or design solutions.
+
+&nbsp;
+
+An ideal candidate should have
+
+Required:
+
+3+ in Windows desktop application development using Windows App SDK, WinUI (or similar), C#, XAML — and ideally additional experience with native Windows code (C++, Win32/WinRT/COM).
+
+Deep understanding of Windows application architecture, including interop between managed code (.NET) and native code.
+
+Proven track record of designing, building, and shipping production-quality desktop applications, with an emphasis on reliability, performance, scalability, and maintainability.
+
+Strong experience with accessibility APIs on Windows (e.g. Microsoft UI Automation or similar), and a dedication to building accessible and inclusive software.
+
+Excellent software engineering fundamentals: OOP, design patterns, data structures, algorithms, memory management, multi-threading or asynchronous programming (where relevant).
+
+Experience leading technical design, mentoring other engineers, conducting code reviews, and making architecture-level decisions.
+
+Strong communication skills; ability to articulate tradeoffs, collaborate with cross-functional teams, and drive consensus.
+
+A user-centric mindset: focus on building polished, intuitive, and accessible experiences for end users.
+
+Preferred / Bonus:
+
+Experience with writing automated tests for UI — unit tests, integration tests, UI automation tests; familiarity with relevant testing frameworks.
+
+Experience with performance optimization for desktop apps (memory usage, startup time, rendering performance, high-DPI support, responsiveness under load).
+
+Experience with localization/globalization, right-to-left UI support, internationalization, accessibility for multiple regions.
+
+Familiarity with telemetry, analytics, crash reporting, logging, and error monitoring in desktop applications.
+
+Previous experience in shaping CI/CD workflows, release pipelines, and deployment strategies for desktop applications.
+
+Demonstrated ability to take ownership of feature areas or modules and drive them long-term, including maintenance, refactoring, and technical debt management.
+
+What we offer
+
+A high-impact role: you will define architecture, shape the future of our Windows product, and directly influence what millions of users see and experience.
+
+A collaborative, flat-structure engineering culture — you are not just a coder, but a builder and a decision-maker.
+
+Opportunities to lead — mentor others, steer technical direction, and grow into broader technical leadership (e.g. Tech Lead, Architect).
+
+Flexibility, autonomy, and responsibility: you define how to solve problems, own features end-to-end, and contribute to long-term product vision.
+
+A purpose-driven mission: building software that’s reliable, accessible, and user-centered — making a real difference for people.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+Think you’re a good fit for this job?&nbsp;
+
+Tell us more about yourself and why you're interested in the role when you apply.
+
+And don’t forget to include links to your portfolio and LinkedIn.
+
+Not looking but know someone who would make a great fit?&nbsp;
+
+Refer them!&nbsp;
+
+Speechify is committed to a diverse and inclusive workplace.&nbsp;
+
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+---
+
+**[→ Apply](https://job-boards.greenhouse.io/speechify/jobs/5974939004)**

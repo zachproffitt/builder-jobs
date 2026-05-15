@@ -4,13 +4,24 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **65 open roles** (5 new today)
+### **66 open roles** (6 new today)
 
-<sub>Last updated May 15, 2026 at 03:22 UTC</sub>
+<sub>Last updated May 15, 2026 at 09:19 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Machine Learning & Game Tech Architect](jobs/cd-projekt-red/machine-learning-game-tech-architect-744000126656239.md)
+<img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CD Projekt Red** · Montreal, ca · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and maintain hybrid game-AI systems that integrate machine learning frameworks with game engines, serving as the technical bridge between ML researchers and game developers. You'll architect production systems at scale for a major game studio, with exposure to cutting-edge ML and game technology integration challenges._
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engines](https://img.shields.io/badge/Game_Engines-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 09:19 UTC</sub>
+
+---
 
 ### [[TEMPLATE] Default Template](jobs/stripe/template-default-template-7919030.md)
 <img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Stripe** · Chicago, IL in IL · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
