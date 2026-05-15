@@ -4,13 +4,46 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **51 open roles** (10 new today)
+### **54 open roles** (13 new today)
 
-<sub>Last updated May 15, 2026 at 15:51 UTC</sub>
+<sub>Last updated May 15, 2026 at 16:46 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Software Engineer, Payments](jobs/airbnb/software-engineer-payments-7872758.md)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$162k–$186k` · `Equity` · `Bonus`
+
+_Build and own features powering Airbnb's guest payment systems, handling all money flowing into the platform — from payment method onboarding to quote generation and self-serve payment tools. Work on high-scale distributed systems processing massive daily transaction volumes across a global marketplace. · [Apply →](https://careers.airbnb.com/positions/7872758?gh_jid=7872758)_
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
+
+### [Senior Software Engineer I (Backend), AI Governance (Remote USA)](jobs/auditboard/senior-software-engineer-i-backend-ai-governance-remote-usa-3a7f9ca6-9293-4dca-8546-5458c7f15f0a.md)
+<a href="https://auditboard.com"><img src="https://www.google.com/s2/favicons?domain=auditboard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AuditBoard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Bonus`
+
+_Build and ship backend product features end-to-end using Python, FastAPI, and PostgreSQL for a SaaS audit and risk platform serving Fortune 500 companies. Lead large strategic projects, mentor engineers, and design scalable distributed systems running on Kubernetes. · [Apply →](https://jobs.ashbyhq.com/optro/3a7f9ca6-9293-4dca-8546-5458c7f15f0a)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
+
+### [Staff Software Engineer (Backend), AI Governance (Remote USA)](jobs/auditboard/staff-software-engineer-backend-ai-governance-remote-usa-c0efcde7-04cb-4381-9e56-36f89a14a622.md)
+<a href="https://auditboard.com"><img src="https://www.google.com/s2/favicons?domain=auditboard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AuditBoard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Bonus`
+
+_Build and architect scalable backend systems and REST APIs for an audit, risk, and compliance platform serving Fortune 500 customers. Lead large strategic projects, mentor engineers, and design systems handling complex data pipelines and B2B integrations at scale. · [Apply →](https://jobs.ashbyhq.com/optro/c0efcde7-04cb-4381-9e56-36f89a14a622)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![ETL pipelines](https://img.shields.io/badge/ETL_pipelines-3B82F6?style=flat-square) ![B2B integrations](https://img.shields.io/badge/B2B_integrations-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
 
 ### [Front-End Developer II - ShareGate Migrate [Web Experience]](jobs/workleap/front-end-developer-ii-sharegate-migrate-web-experience-5133951007.md)
 <a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$100k-$130k CAD`

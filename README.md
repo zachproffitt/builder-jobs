@@ -4,15 +4,81 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **178 open roles** (48 new today) &nbsp;·&nbsp; 912 companies searched
+### **184 open roles** (54 new today) &nbsp;·&nbsp; 912 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 15:51 UTC</sub>
+<sub>Last updated May 15, 2026 at 16:46 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Software Engineer, Payments](jobs/airbnb/software-engineer-payments-7872758.md)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$162k–$186k` · `Equity` · `Bonus`
+
+_Build and own features powering Airbnb's guest payment systems, handling all money flowing into the platform — from payment method onboarding to quote generation and self-serve payment tools. Work on high-scale distributed systems processing massive daily transaction volumes across a global marketplace. · [Apply →](https://careers.airbnb.com/positions/7872758?gh_jid=7872758)_
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
+
+### [DevOps Engineer](jobs/apptronik/devops-engineer-5997000004.md)
+<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik** · Onsite - Austin, TX · `Senior`
+
+_Own the CI/CD systems, build infrastructure, and developer-facing platforms that determine how quickly the company ships robot software. Work spans on-prem and cloud deployments, with particular challenges in release engineering for embedded targets and fleet rollout at scale. · [Apply →](https://boards.greenhouse.io/apptronik/jobs/5997000004?gh_jid=5997000004)_
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![GitOps](https://img.shields.io/badge/GitOps-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
+
+### [Senior Software Engineer I (Backend), AI Governance (Remote USA)](jobs/auditboard/senior-software-engineer-i-backend-ai-governance-remote-usa-3a7f9ca6-9293-4dca-8546-5458c7f15f0a.md)
+<a href="https://auditboard.com"><img src="https://www.google.com/s2/favicons?domain=auditboard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AuditBoard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Bonus`
+
+_Build and ship backend product features end-to-end using Python, FastAPI, and PostgreSQL for a SaaS audit and risk platform serving Fortune 500 companies. Lead large strategic projects, mentor engineers, and design scalable distributed systems running on Kubernetes. · [Apply →](https://jobs.ashbyhq.com/optro/3a7f9ca6-9293-4dca-8546-5458c7f15f0a)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Celery](https://img.shields.io/badge/Celery-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
+
+### [Staff Software Engineer (Backend), AI Governance (Remote USA)](jobs/auditboard/staff-software-engineer-backend-ai-governance-remote-usa-c0efcde7-04cb-4381-9e56-36f89a14a622.md)
+<a href="https://auditboard.com"><img src="https://www.google.com/s2/favicons?domain=auditboard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AuditBoard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Bonus`
+
+_Build and architect scalable backend systems and REST APIs for an audit, risk, and compliance platform serving Fortune 500 customers. Lead large strategic projects, mentor engineers, and design systems handling complex data pipelines and B2B integrations at scale. · [Apply →](https://jobs.ashbyhq.com/optro/c0efcde7-04cb-4381-9e56-36f89a14a622)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![ETL pipelines](https://img.shields.io/badge/ETL_pipelines-3B82F6?style=flat-square) ![B2B integrations](https://img.shields.io/badge/B2B_integrations-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
+
+### [Staff Data Scientist, Risk](jobs/gusto/staff-data-scientist-risk-7656216.md)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, CO / San Francisco, CA / New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$154k-$230k` · `Equity`
+
+_Build statistical models and experimentation frameworks to identify and mitigate risk across Gusto's payroll and HR platform, serving 500,000+ small businesses. Apply causal inference and experimental design to influence product decisions in a domain requiring deep risk modeling expertise. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/7656216)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Statistical Inference](https://img.shields.io/badge/Statistical_Inference-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Experimental Design](https://img.shields.io/badge/Experimental_Design-3B82F6?style=flat-square) ![Risk Modeling](https://img.shields.io/badge/Risk_Modeling-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
+
+### [Vehicle Validation Engineer](jobs/nuro/vehicle-validation-engineer-7922662.md)
+<a href="https://nuro.ai"><img src="https://www.google.com/s2/favicons?domain=nuro.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nuro** · Mountain View, California (HQ) · `Senior` · `$132k-$198k` · `Bonus` · `Equity`
+
+_Design and execute comprehensive validation frameworks for autonomous vehicle systems, developing analytical models and test plans to verify performance against first-principles requirements. Lead cross-functional validation campaigns with ownership of requirement definition, test execution, data analysis, and technical reporting for safety-critical autonomy systems. · [Apply →](https://nuro.ai/careersitem?gh_jid=7922662)_
+
+![Vehicle dynamics](https://img.shields.io/badge/Vehicle_dynamics-3B82F6?style=flat-square) ![ADAS](https://img.shields.io/badge/ADAS-3B82F6?style=flat-square) ![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-3B82F6?style=flat-square) ![Perception Systems](https://img.shields.io/badge/Perception_Systems-3B82F6?style=flat-square) ![Motion Planning](https://img.shields.io/badge/Motion_Planning-3B82F6?style=flat-square) ![Control Systems](https://img.shields.io/badge/Control_Systems-3B82F6?style=flat-square) ![HIL/SIL Simulation](https://img.shields.io/badge/HIL%2FSIL_Simulation-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 16:46 UTC</sub>
+
+---
 
 ### [Lead Autonomy Behavior Engineer](jobs/may-mobility/lead-autonomy-behavior-engineer-8551864002.md)
 <a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · Ann Arbor, MI · `Senior` · `$190k-$230k`
