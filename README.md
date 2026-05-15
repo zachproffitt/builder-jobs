@@ -4,15 +4,70 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **173 open roles** (43 new today) &nbsp;·&nbsp; 912 companies searched
+### **178 open roles** (48 new today) &nbsp;·&nbsp; 912 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 15:11 UTC</sub>
+<sub>Last updated May 15, 2026 at 15:51 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Lead Autonomy Behavior Engineer](jobs/may-mobility/lead-autonomy-behavior-engineer-8551864002.md)
+<a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · Ann Arbor, MI · `Senior` · `$190k-$230k`
+
+_Design, implement, and test state-of-the-art robotics software in C/C++ for autonomous vehicle behavior planning, decision making, and control systems. Lead a team on real-world robot systems with 7+ years of commercial deployment experience in critical autonomy functions. · [Apply →](https://job-boards.greenhouse.io/maymobility/jobs/8551864002)_
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Behavior Planning](https://img.shields.io/badge/Behavior_Planning-3B82F6?style=flat-square) ![Path Planning](https://img.shields.io/badge/Path_Planning-3B82F6?style=flat-square) ![MPC](https://img.shields.io/badge/MPC-3B82F6?style=flat-square) ![LQR](https://img.shields.io/badge/LQR-3B82F6?style=flat-square) ![Probabilistic Reasoning](https://img.shields.io/badge/Probabilistic_Reasoning-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 15:51 UTC</sub>
+
+---
+
+### [Senior Technical Architect](jobs/slingshot-aerospace/senior-technical-architect-5996935004.md)
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, DC · `Senior` · `$175k-$250k` · `Equity`
+
+_Architect and implement secure, scalable Python-based data processing platforms including ETL frameworks, event-driven streaming systems, and FastAPI microservices for space operations data. This on-site role requires deep expertise across distributed systems, Kafka/RabbitMQ, MongoDB, and Kubernetes in a defense-adjacent domain with security and compliance demands. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 15:51 UTC</sub>
+
+---
+
+### [Machine Learning Engineer](jobs/true-anomaly/machine-learning-engineer-5138856007.md)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, CO / Long Beach, CA · `Junior` · `$85k-$180k` · `Equity`
+
+_Develop machine learning models and data pipelines for autonomous spacecraft and space-based systems, including object classification, anomaly detection, and decision-making algorithms. Work on mission-critical AI capabilities in the space domain with ITAR compliance and U.S. citizenship requirement. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square) ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-3B82F6?style=flat-square) ![JAX](https://img.shields.io/badge/JAX-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 15:51 UTC</sub>
+
+---
+
+### [Senior Machine Learning Engineer](jobs/true-anomaly/senior-machine-learning-engineer-5138859007.md)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, CO / Long Beach, CA · `Senior` · `$155k-$260k` · `Equity`
+
+_Design, implement, and deploy machine learning and AI models for autonomous spacecraft and space-based systems, including object classification, anomaly detection, and threat assessment. This role requires hands-on development in a space domain with real-world operational requirements and ITAR compliance. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138859007)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-3B82F6?style=flat-square) ![Object Classification](https://img.shields.io/badge/Object_Classification-3B82F6?style=flat-square) ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 15:51 UTC</sub>
+
+---
+
+### [Front-End Developer II - ShareGate Migrate [Web Experience]](jobs/workleap/front-end-developer-ii-sharegate-migrate-web-experience-5133951007.md)
+<a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$100k-$130k CAD`
+
+_Build a brand-new web application for ShareGate Migrate from scratch, creating rich, performant, and accessible interfaces that set the experience quality bar for thousands of IT professionals. Establish front-end technical foundations and architecture patterns while integrating Microsoft APIs and contributing to backend C#/.NET development in a founding team role. · [Apply →](https://job-boards.greenhouse.io/workleap/jobs/5133951007)_
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-3B82F6?style=flat-square) ![Azure AD](https://img.shields.io/badge/Azure_AD-3B82F6?style=flat-square) ![MSAL](https://img.shields.io/badge/MSAL-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 15:51 UTC</sub>
+
+---
 
 ### [CPU Core Design Verification Test Generator Lead](jobs/tenstorrent/cpu-core-design-verification-test-generator-lead-5137633007.md)
 <a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Austin, TX / Santa Clara, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$500k`
