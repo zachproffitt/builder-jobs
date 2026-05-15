@@ -4,112 +4,24 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **340 open roles** (201 new today) &nbsp;·&nbsp; 947 companies searched
+### **159 open roles** (39 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 14:59 UTC</sub>
+<sub>Last updated May 15, 2026 at 15:11 UTC</sub>
 
 <br>
 
 ## May 15, 2026
 
-### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8550065002.md)
-<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · San Francisco, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity`
+### [CPU Core Design Verification Test Generator Lead](jobs/tenstorrent/cpu-core-design-verification-test-generator-lead-5137633007.md)
+<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Austin, TX / Santa Clara, CA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$500k`
 
-_Lead a technical team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Transform traditional operations through intelligent automation, agentic workflows, and decision infrastructure while navigating high ambiguity across Finance, Engineering, Data, and Operations. · [Apply →](https://www.brex.com/careers/8550065002?gh_jid=8550065002)_
+_Lead development of CPU core-level test generators and verification strategy for high-performance out-of-order RISC-V cores, owning generator infrastructure, ISA and microarchitectural stimulus, and RISC-V certification workflows. This role requires deep expertise in CPU design verification at scale, involves guiding a small team while staying hands-on with implementation and debug, and demands direct access to US export-controlled semiconductor technology. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/5137633007)_
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
+![RISC-V](https://img.shields.io/badge/RISC--V-3B82F6?style=flat-square) ![CPU Verification](https://img.shields.io/badge/CPU_Verification-3B82F6?style=flat-square) ![Test Generation](https://img.shields.io/badge/Test_Generation-3B82F6?style=flat-square) ![ISA Design](https://img.shields.io/badge/ISA_Design-3B82F6?style=flat-square) ![Out-of-Order CPU Architecture](https://img.shields.io/badge/Out--of--Order_CPU_Architecture-3B82F6?style=flat-square) ![Randomized Stimulus](https://img.shields.io/badge/Randomized_Stimulus-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-3B82F6?style=flat-square)
 
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551691002.md)
-<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · Seattle, WA · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity`
-
-_Lead a team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Define long-term vision for operational scalability while executing on high-impact workflows, agentic systems, and decision infrastructure in a rapidly AI-transforming fintech environment. · [Apply →](https://www.brex.com/careers/8551691002?gh_jid=8551691002)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM automation](https://img.shields.io/badge/AI%2FLLM_automation-3B82F6?style=flat-square) ![Data infrastructure](https://img.shields.io/badge/Data_infrastructure-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551693002.md)
-<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · New York, NY · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$210k-$263k` · `Equity`
-
-_Lead a team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Shape the future of operational work by combining systems thinking, business context, and intelligent automation across a high-growth fintech company. · [Apply →](https://www.brex.com/careers/8551693002?gh_jid=8551693002)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551699002.md)
-<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · Salt Lake City, UT · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$180k-$225k` · `Equity`
-
-_Lead a team building AI-native operational systems, automation, and internal platforms that power Risk, Compliance, Payment Operations, and Banking Operations at scale. Shape Brex's operational infrastructure by combining business strategy with hands-on engineering on complex cross-functional challenges in a high-growth fintech environment. · [Apply →](https://www.brex.com/careers/8551699002?gh_jid=8551699002)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Systems, Senior Manager](jobs/brex/systems-senior-manager-8551701002.md)
-<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · Vancouver, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `CAD $180k - CAD $225k` · `Equity`
-
-_Lead a team building AI-native operational systems, workflows, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Shape the future of operational automation by combining business context, systems thinking, and AI-powered tooling across a rapidly scaling fintech organization. · [Apply →](https://www.brex.com/careers/8551701002?gh_jid=8551701002)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7672319003.md)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$149k–$198k` · `Bonus` · `Equity`
-
-_Design and build data curation, mining, and search applications to accelerate ML dataset generation and model development for autonomous vehicles. Work with ML researchers and data platform teams to integrate solutions across a growing company scaling toward commercialization. · [Apply →](https://motional.com/open-positions/?gh_jid=7672319003#/7672319003)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7735397003.md)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Equity` · `Bonus`
-
-_Build the next generation of data curation, mining, and search applications to accelerate ML dataset generation and power autonomous vehicle development. This role directly impacts the operational readiness of driverless technology at scale, with exposure to autonomous vehicle data pipelines and infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735397003#/7735397003)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Bazel](https://img.shields.io/badge/Bazel-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7735400003.md)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Equity` · `Bonus`
-
-_Design and build data curation, mining, and search applications powering ML dataset generation and autonomous vehicle development. Work at scale in the driverless vehicle industry with cross-functional teams integrating web, backend, and data infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735400003#/7735400003)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST](https://img.shields.io/badge/REST-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Bazel](https://img.shields.io/badge/Bazel-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
-
----
-
-### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications-7735404003.md)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
-
-_Design and build data curation, mining, and search applications that power ML dataset generation and accelerate autonomous vehicle development. Work at scale in the autonomous vehicles domain with cross-functional collaboration on data platform infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735404003#/7735404003)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 14:59 UTC</sub>
+<sub>May 15, 2026 at 15:11 UTC</sub>
 
 ---
 
@@ -179,6 +91,17 @@ _Design and operate high-integrity financial systems for ledgering, transaction 
 
 ---
 
+### [Systems, Senior Manager](jobs/brex/systems-senior-manager.md)
+<a href="https://brex.com"><img src="https://www.google.com/s2/favicons?domain=brex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Brex** · San Francisco, CA / Seattle, WA / New York, NY / Vancouver, Canada / Salt Lake City, UT · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity`
+
+_Lead a technical team building AI-native operational systems, automation infrastructure, and internal platforms that power Brex's Risk, Compliance, Payment Operations, and Banking Operations at scale. Transform traditional operations through intelligent automation, agentic workflows, and decision infrastructure while navigating high ambiguity across Finance, Engineering, Data, and Operations._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square) ![Retool](https://img.shields.io/badge/Retool-3B82F6?style=flat-square) ![AI/LLM technologies](https://img.shields.io/badge/AI%2FLLM_technologies-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
 ### [Associate Director, Biostatistics & AI](jobs/bridgebio/associate-director-biostatistics-ai-5136136007.md)
 <a href="https://bridgebio.com"><img src="https://www.google.com/s2/favicons?domain=bridgebio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BridgeBio** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$173k-$217k USD` · `Equity` · `Bonus`
 
@@ -234,6 +157,17 @@ _Build back-end clearing and brokerage applications in Java supporting funds, ba
 
 ---
 
+### [Senior Software Engineer - AI Data Applications](jobs/motional/senior-software-engineer-ai-data-applications.md)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote / Boston, MA / Pittsburgh, PA / Las Vegas, NV / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k—$198k` · `Bonus` · `Equity`
+
+_Design and build data curation, mining, and search applications that power ML dataset generation and accelerate autonomous vehicle development. Work at scale in the autonomous vehicles domain with cross-functional collaboration on data platform infrastructure._
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![EKS](https://img.shields.io/badge/EKS-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
 ### [Senior Computational Fluid Dynamics Engineer](jobs/oklo/senior-computational-fluid-dynamics-engineer-5996719004.md)
 <a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, CA / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$100k-$190k` · `Equity` · `Bonus`
 
@@ -251,50 +185,6 @@ _Develop and conduct high-fidelity CFD thermal-hydraulic analyses of advanced fi
 _Design and implement backend systems, APIs, and services that bring identity and authorization capabilities to AI agent workflows. Build foundational infrastructure for a nascent space where industry patterns for agent identity and delegated access are still being defined. · [Apply →](https://www.okta.com/company/careers/opportunity/7872569?gh_jid=7872569)_
 
 ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [AI Systems Engineer, Codex Agents](jobs/openai/ai-systems-engineer-codex-agents-de06790a-7243-4e33-a6f1-e7bd34009588.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
-
-_Design and build the core agent harness, execution loop, and sandboxing infrastructure that enables AI agents to safely interpret model outputs, execute code, and complete long-horizon tasks in production environments. Work across the full stack—from Rust systems code to inference optimization to GPU fleet management—debugging and improving agent reliability, latency, cost, and solve rate end-to-end. · [Apply →](https://jobs.ashbyhq.com/openai/de06790a-7243-4e33-a6f1-e7bd34009588)_
-
-![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![LLM Inference](https://img.shields.io/badge/LLM_Inference-3B82F6?style=flat-square) ![Sandboxing/Virtualization](https://img.shields.io/badge/Sandboxing%2FVirtualization-3B82F6?style=flat-square) ![GPU Systems](https://img.shields.io/badge/GPU_Systems-3B82F6?style=flat-square) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-3B82F6?style=flat-square) ![Compiler/Runtime Optimization](https://img.shields.io/badge/Compiler%2FRuntime_Optimization-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Staff Backend Software Engineer, Codex for Finance](jobs/openai/senior-staff-backend-software-engineer-codex-for-finance-6ccb669b-7c0c-4531-819b-47fb0a5c9dbd.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
-
-_Design and scale backend systems powering AI capabilities in financial products, including integrations with Excel and enterprise platforms. Lead end-to-end development of platform features serving billions of requests while working directly with research teams on next-generation models. · [Apply →](https://jobs.ashbyhq.com/openai/6ccb669b-7c0c-4531-819b-47fb0a5c9dbd)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Solutions Architect, Digital Natives](jobs/openai/solutions-architect-digital-natives-e827d138-22de-49f0-9de5-60f3e3ce07a0.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$240k`
-
-_Design and deploy GenAI solutions for enterprise customers, building hands-on prototypes and providing architectural guidance on RAG systems, multi-agent orchestration, and production scaling. Work embedded with senior stakeholders at large multinational corporations to identify and validate high-value AI applications. · [Apply →](https://jobs.ashbyhq.com/openai/e827d138-22de-49f0-9de5-60f3e3ce07a0)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance](jobs/openai/staff-senior-staff-product-engineer-full-stack-codex-for-finance-1f179760-8bfd-477c-a5dd-16d465d40307.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
-
-_Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle. · [Apply →](https://jobs.ashbyhq.com/openai/1f179760-8bfd-477c-a5dd-16d465d40307)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -344,248 +234,6 @@ _Lead a small team of engineers building Sourcegraph's Code Plane products—Bat
 
 ---
 
-### [Senior Software Engineer, Core Experiences - Bend, OR, USA](jobs/speechify/senior-software-engineer-core-experiences-bend-or-usa-5974626004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, OR · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs powering Speechify's cross-platform audio information product. Design efficient abstractions and optimize end-to-end systems from cloud backend to mobile clients, balancing product velocity with infrastructure reliability. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974626004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Charlotte, NC, USA](jobs/speechify/senior-software-engineer-core-experiences-charlotte-nc-usa-5974529004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Charlotte, NC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build foundational services and SDKs that power Speechify's cross-platform audio product experience, optimizing for speed and reliability across web, mobile, and cloud. Work at the intersection of product and infrastructure, designing efficient APIs and backend systems that directly impact millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974529004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Chicago, IL, USA](jobs/speechify/senior-software-engineer-core-experiences-chicago-il-usa-5976169004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Chicago, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience. Design efficient abstractions and APIs that directly enhance user experience while optimizing for speed and reliability across web, mobile, and cloud infrastructure. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976169004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - College Park, MD, USA](jobs/speechify/senior-software-engineer-core-experiences-college-park-md-usa-5974523004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · College Park, MD · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs powering Speechify's cross-platform audio information product. Optimize end-to-end system performance, design efficient abstractions, and ship cloud functions and backend services in Kotlin while collaborating closely with product teams. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974523004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![SDKs](https://img.shields.io/badge/SDKs-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Columbia, SC, USA](jobs/speechify/senior-software-engineer-core-experiences-columbia-sc-usa-5974697004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Columbia, SC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience. Work at the intersection of product and infrastructure, optimizing cloud functions, backend services, and mobile APIs to enhance user experience across web, mobile, and cloud platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974697004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Dallas, TX, USA](jobs/speechify/senior-software-engineer-core-experiences-dallas-tx-usa-5974466004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Dallas, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build foundational services and SDKs that power Speechify's cross-platform audio information product, optimizing backend services and client libraries for speed and reliability. Work at the intersection of product and infrastructure, designing clear APIs and efficient systems that directly enhance user experience across millions of users with accessibility needs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974466004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![SDKs](https://img.shields.io/badge/SDKs-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Durham, NC, USA](jobs/speechify/senior-software-engineer-core-experiences-durham-nc-usa-5974535004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Durham, NC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform audio product experience. Optimize parsing and loading performance, ship backend services in Kotlin, and navigate product-infrastructure tradeoffs to deliver reliable APIs that directly enhance user experience. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974535004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Frisco, TX, USA](jobs/speechify/senior-software-engineer-core-experiences-frisco-tx-usa-5974505004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Frisco, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform audio information product. Design end-to-end systems optimizing for fast loading, intelligent parsing, and clear APIs while collaborating with product teams to balance integration tradeoffs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974505004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Greensboro, NC, USA](jobs/speechify/senior-software-engineer-core-experiences-greensboro-nc-usa-5974691004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Greensboro, NC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build foundational services and SDKs powering Speechify's text-to-speech product across platforms. Design efficient abstractions and ship cloud functions in Kotlin to optimize parsing, loading, and user experience for millions of users with accessibility needs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974691004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square) ![Algorithm Optimization](https://img.shields.io/badge/Algorithm_Optimization-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Iowa City, IA, USA](jobs/speechify/senior-software-engineer-core-experiences-iowa-city-ia-usa-5974667004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Iowa City, IA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's text-to-speech product across platforms. Design efficient abstractions, optimize parsing and loading performance, and ship cloud functions and backend services using Kotlin Multiplatform. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974667004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Algorithm Optimization](https://img.shields.io/badge/Algorithm_Optimization-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Jacksonville, FL, USA](jobs/speechify/senior-software-engineer-core-experiences-jacksonville-fl-usa-5974553004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Jacksonville, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs powering Speechify's text-to-speech product across platforms. Design efficient abstractions and optimize systems for faster parsing and loading while navigating product tradeoffs across multiple client teams. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974553004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Milwaukee, WI, USA](jobs/speechify/senior-software-engineer-core-experiences-milwaukee-wi-usa-5974650004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Milwaukee, WI · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build foundational services and SDKs powering Speechify's cross-platform text-to-speech product experience. Design efficient abstractions and algorithms to optimize content parsing, loading, and delivery across web, mobile, and cloud platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974650004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Nashville, TN, USA](jobs/speechify/senior-software-engineer-core-experiences-nashville-tn-usa-5974541004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Nashville, TN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's text-to-speech product across platforms. Design efficient APIs and abstractions that optimize parsing and loading while collaborating with product teams to navigate integration and UX tradeoffs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974541004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Omaha, NE, USA](jobs/speechify/senior-software-engineer-core-experiences-omaha-ne-usa-5974661004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Omaha, NE · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs powering Speechify's text-to-speech product across iOS, Android, and web platforms. Design efficient abstractions, optimize parsing and loading performance, and ship cloud functions and backend services in Kotlin that directly enhance the user experience for millions, including people with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974661004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![SDKs](https://img.shields.io/badge/SDKs-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Orlando, FL, USA](jobs/speechify/senior-software-engineer-core-experiences-orlando-fl-usa-5974547004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Orlando, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform audio information product. Work at the intersection of product and infrastructure, designing efficient APIs and systems that reduce loading times and improve parsing algorithms across mobile, web, and cloud. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974547004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Algorithm Optimization](https://img.shields.io/badge/Algorithm_Optimization-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Redmond, WA, USA](jobs/speechify/senior-software-engineer-core-experiences-redmond-wa-usa-5974486004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Redmond, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience. Design efficient abstractions, improve parsing algorithms, and ship cloud functions and backend services in Kotlin while balancing product integration tradeoffs across teams. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974486004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Rochester, NY, USA](jobs/speechify/senior-software-engineer-core-experiences-rochester-ny-usa-5974673004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Rochester, NY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform audio product experience. Optimize algorithms and abstractions for faster loading and parsing while shipping cloud functions and backend services in Kotlin. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974673004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Saint Paul, MN, USA](jobs/speechify/senior-software-engineer-core-experiences-saint-paul-mn-usa-5974517004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Saint Paul, MN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs powering Speechify's cross-platform audio experience. Design efficient abstractions, optimize parsing algorithms, and ship cloud functions and backend services that directly impact millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974517004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![API design](https://img.shields.io/badge/API_design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - San Francisco, CA, USA](jobs/speechify/senior-software-engineer-core-experiences-san-francisco-ca-usa-5974460004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Francisco, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build foundational services and SDKs that power Speechify's cross-platform text-to-speech product. Design efficient abstractions and optimize parsing algorithms to improve loading speed and user experience across web, mobile, and cloud platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974460004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Santa Clara, CA, USA](jobs/speechify/senior-software-engineer-core-experiences-santa-clara-ca-usa-5974511004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Santa Clara, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform product experience. Work at the intersection of product and infrastructure, designing efficient APIs and systems that reduce latency, improve parsing, and directly enhance user experience for millions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974511004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Scottsdale, AZ, USA](jobs/speechify/senior-software-engineer-core-experiences-scottsdale-az-usa-5974497004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Scottsdale, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build foundational SDKs and cross-platform services that power Speechify's audio information product across web, mobile, and cloud. Design efficient abstractions and optimize parsing algorithms to deliver faster loading and smarter content handling at scale for millions of users with accessibility needs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974497004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![backend services](https://img.shields.io/badge/backend_services-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![cloud functions](https://img.shields.io/badge/cloud_functions-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Seattle, WA, USA](jobs/speechify/senior-software-engineer-core-experiences-seattle-wa-usa-5976175004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Seattle, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs powering Speechify's cross-platform product, shipping cloud functions, backend services, and optimizing core systems for faster loading and intelligent parsing. Work at the intersection of product and infrastructure, designing clear APIs and simple systems that directly enhance user experience for millions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976175004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![API design](https://img.shields.io/badge/API_design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Senior Software Engineer, Core Experiences - Toronto, Canada](jobs/speechify/senior-software-engineer-core-experiences-toronto-canada-5976151004.md)
 <a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Toronto, Canada · `Senior`
 
@@ -597,276 +245,12 @@ _Build and maintain foundational services and SDKs that power Speechify's cross-
 
 ---
 
-### [Senior Software Engineer, Core Experiences - Tucson, AZ, USA](jobs/speechify/senior-software-engineer-core-experiences-tucson-az-usa-5974638004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tucson, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+### [Senior Software Engineer, Core Experiences](jobs/speechify/senior-software-engineer-core-experiences.md)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, OR / Charlotte, NC / Chicago, IL / College Park, MD / Columbia, SC / Dallas, TX / Durham, NC / Frisco, TX / Greensboro, NC / Iowa City, IA / Jacksonville, FL / Milwaukee, WI / Nashville, TN / Omaha, NE / Orlando, FL / Redmond, WA / Rochester, NY / Saint Paul, MN / San Francisco, CA / Santa Clara, CA / Scottsdale, AZ / Seattle, WA / Tucson, AZ / Tulsa, OK / Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform text-to-speech product. Design efficient APIs and backend systems that optimize loading performance, parsing intelligence, and user experience at scale for millions of users with diverse accessibility needs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974638004)_
+_Build and maintain foundational services and SDKs powering Speechify's cross-platform audio information product. Design efficient abstractions and optimize end-to-end systems from cloud backend to mobile clients, balancing product velocity with infrastructure reliability._
 
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Tulsa, OK, USA](jobs/speechify/senior-software-engineer-core-experiences-tulsa-ok-usa-5974679004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tulsa, OK · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and maintain foundational services and SDKs that power Speechify's cross-platform audio product, optimizing for faster loading, intelligent parsing, and seamless integration across web, mobile, and cloud. Work at the intersection of product and infrastructure, designing clear APIs and reliable systems that directly enhance user experience for millions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974679004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SDK design](https://img.shields.io/badge/SDK_design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Core Experiences - Washington, DC, USA](jobs/speechify/senior-software-engineer-core-experiences-washington-dc-usa-5974472004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build foundational services and SDKs powering Speechify's cross-platform audio product experience. Design and optimize cloud functions, backend services, and client SDKs that reduce latency and improve parsing efficiency for millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974472004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SDK Design](https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Anchorage, AK, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-anchorage-ak-usa-5974986004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, AK · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with emphasis on accessibility, performance, and cross-version compatibility. Drive accessibility integration across Microsoft UI Automation and ensure production-quality reliability for millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974986004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![UI automation testing](https://img.shields.io/badge/UI_automation_testing-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Baltimore, MD, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-baltimore-md-usa-5974896004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Baltimore, MD · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design and architecture of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML, with a focus on accessibility, performance, and reliability. Drive feature ownership across the full lifecycle from conception through release, mentoring engineers and establishing best practices for Windows platform development. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974896004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Bend, OR, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-bend-or-usa-5974970004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, OR · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML, with emphasis on accessibility, performance, and cross-version compatibility. Own the full feature lifecycle from conception through release, define best practices for Windows desktop development across the codebase, and mentor other engineers on the platform team. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974970004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Berkeley, CA, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-berkeley-ca-usa-5974836004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Berkeley, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML, with a focus on accessibility and cross-version compatibility. Define best practices for Windows development, own features end-to-end from conception through release, and mentor other engineers on the platform team. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974836004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Birmingham, AL, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-birmingham-al-usa-5975004004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Birmingham, AL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML, with emphasis on accessibility, performance, and cross-version compatibility. Drive accessibility integration across the platform and mentor engineers on Windows desktop best practices at scale across millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975004004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Windows UI Automation](https://img.shields.io/badge/Windows_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32](https://img.shields.io/badge/Win32-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Chicago, IL, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-chicago-il-usa-5976259004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Chicago, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++. Drive accessibility integration, performance optimization, and full-lifecycle ownership of features for a text-to-speech platform used by 50+ million people. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976259004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Cincinnati, OH, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-cincinnati-oh-usa-5974860004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Cincinnati, OH · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and performance at scale. You will own the full lifecycle of features from conception through release and drive long-term technical direction for the Windows platform serving millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974860004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Dallas, TX, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-dallas-tx-usa-5974797004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Dallas, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and cross-version compatibility. Drive end-to-end feature ownership, accessibility integration, and performance optimization for a platform serving millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974797004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Windows UI Automation](https://img.shields.io/badge/Windows_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![UI automation testing](https://img.shields.io/badge/UI_automation_testing-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Fort Lauderdale, FL, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-fort-lauderdale-fl-usa-5974890004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Fort Lauderdale, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML for Speechify's text-to-speech platform serving millions of users. Drive accessibility integration with Windows UI Automation frameworks and establish best practices for performance, reliability, and cross-version compatibility across Windows 10/11+. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974890004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Windows UI Automation](https://img.shields.io/badge/Windows_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32](https://img.shields.io/badge/Win32-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Houston, TX, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-houston-tx-usa-5974848004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Houston, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML, with emphasis on accessibility, performance, and cross-version compatibility. Drive architectural decisions, mentor engineers, and own features end-to-end for a text-to-speech platform used by 50 million people. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974848004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Jersey City, NJ, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-jersey-city-nj-usa-5974872004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Jersey City, NJ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and cross-version compatibility. Drive accessibility integration for users with disabilities and own features across the full lifecycle from conception through release and maintenance. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974872004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Miami, FL, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-miami-fl-usa-5974884004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Miami, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and performance. Own features end-to-end from conception through release, mentoring engineers and driving technical decisions for a product used by millions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974884004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Minneapolis, MN, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-minneapolis-mn-usa-5974854004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Minneapolis, MN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML for Speechify's text-to-speech platform serving 50 million users. Drive accessibility integration, performance optimization, and full-lifecycle feature ownership from conception through maintenance. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974854004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Naperville, IL, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-naperville-il-usa-5974866004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Naperville, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications for Speechify's text-to-speech platform, handling the full lifecycle from conception through release. Drive accessibility efforts and ensure production-quality reliability, performance, and cross-version compatibility across Windows 10/11+. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974866004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32](https://img.shields.io/badge/Win32-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Philadelphia, PA, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-philadelphia-pa-usa-5974878004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Philadelphia, PA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and XAML, with a focus on accessibility, performance, and cross-version compatibility. Drive architecture decisions, mentor engineers, and own features end-to-end for a text-to-speech platform used by 50 million people. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974878004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Windows UI Automation](https://img.shields.io/badge/Windows_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![UI testing frameworks](https://img.shields.io/badge/UI_testing_frameworks-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Portland, OR, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-portland-or-usa-5974830004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Portland, OR · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and performance. You'll own features end-to-end, define best practices for Windows development, and directly shape the product experience for millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974830004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Windows UI Automation](https://img.shields.io/badge/Windows_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32](https://img.shields.io/badge/Win32-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Rochester, NY, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-rochester-ny-usa-5974998004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Rochester, NY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a strong focus on accessibility and performance. You will own the full lifecycle of features from conception through release, mentor engineers, and shape the long-term roadmap for Speechify's Windows platform serving millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974998004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Sacramento, CA, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-sacramento-ca-usa-5974842004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Sacramento, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and performance. Own features end-to-end from conception through release, and mentor other engineers on Windows development best practices. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974842004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - San Diego, CA, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-san-diego-ca-usa-5974824004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Diego, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, and C#, with a focus on accessibility and performance. Drive long-term technical direction for the Windows platform across millions of users, mentoring engineers and making architecture-level decisions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974824004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32](https://img.shields.io/badge/Win32-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - San Francisco, CA, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-san-francisco-ca-usa-5974791004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Francisco, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++. Drive accessibility initiatives across the platform and mentor engineers on Windows-specific best practices for performance, reliability, and cross-version compatibility. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974791004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Windows UI Automation](https://img.shields.io/badge/Windows_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![UI automation testing](https://img.shields.io/badge/UI_automation_testing-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Santa Cruz, CA, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-santa-cruz-ca-usa-5974980004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Santa Cruz, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility, performance, and reliability at scale. Drive accessibility integration across the platform and mentor engineers on Windows desktop best practices while shipping features end-to-end for millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974980004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![Windows accessibility APIs](https://img.shields.io/badge/Windows_accessibility_APIs-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - Seattle, WA, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-seattle-wa-usa-5976265004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Seattle, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications for Speechify's text-to-speech platform, building accessible, high-performance tools used by over 50 million people. Drive technical standards, mentorship, and accessibility integration across the Windows product suite while owning features end-to-end from conception through release and maintenance. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976265004)_
-
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32/WinRT/COM](https://img.shields.io/badge/Win32%2FWinRT%2FCOM-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Backend Services](https://img.shields.io/badge/Backend_Services-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -883,17 +267,6 @@ _Lead the design, architecture, and development of native Windows desktop applic
 
 ---
 
-### [Senior Software Engineer, Windows/Desktop Applications - Tallahassee, FL, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-tallahassee-fl-usa-5975016004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tallahassee, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility and performance. Drive accessibility integration across Microsoft UI Automation and related frameworks, and own the full feature lifecycle from conception through release and maintenance for a text-to-speech platform used by 50+ million people. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975016004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Senior Software Engineer, Windows/Desktop Applications - Toronto, Canada](jobs/speechify/senior-software-engineer-windows-desktop-applications-toronto-canada-5976241004.md)
 <a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Toronto, Canada · `Senior`
 
@@ -905,287 +278,12 @@ _Lead the design, architecture, and development of native Windows desktop applic
 
 ---
 
-### [Senior Software Engineer, Windows/Desktop Applications - Washington, DC, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-washington-dc-usa-5974803004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+### [Senior Software Engineer, Windows/Desktop Applications](jobs/speechify/senior-software-engineer-windows-desktop-applications.md)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, AK / Baltimore, MD / Bend, OR / Berkeley, CA / Birmingham, AL / Chicago, IL / Cincinnati, OH / Dallas, TX / Fort Lauderdale, FL / Houston, TX / Jersey City, NJ / Miami, FL / Minneapolis, MN / Naperville, IL / Philadelphia, PA / Portland, OR / Rochester, NY / Sacramento, CA / San Diego, CA / San Francisco, CA / Santa Cruz, CA / Seattle, WA / Tallahassee, FL / Washington, DC / West Lafayette, IN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
-_Lead the design and development of native Windows desktop applications using Windows App SDK and WinUI, defining best practices for architecture, performance, and accessibility across the codebase. You'll own the full feature lifecycle and mentor other engineers while building inclusive software for millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974803004)_
+_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with emphasis on accessibility, performance, and cross-version compatibility. Drive accessibility integration across Microsoft UI Automation and ensure production-quality reliability for millions of users._
 
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![Win32/WinRT](https://img.shields.io/badge/Win32%2FWinRT-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer, Windows/Desktop Applications - West Lafayette, IN, USA](jobs/speechify/senior-software-engineer-windows-desktop-applications-west-lafayette-in-usa-5974992004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · West Lafayette, IN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with a focus on accessibility, performance, and reliability. Drive feature ownership end-to-end and mentor other engineers on the Windows platform team. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974992004)_
-
-![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Win32](https://img.shields.io/badge/Win32-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Baltimore, MD, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-baltimore-md-usa-5975256004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Baltimore, MD · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training Speechify's text-to-speech models. Work at the intersection of infrastructure engineering and machine learning research to optimize the cost, throughput, and quality of datasets powering next-generation AI products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975256004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Baton Rouge, LA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-baton-rouge-la-usa-5975321004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Baton Rouge, LA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for model training. Work at the intersection of infrastructure engineering and AI research to optimize the cost/throughput/quality tradeoff powering next-generation speech models. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975321004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawling](https://img.shields.io/badge/Web_Crawling-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Bend, OR, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-bend-or-usa-5975290004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, OR · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP to collect high-quality audio datasets for model training. Work at the intersection of infrastructure engineering and AI research to optimize the cost/throughput/quality frontier for next-generation speech models. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975290004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Chattanooga, TN, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-chattanooga-tn-usa-5975381004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Chattanooga, TN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud infrastructure for large-scale audio data ingestion and collection pipelines supporting AI model training. Scale datasets to petabyte volumes while optimizing cost, throughput, and quality through tight integration of infrastructure and research. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975381004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Chicago, IL, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-chicago-il-usa-5976289004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Chicago, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud infrastructure for petabyte-scale audio data ingestion pipelines supporting AI model training. Integrate data collection, infrastructure engineering, and research to shift the cost/throughput/quality frontier for next-generation speech models. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976289004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Culver City, CA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-culver-city-ca-usa-5975189004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Culver City, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate large-scale data ingestion pipelines on GCP that collect petabyte-scale datasets to train Speechify's text-to-speech AI models. You'll integrate web crawlers, optimize infrastructure for cost and quality trade-offs, and collaborate with research scientists to power next-generation speech synthesis products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975189004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Dallas, TX, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-dallas-tx-usa-5975126004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Dallas, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP to collect audio datasets for training speech models. You'll integrate infrastructure, research, and engineering to optimize the cost/throughput/quality frontier and power next-generation text-to-speech products used by 50 million people. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975126004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Gainesville, FL, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-gainesville-fl-usa-5975327004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Gainesville, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP to source and process audio datasets for training large language and speech models. Work at the intersection of infrastructure engineering and ML research to shift the cost/throughput/quality frontier for model training. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975327004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Indianapolis, IN, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-indianapolis-in-usa-5975201004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Indianapolis, IN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud-based data ingestion pipelines at petabyte scale to collect high-quality audio datasets for training speech models. Work with scientists and leadership to optimize the cost/throughput/quality frontier and power next-generation text-to-speech products used by 50+ million people. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975201004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Data Processing Pipelines](https://img.shields.io/badge/Data_Processing_Pipelines-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Lexington, KY, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-lexington-ky-usa-5975387004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Lexington, KY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP infrastructure to collect high-quality audio datasets for training next-generation text-to-speech models. Work at the intersection of data engineering, ML infrastructure, and research to optimize the cost/throughput/quality frontier for AI model training. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975387004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Data Processing Pipelines](https://img.shields.io/badge/Data_Processing_Pipelines-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Naperville, IL, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-naperville-il-usa-5975207004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Naperville, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP to collect high-quality audio datasets for training text-to-speech models. Work at the intersection of infrastructure engineering, data processing, and AI research to optimize cost, throughput, and quality for next-generation speech synthesis. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975207004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-3B82F6?style=flat-square) ![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Pasadena, CA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-pasadena-ca-usa-5975195004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Pasadena, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud-based data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training large language models powering Speechify's text-to-speech products. Work at the intersection of infrastructure, data engineering, and AI research to optimize the cost/throughput/quality frontier of dataset collection. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975195004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Data processing](https://img.shields.io/badge/Data_processing-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Plano, TX, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-plano-tx-usa-5975165004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Plano, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate data collection and ingestion pipelines at petabyte scale on GCP to supply high-quality audio datasets for training Speechify's text-to-speech models. You'll integrate web crawlers, infrastructure, and research to optimize the cost/quality frontier of dataset acquisition. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975165004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Princeton, NJ, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-princeton-nj-usa-5975220004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Princeton, NJ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP to collect audio datasets for training speech AI models. Work at the intersection of infrastructure engineering and ML research to optimize cost, throughput, and data quality for next-generation products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975220004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Data processing](https://img.shields.io/badge/Data_processing-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Providence, RI, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-providence-ri-usa-5975238004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Providence, RI · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud infrastructure for large-scale audio data ingestion and processing pipelines on GCP, integrating data collection, crawling, and workflow management to support AI model training at petabyte scale. Work closely with scientists and leadership to optimize the cost/throughput/quality frontier and shape the AI team's dataset roadmap. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975238004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Redmond, WA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-redmond-wa-usa-5975145004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Redmond, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud infrastructure for petabyte-scale audio data ingestion and processing pipelines on GCP. Collaborate with AI scientists to optimize the cost/throughput/quality frontier for model training datasets, working at the intersection of data engineering, infrastructure, and machine learning research. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975145004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Riverside, CA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-riverside-ca-usa-5975315004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Riverside, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud infrastructure for petabyte-scale audio data ingestion pipelines on GCP, integrating data collection, processing workflows, and infrastructure-as-code to power speech model training. Work at the intersection of audio AI and accessibility technology, directly supporting a product used by millions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975315004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Sacramento, CA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-sacramento-ca-usa-5975183004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Sacramento, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud infrastructure for petabyte-scale audio data ingestion and processing pipelines on GCP to power Speechify's text-to-speech models. Integrate web crawlers, data acquisition, and large-scale workflows to shift the cost/throughput/quality frontier for next-generation consumer and enterprise products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975183004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - San Antonio, TX, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-san-antonio-tx-usa-5975171004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Antonio, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud-native data ingestion pipelines on GCP that collect petabyte-scale audio datasets for training text-to-speech models. Work at the intersection of infrastructure engineering and ML research to optimize cost, throughput, and data quality for consumer and enterprise AI products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975171004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - San Francisco, CA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-san-francisco-ca-usa-5975120004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Francisco, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud-based data ingestion pipelines at petabyte scale on GCP to collect high-quality audio datasets for training text-to-speech models. Work at the intersection of infrastructure engineering and ML research to optimize the cost/throughput/quality frontier for next-generation Speechify products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975120004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - San Mateo, CA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-san-mateo-ca-usa-5975177004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Mateo, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud infrastructure for large-scale audio data ingestion and processing pipelines on GCP to support AI model training at petabyte scale. Work at the intersection of data engineering, ML infrastructure, and web crawling to shift the cost/throughput/quality frontier for dataset creation. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975177004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Web Crawling](https://img.shields.io/badge/Web_Crawling-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Scottsdale, AZ, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-scottsdale-az-usa-5975159004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Scottsdale, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate the cloud infrastructure for petabyte-scale audio data ingestion pipelines on GCP, integrating data collection, processing, and model training operations. Work at the intersection of infrastructure engineering and AI research to optimize the cost/quality/throughput frontier of datasets powering next-generation text-to-speech models. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975159004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-3B82F6?style=flat-square) ![Large-scale Data Processing](https://img.shields.io/badge/Large--scale_Data_Processing-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Seattle, WA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-seattle-wa-usa-5976295004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Seattle, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud-based data ingestion pipelines on GCP to collect and process petabyte-scale audio datasets for training AI models. Work closely with research scientists to optimize cost, throughput, and data quality while scaling infrastructure across web crawlers and large-scale data processing workflows. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976295004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Stony Brook, NY, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-stony-brook-ny-usa-5975345004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Stony Brook, NY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate large-scale data ingestion pipelines on GCP to collect and process petabyte-scale audio datasets for training next-generation text-to-speech models. Work at the intersection of infrastructure, engineering, and ML research to optimize the cost/throughput/quality frontier of data acquisition. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975345004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Data pipeline orchestration](https://img.shields.io/badge/Data_pipeline_orchestration-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![UI automation testing](https://img.shields.io/badge/UI_automation_testing-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -1202,50 +300,6 @@ _Build and operate petabyte-scale data ingestion pipelines on GCP to collect hig
 
 ---
 
-### [Software Engineer, Data Infrastructure & Acquisition - Tucson, AZ, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-tucson-az-usa-5975305004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tucson, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training Speechify's text-to-speech models. Balance cost, throughput, and quality while integrating web crawlers and data processing workflows with research and product teams. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975305004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Tulsa, OK, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-tulsa-ok-usa-5975333004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tulsa, OK · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP to collect audio datasets powering Speechify's text-to-speech models. Collaborate with ML scientists and leadership to optimize the cost, throughput, and quality frontier of data acquisition infrastructure. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975333004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Virginia Beach, VA, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-virginia-beach-va-usa-5975351004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Virginia Beach, VA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate petabyte-scale data ingestion pipelines on GCP infrastructure to collect high-quality audio datasets for training next-generation text-to-speech models. Collaborate with AI researchers and leadership to optimize the cost/throughput/quality frontier while sourcing and processing diverse audio data at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975351004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data pipelines](https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square) ![Web crawlers](https://img.shields.io/badge/Web_crawlers-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Data Infrastructure & Acquisition - Washington, DC, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-washington-dc-usa-5975132004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Washington, DC, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and operate cloud-based data ingestion pipelines at petabyte scale on GCP to collect and process audio data for training text-to-speech models. Work at the intersection of infrastructure engineering and machine learning, optimizing the cost/throughput/quality frontier for high-quality datasets. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975132004)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Software Engineer, Data Infrastructure & Acquisition - Winston-Salem, NC, USA](jobs/speechify/software-engineer-data-infrastructure-acquisition-winston-salem-nc-usa-5975363004.md)
 <a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Winston-Salem, NC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
@@ -1257,529 +311,23 @@ _Build and operate cloud infrastructure for petabyte-scale audio data ingestion 
 
 ---
 
-### [Software Engineer, Platform - Anchorage, AK, USA](jobs/speechify/software-engineer-platform-anchorage-ak-usa-5974167004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, AK · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
+### [Software Engineer, Data Infrastructure & Acquisition](jobs/speechify/software-engineer-data-infrastructure-acquisition.md)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Baltimore, MD / Baton Rouge, LA / Bend, OR / Chattanooga, TN / Chicago, IL / Culver City, CA / Dallas, TX / Gainesville, FL / Indianapolis, IN / Lexington, KY / Naperville, IL / Pasadena, CA / Plano, TX / Princeton, NJ / Providence, RI / Redmond, WA / Riverside, CA / Sacramento, CA / San Antonio, TX / San Francisco, CA / San Mateo, CA / Scottsdale, AZ / Seattle, WA / Stony Brook, NY / Tucson, AZ / Tulsa, OK / Virginia Beach, VA / Washington, DC, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
-_Design and maintain backend APIs for text-to-speech products at scale, including payments, subscriptions, analytics, and TTS infrastructure serving 50+ million users. Work in a 100% distributed environment on systems handling high-availability, multi-platform consumption across iOS, Android, Web, and Chrome Extension. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974167004)_
+_Build and operate large-scale data ingestion pipelines on GCP to collect petabyte-scale audio datasets for training Speechify's text-to-speech models. Work at the intersection of infrastructure engineering and machine learning research to optimize the cost, throughput, and quality of datasets powering next-generation AI products._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![Web Crawlers](https://img.shields.io/badge/Web_Crawlers-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Software Engineer, Platform](jobs/speechify/software-engineer-platform.md)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, AK / Arlington, VA / Atlanta, GA / Austin, TX / Bellevue, WA / Bloomington, IN / Chapel Hill, NC / Columbia, SC / Detroit, MI / El Paso, TX / Grand Rapids, MI / Jersey City, NJ / Menlo Park, CA / Miami, FL / Milwaukee, WI / Minneapolis, MN / Pasadena, CA / Philadelphia, PA / Redmond, WA / Riverside, CA / Sacramento, CA / Salt Lake City, UT / San Francisco, CA / Stamford, CT / Tallahassee, FL / Virginia Beach, VA / Washington, DC, DC · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
+
+_Design and maintain backend APIs for text-to-speech products at scale, including payments, subscriptions, analytics, and TTS infrastructure serving 50+ million users. Work in a 100% distributed environment on systems handling high-availability, multi-platform consumption across iOS, Android, Web, and Chrome Extension._
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Arlington, VA, USA](jobs/speechify/software-engineer-platform-arlington-va-usa-5974210004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Arlington, VA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design, develop, and maintain robust backend APIs including payment, subscription, auth, and text-to-speech services for a 50-million-user platform. Build high-availability systems across GCP and other cloud providers with focus on performance, scalability, and B2B enterprise integration. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974210004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Atlanta, GA, USA](jobs/speechify/software-engineer-platform-atlanta-ga-usa-5974227004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Atlanta, GA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for a text-to-speech platform serving 50+ million users, including payment, subscription, authentication, and TTS systems. Build high-availability services on GCP/Kubernetes supporting both consumer and enterprise B2B products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974227004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Austin, TX, USA](jobs/speechify/software-engineer-platform-austin-tx-usa-5976205004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Austin, TX · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs for text-to-speech products including payments, subscriptions, authentication, and consumption tracking systems serving 50 million users. Build and maintain high-availability services on GCP supporting both B2B and B2C platforms at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976205004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Bellevue, WA, USA](jobs/speechify/software-engineer-platform-bellevue-wa-usa-5974150004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bellevue, WA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain robust backend APIs for text-to-speech products, including payments, subscriptions, authentication, and consumption tracking serving 50+ million users. Build and optimize high-availability services on GCP/Kubernetes handling both internal infrastructure and B2B enterprise integrations. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974150004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Bloomington, IN, USA](jobs/speechify/software-engineer-platform-bloomington-in-usa-5974203004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bloomington, IN · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design, develop, and maintain backend APIs including public TTS, payments, subscriptions, and auth systems serving millions of users. Build high-availability, scalable infrastructure on GCP supporting both internal services and B2B enterprise integrations. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974203004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Chapel Hill, NC, USA](jobs/speechify/software-engineer-platform-chapel-hill-nc-usa-5974240004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Chapel Hill, NC · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for text-to-speech services, payments, subscriptions, and analytics serving 50+ million users. Build high-availability systems on GCP and AWS handling public and internal APIs at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974240004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Columbia, SC, USA](jobs/speechify/software-engineer-platform-columbia-sc-usa-5974250004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Columbia, SC · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs (payment, subscription, auth, TTS, analytics) serving 50M+ users across web, mobile, and extension platforms. Scale high-availability systems on GCP/Kubernetes handling mission-critical infrastructure for a text-to-speech platform serving users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974250004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Detroit, MI, USA](jobs/speechify/software-engineer-platform-detroit-mi-usa-5974186004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Detroit, MI · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design, develop, and maintain robust backend APIs for Speechify's text-to-speech platform, including payment, subscription, auth, and consumption tracking systems. Work on a product used by 50M+ users with high scalability and availability requirements across multiple cloud providers. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974186004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![APIs](https://img.shields.io/badge/APIs-3B82F6?style=flat-square) ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - El Paso, TX, USA](jobs/speechify/software-engineer-platform-el-paso-tx-usa-5974161004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · El Paso, TX · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for text-to-speech services including payments, subscriptions, authentication, and consumption tracking. Scale high-availability systems serving 50+ million users across web, mobile, and browser extensions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974161004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Grand Rapids, MI, USA](jobs/speechify/software-engineer-platform-grand-rapids-mi-usa-5974191004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Grand Rapids, MI · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop backend APIs for a text-to-speech platform serving 50+ million users, including payment, subscription, auth, and TTS services. Build high-availability systems on GCP handling millions of daily requests across iOS, Android, Web, and Chrome Extension clients. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974191004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Jersey City, NJ, USA](jobs/speechify/software-engineer-platform-jersey-city-nj-usa-5974223004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Jersey City, NJ · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for Speechify's text-to-speech platform, including payment, subscription, auth, and consumption tracking services. Build high-availability systems serving millions of users across multiple platforms with focus on performance, scalability, and B2B enterprise integration. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974223004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Menlo Park, CA, USA](jobs/speechify/software-engineer-platform-menlo-park-ca-usa-5974125004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Menlo Park, CA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for text-to-speech services including payments, subscriptions, authentication, and consumption tracking across a 50-million-user platform. Work on high-availability distributed systems serving both internal and public endpoints with B2B enterprise integration needs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974125004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Miami, FL, USA](jobs/speechify/software-engineer-platform-miami-fl-usa-5974273004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Miami, FL · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs including public TTS API, payment, subscription, auth, and consumption tracking services. Build and maintain the full backend landscape for a text-to-speech platform serving 50+ million users, optimizing for performance, scalability, and enterprise B2B integration. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974273004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Milwaukee, WI, USA](jobs/speechify/software-engineer-platform-milwaukee-wi-usa-5974183004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Milwaukee, WI · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs for Speechify's text-to-speech platform, including public TTS, payments, subscriptions, and analytics services. Scale infrastructure across GCP and other cloud providers to support 50M+ users while collaborating on B2B enterprise solutions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974183004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Minneapolis, MN, USA](jobs/speechify/software-engineer-platform-minneapolis-mn-usa-5974177004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Minneapolis, MN · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for Speechify's text-to-speech platform, including payments, subscriptions, authentication, and consumption tracking services. Scale and optimize the API landscape to support millions of users across iOS, Android, web, and enterprise B2B integrations. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974177004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Pasadena, CA, USA](jobs/speechify/software-engineer-platform-pasadena-ca-usa-5974139004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Pasadena, CA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop backend APIs for text-to-speech products, including payment, subscription, authentication, and analytics services. Build scalable, high-availability systems serving 50M+ users across web, mobile, and extension platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974139004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Philadelphia, PA, USA](jobs/speechify/software-engineer-platform-philadelphia-pa-usa-5974231004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Philadelphia, PA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for text-to-speech products, including payment, subscription, analytics, and TTS services at scale. Build high-availability systems serving 50+ million users across iOS, Android, web, and browser extension platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974231004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Redmond, WA, USA](jobs/speechify/software-engineer-platform-redmond-wa-usa-5974153004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Redmond, WA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for text-to-speech products at scale, including payments, subscriptions, and analytics systems serving 50+ million users. Build enterprise-grade infrastructure in a distributed, flat organization where technical excellence drives leadership opportunities. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974153004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Riverside, CA, USA](jobs/speechify/software-engineer-platform-riverside-ca-usa-5974142004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Riverside, CA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design, develop, and maintain backend APIs (TTS, payments, subscriptions, auth, analytics) serving 50+ million users across multiple platforms. Build high-availability systems on GCP handling critical product infrastructure for text-to-speech and B2B integrations. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974142004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Sacramento, CA, USA](jobs/speechify/software-engineer-platform-sacramento-ca-usa-5974132004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Sacramento, CA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs for text-to-speech products including payment, subscription, authentication, and consumption tracking systems. Build high-availability applications serving 50M+ users across multiple platforms with focus on scalability and enterprise integration. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974132004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Salt Lake City, UT, USA](jobs/speechify/software-engineer-platform-salt-lake-city-ut-usa-5974168004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Salt Lake City, UT · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs for text-to-speech products including payments, subscriptions, and consumption tracking. Build high-availability services serving 50 million users globally on GCP infrastructure. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974168004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - San Francisco, CA, USA](jobs/speechify/software-engineer-platform-san-francisco-ca-usa-5974119004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Francisco, CA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs for Speechify's text-to-speech platform, including payments, subscriptions, authentication, and consumption tracking systems. Build high-availability services at scale for millions of users across iOS, Android, Web, and Chrome Extension products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974119004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Stamford, CT, USA](jobs/speechify/software-engineer-platform-stamford-ct-usa-5974200004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Stamford, CT · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and develop robust backend APIs for Speechify's text-to-speech platform, including public TTS APIs, payments, subscriptions, and authentication services. Build and optimize high-availability systems serving 50M+ users across web, mobile, and browser extension platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974200004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Tallahassee, FL, USA](jobs/speechify/software-engineer-platform-tallahassee-fl-usa-5974241004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tallahassee, FL · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain robust backend APIs for text-to-speech services including payments, subscriptions, authentication, and consumption tracking. Work on high-scale systems serving 50+ million users with a focus on performance, reliability, and enterprise integrations. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974241004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Virginia Beach, VA, USA](jobs/speechify/software-engineer-platform-virginia-beach-va-usa-5974218004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Virginia Beach, VA · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for Speechify's text-to-speech platform, including payment systems, subscriptions, authentication, and consumption tracking. Build high-availability systems serving 50M+ users across iOS, Android, web, and Chrome Extension products. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5974218004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Software Engineer, Platform - Washington, DC, USA](jobs/speechify/software-engineer-platform-washington-dc-usa-5976199004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Washington, DC, DC · `Mid` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Design and maintain backend APIs for a text-to-speech platform serving 50+ million users, including payment, subscription, auth, and consumption tracking systems. Work at the intersection of AI audio infrastructure and B2B enterprise integrations in a fully distributed 200-person company. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976199004)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Alexandria, VA, USA](jobs/speechify/tech-lead-android-core-product-alexandria-va-usa-5975554004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Alexandria, VA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and reliability of major Android features for Speechify's text-to-speech app, used by 50+ million people. Own feature ownership, shape the Android team's direction, and drive improvements to UI/UX and codebase quality while working closely with product and design teams. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975554004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Ann Arbor, MI, USA](jobs/speechify/tech-lead-android-core-product-ann-arbor-mi-usa-5975512004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Ann Arbor, MI · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and maintenance of Speechify's Android app—the most-used text-to-speech application on the Play Store—owning major features, reliability metrics, and the quality of releases. Shape the Android team's technical direction and strategy in a flat, autonomous organization. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975512004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Bend, OR, USA](jobs/speechify/tech-lead-android-core-product-bend-or-usa-5975613004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, OR · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major Android app features and lead the Android team as we scale to millions of users in the Play Store's most-used text-to-speech app. Drive product decisions, architectural improvements, and team leadership in a fast-paced, flat organization. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975613004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Birmingham, AL, USA](jobs/speechify/tech-lead-android-core-product-birmingham-al-usa-5975646004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Birmingham, AL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major Android features and lead the Android team's architecture and reliability for Speechify's text-to-speech app, the most-used TTS app on the Google Play Store. Shape product decisions, mentor engineers, and drive UI/UX improvements for millions of users including those with learning differences like dyslexia and ADD. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975646004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android Animations](https://img.shields.io/badge/Android_Animations-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Cambridge, MA, USA](jobs/speechify/tech-lead-android-core-product-cambridge-ma-usa-5975536004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Cambridge, MA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the Android team and own major features across Speechify's text-to-speech app, the most used app in its category on the Play Store. Shape product decisions, mentor teammates, and drive reliability improvements for millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975536004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android Animations](https://img.shields.io/badge/Android_Animations-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Chicago, IL, USA](jobs/speechify/tech-lead-android-core-product-chicago-il-usa-5976319004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Chicago, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and reliability of major Android features for Speechify's text-to-speech app, used by 50+ million people. Own feature releases, shape the Android team's technical direction, and work closely with design and product to deliver high-quality user experiences at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976319004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Android Animations](https://img.shields.io/badge/Android_Animations-3B82F6?style=flat-square) ![Room](https://img.shields.io/badge/Room-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Cleveland, OH, USA](jobs/speechify/tech-lead-android-core-product-cleveland-oh-usa-5975524004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Cleveland, OH · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and lead Android development on Speechify's text-to-speech app, the most used app in its category on Google Play Store. Shape the future of the Android team while maintaining reliability metrics and shipping high-quality features that serve millions of users, many with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975524004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Columbus, OH, USA](jobs/speechify/tech-lead-android-core-product-columbus-oh-usa-5975518004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Columbus, OH · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead Android development for Speechify's text-to-speech app—the most-used app in its category on Google Play—owning major features, reliability metrics, and team direction. Drive technical strategy and product decisions while mentoring engineers and shipping high-impact features to millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975518004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Dallas, TX, USA](jobs/speechify/tech-lead-android-core-product-dallas-tx-usa-5975455004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Dallas, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and architectural decisions for Speechify's Android app, the most-used text-to-speech app in the Play Store. Lead the Android team on product and technical strategy while supporting millions of users with accessibility needs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975455004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android Architecture](https://img.shields.io/badge/Android_Architecture-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Frisco, TX, USA](jobs/speechify/tech-lead-android-core-product-frisco-tx-usa-5975494004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Frisco, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and maintenance of Speechify's Android app, the most-used text-to-speech application in the Play Store. Own major features end-to-end, from product design decisions through release, while shaping the Android team's technical direction and architecture. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975494004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android Animations](https://img.shields.io/badge/Android_Animations-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Jacksonville, FL, USA](jobs/speechify/tech-lead-android-core-product-jacksonville-fl-usa-5975542004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Jacksonville, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the Android engineering team to build and scale Speechify's text-to-speech mobile app, the most-used app in its category on the Play Store. Own major features end-to-end, shape team direction, and drive product decisions that impact 50+ million users, many with learning differences like dyslexia and low vision. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975542004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Las Vegas, NV, USA](jobs/speechify/tech-lead-android-core-product-las-vegas-nv-usa-5975500004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Las Vegas, NV · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the Android core product platform for Speechify's text-to-speech app, the most-used app in its category on Google Play Store. Own major features from design through release, shape the Android team's technical direction, and improve reliability metrics for millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975500004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Louisville, KY, USA](jobs/speechify/tech-lead-android-core-product-louisville-ky-usa-5975692004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Louisville, KY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and lead the Android team for Speechify's text-to-speech app, the most-used in the Play Store, shaping product decisions and setting technical direction for a flat organization. Drive architecture improvements, reliability metrics, and user experience while mentoring teammates across a 100% distributed, fully remote company. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975692004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Memphis, TN, USA](jobs/speechify/tech-lead-android-core-product-memphis-tn-usa-5975686004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Memphis, TN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and reliability metrics for Speechify's Android app, the most-used text-to-speech app in the Play Store. Shape the Android team's technical direction, lead feature releases, and drive UI/UX improvements while working closely with product and design teams in a fully distributed environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975686004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Milwaukee, WI, USA](jobs/speechify/tech-lead-android-core-product-milwaukee-wi-usa-5975636004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Milwaukee, WI · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and lead the Android team at Speechify, building the world's most-used text-to-speech app on the Play Store. Shape product direction, mentor engineers, and drive reliability and UI/UX excellence for millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975636004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Room](https://img.shields.io/badge/Room-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Norfolk, VA, USA](jobs/speechify/tech-lead-android-core-product-norfolk-va-usa-5975674004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Norfolk, VA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and lead architectural decisions for Speechify's Android app, the most-used text-to-speech app in the Play Store. Drive reliability improvements, coordinate cross-team product decisions, and shape the future of the Android team at scale across millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975674004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Room](https://img.shields.io/badge/Room-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Redmond, WA, USA](jobs/speechify/tech-lead-android-core-product-redmond-wa-usa-5975475004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Redmond, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major Android app features end-to-end—from design collaboration to QA releases—and shape the technical direction of the Android platform. Drive reliability improvements and user experience innovations for the most-used text-to-speech app in the Play Store, serving millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975475004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Saint Paul, MN, USA](jobs/speechify/tech-lead-android-core-product-saint-paul-mn-usa-5975506004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Saint Paul, MN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the Android app's core product development as the most-used text-to-speech app in the Play Store, owning major features from design through release while shaping the Android team's technical direction. Work on a product used by 50+ million people, many with learning differences like dyslexia and low vision, with direct impact on accessibility and inclusion. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975506004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square) ![Android Animations](https://img.shields.io/badge/Android_Animations-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - San Francisco, CA, USA](jobs/speechify/tech-lead-android-core-product-san-francisco-ca-usa-5975449004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Francisco, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the Android team to build and maintain Speechify's text-to-speech app, the most-used accessibility app in the Play Store. Own major features end-to-end, shape team direction, and improve reliability for millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975449004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Scottsdale, AZ, USA](jobs/speechify/tech-lead-android-core-product-scottsdale-az-usa-5975486004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Scottsdale, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and reliability of core Android features for Speechify's text-to-speech app, used by 50+ million people. Own major product features end-to-end, shape the Android team's technical direction, and drive UI/UX improvements while maintaining high quality standards at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975486004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Seattle, WA, USA](jobs/speechify/tech-lead-android-core-product-seattle-wa-usa-5976325004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Seattle, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the Android team to build and maintain high-quality text-to-speech features across Speechify's most-used mobile app in the Play Store. Shape the Android product roadmap, own major feature releases, and mentor engineers while improving reliability and user experience for millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976325004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android animations](https://img.shields.io/badge/Android_animations-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -1789,28 +337,6 @@ _Lead the Android team to build and maintain high-quality text-to-speech feature
 <a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · St. Louis, MO · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
 _Lead major feature ownership and Android team strategy for Speechify's most-used text-to-speech app on the Play Store, working closely with design and product to deliver high-quality features at scale. Build user experiences that delight millions of people with learning differences, including dyslexia, ADD, and low vision. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975530004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - State College, PA, USA](jobs/speechify/tech-lead-android-core-product-state-college-pa-usa-5975655004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · State College, PA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and reliability of major Android app features for Speechify's text-to-speech platform, which serves 50+ million users. Shape the Android team's technical direction and own high-impact features from design through release, balancing product velocity with code quality and user experience. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975655004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Room](https://img.shields.io/badge/Room-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Syracuse, NY, USA](jobs/speechify/tech-lead-android-core-product-syracuse-ny-usa-5975662004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Syracuse, NY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and reliability of core Android features for Speechify's text-to-speech app, which serves 50+ million users across the Play Store. Shape the Android team's technical direction, own major feature releases, and drive improvements to UI/UX while maintaining high quality standards at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975662004)_
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
 
@@ -1829,39 +355,6 @@ _Build and own major features for Speechify's Android app, the most-used text-to
 
 ---
 
-### [Tech Lead, Android Core Product - Tucson, AZ, USA](jobs/speechify/tech-lead-android-core-product-tucson-az-usa-5975625004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tucson, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and shape the Android app's architecture for Speechify's text-to-speech product, which serves over 50 million users. Drive product decisions, lead technical design discussions, and maintain reliability metrics across the app while mentoring teammates. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975625004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Room](https://img.shields.io/badge/Room-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Tulsa, OK, USA](jobs/speechify/tech-lead-android-core-product-tulsa-ok-usa-5975668004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tulsa, OK · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Own major features and lead reliability improvements across Speechify's Android app, the most-used text-to-speech app in the Play Store. Shape the Android team's technical direction while working closely with design and product to deliver high-quality features that impact millions of users with learning differences. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975668004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Android Core Product - Washington, DC, USA](jobs/speechify/tech-lead-android-core-product-washington-dc-usa-5975461004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the Android team to build and maintain Speechify's text-to-speech app, the most-used app of its kind on the Play Store. Own major features end-to-end, shape the Android roadmap, and drive reliability and user experience across millions of active users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975461004)_
-
-![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Android Animations](https://img.shields.io/badge/Android_Animations-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Tech Lead, Android Core Product - Winston-Salem, NC, USA](jobs/speechify/tech-lead-android-core-product-winston-salem-nc-usa-5975680004.md)
 <a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Winston-Salem, NC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
@@ -1873,276 +366,12 @@ _Lead the development and reliability of major Android features in Speechify's t
 
 ---
 
-### [Tech Lead, Web Core Product & Chrome Extension - Arlington, VA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-arlington-va-usa-5975883004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Arlington, VA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+### [Tech Lead, Android Core Product](jobs/speechify/tech-lead-android-core-product.md)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Alexandria, VA / Ann Arbor, MI / Bend, OR / Birmingham, AL / Cambridge, MA / Chicago, IL / Cleveland, OH / Columbus, OH / Dallas, TX / Frisco, TX / Jacksonville, FL / Las Vegas, NV / Louisville, KY / Memphis, TN / Milwaukee, WI / Norfolk, VA / Redmond, WA / Saint Paul, MN / San Francisco, CA / Scottsdale, AZ / Seattle, WA / State College, PA / Syracuse, NY / Tucson, AZ / Tulsa, OK / Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
-_Lead the development of Speechify's web products and Chrome extension, shipping production code that serves 50+ million users. Drive product strategy alongside design and PM teams in a fast-paced, distributed environment where you'll shape the technical roadmap for text-to-speech features used at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975883004)_
+_Lead the development and reliability of major Android features for Speechify's text-to-speech app, used by 50+ million people. Own feature ownership, shape the Android team's direction, and drive improvements to UI/UX and codebase quality while working closely with product and design teams._
 
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Baton Rouge, LA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-baton-rouge-la-usa-5975977004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Baton Rouge, LA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead web product development and the Chrome extension for Speechify's text-to-speech platform, shipping production code that reaches millions of users. Own strategic technical decisions alongside product and design partners in a flat, high-growth startup structure. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975977004)_
-
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Bend, OR, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-bend-or-usa-5975942004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Bend, OR · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web products and Chrome extension, shipping production code that serves millions of users across iOS, Android, Mac, and web platforms. Drive product decisions alongside design and PM teams in a fast-paced, fully distributed environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975942004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Boulder, CO, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-boulder-co-usa-5975829004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Boulder, CO · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and architecture of Speechify's web products and Chrome extension, shipping production code that serves 50 million users. You'll shape the product roadmap alongside designers and PMs while balancing speed of delivery with quality at a high-growth startup. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975829004)_
-
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Buffalo, NY, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-buffalo-ny-usa-5975991004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Buffalo, NY · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and shipping of Speechify's web products and Chrome extension, building features that serve millions of users. Work across a distributed team to shape product strategy while maintaining fast iteration cycles and high code quality. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975991004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Burlington, VT, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-burlington-vt-usa-5976003004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Burlington, VT · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and shipping of Speechify's web products and Chrome Extension, building scalable text-to-speech interfaces used by millions. Drive product decisions and feature prioritization across a distributed team while maintaining velocity in a fast-paced startup environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976003004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Charleston, SC, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-charleston-sc-usa-5976015004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Charleston, SC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and ship production web products and a Chrome extension serving 50M+ users, architecting core systems that power text-to-speech functionality across multiple platforms. Drive product decisions alongside designers and PMs in a 100% distributed, high-growth environment where speed and technical judgment directly impact millions of users. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976015004)_
-
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Chicago, IL, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-chicago-il-usa-5976229004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Chicago, IL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web products and Chrome Extension, shipping production code that serves over 50 million users. Shape product roadmap and make strategic technical decisions for text-to-speech features across multiple platforms in a fast-paced, distributed startup environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976229004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Cincinnati, OH, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-cincinnati-oh-usa-5975847004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Cincinnati, OH · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web products and Chrome Extension, shipping production code that serves 50 million users. Build scalable text-to-speech infrastructure and define technical strategy for web platform features impacting millions. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975847004)_
-
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Chrome Extension Development](https://img.shields.io/badge/Chrome_Extension_Development-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Culver City, CA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-culver-city-ca-usa-5975853004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Culver City, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and ship production code for Speechify's web products and Chrome Extension, a text-to-speech platform used by 50+ million people. Partner with dedicated product teams to shape the roadmap and deliver features that impact millions of users at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975853004)_
-
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Dallas, TX, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-dallas-tx-usa-5975784004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Dallas, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead web product development across iOS, Android, Mac, Chrome Extension, and Web App platforms, shipping production code and shaping the product roadmap for a text-to-speech platform used by 50 million people. Partner closely with product, design, and marketing teams to deliver high-quality user experiences at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975784004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Chrome Extension Development](https://img.shields.io/badge/Chrome_Extension_Development-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Houston, TX, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-houston-tx-usa-5975823004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Houston, TX · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design and development of Speechify's web products and Chrome Extension, shipping production code to serve 50+ million users. Build and scale user-facing features across the Speechify ecosystem using modern web technologies in a fully distributed, fast-moving startup environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975823004)_
-
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Iowa City, IA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-iowa-city-ia-usa-5975985004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Iowa City, IA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the design and implementation of Speechify's web products and Chrome extension, shipping production code that serves 50+ million users. Drive product decisions alongside designers and PMs in a fast-paced distributed startup environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975985004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Madison, WI, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-madison-wi-usa-5975835004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Madison, WI · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead web and Chrome extension development for Speechify's text-to-speech platform, shipping production code and shaping product decisions for a product used by 50+ million people. Work in a distributed, flat organization where technical excellence directly translates to leadership opportunity. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975835004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Chrome Extension Development](https://img.shields.io/badge/Chrome_Extension_Development-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Milwaukee, WI, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-milwaukee-wi-usa-5975967004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Milwaukee, WI · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web products and Chrome extension, shipping production code that serves 50+ million users. Shape product roadmap decisions and mentor a distributed team while owning core platform features across vanilla JS, React, and TypeScript. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975967004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Orlando, FL, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-orlando-fl-usa-5975865004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Orlando, FL · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web products and Chrome extension, shipping production code that serves 50+ million users. Own the technical roadmap for core web infrastructure while collaborating closely with product and design to ship high-impact features at speed. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975865004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Pasadena, CA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-pasadena-ca-usa-5975859004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Pasadena, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the architecture and development of Speechify's web products and Chrome Extension, shipping production code that serves 50+ million users. Drive product decisions across frontend systems handling text-to-speech integration at scale while collaborating with product and design teams in a fast-paced, fully distributed environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975859004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Princeton, NJ, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-princeton-nj-usa-5975871004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Princeton, NJ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development of Speechify's web products and Chrome extension, shipping production code that serves millions of users. Drive product decisions and roadmap priorities for a core platform handling text-to-speech across multiple surfaces. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975871004)_
-
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Redmond, WA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-redmond-wa-usa-5975802004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Redmond, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and shipping of Speechify's web products and Chrome extension, serving millions of users. Build scalable text-to-speech features across React-based web platforms while shaping product decisions with a small, distributed team. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975802004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - San Francisco, CA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-san-francisco-ca-usa-5975778004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · San Francisco, CA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web products and Chrome Extension, shipping production code that serves millions of users. Build and scale high-performance text-to-speech interfaces across browser and web platforms while shaping product strategy alongside designers and PMs. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975778004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Savannah, GA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-savannah-ga-usa-5976009004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Savannah, GA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead web product development and the Chrome Extension, shipping production code and shaping the product roadmap for Speechify's text-to-speech platform used by 50M+ people. Drive technical decisions on Vanilla JS, React, and Firebase systems serving millions of users at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976009004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Scottsdale, AZ, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-scottsdale-az-usa-5975813004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Scottsdale, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and ship production code for Speechify's web products and Chrome Extension, a text-to-speech platform used by 50+ million people. Work directly with product teams to shape the roadmap and deliver features at scale across multiple platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975813004)_
-
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Seattle, WA, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-seattle-wa-usa-5976235004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Seattle, WA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead the development and architecture of Speechify's web products and Chrome Extension, shipping production code that scales to millions of users. Drive product decisions and shape the roadmap for text-to-speech features across web platforms. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5976235004)_
-
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Silver Spring, MD, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-silver-spring-md-usa-5975841004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Silver Spring, MD · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web and Chrome extension products, shipping production code that scales text-to-speech features to millions of users. Shape product direction alongside designers and PMs in a fast-paced, fully distributed startup environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975841004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Stamford, CT, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-stamford-ct-usa-5975877004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Stamford, CT · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Lead development of Speechify's web products and Chrome extension, shipping production code that scales to millions of users. Shape product decisions alongside design and product teams in a high-growth, fully distributed environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975877004)_
-
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -2159,23 +388,12 @@ _Lead the development and shipping of production code for Speechify's web produc
 
 ---
 
-### [Tech Lead, Web Core Product & Chrome Extension - Tucson, AZ, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-tucson-az-usa-5975954004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Tucson, AZ · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+### [Tech Lead, Web Core Product & Chrome Extension](jobs/speechify/tech-lead-web-core-product-chrome-extension.md)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Arlington, VA / Baton Rouge, LA / Bend, OR / Boulder, CO / Buffalo, NY / Burlington, VT / Charleston, SC / Chicago, IL / Cincinnati, OH / Culver City, CA / Dallas, TX / Houston, TX / Iowa City, IA / Madison, WI / Milwaukee, WI / Orlando, FL / Pasadena, CA / Princeton, NJ / Redmond, WA / San Francisco, CA / Savannah, GA / Scottsdale, AZ / Seattle, WA / Silver Spring, MD / Stamford, CT / Tucson, AZ / Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
 
-_Lead the development and delivery of Speechify's web products and Chrome extension, shipping production code that serves 50+ million users. Drive product decisions alongside designers and PMs in a fast-paced, fully distributed startup environment. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975954004)_
+_Lead the development of Speechify's web products and Chrome extension, shipping production code that serves 50+ million users. Drive product strategy alongside design and PM teams in a fast-paced, distributed environment where you'll shape the technical roadmap for text-to-speech features used at scale._
 
-![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Tech Lead, Web Core Product & Chrome Extension - Washington, DC, USA](jobs/speechify/tech-lead-web-core-product-chrome-extension-washington-dc-usa-5975790004.md)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Washington, DC · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
-
-_Build and ship production code for Speechify's web products and Chrome extension, serving millions of users. Shape product decisions and drive technical strategy for a text-to-speech platform with high user impact. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/5975790004)_
-
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square)
+![ReactJS](https://img.shields.io/badge/ReactJS-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Redux](https://img.shields.io/badge/Redux-3B82F6?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 
@@ -2383,21 +601,10 @@ _Design, train, and deploy learned manipulation policies for robotic systems usi
 
 ---
 
-### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai-5137803007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA · `Senior` · `$191k-$253k` · `Equity`
+### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai.md)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boston, MA / Seattle, WA · `Senior` · `$191k-$253k` · `Equity`
 
-_Design and implement test strategies, validation approaches, and operational safeguards for AI-enabled software, automation, and agentic workflows in a defense technology environment. Partner with software and AI engineers to identify failure modes across code, prompts, models, and infrastructure while building confidence in fast-moving solutions through automated testing and observability. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137803007?gh_jid=5137803007)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![LLM applications](https://img.shields.io/badge/LLM_applications-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai-5137806007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boston, MA · `Senior` · `$191k-$253k` · `Equity`
-
-_Design and implement test strategies, validation approaches, and reliability safeguards for AI-enabled software, automation, and agentic workflows in fast-moving development pods. Build confidence in production systems through automated testing, observability, and operational standards while balancing speed with engineering rigor in an AI-first development model. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137806007?gh_jid=5137806007)_
+_Design and implement test strategies, validation approaches, and reliability safeguards for AI-enabled software, automation, and agentic workflows in fast-moving development pods. Build confidence in production systems through automated testing, observability, and operational standards while balancing speed with engineering rigor in an AI-first development model._
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![LLM applications](https://img.shields.io/badge/LLM_applications-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square)
 
@@ -2411,17 +618,6 @@ _Design and implement test strategies, validation approaches, and reliability sa
 _Design and implement mission-critical Teamcenter customizations, integrations, and enterprise platform solutions that connect CAD, ERP, MES, and manufacturing systems at scale. Work in a defense technology context with export-controlled data and high-reliability requirements. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5138057007?gh_jid=5138057007)_
 
 ![Teamcenter](https://img.shields.io/badge/Teamcenter-3B82F6?style=flat-square) ![ITK](https://img.shields.io/badge/ITK-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Security Clearance](https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions-5138391007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, WA · `Staff` · `$220k—$292k USD` · `Equity`
-
-_Architect and implement distributed systems for manufacturing execution—work order management, scheduling, material flow, and capacity planning—that transform Anduril's factories into adaptive, software-defined production networks. You'll bridge manufacturing operations and platform infrastructure at scale, ensuring production requirements shape broader technical decisions in a defense technology environment with export-controlled systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5138391007?gh_jid=5138391007)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Manufacturing Execution Systems](https://img.shields.io/badge/Manufacturing_Execution_Systems-3B82F6?style=flat-square) ![Distributed Systems Architecture](https://img.shields.io/badge/Distributed_Systems_Architecture-3B82F6?style=flat-square) ![Remix](https://img.shields.io/badge/Remix-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square) ![Enterprise Resource Planning](https://img.shields.io/badge/Enterprise_Resource_Planning-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
@@ -2548,21 +744,10 @@ _Design and deploy machine learning solutions for distributed processing platfor
 
 ---
 
-### [Engineering Manager](jobs/clipboard/engineering-manager-2f7bc179-c657-455f-a0a1-e0c43ec7bd4c.md)
-<a href="https://www.clipboardworks.com"><img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clipboard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+### [Engineering Manager](jobs/clipboard/engineering-manager.md)
+<a href="https://www.clipboardworks.com"><img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clipboard** · Remote / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
-_Lead and mentor a distributed engineering team, owning delivery, process optimization, and technical guidance across product initiatives. You'll balance hands-on technical review with people leadership, scaling team capability and impact in a fast-growing healthcare marketplace. · [Apply →](https://jobs.ashbyhq.com/clipboard/2f7bc179-c657-455f-a0a1-e0c43ec7bd4c)_
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Engineering Manager](jobs/clipboard/engineering-manager-4871e102-00a5-4693-8e2f-8672435f1ba2.md)
-<a href="https://www.clipboardworks.com"><img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clipboard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
-
-_Lead and manage a software engineering team, owning process, delivery, and technical quality while mentoring engineers and aligning product roadmap with business goals. Partner with distributed teams in a fast-paced startup environment where you'll maintain hands-on technical involvement through code review and system design guidance. · [Apply →](https://jobs.ashbyhq.com/clipboard/4871e102-00a5-4693-8e2f-8672435f1ba2)_
+_Lead and manage a software engineering team, owning process, delivery, and technical quality while mentoring engineers and aligning product roadmap with business goals. Partner with distributed teams in a fast-paced startup environment where you'll maintain hands-on technical involvement through code review and system design guidance._
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square)
 
@@ -2581,21 +766,10 @@ _Build and maintain petabyte-scale storage infrastructure supporting frontier AI
 
 ---
 
-### [Senior Engine Programmer, Verse Framework](jobs/epic-games/senior-engine-programmer-verse-framework-5994995004.md)
-<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · Vancouver, Canada · `Senior` · `$182k–$268k CAD`
+### [Senior Engine Programmer, Verse Framework](jobs/epic-games/senior-engine-programmer-verse-framework.md)
+<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · Montreal, Canada / Vancouver, Canada · `Senior`
 
-_Design and implement low-level engine systems for Unreal Engine's Verse Framework, including Scene Graph, networking, analytics, and language toolchain integration. Build stable, forward-thinking APIs that expose engine capabilities while maintaining robustness, performance, and cross-platform reliability across game consoles and multiple hardware platforms. · [Apply →](https://epicgames.com/careers/jobs/5994995004?gh_jid=5994995004)_
-
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square) ![Scene Graph](https://img.shields.io/badge/Scene_Graph-3B82F6?style=flat-square) ![Game Console Development](https://img.shields.io/badge/Game_Console_Development-3B82F6?style=flat-square) ![Multiple Programming Languages](https://img.shields.io/badge/Multiple_Programming_Languages-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Engine Programmer, Verse Framework](jobs/epic-games/senior-engine-programmer-verse-framework-5995948004.md)
-<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · Montreal, Canada · `Senior`
-
-_Design and implement low-level engine systems across Scene Graph, networking, analytics, and the language toolchain for Unreal Engine's Verse Framework. Shape stable APIs that expose engine capabilities while navigating cross-team integration challenges at scale across multiple platforms including game consoles. · [Apply →](https://epicgames.com/careers/jobs/5995948004?gh_jid=5995948004)_
+_Design and implement low-level engine systems across Scene Graph, networking, analytics, and the language toolchain for Unreal Engine's Verse Framework. Shape stable APIs that expose engine capabilities while navigating cross-team integration challenges at scale across multiple platforms including game consoles._
 
 ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Verse](https://img.shields.io/badge/Verse-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Networking](https://img.shields.io/badge/Networking-3B82F6?style=flat-square) ![Scene Graph](https://img.shields.io/badge/Scene_Graph-3B82F6?style=flat-square) ![Game Console Development](https://img.shields.io/badge/Game_Console_Development-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square)
 
@@ -2735,17 +909,6 @@ _Build production security detections against Lambda's real log data, shipping c
 
 ---
 
-### [Software Development Engineer III, Maps API](jobs/mapbox/software-development-engineer-iii-maps-api-497f955d-b325-44cd-bc25-001169d78fbf.md)
-<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox** · Remote · `Senior`
-
-_Build and maintain high-traffic distributed APIs and ETL pipelines that serve billions of map requests daily to millions of developers globally. Lead architectural decisions for geospatial data processing at scale while mentoring engineers and balancing rapid feature development with operational reliability. · [Apply →](https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Geospatial Data](https://img.shields.io/badge/Geospatial_Data-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
 ### [Manager, Software Engineering - Identity Platform](jobs/marqeta/manager-software-engineering-identity-platform-7892053.md)
 <a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · Toronto, Canada / Vancouver, Canada · `Manager` · `$156k-$196k CAD` · `Equity` · `Bonus`
 
@@ -2768,21 +931,10 @@ _Lead product security engineering for a payment platform—owning threat modeli
 
 ---
 
-### [Senior Cloud Database Engineer](jobs/marqeta/senior-cloud-database-engineer-7891942.md)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$144k-$180k` · `Bonus` · `Equity`
+### [Senior Cloud Database Engineer](jobs/marqeta/senior-cloud-database-engineer.md)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · Toronto, Canada / Vancouver, Canada / Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `CAD 116k - CAD 145k` · `Bonus` · `Equity`
 
-_Build and maintain highly available distributed database infrastructure powering Marqeta's card issuing platform, which processes over 5 billion transactions annually across multiple regions globally. Automate AWS Aurora lifecycle management, design disaster recovery solutions, and drive database architecture evolution including partitioning and sharding strategies. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/7891942)_
-
-![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Cloud Database Engineer](jobs/marqeta/senior-cloud-database-engineer-7926736.md)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · Toronto, Canada / Vancouver, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `CAD 116k - CAD 145k` · `Bonus` · `Equity`
-
-_Automate and manage AWS Aurora, MySQL, PostgreSQL, and NoSQL databases powering Marqeta's card-issuing platform processing 5 billion transactions annually. Design and implement high-availability, disaster-recovery, and multi-region database architecture while mentoring junior engineers and maintaining 24/7 operational excellence. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/7926736)_
+_Automate and manage AWS Aurora, MySQL, PostgreSQL, and NoSQL databases powering Marqeta's card-issuing platform processing 5 billion transactions annually. Design and implement high-availability, disaster-recovery, and multi-region database architecture while mentoring junior engineers and maintaining 24/7 operational excellence._
 
 ![AWS Aurora](https://img.shields.io/badge/AWS_Aurora-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![DynamoDB](https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square)
 
@@ -2834,61 +986,6 @@ _Build and maintain security automation, infrastructure, and integrations across
 
 ---
 
-### [Android Engineer, ChatGPT (Seattle)](jobs/openai/android-engineer-chatgpt-seattle-5a1a0c32-0b82-482a-8149-e6b096c3e732.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Seattle, WA · `Senior`
-
-_Build and ship new Android experiences for ChatGPT, expanding mobile AI capabilities. Drive foundational improvements in app architecture, performance optimization, and testing frameworks while collaborating across product, design, and research teams. · [Apply →](https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732)_
-
-![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![App Architecture](https://img.shields.io/badge/App_Architecture-3B82F6?style=flat-square) ![Testing Frameworks](https://img.shields.io/badge/Testing_Frameworks-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Head of Measurement & Performance Intelligence](jobs/openai/head-of-measurement-performance-intelligence-57b9ce42-b17f-4b43-96b3-a67d9d705d5d.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
-
-_Lead the measurement and performance intelligence function for OpenAI's compute platforms, defining metrics, benchmarking methodologies, and acceptance criteria across hardware and software systems. Partner with training, inference, and infrastructure teams to translate performance data into architectural and capacity decisions at scale. · [Apply →](https://jobs.ashbyhq.com/openai/57b9ce42-b17f-4b43-96b3-a67d9d705d5d)_
-
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![HPC](https://img.shields.io/badge/HPC-3B82F6?style=flat-square) ![Performance Engineering](https://img.shields.io/badge/Performance_Engineering-3B82F6?style=flat-square) ![Benchmarking](https://img.shields.io/badge/Benchmarking-3B82F6?style=flat-square) ![AI/ML Infrastructure](https://img.shields.io/badge/AI%2FML_Infrastructure-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Data Engineer, Core Experimentation](jobs/openai/senior-data-engineer-core-experimentation-2796d32a-9f7c-4008-a2c5-50dd53b0f2fe.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293k-$325k`
-
-_Design and build data pipelines and canonical datasets powering OpenAI's experimentation platform, data warehouse, and product analytics at massive scale. Work with infrastructure, research, and product teams to enable trustworthy, statistically rigorous experimentation across frontier AI products. · [Apply →](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![AWS (S3)](https://img.shields.io/badge/AWS_%28S3%29-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Staff / Senior Staff Backend Engineer, B2B Flywheel](jobs/openai/staff-senior-staff-backend-engineer-b2b-flywheel-e9fa3446-0b1e-48c0-a567-ef85f1621b76.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$293K-$385K`
-
-_Design and build real-time backend systems and data pipelines that capture, process, and translate product and usage signals across OpenAI's B2B API surfaces. Operate in high-scale, low-latency, privacy-constrained environments while partnering with data science and research teams to improve products and models through production feedback loops. · [Apply →](https://jobs.ashbyhq.com/openai/e9fa3446-0b1e-48c0-a567-ef85f1621b76)_
-
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![API Services](https://img.shields.io/badge/API_Services-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Staff+ Software Engineer, Identity Infrastructure Engineering](jobs/openai/staff-software-engineer-identity-infrastructure-engineering-72a58872-70e2-4340-a259-e9bea3596883.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff`
-
-_Lead the design, development, and operation of identity and access management infrastructure spanning cloud platforms, internal systems, and critical engineering services at OpenAI. You'll architect authentication, authorization, and policy enforcement systems protecting model weights and customer data across mission-critical infrastructure with strong reliability and security requirements. · [Apply →](https://jobs.ashbyhq.com/openai/72a58872-70e2-4340-a259-e9bea3596883)_
-
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square) ![Identity Systems](https://img.shields.io/badge/Identity_Systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure--as--Code-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
 ### [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-commercial-e6789b17-62fb-4226-a079-f8c17ff19e2d.md)
 <a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · New York, NY · `Intern`
 
@@ -2898,19 +995,10 @@ _Build software and deliver customer outcomes by helping clients deploy AI-power
 
 ---
 
-### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg-5c4c65c5-77da-4d36-856c-4ade87631019.md)
-<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · Washington, D.C. · `Intern`
+### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg.md)
+<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · Washington, D.C. / New York, NY · `Intern`
 
-_Build software and deploy AI-powered solutions for government customers, helping organizations unlock critical data insights and operational outcomes. Work on real problems at scale within defense and national security institutions. · [Apply →](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019)_
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Year at Palantir - Forward Deployed Software Engineer, Internship - USG](jobs/palantir/year-at-palantir-forward-deployed-software-engineer-internship-usg-5c7bb70c-83ea-43e7-8055-0c8f319f4333.md)
-<a href="https://palantir.com"><img src="https://www.google.com/s2/favicons?domain=palantir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palantir** · New York, NY · `Intern`
-
-_Build and deploy AI-powered software solutions for U.S. Government customers, helping critical institutions transform data-driven operations. Work on real production systems at scale with direct customer impact and access to classified environments. · [Apply →](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333)_
+_Build software and deploy AI-powered solutions for government customers, helping organizations unlock critical data insights and operational outcomes. Work on real problems at scale within defense and national security institutions._
 
 <sub>May 14, 2026</sub>
 
@@ -2925,21 +1013,10 @@ _Build software solutions on Palantir's data platforms, working on real customer
 
 ---
 
-### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer-7916937.md)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$142k-$203k` · `Equity` · `Bonus`
+### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer.md)
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · Remote / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
 
-_Design and build core infrastructure-as-code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Lead platform modernization initiatives including migration from legacy tooling and enhance observability across cloud-native systems at scale. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7916937)_
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-3B82F6?style=flat-square) ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Software Engineer](jobs/planet-labs/senior-software-engineer-7921074.md)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
-
-_Design and build core Infrastructure-as-Code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Work on platform modernization initiatives across a global cloud-native infrastructure serving a constellation of imaging satellites. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7921074)_
+_Design and build core Infrastructure-as-Code solutions and manage Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Work on platform modernization initiatives across a global cloud-native infrastructure serving a constellation of imaging satellites._
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google_Cloud_Platform_%28GCP%29-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitLab](https://img.shields.io/badge/GitLab-3B82F6?style=flat-square) ![ArgoCD](https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square)
 
@@ -3035,23 +1112,12 @@ _Design and develop build, release, and continuous integration automation tools 
 
 ---
 
-### [Software Engineer (C#/.NET)](jobs/rockstar-games/software-engineer-csharp-dotnet-7711702003.md)
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, NY · `Mid` · `$101k-$134k` · `Bonus` · `Equity`
+### [Software Engineer (C#/.NET)](jobs/rockstar-games/software-engineer-csharp-dotnet.md)
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, NY / Carlsbad, CA · `Mid` · `$101k-$134k` · `Bonus` · `Equity`
 
-_Develop high-volume, highly scalable server-side online services for game franchises including matchmaking, cloud saves, leaderboards, and player inventory systems. Build distributed systems serving millions of concurrent players across console and external clients with expertise in Windows Server, SQL Server, and .NET infrastructure. · [Apply →](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003)_
+_Develop high-volume, highly scalable server-side online services for game franchises including matchmaking, cloud saves, leaderboards, and player inventory systems. Build distributed systems serving millions of concurrent players across console and external clients with expertise in Windows Server, SQL Server, and .NET infrastructure._
 
 ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![API Design](https://img.shields.io/badge/API_Design-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square) ![Xbox Live](https://img.shields.io/badge/Xbox_Live-3B82F6?style=flat-square)
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Software Engineer (C#/.NET)](jobs/rockstar-games/software-engineer-csharp-dotnet-7734679003.md)
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Carlsbad, CA · `Senior` · `$101k–$134k` · `Bonus` · `Equity`
-
-_Build high-volume, highly scalable server-side online services for Rockstar Games franchises, including matchmaking, cloud saves, leaderboards, and player inventory systems. Work with distributed systems at scale serving millions of concurrent players across console and PC platforms. · [Apply →](https://job-boards.greenhouse.io/rockstargames/jobs/7734679003)_
-
-![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![API design](https://img.shields.io/badge/API_design-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Windows Server](https://img.shields.io/badge/Windows_Server-3B82F6?style=flat-square) ![Perforce](https://img.shields.io/badge/Perforce-3B82F6?style=flat-square)
 
 <sub>May 14, 2026</sub>
 
@@ -3303,10 +1369,10 @@ _Design and build real-time, map-based interfaces and backend systems for autono
 
 ---
 
-### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions-5088766007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA · `Staff` · `$220k–$292k` · `Equity`
+### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions.md)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, CA / Seattle, WA · `Staff` · `$220k–$292k` · `Equity`
 
-_Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5088766007?gh_jid=5088766007)_
+_Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems._
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Remix](https://img.shields.io/badge/Remix-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Manufacturing Execution Systems (MES)](https://img.shields.io/badge/Manufacturing_Execution_Systems_%28MES%29-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![U.S. Person Status / TS/SCI Clearance](https://img.shields.io/badge/U.S._Person_Status_%2F_TS%2FSCI_Clearance-3B82F6?style=flat-square)
 
@@ -3446,45 +1512,12 @@ _Build and operate the data stack architecture and infrastructure (BigQuery, dbt
 
 ---
 
-### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/senior-backend-engineer-application-core-services-stacks-usa-remote-5990670004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$154k-$185k` · `Equity` · `Bonus`
+### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/senior-backend-engineer-application-core-services-stacks-usa-remote.md)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · Remote / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 197k` · `Equity` · `Bonus`
 
-_Design and operate reconciliation systems and control-plane services that manage Grafana Cloud stack lifecycle, state alignment, and configuration across distributed infrastructure. You will work on stateful systems involving eventual consistency, multi-region operations, and incident recovery at scale across a SaaS platform serving thousands of customers. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5990670004)_
-
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Helm](https://img.shields.io/badge/Helm-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Senior Backend Engineer - Application Core Services, Stacks | USA | Remote](jobs/grafana/senior-backend-engineer-application-core-services-stacks-usa-remote-5990671004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 197k` · `Equity` · `Bonus`
-
-_Design and operate reconciliation systems and control-plane services for Grafana Cloud stack lifecycle management, ensuring state consistency across distributed components (grafana.com, Hosted Grafana, cloud regions). Build systems handling stateful workflows, eventual consistency, and multi-region infrastructure where correctness and operational clarity are critical at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5990671004)_
+_Design and operate reconciliation systems and control-plane services for Grafana Cloud stack lifecycle management, ensuring state consistency across distributed components (grafana.com, Hosted Grafana, cloud regions). Build systems handling stateful workflows, eventual consistency, and multi-region infrastructure where correctness and operational clarity are critical at scale._
 
 ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![TypeScript/Node.js](https://img.shields.io/badge/TypeScript%2FNode.js-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Principal Software Engineer, AI Observability & Evals Platform](jobs/langchain/principal-software-engineer-ai-observability-evals-platform-d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93.md)
-<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · Boston, MA / San Francisco, CA / New York, NY · `Principal` · `$230k-$270k` · `Equity`
-
-_Build LangSmith's full-stack AI observability platform—backend services, APIs, and frontend product surfaces—handling tracing, evaluation, and monitoring workflows at production scale. You'll drive architectural decisions across Go, Python, and TypeScript while establishing engineering standards and mentoring a growing team. · [Apply →](https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93)_
-
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Production Observability](https://img.shields.io/badge/Production_Observability-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Software Engineer, SmithDB](jobs/langchain/software-engineer-smithdb-068b2e23-af01-42c7-9bce-d86976ea4d6e.md)
-<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · San Francisco, CA · `Senior` · `$175k-$240k` · `Equity`
-
-_Engineer a distributed, high-performance storage layer for AI observability built in Rust, optimized for ingestion, querying, and scaling to trillions of traces. Scale and harden a multi-tenant system running on Kubernetes with tight integration to cloud object stores. · [Apply →](https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e)_
-
-![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Database Systems](https://img.shields.io/badge/Database_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Object Storage (S3/GCS/Azure)](https://img.shields.io/badge/Cloud_Object_Storage_%28S3%2FGCS%2FAzure%29-3B82F6?style=flat-square) ![Query Execution Engines](https://img.shields.io/badge/Query_Execution_Engines-3B82F6?style=flat-square) ![Systems Performance Analysis](https://img.shields.io/badge/Systems_Performance_Analysis-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Memory and CPU Profiling](https://img.shields.io/badge/Memory_and_CPU_Profiling-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 
@@ -3518,28 +1551,6 @@ _Lead a distributed engineering team building genomics tertiary analysis softwar
 _Build scalable evaluation infrastructure and harnesses that enable AI engineers at Notion to run, maintain, and iterate on LLM evals locally, in CI, and at scale. Design measurement systems, benchmark tooling, and data pipelines that surface quality regressions and integrate evals into daily shipping workflows across the AI organization. · [Apply →](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e)_
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Data Engineer, People Innovation Labs](jobs/openai/data-engineer-people-innovation-labs-579595e5-0b16-485e-b7c5-102fc7467def.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Design and build data pipelines and canonical datasets in Databricks to power People Innovation Labs' internal products and analytics. Work across distributed systems and ETL infrastructure to ensure seamless data integration for people metrics and product analytics. · [Apply →](https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square)
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Data Scientist, Core Experimentation](jobs/openai/data-scientist-core-experimentation-e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92.md)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Bellevue, WA · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$293k-$325k`
-
-_Build and evolve OpenAI's core experimentation platform, designing statistical methodologies and scalable analytical systems that power trustworthy decision-making across product and research teams. Work on hard problems in online experimentation including variance reduction, causal inference, and measurement systems at frontier AI scale. · [Apply →](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92)_
-
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-3B82F6?style=flat-square) ![Causal Inference](https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square) ![Sequential Testing](https://img.shields.io/badge/Sequential_Testing-3B82F6?style=flat-square) ![Variance Reduction (CUPED)](https://img.shields.io/badge/Variance_Reduction_%28CUPED%29-3B82F6?style=flat-square) ![Sample Ratio Mismatch Detection](https://img.shields.io/badge/Sample_Ratio_Mismatch_Detection-3B82F6?style=flat-square) ![Metric Design](https://img.shields.io/badge/Metric_Design-3B82F6?style=flat-square)
 
 <sub>May 13, 2026</sub>
 

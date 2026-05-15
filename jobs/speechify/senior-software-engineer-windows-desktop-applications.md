@@ -1,0 +1,175 @@
+<!--
+id: greenhouse-speechify-5974986004
+company: Speechify
+title: Senior Software Engineer, Windows/Desktop Applications
+source: greenhouse
+location: Anchorage, AK / Baltimore, MD / Bend, OR / Berkeley, CA / Birmingham, AL / Chicago, IL / Cincinnati, OH / Dallas, TX / Fort Lauderdale, FL / Houston, TX / Jersey City, NJ / Miami, FL / Minneapolis, MN / Naperville, IL / Philadelphia, PA / Portland, OR / Rochester, NY / Sacramento, CA / San Diego, CA / San Francisco, CA / Santa Cruz, CA / Seattle, WA / Tallahassee, FL / Washington, DC / West Lafayette, IN
+remote: Not specified
+hybrid: no
+posted_at: Unknown
+first_seen: 2026-05-15
+first_seen_at: 
+url: 
+summary: Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with emphasis on accessibility, performance, and cross-version compatibility. Drive accessibility integration across Microsoft UI Automation and ensure production-quality reliability for millions of users.
+skills: Windows App SDK, WinUI, C#, XAML, C++, Microsoft UI Automation, .NET interop, UI automation testing
+level: senior
+comp: $140k-$200k
+comp_extras: bonus, equity
+render_hash: bb25c91c
+-->
+
+# Senior Software Engineer, Windows/Desktop Applications
+
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Anchorage, AK / Baltimore, MD / Bend, OR / Berkeley, CA / Birmingham, AL / Chicago, IL / Cincinnati, OH / Dallas, TX / Fort Lauderdale, FL / Houston, TX / Jersey City, NJ / Miami, FL / Minneapolis, MN / Naperville, IL / Philadelphia, PA / Portland, OR / Rochester, NY / Sacramento, CA / San Diego, CA / San Francisco, CA / Santa Cruz, CA / Seattle, WA / Tallahassee, FL / Washington, DC / West Lafayette, IN · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+
+> Speechify builds a text-to-speech application that converts written content into spoken audio across documents, web pages, and emails. The company operates in the accessibility and productivity software space, primarily serving users with dyslexia, visual impairments, and those seeking alternative consumption methods for written material.
+
+_Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI, C#, and C++, with emphasis on accessibility, performance, and cross-version compatibility. Drive accessibility integration across Microsoft UI Automation and ensure production-quality reliability for millions of users._
+
+![Windows App SDK](https://img.shields.io/badge/Windows_App_SDK-3B82F6?style=flat-square) ![WinUI](https://img.shields.io/badge/WinUI-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![XAML](https://img.shields.io/badge/XAML-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Microsoft UI Automation](https://img.shields.io/badge/Microsoft_UI_Automation-3B82F6?style=flat-square) ![.NET interop](https://img.shields.io/badge/.NET_interop-3B82F6?style=flat-square) ![UI automation testing](https://img.shields.io/badge/UI_automation_testing-3B82F6?style=flat-square)
+
+<sub>First seen May 15, 2026</sub>
+
+**Apply by location:**
+- **[Anchorage, AK →](https://job-boards.greenhouse.io/speechify/jobs/5974986004)**
+- **[Baltimore, MD →](https://job-boards.greenhouse.io/speechify/jobs/5974896004)**
+- **[Bend, OR →](https://job-boards.greenhouse.io/speechify/jobs/5974970004)**
+- **[Berkeley, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974836004)**
+- **[Birmingham, AL →](https://job-boards.greenhouse.io/speechify/jobs/5975004004)**
+- **[Chicago, IL →](https://job-boards.greenhouse.io/speechify/jobs/5976259004)**
+- **[Cincinnati, OH →](https://job-boards.greenhouse.io/speechify/jobs/5974860004)**
+- **[Dallas, TX →](https://job-boards.greenhouse.io/speechify/jobs/5974797004)**
+- **[Fort Lauderdale, FL →](https://job-boards.greenhouse.io/speechify/jobs/5974890004)**
+- **[Houston, TX →](https://job-boards.greenhouse.io/speechify/jobs/5974848004)**
+- **[Jersey City, NJ →](https://job-boards.greenhouse.io/speechify/jobs/5974872004)**
+- **[Miami, FL →](https://job-boards.greenhouse.io/speechify/jobs/5974884004)**
+- **[Minneapolis, MN →](https://job-boards.greenhouse.io/speechify/jobs/5974854004)**
+- **[Naperville, IL →](https://job-boards.greenhouse.io/speechify/jobs/5974866004)**
+- **[Philadelphia, PA →](https://job-boards.greenhouse.io/speechify/jobs/5974878004)**
+- **[Portland, OR →](https://job-boards.greenhouse.io/speechify/jobs/5974830004)**
+- **[Rochester, NY →](https://job-boards.greenhouse.io/speechify/jobs/5974998004)**
+- **[Sacramento, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974842004)**
+- **[San Diego, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974824004)**
+- **[San Francisco, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974791004)**
+- **[Santa Cruz, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974980004)**
+- **[Seattle, WA →](https://job-boards.greenhouse.io/speechify/jobs/5976265004)**
+- **[Tallahassee, FL →](https://job-boards.greenhouse.io/speechify/jobs/5975016004)**
+- **[Washington, DC →](https://job-boards.greenhouse.io/speechify/jobs/5974803004)**
+- **[West Lafayette, IN →](https://job-boards.greenhouse.io/speechify/jobs/5974992004)**
+
+---
+
+Mission
+
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;
+
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies
+
+What You’ll Do
+
+Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI (or related UI frameworks), C#, XAML, and — when needed — C++.
+
+Define and enforce best-practices for Windows desktop development across the codebase: code architecture, performance, memory usage, responsive UI, cross-version compatibility (Windows 10/11+), and maintainability.
+
+Drive accessibility efforts: integrate and validate support for accessibility APIs (e.g. Microsoft UI Automation or other relevant Windows accessibility frameworks), ensure UI controls, focus management, keyboard navigation, screen-reader support, and usability for users with disabilities.
+
+Collaborate closely with product designers, UX researchers, QA, and other stakeholders to shape feature planning, UI/UX architecture, and long-term roadmap for the Windows platform.
+
+Take ownership of full lifecycle of features: conception → design → implementation → testing → release → maintenance. Ensure quality, reliability, and consistency across releases.
+
+Identify, diagnose, and resolve complex bugs, performance bottlenecks, memory leaks, rendering issues, or compatibility problems — and propose robust architectural or design solutions.
+
+&nbsp;
+
+An ideal candidate should have
+
+Required:
+
+3+ in Windows desktop application development using Windows App SDK, WinUI (or similar), C#, XAML — and ideally additional experience with native Windows code (C++, Win32/WinRT/COM).
+
+Deep understanding of Windows application architecture, including interop between managed code (.NET) and native code.
+
+Proven track record of designing, building, and shipping production-quality desktop applications, with an emphasis on reliability, performance, scalability, and maintainability.
+
+Strong experience with accessibility APIs on Windows (e.g. Microsoft UI Automation or similar), and a dedication to building accessible and inclusive software.
+
+Excellent software engineering fundamentals: OOP, design patterns, data structures, algorithms, memory management, multi-threading or asynchronous programming (where relevant).
+
+Experience leading technical design, mentoring other engineers, conducting code reviews, and making architecture-level decisions.
+
+Strong communication skills; ability to articulate tradeoffs, collaborate with cross-functional teams, and drive consensus.
+
+A user-centric mindset: focus on building polished, intuitive, and accessible experiences for end users.
+
+Preferred / Bonus:
+
+Experience with writing automated tests for UI — unit tests, integration tests, UI automation tests; familiarity with relevant testing frameworks.
+
+Experience with performance optimization for desktop apps (memory usage, startup time, rendering performance, high-DPI support, responsiveness under load).
+
+Experience with localization/globalization, right-to-left UI support, internationalization, accessibility for multiple regions.
+
+Familiarity with telemetry, analytics, crash reporting, logging, and error monitoring in desktop applications.
+
+Previous experience in shaping CI/CD workflows, release pipelines, and deployment strategies for desktop applications.
+
+Demonstrated ability to take ownership of feature areas or modules and drive them long-term, including maintenance, refactoring, and technical debt management.
+
+What we offer
+
+A high-impact role: you will define architecture, shape the future of our Windows product, and directly influence what millions of users see and experience.
+
+A collaborative, flat-structure engineering culture — you are not just a coder, but a builder and a decision-maker.
+
+Opportunities to lead — mentor others, steer technical direction, and grow into broader technical leadership (e.g. Tech Lead, Architect).
+
+Flexibility, autonomy, and responsibility: you define how to solve problems, own features end-to-end, and contribute to long-term product vision.
+
+A purpose-driven mission: building software that’s reliable, accessible, and user-centered — making a real difference for people.
+
+The United States Based Salary range for this role is: 140,000-200,000 USD/Year + Bonus + Stock depending on experience &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+Think you’re a good fit for this job?&nbsp;
+
+Tell us more about yourself and why you're interested in the role when you apply.
+
+And don’t forget to include links to your portfolio and LinkedIn.
+
+Not looking but know someone who would make a great fit?&nbsp;
+
+Refer them!&nbsp;
+
+Speechify is committed to a diverse and inclusive workplace.&nbsp;
+
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+---
+
+**Apply by location:**
+- **[Anchorage, AK →](https://job-boards.greenhouse.io/speechify/jobs/5974986004)**
+- **[Baltimore, MD →](https://job-boards.greenhouse.io/speechify/jobs/5974896004)**
+- **[Bend, OR →](https://job-boards.greenhouse.io/speechify/jobs/5974970004)**
+- **[Berkeley, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974836004)**
+- **[Birmingham, AL →](https://job-boards.greenhouse.io/speechify/jobs/5975004004)**
+- **[Chicago, IL →](https://job-boards.greenhouse.io/speechify/jobs/5976259004)**
+- **[Cincinnati, OH →](https://job-boards.greenhouse.io/speechify/jobs/5974860004)**
+- **[Dallas, TX →](https://job-boards.greenhouse.io/speechify/jobs/5974797004)**
+- **[Fort Lauderdale, FL →](https://job-boards.greenhouse.io/speechify/jobs/5974890004)**
+- **[Houston, TX →](https://job-boards.greenhouse.io/speechify/jobs/5974848004)**
+- **[Jersey City, NJ →](https://job-boards.greenhouse.io/speechify/jobs/5974872004)**
+- **[Miami, FL →](https://job-boards.greenhouse.io/speechify/jobs/5974884004)**
+- **[Minneapolis, MN →](https://job-boards.greenhouse.io/speechify/jobs/5974854004)**
+- **[Naperville, IL →](https://job-boards.greenhouse.io/speechify/jobs/5974866004)**
+- **[Philadelphia, PA →](https://job-boards.greenhouse.io/speechify/jobs/5974878004)**
+- **[Portland, OR →](https://job-boards.greenhouse.io/speechify/jobs/5974830004)**
+- **[Rochester, NY →](https://job-boards.greenhouse.io/speechify/jobs/5974998004)**
+- **[Sacramento, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974842004)**
+- **[San Diego, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974824004)**
+- **[San Francisco, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974791004)**
+- **[Santa Cruz, CA →](https://job-boards.greenhouse.io/speechify/jobs/5974980004)**
+- **[Seattle, WA →](https://job-boards.greenhouse.io/speechify/jobs/5976265004)**
+- **[Tallahassee, FL →](https://job-boards.greenhouse.io/speechify/jobs/5975016004)**
+- **[Washington, DC →](https://job-boards.greenhouse.io/speechify/jobs/5974803004)**
+- **[West Lafayette, IN →](https://job-boards.greenhouse.io/speechify/jobs/5974992004)**
