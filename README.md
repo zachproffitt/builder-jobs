@@ -4,15 +4,37 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **198 open roles** (13 new today) &nbsp;·&nbsp; 947 companies searched
+### **200 open roles** (15 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 03:22 UTC</sub>
+<sub>Last updated May 15, 2026 at 05:28 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Principal Software Engineer](jobs/okta/principal-software-engineer-7849955.md)
+<img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Okta** · Bengaluru, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal`
+
+_Design and architect Okta's next-generation Imports Platform, migrating from monolithic identity lifecycle management to a highly scalable distributed microservices system that syncs identities and access policies from external directory services like Active Directory and Office 365. Lead cross-team technical strategy for batch processing, real-time synchronization, and user matching algorithms serving thousands of enterprise customers at massive scale._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 05:28 UTC</sub>
+
+---
+
+### [Software Architect](jobs/okta/software-architect-7920036.md)
+<img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Okta** · Bengaluru, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal`
+
+_Design and drive the long-term technical architecture for Okta's Integration Pillar, a multi-tenant platform enabling developers and partners to build enterprise SaaS connectors at scale. Lead cross-team initiatives to eliminate scaling bottlenecks, manage third-party API integration risks, and establish foundational tooling and standards across dozens of integrations._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=flat-square) ![SCIM](https://img.shields.io/badge/SCIM-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 05:28 UTC</sub>
+
+---
 
 ### [Senior Staff Backend Software Engineer, Codex for Finance](jobs/openai/senior-staff-backend-software-engineer-codex-for-finance-6ccb669b-7c0c-4531-819b-47fb0a5c9dbd.md)
 <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**OpenAI** · San Francisco · `Senior`
