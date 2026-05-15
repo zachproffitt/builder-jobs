@@ -4,7 +4,7 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **208 open roles** (79 new today) &nbsp;·&nbsp; 912 companies searched
+### **208 open roles** (79 new today) &nbsp;·&nbsp; 893 companies searched
 
 [Remote only →](REMOTE.md)
 
