@@ -4,13 +4,46 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **60 open roles** (20 new today)
+### **63 open roles** (23 new today)
 
-<sub>Last updated May 15, 2026 at 18:45 UTC</sub>
+<sub>Last updated May 15, 2026 at 19:43 UTC</sub>
 
 <br>
 
 ## May 15, 2026
+
+### [Senior Machine Learning Engineer](jobs/censys/senior-machine-learning-engineer-8500292002.md)
+<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$150k-$203k` · `Equity` · `Bonus`
+
+_Build machine learning models and data-driven systems that classify, cluster, label, and enrich Internet-observed assets and services. Deploy feature pipelines, training datasets, model evaluation frameworks, and inference services that transform raw Internet telemetry into high-quality datasets and customer-facing products at scale. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8500292002)_
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-3B82F6?style=flat-square) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 19:43 UTC</sub>
+
+---
+
+### [Principal Engineer, Engineering AI Productivity](jobs/confluent/principal-engineer-engineering-ai-productivity-85107937-8f12-4336-abb8-e88f344c6bcc.md)
+<a href="https://confluent.io"><img src="https://www.google.com/s2/favicons?domain=confluent.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Confluent** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
+
+_Lead the design and delivery of agentic AI systems and intelligent automation workflows to accelerate R&D productivity across Confluent's engineering organization. Drive responsible AI adoption at scale across a SaaS/cloud platform with 60% hands-on execution and 40% strategy. · [Apply →](https://jobs.ashbyhq.com/confluent/85107937-8f12-4336-abb8-e88f344c6bcc)_
+
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-3B82F6?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![AI/ML Platforms](https://img.shields.io/badge/AI%2FML_Platforms-3B82F6?style=flat-square) ![Cloud-Native Architecture](https://img.shields.io/badge/Cloud--Native_Architecture-3B82F6?style=flat-square) ![Real-Time Data Systems](https://img.shields.io/badge/Real--Time_Data_Systems-3B82F6?style=flat-square) ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-3B82F6?style=flat-square) ![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 19:43 UTC</sub>
+
+---
+
+### [Senior Full Stack Engineer](jobs/slingshot-aerospace/senior-full-stack-engineer-5997241004.md)
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$200k` · `Equity`
+
+_Design and deliver secure, scalable data and application platforms combining backend APIs, React frontends, 3D visualization, AI-driven workflows, and distributed systems for space operations. Work across the full stack including RAG pipelines, vector databases, agentic AI services, and cloud-native infrastructure serving advanced analytics and operational capabilities. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997241004?gh_jid=5997241004)_
+
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square) ![.NET Core](https://img.shields.io/badge/.NET_Core-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 19:43 UTC</sub>
+
+---
 
 ### [Principal Security Engineer - Threat Intelligence](jobs/snowflake/principal-security-engineer-threat-intelligence-7504df05-ebf7-4c43-b9bf-f3820d0171e5.md)
 <a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`

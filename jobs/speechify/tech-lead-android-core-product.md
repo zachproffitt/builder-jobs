@@ -15,7 +15,7 @@ skills: Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Jetpack Compose,
 level: senior
 comp: $140k-$200k
 comp_extras: bonus, equity
-render_hash: 0c5f5cf5
+render_hash: 51b5cf08
 -->
 
 # Tech Lead, Android Core Product

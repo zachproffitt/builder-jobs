@@ -3,24 +3,24 @@ id: greenhouse-slingshotaerospace-5996935004
 company: Slingshot Aerospace
 title: Senior Technical Architect
 source: greenhouse
-location: Washington, DC
+location: Washington, DC / Remote
 remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T15:51:23+00:00
-url: https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004
+first_seen_at: 
+url: 
 summary: Architect and implement secure, scalable Python-based data processing platforms including ETL frameworks, event-driven streaming systems, and FastAPI microservices for space operations data. This on-site role requires deep expertise across distributed systems, Kafka/RabbitMQ, MongoDB, and Kubernetes in a defense-adjacent domain with security and compliance demands.
 skills: Python, FastAPI, Kafka, RabbitMQ, MongoDB, Redis, Kubernetes, AWS
 level: senior
 comp: $175k-$250k
 comp_extras: equity
-render_hash: 09f0b3cc
+render_hash: 393b8127
 -->
 
 # Senior Technical Architect
 
-<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, DC · `Senior` · `$175k-$250k` · `Equity`
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, DC / Remote · `Senior` · `$175k-$250k` · `Equity`
 
 > # Slingshot Aerospace
 
@@ -30,9 +30,11 @@ _Architect and implement secure, scalable Python-based data processing platforms
 
 ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-3B82F6?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3B82F6?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
 
-<sub>First seen May 15, 2026 at 15:51 UTC</sub>
+<sub>First seen May 15, 2026</sub>
 
-**[→ Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**
+**Apply by location:**
+- **[Washington, DC →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**
+- **[Remote →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004)**
 
 ---
 
@@ -110,4 +112,6 @@ Equity, Diversity &amp; Inclusion are key to our success. We are an Equal Opport
 
 ---
 
-**[→ Apply](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**
+**Apply by location:**
+- **[Washington, DC →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)**
+- **[Remote →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004)**
