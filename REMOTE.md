@@ -4,22 +4,33 @@ Remote engineering roles only, scraped hourly and classified by Claude. Listings
 
 > *[← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)*
 
-### **66 open roles** (6 new today)
+### **67 open roles** (7 new today)
 
-<sub>Last updated May 15, 2026 at 09:19 UTC</sub>
+<sub>Last updated May 15, 2026 at 10:58 UTC</sub>
 
 <br>
 
 ## May 15, 2026
 
-### [Machine Learning & Game Tech Architect](jobs/cd-projekt-red/machine-learning-game-tech-architect-744000126656239.md)
+### [Machine Learning & Game Tech Architect](jobs/cd-projekt-red/machine-learning-game-tech-architect-744000126662869.md)
 <img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CD Projekt Red** · Montreal, ca · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Design and maintain hybrid game-AI systems that integrate machine learning frameworks with game engines, serving as the technical bridge between ML researchers and game developers. You'll architect production systems at scale for a major game studio, with exposure to cutting-edge ML and game technology integration challenges._
+_Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology._
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engines](https://img.shields.io/badge/Game_Engines-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engine Architecture](https://img.shields.io/badge/Game_Engine_Architecture-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square)
 
-<sub>May 15, 2026 at 09:19 UTC</sub>
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Software Engineer](jobs/twilio/software-engineer-7658027.md)
+<img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Twilio** · Estonia · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
+
+_Design, develop, and maintain mission-critical backend services for Twilio's core messaging platform, handling some of the world's largest message volumes. Focus on building scalable, reliable, and low-latency systems with strong emphasis on distributed systems fundamentals and operational excellence._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Agile](https://img.shields.io/badge/Agile-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
 
 ---
 

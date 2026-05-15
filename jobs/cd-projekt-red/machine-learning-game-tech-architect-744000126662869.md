@@ -1,5 +1,5 @@
 <!--
-id: smartrecruiters-CDPROJEKTRED-744000126656239
+id: smartrecruiters-CDPROJEKTRED-744000126662869
 company: CD Projekt Red
 title: Machine Learning & Game Tech Architect
 source: smartrecruiters
@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T09:19:03+00:00
-url: https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126656239
-summary: Design and maintain hybrid game-AI systems that integrate machine learning frameworks with game engines, serving as the technical bridge between ML researchers and game developers. You'll architect production systems at scale for a major game studio, with exposure to cutting-edge ML and game technology integration challenges.
-skills: Machine Learning, Game Engines, Python, C++, Systems Architecture
+first_seen_at: 2026-05-15T10:58:44+00:00
+url: https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126662869
+summary: Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology.
+skills: Machine Learning, Game Engine Architecture, Python, C++, System Design, Deep Learning
 level: senior
 comp: 
 comp_extras: 
-render_hash: ddf33e45
+render_hash: 31830165
 -->
 
 # Machine Learning & Game Tech Architect
@@ -25,13 +25,13 @@ Montreal, ca · `Senior` · `Remote`
 
 > CD Projekt Red is a Polish video game developer that creates role-playing games and action games for PC and console platforms, most notably the Witcher series and Cyberpunk franchise. The studio is known for developing narrative-driven, open-world games with extensive storytelling and player choice mechanics.
 
-_Design and maintain hybrid game-AI systems that integrate machine learning frameworks with game engines, serving as the technical bridge between ML researchers and game developers. You'll architect production systems at scale for a major game studio, with exposure to cutting-edge ML and game technology integration challenges._
+_Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology._
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engines](https://img.shields.io/badge/Game_Engines-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engine Architecture](https://img.shields.io/badge/Game_Engine_Architecture-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square)
 
 <sub>Posted May 15, 2026</sub>
 
-**[→ Apply](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126656239)**
+**[→ Apply](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126662869)**
 
 ---
 
@@ -59,4 +59,4 @@ Rassembler, valider et répondre au feedback dinterne, ajustant au besoin les ch
 
 ---
 
-**[→ Apply](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126656239)**
+**[→ Apply](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000126662869)**

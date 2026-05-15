@@ -4,24 +4,121 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
-### **560 open roles** (375 new today) &nbsp;·&nbsp; 947 companies searched
+### **569 open roles** (384 new today) &nbsp;·&nbsp; 947 companies searched
 
 [Remote only →](REMOTE.md)
 
-<sub>Last updated May 15, 2026 at 09:19 UTC</sub>
+<sub>Last updated May 15, 2026 at 10:58 UTC</sub>
 
 <br>
 
 ## May 15, 2026
 
-### [Machine Learning & Game Tech Architect](jobs/cd-projekt-red/machine-learning-game-tech-architect-744000126656239.md)
+### [Forward Deployed Engineer (EMEA)](jobs/applied-intuition/forward-deployed-engineer-emea-4694910005.md)
+<img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Applied Intuition** · München, Bavaria, Germany · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `€93k-€145k` · `Equity`
+
+_Build net-new features, standalone applications, and custom integrations embedded inside tier-1 automotive OEMs across EMEA, operating at the boundary between Applied's autonomous vehicle platform and customer environments. Ship production-quality software while maintaining 25–40% on-site presence at customer locations and feeding field signals back to product engineering._
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![ROS](https://img.shields.io/badge/ROS-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-3B82F6?style=flat-square) ![Automotive Software](https://img.shields.io/badge/Automotive_Software-3B82F6?style=flat-square) ![Autonomy](https://img.shields.io/badge/Autonomy-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Machine Learning & Game Tech Architect](jobs/cd-projekt-red/machine-learning-game-tech-architect-744000126662869.md)
 <img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**CD Projekt Red** · Montreal, ca · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
-_Design and maintain hybrid game-AI systems that integrate machine learning frameworks with game engines, serving as the technical bridge between ML researchers and game developers. You'll architect production systems at scale for a major game studio, with exposure to cutting-edge ML and game technology integration challenges._
+_Design and maintain hybrid game-ML systems that integrate machine learning into game engines, serving as the primary technical contact between ML research and game development teams. Shape ML infrastructure standards across the organization while staying current with advances in both ML and game technology._
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engines](https://img.shields.io/badge/Game_Engines-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-3B82F6?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Game Engine Architecture](https://img.shields.io/badge/Game_Engine_Architecture-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square)
 
-<sub>May 15, 2026 at 09:19 UTC</sub>
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Technical Services Engineer](jobs/mongodb/technical-services-engineer-7919311.md)
+<img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**MongoDB** · Kuala Lumpur · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid`
+
+_Support MongoDB's enterprise customers by diagnosing and resolving complex database performance, architecture, and infrastructure issues at scale. Develop internal support tools for diagnostics and benchmarking while mentoring team members on MongoDB's ecosystem spanning database server, drivers, Atlas, and Cloud Manager._
+
+![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Technical Services Engineer](jobs/mongodb/technical-services-engineer-7919314.md)
+<img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**MongoDB** · Kuala Lumpur · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid`
+
+_Solve complex MongoDB deployment and performance issues for enterprise customers, advising on architecture, recovery, security, and database operations at scale. Develop diagnostic tools and support software while mentoring team members and advocating for customer needs to product teams._
+
+![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Lead DevOps Engineer](jobs/observe-ai/lead-devops-engineer-5210080008.md)
+<img src="https://www.google.com/s2/favicons?domain=observe.ai&sz=32" width="16" height="16" align="absmiddle">&ensp;**Observe.AI** · Bengaluru · `Senior`
+
+_Lead infrastructure and MLOps systems for an AI agent platform handling real-world customer interactions at scale. Design and optimize GPU orchestration, self-hosted services (Elasticsearch, Prometheus), and AI model deployment pipelines while mentoring DevOps and ML teams._
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Staff Fullstack Engineer](jobs/okta/staff-fullstack-engineer-7929542.md)
+<img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Okta** · Bengaluru, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff`
+
+_Build Okta's secure web experiences for end-user authentication and access, including the Sign-in Widget, SSO Dashboard, and Browser Plugin used by millions daily. Work across the full stack (React/TypeScript frontend, Java/Spring Boot backend) on high-performance identity and access management systems with real-world security stakes._
+
+![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3B82F6?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=flat-square) ![Jest](https://img.shields.io/badge/Jest-3B82F6?style=flat-square) ![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square) ![OAuth](https://img.shields.io/badge/OAuth-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Engineering Manager - Customer](jobs/rightmove/engineering-manager-customer-4754383101.md)
+<img src="https://www.google.com/s2/favicons?domain=rightmove.co.uk&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rightmove** · London, UK · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `Equity` · `Bonus`
+
+_Lead cross-functional product development teams as an engineering manager, responsible for team growth, delivery planning, technical stewardship, and hiring while partnering with product managers to solve valuable problems at scale for millions of users._
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Principal Engineer (Backend)](jobs/rightmove/principal-engineer-backend-4727602101.md)
+<img src="https://www.google.com/s2/favicons?domain=rightmove.co.uk&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rightmove** · London, UK · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal`
+
+_Lead architectural design and technical strategy across Rightmove's consumer domain (property search, listings, maps, alerts) serving millions of users. Drive cross-team system design, mentor senior engineers, and raise standards on code quality, observability, and long-term platform health at significant scale._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [AI Researcher (Multimodal Audio/Video Generation)](jobs/tavus/ai-researcher-multimodal-audio-video-generation-09972bf5-780d-4209-a758-d4ad32c012e0.md)
+<img src="https://www.google.com/s2/favicons?domain=www.tavus.io&sz=32" width="16" height="16" align="absmiddle">&ensp;**Tavus** · San Francisco · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+
+_Lead research on audio-visual avatar generation models for real-time conversational AI, designing diffusion-based systems that generate synchronized verbal and non-verbal signals. Scale generative models from research into production while mentoring a research team and publishing at top-tier venues._
+
+![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-3B82F6?style=flat-square) ![Video Generation](https://img.shields.io/badge/Video_Generation-3B82F6?style=flat-square) ![Audio Generation](https://img.shields.io/badge/Audio_Generation-3B82F6?style=flat-square) ![Multimodal Learning](https://img.shields.io/badge/Multimodal_Learning-3B82F6?style=flat-square) ![GPU Optimization](https://img.shields.io/badge/GPU_Optimization-3B82F6?style=flat-square) ![3D Graphics](https://img.shields.io/badge/3D_Graphics-3B82F6?style=flat-square) ![Gaussian Splatting](https://img.shields.io/badge/Gaussian_Splatting-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
+
+---
+
+### [Software Engineer](jobs/twilio/software-engineer-7658027.md)
+<img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Twilio** · Estonia · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior`
+
+_Design, develop, and maintain mission-critical backend services for Twilio's core messaging platform, handling some of the world's largest message volumes. Focus on building scalable, reliable, and low-latency systems with strong emphasis on distributed systems fundamentals and operational excellence._
+
+![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Agile](https://img.shields.io/badge/Agile-3B82F6?style=flat-square)
+
+<sub>May 15, 2026 at 10:58 UTC</sub>
 
 ---
 
@@ -53,15 +150,6 @@ _Lead the design and implementation of application migration tools and services 
 _Build full-stack cloud and IoT software for automated cell production machines that enable drug discovery and cell therapy manufacturing. Work on hardware-integrated systems where software directly impacts the speed of bringing new therapies to patients._
 
 ![IoT](https://img.shields.io/badge/IoT-3B82F6?style=flat-square) ![Cloud platforms](https://img.shields.io/badge/Cloud_platforms-3B82F6?style=flat-square) ![Full-stack development](https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square)
-
-<sub>May 15, 2026 at 09:19 UTC</sub>
-
----
-
-### [Engineering Manager - Customer](jobs/rightmove/engineering-manager-customer-4803753101.md)
-<img src="https://www.google.com/s2/favicons?domain=rightmove.co.uk&sz=32" width="16" height="16" align="absmiddle">&ensp;**Rightmove** · London, UK · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `Equity` · `Bonus`
-
-_Lead cross-functional product engineering teams at the UK's largest property portal, defining strategy, removing blockers, and building sustainable systems. Manage full software engineering lifecycle including hiring, delivery planning, technical stewardship, and talent development in a hybrid environment with high scale and real-world user impact._
 
 <sub>May 15, 2026 at 09:19 UTC</sub>
 
@@ -4099,6 +4187,17 @@ _Design and develop robust backend APIs for text-to-speech products including pa
 _Lead the development and maintenance of Speechify's Android app, the most-used text-to-speech application on the Play Store. Own major features end-to-end, shape the Android team's technical direction, and drive improvements to reliability and user experience for millions of users._
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-3B82F6?style=flat-square)
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Tech Lead, Android Core Product - Milwaukee, WI, USA](jobs/speechify/tech-lead-android-core-product-milwaukee-wi-usa-5975636004.md)
+<img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle">&ensp;**Speechify** · Milwaukee, WI, USA · `Senior` · `$140k-$200k` · `Bonus` · `Equity`
+
+_Own major features and lead the Android team at Speechify, building the world's most-used text-to-speech app on the Play Store. Shape product direction, mentor engineers, and drive reliability and UI/UX excellence for millions of users with learning differences._
+
+![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-3B82F6?style=flat-square) ![Kotlin Flow](https://img.shields.io/badge/Kotlin_Flow-3B82F6?style=flat-square) ![Dagger 2](https://img.shields.io/badge/Dagger_2-3B82F6?style=flat-square) ![MVVM](https://img.shields.io/badge/MVVM-3B82F6?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square) ![Room](https://img.shields.io/badge/Room-3B82F6?style=flat-square)
 
 <sub>May 15, 2026</sub>
 

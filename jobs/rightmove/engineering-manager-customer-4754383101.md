@@ -1,5 +1,5 @@
 <!--
-id: greenhouse-rightmovecareers-4803753101
+id: greenhouse-rightmovecareers-4754383101
 company: Rightmove
 title: Engineering Manager - Customer
 source: greenhouse
@@ -8,14 +8,14 @@ remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T09:19:03+00:00
-url: https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4803753101
-summary: Lead cross-functional product engineering teams at the UK's largest property portal, defining strategy, removing blockers, and building sustainable systems. Manage full software engineering lifecycle including hiring, delivery planning, technical stewardship, and talent development in a hybrid environment with high scale and real-world user impact.
+first_seen_at: 2026-05-15T10:58:44+00:00
+url: https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4754383101
+summary: Lead cross-functional product development teams as an engineering manager, responsible for team growth, delivery planning, technical stewardship, and hiring while partnering with product managers to solve valuable problems at scale for millions of users.
 skills: 
 level: manager
 comp: 
 comp_extras: equity, bonus
-render_hash: 6be77125
+render_hash: ea758069
 -->
 
 # Engineering Manager - Customer
@@ -25,11 +25,11 @@ London, UK · `Manager` · `Hybrid` · `Equity` · `Bonus`
 
 > Rightmove is the UK's largest online property portal, providing a marketplace where residential property sellers, landlords, and agents list properties for sale or rent. The platform also offers property valuation tools, mortgage calculators, and related services to help buyers and renters search for homes.
 
-_Lead cross-functional product engineering teams at the UK's largest property portal, defining strategy, removing blockers, and building sustainable systems. Manage full software engineering lifecycle including hiring, delivery planning, technical stewardship, and talent development in a hybrid environment with high scale and real-world user impact._
+_Lead cross-functional product development teams as an engineering manager, responsible for team growth, delivery planning, technical stewardship, and hiring while partnering with product managers to solve valuable problems at scale for millions of users._
 
-<sub>First seen May 15, 2026 at 09:19 UTC</sub>
+<sub>First seen May 15, 2026 at 10:58 UTC</sub>
 
-**[→ Apply](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4803753101)**
+**[→ Apply](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4754383101)**
 
 ---
 
@@ -175,4 +175,4 @@ By applying, you confirm that you are aged at least 18 or over and&nbsp;that you
 
 ---
 
-**[→ Apply](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4803753101)**
+**[→ Apply](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4754383101)**
