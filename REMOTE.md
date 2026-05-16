@@ -2,13 +2,24 @@
 
 Remote engineering roles only, scraped hourly and classified by Claude. Listings older than 14 days are removed automatically.
 
-### **75 open roles** (5 new today)
+### **76 open roles** (6 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 16, 2026
+
+### [Staff Software Engineer, App Platform](jobs/fieldguide/staff-software-engineer-app-platform-872e8499-56da-4a4c-88b9-a5e987aac456.md)
+<a href="https://fieldguide.io"><img src="https://www.google.com/s2/favicons?domain=fieldguide.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Fieldguide** · San Francisco, California / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Equity`
+
+_Design and build Fieldguide's core platform services, APIs, and shared primitives that power product surfaces and AI agents across SaaS, enterprise single-tenant, and government-cloud environments. Lead technical standards and architecture decisions across multiple teams while mentoring senior engineers. · [Apply →](https://jobs.ashbyhq.com/fieldguide/872e8499-56da-4a4c-88b9-a5e987aac456)_
+
+<img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/API_Design-3B82F6?style=flat-square" alt="API Design"> <img src="https://img.shields.io/badge/Cloud_Architecture-3B82F6?style=flat-square" alt="Cloud Architecture"> <img src="https://img.shields.io/badge/LLM_Integration-3B82F6?style=flat-square" alt="LLM Integration"> <img src="https://img.shields.io/badge/AI_Agent_Frameworks-3B82F6?style=flat-square" alt="AI Agent Frameworks">
+
+<sub>May 16, 2026 at 01:51 UTC</sub>
+
+---
 
 ### [Software Engineer - Team Action](jobs/clipboard/software-engineer-team-action-fb63318b-2900-4352-8a51-516ddb4c912f.md)
 <a href="https://www.clipboardworks.com"><img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clipboard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
