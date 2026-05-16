@@ -8,19 +8,19 @@ remote: Not specified
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T16:46:17+00:00
+first_seen_at: 
 url: https://boards.greenhouse.io/apptronik/jobs/5997000004?gh_jid=5997000004
 summary: Own the CI/CD systems, build infrastructure, and developer-facing platforms that determine how quickly the company ships robot software. Work spans on-prem and cloud deployments, with particular challenges in release engineering for embedded targets and fleet rollout at scale.
 skills: Kubernetes, Terraform, Python, Bash, AWS, GitHub Actions, Linux, GitOps
 level: senior
 comp: 
 comp_extras: 
-render_hash: bdc1b791
+render_hash: 9c9a196c
 -->
 
 # DevOps Engineer
 
-<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik** · Onsite - Austin, TX · `Senior`
+<a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apptronik** · Onsite - Austin, Texas · `Senior`
 
 > # Apptronik
 
@@ -28,94 +28,8 @@ Apptronik builds Apollo, a general-purpose humanoid robot designed for commercia
 
 _Own the CI/CD systems, build infrastructure, and developer-facing platforms that determine how quickly the company ships robot software. Work spans on-prem and cloud deployments, with particular challenges in release engineering for embedded targets and fleet rollout at scale._
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-3B82F6?style=flat-square) ![GitOps](https://img.shields.io/badge/GitOps-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Bash-3B82F6?style=flat-square" alt="Bash"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/GitOps-3B82F6?style=flat-square" alt="GitOps">
 
-<sub>First seen May 15, 2026 at 16:46 UTC</sub>
-
-**[→ Apply](https://boards.greenhouse.io/apptronik/jobs/5997000004?gh_jid=5997000004)**
-
----
-
-Apptronik is a human-centered robotics company developing AI-powered robots to support humanity in every facet of life. Our flagship humanoid robot, Apollo, is built to collaborate thoughtfully with people, starting with critical industries such as manufacturing and logistics, with future applications in healthcare, the home, and beyond.
-
-We operate at the cutting edge of embodied AI, applying our expertise across the full robotics stack to solve some of society's most important problems. You will join a team dedicated to bringing Apollo to market at scale, tackling the complex challenges like safety, commercialization, and mass production to change the world for the better.
-
-JOB SUMMARY
-
-As a Senior DevOps Engineer, your mission is to make our software engineers faster. Every minute a developer waits on a build, fights with a flaky pipeline, or hand-rolls a deployment is a minute not spent shipping robots. You will own the CI/CD systems, build infrastructure, and developer-facing platforms that determine how quickly the rest of the company can move from idea to running code. The work spans on-prem and cloud, and your impact is measured in build times, deployment frequency, and the number of problems developers no longer have to think about.&nbsp;
-
-ESSENTIAL DUTIES AND RESPONSIBILITIES or KEY ACCOUNTABILITIES
-
-Improve developer experience end-to-end — faster builds, cleaner release flows, better self-service — and drive down toil with code rather than runbooks.
-
-Own the CI/CD systems used by every software team in the company, from build triggers through artifact distribution.
-
-Responsible for driving the company’s strategy for the release, packaging, and distribution of robot software.
-
-Build and maintain the tooling, templates, and self-service workflows that let software teams ship without needing to understand the infrastructure underneath.
-
-Partner with adjacent teams (security, embedded, ML) as their needs touch shared infrastructure.
-
-Participate in on-call for shared infrastructure and help shape the team's reliability practices as we scale.
-
-SKILLS AND REQUIREMENTS
-
-Strong Linux fundamentals and confidence working at the systems level — networking, storage, processes.
-
-Production experience with Kubernetes and infrastructure-as-code (Terraform, Helm, or similar).
-
-Hands-on experience with at least one major CI system (GitHub Actions, GitLab CI, Jenkins, Buildkite, CircleCI, Bitbucket Pipelines, etc.) and an understanding of the build and cache layers underneath.
-
-Experience with at least one major cloud provider (AWS, GCP, or Azure).
-
-Fluent in Python and Bash; comfortable writing the small tools and glue code that infrastructure work demands.
-
-A GitOps mindset — version-controlled, reviewable, reproducible infrastructure changes.
-
-Strong written communication and a bias toward documenting decisions so they outlast the conversation that produced them.
-
-Preferred (Nice to Have):
-
-Experience running infrastructure on a mix of on-prem and cloud, and an understanding of when each is the right tool.
-
-Familiarity with build systems used in C++ or robotics codebases (Bazel, CMake).
-
-Background in hardware-heavy or robotics environments — release engineering for embedded targets, ARM cross-compilation, or fleet rollout patterns.
-
-Experience with the open-source observability stack (Prometheus, Grafana, OpenTelemetry, VictoriaMetrics).
-
-Experience operating self-hosted infrastructure services (container registries, artifact stores, distributed object storage).
-
-EDUCATION and/or EXPERIENCE
-
-Bachelor's degree in Computer Science, Computer Engineering, or a related technical field, or equivalent practical experience.
-
-5+ years operating production infrastructure for a software engineering organization, with meaningful ownership of CI/CD or platform work.
-
-A proven track record of accelerating software development teams by building reliable infrastructure and effective tooling.
-
-PHYSICAL REQUIREMENTS
-
-Prolonged periods of sitting at a desk and working on a computer
-
-Must be able to lift 25-45 pounds at times
-
-Vision to read printed materials and a computer screen
-
-Hearing and speech to communicate
-
-International travel likely; passport highly desired
-
-Travel up to 50% may be required
-
-&nbsp;
-
-&nbsp;
-
-*This is a direct hire.&nbsp; Please, no outside Agency solicitations.&nbsp;
-
-Apptronik provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
-
----
+<sub>First seen May 15, 2026</sub>
 
 **[→ Apply](https://boards.greenhouse.io/apptronik/jobs/5997000004?gh_jid=5997000004)**

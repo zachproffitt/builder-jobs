@@ -1,0 +1,127 @@
+<!--
+id: greenhouse-rocketlab-7728086003
+company: Rocket Lab
+title: Integration & Test Intern Fall 2026
+source: greenhouse
+location: Long Beach, CA
+remote: Not specified
+hybrid: no
+posted_at: Unknown
+first_seen: 2026-05-16
+first_seen_at: 2026-05-16T01:05:29+00:00
+url: https://job-boards.greenhouse.io/rocketlab/jobs/7728086003
+summary: Support the Space Systems Integration and Test Team in spacecraft Assembly, Integration & Test (AIT) by working with specialized test equipment and contributing to improvements that directly impact satellite programs from proposal through launch and early operations.
+skills: Python, Siemens NX, JavaScript, Radio Frequency Engineering, Electronic Components, Hardware Testing
+level: intern
+comp: $28/hour
+comp_extras: equity
+render_hash: 1f74d312
+-->
+
+# Integration & Test Intern Fall 2026
+
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Long Beach, California · `Intern` · `$28/hour` · `Equity`
+
+> Rocket Lab builds launch services, spacecraft, and satellite components for space missions.
+
+_Support the Space Systems Integration and Test Team in spacecraft Assembly, Integration & Test (AIT) by working with specialized test equipment and contributing to improvements that directly impact satellite programs from proposal through launch and early operations._
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Siemens_NX-3B82F6?style=flat-square" alt="Siemens NX"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Radio_Frequency_Engineering-3B82F6?style=flat-square" alt="Radio Frequency Engineering"> <img src="https://img.shields.io/badge/Electronic_Components-3B82F6?style=flat-square" alt="Electronic Components"> <img src="https://img.shields.io/badge/Hardware_Testing-3B82F6?style=flat-square" alt="Hardware Testing">
+
+<sub>First seen May 16, 2026 at 01:05 UTC</sub>
+
+**[→ Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7728086003)**
+
+---
+
+ABOUT ROCKET LAB
+
+Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations.&nbsp;&nbsp;
+
+Our Electron rocket&nbsp;has become the second most frequently launched U.S. rocket annually and has delivered more than 230 satellites to orbit, all while we work to develop Neutron, our upcoming medium-lift, reusable launch vehicle for larger constellation deployment. Our Space Systems business designs and builds our extensive line of satellites, payloads, and their components, including spacecraft that have been selected to support NASA missions to the Moon and Mars and components used on the James Webb Space Telescope.&nbsp;
+
+As an&nbsp;Integration and Test Intern&nbsp;based at Rocket Lab’s site in Long Beach, California, you will have the opportunity to support the&nbsp;Space Systems Integration and Test Team&nbsp;unique integration and test&nbsp;equipment and&nbsp;will contribute to improvements that will directly impact the spacecraft&nbsp;Assembly Integration &amp; Test (AIT)&nbsp;phase.&nbsp;Our Integration and Test team&nbsp;is&nbsp;involved at all aspects of the satellite program from&nbsp;initial&nbsp;proposal through to launch and early operations. The team&nbsp;is responsible&nbsp;of delivering a flight spacecraft that survives and&nbsp;operates&nbsp;to&nbsp;fulfill&nbsp;mission requirements through to end-of-life.&nbsp;
+
+WHAT YOU’LL GET TO DO&nbsp;
+
+As an intern, you will work closely with your mentor and other employees within the department to apply your knowledge and grow your skills both technically and professionally&nbsp;
+
+Work with a fast-paced group of professionals to apply engineering and industry concepts to solve&nbsp;real challenges&nbsp;
+
+Attend frequent 1:1’s with mentors and supervisors to&nbsp;facilitate&nbsp;success and learning while providing progress updates&nbsp;
+
+Enjoy tech talks and network with other interns and employees through social and professional events&nbsp;
+
+YOU’LL BRING THESE QUALIFICATIONS&nbsp;
+
+Ideal candidates will thrive in ambiguity and are excited to work in small, high-performing teams that are focused on continued learning and growth. Success in this position will be measured by the knowledge and experience you bring to the role, your ability to lead development projects without supervision, and your ability to successfully collaborate across teams to deliver results.&nbsp;
+
+Must be enrolled in a bachelor’s,&nbsp;master's&nbsp;or doctorate degree program in&nbsp;an&nbsp;engineering, physics or math discipline and have at least one semester of school remaining post internship&nbsp;
+
+GPA of 3.0 or above&nbsp;
+
+3+ months of applied engineering experience (internship, laboratory, and personal/team project experience is applicable)&nbsp;
+
+THESE QUALIFICATIONS WOULD BE NICE TO HAVE&nbsp;
+
+GPA of 3.5 or above&nbsp;
+
+6+ months of applied engineering experience (internship, laboratory, and personal/team project experience is applicable)&nbsp;
+
+General understanding of radio frequency and electronic components, including capacitor, inductor, and transformers&nbsp;
+
+Hands on hardware or test equipment experience&nbsp;
+
+Python experience&nbsp;&nbsp;
+
+Siemens NX experience&nbsp;&nbsp;
+
+JavaScript&nbsp;experience&nbsp;
+
+Knowledge of spacecraft design&nbsp;
+
+ADDITIONAL REQUIREMENTS&nbsp;
+
+Able to work full-time, on-site for a minimum of 12 consecutive weeks beginning&nbsp;August&nbsp;or&nbsp;September&nbsp;2026. &nbsp;
+
+COMPENSATION AND OTHER BENEFITS&nbsp;
+
+Pay Range CA: $28.00 USD Hourly&nbsp;
+
+You may be eligible for a stipend to subsidize relocation costs&nbsp;
+
+Level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+
+Base salary is just one component of our total rewards package at Rocket Lab.&nbsp; Employees may also receive company equity and access to a robust benefits package including: top tier medical HMO, PPO &amp; a 100% company-sponsored medical HSA plan option, dental and vision coverage, 3 weeks paid vacation and 5 days sick leave per year, 11 paid holidays per year, flexible spending and dependent care savings accounts, paid parental leave, disability insurance, life insurance, and access to a 401(k) retirement plan with company match. Other perks include: Discounted employee stock purchase program, subsidized EV charging stations, onsite gym, food and drinks, and other discounts.
+
+Eligibility for benefits may vary based on employment status, please check with your recruiter for a comprehensive list of the benefits available for this role. Benefit programs are subject to change at the company’s discretion.
+
+Base Pay Range (CA Only)$28&mdash;$28 USD&nbsp;
+
+WHAT TO EXPECT&nbsp;
+
+We’re on a mission to unlock the potential of space to improve life on Earth, but that’s not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work and out-pace. We pride ourselves on having each other’s backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way.&nbsp;&nbsp;&nbsp;
+
+Important information:
+
+FOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:
+
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR here.
+
+Rocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Applicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at g.biow@rocketlabusa.com.This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.
+
+&nbsp;
+
+FOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:
+
+For security reasons background checks will be undertaken prior to any employment offers being made to an applicant.&nbsp; These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.&nbsp;
+
+Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality.&nbsp; For more information on these Regulations, click here&nbsp;ITAR Regulations.
+
+&nbsp;
+
+---
+
+**[→ Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7728086003)**

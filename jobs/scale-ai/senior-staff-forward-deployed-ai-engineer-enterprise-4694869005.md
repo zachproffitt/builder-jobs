@@ -1,0 +1,177 @@
+<!--
+id: greenhouse-scaleai-4694869005
+company: Scale AI
+title: Senior Staff Forward Deployed AI Engineer, Enterprise 
+source: greenhouse
+location: San Francisco, CA / New York, NY / Seattle, WA
+remote: Not specified
+hybrid: no
+posted_at: Unknown
+first_seen: 2026-05-16
+first_seen_at: 2026-05-16T01:05:29+00:00
+url: https://job-boards.greenhouse.io/scaleai/jobs/4694869005
+summary: Design and deploy production AI agents and custom integrations for enterprise customers, building multi-agent systems, RAG pipelines, and data connectors that integrate Scale AI's platform into customer infrastructure. You'll work across the full stack from data pipelines to model optimization in high-stakes verticals including finance, healthcare, and government.
+skills: Python, LangChain, LlamaIndex, AWS, GCP, Docker, Kubernetes, Terraform
+level: staff
+comp: $288,000—$360,000
+comp_extras: equity
+render_hash: f3113f31
+-->
+
+# Senior Staff Forward Deployed AI Engineer, Enterprise 
+
+<a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scale AI** · San Francisco, California / New York, New York / Seattle, Washington · `Staff` · `$288,000—$360,000` · `Equity`
+
+> Scale AI provides data, evaluations, and outcomes to AI labs, governments, and Fortune 500 companies.
+
+_Design and deploy production AI agents and custom integrations for enterprise customers, building multi-agent systems, RAG pipelines, and data connectors that integrate Scale AI's platform into customer infrastructure. You'll work across the full stack from data pipelines to model optimization in high-stakes verticals including finance, healthcare, and government._
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
+
+<sub>First seen May 16, 2026 at 01:05 UTC</sub>
+
+**[→ Apply](https://job-boards.greenhouse.io/scaleai/jobs/4694869005)**
+
+---
+
+About Scale AI
+
+Scale AI is the data foundation for AI, helping organizations build and deploy reliable production AI applications. We partner with leading enterprises and government organizations to accelerate their AI initiatives through our data annotation platform, generative AI solutions, and enterprise AI capabilities.
+
+Role Overview
+
+As a Senior Staff Forward Deployed AI Engineer on our Enterprise team, you'll be the technical bridge between Scale AI's cutting-edge AI capabilities and our most strategic customers. You'll work with enterprise clients to understand their unique challenges, architect custom AI solutions, and ensure successful deployment and adoption of AI systems in production environments.
+
+This is a hands-on technical role that combines deep engineering expertise with customer-facing problem solving. You'll work directly with customer engineering teams to integrate AI into their critical workflows.
+
+Key Responsibilities
+
+Customer Integration &amp; Deployment
+
+Partner directly with enterprise customers to understand their technical infrastructure, data pipelines, and business requirements
+
+Design and implement custom integrations between Scale AI's platform and customer data environments (cloud platforms, data warehouses, internal APIs)
+
+Build robust data connectors and ETL pipelines to ingest, process, and prepare customer data for AI workflows
+
+Deploy and configure AI models and agents within customer security and compliance boundaries
+
+AI Agent Development
+
+Develop production-grade AI agents tailored to customer use cases across domains like customer support, data analysis, content generation, and workflow automation
+
+Architect multi-agent systems that orchestrate between different models, tools, and data sources
+
+Implement evaluation frameworks to measure agent performance and iterate toward business objectives
+
+Design human-in-the-loop workflows and feedback mechanisms for continuous agent improvement
+
+Prompt Engineering &amp; Optimization
+
+Create sophisticated prompt engineering strategies optimized for customer-specific domains and data
+
+Build and maintain prompt libraries, templates, and best practices for customer use cases
+
+Conduct systematic prompt experimentation and A/B testing to improve model outputs
+
+Implement RAG (Retrieval Augmented Generation) systems and fine-tuning pipelines where appropriate
+
+Technical Leadership &amp; Collaboration
+
+Serve as the primary technical point of contact for strategic enterprise accounts
+
+Collaborate with customer data scientists, ML engineers, and software developers to ensure smooth integration
+
+Provide technical training and knowledge transfer to customer teams
+
+Work closely with Scale's product and engineering teams to translate customer needs into product improvements
+
+Document technical architectures, integration patterns, and best practices
+
+Problem Solving &amp; Innovation
+
+Debug complex technical issues across the entire stack, from data pipelines to model outputs
+
+Rapidly prototype solutions to unblock customers and prove out new use cases
+
+Stay current on the latest AI/ML research and tools, bringing innovative approaches to customer problems
+
+Identify opportunities for productization based on common customer patterns
+
+Required Qualifications
+
+12+ years of software engineering experience with strong fundamentals in data structures, algorithms, and system design
+
+Production Python expertise with experience in modern ML/AI frameworks (e.g., LangChain, LlamaIndex, HuggingFace, OpenAI API)
+
+Experience with cloud platforms (AWS, GCP, or Azure) and modern data infrastructure
+
+Strong problem-solving skills with the ability to navigate ambiguous requirements and rapidly iterate toward solutions
+
+Excellent communication skills with the ability to explain complex technical concepts to both technical and non-technical audiences
+
+Preferred Qualifications
+
+Agent Development Wiz
+
+Deep understanding of LLMs including prompting techniques, embeddings, and RAG architectures
+
+Experience building and deploying AI agents or autonomous systems in production
+
+Knowledge of vector databases and semantic search systems
+
+Contributions to open-source AI/ML projects
+
+Infrastructure Guru
+
+Experience with containerization (Docker, Kubernetes) and CI/CD pipelines
+
+Experience using Terraform, Bicep, or other Infrastructure as Code (IaC) tools
+
+Previous work in a devops, platform, or infra role
+
+Familiarity with enterprise security, compliance, and governance requirements (SOC 2, GDPR, HIPAA)
+
+Customer Product Whisperer
+
+Proven ability to work with customers in a technical consulting, solutions engineering, or product engineering role
+
+Domain expertise in verticals like finance, healthcare, government, or manufacturing
+
+Experience with technical enablement or teaching programs
+
+Sample Projects
+
+The following are some examples of the types of projects we’ve worked on with customers. All of these projects leverage customer data, integrate directly into customers’ existing systems, and are deployed on their infrastructure.
+
+Deep Research for Due Diligence
+
+For a global professional services firm, we developed a sophisticated deep research agent to assist in due diligence. This agent employs a multi-agent architecture for robust fact-checking, integrates several internal MCP tools, and processes complex, unstructured data sources. This solution reliably saves employees hundreds of hours weekly.
+
+Churn Prediction
+
+Working with a TelCo organization, we built a model utilizing customer data to predict churn likelihood. The system then curates personalized offers based on this prediction. This model was integrated into a "next best action" copilot, enabling call center agents to proactively surface relevant offers to customers, leading to a significant reduction in churn.
+
+Data Extraction Voice Agent
+
+We partnered with a healthcare organization to create a lifelike voice agent and avatar designed to gather unstructured health information from patients. Engineered for low latency, the agent adeptly manages conversational flow, adheres to safety guardrails, and efficiently handles data extraction. This automation saves the organization's nurses hundreds of hours each week.
+
+Compensation packages at Scale for eligible roles include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position and may be inclusive of several career levels at Scale; it will be determined during the interview process based on work location and additional factors, including job-related skills, experience, qualifications, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You'll also receive benefits including, but not limited to: comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+
+Please reference the job posting's subtitle for where this position will be located. For pay transparency purposes, the base salary range for this full-time position in the locations of San Francisco, New York, Seattle is:$288,000&mdash;$360,000 USDPLEASE NOTE:&nbsp;Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.
+
+About Us:
+
+At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Cisco, DLA Piper, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.
+
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.&nbsp;
+
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's Know Your Rights poster for additional information.
+
+We comply with the United States Department of Labor's Pay Transparency provision.&nbsp;
+
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our privacy policy for additional information.
+
+---
+
+**[→ Apply](https://job-boards.greenhouse.io/scaleai/jobs/4694869005)**
