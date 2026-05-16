@@ -2,7 +2,7 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **242 open roles** (15 new today) &nbsp;·&nbsp; 997 companies searched
+### **240 open roles** (15 new today) &nbsp;·&nbsp; 997 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
@@ -1633,28 +1633,6 @@ _Build and extend a server-side rendering application that streams GB-scale 3D m
 
 ---
 
-### [Senior Software Engineer - OpenTelemetry | Canada | Remote](jobs/grafana-labs/senior-software-engineer-opentelemetry-canada-remote-5995398004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 205k` · `Equity` · `Bonus`
-
-_Contribute to OpenTelemetry projects and Grafana Labs' observability infrastructure, working across upstream open source communities and customer needs. Lead technical strategy around instrumentation, telemetry pipelines, and distributed tracing systems at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5995398004)_
-
-<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-3B82F6?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Software Engineer - OpenTelemetry | US | Remote](jobs/grafana-labs/senior-software-engineer-opentelemetry-us-remote-5995397004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$154k-$193k` · `Equity` · `Bonus`
-
-_Contribute to OpenTelemetry components and related observability infrastructure across the open source ecosystem, while defining and executing Grafana Labs' technical strategy for OpenTelemetry adoption. Work with upstream maintainers and customers to build production-quality telemetry pipelines and instrumentation tooling. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5995397004)_
-
-<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square" alt="Cloud Infrastructure">
-
-<sub>May 14, 2026</sub>
-
----
-
 ### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana-labs/software-engineer-platform-productivity-canada-remote-5807986004.md)
 <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
 
@@ -2013,11 +1991,11 @@ _Design and develop build, release, and continuous integration automation tools 
 ---
 
 ### [Software Engineer (C#/.NET)](jobs/rockstar-games/software-engineer-csharp-dotnet.md)
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Carlsbad, California / Manhattan, New York · `Senior` · `$101k–$134k` · `Bonus` · `Equity`
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, New York / Carlsbad, California · `Mid` · `$101k-$134k` · `Bonus` · `Equity`
 
-_Build high-volume, highly scalable server-side online services for Rockstar Games franchises, including matchmaking, cloud saves, leaderboards, and player inventory systems. Work with distributed systems at scale serving millions of concurrent players across console and PC platforms._
+_Develop high-volume, highly scalable server-side online services for game franchises including matchmaking, cloud saves, leaderboards, and player inventory systems. Build distributed systems serving millions of concurrent players across console and external clients with expertise in Windows Server, SQL Server, and .NET infrastructure._
 
-<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET"> <img src="https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square" alt="SQL Server"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/API_design-3B82F6?style=flat-square" alt="API design"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Windows_Server-3B82F6?style=flat-square" alt="Windows Server"> <img src="https://img.shields.io/badge/Perforce-3B82F6?style=flat-square" alt="Perforce">
+<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET"> <img src="https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square" alt="SQL Server"> <img src="https://img.shields.io/badge/API_Design-3B82F6?style=flat-square" alt="API Design"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Perforce-3B82F6?style=flat-square" alt="Perforce"> <img src="https://img.shields.io/badge/Xbox_Live-3B82F6?style=flat-square" alt="Xbox Live">
 
 <sub>May 14, 2026</sub>
 

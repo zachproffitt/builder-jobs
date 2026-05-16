@@ -2,7 +2,7 @@
 
 Remote engineering roles only, scraped hourly and classified by Claude. Listings older than 14 days are removed automatically.
 
-### **76 open roles** (6 new today)
+### **74 open roles** (6 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -508,28 +508,6 @@ _Lead and manage a software engineering team, owning process, delivery, and tech
 _Build and maintain petabyte-scale storage infrastructure supporting frontier AI model training and evaluation workloads. Work on distributed data pipelines that transform unstructured data across S3, GCS, and POSIX backends at the cutting edge of what's technically possible. · [Apply →](https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square" alt="Apache Spark"> <img src="https://img.shields.io/badge/Apache_Beam-3B82F6?style=flat-square" alt="Apache Beam"> <img src="https://img.shields.io/badge/S3-3B82F6?style=flat-square" alt="S3"> <img src="https://img.shields.io/badge/GCS-3B82F6?style=flat-square" alt="GCS"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/BigQuery-3B82F6?style=flat-square" alt="BigQuery">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Software Engineer - OpenTelemetry | Canada | Remote](jobs/grafana-labs/senior-software-engineer-opentelemetry-canada-remote-5995398004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `CAD 164k - CAD 205k` · `Equity` · `Bonus`
-
-_Contribute to OpenTelemetry projects and Grafana Labs' observability infrastructure, working across upstream open source communities and customer needs. Lead technical strategy around instrumentation, telemetry pipelines, and distributed tracing systems at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5995398004)_
-
-<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-3B82F6?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Senior Software Engineer - OpenTelemetry | US | Remote](jobs/grafana-labs/senior-software-engineer-opentelemetry-us-remote-5995397004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$154k-$193k` · `Equity` · `Bonus`
-
-_Contribute to OpenTelemetry components and related observability infrastructure across the open source ecosystem, while defining and executing Grafana Labs' technical strategy for OpenTelemetry adoption. Work with upstream maintainers and customers to build production-quality telemetry pipelines and instrumentation tooling. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5995397004)_
-
-<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square" alt="Cloud Infrastructure">
 
 <sub>May 14, 2026</sub>
 
