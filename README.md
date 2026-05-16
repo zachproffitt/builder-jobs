@@ -529,8 +529,8 @@ _Design and build infrastructure that schedules, orchestrates, and observes larg
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -540,8 +540,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
