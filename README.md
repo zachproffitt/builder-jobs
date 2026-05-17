@@ -2,13 +2,24 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **244 open roles** (2 new today) &nbsp;·&nbsp; 1019 companies searched
+### **245 open roles** (3 new today) &nbsp;·&nbsp; 1019 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
 <br>
 
 ## May 17, 2026
+
+### [Senior Principal Software Engineer, AI Team Agent](jobs/toast/senior-principal-software-engineer-ai-team-agent-7936022.md)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal`
+
+_Design and implement AI agent architecture for Toast's Team management platform, a mission-critical workforce management system serving restaurants. Drive specification-driven development practices and agentic patterns across the fintech line of business while mentoring senior technical leadership. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7936022)_
+
+<img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/SaaS_Architecture-3B82F6?style=flat-square" alt="SaaS Architecture"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/LLM%2FAI_Agents-3B82F6?style=flat-square" alt="LLM/AI Agents"> <img src="https://img.shields.io/badge/Apache_Pulsar-3B82F6?style=flat-square" alt="Apache Pulsar"> <img src="https://img.shields.io/badge/Apache_Camel-3B82F6?style=flat-square" alt="Apache Camel"> <img src="https://img.shields.io/badge/Event--Driven_Architecture-3B82F6?style=flat-square" alt="Event-Driven Architecture">
+
+<sub>May 17, 2026 at 10:38 UTC</sub>
+
+---
 
 ### [Air-Vehicle Multidisciplinary Design Analysis and Optimization (MDAO) Engineer](jobs/anduril-industries/air-vehicle-multidisciplinary-design-analysis-and-optimization-mdao-engineer-5132442007.md)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
