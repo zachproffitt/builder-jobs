@@ -2,7 +2,7 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **247 open roles** (5 new today) &nbsp;·&nbsp; 1019 companies searched
+### **248 open roles** (6 new today) &nbsp;·&nbsp; 1019 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
@@ -10,14 +10,14 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 ## May 17, 2026
 
-### [Frontend Engineer - Analytics](jobs/tenable/frontend-engineer-analytics-5101853008.md)
-<a href="https://tenable.com"><img src="https://www.google.com/s2/favicons?domain=tenable.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenable** · Israel - Office - Tel Aviv · `Mid`
+### [Software Engineer (SDE 2) - Full Stack, Lakeflow](jobs/databricks/software-engineer-sde-2-full-stack-lakeflow-8530796002.md)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote · `Mid`
 
-_Build and maintain scalable frontend infrastructure for a cybersecurity SaaS platform, owning features from design through deployment while collaborating with product, design, and backend teams. · [Apply →](https://job-boards.greenhouse.io/tenableinc/jobs/5101853008)_
+_Build UI features and reusable components for Lakeflow Connect, Databricks' point-and-click data ingestion platform, enabling customers to configure and monitor connectors across enterprise applications, databases, and cloud storage. Work across the full stack from API integration to polished frontend delivery, collaborating with product, design, and backend teams to embed Connect experiences into Dashboards, Notebooks, SQL, and AI surfaces. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002)_
 
-<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Angular-3B82F6?style=flat-square" alt="Angular"> <img src="https://img.shields.io/badge/Unit_Testing-3B82F6?style=flat-square" alt="Unit Testing">
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-3B82F6?style=flat-square" alt="HTML"> <img src="https://img.shields.io/badge/CSS-3B82F6?style=flat-square" alt="CSS"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS">
 
-<sub>May 17, 2026 at 11:34 UTC</sub>
+<sub>May 17, 2026 at 15:32 UTC</sub>
 
 ---
 
@@ -60,6 +60,17 @@ _Build multidisciplinary design analysis and optimization workflows for next-gen
 _Build and optimize distributed agent orchestration infrastructure capable of parallelizing hundreds of thousands of agents processing millions of tokens per minute. Solve novel challenges in race condition handling, real-time message transmission, and resource optimization at massive scale. · [Apply →](https://jobs.ashbyhq.com/paradigmai/d8c669df-e688-4e29-8a85-2967ebad8e4c)_
 
 <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/S3-3B82F6?style=flat-square" alt="S3"> <img src="https://img.shields.io/badge/Temporal-3B82F6?style=flat-square" alt="Temporal"> <img src="https://img.shields.io/badge/RPC-3B82F6?style=flat-square" alt="RPC"> <img src="https://img.shields.io/badge/PubSub-3B82F6?style=flat-square" alt="PubSub"> <img src="https://img.shields.io/badge/gRPC-3B82F6?style=flat-square" alt="gRPC">
+
+<sub>May 17, 2026</sub>
+
+---
+
+### [Frontend Engineer - Analytics](jobs/tenable/frontend-engineer-analytics-5101853008.md)
+<a href="https://tenable.com"><img src="https://www.google.com/s2/favicons?domain=tenable.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenable** · Israel - Office - Tel Aviv · `Mid`
+
+_Build and maintain scalable frontend infrastructure for a cybersecurity SaaS platform, owning features from design through deployment while collaborating with product, design, and backend teams. · [Apply →](https://job-boards.greenhouse.io/tenableinc/jobs/5101853008)_
+
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Angular-3B82F6?style=flat-square" alt="Angular"> <img src="https://img.shields.io/badge/Unit_Testing-3B82F6?style=flat-square" alt="Unit Testing">
 
 <sub>May 17, 2026</sub>
 
@@ -610,8 +621,8 @@ _Design and build infrastructure that schedules, orchestrates, and observes larg
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -621,8 +632,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
