@@ -1,12 +1,12 @@
 <!--
 id: ashby-eightsleep-b1c37913-179d-4927-8745-f6ef88a02e82
-company: Eight Sleep
+company: EightSleep
 title: Senior Software Engineer - Mobile (iOS)
 source: ashby
 location: San Francisco
 remote: Not specified
 hybrid: no
-posted_at: 2026-05-15
+posted_at: 2026-05-17
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82
@@ -20,7 +20,7 @@ render_hash: e8003199
 
 # Senior Software Engineer - Mobile (iOS)
 
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
 
 > Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 
@@ -28,7 +28,7 @@ _Build the iOS mobile app that lets Eight Sleep users control their smart sleep 
 
 <img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square" alt="SwiftUI"> <img src="https://img.shields.io/badge/Combine-3B82F6?style=flat-square" alt="Combine"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS"> <img src="https://img.shields.io/badge/App_Extensions-3B82F6?style=flat-square" alt="App Extensions"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
 
-<sub>Posted May 15, 2026</sub>
+<sub>Posted May 17, 2026</sub>
 
 **[→ Apply](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)**
 
