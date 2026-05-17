@@ -2,9 +2,35 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **242 open roles** (17 new today) &nbsp;·&nbsp; 997 companies searched
+### **244 open roles** (2 new today) &nbsp;·&nbsp; 997 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
+
+<br>
+
+## May 17, 2026
+
+### [Air-Vehicle Multidisciplinary Design Analysis and Optimization (MDAO) Engineer](jobs/anduril-industries/air-vehicle-multidisciplinary-design-analysis-and-optimization-mdao-engineer-5132442007.md)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
+
+_Build multidisciplinary design analysis and optimization workflows for next-generation combat aircraft and missiles, integrating disciplinary models across conceptual to detailed engineering phases. You'll bridge computational engineering, hardware, and software development in a defense environment requiring DoD Secret clearance and Special Access Program eligibility. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5132442007?gh_jid=5132442007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/C-3B82F6?style=flat-square" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/FORTRAN-3B82F6?style=flat-square" alt="FORTRAN"> <img src="https://img.shields.io/badge/DoD_Secret_Clearance-3B82F6?style=flat-square" alt="DoD Secret Clearance"> <img src="https://img.shields.io/badge/Special_Access_Program_Eligibility-3B82F6?style=flat-square" alt="Special Access Program Eligibility">
+
+<sub>May 17, 2026 at 01:14 UTC</sub>
+
+---
+
+### [Senior Software Engineer](jobs/paradigm/senior-software-engineer-d8c669df-e688-4e29-8a85-2967ebad8e4c.md)
+<a href="https://www.paradigmai.com"><img src="https://www.google.com/s2/favicons?domain=www.paradigmai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Paradigm** · San Francisco · `Senior`
+
+_Design and deploy distributed services and systems at scale, with a focus on backend infrastructure and production reliability. Work as a primary individual contributor on medium to large projects, helping peers debug complex systems and drive technical decisions. · [Apply →](https://jobs.ashbyhq.com/paradigmai/d8c669df-e688-4e29-8a85-2967ebad8e4c)_
+
+<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/S3-3B82F6?style=flat-square" alt="S3"> <img src="https://img.shields.io/badge/Temporal-3B82F6?style=flat-square" alt="Temporal"> <img src="https://img.shields.io/badge/RPC-3B82F6?style=flat-square" alt="RPC"> <img src="https://img.shields.io/badge/Pub%2FSub-3B82F6?style=flat-square" alt="Pub/Sub">
+
+<sub>May 17, 2026 at 01:14 UTC</sub>
+
+---
 
 <br>
 
@@ -16,17 +42,6 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 _Build AI-powered product quality infrastructure and tooling that captures, triages, and routes customer feedback at scale — including intelligent bug intake pipelines, real-time dashboards, and integrations across ticketing, payment, and data systems. Work on a first-of-its-kind Voice of the Customer program that closes the loop between what users experience and what gets shipped. · [Apply →](https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/ETL-3B82F6?style=flat-square" alt="ETL"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/API_Integration-3B82F6?style=flat-square" alt="API Integration"> <img src="https://img.shields.io/badge/Dashboards-3B82F6?style=flat-square" alt="Dashboards"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript">
-
-<sub>May 16, 2026 at 16:28 UTC</sub>
-
----
-
-### [Engineering Manager - Creator Business](jobs/roblox/engineering-manager-creator-business-7931896.md)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$295k-$345k` · `Equity`
-
-_Lead a team of backend and full-stack engineers building monetization analytics, revenue reporting, payouts, and tax systems for Roblox's creator economy platform. Scale and maintain penny-perfect financial systems handling tens of millions of creators with zero-defect requirements. · [Apply →](https://careers.roblox.com/jobs/7931896?gh_jid=7931896)_
-
-<img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square" alt="Backend APIs"> <img src="https://img.shields.io/badge/Full--Stack_Development-3B82F6?style=flat-square" alt="Full-Stack Development"> <img src="https://img.shields.io/badge/Monetization_Systems-3B82F6?style=flat-square" alt="Monetization Systems"> <img src="https://img.shields.io/badge/Financial_Systems-3B82F6?style=flat-square" alt="Financial Systems"> <img src="https://img.shields.io/badge/Scalability-3B82F6?style=flat-square" alt="Scalability"> <img src="https://img.shields.io/badge/High_Availability-3B82F6?style=flat-square" alt="High Availability">
 
 <sub>May 16, 2026 at 16:28 UTC</sub>
 
@@ -51,17 +66,6 @@ _Design and build Fieldguide's core platform services, APIs, and shared primitiv
 <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/API_Design-3B82F6?style=flat-square" alt="API Design"> <img src="https://img.shields.io/badge/Cloud_Architecture-3B82F6?style=flat-square" alt="Cloud Architecture"> <img src="https://img.shields.io/badge/LLM_Integration-3B82F6?style=flat-square" alt="LLM Integration"> <img src="https://img.shields.io/badge/AI_Agent_Frameworks-3B82F6?style=flat-square" alt="AI Agent Frameworks">
 
 <sub>May 16, 2026 at 01:51 UTC</sub>
-
----
-
-### [Senior FPGA Verification Engineer](jobs/anduril-industries/senior-fpga-verification-engineer-5139480007.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$146k—$194k` · `Equity`
-
-_Lead FPGA/SoC verification strategy and UVM methodology for flight-critical avionics on AMD Xilinx platforms, mentoring the verification team and owning coverage-driven closure across production programs. This role requires DO-254 compliance expertise and a security clearance for defense aerospace work. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5139480007?gh_jid=5139480007)_
-
-<img src="https://img.shields.io/badge/SystemVerilog-3B82F6?style=flat-square" alt="SystemVerilog"> <img src="https://img.shields.io/badge/UVM-3B82F6?style=flat-square" alt="UVM"> <img src="https://img.shields.io/badge/SVA_%28SystemVerilog_Assertions%29-3B82F6?style=flat-square" alt="SVA (SystemVerilog Assertions)"> <img src="https://img.shields.io/badge/Questa-3B82F6?style=flat-square" alt="Questa"> <img src="https://img.shields.io/badge/VCS-3B82F6?style=flat-square" alt="VCS"> <img src="https://img.shields.io/badge/Xcelium-3B82F6?style=flat-square" alt="Xcelium"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/DO--254-3B82F6?style=flat-square" alt="DO-254">
-
-<sub>May 16, 2026 at 01:05 UTC</sub>
 
 ---
 
@@ -120,6 +124,17 @@ _Lead deployment and operations of OpenAI's custom silicon and systems in produc
 
 ---
 
+### [Senior FPGA Verification Engineer](jobs/anduril-industries/senior-fpga-verification-engineer-5139480007.md)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$146k—$194k` · `Equity`
+
+_Lead FPGA/SoC verification strategy and UVM methodology for flight-critical avionics on AMD Xilinx platforms, mentoring the verification team and owning coverage-driven closure across production programs. This role requires DO-254 compliance expertise and a security clearance for defense aerospace work. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5139480007?gh_jid=5139480007)_
+
+<img src="https://img.shields.io/badge/SystemVerilog-3B82F6?style=flat-square" alt="SystemVerilog"> <img src="https://img.shields.io/badge/UVM-3B82F6?style=flat-square" alt="UVM"> <img src="https://img.shields.io/badge/SVA_%28SystemVerilog_Assertions%29-3B82F6?style=flat-square" alt="SVA (SystemVerilog Assertions)"> <img src="https://img.shields.io/badge/Questa-3B82F6?style=flat-square" alt="Questa"> <img src="https://img.shields.io/badge/VCS-3B82F6?style=flat-square" alt="VCS"> <img src="https://img.shields.io/badge/Xcelium-3B82F6?style=flat-square" alt="Xcelium"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/DO--254-3B82F6?style=flat-square" alt="DO-254">
+
+<sub>May 16, 2026</sub>
+
+---
+
 ### [Senior Software Engineer, AI/ML Tools - Unpublished R&D Product](jobs/riot-games/senior-software-engineer-ai-ml-tools-unpublished-r-d-product-7733820.md)
 <a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, USA; Mercer Island, USA · `Senior`
 
@@ -127,7 +142,18 @@ _Design and implement AI/ML-driven developer tools for an unpublished game, part
 
 <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square" alt="TensorFlow"> <img src="https://img.shields.io/badge/Unity-3B82F6?style=flat-square" alt="Unity"> <img src="https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square" alt="Unreal Engine"> <img src="https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square" alt="Reinforcement Learning"> <img src="https://img.shields.io/badge/LLM-3B82F6?style=flat-square" alt="LLM"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python">
 
-<sub>May 16, 2026 at 01:05 UTC</sub>
+<sub>May 16, 2026</sub>
+
+---
+
+### [Engineering Manager - Creator Business](jobs/roblox/engineering-manager-creator-business-7931896.md)
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$295k-$345k` · `Equity`
+
+_Lead a team of backend and full-stack engineers building monetization analytics, revenue reporting, payouts, and tax systems for Roblox's creator economy platform. Scale and maintain penny-perfect financial systems handling tens of millions of creators with zero-defect requirements. · [Apply →](https://careers.roblox.com/jobs/7931896?gh_jid=7931896)_
+
+<img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square" alt="Backend APIs"> <img src="https://img.shields.io/badge/Full--Stack_Development-3B82F6?style=flat-square" alt="Full-Stack Development"> <img src="https://img.shields.io/badge/Monetization_Systems-3B82F6?style=flat-square" alt="Monetization Systems"> <img src="https://img.shields.io/badge/Financial_Systems-3B82F6?style=flat-square" alt="Financial Systems"> <img src="https://img.shields.io/badge/Scalability-3B82F6?style=flat-square" alt="Scalability"> <img src="https://img.shields.io/badge/High_Availability-3B82F6?style=flat-square" alt="High Availability">
+
+<sub>May 16, 2026</sub>
 
 ---
 
@@ -138,7 +164,7 @@ _Support the Space Systems Integration and Test Team in spacecraft Assembly, Int
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Siemens_NX-3B82F6?style=flat-square" alt="Siemens NX"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Radio_Frequency_Engineering-3B82F6?style=flat-square" alt="Radio Frequency Engineering"> <img src="https://img.shields.io/badge/Electronic_Components-3B82F6?style=flat-square" alt="Electronic Components"> <img src="https://img.shields.io/badge/Hardware_Testing-3B82F6?style=flat-square" alt="Hardware Testing">
 
-<sub>May 16, 2026 at 01:05 UTC</sub>
+<sub>May 16, 2026</sub>
 
 ---
 
@@ -149,7 +175,7 @@ _Build production AI agents and custom integrations tailored to enterprise custo
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
 
-<sub>May 16, 2026 at 01:05 UTC</sub>
+<sub>May 16, 2026</sub>
 
 ---
 
@@ -160,7 +186,7 @@ _Build and deploy production AI agents and multi-agent systems for enterprise cu
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
 
-<sub>May 16, 2026 at 01:05 UTC</sub>
+<sub>May 16, 2026</sub>
 
 ---
 
@@ -171,7 +197,7 @@ _Design and deploy production AI agents and custom integrations for enterprise c
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
 
-<sub>May 16, 2026 at 01:05 UTC</sub>
+<sub>May 16, 2026</sub>
 
 ---
 
@@ -182,7 +208,7 @@ _Build and deploy production AI agents and integrations for enterprise customers
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
 
-<sub>May 16, 2026 at 01:05 UTC</sub>
+<sub>May 16, 2026</sub>
 
 ---
 
@@ -193,7 +219,7 @@ _Build Android components and user interfaces for Waymo's autonomous vehicle in-
 
 <img src="https://img.shields.io/badge/Android-3B82F6?style=flat-square" alt="Android"> <img src="https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Jetpack_Compose-3B82F6?style=flat-square" alt="Jetpack Compose"> <img src="https://img.shields.io/badge/AOSP-3B82F6?style=flat-square" alt="AOSP"> <img src="https://img.shields.io/badge/Infotainment_Systems-3B82F6?style=flat-square" alt="Infotainment Systems"> <img src="https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square" alt="Performance Optimization">
 
-<sub>May 16, 2026 at 01:05 UTC</sub>
+<sub>May 16, 2026</sub>
 
 ---
 
@@ -2270,11 +2296,11 @@ _Design and build real-time, map-based interfaces and backend systems for autono
 ---
 
 ### [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions.md)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, Washington / Costa Mesa, California · `Staff` · `$220k—$292k USD` · `Equity`
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California / Seattle, Washington · `Staff` · `$220k–$292k` · `Equity`
 
-_Architect and implement distributed systems for manufacturing execution—work order management, scheduling, material flow, and capacity planning—that transform Anduril's factories into adaptive, software-defined production networks. You'll bridge manufacturing operations and platform infrastructure at scale, ensuring production requirements shape broader technical decisions in a defense technology environment with export-controlled systems._
+_Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems._
 
-<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Manufacturing_Execution_Systems-3B82F6?style=flat-square" alt="Manufacturing Execution Systems"> <img src="https://img.shields.io/badge/Distributed_Systems_Architecture-3B82F6?style=flat-square" alt="Distributed Systems Architecture"> <img src="https://img.shields.io/badge/Remix-3B82F6?style=flat-square" alt="Remix"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance"> <img src="https://img.shields.io/badge/Enterprise_Resource_Planning-3B82F6?style=flat-square" alt="Enterprise Resource Planning">
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Remix-3B82F6?style=flat-square" alt="Remix"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Manufacturing_Execution_Systems_%28MES%29-3B82F6?style=flat-square" alt="Manufacturing Execution Systems (MES)"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/U.S._Person_Status_%2F_TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="U.S. Person Status / TS/SCI Clearance">
 
 <sub>May 13, 2026</sub>
 
