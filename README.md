@@ -2,13 +2,24 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **248 open roles** (6 new today) &nbsp;·&nbsp; 1019 companies searched
+### **249 open roles** (7 new today) &nbsp;·&nbsp; 1019 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
 <br>
 
 ## May 17, 2026
+
+### [Founding Software Engineer](jobs/hypercubic/founding-software-engineer-a30428ea-1c4f-4050-bf6d-3963ae221374.md)
+<a href="https://www.hypercubic.ai"><img src="https://www.google.com/s2/favicons?domain=www.hypercubic.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hypercubic** · San Francisco, California · `Senior`
+
+_Build AI-powered systems that understand and rearchitect large-scale legacy applications, focusing on program analysis and agentic systems for critical enterprise software. Work directly with the CTO on architecture, prototyping, and productionization from first principles in a founding role. · [Apply →](https://jobs.ashbyhq.com/hypercubic/a30428ea-1c4f-4050-bf6d-3963ae221374)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-3B82F6?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/Electron-3B82F6?style=flat-square" alt="Electron"> <img src="https://img.shields.io/badge/AI%2FML_Systems-3B82F6?style=flat-square" alt="AI/ML Systems"> <img src="https://img.shields.io/badge/Program_Analysis-3B82F6?style=flat-square" alt="Program Analysis"> <img src="https://img.shields.io/badge/Testing_%28TDD%29-3B82F6?style=flat-square" alt="Testing (TDD)"> <img src="https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square" alt="Cloud Infrastructure">
+
+<sub>May 17, 2026 at 19:36 UTC</sub>
+
+---
 
 ### [Software Engineer (SDE 2) - Full Stack, Lakeflow](jobs/databricks/software-engineer-sde-2-full-stack-lakeflow-8530796002.md)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote · `Mid`
