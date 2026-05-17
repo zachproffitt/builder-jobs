@@ -1,6 +1,6 @@
 <!--
 id: greenhouse-grafanalabs-5807984004
-company: Grafana Labs
+company: Grafana
 title: Software Engineer - Platform Productivity | USA | Remote  
 source: greenhouse
 location: Remote
@@ -20,7 +20,7 @@ render_hash: e58e9879
 
 # Software Engineer - Platform Productivity | USA | Remote  
 
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$127,651-$153,180` · `Equity` · `Bonus`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$127,651-$153,180` · `Equity` · `Bonus`
 
 > Grafana builds an open-source observability platform that unifies metrics, logs, traces, profiles, and business data.
 
