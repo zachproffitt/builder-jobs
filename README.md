@@ -2,13 +2,24 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **250 open roles** (8 new today) &nbsp;·&nbsp; 1019 companies searched
+### **251 open roles** (9 new today) &nbsp;·&nbsp; 1019 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
 <br>
 
 ## May 17, 2026
+
+### [Engineering Manager, Cloud Platform](jobs/baseten/engineering-manager-cloud-platform-1933097e-2f8e-46e2-8442-0c2f4a9394da.md)
+<a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `Equity`
+
+_Lead a team of cloud platform engineers building and maintaining the infrastructure systems that power Baseten's AI inference platform — from automated deployments and Kubernetes orchestration to monitoring, performance optimization, and incident response. You'll engage directly in technical decisions, code reviews, and architectural discussions while coaching engineers and translating user needs into infrastructure improvements. · [Apply →](https://jobs.ashbyhq.com/baseten/1933097e-2f8e-46e2-8442-0c2f4a9394da)_
+
+<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-3B82F6?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/GPU_Infrastructure-3B82F6?style=flat-square" alt="GPU Infrastructure"> <img src="https://img.shields.io/badge/Multi--cloud_Environments-3B82F6?style=flat-square" alt="Multi-cloud Environments">
+
+<sub>May 17, 2026 at 22:27 UTC</sub>
+
+---
 
 ### [Senior Manager, Cloud Platform & Site Reliability](jobs/baseten/senior-manager-cloud-platform-site-reliability-1c9b9d23-a1b3-426a-9a88-000be4679960.md)
 <a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `Equity`
@@ -643,8 +654,8 @@ _Design and build infrastructure that schedules, orchestrates, and observes larg
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -654,8 +665,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 

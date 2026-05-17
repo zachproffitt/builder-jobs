@@ -2,13 +2,24 @@
 
 Remote engineering roles only, scraped hourly and classified by Claude. Listings older than 14 days are removed automatically.
 
-### **76 open roles** (1 new today)
+### **77 open roles** (2 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 17, 2026
+
+### [Engineering Manager, Cloud Platform](jobs/baseten/engineering-manager-cloud-platform-1933097e-2f8e-46e2-8442-0c2f4a9394da.md)
+<a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `Equity`
+
+_Lead a team of cloud platform engineers building and maintaining the infrastructure systems that power Baseten's AI inference platform — from automated deployments and Kubernetes orchestration to monitoring, performance optimization, and incident response. You'll engage directly in technical decisions, code reviews, and architectural discussions while coaching engineers and translating user needs into infrastructure improvements. · [Apply →](https://jobs.ashbyhq.com/baseten/1933097e-2f8e-46e2-8442-0c2f4a9394da)_
+
+<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-3B82F6?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/GPU_Infrastructure-3B82F6?style=flat-square" alt="GPU Infrastructure"> <img src="https://img.shields.io/badge/Multi--cloud_Environments-3B82F6?style=flat-square" alt="Multi-cloud Environments">
+
+<sub>May 17, 2026 at 22:27 UTC</sub>
+
+---
 
 ### [Senior Manager, Cloud Platform & Site Reliability](jobs/baseten/senior-manager-cloud-platform-site-reliability-1c9b9d23-a1b3-426a-9a88-000be4679960.md)
 <a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `Equity`
