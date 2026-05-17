@@ -524,8 +524,8 @@ _Build and maintain petabyte-scale storage infrastructure supporting frontier AI
 
 ---
 
-### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana/software-engineer-platform-productivity-canada-remote-5807986004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
+### [Software Engineer - Platform Productivity | Canada | Remote](jobs/grafana-labs/software-engineer-platform-productivity-canada-remote-5807986004.md)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `CAD 129k-CAD 155k` · `Equity` · `Bonus`
 
 _Build and maintain Grafana's Internal Engineering Platform (IEP), including CI/CD systems, deployment automation, and developer productivity tooling that serves internal engineering teams. Own the full lifecycle from design through production operation, including on-call support for platform reliability. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5807986004)_
 
@@ -535,8 +535,8 @@ _Build and maintain Grafana's Internal Engineering Platform (IEP), including CI/
 
 ---
 
-### [Software Engineer - Platform Productivity | USA | Remote](jobs/grafana/software-engineer-platform-productivity-usa-remote-5807984004.md)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$127k-$153k` · `Equity` · `Bonus`
+### [Software Engineer - Platform Productivity | USA | Remote](jobs/grafana-labs/software-engineer-platform-productivity-usa-remote-5807984004.md)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$127k-$153k` · `Equity` · `Bonus`
 
 _Build and maintain the internal engineering platform's CI/CD systems, release automation, and deployment tooling that enables Grafana's application teams to ship software securely and reliably. Operate production infrastructure on-call and work across cloud, Kubernetes, and Infrastructure as Code to support diverse internal engineering teams. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5807984004)_
 
