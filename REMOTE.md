@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **101 open roles** (3 new today)
+### **100 open roles** (3 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -13,11 +13,11 @@ Remote engineering roles only — linking directly to each company's job board. 
 ### [Senior IT Engineer](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)
 <a href="https://abridge.com"><img src="https://www.google.com/s2/favicons?domain=abridge.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abridge** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` · `Bonus`
 
-_Design and implement enterprise automation workflows for user provisioning, access management, and SaaS integrations across Google Workspace, Slack, GitHub, and other core systems. Work in a HIPAA-compliant, SOC 2-audited healthcare environment where you'll build compliance automation and IAM controls at scale. · [Apply →](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)_
+_Design and build automation solutions for enterprise SaaS workflows, identity management, and compliance across Google Workspace, Slack, GitHub, and Rippling. You'll operate in a HIPAA-compliant, SOC 2-audited environment requiring strong systems integration and IAM automation fundamentals. · [Apply →](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Google_Workspace-3B82F6?style=flat-square" alt="Google Workspace"> <img src="https://img.shields.io/badge/Slack-3B82F6?style=flat-square" alt="Slack"> <img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square" alt="GitHub"> <img src="https://img.shields.io/badge/Okta-3B82F6?style=flat-square" alt="Okta"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
 
-<sub>May 18, 2026 at 19:40 UTC</sub>
+<sub>May 18, 2026 at 19:51 UTC</sub>
 
 ---
 
@@ -649,23 +649,23 @@ _Lead the design of secure, scalable application and data platforms across backe
 
 ---
 
-### [Principal Security Engineer - Threat Intelligence ](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)
-<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
-
-_Build and operationalize threat intelligence systems and AI-assisted workflows that identify, track, and defend against threat actors targeting Snowflake and its customers. Engineer automation, collection pipelines, and analyst tooling to scale intelligence analysis while maintaining quality and driving security decision-making across the enterprise. · [Apply →](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/OSINT-3B82F6?style=flat-square" alt="OSINT">
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Software Development Engineer in Test](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)
 <a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
 
 <img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jest-3B82F6?style=flat-square" alt="Jest"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/REST_API_testing-3B82F6?style=flat-square" alt="REST API testing"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Principal Security Engineer - Threat Intelligence ](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
+
+_Build and operationalize threat intelligence systems and AI-assisted workflows that identify, track, and defend against threat actors targeting Snowflake and its customers. Engineer automation, collection pipelines, and analyst tooling to scale intelligence analysis while maintaining quality and driving security decision-making across the enterprise. · [Apply →](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/OSINT-3B82F6?style=flat-square" alt="OSINT">
 
 <sub>May 15, 2026</sub>
 
@@ -769,17 +769,6 @@ _Build a brand-new web application for ShareGate Migrate from scratch, creating 
 _Build and extend Airbnb's semantic layer and data transformation platform that serves 4,000+ internal data producers and consumers. Work on query rewriting services, data abstraction layers, and infrastructure that democratizes access to high-quality data models and metrics across the company. · [Apply →](https://careers.airbnb.com/positions/7094964?gh_jid=7094964)_
 
 <img src="https://img.shields.io/badge/Data_warehouse_technologies-3B82F6?style=flat-square" alt="Data warehouse technologies"> <img src="https://img.shields.io/badge/DSL%2FAPI_design-3B82F6?style=flat-square" alt="DSL/API design"> <img src="https://img.shields.io/badge/Query_rewriting-3B82F6?style=flat-square" alt="Query rewriting"> <img src="https://img.shields.io/badge/Semantic_layers-3B82F6?style=flat-square" alt="Semantic layers"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Distributed_systems-3B82F6?style=flat-square" alt="Distributed systems"> <img src="https://img.shields.io/badge/OOP-3B82F6?style=flat-square" alt="OOP">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Manager, Cyber Threat Intelligence](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
-
-_Lead a team of threat intelligence analysts and security engineers to conduct cyber threat research, vulnerability analysis, and adversary tracking for Anduril's defense systems and infrastructure. Build and maintain threat intelligence platforms, signature systems, and data integration pipelines while managing complex investigations into nation-state and supply chain threats targeting the defense industrial base. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/YARA-3B82F6?style=flat-square" alt="YARA"> <img src="https://img.shields.io/badge/Snort-3B82F6?style=flat-square" alt="Snort"> <img src="https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square" alt="Threat Intelligence"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
 
 <sub>May 14, 2026</sub>
 
