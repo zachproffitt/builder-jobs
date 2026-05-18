@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **287 open roles** (15 new today) &nbsp;·&nbsp; 1640 companies searched
+### **315 open roles** (15 new today) &nbsp;·&nbsp; 1640 companies searched
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -10,80 +10,69 @@ A curated index of engineering roles from YC startups, VC-backed companies, and 
 
 ## May 18, 2026
 
-### [Senior IT Engineer](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)
-<a href="https://abridge.com"><img src="https://www.google.com/s2/favicons?domain=abridge.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abridge** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` · `Bonus`
+### [Full-Stack Engineer - Production Planning](https://job-boards.greenhouse.io/afresh/jobs/5998416004)
+<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$130k-$195k`
 
-_Design and build automation solutions for enterprise SaaS workflows, identity management, and compliance across Google Workspace, Slack, GitHub, and Rippling. You'll operate in a HIPAA-compliant, SOC 2-audited environment requiring strong systems integration and IAM automation fundamentals. · [Apply →](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)_
+_Build full-stack applications and APIs that optimize in-store fresh food operations and supply chain decisions for thousands of grocery stores. Work with AI-generated insights to create tools that reduce food waste at scale across major US grocers. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/5998416004)_
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Google_Workspace-3B82F6?style=flat-square" alt="Google Workspace"> <img src="https://img.shields.io/badge/Slack-3B82F6?style=flat-square" alt="Slack"> <img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square" alt="GitHub"> <img src="https://img.shields.io/badge/Okta-3B82F6?style=flat-square" alt="Okta"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square" alt="GraphQL"> <img src="https://img.shields.io/badge/API_design-3B82F6?style=flat-square" alt="API design"> <img src="https://img.shields.io/badge/automated_testing-3B82F6?style=flat-square" alt="automated testing"> <img src="https://img.shields.io/badge/analytics%2Fobservability-3B82F6?style=flat-square" alt="analytics/observability">
 
-<sub>May 18, 2026 at 19:51 UTC</sub>
-
----
-
-### [Product Security Engineer](https://jobs.ashbyhq.com/candidhealth/f111d46b-4efb-4b41-9cc2-a6bd49b71cfa)
-<a href="https://www.joincandidhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.joincandidhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Candid Health** · San Francisco, California / Denver, Colorado / New York, New York · `Senior` · `$180k-$258k` · `Equity`
-
-_Build and maintain security automation tooling, threat modeling processes, and secure development practices across product engineering squads. Work with healthcare infrastructure handling sensitive patient data subject to HIPAA compliance. · [Apply →](https://jobs.ashbyhq.com/candidhealth/f111d46b-4efb-4b41-9cc2-a6bd49b71cfa)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/OWASP_Top_10-3B82F6?style=flat-square" alt="OWASP Top 10">
-
-<sub>May 18, 2026 at 19:51 UTC</sub>
+<sub>May 18, 2026 at 20:08 UTC</sub>
 
 ---
 
 ### [Senior Embedded Software Quality Engineer II](https://jobs.lever.co/CesiumAstro/b286ced7-4549-496a-9cfd-d92880245824)
 <a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Senior`
 
-_Implement quality assurance protocols and execute formal test plans for satellite communication systems, embedded hardware, and RF solutions serving Department of Defense applications. Work with space-grade systems requiring rigorous testing across phased-array systems, space payloads, and embedded platforms in a regulated defense environment. · [Apply →](https://jobs.lever.co/CesiumAstro/b286ced7-4549-496a-9cfd-d92880245824)_
+_Implement quality assurance protocols and execute formal test plans for satellite communication systems, embedded hardware, phased-array systems, and RF solutions serving Department of Defense applications. Work requires US citizenship or equivalent status and involvement with government space technology export-controlled systems. · [Apply →](https://jobs.lever.co/CesiumAstro/b286ced7-4549-496a-9cfd-d92880245824)_
 
-<img src="https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square" alt="Embedded Systems"> <img src="https://img.shields.io/badge/RF_Testing-3B82F6?style=flat-square" alt="RF Testing"> <img src="https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square" alt="Test Automation"> <img src="https://img.shields.io/badge/DoD_Standards-3B82F6?style=flat-square" alt="DoD Standards"> <img src="https://img.shields.io/badge/Agile_Methodologies-3B82F6?style=flat-square" alt="Agile Methodologies">
+<img src="https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square" alt="Embedded Systems"> <img src="https://img.shields.io/badge/RF_Systems-3B82F6?style=flat-square" alt="RF Systems"> <img src="https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square" alt="Test Automation"> <img src="https://img.shields.io/badge/DoD_Standards-3B82F6?style=flat-square" alt="DoD Standards">
 
-<sub>May 18, 2026 at 19:51 UTC</sub>
-
----
-
-### [Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/dragos/jobs/5022514008)
-<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$142k` · `Equity`
-
-_Build and maintain automated test pipelines and regression tests for Dragos Platform features like asset inventory and vulnerability management. Embed in a product team to automate validation of industrial cybersecurity features, influencing product quality and testability in a mission-critical domain. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5022514008)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Pytest-3B82F6?style=flat-square" alt="Pytest"> <img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square" alt="Jenkins"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs">
-
-<sub>May 18, 2026 at 19:51 UTC</sub>
+<sub>May 18, 2026 at 20:08 UTC</sub>
 
 ---
 
-### [Software Design Control Engineer](https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003)
-<a href="https://neuralink.com"><img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Neuralink** · Austin, Texas · `Junior` · `$71k-$119k` · `Equity`
+### [Software Engineer in Quality, Automation & AI ](https://job-boards.greenhouse.io/inkind/jobs/5224262008)
+<a href="https://inkind.com"><img src="https://www.google.com/s2/favicons?domain=inkind.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**inKind** · Austin, Texas · `Mid` · `$110k-$130k`
 
-_Design and implement scalable software design control systems for regulated medical device software, embedding compliance with IEC 62304 and FDA 21 CFR 820.30 directly into CI/CD pipelines and engineering workflows. Own end-to-end traceability frameworks and risk management integration while supporting rapid iteration and same-day deployment cycles in a safety-critical neurotechnology environment. · [Apply →](https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003)_
+_Design and build automation frameworks for web, mobile, and API testing across inKind's dining platform, integrating with CI/CD pipelines and experimenting with AI-powered testing tools to enhance coverage and quality ownership within cross-functional product pods. · [Apply →](https://job-boards.greenhouse.io/inkind/jobs/5224262008)_
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/IEC_62304-3B82F6?style=flat-square" alt="IEC 62304"> <img src="https://img.shields.io/badge/FDA_Design_Controls_%2821_CFR_820.30%29-3B82F6?style=flat-square" alt="FDA Design Controls (21 CFR 820.30)"> <img src="https://img.shields.io/badge/ISO_14971-3B82F6?style=flat-square" alt="ISO 14971"> <img src="https://img.shields.io/badge/Requirements_Management-3B82F6?style=flat-square" alt="Requirements Management"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Appium-3B82F6?style=flat-square" alt="Appium"> <img src="https://img.shields.io/badge/Maestro-3B82F6?style=flat-square" alt="Maestro"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS">
 
-<sub>May 18, 2026 at 19:51 UTC</sub>
-
----
-
-### [Flight Dynamics Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7734775003)
-<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Long Beach, California · `Mid` · `$100k–$135k` · `Equity`
-
-_Develop and analyze trajectories, orbital mechanics, and mission design for Earth orbit, lunar, and interplanetary spacecraft. Support real-time mission operations and build flight dynamics simulation tools for ambitious space missions with national security and scientific exploration requirements. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7734775003)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/STK-3B82F6?style=flat-square" alt="STK"> <img src="https://img.shields.io/badge/Astrogator-3B82F6?style=flat-square" alt="Astrogator"> <img src="https://img.shields.io/badge/GMAT-3B82F6?style=flat-square" alt="GMAT"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/Orbital_Mechanics-3B82F6?style=flat-square" alt="Orbital Mechanics"> <img src="https://img.shields.io/badge/Monte_Carlo_Simulation-3B82F6?style=flat-square" alt="Monte Carlo Simulation"> <img src="https://img.shields.io/badge/Secret_Clearance-3B82F6?style=flat-square" alt="Secret Clearance">
-
-<sub>May 18, 2026 at 19:51 UTC</sub>
+<sub>May 18, 2026 at 20:08 UTC</sub>
 
 ---
 
-### [Senior Software Engineer, PUDO Experience](https://careers.withwaymo.com/jobs?gh_jid=7902125)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$213k—$263k` · `Equity` · `Bonus`
+### [Staff Site Reliability Engineer, TCore (FedRamp)](https://www.okta.com/company/careers/opportunity/7674807?gh_jid=7674807)
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$174k—$267k` · `Equity` · `Bonus`
 
-_Develop backend systems and interfaces for Waymo's autonomous vehicle pickup/dropoff (PUDO) experience, including trip state machines, onboard component coordination, and simulation infrastructure. Work across distributed systems at scale (Borg, Spanner, Flume) to handle passenger state management and vehicle pullover execution in production autonomous ride-hail operations. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7902125)_
+_Design and implement scalable, reliable network infrastructure for Okta's identity platform, managing global traffic entry points and core internal networking across AWS and GCP cloud environments. You'll work on highly available systems with federal compliance requirements (FedRamp) and on-call responsibilities for critical infrastructure. · [Apply →](https://www.okta.com/company/careers/opportunity/7674807?gh_jid=7674807)_
 
-<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Backend_Development-3B82F6?style=flat-square" alt="Backend Development"> <img src="https://img.shields.io/badge/Spanner-3B82F6?style=flat-square" alt="Spanner"> <img src="https://img.shields.io/badge/Borg-3B82F6?style=flat-square" alt="Borg"> <img src="https://img.shields.io/badge/Flume-3B82F6?style=flat-square" alt="Flume"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS"> <img src="https://img.shields.io/badge/Android-3B82F6?style=flat-square" alt="Android">
+<img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Bash-3B82F6?style=flat-square" alt="Bash"> <img src="https://img.shields.io/badge/Golang-3B82F6?style=flat-square" alt="Golang"> <img src="https://img.shields.io/badge/TCP%2FIP_Networking-3B82F6?style=flat-square" alt="TCP/IP Networking"> <img src="https://img.shields.io/badge/DNS-3B82F6?style=flat-square" alt="DNS">
 
-<sub>May 18, 2026 at 19:51 UTC</sub>
+<sub>May 18, 2026 at 20:08 UTC</sub>
+
+---
+
+### [Software Engineer - VALORANT, Performance](https://www.riotgames.com/en/work-with-us/job/7729115?gh_jid=7729115)
+<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, California · `Mid`
+
+_Build performance optimization tools and systems for VALORANT, a large-scale live service game. Identify and resolve bottlenecks using telemetry and profilers to ensure smooth server performance across millions of concurrent players. · [Apply →](https://www.riotgames.com/en/work-with-us/job/7729115?gh_jid=7729115)_
+
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/game_engines-3B82F6?style=flat-square" alt="game engines"> <img src="https://img.shields.io/badge/performance_profiling-3B82F6?style=flat-square" alt="performance profiling"> <img src="https://img.shields.io/badge/telemetry-3B82F6?style=flat-square" alt="telemetry"> <img src="https://img.shields.io/badge/automated_testing-3B82F6?style=flat-square" alt="automated testing"> <img src="https://img.shields.io/badge/benchmarking-3B82F6?style=flat-square" alt="benchmarking"> <img src="https://img.shields.io/badge/live_service_systems-3B82F6?style=flat-square" alt="live service systems">
+
+<sub>May 18, 2026 at 20:08 UTC</sub>
+
+---
+
+### [Research Scientist, Safety Post Training](https://job-boards.greenhouse.io/scaleai/jobs/4696595005)
+<a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scale AI** · San Francisco, California / New York, New York · `Senior` · `$216k-$270k` · `Equity`
+
+_Develop post-training methods and interpretability techniques to make frontier AI systems safer and better understood by researchers and policymakers. You'll design post-training pipelines, create interpretability-informed evaluations to reveal unsafe model behaviors, and translate findings into safety standards and evaluation benchmarks for policy impact. · [Apply →](https://job-boards.greenhouse.io/scaleai/jobs/4696595005)_
+
+<img src="https://img.shields.io/badge/RLHF-3B82F6?style=flat-square" alt="RLHF"> <img src="https://img.shields.io/badge/DPO-3B82F6?style=flat-square" alt="DPO"> <img src="https://img.shields.io/badge/GRPO-3B82F6?style=flat-square" alt="GRPO"> <img src="https://img.shields.io/badge/mechanistic_interpretability-3B82F6?style=flat-square" alt="mechanistic interpretability"> <img src="https://img.shields.io/badge/red--teaming-3B82F6?style=flat-square" alt="red-teaming"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/published_ML_research-3B82F6?style=flat-square" alt="published ML research">
+
+<sub>May 18, 2026 at 20:08 UTC</sub>
 
 ---
 
@@ -93,6 +82,17 @@ _Develop backend systems and interfaces for Waymo's autonomous vehicle pickup/dr
 _Develop and validate spacecraft navigation algorithms, Kalman filters, and orbit determination systems for lunar missions including CAPSTONE and Oracle. Work with industry-standard tools (MONTE, FreeFlyer, ODTK, GMAT) to solve navigation challenges in cislunar and three-body regimes at Earth-Moon L2. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4247892009)_
 
 <img src="https://img.shields.io/badge/Kalman_Filters-3B82F6?style=flat-square" alt="Kalman Filters"> <img src="https://img.shields.io/badge/MONTE-3B82F6?style=flat-square" alt="MONTE"> <img src="https://img.shields.io/badge/FreeFlyer-3B82F6?style=flat-square" alt="FreeFlyer"> <img src="https://img.shields.io/badge/ODTK-3B82F6?style=flat-square" alt="ODTK"> <img src="https://img.shields.io/badge/GMAT-3B82F6?style=flat-square" alt="GMAT"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Orbit_Determination-3B82F6?style=flat-square" alt="Orbit Determination">
+
+<sub>May 18, 2026</sub>
+
+---
+
+### [Senior IT Engineer](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)
+<a href="https://abridge.com"><img src="https://www.google.com/s2/favicons?domain=abridge.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abridge** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` · `Bonus`
+
+_Design and implement enterprise automation workflows for user provisioning, access management, and SaaS integrations across Google Workspace, Slack, GitHub, and other core systems. Work in a HIPAA-compliant, SOC 2-audited healthcare environment where you'll build compliance automation and IAM controls at scale. · [Apply →](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Google_Workspace-3B82F6?style=flat-square" alt="Google Workspace"> <img src="https://img.shields.io/badge/Slack-3B82F6?style=flat-square" alt="Slack"> <img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square" alt="GitHub"> <img src="https://img.shields.io/badge/Okta-3B82F6?style=flat-square" alt="Okta"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
 
 <sub>May 18, 2026</sub>
 
@@ -126,6 +126,28 @@ _Build scalable data pipelines and infrastructure to ingest, process, and synchr
 _Build and productionize end-to-end machine learning models and infrastructure for search ranking and recommendations across Airbnb's platform, optimizing for multiple business objectives. Work at scale with structured and unstructured data (text, images, sequential) on both batch and real-time serving systems in a marketplace context. · [Apply →](https://careers.airbnb.com/positions/7450356?gh_jid=7450356)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Scala-3B82F6?style=flat-square" alt="Scala"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square" alt="TensorFlow"> <img src="https://img.shields.io/badge/Spark-3B82F6?style=flat-square" alt="Spark"> <img src="https://img.shields.io/badge/Airflow-3B82F6?style=flat-square" alt="Airflow"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
+
+<sub>May 18, 2026</sub>
+
+---
+
+### [Instrumentation Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5086889007?gh_jid=5086889007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$146k–$208k` · `Equity`
+
+_Build end-to-end instrumentation systems for autonomous aircraft testing, from sensor specification through real-time telemetry and post-processing across ground and flight test environments. Work on Group 3 UAS platforms with high-voltage powertrains and hardware-in-the-loop integration in a defense setting requiring security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5086889007?gh_jid=5086889007)_
+
+<img src="https://img.shields.io/badge/Data_Acquisition_%28DAQ%29-3B82F6?style=flat-square" alt="Data Acquisition (DAQ)"> <img src="https://img.shields.io/badge/LabVIEW-3B82F6?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/CAN_Bus-3B82F6?style=flat-square" alt="CAN Bus"> <img src="https://img.shields.io/badge/Thermocouples-3B82F6?style=flat-square" alt="Thermocouples"> <img src="https://img.shields.io/badge/Strain_Gauges-3B82F6?style=flat-square" alt="Strain Gauges"> <img src="https://img.shields.io/badge/Oscilloscopes-3B82F6?style=flat-square" alt="Oscilloscopes"> <img src="https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square" alt="Security Clearance"> <img src="https://img.shields.io/badge/Aeronautical_Engineering-3B82F6?style=flat-square" alt="Aeronautical Engineering">
+
+<sub>May 18, 2026</sub>
+
+---
+
+### [Software Engineer, Discovery](https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$166k-$253k` · `Equity`
+
+_Architect and develop the Sand Table plugin system using C++ and TypeScript, integrating real-time 3D visualization with extensible APIs for cross-functional teams. This defense technology role requires Secret security clearance and involves shipping immersive command-and-control demonstrations for military customers. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007)_
+
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/game_engine_development-3B82F6?style=flat-square" alt="game engine development"> <img src="https://img.shields.io/badge/3D_rendering-3B82F6?style=flat-square" alt="3D rendering"> <img src="https://img.shields.io/badge/API_design-3B82F6?style=flat-square" alt="API design"> <img src="https://img.shields.io/badge/Real--time_systems-3B82F6?style=flat-square" alt="Real-time systems"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
 
 <sub>May 18, 2026</sub>
 
@@ -197,12 +219,34 @@ _Build and evolve APIs, services, and full-stack features powering ButterflyMX's
 
 ---
 
+### [Product Security Engineer](https://jobs.ashbyhq.com/candidhealth/f111d46b-4efb-4b41-9cc2-a6bd49b71cfa)
+<a href="https://www.joincandidhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.joincandidhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Candid Health** · San Francisco, California / Denver, Colorado / New York, New York · `Senior` · `$180k-$258k` · `Equity`
+
+_Build security automation and tooling to embed threat modeling, vulnerability management, and secure coding practices across product engineering squads. Healthcare domain requires navigating HIPAA compliance and supply chain security for open-source dependencies at scale across microservices infrastructure. · [Apply →](https://jobs.ashbyhq.com/candidhealth/f111d46b-4efb-4b41-9cc2-a6bd49b71cfa)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/OWASP_Top_10-3B82F6?style=flat-square" alt="OWASP Top 10">
+
+<sub>May 18, 2026</sub>
+
+---
+
 ### [Staff Software Engineer (Developer Platform)](https://job-boards.greenhouse.io/chainguard/jobs/4676390006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$205k—$231k` · `Equity`
 
 _Own significant infrastructure slices of Chainguard's Developer Platform — monorepo CI/CD, the DriftlessAF agentic AI platform, shared build infrastructure, and change-throughput substrate — shaping how internal engineers ship secure software at scale. Drive adoption of agent-driven workflows beyond PR-based systems and productionize observability, RAG, and context engineering for reliable AI agents in production. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4676390006)_
 
 <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/CI%2FCD_Systems-3B82F6?style=flat-square" alt="CI/CD Systems"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Container_Orchestration-3B82F6?style=flat-square" alt="Container Orchestration"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Argo_Workflows-3B82F6?style=flat-square" alt="Argo Workflows"> <img src="https://img.shields.io/badge/Buildkite-3B82F6?style=flat-square" alt="Buildkite"> <img src="https://img.shields.io/badge/LLM%2FAgentic_AI-3B82F6?style=flat-square" alt="LLM/Agentic AI">
+
+<sub>May 18, 2026</sub>
+
+---
+
+### [Senior RF Test Engineer II](https://jobs.lever.co/CesiumAstro/4e68cf0b-fd21-47ff-b0b3-31b47804685c)
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Senior`
+
+_Design, implement, and automate RF test systems and procedures for phased array antennas used in satellite, spacecraft, and aerospace communication platforms. Work with hardware and software to architect test architectures, analyze results, and guide design-for-test integration across product development cycles in a startup environment. · [Apply →](https://jobs.lever.co/CesiumAstro/4e68cf0b-fd21-47ff-b0b3-31b47804685c)_
+
+<img src="https://img.shields.io/badge/RF_measurements-3B82F6?style=flat-square" alt="RF measurements"> <img src="https://img.shields.io/badge/Test_automation-3B82F6?style=flat-square" alt="Test automation"> <img src="https://img.shields.io/badge/VSA-3B82F6?style=flat-square" alt="VSA"> <img src="https://img.shields.io/badge/VSG-3B82F6?style=flat-square" alt="VSG"> <img src="https://img.shields.io/badge/VNA-3B82F6?style=flat-square" alt="VNA"> <img src="https://img.shields.io/badge/Phased_array_testing-3B82F6?style=flat-square" alt="Phased array testing"> <img src="https://img.shields.io/badge/LabVIEW-3B82F6?style=flat-square" alt="LabVIEW"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python">
 
 <sub>May 18, 2026</sub>
 
@@ -230,12 +274,23 @@ _Lead a team building Android applications and ATAK plugins that synchronize dat
 
 ---
 
+### [Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/dragos/jobs/5022514008)
+<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$142k` · `Equity`
+
+_Build and maintain automated test pipelines and frameworks for the Dragos Platform, focusing on asset inventory and vulnerability management features. Collaborate with product teams to automate REST API and frontend tests while improving test infrastructure in a mission-critical ICS/OT cybersecurity environment. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5022514008)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Pytest-3B82F6?style=flat-square" alt="Pytest"> <img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square" alt="Jenkins"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git">
+
+<sub>May 18, 2026</sub>
+
+---
+
 ### [Staff Swift Engineer](https://jobs.ashbyhq.com/gigaml/adb98b23-36f9-4078-9a7b-454752a30360)
 <a href="https://giga.ai"><img src="https://www.google.com/s2/favicons?domain=giga.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Giga** · San Francisco, California · `Staff`
 
-_Lead the technical direction and implementation of native iOS SDKs that embed Giga's voice and chat AI agents into customer mobile apps. Own deep OS integrations, UI/performance excellence, and mobile architecture decisions at scale across millions of daily users in regulated enterprise environments. · [Apply →](https://jobs.ashbyhq.com/gigaml/adb98b23-36f9-4078-9a7b-454752a30360)_
+_Own the iOS SDK architecture and deep OS integrations that embed Giga's voice and chat AI agents into customer mobile apps. Lead technical direction for UI, animations, voice interactions, and performance at scale across millions of daily users in high-stakes regulated environments. · [Apply →](https://jobs.ashbyhq.com/gigaml/adb98b23-36f9-4078-9a7b-454752a30360)_
 
-<img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-3B82F6?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square" alt="GraphQL">
+<img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS"> <img src="https://img.shields.io/badge/SDK_Design-3B82F6?style=flat-square" alt="SDK Design"> <img src="https://img.shields.io/badge/Voice_Integration-3B82F6?style=flat-square" alt="Voice Integration"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-3B82F6?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS">
 
 <sub>May 18, 2026</sub>
 
@@ -373,6 +428,17 @@ _Build end-to-end features across Nash's agentic logistics layer, from React/Typ
 
 ---
 
+### [Software Design Control Engineer](https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003)
+<a href="https://neuralink.com"><img src="https://www.google.com/s2/favicons?domain=neuralink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Neuralink** · Austin, Texas · `Junior` · `$71k—$119k USD` · `Equity`
+
+_Design and implement software design control systems that embed regulatory compliance (IEC 62304, FDA 21 CFR 820.30) into CI/CD pipelines and engineering workflows for medical device software. Build end-to-end traceability frameworks and automation infrastructure supporting rapid iteration, risk management, and audit readiness for safety-critical brain-computer interface software. · [Apply →](https://boards.greenhouse.io/neuralink/jobs/7738240003?gh_jid=7738240003)_
+
+<img src="https://img.shields.io/badge/IEC_62304-3B82F6?style=flat-square" alt="IEC 62304"> <img src="https://img.shields.io/badge/FDA_Design_Controls_%2821_CFR_820.30%29-3B82F6?style=flat-square" alt="FDA Design Controls (21 CFR 820.30)"> <img src="https://img.shields.io/badge/ISO_14971-3B82F6?style=flat-square" alt="ISO 14971"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Software_Requirements_Management-3B82F6?style=flat-square" alt="Software Requirements Management"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Risk_Management-3B82F6?style=flat-square" alt="Risk Management">
+
+<sub>May 18, 2026</sub>
+
+---
+
 ### [Security Preparedness Lead, Coding Agents](https://jobs.ashbyhq.com/openai/1bec5fd1-9cf2-4678-a82d-2d06385718b2)
 <a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
@@ -472,23 +538,34 @@ _Build microservices, distributed systems, and data-intensive backends powering 
 
 ---
 
-### [Principal Software Engineer - Roblox Economy Platform](https://careers.roblox.com/jobs/7545955?gh_jid=7545955)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$293k–$343k` · `Equity`
-
-_Lead the design and scaling of Roblox's virtual economy platform, owning monetization systems that process billions of transactions annually for creators and users. You'll drive technical vision for highly available distributed systems handling hundreds of millions of dollars in revenue while leading multiple high-impact projects across the engineering organization. · [Apply →](https://careers.roblox.com/jobs/7545955?gh_jid=7545955)_
-
-<img src="https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square" alt="Backend Systems"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Scalability-3B82F6?style=flat-square" alt="Scalability"> <img src="https://img.shields.io/badge/System_Design-3B82F6?style=flat-square" alt="System Design"> <img src="https://img.shields.io/badge/Large--scale_Transactions-3B82F6?style=flat-square" alt="Large-scale Transactions"> <img src="https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square" alt="Payment Systems"> <img src="https://img.shields.io/badge/Production_Infrastructure-3B82F6?style=flat-square" alt="Production Infrastructure">
-
-<sub>May 18, 2026</sub>
-
----
-
 ### [Forward Deployed Engineer](https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901)
 <a href="https://roboflow.com"><img src="https://www.google.com/s2/favicons?domain=roboflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roboflow** · New York, New York / San Francisco, California / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `Equity`
 
 _Deploy computer vision models from proof-of-concept to production on edge hardware in customer environments, handling data pipelines, device configuration, and real-world model optimization. Work embedded with customer teams across manufacturing, logistics, and retail to solve the messy realities of physical-world computer vision deployment. · [Apply →](https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/NVIDIA_Jetson-3B82F6?style=flat-square" alt="NVIDIA Jetson"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/MLOps-3B82F6?style=flat-square" alt="MLOps"> <img src="https://img.shields.io/badge/Edge_Computing-3B82F6?style=flat-square" alt="Edge Computing">
+
+<sub>May 18, 2026</sub>
+
+---
+
+### [Flight Dynamics Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7734775003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Long Beach, California · `Mid` · `$100k—$135k USD` · `Equity` · `Bonus`
+
+_Design and analyze trajectories, orbital mechanics, and mission dynamics for Earth orbiting, lunar, and interplanetary spacecraft and launch vehicles. Develop flight dynamics simulation tools and infrastructure while supporting real-time mission operations for national security and exploration missions. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7734775003)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/STK-3B82F6?style=flat-square" alt="STK"> <img src="https://img.shields.io/badge/Astrogator-3B82F6?style=flat-square" alt="Astrogator"> <img src="https://img.shields.io/badge/GMAT-3B82F6?style=flat-square" alt="GMAT"> <img src="https://img.shields.io/badge/Orbital_Mechanics-3B82F6?style=flat-square" alt="Orbital Mechanics"> <img src="https://img.shields.io/badge/Orbit_Determination-3B82F6?style=flat-square" alt="Orbit Determination"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/Jira-3B82F6?style=flat-square" alt="Jira">
+
+<sub>May 18, 2026</sub>
+
+---
+
+### [Principal Software Engineer - Roblox Economy Platform](https://careers.roblox.com/jobs/7545955?gh_jid=7545955)
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$293k–$343k` · `Equity`
+
+_Lead the design and scaling of Roblox's virtual economy platform, owning monetization systems that process billions of transactions annually for creators and users. You'll drive technical vision for highly available distributed systems handling hundreds of millions of dollars in revenue while leading multiple high-impact projects across the engineering organization. · [Apply →](https://careers.roblox.com/jobs/7545955?gh_jid=7545955)_
+
+<img src="https://img.shields.io/badge/Backend_Systems-3B82F6?style=flat-square" alt="Backend Systems"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Scalability-3B82F6?style=flat-square" alt="Scalability"> <img src="https://img.shields.io/badge/System_Design-3B82F6?style=flat-square" alt="System Design"> <img src="https://img.shields.io/badge/Large--scale_Transactions-3B82F6?style=flat-square" alt="Large-scale Transactions"> <img src="https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square" alt="Payment Systems"> <img src="https://img.shields.io/badge/Production_Infrastructure-3B82F6?style=flat-square" alt="Production Infrastructure">
 
 <sub>May 18, 2026</sub>
 
@@ -604,6 +681,17 @@ _Own end-to-end design and delivery of Kubernetes-based platform initiatives, in
 
 ---
 
+### [Senior Software Engineer, PUDO Experience](https://careers.withwaymo.com/jobs?gh_jid=7902125)
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$213k-$263k` · `Equity` · `Bonus`
+
+_Build distributed backend systems and state machine infrastructure for Waymo's autonomous vehicle pickup and dropoff experience, coordinating between onboard vehicle systems, mobile apps, and cloud services. Work on systems managing millions of rider trips with strict safety and reliability requirements at scale. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7902125)_
+
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/distributed_systems-3B82F6?style=flat-square" alt="distributed systems"> <img src="https://img.shields.io/badge/backend_development-3B82F6?style=flat-square" alt="backend development"> <img src="https://img.shields.io/badge/Google_Cloud_technologies_%28Borg%2C_Spanner%2C_Flume%29-3B82F6?style=flat-square" alt="Google Cloud technologies (Borg, Spanner, Flume)"> <img src="https://img.shields.io/badge/API_design-3B82F6?style=flat-square" alt="API design"> <img src="https://img.shields.io/badge/state_machines-3B82F6?style=flat-square" alt="state machines"> <img src="https://img.shields.io/badge/iOS_or_Android_development-3B82F6?style=flat-square" alt="iOS or Android development">
+
+<sub>May 18, 2026</sub>
+
+---
+
 ### [Software Engineer, Fleet Monitoring](https://careers.withwaymo.com/jobs?gh_jid=7939542)
 <a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · San Francisco, California / Mountain View, California · `Senior` · `$175k-$215k` · `Equity` · `Bonus`
 
@@ -684,6 +772,17 @@ _Build scalable generative AI services and microservices using Python, LLMs, and
 <br>
 
 ## May 17, 2026
+
+### [Air-Vehicle Multidisciplinary Design Analysis and Optimization (MDAO) Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5132442007?gh_jid=5132442007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
+
+_Build multidisciplinary design analysis and optimization workflows for next-generation combat aircraft and missiles, integrating disciplinary models across conceptual to detailed engineering phases. You'll bridge computational engineering, hardware, and software development in a defense environment requiring DoD Secret clearance and Special Access Program eligibility. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5132442007?gh_jid=5132442007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/C-3B82F6?style=flat-square" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/FORTRAN-3B82F6?style=flat-square" alt="FORTRAN"> <img src="https://img.shields.io/badge/DoD_Secret_Clearance-3B82F6?style=flat-square" alt="DoD Secret Clearance"> <img src="https://img.shields.io/badge/Special_Access_Program_Eligibility-3B82F6?style=flat-square" alt="Special Access Program Eligibility">
+
+<sub>May 17, 2026</sub>
+
+---
 
 ### [Engineering Manager, Cloud Platform](https://jobs.ashbyhq.com/baseten/1933097e-2f8e-46e2-8442-0c2f4a9394da)
 <a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `Equity`
@@ -776,6 +875,17 @@ _Conduct deep technical research to discover novel risks and attack vectors in c
 <br>
 
 ## May 16, 2026
+
+### [Senior FPGA Verification Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5139480007?gh_jid=5139480007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$146k—$194k` · `Equity`
+
+_Lead FPGA/SoC verification strategy and UVM methodology for flight-critical avionics on AMD Xilinx platforms, mentoring the verification team and owning coverage-driven closure across production programs. This role requires DO-254 compliance expertise and a security clearance for defense aerospace work. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5139480007?gh_jid=5139480007)_
+
+<img src="https://img.shields.io/badge/SystemVerilog-3B82F6?style=flat-square" alt="SystemVerilog"> <img src="https://img.shields.io/badge/UVM-3B82F6?style=flat-square" alt="UVM"> <img src="https://img.shields.io/badge/SVA_%28SystemVerilog_Assertions%29-3B82F6?style=flat-square" alt="SVA (SystemVerilog Assertions)"> <img src="https://img.shields.io/badge/Questa-3B82F6?style=flat-square" alt="Questa"> <img src="https://img.shields.io/badge/VCS-3B82F6?style=flat-square" alt="VCS"> <img src="https://img.shields.io/badge/Xcelium-3B82F6?style=flat-square" alt="Xcelium"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/DO--254-3B82F6?style=flat-square" alt="DO-254">
+
+<sub>May 16, 2026</sub>
+
+---
 
 ### [Software Engineer - Team Growth](https://jobs.ashbyhq.com/clipboard/e8f6d10c-61b7-42dd-978e-921004ea5a55)
 <a href="https://www.clipboardworks.com"><img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clipboard** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
@@ -876,23 +986,23 @@ _Design and implement AI/ML-driven developer tools for an unpublished game, part
 
 ---
 
-### [Engineering Manager - Creator Business](https://careers.roblox.com/jobs/7931896?gh_jid=7931896)
-<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$295k-$345k` · `Equity`
-
-_Lead a team of backend and full-stack engineers building monetization analytics, revenue reporting, payouts, and tax systems for Roblox's creator economy platform. Scale and maintain penny-perfect financial systems handling tens of millions of creators with zero-defect requirements. · [Apply →](https://careers.roblox.com/jobs/7931896?gh_jid=7931896)_
-
-<img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square" alt="Backend APIs"> <img src="https://img.shields.io/badge/Full--Stack_Development-3B82F6?style=flat-square" alt="Full-Stack Development"> <img src="https://img.shields.io/badge/Monetization_Systems-3B82F6?style=flat-square" alt="Monetization Systems"> <img src="https://img.shields.io/badge/Financial_Systems-3B82F6?style=flat-square" alt="Financial Systems"> <img src="https://img.shields.io/badge/Scalability-3B82F6?style=flat-square" alt="Scalability"> <img src="https://img.shields.io/badge/High_Availability-3B82F6?style=flat-square" alt="High Availability">
-
-<sub>May 16, 2026</sub>
-
----
-
 ### [Integration & Test Intern Fall 2026](https://job-boards.greenhouse.io/rocketlab/jobs/7728086003)
 <a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Long Beach, California · `Intern` · `$28/hour` · `Equity`
 
 _Support the Space Systems Integration and Test Team in spacecraft Assembly, Integration & Test (AIT) by working with specialized test equipment and contributing to improvements that directly impact satellite programs from proposal through launch and early operations. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7728086003)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Siemens_NX-3B82F6?style=flat-square" alt="Siemens NX"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Radio_Frequency_Engineering-3B82F6?style=flat-square" alt="Radio Frequency Engineering"> <img src="https://img.shields.io/badge/Electronic_Components-3B82F6?style=flat-square" alt="Electronic Components"> <img src="https://img.shields.io/badge/Hardware_Testing-3B82F6?style=flat-square" alt="Hardware Testing">
+
+<sub>May 16, 2026</sub>
+
+---
+
+### [Engineering Manager - Creator Business](https://careers.roblox.com/jobs/7931896?gh_jid=7931896)
+<a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$295k-$345k` · `Equity`
+
+_Lead a team of backend and full-stack engineers building monetization analytics, revenue reporting, payouts, and tax systems for Roblox's creator economy platform. Scale and maintain penny-perfect financial systems handling tens of millions of creators with zero-defect requirements. · [Apply →](https://careers.roblox.com/jobs/7931896?gh_jid=7931896)_
+
+<img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square" alt="Backend APIs"> <img src="https://img.shields.io/badge/Full--Stack_Development-3B82F6?style=flat-square" alt="Full-Stack Development"> <img src="https://img.shields.io/badge/Monetization_Systems-3B82F6?style=flat-square" alt="Monetization Systems"> <img src="https://img.shields.io/badge/Financial_Systems-3B82F6?style=flat-square" alt="Financial Systems"> <img src="https://img.shields.io/badge/Scalability-3B82F6?style=flat-square" alt="Scalability"> <img src="https://img.shields.io/badge/High_Availability-3B82F6?style=flat-square" alt="High Availability">
 
 <sub>May 16, 2026</sub>
 
@@ -963,6 +1073,17 @@ _Build Android components and user interfaces for Waymo's autonomous vehicle in-
 _Lead the Segmentation Platform and Insights Platform teams, owning the technical strategy and roadmap for audience infrastructure, analytics, and autonomous agent pipelines that power Airbnb's marketing personalization at scale. Drive the adoption of AI-native engineering practices and build production-grade agentic systems handling complex, multi-step workflows while ensuring operational rigor and reliability. · [Apply →](https://careers.airbnb.com/positions/7927488?gh_jid=7927488)_
 
 <img src="https://img.shields.io/badge/Distributed_Data_Systems-3B82F6?style=flat-square" alt="Distributed Data Systems"> <img src="https://img.shields.io/badge/Backend_Infrastructure-3B82F6?style=flat-square" alt="Backend Infrastructure"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/Observability-3B82F6?style=flat-square" alt="Observability"> <img src="https://img.shields.io/badge/LangGraph-3B82F6?style=flat-square" alt="LangGraph"> <img src="https://img.shields.io/badge/CrewAI-3B82F6?style=flat-square" alt="CrewAI"> <img src="https://img.shields.io/badge/Autogen-3B82F6?style=flat-square" alt="Autogen"> <img src="https://img.shields.io/badge/ML%2FAI_Systems-3B82F6?style=flat-square" alt="ML/AI Systems">
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Senior Robotics Software Engineer, Sensor Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5138979007?gh_jid=5138979007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$220k-$292k` · `Equity`
+
+_Design and deploy software for autonomous robotic systems, integrating sensors, networking, and multi-agent coordination in mission-critical defense applications. Work across the full stack from prototyping to real-world operational deployment, requiring travel up to 25% and hands-on debugging of complex distributed systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5138979007?gh_jid=5138979007)_
+
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/LiDAR-3B82F6?style=flat-square" alt="LiDAR"> <img src="https://img.shields.io/badge/ROS-3B82F6?style=flat-square" alt="ROS"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Sensor_Fusion-3B82F6?style=flat-square" alt="Sensor Fusion"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
 
 <sub>May 15, 2026</sub>
 
@@ -1200,7 +1321,7 @@ _Build cutting-edge speech and audio ML models, production inference systems, an
 ---
 
 ### [Senior Firmware Engineer, Bluetooth](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California / New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California / New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack for our temperature-regulated sleep Pod hardware ecosystem—architecting GATT services, power optimization, secure OTA firmware updates, and device interoperability across iOS and Android. You'll partner with hardware teams on board bring-up, antenna tuning, regulatory certification, and global manufacturing validation in a fast-growing hardware company. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -1211,7 +1332,7 @@ _Own the Bluetooth Low Energy wireless connectivity stack for our temperature-re
 ---
 
 ### [Senior Software Engineer - Mobile (iOS)](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California · `Senior` · `Equity`
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California · `Senior` · `Equity`
 
 _Build and ship pixel-perfect iOS features for Eight Sleep's flagship sleep fitness app, working closely with backend, firmware, and ML engineers. Optimize performance and conduct code reviews for a health tech product used by hundreds of thousands of customers across 30+ countries. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
@@ -1507,6 +1628,17 @@ _Lead the design and implementation of Marketing Mix Models, Multi-Touch Attribu
 
 ---
 
+### [HITL Engineering Intern Fall 2026](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Long Beach, California · `Intern` · `$28/hour` · `Equity`
+
+_Support Hardware In The Loop (HITL) systems design, building, maintenance, and operation within Rocket Lab's Space Systems organization. Work on mission-critical spacecraft and satellite testing infrastructure for NASA lunar and Mars missions. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Systems_Engineering-3B82F6?style=flat-square" alt="Systems Engineering"> <img src="https://img.shields.io/badge/Mechatronics-3B82F6?style=flat-square" alt="Mechatronics">
+
+<sub>May 15, 2026</sub>
+
+---
+
 ### [[2026] Software Engineer, Game Developer](https://careers.roblox.com/jobs/7557910?gh_jid=7557910)
 <a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior` · `$153k-$182k` · `Equity`
 
@@ -1524,17 +1656,6 @@ _Build prototypes and production features for the Roblox engine in Luau, working
 _Lead multidisciplinary engineering teams building and scaling Roblox's asset infrastructure platform, managing 100+ million requests per second across creation, upload, storage, indexing, and delivery of all asset types. Drive long-term technical strategy, architecture, and roadmap for one of the largest backend services in the world serving tens of millions of creators and players. · [Apply →](https://careers.roblox.com/jobs/7754152?gh_jid=7754152)_
 
 <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Backend_Engineering-3B82F6?style=flat-square" alt="Backend Engineering"> <img src="https://img.shields.io/badge/Infrastructure_at_Scale-3B82F6?style=flat-square" alt="Infrastructure at Scale"> <img src="https://img.shields.io/badge/Large--scale_Data_Storage-3B82F6?style=flat-square" alt="Large-scale Data Storage"> <img src="https://img.shields.io/badge/Asset_Management_Systems-3B82F6?style=flat-square" alt="Asset Management Systems"> <img src="https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square" alt="Microservices Architecture"> <img src="https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square" alt="Cloud Infrastructure"> <img src="https://img.shields.io/badge/Leadership-3B82F6?style=flat-square" alt="Leadership">
-
-<sub>May 15, 2026</sub>
-
----
-
-### [HITL Engineering Intern Fall 2026](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003)
-<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Long Beach, California · `Intern` · `$28/hour` · `Equity`
-
-_Support Hardware In The Loop (HITL) systems design, building, maintenance, and operation within Rocket Lab's Space Systems organization. Work on mission-critical spacecraft and satellite testing infrastructure for NASA lunar and Mars missions. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7734022003)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Systems_Engineering-3B82F6?style=flat-square" alt="Systems Engineering"> <img src="https://img.shields.io/badge/Mechatronics-3B82F6?style=flat-square" alt="Mechatronics">
 
 <sub>May 15, 2026</sub>
 
@@ -1595,17 +1716,6 @@ _Lead the design of secure, scalable application and data platforms across backe
 
 ---
 
-### [Software Development Engineer in Test](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)
-<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
-
-<img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jest-3B82F6?style=flat-square" alt="Jest"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/REST_API_testing-3B82F6?style=flat-square" alt="REST API testing"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Principal Security Engineer - Threat Intelligence ](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)
 <a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
 
@@ -1623,6 +1733,17 @@ _Build and operationalize threat intelligence systems and AI-assisted workflows 
 _Design and build data governance features and services within Snowflake's platform, including fine-grained access control, data privacy, lineage tracking, and auditability. Work at scale solving real business needs for data stewards across a cloud data platform. · [Apply →](https://jobs.ashbyhq.com/snowflake/d8816f3f-89d6-4434-bc24-eaf4169c1d95)_
 
 <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Database_Fundamentals-3B82F6?style=flat-square" alt="Database Fundamentals"> <img src="https://img.shields.io/badge/Systems_Programming-3B82F6?style=flat-square" alt="Systems Programming"> <img src="https://img.shields.io/badge/Multi--threading-3B82F6?style=flat-square" alt="Multi-threading"> <img src="https://img.shields.io/badge/Concurrency-3B82F6?style=flat-square" alt="Concurrency"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning">
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Software Development Engineer in Test](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)
+<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
+
+<img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jest-3B82F6?style=flat-square" alt="Jest"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/REST_API_testing-3B82F6?style=flat-square" alt="REST API testing"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
 
 <sub>May 15, 2026</sub>
 
@@ -2103,6 +2224,116 @@ _Build ML/AI infrastructure, data foundations, and feature platforms that power 
 
 ---
 
+### [Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, Washington · `Junior` · `$130k-$135k` · `Equity`
+
+_Build software solutions for Lattice OS, Anduril's AI-powered military command and control system, shipping autonomy, computer vision, and sensor fusion capabilities to defense customers. Requires U.S. Person status and security clearance eligibility for access to export-controlled defense technology. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007)_
+
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square" alt="Cloud Infrastructure"> <img src="https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/Sensor_Fusion-3B82F6?style=flat-square" alt="Sensor Fusion">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [GNC Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4632178007?gh_jid=4632178007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Mid` · `$138k-$207k` · `Equity`
+
+_Develop flight control algorithms, guidance laws, and navigation solutions for autonomous drone platforms. Design and validate Software-In-The-Loop and Hardware-In-The-Loop test environments for airborne systems operating in GPS and communication-denied environments; requires Secret security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/4632178007?gh_jid=4632178007)_
+
+<img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Simulink-3B82F6?style=flat-square" alt="Simulink"> <img src="https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square" alt="C/C++"> <img src="https://img.shields.io/badge/Kalman_Filtering-3B82F6?style=flat-square" alt="Kalman Filtering"> <img src="https://img.shields.io/badge/Control_Systems-3B82F6?style=flat-square" alt="Control Systems"> <img src="https://img.shields.io/badge/State_Estimation-3B82F6?style=flat-square" alt="State Estimation"> <img src="https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square" alt="Embedded Systems"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Manager, Cyber Threat Intelligence](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
+
+_Lead a team of threat intelligence analysts and security engineers to conduct cyber threat research, vulnerability analysis, and adversary tracking for Anduril's defense systems and infrastructure. Build and maintain threat intelligence platforms, signature systems, and data integration pipelines while managing complex investigations into nation-state and supply chain threats targeting the defense industrial base. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/YARA-3B82F6?style=flat-square" alt="YARA"> <img src="https://img.shields.io/badge/Snort-3B82F6?style=flat-square" alt="Snort"> <img src="https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square" alt="Threat Intelligence"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [PLM Senior Software Architect](https://boards.greenhouse.io/andurilindustries/jobs/5138059007?gh_jid=5138059007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity`
+
+_Architect and implement mission-critical Teamcenter customizations, integrations, and scalable PLM solutions that connect CAD, ERP, MES, and manufacturing systems into a unified engineering backbone for defense hardware production. You'll work in a greenfield environment building next-generation systems with modern software practices, avoiding legacy PLM patterns. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5138059007?gh_jid=5138059007)_
+
+<img src="https://img.shields.io/badge/Teamcenter-3B82F6?style=flat-square" alt="Teamcenter"> <img src="https://img.shields.io/badge/ITK-3B82F6?style=flat-square" alt="ITK"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/SOA-3B82F6?style=flat-square" alt="SOA"> <img src="https://img.shields.io/badge/Active_Workspace-3B82F6?style=flat-square" alt="Active Workspace"> <img src="https://img.shields.io/badge/BMIDE-3B82F6?style=flat-square" alt="BMIDE">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Robotics & Simulation Engineer, Discovery ](https://boards.greenhouse.io/andurilindustries/jobs/5136834007?gh_jid=5136834007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Mid` · `$146k-$194k` · `Equity`
+
+_Build and scale simulation environments (Isaac Gym, Isaac Lab, MuJoCo) for RL/IL training, including physics fidelity, domain randomization, and deployment pipelines. Own the telemetry, safety systems, and real-world diagnostics that connect sim to field operations on autonomous robotic systems for defense applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136834007?gh_jid=5136834007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Isaac_Gym-3B82F6?style=flat-square" alt="Isaac Gym"> <img src="https://img.shields.io/badge/Isaac_Lab-3B82F6?style=flat-square" alt="Isaac Lab"> <img src="https://img.shields.io/badge/MuJoCo-3B82F6?style=flat-square" alt="MuJoCo"> <img src="https://img.shields.io/badge/URDF%2FMJCF-3B82F6?style=flat-square" alt="URDF/MJCF"> <img src="https://img.shields.io/badge/ROS2-3B82F6?style=flat-square" alt="ROS2"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Senior GNC Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/4588656007?gh_jid=4588656007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$168k-$252k` · `Equity`
+
+_Develop flight control algorithms, guidance laws, and navigation solutions for autonomous drone platforms. Design and validate GNC software through simulation and flight testing in defense applications requiring security clearance and on-site presence in Costa Mesa. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/4588656007?gh_jid=4588656007)_
+
+<img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Simulink-3B82F6?style=flat-square" alt="Simulink"> <img src="https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square" alt="C/C++"> <img src="https://img.shields.io/badge/Kalman_Filtering-3B82F6?style=flat-square" alt="Kalman Filtering"> <img src="https://img.shields.io/badge/Control_Systems-3B82F6?style=flat-square" alt="Control Systems"> <img src="https://img.shields.io/badge/State_Estimation-3B82F6?style=flat-square" alt="State Estimation"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Senior Machine Learning Engineer, RL / Locomotion](https://boards.greenhouse.io/andurilindustries/jobs/5136528007?gh_jid=5136528007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$220k-$336k` · `Equity`
+
+_Design, train, and deploy reinforcement learning policies for legged robotic platforms using GPU-parallelized simulation, from Isaac Gym training through real-world deployment on physical systems. Work in defense robotics with direct impact on Department of Defense and Intelligence Community capabilities operating in contested, unstructured environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136528007?gh_jid=5136528007)_
+
+<img src="https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square" alt="Reinforcement Learning"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Isaac_Gym-3B82F6?style=flat-square" alt="Isaac Gym"> <img src="https://img.shields.io/badge/Physics_Simulation-3B82F6?style=flat-square" alt="Physics Simulation"> <img src="https://img.shields.io/badge/PPO-3B82F6?style=flat-square" alt="PPO"> <img src="https://img.shields.io/badge/SAC-3B82F6?style=flat-square" alt="SAC"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Senior Manipulation Engineer (Imitation Learning), Discovery](https://boards.greenhouse.io/andurilindustries/jobs/5136832007?gh_jid=5136832007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California / Washington, D.C. · `Senior` · `$166k-$220k` · `Equity`
+
+_Design, train, and deploy learned manipulation policies for robotic systems using imitation learning and behavior cloning, owning the full pipeline from teleoperation data collection through real-world evaluation on hardware. Work on defense robotics at scale with access to cutting-edge hardware and national security impact requiring security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136832007?gh_jid=5136832007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/Imitation_Learning-3B82F6?style=flat-square" alt="Imitation Learning"> <img src="https://img.shields.io/badge/Behavior_Cloning-3B82F6?style=flat-square" alt="Behavior Cloning"> <img src="https://img.shields.io/badge/Robot_Manipulation-3B82F6?style=flat-square" alt="Robot Manipulation"> <img src="https://img.shields.io/badge/Visuomotor_Control-3B82F6?style=flat-square" alt="Visuomotor Control"> <img src="https://img.shields.io/badge/Teleoperation_Systems-3B82F6?style=flat-square" alt="Teleoperation Systems"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Senior Quality Engineer, Applied AI](https://boards.greenhouse.io/andurilindustries/jobs/5137803007?gh_jid=5137803007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, Washington · `Senior` · `$191k-$253k` · `Equity`
+
+_Design and implement test strategies, validation approaches, and operational safeguards for AI-enabled software, automation, and agentic workflows in a defense technology environment. Partner with software and AI engineers to identify failure modes across code, prompts, models, and infrastructure while building confidence in fast-moving solutions through automated testing and observability. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137803007?gh_jid=5137803007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/LLM_applications-3B82F6?style=flat-square" alt="LLM applications"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square" alt="Infrastructure as Code"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Senior Software Engineer, PLM](https://boards.greenhouse.io/andurilindustries/jobs/5138057007?gh_jid=5138057007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$166k—$220k USD` · `Equity`
+
+_Design and implement mission-critical Teamcenter customizations, integrations, and enterprise platform solutions that connect CAD, ERP, MES, and manufacturing systems at scale. Work in a defense technology context with export-controlled data and high-reliability requirements. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5138057007?gh_jid=5138057007)_
+
+<img src="https://img.shields.io/badge/Teamcenter-3B82F6?style=flat-square" alt="Teamcenter"> <img src="https://img.shields.io/badge/ITK-3B82F6?style=flat-square" alt="ITK"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/Oracle-3B82F6?style=flat-square" alt="Oracle"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square" alt="Security Clearance">
+
+<sub>May 14, 2026</sub>
+
+---
+
 ### [[Pipeline] Software Engineer, Safeguards Labs](https://job-boards.greenhouse.io/anthropic/jobs/5219486008)
 <a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$405k–$485k USD` · `Equity`
 
@@ -2354,17 +2585,6 @@ _Ship production security detections against Lambda's real log data, building LL
 
 ---
 
-### [Software Development Engineer III, Maps API](https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf)
-<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Build and maintain high-traffic mapping APIs and distributed ETL pipelines that process billions of requests daily, supporting global geospatial data visualization at scale. Lead architectural decisions and mentor engineers on a team delivering real-time location services to millions of developers. · [Apply →](https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Geospatial_Data-3B82F6?style=flat-square" alt="Geospatial Data"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/System_Design-3B82F6?style=flat-square" alt="System Design">
-
-<sub>May 14, 2026</sub>
-
----
-
 ### [Manager, Software Engineering - Identity Platform](https://job-boards.greenhouse.io/marqeta/jobs/7892053)
 <a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · Toronto, Canada / Vancouver, Canada · `Manager` · `$156k-$196k CAD` · `Equity` · `Bonus`
 
@@ -2393,6 +2613,17 @@ _Lead product security engineering for a payment platform—owning threat modeli
 _Automate and manage AWS Aurora, MySQL, PostgreSQL, and NoSQL databases powering Marqeta's card-issuing platform processing 5 billion transactions annually. Design and implement high-availability, disaster-recovery, and multi-region database architecture while mentoring junior engineers and maintaining 24/7 operational excellence. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/7926736)_
 
 <img src="https://img.shields.io/badge/AWS_Aurora-3B82F6?style=flat-square" alt="AWS Aurora"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-3B82F6?style=flat-square" alt="MySQL"> <img src="https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square" alt="DynamoDB"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Software Development Engineer III, Maps API](https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf)
+<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build and maintain high-traffic mapping APIs and distributed ETL pipelines that process billions of requests daily, supporting global geospatial data visualization at scale. Lead architectural decisions and mentor engineers on a team delivering real-time location services to millions of developers. · [Apply →](https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Geospatial_Data-3B82F6?style=flat-square" alt="Geospatial Data"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/System_Design-3B82F6?style=flat-square" alt="System Design">
 
 <sub>May 14, 2026</sub>
 
@@ -2537,6 +2768,39 @@ _Build and deploy machine learning models and evaluation frameworks for customer
 
 ---
 
+### [Software Engineer (C#/.NET)](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003)
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, New York · `Mid` · `$101k-$134k` · `Bonus` · `Equity`
+
+_Develop high-volume, highly scalable server-side online services for game franchises including matchmaking, cloud saves, leaderboards, and player inventory systems. Build distributed systems serving millions of concurrent players across console and external clients with expertise in Windows Server, SQL Server, and .NET infrastructure. · [Apply →](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003)_
+
+<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET"> <img src="https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square" alt="SQL Server"> <img src="https://img.shields.io/badge/API_Design-3B82F6?style=flat-square" alt="API Design"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Perforce-3B82F6?style=flat-square" alt="Perforce"> <img src="https://img.shields.io/badge/Xbox_Live-3B82F6?style=flat-square" alt="Xbox Live">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Sr. Software Engineer - MarTech(Remote)](https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build and integrate marketing technology stacks across patient acquisition, provider growth, and partner platforms, enabling campaign launch and measurement at scale. Lead complex distributed systems in a fast-paced healthcare martech environment where technical decisions directly impact patient access to mental health care. · [Apply →](https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9)_
+
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Principal AI Engineer (Remote)](https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
+
+_Design and architect the AI foundation for generative AI systems across mental healthcare, owning core platform primitives like RAG and agentic loops while ensuring production-grade safety and compliance in a regulated environment. Scale AI-powered patient engagement and provider workflows in healthcare, navigating both technical complexity and HIPAA requirements. · [Apply →](https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/RAG-3B82F6?style=flat-square" alt="RAG"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/MLOps-3B82F6?style=flat-square" alt="MLOps">
+
+<sub>May 14, 2026</sub>
+
+---
+
 ### [Senior/Principal Platform Engineer, ML Platform](https://careers.roblox.com/jobs/7185278?gh_jid=7185278)
 <a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal` · `$277170-$343340` · `Equity`
 
@@ -2576,39 +2840,6 @@ _Build the Open Cloud platform and HTTP API infrastructure that enables Roblox c
 _Design and develop build, release, and continuous integration automation tools for the Roblox Game Engine, serving multi-platform deployments to millions of concurrent players. Support the full software lifecycle including crash reporting, test environments, and deployment systems at scale. · [Apply →](https://careers.roblox.com/jobs/7923586?gh_jid=7923586)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Bash-3B82F6?style=flat-square" alt="Bash"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/TeamCity-3B82F6?style=flat-square" alt="TeamCity"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Jenkins-3B82F6?style=flat-square" alt="Jenkins">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Software Engineer (C#/.NET)](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003)
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, New York · `Mid` · `$101k-$134k` · `Bonus` · `Equity`
-
-_Develop high-volume, highly scalable server-side online services for game franchises including matchmaking, cloud saves, leaderboards, and player inventory systems. Build distributed systems serving millions of concurrent players across console and external clients with expertise in Windows Server, SQL Server, and .NET infrastructure. · [Apply →](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003)_
-
-<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET"> <img src="https://img.shields.io/badge/SQL_Server-3B82F6?style=flat-square" alt="SQL Server"> <img src="https://img.shields.io/badge/API_Design-3B82F6?style=flat-square" alt="API Design"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Perforce-3B82F6?style=flat-square" alt="Perforce"> <img src="https://img.shields.io/badge/Xbox_Live-3B82F6?style=flat-square" alt="Xbox Live">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Sr. Software Engineer - MarTech(Remote)](https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Build and integrate marketing technology stacks across patient acquisition, provider growth, and partner platforms, enabling campaign launch and measurement at scale. Lead complex distributed systems in a fast-paced healthcare martech environment where technical decisions directly impact patient access to mental health care. · [Apply →](https://jobs.ashbyhq.com/rula/01f1a2b8-dcae-4a8b-bd37-fe09cea3bdf9)_
-
-<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Principal AI Engineer (Remote)](https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
-
-_Design and architect the AI foundation for generative AI systems across mental healthcare, owning core platform primitives like RAG and agentic loops while ensuring production-grade safety and compliance in a regulated environment. Scale AI-powered patient engagement and provider workflows in healthcare, navigating both technical complexity and HIPAA requirements. · [Apply →](https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/RAG-3B82F6?style=flat-square" alt="RAG"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/MLOps-3B82F6?style=flat-square" alt="MLOps">
 
 <sub>May 14, 2026</sub>
 
@@ -2767,6 +2998,83 @@ _Build and own end-to-end quality testing for Vapi's voice AI platform, defining
 _Build infrastructure and AI tools to enable agentic scientific discovery systems, including machine learning pipelines, model training workflows, and agent frameworks for domains like biology and neuroscience. Bridge cutting-edge research with production systems at scale while maintaining open-source contributions. · [Apply →](https://job-boards.greenhouse.io/thealleninstitute/jobs/7899565)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/Jax-3B82F6?style=flat-square" alt="Jax"> <img src="https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square" alt="TensorFlow"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/NLP-3B82F6?style=flat-square" alt="NLP">
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Camera Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5137179007?gh_jid=5137179007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Lexington, Massachusetts · `Mid` · `$98k-$130k` · `Equity`
+
+_Develop and maintain test automation software, data analytics systems, and report generation tools for infrared camera systems in defense manufacturing. Requires U.S. Secret security clearance and hands-on work with complex opto-mechanical and firmware systems in production environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137179007?gh_jid=5137179007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square" alt="Test Automation"> <img src="https://img.shields.io/badge/Data_Acquisition-3B82F6?style=flat-square" alt="Data Acquisition"> <img src="https://img.shields.io/badge/Root_Cause_Analysis-3B82F6?style=flat-square" alt="Root Cause Analysis"> <img src="https://img.shields.io/badge/Infrared_Systems-3B82F6?style=flat-square" alt="Infrared Systems"> <img src="https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square" alt="Security Clearance">
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Principal Technical Lead, AI Robotics](https://boards.greenhouse.io/andurilindustries/jobs/5136544007?gh_jid=5136544007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Principal` · `$254k-$444k` · `Equity`
+
+_Architect and lead development of autonomous robotic systems for defense applications, including locomotion, manipulation, perception, and whole-body control. Requires hands-on technical contribution and experience shipping real-world robotic systems in unstructured, contested environments with an aggressive delivery timeline. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136544007?gh_jid=5136544007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square" alt="Reinforcement Learning"> <img src="https://img.shields.io/badge/Robot_Manipulation-3B82F6?style=flat-square" alt="Robot Manipulation"> <img src="https://img.shields.io/badge/Legged_Locomotion-3B82F6?style=flat-square" alt="Legged Locomotion"> <img src="https://img.shields.io/badge/Whole--Body_Control-3B82F6?style=flat-square" alt="Whole-Body Control"> <img src="https://img.shields.io/badge/Sim--to--Real_Transfer-3B82F6?style=flat-square" alt="Sim-to-Real Transfer"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Senior Software Engineer, Full-stack](https://boards.greenhouse.io/andurilindustries/jobs/5137048007?gh_jid=5137048007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$191k—$253k USD` · `Equity`
+
+_Design and build real-time, map-based interfaces and full-stack software systems for autonomous surface vessels and maritime command-and-control platforms. Requires Secret security clearance and involvement across the complete software lifecycle from ConOps through deployment to military customers. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137048007?gh_jid=5137048007)_
+
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/React_Native-3B82F6?style=flat-square" alt="React Native"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Haskell-3B82F6?style=flat-square" alt="Haskell"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python">
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Senior Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Reston, Virginia · `Senior` · `$191k-$253k` · `Equity`
+
+_Design and implement test automation frameworks, scripts, and custom utilities to validate advanced networking devices and systems. Requires active security clearance and involves Hardware-In-The-Loop testing of defense/IC systems in a specialized domain. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Wireshark-3B82F6?style=flat-square" alt="Wireshark"> <img src="https://img.shields.io/badge/Test_Automation_Frameworks-3B82F6?style=flat-square" alt="Test Automation Frameworks"> <img src="https://img.shields.io/badge/Hardware--In--The--Loop_Testing-3B82F6?style=flat-square" alt="Hardware-In-The-Loop Testing"> <img src="https://img.shields.io/badge/Networking_Protocols-3B82F6?style=flat-square" alt="Networking Protocols"> <img src="https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square" alt="Security Clearance">
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136753007?gh_jid=5136753007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boston, Massachusetts · `Mid` · `$166k-$220k` · `Equity`
+
+_Build autonomy, simulation, and command-and-control software for autonomous maritime platforms and underwater vessels operating at scale. Requires active U.S. Secret security clearance and involvement in full lifecycle product delivery including manufacturing, deployment, and field operations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5136753007?gh_jid=5136753007)_
+
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Robotics-3B82F6?style=flat-square" alt="Robotics"> <img src="https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square" alt="Security Clearance">
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Software Engineer, Full-stack](https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity`
+
+_Design and build real-time, map-based interfaces and backend systems for autonomous maritime vehicles, integrating sensor data streams with mission autonomy software on Lattice OS. Requires ability to work across the full software stack in a defense domain requiring security clearance and up to 20% travel to support deployed systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007)_
+
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/React_Native-3B82F6?style=flat-square" alt="React Native"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Android-3B82F6?style=flat-square" alt="Android"> <img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/Security_Clearance-3B82F6?style=flat-square" alt="Security Clearance">
+
+<sub>May 13, 2026</sub>
+
+---
+
+### [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5088766007?gh_jid=5088766007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Staff` · `$220k–$292k` · `Equity`
+
+_Architect and build distributed systems for manufacturing execution (work order management, scheduling, material flow, capacity planning) that orchestrate Anduril's production operations at scale. This role bridges manufacturing domain requirements with platform infrastructure in a defense context requiring security clearance and involving mission-critical systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5088766007?gh_jid=5088766007)_
+
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Remix-3B82F6?style=flat-square" alt="Remix"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Manufacturing_Execution_Systems_%28MES%29-3B82F6?style=flat-square" alt="Manufacturing Execution Systems (MES)"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/U.S._Person_Status_%2F_TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="U.S. Person Status / TS/SCI Clearance">
 
 <sub>May 13, 2026</sub>
 
@@ -3036,6 +3344,17 @@ _Build tools, pipelines, and systems for character asset development in League o
 
 ---
 
+### [Full Stack Engineer (C#/React)](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003)
+<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, New York · `Mid` · `$101k–$134k` · `Bonus` · `Equity`
+
+_Develop full-stack online services infrastructure (matchmaking, cloud saves, player stats, leaderboards) that powers Rockstar's game platforms using C#, React, and SQL. Work on foundational systems and tooling that enable global teams to build and maintain the online environment at scale. · [Apply →](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003)_
+
+<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/MSSQL-3B82F6?style=flat-square" alt="MSSQL"> <img src="https://img.shields.io/badge/T--SQL-3B82F6?style=flat-square" alt="T-SQL"> <img src="https://img.shields.io/badge/Perforce-3B82F6?style=flat-square" alt="Perforce"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis">
+
+<sub>May 13, 2026</sub>
+
+---
+
 ### [Senior Engineering Manager - Age Assurance (Accounts)](https://careers.roblox.com/jobs/7875734?gh_jid=7875734)
 <a href="https://roblox.com"><img src="https://www.google.com/s2/favicons?domain=roblox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roblox** · San Mateo, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$345k-$399k` · `Equity`
 
@@ -3053,17 +3372,6 @@ _Build and operate scalable age estimation ML models and fraud detection systems
 _Build and maintain internal software products and automated systems that identify, prioritize, and remediate security vulnerabilities at scale across Roblox's platform and tech stack. Design tools that make vulnerability management accessible and actionable for engineers across the organization. · [Apply →](https://careers.roblox.com/jobs/7922649?gh_jid=7922649)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/Security_Tools-3B82F6?style=flat-square" alt="Security Tools"> <img src="https://img.shields.io/badge/Vulnerability_Management-3B82F6?style=flat-square" alt="Vulnerability Management"> <img src="https://img.shields.io/badge/Automated_Systems-3B82F6?style=flat-square" alt="Automated Systems">
-
-<sub>May 13, 2026</sub>
-
----
-
-### [Full Stack Engineer (C#/React)](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003)
-<a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockstar Games** · Manhattan, New York · `Mid` · `$101k–$134k` · `Bonus` · `Equity`
-
-_Develop full-stack online services infrastructure (matchmaking, cloud saves, player stats, leaderboards) that powers Rockstar's game platforms using C#, React, and SQL. Work on foundational systems and tooling that enable global teams to build and maintain the online environment at scale. · [Apply →](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003)_
-
-<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/MSSQL-3B82F6?style=flat-square" alt="MSSQL"> <img src="https://img.shields.io/badge/T--SQL-3B82F6?style=flat-square" alt="T-SQL"> <img src="https://img.shields.io/badge/Perforce-3B82F6?style=flat-square" alt="Perforce"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis">
 
 <sub>May 13, 2026</sub>
 
