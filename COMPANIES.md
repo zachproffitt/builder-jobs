@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **146 companies** · **315 open roles** (15 new today)
+### **149 companies** · **323 open roles** (17 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -36,7 +36,7 @@ Advanced Space develops software and services for space situational awareness, s
 
 Afresh builds supply chain software for grocery retailers and food distributors to reduce food waste and optimize inventory management. The platform uses artificial intelligence to forecast demand and automate ordering decisions for perishable goods across stores.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Full-Stack Engineer - Production Planning](https://job-boards.greenhouse.io/afresh/jobs/5998416004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$130k-$195k` (May 18)
+- [Full-Stack Engineer - Production Planning](https://job-boards.greenhouse.io/afresh/jobs/5998416004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$130k-$195k` (May 18)
 - [Software Engineer, ML Platform](https://job-boards.greenhouse.io/afresh/jobs/5996537004) · Ontario, Canada · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$114k-$174k CAD` (May 18)
 
 ---
@@ -129,6 +129,7 @@ Anyscale builds Ray, an open-source distributed computing framework, and offers 
 
 Applied Intuition builds physical AI systems automating machines in automotive, defense, trucking, mining, construction, and agriculture.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer (C++) ](https://boards.greenhouse.io/appliedintuition/jobs/4696630005?gh_jid=4696630005) · Ann Arbor, Michigan · `Mid` · `$100k–$200k` · `Equity` (May 18)
 - [Defense - Lead Software Engineer ](https://boards.greenhouse.io/appliedintuition/jobs/4696317005?gh_jid=4696317005) · Washington, D.C. · `Senior` · `$140k-$180k` · `Equity` (May 18)
 - [Robotic Software Engineer (Drone Stack)](https://boards.greenhouse.io/appliedintuition/jobs/4677114005?gh_jid=4677114005) · Washington, D.C. · `Mid` · `$135k-$175k` · `Equity` (May 14)
 
@@ -301,7 +302,7 @@ Cerebras builds AI training platforms used by machine learning engineers.
 
 CesiumAstro develops radio frequency and antenna technologies for satellite communications, focusing on phased array systems that enable improved connectivity and beam steering capabilities. The company operates in the space technology and satellite communications domain, serving both government and commercial customers requiring advanced satellite ground terminals and in-space antenna solutions.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Embedded Software Quality Engineer II](https://jobs.lever.co/CesiumAstro/b286ced7-4549-496a-9cfd-d92880245824) · Westminster, Colorado · `Senior` (May 18)
+- [Senior Embedded Software Quality Engineer II](https://jobs.lever.co/CesiumAstro/b286ced7-4549-496a-9cfd-d92880245824) · Westminster, Colorado · `Senior` (May 18)
 - [Senior RF Test Engineer II](https://jobs.lever.co/CesiumAstro/4e68cf0b-fd21-47ff-b0b3-31b47804685c) · Westminster, Colorado · `Senior` (May 18)
 - [Senior Communications Systems Engineer II](https://jobs.lever.co/CesiumAstro/d877e4f4-aa45-4560-ab45-74e6095105fe) · Austin, Texas · `Senior` (May 14)
 
@@ -320,6 +321,16 @@ Chainguard provides container image and software supply chain security solutions
 Claim Health builds software that helps healthcare providers and patients automate and manage the insurance claims process, including claims submission, tracking, and appeals. The company operates in the healthcare technology and revenue cycle management domain, serving medical practices, clinics, and health systems.
 
 - [Forward Deployed Engineer](https://jobs.ashbyhq.com/claim-health/c9512763-dcae-40ed-a929-37d16d915ed0) · New York, New York · `Mid` (May 15)
+
+---
+
+## <a href="https://clay.com"><img src="https://www.google.com/s2/favicons?domain=clay.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Clay](https://clay.com)
+
+Clay is a platform that enables users to build and run custom data automation workflows without coding, allowing teams to enrich, verify, and synchronize data across multiple business applications and APIs.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [GTM Engineer - CX](https://jobs.ashbyhq.com/claylabs/e43101dd-4e98-4c60-bc1b-adbbb38c7b15) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` (May 18)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [GTM Engineer - Ecosystem](https://jobs.ashbyhq.com/claylabs/242be863-2f62-44a7-909d-6c351dee81d1) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [GTM Engineer - Seller Efficiency](https://jobs.ashbyhq.com/claylabs/d5c7f612-10e7-4080-8b8a-d51e70fff9c5) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
 
 ---
 
@@ -417,7 +428,9 @@ Dragos provides cybersecurity software and services specifically designed for in
 
 ---
 
-## <a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Eight Sleep](https://eightsleep.com)
+## <a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[EightSleep](https://eightsleep.com)
+
+Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 
 - [Senior Firmware Engineer, Bluetooth](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a) · San Francisco, California / New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` (May 15)
 - [Senior Software Engineer - Mobile (iOS)](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82) · San Francisco, California · `Senior` · `Equity` (May 15)
@@ -535,7 +548,7 @@ Hypercubic builds agentic AI software designed to help enterprises modernize the
 
 inKind operates a platform that enables businesses to manage and distribute digital gift cards and incentives to employees and customers. The company serves the employee engagement and customer loyalty space by providing companies with tools to create, send, and track branded digital rewards across various retail and dining partners.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer in Quality, Automation & AI ](https://job-boards.greenhouse.io/inkind/jobs/5224262008) · Austin, Texas · `Mid` · `$110k-$130k` (May 18)
+- [Software Engineer in Quality, Automation & AI ](https://job-boards.greenhouse.io/inkind/jobs/5224262008) · Austin, Texas · `Mid` · `$110k-$130k` (May 18)
 
 ---
 
@@ -761,7 +774,7 @@ Oklo designs and develops micro nuclear reactors intended for deployment in remo
 
 Okta builds identity and access management (IAM) software that enables organizations to securely connect their users to applications and systems across cloud and on-premises environments. The company operates in the cybersecurity and enterprise software domain, providing authentication, authorization, and user lifecycle management solutions for businesses of all sizes.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Site Reliability Engineer, TCore (FedRamp)](https://www.okta.com/company/careers/opportunity/7674807?gh_jid=7674807) · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$174k—$267k` · `Equity` · `Bonus` (May 18)
+- [Staff Site Reliability Engineer, TCore (FedRamp)](https://www.okta.com/company/careers/opportunity/7674807?gh_jid=7674807) · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$174k—$267k` · `Equity` · `Bonus` (May 18)
 - [Senior Software Engineer, AI Framework & Services](https://www.okta.com/company/careers/opportunity/7872569?gh_jid=7872569) · Toronto, Ontario, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$136k-$187k CAD` · `Equity` · `Bonus` (May 15)
 - [Senior Software Engineer - Platform](https://www.okta.com/company/careers/opportunity/7635237?gh_jid=7635237) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$136k—$187k CAD` · `Equity` · `Bonus` (May 15)
 - [Staff Security Engineer, Defensive Cyber Engineering](https://www.okta.com/company/careers/opportunity/7923030?gh_jid=7923030) · Toronto, Ontario, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$141k—$193k CAD` · `Equity` · `Bonus` (May 14)
@@ -915,7 +928,7 @@ Retell AI builds a voice AI platform that enables businesses to create and deplo
 
 Riot Games develops League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, Wild Rift, and Arcane, and operates LOL and VALORANT Esports.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer - VALORANT, Performance](https://www.riotgames.com/en/work-with-us/job/7729115?gh_jid=7729115) · Los Angeles, California · `Mid` (May 18)
+- [Software Engineer - VALORANT, Performance](https://www.riotgames.com/en/work-with-us/job/7729115?gh_jid=7729115) · Los Angeles, California · `Mid` (May 18)
 - [Senior Software Engineer, AI/ML Tools - Unpublished R&D Product](https://www.riotgames.com/en/work-with-us/job/7733820?gh_jid=7733820) · Los Angeles, USA; Mercer Island, USA · `Senior` (May 16)
 - [Senior Software Engineer, Player Experience Tools & Services - Publishing Platform](https://www.riotgames.com/en/work-with-us/job/7545471?gh_jid=7545471) · Los Angeles, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` (May 13)
 - [Senior Tools & Pipeline Technical Artist - League of Legends, Champs Tech](https://www.riotgames.com/en/work-with-us/job/7875327?gh_jid=7875327) · Los Angeles, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` (May 13)
@@ -983,12 +996,20 @@ Rula develops mental health software that provides evidence-based care and reduc
 
 ---
 
+## <a href="https://saronic.com"><img src="https://www.google.com/s2/favicons?domain=saronic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Saronic](https://saronic.com)
+
+Saronic develops autonomous surface vessels for maritime operations including inspection, surveillance, and environmental monitoring. The company's USVs (unmanned surface vehicles) operate in the marine technology sector, serving applications in offshore energy, coastal defense, and environmental protection.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) · Austin, Texas · `Intern` (May 18)
+
+---
+
 ## <a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Scale AI](https://scale.com)
 
 Scale AI provides data, evaluations, and outcomes to AI labs, governments, and Fortune 500 companies.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Research Scientist, Safety Post Training](https://job-boards.greenhouse.io/scaleai/jobs/4696595005) · San Francisco, California / New York, New York · `Senior` · `$216k-$270k` · `Equity` (May 18)
 - [GTM Systems Analyst](https://job-boards.greenhouse.io/scaleai/jobs/4688911005) · San Francisco, California · `Senior` · `$165k–$207k` · `Equity` (May 18)
+- [Research Scientist, Safety Post Training](https://job-boards.greenhouse.io/scaleai/jobs/4696595005) · San Francisco, California / New York, New York · `Senior` · `$216k-$270k` · `Equity` (May 18)
 - [Forward Deployed AI Engineer, Enterprise ](https://job-boards.greenhouse.io/scaleai/jobs/4694861005) · San Francisco, California / New York, New York / Seattle, Washington · `Senior` · `$180k—$225k` · `Equity` (May 16)
 - [Senior Forward Deployed AI Engineer, Enterprise ](https://job-boards.greenhouse.io/scaleai/jobs/4694863005) · San Francisco, California / New York, New York / Seattle, Washington · `Senior` · `$216k—$270k` · `Equity` (May 16)
 - [Senior Staff Forward Deployed AI Engineer, Enterprise ](https://job-boards.greenhouse.io/scaleai/jobs/4694869005) · San Francisco, California / New York, New York / Seattle, Washington · `Staff` · `$288k—$360k` · `Equity` (May 16)
@@ -1108,7 +1129,7 @@ SpaceX designs and manufactures rockets and spacecraft for transporting cargo an
 - [Automation & Controls Engineer, Solar Cell Factory (Starlink)](https://boards.greenhouse.io/spacex/jobs/8545793002?gh_jid=8545793002) · Bastrop, Texas · `Junior` (May 15)
 - [Data & Control Systems Engineer](https://boards.greenhouse.io/spacex/jobs/8552660002?gh_jid=8552660002) · Cape Canaveral, Florida · `Junior` (May 15)
 - [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002) · Hawthorne, California · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
-- [Wireless Firmware Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8546722002?gh_jid=8546722002) · Redmond, Washington / Remote · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
+- [Wireless Firmware Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8546713002?gh_jid=8546713002) · Sunnyvale, California · `Junior` · `$135k-$185k` · `Equity` · `Bonus` (May 15)
 - [Embedded Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Product Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543671002?gh_jid=8543671002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543668002?gh_jid=8543668002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
@@ -1209,6 +1230,8 @@ Tenstorrent builds AI computing hardware using ASICs and RISC-V technology for A
 
 Toast is a cloud-based point-of-sale and restaurant management platform that helps restaurants manage orders, payments, inventory, and staff scheduling. The company serves full-service restaurants, quick-service restaurants, and other food service establishments globally.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Principal Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7745976) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$180k-$368k` · `Equity` · `Bonus` (May 18)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Software Engineer, Tech Lead ](https://careers.toasttab.com/jobs?gh_jid=7895604) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$142k—$227k CAD` · `Equity` · `Bonus` (May 18)
 - [Staff Software Engineer - Application Infrastructure](https://careers.toasttab.com/jobs?gh_jid=7727235) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Principal Software Engineer, AI Team Agent](https://careers.toasttab.com/jobs?gh_jid=7936022) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` (May 17)
 - [GTM Engineer: Data Infrastructure & AI Intelligence](https://careers.toasttab.com/jobs?gh_jid=7931361) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$105k—$168k` · `Equity` · `Bonus` (May 15)
@@ -1259,6 +1282,14 @@ Twilio builds cloud-based communication APIs and platforms that enable developer
 Vapi builds an API platform that enables developers to create and deploy voice AI agents that can make and receive phone calls. The platform operates in the conversational AI and voice technology domain, allowing businesses to automate customer interactions through natural language conversations over phone lines.
 
 - [Member of Technical Staff, QA](https://jobs.ashbyhq.com/vapi/94e93b56-c7ac-4765-9ffb-aefcbe0bb795) · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` (May 14)
+
+---
+
+## <a href="https://www.vast.space"><img src="https://www.google.com/s2/favicons?domain=www.vast.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Vast](https://www.vast.space)
+
+Vast builds next-generation habitats for long-term human presence in low-Earth orbit.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Mission Operations Engineer](https://boards.greenhouse.io/vast/jobs/4681134006?gh_jid=4681134006) · Long Beach, California · `Senior` · `$137k-$230k` · `Equity` (May 18)
 
 ---
 
