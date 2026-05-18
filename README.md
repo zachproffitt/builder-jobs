@@ -2,13 +2,35 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **254 open roles** (5 new today) &nbsp;·&nbsp; 1640 companies searched
+### **256 open roles** (7 new today) &nbsp;·&nbsp; 1640 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
 <br>
 
 ## May 18, 2026
+
+### [SRE Operations Engineer](jobs/okta/sre-operations-engineer-7464025.md)
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · Bengaluru, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior`
+
+_Operate and maintain Okta's Customer Identity Cloud production systems, ensuring high availability and performance at scale. Triage escalations, execute runbooks, manage deployments and capacity planning while collaborating with the SRE team to improve platform reliability. · [Apply →](https://www.okta.com/company/careers/opportunity/7464025?gh_jid=7464025)_
+
+<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square" alt="MongoDB"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/Shell_scripting-3B82F6?style=flat-square" alt="Shell scripting">
+
+<sub>May 18, 2026 at 07:43 UTC</sub>
+
+---
+
+### [Senior Salesforce Developer](jobs/toast/senior-salesforce-developer-7882075.md)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Bangalore ,Karnataka, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build and maintain Salesforce platform solutions including Apex development, Lightning Web Components, and integrations within an enterprise environment. Lead code reviews, mentor team members, and architect solutions for Salesforce Sales Cloud and CPQ implementations. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7882075)_
+
+<img src="https://img.shields.io/badge/Salesforce_%28Apex-3B82F6?style=flat-square" alt="Salesforce (Apex"> <img src="https://img.shields.io/badge/Lightning-3B82F6?style=flat-square" alt="Lightning"> <img src="https://img.shields.io/badge/VF%29-3B82F6?style=flat-square" alt="VF)"> <img src="https://img.shields.io/badge/Salesforce_CPQ-3B82F6?style=flat-square" alt="Salesforce CPQ"> <img src="https://img.shields.io/badge/REST%2FSOAP_Web_Services-3B82F6?style=flat-square" alt="REST/SOAP Web Services"> <img src="https://img.shields.io/badge/Git%2FGitHub-3B82F6?style=flat-square" alt="Git/GitHub"> <img src="https://img.shields.io/badge/Salesforce_Platform_Developer_Certification-3B82F6?style=flat-square" alt="Salesforce Platform Developer Certification"> <img src="https://img.shields.io/badge/Agile%2FScrum-3B82F6?style=flat-square" alt="Agile/Scrum"> <img src="https://img.shields.io/badge/Salesforce_Sales_Cloud-3B82F6?style=flat-square" alt="Salesforce Sales Cloud"> <img src="https://img.shields.io/badge/Salesforce_Service_Cloud-3B82F6?style=flat-square" alt="Salesforce Service Cloud">
+
+<sub>May 18, 2026 at 07:43 UTC</sub>
+
+---
 
 ### [Staff Software Engineer - Backend (Spring)](jobs/okta/staff-software-engineer-backend-spring-7936790.md)
 <a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · Bengaluru, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
@@ -691,8 +713,8 @@ _Design and build infrastructure that schedules, orchestrates, and observes larg
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -702,8 +724,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
