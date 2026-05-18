@@ -2,9 +2,46 @@
 
 Remote engineering roles only, scraped hourly and classified by Claude. Listings older than 14 days are removed automatically.
 
-### **75 open roles** (0 new today)
+### **78 open roles** (3 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## May 18, 2026
+
+### [Senior Backend Engineer](jobs/corelight-inc/senior-backend-engineer-7926834.md)
+<a href="https://corelight.com"><img src="https://www.google.com/s2/favicons?domain=corelight.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Corelight Inc.** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$145k—$188k` · `Equity` · `Bonus`
+
+_Architect and build scalable cloud-native backend systems that transform network data into actionable security intelligence, using AWS serverless architectures and real-time data pipelines to power Corelight's NDR SaaS platform. Lead the design of high-performance APIs and ML data pipelines that handle massive network datasets for elite security teams. · [Apply →](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka"> <img src="https://img.shields.io/badge/REST-3B82F6?style=flat-square" alt="REST"> <img src="https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square" alt="GraphQL"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
+
+<sub>May 18, 2026 at 13:33 UTC</sub>
+
+---
+
+### [Sr Backend Engineer - Platform](jobs/signoz/sr-backend-engineer-platform-e8c0ae83-391b-4c68-be61-ca32392d223f.md)
+<a href="https://signoz.io"><img src="https://www.google.com/s2/favicons?domain=signoz.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SigNoz** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and implement backend APIs, services, and core infrastructure components in Go to handle petabyte-scale observability data across SaaS operations, billing, caching, and auto-scalability. Build distributed systems managing high-throughput data ingestion while maintaining performance at scale. · [Apply →](https://jobs.ashbyhq.com/SigNoz/e8c0ae83-391b-4c68-be61-ca32392d223f)_
+
+<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka"> <img src="https://img.shields.io/badge/ClickHouse-3B82F6?style=flat-square" alt="ClickHouse"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Concurrency_Programming-3B82F6?style=flat-square" alt="Concurrency Programming"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL">
+
+<sub>May 18, 2026 at 13:33 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Application Infrastructure](jobs/toast/staff-software-engineer-application-infrastructure-7727235.md)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus`
+
+_Architect and operate ultra-reliable, high-performance cloud infrastructure and shared services handling billions of requests daily across hundreds of internal services and hundreds of thousands of mobile devices. Drive performance optimization, event-driven architecture at scale using Apache Pulsar, and distributed systems reliability for a mission-critical restaurant platform growing exponentially. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7727235)_
+
+<img src="https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square" alt="DynamoDB"> <img src="https://img.shields.io/badge/Apache_Pulsar-3B82F6?style=flat-square" alt="Apache Pulsar"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
+
+<sub>May 18, 2026 at 13:33 UTC</sub>
+
+---
 
 <br>
 
