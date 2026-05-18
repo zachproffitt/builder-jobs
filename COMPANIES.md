@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **141 companies** · **299 open roles** (53 new today)
+### **141 companies** · **300 open roles** (54 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -44,6 +44,7 @@ Agility Robotics builds humanoid robots deployed in manufacturing, distribution,
 
 Airbnb operates a platform connecting travelers with vacation rentals in 220+ countries.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Machine Learning Engineer, Relevance and Personalization](jobs/airbnb/staff-machine-learning-engineer-relevance-and-personalization-7450356.md) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$212k—$265k` · `Bonus` · `Equity` (May 18)
 - [Engineering Manager, Marketing Technology - Segmentation Platform & Insights Platform](jobs/airbnb/engineering-manager-marketing-technology-segmentation-platform-insights-platform-7927488.md) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$212k—$265k USD` · `Equity` · `Bonus` (May 15)
 - [Engineering Manager, Experimentation Infrastructure](jobs/airbnb/engineering-manager-experimentation-infrastructure-7707946.md) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$204k-$255k` · `Bonus` · `Equity` (May 14)
 - [Engineering Manager, Storage SRE](jobs/airbnb/engineering-manager-storage-sre-7927371.md) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$212k-$265k` · `Bonus` · `Equity` (May 14)
