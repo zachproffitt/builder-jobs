@@ -3,30 +3,30 @@ id: ashby-openai-7b05d54f-c4ef-4677-bb05-f69288f585d8
 company: OpenAI
 title: Tech Lead, Deployment & Operations — Custom Infrastructure
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-16
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T01:05:29+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/7b05d54f-c4ef-4677-bb05-f69288f585d8
-summary: Lead deployment and operations of OpenAI's custom silicon and systems in production data center environments, taking hardware from lab validation through fleet-wide production reliability. Requires hands-on technical leadership across silicon bring-up, system integration, data center deployment, and operational excellence at scale in a fast-moving, ambiguous environment.
-skills: Hardware deployment, Silicon bring-up, Data center operations, Fleet operations, Reliability engineering, Infrastructure automation, Incident response, Root-cause analysis
-level: manager
+summary: Lead deployment and operations for OpenAI's custom AI silicon and systems from lab validation through production data center environments at scale. Establish operational processes, tooling, and cross-functional alignment while staying hands-on in hardware bring-up, fleet debugging, and reliability engineering.
+skills: Hardware deployment, Data center operations, Silicon bring-up, Systems validation, Fleet operations, Reliability engineering, Infrastructure automation, Incident response
+level: senior
 comp: $342k-$445k
 comp_extras: 
-render_hash: 09449ef6
+render_hash: 0fcd56c2
 -->
 
 # Tech Lead, Deployment & Operations — Custom Infrastructure
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$342k-$445k`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$342k-$445k`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 
-_Lead deployment and operations of OpenAI's custom silicon and systems in production data center environments, taking hardware from lab validation through fleet-wide production reliability. Requires hands-on technical leadership across silicon bring-up, system integration, data center deployment, and operational excellence at scale in a fast-moving, ambiguous environment._
+_Lead deployment and operations for OpenAI's custom AI silicon and systems from lab validation through production data center environments at scale. Establish operational processes, tooling, and cross-functional alignment while staying hands-on in hardware bring-up, fleet debugging, and reliability engineering._
 
-<img src="https://img.shields.io/badge/Hardware_deployment-3B82F6?style=flat-square" alt="Hardware deployment"> <img src="https://img.shields.io/badge/Silicon_bring--up-3B82F6?style=flat-square" alt="Silicon bring-up"> <img src="https://img.shields.io/badge/Data_center_operations-3B82F6?style=flat-square" alt="Data center operations"> <img src="https://img.shields.io/badge/Fleet_operations-3B82F6?style=flat-square" alt="Fleet operations"> <img src="https://img.shields.io/badge/Reliability_engineering-3B82F6?style=flat-square" alt="Reliability engineering"> <img src="https://img.shields.io/badge/Infrastructure_automation-3B82F6?style=flat-square" alt="Infrastructure automation"> <img src="https://img.shields.io/badge/Incident_response-3B82F6?style=flat-square" alt="Incident response"> <img src="https://img.shields.io/badge/Root--cause_analysis-3B82F6?style=flat-square" alt="Root-cause analysis">
+<img src="https://img.shields.io/badge/Hardware_deployment-3B82F6?style=flat-square" alt="Hardware deployment"> <img src="https://img.shields.io/badge/Data_center_operations-3B82F6?style=flat-square" alt="Data center operations"> <img src="https://img.shields.io/badge/Silicon_bring--up-3B82F6?style=flat-square" alt="Silicon bring-up"> <img src="https://img.shields.io/badge/Systems_validation-3B82F6?style=flat-square" alt="Systems validation"> <img src="https://img.shields.io/badge/Fleet_operations-3B82F6?style=flat-square" alt="Fleet operations"> <img src="https://img.shields.io/badge/Reliability_engineering-3B82F6?style=flat-square" alt="Reliability engineering"> <img src="https://img.shields.io/badge/Infrastructure_automation-3B82F6?style=flat-square" alt="Infrastructure automation"> <img src="https://img.shields.io/badge/Incident_response-3B82F6?style=flat-square" alt="Incident response">
 
 <sub>Posted May 16, 2026</sub>
 

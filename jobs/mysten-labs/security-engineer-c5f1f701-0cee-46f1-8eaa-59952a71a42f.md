@@ -10,12 +10,12 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/mystenlabs/c5f1f701-0cee-46f1-8eaa-59952a71a42f
-summary: Build and maintain custody systems, key management infrastructure, and anti-scam tooling for the Sui blockchain. Harden signing paths, conduct security reviews of cryptographic and access control systems, and investigate security incidents in a high-stakes production environment.
-skills: Rust, TypeScript, Python, Move, Key Management Systems, Cryptography, HSM
+summary: Build and maintain custody systems, signing infrastructure, and anti-scam tooling for the Sui blockchain, protecting validator keys, operational keys, and on-chain assets. Work on cryptographically-sensitive code in a high-stakes production environment where security failures directly impact user funds.
+skills: Rust, TypeScript, Python, Move, Key Management Systems, Cryptography, HSM, Cloud KMS
 level: mid
 comp: 
 comp_extras: 
-render_hash: 3a75424d
+render_hash: 1c2d7967
 -->
 
 # Security Engineer
@@ -24,9 +24,9 @@ render_hash: 3a75424d
 
 > Mysten Labs builds Sui, a blockchain platform that uses an object-oriented data model and horizontal scaling to process transactions in parallel. The company operates in the layer-1 blockchain infrastructure space, focusing on enabling fast and low-cost transaction settlement for decentralized applications.
 
-_Build and maintain custody systems, key management infrastructure, and anti-scam tooling for the Sui blockchain. Harden signing paths, conduct security reviews of cryptographic and access control systems, and investigate security incidents in a high-stakes production environment._
+_Build and maintain custody systems, signing infrastructure, and anti-scam tooling for the Sui blockchain, protecting validator keys, operational keys, and on-chain assets. Work on cryptographically-sensitive code in a high-stakes production environment where security failures directly impact user funds._
 
-![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Move](https://img.shields.io/badge/Move-3B82F6?style=flat-square) ![Key Management Systems](https://img.shields.io/badge/Key_Management_Systems-3B82F6?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square) ![HSM](https://img.shields.io/badge/HSM-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Move-3B82F6?style=flat-square" alt="Move"> <img src="https://img.shields.io/badge/Key_Management_Systems-3B82F6?style=flat-square" alt="Key Management Systems"> <img src="https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square" alt="Cryptography"> <img src="https://img.shields.io/badge/HSM-3B82F6?style=flat-square" alt="HSM"> <img src="https://img.shields.io/badge/Cloud_KMS-3B82F6?style=flat-square" alt="Cloud KMS">
 
 <sub>Posted May 14, 2026</sub>
 

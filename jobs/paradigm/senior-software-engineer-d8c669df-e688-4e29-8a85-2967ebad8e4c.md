@@ -3,30 +3,30 @@ id: ashby-paradigmai-d8c669df-e688-4e29-8a85-2967ebad8e4c
 company: Paradigm
 title: Senior Software Engineer
 source: ashby
-location: Remote
+location: San Francisco, CA
 remote: On-site
 hybrid: no
 posted_at: 2026-05-17
 first_seen: 2026-05-17
 first_seen_at: 
 url: https://jobs.ashbyhq.com/paradigmai/d8c669df-e688-4e29-8a85-2967ebad8e4c
-summary: Build and optimize distributed agent orchestration infrastructure capable of parallelizing hundreds of thousands of agents processing millions of tokens per minute. Solve novel challenges in race condition handling, real-time message transmission, and resource optimization at massive scale.
-skills: Go, Redis, PostgreSQL, S3, Temporal, RPC, PubSub, gRPC
+summary: Build distributed infrastructure to orchestrate hundreds of thousands of LLM agents processing millions of tokens per minute, solving race conditions, realtime data transmission, and memory optimization challenges at scale.
+skills: Go, Redis, PostgreSQL, Temporal, gRPC, PubSub, S3, Distributed Systems
 level: senior
 comp: 
 comp_extras: 
-render_hash: 1a25c3bf
+render_hash: 528ab909
 -->
 
 # Senior Software Engineer
 
-<a href="https://www.paradigmai.com"><img src="https://www.google.com/s2/favicons?domain=www.paradigmai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Paradigm** · Remote · `Senior` · On-site
+<a href="https://www.paradigmai.com"><img src="https://www.google.com/s2/favicons?domain=www.paradigmai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Paradigm** · San Francisco, California · `Senior` · On-site
 
 > Paradigm builds enterprise software that uses machine learning to help organizations manage and optimize their supply chains, focusing on demand forecasting, inventory planning, and procurement decisions. The company operates in the supply chain management and artificial intelligence software domain, serving mid-to-large enterprises across retail, manufacturing, and distribution industries.
 
-_Build and optimize distributed agent orchestration infrastructure capable of parallelizing hundreds of thousands of agents processing millions of tokens per minute. Solve novel challenges in race condition handling, real-time message transmission, and resource optimization at massive scale._
+_Build distributed infrastructure to orchestrate hundreds of thousands of LLM agents processing millions of tokens per minute, solving race conditions, realtime data transmission, and memory optimization challenges at scale._
 
-<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/S3-3B82F6?style=flat-square" alt="S3"> <img src="https://img.shields.io/badge/Temporal-3B82F6?style=flat-square" alt="Temporal"> <img src="https://img.shields.io/badge/RPC-3B82F6?style=flat-square" alt="RPC"> <img src="https://img.shields.io/badge/PubSub-3B82F6?style=flat-square" alt="PubSub"> <img src="https://img.shields.io/badge/gRPC-3B82F6?style=flat-square" alt="gRPC">
+<img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Temporal-3B82F6?style=flat-square" alt="Temporal"> <img src="https://img.shields.io/badge/gRPC-3B82F6?style=flat-square" alt="gRPC"> <img src="https://img.shields.io/badge/PubSub-3B82F6?style=flat-square" alt="PubSub"> <img src="https://img.shields.io/badge/S3-3B82F6?style=flat-square" alt="S3"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems">
 
 <sub>Posted May 17, 2026</sub>
 

@@ -3,30 +3,30 @@ id: ashby-socure-6785101c-e12a-4711-8e12-ed68d9e216de
 company: Socure
 title: Software Development Engineer in Test
 source: ashby
-location: Remote - US
+location: Remote
 remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T17:43:28+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de
-summary: Design and build automated quality and validation systems for production and disaster recovery environments, including synthetic transaction validation, continuous health checks, and AI-driven failure analysis. Integrate observability signals with test automation to enable self-diagnosis and autonomous remediation in complex distributed systems.
-skills: Playwright, Jest, TypeScript, Python, AWS, Datadog, CI/CD, Microservices
+summary: Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems.
+skills: Playwright, Jest, TypeScript, Python, AWS, Datadog, REST API testing, CI/CD
 level: senior
 comp: 
 comp_extras: 
-render_hash: 80b00f5f
+render_hash: 9583fd7c
 -->
 
 # Software Development Engineer in Test
 
-<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · US · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Socure provides identity verification and fraud prevention software for financial services, fintech, and cryptocurrency companies. Their platform uses artificial intelligence and machine learning to verify customer identities, detect synthetic fraud, and assess risk during account opening and onboarding processes.
 
-_Design and build automated quality and validation systems for production and disaster recovery environments, including synthetic transaction validation, continuous health checks, and AI-driven failure analysis. Integrate observability signals with test automation to enable self-diagnosis and autonomous remediation in complex distributed systems._
+_Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems._
 
-![Playwright](https://img.shields.io/badge/Playwright-3B82F6?style=flat-square) ![Jest](https://img.shields.io/badge/Jest-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Datadog](https://img.shields.io/badge/Datadog-3B82F6?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jest-3B82F6?style=flat-square" alt="Jest"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/REST_API_testing-3B82F6?style=flat-square" alt="REST API testing"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
 
 <sub>Posted May 15, 2026</sub>
 

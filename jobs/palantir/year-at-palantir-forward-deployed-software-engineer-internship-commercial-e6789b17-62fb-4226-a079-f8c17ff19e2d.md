@@ -10,12 +10,12 @@ posted_at: 2026-03-20
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d
-summary: Build software and deliver customer outcomes by helping clients deploy AI-powered solutions and transforming how organizations operate with Palantir's data platforms. You'll work on critical problems across diverse industries with real deployment responsibility.
+summary: Build software and deliver customer outcomes as a forward-deployed engineer, working on real problems including AI-powered solutions, platform development, and organizational transformation. Work directly with customers and internal teams on critical, high-impact projects in commercial sectors.
 skills: 
 level: intern
 comp: 
 comp_extras: 
-render_hash: e6722327
+render_hash: 37cdba58
 -->
 
 # Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
@@ -24,7 +24,7 @@ render_hash: e6722327
 
 > Palantir builds software for data-driven decisions used by organizations to develop drugs, forecast supply chains, and locate missing children.
 
-_Build software and deliver customer outcomes by helping clients deploy AI-powered solutions and transforming how organizations operate with Palantir's data platforms. You'll work on critical problems across diverse industries with real deployment responsibility._
+_Build software and deliver customer outcomes as a forward-deployed engineer, working on real problems including AI-powered solutions, platform development, and organizational transformation. Work directly with customers and internal teams on critical, high-impact projects in commercial sectors._
 
 <sub>Posted March 20, 2026</sub>
 

@@ -5,17 +5,17 @@ title: Staff Software Engineer - Application Infrastructure
 source: greenhouse
 location: Remote
 remote: Remote
-hybrid: yes
+hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-18
-first_seen_at: 2026-05-18T13:33:04+00:00
+first_seen_at: 
 url: https://careers.toasttab.com/jobs?gh_jid=7727235
-summary: Architect and operate ultra-reliable, high-performance cloud infrastructure and shared services handling billions of requests daily across hundreds of internal services and hundreds of thousands of mobile devices. Drive performance optimization, event-driven architecture at scale using Apache Pulsar, and distributed systems reliability for a mission-critical restaurant platform growing exponentially.
-skills: Kotlin, Java, Go, AWS, PostgreSQL, DynamoDB, Apache Pulsar, Terraform
+summary: Architect and operate ultra-reliable, high-performance cloud services and infrastructure handling billions of requests daily from hundreds of internal services and hundreds of thousands of mobile devices. Drive performance optimization, define engineering best practices, and mentor teams across a mission-critical distributed system at restaurant-scale.
+skills: Java, Kotlin, Go, AWS, PostgreSQL, DynamoDB, Terraform, Apache Pulsar
 level: staff
 comp: $151k-$309k
 comp_extras: equity, bonus
-render_hash: 1f814d33
+render_hash: 5861c1ae
 -->
 
 # Staff Software Engineer - Application Infrastructure
@@ -24,11 +24,11 @@ render_hash: 1f814d33
 
 > Toast is a cloud-based point-of-sale and restaurant management platform that helps restaurants manage orders, payments, inventory, and staff scheduling. The company serves full-service restaurants, quick-service restaurants, and other food service establishments globally.
 
-_Architect and operate ultra-reliable, high-performance cloud infrastructure and shared services handling billions of requests daily across hundreds of internal services and hundreds of thousands of mobile devices. Drive performance optimization, event-driven architecture at scale using Apache Pulsar, and distributed systems reliability for a mission-critical restaurant platform growing exponentially._
+_Architect and operate ultra-reliable, high-performance cloud services and infrastructure handling billions of requests daily from hundreds of internal services and hundreds of thousands of mobile devices. Drive performance optimization, define engineering best practices, and mentor teams across a mission-critical distributed system at restaurant-scale._
 
-<img src="https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square" alt="Kotlin"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square" alt="DynamoDB"> <img src="https://img.shields.io/badge/Apache_Pulsar-3B82F6?style=flat-square" alt="Apache Pulsar"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
+<img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square" alt="Kotlin"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/DynamoDB-3B82F6?style=flat-square" alt="DynamoDB"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/Apache_Pulsar-3B82F6?style=flat-square" alt="Apache Pulsar">
 
-<sub>First seen May 18, 2026 at 13:33 UTC</sub>
+<sub>First seen May 18, 2026</sub>
 
 **[→ Apply](https://careers.toasttab.com/jobs?gh_jid=7727235)**
 

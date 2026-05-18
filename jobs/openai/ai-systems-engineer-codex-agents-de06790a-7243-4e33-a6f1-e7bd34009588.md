@@ -10,23 +10,23 @@ posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/de06790a-7243-4e33-a6f1-e7bd34009588
-summary: Design and build the core agent harness, execution loop, and sandboxing infrastructure that enables AI agents to safely interpret model outputs, execute code, and complete long-horizon tasks in production environments. Work across the full stack—from Rust systems code to inference optimization to GPU fleet management—debugging and improving agent reliability, latency, cost, and solve rate end-to-end.
-skills: Rust, Python, Distributed Systems, LLM Inference, Sandboxing/Virtualization, GPU Systems, Agent Orchestration, Compiler/Runtime Optimization
+summary: Build the agent harness and execution systems that interpret model outputs, orchestrate tool use, and enable safe long-horizon task completion in production. Work across the full stack—from Rust systems and sandboxing to inference runtime, GPU fleet management, and evals—debugging and improving agent reliability, latency, and cost alongside research teams.
+skills: Rust, Python, Distributed Systems, Sandboxing, GPU Systems, Kubernetes, LLM, Agent Systems
 level: senior
 comp: 
 comp_extras: 
-render_hash: 2986e40d
+render_hash: a09ab812
 -->
 
 # AI Systems Engineer, Codex Agents
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 
-_Design and build the core agent harness, execution loop, and sandboxing infrastructure that enables AI agents to safely interpret model outputs, execute code, and complete long-horizon tasks in production environments. Work across the full stack—from Rust systems code to inference optimization to GPU fleet management—debugging and improving agent reliability, latency, cost, and solve rate end-to-end._
+_Build the agent harness and execution systems that interpret model outputs, orchestrate tool use, and enable safe long-horizon task completion in production. Work across the full stack—from Rust systems and sandboxing to inference runtime, GPU fleet management, and evals—debugging and improving agent reliability, latency, and cost alongside research teams._
 
-![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![LLM Inference](https://img.shields.io/badge/LLM_Inference-3B82F6?style=flat-square) ![Sandboxing/Virtualization](https://img.shields.io/badge/Sandboxing%2FVirtualization-3B82F6?style=flat-square) ![GPU Systems](https://img.shields.io/badge/GPU_Systems-3B82F6?style=flat-square) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-3B82F6?style=flat-square) ![Compiler/Runtime Optimization](https://img.shields.io/badge/Compiler%2FRuntime_Optimization-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Sandboxing-3B82F6?style=flat-square" alt="Sandboxing"> <img src="https://img.shields.io/badge/GPU_Systems-3B82F6?style=flat-square" alt="GPU Systems"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/LLM-3B82F6?style=flat-square" alt="LLM"> <img src="https://img.shields.io/badge/Agent_Systems-3B82F6?style=flat-square" alt="Agent Systems">
 
 <sub>Posted May 15, 2026</sub>
 

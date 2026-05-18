@@ -10,23 +10,23 @@ posted_at: 2025-09-16
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.lever.co/zoox/e36cc53e-5bd5-43b9-9a90-ec9b7c6abda9
-summary: Build data pipelines, dashboards, and workflow automations to operationalize safety data reporting and compliance for autonomous vehicle fleets at scale. Work across internal safety, legal, and engineering teams to implement rigorous, repeatable processes for large-scale fleet data analysis and event triage.
-skills: Python, SQL, Data Pipeline, Dashboarding, ETL, Apache Spark, AWS, Workflow Automation
-level: 
+summary: Build data pipelines, dashboards, and automated workflows to collect, analyze, and report safety events from autonomous vehicle fleet data for compliance and internal safety learnings. Work across Legal, Operations, and Engineering teams to scale data-gathering and risk assessment processes for safe AV operations.
+skills: Data pipelines, SQL, Python, Dashboards, ETL, Data analysis, Autonomous vehicles
+level: mid
 comp: 
 comp_extras: 
-render_hash: 527b043d
+render_hash: 40c4881a
 -->
 
 # AV Safety Data Reporting Engineer
 
-<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, CA · On-site
+<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, California · `Mid` · On-site
 
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
 
-_Build data pipelines, dashboards, and workflow automations to operationalize safety data reporting and compliance for autonomous vehicle fleets at scale. Work across internal safety, legal, and engineering teams to implement rigorous, repeatable processes for large-scale fleet data analysis and event triage._
+_Build data pipelines, dashboards, and automated workflows to collect, analyze, and report safety events from autonomous vehicle fleet data for compliance and internal safety learnings. Work across Legal, Operations, and Engineering teams to scale data-gathering and risk assessment processes for safe AV operations._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-3B82F6?style=flat-square) ![Dashboarding](https://img.shields.io/badge/Dashboarding-3B82F6?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-3B82F6?style=flat-square) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square" alt="Data pipelines"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Dashboards-3B82F6?style=flat-square" alt="Dashboards"> <img src="https://img.shields.io/badge/ETL-3B82F6?style=flat-square" alt="ETL"> <img src="https://img.shields.io/badge/Data_analysis-3B82F6?style=flat-square" alt="Data analysis"> <img src="https://img.shields.io/badge/Autonomous_vehicles-3B82F6?style=flat-square" alt="Autonomous vehicles">
 
 <sub>Posted September 16, 2025</sub>
 

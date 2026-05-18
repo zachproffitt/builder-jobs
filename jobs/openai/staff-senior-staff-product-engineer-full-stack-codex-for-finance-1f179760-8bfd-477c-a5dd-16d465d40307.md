@@ -10,23 +10,23 @@ posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/1f179760-8bfd-477c-a5dd-16d465d40307
-summary: Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle.
-skills: TypeScript, React, Python, Go, Rust, PostgreSQL, Distributed Systems, AI/ML
+summary: Own end-to-end development of enterprise AI products for finance, from frontend through backend infrastructure and research integration. You'll work with a small startup-like team at OpenAI shipping products like ChatGPT for Excel to millions of companies.
+skills: TypeScript, React, Python, Go, Rust, PostgreSQL, Distributed Systems, MySQL
 level: senior
 comp: 
 comp_extras: 
-render_hash: 52f5139c
+render_hash: ebfbbd57
 -->
 
 # Staff / Senior Staff Product Engineer, Full Stack - Codex for Finance
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, CA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 
-_Build end-to-end enterprise AI products for finance, including web and backend systems, working with research teams to integrate next-generation models. Scale products like ChatGPT for Excel from concept to millions of enterprise users with ownership over the full development lifecycle._
+_Own end-to-end development of enterprise AI products for finance, from frontend through backend infrastructure and research integration. You'll work with a small startup-like team at OpenAI shipping products like ChatGPT for Excel to millions of companies._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/MySQL-3B82F6?style=flat-square" alt="MySQL">
 
 <sub>Posted May 15, 2026</sub>
 

@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T14:59:33+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/Supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e
-summary: Build and maintain Supabase's AI tooling—including MCP, agent skills, dashboard assistant, and developer interfaces—that serve both AI products and developers building with Supabase. Drive an eval-first approach across instrumentation, documentation exposure to agents, and edge function patterns, translating real customer AI workflows into reliable product experiences.
-skills: TypeScript, JavaScript, PostgreSQL, pgvector, MCP, Vector Embeddings, Agent Patterns, Evaluation Frameworks
+summary: Build AI tooling and developer interfaces across Supabase's dashboard assistant, MCP, and agent frameworks. Design evaluation frameworks and instrumentation to measure AI quality in real-world use cases, with deep exposure to the fast-moving AI ecosystem and responsibility for making product decisions about AI-developer fit.
+skills: TypeScript, JavaScript, Postgres, pgvector, MCP (Model Context Protocol), Evaluation Frameworks, Vector Embeddings, Node.js
 level: mid
 comp: 
 comp_extras: equity
-render_hash: d2239070
+render_hash: fbf98342
 -->
 
 # AI Tooling Engineer
@@ -24,9 +24,9 @@ render_hash: d2239070
 
 > Supabase builds a Postgres development platform with Database, Auth, Storage, Edge Functions, Realtime, and Vector Search, providing a complete backend solution for developers.
 
-_Build and maintain Supabase's AI tooling—including MCP, agent skills, dashboard assistant, and developer interfaces—that serve both AI products and developers building with Supabase. Drive an eval-first approach across instrumentation, documentation exposure to agents, and edge function patterns, translating real customer AI workflows into reliable product experiences._
+_Build AI tooling and developer interfaces across Supabase's dashboard assistant, MCP, and agent frameworks. Design evaluation frameworks and instrumentation to measure AI quality in real-world use cases, with deep exposure to the fast-moving AI ecosystem and responsibility for making product decisions about AI-developer fit._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-3B82F6?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-3B82F6?style=flat-square) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-3B82F6?style=flat-square) ![Agent Patterns](https://img.shields.io/badge/Agent_Patterns-3B82F6?style=flat-square) ![Evaluation Frameworks](https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Postgres-3B82F6?style=flat-square" alt="Postgres"> <img src="https://img.shields.io/badge/pgvector-3B82F6?style=flat-square" alt="pgvector"> <img src="https://img.shields.io/badge/MCP_%28Model_Context_Protocol%29-3B82F6?style=flat-square" alt="MCP (Model Context Protocol)"> <img src="https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square" alt="Evaluation Frameworks"> <img src="https://img.shields.io/badge/Vector_Embeddings-3B82F6?style=flat-square" alt="Vector Embeddings"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js">
 
 <sub>Posted May 15, 2026</sub>
 

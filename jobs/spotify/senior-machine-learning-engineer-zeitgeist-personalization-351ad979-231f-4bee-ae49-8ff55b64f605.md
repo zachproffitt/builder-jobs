@@ -10,12 +10,12 @@ posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605
-summary: Build systems and models that help Spotify understand culture in real time using large language models and agentic workflows to power personalized listening experiences. Work at the intersection of platform-level content understanding and user-facing product features serving millions of listeners.
-skills: Large Language Models, Machine Learning, Python, Generative AI, Data Systems, Agentic Workflows
+summary: Build systems and models that help Spotify understand culture in real time by leveraging large language models and agentic workflows to power personalized listening experiences. Work on platform-level content understanding infrastructure serving millions of listeners at scale.
+skills: Large Language Models, Machine Learning, Python, Data Infrastructure, Generative AI, Agentic Systems
 level: senior
 comp: 
 comp_extras: 
-render_hash: dabd9164
+render_hash: aa2eef05
 -->
 
 # Senior Machine Learning Engineer, Zeitgeist, Personalization
@@ -24,9 +24,9 @@ render_hash: dabd9164
 
 > Spotify operates a music and podcast streaming platform that allows users to access millions of songs, albums, and audio content on demand across devices. The company generates revenue through both ad-supported free tiers and premium subscription services, while also operating a marketplace connecting artists and creators with listeners worldwide.
 
-_Build systems and models that help Spotify understand culture in real time using large language models and agentic workflows to power personalized listening experiences. Work at the intersection of platform-level content understanding and user-facing product features serving millions of listeners._
+_Build systems and models that help Spotify understand culture in real time by leveraging large language models and agentic workflows to power personalized listening experiences. Work on platform-level content understanding infrastructure serving millions of listeners at scale._
 
-<img src="https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square" alt="Large Language Models"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Generative_AI-3B82F6?style=flat-square" alt="Generative AI"> <img src="https://img.shields.io/badge/Data_Systems-3B82F6?style=flat-square" alt="Data Systems"> <img src="https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=flat-square" alt="Agentic Workflows">
+<img src="https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square" alt="Large Language Models"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Data_Infrastructure-3B82F6?style=flat-square" alt="Data Infrastructure"> <img src="https://img.shields.io/badge/Generative_AI-3B82F6?style=flat-square" alt="Generative AI"> <img src="https://img.shields.io/badge/Agentic_Systems-3B82F6?style=flat-square" alt="Agentic Systems">
 
 <sub>Posted May 15, 2026</sub>
 

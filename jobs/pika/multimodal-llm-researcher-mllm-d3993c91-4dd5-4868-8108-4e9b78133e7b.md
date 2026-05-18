@@ -8,14 +8,14 @@ remote: On-site
 hybrid: yes
 posted_at: 2026-05-16
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T05:16:20+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/pika/d3993c91-4dd5-4868-8108-4e9b78133e7b
-summary: Design and build foundational multimodal language models (LLMs, VLMs, Audio LMs) and agentic orchestration systems for real-time creative generation across text, image, video, and audio. Work on diffusion model distillation, real-time inference optimization, and large-scale multimodal dataset curation for production-ready generative AI platforms.
-skills: PyTorch, TensorFlow, Python, Diffusion Models, Vision-Language Models, Large Language Models, Autoregressive Models, Dataset Curation
+summary: Build foundational multimodal language models (LLMs, VLMs, Audio LMs) and real-time generative systems for creative infrastructure. Focus on novel architectures for real-time synthesis across text, image, video, and audio modalities, diffusion model distillation, and agentic orchestration platforms.
+skills: PyTorch, TensorFlow, Diffusion Models, Large Language Models, Vision-Language Models, Audio Language Models, Dataset Curation
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 7559e662
+render_hash: 70009b72
 -->
 
 # Multimodal LLM Researcher (MLLM)
@@ -24,9 +24,9 @@ render_hash: 7559e662
 
 > Pika is an AI video generation platform that creates short videos from text and image prompts. The company operates in the generative AI space, specifically focused on making video creation tools accessible to creators and developers.
 
-_Design and build foundational multimodal language models (LLMs, VLMs, Audio LMs) and agentic orchestration systems for real-time creative generation across text, image, video, and audio. Work on diffusion model distillation, real-time inference optimization, and large-scale multimodal dataset curation for production-ready generative AI platforms._
+_Build foundational multimodal language models (LLMs, VLMs, Audio LMs) and real-time generative systems for creative infrastructure. Focus on novel architectures for real-time synthesis across text, image, video, and audio modalities, diffusion model distillation, and agentic orchestration platforms._
 
-<img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square" alt="TensorFlow"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Diffusion_Models-3B82F6?style=flat-square" alt="Diffusion Models"> <img src="https://img.shields.io/badge/Vision--Language_Models-3B82F6?style=flat-square" alt="Vision-Language Models"> <img src="https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square" alt="Large Language Models"> <img src="https://img.shields.io/badge/Autoregressive_Models-3B82F6?style=flat-square" alt="Autoregressive Models"> <img src="https://img.shields.io/badge/Dataset_Curation-3B82F6?style=flat-square" alt="Dataset Curation">
+<img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square" alt="TensorFlow"> <img src="https://img.shields.io/badge/Diffusion_Models-3B82F6?style=flat-square" alt="Diffusion Models"> <img src="https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square" alt="Large Language Models"> <img src="https://img.shields.io/badge/Vision--Language_Models-3B82F6?style=flat-square" alt="Vision-Language Models"> <img src="https://img.shields.io/badge/Audio_Language_Models-3B82F6?style=flat-square" alt="Audio Language Models"> <img src="https://img.shields.io/badge/Dataset_Curation-3B82F6?style=flat-square" alt="Dataset Curation">
 
 <sub>Posted May 16, 2026</sub>
 

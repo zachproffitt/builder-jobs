@@ -10,23 +10,23 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27
-summary: Build self-serve platform tooling and agentic workflows that automate marketing operations at scale, converting repeated requests into reusable platform capabilities. Own end-to-end systems integrating AI agents with guardrails to reduce manual marketing work and drive compounding leverage across 9+ teams.
-skills: Next.js, TypeScript, Python, Sanity CMS, LLMs/AI Agents, MCP (Model Context Protocol), A/B Testing Platforms, Agentic Workflows
+summary: Build self-serve platform tooling and AI-augmented workflows that automate marketing campaigns, landing page creation, and content management across 9+ internal teams. Own end-to-end backend systems powering Ramp's largest inbound funnel surface (ramp.com), driving velocity and reducing manual workflows.
+skills: Python, TypeScript, Next.js, Sanity CMS, LLMs, MCP Servers, Agentic Systems, PostgreSQL
 level: senior
 comp: 
 comp_extras: 
-render_hash: 29f7be9b
+render_hash: e6c0cf56
 -->
 
 # Senior Software Engineer | GTM Platform, Backend
 
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, NY · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Ramp builds a corporate expense management platform that handles employee spending, receipt tracking, and bill payments for mid-market companies. The platform integrates with accounting software and provides real-time visibility into business expenses across a company's spend.
 
-_Build self-serve platform tooling and agentic workflows that automate marketing operations at scale, converting repeated requests into reusable platform capabilities. Own end-to-end systems integrating AI agents with guardrails to reduce manual marketing work and drive compounding leverage across 9+ teams._
+_Build self-serve platform tooling and AI-augmented workflows that automate marketing campaigns, landing page creation, and content management across 9+ internal teams. Own end-to-end backend systems powering Ramp's largest inbound funnel surface (ramp.com), driving velocity and reducing manual workflows._
 
-![Next.js](https://img.shields.io/badge/Next.js-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-3B82F6?style=flat-square) ![LLMs/AI Agents](https://img.shields.io/badge/LLMs%2FAI_Agents-3B82F6?style=flat-square) ![MCP (Model Context Protocol)](https://img.shields.io/badge/MCP_%28Model_Context_Protocol%29-3B82F6?style=flat-square) ![A/B Testing Platforms](https://img.shields.io/badge/A%2FB_Testing_Platforms-3B82F6?style=flat-square) ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-3B82F6?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/Sanity_CMS-3B82F6?style=flat-square" alt="Sanity CMS"> <img src="https://img.shields.io/badge/LLMs-3B82F6?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/MCP_Servers-3B82F6?style=flat-square" alt="MCP Servers"> <img src="https://img.shields.io/badge/Agentic_Systems-3B82F6?style=flat-square" alt="Agentic Systems"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL">
 
 <sub>Posted May 13, 2026</sub>
 

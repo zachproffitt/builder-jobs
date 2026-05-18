@@ -10,23 +10,23 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/ramp/a3afd259-ba6b-4eb0-a1b6-05d01dddacd8
-summary: Build and ship AI agents, internal automation platforms, and evaluation systems that transform Ramp's customer experience operations and enable CX teams to operate at scale. Own the full stack from prototyping AI workflows to infrastructure for managing shared AI skills and reliability systems across internal and customer-facing products.
-skills: LLMs, Prompt Engineering, Fine-tuning, Retrieval-Augmented Generation, Claude, Python, Evaluation Frameworks, Agentic AI Systems
-level: manager
+summary: Build and ship AI agents, internal tools, and workflows that transform Ramp's customer experience operations and scale agentic automation across 50,000+ customers. Own evaluation frameworks, AI infrastructure challenges, and the shift from reactive to proactive customer engagement through hybrid human-AI systems.
+skills: LLMs, Prompt Engineering, Claude, Cursor, AI Agents, Fine-tuning, Embeddings, Retrieval-Augmented Generation
+level: senior
 comp: 
 comp_extras: 
-render_hash: be7dd77a
+render_hash: 1588b142
 -->
 
 # AI Operations Manager | Agentic CX
 
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, NY · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Ramp builds a corporate expense management platform that handles employee spending, receipt tracking, and bill payments for mid-market companies. The platform integrates with accounting software and provides real-time visibility into business expenses across a company's spend.
 
-_Build and ship AI agents, internal automation platforms, and evaluation systems that transform Ramp's customer experience operations and enable CX teams to operate at scale. Own the full stack from prototyping AI workflows to infrastructure for managing shared AI skills and reliability systems across internal and customer-facing products._
+_Build and ship AI agents, internal tools, and workflows that transform Ramp's customer experience operations and scale agentic automation across 50,000+ customers. Own evaluation frameworks, AI infrastructure challenges, and the shift from reactive to proactive customer engagement through hybrid human-AI systems._
 
-![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-3B82F6?style=flat-square) ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-3B82F6?style=flat-square) ![Retrieval-Augmented Generation](https://img.shields.io/badge/Retrieval--Augmented_Generation-3B82F6?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Evaluation Frameworks](https://img.shields.io/badge/Evaluation_Frameworks-3B82F6?style=flat-square) ![Agentic AI Systems](https://img.shields.io/badge/Agentic_AI_Systems-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/LLMs-3B82F6?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/Prompt_Engineering-3B82F6?style=flat-square" alt="Prompt Engineering"> <img src="https://img.shields.io/badge/Claude-3B82F6?style=flat-square" alt="Claude"> <img src="https://img.shields.io/badge/Cursor-3B82F6?style=flat-square" alt="Cursor"> <img src="https://img.shields.io/badge/AI_Agents-3B82F6?style=flat-square" alt="AI Agents"> <img src="https://img.shields.io/badge/Fine--tuning-3B82F6?style=flat-square" alt="Fine-tuning"> <img src="https://img.shields.io/badge/Embeddings-3B82F6?style=flat-square" alt="Embeddings"> <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-3B82F6?style=flat-square" alt="Retrieval-Augmented Generation">
 
 <sub>Posted May 13, 2026</sub>
 

@@ -1,6 +1,6 @@
 <!--
 id: ashby-eightsleep-b1c37913-179d-4927-8745-f6ef88a02e82
-company: Eight Sleep
+company: EightSleep
 title: Senior Software Engineer - Mobile (iOS)
 source: ashby
 location: San Francisco, CA
@@ -20,7 +20,7 @@ render_hash: 228d3246
 
 # Senior Software Engineer - Mobile (iOS)
 
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California · `Senior` · `Equity`
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California · `Senior` · `Equity`
 
 > Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 

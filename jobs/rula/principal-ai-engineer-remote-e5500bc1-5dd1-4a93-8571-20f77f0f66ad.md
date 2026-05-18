@@ -10,12 +10,12 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/rula/e5500bc1-5dd1-4a93-8571-20f77f0f66ad
-summary: Own the AI foundation for generative AI across mental healthcare, architecting production-grade systems (RAG, agentic loops) that power patient engagement and provider workflows at scale. Design durable, compliant solutions in a regulated healthcare environment with real-world clinical constraints.
+summary: Design and architect the AI foundation for generative AI systems across mental healthcare, owning core platform primitives like RAG and agentic loops while ensuring production-grade safety and compliance in a regulated environment. Scale AI-powered patient engagement and provider workflows in healthcare, navigating both technical complexity and HIPAA requirements.
 skills: Python, TypeScript, AWS, GCP, RAG, LangChain, LlamaIndex, MLOps
 level: principal
 comp: 
 comp_extras: 
-render_hash: e47ab5f6
+render_hash: 0a023e20
 -->
 
 # Principal AI Engineer (Remote)
@@ -24,9 +24,9 @@ render_hash: e47ab5f6
 
 > Rula develops mental health software that provides evidence-based care and reduces stigma by addressing the whole person.
 
-_Own the AI foundation for generative AI across mental healthcare, architecting production-grade systems (RAG, agentic loops) that power patient engagement and provider workflows at scale. Design durable, compliant solutions in a regulated healthcare environment with real-world clinical constraints._
+_Design and architect the AI foundation for generative AI systems across mental healthcare, owning core platform primitives like RAG and agentic loops while ensuring production-grade safety and compliance in a regulated environment. Scale AI-powered patient engagement and provider workflows in healthcare, navigating both technical complexity and HIPAA requirements._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-3B82F6?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/RAG-3B82F6?style=flat-square" alt="RAG"> <img src="https://img.shields.io/badge/LangChain-3B82F6?style=flat-square" alt="LangChain"> <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=flat-square" alt="LlamaIndex"> <img src="https://img.shields.io/badge/MLOps-3B82F6?style=flat-square" alt="MLOps">
 
 <sub>Posted May 14, 2026</sub>
 

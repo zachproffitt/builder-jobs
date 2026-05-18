@@ -10,12 +10,12 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/Supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13
-summary: Build and evolve Supabase Edge Runtime, a Rust-based Deno host that executes distributed TypeScript functions at the edge globally. Drive performance optimization, reliability, and developer experience through monitoring, observability, and tight integration with the Supabase platform stack.
-skills: Rust, TypeScript, Deno, V8 Isolates, Kubernetes, AWS, PostgreSQL, OpenTelemetry
+summary: Evolve Supabase Edge Runtime—a Rust-based, Deno-powered host for server-side TypeScript functions distributed globally at the edge—by implementing monitoring, optimizing latency, and integrating tightly with the broader Supabase stack (Auth, Postgres, Storage, Realtime). Work on V8 isolates, per-request resource limits, and developer experience at the infrastructure scale of Kubernetes, AWS, and Cloudflare Workers.
+skills: Rust, TypeScript, Deno, V8 Isolates, Kubernetes, AWS, OpenTelemetry, JavaScript Runtimes
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 36273dee
+render_hash: 76412d0a
 -->
 
 # Edge Functions Engineer
@@ -24,9 +24,9 @@ render_hash: 36273dee
 
 > Supabase builds a Postgres development platform with Database, Auth, Storage, Edge Functions, Realtime, and Vector Search, providing a complete backend solution for developers.
 
-_Build and evolve Supabase Edge Runtime, a Rust-based Deno host that executes distributed TypeScript functions at the edge globally. Drive performance optimization, reliability, and developer experience through monitoring, observability, and tight integration with the Supabase platform stack._
+_Evolve Supabase Edge Runtime—a Rust-based, Deno-powered host for server-side TypeScript functions distributed globally at the edge—by implementing monitoring, optimizing latency, and integrating tightly with the broader Supabase stack (Auth, Postgres, Storage, Realtime). Work on V8 isolates, per-request resource limits, and developer experience at the infrastructure scale of Kubernetes, AWS, and Cloudflare Workers._
 
-![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Deno](https://img.shields.io/badge/Deno-3B82F6?style=flat-square) ![V8 Isolates](https://img.shields.io/badge/V8_Isolates-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Deno-3B82F6?style=flat-square" alt="Deno"> <img src="https://img.shields.io/badge/V8_Isolates-3B82F6?style=flat-square" alt="V8 Isolates"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/JavaScript_Runtimes-3B82F6?style=flat-square" alt="JavaScript Runtimes">
 
 <sub>Posted May 13, 2026</sub>
 

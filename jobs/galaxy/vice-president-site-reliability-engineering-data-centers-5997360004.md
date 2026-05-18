@@ -1,6 +1,6 @@
 <!--
 id: greenhouse-galaxydigitalservices-5997360004
-company: Galaxy Digital
+company: Galaxy
 title: Vice President Site Reliability Engineering (Data Centers)
 source: greenhouse
 location: New York, NY
@@ -20,7 +20,7 @@ render_hash: 10e17a22
 
 # Vice President Site Reliability Engineering (Data Centers)
 
-<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, New York · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+<a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy** · New York, New York · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Galaxy Digital is a merchant bank and investment firm that builds financial products and infrastructure for the digital assets and cryptocurrency ecosystem. The company operates across multiple domains including asset management, trading, lending, and venture capital investing, primarily serving institutional and professional clients in the blockchain and cryptocurrency space.
 

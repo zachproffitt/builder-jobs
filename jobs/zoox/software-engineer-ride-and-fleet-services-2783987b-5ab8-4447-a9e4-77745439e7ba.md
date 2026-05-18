@@ -8,23 +8,23 @@ remote: On-site
 hybrid: no
 posted_at: 2026-05-12
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T20:35:33+00:00
+first_seen_at: 
 url: https://jobs.lever.co/zoox/2783987b-5ab8-4447-a9e4-77745439e7ba
-summary: Build the Fleet Dispatch System that routes missions (rideshare trips, charging, cleaning, depot returns) to autonomous robots. This is the core backbone of Zoox's fleet management platform connecting riders and operators to a real-world autonomous vehicle fleet.
+summary: Build the Fleet Dispatch System that routes autonomous vehicle missions including rideshare trips, charging, cleaning, and depot returns across Zoox's robot fleet. Work on the backbone of autonomous fleet management connecting riders, operators, and vehicles at scale.
 skills: 
 level: 
 comp: 
 comp_extras: 
-render_hash: f268315a
+render_hash: 9a2ed065
 -->
 
 # Software Engineer - Ride and Fleet Services
 
-<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · San Diego, CA · On-site
+<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · San Diego, California · On-site
 
 > Zoox builds autonomous vehicle software for its purpose-built vehicle used in ride-hailing.
 
-_Build the Fleet Dispatch System that routes missions (rideshare trips, charging, cleaning, depot returns) to autonomous robots. This is the core backbone of Zoox's fleet management platform connecting riders and operators to a real-world autonomous vehicle fleet._
+_Build the Fleet Dispatch System that routes autonomous vehicle missions including rideshare trips, charging, cleaning, and depot returns across Zoox's robot fleet. Work on the backbone of autonomous fleet management connecting riders, operators, and vehicles at scale._
 
 <sub>Posted May 12, 2026</sub>
 

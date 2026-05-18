@@ -1,7 +1,7 @@
 <!--
 id: greenhouse-waymo-7939376
 company: Waymo
-title: Software Engineer, Fleet Monitoring
+title: Software Engineer Weather Monitoring
 source: greenhouse
 location: San Francisco, CA / Mountain View, CA
 remote: Not specified
@@ -10,23 +10,23 @@ posted_at: Unknown
 first_seen: 2026-05-18
 first_seen_at: 
 url: https://careers.withwaymo.com/jobs?gh_jid=7939376
-summary: Develop and maintain scalable data pipelines and real-time weather systems for Waymo's autonomous fleet operations. Work on safety-critical infrastructure processing weather data across millions of autonomous miles in diverse environments.
-skills: C++, Python, Distributed Systems, Data Pipelines, Protocol Buffers, Real-time Systems, Google Cloud Infrastructure
+summary: Build scalable data pipelines and real-time weather applications that feed Waymo's autonomous driving fleet. Systems must handle high-volume weather data ingestion, processing, and forecasting across distributed infrastructure supporting safety-critical autonomous operations.
+skills: C++, Python, Distributed Systems, Data Pipelines, Protocol Buffers, Real-time Systems, Kubernetes, SQL
 level: mid
-comp: $175,000—$215,000
+comp: $175k-$215k
 comp_extras: equity, bonus
-render_hash: a273314c
+render_hash: 3dddde67
 -->
 
-# Software Engineer, Fleet Monitoring
+# Software Engineer Weather Monitoring
 
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · San Francisco, California / Mountain View, California · `Mid` · `$175,000—$215,000` · `Equity` · `Bonus`
+<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · San Francisco, California / Mountain View, California · `Mid` · `$175k-$215k` · `Equity` · `Bonus`
 
 > Waymo builds autonomous vehicle technology for transportation.
 
-_Develop and maintain scalable data pipelines and real-time weather systems for Waymo's autonomous fleet operations. Work on safety-critical infrastructure processing weather data across millions of autonomous miles in diverse environments._
+_Build scalable data pipelines and real-time weather applications that feed Waymo's autonomous driving fleet. Systems must handle high-volume weather data ingestion, processing, and forecasting across distributed infrastructure supporting safety-critical autonomous operations._
 
-<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/Protocol_Buffers-3B82F6?style=flat-square" alt="Protocol Buffers"> <img src="https://img.shields.io/badge/Real--time_Systems-3B82F6?style=flat-square" alt="Real-time Systems"> <img src="https://img.shields.io/badge/Google_Cloud_Infrastructure-3B82F6?style=flat-square" alt="Google Cloud Infrastructure">
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/Protocol_Buffers-3B82F6?style=flat-square" alt="Protocol Buffers"> <img src="https://img.shields.io/badge/Real--time_Systems-3B82F6?style=flat-square" alt="Real-time Systems"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL">
 
 <sub>First seen May 18, 2026</sub>
 

@@ -1,38 +1,36 @@
 <!--
-id: ashby-openai-666119c9-ff97-4e81-9805-94d7525bd633
+id: ashby-openai-90c711dc-5f50-46e3-a5ab-82359a56d683
 company: OpenAI
 title: Data Scientist, Safety
 source: ashby
-location: San Francisco, CA / New York, NY / London, UK / San Francisco, CA / New York, NY / London, UK
+location: San Francisco, CA / New York, NY / London, UK
 remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T01:05:29+00:00
-url: 
-summary: Build analytical systems to measure harmful behavior, detect fraud and misuse, and evaluate safety classifiers across OpenAI's products. Work on mission-critical problems at the intersection of safety, product, and research with unusual ownership and visibility.
+first_seen_at: 
+url: https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683
+summary: Build analytical systems to measure harmful behavior, detect fraud and misuse, and evaluate safety classifiers across OpenAI's products. Work on zero-to-one systems in rapidly evolving safety domains where rigorous analysis directly informs critical deployment decisions.
 skills: Python, SQL, Statistical Analysis, Causal Inference, Experimentation Design, Data Analysis
 level: mid
-comp: 
+comp: $230k-$325k
 comp_extras: 
-render_hash: d11bfffd
+render_hash: 6f5c2e96
 -->
 
 # Data Scientist, Safety
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California / New York, New York / London, UK / San Francisco, California / New York, New York / London, UK · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California / New York, New York / London, UK · `Mid` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$230k-$325k`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 
-_Build analytical systems to measure harmful behavior, detect fraud and misuse, and evaluate safety classifiers across OpenAI's products. Work on mission-critical problems at the intersection of safety, product, and research with unusual ownership and visibility._
+_Build analytical systems to measure harmful behavior, detect fraud and misuse, and evaluate safety classifiers across OpenAI's products. Work on zero-to-one systems in rapidly evolving safety domains where rigorous analysis directly informs critical deployment decisions._
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Statistical_Analysis-3B82F6?style=flat-square" alt="Statistical Analysis"> <img src="https://img.shields.io/badge/Causal_Inference-3B82F6?style=flat-square" alt="Causal Inference"> <img src="https://img.shields.io/badge/Experimentation_Design-3B82F6?style=flat-square" alt="Experimentation Design"> <img src="https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square" alt="Data Analysis">
 
 <sub>Posted May 15, 2026</sub>
 
-**Apply by location:**
-- **[San Francisco, CA / New York, NY / London, UK →](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633)**
-- **[San Francisco, CA / New York, NY / London, UK →](https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683)**
+**[→ Apply](https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683)**
 
 ---
 
@@ -118,6 +116,8 @@ Location
 
 San Francisco, New York, or London depending on team alignment and business need.
 
+Compensation Range: $230K - $325K USD
+
 About OpenAI
 
 OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
@@ -138,6 +138,4 @@ At OpenAI, we believe artificial intelligence has the potential to help people s
 
 ---
 
-**Apply by location:**
-- **[San Francisco, CA / New York, NY / London, UK →](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633)**
-- **[San Francisco, CA / New York, NY / London, UK →](https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683)**
+**[→ Apply](https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683)**

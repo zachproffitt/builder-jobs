@@ -10,23 +10,23 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732
-summary: Build and ship new Android experiences for ChatGPT, expanding mobile AI capabilities. Drive foundational improvements in app architecture, performance optimization, and testing frameworks while collaborating across product, design, and research teams.
-skills: Android, Kotlin, Java, Performance Optimization, App Architecture, Testing Frameworks
+summary: Build and maintain core features in the ChatGPT Android app, shipping new AI-powered mobile experiences and driving foundational improvements in performance, testing, and architecture. Work on a high-scale consumer product with millions of users.
+skills: Kotlin, Android, Java, Performance Optimization, Testing Frameworks, Architecture Design, Mobile UI/UX
 level: senior
 comp: 
 comp_extras: 
-render_hash: 76f55e96
+render_hash: c37c07b9
 -->
 
 # Android Engineer, ChatGPT (Seattle)
 
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Seattle, WA · `Senior`
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · Seattle, Washington · `Senior`
 
 > OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
 
-_Build and ship new Android experiences for ChatGPT, expanding mobile AI capabilities. Drive foundational improvements in app architecture, performance optimization, and testing frameworks while collaborating across product, design, and research teams._
+_Build and maintain core features in the ChatGPT Android app, shipping new AI-powered mobile experiences and driving foundational improvements in performance, testing, and architecture. Work on a high-scale consumer product with millions of users._
 
-![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square) ![App Architecture](https://img.shields.io/badge/App_Architecture-3B82F6?style=flat-square) ![Testing Frameworks](https://img.shields.io/badge/Testing_Frameworks-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square" alt="Kotlin"> <img src="https://img.shields.io/badge/Android-3B82F6?style=flat-square" alt="Android"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square" alt="Performance Optimization"> <img src="https://img.shields.io/badge/Testing_Frameworks-3B82F6?style=flat-square" alt="Testing Frameworks"> <img src="https://img.shields.io/badge/Architecture_Design-3B82F6?style=flat-square" alt="Architecture Design"> <img src="https://img.shields.io/badge/Mobile_UI%2FUX-3B82F6?style=flat-square" alt="Mobile UI/UX">
 
 <sub>Posted May 14, 2026</sub>
 

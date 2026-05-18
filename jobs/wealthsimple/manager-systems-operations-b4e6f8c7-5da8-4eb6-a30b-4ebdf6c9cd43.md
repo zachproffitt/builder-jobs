@@ -3,30 +3,30 @@ id: ashby-wealthsimple-b4e6f8c7-5da8-4eb6-a30b-4ebdf6c9cd43
 company: Wealthsimple
 title: Manager, Systems Operations
 source: ashby
-location: Remote / Canada
+location: Remote
 remote: Remote
-hybrid: yes
+hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T21:15:04+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/wealthsimple/b4e6f8c7-5da8-4eb6-a30b-4ebdf6c9cd43
-summary: Lead a specialized technical operations team managing enterprise CX infrastructure (Zendesk, Five9, GenAI systems) serving 2,000+ agents at Canada's largest fintech. Own sprint delivery, platform stability, AI quality assurance, and rapid incident response in a heavily integrated, high-scale environment.
-skills: Zendesk, Five9, Jira, REST APIs, GenAI Operations, CX Systems Administration, Fintech
+summary: Lead a specialized technical operations team managing Wealthsimple's enterprise CX ecosystem (Zendesk, Five9, GenAI) serving 2,000+ agents — own sprint execution, platform stability, AI agent health, and rapid deployment cycles in a fintech environment.
+skills: Zendesk, Five9, Jira, Decagon, REST APIs, GenAI Operations, CI/CD, Fintech
 level: manager
 comp: 
 comp_extras: equity, bonus
-render_hash: 9f846565
+render_hash: 2e90dfd2
 -->
 
 # Manager, Systems Operations
 
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · Remote / Canada · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity` · `Bonus`
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity` · `Bonus`
 
 > Wealthsimple is a Canadian financial technology company that provides low-cost investment management, including robo-advisor services, trading platforms, and cash account products for retail investors. The company operates in the wealth management and financial services sector, offering automated portfolio management, self-directed trading, and banking services primarily across Canada and the United States.
 
-_Lead a specialized technical operations team managing enterprise CX infrastructure (Zendesk, Five9, GenAI systems) serving 2,000+ agents at Canada's largest fintech. Own sprint delivery, platform stability, AI quality assurance, and rapid incident response in a heavily integrated, high-scale environment._
+_Lead a specialized technical operations team managing Wealthsimple's enterprise CX ecosystem (Zendesk, Five9, GenAI) serving 2,000+ agents — own sprint execution, platform stability, AI agent health, and rapid deployment cycles in a fintech environment._
 
-![Zendesk](https://img.shields.io/badge/Zendesk-3B82F6?style=flat-square) ![Five9](https://img.shields.io/badge/Five9-3B82F6?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-3B82F6?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square) ![GenAI Operations](https://img.shields.io/badge/GenAI_Operations-3B82F6?style=flat-square) ![CX Systems Administration](https://img.shields.io/badge/CX_Systems_Administration-3B82F6?style=flat-square) ![Fintech](https://img.shields.io/badge/Fintech-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Zendesk-3B82F6?style=flat-square" alt="Zendesk"> <img src="https://img.shields.io/badge/Five9-3B82F6?style=flat-square" alt="Five9"> <img src="https://img.shields.io/badge/Jira-3B82F6?style=flat-square" alt="Jira"> <img src="https://img.shields.io/badge/Decagon-3B82F6?style=flat-square" alt="Decagon"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/GenAI_Operations-3B82F6?style=flat-square" alt="GenAI Operations"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Fintech-3B82F6?style=flat-square" alt="Fintech">
 
 <sub>Posted May 15, 2026</sub>
 

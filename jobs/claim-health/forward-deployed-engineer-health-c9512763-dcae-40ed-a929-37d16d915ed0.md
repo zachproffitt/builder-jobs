@@ -3,30 +3,30 @@ id: ashby-claim-health-c9512763-dcae-40ed-a929-37d16d915ed0
 company: Claim Health
 title: Forward Deployed Engineer
 source: ashby
-location: New York City, NY
+location: New York, NY
 remote: On-site
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/claim-health/c9512763-dcae-40ed-a929-37d16d915ed0
-summary: Build production-grade full-stack systems that automate post-acute care workflows, including orchestration layers, integrations, and AI-powered automation directly deployed into healthcare operations. You'll embed with customers to translate operational complexity into scalable platform abstractions while maintaining high reliability standards in a high-stakes healthcare environment.
-skills: Full-stack development, Workflow orchestration, AI systems, Healthcare operations, Production deployments, System reliability, Customer collaboration, n/a
+summary: Build production-grade workflow orchestration and operational automation systems directly deployed into healthcare organizations, working alongside customers to translate complex billing, authorization, and care coordination processes into scalable software abstractions. You'll operate at the intersection of full-stack engineering, product definition, and customer deployment in a high-stakes industry where systems directly impact patient access and financial performance.
+skills: Full-stack development, Workflow orchestration, Healthcare domain knowledge, AI/ML systems, API integrations, Infrastructure deployment, PostgreSQL, React
 level: mid
 comp: 
 comp_extras: 
-render_hash: 194fcee4
+render_hash: 85c2de6d
 -->
 
 # Forward Deployed Engineer
 
-<a href="https://www.claimhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.claimhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Claim Health** · New York City, NY · `Mid` · On-site
+<a href="https://www.claimhealth.com"><img src="https://www.google.com/s2/favicons?domain=www.claimhealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Claim Health** · New York, New York · `Mid` · On-site
 
 > Claim Health builds software that helps healthcare providers and patients automate and manage the insurance claims process, including claims submission, tracking, and appeals. The company operates in the healthcare technology and revenue cycle management domain, serving medical practices, clinics, and health systems.
 
-_Build production-grade full-stack systems that automate post-acute care workflows, including orchestration layers, integrations, and AI-powered automation directly deployed into healthcare operations. You'll embed with customers to translate operational complexity into scalable platform abstractions while maintaining high reliability standards in a high-stakes healthcare environment._
+_Build production-grade workflow orchestration and operational automation systems directly deployed into healthcare organizations, working alongside customers to translate complex billing, authorization, and care coordination processes into scalable software abstractions. You'll operate at the intersection of full-stack engineering, product definition, and customer deployment in a high-stakes industry where systems directly impact patient access and financial performance._
 
-![Full-stack development](https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square) ![Workflow orchestration](https://img.shields.io/badge/Workflow_orchestration-3B82F6?style=flat-square) ![AI systems](https://img.shields.io/badge/AI_systems-3B82F6?style=flat-square) ![Healthcare operations](https://img.shields.io/badge/Healthcare_operations-3B82F6?style=flat-square) ![Production deployments](https://img.shields.io/badge/Production_deployments-3B82F6?style=flat-square) ![System reliability](https://img.shields.io/badge/System_reliability-3B82F6?style=flat-square) ![Customer collaboration](https://img.shields.io/badge/Customer_collaboration-3B82F6?style=flat-square) ![n/a](https://img.shields.io/badge/n%2Fa-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square" alt="Full-stack development"> <img src="https://img.shields.io/badge/Workflow_orchestration-3B82F6?style=flat-square" alt="Workflow orchestration"> <img src="https://img.shields.io/badge/Healthcare_domain_knowledge-3B82F6?style=flat-square" alt="Healthcare domain knowledge"> <img src="https://img.shields.io/badge/AI%2FML_systems-3B82F6?style=flat-square" alt="AI/ML systems"> <img src="https://img.shields.io/badge/API_integrations-3B82F6?style=flat-square" alt="API integrations"> <img src="https://img.shields.io/badge/Infrastructure_deployment-3B82F6?style=flat-square" alt="Infrastructure deployment"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React">
 
 <sub>Posted May 15, 2026</sub>
 

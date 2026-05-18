@@ -10,23 +10,23 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/vapi/94e93b56-c7ac-4765-9ffb-aefcbe0bb795
-summary: Build and own end-to-end testing infrastructure for a production voice AI platform handling 1M+ calls daily. Test complex distributed systems (LLMs, STT, TTS, telephony integrations) and define QA practices for a non-deterministic product at scale.
-skills: Playwright, TypeScript, JavaScript, Distributed Systems Testing, AI Coding Agents, Conversational AI, LLM Evals, Voice AI
+summary: Build and own end-to-end quality testing for Vapi's voice AI platform, defining how to test non-deterministic systems across LLMs, STT, TTS, and telephony integrations. Test at the scale of 1M+ daily calls serving enterprises like Amazon and Intuit, with responsibility for release gating and test strategy across the product surface.
+skills: Playwright, TypeScript, JavaScript, Distributed Systems Testing, LLM Evaluation, AI Coding Agents, Voice AI, Non-Deterministic System Testing
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 1e64100e
+render_hash: 6a2912d0
 -->
 
 # Member of Technical Staff, QA
 
-<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
+<a href="https://vapi.ai"><img src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vapi** · San Francisco, California · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 > Vapi builds an API platform that enables developers to create and deploy voice AI agents that can make and receive phone calls. The platform operates in the conversational AI and voice technology domain, allowing businesses to automate customer interactions through natural language conversations over phone lines.
 
-_Build and own end-to-end testing infrastructure for a production voice AI platform handling 1M+ calls daily. Test complex distributed systems (LLMs, STT, TTS, telephony integrations) and define QA practices for a non-deterministic product at scale._
+_Build and own end-to-end quality testing for Vapi's voice AI platform, defining how to test non-deterministic systems across LLMs, STT, TTS, and telephony integrations. Test at the scale of 1M+ daily calls serving enterprises like Amazon and Intuit, with responsibility for release gating and test strategy across the product surface._
 
-![Playwright](https://img.shields.io/badge/Playwright-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![Distributed Systems Testing](https://img.shields.io/badge/Distributed_Systems_Testing-3B82F6?style=flat-square) ![AI Coding Agents](https://img.shields.io/badge/AI_Coding_Agents-3B82F6?style=flat-square) ![Conversational AI](https://img.shields.io/badge/Conversational_AI-3B82F6?style=flat-square) ![LLM Evals](https://img.shields.io/badge/LLM_Evals-3B82F6?style=flat-square) ![Voice AI](https://img.shields.io/badge/Voice_AI-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Distributed_Systems_Testing-3B82F6?style=flat-square" alt="Distributed Systems Testing"> <img src="https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square" alt="LLM Evaluation"> <img src="https://img.shields.io/badge/AI_Coding_Agents-3B82F6?style=flat-square" alt="AI Coding Agents"> <img src="https://img.shields.io/badge/Voice_AI-3B82F6?style=flat-square" alt="Voice AI"> <img src="https://img.shields.io/badge/Non--Deterministic_System_Testing-3B82F6?style=flat-square" alt="Non-Deterministic System Testing">
 
 <sub>Posted May 14, 2026</sub>
 

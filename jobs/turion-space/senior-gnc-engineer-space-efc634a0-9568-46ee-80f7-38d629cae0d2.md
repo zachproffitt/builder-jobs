@@ -10,23 +10,23 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/turion-space/efc634a0-9568-46ee-80f7-38d629cae0d2
-summary: Design and implement guidance, navigation, and control algorithms for satellite rendezvous and proximity operations missions, including modeling, simulation, hardware-in-the-loop testing, and on-orbit validation. Lead technical strategy for GNC subsystems on small satellite platforms in low Earth orbit, mentoring junior engineers and owning functional areas such as embedded flight code processes.
-skills: C++, Python, MATLAB, Orbital Mechanics, Control Systems, TS/SCI Clearance, Hardware-in-the-Loop Testing, Rendezvous and Proximity Operations
+summary: Design, develop, and implement advanced guidance, navigation, and control algorithms and systems for satellite rendezvous and proximity operations missions. Lead technical trade studies, mentor junior engineers, and maintain ownership of functional areas like embedded flight code while supporting on-orbit commissioning of the Droid.002 platform in low Earth orbit.
+skills: C++, Python, MATLAB, Orbital Mechanics, Control Systems, Hardware-in-the-Loop Testing, TS/SCI Clearance
 level: senior
-comp: $150,000-$213,000
+comp: $150k-$213k
 comp_extras: equity
-render_hash: 70525abe
+render_hash: 7304b766
 -->
 
 # Senior GNC Engineer
 
-<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, CA · `Senior` · On-site · `$150,000-$213,000` · `Equity`
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, California · `Senior` · On-site · `$150k-$213k` · `Equity`
 
 > Turion Space builds spacecraft to secure Earth and expand humanity’s reach beyond it.
 
-_Design and implement guidance, navigation, and control algorithms for satellite rendezvous and proximity operations missions, including modeling, simulation, hardware-in-the-loop testing, and on-orbit validation. Lead technical strategy for GNC subsystems on small satellite platforms in low Earth orbit, mentoring junior engineers and owning functional areas such as embedded flight code processes._
+_Design, develop, and implement advanced guidance, navigation, and control algorithms and systems for satellite rendezvous and proximity operations missions. Lead technical trade studies, mentor junior engineers, and maintain ownership of functional areas like embedded flight code while supporting on-orbit commissioning of the Droid.002 platform in low Earth orbit._
 
-![C++](https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![Orbital Mechanics](https://img.shields.io/badge/Orbital_Mechanics-3B82F6?style=flat-square) ![Control Systems](https://img.shields.io/badge/Control_Systems-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square) ![Hardware-in-the-Loop Testing](https://img.shields.io/badge/Hardware--in--the--Loop_Testing-3B82F6?style=flat-square) ![Rendezvous and Proximity Operations](https://img.shields.io/badge/Rendezvous_and_Proximity_Operations-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Orbital_Mechanics-3B82F6?style=flat-square" alt="Orbital Mechanics"> <img src="https://img.shields.io/badge/Control_Systems-3B82F6?style=flat-square" alt="Control Systems"> <img src="https://img.shields.io/badge/Hardware--in--the--Loop_Testing-3B82F6?style=flat-square" alt="Hardware-in-the-Loop Testing"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
 
 <sub>Posted May 14, 2026</sub>
 

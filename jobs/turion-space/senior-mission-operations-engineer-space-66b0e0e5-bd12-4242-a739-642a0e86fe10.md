@@ -10,23 +10,23 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/turion-space/66b0e0e5-bd12-4242-a739-642a0e86fe10
-summary: Lead the development, integration, and execution of mission operations across the spacecraft lifecycle, serving as the primary operational integrator between engineering, ground software, and flight teams. Drive operational procedures, flight rules, constraints, and risk mitigations while supporting real-time operations and mentoring junior engineers on small, fast-paced teams in rapidly evolving mission environments.
-skills: Python, MATLAB, TS/SCI Clearance, Spacecraft Operations, Mission Planning, FMEA, GEO Operations
+summary: Lead mission operations development, integration, and execution across the spacecraft lifecycle, serving as the primary technical integrator between engineering, ground software, and flight teams. Manage operational constraints, procedures, risk assessments, and real-time operations for space missions with TS/SCI clearance required.
+skills: TS/SCI Clearance, Python, MATLAB, Spacecraft Operations, Mission Planning, Ground Systems, FMEA
 level: senior
-comp: $140,000-$190,000
+comp: $140k-$190k
 comp_extras: equity
-render_hash: 1cfd7390
+render_hash: 5e4308d6
 -->
 
 # Senior Mission Operations Engineer
 
-<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, CA · `Senior` · On-site · `$140,000-$190,000` · `Equity`
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, California · `Senior` · On-site · `$140k-$190k` · `Equity`
 
 > Turion Space builds spacecraft to secure Earth and expand humanity’s reach beyond it.
 
-_Lead the development, integration, and execution of mission operations across the spacecraft lifecycle, serving as the primary operational integrator between engineering, ground software, and flight teams. Drive operational procedures, flight rules, constraints, and risk mitigations while supporting real-time operations and mentoring junior engineers on small, fast-paced teams in rapidly evolving mission environments._
+_Lead mission operations development, integration, and execution across the spacecraft lifecycle, serving as the primary technical integrator between engineering, ground software, and flight teams. Manage operational constraints, procedures, risk assessments, and real-time operations for space missions with TS/SCI clearance required._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square) ![TS/SCI Clearance](https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square) ![Spacecraft Operations](https://img.shields.io/badge/Spacecraft_Operations-3B82F6?style=flat-square) ![Mission Planning](https://img.shields.io/badge/Mission_Planning-3B82F6?style=flat-square) ![FMEA](https://img.shields.io/badge/FMEA-3B82F6?style=flat-square) ![GEO Operations](https://img.shields.io/badge/GEO_Operations-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Spacecraft_Operations-3B82F6?style=flat-square" alt="Spacecraft Operations"> <img src="https://img.shields.io/badge/Mission_Planning-3B82F6?style=flat-square" alt="Mission Planning"> <img src="https://img.shields.io/badge/Ground_Systems-3B82F6?style=flat-square" alt="Ground Systems"> <img src="https://img.shields.io/badge/FMEA-3B82F6?style=flat-square" alt="FMEA">
 
 <sub>Posted May 14, 2026</sub>
 

@@ -10,23 +10,23 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/replit/16f1c784-449b-4c84-bee7-b2bf18768977
-summary: Design and implement application security architecture for Replit's multi-tenant SaaS platform, defining secure patterns for tenant separation, authentication, authorization, and encryption. Lead threat modeling, security code reviews, and architecture documentation while mentoring engineering teams on secure-by-design practices.
-skills: Python, Go, JavaScript, OAuth, SAML, OIDC, mTLS, Threat Modeling
-level: staff
+summary: Define and implement application security architecture for a multi-tenant SaaS platform, leading threat modeling, secure API design, authentication/authorization protocols, and tenant separation strategies. Mentor engineering teams on security best practices and maintain the authoritative secure architecture blueprint for an AI-powered software creation platform serving millions of users.
+skills: Python, Go, JavaScript, mTLS, OIDC, OAuth, SAML, Multi-tenant SaaS Architecture
+level: senior
 comp: 
-comp_extras: equity
-render_hash: 644940c7
+comp_extras: equity, bonus
+render_hash: 49073937
 -->
 
 # Product Security Architect
 
-<a href="https://replit.com"><img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Replit** · Foster City, CA · `Staff` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
+<a href="https://replit.com"><img src="https://www.google.com/s2/favicons?domain=replit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Replit** · Foster City, California · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity` · `Bonus`
 
 > Replit builds a web-based integrated development environment (IDE) that allows users to write, run, and share code in dozens of programming languages without installing software locally. The platform operates in the online code editor and cloud computing space, serving individual developers, students, and teams who need quick access to a coding environment.
 
-_Design and implement application security architecture for Replit's multi-tenant SaaS platform, defining secure patterns for tenant separation, authentication, authorization, and encryption. Lead threat modeling, security code reviews, and architecture documentation while mentoring engineering teams on secure-by-design practices._
+_Define and implement application security architecture for a multi-tenant SaaS platform, leading threat modeling, secure API design, authentication/authorization protocols, and tenant separation strategies. Mentor engineering teams on security best practices and maintain the authoritative secure architecture blueprint for an AI-powered software creation platform serving millions of users._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square) ![OAuth](https://img.shields.io/badge/OAuth-3B82F6?style=flat-square) ![SAML](https://img.shields.io/badge/SAML-3B82F6?style=flat-square) ![OIDC](https://img.shields.io/badge/OIDC-3B82F6?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS-3B82F6?style=flat-square) ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/mTLS-3B82F6?style=flat-square" alt="mTLS"> <img src="https://img.shields.io/badge/OIDC-3B82F6?style=flat-square" alt="OIDC"> <img src="https://img.shields.io/badge/OAuth-3B82F6?style=flat-square" alt="OAuth"> <img src="https://img.shields.io/badge/SAML-3B82F6?style=flat-square" alt="SAML"> <img src="https://img.shields.io/badge/Multi--tenant_SaaS_Architecture-3B82F6?style=flat-square" alt="Multi-tenant SaaS Architecture">
 
 <sub>Posted May 13, 2026</sub>
 

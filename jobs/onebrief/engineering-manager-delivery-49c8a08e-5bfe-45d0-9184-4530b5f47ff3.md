@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T20:35:33+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/onebrief/49c8a08e-5bfe-45d0-9184-4530b5f47ff3
-summary: Lead a cross-functional team of platform, software, and security engineers responsible for CI/CD, release automation, and deployment infrastructure that enables safe, reliable shipping in mission-critical defense environments. You will own the delivery pipeline, enforce security controls across the software lifecycle, and establish standards for tested releases, rollback procedures, and compliance across air-gapped and regulated customer environments.
-skills: CI/CD, GitOps, Release Automation, SAST, DAST, FedRAMP, Risk Management Framework, Kubernetes
+summary: Lead a cross-functional team of platform, software, and security engineers building CI/CD, release automation, and deployment infrastructure for mission-critical military software. You'll own the delivery pipeline, security controls, and compliance frameworks that enable reliable, auditable deployments in air-gapped and highly regulated defense environments.
+skills: CI/CD, GitOps, Kubernetes, Release Automation, SAST/DAST, FedRAMP, Risk Management Framework, Defense/Government Experience
 level: manager
 comp: 
 comp_extras: 
-render_hash: 811bbb8e
+render_hash: 9fef895e
 -->
 
 # Engineering Manager, Delivery
@@ -24,9 +24,9 @@ render_hash: 811bbb8e
 
 > OneBrief builds collaboration and AI-powered workflow software for military staffs.
 
-_Lead a cross-functional team of platform, software, and security engineers responsible for CI/CD, release automation, and deployment infrastructure that enables safe, reliable shipping in mission-critical defense environments. You will own the delivery pipeline, enforce security controls across the software lifecycle, and establish standards for tested releases, rollback procedures, and compliance across air-gapped and regulated customer environments._
+_Lead a cross-functional team of platform, software, and security engineers building CI/CD, release automation, and deployment infrastructure for mission-critical military software. You'll own the delivery pipeline, security controls, and compliance frameworks that enable reliable, auditable deployments in air-gapped and highly regulated defense environments._
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square) ![GitOps](https://img.shields.io/badge/GitOps-3B82F6?style=flat-square) ![Release Automation](https://img.shields.io/badge/Release_Automation-3B82F6?style=flat-square) ![SAST](https://img.shields.io/badge/SAST-3B82F6?style=flat-square) ![DAST](https://img.shields.io/badge/DAST-3B82F6?style=flat-square) ![FedRAMP](https://img.shields.io/badge/FedRAMP-3B82F6?style=flat-square) ![Risk Management Framework](https://img.shields.io/badge/Risk_Management_Framework-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/GitOps-3B82F6?style=flat-square" alt="GitOps"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Release_Automation-3B82F6?style=flat-square" alt="Release Automation"> <img src="https://img.shields.io/badge/SAST%2FDAST-3B82F6?style=flat-square" alt="SAST/DAST"> <img src="https://img.shields.io/badge/FedRAMP-3B82F6?style=flat-square" alt="FedRAMP"> <img src="https://img.shields.io/badge/Risk_Management_Framework-3B82F6?style=flat-square" alt="Risk Management Framework"> <img src="https://img.shields.io/badge/Defense%2FGovernment_Experience-3B82F6?style=flat-square" alt="Defense/Government Experience">
 
 <sub>Posted May 15, 2026</sub>
 

@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-11
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T18:45:25+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5
-summary: Build AI-assisted threat intelligence workflows and automation platforms that identify, track, and operationalize threats against Snowflake's cloud platform, translating threat actor research into detection strategies and defensive priorities. Scale threat intelligence collection, analysis, and reporting using modern engineering practices and AI automation in a security context requiring expertise in cloud-native threat actors and OSINT methodologies.
-skills: Python, Go, SQL, AWS, Azure, GCP, OSINT Tools, Threat Intelligence
+summary: Build and operationalize threat intelligence systems and AI-assisted workflows that identify, track, and defend against threat actors targeting Snowflake and its customers. Engineer automation, collection pipelines, and analyst tooling to scale intelligence analysis while maintaining quality and driving security decision-making across the enterprise.
+skills: Python, Go, SQL, AWS, Azure, GCP, Machine Learning, OSINT
 level: principal
 comp: 
 comp_extras: 
-render_hash: 3a5c6b6d
+render_hash: f065a7ed
 -->
 
 # Principal Security Engineer - Threat Intelligence 
@@ -24,9 +24,9 @@ render_hash: 3a5c6b6d
 
 > Snowflake is a cloud-based data platform that provides data warehousing, data lakes, and data sharing capabilities across major cloud providers including AWS, Azure, and Google Cloud. The company operates in the enterprise data and analytics domain, enabling organizations to store, process, and analyze large volumes of structured and semi-structured data.
 
-_Build AI-assisted threat intelligence workflows and automation platforms that identify, track, and operationalize threats against Snowflake's cloud platform, translating threat actor research into detection strategies and defensive priorities. Scale threat intelligence collection, analysis, and reporting using modern engineering practices and AI automation in a security context requiring expertise in cloud-native threat actors and OSINT methodologies._
+_Build and operationalize threat intelligence systems and AI-assisted workflows that identify, track, and defend against threat actors targeting Snowflake and its customers. Engineer automation, collection pipelines, and analyst tooling to scale intelligence analysis while maintaining quality and driving security decision-making across the enterprise._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![OSINT Tools](https://img.shields.io/badge/OSINT_Tools-3B82F6?style=flat-square) ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/OSINT-3B82F6?style=flat-square" alt="OSINT">
 
 <sub>Posted May 11, 2026</sub>
 

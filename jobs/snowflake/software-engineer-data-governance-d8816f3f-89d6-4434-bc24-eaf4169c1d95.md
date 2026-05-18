@@ -3,30 +3,30 @@ id: ashby-snowflake-d8816f3f-89d6-4434-bc24-eaf4169c1d95
 company: Snowflake
 title: Software Engineer, Data Governance
 source: ashby
-location: US-CA-Menlo Park
+location: Menlo Park, CA
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-11
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T18:45:25+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/snowflake/d8816f3f-89d6-4434-bc24-eaf4169c1d95
-summary: Design and build data governance features and services that help customers govern data assets through fine-grained secure access, privacy controls, and auditability at large scale. Apply systems programming expertise to solve complex challenges in database security and governance across Snowflake's platform.
-skills: Java, SQL, Systems Programming, Multi-threading, Concurrency, Database Security, Data Governance, BS in Computer Science
+summary: Design and build data governance features and services within Snowflake's platform, including fine-grained access control, data privacy, lineage tracking, and auditability. Work at scale solving real business needs for data stewards across a cloud data platform.
+skills: Java, SQL, Database Fundamentals, Systems Programming, Multi-threading, Concurrency, Machine Learning
 level: senior
 comp: 
 comp_extras: 
-render_hash: 364f1c95
+render_hash: e407d150
 -->
 
 # Software Engineer, Data Governance
 
-<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · US-CA-Menlo Park · `Senior`
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · Menlo Park, California · `Senior`
 
 > Snowflake is a cloud-based data platform that provides data warehousing, data lakes, and data sharing capabilities across major cloud providers including AWS, Azure, and Google Cloud. The company operates in the enterprise data and analytics domain, enabling organizations to store, process, and analyze large volumes of structured and semi-structured data.
 
-_Design and build data governance features and services that help customers govern data assets through fine-grained secure access, privacy controls, and auditability at large scale. Apply systems programming expertise to solve complex challenges in database security and governance across Snowflake's platform._
+_Design and build data governance features and services within Snowflake's platform, including fine-grained access control, data privacy, lineage tracking, and auditability. Work at scale solving real business needs for data stewards across a cloud data platform._
 
-![Java](https://img.shields.io/badge/Java-3B82F6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3B82F6?style=flat-square) ![Systems Programming](https://img.shields.io/badge/Systems_Programming-3B82F6?style=flat-square) ![Multi-threading](https://img.shields.io/badge/Multi--threading-3B82F6?style=flat-square) ![Concurrency](https://img.shields.io/badge/Concurrency-3B82F6?style=flat-square) ![Database Security](https://img.shields.io/badge/Database_Security-3B82F6?style=flat-square) ![Data Governance](https://img.shields.io/badge/Data_Governance-3B82F6?style=flat-square) ![BS in Computer Science](https://img.shields.io/badge/BS_in_Computer_Science-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Database_Fundamentals-3B82F6?style=flat-square" alt="Database Fundamentals"> <img src="https://img.shields.io/badge/Systems_Programming-3B82F6?style=flat-square" alt="Systems Programming"> <img src="https://img.shields.io/badge/Multi--threading-3B82F6?style=flat-square" alt="Multi-threading"> <img src="https://img.shields.io/badge/Concurrency-3B82F6?style=flat-square" alt="Concurrency"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning">
 
 <sub>Posted May 11, 2026</sub>
 
