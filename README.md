@@ -10,6 +10,17 @@ For engineers who build. Roles are scraped hourly from YC startups, VC-backed co
 
 ## May 18, 2026
 
+### [Production Engineer](jobs/similarweb/production-engineer-7938197.md)
+<a href="https://similarweb.com"><img src="https://www.google.com/s2/favicons?domain=similarweb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Similarweb** · Tel Aviv · `Senior`
+
+_Design and manage mission-critical infrastructure handling millions of requests per second across tens of AWS accounts, building AI-driven automation frameworks and LLM infrastructure for over 400 engineers. Scale thousands of servers and containers while improving observability, reliability, and incident response across a multi-account cloud environment. · [Apply →](https://job-boards.greenhouse.io/similarweb/jobs/7938197)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/LLMs-3B82F6?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
+
+<sub>May 18, 2026 at 09:28 UTC</sub>
+
+---
+
 ### [SRE Operations Engineer](jobs/okta/sre-operations-engineer-7464025.md)
 <a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · Bengaluru, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Junior`
 
@@ -49,17 +60,6 @@ _Build secure authentication and authorization cloud services and client softwar
 _Build intuitive, performant front-end interfaces for UiPath Test Cloud, a cloud-based AI-powered software testing platform enabling teams to design, run, and manage automated testing at scale. You'll own features end-to-end, architect scalable UI patterns, and drive accessibility and performance excellence across modern browsers and mobile devices. · [Apply →](https://jobs.ashbyhq.com/uipath/e613f49f-8311-439a-9668-b05ec980007a)_
 
 <img src="https://img.shields.io/badge/Angular-3B82F6?style=flat-square" alt="Angular"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-3B82F6?style=flat-square" alt="HTML"> <img src="https://img.shields.io/badge/CSS-3B82F6?style=flat-square" alt="CSS"> <img src="https://img.shields.io/badge/WCAG-3B82F6?style=flat-square" alt="WCAG"> <img src="https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square" alt="Performance Optimization">
-
-<sub>May 18, 2026 at 05:34 UTC</sub>
-
----
-
-### [Software Engineer 2](jobs/zynga/software-engineer-2-5742259004.md)
-<a href="https://zynga.com"><img src="https://www.google.com/s2/favicons?domain=zynga.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zynga** · Bengaluru, India · `Mid`
-
-_Develop new game features in C#, C++, Java, Python, or JavaScript for games played by millions of players globally. Optimize live game performance, mentor junior engineers, and collaborate across product, design, art, and QA teams. · [Apply →](https://job-boards.greenhouse.io/zyngacareers/jobs/5742259004)_
-
-<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Visual_Studio-3B82F6?style=flat-square" alt="Visual Studio">
 
 <sub>May 18, 2026 at 05:34 UTC</sub>
 
