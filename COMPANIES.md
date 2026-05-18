@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **149 companies** · **323 open roles** (17 new today)
+### **152 companies** · **329 open roles** (15 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -95,7 +95,7 @@ Anduril Industries builds autonomous systems and defense technology using AI, ro
 - [Senior Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007) · Reston, Virginia · `Senior` · `$191k-$253k` · `Equity` (May 13)
 - [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136753007?gh_jid=5136753007) · Boston, Massachusetts · `Mid` · `$166k-$220k` · `Equity` (May 13)
 - [Software Engineer, Full-stack](https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007) · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity` (May 13)
-- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5088766007?gh_jid=5088766007) · Costa Mesa, California · `Staff` · `$220k–$292k` · `Equity` (May 13)
+- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5138391007?gh_jid=5138391007) · Seattle, Washington · `Staff` · `$220k—$292k USD` · `Equity` (May 13)
 
 ---
 
@@ -129,8 +129,8 @@ Anyscale builds Ray, an open-source distributed computing framework, and offers 
 
 Applied Intuition builds physical AI systems automating machines in automotive, defense, trucking, mining, construction, and agriculture.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer (C++) ](https://boards.greenhouse.io/appliedintuition/jobs/4696630005?gh_jid=4696630005) · Ann Arbor, Michigan · `Mid` · `$100k–$200k` · `Equity` (May 18)
 - [Defense - Lead Software Engineer ](https://boards.greenhouse.io/appliedintuition/jobs/4696317005?gh_jid=4696317005) · Washington, D.C. · `Senior` · `$140k-$180k` · `Equity` (May 18)
+- [Software Engineer (C++) ](https://boards.greenhouse.io/appliedintuition/jobs/4696630005?gh_jid=4696630005) · Ann Arbor, Michigan · `Mid` · `$100k–$200k` · `Equity` (May 18)
 - [Robotic Software Engineer (Drone Stack)](https://boards.greenhouse.io/appliedintuition/jobs/4677114005?gh_jid=4677114005) · Washington, D.C. · `Mid` · `$135k-$175k` · `Equity` (May 14)
 
 ---
@@ -328,9 +328,9 @@ Claim Health builds software that helps healthcare providers and patients automa
 
 Clay is a platform that enables users to build and run custom data automation workflows without coding, allowing teams to enrich, verify, and synchronize data across multiple business applications and APIs.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [GTM Engineer - CX](https://jobs.ashbyhq.com/claylabs/e43101dd-4e98-4c60-bc1b-adbbb38c7b15) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` (May 18)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [GTM Engineer - Ecosystem](https://jobs.ashbyhq.com/claylabs/242be863-2f62-44a7-909d-6c351dee81d1) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [GTM Engineer - Seller Efficiency](https://jobs.ashbyhq.com/claylabs/d5c7f612-10e7-4080-8b8a-d51e70fff9c5) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
+- [GTM Engineer - CX](https://jobs.ashbyhq.com/claylabs/e43101dd-4e98-4c60-bc1b-adbbb38c7b15) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` (May 18)
+- [GTM Engineer - Ecosystem](https://jobs.ashbyhq.com/claylabs/242be863-2f62-44a7-909d-6c351dee81d1) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
+- [GTM Engineer - Seller Efficiency](https://jobs.ashbyhq.com/claylabs/d5c7f612-10e7-4080-8b8a-d51e70fff9c5) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
 
 ---
 
@@ -676,6 +676,15 @@ Medal provides a platform for capturing, editing, and sharing video clips from g
 
 ---
 
+## <a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Mercury](https://mercury.com)
+
+Mercury builds banking and financial infrastructure for startups and growth-stage companies, offering services including business accounts, payments, treasury management, and financial operations tools. They operate in the fintech and business banking domain, serving as an alternative to traditional banks for venture-backed companies.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Software Engineer - Treasury](https://job-boards.greenhouse.io/mercury/jobs/5990652004) · San Francisco, California / New York, New York / Portland, Oregon / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$166k-$263k USD (US); CAD $157k-$248k (Canada)` · `Equity` (May 18)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Strategic Finance - GTM](https://job-boards.greenhouse.io/mercury/jobs/5998488004) · San Francisco, California / New York, New York / Portland, Oregon / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$128k-$160k` · `Equity` · `Bonus` (May 18)
+
+---
+
 ## <a href="https://metriport.com"><img src="https://www.google.com/s2/favicons?domain=metriport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Metriport](https://metriport.com)
 
 Metriport builds an API platform that enables healthcare applications to access and exchange patient medical records across fragmented health systems and electronic health record (EHR) networks in the United States. The company operates in the healthcare interoperability space, specifically addressing the challenge of aggregating patient data from multiple providers and hospitals through standardized data exchange protocols.
@@ -871,6 +880,14 @@ Planet Labs builds daily satellite imagery and insights used by decision-makers 
 
 ---
 
+## <a href="https://podium.com"><img src="https://www.google.com/s2/favicons?domain=podium.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Podium](https://podium.com)
+
+Podium builds a customer communications platform that helps local businesses manage interactions across multiple channels including messaging, review management, and customer feedback. The company operates in the business software space, specifically serving small and medium-sized enterprises in industries like home services, healthcare, and retail.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineering Intern](https://job-boards.greenhouse.io/podium81/jobs/7939921) · Lehi, Utah · `Intern` (May 18)
+
+---
+
 ## <a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Ramp](https://ramp.com)
 
 Ramp builds a corporate expense management platform that handles employee spending, receipt tracking, and bill payments for mid-market companies. The platform integrates with accounting software and provides real-time visibility into business expenses across a company's spend.
@@ -1000,7 +1017,7 @@ Rula develops mental health software that provides evidence-based care and reduc
 
 Saronic develops autonomous surface vessels for maritime operations including inspection, surveillance, and environmental monitoring. The company's USVs (unmanned surface vehicles) operate in the marine technology sector, serving applications in offshore energy, coastal defense, and environmental protection.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) · Austin, Texas · `Intern` (May 18)
+- [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) · Austin, Texas · `Intern` (May 18)
 
 ---
 
@@ -1074,7 +1091,7 @@ Slingshot Aerospace builds software and analytical tools for space situational a
 
 - [Senior Full Stack Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997241004?gh_jid=5997241004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$200k` · `Equity` (May 15)
 - [Senior Python Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997251004?gh_jid=5997251004) · Washington, D.C. · `Senior` · `$150k-$220k` · `Equity` (May 15)
-- [Senior Technical Architect](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k` (May 15)
+- [Senior Technical Architect](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004) · Washington, D.C. · `Senior` · `$175k-$250k` · `Equity` (May 15)
 - [Senior Astrodynamics Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5995728004?gh_jid=5995728004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$150k-$250k` (May 13)
 - [Senior DevOps Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5809580004?gh_jid=5809580004) · Colorado Springs, Colorado · `Senior` · `$136k-$237k` (May 13)
 
@@ -1084,6 +1101,7 @@ Slingshot Aerospace builds software and analytical tools for space situational a
 
 Snowflake is a cloud-based data platform that provides data warehousing, data lakes, and data sharing capabilities across major cloud providers including AWS, Azure, and Google Cloud. The company operates in the enterprise data and analytics domain, enabling organizations to store, process, and analyze large volumes of structured and semi-structured data.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Software Engineer - Container Platform](https://jobs.ashbyhq.com/snowflake/32d18d13-97ee-4e21-b2c8-2e5334caea20) · Menlo Park, California · `Staff` (May 18)
 - [Principal Security Engineer - Threat Intelligence ](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` (May 15)
 - [Software Engineer, Data Governance](https://jobs.ashbyhq.com/snowflake/d8816f3f-89d6-4434-bc24-eaf4169c1d95) · Menlo Park, California · `Senior` (May 15)
 
@@ -1230,9 +1248,9 @@ Tenstorrent builds AI computing hardware using ASICs and RISC-V technology for A
 
 Toast is a cloud-based point-of-sale and restaurant management platform that helps restaurants manage orders, payments, inventory, and staff scheduling. The company serves full-service restaurants, quick-service restaurants, and other food service establishments globally.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Principal Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7745976) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$180k-$368k` · `Equity` · `Bonus` (May 18)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Software Engineer, Tech Lead ](https://careers.toasttab.com/jobs?gh_jid=7895604) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$142k—$227k CAD` · `Equity` · `Bonus` (May 18)
+- [Principal Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7745976) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$180k-$368k` · `Equity` · `Bonus` (May 18)
 - [Staff Software Engineer - Application Infrastructure](https://careers.toasttab.com/jobs?gh_jid=7727235) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus` (May 18)
+- [Staff Software Engineer, Tech Lead ](https://careers.toasttab.com/jobs?gh_jid=7895604) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$142k—$227k CAD` · `Equity` · `Bonus` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Principal Software Engineer, AI Team Agent](https://careers.toasttab.com/jobs?gh_jid=7936022) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` (May 17)
 - [GTM Engineer: Data Infrastructure & AI Intelligence](https://careers.toasttab.com/jobs?gh_jid=7931361) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$105k—$168k` · `Equity` · `Bonus` (May 15)
 - [ Senior GTM Engineer,  AI Innovation](https://careers.toasttab.com/jobs?gh_jid=7757899) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$90k-$184k` · `Equity` · `Bonus` (May 15)
@@ -1285,11 +1303,19 @@ Vapi builds an API platform that enables developers to create and deploy voice A
 
 ---
 
+## <a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Varda Space Industries](https://varda.space)
+
+Varda Space Industries builds small spacecraft designed to conduct materials research and manufacturing experiments in microgravity orbits, then return the products to Earth for collection and analysis. The company operates in the commercial spaceflight and space-based manufacturing sectors.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Pharma Applications Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7738472003) · El Segundo, California · `Mid` · `$120k-$160k` · `Equity` (May 18)
+
+---
+
 ## <a href="https://www.vast.space"><img src="https://www.google.com/s2/favicons?domain=www.vast.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Vast](https://www.vast.space)
 
 Vast builds next-generation habitats for long-term human presence in low-Earth orbit.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Mission Operations Engineer](https://boards.greenhouse.io/vast/jobs/4681134006?gh_jid=4681134006) · Long Beach, California · `Senior` · `$137k-$230k` · `Equity` (May 18)
+- [Senior Mission Operations Engineer - Ground Segment ](https://boards.greenhouse.io/vast/jobs/4681134006?gh_jid=4681134006) · Long Beach, California · `Senior` · `$137k-$230k` · `Equity` (May 18)
 
 ---
 
@@ -1297,6 +1323,7 @@ Vast builds next-generation habitats for long-term human presence in low-Earth o
 
 Waymo builds autonomous vehicle technology for transportation.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Staff Android Engineer, In-Car Experience ](https://careers.withwaymo.com/jobs?gh_jid=7932205) · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$298k-$368k` · `Equity` · `Bonus` (May 18)
 - [Senior Software Engineer, PUDO Experience](https://careers.withwaymo.com/jobs?gh_jid=7902125) · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$213k-$263k` · `Equity` · `Bonus` (May 18)
 - [Software Engineer, Fleet Monitoring](https://careers.withwaymo.com/jobs?gh_jid=7939542) · San Francisco, California / Mountain View, California · `Senior` · `$175k-$215k` · `Equity` · `Bonus` (May 18)
 - [Software Engineer, Logs Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=7901924) · Mountain View, California / San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$215k` · `Equity` · `Bonus` (May 18)
