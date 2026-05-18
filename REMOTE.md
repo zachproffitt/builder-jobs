@@ -2,13 +2,57 @@
 
 Remote engineering roles only, scraped hourly and classified by Claude. Listings older than 14 days are removed automatically.
 
-### **93 open roles** (19 new today)
+### **98 open roles** (23 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 18, 2026
+
+### [Senior Software Engineer (Fullstack)](jobs/butterflymx/senior-software-engineer-fullstack-8cb014d7-c5f0-449e-8250-517c0d21e43a.md)
+<a href="https://butterflymx.com"><img src="https://www.google.com/s2/favicons?domain=butterflymx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ButterflyMX** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build and evolve APIs, services, and full-stack features powering ButterflyMX's property access and security platform serving 20,000+ properties globally. Lead large-scale projects across front-end and back-end layers in a distributed, service-oriented architecture handling IoT device integration and real-time access management. · [Apply →](https://jobs.ashbyhq.com/butterflymx/8cb014d7-c5f0-449e-8250-517c0d21e43a)_
+
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square" alt="GraphQL"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/CI%2FCD_pipelines-3B82F6?style=flat-square" alt="CI/CD pipelines"> <img src="https://img.shields.io/badge/IoT_device_development-3B82F6?style=flat-square" alt="IoT device development">
+
+<sub>May 18, 2026 at 18:30 UTC</sub>
+
+---
+
+### [Data Scientist II, Experimentation](jobs/pinterest/data-scientist-ii-experimentation-7896291.md)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$114k–$235k` · `Equity`
+
+_Build and improve Pinterest's experimentation platform by developing statistical methodologies, workflows, and tools that enable thousands of concurrent experiments to run smoothly and generate reliable insights. Partner with product data science teams to optimize experiment design, analysis, and decision-making at massive scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7896291)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Apache_Airflow-3B82F6?style=flat-square" alt="Apache Airflow"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/Statistical_Analysis-3B82F6?style=flat-square" alt="Statistical Analysis"> <img src="https://img.shields.io/badge/Experimental_Design-3B82F6?style=flat-square" alt="Experimental Design"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL">
+
+<sub>May 18, 2026 at 18:30 UTC</sub>
+
+---
+
+### [Data Scientist II, Infrastructure](jobs/pinterest/data-scientist-ii-infrastructure-7816424.md)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Remote / San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$114k-$235k` · `Equity`
+
+_Build and refine metrics, dashboards, and analytical frameworks that measure, monitor, and optimize Pinterest's infrastructure systems. Work with production data pipelines and measurement systems to quantify the impact of infrastructure changes on reliability, performance, and user experience at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7816424)_
+
+<img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Statistics-3B82F6?style=flat-square" alt="Statistics"> <img src="https://img.shields.io/badge/Experimentation_Design-3B82F6?style=flat-square" alt="Experimentation Design"> <img src="https://img.shields.io/badge/Data_Pipeline_Development-3B82F6?style=flat-square" alt="Data Pipeline Development"> <img src="https://img.shields.io/badge/A%2FB_Testing-3B82F6?style=flat-square" alt="A/B Testing"> <img src="https://img.shields.io/badge/Metrics_Definition-3B82F6?style=flat-square" alt="Metrics Definition"> <img src="https://img.shields.io/badge/Data_Quality-3B82F6?style=flat-square" alt="Data Quality">
+
+<sub>May 18, 2026 at 18:30 UTC</sub>
+
+---
+
+### [Sr. Data Scientist, GenAI & Labeling Platforms](jobs/pinterest/sr-data-scientist-genai-labeling-platforms-7923203.md)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$139k–$287k` · `Equity`
+
+_Build LLM-assisted labeling systems and human-in-the-loop evaluation platforms that reduce labeling costs and improve data quality at scale. Work on prompt optimization, quality estimation, routing, and measurement frameworks for generative AI workflows across Pinterest's labeling infrastructure. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7923203)_
+
+<img src="https://img.shields.io/badge/LLMs-3B82F6?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/Data_Science-3B82F6?style=flat-square" alt="Data Science"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Prompt_Engineering-3B82F6?style=flat-square" alt="Prompt Engineering"> <img src="https://img.shields.io/badge/Experimentation-3B82F6?style=flat-square" alt="Experimentation"> <img src="https://img.shields.io/badge/Human--in--the--Loop_Systems-3B82F6?style=flat-square" alt="Human-in-the-Loop Systems"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch">
+
+<sub>May 18, 2026 at 18:30 UTC</sub>
+
+---
 
 ### [Software Engineer III, Data Platform](jobs/agility-robotics/software-engineer-iii-data-platform-5988723004.md)
 <a href="https://agilityrobotics.com"><img src="https://www.google.com/s2/favicons?domain=agilityrobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Agility Robotics** · Remote / Salem, Oregon / Pittsburgh, Pennsylvania / Fremont, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$144k—$224k` · `Equity` · `Bonus`
@@ -396,8 +440,8 @@ _Build and productionize cutting-edge GenAI applications—RAG systems, multi-ag
 
 ---
 
-### [Vice President Site Reliability Engineering (Data Centers)](jobs/galaxy/vice-president-site-reliability-engineering-data-centers-5997360004.md)
-<a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+### [Vice President Site Reliability Engineering (Data Centers)](jobs/galaxy-digital/vice-president-site-reliability-engineering-data-centers-5997360004.md)
+<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Lead a specialized SRE team designing, deploying, and maintaining automation platforms and infrastructure-as-code systems across hybrid cloud and on-prem data center environments. Establish IaC governance standards, optimize configuration management workflows, and build self-service platforms that enhance engineering velocity while managing complex hybrid infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)_
 
@@ -692,6 +736,17 @@ _Build a brand-new web application for ShareGate Migrate from scratch, creating 
 _Build and extend Airbnb's semantic layer and data transformation platform that serves 4,000+ internal data producers and consumers. Work on query rewriting services, data abstraction layers, and infrastructure that democratizes access to high-quality data models and metrics across the company. · [Apply →](https://careers.airbnb.com/positions/7094964?gh_jid=7094964)_
 
 <img src="https://img.shields.io/badge/Data_warehouse_technologies-3B82F6?style=flat-square" alt="Data warehouse technologies"> <img src="https://img.shields.io/badge/DSL%2FAPI_design-3B82F6?style=flat-square" alt="DSL/API design"> <img src="https://img.shields.io/badge/Query_rewriting-3B82F6?style=flat-square" alt="Query rewriting"> <img src="https://img.shields.io/badge/Semantic_layers-3B82F6?style=flat-square" alt="Semantic layers"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Distributed_systems-3B82F6?style=flat-square" alt="Distributed systems"> <img src="https://img.shields.io/badge/OOP-3B82F6?style=flat-square" alt="OOP">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Manager, Cyber Threat Intelligence](jobs/anduril-industries/manager-cyber-threat-intelligence-5137718007.md)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
+
+_Lead a team of threat intelligence analysts and security engineers to conduct cyber threat research, vulnerability analysis, and adversary tracking for Anduril's defense systems and infrastructure. Build and maintain threat intelligence platforms, signature systems, and data integration pipelines while managing complex investigations into nation-state and supply chain threats targeting the defense industrial base. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/YARA-3B82F6?style=flat-square" alt="YARA"> <img src="https://img.shields.io/badge/Snort-3B82F6?style=flat-square" alt="Snort"> <img src="https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square" alt="Threat Intelligence"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
 
 <sub>May 14, 2026</sub>
 
