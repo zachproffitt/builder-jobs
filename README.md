@@ -2,7 +2,7 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **251 open roles** (9 new today) &nbsp;·&nbsp; 1019 companies searched
+### **251 open roles** (0 new today) &nbsp;·&nbsp; 1019 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
@@ -43,39 +43,6 @@ _Build AI-powered systems that understand and rearchitect large-scale legacy app
 
 ---
 
-### [Software Engineer (SDE 2) - Full Stack, Lakeflow](jobs/databricks/software-engineer-sde-2-full-stack-lakeflow-8530796002.md)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote · `Mid`
-
-_Build UI features and reusable components for Lakeflow Connect, Databricks' point-and-click data ingestion platform, enabling customers to configure and monitor connectors across enterprise applications, databases, and cloud storage. Work across the full stack from API integration to polished frontend delivery, collaborating with product, design, and backend teams to embed Connect experiences into Dashboards, Notebooks, SQL, and AI surfaces. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002)_
-
-<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-3B82F6?style=flat-square" alt="HTML"> <img src="https://img.shields.io/badge/CSS-3B82F6?style=flat-square" alt="CSS"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS">
-
-<sub>May 17, 2026 at 15:32 UTC</sub>
-
----
-
-### [AI Security Researcher](jobs/wiz/ai-security-researcher-4681239006.md)
-<a href="https://wiz.io"><img src="https://www.google.com/s2/favicons?domain=wiz.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wiz** · Tel Aviv · `Senior`
-
-_Conduct deep technical research to discover novel risks and attack vectors in cloud and AI-native environments, then work with Product and Engineering to translate findings into product capabilities and security proofs of concept. · [Apply →](https://www.wiz.io/careers/job/4681239006/:title?gh_jid=4681239006)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/KQL-3B82F6?style=flat-square" alt="KQL"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
-
-<sub>May 17, 2026 at 11:34 UTC</sub>
-
----
-
-### [Senior Principal Software Engineer, AI Team Agent](jobs/toast/senior-principal-software-engineer-ai-team-agent-7936022.md)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal`
-
-_Design and implement AI agent architecture for Toast's Team management platform, a mission-critical workforce management system serving restaurants. Drive specification-driven development practices and agentic patterns across the fintech line of business while mentoring senior technical leadership. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7936022)_
-
-<img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/SaaS_Architecture-3B82F6?style=flat-square" alt="SaaS Architecture"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/LLM%2FAI_Agents-3B82F6?style=flat-square" alt="LLM/AI Agents"> <img src="https://img.shields.io/badge/Apache_Pulsar-3B82F6?style=flat-square" alt="Apache Pulsar"> <img src="https://img.shields.io/badge/Apache_Camel-3B82F6?style=flat-square" alt="Apache Camel"> <img src="https://img.shields.io/badge/Event--Driven_Architecture-3B82F6?style=flat-square" alt="Event-Driven Architecture">
-
-<sub>May 17, 2026 at 10:38 UTC</sub>
-
----
-
 ### [Air-Vehicle Multidisciplinary Design Analysis and Optimization (MDAO) Engineer](jobs/anduril-industries/air-vehicle-multidisciplinary-design-analysis-and-optimization-mdao-engineer-5132442007.md)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$166k-$220k` · `Equity`
 
@@ -83,7 +50,18 @@ _Build multidisciplinary design analysis and optimization workflows for next-gen
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/C-3B82F6?style=flat-square" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/FORTRAN-3B82F6?style=flat-square" alt="FORTRAN"> <img src="https://img.shields.io/badge/DoD_Secret_Clearance-3B82F6?style=flat-square" alt="DoD Secret Clearance"> <img src="https://img.shields.io/badge/Special_Access_Program_Eligibility-3B82F6?style=flat-square" alt="Special Access Program Eligibility">
 
-<sub>May 17, 2026 at 01:14 UTC</sub>
+<sub>May 17, 2026</sub>
+
+---
+
+### [Software Engineer (SDE 2) - Full Stack, Lakeflow](jobs/databricks/software-engineer-sde-2-full-stack-lakeflow-8530796002.md)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote · `Mid`
+
+_Build UI features and reusable components for Lakeflow Connect, Databricks' point-and-click data ingestion platform, enabling customers to configure and monitor connectors across enterprise applications, databases, and cloud storage. Work across the full stack from API integration to polished frontend delivery, collaborating with product, design, and backend teams to embed Connect experiences into Dashboards, Notebooks, SQL, and AI surfaces. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002)_
+
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-3B82F6?style=flat-square" alt="HTML"> <img src="https://img.shields.io/badge/CSS-3B82F6?style=flat-square" alt="CSS"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS">
+
+<sub>May 17, 2026</sub>
 
 ---
 
@@ -104,6 +82,28 @@ _Build and optimize distributed agent orchestration infrastructure capable of pa
 _Build and maintain scalable frontend infrastructure for a cybersecurity SaaS platform, owning features from design through deployment while collaborating with product, design, and backend teams. · [Apply →](https://job-boards.greenhouse.io/tenableinc/jobs/5101853008)_
 
 <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Angular-3B82F6?style=flat-square" alt="Angular"> <img src="https://img.shields.io/badge/Unit_Testing-3B82F6?style=flat-square" alt="Unit Testing">
+
+<sub>May 17, 2026</sub>
+
+---
+
+### [Senior Principal Software Engineer, AI Team Agent](jobs/toast/senior-principal-software-engineer-ai-team-agent-7936022.md)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Principal`
+
+_Design and implement AI agent architecture for Toast's Team management platform, a mission-critical workforce management system serving restaurants. Drive specification-driven development practices and agentic patterns across the fintech line of business while mentoring senior technical leadership. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7936022)_
+
+<img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/SaaS_Architecture-3B82F6?style=flat-square" alt="SaaS Architecture"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/LLM%2FAI_Agents-3B82F6?style=flat-square" alt="LLM/AI Agents"> <img src="https://img.shields.io/badge/Apache_Pulsar-3B82F6?style=flat-square" alt="Apache Pulsar"> <img src="https://img.shields.io/badge/Apache_Camel-3B82F6?style=flat-square" alt="Apache Camel"> <img src="https://img.shields.io/badge/Event--Driven_Architecture-3B82F6?style=flat-square" alt="Event-Driven Architecture">
+
+<sub>May 17, 2026</sub>
+
+---
+
+### [AI Security Researcher](jobs/wiz/ai-security-researcher-4681239006.md)
+<a href="https://wiz.io"><img src="https://www.google.com/s2/favicons?domain=wiz.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wiz** · Tel Aviv · `Senior`
+
+_Conduct deep technical research to discover novel risks and attack vectors in cloud and AI-native environments, then work with Product and Engineering to translate findings into product capabilities and security proofs of concept. · [Apply →](https://www.wiz.io/careers/job/4681239006/:title?gh_jid=4681239006)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/KQL-3B82F6?style=flat-square" alt="KQL"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
 
 <sub>May 17, 2026</sub>
 
@@ -654,8 +654,8 @@ _Design and build infrastructure that schedules, orchestrates, and observes larg
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -665,8 +665,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
