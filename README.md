@@ -2,13 +2,24 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **251 open roles** (1 new today) &nbsp;·&nbsp; 1751 companies searched
+### **251 open roles** (2 new today) &nbsp;·&nbsp; 1640 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
 <br>
 
 ## May 18, 2026
+
+### [RF Engineer II - Ground Segment](jobs/rocket-lab/rf-engineer-ii-ground-segment-7734208003.md)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Auckland, NZ · `Mid`
+
+_Design, develop, and verify ground-based RF communications and navigation systems for launch vehicle and satellite telemetry, tracking, and command links. Work across systems engineering lifecycle including link budget analysis, RF testing, and integration with mission-critical space operations. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7734208003)_
+
+<img src="https://img.shields.io/badge/RF_Systems_Engineering-3B82F6?style=flat-square" alt="RF Systems Engineering"> <img src="https://img.shields.io/badge/MATLAB-3B82F6?style=flat-square" alt="MATLAB"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Link_Budget_Analysis-3B82F6?style=flat-square" alt="Link Budget Analysis"> <img src="https://img.shields.io/badge/CCSDS_Standards-3B82F6?style=flat-square" alt="CCSDS Standards"> <img src="https://img.shields.io/badge/VNA-3B82F6?style=flat-square" alt="VNA"> <img src="https://img.shields.io/badge/Spectrum_Analyzer-3B82F6?style=flat-square" alt="Spectrum Analyzer"> <img src="https://img.shields.io/badge/HFSS-3B82F6?style=flat-square" alt="HFSS">
+
+<sub>May 18, 2026 at 03:23 UTC</sub>
+
+---
 
 ### [Robot Integration Engineer](jobs/physical-intelligence/robot-integration-engineer-8e9830f4-89ba-46e6-ab73-648c550aaf3c.md)
 <a href="https://physicalintelligence.company"><img src="https://www.google.com/s2/favicons?domain=physicalintelligence.company&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Physical Intelligence** · San Francisco · `Senior`
@@ -647,8 +658,8 @@ _Design and build infrastructure that schedules, orchestrates, and observes larg
 
 ---
 
-### [Senior Firmware Engineer, Bluetooth](jobs/eightsleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+### [Senior Firmware Engineer, Bluetooth](jobs/eight-sleep/senior-firmware-engineer-bluetooth-63460635-19a5-46b5-89a9-7b307abeee6a.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California or New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
 
 _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing. · [Apply →](https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a)_
 
@@ -658,8 +669,8 @@ _Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's P
 
 ---
 
-### [Senior Software Engineer - Mobile (iOS)](jobs/eightsleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
+### [Senior Software Engineer - Mobile (iOS)](jobs/eight-sleep/senior-software-engineer-mobile-ios-b1c37913-179d-4927-8745-f6ef88a02e82.md)
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco · `Senior` · `Equity`
 
 _Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams. · [Apply →](https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82)_
 
@@ -1432,7 +1443,7 @@ _Build a brand-new web application for ShareGate Migrate from scratch, creating 
 
 ## May 14, 2026
 
-### [Staff Data Scientist, Commercial Analytics](jobs/10x-genomics/staff-data-scientist-commercial-analytics-7922933.md)
+### [Staff Data Scientist, Sales Analytics](jobs/10x-genomics/staff-data-scientist-sales-analytics-7922933.md)
 <a href="https://10xgenomics.com"><img src="https://www.google.com/s2/favicons?domain=10xgenomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**10x Genomics** · Pleasanton, California · `Senior` · `$198k–$268k` · `Equity` · `Bonus`
 
 _Build and deploy production ML pipelines for sales forecasting, churn prediction, and account expansion signals, replacing rule-based spreadsheet systems with ML models across Snowflake and AWS. Work within a complex B2B enterprise sales domain with global distribution networks and long sales cycles where predictive accuracy directly impacts commercial strategy. · [Apply →](https://boards.greenhouse.io/10xgenomics/jobs/7922933?gh_jid=7922933)_
@@ -1614,17 +1625,6 @@ _Design and implement mission-critical Teamcenter customizations, integrations, 
 _Build production-grade safeguards infrastructure that hardens research prototypes into reliable systems protecting Claude and its users. Own deployment, monitoring, and reliability for safety systems operating in real-time, and develop data and evaluation infrastructure to measure safeguard effectiveness at scale. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5219486008)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Large_Language_Models-3B82F6?style=flat-square" alt="Large Language Models"> <img src="https://img.shields.io/badge/Production_Systems-3B82F6?style=flat-square" alt="Production Systems"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/Machine_Learning_Deployment-3B82F6?style=flat-square" alt="Machine Learning Deployment"> <img src="https://img.shields.io/badge/Trust_and_Safety-3B82F6?style=flat-square" alt="Trust and Safety"> <img src="https://img.shields.io/badge/Monitoring_and_Observability-3B82F6?style=flat-square" alt="Monitoring and Observability"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
-
-<sub>May 14, 2026</sub>
-
----
-
-### [Staff Network Engineer](jobs/anthropic/staff-network-engineer-5170073008.md)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Seattle, Washington / New York City, New York / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$320k—$405k` · `Equity`
-
-_Design, deploy, and maintain high-performance networks across multiple data center sites powering Claude, writing software automation and tooling for network provisioning, configuration management, and operational workflows. Scale networks to new facilities while optimizing performance for large-scale AI training clusters and troubleshooting complex distributed systems spanning network, compute, and application layers. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5170073008)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/BGP-3B82F6?style=flat-square" alt="BGP"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux">
 
 <sub>May 14, 2026</sub>
 
