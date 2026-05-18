@@ -3,30 +3,30 @@ id: ashby-physicalintelligence-8e9830f4-89ba-46e6-ab73-648c550aaf3c
 company: Physical Intelligence
 title: Robot Integration Engineer
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: On-site
 hybrid: no
 posted_at: 2026-05-18
 first_seen: 2026-05-18
-first_seen_at: 2026-05-18T02:30:28+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/physicalintelligence/8e9830f4-89ba-46e6-ab73-648c550aaf3c
-summary: Own the integration of robot platforms into Physical Intelligence's fleet, driving system-level closure on hardware-software interfaces, acceptance testing, and reliability improvements. Lead cross-functional work across mechanical, electrical, and software teams in a zero-to-one robotics environment.
-skills: Python, ROS, ROS2, Robotics, Robot Systems Integration, Mechanical Systems, Electrical Systems, Testing & Validation
+summary: Own the integration of robot platforms into Physical Intelligence's fleet, from acceptance testing and system verification across hardware and software interfaces to sustained operational reliability and platform improvements. Work with multiple technical disciplines to resolve complex electromechanical and software issues, drive reliability metrics, and directly enable the foundation models powering PI's robots.
+skills: Python, ROS, Robotics Systems Integration, MTBF Analysis, Test Automation
 level: senior
 comp: 
 comp_extras: 
-render_hash: 6483c817
+render_hash: 7b3e6daf
 -->
 
 # Robot Integration Engineer
 
-<a href="https://physicalintelligence.company"><img src="https://www.google.com/s2/favicons?domain=physicalintelligence.company&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Physical Intelligence** · San Francisco · `Senior` · On-site
+<a href="https://physicalintelligence.company"><img src="https://www.google.com/s2/favicons?domain=physicalintelligence.company&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Physical Intelligence** · San Francisco, California · `Senior` · On-site
 
 > Physical Intelligence develops general-purpose AI to control robots performing household and warehouse tasks.
 
-_Own the integration of robot platforms into Physical Intelligence's fleet, driving system-level closure on hardware-software interfaces, acceptance testing, and reliability improvements. Lead cross-functional work across mechanical, electrical, and software teams in a zero-to-one robotics environment._
+_Own the integration of robot platforms into Physical Intelligence's fleet, from acceptance testing and system verification across hardware and software interfaces to sustained operational reliability and platform improvements. Work with multiple technical disciplines to resolve complex electromechanical and software issues, drive reliability metrics, and directly enable the foundation models powering PI's robots._
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/ROS-3B82F6?style=flat-square" alt="ROS"> <img src="https://img.shields.io/badge/ROS2-3B82F6?style=flat-square" alt="ROS2"> <img src="https://img.shields.io/badge/Robotics-3B82F6?style=flat-square" alt="Robotics"> <img src="https://img.shields.io/badge/Robot_Systems_Integration-3B82F6?style=flat-square" alt="Robot Systems Integration"> <img src="https://img.shields.io/badge/Mechanical_Systems-3B82F6?style=flat-square" alt="Mechanical Systems"> <img src="https://img.shields.io/badge/Electrical_Systems-3B82F6?style=flat-square" alt="Electrical Systems"> <img src="https://img.shields.io/badge/Testing_&_Validation-3B82F6?style=flat-square" alt="Testing & Validation">
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/ROS-3B82F6?style=flat-square" alt="ROS"> <img src="https://img.shields.io/badge/Robotics_Systems_Integration-3B82F6?style=flat-square" alt="Robotics Systems Integration"> <img src="https://img.shields.io/badge/MTBF_Analysis-3B82F6?style=flat-square" alt="MTBF Analysis"> <img src="https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square" alt="Test Automation">
 
 <sub>Posted May 18, 2026</sub>
 

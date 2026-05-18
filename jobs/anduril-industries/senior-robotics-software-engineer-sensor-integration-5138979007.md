@@ -1,7 +1,7 @@
 <!--
 id: greenhouse-andurilindustries-5138979007
 company: Anduril Industries
-title: Senior Robotics Engineer, Sensor Integration 
+title: Senior Robotics Software Engineer, Sensor Integration 
 source: greenhouse
 location: Costa Mesa, California, United States
 remote: Not specified
@@ -15,10 +15,10 @@ skills: C++, Rust, LiDAR, ROS, Python, Sensor Fusion, Distributed Systems, TS/SC
 level: senior
 comp: $220k-$292k
 comp_extras: equity
-render_hash: 637a9b69
+render_hash: d321ceac
 -->
 
-# Senior Robotics Engineer, Sensor Integration 
+# Senior Robotics Software Engineer, Sensor Integration 
 
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California, United States · `Senior` · `$220k-$292k` · `Equity`
 

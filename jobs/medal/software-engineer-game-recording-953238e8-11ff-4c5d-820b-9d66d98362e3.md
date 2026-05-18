@@ -8,14 +8,14 @@ remote: On-site
 hybrid: yes
 posted_at: 2026-05-18
 first_seen: 2026-05-18
-first_seen_at: 2026-05-18T13:33:04+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/medal/953238e8-11ff-4c5d-820b-9d66d98362e3
-summary: Design and implement performant game recording systems that capture gameplay efficiently from game engines and graphics APIs. Work on low-level performance optimization, graphics stack integration (Unity, Unreal, DirectX/Vulkan), and reverse-engineering challenges around anti-cheat systems.
-skills: C++, C#, Unity, Unreal Engine, Graphics APIs, Memory debugging, Reverse engineering, Video processing
+summary: Design and implement performant game recording systems that capture gameplay efficiently from game engines and APIs. Work on low-level performance-critical code involving graphics stacks, hooking, memory dumps, and reverse-engineering anti-cheats.
+skills: C++, C#, Unity, Unreal Engine, Graphics APIs, Memory profiling, Reverse engineering, Anti-cheat systems
 level: mid
 comp: 
 comp_extras: equity
-render_hash: 57b23232
+render_hash: 85ae9760
 -->
 
 # Software Engineer - Game Recording
@@ -24,9 +24,9 @@ render_hash: 57b23232
 
 > Medal provides a platform for capturing, editing, and sharing video clips from gameplay, allowing gamers to instantly clip highlights from their streams and games across PC and console platforms.
 
-_Design and implement performant game recording systems that capture gameplay efficiently from game engines and graphics APIs. Work on low-level performance optimization, graphics stack integration (Unity, Unreal, DirectX/Vulkan), and reverse-engineering challenges around anti-cheat systems._
+_Design and implement performant game recording systems that capture gameplay efficiently from game engines and APIs. Work on low-level performance-critical code involving graphics stacks, hooking, memory dumps, and reverse-engineering anti-cheats._
 
-<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/Unity-3B82F6?style=flat-square" alt="Unity"> <img src="https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square" alt="Unreal Engine"> <img src="https://img.shields.io/badge/Graphics_APIs-3B82F6?style=flat-square" alt="Graphics APIs"> <img src="https://img.shields.io/badge/Memory_debugging-3B82F6?style=flat-square" alt="Memory debugging"> <img src="https://img.shields.io/badge/Reverse_engineering-3B82F6?style=flat-square" alt="Reverse engineering"> <img src="https://img.shields.io/badge/Video_processing-3B82F6?style=flat-square" alt="Video processing">
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/Unity-3B82F6?style=flat-square" alt="Unity"> <img src="https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square" alt="Unreal Engine"> <img src="https://img.shields.io/badge/Graphics_APIs-3B82F6?style=flat-square" alt="Graphics APIs"> <img src="https://img.shields.io/badge/Memory_profiling-3B82F6?style=flat-square" alt="Memory profiling"> <img src="https://img.shields.io/badge/Reverse_engineering-3B82F6?style=flat-square" alt="Reverse engineering"> <img src="https://img.shields.io/badge/Anti--cheat_systems-3B82F6?style=flat-square" alt="Anti-cheat systems">
 
 <sub>Posted May 18, 2026</sub>
 

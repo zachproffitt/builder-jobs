@@ -1,7 +1,7 @@
 <!--
 id: greenhouse-stripe-7919030
 company: Stripe
-title: [TEMPLATE] Default Template
+title: Technical Solutions Specialist
 source: greenhouse
 location: Chicago, IL / Remote
 remote: Remote
@@ -15,10 +15,10 @@ skills: SQL, JavaScript, React, Python, Stripe API, LogScale, Full-stack develop
 level: junior
 comp: 
 comp_extras: 
-render_hash: 13d7f779
+render_hash: 5958db11
 -->
 
-# [TEMPLATE] Default Template
+# Technical Solutions Specialist
 
 <a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Chicago, Illinois / Remote · `Junior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 

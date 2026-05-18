@@ -1,24 +1,24 @@
 <!--
 id: greenhouse-toast-7823103
 company: Toast
-title: Senior Product Security Engineer- Java Security Engineer/Intelligence
+title: Senior Security Engineer- Java Security Engineer/Intelligence
 source: greenhouse
 location: Bengaluru, Karnataka, India
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-18
-first_seen_at: 2026-05-18T13:33:04+00:00
+first_seen_at: 
 url: https://careers.toasttab.com/jobs?gh_jid=7823103
 summary: Build security intelligence services, threat models, and anti-abuse tooling across Toast's Java-based restaurant platform. Lead incident response and guide the organization toward security-conscious architecture in a fintech-adjacent environment handling sensitive customer payment and operational data.
 skills: Java, Python, Cloud Application Architecture, Threat Modeling, SAST/DAST/SCA, Fintech Security, Cryptography, LLM/AI
 level: senior
 comp: 
 comp_extras: 
-render_hash: 2490e5ec
+render_hash: 0f7559d8
 -->
 
-# Senior Product Security Engineer- Java Security Engineer/Intelligence
+# Senior Security Engineer- Java Security Engineer/Intelligence
 
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Bengaluru, Karnataka, India · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
@@ -28,7 +28,7 @@ _Build security intelligence services, threat models, and anti-abuse tooling acr
 
 <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Cloud_Application_Architecture-3B82F6?style=flat-square" alt="Cloud Application Architecture"> <img src="https://img.shields.io/badge/Threat_Modeling-3B82F6?style=flat-square" alt="Threat Modeling"> <img src="https://img.shields.io/badge/SAST%2FDAST%2FSCA-3B82F6?style=flat-square" alt="SAST/DAST/SCA"> <img src="https://img.shields.io/badge/Fintech_Security-3B82F6?style=flat-square" alt="Fintech Security"> <img src="https://img.shields.io/badge/Cryptography-3B82F6?style=flat-square" alt="Cryptography"> <img src="https://img.shields.io/badge/LLM%2FAI-3B82F6?style=flat-square" alt="LLM/AI">
 
-<sub>First seen May 18, 2026 at 13:33 UTC</sub>
+<sub>First seen May 18, 2026</sub>
 
 **[→ Apply](https://careers.toasttab.com/jobs?gh_jid=7823103)**
 

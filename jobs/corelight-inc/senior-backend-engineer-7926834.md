@@ -8,27 +8,27 @@ remote: Remote
 hybrid: no
 posted_at: Unknown
 first_seen: 2026-05-18
-first_seen_at: 2026-05-18T13:33:04+00:00
+first_seen_at: 
 url: https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834
-summary: Architect and build scalable cloud-native backend systems that transform network data into actionable security intelligence, using AWS serverless architectures and real-time data pipelines to power Corelight's NDR SaaS platform. Lead the design of high-performance APIs and ML data pipelines that handle massive network datasets for elite security teams.
-skills: Python, Java, Go, AWS, Kafka, REST, GraphQL, Kubernetes
+summary: Architect and build scalable cloud-native backend systems and data pipelines that transform network security data into actionable intelligence for a SaaS NDR platform. Work with AWS serverless architectures, real-time data ingestion via Kafka, and high-performance APIs serving complex security analytics to enterprise defenders.
+skills: Python, Java, Go, AWS, Kafka, REST APIs, GraphQL, Docker
 level: senior
-comp: $145,000—$188,000
+comp: $145,000–$188,000
 comp_extras: equity, bonus
-render_hash: 7780a242
+render_hash: 8402a014
 -->
 
 # Senior Backend Engineer
 
-<a href="https://corelight.com"><img src="https://www.google.com/s2/favicons?domain=corelight.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Corelight Inc.** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$145,000—$188,000` · `Equity` · `Bonus`
+<a href="https://corelight.com"><img src="https://www.google.com/s2/favicons?domain=corelight.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Corelight Inc.** · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `$145,000–$188,000` · `Equity` · `Bonus`
 
 > Corelight builds network detection and response (NDR) software that monitors encrypted and unencrypted network traffic to identify threats and security incidents. The company operates in the cybersecurity domain, providing tools for security teams to detect compromised systems and investigate network-based attacks.
 
-_Architect and build scalable cloud-native backend systems that transform network data into actionable security intelligence, using AWS serverless architectures and real-time data pipelines to power Corelight's NDR SaaS platform. Lead the design of high-performance APIs and ML data pipelines that handle massive network datasets for elite security teams._
+_Architect and build scalable cloud-native backend systems and data pipelines that transform network security data into actionable intelligence for a SaaS NDR platform. Work with AWS serverless architectures, real-time data ingestion via Kafka, and high-performance APIs serving complex security analytics to enterprise defenders._
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka"> <img src="https://img.shields.io/badge/REST-3B82F6?style=flat-square" alt="REST"> <img src="https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square" alt="GraphQL"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/GraphQL-3B82F6?style=flat-square" alt="GraphQL"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker">
 
-<sub>First seen May 18, 2026 at 13:33 UTC</sub>
+<sub>First seen May 18, 2026</sub>
 
 **[→ Apply](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834)**
 

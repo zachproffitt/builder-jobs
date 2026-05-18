@@ -8,14 +8,14 @@ remote: On-site
 hybrid: yes
 posted_at: 2026-05-13
 first_seen: 2026-05-18
-first_seen_at: 2026-05-18T11:30:38+00:00
+first_seen_at: 
 url: https://jobs.lever.co/protolabs/2f758815-79ca-43bd-ba0e-cab053e84867
-summary: Design and develop scalable .NET applications supporting diverse users across Protolabs' organization. Collaborate with cross-functional teams to deliver high-quality solutions aligned with business needs.
+summary: Design, develop, and maintain scalable .NET applications supporting diverse organizational users across Global Technology Services. Work in a digital manufacturing context with cross-functional teams delivering innovative solutions at scale.
 skills: .NET, C#
 level: senior
 comp: 
 comp_extras: 
-render_hash: 2f991d28
+render_hash: 92e8e6d1
 -->
 
 # Senior Software Engineer
@@ -24,7 +24,7 @@ render_hash: 2f991d28
 
 > Hubs builds a web-based platform for creating and hosting 3D virtual spaces where people can meet, collaborate, and interact in real-time without requiring a VR headset. The platform operates in the immersive web and virtual collaboration domain, allowing users to customize environments, share media, and communicate through avatars in browser-based rooms.
 
-_Design and develop scalable .NET applications supporting diverse users across Protolabs' organization. Collaborate with cross-functional teams to deliver high-quality solutions aligned with business needs._
+_Design, develop, and maintain scalable .NET applications supporting diverse organizational users across Global Technology Services. Work in a digital manufacturing context with cross-functional teams delivering innovative solutions at scale._
 
 <img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#">
 
