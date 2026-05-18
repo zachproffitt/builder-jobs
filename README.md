@@ -2,13 +2,46 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **251 open roles** (2 new today) &nbsp;·&nbsp; 1640 companies searched
+### **254 open roles** (5 new today) &nbsp;·&nbsp; 1640 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
 <br>
 
 ## May 18, 2026
+
+### [Staff Software Engineer - Backend (Spring)](jobs/okta/staff-software-engineer-backend-spring-7936790.md)
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · Bengaluru, India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+
+_Build secure authentication and authorization cloud services and client software enabling users to seamlessly access Okta-protected resources. Work on identity and security infrastructure with real-world stakes in a rapidly evolving domain. · [Apply →](https://www.okta.com/company/careers/opportunity/7936790?gh_jid=7936790)_
+
+<img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Spring-3B82F6?style=flat-square" alt="Spring"> <img src="https://img.shields.io/badge/OAuth-3B82F6?style=flat-square" alt="OAuth"> <img src="https://img.shields.io/badge/SAML-3B82F6?style=flat-square" alt="SAML"> <img src="https://img.shields.io/badge/WebAuthn-3B82F6?style=flat-square" alt="WebAuthn"> <img src="https://img.shields.io/badge/FIDO-3B82F6?style=flat-square" alt="FIDO"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
+
+<sub>May 18, 2026 at 05:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer](jobs/uipath/senior-software-engineer-e613f49f-8311-439a-9668-b05ec980007a.md)
+<a href="https://uipath.com"><img src="https://www.google.com/s2/favicons?domain=uipath.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**UiPath** · Remote · `Senior`
+
+_Build intuitive, performant front-end interfaces for UiPath Test Cloud, a cloud-based AI-powered software testing platform enabling teams to design, run, and manage automated testing at scale. You'll own features end-to-end, architect scalable UI patterns, and drive accessibility and performance excellence across modern browsers and mobile devices. · [Apply →](https://jobs.ashbyhq.com/uipath/e613f49f-8311-439a-9668-b05ec980007a)_
+
+<img src="https://img.shields.io/badge/Angular-3B82F6?style=flat-square" alt="Angular"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML-3B82F6?style=flat-square" alt="HTML"> <img src="https://img.shields.io/badge/CSS-3B82F6?style=flat-square" alt="CSS"> <img src="https://img.shields.io/badge/WCAG-3B82F6?style=flat-square" alt="WCAG"> <img src="https://img.shields.io/badge/Performance_Optimization-3B82F6?style=flat-square" alt="Performance Optimization">
+
+<sub>May 18, 2026 at 05:34 UTC</sub>
+
+---
+
+### [Software Engineer 2](jobs/zynga/software-engineer-2-5742259004.md)
+<a href="https://zynga.com"><img src="https://www.google.com/s2/favicons?domain=zynga.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zynga** · Bengaluru, India · `Mid`
+
+_Develop new game features in C#, C++, Java, Python, or JavaScript for games played by millions of players globally. Optimize live game performance, mentor junior engineers, and collaborate across product, design, art, and QA teams. · [Apply →](https://job-boards.greenhouse.io/zyngacareers/jobs/5742259004)_
+
+<img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Visual_Studio-3B82F6?style=flat-square" alt="Visual Studio">
+
+<sub>May 18, 2026 at 05:34 UTC</sub>
+
+---
 
 ### [RF Engineer II - Ground Segment](jobs/rocket-lab/rf-engineer-ii-ground-segment-7734208003.md)
 <a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Auckland, NZ · `Mid`
@@ -1406,12 +1439,12 @@ _Deploy agentic AI workflows to automate ML development and integrate autonomous
 
 ---
 
-### [Applied Scientist, Wayve Labs](jobs/wayve/applied-scientist-wayve-labs-8552547002.md)
-<a href="https://wayve.ai"><img src="https://www.google.com/s2/favicons?domain=wayve.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wayve** · Vancouver, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
+### [Applied Scientist, Wayve Labs](jobs/wayve/applied-scientist-wayve-labs.md)
+<a href="https://wayve.ai"><img src="https://www.google.com/s2/favicons?domain=wayve.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wayve** · Sunnyvale, California / Vancouver, Canada · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Equity`
 
-_Develop foundation models, world models, and reinforcement learning systems for autonomous driving, including generative simulation, spatial AI, and cross-embodiment robotics. Work on multi-year breakthroughs in embodied AI at the intersection of machine learning, robotics, and real-world deployment at scale. · [Apply →](https://wayve.firststage.co/jobs?gh_jid=8552547002)_
+_Develop foundation models, world models, and reinforcement learning systems for autonomous driving embodied AI. Work on multi-year research breakthroughs in geometric understanding, generative modeling, and sim-to-real transfer at the frontier of embodied AI with real-world deployment validation._
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/Foundation_Models-3B82F6?style=flat-square" alt="Foundation Models"> <img src="https://img.shields.io/badge/Transformers-3B82F6?style=flat-square" alt="Transformers"> <img src="https://img.shields.io/badge/Diffusion_Models-3B82F6?style=flat-square" alt="Diffusion Models"> <img src="https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square" alt="Reinforcement Learning"> <img src="https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/Robotics-3B82F6?style=flat-square" alt="Robotics">
+<img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/Transformers-3B82F6?style=flat-square" alt="Transformers"> <img src="https://img.shields.io/badge/Diffusion_Models-3B82F6?style=flat-square" alt="Diffusion Models"> <img src="https://img.shields.io/badge/Reinforcement_Learning-3B82F6?style=flat-square" alt="Reinforcement Learning"> <img src="https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/SLAM-3B82F6?style=flat-square" alt="SLAM"> <img src="https://img.shields.io/badge/JAX-3B82F6?style=flat-square" alt="JAX"> <img src="https://img.shields.io/badge/FSDP-3B82F6?style=flat-square" alt="FSDP">
 
 <sub>May 15, 2026</sub>
 
