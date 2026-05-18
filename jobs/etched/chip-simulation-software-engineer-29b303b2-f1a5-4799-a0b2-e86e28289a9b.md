@@ -10,23 +10,23 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/Etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b
-summary: Design, develop, and maintain accurate, high-performance simulations of custom transformer ASIC hardware to enable close hardware-software co-design. Work at the intersection of chip simulation, kernel development, and ML accelerator infrastructure with tight feedback loops between simulation and real hardware validation.
-skills: C/C++, Python, SystemC, QEMU, Linux kernel development, Hardware verification, Performance profiling, Multithreading
+summary: Design, develop, and maintain cycle-accurate simulations of Sohu, a custom transformer ASIC, enabling hardware-software co-design and early validation of the full software stack. Work at the intersection of hardware and software engineering, building debug tooling and integrating simulations with host systems (QEMU) to support kernel driver development and multi-chip scale-out validation.
+skills: C++, Python, SystemC, QEMU, Linux, Git, Bazel, Performance Profiling
 level: mid
 comp: 
 comp_extras: 
-render_hash: c40815be
+render_hash: 6b0c1d53
 -->
 
 # Chip Simulation Software Engineer
 
-<a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Etched** · San Jose, CA · `Mid` · On-site
+<a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Etched** · San Jose, California · `Mid` · On-site
 
 > Etched builds AI inference systems purpose-built for transformers, delivering 10x higher performance and lower cost/latency than B200 using ASICs.
 
-_Design, develop, and maintain accurate, high-performance simulations of custom transformer ASIC hardware to enable close hardware-software co-design. Work at the intersection of chip simulation, kernel development, and ML accelerator infrastructure with tight feedback loops between simulation and real hardware validation._
+_Design, develop, and maintain cycle-accurate simulations of Sohu, a custom transformer ASIC, enabling hardware-software co-design and early validation of the full software stack. Work at the intersection of hardware and software engineering, building debug tooling and integrating simulations with host systems (QEMU) to support kernel driver development and multi-chip scale-out validation._
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![SystemC](https://img.shields.io/badge/SystemC-3B82F6?style=flat-square) ![QEMU](https://img.shields.io/badge/QEMU-3B82F6?style=flat-square) ![Linux kernel development](https://img.shields.io/badge/Linux_kernel_development-3B82F6?style=flat-square) ![Hardware verification](https://img.shields.io/badge/Hardware_verification-3B82F6?style=flat-square) ![Performance profiling](https://img.shields.io/badge/Performance_profiling-3B82F6?style=flat-square) ![Multithreading](https://img.shields.io/badge/Multithreading-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SystemC-3B82F6?style=flat-square" alt="SystemC"> <img src="https://img.shields.io/badge/QEMU-3B82F6?style=flat-square" alt="QEMU"> <img src="https://img.shields.io/badge/Linux-3B82F6?style=flat-square" alt="Linux"> <img src="https://img.shields.io/badge/Git-3B82F6?style=flat-square" alt="Git"> <img src="https://img.shields.io/badge/Bazel-3B82F6?style=flat-square" alt="Bazel"> <img src="https://img.shields.io/badge/Performance_Profiling-3B82F6?style=flat-square" alt="Performance Profiling">
 
 <sub>Posted May 13, 2026</sub>
 

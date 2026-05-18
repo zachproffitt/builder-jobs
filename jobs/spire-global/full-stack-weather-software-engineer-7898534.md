@@ -3,32 +3,32 @@ id: greenhouse-spire-7898534
 company: Spire Global
 title: Full-Stack Weather Software Engineer
 source: greenhouse
-location: Boulder, Colorado, United States
+location: Boulder, CO
 remote: Not specified
 hybrid: yes
 posted_at: Unknown
 first_seen: 2026-05-18
-first_seen_at: 2026-05-18T13:33:04+00:00
+first_seen_at: 
 url: https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534
-summary: Build customer-facing weather forecasting dashboards and operational products from NWP and AI model outputs, delivering React frontends with Python backend services across AWS infrastructure. You'll work in a specialized domain requiring fluency with weather models (GFS, ECMWF, GraphCast), geophysical data formats (GRIB2, NetCDF, Zarr), and the Pangeo ecosystem—bridging weather science, cloud engineering, and modern AI tooling.
+summary: Build and deploy customer-facing weather products that fuse AI forecasts with satellite observational data—from interactive React dashboards to Python backend services and AWS infrastructure. Own the full vertical stack in a domain requiring fluency with weather models (NWP and AI forecasters), geophysical data formats (GRIB2, NetCDF, Zarr), and modern agentic AI coding tools.
 skills: React, TypeScript, Python, AWS, Docker, Terraform, GRIB2, NetCDF
-level: senior
-comp: $130,500-$171,000
+level: mid
+comp: $130,500–$171,000
 comp_extras: equity, bonus
-render_hash: 7cb69fa9
+render_hash: 66d04080
 -->
 
 # Full-Stack Weather Software Engineer
 
-<a href="https://spire.com"><img src="https://www.google.com/s2/favicons?domain=spire.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spire Global** · Boulder, Colorado, United States · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$130,500-$171,000` · `Equity` · `Bonus`
+<a href="https://spire.com"><img src="https://www.google.com/s2/favicons?domain=spire.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spire Global** · Boulder, Colorado · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$130,500–$171,000` · `Equity` · `Bonus`
 
 > Spire Global builds and operates a constellation of small satellites that collect weather data, maritime tracking information, and radio frequency signals from Earth's atmosphere and surface. The company processes this satellite-derived data and sells it to customers in weather forecasting, maritime intelligence, and other sectors that require real-time Earth observation.
 
-_Build customer-facing weather forecasting dashboards and operational products from NWP and AI model outputs, delivering React frontends with Python backend services across AWS infrastructure. You'll work in a specialized domain requiring fluency with weather models (GFS, ECMWF, GraphCast), geophysical data formats (GRIB2, NetCDF, Zarr), and the Pangeo ecosystem—bridging weather science, cloud engineering, and modern AI tooling._
+_Build and deploy customer-facing weather products that fuse AI forecasts with satellite observational data—from interactive React dashboards to Python backend services and AWS infrastructure. Own the full vertical stack in a domain requiring fluency with weather models (NWP and AI forecasters), geophysical data formats (GRIB2, NetCDF, Zarr), and modern agentic AI coding tools._
 
 <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/GRIB2-3B82F6?style=flat-square" alt="GRIB2"> <img src="https://img.shields.io/badge/NetCDF-3B82F6?style=flat-square" alt="NetCDF">
 
-<sub>First seen May 18, 2026 at 13:33 UTC</sub>
+<sub>First seen May 18, 2026</sub>
 
 **[→ Apply](https://spire.com/careers/job-openings/job/?gh_jid=7898534&gh_jid=7898534)**
 

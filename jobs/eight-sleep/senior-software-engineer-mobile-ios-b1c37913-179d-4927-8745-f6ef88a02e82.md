@@ -1,32 +1,32 @@
 <!--
 id: ashby-eightsleep-b1c37913-179d-4927-8745-f6ef88a02e82
-company: EightSleep
+company: Eight Sleep
 title: Senior Software Engineer - Mobile (iOS)
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: Not specified
 hybrid: no
 posted_at: 2026-05-17
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82
-summary: Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams.
-skills: Swift, SwiftUI, Combine, iOS, App Extensions, CI/CD
+summary: Build and ship pixel-perfect iOS features for Eight Sleep's flagship sleep fitness app, working closely with backend, firmware, and ML engineers. Optimize performance and conduct code reviews for a health tech product used by hundreds of thousands of customers across 30+ countries.
+skills: Swift, SwiftUI, Combine, iOS, App Extensions, CI/CD, Code Generation Tools
 level: senior
 comp: 
 comp_extras: equity
-render_hash: e8003199
+render_hash: 228d3246
 -->
 
 # Senior Software Engineer - Mobile (iOS)
 
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco · `Senior` · `Equity`
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California · `Senior` · `Equity`
 
 > Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 
-_Build the iOS mobile app that lets Eight Sleep users control their smart sleep pod, configure settings, and gain personalized sleep insights. Ship pixel-perfect features with beautiful animations in a hyper-growth health tech startup where you'll work closely with backend, firmware, ML, and hardware teams._
+_Build and ship pixel-perfect iOS features for Eight Sleep's flagship sleep fitness app, working closely with backend, firmware, and ML engineers. Optimize performance and conduct code reviews for a health tech product used by hundreds of thousands of customers across 30+ countries._
 
-<img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square" alt="SwiftUI"> <img src="https://img.shields.io/badge/Combine-3B82F6?style=flat-square" alt="Combine"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS"> <img src="https://img.shields.io/badge/App_Extensions-3B82F6?style=flat-square" alt="App Extensions"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
+<img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/SwiftUI-3B82F6?style=flat-square" alt="SwiftUI"> <img src="https://img.shields.io/badge/Combine-3B82F6?style=flat-square" alt="Combine"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS"> <img src="https://img.shields.io/badge/App_Extensions-3B82F6?style=flat-square" alt="App Extensions"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Code_Generation_Tools-3B82F6?style=flat-square" alt="Code Generation Tools">
 
 <sub>Posted May 17, 2026</sub>
 

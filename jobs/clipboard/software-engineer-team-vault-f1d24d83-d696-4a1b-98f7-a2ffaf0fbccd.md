@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T01:05:29+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/clipboard/f1d24d83-d696-4a1b-98f7-a2ffaf0fbccd
-summary: Build payment infrastructure, fraud detection, and financial operations systems that process worker payouts, instant pay, facility invoicing, and billing across hundreds of thousands of healthcare professionals. Own high-stakes transaction systems end-to-end in a fintech environment where correctness is critical and payment timing directly impacts workers' livelihoods.
+summary: Build payment infrastructure and fraud detection systems that process worker payouts, instant pay, facility invoicing, and billing across Clipboard's healthcare marketplace. Work on high-stakes financial systems handling millions in transactions where correctness and reliability directly impact worker financial stability.
 skills: Node.js, TypeScript, NestJS, PostgreSQL, MongoDB, Redis, AWS, Terraform
 level: mid
 comp: 
 comp_extras: 
-render_hash: 8a1211ce
+render_hash: 357a0ea1
 -->
 
 # Software Engineer - Team Vault
@@ -24,7 +24,7 @@ render_hash: 8a1211ce
 
 > Clipboard builds software for managing patient intake, consent, and communication workflows in healthcare settings. The platform operates in the healthcare technology domain, helping medical practices streamline administrative processes like appointment scheduling, patient forms, and secure messaging.
 
-_Build payment infrastructure, fraud detection, and financial operations systems that process worker payouts, instant pay, facility invoicing, and billing across hundreds of thousands of healthcare professionals. Own high-stakes transaction systems end-to-end in a fintech environment where correctness is critical and payment timing directly impacts workers' livelihoods._
+_Build payment infrastructure and fraud detection systems that process worker payouts, instant pay, facility invoicing, and billing across Clipboard's healthcare marketplace. Work on high-stakes financial systems handling millions in transactions where correctness and reliability directly impact worker financial stability._
 
 <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/NestJS-3B82F6?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square" alt="MongoDB"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
 

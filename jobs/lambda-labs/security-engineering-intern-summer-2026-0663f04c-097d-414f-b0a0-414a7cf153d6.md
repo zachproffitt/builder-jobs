@@ -10,23 +10,23 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6
-summary: Build production security detections against Lambda's real log data, shipping code that fires on real events and routes to an on-call team. Work with LLM-based classifiers and rule-based systems to detect sensitive data exposure and identity/access pattern anomalies across AI cloud infrastructure.
-skills: Python, Go, LLMs, AWS, GCP, Log Analysis, Machine Learning, Security
+summary: Ship production security detections against Lambda's real log data, building LLM-powered classifiers and rule-based alerts for sensitive data exposure and identity/access pattern anomalies. Work in a production environment protecting AI infrastructure with real on-call routing and mentorship from senior engineers.
+skills: Python, Go, LLM, AWS, GCP, Log analysis, Machine Learning
 level: intern
 comp: 
 comp_extras: equity
-render_hash: f47714de
+render_hash: 189950a9
 -->
 
 # Security Engineering Intern - Summer 2026
 
-<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, CA · `Intern` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
+<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, California · `Intern` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 > Lambda Labs builds GPU cloud computing infrastructure and hardware systems designed for machine learning, AI, and deep learning workloads. They operate in the cloud computing and AI infrastructure domain, offering on-demand GPU instances, pre-configured deep learning environments, and physical AI workstations for researchers and enterprises.
 
-_Build production security detections against Lambda's real log data, shipping code that fires on real events and routes to an on-call team. Work with LLM-based classifiers and rule-based systems to detect sensitive data exposure and identity/access pattern anomalies across AI cloud infrastructure._
+_Ship production security detections against Lambda's real log data, building LLM-powered classifiers and rule-based alerts for sensitive data exposure and identity/access pattern anomalies. Work in a production environment protecting AI infrastructure with real on-call routing and mentorship from senior engineers._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Log Analysis](https://img.shields.io/badge/Log_Analysis-3B82F6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Security](https://img.shields.io/badge/Security-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/LLM-3B82F6?style=flat-square" alt="LLM"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Log_analysis-3B82F6?style=flat-square" alt="Log analysis"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning">
 
 <sub>Posted May 14, 2026</sub>
 

@@ -8,14 +8,14 @@ remote: On-site
 hybrid: no
 posted_at: 2026-05-17
 first_seen: 2026-05-17
-first_seen_at: 2026-05-17T19:36:24+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/hypercubic/a30428ea-1c4f-4050-bf6d-3963ae221374
-summary: Build AI-powered systems that understand and rearchitect large-scale legacy applications, focusing on program analysis and agentic systems for critical enterprise software. Work directly with the CTO on architecture, prototyping, and productionization from first principles in a founding role.
-skills: Python, TypeScript, Next.js, Electron, AI/ML Systems, Program Analysis, Testing (TDD), Cloud Infrastructure
+summary: Design and ship AI-driven systems that understand and modernize legacy enterprise applications, working directly with the CTO on architecture and product direction from prototype to production. You'll operate across program analysis, agentic systems, and user-facing workflows to tackle the modernization of mission-critical mainframe and COBOL infrastructure.
+skills: Python, TypeScript, Next.js, Electron, AI/ML systems, Program analysis, Agentic systems, COBOL
 level: senior
 comp: 
 comp_extras: 
-render_hash: a549e845
+render_hash: c1ace156
 -->
 
 # Founding Software Engineer
@@ -24,9 +24,9 @@ render_hash: a549e845
 
 > Hypercubic builds agentic AI software designed to help enterprises modernize their mainframe systems by capturing institutional knowledge, understanding legacy code, and automating migration to modern architectures. The company operates in the enterprise software and mainframe modernization space, serving large organizations and governments that rely on critical legacy infrastructure.
 
-_Build AI-powered systems that understand and rearchitect large-scale legacy applications, focusing on program analysis and agentic systems for critical enterprise software. Work directly with the CTO on architecture, prototyping, and productionization from first principles in a founding role._
+_Design and ship AI-driven systems that understand and modernize legacy enterprise applications, working directly with the CTO on architecture and product direction from prototype to production. You'll operate across program analysis, agentic systems, and user-facing workflows to tackle the modernization of mission-critical mainframe and COBOL infrastructure._
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-3B82F6?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/Electron-3B82F6?style=flat-square" alt="Electron"> <img src="https://img.shields.io/badge/AI%2FML_Systems-3B82F6?style=flat-square" alt="AI/ML Systems"> <img src="https://img.shields.io/badge/Program_Analysis-3B82F6?style=flat-square" alt="Program Analysis"> <img src="https://img.shields.io/badge/Testing_%28TDD%29-3B82F6?style=flat-square" alt="Testing (TDD)"> <img src="https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square" alt="Cloud Infrastructure">
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Next.js-3B82F6?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/Electron-3B82F6?style=flat-square" alt="Electron"> <img src="https://img.shields.io/badge/AI%2FML_systems-3B82F6?style=flat-square" alt="AI/ML systems"> <img src="https://img.shields.io/badge/Program_analysis-3B82F6?style=flat-square" alt="Program analysis"> <img src="https://img.shields.io/badge/Agentic_systems-3B82F6?style=flat-square" alt="Agentic systems"> <img src="https://img.shields.io/badge/COBOL-3B82F6?style=flat-square" alt="COBOL">
 
 <sub>Posted May 17, 2026</sub>
 

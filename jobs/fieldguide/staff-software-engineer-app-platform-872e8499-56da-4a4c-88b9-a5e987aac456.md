@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-16
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T01:51:01+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/fieldguide/872e8499-56da-4a4c-88b9-a5e987aac456
-summary: Design and build Fieldguide's core platform services, APIs, and shared primitives that power product surfaces and AI agents across SaaS, enterprise single-tenant, and government-cloud environments. Lead technical standards and architecture decisions across multiple teams while mentoring senior engineers.
-skills: AWS, Kubernetes, Distributed Systems, API Design, Cloud Architecture, LLM Integration, AI Agent Frameworks
+summary: Design and build Fieldguide's core platform services, APIs, and shared primitives that power all product surfaces and AI agents. Lead cross-team architecture initiatives supporting multi-tenant SaaS, single-tenant enterprise, and government-cloud deployments at scale.
+skills: AWS, Kubernetes, Distributed Systems, API Design, Cloud Architecture, AI/LLM Integration, Service Architecture, TypeScript
 level: staff
 comp: 
 comp_extras: equity
-render_hash: c2940172
+render_hash: f11bb6cc
 -->
 
 # Staff Software Engineer, App Platform
@@ -24,9 +24,9 @@ render_hash: c2940172
 
 > Fieldguide builds compliance and audit management software that helps organizations streamline their risk assessment and third-party vendor evaluation processes. The platform operates in the enterprise software and governance, risk, and compliance (GRC) domain, serving financial institutions, healthcare providers, and other regulated industries that need to conduct and document assessments efficiently.
 
-_Design and build Fieldguide's core platform services, APIs, and shared primitives that power product surfaces and AI agents across SaaS, enterprise single-tenant, and government-cloud environments. Lead technical standards and architecture decisions across multiple teams while mentoring senior engineers._
+_Design and build Fieldguide's core platform services, APIs, and shared primitives that power all product surfaces and AI agents. Lead cross-team architecture initiatives supporting multi-tenant SaaS, single-tenant enterprise, and government-cloud deployments at scale._
 
-<img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/API_Design-3B82F6?style=flat-square" alt="API Design"> <img src="https://img.shields.io/badge/Cloud_Architecture-3B82F6?style=flat-square" alt="Cloud Architecture"> <img src="https://img.shields.io/badge/LLM_Integration-3B82F6?style=flat-square" alt="LLM Integration"> <img src="https://img.shields.io/badge/AI_Agent_Frameworks-3B82F6?style=flat-square" alt="AI Agent Frameworks">
+<img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/API_Design-3B82F6?style=flat-square" alt="API Design"> <img src="https://img.shields.io/badge/Cloud_Architecture-3B82F6?style=flat-square" alt="Cloud Architecture"> <img src="https://img.shields.io/badge/AI%2FLLM_Integration-3B82F6?style=flat-square" alt="AI/LLM Integration"> <img src="https://img.shields.io/badge/Service_Architecture-3B82F6?style=flat-square" alt="Service Architecture"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript">
 
 <sub>Posted May 16, 2026</sub>
 

@@ -10,23 +10,23 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/ScribdInc/be9b9e96-34c3-4600-b1d3-aaae65b788c0
-summary: Design and build scalable distributed systems that extract, enrich, and process metadata from millions of documents, images, and audio content using Python and cloud infrastructure. Integrate LLMs into production metadata pipelines operating at global scale across hundreds of millions of documents.
-skills: Python, Scala, Airflow, Spark, Databricks, AWS, Terraform, LLMs
-level: senior
-comp: $103,500-$196,000
+summary: Design and build distributed systems to extract, enrich, and process metadata from millions of documents, images, and audio content using LLMs and data pipelines at global scale. Work at the intersection of machine learning, data engineering, and distributed systems to power content discovery and trust across billions of items.
+skills: Python, Scala, Spark, Databricks, Airflow, AWS, Terraform, ECS
+level: mid
+comp: $103.5k-$196k
 comp_extras: equity
-render_hash: 69f5b379
+render_hash: 28c11a02
 -->
 
 # Software Engineer (Backend, Python) - Content Understanding
 
-<a href="https://scribd.com"><img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribd** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$103,500-$196,000` · `Equity`
+<a href="https://scribd.com"><img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribd** · San Francisco, California · `Mid` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$103.5k-$196k` · `Equity`
 
 > Scribd builds platforms for accessing and sharing documents and specialized knowledge, including Scribd, Slideshare, Everand, and Fable.
 
-_Design and build scalable distributed systems that extract, enrich, and process metadata from millions of documents, images, and audio content using Python and cloud infrastructure. Integrate LLMs into production metadata pipelines operating at global scale across hundreds of millions of documents._
+_Design and build distributed systems to extract, enrich, and process metadata from millions of documents, images, and audio content using LLMs and data pipelines at global scale. Work at the intersection of machine learning, data engineering, and distributed systems to power content discovery and trust across billions of items._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Scala](https://img.shields.io/badge/Scala-3B82F6?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-3B82F6?style=flat-square) ![Spark](https://img.shields.io/badge/Spark-3B82F6?style=flat-square) ![Databricks](https://img.shields.io/badge/Databricks-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-3B82F6?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Scala-3B82F6?style=flat-square" alt="Scala"> <img src="https://img.shields.io/badge/Spark-3B82F6?style=flat-square" alt="Spark"> <img src="https://img.shields.io/badge/Databricks-3B82F6?style=flat-square" alt="Databricks"> <img src="https://img.shields.io/badge/Airflow-3B82F6?style=flat-square" alt="Airflow"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/ECS-3B82F6?style=flat-square" alt="ECS">
 
 <sub>Posted May 13, 2026</sub>
 

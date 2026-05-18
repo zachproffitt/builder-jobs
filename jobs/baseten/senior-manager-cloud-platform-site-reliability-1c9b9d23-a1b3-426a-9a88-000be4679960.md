@@ -3,30 +3,30 @@ id: ashby-baseten-1c9b9d23-a1b3-426a-9a88-000be4679960
 company: Baseten
 title: Senior Manager, Cloud Platform & Site Reliability
 source: ashby
-location: Remote
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-17
 first_seen: 2026-05-17
-first_seen_at: 2026-05-17T21:28:11+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/baseten/1c9b9d23-a1b3-426a-9a88-000be4679960
-summary: Lead infrastructure and SRE teams across Baseten's cloud platform, owning multi-cloud Kubernetes infrastructure, reliability standards, and incident management for mission-critical ML inference at scale. You'll set technical direction for GPU infrastructure, observability systems, and enterprise SLAs while developing team leads and balancing long-term strategic investments with operational excellence.
-skills: Kubernetes, Terraform, Prometheus, Grafana, GitHub Actions, Incident Management, AWS, GCP
+summary: Lead and grow multiple infrastructure and SRE teams responsible for Kubernetes, multi-cloud GPU serving, and observability platforms that power AI model inference at scale. You'll own end-to-end reliability posture, set technical direction across cloud infrastructure and incident management, and partner with product and customer teams to scale infrastructure alongside enterprise demands.
+skills: Kubernetes, Terraform, Prometheus, Grafana, OpenTelemetry, GitHub Actions, ArgoCD, GPU Infrastructure
 level: manager
 comp: 
 comp_extras: equity
-render_hash: 9fb1607a
+render_hash: 977126f1
 -->
 
 # Senior Manager, Cloud Platform & Site Reliability
 
-<a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
+<a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · San Francisco, California · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 > Baseten provides an infrastructure platform for deploying and scaling machine learning models in production, enabling developers to build and serve custom AI applications with built-in features for versioning, monitoring, and API management.
 
-_Lead infrastructure and SRE teams across Baseten's cloud platform, owning multi-cloud Kubernetes infrastructure, reliability standards, and incident management for mission-critical ML inference at scale. You'll set technical direction for GPU infrastructure, observability systems, and enterprise SLAs while developing team leads and balancing long-term strategic investments with operational excellence._
+_Lead and grow multiple infrastructure and SRE teams responsible for Kubernetes, multi-cloud GPU serving, and observability platforms that power AI model inference at scale. You'll own end-to-end reliability posture, set technical direction across cloud infrastructure and incident management, and partner with product and customer teams to scale infrastructure alongside enterprise demands._
 
-<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-3B82F6?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Incident_Management-3B82F6?style=flat-square" alt="Incident Management"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP">
+<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-3B82F6?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/ArgoCD-3B82F6?style=flat-square" alt="ArgoCD"> <img src="https://img.shields.io/badge/GPU_Infrastructure-3B82F6?style=flat-square" alt="GPU Infrastructure">
 
 <sub>Posted May 17, 2026</sub>
 

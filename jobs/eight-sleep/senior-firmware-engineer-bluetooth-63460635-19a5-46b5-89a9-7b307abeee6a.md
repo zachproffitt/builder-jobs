@@ -1,32 +1,32 @@
 <!--
 id: ashby-eightsleep-63460635-19a5-46b5-89a9-7b307abeee6a
-company: EightSleep
+company: Eight Sleep
 title: Senior Firmware Engineer, Bluetooth
 source: ashby
-location: San Francisco, CA or New York, NY
+location: San Francisco, CA / New York, NY
 remote: On-site
 hybrid: yes
 posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/eightsleep/63460635-19a5-46b5-89a9-7b307abeee6a
-summary: Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing.
-skills: Bluetooth Low Energy (BLE), C/C++, Nordic nRF / SoftDevice, Python, GATT, Embedded Systems, Secure OTA / DFU, RF Testing / Protocol Analysis
+summary: Own the Bluetooth Low Energy wireless connectivity stack for our temperature-regulated sleep Pod hardware ecosystem—architecting GATT services, power optimization, secure OTA firmware updates, and device interoperability across iOS and Android. You'll partner with hardware teams on board bring-up, antenna tuning, regulatory certification, and global manufacturing validation in a fast-growing hardware company.
+skills: Bluetooth (BLE), C/C++, Nordic nRF, Python, Embedded Systems, OTA Firmware Updates, Wireless Security, Real-time Power Optimization
 level: senior
 comp: 
 comp_extras: 
-render_hash: 297e5670
+render_hash: 00a7ec0c
 -->
 
 # Senior Firmware Engineer, Bluetooth
 
-<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EightSleep** · San Francisco, California or New York, New York · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
+<a href="https://eightsleep.com"><img src="https://www.google.com/s2/favicons?domain=eightsleep.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eight Sleep** · San Francisco, California / New York, New York · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle">
 
 > Eight Sleep develops hardware, software, and AI technology to enhance sleep and optimize mental, physical, and emotional performance.
 
-_Own the Bluetooth Low Energy wireless connectivity stack across Eight Sleep's Pod ecosystem, architecting GATT services, connection strategies, and secure OTA firmware updates for a global fleet of temperature-regulated sleep devices. You'll debug cross-platform interoperability issues on iOS/Android, optimize radio duty cycle for ultra-low-power devices, and bring up new Nordic-based silicon through regulatory certification and production testing._
+_Own the Bluetooth Low Energy wireless connectivity stack for our temperature-regulated sleep Pod hardware ecosystem—architecting GATT services, power optimization, secure OTA firmware updates, and device interoperability across iOS and Android. You'll partner with hardware teams on board bring-up, antenna tuning, regulatory certification, and global manufacturing validation in a fast-growing hardware company._
 
-<img src="https://img.shields.io/badge/Bluetooth_Low_Energy_%28BLE%29-3B82F6?style=flat-square" alt="Bluetooth Low Energy (BLE)"> <img src="https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square" alt="C/C++"> <img src="https://img.shields.io/badge/Nordic_nRF_%2F_SoftDevice-3B82F6?style=flat-square" alt="Nordic nRF / SoftDevice"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/GATT-3B82F6?style=flat-square" alt="GATT"> <img src="https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square" alt="Embedded Systems"> <img src="https://img.shields.io/badge/Secure_OTA_%2F_DFU-3B82F6?style=flat-square" alt="Secure OTA / DFU"> <img src="https://img.shields.io/badge/RF_Testing_%2F_Protocol_Analysis-3B82F6?style=flat-square" alt="RF Testing / Protocol Analysis">
+<img src="https://img.shields.io/badge/Bluetooth_%28BLE%29-3B82F6?style=flat-square" alt="Bluetooth (BLE)"> <img src="https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square" alt="C/C++"> <img src="https://img.shields.io/badge/Nordic_nRF-3B82F6?style=flat-square" alt="Nordic nRF"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Embedded_Systems-3B82F6?style=flat-square" alt="Embedded Systems"> <img src="https://img.shields.io/badge/OTA_Firmware_Updates-3B82F6?style=flat-square" alt="OTA Firmware Updates"> <img src="https://img.shields.io/badge/Wireless_Security-3B82F6?style=flat-square" alt="Wireless Security"> <img src="https://img.shields.io/badge/Real--time_Power_Optimization-3B82F6?style=flat-square" alt="Real-time Power Optimization">
 
 <sub>Posted May 15, 2026</sub>
 

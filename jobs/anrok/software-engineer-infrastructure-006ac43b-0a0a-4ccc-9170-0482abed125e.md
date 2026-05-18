@@ -8,14 +8,14 @@ remote: Remote
 hybrid: yes
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T23:03:54+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/anrok/006ac43b-0a0a-4ccc-9170-0482abed125e
-summary: Design and operate infrastructure systems that support Anrok's tax automation platform, including database scaling, observability, and reliability for a product serving 40% of Forbes Top 50 AI companies. Work at scale across GCP and manage relational databases handling complex tax compliance logic across 50+ US jurisdictions and 100+ countries.
-skills: GCP, Pulumi, PostgreSQL, TypeScript, Kubernetes, Infrastructure as Code, Cloud Security, Database Scaling
+summary: Design and operate infrastructure systems that enable Anrok's tax automation platform to scale reliably across 50+ US jurisdictions and 100+ countries. Improve database scalability, system observability, and security while managing GCP cloud infrastructure and PostgreSQL at scale.
+skills: GCP, PostgreSQL, TypeScript, Pulumi, Kubernetes, Infrastructure as Code, Distributed Systems, Database Scaling
 level: senior
 comp: 
 comp_extras: equity
-render_hash: ed45a260
+render_hash: 917caf27
 -->
 
 # Software Engineer, Infrastructure
@@ -24,9 +24,9 @@ render_hash: ed45a260
 
 > Anrok builds tax compliance software that automatically calculates and manages sales tax, VAT, and other transaction taxes for SaaS and digital businesses across multiple jurisdictions worldwide.
 
-_Design and operate infrastructure systems that support Anrok's tax automation platform, including database scaling, observability, and reliability for a product serving 40% of Forbes Top 50 AI companies. Work at scale across GCP and manage relational databases handling complex tax compliance logic across 50+ US jurisdictions and 100+ countries._
+_Design and operate infrastructure systems that enable Anrok's tax automation platform to scale reliably across 50+ US jurisdictions and 100+ countries. Improve database scalability, system observability, and security while managing GCP cloud infrastructure and PostgreSQL at scale._
 
-<img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Pulumi-3B82F6?style=flat-square" alt="Pulumi"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square" alt="Infrastructure as Code"> <img src="https://img.shields.io/badge/Cloud_Security-3B82F6?style=flat-square" alt="Cloud Security"> <img src="https://img.shields.io/badge/Database_Scaling-3B82F6?style=flat-square" alt="Database Scaling">
+<img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Pulumi-3B82F6?style=flat-square" alt="Pulumi"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Infrastructure_as_Code-3B82F6?style=flat-square" alt="Infrastructure as Code"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Database_Scaling-3B82F6?style=flat-square" alt="Database Scaling">
 
 <sub>Posted May 15, 2026</sub>
 

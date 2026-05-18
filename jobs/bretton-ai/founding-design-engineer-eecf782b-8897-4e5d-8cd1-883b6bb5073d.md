@@ -10,23 +10,23 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/brettonai/eecf782b-8897-4e5d-8cd1-883b6bb5073d
-summary: Build and own the design system in code, creating production-grade React components and patterns that compliance analysts depend on for hours at a time. Design interfaces that make AI agent behavior legible and auditable in financial services, where trust is non-negotiable.
-skills: React, TypeScript, CSS, Figma, Claude Code, Cursor, Accessibility, PostHog
+summary: Own the design system in code and build production-grade front-end interfaces for an AI agent platform serving financial compliance. Build components, patterns, and primitives that scale while holding the line on performance, accessibility, and reliability for auditable AI agent behavior in high-stakes financial services.
+skills: React, TypeScript, CSS, Figma, Claude Code, Cursor, Accessibility (WCAG), PostHog
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4c9fee88
+render_hash: b100c064
 -->
 
 # Founding Design Engineer
 
-<a href="https://www.bretton.com"><img src="https://www.google.com/s2/favicons?domain=www.bretton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bretton AI** · San Francisco, CA · `Senior` · On-site
+<a href="https://www.bretton.com"><img src="https://www.google.com/s2/favicons?domain=www.bretton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bretton AI** · San Francisco, California · `Senior` · On-site
 
 > Bretton AI builds an AI agents platform designed to automate financial crime compliance workflows, including anti-money laundering investigations, enhanced due diligence, and sanctions screening, that integrates directly into existing compliance systems without requiring migration. The company operates in the financial services and regulatory compliance domain, serving banks and financial institutions regulated by bodies like the OCC, FDIC, and Federal Reserve.
 
-_Build and own the design system in code, creating production-grade React components and patterns that compliance analysts depend on for hours at a time. Design interfaces that make AI agent behavior legible and auditable in financial services, where trust is non-negotiable._
+_Own the design system in code and build production-grade front-end interfaces for an AI agent platform serving financial compliance. Build components, patterns, and primitives that scale while holding the line on performance, accessibility, and reliability for auditable AI agent behavior in high-stakes financial services._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-3B82F6?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-3B82F6?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude_Code-3B82F6?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-3B82F6?style=flat-square) ![Accessibility](https://img.shields.io/badge/Accessibility-3B82F6?style=flat-square) ![PostHog](https://img.shields.io/badge/PostHog-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/CSS-3B82F6?style=flat-square" alt="CSS"> <img src="https://img.shields.io/badge/Figma-3B82F6?style=flat-square" alt="Figma"> <img src="https://img.shields.io/badge/Claude_Code-3B82F6?style=flat-square" alt="Claude Code"> <img src="https://img.shields.io/badge/Cursor-3B82F6?style=flat-square" alt="Cursor"> <img src="https://img.shields.io/badge/Accessibility_%28WCAG%29-3B82F6?style=flat-square" alt="Accessibility (WCAG)"> <img src="https://img.shields.io/badge/PostHog-3B82F6?style=flat-square" alt="PostHog">
 
 <sub>Posted May 14, 2026</sub>
 

@@ -5,17 +5,17 @@ title: Engineering Manager
 source: ashby
 location: Remote / Remote
 remote: Remote
-hybrid: yes
-posted_at: 2026-05-14
+hybrid: no
+posted_at: 2026-05-15
 first_seen: 2026-05-14
 first_seen_at: 
 url: 
-summary: Lead and manage a software engineering team, owning process, delivery, and technical quality while mentoring engineers and aligning product roadmap with business goals. Partner with distributed teams in a fast-paced startup environment where you'll maintain hands-on technical involvement through code review and system design guidance.
-skills: TypeScript, React, NestJS, Microservices Architecture
+summary: Lead a cross-functional engineering team of 4-6 engineers building critical marketplace infrastructure (payouts, invoicing, fraud prevention) or customer-facing features for a healthcare staffing platform serving hundreds of thousands of workers. Balance technical direction, execution, and people development while maintaining hands-on understanding of your team's architecture and technical decisions.
+skills: 
 level: manager
 comp: 
 comp_extras: 
-render_hash: de71b07f
+render_hash: 3422ada5
 -->
 
 # Engineering Manager
@@ -24,11 +24,9 @@ render_hash: de71b07f
 
 > Clipboard builds software for managing patient intake, consent, and communication workflows in healthcare settings. The platform operates in the healthcare technology domain, helping medical practices streamline administrative processes like appointment scheduling, patient forms, and secure messaging.
 
-_Lead and manage a software engineering team, owning process, delivery, and technical quality while mentoring engineers and aligning product roadmap with business goals. Partner with distributed teams in a fast-paced startup environment where you'll maintain hands-on technical involvement through code review and system design guidance._
+_Lead a cross-functional engineering team of 4-6 engineers building critical marketplace infrastructure (payouts, invoicing, fraud prevention) or customer-facing features for a healthcare staffing platform serving hundreds of thousands of workers. Balance technical direction, execution, and people development while maintaining hands-on understanding of your team's architecture and technical decisions._
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-3B82F6?style=flat-square) ![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-3B82F6?style=flat-square)
-
-<sub>Posted May 14, 2026</sub>
+<sub>Posted May 15, 2026</sub>
 
 **Apply by location:**
 - **[Remote →](https://jobs.ashbyhq.com/clipboard/4871e102-00a5-4693-8e2f-8672435f1ba2)**
@@ -42,69 +40,49 @@ Our mission is to uplift as many communities as possible. We do this through our
 
 Founded in 2016, we are a remote-first team of over 1,000 people building a top Y-Combinator company https://www.ycombinator.com/topcompanies/ and have been profitable since 2022. We’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities.
 
-We are a globally distributed team with folks from the United States, Canada, India, Germany, Brazil… and more! Our values center around customer centricity, urgency, curiosity, and ownership. We are all empowered to fix the problems we see, there are no “toes” to be stepped on. A team went off and created a new SaaS product, another team rewrote a core service under a new architecture. We believe in our collective mission and do what it takes to move the needle on that goal. You can learn more about our engineering team on our candidate hub https://www.notion.so/Engineering-35e8643321f4810a9f9fec9d8ec77c4d.
+Engineering at Clipboard is deeply embedded in the business. Our engineers are technically strong and own the full software development lifecycle, from design and implementation through deployment and ongoing support. They have real autonomy over their work and are expected to take full ownership of what they build. They also work closely with product and operations, and also directly with customers, solving complex marketplace and operational problems that impact thousands of healthcare workers and facilities every day. Because of this, our Engineering Managers are expected to help maintain a high technical and execution bar across the team. A big part of the role is understanding how engineers think, helping challenge ideas when needed, and creating an environment where the team can consistently produce high-quality work.
 
-YOUR MISSION: BUILD, LEAD, AND DELIVER WITH IMPACT
+More about the Role
 
-As our Engineering Manager, you are more than a leader—you are a mentor, strategist, and problem solver. You’ll oversee both people and processes, guiding talented engineers toward high-impact delivery. If you are energized by scaling teams, aligning product and engineering goals, and solving real-world problems, this is the perfect opportunity to make your mark.
+We are looking for an Engineering Manager to lead high-impact engineering teams building core parts of our marketplace and internal systems. Engineering Managers at Clipboard are expected to stay close to the engineering work even if they are not coding day-to-day. The role involves balancing technical direction, execution, and people development while working closely across functions in a fast-moving environment.
 
-WHAT YOU’LL DO: OWN THE PROCESS, BUILD THE FUTURE
+A big part of the role is balancing execution and people development. You will help the team ship consistently in a fast-paced environment while also coaching and mentoring engineers so they can continue to grow in their careers.
 
- - Lead and Manage Engineering Teams: You’ll own the team’s process, delivery, and execution, ensuring they work optimally and with high quality.
+Moreover, this role sits between engineering, product, and operations. Things move quickly, and priorities shift as tradeoffs come up. We are looking for someone who can make clear decisions when things are unclear and keep the team focused on what matters the most. Strong judgment and prioritization are important at Clipboard, knowing what to prioritize and how to break down work in a way that actually drives results.
 
- - Partner with Product Managers and Customers: Collaborate to create your team’s roadmap, aligning on priorities that meet both business goals and customer needs.
+More about the Team
 
- - Provide Technical Guidance: While you may not code every day, you’ll review PRs, architecture, and design documents, providing technical coaching and feedback to ensure high-quality solutions.
+We are hiring Engineering Managers across several teams, where each team owns a full slice of the product experience end-to-end from what users see to the systems behind it.Teams are typically four to six engineers, working closely with product and operations to drive outcomes in their area.
 
- - Drive Performance Management: You will be responsible for your team’s performance, identifying and addressing any issues proactively. Provide immediate and actionable feedback to support continuous improvement.
+We currently have eight teams and we expect more as we continue to grow and expand into new areas of the business. Some teams work on systems where correctness is critical such as payouts, invoicing, and fraud prevention. Other teams focus on direct customer-facing parts of the marketplace, where the work involves a lot of operational complexity and fast iteration. We also have teams building new product areas from scratch, where there is more ambiguity. There will also be opportunities to lead experimental strike teams focused on high-priority, greenfield initiatives that require fast execution and strong ownership.
 
- - Mentor for Growth: Help engineers realize their full potential, fostering a growth mindset and creating personalized development plans.
+While each team owns a different problem space, the way we operate is fairly consistent across the organization. We align on team structure and matching during the interview process based on background and interests. You can find more information on the team and areas of work from this page https://www.notion.so/Engineering-35e8643321f4810a9f9fec9d8ec77c4d.
 
- - Own and Optimize Engineering Processes: We believe in streamlining and improving processes. You’ll craft team goals and raise the technical bar across the company, promoting a culture of constant feedback and transparency.
+What we are looking for
 
- - Lead Hiring and Talent Development: Participate in all stages of hiring, onboarding, and retaining top talent, contributing to our team’s rapid growth.
+We care less about polished narratives and more about how someone thinks through problems.A successful Engineering Manager at Clipboard demonstrates the following traits:
 
- - Solve Problems Proactively: At Clipboard, “We don’t have any toes to step on.” If you see a problem, you own it and fix it.
+ - First-principles Thinking: we value people who do not rely on past experience by default, but dive deep to understand what is actually going on before deciding what to do.
 
- - Engage in Open Conversations: Expect transparent, open forums where feedback flows freely, and bring your curiosity to engage with first-principles thinking.
+ - Customer-centricity: we care about people who stay close to the customer and use that context to make decisions and prioritize work.
 
-WHAT YOU BRING TO THE TABLE: A UNIQUE BLEND OF SKILLS AND EXPERIENCE
+ - Ownership and Judgement: we look for people who take responsibility for outcomes, make clear calls on what matters, and help teams move forward, treating their area like their own business.
 
- - 6+ years of software development experience, with 2+ years leading software development professionals as an Engineering Manager, Tech Lead, or Founder.
+ - Technical Strength: we expect Engineering Managers to stay close enough to the work to understand tradeoffs, support good technical decisions, and know when something does not feel right.
 
- - Experience managing agile, high-performing teams in fast-paced, geographically dispersed environments.
+The Interview Process
 
- - Performance Management Expertise: Comfortable addressing performance issues head-on and providing coaching that empowers engineers at all levels.
+At Clipboard, we don’t believe proxies are a reliable way to measure ability. We prefer to evaluate candidates by having them do work that closely resembles the actual job. Our process is designed around that:
 
- - Customer-Centric Problem Solver: A deep appreciation for customer needs, with the ability to translate ambiguous problems into actionable solutions.
+ 1. Async Technical Design Document (TDD) Review, followed by a 1-hour discussion with our Engineering Leadership team
 
- - Strong Communication Skills: You excel in writing and speaking clearly, breaking down complex concepts into simple components for engineers and non-technical stakeholders alike.
+ 2. Async EM Scenario Exercise, followed by a 1-hour discussion with our Engineering Leadership team
 
- - Hands-On Development and System Design: While primarily focused on leadership, you maintain technical fluency and experience with system design and coding.
+ 3. Hiring Manager Interview with our CPO
 
- - Comfortable Navigating Difficult Conversations: You are decisive and direct, capable of delivering constructive feedback and addressing problems promptly.
+ 4. Executive Interview with our co-CEO
 
- - Experienced in Team Growth: Skilled in hiring, onboarding, and retaining top talent to build high-performing teams.
-
- - Balanced Collaboration: Equally at ease working with technical and non-technical stakeholders, ensuring alignment at all levels.
-
-BONUS POINTS FOR:
-
- - Experience as a startup founder or in startup environments.
-
- - Familiarity with Typescript, React, NestJS, or microservices architecture.
-
- - Proven success managing distributed teams and supporting web or mobile applications.
-
-WHY CLIPBOARD?
-
- - Remote/Hybrid, < 3 days from office.
-
- - Unlimited PTO
-
- - Async first, with sync collaboration as it’s needed.
-
- - This is a high-impact role. From the hiring, onboarding, team execution, and talent practices to customer impact, new verticals, and technical up-levelling of the team: there's room for improvement on it all, and we are looking for people who want to build the new era of Clipboard with us.
+ 5. Offer!
 
 Quick Note on Scammers:
 

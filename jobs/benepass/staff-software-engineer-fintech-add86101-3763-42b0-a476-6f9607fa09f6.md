@@ -10,12 +10,12 @@ posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/benepass/add86101-3763-42b0-a476-6f9607fa09f6
-summary: Design and operate high-integrity financial systems for ledgering, transaction processing, decisioning, and money movement at scale. You'll take end-to-end ownership of systems handling real funds where correctness, consistency, and auditability are non-negotiable.
-skills: Python, PostgreSQL, Django, AWS, Payment Systems, Card Networks, Ledger Systems, Distributed Systems
+summary: Design and operate high-integrity financial systems for ledgering, transaction processing, decisioning, and money movement that track and move real funds with precision and auditability. You'll own end-to-end transaction lifecycles across payments infrastructure, including integration with external financial partners, and must have deep experience building or operating production fintech systems where correctness and consistency are non-negotiable.
+skills: Python, Django, PostgreSQL, AWS, TypeScript, React, Double-entry Accounting, Payment Systems
 level: senior
 comp: $200k-$240k
 comp_extras: equity
-render_hash: bd564b60
+render_hash: 8fef48ad
 -->
 
 # Staff Software Engineer (Fintech)
@@ -24,9 +24,9 @@ render_hash: bd564b60
 
 > Benepass builds a benefits management platform that helps employers and employees navigate health insurance options, wellness programs, and dependent care benefits. The company operates in the employee benefits administration space, providing tools for benefits enrollment, decision support, and claims management.
 
-_Design and operate high-integrity financial systems for ledgering, transaction processing, decisioning, and money movement at scale. You'll take end-to-end ownership of systems handling real funds where correctness, consistency, and auditability are non-negotiable._
+_Design and operate high-integrity financial systems for ledgering, transaction processing, decisioning, and money movement that track and move real funds with precision and auditability. You'll own end-to-end transaction lifecycles across payments infrastructure, including integration with external financial partners, and must have deep experience building or operating production fintech systems where correctness and consistency are non-negotiable._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Django](https://img.shields.io/badge/Django-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Payment Systems](https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square) ![Card Networks](https://img.shields.io/badge/Card_Networks-3B82F6?style=flat-square) ![Ledger Systems](https://img.shields.io/badge/Ledger_Systems-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Django-3B82F6?style=flat-square" alt="Django"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Double--entry_Accounting-3B82F6?style=flat-square" alt="Double-entry Accounting"> <img src="https://img.shields.io/badge/Payment_Systems-3B82F6?style=flat-square" alt="Payment Systems">
 
 <sub>Posted May 15, 2026</sub>
 

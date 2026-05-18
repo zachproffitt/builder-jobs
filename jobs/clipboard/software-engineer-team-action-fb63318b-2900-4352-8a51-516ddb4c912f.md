@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T01:05:29+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/clipboard/fb63318b-2900-4352-8a51-516ddb4c912f
-summary: Build the worker onboarding workflow and credential validation infrastructure that takes healthcare professionals from app sign-up through their first shift, including document parsing, background checks, and compliance logic. Handle full-stack development across React/Ionic mobile frontends and Node/NestJS backends processing sensitive healthcare documentation at scale.
+summary: Build the worker onboarding workflow that takes healthcare professionals from app sign-up through profile completion and first shift, including credential validation, document processing, and compliance logic. Work across React/Ionic frontend and Node/NestJS backend to solve substantive problems in credential validation and document extraction at scale.
 skills: TypeScript, React, Node.js, NestJS, MongoDB, PostgreSQL, Ionic
 level: mid
 comp: 
 comp_extras: 
-render_hash: 386a00b2
+render_hash: 95011c61
 -->
 
 # Software Engineer - Team Action
@@ -24,7 +24,7 @@ render_hash: 386a00b2
 
 > Clipboard builds software for managing patient intake, consent, and communication workflows in healthcare settings. The platform operates in the healthcare technology domain, helping medical practices streamline administrative processes like appointment scheduling, patient forms, and secure messaging.
 
-_Build the worker onboarding workflow and credential validation infrastructure that takes healthcare professionals from app sign-up through their first shift, including document parsing, background checks, and compliance logic. Handle full-stack development across React/Ionic mobile frontends and Node/NestJS backends processing sensitive healthcare documentation at scale._
+_Build the worker onboarding workflow that takes healthcare professionals from app sign-up through profile completion and first shift, including credential validation, document processing, and compliance logic. Work across React/Ionic frontend and Node/NestJS backend to solve substantive problems in credential validation and document extraction at scale._
 
 <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/NestJS-3B82F6?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Ionic-3B82F6?style=flat-square" alt="Ionic">
 

@@ -3,24 +3,24 @@ id: lever-spotify-351ad979-231f-4bee-ae49-8ff55b64f605
 company: Spotify
 title: Senior Machine Learning Engineer, Zeitgeist, Personalization
 source: lever
-location: New York, NY / London
+location: New York, NY
 remote: On-site
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
-url: 
+url: https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605
 summary: Build systems and models that help Spotify understand culture in real time using large language models and agentic workflows to power personalized listening experiences. Work at the intersection of platform-level content understanding and user-facing product features serving millions of listeners.
 skills: Large Language Models, Machine Learning, Python, Generative AI, Data Systems, Agentic Workflows
 level: senior
 comp: 
 comp_extras: 
-render_hash: d36c8d87
+render_hash: dabd9164
 -->
 
 # Senior Machine Learning Engineer, Zeitgeist, Personalization
 
-<a href="https://spotify.com"><img src="https://www.google.com/s2/favicons?domain=spotify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spotify** · New York, New York / London · `Senior` · On-site
+<a href="https://spotify.com"><img src="https://www.google.com/s2/favicons?domain=spotify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spotify** · New York, New York · `Senior` · On-site
 
 > Spotify operates a music and podcast streaming platform that allows users to access millions of songs, albums, and audio content on demand across devices. The company generates revenue through both ad-supported free tiers and premium subscription services, while also operating a marketplace connecting artists and creators with listeners worldwide.
 
@@ -30,9 +30,7 @@ _Build systems and models that help Spotify understand culture in real time usin
 
 <sub>Posted May 15, 2026</sub>
 
-**Apply by location:**
-- **[New York, NY →](https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605)**
-- **[London →](https://jobs.lever.co/spotify/e3e57517-0677-4032-85c1-841fdc9c26c6)**
+**[→ Apply](https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605)**
 
 ---
 
@@ -44,6 +42,4 @@ The AI Foundation team within Personalization provides the state-of-the-art foun
 
 ---
 
-**Apply by location:**
-- **[New York, NY →](https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605)**
-- **[London →](https://jobs.lever.co/spotify/e3e57517-0677-4032-85c1-841fdc9c26c6)**
+**[→ Apply](https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605)**

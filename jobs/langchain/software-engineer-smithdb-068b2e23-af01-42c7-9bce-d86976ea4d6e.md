@@ -10,23 +10,23 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e
-summary: Engineer a distributed, high-performance storage layer for AI observability built in Rust, optimized for ingestion, querying, and scaling to trillions of traces. Scale and harden a multi-tenant system running on Kubernetes with tight integration to cloud object stores.
-skills: Rust, Database Systems, Kubernetes, Cloud Object Storage (S3/GCS/Azure), Query Execution Engines, Systems Performance Analysis, Distributed Systems, Memory and CPU Profiling
+summary: Engineer a high-performance distributed storage layer for AI observability, optimizing for cost and speed across trillions of traces. Design and scale a Rust-based system handling multi-tenant ingestion and query execution on Kubernetes with cloud object storage integration.
+skills: Rust, C++, Kubernetes, PostgreSQL, Systems Performance Analysis, Distributed Systems, Cloud Object Storage, Database Internals
 level: senior
 comp: $175k-$240k
 comp_extras: equity
-render_hash: 50840e0a
+render_hash: e1dde960
 -->
 
 # Software Engineer, SmithDB
 
-<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · San Francisco, CA · `Senior` · On-site · `$175k-$240k` · `Equity`
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · San Francisco, California · `Senior` · On-site · `$175k-$240k` · `Equity`
 
 > LangChain builds open-source Python and JavaScript libraries that simplify building applications with large language models by providing abstractions for chaining together LLM calls, managing prompts, and integrating external data sources. The company operates in the developer tools space for AI/machine learning applications.
 
-_Engineer a distributed, high-performance storage layer for AI observability built in Rust, optimized for ingestion, querying, and scaling to trillions of traces. Scale and harden a multi-tenant system running on Kubernetes with tight integration to cloud object stores._
+_Engineer a high-performance distributed storage layer for AI observability, optimizing for cost and speed across trillions of traces. Design and scale a Rust-based system handling multi-tenant ingestion and query execution on Kubernetes with cloud object storage integration._
 
-![Rust](https://img.shields.io/badge/Rust-3B82F6?style=flat-square) ![Database Systems](https://img.shields.io/badge/Database_Systems-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Cloud Object Storage (S3/GCS/Azure)](https://img.shields.io/badge/Cloud_Object_Storage_%28S3%2FGCS%2FAzure%29-3B82F6?style=flat-square) ![Query Execution Engines](https://img.shields.io/badge/Query_Execution_Engines-3B82F6?style=flat-square) ![Systems Performance Analysis](https://img.shields.io/badge/Systems_Performance_Analysis-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Memory and CPU Profiling](https://img.shields.io/badge/Memory_and_CPU_Profiling-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Systems_Performance_Analysis-3B82F6?style=flat-square" alt="Systems Performance Analysis"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Cloud_Object_Storage-3B82F6?style=flat-square" alt="Cloud Object Storage"> <img src="https://img.shields.io/badge/Database_Internals-3B82F6?style=flat-square" alt="Database Internals">
 
 <sub>Posted May 13, 2026</sub>
 

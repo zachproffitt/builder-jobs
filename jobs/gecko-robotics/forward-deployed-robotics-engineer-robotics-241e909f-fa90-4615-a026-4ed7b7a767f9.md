@@ -3,30 +3,30 @@ id: ashby-gecko-robotics-241e909f-fa90-4615-a026-4ed7b7a767f9
 company: Gecko Robotics
 title: Forward Deployed Robotics Engineer 
 source: ashby
-location: Pittsburgh
+location: Pittsburgh, PA
 remote: On-site
-hybrid: yes
+hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T20:35:33+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/gecko-robotics/241e909f-fa90-4615-a026-4ed7b7a767f9
-summary: Design and deploy advanced sensor fusion and localization algorithms for underwater inspection and hull-cleaning robots operating in GPS-denied environments. Solve real-world navigation challenges combining IMU, DVL, acoustic positioning, and sonar data with tight field deployment timelines and pragmatic engineering tradeoffs.
-skills: Extended Kalman Filters, Unscented Kalman Filters, Particle Filters, IMU calibration, Doppler Velocity Log, Acoustic positioning systems, USBL/LBL, State-space modeling
+summary: Design and deploy underwater sensor fusion and localization systems for hull-cleaning and NDT inspection robots, integrating IMU, DVL, acoustic positioning, and sonar data into robust state estimates for GPS-denied environments. Solve real-world field localization problems—drift compensation, sensor dropout handling, acoustic multipath—under tight deployment timelines in close-to-structure underwater operations.
+skills: Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Particle Filter, IMU, DVL, USBL/LBL, State-Space Modeling, Acoustic Localization
 level: senior
 comp: 
 comp_extras: equity
-render_hash: 235c6ad9
+render_hash: 8c16d42a
 -->
 
 # Forward Deployed Robotics Engineer 
 
-<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · Pittsburgh · `Senior` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Equity`
+<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · Pittsburgh, Pennsylvania · `Senior` · On-site · `Equity`
 
 > Gecko Robotics builds robotic systems and software for inspecting and maintaining critical infrastructure, particularly in the energy and industrial sectors. Their autonomous robots perform non-destructive testing and inspection of equipment like boilers, pipes, and pressure vessels to detect corrosion and defects without requiring human workers to enter hazardous environments.
 
-_Design and deploy advanced sensor fusion and localization algorithms for underwater inspection and hull-cleaning robots operating in GPS-denied environments. Solve real-world navigation challenges combining IMU, DVL, acoustic positioning, and sonar data with tight field deployment timelines and pragmatic engineering tradeoffs._
+_Design and deploy underwater sensor fusion and localization systems for hull-cleaning and NDT inspection robots, integrating IMU, DVL, acoustic positioning, and sonar data into robust state estimates for GPS-denied environments. Solve real-world field localization problems—drift compensation, sensor dropout handling, acoustic multipath—under tight deployment timelines in close-to-structure underwater operations._
 
-![Extended Kalman Filters](https://img.shields.io/badge/Extended_Kalman_Filters-3B82F6?style=flat-square) ![Unscented Kalman Filters](https://img.shields.io/badge/Unscented_Kalman_Filters-3B82F6?style=flat-square) ![Particle Filters](https://img.shields.io/badge/Particle_Filters-3B82F6?style=flat-square) ![IMU calibration](https://img.shields.io/badge/IMU_calibration-3B82F6?style=flat-square) ![Doppler Velocity Log](https://img.shields.io/badge/Doppler_Velocity_Log-3B82F6?style=flat-square) ![Acoustic positioning systems](https://img.shields.io/badge/Acoustic_positioning_systems-3B82F6?style=flat-square) ![USBL/LBL](https://img.shields.io/badge/USBL%2FLBL-3B82F6?style=flat-square) ![State-space modeling](https://img.shields.io/badge/State--space_modeling-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Extended_Kalman_Filter_%28EKF%29-3B82F6?style=flat-square" alt="Extended Kalman Filter (EKF)"> <img src="https://img.shields.io/badge/Unscented_Kalman_Filter_%28UKF%29-3B82F6?style=flat-square" alt="Unscented Kalman Filter (UKF)"> <img src="https://img.shields.io/badge/Particle_Filter-3B82F6?style=flat-square" alt="Particle Filter"> <img src="https://img.shields.io/badge/IMU-3B82F6?style=flat-square" alt="IMU"> <img src="https://img.shields.io/badge/DVL-3B82F6?style=flat-square" alt="DVL"> <img src="https://img.shields.io/badge/USBL%2FLBL-3B82F6?style=flat-square" alt="USBL/LBL"> <img src="https://img.shields.io/badge/State--Space_Modeling-3B82F6?style=flat-square" alt="State-Space Modeling"> <img src="https://img.shields.io/badge/Acoustic_Localization-3B82F6?style=flat-square" alt="Acoustic Localization">
 
 <sub>Posted May 15, 2026</sub>
 

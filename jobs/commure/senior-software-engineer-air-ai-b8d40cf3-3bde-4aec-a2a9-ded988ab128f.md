@@ -8,25 +8,25 @@ remote: Not specified
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T21:22:03+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f
-summary: Build production AI-powered clinical documentation, provider copilots, and autonomous coding systems that integrate LLMs into real-time clinical workflows. Work across full-stack architecture (Python backend, TypeScript/React frontend, Kubernetes infrastructure) to deliver intelligent healthcare automation that clinicians trust with critical patient care tasks.
-skills: Python, TypeScript, React, Kubernetes, Docker, LLM APIs, Bachelor's in Computer Science or Engineering
+summary: Build AI-powered clinical documentation and provider copilot systems that integrate LLMs into real-time healthcare workflows. Design fullstack architecture for production LLM systems at scale across hundreds of care sites supporting 500,000+ clinicians.
+skills: Python, TypeScript, React, Docker, Kubernetes, LLM APIs, PostgreSQL or similar, AWS or GCP
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4a574f2c
+render_hash: 9b0ecd14
 -->
 
 # Senior Software Engineer, Air AI
 
-<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, CA · `Senior`
+<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, California · `Senior`
 
 > Commure builds cloud-based software that connects healthcare providers' electronic health record systems with patient engagement and communication tools, enabling practices to streamline workflows and improve patient interactions across multiple communication channels.
 
-_Build production AI-powered clinical documentation, provider copilots, and autonomous coding systems that integrate LLMs into real-time clinical workflows. Work across full-stack architecture (Python backend, TypeScript/React frontend, Kubernetes infrastructure) to deliver intelligent healthcare automation that clinicians trust with critical patient care tasks._
+_Build AI-powered clinical documentation and provider copilot systems that integrate LLMs into real-time healthcare workflows. Design fullstack architecture for production LLM systems at scale across hundreds of care sites supporting 500,000+ clinicians._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-3B82F6?style=flat-square) ![Bachelor's in Computer Science or Engineering](https://img.shields.io/badge/Bachelor's_in_Computer_Science_or_Engineering-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/LLM_APIs-3B82F6?style=flat-square" alt="LLM APIs"> <img src="https://img.shields.io/badge/PostgreSQL_or_similar-3B82F6?style=flat-square" alt="PostgreSQL or similar"> <img src="https://img.shields.io/badge/AWS_or_GCP-3B82F6?style=flat-square" alt="AWS or GCP">
 
 <sub>Posted May 15, 2026</sub>
 

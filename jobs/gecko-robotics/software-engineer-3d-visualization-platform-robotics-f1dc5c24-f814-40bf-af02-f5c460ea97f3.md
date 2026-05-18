@@ -3,30 +3,30 @@ id: ashby-gecko-robotics-f1dc5c24-f814-40bf-af02-f5c460ea97f3
 company: Gecko Robotics
 title: Software Engineer | 3D Visualization Platform
 source: ashby
-location: New York City, NY
+location: New York, NY
 remote: On-site
 hybrid: no
 posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/gecko-robotics/f1dc5c24-f814-40bf-af02-f5c460ea97f3
-summary: Build and extend a server-side rendering application that streams GB-scale 3D models to a React frontend, powering critical infrastructure visualization within Cantilever. Work across backend APIs, frontend applications, and system architecture to deliver scalable solutions for complex 3D workflows in real-world deployment environments where performance and reliability are critical.
-skills: React, TypeScript, Python, GCP, Unreal Engine, Backend APIs, 3D Graphics/Visualization, Real-time Streaming
+summary: Build and extend a high-performance 3D visualization platform that streams large-scale models to a React frontend, including systems built on Unreal Engine for critical infrastructure applications. Work across full stack (backend APIs, frontend, server-side rendering) in real-world deployment environments where reliability and performance are critical.
+skills: React, TypeScript, Python, GCP, Unreal Engine, Backend APIs, 3D Visualization, Real-time Streaming
 level: mid
 comp: 
 comp_extras: equity
-render_hash: d9410956
+render_hash: 7b2e4008
 -->
 
 # Software Engineer | 3D Visualization Platform
 
-<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · New York City, NY · `Mid` · On-site · `Equity`
+<a href="https://www.geckorobotics.com"><img src="https://www.google.com/s2/favicons?domain=www.geckorobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gecko Robotics** · New York, New York · `Mid` · On-site · `Equity`
 
 > Gecko Robotics builds robotic systems and software for inspecting and maintaining critical infrastructure, particularly in the energy and industrial sectors. Their autonomous robots perform non-destructive testing and inspection of equipment like boilers, pipes, and pressure vessels to detect corrosion and defects without requiring human workers to enter hazardous environments.
 
-_Build and extend a server-side rendering application that streams GB-scale 3D models to a React frontend, powering critical infrastructure visualization within Cantilever. Work across backend APIs, frontend applications, and system architecture to deliver scalable solutions for complex 3D workflows in real-world deployment environments where performance and reliability are critical._
+_Build and extend a high-performance 3D visualization platform that streams large-scale models to a React frontend, including systems built on Unreal Engine for critical infrastructure applications. Work across full stack (backend APIs, frontend, server-side rendering) in real-world deployment environments where reliability and performance are critical._
 
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-3B82F6?style=flat-square) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square) ![Backend APIs](https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square) ![3D Graphics/Visualization](https://img.shields.io/badge/3D_Graphics%2FVisualization-3B82F6?style=flat-square) ![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Unreal_Engine-3B82F6?style=flat-square" alt="Unreal Engine"> <img src="https://img.shields.io/badge/Backend_APIs-3B82F6?style=flat-square" alt="Backend APIs"> <img src="https://img.shields.io/badge/3D_Visualization-3B82F6?style=flat-square" alt="3D Visualization"> <img src="https://img.shields.io/badge/Real--time_Streaming-3B82F6?style=flat-square" alt="Real-time Streaming">
 
 <sub>Posted May 14, 2026</sub>
 

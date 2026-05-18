@@ -10,12 +10,12 @@ posted_at: 2026-05-15
 first_seen: 2026-05-15
 first_seen_at: 
 url: https://jobs.ashbyhq.com/optro/c0efcde7-04cb-4381-9e56-36f89a14a622
-summary: Build and architect scalable backend systems and REST APIs for an audit, risk, and compliance platform serving Fortune 500 customers. Lead large strategic projects, mentor engineers, and design systems handling complex data pipelines and B2B integrations at scale.
-skills: Python, FastAPI, PostgreSQL, Kubernetes, Docker, REST APIs, ETL pipelines, B2B integrations
+summary: Build and architect scalable backend systems and REST/JSON APIs in Python/FastAPI for an audit, risk, ESG, and InfoSec SaaS platform serving Fortune 500 companies. Lead large strategic projects, mentor engineers, and design infrastructure handling sensitive compliance data at scale.
+skills: Python, FastAPI, PostgreSQL, Kubernetes, Docker, REST APIs, ETL Pipelines, GRC/CyberSecurity
 level: staff
 comp: 
 comp_extras: bonus
-render_hash: 3f2bd58f
+render_hash: 7fec42d7
 -->
 
 # Staff Software Engineer (Backend), AI Governance (Remote USA)
@@ -24,9 +24,9 @@ render_hash: 3f2bd58f
 
 > AuditBoard provides cloud-based audit and risk management software that helps internal audit, compliance, and risk teams streamline their workflows, manage audit programs, and collaborate on findings and remediation across their organizations.
 
-_Build and architect scalable backend systems and REST APIs for an audit, risk, and compliance platform serving Fortune 500 customers. Lead large strategic projects, mentor engineers, and design systems handling complex data pipelines and B2B integrations at scale._
+_Build and architect scalable backend systems and REST/JSON APIs in Python/FastAPI for an audit, risk, ESG, and InfoSec SaaS platform serving Fortune 500 companies. Lead large strategic projects, mentor engineers, and design infrastructure handling sensitive compliance data at scale._
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square" alt="FastAPI"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/ETL_pipelines-3B82F6?style=flat-square" alt="ETL pipelines"> <img src="https://img.shields.io/badge/B2B_integrations-3B82F6?style=flat-square" alt="B2B integrations">
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-3B82F6?style=flat-square" alt="FastAPI"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/ETL_Pipelines-3B82F6?style=flat-square" alt="ETL Pipelines"> <img src="https://img.shields.io/badge/GRC%2FCyberSecurity-3B82F6?style=flat-square" alt="GRC/CyberSecurity">
 
 <sub>Posted May 15, 2026</sub>
 

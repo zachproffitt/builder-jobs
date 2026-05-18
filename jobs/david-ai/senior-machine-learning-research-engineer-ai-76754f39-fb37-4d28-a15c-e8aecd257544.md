@@ -3,30 +3,30 @@ id: ashby-david-ai-76754f39-fb37-4d28-a15c-e8aecd257544
 company: David AI
 title: Senior Machine Learning Research Engineer
 source: ashby
-location: San Francisco
+location: San Francisco, CA
 remote: On-site
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T17:43:28+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/david-ai/76754f39-fb37-4d28-a15c-e8aecd257544
-summary: Research, design, and implement advanced speech and audio ML models, inference systems, and production pipelines that process terabytes of audio data daily for AI labs and enterprises. Work at the intersection of cutting-edge signal processing research and production systems, owning the full ML lifecycle from algorithm development to deployment at scale.
-skills: Python, PyTorch, Audio Signal Processing, Speech Processing, Deep Learning, DSP, Production ML Systems, Cloud Technologies
+summary: Build cutting-edge speech and audio ML models, production inference systems, and resilient pipelines processing terabytes of audio daily for leading AI labs and enterprises. This role requires translating research into production-grade systems at scale, with end-to-end ownership from algorithm development through deployment.
+skills: Python, PyTorch, Audio Signal Processing, Speech Processing, Machine Learning, DSP, Production ML Systems, Cloud Technologies
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4cb093b8
+render_hash: 15ea0ae9
 -->
 
 # Senior Machine Learning Research Engineer
 
-<a href="https://www.withdavid.ai"><img src="https://www.google.com/s2/favicons?domain=www.withdavid.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**David AI** · San Francisco · `Senior` · On-site
+<a href="https://www.withdavid.ai"><img src="https://www.google.com/s2/favicons?domain=www.withdavid.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**David AI** · San Francisco, California · `Senior` · On-site
 
 > David AI is an audio data research company that develops high-quality datasets for speech and conversational AI applications. Their datasets are used by Fortune 100 companies and research labs working on speech recognition, translation, synthesis, and voice interaction systems.
 
-_Research, design, and implement advanced speech and audio ML models, inference systems, and production pipelines that process terabytes of audio data daily for AI labs and enterprises. Work at the intersection of cutting-edge signal processing research and production systems, owning the full ML lifecycle from algorithm development to deployment at scale._
+_Build cutting-edge speech and audio ML models, production inference systems, and resilient pipelines processing terabytes of audio daily for leading AI labs and enterprises. This role requires translating research into production-grade systems at scale, with end-to-end ownership from algorithm development through deployment._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![Audio Signal Processing](https://img.shields.io/badge/Audio_Signal_Processing-3B82F6?style=flat-square) ![Speech Processing](https://img.shields.io/badge/Speech_Processing-3B82F6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square) ![DSP](https://img.shields.io/badge/DSP-3B82F6?style=flat-square) ![Production ML Systems](https://img.shields.io/badge/Production_ML_Systems-3B82F6?style=flat-square) ![Cloud Technologies](https://img.shields.io/badge/Cloud_Technologies-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/Audio_Signal_Processing-3B82F6?style=flat-square" alt="Audio Signal Processing"> <img src="https://img.shields.io/badge/Speech_Processing-3B82F6?style=flat-square" alt="Speech Processing"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/DSP-3B82F6?style=flat-square" alt="DSP"> <img src="https://img.shields.io/badge/Production_ML_Systems-3B82F6?style=flat-square" alt="Production ML Systems"> <img src="https://img.shields.io/badge/Cloud_Technologies-3B82F6?style=flat-square" alt="Cloud Technologies">
 
 <sub>Posted May 15, 2026</sub>
 

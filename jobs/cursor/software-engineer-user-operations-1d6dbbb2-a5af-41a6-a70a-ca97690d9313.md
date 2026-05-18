@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-16
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T16:28:24+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313
-summary: Build AI-powered product quality infrastructure and tooling that captures, triages, and routes customer feedback at scale — including intelligent bug intake pipelines, real-time dashboards, and integrations across ticketing, payment, and data systems. Work on a first-of-its-kind Voice of the Customer program that closes the loop between what users experience and what gets shipped.
-skills: Python, SQL, ETL, Data Pipelines, API Integration, Dashboards, React, TypeScript
+summary: Build AI-powered product quality infrastructure that captures, triages, and routes customer feedback at scale — dashboards, bug intake pipelines, and integrations across ticketing, CRM, and data systems. You'll own internal-facing systems that close the loop between customer experience and product decisions in an AI-native code automation platform.
+skills: Python, Data pipelines, ETL, SQL, APIs, Dashboards, Integrations, Full-stack development
 level: mid
 comp: 
 comp_extras: 
-render_hash: 44ecbd24
+render_hash: b3f29831
 -->
 
 # Software Engineer, User Operations
@@ -24,9 +24,9 @@ render_hash: 44ecbd24
 
 > Cursor builds an AI-powered code editor that integrates large language models directly into the development environment to assist with writing, editing, and understanding code. The product operates in the software development tools domain, competing with traditional IDEs and text editors like VS Code.
 
-_Build AI-powered product quality infrastructure and tooling that captures, triages, and routes customer feedback at scale — including intelligent bug intake pipelines, real-time dashboards, and integrations across ticketing, payment, and data systems. Work on a first-of-its-kind Voice of the Customer program that closes the loop between what users experience and what gets shipped._
+_Build AI-powered product quality infrastructure that captures, triages, and routes customer feedback at scale — dashboards, bug intake pipelines, and integrations across ticketing, CRM, and data systems. You'll own internal-facing systems that close the loop between customer experience and product decisions in an AI-native code automation platform._
 
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/ETL-3B82F6?style=flat-square" alt="ETL"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/API_Integration-3B82F6?style=flat-square" alt="API Integration"> <img src="https://img.shields.io/badge/Dashboards-3B82F6?style=flat-square" alt="Dashboards"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript">
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Data_pipelines-3B82F6?style=flat-square" alt="Data pipelines"> <img src="https://img.shields.io/badge/ETL-3B82F6?style=flat-square" alt="ETL"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/APIs-3B82F6?style=flat-square" alt="APIs"> <img src="https://img.shields.io/badge/Dashboards-3B82F6?style=flat-square" alt="Dashboards"> <img src="https://img.shields.io/badge/Integrations-3B82F6?style=flat-square" alt="Integrations"> <img src="https://img.shields.io/badge/Full--stack_development-3B82F6?style=flat-square" alt="Full-stack development">
 
 <sub>Posted May 16, 2026</sub>
 

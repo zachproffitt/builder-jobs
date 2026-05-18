@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-13
 first_seen: 2026-05-15
-first_seen_at: 2026-05-15T19:43:28+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/confluent/85107937-8f12-4336-abb8-e88f344c6bcc
-summary: Lead the design and delivery of agentic AI systems and intelligent automation workflows to accelerate R&D productivity across Confluent's engineering organization. Drive responsible AI adoption at scale across a SaaS/cloud platform with 60% hands-on execution and 40% strategy.
-skills: LLM Integration, Workflow Automation, Distributed Systems, AI/ML Platforms, Cloud-Native Architecture, Real-Time Data Systems, Event-Driven Architecture, Platform Engineering
+summary: Lead the design and delivery of agentic AI systems and intelligent workflows that automate R&D productivity across Confluent's engineering organization. Balance hands-on architecture and implementation (60%) with strategic vision-setting and cross-functional alignment (40%), working with Security and IT to scale AI adoption responsibly at production scale.
+skills: LLM Integration, Workflow Automation, Agentic Systems, Distributed Systems, Python, Cloud-Native Architecture, Responsible AI
 level: principal
 comp: 
 comp_extras: 
-render_hash: 1c3bfb10
+render_hash: b8970735
 -->
 
 # Principal Engineer, Engineering AI Productivity
@@ -24,9 +24,9 @@ render_hash: 1c3bfb10
 
 > Confluent builds an event streaming platform that enables organizations to capture, store, and process continuous streams of data in real time. The company provides both cloud-managed and self-hosted solutions based on Apache Kafka, serving enterprises across financial services, e-commerce, healthcare, and other data-intensive industries.
 
-_Lead the design and delivery of agentic AI systems and intelligent automation workflows to accelerate R&D productivity across Confluent's engineering organization. Drive responsible AI adoption at scale across a SaaS/cloud platform with 60% hands-on execution and 40% strategy._
+_Lead the design and delivery of agentic AI systems and intelligent workflows that automate R&D productivity across Confluent's engineering organization. Balance hands-on architecture and implementation (60%) with strategic vision-setting and cross-functional alignment (40%), working with Security and IT to scale AI adoption responsibly at production scale._
 
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-3B82F6?style=flat-square) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![AI/ML Platforms](https://img.shields.io/badge/AI%2FML_Platforms-3B82F6?style=flat-square) ![Cloud-Native Architecture](https://img.shields.io/badge/Cloud--Native_Architecture-3B82F6?style=flat-square) ![Real-Time Data Systems](https://img.shields.io/badge/Real--Time_Data_Systems-3B82F6?style=flat-square) ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-3B82F6?style=flat-square) ![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/LLM_Integration-3B82F6?style=flat-square" alt="LLM Integration"> <img src="https://img.shields.io/badge/Workflow_Automation-3B82F6?style=flat-square" alt="Workflow Automation"> <img src="https://img.shields.io/badge/Agentic_Systems-3B82F6?style=flat-square" alt="Agentic Systems"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Cloud--Native_Architecture-3B82F6?style=flat-square" alt="Cloud-Native Architecture"> <img src="https://img.shields.io/badge/Responsible_AI-3B82F6?style=flat-square" alt="Responsible AI">
 
 <sub>Posted May 13, 2026</sub>
 

@@ -10,12 +10,12 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.ashbyhq.com/Mapbox/497f955d-b325-44cd-bc25-001169d78fbf
-summary: Build and maintain high-traffic distributed APIs and ETL pipelines that serve billions of map requests daily to millions of developers globally. Lead architectural decisions for geospatial data processing at scale while mentoring engineers and balancing rapid feature development with operational reliability.
-skills: Python, TypeScript, AWS, PostgreSQL, Kubernetes, Geospatial Data, Distributed Systems, Microservices
+summary: Build and maintain high-traffic mapping APIs and distributed ETL pipelines that process billions of requests daily, supporting global geospatial data visualization at scale. Lead architectural decisions and mentor engineers on a team delivering real-time location services to millions of developers.
+skills: Python, TypeScript, AWS, PostgreSQL, Kubernetes, Geospatial Data, Microservices, System Design
 level: senior
 comp: 
 comp_extras: 
-render_hash: 51a967f7
+render_hash: c803a186
 -->
 
 # Software Development Engineer III, Maps API
@@ -24,9 +24,9 @@ render_hash: 51a967f7
 
 > Mapbox builds mapping and location APIs, SDKs, and developer tools that enable applications to display custom maps, perform geocoding and routing, and analyze geospatial data. They operate in the geospatial technology and mapping services domain, serving developers who need to integrate location features into mobile and web applications.
 
-_Build and maintain high-traffic distributed APIs and ETL pipelines that serve billions of map requests daily to millions of developers globally. Lead architectural decisions for geospatial data processing at scale while mentoring engineers and balancing rapid feature development with operational reliability._
+_Build and maintain high-traffic mapping APIs and distributed ETL pipelines that process billions of requests daily, supporting global geospatial data visualization at scale. Lead architectural decisions and mentor engineers on a team delivering real-time location services to millions of developers._
 
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square) ![Geospatial Data](https://img.shields.io/badge/Geospatial_Data-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Geospatial_Data-3B82F6?style=flat-square" alt="Geospatial Data"> <img src="https://img.shields.io/badge/Microservices-3B82F6?style=flat-square" alt="Microservices"> <img src="https://img.shields.io/badge/System_Design-3B82F6?style=flat-square" alt="System Design">
 
 <sub>Posted May 14, 2026</sub>
 

@@ -5,28 +5,28 @@ title: Principal Software Engineer, AI Observability & Evals Platform
 source: ashby
 location: Boston, MA / San Francisco, CA / New York, NY
 remote: On-site
-hybrid: no
+hybrid: yes
 posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93
-summary: Build LangSmith's full-stack AI observability platform—backend services, APIs, and frontend product surfaces—handling tracing, evaluation, and monitoring workflows at production scale. You'll drive architectural decisions across Go, Python, and TypeScript while establishing engineering standards and mentoring a growing team.
-skills: Go, Python, TypeScript, React, PostgreSQL, AWS, Distributed Systems, Production Observability
+summary: Build LangSmith's observability, evaluation, and reliability platform for AI systems, owning architectural decisions and full-stack features from backend services (Go, Python) through frontend surfaces (TypeScript, React). Set engineering standards, mentor the team, and drive systems that scale to millions of developers while maintaining high performance and reliability on high-volume data workloads.
+skills: Python, Go, TypeScript, React, PostgreSQL, AWS, GCP, Redis
 level: principal
-comp: $230,000-$270,000
+comp: $230k-$270k
 comp_extras: equity
-render_hash: 1bef6c95
+render_hash: ba2b646f
 -->
 
 # Principal Software Engineer, AI Observability & Evals Platform
 
-<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · Boston, MA / San Francisco, CA / New York, NY · `Principal` · On-site · `$230,000-$270,000` · `Equity`
+<a href="https://langchain.com"><img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LangChain** · Boston, Massachusetts / San Francisco, California / New York, New York · `Principal` · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `$230k-$270k` · `Equity`
 
 > LangChain builds open-source Python and JavaScript libraries that simplify building applications with large language models by providing abstractions for chaining together LLM calls, managing prompts, and integrating external data sources. The company operates in the developer tools space for AI/machine learning applications.
 
-_Build LangSmith's full-stack AI observability platform—backend services, APIs, and frontend product surfaces—handling tracing, evaluation, and monitoring workflows at production scale. You'll drive architectural decisions across Go, Python, and TypeScript while establishing engineering standards and mentoring a growing team._
+_Build LangSmith's observability, evaluation, and reliability platform for AI systems, owning architectural decisions and full-stack features from backend services (Go, Python) through frontend surfaces (TypeScript, React). Set engineering standards, mentor the team, and drive systems that scale to millions of developers while maintaining high performance and reliability on high-volume data workloads._
 
-![Go](https://img.shields.io/badge/Go-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![React](https://img.shields.io/badge/React-3B82F6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Production Observability](https://img.shields.io/badge/Production_Observability-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis">
 
 <sub>Posted May 13, 2026</sub>
 

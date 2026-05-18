@@ -3,30 +3,30 @@ id: ashby-baseten-1933097e-2f8e-46e2-8442-0c2f4a9394da
 company: Baseten
 title: Engineering Manager, Cloud Platform
 source: ashby
-location: Remote
+location: San Francisco, CA
 remote: Remote
 hybrid: no
 posted_at: 2026-05-17
 first_seen: 2026-05-17
-first_seen_at: 2026-05-17T22:27:26+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/baseten/1933097e-2f8e-46e2-8442-0c2f4a9394da
-summary: Lead a team of cloud platform engineers building and maintaining the infrastructure systems that power Baseten's AI inference platform — from automated deployments and Kubernetes orchestration to monitoring, performance optimization, and incident response. You'll engage directly in technical decisions, code reviews, and architectural discussions while coaching engineers and translating user needs into infrastructure improvements.
-skills: Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana, OpenTelemetry, GPU Infrastructure, Multi-cloud Environments
+summary: Lead a cloud platform engineering team building the infrastructure systems that power Baseten's AI inference platform — deployments, monitoring, performance optimization, and incident response. You'll manage engineers end-to-end while staying deeply technical in Kubernetes and infrastructure-as-code, directly connected to how ML companies operationalize models.
+skills: Kubernetes, Terraform, Cloud Infrastructure, CI/CD, Incident Response, SRE
 level: manager
 comp: 
 comp_extras: equity
-render_hash: f220f52a
+render_hash: 7b3f50d4
 -->
 
 # Engineering Manager, Cloud Platform
 
-<a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
+<a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baseten** · San Francisco, California · `Manager` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Equity`
 
 > Baseten provides an infrastructure platform for deploying and scaling machine learning models in production, enabling developers to build and serve custom AI applications with built-in features for versioning, monitoring, and API management.
 
-_Lead a team of cloud platform engineers building and maintaining the infrastructure systems that power Baseten's AI inference platform — from automated deployments and Kubernetes orchestration to monitoring, performance optimization, and incident response. You'll engage directly in technical decisions, code reviews, and architectural discussions while coaching engineers and translating user needs into infrastructure improvements._
+_Lead a cloud platform engineering team building the infrastructure systems that power Baseten's AI inference platform — deployments, monitoring, performance optimization, and incident response. You'll manage engineers end-to-end while staying deeply technical in Kubernetes and infrastructure-as-code, directly connected to how ML companies operationalize models._
 
-<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/GitHub_Actions-3B82F6?style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Prometheus-3B82F6?style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-3B82F6?style=flat-square" alt="Grafana"> <img src="https://img.shields.io/badge/OpenTelemetry-3B82F6?style=flat-square" alt="OpenTelemetry"> <img src="https://img.shields.io/badge/GPU_Infrastructure-3B82F6?style=flat-square" alt="GPU Infrastructure"> <img src="https://img.shields.io/badge/Multi--cloud_Environments-3B82F6?style=flat-square" alt="Multi-cloud Environments">
+<img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/Cloud_Infrastructure-3B82F6?style=flat-square" alt="Cloud Infrastructure"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/Incident_Response-3B82F6?style=flat-square" alt="Incident Response"> <img src="https://img.shields.io/badge/SRE-3B82F6?style=flat-square" alt="SRE">
 
 <sub>Posted May 17, 2026</sub>
 

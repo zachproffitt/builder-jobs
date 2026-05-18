@@ -8,14 +8,14 @@ remote: Remote
 hybrid: no
 posted_at: 2026-05-15
 first_seen: 2026-05-16
-first_seen_at: 2026-05-16T01:05:29+00:00
+first_seen_at: 
 url: https://jobs.ashbyhq.com/clipboard/e8f6d10c-61b7-42dd-978e-921004ea5a55
-summary: Build and expand marketplace infrastructure across new verticals (Home Health, Dental, Hospitals) using a full-stack approach. Make architectural decisions balancing reuse of existing systems with new builds, working closely with operations and go-to-market teams to iterate rapidly from zero to production.
-skills: TypeScript, Node.js, NestJS, MongoDB, PostgreSQL, Redis, AWS, Terraform
+summary: Build infrastructure and products to expand Clipboard's marketplace into new healthcare verticals (Home Health, Dental, Hospitals). Make architectural decisions on what to reuse from existing long-term care systems versus what to build from scratch, iterating rapidly with operations and go-to-market teams.
+skills: Node.js, TypeScript, NestJS, MongoDB, PostgreSQL, Redis, AWS, Terraform
 level: mid
 comp: 
 comp_extras: 
-render_hash: 1c700ea0
+render_hash: 1bbd74d6
 -->
 
 # Software Engineer - Team Growth
@@ -24,9 +24,9 @@ render_hash: 1c700ea0
 
 > Clipboard builds software for managing patient intake, consent, and communication workflows in healthcare settings. The platform operates in the healthcare technology domain, helping medical practices streamline administrative processes like appointment scheduling, patient forms, and secure messaging.
 
-_Build and expand marketplace infrastructure across new verticals (Home Health, Dental, Hospitals) using a full-stack approach. Make architectural decisions balancing reuse of existing systems with new builds, working closely with operations and go-to-market teams to iterate rapidly from zero to production._
+_Build infrastructure and products to expand Clipboard's marketplace into new healthcare verticals (Home Health, Dental, Hospitals). Make architectural decisions on what to reuse from existing long-term care systems versus what to build from scratch, iterating rapidly with operations and go-to-market teams._
 
-<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/NestJS-3B82F6?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
+<img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/NestJS-3B82F6?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
 
 <sub>Posted May 15, 2026</sub>
 

@@ -10,23 +10,23 @@ posted_at: 2026-05-14
 first_seen: 2026-05-14
 first_seen_at: 
 url: https://jobs.lever.co/CesiumAstro/d877e4f4-aa45-4560-ab45-74e6095105fe
-summary: Design and deploy machine learning solutions for distributed processing platforms supporting satellite and airborne communication systems. Work at the intersection of ML and aerospace systems with U.S. export control requirements and active mission-critical constraints.
-skills: Machine Learning, Python, Distributed Systems, Model Deployment, PyTorch, TensorFlow, Kubernetes
+summary: Develop and deploy machine learning solutions for distributed processing platforms supporting satellite and airborne communication systems. Work at the intersection of ML, systems engineering, and space technology with U.S. government export control requirements.
+skills: Machine Learning, Python, Distributed Systems, PyTorch, TensorFlow, Kubernetes, AWS, CUDA
 level: senior
 comp: 
 comp_extras: 
-render_hash: 4c82c519
+render_hash: 900f0379
 -->
 
 # Senior Communications Systems Engineer II
 
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Austin, TX · `Senior` · On-site
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Austin, Texas · `Senior` · On-site
 
 > CesiumAstro develops radio frequency and antenna technologies for satellite communications, focusing on phased array systems that enable improved connectivity and beam steering capabilities. The company operates in the space technology and satellite communications domain, serving both government and commercial customers requiring advanced satellite ground terminals and in-space antenna solutions.
 
-_Design and deploy machine learning solutions for distributed processing platforms supporting satellite and airborne communication systems. Work at the intersection of ML and aerospace systems with U.S. export control requirements and active mission-critical constraints._
+_Develop and deploy machine learning solutions for distributed processing platforms supporting satellite and airborne communication systems. Work at the intersection of ML, systems engineering, and space technology with U.S. government export control requirements._
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square) ![Model Deployment](https://img.shields.io/badge/Model_Deployment-3B82F6?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/PyTorch-3B82F6?style=flat-square" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-3B82F6?style=flat-square" alt="TensorFlow"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/CUDA-3B82F6?style=flat-square" alt="CUDA">
 
 <sub>Posted May 14, 2026</sub>
 

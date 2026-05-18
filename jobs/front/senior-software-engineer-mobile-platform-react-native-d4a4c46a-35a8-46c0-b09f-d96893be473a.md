@@ -10,23 +10,23 @@ posted_at: 2026-05-13
 first_seen: 2026-05-13
 first_seen_at: 
 url: https://jobs.ashbyhq.com/frontcareers/d4a4c46a-35a8-46c0-b09f-d96893be473a
-summary: Build and maintain Front's cross-platform React Native mobile app, diving into native-level performance optimization and iOS/Android API integration. Work with a high-growth B2B platform handling complex customer operations at scale across 9,000+ companies.
-skills: React Native, C/C++, TypeScript, Kotlin, Android NDK, JNI, iOS, Android
+summary: Build and maintain Front's React Native mobile app for Android and iOS, improving performance and user experience. Serve as the cross-platform mobile specialist, diving into native APIs and mentoring other engineers on the Client Platform team.
+skills: React Native, C/C++, TypeScript, Kotlin, Android NDK, JNI, iOS
 level: senior
 comp: 
 comp_extras: 
-render_hash: e14e04b3
+render_hash: d7a46e09
 -->
 
 # Senior Software Engineer, Mobile Platform (React Native)
 
-<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · San Francisco, CA · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
+<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · San Francisco, California · `Senior` · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle">
 
 > Front builds a customer communication platform that centralizes email, chat, and messaging channels into a single inbox for teams. The platform operates in the business software domain, specifically serving customer support, sales, and operations teams that need to manage multi-channel communications.
 
-_Build and maintain Front's cross-platform React Native mobile app, diving into native-level performance optimization and iOS/Android API integration. Work with a high-growth B2B platform handling complex customer operations at scale across 9,000+ companies._
+_Build and maintain Front's React Native mobile app for Android and iOS, improving performance and user experience. Serve as the cross-platform mobile specialist, diving into native APIs and mentoring other engineers on the Client Platform team._
 
-![React Native](https://img.shields.io/badge/React_Native-3B82F6?style=flat-square) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square) ![Android NDK](https://img.shields.io/badge/Android_NDK-3B82F6?style=flat-square) ![JNI](https://img.shields.io/badge/JNI-3B82F6?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-3B82F6?style=flat-square) ![Android](https://img.shields.io/badge/Android-3B82F6?style=flat-square)
+<img src="https://img.shields.io/badge/React_Native-3B82F6?style=flat-square" alt="React Native"> <img src="https://img.shields.io/badge/C%2FC%2B%2B-3B82F6?style=flat-square" alt="C/C++"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Kotlin-3B82F6?style=flat-square" alt="Kotlin"> <img src="https://img.shields.io/badge/Android_NDK-3B82F6?style=flat-square" alt="Android NDK"> <img src="https://img.shields.io/badge/JNI-3B82F6?style=flat-square" alt="JNI"> <img src="https://img.shields.io/badge/iOS-3B82F6?style=flat-square" alt="iOS">
 
 <sub>Posted May 13, 2026</sub>
 
