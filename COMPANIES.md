@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **152 companies** · **329 open roles** (15 new today)
+### **154 companies** · **333 open roles** (13 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -87,7 +87,7 @@ Anduril Industries builds autonomous systems and defense technology using AI, ro
 - [Senior GNC Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/4588656007?gh_jid=4588656007) · Costa Mesa, California · `Senior` · `$168k-$252k` · `Equity` (May 14)
 - [Senior Machine Learning Engineer, RL / Locomotion](https://boards.greenhouse.io/andurilindustries/jobs/5136528007?gh_jid=5136528007) · Costa Mesa, California · `Senior` · `$220k-$336k` · `Equity` (May 14)
 - [Senior Manipulation Engineer (Imitation Learning), Discovery](https://boards.greenhouse.io/andurilindustries/jobs/5136832007?gh_jid=5136832007) · Costa Mesa, California / Washington, D.C. · `Senior` · `$166k-$220k` · `Equity` (May 14)
-- [Senior Quality Engineer, Applied AI](https://boards.greenhouse.io/andurilindustries/jobs/5137803007?gh_jid=5137803007) · Seattle, Washington · `Senior` · `$191k-$253k` · `Equity` (May 14)
+- [Senior Quality Engineer, Applied AI](https://boards.greenhouse.io/andurilindustries/jobs/5137806007?gh_jid=5137806007) · Boston, Massachusetts · `Senior` · `$191k-$253k` · `Equity` (May 14)
 - [Senior Software Engineer, PLM](https://boards.greenhouse.io/andurilindustries/jobs/5138057007?gh_jid=5138057007) · Costa Mesa, California · `Senior` · `$166k—$220k USD` · `Equity` (May 14)
 - [Camera Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5137179007?gh_jid=5137179007) · Lexington, Massachusetts · `Mid` · `$98k-$130k` · `Equity` (May 13)
 - [Principal Technical Lead, AI Robotics](https://boards.greenhouse.io/andurilindustries/jobs/5136544007?gh_jid=5136544007) · Costa Mesa, California · `Principal` · `$254k-$444k` · `Equity` (May 13)
@@ -246,7 +246,7 @@ Bretton AI builds an AI agents platform designed to automate financial crime com
 
 Brex provides financial infrastructure and business banking services for startups and high-growth companies, offering corporate credit cards, business accounts, and software tools to manage cash flow and expenses.
 
-- [Systems, Senior Manager](https://www.brex.com/careers/8550065002?gh_jid=8550065002) · San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$210k-$263k` · `Equity` (May 15)
+- [Systems, Senior Manager](https://www.brex.com/careers/8551699002?gh_jid=8551699002) · Salt Lake City, Utah · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$180k-$225k` · `Equity` (May 15)
 
 ---
 
@@ -353,6 +353,14 @@ Clipboard builds software for managing patient intake, consent, and communicatio
 
 ---
 
+## <a href="https://cockroachlabs.com"><img src="https://www.google.com/s2/favicons?domain=cockroachlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[CockroachLabs](https://cockroachlabs.com)
+
+CockroachLabs builds CockroachDB, a distributed SQL database that runs across multiple cloud regions and data centers while maintaining strong consistency guarantees. The company operates in the database infrastructure and cloud data management domain.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Manager, Revenue Systems](https://www.cockroachlabs.com/careers/job/?gh_jid=7926298) · New York, New York · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$150k—$200k` · `Equity` (May 18)
+
+---
+
 ## <a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Cohere](https://cohere.com)
 
 Cohere develops large language models and AI tools for enterprises to automate tasks, enhance employee capabilities, and generate insights from unstructured data.
@@ -409,6 +417,14 @@ Databricks builds a unified analytics platform that combines data warehousing, d
 David AI is an audio data research company that develops high-quality datasets for speech and conversational AI applications. Their datasets are used by Fortune 100 companies and research labs working on speech recognition, translation, synthesis, and voice interaction systems.
 
 - [Senior Machine Learning Research Engineer](https://jobs.ashbyhq.com/david-ai/76754f39-fb37-4d28-a15c-e8aecd257544) · San Francisco, California · `Senior` (May 15)
+
+---
+
+## <a href="https://csdisco.com"><img src="https://www.google.com/s2/favicons?domain=csdisco.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Disco](https://csdisco.com)
+
+Disco builds software for legal document review and discovery, helping law firms and corporate legal teams manage, analyze, and produce documents during litigation and investigations. The company operates in the legal technology domain, specifically in e-discovery and litigation support.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Compliance Engineer](https://www.csdisco.com/careers-listing?gh_jid=8554956002) · New York, New York · `Senior` · `$155k-$190k` · `Equity` (May 18)
 
 ---
 
@@ -605,6 +621,7 @@ Kikoff provides a credit-building platform that helps users establish or improve
 
 Lambda Labs builds GPU cloud computing infrastructure and hardware systems designed for machine learning, AI, and deep learning workloads. They operate in the cloud computing and AI infrastructure domain, offering on-demand GPU instances, pre-configured deep learning environments, and physical AI workstations for researchers and enterprises.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Software Engineer - Managed Kubernetes](https://jobs.ashbyhq.com/lambda/ed0611f7-7f19-45f4-bef8-56dbae59de15) · Bellevue, Washington / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `Equity` · `Bonus` (May 18)
 - [Security Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6) · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern` · `Equity` (May 14)
 
 ---
@@ -680,8 +697,8 @@ Medal provides a platform for capturing, editing, and sharing video clips from g
 
 Mercury builds banking and financial infrastructure for startups and growth-stage companies, offering services including business accounts, payments, treasury management, and financial operations tools. They operate in the fintech and business banking domain, serving as an alternative to traditional banks for venture-backed companies.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Software Engineer - Treasury](https://job-boards.greenhouse.io/mercury/jobs/5990652004) · San Francisco, California / New York, New York / Portland, Oregon / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$166k-$263k USD (US); CAD $157k-$248k (Canada)` · `Equity` (May 18)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Strategic Finance - GTM](https://job-boards.greenhouse.io/mercury/jobs/5998488004) · San Francisco, California / New York, New York / Portland, Oregon / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$128k-$160k` · `Equity` · `Bonus` (May 18)
+- [Senior Software Engineer - Treasury](https://job-boards.greenhouse.io/mercury/jobs/5990652004) · San Francisco, California / New York, New York / Portland, Oregon / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$166k-$263k USD (US); CAD $157k-$248k (Canada)` · `Equity` (May 18)
+- [Strategic Finance - GTM](https://job-boards.greenhouse.io/mercury/jobs/5998488004) · San Francisco, California / New York, New York / Portland, Oregon / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$128k-$160k` · `Equity` · `Bonus` (May 18)
 
 ---
 
@@ -884,7 +901,7 @@ Planet Labs builds daily satellite imagery and insights used by decision-makers 
 
 Podium builds a customer communications platform that helps local businesses manage interactions across multiple channels including messaging, review management, and customer feedback. The company operates in the business software space, specifically serving small and medium-sized enterprises in industries like home services, healthcare, and retail.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineering Intern](https://job-boards.greenhouse.io/podium81/jobs/7939921) · Lehi, Utah · `Intern` (May 18)
+- [Software Engineering Intern](https://job-boards.greenhouse.io/podium81/jobs/7939921) · Lehi, Utah · `Intern` (May 18)
 
 ---
 
@@ -894,14 +911,6 @@ Ramp builds a corporate expense management platform that handles employee spendi
 
 - [Senior Software Engineer | GTM Platform, Backend](https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 13)
 - [AI Operations Manager | Agentic CX](https://jobs.ashbyhq.com/ramp/a3afd259-ba6b-4eb0-a1b6-05d01dddacd8) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 13)
-
----
-
-## <a href="https://recursion.com"><img src="https://www.google.com/s2/favicons?domain=recursion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Recursion](https://recursion.com)
-
-Recursion builds AI platforms for drug discovery using biological data.
-
-- [Associate Director/Director of Statistical Programming](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7923391) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$200k-$260k` · `Bonus` · `Equity` (May 14)
 
 ---
 
@@ -1069,6 +1078,14 @@ SecurityScorecard provides a cloud-based platform that rates and monitors the cy
 
 ---
 
+## <a href="https://sentry.io"><img src="https://www.google.com/s2/favicons?domain=sentry.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Sentry](https://sentry.io)
+
+Sentry builds error tracking and performance monitoring software that helps developers identify, diagnose, and fix issues in their applications. The platform integrates into web, mobile, and backend applications to capture crashes, exceptions, and performance problems in production environments.
+
+- [Engineering Manager, Machine Learning](https://jobs.ashbyhq.com/sentry/d5a378cc-524d-410b-8c42-2493cee1c657) · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$220k-$280k` · `Equity` · `Bonus` (May 18)
+
+---
+
 ## <a href="https://sievedata.com"><img src="https://www.google.com/s2/favicons?domain=sievedata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Sieve](https://sievedata.com)
 
 Sieve builds infrastructure and tools for processing unstructured data like images, audio, and video at scale, enabling developers to extract structured information and insights from these media types. The company operates in the data infrastructure and machine learning operations space, serving enterprises and developers who need to build data pipelines for computer vision and multimodal AI applications.
@@ -1091,7 +1108,7 @@ Slingshot Aerospace builds software and analytical tools for space situational a
 
 - [Senior Full Stack Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997241004?gh_jid=5997241004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$200k` · `Equity` (May 15)
 - [Senior Python Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997251004?gh_jid=5997251004) · Washington, D.C. · `Senior` · `$150k-$220k` · `Equity` (May 15)
-- [Senior Technical Architect](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004) · Washington, D.C. · `Senior` · `$175k-$250k` · `Equity` (May 15)
+- [Senior Technical Architect](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$250k` (May 15)
 - [Senior Astrodynamics Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5995728004?gh_jid=5995728004) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$150k-$250k` (May 13)
 - [Senior DevOps Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5809580004?gh_jid=5809580004) · Colorado Springs, Colorado · `Senior` · `$136k-$237k` (May 13)
 
@@ -1101,7 +1118,7 @@ Slingshot Aerospace builds software and analytical tools for space situational a
 
 Snowflake is a cloud-based data platform that provides data warehousing, data lakes, and data sharing capabilities across major cloud providers including AWS, Azure, and Google Cloud. The company operates in the enterprise data and analytics domain, enabling organizations to store, process, and analyze large volumes of structured and semi-structured data.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Software Engineer - Container Platform](https://jobs.ashbyhq.com/snowflake/32d18d13-97ee-4e21-b2c8-2e5334caea20) · Menlo Park, California · `Staff` (May 18)
+- [Staff Software Engineer - Container Platform](https://jobs.ashbyhq.com/snowflake/32d18d13-97ee-4e21-b2c8-2e5334caea20) · Menlo Park, California · `Staff` (May 18)
 - [Principal Security Engineer - Threat Intelligence ](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` (May 15)
 - [Software Engineer, Data Governance](https://jobs.ashbyhq.com/snowflake/d8816f3f-89d6-4434-bc24-eaf4169c1d95) · Menlo Park, California · `Senior` (May 15)
 
@@ -1146,8 +1163,8 @@ SpaceX designs and manufactures rockets and spacecraft for transporting cargo an
 - [Sr. Software Engineer (Vehicle Engineering)](https://boards.greenhouse.io/spacex/jobs/8555142002?gh_jid=8555142002) · Hawthorne, California · `Senior` · `$160k-$225k` · `Equity` · `Bonus` (May 18)
 - [Automation & Controls Engineer, Solar Cell Factory (Starlink)](https://boards.greenhouse.io/spacex/jobs/8545793002?gh_jid=8545793002) · Bastrop, Texas · `Junior` (May 15)
 - [Data & Control Systems Engineer](https://boards.greenhouse.io/spacex/jobs/8552660002?gh_jid=8552660002) · Cape Canaveral, Florida · `Junior` (May 15)
-- [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002) · Hawthorne, California · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
-- [Wireless Firmware Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8546713002?gh_jid=8546713002) · Sunnyvale, California · `Junior` · `$135k-$185k` · `Equity` · `Bonus` (May 15)
+- [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553080002?gh_jid=8553080002) · Starbase, Texas · `Junior` (May 15)
+- [Wireless Firmware Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8546722002?gh_jid=8546722002) · Redmond, Washington / Remote · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
 - [Embedded Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Product Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543671002?gh_jid=8543671002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543668002?gh_jid=8543668002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
@@ -1307,7 +1324,7 @@ Vapi builds an API platform that enables developers to create and deploy voice A
 
 Varda Space Industries builds small spacecraft designed to conduct materials research and manufacturing experiments in microgravity orbits, then return the products to Earth for collection and analysis. The company operates in the commercial spaceflight and space-based manufacturing sectors.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Pharma Applications Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7738472003) · El Segundo, California · `Mid` · `$120k-$160k` · `Equity` (May 18)
+- [Pharma Applications Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7738472003) · El Segundo, California · `Mid` · `$120k-$160k` · `Equity` (May 18)
 
 ---
 
@@ -1323,8 +1340,9 @@ Vast builds next-generation habitats for long-term human presence in low-Earth o
 
 Waymo builds autonomous vehicle technology for transportation.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Staff Android Engineer, In-Car Experience ](https://careers.withwaymo.com/jobs?gh_jid=7932205) · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$298k-$368k` · `Equity` · `Bonus` (May 18)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Staff Regulatory and Compliance Systems Engineer](https://careers.withwaymo.com/jobs?gh_jid=7926270) · Mountain View, California / San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$272k—$336k` · `Equity` · `Bonus` (May 18)
 - [Senior Software Engineer, PUDO Experience](https://careers.withwaymo.com/jobs?gh_jid=7902125) · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$213k-$263k` · `Equity` · `Bonus` (May 18)
+- [Senior Staff Android Engineer, In-Car Experience ](https://careers.withwaymo.com/jobs?gh_jid=7932205) · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Staff` · `$298k-$368k` · `Equity` · `Bonus` (May 18)
 - [Software Engineer, Fleet Monitoring](https://careers.withwaymo.com/jobs?gh_jid=7939542) · San Francisco, California / Mountain View, California · `Senior` · `$175k-$215k` · `Equity` · `Bonus` (May 18)
 - [Software Engineer, Logs Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=7901924) · Mountain View, California / San Francisco, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$175k-$215k` · `Equity` · `Bonus` (May 18)
 - [Software Engineer Weather Monitoring](https://careers.withwaymo.com/jobs?gh_jid=7939376) · San Francisco, California / Mountain View, California · `Mid` · `$175k-$215k` · `Equity` · `Bonus` (May 18)
