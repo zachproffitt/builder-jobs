@@ -78,7 +78,7 @@ Anduril Industries builds autonomous systems and defense technology using AI, ro
 - [Senior GNC Engineer, Robotics](jobs/anduril-industries/senior-gnc-engineer-robotics-4588656007.md) · Costa Mesa, California · `Senior` · `$168k-$252k` · `Equity` (May 14)
 - [Senior Machine Learning Engineer, RL / Locomotion](jobs/anduril-industries/senior-machine-learning-engineer-rl-locomotion-5136528007.md) · Costa Mesa, California · `Senior` · `$220k-$336k` · `Equity` (May 14)
 - [Senior Manipulation Engineer (Imitation Learning), Discovery](jobs/anduril-industries/senior-manipulation-engineer-imitation-learning-discovery-5136832007.md) · Costa Mesa, California / Washington, D.C. · `Senior` · `$166k-$220k` · `Equity` (May 14)
-- [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai.md) · Boston, Massachusetts / Seattle, Washington · `Senior` · `$191k-$253k` · `Equity` (May 14)
+- [Senior Quality Engineer, Applied AI](jobs/anduril-industries/senior-quality-engineer-applied-ai.md) · Seattle, Washington / Boston, Massachusetts · `Senior` · `$191k-$253k` · `Equity` (May 14)
 - [Senior Software Engineer, PLM](jobs/anduril-industries/senior-software-engineer-plm-5138057007.md) · Costa Mesa, California · `Senior` · `$166k—$220k USD` · `Equity` (May 14)
 - [Camera Test Engineer](jobs/anduril-industries/camera-test-engineer-5137179007.md) · Lexington, Massachusetts · `Mid` · `$98k-$130k` · `Equity` (May 13)
 - [Principal Technical Lead, AI Robotics](jobs/anduril-industries/principal-technical-lead-ai-robotics-5136544007.md) · Costa Mesa, California · `Principal` · `$254k-$444k` · `Equity` (May 13)
@@ -86,7 +86,7 @@ Anduril Industries builds autonomous systems and defense technology using AI, ro
 - [Senior Software Engineer, Intelligence Systems](jobs/anduril-industries/senior-software-engineer-intelligence-systems-5136534007.md) · Reston, Virginia · `Senior` · `$191k-$253k` · `Equity` (May 13)
 - [Software Engineer](jobs/anduril-industries/software-engineer-5136753007.md) · Boston, Massachusetts · `Mid` · `$166k-$220k` · `Equity` (May 13)
 - [Software Engineer, Full-stack](jobs/anduril-industries/software-engineer-full-stack-5104521007.md) · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity` (May 13)
-- [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions.md) · Seattle, Washington / Costa Mesa, California · `Staff` · `$220k—$292k USD` · `Equity` (May 13)
+- [Staff Software Engineer, Production Solutions](jobs/anduril-industries/staff-software-engineer-production-solutions.md) · Costa Mesa, California / Seattle, Washington · `Staff` · `$220k–$292k` · `Equity` (May 13)
 
 ---
 
@@ -126,8 +126,6 @@ Applied Intuition builds physical AI systems automating machines in automotive, 
 ---
 
 ## <a href="https://apptronik.com"><img src="https://www.google.com/s2/favicons?domain=apptronik.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Apptronik](https://apptronik.com)
-
-# Apptronik
 
 Apptronik builds Apollo, a general-purpose humanoid robot designed for commercial deployment in logistics, manufacturing, and other labor-intensive industries. The company focuses on developing robots that can perform physical tasks in human-centered environments.
 
@@ -185,8 +183,6 @@ Benchling builds a cloud-based platform for life sciences research that provides
 ---
 
 ## <a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Bend Studio](https://bendstudio.com)
-
-# Bend Studio
 
 Bend Studio develops video games, primarily known for the Days Gone franchise, a post-apocalyptic action-adventure series for PlayStation platforms. The studio is based in Bend, Oregon, and operates in the video game development industry.
 
@@ -545,8 +541,6 @@ IonQ builds trapped ion quantum computing systems, cloud access, and enterprise 
 
 ## <a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Joyn Bio](https://joyn.bio)
 
-# Joyn Bio
-
 Joyn Bio develops genetically modified crops that produce their own nitrogen fertilizer through engineered symbiotic relationships with soil microbes, reducing the need for synthetic fertilizer inputs. The company operates in agricultural biotechnology, focusing on sustainable crop production for commodity crops like corn.
 
 - [Senior Engineer III, Small Molecules – High Throughput Screening & Technology](jobs/joyn-bio/senior-engineer-iii-small-molecules-high-throughput-screening-technology-5137770007.md) · Boston, Massachusetts · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$180k` · `Equity` (May 14)
@@ -588,8 +582,6 @@ LaunchDarkly builds a feature management platform that allows software teams to 
 
 ## <a href="https://lightmatter.com"><img src="https://www.google.com/s2/favicons?domain=lightmatter.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Lightmatter](https://lightmatter.com)
 
-# Lightmatter
-
 Lightmatter builds optical processors that use photons instead of electrons to perform computations, targeting applications in artificial intelligence and machine learning workloads. The company operates in the semiconductor and specialized computing hardware domain, developing alternatives to traditional electronic processors for data-intensive tasks.
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Embedded Software Engineer, Lasers](jobs/lightmatter/embedded-software-engineer-lasers-5217421008.md) · Mountain View, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `$140k-$160k` · `Equity` (May 18)
@@ -623,8 +615,6 @@ Marqeta builds a card-issuing platform that enables companies to create and mana
 ---
 
 ## <a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[May Mobility](https://maymobility.com)
-
-# May Mobility
 
 May Mobility builds autonomous vehicle software and operates self-driving shuttle services in the public transportation domain, offering on-demand microtransit solutions in cities and communities.
 
@@ -690,8 +680,6 @@ Nash builds software that plans, dispatches, and optimizes logistics operations 
 
 ## <a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Natera](https://natera.com)
 
-# Natera
-
 Natera builds genetic testing and cell-free DNA analysis platforms used for prenatal screening, cancer monitoring, and organ transplant rejection detection. The company operates in the clinical diagnostics and laboratory testing domain, providing molecular tests that analyze DNA fragments in blood samples.
 
 - [DevOps Engineer](jobs/natera/devops-engineer-5990785004.md) · US Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 15)
@@ -728,8 +716,6 @@ Nuro builds autonomous delivery robots designed to transport goods on public roa
 ---
 
 ## <a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Oklo](https://oklo.com)
-
-# Oklo
 
 Oklo designs and develops micro nuclear reactors intended for deployment in remote locations and industrial applications that require compact, modular power generation. The company operates in the advanced nuclear energy sector, focusing on reactor design, fuel recycling, and regulatory licensing to commercialize small modular reactor (SMR) technology.
 
@@ -1025,8 +1011,6 @@ SingleStore builds a distributed SQL database designed to handle both transactio
 
 ## <a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Slingshot Aerospace](https://slingshotaerospace.com)
 
-# Slingshot Aerospace
-
 Slingshot Aerospace builds software and analytical tools for space situational awareness, focusing on tracking and predicting the trajectories of objects in orbit, including satellites and debris. The company operates in the commercial space domain, serving government agencies and private space operators.
 
 - [Senior Full Stack Engineer](jobs/slingshot-aerospace/senior-full-stack-engineer-5997241004.md) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$160k-$200k` · `Equity` (May 15)
@@ -1289,8 +1273,6 @@ Workato is an enterprise integration and automation platform that connects busin
 ---
 
 ## <a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workleap](https://workleap.com)
-
-# Workleap
 
 Workleap builds software for employee engagement and human resources management, including tools for surveys, recognition, and performance management. The company operates in the HR tech and workplace software domain.
 
