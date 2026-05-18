@@ -2,13 +2,24 @@
 
 For engineers who build. Roles are scraped hourly from YC startups, VC-backed companies, and major tech curated across 20+ industries — classified by Claude, and removed after 14 days.
 
-### **256 open roles** (7 new today) &nbsp;·&nbsp; 1640 companies searched
+### **257 open roles** (8 new today) &nbsp;·&nbsp; 1640 companies searched
 
 [How it works →](https://github.com/zachproffitt/builder-jobs-scraper) &nbsp;·&nbsp; [Remote only →](REMOTE.md)
 
 <br>
 
 ## May 18, 2026
+
+### [Senior Software Engineer](jobs/hubs/senior-software-engineer-2f758815-79ca-43bd-ba0e-cab053e84867.md)
+<a href="https://hubs.com"><img src="https://www.google.com/s2/favicons?domain=hubs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hubs** · Nashua, New Hampshire · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and develop scalable .NET applications supporting diverse users across Protolabs' organization. Collaborate with cross-functional teams to deliver high-quality solutions aligned with business needs. · [Apply →](https://jobs.lever.co/protolabs/2f758815-79ca-43bd-ba0e-cab053e84867)_
+
+<img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#">
+
+<sub>May 18, 2026 at 11:30 UTC</sub>
+
+---
 
 ### [Production Engineer](jobs/similarweb/production-engineer-7938197.md)
 <a href="https://similarweb.com"><img src="https://www.google.com/s2/favicons?domain=similarweb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Similarweb** · Tel Aviv · `Senior`
@@ -135,7 +146,7 @@ _Build multidisciplinary design analysis and optimization workflows for next-gen
 
 ---
 
-### [Software Engineer (SDE 2) - Full Stack, Lakeflow](jobs/databricks/software-engineer-sde-2-full-stack-lakeflow-8530796002.md)
+### [Software Engineer (SDE 2) - Full Stack (Frontend), Lakeflow](jobs/databricks/software-engineer-sde-2-full-stack-frontend-lakeflow-8530796002.md)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote · `Mid`
 
 _Build UI features and reusable components for Lakeflow Connect, Databricks' point-and-click data ingestion platform, enabling customers to configure and monitor connectors across enterprise applications, databases, and cloud storage. Work across the full stack from API integration to polished frontend delivery, collaborating with product, design, and backend teams to embed Connect experiences into Dashboards, Notebooks, SQL, and AI surfaces. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002)_

@@ -1,7 +1,7 @@
 <!--
 id: greenhouse-databricks-8530796002
 company: Databricks
-title: Software Engineer (SDE 2) - Full Stack, Lakeflow
+title: Software Engineer (SDE 2) - Full Stack (Frontend), Lakeflow
 source: greenhouse
 location: Remote
 remote: Not specified
@@ -15,10 +15,10 @@ skills: React, TypeScript, JavaScript, HTML, CSS, Node.js, AWS
 level: mid
 comp: 
 comp_extras: 
-render_hash: 685c53cf
+render_hash: 4292b7ab
 -->
 
-# Software Engineer (SDE 2) - Full Stack, Lakeflow
+# Software Engineer (SDE 2) - Full Stack (Frontend), Lakeflow
 
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote · `Mid`
 
