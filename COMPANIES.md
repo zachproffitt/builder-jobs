@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **141 companies** · **300 open roles** (54 new today)
+### **142 companies** · **302 open roles** (56 new today)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -648,6 +648,14 @@ Metriport builds an API platform that enables healthcare applications to access 
 
 ---
 
+## <a href="https://moneylion.com"><img src="https://www.google.com/s2/favicons?domain=moneylion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[MoneyLion](https://moneylion.com)
+
+MoneyLion is a digital financial services platform that provides personal finance management, investment services, and credit products to consumers. The company operates in the fintech space, offering tools for budgeting, investing with fractional shares, and access to credit through partnerships with banks and lenders.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Backend Engineer](jobs/moneylion/senior-backend-engineer-digital-ee505db7-dd79-4d7b-86b4-2b1a78427bfd.md) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
+
+---
+
 ## <a href="https://montecarlodata.com"><img src="https://www.google.com/s2/favicons?domain=montecarlodata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Monte Carlo](https://montecarlodata.com)
 
 Monte Carlo builds a data reliability platform that helps organizations monitor, test, and fix data quality issues across their data pipelines and warehouses. The company serves data teams and analytics organizations that need to ensure their data assets are accurate, complete, and available for business intelligence and decision-making.
@@ -850,6 +858,7 @@ Recursion builds AI platforms for drug discovery using biological data.
 
 Reddit builds and operates an online discussion platform where users create communities (subreddits) centered around topics of interest, post content, and engage in threaded conversations. The platform generates revenue primarily through advertising and premium subscription services.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer, Ads](jobs/reddit/software-engineer-ads.md) · Remote / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$164k–$229k` · `Equity` · `Bonus` (May 18)
 - [Director of Safety ML](jobs/reddit/director-of-safety-ml-7926627.md) · San Francisco, California / Los Angeles, California / New York, New York / Chicago, Illinois / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$276k–$387k` · `Equity` · `Bonus` (May 15)
 - [Senior Data Science Manager, Marketing](jobs/reddit/senior-data-science-manager-marketing-7931010.md) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` (May 15)
 - [Staff Data Scientist, Consumer](jobs/reddit/staff-data-scientist-consumer-7931007.md) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` (May 15)
@@ -1077,7 +1086,7 @@ SpaceX designs and manufactures rockets and spacecraft for transporting cargo an
 - [Automation & Controls Engineer, Solar Cell Factory (Starlink)](jobs/spacex/automation-controls-engineer-solar-cell-factory-starlink-8545793002.md) · Bastrop, Texas · `Junior` (May 15)
 - [Data & Control Systems Engineer](jobs/spacex/data-control-systems-engineer-8552660002.md) · Cape Canaveral, Florida · `Junior` (May 15)
 - [Full Stack Software Engineer, Data](jobs/spacex/full-stack-software-engineer-data.md) · Starbase, Texas / Hawthorne, California · `Junior` (May 15)
-- [Wireless Firmware Engineer (Starlink Mobile)](jobs/spacex/wireless-firmware-engineer-starlink-mobile.md) · Sunnyvale, California / Redmond, Washington / Remote · `Junior` · `$135k-$185k` · `Equity` · `Bonus` (May 15)
+- [Wireless Firmware Engineer (Starlink Mobile)](jobs/spacex/wireless-firmware-engineer-starlink-mobile.md) · Redmond, Washington / Remote / Sunnyvale, California · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
 - [Embedded Security Engineer (Starlink)](jobs/spacex/embedded-security-engineer-starlink-8543670002.md) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Product Security Engineer (Starlink)](jobs/spacex/product-security-engineer-starlink-8543671002.md) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Security Software Engineer (Starlink)](jobs/spacex/security-software-engineer-starlink-8543668002.md) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
