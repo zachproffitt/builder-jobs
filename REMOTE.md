@@ -676,7 +676,7 @@ _Build and productionize cutting-edge GenAI applications—RAG systems, multi-ag
 ---
 
 ### [Vice President Site Reliability Engineering (Data Centers)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)
-<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
+<a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager`
 
 _Lead a specialized SRE team designing, deploying, and maintaining automation platforms and infrastructure-as-code systems across hybrid cloud and on-prem data center environments. Establish IaC governance standards, optimize configuration management workflows, and build self-service platforms that enhance engineering velocity while managing complex hybrid infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)_
 
@@ -954,23 +954,23 @@ _Build and extend Airbnb's semantic layer and data transformation platform that 
 
 ---
 
-### [Manager, Cyber Threat Intelligence](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
-
-_Lead a team of threat intelligence analysts and security engineers to conduct cyber threat research, vulnerability analysis, and adversary tracking for Anduril's defense systems and infrastructure. Build and maintain threat intelligence platforms, signature systems, and data integration pipelines while managing complex investigations into nation-state and supply chain threats targeting the defense industrial base. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/YARA-3B82F6?style=flat-square" alt="YARA"> <img src="https://img.shields.io/badge/Snort-3B82F6?style=flat-square" alt="Snort"> <img src="https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square" alt="Threat Intelligence"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
-
-<sub>May 14, 2026</sub>
-
----
-
 ### [Software Engineer (Ray Core)](https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882)
 <a href="https://anyscale.com"><img src="https://www.google.com/s2/favicons?domain=anyscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anyscale** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
 
 _Build and optimize the Ray C++ distributed computing backend, including the scheduler, runtime, memory subsystems, and fault tolerance mechanisms. Lead architectural improvements and testing infrastructure for a system powering large-scale ML applications at companies like OpenAI and Uber. · [Apply →](https://jobs.ashbyhq.com/anyscale/73a973b1-6377-4144-a6e5-610b78719882)_
 
 <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/C-3B82F6?style=flat-square" alt="C"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/GPU_Programming-3B82F6?style=flat-square" alt="GPU Programming"> <img src="https://img.shields.io/badge/Ray-3B82F6?style=flat-square" alt="Ray"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/Linux_Kernel-3B82F6?style=flat-square" alt="Linux Kernel">
+
+<sub>May 14, 2026</sub>
+
+---
+
+### [Manager, Cyber Threat Intelligence](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` · `$129k—$220k` · `Equity`
+
+_Lead a team of threat intelligence analysts and security engineers to conduct cyber threat research, vulnerability analysis, and adversary tracking for Anduril's defense systems and infrastructure. Build and maintain threat intelligence platforms, signature systems, and data integration pipelines while managing complex investigations into nation-state and supply chain threats targeting the defense industrial base. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5137718007?gh_jid=5137718007)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/YARA-3B82F6?style=flat-square" alt="YARA"> <img src="https://img.shields.io/badge/Snort-3B82F6?style=flat-square" alt="Snort"> <img src="https://img.shields.io/badge/Threat_Intelligence-3B82F6?style=flat-square" alt="Threat Intelligence"> <img src="https://img.shields.io/badge/TS%2FSCI_Clearance-3B82F6?style=flat-square" alt="TS/SCI Clearance">
 
 <sub>May 14, 2026</sub>
 

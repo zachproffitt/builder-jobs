@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **168 companies** · **367 open roles** (123 new)
+### **168 companies** · **366 open roles** (122 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -83,8 +83,9 @@ Amplitude builds a product analytics platform that helps companies track, measur
 
 Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5134293007?gh_jid=5134293007) · Costa Mesa, California · `Staff` · `$191k-$253k` · `Equity` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Firmware Engineer in Test ](https://boards.greenhouse.io/andurilindustries/jobs/5080731007?gh_jid=5080731007) · Costa Mesa, California · `Senior` · `$191k–$253k` · `Equity` (May 19)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5140974007?gh_jid=5140974007) · Boston, Massachusetts · `Senior` · `$16k–$220k` · `Equity` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5046465007?gh_jid=5046465007) · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Instrumentation Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5086889007?gh_jid=5086889007) · Costa Mesa, California · `Senior` · `$146k–$208k` · `Equity` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Manager, Manufacturing Test Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5140918007?gh_jid=5140918007) · Costa Mesa, California · `Manager` · `$146k—$194k` · `Equity` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer, Discovery](https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007) · Costa Mesa, California · `Senior` · `$166k-$253k` · `Equity` (May 18)
@@ -452,6 +453,7 @@ Cursor builds an AI-powered code editor that integrates large language models di
 
 Databricks builds a unified analytics platform that combines data warehousing, data engineering, and machine learning capabilities on top of an open lakehouse architecture. The company operates in the data and analytics infrastructure domain, serving enterprises that need to manage, process, and derive insights from large-scale data workloads.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8419271002) · Washington, D.C. / Maryland / Virginia · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$180k—$248k` · `Equity` · `Bonus` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Sr. Staff Software Engineer - Managed Tables ](https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002) · Mountain View, California · `Staff` · `$228k-$314k` · `Equity` · `Bonus` (May 19)
 - [Software Engineer (SDE 2) - Full Stack (Frontend), Lakeflow](https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` (May 17)
 - [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> (May 15)
@@ -541,9 +543,7 @@ Front builds a customer communication platform that centralizes email, chat, and
 
 ---
 
-## <a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Galaxy Digital](https://galaxydigital.io)
-
-Galaxy Digital is a merchant bank and investment firm that builds financial products and infrastructure for the digital assets and cryptocurrency ecosystem. The company operates across multiple domains including asset management, trading, lending, and venture capital investing, primarily serving institutional and professional clients in the blockchain and cryptocurrency space.
+## <a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Galaxy](https://galaxy.com)
 
 - [Vice President Site Reliability Engineering (Data Centers)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004) · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Manager` (May 15)
 
@@ -861,17 +861,6 @@ Nuro builds autonomous delivery robots designed to transport goods on public roa
 
 ---
 
-## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
-
-Nvidia designs and manufactures graphics processing units (GPUs) and system-on-chip processors used in data centers, gaming, professional visualization, and artificial intelligence applications. The company also develops software platforms and frameworks for accelerated computing across industries including cloud infrastructure, autonomous vehicles, and scientific research.
-
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Quantum Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) · Santa Clara, California · `Intern` · `$20-$71/hour` (May 19)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Principal Engineer - System Software GPU Server](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer---System-Software-GPU-Server_JR2018082) · Santa Clara, California · `Principal` · `$272k-$431.25k` · `Equity` (May 19)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior System Software Engineer – Data Center GPU Compute Diagnostics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2018218) · Durham, North Carolina · `Senior` · `$224k-$356.5k` · `Equity` (May 19)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior System Software Engineer, Automotive Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Automotive-Performance_JR2017705) · 2 Locations · `Senior` · `$224k-$431.25k` · `Equity` (May 19)
-
----
-
 ## <a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Oklo](https://oklo.com)
 
 Oklo designs and develops micro nuclear reactors intended for deployment in remote locations and industrial applications that require compact, modular power generation. The company operates in the advanced nuclear energy sector, focusing on reactor design, fuel recycling, and regulatory licensing to commercialize small modular reactor (SMR) technology.
@@ -1014,6 +1003,14 @@ Podium builds a customer communications platform that helps local businesses man
 PsiQuantum builds quantum computing systems designed to solve complex scientific and industrial problems.
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Analog / Mixed-Signal IC Design Engineer](https://www.psiquantum.com/apply?gh_jid=7738656003) · Palo Alto, California · `Senior` · `$145k-$197k USD` · `Equity` (May 19)
+
+---
+
+## <a href="https://ptc.com"><img src="https://www.google.com/s2/favicons?domain=ptc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[PTC](https://ptc.com)
+
+PTC develops software for product lifecycle management, computer-aided design, and Internet of Things applications, serving manufacturing and industrial companies worldwide.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Tech Lead (Java Full Stack)](https://ptc.wd1.myworkdayjobs.com/PTC/job/Tech-Lead--Java-Full-Stack-_JR112236) · `Senior` (May 19)
 
 ---
 
