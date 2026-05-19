@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **115 open roles** (3 new in last 24h)
+### **115 open roles** (41 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -17,7 +17,7 @@ _Design, harden, and automate security systems and controls across the NEAR ecos
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Bash-3B82F6?style=flat-square" alt="Bash"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Okta-3B82F6?style=flat-square" alt="Okta"> <img src="https://img.shields.io/badge/Entra-3B82F6?style=flat-square" alt="Entra"> <img src="https://img.shields.io/badge/SOC_II_Type_2-3B82F6?style=flat-square" alt="SOC II Type 2">
 
-<sub>May 19, 2026 at 00:19 UTC</sub>
+<sub>May 19, 2026</sub>
 
 ---
 
@@ -28,7 +28,7 @@ _Own the technical infrastructure for enterprise sales operations — CPQ, accou
 
 <img src="https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square" alt="Salesforce"> <img src="https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square" alt="Snowflake"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/CPQ-3B82F6?style=flat-square" alt="CPQ"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Reverse_ETL-3B82F6?style=flat-square" alt="Reverse ETL"> <img src="https://img.shields.io/badge/Workato-3B82F6?style=flat-square" alt="Workato"> <img src="https://img.shields.io/badge/Apex-3B82F6?style=flat-square" alt="Apex">
 
-<sub>May 19, 2026 at 00:19 UTC</sub>
+<sub>May 19, 2026</sub>
 
 ---
 
@@ -39,13 +39,24 @@ _Build and ship backend features in a Django monolith powering document viewing,
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Django-3B82F6?style=flat-square" alt="Django"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Redis-3B82F6?style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/Celery-3B82F6?style=flat-square" alt="Celery"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform"> <img src="https://img.shields.io/badge/AmazonMQ-3B82F6?style=flat-square" alt="AmazonMQ">
 
-<sub>May 19, 2026 at 00:19 UTC</sub>
+<sub>May 19, 2026</sub>
 
 ---
 
 <br>
 
 ## May 18, 2026
+
+### [Senior IT Engineer](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)
+<a href="https://abridge.com"><img src="https://www.google.com/s2/favicons?domain=abridge.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abridge** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` · `Bonus`
+
+_Design and implement enterprise automation workflows for user provisioning, access management, and SaaS integrations across Google Workspace, Slack, GitHub, and other core systems. Work in a HIPAA-compliant, SOC 2-audited healthcare environment where you'll build compliance automation and IAM controls at scale. · [Apply →](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Google_Workspace-3B82F6?style=flat-square" alt="Google Workspace"> <img src="https://img.shields.io/badge/Slack-3B82F6?style=flat-square" alt="Slack"> <img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square" alt="GitHub"> <img src="https://img.shields.io/badge/Okta-3B82F6?style=flat-square" alt="Okta"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
+
+<sub>May 18, 2026</sub>
+
+---
 
 ### [Full-Stack Engineer - Production Planning](https://job-boards.greenhouse.io/afresh/jobs/5998416004)
 <a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$130k-$195k`
@@ -75,17 +86,6 @@ _Build and maintain the foundational infrastructure and tooling that powers Afre
 _Build scalable data pipelines and infrastructure to ingest, process, and synchronize multimodal sensor data, video, and telemetry from a fleet of deployed humanoid robots. Handle the technical challenges of time-synchronizing high-frequency data streams and optimizing storage formats for ML training and fleet analytics at scale. · [Apply →](https://www.agilityrobotics.com/about/job-post?gh_jid=5988723004)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Java-3B82F6?style=flat-square" alt="Java"> <img src="https://img.shields.io/badge/Scala-3B82F6?style=flat-square" alt="Scala"> <img src="https://img.shields.io/badge/Spark-3B82F6?style=flat-square" alt="Spark"> <img src="https://img.shields.io/badge/Kafka-3B82F6?style=flat-square" alt="Kafka"> <img src="https://img.shields.io/badge/Flink-3B82F6?style=flat-square" alt="Flink"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes">
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Senior IT Engineer](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)
-<a href="https://abridge.com"><img src="https://www.google.com/s2/favicons?domain=abridge.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abridge** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` · `Bonus`
-
-_Design and implement enterprise automation workflows for user provisioning, access management, and SaaS integrations across Google Workspace, Slack, GitHub, and other core systems. Work in a HIPAA-compliant, SOC 2-audited healthcare environment where you'll build compliance automation and IAM controls at scale. · [Apply →](https://jobs.ashbyhq.com/Abridge/cf31374d-65a1-4f26-9fa5-da9cc4312dc0)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Google_Workspace-3B82F6?style=flat-square" alt="Google Workspace"> <img src="https://img.shields.io/badge/Slack-3B82F6?style=flat-square" alt="Slack"> <img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square" alt="GitHub"> <img src="https://img.shields.io/badge/Okta-3B82F6?style=flat-square" alt="Okta"> <img src="https://img.shields.io/badge/Terraform-3B82F6?style=flat-square" alt="Terraform">
 
 <sub>May 18, 2026</sub>
 
@@ -234,23 +234,23 @@ _Build and own the datasets, dashboards, and automated systems that power Mercur
 
 ---
 
-### [Senior Backend Engineer](https://jobs.ashbyhq.com/gen-digital/ee505db7-dd79-4d7b-86b4-2b1a78427bfd)
-<a href="https://moneylion.com"><img src="https://www.google.com/s2/favicons?domain=moneylion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MoneyLion** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Design and implement microservices and RESTful APIs powering MoneyLion's fintech platform, serving millions of users across consumer, enterprise, and media products. Lead architecture decisions, mentor teams, and ensure compliance with financial regulations and security standards at scale. · [Apply →](https://jobs.ashbyhq.com/gen-digital/ee505db7-dd79-4d7b-86b4-2b1a78427bfd)_
-
-<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Django-3B82F6?style=flat-square" alt="Django"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square" alt="MongoDB"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square" alt="RESTful APIs"> <img src="https://img.shields.io/badge/fintech%2Ffinancial_regulation-3B82F6?style=flat-square" alt="fintech/financial regulation">
-
-<sub>May 18, 2026</sub>
-
----
-
 ### [Junior Applied Forward Deployed Engineer (FDE)](https://jobs.ashbyhq.com/montecarlodata/be0320e9-f13f-4470-80a1-db9b8c9a6bb2)
 <a href="https://montecarlodata.com"><img src="https://www.google.com/s2/favicons?domain=montecarlodata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Monte Carlo** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Junior` · `Equity`
 
 _Build customer-specific integrations and connectors for data platforms like Snowflake and Databricks by prototyping in production environments, then feed learnings back to the core product team. You'll own end-to-end deployment and integration work in live enterprise environments from day one. · [Apply →](https://jobs.ashbyhq.com/montecarlodata/be0320e9-f13f-4470-80a1-db9b8c9a6bb2)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/Snowflake-3B82F6?style=flat-square" alt="Snowflake"> <img src="https://img.shields.io/badge/Databricks-3B82F6?style=flat-square" alt="Databricks"> <img src="https://img.shields.io/badge/Salesforce-3B82F6?style=flat-square" alt="Salesforce">
+
+<sub>May 18, 2026</sub>
+
+---
+
+### [Senior Backend Engineer](https://jobs.ashbyhq.com/gen-digital/ee505db7-dd79-4d7b-86b4-2b1a78427bfd)
+<a href="https://moneylion.com"><img src="https://www.google.com/s2/favicons?domain=moneylion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MoneyLion** · New York, New York · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and implement microservices and RESTful APIs powering MoneyLion's fintech platform, serving millions of users across consumer, enterprise, and media products. Lead architecture decisions, mentor teams, and ensure compliance with financial regulations and security standards at scale. · [Apply →](https://jobs.ashbyhq.com/gen-digital/ee505db7-dd79-4d7b-86b4-2b1a78427bfd)_
+
+<img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Django-3B82F6?style=flat-square" alt="Django"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square" alt="MongoDB"> <img src="https://img.shields.io/badge/Docker-3B82F6?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/RESTful_APIs-3B82F6?style=flat-square" alt="RESTful APIs"> <img src="https://img.shields.io/badge/fintech%2Ffinancial_regulation-3B82F6?style=flat-square" alt="fintech/financial regulation">
 
 <sub>May 18, 2026</sub>
 
@@ -378,11 +378,11 @@ _Own SecurityScorecard's full revenue operations function while architecting and
 ---
 
 ### [Offensive Security Engineer, Red Team ](https://jobs.ashbyhq.com/goteleport/3835d711-7511-473c-847f-a16e634de556)
-<a href="https://goteleport.com"><img src="https://www.google.com/s2/favicons?domain=goteleport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teleport** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `Equity`
+<a href="https://goteleport.com"><img src="https://www.google.com/s2/favicons?domain=goteleport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teleport** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid`
 
-_Build red team tooling and conduct offensive security operations against Teleport's cloud infrastructure to identify exploitation paths and security gaps. Work with defense teams to improve detections in Panther, Wiz, and Jamf, and provide security feedback on cloud architecture. · [Apply →](https://jobs.ashbyhq.com/goteleport/3835d711-7511-473c-847f-a16e634de556)_
+_Develop offensive security capabilities and conduct red team operations against Teleport's cloud infrastructure to identify and remediate security gaps. Work with cross-functional teams to integrate detections into security platforms and improve cloud architecture. · [Apply →](https://jobs.ashbyhq.com/goteleport/3835d711-7511-473c-847f-a16e634de556)_
 
-<img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Red_Team-3B82F6?style=flat-square" alt="Red Team"> <img src="https://img.shields.io/badge/Offensive_Security-3B82F6?style=flat-square" alt="Offensive Security"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP">
+<img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Red_Team_Operations-3B82F6?style=flat-square" alt="Red Team Operations"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/Rust-3B82F6?style=flat-square" alt="Rust"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Cloud_Security_Architecture-3B82F6?style=flat-square" alt="Cloud Security Architecture"> <img src="https://img.shields.io/badge/Offensive_Security-3B82F6?style=flat-square" alt="Offensive Security">
 
 <sub>May 18, 2026</sub>
 
@@ -818,23 +818,23 @@ _Lead the design of secure, scalable application and data platforms across backe
 
 ---
 
-### [Software Development Engineer in Test](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)
-<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
-
-_Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
-
-<img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jest-3B82F6?style=flat-square" alt="Jest"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/REST_API_testing-3B82F6?style=flat-square" alt="REST API testing"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Principal Security Engineer - Threat Intelligence ](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)
 <a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal`
 
 _Build and operationalize threat intelligence systems and AI-assisted workflows that identify, track, and defend against threat actors targeting Snowflake and its customers. Engineer automation, collection pipelines, and analyst tooling to scale intelligence analysis while maintaining quality and driving security decision-making across the enterprise. · [Apply →](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)_
 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Go-3B82F6?style=flat-square" alt="Go"> <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Azure-3B82F6?style=flat-square" alt="Azure"> <img src="https://img.shields.io/badge/GCP-3B82F6?style=flat-square" alt="GCP"> <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=flat-square" alt="Machine Learning"> <img src="https://img.shields.io/badge/OSINT-3B82F6?style=flat-square" alt="OSINT">
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Software Development Engineer in Test](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)
+<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior`
+
+_Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
+
+<img src="https://img.shields.io/badge/Playwright-3B82F6?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jest-3B82F6?style=flat-square" alt="Jest"> <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/AWS-3B82F6?style=flat-square" alt="AWS"> <img src="https://img.shields.io/badge/Datadog-3B82F6?style=flat-square" alt="Datadog"> <img src="https://img.shields.io/badge/REST_API_testing-3B82F6?style=flat-square" alt="REST API testing"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD">
 
 <sub>May 15, 2026</sub>
 
@@ -1144,7 +1144,7 @@ _Build and own end-to-end quality testing for Vapi's voice AI platform, defining
 ## May 13, 2026
 
 ### [Machine Learning Intern/Co-op  (Fall, 2026)](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b)
-<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · Toronto, Canada / New York, New York / San Francisco, California / London, UK / Paris, France · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern`
+<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · Toronto, Canada / New York, NY / San Francisco, CA / London, UK / Paris, France · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Intern`
 
 _Design, train, and improve frontier large-language models at scale using cutting-edge distributed training techniques. Work on novel research ideas with production deployment responsibility in a research-forward AI company. · [Apply →](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b)_
 
@@ -1190,9 +1190,9 @@ _Lead a distributed engineering team building genomics tertiary analysis softwar
 ### [Software Engineer, Agent Dev Velocity](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e)
 <a href="https://notion.so"><img src="https://www.google.com/s2/favicons?domain=notion.so&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Notion** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$214k-$300k` · `Equity`
 
-_Build scalable evaluation runners, harnesses, and benchmark tooling that enable Notion's AI teams to ship high-quality models faster and more safely. Work at the intersection of developer tooling and distributed systems to create durable measurement infrastructure for AI evaluations at scale. · [Apply →](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e)_
+_Build scalable evaluation infrastructure and tooling that enables Notion's AI teams to run, maintain, and measure LLM quality at speed and scale. Work at the intersection of developer tooling, distributed systems, and measurement to create durable benchmarks, dataset pipelines, and eval runners that integrate into shipping workflows. · [Apply →](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e)_
 
-<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square" alt="LLM Evaluation"> <img src="https://img.shields.io/badge/Kubernetes-3B82F6?style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/Distributed_Systems-3B82F6?style=flat-square" alt="Distributed Systems"> <img src="https://img.shields.io/badge/Data_Pipelines-3B82F6?style=flat-square" alt="Data Pipelines"> <img src="https://img.shields.io/badge/LLM_Evaluation-3B82F6?style=flat-square" alt="LLM Evaluation"> <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD"> <img src="https://img.shields.io/badge/CLI_Tools-3B82F6?style=flat-square" alt="CLI Tools">
 
 <sub>May 13, 2026</sub>
 
@@ -1289,9 +1289,9 @@ _Evolve Supabase Edge Runtime—a Rust-based, Deno-powered host for server-side 
 ### [Software Developer II - ShareGate Migrate [Web Experience]](https://job-boards.greenhouse.io/workleap/jobs/5133911007)
 <a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$100k-$130k CAD`
 
-_Build a brand-new web application for ShareGate Migrate from scratch, establishing technical foundations and shipping full-stack features using TypeScript and React. Integrate Microsoft 365 APIs (Microsoft Graph, Azure AD/Entra ID, MSAL) to enable migration and authentication workflows at scale for thousands of IT professionals. · [Apply →](https://job-boards.greenhouse.io/workleap/jobs/5133911007)_
+_Build a brand-new web application for ShareGate Migrate from scratch, making Microsoft 365 migration accessible directly in the browser. Ship full-stack features integrating Microsoft APIs (Graph, Azure AD, MSAL) while establishing technical foundations and testing practices for a greenfield product impacting thousands of IT professionals. · [Apply →](https://job-boards.greenhouse.io/workleap/jobs/5133911007)_
 
-<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/C%23%2F.NET-3B82F6?style=flat-square" alt="C#/.NET"> <img src="https://img.shields.io/badge/Microsoft_Graph-3B82F6?style=flat-square" alt="Microsoft Graph"> <img src="https://img.shields.io/badge/Azure_AD%2FEntra_ID-3B82F6?style=flat-square" alt="Azure AD/Entra ID"> <img src="https://img.shields.io/badge/MSAL-3B82F6?style=flat-square" alt="MSAL"> <img src="https://img.shields.io/badge/Relational_Databases-3B82F6?style=flat-square" alt="Relational Databases"> <img src="https://img.shields.io/badge/Non--relational_Databases-3B82F6?style=flat-square" alt="Non-relational Databases">
+<img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#"> <img src="https://img.shields.io/badge/.NET-3B82F6?style=flat-square" alt=".NET"> <img src="https://img.shields.io/badge/Microsoft_Graph-3B82F6?style=flat-square" alt="Microsoft Graph"> <img src="https://img.shields.io/badge/Azure_AD-3B82F6?style=flat-square" alt="Azure AD"> <img src="https://img.shields.io/badge/Relational_Databases-3B82F6?style=flat-square" alt="Relational Databases"> <img src="https://img.shields.io/badge/Non--relational_Databases-3B82F6?style=flat-square" alt="Non-relational Databases">
 
 <sub>May 13, 2026</sub>
 
