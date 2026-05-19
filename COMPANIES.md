@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **167 companies** · **357 open roles** (113 new)
+### **168 companies** · **366 open roles** (122 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -84,7 +84,7 @@ Amplitude builds a product analytics platform that helps companies track, measur
 Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Firmware Engineer in Test ](https://boards.greenhouse.io/andurilindustries/jobs/5080731007?gh_jid=5080731007) · Costa Mesa, California · `Senior` · `$191k–$253k` · `Equity` (May 19)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5140969007?gh_jid=5140969007) · Atlanta, Georgia · `Senior` · `$144k-$191k` · `Equity` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5140974007?gh_jid=5140974007) · Boston, Massachusetts · `Senior` · `$16k–$220k` · `Equity` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Instrumentation Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5086889007?gh_jid=5086889007) · Costa Mesa, California · `Senior` · `$146k–$208k` · `Equity` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Manager, Manufacturing Test Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5140918007?gh_jid=5140918007) · Costa Mesa, California · `Manager` · `$146k—$194k` · `Equity` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer, Discovery](https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007) · Costa Mesa, California · `Senior` · `$166k-$253k` · `Equity` (May 18)
@@ -107,7 +107,7 @@ Anduril Industries builds autonomous systems and defense technology using AI, ro
 - [Senior Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007) · Reston, Virginia · `Senior` · `$191k-$253k` · `Equity` (May 13)
 - [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136753007?gh_jid=5136753007) · Boston, Massachusetts · `Mid` · `$166k-$220k` · `Equity` (May 13)
 - [Software Engineer, Full-stack](https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007) · Costa Mesa, California · `Senior` · `$166k-$220k` · `Equity` (May 13)
-- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5088766007?gh_jid=5088766007) · Costa Mesa, California · `Staff` · `$220k–$292k` · `Equity` (May 13)
+- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5138391007?gh_jid=5138391007) · Seattle, Washington · `Staff` · `$220k—$292k USD` · `Equity` (May 13)
 
 ---
 
@@ -257,8 +257,16 @@ Blaxel builds a persistent sandbox platform that allows AI agents to run code se
 
 Boeing Defense, Space & Security designs and manufactures military aircraft, missiles, satellites, and space systems for the U.S. Department of Defense and international customers. The division produces platforms including fighter jets, cargo aircraft, anti-ship and air defense missiles, intelligence satellites, and launch vehicles for government space missions.
 
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Networking & Distributed Systems Researcher – Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Networking---Distributed-Systems-Researcher---Product-Security-Engineer_JR2026511017) · Huntington Beach, California · `Mid` · `$123k-$186k` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Simulation Software Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Simulation-Software-Engineering-Manager_JR2026509352-2) · Seattle, Washington · `Manager` · `$171k-$232k` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Networking & Distributed Systems Researcher – Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Networking---Distributed-Systems-Researcher---Product-Security-Engineer_JR2026511017) · Huntington Beach, California · `Mid` · `$123k-$186k` (May 19)
+
+---
+
+## <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Booz Allen Hamilton](https://boozallen.com)
+
+Booz Allen Hamilton is a management and technology consulting firm that serves U.S. government agencies and commercial clients across defense, intelligence, homeland security, and civilian sectors. The company provides consulting, analytics, digital transformation, and engineering services, with a particular focus on supporting federal government operations and national security missions.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Software-Engineer--Mid_R0240419) · 2 Locations · `Mid` · `$69k-$158k` (May 19)
 
 ---
 
@@ -444,6 +452,7 @@ Cursor builds an AI-powered code editor that integrates large language models di
 
 Databricks builds a unified analytics platform that combines data warehousing, data engineering, and machine learning capabilities on top of an open lakehouse architecture. The company operates in the data and analytics infrastructure domain, serving enterprises that need to manage, process, and derive insights from large-scale data workloads.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Sr. Staff Software Engineer - Managed Tables ](https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002) · Mountain View, California · `Staff` · `$228k-$314k` · `Equity` · `Bonus` (May 19)
 - [Software Engineer (SDE 2) - Full Stack (Frontend), Lakeflow](https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` (May 17)
 - [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> (May 15)
 - [Staff Software Engineer - AI Research Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$199k-$270k` · `Equity` · `Bonus` (May 15)
@@ -503,6 +512,7 @@ Epic Games develops the Unreal Engine, a real-time 3D graphics engine used for v
 
 Etched builds AI inference systems purpose-built for transformers, delivering 10x higher performance and lower cost/latency than B200 using ASICs.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [MTS - Firmware](https://jobs.ashbyhq.com/Etched/8e280db7-f954-4467-b3ea-b9b4386d6632) · San Jose, California · `Senior` (May 19)
 - [Chip Simulation Software Engineer](https://jobs.ashbyhq.com/Etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b) · San Jose, California · `Mid` (May 13)
 
 ---
@@ -752,6 +762,7 @@ Mercury builds banking and financial infrastructure for startups and growth-stag
 
 Metriport builds an API platform that enables healthcare applications to access and exchange patient medical records across fragmented health systems and electronic health record (EHR) networks in the United States. The company operates in the healthcare interoperability space, specifically addressing the challenge of aggregating patient data from multiple providers and hospitals through standardized data exchange protocols.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [AI Engineer](https://jobs.ashbyhq.com/metriport/d89fa823-9872-460b-a322-809e69e08598) · San Francisco, California · `Senior` · `Equity` · `Bonus` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Sr. Software Engineer](https://jobs.ashbyhq.com/metriport/441fe581-e8fd-4836-b335-a92e8ef1fc06) · San Francisco, California · `Senior` · `Equity` (May 18)
 
 ---
@@ -854,6 +865,7 @@ Nuro builds autonomous delivery robots designed to transport goods on public roa
 
 Nvidia designs and manufactures graphics processing units (GPUs) and system-on-chip processors used in data centers, gaming, professional visualization, and artificial intelligence applications. The company also develops software platforms and frameworks for accelerated computing across industries including cloud infrastructure, autonomous vehicles, and scientific research.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Quantum Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) · Santa Clara, California · `Intern` · `$20-$71/hour` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Principal Engineer - System Software GPU Server](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer---System-Software-GPU-Server_JR2018082) · Santa Clara, California · `Principal` · `$272k-$431.25k` · `Equity` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior System Software Engineer – Data Center GPU Compute Diagnostics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2018218) · Durham, North Carolina · `Senior` · `$224k-$356.5k` · `Equity` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior System Software Engineer, Automotive Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Automotive-Performance_JR2017705) · 2 Locations · `Senior` · `$224k-$431.25k` · `Equity` (May 19)
@@ -981,6 +993,9 @@ Planet Labs builds daily satellite imagery and insights used by decision-makers 
 
 Plus AI develops autonomous driving software and technology for commercial trucks, focusing on highway driving automation to enable safer and more efficient long-haul trucking operations. The company operates in the autonomous vehicle industry, specifically targeting the logistics and transportation sector with self-driving capabilities for heavy-duty vehicles.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Machine Learning Engineer Intern](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) · Santa Clara, California · `Intern` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Simulation Engineer Intern](https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464) · Santa Clara, California · `Intern` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer Intern - Data](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4) · Santa Clara, California · `Intern` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Machine Learning Infrastructure Engineer Intern](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4) · Santa Clara, California · `Intern` (May 19)
 
 ---
@@ -1005,6 +1020,7 @@ PsiQuantum builds quantum computing systems designed to solve complex scientific
 
 Quindar builds cloud-based software platform and services for space operations, including mission control systems, data processing tools, and analytics capabilities for satellite and launch operations. The company operates in the commercial space industry, serving aerospace companies, satellite operators, and space agencies that need integrated software solutions for managing missions and analyzing space-related data.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Principal Engineer, Mission Software](https://jobs.ashbyhq.com/quindar/d33bf2d7-f539-4a1f-ab9c-0484baf39e16) · Arvada, Colorado · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer Flight + Plan](https://jobs.ashbyhq.com/quindar/55f77839-4711-482e-9fe8-ba8134f6b9a3) · Arvada, Colorado · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` (May 18)
 
 ---
