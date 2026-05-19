@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **175 companies** · **383 open roles** (138 new)
+### **179 companies** · **391 open roles** (147 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -84,7 +84,7 @@ Amplitude builds a product analytics platform that helps companies track, measur
 Anduril Industries builds autonomous systems and defense technology using AI, robotics, and engineering.
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Firmware Engineer in Test ](https://boards.greenhouse.io/andurilindustries/jobs/5080731007?gh_jid=5080731007) · Costa Mesa, California · `Senior` · `$191k–$253k` · `Equity` (May 19)
-- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5140975007?gh_jid=5140975007) · Seattle, Washington · `Senior` · `$166k-$220k` · `Equity` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5140969007?gh_jid=5140969007) · Atlanta, Georgia · `Senior` · `$144k-$191k` · `Equity` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5134293007?gh_jid=5134293007) · Costa Mesa, California · `Staff` · `$191k-$253k` · `Equity` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Instrumentation Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5086889007?gh_jid=5086889007) · Costa Mesa, California · `Senior` · `$146k–$208k` · `Equity` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Manager, Manufacturing Test Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5140918007?gh_jid=5140918007) · Costa Mesa, California · `Manager` · `$146k—$194k` · `Equity` (May 18)
@@ -117,6 +117,14 @@ Anduril Industries builds autonomous systems and defense technology using AI, ro
 Anrok builds tax compliance software that automatically calculates and manages sales tax, VAT, and other transaction taxes for SaaS and digital businesses across multiple jurisdictions worldwide.
 
 - [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/anrok/006ac43b-0a0a-4ccc-9170-0482abed125e) · San Francisco, California / New York, New York / Salt Lake City, Utah / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `Equity` (May 15)
+
+---
+
+## <a href="https://anthem.com"><img src="https://www.google.com/s2/favicons?domain=anthem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Anthem Health](https://anthem.com)
+
+Anthem is a health insurance company that provides medical, dental, pharmacy, and behavioral health coverage to millions of members through both employer-sponsored and individual insurance plans across the United States.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Healthcare BI Developer – Utilization Management](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Healthcare-BI-Developer---Utilization-Management_JR189794) · 3 Locations · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` · `Bonus` (May 19)
 
 ---
 
@@ -275,6 +283,7 @@ Boeing Defense, Space & Security designs and manufactures military aircraft, mis
 
 Booz Allen Hamilton is a management and technology consulting firm that serves U.S. government agencies and commercial clients across defense, intelligence, homeland security, and civilian sectors. The company provides consulting, analytics, digital transformation, and engineering services, with a particular focus on supporting federal government operations and national security missions.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Cloud Infrastructure Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cloud-Infrastructure-Engineer_R0240283) · Colorado Springs, Colorado / Washington, D.C. · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$86k-$198k` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Software-Engineer--Mid_R0240419) · 2 Locations · `Mid` · `$69k-$158k` (May 19)
 
 ---
@@ -454,6 +463,7 @@ Corelight builds network detection and response (NDR) software that monitors enc
 
 CrowdStrike builds cloud-native cybersecurity software that provides threat intelligence, endpoint detection and response, and vulnerability management services to enterprises. The company operates in the cybersecurity domain, protecting organizations against ransomware, malware, and other cyber threats through its Falcon platform.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Sr. Manager, Engineering (Hybrid, Sunnyvale)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Manager--Engineering--Hybrid--Sunnyvale-_R28596) · Sunnyvale, California · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Manager` · `$160k-$250k` · `Equity` · `Bonus` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Principal Engineer, macOS Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Principal-Engineer--macOS-Sensor---CTIO--Remote-_R28789) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$195k-$290k` · `Equity` · `Bonus` (May 19)
 
 ---
@@ -491,6 +501,14 @@ David AI is an audio data research company that develops high-quality datasets f
 Disco builds software for legal document review and discovery, helping law firms and corporate legal teams manage, analyze, and produce documents during litigation and investigations. The company operates in the legal technology domain, specifically in e-discovery and litigation support.
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Compliance Engineer](https://www.csdisco.com/careers-listing?gh_jid=8554956002) · New York, New York · `Senior` · `$155k-$190k` · `Equity` (May 18)
+
+---
+
+## <a href="https://discover.com"><img src="https://www.google.com/s2/favicons?domain=discover.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Discover](https://discover.com)
+
+Discover Financial Services operates a digital banking and payment network that offers credit cards, personal loans, home loans, student loans, and deposit products directly to consumers. The company also runs the Discover Card network, which competes with Visa and Mastercard as a payment processing system.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Lead Software Engineer (Go, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Go--AWS-_R242881-1) · McLean, Virginia · `Manager` · `$197k-$225k` · `Bonus` · `Equity` (May 19)
 
 ---
 
@@ -664,6 +682,7 @@ Intel designs and manufactures semiconductor processors and related computing ha
 
 Interactive Brokers is a financial services company that provides electronic brokerage services, allowing retail and institutional investors to trade stocks, options, futures, forex, bonds, and other securities across multiple global markets. The company operates as a broker-dealer offering trading platforms, clearing services, and custodial accounts for self-directed investors.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Software Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8478175002) · Greenwich, Connecticut · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `Bonus` · `Equity` (May 19)
 - [Java Software Developer (Mid-Senior Level)](https://job-boards.greenhouse.io/ibkr/jobs/7909026002) · Greenwich, Connecticut · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` (May 15)
 
 ---
@@ -681,6 +700,16 @@ Intercom builds customer communication software that combines live chat, chatbot
 IonQ builds trapped ion quantum computing systems, cloud access, and enterprise solutions for real-world quantum applications.
 
 - [Senior Quantum Scientist](https://job-boards.greenhouse.io/ionq/jobs/5986072004) · Boulder, Colorado · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Senior` · `$126k-$166k` · `Bonus` · `Equity` (May 14)
+
+---
+
+## <a href="https://iqvia.com"><img src="https://www.google.com/s2/favicons?domain=iqvia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[IQVIA](https://iqvia.com)
+
+IQVIA is a clinical research organization and healthcare data analytics company that provides drug development services, real-world evidence, and advanced analytics to pharmaceutical, biotech, and medical device companies. The company operates across clinical trials, regulatory consulting, pharmacovigilance, and healthcare market intelligence to support the full lifecycle of therapeutic development and commercialization.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Directeur ou directrice adjoint(e) de l’ingénierie (Java)/Associate Engineering Director (Java)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Quebec-Canada/Associate-Engineering-Director--Java---Directeur-ou-directrice-adjoint-e--de-l-ingnierie--Java-_R1521068) · Quebec, Canada · `Manager` · `$102k-$190k` · `Bonus` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Sr Software Engineer - API Lead](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer---API-Lead_R1526561) · Austin, Texas · `Senior` · `$91k-$228k` · `Bonus` (May 19)
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Data Engineer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Rosemont-IL-United-States-of-America/Senior-Data-Engineer_R1526270) · 3 Locations · `Senior` · `$91k-$228k` · `Bonus` (May 19)
 
 ---
 
@@ -723,6 +752,14 @@ LangChain builds open-source Python and JavaScript libraries that simplify build
 LaunchDarkly builds a feature management platform that allows software teams to control feature releases and perform experiments in production without requiring code deployments. The company operates in the software development tools and DevOps space, serving engineering teams that need to manage feature flags, conduct A/B testing, and perform gradual rollouts across their applications.
 
 - [Product Security Engineer](https://job-boards.greenhouse.io/launchdarkly/jobs/7736270003) · San Francisco, California / New York, New York / Boston, Massachusetts / Seattle, Washington / Irvine, California / Los Angeles, California / Monterey, California / Santa Barbara, California / Santa Rosa, California / Austin, Texas / Portland, Oregon / Philadelphia, Pennsylvania / Chicago, Illinois / Remote · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Mid` · `$116k - $187k` · `Equity` (May 15)
+
+---
+
+## <a href="https://lexisnexis.com"><img src="https://www.google.com/s2/favicons?domain=lexisnexis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[LexisNexis](https://lexisnexis.com)
+
+LexisNexis provides legal research, business intelligence, and risk assessment solutions to law firms, corporations, government agencies, and other professional services firms. The company operates in the legal technology and data analytics domain, offering comprehensive databases of case law, statutes, regulations, and business information alongside software tools for legal research, document management, and compliance.
+
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Engineer III (Python & C#)](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/Software-Engineer-III--Python---C--_R113121) · 2 Locations · `Senior` · `Equity` (May 19)
 
 ---
 
@@ -1349,7 +1386,7 @@ SpaceX designs and manufactures rockets and spacecraft for transporting cargo an
 - [Automation & Controls Engineer, Solar Cell Factory (Starlink)](https://boards.greenhouse.io/spacex/jobs/8545793002?gh_jid=8545793002) · Bastrop, Texas · `Junior` (May 15)
 - [Data & Control Systems Engineer](https://boards.greenhouse.io/spacex/jobs/8552660002?gh_jid=8552660002) · Cape Canaveral, Florida · `Junior` (May 15)
 - [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002) · Hawthorne, California · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
-- [Wireless Firmware Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8546713002?gh_jid=8546713002) · Sunnyvale, California · `Junior` · `$135k-$185k` · `Equity` · `Bonus` (May 15)
+- [Wireless Firmware Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8546722002?gh_jid=8546722002) · Redmond, Washington / Remote · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
 - [Embedded Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Product Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543671002?gh_jid=8543671002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543668002?gh_jid=8543668002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
@@ -1462,7 +1499,6 @@ Toast is a cloud-based point-of-sale and restaurant management platform that hel
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Software Engineer - Application Infrastructure](https://careers.toasttab.com/jobs?gh_jid=7727235) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus` (May 18)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Software Engineer, Tech Lead ](https://careers.toasttab.com/jobs?gh_jid=7895604) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$142k—$227k CAD` · `Equity` · `Bonus` (May 18)
 - [Senior Principal Software Engineer, AI Team Agent](https://careers.toasttab.com/jobs?gh_jid=7936022) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` (May 17)
-- [Salesforce Developer 2](https://careers.toasttab.com/jobs?gh_jid=7744477) · Bangalore , Karnataka , India · <img src="https://img.shields.io/badge/Hybrid-F59E0B?style=flat-square" align="absmiddle"> · `Mid` (May 16)
 - [GTM Engineer: Data Infrastructure & AI Intelligence](https://careers.toasttab.com/jobs?gh_jid=7931361) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$105k—$168k` · `Equity` · `Bonus` (May 15)
 - [ Senior GTM Engineer,  AI Innovation](https://careers.toasttab.com/jobs?gh_jid=7757899) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$90k-$184k` · `Equity` · `Bonus` (May 15)
 - [Staff Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7812414) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Staff` · `$151k-$309k` · `Equity` · `Bonus` (May 15)

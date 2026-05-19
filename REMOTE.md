@@ -10,17 +10,6 @@ Remote engineering roles only — linking directly to each company's job board. 
 
 ## May 19, 2026
 
-### [Principal Engineer, macOS Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Principal-Engineer--macOS-Sensor---CTIO--Remote-_R28789)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$195k-$290k` · `Equity` · `Bonus`
-
-_Design and develop core security features for CrowdStrike's macOS sensor (lightweight agent), including file system, memory, process, and networking subsystems. Drive cross-platform architecture initiatives across Windows, macOS, and Linux while mentoring sensor development teams. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Principal-Engineer--macOS-Sensor---CTIO--Remote-_R28789)_
-
-<img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/macOS-3B82F6?style=flat-square" alt="macOS"> <img src="https://img.shields.io/badge/Security_Frameworks-3B82F6?style=flat-square" alt="Security Frameworks"> <img src="https://img.shields.io/badge/Debugging-3B82F6?style=flat-square" alt="Debugging"> <img src="https://img.shields.io/badge/Systems_Performance-3B82F6?style=flat-square" alt="Systems Performance"> <img src="https://img.shields.io/badge/Agile-3B82F6?style=flat-square" alt="Agile">
-
-<sub>May 19, 2026 at 12:25 UTC</sub>
-
----
-
 ### [Senior Software Engineer (Node), JavaScript SDK](https://jobs.ashbyhq.com/sentry/c2b2dece-cecb-46e8-be1f-22b08d6b3483)
 <a href="https://sentry.io"><img src="https://www.google.com/s2/favicons?domain=sentry.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sentry** · San Francisco, California · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$190k-$280k` · `Equity` · `Bonus`
 
@@ -38,6 +27,17 @@ _Build production-grade JavaScript SDKs for Node.js, Bun, Deno, Cloudflare Worke
 _Build and maintain production-grade JavaScript SDKs across the modern framework ecosystem (React, Next.js, Vue, Nuxt, NestJS, Hono), handling edge runtimes, server components, and hybrid rendering patterns. Work directly with developers and open-source committees (TC39, OpenTelemetry) to ship features that power error and performance monitoring for millions of developers. · [Apply →](https://jobs.ashbyhq.com/sentry/4eb18706-9bbb-4b55-a58c-0fd71a3cb080)_
 
 <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Next.js-3B82F6?style=flat-square" alt="Next.js"> <img src="https://img.shields.io/badge/Vue-3B82F6?style=flat-square" alt="Vue"> <img src="https://img.shields.io/badge/Nuxt-3B82F6?style=flat-square" alt="Nuxt"> <img src="https://img.shields.io/badge/NestJS-3B82F6?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/Edge_Runtimes-3B82F6?style=flat-square" alt="Edge Runtimes">
+
+<sub>May 19, 2026</sub>
+
+---
+
+### [Principal Engineer, macOS Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Principal-Engineer--macOS-Sensor---CTIO--Remote-_R28789)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Principal` · `$195k-$290k` · `Equity` · `Bonus`
+
+_Design and develop core security features for CrowdStrike's macOS sensor (lightweight agent), including file system, memory, process, and networking subsystems. Drive cross-platform architecture initiatives across Windows, macOS, and Linux while mentoring sensor development teams. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MN/Principal-Engineer--macOS-Sensor---CTIO--Remote-_R28789)_
+
+<img src="https://img.shields.io/badge/Swift-3B82F6?style=flat-square" alt="Swift"> <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square" alt="C++"> <img src="https://img.shields.io/badge/macOS-3B82F6?style=flat-square" alt="macOS"> <img src="https://img.shields.io/badge/Security_Frameworks-3B82F6?style=flat-square" alt="Security Frameworks"> <img src="https://img.shields.io/badge/Debugging-3B82F6?style=flat-square" alt="Debugging"> <img src="https://img.shields.io/badge/Systems_Performance-3B82F6?style=flat-square" alt="Systems Performance"> <img src="https://img.shields.io/badge/Agile-3B82F6?style=flat-square" alt="Agile">
 
 <sub>May 19, 2026</sub>
 
