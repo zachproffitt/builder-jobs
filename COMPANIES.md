@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **213 companies** · **515 open roles** (184 new)
+### **213 companies** · **519 open roles** (187 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -546,6 +546,7 @@ Athelas makes an AI-driven revenue cycle management, electronic health records, 
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Forward Deployed Engineer](https://jobs.ashbyhq.com/commure/61965fb1-439b-4d66-9d75-ab7b0197b705) · Mountain View, California · `Senior` (May 19)
 - [Senior Software Engineer, Air AI](https://jobs.ashbyhq.com/commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f) · Mountain View, California · `Senior` (May 15)
+- [Software Engineer, Air AI](https://jobs.ashbyhq.com/commure/4dd01cb1-6568-48b3-be62-37032ad487e1) · Mountain View, California · `Mid` (May 15)
 
 ---
 
@@ -668,7 +669,7 @@ Eight Sleep makes the Pod, a temperature-regulated sleep device that connects to
 
 ## <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Empower Retirement](https://empower-retirement.com)
 
-Empower Retirement provides retirement planning and investment management services, including 401(k) plans, IRAs, and financial advisory services for individuals and employers. The company operates in the financial services and retirement benefits administration sector, serving millions of plan participants across the United States.
+Empower Retirement provides retirement planning advisory services to public employees, helping them achieve financial readiness through individual consultations and group presentations on defined contribution Government 457 plans. The company employs Retirement Plan Advisors who conduct retirement readiness reviews, develop stakeholder partnerships, and use data-driven analysis to improve retirement outcomes for plan participants.
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Neurodiversity Program - Senior Developer Operations Data Management](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Neurodiversity-Program---Senior-Developer-Operations-Data-Management_R0058641) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$96k-$135k` · `Bonus` (May 19)
 
@@ -685,7 +686,7 @@ Epic Games creates Fortnite, Unreal Engine, and the Epic Games Store, and builds
 
 ## <a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Etched](https://etched.com)
 
-Etched builds AI inference systems purpose-built for transformers, delivering 10x higher performance and lower cost/latency than B200 using ASICs.
+Etched builds AI inference systems with custom ASICs designed specifically for transformers, delivering higher performance and lower cost and latency compared to GPU alternatives. The company's hardware enables applications like real-time video generation and complex reasoning agents that would be impractical with GPUs.
 
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Accelerator Software Engineer](https://jobs.ashbyhq.com/Etched/8e280db7-f954-4467-b3ea-b9b4386d6632) · San Jose, California · `Mid` (May 19)
 - [Chip Simulation Software Engineer](https://jobs.ashbyhq.com/Etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b) · San Jose, California · `Mid` (May 13)
@@ -751,6 +752,7 @@ Gecko Robotics builds AI and robotic systems that organizations use to build, op
 
 General Dynamics Information Technology delivers technology solutions and mission services to U.S. government agencies, defense organizations, and the intelligence community.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Cybersecurity Engineer - Zero Trust](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Cybersecurity-Engineer---Zero-Trust_RQ219448-1) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$149k-$184k` (May 20)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Security Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Security-Engineer_RQ220217-1) · <img src="https://img.shields.io/badge/Remote-22C55E?style=flat-square" align="absmiddle"> · `Senior` · `$131750-$178250` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Software Programmer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-AL-Daleville/Software-Programmer_RQ219232-1) · Daleville, Alabama · `Junior` · `$72k-$97k` (May 19)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Network Engineer Principal](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Network-Engineer-Principal_RQ220396-2) · Chantilly, Virginia · `Principal` · `$111k-$150k` (May 19)
@@ -1256,7 +1258,7 @@ Openly provides home insurance through independent agents.
 
 ## <a href="https://overview.ai"><img src="https://www.google.com/s2/favicons?domain=overview.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Overview](https://overview.ai)
 
-Overview builds AI-powered document analysis and search tools that help organizations process, understand, and extract insights from large volumes of unstructured documents and text data. The company operates in the enterprise software and artificial intelligence domain, serving use cases in legal discovery, compliance, investigative journalism, and knowledge management.
+Overview builds AI-powered quality control systems that integrate directly into manufacturing production lines to work alongside existing PLCs and equipment. The company deploys these systems in real production environments at customers like Tesla, SpaceX, and Amphenol.
 
 - [Field Controls Engineer](https://jobs.ashbyhq.com/overview/328660ca-25d7-48f4-ad1a-bbf9b7a75fad) · Remote / Indiana, Ohio, Kentucky, Illinois · `Mid` · `Equity` (May 18)
 
@@ -1521,6 +1523,7 @@ Rula provides remote mental healthcare services and operates as a remote-first c
 
 Samsung R&D develops smartphones, tablets, laptops, televisions, and other electronic and smart appliances.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Engineer, GPU RTL Design - Pixel Pipe](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Engineer--GPU-RTL-Design---Pixel-Pipe_R117210-1) · San Jose, California · `Junior` · `$116k-$174k` · `Bonus` · `Equity` (May 20)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Principal Engineer, GPU Architect & Modeling](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Principal-Engineer--GPU-Architect---Modeling_R117205) · 2 Locations · `Principal` · `$221700-$364800` · `Bonus` · `Equity` (May 20)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Staff Engineer, GPU Front-End Infrastructure/ Methodology](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--GPU-Front-End-Infrastructure--Methodology_R117204) · Austin, Texas · `Staff` · `$151k-$226.6k` · `Bonus` · `Equity` (May 20)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Senior Engineer, GPU RTL Design - Pixel Pipe](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Engineer--GPU-RTL-Design---Pixel-Pipe_R117211) · San Jose, California · `Senior` · `$139k-$208.4k` · `Bonus` · `Equity` (May 20)
@@ -1529,7 +1532,7 @@ Samsung R&D develops smartphones, tablets, laptops, televisions, and other elect
 
 ## <a href="https://saronic.com"><img src="https://www.google.com/s2/favicons?domain=saronic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Saronic](https://saronic.com)
 
-Saronic develops autonomous surface vessels for maritime operations including inspection, surveillance, and environmental monitoring. The company's USVs (unmanned surface vehicles) operate in the marine technology sector, serving applications in offshore energy, coastal defense, and environmental protection.
+Saronic builds autonomous vessels for maritime applications.
 
 - [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) · Austin, Texas · `Intern` (May 18)
 
@@ -1675,7 +1678,7 @@ SpaceX develops rockets and spacecraft for space exploration, with the goal of e
 - [Sr. Software Engineer (Vehicle Engineering)](https://boards.greenhouse.io/spacex/jobs/8555142002?gh_jid=8555142002) · Hawthorne, California · `Senior` · `$160k-$225k` · `Equity` · `Bonus` (May 18)
 - [Automation & Controls Engineer, Solar Cell Factory (Starlink)](https://boards.greenhouse.io/spacex/jobs/8545793002?gh_jid=8545793002) · Bastrop, Texas · `Junior` (May 15)
 - [Data & Control Systems Engineer](https://boards.greenhouse.io/spacex/jobs/8552660002?gh_jid=8552660002) · Cape Canaveral, Florida · `Junior` (May 15)
-- [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553080002?gh_jid=8553080002) · Starbase, Texas · `Junior` (May 15)
+- [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002) · Hawthorne, California · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
 - [Wireless Firmware Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8546722002?gh_jid=8546722002) · Redmond, Washington / Remote · `Junior` · `$125k-$175k` · `Equity` · `Bonus` (May 15)
 - [Embedded Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
 - [Product Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543671002?gh_jid=8543671002) · Redmond, Washington · `Mid` · `$130k-$175k` · `Equity` · `Bonus` (May 14)
@@ -1827,6 +1830,7 @@ Todyl builds a cybersecurity platform that consolidates security functions into 
 
 True Anomaly develops capabilities for space superiority.
 
+- <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Engineering Manager, eGSE](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140261007) · Long Beach, California · `Manager` · `$150k-$230k` · `Equity` (May 20)
 - <img src="https://img.shields.io/badge/NEW-EC4899?style=flat-square" align="absmiddle"> [Modeling and Simulation Manager](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140156007) · Denver, Colorado / Long Beach, California · `Manager` · `$145k-$245k` · `Equity` (May 19)
 - [Machine Learning Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007) · Denver, Colorado / Long Beach, California · `Junior` · `$85k-$180k` · `Equity` (May 15)
 - [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138859007) · Denver, Colorado / Long Beach, California · `Senior` · `$155k-$260k` · `Equity` (May 15)
