@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **217 companies** · **549 open roles** (218 new)
+### **219 companies** · **552 open roles** (220 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -745,7 +745,9 @@ Front provides a customer experience platform that combines client communication
 
 ---
 
-## <a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Galaxy](https://galaxy.com)
+## <a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Galaxy Digital](https://galaxydigital.io)
+
+Galaxy Digital provides digital asset and AI infrastructure services to institutions, startups, protocols, and investors.
 
 - [Vice President Site Reliability Engineering (Data Centers)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004) · New York, New York · `Remote` `Manager` (May 15)
 
@@ -1266,7 +1268,7 @@ OneBrief builds collaboration and AI-powered workflow software designed for mili
 
 ## <a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[OpenAI](https://openai.com)
 
-OpenAI builds artificial intelligence systems, including large language models like GPT-4 and ChatGPT, which they offer through APIs and consumer applications. The company operates in the artificial intelligence software domain, providing tools for text generation, code generation, and other AI-powered capabilities to developers, businesses, and consumers.
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Analytics Engineer](https://jobs.ashbyhq.com/openai/c3f437e7-034b-4ea0-a29e-c62eb23ca24f) · San Francisco, California / New York, New York · `Hybrid` `Senior` (May 19)
 - [Security Preparedness Lead, Coding Agents](https://jobs.ashbyhq.com/openai/1bec5fd1-9cf2-4678-a82d-2d06385718b2) · San Francisco, California · `Remote` `Senior` (May 18)
@@ -1542,9 +1544,9 @@ Rocket Lab delivers launch services, spacecraft, and satellite components.
 
 ## <a href="https://rockstargames.com"><img src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Rockstar Games](https://rockstargames.com)
 
-Rockstar Games builds video games, including the Grand Theft Auto series.
+Rockstar Games creates entertainment experiences and video games. The Rockstar Games Tools Team creates and maintains software tools used by game development disciplines to support the creation of Rockstar Games projects.
 
-- [Software Engineer (C#/.NET)](https://job-boards.greenhouse.io/rockstargames/jobs/7711702003) · Manhattan, New York · `Mid` `$101k-$134k` `Equity` (May 14)
+- [Software Engineer (C#/.NET)](https://job-boards.greenhouse.io/rockstargames/jobs/7734679003) · Carlsbad, California · `Senior` `$101k–$134k` `Equity` (May 14)
 - [Full Stack Engineer (C#/React)](https://job-boards.greenhouse.io/rockstargames/jobs/7711703003) · Manhattan, New York · `Mid` `$101k–$134k` `Equity` (May 13)
 
 ---
@@ -1575,6 +1577,14 @@ Samsung R&D develops smartphones, tablets, laptops, televisions, and other elect
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Principal Engineer, GPU Architect & Modeling](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Principal-Engineer--GPU-Architect---Modeling_R117205) · 2 Locations · `Principal` `$221700-$364800` `Equity` (May 20)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Staff Engineer, GPU Front-End Infrastructure/ Methodology](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Staff-Engineer--GPU-Front-End-Infrastructure--Methodology_R117204) · Austin, Texas · `Staff` `$151k-$226.6k` `Equity` (May 20)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Senior Engineer, GPU RTL Design - Pixel Pipe](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3655-N-1st-St-San-Jose-CA-USA/Senior-Engineer--GPU-RTL-Design---Pixel-Pipe_R117211) · San Jose, California · `Senior` `$139k-$208.4k` `Equity` (May 20)
+
+---
+
+## <a href="https://saronic.com"><img src="https://www.google.com/s2/favicons?domain=saronic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Saronic](https://saronic.com)
+
+Saronic builds autonomous vessels for maritime applications.
+
+- [Software Engineer Intern (Fall 2026)](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) · Austin, Texas · `Intern` (May 18)
 
 ---
 
@@ -1642,6 +1652,15 @@ Sentry provides application performance monitoring software that helps developer
 Sieve provides video data for AI applications.
 
 - [Member of Technical Staff, Deployed Research](https://jobs.ashbyhq.com/sieve/d294868e-1b94-425c-934b-b1cf806e05aa) · San Francisco, California · `Mid` (May 14)
+
+---
+
+## <a href="https://sifive.com"><img src="https://www.google.com/s2/favicons?domain=sifive.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[SiFive](https://sifive.com)
+
+SiFive designs and develops processors and systems based on the RISC-V instruction set architecture.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Principal Design Verification Engineer – High Performance CPU Subsystem](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Austin-Texas-United-States/Principal-Design-Verification-Engineer---High-Performance-CPU-Subsystem_R-101284) · 2 Locations · `Principal` `Equity` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Staff Design Verification Engineer – Coherent Interconnect](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Boston-Massachusetts-United-States/Staff-Design-Verification-Engineer---Coherent-Interconnect_R-101214) · 2 Locations · `Staff` `Equity` (May 20)
 
 ---
 
