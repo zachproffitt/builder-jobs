@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **219 companies** · **552 open roles** (220 new)
+### **219 companies** · **561 open roles** (232 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -372,6 +372,7 @@ The Boeing Company develops, manufactures, and services commercial airplanes, de
 
 Booz Allen Hamilton provides consulting and technology services for civil, defense, and national security missions.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Wireless Infrastructure Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Wireless-Infrastructure-Engineer--Mid_R0233198) · McLean, Virginia · `Mid` `$62k-$141k` (May 20)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Software Developer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Software-Developer_R0240465) · Annapolis Junction, Maryland · `Senior` `$69k-$158k` (May 19)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Full Stack Cloud Developer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Full-Stack-Cloud-Developer_R0240519) · 2 Locations · `Mid` `$69k-$158k` (May 19)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Cloud Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Doral-FL/Cloud-Engineer_R0233987) · Doral, Florida · `Mid` `$99k-$225k` (May 19)
@@ -601,6 +602,7 @@ Cursor is an AI-powered code editor for software development.
 
 Databricks builds a data and AI platform that helps customers develop, deploy, and optimize generative AI applications and machine learning models at scale.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Sr. Staff AI Research TLM - AI Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=8557780002) · San Francisco, California / Mountain View, California · `Principal` `$270k-$340k` `Equity` (May 20)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) ·  · `Remote` `$152k-$210k` `Equity` (May 19)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8419271002) · Washington, D.C. / Maryland / Virginia · `Hybrid` `Senior` `$180k—$248k` `Equity` (May 19)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Sr. Staff Software Engineer - Managed Tables ](https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002) · Mountain View, California · `Staff` `$228k-$314k` `Equity` (May 19)
@@ -745,9 +747,7 @@ Front provides a customer experience platform that combines client communication
 
 ---
 
-## <a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Galaxy Digital](https://galaxydigital.io)
-
-Galaxy Digital provides digital asset and AI infrastructure services to institutions, startups, protocols, and investors.
+## <a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Galaxy](https://galaxy.com)
 
 - [Vice President Site Reliability Engineering (Data Centers)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004) · New York, New York · `Remote` `Manager` (May 15)
 
@@ -1749,6 +1749,16 @@ SpaceX develops rockets and spacecraft for space exploration, with the goal of e
 
 Speechify is a text-to-speech application that reads books, PDFs, and web pages aloud using natural voices.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Software Engineer, Platform](https://job-boards.greenhouse.io/speechify/jobs/5974167004) · Anchorage, Alaska · `Mid` `$140k-$200k` `Equity` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Software Engineer, Platform - St. Louis, MO, USA](https://job-boards.greenhouse.io/speechify/jobs/5974209004) · St. Louis, Missouri · `Mid` `$140k-$200k` `Equity` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Software Engineer, Platform - Waterloo, Canada](https://job-boards.greenhouse.io/speechify/jobs/5974441004) · Waterloo, Canada · `Mid` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Tech Lead, Android Core Product](https://job-boards.greenhouse.io/speechify/jobs/5975623004) · Albuquerque, New Mexico · `Senior` `$140k-$200k` `Equity` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Tech Lead, Android Core Product - Calgary, Canada](https://job-boards.greenhouse.io/speechify/jobs/5975777004) · Calgary, Canada · `Senior` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Tech Lead, Android Core Product - Ottawa, Canada](https://job-boards.greenhouse.io/speechify/jobs/5975640004) · Ottawa, Canada · `Senior` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Tech Lead, Android Core Product - St. Petersburg, FL, USA](https://job-boards.greenhouse.io/speechify/jobs/5975654004) · St. Petersburg, Florida · `Senior` `$140k-$200k` `Equity` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Tech Lead, Web Core Product & Chrome Extension](https://job-boards.greenhouse.io/speechify/jobs/5975952004) · Albuquerque, New Mexico · `Senior` `$140k-$200k` `Equity` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Tech Lead, Web Core Product & Chrome Extension - Calgary, Canada](https://job-boards.greenhouse.io/speechify/jobs/5976106004) · Calgary, Canada · `Senior` (May 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New"> [Tech Lead, Web Core Product & Chrome Extension - Ottawa, Canada](https://job-boards.greenhouse.io/speechify/jobs/5975966004) · Ottawa, Canada · `Senior` (May 20)
 - [Senior Software Engineer, Core Experiences](https://job-boards.greenhouse.io/speechify/jobs/5974626004) · Bend, Oregon · `Senior` `$140k-$200k` `Equity` (May 15)
 - [Senior Software Engineer, Core Experiences - Toronto, Canada](https://job-boards.greenhouse.io/speechify/jobs/5976151004) · Toronto, Canada · `Senior` (May 15)
 - [Senior Software Engineer, Windows/Desktop Applications](https://job-boards.greenhouse.io/speechify/jobs/5974986004) · Anchorage, Alaska · `Senior` `$140k-$200k` `Equity` (May 15)
@@ -1757,12 +1767,9 @@ Speechify is a text-to-speech application that reads books, PDFs, and web pages 
 - [Software Engineer, Data Infrastructure & Acquisition](https://job-boards.greenhouse.io/speechify/jobs/5975256004) · Baltimore, Maryland · `Senior` `$140k-$200k` `Equity` (May 15)
 - [Software Engineer, Data Infrastructure & Acquisition - Toronto, Canada](https://job-boards.greenhouse.io/speechify/jobs/5976271004) · Toronto, Canada · `Senior` (May 15)
 - [Software Engineer, Data Infrastructure & Acquisition - Winston](https://job-boards.greenhouse.io/speechify/jobs/5975363004) · Winston-Salem, North Carolina · `Senior` `$140k-$200k` `Equity` (May 15)
-- [Software Engineer, Platform](https://job-boards.greenhouse.io/speechify/jobs/5974167004) · Anchorage, Alaska · `Mid` `$140k-$200k` `Equity` (May 15)
-- [Tech Lead, Android Core Product](https://job-boards.greenhouse.io/speechify/jobs/5975554004) · Alexandria, Virginia · `Senior` `$140k-$200k` `Equity` (May 15)
 - [Tech Lead, Android Core Product - St. Louis, MO, USA](https://job-boards.greenhouse.io/speechify/jobs/5975530004) · St. Louis, Missouri · `Senior` `$140k-$200k` `Equity` (May 15)
 - [Tech Lead, Android Core Product - Toronto, Canada](https://job-boards.greenhouse.io/speechify/jobs/5976301004) · Toronto, Canada · `Senior` (May 15)
 - [Tech Lead, Android Core Product - Winston](https://job-boards.greenhouse.io/speechify/jobs/5975680004) · Winston-Salem, North Carolina · `Senior` `$140k-$200k` `Equity` (May 15)
-- [Tech Lead, Web Core Product & Chrome Extension](https://job-boards.greenhouse.io/speechify/jobs/5975883004) · Arlington, Virginia · `Senior` `$140k-$200k` `Equity` (May 15)
 - [Tech Lead, Web Core Product & Chrome Extension - Toronto, Canada](https://job-boards.greenhouse.io/speechify/jobs/5976211004) · Toronto, Canada · `Senior` (May 15)
 
 ---
@@ -1877,7 +1884,7 @@ Toast creates technology that helps restaurants and local businesses operate, in
 - [Principal Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7745976) ·  · `Remote` `Principal` `$180k-$368k` `Equity` (May 18)
 - [Staff Software Engineer - Application Infrastructure](https://careers.toasttab.com/jobs?gh_jid=7727235) ·  · `Remote` `Staff` `$151k-$309k` `Equity` (May 18)
 - [Staff Software Engineer, Tech Lead ](https://careers.toasttab.com/jobs?gh_jid=7895604) ·  · `Remote` `Staff` `$142k—$227k CAD` `Equity` (May 18)
-- [Senior Principal Software Engineer, AI Team Agent](https://careers.toasttab.com/jobs?gh_jid=7936022) ·  · `Remote` `Principal` (May 17)
+- [Senior Principal Software Engineer, AI Agents](https://careers.toasttab.com/jobs?gh_jid=7936022) ·  · `Remote` `Principal` (May 17)
 - [GTM Engineer: Data Infrastructure & AI Intelligence](https://careers.toasttab.com/jobs?gh_jid=7931361) ·  · `Remote` `Senior` `$105k—$168k` `Equity` (May 15)
 - [ Senior GTM Engineer,  AI Innovation](https://careers.toasttab.com/jobs?gh_jid=7757899) ·  · `Remote` `Senior` `$90k-$184k` `Equity` (May 15)
 - [Staff Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7812414) ·  · `Remote` `Staff` `$151k-$309k` `Equity` (May 15)
