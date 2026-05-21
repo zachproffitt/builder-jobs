@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **185 open roles** (47 new)
+### **186 open roles** (42 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 21, 2026
+
+### [Fullstack Software Engineer, Notifications Lifecycle](https://job-boards.greenhouse.io/reddit/jobs/7895468)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k-$229k` `Equity`
+
+_Design and build backend services and frontend features for Reddit's notifications system, handling scale across 126 million daily active users. Work across the full stack (Go, Python, TypeScript, GraphQL) with cross-functional teams in Product, ML, and Data Science. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7895468)_
+
+`Go` `Python` `TypeScript` `GraphQL` `Kafka` `Spark` `PostgreSQL` `Kubernetes`
+
+<sub>May 21, 2026 at 23:30 UTC</sub>
+
+---
 
 ### [Staff Software Engineer I](https://jobs.ashbyhq.com/confluent/b070fb23-7041-4336-bee9-b8f31204dac4)
 <a href="https://confluent.io"><img src="https://www.google.com/s2/favicons?domain=confluent.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Confluent** · Austin, Texas · `🟢 Remote` `Staff`
@@ -115,17 +126,6 @@ _Design, build, and productionize machine learning models for knowledge extracti
 _Design and productionize machine learning models for knowledge extraction from unstructured data, entity resolution, and graph-based learning—integrating NLP, NER, and graph analytics into production intelligence systems for financial crime investigation. · [Apply →](https://jobs.ashbyhq.com/trm-labs/91fa6810-96bb-4473-af87-7fac22f010bc)_
 
 `Python` `NLP` `Named Entity Recognition` `Knowledge Graphs` `PyTorch or TensorFlow` `Graph Neural Networks` `Entity Resolution` `Production ML Systems`
-
-<sub>May 21, 2026 at 20:45 UTC</sub>
-
----
-
-### [Quantum Error Correction Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Intern` `$20-$71/hr`
-
-_Develop automated quantum error correction code discovery pipelines and ML-based decoders using AI-driven automation to identify and evaluate high-performance quantum error correcting codes. Work with NVIDIA's cuQuantum and CUDA-Q platforms on frontier research at the intersection of quantum code design, neural decoders, and tensor network simulation methods. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)_
-
-`Python` `Quantum Error Correction` `Machine Learning` `PyTorch` `TensorFlow` `cuQuantum` `CUDA-Q` `Tensor Networks`
 
 <sub>May 21, 2026 at 20:45 UTC</sub>
 
@@ -258,6 +258,17 @@ _Build and maintain Azure Kubernetes Service (AKS) clusters and supporting infra
 _Own data science for search relevance, query understanding, retrieval, and ranking across Nextdoor's neighborhood network. Build ML models and ranking systems for semantic search; requires expertise in information retrieval and experimentation on production systems handling millions of queries. · [Apply →](https://about.nextdoor.com/careers-list/?gh_jid=7948362)_
 
 `Python` `SQL` `scikit-learn` `pandas` `A/B Testing` `Ranking Algorithms` `Information Retrieval` `LLM`
+
+<sub>May 21, 2026 at 17:05 UTC</sub>
+
+---
+
+### [Senior Frontend Software Engineer - DevX](https://job-boards.greenhouse.io/reddit/jobs/7950505)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
+
+_Own frontend development for Reddit's internal developer tooling, building scalable interfaces for AI-powered workflows and core engineering systems that serve hundreds of engineers. Lead high-impact projects across the developer experience ecosystem, from design through launch and long-term maintainability. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7950505)_
+
+`TypeScript` `JavaScript` `React` `GraphQL` `REST` `Testing` `System Design` `User Research`
 
 <sub>May 21, 2026 at 17:05 UTC</sub>
 
@@ -1118,23 +1129,23 @@ _Build and maintain the Scala, Bazel, and CI infrastructure that powers Iterable
 
 ---
 
-### [Staff Security Architect](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)
-<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Staff`
-
-_Design and verify robust security architecture across Kraken's crypto exchange infrastructure, products, and blockchain systems. Conduct security assessments and audits while staying current with blockchain-specific threats; hands-on role deeply embedded with engineering teams across the company. · [Apply →](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)_
-
-`Application Security` `Infrastructure Security` `Cryptography` `OWASP` `NIST` `Rust` `Blockchain Security` `Web3 Security`
-
-<sub>May 19, 2026 at 19:59 UTC</sub>
-
----
-
 ### [Senior Azure Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$149k-$184k`
 
 _Lead design, deployment, and security of enterprise Azure cloud infrastructure supporting AI/ML workloads and mission-critical modernization initiatives. Requires ability to obtain Secret clearance and work with government/defense customers. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)_
 
 `Microsoft Azure` `Azure ML` `Terraform` `Bicep` `DevSecOps` `Kubernetes (AKS)` `PowerShell` `Python`
+
+<sub>May 19, 2026 at 19:59 UTC</sub>
+
+---
+
+### [Staff Security Architect](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)
+<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Staff`
+
+_Design and verify robust security architecture across Kraken's crypto exchange infrastructure, products, and blockchain systems. Conduct security assessments and audits while staying current with blockchain-specific threats; hands-on role deeply embedded with engineering teams across the company. · [Apply →](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)_
+
+`Application Security` `Infrastructure Security` `Cryptography` `OWASP` `NIST` `Rust` `Blockchain Security` `Web3 Security`
 
 <sub>May 19, 2026 at 19:59 UTC</sub>
 
@@ -1223,17 +1234,6 @@ _Design and implement AI-powered features across the full stack of ClickHouse Cl
 _Design, harden, and automate security systems and controls across the NEAR ecosystem, leading the information security program end-to-end including SOC II Type 2 and ISO 27001 readiness. Operate at the intersection of security engineering, compliance automation, and infrastructure hardening in a fast-moving Web3 environment. · [Apply →](https://job-boards.eu.greenhouse.io/nearfoundation/jobs/4870028101)_
 
 `Python` `Go` `Bash` `AWS` `GCP` `Okta` `Entra` `SOC II Type 2`
-
-<sub>May 19, 2026</sub>
-
----
-
-### [Quantum Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `🟢 Remote` `Intern` `$20-$71/hour`
-
-_Develop automated quantum error correcting code discovery pipelines using AI and machine learning to identify high-performance codes for realistic quantum systems. Work at the intersection of quantum circuit design, electromagnetic simulation, and AI-driven automation on NVIDIA's cuQuantum and CUDA-Q platforms. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244)_
-
-`Python` `Quantum Computing` `Superconducting Qubits` `Quantum Error Correction` `Machine Learning` `cuQuantum` `CUDA-Q` `Ansys HFSS`
 
 <sub>May 19, 2026</sub>
 
@@ -1408,12 +1408,12 @@ _Design and build Reddit's foundational GraphQL infrastructure—a federated, Go
 
 ---
 
-### [Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6512458)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid`
+### [Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6469397)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k–$229k` `Equity`
 
-_Build microservices, distributed systems, and data-intensive backends that power Reddit's advertising platform, serving millions of advertisers and end-users. Work on high-scale systems handling real-time ad serving, campaign measurement, and interactive ad experiences with ownership from ideation to delivery. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/6512458)_
+_Build microservices, distributed systems, and data-intensive backends powering Reddit's advertising platform. Work on systems that optimize ad delivery, measure campaign performance, and support interactive ad formats at scale across 126 million daily active users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/6469397)_
 
-`Go` `Python` `Scala` `Kafka` `Spark` `PostgreSQL` `Kubernetes` `BigQuery`
+`Go` `Python` `Scala` `Kafka` `Spark` `Kubernetes` `PostgreSQL` `Redis`
 
 <sub>May 18, 2026</sub>
 
@@ -1430,12 +1430,12 @@ _Deploy computer vision models from proof-of-concept to production on edge hardw
 
 ---
 
-### [VP, Revenue Operations & GTM Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7939133)
-<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Manager` `$325k-$350k` `Equity`
+### [VP, Revenue Operations & GTM Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7939126)
+<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$325k-$350k` `Equity`
 
-_Own SecurityScorecard's full revenue operations function—territory design, quota setting, pipeline management—while architecting and deploying AI-native GTM workflows using Claude, Salesforce Agentforce, and supporting tools. Build agentic prospecting and quoting systems, forecasting infrastructure with proven accuracy, and the data architecture across Salesforce, Snowflake, and Tableau to power real-time GTM intelligence for a 12M-company rated cybersecurity platform. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7939133)_
+_Build and lead SecurityScorecard's full revenue operations function while architecting and deploying AI-native GTM systems using Claude, Salesforce Agentforce, and supporting infrastructure. Own end-to-end revenue forecasting, pipeline analytics, territory design, and agentic workflow automation across Sales, Marketing, and Customer Success at a 12M+ company-rated SaaS platform. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7939126)_
 
-`Salesforce` `Salesforce Agentforce` `Claude / LLMs` `Snowflake` `Tableau` `Gainsight` `n8n / Zapier`
+`Salesforce` `Salesforce Agentforce` `Claude` `Snowflake` `Tableau` `Gainsight` `n8n` `Zapier`
 
 <sub>May 18, 2026</sub>
 
@@ -1730,6 +1730,17 @@ _Design and deliver secure, scalable data and application platforms combining ba
 _Lead the design of secure, scalable application and data platforms across backend (.NET/Python), frontend (React), distributed systems, and AI-powered components for a space operations company. Guide architecture standards, mentoring, and end-to-end platform design with responsibility for microservices, RAG/LLM workflows, and enterprise security practices. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5997017004?gh_jid=5997017004)_
 
 `.NET` `C#` `React` `Python` `SQL Server` `Redis` `AWS` `Kubernetes`
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Senior Technical Architect II](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · Washington, D.C. · `🟢 Remote` `Senior` `$175k-$250k` `Equity`
+
+_Architect and implement secure, scalable Python-based data processing platforms including ETL frameworks, event-driven streaming systems, and FastAPI microservices for space operations data. This on-site role requires deep expertise across distributed systems, Kafka/RabbitMQ, MongoDB, and Kubernetes in a defense-adjacent domain with security and compliance demands. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/5996935004?gh_jid=5996935004)_
+
+`Python` `FastAPI` `Kafka` `RabbitMQ` `MongoDB` `Redis` `Kubernetes` `AWS`
 
 <sub>May 15, 2026</sub>
 
