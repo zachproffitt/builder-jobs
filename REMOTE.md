@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **191 open roles** (44 new)
+### **192 open roles** (41 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 22, 2026
+
+### [Senior Analyst, Quantitative Research](https://jobs.ashbyhq.com/wealthsimple/caac6f8f-130f-4bf2-9250-47c263bba057)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Design and build portfolio optimization models, factor frameworks, and risk analytics that directly shape how Wealthsimple constructs and manages client portfolios. Translate research into production systems at scale for a large retail client base, working closely with Engineering to operationalize quantitative models. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/caac6f8f-130f-4bf2-9250-47c263bba057)_
+
+`Python` `pandas` `NumPy` `statsmodels` `Portfolio Optimization` `Risk Analytics` `Factor Investing`
+
+<sub>May 22, 2026 at 13:09 UTC</sub>
+
+---
 
 ### [Senior Software Engineer - Data Integration & JVM Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6000796004)
 <a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$125k-$185k (standard US); $157k-$232k (premium markets)` `Equity`
@@ -179,17 +190,6 @@ _Build scalable backend services and web interfaces for route planning, dispatch
 
 ---
 
-### [Quantum Error Correction Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Intern` `$20-$71/hr`
-
-_Develop automated quantum error correction code discovery pipelines and ML-based decoders using AI-driven automation to identify and evaluate high-performance quantum error correcting codes. Work with NVIDIA's cuQuantum and CUDA-Q platforms on frontier research at the intersection of quantum code design, neural decoders, and tensor network simulation methods. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)_
-
-`Python` `Quantum Error Correction` `Machine Learning` `PyTorch` `TensorFlow` `cuQuantum` `CUDA-Q` `Tensor Networks`
-
-<sub>May 21, 2026 at 20:45 UTC</sub>
-
----
-
 ### [Senior Full Stack Data Scientist, NLP](https://jobs.ashbyhq.com/trm-labs/75e19d16-f335-45a8-b4cc-66575b76a1db)
 <a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · San Francisco, California / Los Angeles, California / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Senior`
 
@@ -207,6 +207,17 @@ _Design, build, and productionize machine learning models for knowledge extracti
 _Design and productionize machine learning models for knowledge extraction from unstructured data, entity resolution, and graph-based learning—integrating NLP, NER, and graph analytics into production intelligence systems for financial crime investigation. · [Apply →](https://jobs.ashbyhq.com/trm-labs/91fa6810-96bb-4473-af87-7fac22f010bc)_
 
 `Python` `NLP` `Named Entity Recognition` `Knowledge Graphs` `PyTorch or TensorFlow` `Graph Neural Networks` `Entity Resolution` `Production ML Systems`
+
+<sub>May 21, 2026 at 20:45 UTC</sub>
+
+---
+
+### [Quantum Error Correction Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Intern` `$20-$71/hr`
+
+_Develop automated quantum error correction code discovery pipelines and ML-based decoders using AI-driven automation to identify and evaluate high-performance quantum error correcting codes. Work with NVIDIA's cuQuantum and CUDA-Q platforms on frontier research at the intersection of quantum code design, neural decoders, and tensor network simulation methods. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)_
+
+`Python` `Quantum Error Correction` `Machine Learning` `PyTorch` `TensorFlow` `cuQuantum` `CUDA-Q` `Tensor Networks`
 
 <sub>May 21, 2026 at 20:45 UTC</sub>
 
