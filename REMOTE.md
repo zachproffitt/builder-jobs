@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **191 open roles** (43 new)
+### **189 open roles** (41 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -394,17 +394,6 @@ _Build cloud-native, highly scalable data ingestion, storage, and query infrastr
 _Develop, deploy, and maintain mission-critical biometric identification systems for the Department of Homeland Security, supporting IDENT, HART, and OBIM platforms across UI, Java, C++, and Oracle database tiers. Requires Public Trust clearance and US citizenship; remote work available within CONUS. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Software-Developer_RQ218313-1)_
 
 `Java` `C++` `Oracle` `SQL` `Bash` `GitLab` `CI/CD` `XML/JSON`
-
-<sub>May 21, 2026 at 15:00 UTC</sub>
-
----
-
-### [Senior Software Engineer, Autonomy Actions Sustaining](https://motional.com/open-positions/?gh_jid=7742676003#/7742676003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada · `🟢 Remote` `Senior` `$172k-$229k` `Equity`
-
-_Diagnose and resolve issues in autonomous vehicle planning and controls software by analyzing logs, replay simulation data, and deploying fixes to production systems. Work on safety-critical autonomous driving systems with millions of miles of real-world deployment experience. · [Apply →](https://motional.com/open-positions/?gh_jid=7742676003#/7742676003)_
-
-`C++` `ROS` `Robotics` `Autonomous Systems` `CI/CD` `GitLab` `Jira` `DDS`
 
 <sub>May 21, 2026 at 15:00 UTC</sub>
 
@@ -1679,17 +1668,6 @@ _Lead a specialized SRE team designing, deploying, and maintaining automation pl
 _Lead threat modeling and cloud security posture work for a critical infrastructure platform, triaging findings and partnering with engineering teams to embed security into the development lifecycle. You'll work at scale across a SaaS feature management platform serving global systems, applying AI tooling to reduce toil and raise the security floor systematically. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7736270003)_
 
 `Threat Modeling` `CNAPP` `SAST/SCA` `OWASP Top 10` `Cloud Security` `Go` `Python` `TypeScript`
-
-<sub>May 15, 2026</sub>
-
----
-
-### [Senior Software Engineer - AI Data Applications](https://motional.com/open-positions/?gh_jid=7735404003#/7735404003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k—$198k` `Equity`
-
-_Design and build data curation, mining, and search applications that power ML dataset generation and accelerate autonomous vehicle development. Work at scale in the autonomous vehicles domain with cross-functional collaboration on data platform infrastructure. · [Apply →](https://motional.com/open-positions/?gh_jid=7735404003#/7735404003)_
-
-`TypeScript` `Python` `React` `REST APIs` `gRPC` `AWS` `Terraform` `EKS`
 
 <sub>May 15, 2026</sub>
 
