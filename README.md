@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1189 open roles** (209 new) &nbsp;·&nbsp; 1651 companies searched
+### **1215 open roles** (218 new) &nbsp;·&nbsp; 1651 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,72 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 23, 2026
+
+### [Senior Systems Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Langley-AFB/Senior-Systems-Engineer_RQ220456-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Langley AFB, Virginia · `Senior` `$97k-$120k`
+
+_Design, deploy, and maintain IT infrastructure and virtualization systems for the US BICES-X Coalition Integration Lab, a DoD intelligence sharing platform supporting NATO operations. Requires active TS/SCI clearance and on-site presence at JB Langley-Eustis, VA. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Langley-AFB/Senior-Systems-Engineer_RQ220456-1)_
+
+`VMware` `Windows Server` `DISA STIG` `Active Directory` `PowerShell` `Linux` `Python` `TS/SCI Clearance`
+
+<sub>May 23, 2026 at 05:24 UTC</sub>
+
+---
+
+### [AI/ML Platform Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Sterling/AI-ML-Platform-Engineer_RQ220407-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Sterling, Virginia · `🟡 Hybrid` `Principal` `$152k-$205k`
+
+_Design, deploy, and optimize Large Language Model solutions for government customers, including inference optimization and RAG pipeline implementation. Requires active Secret clearance and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Sterling/AI-ML-Platform-Engineer_RQ220407-1)_
+
+`Python` `LLMs` `RAG Pipeline` `PostgreSQL` `Vector Storage` `Inference Optimization` `Secret Clearance`
+
+<sub>May 23, 2026 at 05:24 UTC</sub>
+
+---
+
+### [Azure Cloud Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Fort-Meade/Azure-Cloud-Engineer_RQ220522-2)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Fort Meade, Maryland · `Senior` `$142k-$189k`
+
+_Build and maintain Azure cloud infrastructure and containerized applications for classified government systems in a DoD environment. Requires active Secret clearance, on-site presence at Fort Meade, MD, and support for DevSecOps pipelines, Kubernetes orchestration, and infrastructure-as-code automation. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Fort-Meade/Azure-Cloud-Engineer_RQ220522-2)_
+
+`Azure Kubernetes Service (AKS)` `Microsoft Azure` `DevSecOps` `Kubernetes` `PowerShell` `CI/CD` `Infrastructure as Code (IaC)` `Secret Clearance`
+
+<sub>May 23, 2026 at 05:24 UTC</sub>
+
+---
+
+### [Cloud Software Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer_RQ219602-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$112.8k-$149.5k`
+
+_Design, develop, and modernize secure, scalable cloud-native applications on Microsoft Azure for government mission-critical systems. Requires Public Trust clearance and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer_RQ219602-1)_
+
+`Azure` `C#` `ASP.NET Core` `Angular` `SQL Server` `Azure DevOps` `PowerShell` `Java`
+
+<sub>May 23, 2026 at 05:24 UTC</sub>
+
+---
+
+### [Cyber Security Analyst](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Manassas/Cyber-Security-Analyst_RQ220610-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Manassas, Virginia · `Mid` `$85k-$115k`
+
+_Monitor and analyze cybersecurity events using SIEM tools and firewall logs to detect and respond to threats for the Department of State. Requires active Top Secret clearance and on-site presence in Manassas, VA. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Manassas/Cyber-Security-Analyst_RQ220610-1)_
+
+`Splunk` `SIEM` `Vulnerability Management` `Firewall Analysis` `IDS/IPS` `CompTIA Security+` `Top Secret Clearance` `US Citizenship Required`
+
+<sub>May 23, 2026 at 05:24 UTC</sub>
+
+---
+
+### [Software Development Manager/IC](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Software-Development-Manager-IC_RQ220225-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Manager` `$136k-$184k`
+
+_Lead technical strategy and oversee development of a large-scale federal case management and workflow platform handling mission-critical operations. Requires hands-on technical leadership managing software teams in a federal contracting environment with high-availability, security, and compliance requirements. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Software-Development-Manager-IC_RQ220225-1)_
+
+`Java` `JavaScript` `SQL` `REST APIs` `CI/CD` `Agile` `Federal Government Contracting` `BI Full 6C (T4)`
+
+<sub>May 23, 2026 at 05:24 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Media Backend](https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e)
 <a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Senior` `Equity`
@@ -203,6 +269,17 @@ _Build backend systems and full-stack product experiences for AI-native scientif
 
 ---
 
+### [Data Developer](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Data-Developer_REQ507833)
+<a href="https://jll.com"><img src="https://www.google.com/s2/favicons?domain=jll.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JLL** · Toronto, ON · `Mid` `$120k-$140k CAD`
+
+_Build production ETL/ELT pipelines and data orchestration workflows using Python, SQL, and cloud platforms (Azure/AWS/GCP); integrate AI and automation patterns into enterprise data solutions for JLL's real estate platform. Requires on-site in Toronto, ON. · [Apply →](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Data-Developer_REQ507833)_
+
+`Python` `SQL` `Apache Spark` `PySpark` `Airflow` `Azure Data Factory` `Azure` `AWS`
+
+<sub>May 22, 2026 at 23:33 UTC</sub>
+
+---
+
 ### [Marketing AI Specialist](https://amplify.wd1.myworkdayjobs.com/Amplify_Careers/job/Remote---United-States/Marketing-AI-Specialist_Req_12715)
 <a href="https://amplify.com"><img src="https://www.google.com/s2/favicons?domain=amplify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Amplify** · `🟢 Remote` `Mid` `$96k-$108k` `Equity`
 
@@ -308,6 +385,17 @@ _Lead technical strategy for ML systems that optimize Pinterest's content ecosys
 _Engineer and operate enterprise network monitoring platforms (SevOne, ITNM/Netcool, NetBrain) at global scale, translating business requirements into monitoring logic, alerting rules, and tool integrations. Work in a 24x7 DevOps environment supporting Visa's payment infrastructure reliability across 200+ countries. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Sr-Network-Engineer--Network-Observability_REF079179W)_
 
 `Python` `Ansible` `Terraform` `SevOne` `ITNM/Netcool` `NetBrain` `SNMP` `Linux`
+
+<sub>May 22, 2026 at 22:30 UTC</sub>
+
+---
+
+### [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer_REF080324W)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Ashburn, Virginia · `🟡 Hybrid` `Junior` `$88k-$136.9k` `Equity`
+
+_Build backend services and full-stack applications for a GenAI-powered automation platform that orchestrates multi-step workflows across Visa's global operations infrastructure. Work with Python, React, and agentic frameworks (LangChain, LangGraph) to reduce manual operational tasks at scale. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer_REF080324W)_
+
+`Python` `FastAPI` `React` `LangChain` `LangGraph` `Microservices` `Distributed Systems`
 
 <sub>May 22, 2026 at 22:30 UTC</sub>
 
@@ -432,39 +520,6 @@ _Lead the mechanical design, integration, and validation of flight-critical elec
 
 ---
 
-### [Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R168882)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$125k-$234k` `Equity`
-
-_Develop machine learning models and algorithms for attribution, measurement, forecasting, and planning that help organizations optimize strategies and drive growth. Work on advanced ML solutions at scale with emphasis on generative and agentic AI capabilities. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R168882)_
-
-`Python` `R` `TensorFlow` `PyTorch` `Scikit-learn` `Probability & Statistics` `Mathematical Modeling`
-
-<sub>May 22, 2026 at 20:40 UTC</sub>
-
----
-
-### [Senior Product Engineer  — iOS](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----iOS_R169116)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$173.5k-$331.05k` `Equity`
-
-_Own end-to-end iOS features for video creation and editing experiences, from interaction design through production, partnering with product and design to shape requirements. Use AI-assisted coding tools and strong UX instincts to ship high-quality, performant features for creative professionals; requires deep mobile video editing domain knowledge and ability to influence product decisions. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----iOS_R169116)_
-
-`Swift` `SwiftUI` `UIKit` `AVFoundation` `AI-Assisted Development` `Performance Profiling` `Figma`
-
-<sub>May 22, 2026 at 20:40 UTC</sub>
-
----
-
-### [Senior Software Quality Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Quality-Engineer_R168402-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$113k-$221k` `Equity`
-
-_Own quality strategy and test automation for Premiere Pro's high-performance video rendering pipeline, validating functionality and performance across complex editing workflows, media formats, codecs, and hardware configurations. Requires expertise in video rendering architecture, performance testing, and CI automation. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Quality-Engineer_R168402-1)_
-
-`TypeScript` `JavaScript` `Python` `Jenkins` `video codecs` `performance testing` `test automation`
-
-<sub>May 22, 2026 at 20:40 UTC</sub>
-
----
-
 ### [Distinguished Engineer , Bank Tech (Remote- Eligible)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Distinguished-Engineer---Bank-Tech--Remote--Eligible-_R243024-1)
 <a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Remote / McLean, Virginia / New York, New York · `Principal` `$244k-$335k` `Equity`
 
@@ -482,39 +537,6 @@ _Lead architectural modernization of Capital One's customer acquisition platform
 _Develop advanced software systems for space intelligence and mission command & control applications on cloud infrastructure, supporting analytics, planning, scheduling, and orchestration capabilities for the national intelligence community. Requires active Top Secret security clearance and U.S. citizenship; contingent on security approval for program access. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Software-Engineer-Systems--Associate-Experienced-_JR2026511797-1)_
 
 `Agile` `SAFe` `Jira` `Confluence` `Cloud Infrastructure` `Systems Architecture` `Distributed Systems`
-
-<sub>May 22, 2026 at 20:40 UTC</sub>
-
----
-
-### [Senior AI Engineer](https://epicgames.com/careers/jobs/6001641004?gh_jid=6001641004)
-<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · Cary, North Carolina · `Senior`
-
-_Build core gameplay AI systems and features for Fortnite, including behavior trees, pathfinding, and animation systems that power live-service experiences across all platforms. Ship AAA game AI that scales across millions of concurrent players in a fast-paced, iterative environment. · [Apply →](https://epicgames.com/careers/jobs/6001641004?gh_jid=6001641004)_
-
-`C++` `Unreal Engine` `Behavior Trees` `Finite State Machines` `Pathfinding` `Game AI` `Animation Systems`
-
-<sub>May 22, 2026 at 20:40 UTC</sub>
-
----
-
-### [Senior AI Programmer](https://epicgames.com/careers/jobs/6001643004?gh_jid=6001643004)
-<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · Multiple Locations, US (excluding CA, New York, Washington) · `Senior`
-
-_Build core AI gameplay systems and features for Fortnite and other Unreal projects, including behavior trees, pathfinding, and character AI. Ship systems across live service games at scale. · [Apply →](https://epicgames.com/careers/jobs/6001643004?gh_jid=6001643004)_
-
-`C++` `Unreal Engine` `Behavior Trees` `Finite State Machines` `Pathfinding` `Game AI`
-
-<sub>May 22, 2026 at 20:40 UTC</sub>
-
----
-
-### [Senior UI Programmer](https://epicgames.com/careers/jobs/6001649004?gh_jid=6001649004)
-<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · Cary, North Carolina · `Senior`
-
-_Build UI systems and features for Fortnite and Unreal Engine games, including HUD widgets, minimaps, mission flows, and interaction menus across multiple platforms. Requires significant shipped experience with online multiplayer games and strong C++ expertise. · [Apply →](https://epicgames.com/careers/jobs/6001649004?gh_jid=6001649004)_
-
-`C++` `Unreal Engine` `Game UI Development` `Multiplayer Systems` `Real-time Rendering`
 
 <sub>May 22, 2026 at 20:40 UTC</sub>
 
@@ -548,6 +570,39 @@ _Design, develop, and test directed energy laser weapon systems and electro-opti
 _Own the productionization layer of Invoca's ML stack—model serving, inference optimization, fine-tuning infrastructure, and deployment pipelines for LLM/SLM-based conversation intelligence and agentic AI workflows. Build and maintain MLOps infrastructure for transformer-based NLP models at scale, with a focus on low-latency inference and robust production APIs. · [Apply →](https://www.invoca.com/company/job-listings/?gh_jid=8563012002)_
 
 `Python` `PyTorch` `HuggingFace Transformers` `Triton Inference Server` `Kubernetes` `LoRA` `vLLM` `MLflow`
+
+<sub>May 22, 2026 at 20:40 UTC</sub>
+
+---
+
+### [Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R168882)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$125k-$234k` `Equity`
+
+_Develop machine learning models and algorithms for attribution, measurement, forecasting, and planning that help organizations optimize strategies and drive growth. Work on advanced ML solutions at scale with emphasis on generative and agentic AI capabilities. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R168882)_
+
+`Python` `R` `TensorFlow` `PyTorch` `Scikit-learn` `Probability & Statistics` `Mathematical Modeling`
+
+<sub>May 22, 2026 at 20:40 UTC</sub>
+
+---
+
+### [Senior Product Engineer  — iOS](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----iOS_R169116)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$173.5k-$331.05k` `Equity`
+
+_Own end-to-end iOS features for video creation and editing experiences, from interaction design through production, partnering with product and design to shape requirements. Use AI-assisted coding tools and strong UX instincts to ship high-quality, performant features for creative professionals; requires deep mobile video editing domain knowledge and ability to influence product decisions. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----iOS_R169116)_
+
+`Swift` `SwiftUI` `UIKit` `AVFoundation` `AI-Assisted Development` `Performance Profiling` `Figma`
+
+<sub>May 22, 2026 at 20:40 UTC</sub>
+
+---
+
+### [Senior Software Quality Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Quality-Engineer_R168402-1)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$113k-$221k` `Equity`
+
+_Own quality strategy and test automation for Premiere Pro's high-performance video rendering pipeline, validating functionality and performance across complex editing workflows, media formats, codecs, and hardware configurations. Requires expertise in video rendering architecture, performance testing, and CI automation. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Senior-Software-Quality-Engineer_R168402-1)_
+
+`TypeScript` `JavaScript` `Python` `Jenkins` `video codecs` `performance testing` `test automation`
 
 <sub>May 22, 2026 at 20:40 UTC</sub>
 
@@ -729,17 +784,6 @@ _Design and ship backend APIs and services powering enterprise physical security
 
 ---
 
-### [Machine Learning Engineer 5](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169103)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$211k-$306k` `Equity`
-
-_Design and build LLM-powered systems that simulate consumer audiences end-to-end, from proof-of-concept to production, including complex inference harnesses, fine-tuning pipelines, and evaluation frameworks. Requires hands-on experience shipping production Gen AI features and deep expertise in modern LLM techniques (SFT, DPO/GRPO, RLHF, RAG, agentic systems). · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169103)_
-
-`Python` `PyTorch` `Hugging Face` `vLLM` `LLM Fine-tuning` `RAG` `Prompt Engineering` `AWS`
-
-<sub>May 22, 2026 at 19:54 UTC</sub>
-
----
-
 ### [Manager, Security Platform Engineering, DLP Control Platform](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Security-Platform-Engineering--DLP-Control-Platform_R243193-1)
 <a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia / New York, New York / Plano, Texas / Richmond, Virginia · `Manager` `$179k-$245k` `Equity`
 
@@ -867,6 +911,28 @@ _Build and operate authentication, authorization, and security platforms that pr
 _Build SDKs, on-device experiences, and backend systems for cross-channel marketing orchestration in native apps and web. Shape API design and integration patterns for a foundational platform enabling real-time eligibility evaluation, message delivery, and behavioral data collection across iOS, Android, and React Native. · [Apply →](https://job-boards.greenhouse.io/hightouch/jobs/6004706004)_
 
 `iOS` `Android` `React Native` `SDK Development` `TypeScript` `Java` `Kotlin` `Swift`
+
+<sub>May 22, 2026 at 19:54 UTC</sub>
+
+---
+
+### [Machine Learning Engineer 5](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169103)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$211k-$306k` `Equity`
+
+_Design and build LLM-powered systems that simulate consumer audiences end-to-end, from proof-of-concept to production, including complex inference harnesses, fine-tuning pipelines, and evaluation frameworks. Requires hands-on experience shipping production Gen AI features and deep expertise in modern LLM techniques (SFT, DPO/GRPO, RLHF, RAG, agentic systems). · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169103)_
+
+`Python` `PyTorch` `Hugging Face` `vLLM` `LLM Fine-tuning` `RAG` `Prompt Engineering` `AWS`
+
+<sub>May 22, 2026 at 19:54 UTC</sub>
+
+---
+
+### [Senior Full Chip Physical Design Integration Lead](https://intel.wd1.myworkdayjobs.com/External/job/US-Massachusetts-Beaver-Brook/Senior-Full-Chip-Physical-Design-Integration-Lead_JR0283815)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Beaver Brook, Massachusetts / Hillsboro, Oregon · `🟡 Hybrid` `Senior` `$164k-$311k` `Equity`
+
+_Drive physical design implementation for System-on-Chip (SoC) designs across synthesis, place-and-route, clock tree synthesis, and timing closure, transforming RTL to manufacturing-ready GDS databases. Optimize power, frequency, and area across multiple power domains while developing design methodologies and flow automation for high-performance data center products. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-Massachusetts-Beaver-Brook/Senior-Full-Chip-Physical-Design-Integration-Lead_JR0283815)_
+
+`Physical Design` `RTL-to-GDS` `Place and Route` `Clock Tree Synthesis` `Static Timing Analysis` `Power Integrity Analysis` `EDA Tools` `Scripting`
 
 <sub>May 22, 2026 at 19:54 UTC</sub>
 
@@ -1070,23 +1136,23 @@ _Build and ship end-to-end product features on the Platform UI team for Optro's 
 
 ---
 
-### [Principal Scientist - Agentic Product](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Scientist---Agentic-Product_R169063-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Principal` `$190k-$360k` `Equity`
-
-_Lead the end-to-end technical architecture and hands-on buildout of Adobe's AI-native agentic product across full stack — from LLM integration and agentic reasoning to production infrastructure and cross-platform delivery on desktop, mobile, and web. Deep expertise in LLMs, agentic systems, and AI-assisted engineering required; responsible for translating prototype capabilities into robust, scalable systems serving hundreds of millions of creators. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Scientist---Agentic-Product_R169063-1)_
-
-`Large Language Models` `Agentic Systems` `Prompt Engineering` `Retrieval-Augmented Generation` `Tool Use & Orchestration` `Claude Code` `Full-Stack Engineering` `Agent Evaluation & Evals`
-
-<sub>May 22, 2026 at 18:18 UTC</sub>
-
----
-
 ### [Solar Performance Analyst](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Solar-Performance-Analyst_R10624)
 <a href="https://invenergy.com"><img src="https://www.google.com/s2/favicons?domain=invenergy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Invenergy** · Chicago, Illinois · `Mid` `$77k-$98k`
 
 _Build data pipelines and analytics infrastructure to transform SCADA, meteorological, and operational data from utility-scale solar assets into dashboards, KPIs, and performance insights for fleet optimization. Work with large time-series datasets across growing solar operating portfolio to enable data-driven decision-making for operations and asset management teams. · [Apply →](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Solar-Performance-Analyst_R10624)_
 
 `Python` `Power BI` `SQL` `AVEVA PI System` `SCADA` `Time-Series Data Analysis` `Data Validation` `ETL`
+
+<sub>May 22, 2026 at 18:18 UTC</sub>
+
+---
+
+### [Principal Scientist - Agentic Product](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Scientist---Agentic-Product_R169063-1)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Principal` `$190k-$360k` `Equity`
+
+_Lead the end-to-end technical architecture and hands-on buildout of Adobe's AI-native agentic product across full stack — from LLM integration and agentic reasoning to production infrastructure and cross-platform delivery on desktop, mobile, and web. Deep expertise in LLMs, agentic systems, and AI-assisted engineering required; responsible for translating prototype capabilities into robust, scalable systems serving hundreds of millions of creators. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Scientist---Agentic-Product_R169063-1)_
+
+`Large Language Models` `Agentic Systems` `Prompt Engineering` `Retrieval-Augmented Generation` `Tool Use & Orchestration` `Claude Code` `Full-Stack Engineering` `Agent Evaluation & Evals`
 
 <sub>May 22, 2026 at 18:18 UTC</sub>
 
@@ -1257,17 +1323,6 @@ _Design and implement automated test plans and procedures for satellite communic
 
 ---
 
-### [Sr. Machine Learning Engineer 4](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R166104)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$151k-$265k` `Equity`
-
-_Design and build backend services powering ML and Generative AI features, including model development, evaluation, deployment, and agentic systems orchestration. Requires 5+ years of production ML experience with deep learning and GenAI; Master's or PhD in CS/ML. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R166104)_
-
-`Python` `PyTorch` `TensorFlow` `AWS` `GCP` `Azure` `Kubernetes` `MLflow`
-
-<sub>May 22, 2026 at 17:42 UTC</sub>
-
----
-
 ### [Senior Cyber Cryptographic Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Cyber-Cryptographic-Engineer_R243171-1)
 <a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Riverwoods, Illinois / McLean, Virginia / New York, New York / Richmond, Virginia / San Jose, California · `Senior` `$147k-$201k` `Equity`
 
@@ -1301,17 +1356,6 @@ _Lead end-to-end test automation infrastructure for Capital One's credit card te
 
 ---
 
-### [Senior Salesforce Developer (Remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Salesforce-Developer--Remote-_R056722)
-<a href="https://firstam.com"><img src="https://www.google.com/s2/favicons?domain=firstam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**First American** · `🟢 Remote` `Senior` `$148k - $198k`
-
-_Design and architect scalable Salesforce solutions across Sales Cloud, Service Cloud, Financial Services Cloud, Marketing Cloud, and Agentforce, integrating enterprise platforms and implementing AI-driven automations. Apply hands-on expertise in Lightning Web Components, Apex, Flows, and generative AI tools to modernize a multi-billion-dollar sales and marketing organization. · [Apply →](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Salesforce-Developer--Remote-_R056722)_
-
-`Salesforce` `Apex` `Lightning Web Components` `Salesforce Financial Services Cloud` `Marketing Cloud` `Agentforce` `Data Cloud` `Generative AI`
-
-<sub>May 22, 2026 at 17:42 UTC</sub>
-
----
-
 ### [Sr Principal AI-Data Scientist (ADEM)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Principal-AI-Data-Scientist--ADEM-_JR-017916)
 <a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · Santa Clara, California · `Principal` `$185k-$299k` `Equity`
 
@@ -1323,12 +1367,45 @@ _Design and deploy production agentic AI systems for automated network root caus
 
 ---
 
+### [Senior Salesforce Developer (Remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Salesforce-Developer--Remote-_R056722)
+<a href="https://firstam.com"><img src="https://www.google.com/s2/favicons?domain=firstam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**First American** · `🟢 Remote` `Senior` `$148k - $198k`
+
+_Design and architect scalable Salesforce solutions across Sales Cloud, Service Cloud, Financial Services Cloud, Marketing Cloud, and Agentforce, integrating enterprise platforms and implementing AI-driven automations. Apply hands-on expertise in Lightning Web Components, Apex, Flows, and generative AI tools to modernize a multi-billion-dollar sales and marketing organization. · [Apply →](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Salesforce-Developer--Remote-_R056722)_
+
+`Salesforce` `Apex` `Lightning Web Components` `Salesforce Financial Services Cloud` `Marketing Cloud` `Agentforce` `Data Cloud` `Generative AI`
+
+<sub>May 22, 2026 at 17:42 UTC</sub>
+
+---
+
 ### [Specialiste en Charges et Dynamique / Loads & Dynamics Specialist](https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Specialiste-en-Charges-et-Dynamique---Loads---Dynamics-Specialist_JR10370651)
 <a href="https://airbus.com"><img src="https://www.google.com/s2/favicons?domain=airbus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbus Helicopters** · Mirabel, Canada · `🟡 Hybrid` `Senior` `Equity`
 
 _Build aeroelastic analysis and finite element models for the A220 commercial aircraft, performing static and dynamic load calculations, correlating test data, and producing certification documentation. Requires 10+ years of aerospace dynamics experience and Nastran expertise. · [Apply →](https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Specialiste-en-Charges-et-Dynamique---Loads---Dynamics-Specialist_JR10370651)_
 
 `Nastran` `MATLAB` `Fortran` `C/C++` `Finite Element Analysis` `Aeroelasticity` `Linux/Windows scripting`
+
+<sub>May 22, 2026 at 17:42 UTC</sub>
+
+---
+
+### [Sr. Machine Learning Engineer 4](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R166104)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$151k-$265k` `Equity`
+
+_Design and build backend services powering ML and Generative AI features, including model development, evaluation, deployment, and agentic systems orchestration. Requires 5+ years of production ML experience with deep learning and GenAI; Master's or PhD in CS/ML. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer-4_R166104)_
+
+`Python` `PyTorch` `TensorFlow` `AWS` `GCP` `Azure` `Kubernetes` `MLflow`
+
+<sub>May 22, 2026 at 17:42 UTC</sub>
+
+---
+
+### [AI Algorithm Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Algorithm-Engineer_JR0282889)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Hillsboro, Oregon / Phoenix, Arizona · `Mid` `$133k-$240k` `Equity`
+
+_Develop and optimize AI algorithms for computer vision and machine learning applications, with integration into Intel's foundry manufacturing solutions. Requires MS in Computer Science/Engineering with AI specialization and hands-on experience deploying models in production environments. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Algorithm-Engineer_JR0282889)_
+
+`Python` `C++` `PyTorch` `TensorFlow` `OpenCV` `Docker` `Git`
 
 <sub>May 22, 2026 at 17:42 UTC</sub>
 
@@ -1422,6 +1499,17 @@ _Lead the design and development of embedded software systems for automotive aud
 
 ---
 
+### [Manager, Software Engineering](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Software-Engineering_REQ350331-1)
+<a href="https://t-mobile.com"><img src="https://www.google.com/s2/favicons?domain=t-mobile.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**T-Mobile** · Overland Park, Kansas / Frisco, Texas / Bellevue, Washington · `Manager` `$146k-$240k` `Equity`
+
+_Lead a software engineering team delivering authentication solutions, mobile onboarding experiences, and home screen features for T-Mobile's large-scale mobile apps serving millions of daily active users. Hands-on expertise with AEM and MoEngage required; manage vendor relationships and oversee technical infrastructure in an Agile environment. · [Apply →](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Software-Engineering_REQ350331-1)_
+
+`AEM` `MoEngage` `Agile` `Authentication Systems` `Mobile Development` `Analytics and Business Intelligence`
+
+<sub>May 22, 2026 at 17:42 UTC</sub>
+
+---
+
 ### [Developer, Billing and Payments](https://jobs.ashbyhq.com/1password/6cecdb89-6b8f-423a-bb78-9e62ed413fa8)
 <a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Mid` `$123k-$172k USD / $111k-$155k CAD` `Equity`
 
@@ -1477,17 +1565,6 @@ _Lead engineering strategy, technical governance, and organizational development
 
 ---
 
-### [Senior Product Engineer  — Android](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----Android_R168831-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$139k-$257.55k` `Equity`
-
-_Own end-to-end Android video editing features from interaction design through production, using AI-assisted development tools to accelerate delivery while maintaining high craft standards. Deep mobile video editing domain expertise required; work at the intersection of creative software and AI-augmented engineering. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----Android_R168831-1)_
-
-`Kotlin` `Java` `Jetpack Compose` `Media3` `Android Performance Profiling` `Material Design` `AI-Assisted Development`
-
-<sub>May 22, 2026 at 16:55 UTC</sub>
-
----
-
 ### [Senior Product Review Engineer (Liaison Engineering)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Senior-Product-Review-Engineer--Liaison-Engineering-_JR2026505926-5)
 <a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · North Charleston, South Carolina · `Senior` `$126k-$171k`
 
@@ -1527,6 +1604,17 @@ _Build and scale Salesforce CPQ workflows, integrations, and subscription lifecy
 _Own the architectural vision and hands-on implementation of Huntress's commercial Salesforce ecosystem, including CPQ, billing platform integrations (Zuora), and iPaaS-powered integration layers connecting to an emerging AI-augmented workflow layer. Lead technical design across subscription billing, partner portal, and complex pricing models at scale for 5M+ endpoints. · [Apply →](https://job-boards.greenhouse.io/huntress/jobs/7734919003)_
 
 `Salesforce CPQ` `Apex` `Lightning Web Components` `Salesforce Flows` `Workato` `Zuora` `Experience Cloud` `LLM APIs`
+
+<sub>May 22, 2026 at 16:55 UTC</sub>
+
+---
+
+### [Senior Product Engineer  — Android](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----Android_R168831-1)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$139k-$257.55k` `Equity`
+
+_Own end-to-end Android video editing features from interaction design through production, using AI-assisted development tools to accelerate delivery while maintaining high craft standards. Deep mobile video editing domain expertise required; work at the intersection of creative software and AI-augmented engineering. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Engineer----Android_R168831-1)_
+
+`Kotlin` `Java` `Jetpack Compose` `Media3` `Android Performance Profiling` `Material Design` `AI-Assisted Development`
 
 <sub>May 22, 2026 at 16:55 UTC</sub>
 
@@ -1752,17 +1840,6 @@ _Design and develop scalable frontend and backend systems for Visa's global paym
 
 ---
 
-### [Senior Staff Platform and Product Security AI engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Staff-Platform-and-Product-Security-AI-engineer_R169084)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Staff` `$173.5k-$331.05k` `Equity`
-
-_Define and architect AI security strategy for Adobe Express, embedding secure-by-default guardrails, DevSecOps automation, and agent sandboxing across CI/CD pipelines, coding assistants, and production AI systems. Requires 12+ years securing large-scale products and demonstrated technology leadership. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Staff-Platform-and-Product-Security-AI-engineer_R169084)_
-
-`Python` `Java` `TypeScript` `Go` `DevSecOps` `Threat Modeling` `API Security` `CISSP`
-
-<sub>May 22, 2026 at 15:35 UTC</sub>
-
----
-
 ### [Associate Software Engineer - Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Mid-Level-Software-Engineer---Developer_JR2026511731-1)
 <a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Berkeley, Missouri · `Junior` `$99k-$134k`
 
@@ -1780,6 +1857,17 @@ _Develop infrared management and mission planning software for defense applicati
 _Develop and integrate software solutions for engineering and manufacturing product data management, supporting Commercial-off-the-Shelf and in-house applications across Boeing's Product Support PLM Transformation team. Requires U.S. Person status for export control compliance. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Software-Developer--Associate-or-Mid-Level-_JR2026510316-1)_
 
 `Java` `JavaScript` `C++` `Git` `Siemens Team Center` `Python` `CI/CD` `Agile`
+
+<sub>May 22, 2026 at 15:35 UTC</sub>
+
+---
+
+### [Senior Staff Platform and Product Security AI engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Staff-Platform-and-Product-Security-AI-engineer_R169084)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Staff` `$173.5k-$331.05k` `Equity`
+
+_Define and architect AI security strategy for Adobe Express, embedding secure-by-default guardrails, DevSecOps automation, and agent sandboxing across CI/CD pipelines, coding assistants, and production AI systems. Requires 12+ years securing large-scale products and demonstrated technology leadership. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Staff-Platform-and-Product-Security-AI-engineer_R169084)_
+
+`Python` `Java` `TypeScript` `Go` `DevSecOps` `Threat Modeling` `API Security` `CISSP`
 
 <sub>May 22, 2026 at 15:35 UTC</sub>
 
@@ -2152,6 +2240,17 @@ _Develop custom ABAP solutions and configure SAP integrations for ECC and S/4HAN
 _Own and maintain ClickHouse connectors for major JVM-based data frameworks (Spark, Flink, Kafka, Beam), building high-performance database drivers and SDKs that handle billions of records per second. This role requires deep expertise in JVM internals, concurrent programming, and data integration systems at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6000796004)_
 
 `Java` `Apache Spark` `Apache Flink` `Kafka Connect` `Apache Beam` `JDBC` `Concurrent Programming` `Python`
+
+<sub>May 22, 2026 at 09:22 UTC</sub>
+
+---
+
+### [Engineering Manager (Manufacturing)](https://jci.wd5.myworkdayjobs.com/JCI/job/Albany-Missouri-United-States-of-America/Engineering-Manager_WD30263699)
+<a href="https://sensormatic.com"><img src="https://www.google.com/s2/favicons?domain=sensormatic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sensormatic Electronics** · Albany, Missouri · `Manager` `$97k-$130k`
+
+_Lead a manufacturing engineering team of 4 engineers designing production tooling, equipment, and processes for commercial HVAC unit fabrication and assembly. Drive continuous improvement through Lean/Six Sigma methodology and capital project execution at a 165,000 sq ft facility. · [Apply →](https://jci.wd5.myworkdayjobs.com/JCI/job/Albany-Missouri-United-States-of-America/Engineering-Manager_WD30263699)_
+
+`Lean Manufacturing` `Six Sigma` `Capital Project Management` `Cost Estimating` `Manufacturing Process Improvement`
 
 <sub>May 22, 2026 at 09:22 UTC</sub>
 
