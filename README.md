@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1299 open roles** (57 new) &nbsp;·&nbsp; 1651 companies searched
+### **1299 open roles** (47 new) &nbsp;·&nbsp; 1651 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -530,114 +530,6 @@ _Build backend services and full-stack applications for a GenAI-powered automati
 `Python` `FastAPI` `React` `LangChain` `LangGraph` `Microservices` `Distributed Systems`
 
 <sub>May 22, 2026 at 22:30 UTC</sub>
-
----
-
-### [Jr Developer, Trust Platforms](https://jobs.ashbyhq.com/1password/f9d5a90c-5778-40a6-9f2b-4847ae70ef4d)
-<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Junior` `$100k-$130k (US) / $85k-$110.5k (CAD)` `Equity`
-
-_Build backend systems and services for 1Password's Confidential Computing platform and Public Key Verification infrastructure. Work on security-focused platforms handling enterprise identity authentication and access management at scale across 180,000+ businesses. · [Apply →](https://jobs.ashbyhq.com/1password/f9d5a90c-5778-40a6-9f2b-4847ae70ef4d)_
-
-`Rust` `Go` `cryptography` `testing methodologies` `debugging techniques`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Senior Data Platform Engineer](https://jobs.ashbyhq.com/1password/5c42ec98-c227-4f49-8357-5babf51ec1c7)
-<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Senior` `$152k-$197.5k` `Equity`
-
-_Design and operate a streaming-first data platform built on Apache Kafka, Protobuf, and Apache Iceberg, enabling near real-time data availability across the organization. Build and maintain a hybrid Databricks and Snowflake architecture with unified governance and security for analytics, AI/ML, and business reporting at scale. · [Apply →](https://jobs.ashbyhq.com/1password/5c42ec98-c227-4f49-8357-5babf51ec1c7)_
-
-`Apache Kafka` `Databricks` `Snowflake` `Terraform` `Python` `AWS` `Apache Iceberg` `Datadog`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Research Scientist, Open Ecosystem](https://job-boards.greenhouse.io/thealleninstitute/jobs/7955021)
-<a href="https://allenai.org"><img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Allen Institute for AI** · Seattle, Washington · `Senior` `$167k-$260k`
-
-_Lead foundational research on open language models (Olmo, Tulu, Molmo) and build software systems for generative AI; implement novel methodologies in pre-training, post-training, and multimodal AI while mentoring early-career researchers and publishing high-impact technical reports. · [Apply →](https://job-boards.greenhouse.io/thealleninstitute/jobs/7955021)_
-
-`PyTorch` `TensorFlow` `Python` `Reinforcement Learning` `NLP` `CUDA` `JAX` `Distributed Systems`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Engineering Manager, Research Tools](https://job-boards.greenhouse.io/anthropic/jobs/5223093008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `Equity`
-
-_Lead a team of ML and distributed systems engineers building infrastructure for large-scale model finetuning and research productivity tools at Anthropic. Manage work prioritization across research, product, and infrastructure teams in a fast-moving AI safety organization. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5223093008)_
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Team Lead, Vehicle Test Team](https://job-boards.greenhouse.io/astranis/jobs/4683946006)
-<a href="https://astranis.com"><img src="https://www.google.com/s2/favicons?domain=astranis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astranis** · San Francisco, California · `Manager` `$150k-$230k` `Equity`
-
-_Lead the Vehicle Test team building and operating HITL testbeds and test frameworks that verify Astranis spacecraft are launch-ready across integration phases from panel-level through full spacecraft testing. Spacecraft test experience and US Government programs require US citizenship or permanent residency. · [Apply →](https://job-boards.greenhouse.io/astranis/jobs/4683946006)_
-
-`Python` `HITL Systems` `Test Framework Design` `Hardware Testing` `Embedded Systems` `Spacecraft Testing`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Software Engineer I](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859292004)
-<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · San Diego, California · `Junior` `$137k—$205k`
-
-_Build scalable Trust & Safety platforms, moderation systems, and operational tooling that protect players across PlayStation's multiplayer and live-service gaming ecosystems. Work across frontend, backend, cloud infrastructure, and analytics to create safer online gaming experiences for 100+ million players. · [Apply →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859292004)_
-
-`React` `TypeScript` `Node.js` `Python` `Go` `GCP` `AWS` `Kubernetes`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [C-17 Mission Systems Engineer (SME or Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/C-17-Mission-Systems-Engineer--SME-or-Senior-_JR2026509763-1)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Long Beach, California · `Senior` `$135k-$224k`
-
-_Lead design and structural analysis of cargo handling and mission systems for the C-17 Globemaster III aircraft using FEA and CAD tools. Requires 5+ years aerospace payload/structural design experience and U.S. Person status for export control compliance. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/C-17-Mission-Systems-Engineer--SME-or-Senior-_JR2026509763-1)_
-
-`FEA` `CATIA` `Solidworks` `Siemens NX` `TeamCenter` `ENOVIA` `Aerospace Engineering` `Structural Analysis`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Scientist II, Arrayed Screening](https://jobs.ashbyhq.com/insitro/ebcc4ec8-13e4-4c6e-8d19-afc2ded16000)
-<a href="https://insitro.com"><img src="https://www.google.com/s2/favicons?domain=insitro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Insitro** · South San Francisco, California · `Mid` `$136k-$145k` `Equity`
-
-_Design, optimize, and execute high-throughput cell-based and biochemical screening assays in 96- and 384-well plate formats to generate machine-learning-ready biological datasets for drug discovery. Partner with automation teams to scale assays and collaborate with ML/data science teams to ensure reproducible, well-annotated datasets powering predictive disease models. · [Apply →](https://jobs.ashbyhq.com/insitro/ebcc4ec8-13e4-4c6e-8d19-afc2ded16000)_
-
-`GraphPad Prism` `Spotfire` `Benchling` `Python` `R` `CRISPR` `Flow Cytometry`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Senior High Performance AI Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Performance-AI-Engineer_JR2013607)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Senior` `$184k-$287.5k` `Equity`
-
-_Design and build GPU-accelerated agentic AI systems and runtimes for the CUDA ecosystem, optimizing multi-agent planning, tool-use, and code generation workloads. Collaborate across NVIDIA's hardware, compiler, and framework teams to integrate agent abstractions into production software stack. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Performance-AI-Engineer_JR2013607)_
-
-`CUDA` `C++` `Python` `GPU performance optimization` `Deep learning frameworks` `Inference serving` `Compiler design` `Distributed systems`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
-
----
-
-### [Verification and Validation Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Austin, Texas · `Junior` `$100k-$166.75k` `Equity`
-
-_Build test generators and verification infrastructure for NVIDIA GPUs, CPUs, and SoCs, validating memory coherency, cache interactions, and architectural correctness across pre- and post-silicon environments. Entry-level role focused on mastering advanced verification methodologies (VCS, emulation, FPGA) for high-complexity semiconductor products. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1)_
-
-`C++` `Python` `Perl` `VCS` `FPGA` `Computer Architecture` `Memory Models` `Emulation`
-
-<sub>May 22, 2026 at 21:34 UTC</sub>
 
 ---
 
