@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1284 open roles** (13 new) &nbsp;·&nbsp; 1666 companies searched
+### **1309 open roles** (12 new) &nbsp;·&nbsp; 1666 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -141,21 +141,6 @@ _Lead the propulsion systems discipline for orbital spacecraft, owning subsystem
 `Spacecraft Propulsion Systems` `CAD` `PLM Software` `Fluid Systems Analysis` `P&IDs` `Pressurized Hardware` `Propellant Handling` `Systems Engineering`
 
 <sub>May 24, 2026 at 01:15 UTC</sub>
-
----
-
-<br>
-
-## May 23, 2026
-
-### [Lead Data Engineer](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5843597004)
-<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, New York · `🟡 Hybrid` `Senior` `$100k—$200k` `Equity`
-
-_Design and operate Galaxy's production data platform supporting trading, custody, and asset management systems at institutional scale. Lead technical direction for batch and streaming pipelines across the Databricks/Spark ecosystem; mentor engineers and drive reliability for crypto and financial infrastructure. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5843597004)_
-
-`Python` `Java` `AWS` `Databricks` `Spark` `dbt` `Airflow` `PostgreSQL`
-
-<sub>May 23, 2026 at 20:25 UTC</sub>
 
 ---
 
