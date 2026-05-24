@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1234 open roles** (17 new) &nbsp;·&nbsp; 1666 companies searched
+### **1309 open roles** (15 new) &nbsp;·&nbsp; 1666 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 24, 2026
+
+### [Engineering Manager, API Core Capabilities](https://job-boards.greenhouse.io/anthropic/jobs/5081338008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `$405k-$485k` `Equity`
+
+_Lead the API Core team owning the /v1/messages hot path and request lifecycle for Claude API, driving service-efficiency improvements, throughput scaling, and rate-limiting systems that mediate access to inference capacity across millions of QPS. Requires depth in systems-level performance engineering, distributed systems at scale, or API platform design, with experience managing high-throughput backend or developer platform teams under capacity pressure. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5081338008)_
+
+`Rust` `Go` `Distributed Systems` `Load Balancing` `Rate Limiting` `API Design` `Systems Performance Engineering`
+
+<sub>May 24, 2026 at 14:36 UTC</sub>
+
+---
 
 ### [Go-to-Market Engineer - Montreal, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004138004)
 <a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Montreal, Canada · `Mid`
@@ -167,39 +178,6 @@ _Build foundational security infrastructure for Snowflake's Data Cloud, includin
 `Java` `Python` `C++` `Go` `Rust` `Kubernetes` `AWS`
 
 <sub>May 23, 2026 at 15:31 UTC</sub>
-
----
-
-### [Data Engineer (AI)](https://job-boards.greenhouse.io/inkind/jobs/5230006008)
-<a href="https://inkind.com"><img src="https://www.google.com/s2/favicons?domain=inkind.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**inKind** · Austin, Texas · `Senior` `$135k-$155k`
-
-_Build and maintain AI-ready data pipelines, feature stores, embedding pipelines, and vector databases that power LLM applications, ML training, and RAG systems. Design data architectures for AI/LLM integration with security and governance controls around third-party provider APIs. · [Apply →](https://job-boards.greenhouse.io/inkind/jobs/5230006008)_
-
-`Python` `SQL` `Snowflake` `dbt` `AWS` `ETL/ELT` `PostgreSQL` `Vector Databases`
-
-<sub>May 23, 2026 at 14:39 UTC</sub>
-
----
-
-### [Senior Software Engineer](https://job-boards.greenhouse.io/inkind/jobs/5230007008)
-<a href="https://inkind.com"><img src="https://www.google.com/s2/favicons?domain=inkind.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**inKind** · `🟢 Remote` `Senior` `$160k-$185k`
-
-_Design and build distributed systems powering real-time financial transactions and operational workflows for restaurants at scale. Build secure, highly available infrastructure for payments and financial operations with strong data integrity; requires 8+ years production systems experience and distributed systems expertise. · [Apply →](https://job-boards.greenhouse.io/inkind/jobs/5230007008)_
-
-`Distributed Systems` `Rails` `Django` `Express` `or Fastapi` `PostgreSQL` `Event-Driven Architecture` `Authentication & Authorization`
-
-<sub>May 23, 2026 at 14:39 UTC</sub>
-
----
-
-### [Senior Software Engineer, AI Platform](https://job-boards.greenhouse.io/mixpanel/jobs/7941944)
-<a href="https://mixpanel.com"><img src="https://www.google.com/s2/favicons?domain=mixpanel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mixpanel** · San Francisco, California · `🟡 Hybrid` `Senior` `$226k-$306k` `Equity`
-
-_Build scalable backend infrastructure, APIs, and agent orchestration frameworks that enable AI product development across Mixpanel's platform. Design and operate high-performance serving infrastructure with strict latency, throughput, and cost guarantees while building evaluation systems to measure reasoning quality and task success in production AI agents. · [Apply →](https://job-boards.greenhouse.io/mixpanel/jobs/7941944)_
-
-`Python` `LLMs` `Agent Orchestration` `Microservices` `Distributed Systems` `Observability` `MLOps` `Kubernetes`
-
-<sub>May 23, 2026 at 14:39 UTC</sub>
 
 ---
 
