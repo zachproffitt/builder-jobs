@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **327 companies** · **1300 open roles** (22 new)
+### **327 companies** · **1300 open roles** (19 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -1749,7 +1749,7 @@ Lightmatter builds healthcare technology products, including software applicatio
 
 LiveKit builds infrastructure for voice-driven computing that enables developers to build, test, deploy, scale, and observe voice AI agents in production. The platform powers voice AI applications for companies including OpenAI, xAI, Salesforce, Coursera, and Spotify, facilitating billions of calls annually.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Media Backend](https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e) · `🟢 Remote` `Senior` `Equity` (May 23)
+- [Senior Software Engineer, Media Backend](https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e) · `🟢 Remote` `Senior` `Equity` (May 23)
 - [Senior Product Engineer](https://jobs.ashbyhq.com/livekit/463e2769-bb85-4429-96a3-3a175eb228cd) · `🟢 Remote` `Senior` `Equity` (May 23)
 
 ---
@@ -2154,7 +2154,7 @@ OneBrief builds collaboration and AI-powered workflow software designed for mili
 
 OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, RL Training Infra](https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b) · San Francisco, California · `Senior` (May 23)
+- [Software Engineer, RL Training Infra](https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b) · San Francisco, California · `Senior` (May 23)
 - [Researcher, Computer Use - Agent Post-Training](https://jobs.ashbyhq.com/openai/523af712-bf29-4236-a1bd-01f376d1e160) · San Francisco, California · `Senior` (May 22)
 - [Researcher, Connectors - Agent Post-Training](https://jobs.ashbyhq.com/openai/d55af855-0d7b-4407-a27d-5fa9f894382c) · San Francisco, California · `Senior` `$250k-$380k` (May 22)
 - [Researcher, Artifacts - Agent Post-Training](https://jobs.ashbyhq.com/openai/c701bf4a-3b17-4b14-895a-05f52be51cf8) · San Francisco, California · `Senior` `$250k-$380k` (May 22)
@@ -2558,7 +2558,7 @@ Resilience is a biomanufacturing contract development and manufacturing organiza
 
 Retell AI provides a platform to build, test, deploy, and monitor AI voice agents in production environments.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Telephony Engineer - Remote](https://jobs.ashbyhq.com/retell-ai/6c83c736-75f4-4e5f-b620-2721ffadd2c4) · `🟢 Remote` `Senior` `$52k-$94k` (May 23)
+- [Telephony Engineer - Remote](https://jobs.ashbyhq.com/retell-ai/6c83c736-75f4-4e5f-b620-2721ffadd2c4) · `🟢 Remote` `Senior` `$52k-$94k` (May 23)
 - [Design Engineer](https://jobs.ashbyhq.com/retell-ai/42680778-ec20-4fb0-9057-3b1f35128a64) · Redwood City, California · `Mid` `$180k-$300k` `Equity` (May 14)
 
 ---

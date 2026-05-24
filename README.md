@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1300 open roles** (22 new) &nbsp;·&nbsp; 1663 companies searched
+### **1300 open roles** (19 new) &nbsp;·&nbsp; 1663 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -222,39 +222,6 @@ _Lead technical strategy and oversee development of a large-scale federal case m
 `Java` `JavaScript` `SQL` `REST APIs` `CI/CD` `Agile` `Federal Government Contracting` `BI Full 6C (T4)`
 
 <sub>May 23, 2026 at 05:24 UTC</sub>
-
----
-
-### [Senior Software Engineer, Media Backend](https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e)
-<a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Senior` `Equity`
-
-_Design and build the media pipeline and services that ingest from heterogeneous sources into LiveKit sessions and export to arbitrary destinations, handling recordings, format conversion, and codec management across H.264, VP9, AV1, and CMAF. You'll own distributed media processing systems serving billions of calls annually for voice AI applications. · [Apply →](https://jobs.ashbyhq.com/livekit/c4a4b4ac-ee45-4eda-800a-6dfb5a573e6e)_
-
-`Go` `GStreamer` `FFmpeg` `WebRTC` `Distributed Systems` `RTMP` `HLS` `H.264`
-
-<sub>May 23, 2026 at 03:19 UTC</sub>
-
----
-
-### [Software Engineer, RL Training Infra](https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior`
-
-_Build and maintain the infrastructure for large-scale reinforcement learning training runs powering frontier models (o1 to o5.5). Debug and optimize across training systems, inference, orchestration, and distributed infrastructure while supporting horizontal integrations like multi-agent capabilities and memory. · [Apply →](https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b)_
-
-`Python` `Distributed Systems` `Kubernetes` `CUDA` `PyTorch` `Performance Optimization` `Debugging` `Machine Learning Infrastructure`
-
-<sub>May 23, 2026 at 03:19 UTC</sub>
-
----
-
-### [Telephony Engineer - Remote](https://jobs.ashbyhq.com/retell-ai/6c83c736-75f4-4e5f-b620-2721ffadd2c4)
-<a href="https://retellai.com"><img src="https://www.google.com/s2/favicons?domain=retellai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Retell AI** · `🟢 Remote` `Senior` `$52k-$94k`
-
-_Own telephony integrations and provide advanced technical support for voice AI infrastructure, debugging SIP/RTP call failures via PCAP analysis and carrier logs across enterprise CPaaS platforms like Twilio, Five9, Genesys, and Amazon Connect. · [Apply →](https://jobs.ashbyhq.com/retell-ai/6c83c736-75f4-4e5f-b620-2721ffadd2c4)_
-
-`SIP Protocol` `PCAP Analysis` `Wireshark` `Python` `Bash` `Twilio` `VoIP` `TCP/IP`
-
-<sub>May 23, 2026 at 03:19 UTC</sub>
 
 ---
 
