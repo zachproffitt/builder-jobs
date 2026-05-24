@@ -1368,7 +1368,9 @@ Gradial provides AI agents that help enterprise marketing teams execute campaign
 
 ---
 
-## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana](https://grafana.com)
+## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana Labs](https://grafana.com)
+
+Grafana Labs builds Grafana, an open-source visualization tool used by over 20 million users for monitoring and observability, and provides the Grafana LGTM Stack (featuring Mimir for metrics, Loki for logs, and Tempo for traces) that can be deployed as a fully managed cloud service or self-managed enterprise offering to help companies manage their observability strategies.
 
 - [Senior Manager, Web Technology | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5999968004) · `🟢 Remote` `Manager` `$186k CAD-$223k CAD` `Equity` (May 19)
 - [Senior Manager, Web Technology | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5999936004) · `🟢 Remote` `Manager` `$183k-$220k` `Equity` (May 19)
