@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1299 open roles** (16 new) &nbsp;·&nbsp; 1663 companies searched
+### **1234 open roles** (17 new) &nbsp;·&nbsp; 1666 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 24, 2026
+
+### [Go-to-Market Engineer - Montreal, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004138004)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Montreal, Canada · `Mid`
+
+_Build and own Speechify SIMBA's outbound infrastructure — lead enrichment pipelines, CRM architecture, sequencing workflows, and AI-powered personalization systems that power the sales motion. Own the full GTM tech stack integration and deploy AI agents for automated prospect research and personalized outreach at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004138004)_
+
+`HubSpot` `Salesforce` `Clay` `Apollo` `Zapier` `REST APIs` `Webhooks` `Python`
+
+<sub>May 24, 2026 at 13:39 UTC</sub>
+
+---
+
+### [Go-to-Market Engineer - Ottawa, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004143004)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Ottawa, Canada · `Mid`
+
+_Build and own the outbound sales infrastructure for SIMBA Voice Agents—lead enrichment pipelines, CRM architecture, AI-powered personalization, and sequencing workflows that drive pipeline at scale. You'll integrate and automate the full GTM tech stack (HubSpot, Salesforce, Clay, Apollo, Outreach, Instantly) and deploy AI agents for prospect research and personalized outreach. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004143004)_
+
+`HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Zapier` `Make` `Python`
+
+<sub>May 24, 2026 at 13:39 UTC</sub>
+
+---
+
+### [Go-to-Market Engineer - Toronto, Canada](https://job-boards.greenhouse.io/speechify/jobs/6003990004)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Toronto, Canada · `Mid`
+
+_Build and own SIMBA's outbound infrastructure — lead enrichment pipelines, scoring models, and sequencing workflows that power the GTM motion at scale. Instrument the full top-of-funnel with AI-powered personalization, integrations, and automations across the modern GTM tech stack (Clay, Apollo, HubSpot/Salesforce, Outreach/Instantly). · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6003990004)_
+
+`Clay` `Apollo` `HubSpot` `Salesforce` `REST APIs` `Webhooks` `Zapier` `Python`
+
+<sub>May 24, 2026 at 13:39 UTC</sub>
+
+---
 
 ### [Information Security Analyst Senior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-HI-Pearl-Harbor/Information-Security-Analyst-Senior_RQ220556-1)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Pearl Harbor, Hawaii · `Senior` `$93k-$112k`
@@ -167,28 +200,6 @@ _Build scalable backend infrastructure, APIs, and agent orchestration frameworks
 `Python` `LLMs` `Agent Orchestration` `Microservices` `Distributed Systems` `Observability` `MLOps` `Kubernetes`
 
 <sub>May 23, 2026 at 14:39 UTC</sub>
-
----
-
-### [Senior System Software Engineer, SOC](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer_JR1997492)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Senior`
-
-_Design and develop GPU kernel drivers, firmware, and system software for new SoC platforms, working across hardware and software teams to bring products from early development through to customer deployment. Complex SOC architecture, power management, and performance tuning at scale in AI and GPU computing systems. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer_JR1997492)_
-
-`C` `C++` `Linux` `Kernel Development` `Power Management` `Firmware` `GPU Architecture`
-
-<sub>May 23, 2026 at 14:39 UTC</sub>
-
----
-
-### [Principal Machine Learning Engineer](https://careers.toasttab.com/jobs?gh_jid=7579646)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$180k-$368k` `Equity`
-
-_Build backend services and ML pipelines for agentic AI tools that automate sales workflows, integrating custom quoting engines, Salesforce, and internal data lakes. Design and deploy production ML models and LLM-powered systems that reduce manual entry and accelerate deal velocity for enterprise sales teams. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7579646)_
-
-`Java` `Python` `Go` `LangChain` `RAG` `Machine Learning` `Salesforce` `AWS`
-
-<sub>May 23, 2026 at 13:39 UTC</sub>
 
 ---
 
