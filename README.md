@@ -12,6 +12,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## May 24, 2026
 
+### [Founding Applied AI Lead](https://jobs.ashbyhq.com/Pear-VC/489d22ab-558f-4702-975b-e44c4d413205)
+<a href="https://www.spurtest.com"><img src="https://www.google.com/s2/favicons?domain=www.spurtest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spur** · New York, New York · `🟡 Hybrid` `Mid`
+
+_Design and own AI workflows, prompt chains, and structured-output schemas that automate prior authorization and appeals for healthcare reimbursement. Translate complex payer rules and clinical evidence requirements into reliable, tested AI systems deployed with enterprise medtech and diagnostics customers. · [Apply →](https://jobs.ashbyhq.com/Pear-VC/489d22ab-558f-4702-975b-e44c4d413205)_
+
+`LLMs` `Prompt Engineering` `Structured Outputs` `JSON` `Evals` `Workflow Automation` `Healthcare Reimbursement`
+
+<sub>May 24, 2026 at 17:28 UTC</sub>
+
+---
+
 ### [Engineering Manager, API Core Capabilities](https://job-boards.greenhouse.io/anthropic/jobs/5081338008)
 <a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `$405k-$485k` `Equity`
 
@@ -145,17 +156,6 @@ _Design and operate Galaxy's production data platform supporting trading, custod
 `Python` `Java` `AWS` `Databricks` `Spark` `dbt` `Airflow` `PostgreSQL`
 
 <sub>May 23, 2026 at 20:25 UTC</sub>
-
----
-
-### [Software Development Engineer](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Software-Development-Engineer_R90731)
-<a href="https://smith-nephew.com"><img src="https://www.google.com/s2/favicons?domain=smith-nephew.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Smith & Nephew** · Pittsburgh, Pennsylvania · `Mid` `Equity`
-
-_Design and implement software systems for robotic and computer-assisted surgical applications, including real-time control algorithms, UI/graphics development, and safety-critical testing. Medical device software requires FDA compliance and operates in a highly regulated environment with direct patient safety impact. · [Apply →](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Software-Development-Engineer_R90731)_
-
-`C++` `Linux` `Git` `CMake` `JIRA` `MATLAB` `Linear Algebra` `UI/Graphics Development`
-
-<sub>May 23, 2026 at 17:29 UTC</sub>
 
 ---
 
