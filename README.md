@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1309 open roles** (15 new) &nbsp;·&nbsp; 1666 companies searched
+### **1307 open roles** (13 new) &nbsp;·&nbsp; 1666 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -19,7 +19,7 @@ _Lead the API Core team owning the /v1/messages hot path and request lifecycle f
 
 `Rust` `Go` `Distributed Systems` `Load Balancing` `Rate Limiting` `API Design` `Systems Performance Engineering`
 
-<sub>May 24, 2026 at 14:36 UTC</sub>
+<sub>May 24, 2026 at 14:42 UTC</sub>
 
 ---
 
@@ -145,28 +145,6 @@ _Design and operate Galaxy's production data platform supporting trading, custod
 `Python` `Java` `AWS` `Databricks` `Spark` `dbt` `Airflow` `PostgreSQL`
 
 <sub>May 23, 2026 at 20:25 UTC</sub>
-
----
-
-### [Software Development Engineer](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Software-Development-Engineer_R90731)
-<a href="https://smith-nephew.com"><img src="https://www.google.com/s2/favicons?domain=smith-nephew.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Smith & Nephew** · Pittsburgh, Pennsylvania · `Mid` `Equity`
-
-_Design and implement software systems for robotic and computer-assisted surgical applications, including real-time control algorithms, UI/graphics development, and safety-critical testing. Medical device software requires FDA compliance and operates in a highly regulated environment with direct patient safety impact. · [Apply →](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Software-Development-Engineer_R90731)_
-
-`C++` `Linux` `Git` `CMake` `JIRA` `MATLAB` `Linear Algebra` `UI/Graphics Development`
-
-<sub>May 23, 2026 at 17:29 UTC</sub>
-
----
-
-### [Associate R&D Engineer – Coriograph Pre-operative Planning](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Associate-R-D-Engineer---Coriograph-Pre-operative-Planning_R90729)
-<a href="https://smith-nephew.com"><img src="https://www.google.com/s2/favicons?domain=smith-nephew.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Smith & Nephew** · Pittsburgh, Pennsylvania · `Junior`
-
-_Support the design, testing, and preoperative planning of orthopedic surgical robots and knee/hip/shoulder replacement systems. Work directly with surgeons and robotics teams to develop and enhance medical device solutions. · [Apply →](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Associate-R-D-Engineer---Coriograph-Pre-operative-Planning_R90729)_
-
-`CAD (UG NX or SolidWorks)` `Python` `Biomedical Engineering`
-
-<sub>May 23, 2026 at 16:29 UTC</sub>
 
 ---
 
