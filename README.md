@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1231 open roles** (18 new) &nbsp;·&nbsp; 1663 companies searched
+### **1305 open roles** (18 new) &nbsp;·&nbsp; 1663 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -170,6 +170,17 @@ _Build scalable backend infrastructure, APIs, and agent orchestration frameworks
 
 ---
 
+### [Senior System Software Engineer, SOC](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer_JR1997492)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Senior`
+
+_Design and develop GPU kernel drivers, firmware, and system software for new SoC platforms, working across hardware and software teams to bring products from early development through to customer deployment. Complex SOC architecture, power management, and performance tuning at scale in AI and GPU computing systems. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-System-Software-Engineer_JR1997492)_
+
+`C` `C++` `Linux` `Kernel Development` `Power Management` `Firmware` `GPU Architecture`
+
+<sub>May 23, 2026 at 14:39 UTC</sub>
+
+---
+
 ### [Principal Machine Learning Engineer](https://careers.toasttab.com/jobs?gh_jid=7579646)
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$180k-$368k` `Equity`
 
@@ -200,17 +211,6 @@ _Design, deploy, and manage enterprise-grade PKI infrastructure for US Governmen
 `Public Key Infrastructure (PKI)` `X.509 Certificates` `Active Directory` `Certificate Lifecycle Management` `OCSP` `Key Management` `TS/SCI Clearance`
 
 <sub>May 23, 2026 at 12:34 UTC</sub>
-
----
-
-### [Intern - Design Verification Infrastructure Engineer - Platform](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101292)
-<a href="https://sifive.com"><img src="https://www.google.com/s2/favicons?domain=sifive.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SiFive** · 4 Locations · `Intern` `Equity`
-
-_Build and maintain the Verification Platform infrastructure supporting SiFive's design verification workflows, developing libraries and tools in Scala/Chisel and Python while collaborating with the Platform Technologies team. · [Apply →](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101292)_
-
-`Chisel` `CIRCT` `Scala` `Python` `MLIR` `Systems Software` `EDA Tools`
-
-<sub>May 23, 2026 at 08:52 UTC</sub>
 
 ---
 
