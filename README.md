@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1879 open roles** (23 new) &nbsp;·&nbsp; 1668 companies searched
+### **1898 open roles** (22 new) &nbsp;·&nbsp; 1668 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,17 +11,6 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 25, 2026
-
-### [Senior Engineer Data](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-Data_R0058328)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · Bangalore, India · `Senior`
-
-_Build and optimize self-service data products and pipelines for financial services analytics across Canada Life; design scalable data models and automate data preparation using modern cloud tools to enable business insights at scale. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-Data_R0058328)_
-
-`SQL` `Python` `Azure` `Databricks` `Synapse` `ADF` `PowerBI` `Data Modeling`
-
-<sub>May 25, 2026 at 15:13 UTC</sub>
-
----
 
 ### [Manager, Gateway Electronics Engineering (Starlink)](https://boards.greenhouse.io/spacex/jobs/8563083002?gh_jid=8563083002)
 <a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Bastrop, Texas · `Manager`
