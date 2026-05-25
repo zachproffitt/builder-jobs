@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1327 open roles** (23 new) &nbsp;·&nbsp; 1666 companies searched
+### **1879 open roles** (23 new) &nbsp;·&nbsp; 1668 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 25, 2026
+
+### [Senior Engineer Data](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-Data_R0058328)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · Bangalore, India · `Senior`
+
+_Build and optimize self-service data products and pipelines for financial services analytics across Canada Life; design scalable data models and automate data preparation using modern cloud tools to enable business insights at scale. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-Data_R0058328)_
+
+`SQL` `Python` `Azure` `Databricks` `Synapse` `ADF` `PowerBI` `Data Modeling`
+
+<sub>May 25, 2026 at 15:13 UTC</sub>
+
+---
+
+### [Manager, Gateway Electronics Engineering (Starlink)](https://boards.greenhouse.io/spacex/jobs/8563083002?gh_jid=8563083002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Bastrop, Texas · `Manager`
+
+_Lead the design, development, and production of next-generation gateway electronics for the Starlink satellite constellation, managing a team responsible for mixed-signal circuit boards and antenna hardware operating in harsh global environments. Requires ITAR eligibility and travel to SpaceX sites in Hawthorne, CA and Redmond, WA. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8563083002?gh_jid=8563083002)_
+
+`FPGA` `Ethernet` `DDR4` `EMC/EMI` `Python` `C/C++` `Optical Networking` `Embedded Linux`
+
+<sub>May 25, 2026 at 15:13 UTC</sub>
+
+---
 
 ### [Security Researcher III](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Warsaw/Security-Researcher-III_RP1037261)
 <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**F5 Networks** · 2 Locations · `Senior`
@@ -244,28 +266,6 @@ _Design and own AI workflows, prompt chains, and structured-output schemas that 
 `LLMs` `Prompt Engineering` `Structured Outputs` `JSON` `Evals` `Workflow Automation` `Healthcare Reimbursement`
 
 <sub>May 24, 2026 at 17:28 UTC</sub>
-
----
-
-### [Engineering Manager, API Core Capabilities](https://job-boards.greenhouse.io/anthropic/jobs/5081338008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `$405k-$485k` `Equity`
-
-_Lead the API Core team owning the /v1/messages hot path and request lifecycle for Claude API, driving service-efficiency improvements, throughput scaling, and rate-limiting systems that mediate access to inference capacity across millions of QPS. Requires depth in systems-level performance engineering, distributed systems at scale, or API platform design, with experience managing high-throughput backend or developer platform teams under capacity pressure. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5081338008)_
-
-`Rust` `Go` `Distributed Systems` `Load Balancing` `Rate Limiting` `API Design` `Systems Performance Engineering`
-
-<sub>May 24, 2026 at 14:42 UTC</sub>
-
----
-
-### [Go-to-Market Engineer - Ottawa, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004143004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Ottawa, Canada · `Mid`
-
-_Build and own the outbound sales infrastructure for SIMBA Voice Agents—lead enrichment pipelines, CRM architecture, AI-powered personalization, and sequencing workflows that drive pipeline at scale. You'll integrate and automate the full GTM tech stack (HubSpot, Salesforce, Clay, Apollo, Outreach, Instantly) and deploy AI agents for prospect research and personalized outreach. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004143004)_
-
-`HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Zapier` `Make` `Python`
-
-<sub>May 24, 2026 at 13:39 UTC</sub>
 
 ---
 
