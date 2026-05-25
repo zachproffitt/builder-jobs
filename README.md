@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1285 open roles** (12 new) &nbsp;·&nbsp; 1666 companies searched
+### **1319 open roles** (17 new) &nbsp;·&nbsp; 1666 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,116 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 25, 2026
+
+### [Consultant II](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Bangalore-Non-SEZ/Consultant-II_RP1037596)
+<a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**F5 Networks** · 2 Locations · `Mid`
+
+_Lead implementation and technical integration of enterprise web security and delivery solutions, including WAF, bot management, load balancing, and DDoS protection across cloud and on-premises environments. Build trusted advisor relationships with enterprise customers while owning end-to-end delivery from configuration through go-live support. · [Apply →](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Bangalore-Non-SEZ/Consultant-II_RP1037596)_
+
+`Python` `Terraform` `AWS` `GCP` `Azure` `Web Application Firewalls` `TCP/IP` `API Integration`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Secure AI/ML Delivery](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ220565-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Offutt AFB, Nebraska · `Senior` `$148k-$201k`
+
+_Deploy, maintain, and scale machine learning models in production across secure DoD networks (NIPRNet, SIPRNet, JWICS, SAP/SAR). Implement MLOps practices for model lifecycle management and support AI/ML delivery for USSTRATCOM's mission-critical nuclear operations and strategic deterrence systems; requires Top Secret/SCI clearance and on-site presence at Offutt AFB, NE. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ220565-1)_
+
+`Machine Learning` `MLOps` `Python` `PyTorch` `TensorFlow` `Top Secret/SCI Clearance` `ITIL 4 Foundation` `GCLD or GSEC or CSSLP`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [UNIX/Linux OS Administrator](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-NE-Offutt-AFB/UNIX-Linux-OS-Administrator_RQ220588-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Offutt Air Force Base, Nebraska · `Mid` `$76k-$103k`
+
+_Administer enterprise Linux/Unix systems for USSTRATCOM's nuclear command, control, and communications infrastructure (NC3), supporting NIPRNet, SIPRNet, JWICS, and classified networks. Requires Top Secret/SCI clearance and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-NE-Offutt-AFB/UNIX-Linux-OS-Administrator_RQ220588-1)_
+
+`Linux` `Unix` `System Administration` `TS/SCI Clearance`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Aerodynamics Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8558715002?gh_jid=8558715002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Starbase, Texas · `Junior`
+
+_Build CFD models and aerodynamic simulations for Starship booster and ship vehicles across subsonic through hypersonic flight regimes. Requires ITAR eligibility and on-site presence at Starbase, TX. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8558715002?gh_jid=8558715002)_
+
+`CFD` `MATLAB` `Python` `Linux/Unix` `Tecplot` `ParaView` `FUN3D` `Loci/CHEM`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Go-to-Market Engineer - Waterloo, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004141004)
+<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Waterloo, Canada · `Mid`
+
+_Build and own SIMBA's outbound infrastructure — lead sourcing, enrichment pipelines, scoring models, and sequencing workflows that orchestrate AI voice agents across 71+ languages at scale. Design the GTM tech stack integrations (HubSpot, Salesforce, Clay, Apollo, Outreach) and deploy AI agents for automated prospect research and personalized outreach generation. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004141004)_
+
+`HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Zapier` `Webhooks`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Software Engineer II, QA Automation](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Software-Engineer-II--QA-Automation_JR20590)
+<a href="https://teladoc.com"><img src="https://www.google.com/s2/favicons?domain=teladoc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teladoc Health** · `🟢 Remote` `Mid` `$105k-$125k`
+
+_Build and maintain automated test frameworks for Teladoc's virtual care platform, testing web applications, APIs, and backend microservices across multiple devices. Work with AI-driven automation tools and specialized testing infrastructure serving millions of chronic care patients. · [Apply →](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Software-Engineer-II--QA-Automation_JR20590)_
+
+`Selenium` `Cypress` `Appium` `Java` `Python` `SQL` `API Testing` `Jenkins`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Senior Software Engineer — MD Simulation Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$184k-$287.5k (Level 4) / $224k-$356.5k (Level 5)` `Equity`
+
+_Build GPU-native CUDA kernels and high-performance math primitives for molecular dynamics simulation engines, optimizing core MD algorithms to run at scale across NVIDIA GPU generations. Work at the intersection of GPU computing and computational biology, delivering production-quality software that enables researchers worldwide to fully exploit modern hardware. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333)_
+
+`CUDA` `C++` `C` `GPU Programming` `High-Performance Computing` `Molecular Dynamics` `SPME` `Ewald Summation`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [System Software Engineer - Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2018651)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Mid` `$124k-$195.5k` `Equity`
+
+_Design and optimize system software for next-generation ARM-based Tegra SoCs, performing performance analysis and competitive benchmarking against rival processors. Work spans pre-silicon and post-silicon phases with focus on datacenter-scale CPU and CPU+GPU Superchips. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2018651)_
+
+`ARM Architecture` `C/C++` `Performance Analysis` `CUDA` `Linux` `Kernel Development` `HPC`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Senior System Software Engineer - Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Performance_JR2018642)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity`
+
+_Design and optimize system software for next-generation ARM-based datacenter SoCs, focusing on performance and efficiency across pre-silicon and post-silicon phases. Drive full-stack performance optimizations and competitive analysis against emerging processors from other silicon vendors. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Performance_JR2018642)_
+
+`ARM Architecture` `C/C++` `Performance Analysis` `CUDA` `GPU` `Linux Kernel` `Operating Systems` `HPC`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Manager, Software Engineering – Networking Management](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Software-Engineering---Networking-Management_JR2018427)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Manager`
+
+_Lead a software engineering team building networking management and orchestration tools for AI/ML infrastructure at scale. Requires hands-on technical depth in C/C++ and systems-level architecture alongside team leadership and cross-functional execution. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Software-Engineering---Networking-Management_JR2018427)_
+
+`C/C++` `Linux` `Networking` `Distributed Systems`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
 
 ### [Forward Deployed Engineer](https://jobs.ashbyhq.com/SalesPatriot/53626ad9-af69-4ee1-a947-ba2ef4a433a7)
 <a href="https://www.salespatriot.com"><img src="https://www.google.com/s2/favicons?domain=www.salespatriot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SalesPatriot** · San Francisco, California / Wisconsin / New York, New York / Miami, Florida / Los Angeles, California · `🟡 Hybrid` `Mid`
@@ -90,61 +200,6 @@ _Build and own the outbound sales infrastructure for SIMBA Voice Agents—lead e
 `HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Zapier` `Make` `Python`
 
 <sub>May 24, 2026 at 13:39 UTC</sub>
-
----
-
-### [Information Security Analyst Senior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-HI-Pearl-Harbor/Information-Security-Analyst-Senior_RQ220556-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Pearl Harbor, Hawaii · `Senior` `$93k-$112k`
-
-_Conduct cybersecurity risk assessments and security authorization activities for DoD classified intelligence systems, including vulnerability scanning, RMF compliance, and security control validation. Requires active TS/SCI clearance and IAM Level II certification. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-HI-Pearl-Harbor/Information-Security-Analyst-Senior_RQ220556-1)_
-
-`DISA STIG` `eMASS` `NIST 800-53` `Risk Assessments` `RMF` `ACAS` `SCAP` `TS/SCI Clearance`
-
-<sub>May 24, 2026 at 05:29 UTC</sub>
-
----
-
-### [Cloud Software Architect (Node.js and React.js) - Remote](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Architect--Nodejs-and-Reactjs----Remote_RQ220623-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$170k-$207k`
-
-_Architect and build cloud solutions for mission-critical federal government platforms, designing modernization of enterprise-class applications across multi-tenant AWS infrastructure. Requires AWS Certified Solutions Architect - Professional and BI Full 6C (T4) public trust clearance. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Architect--Nodejs-and-Reactjs----Remote_RQ220623-1)_
-
-`AWS` `Terraform` `CloudFormation` `Python` `Bash` `Node.js` `React.js` `Infrastructure as Code`
-
-<sub>May 24, 2026 at 05:29 UTC</sub>
-
----
-
-### [Python Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Python-Developer_RQ220573)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$107k-$143k`
-
-_Build backend services and microservices for the Veterans Benefits Administration using Python and AWS, improving claims processing and delivery of benefits to veterans. Requires Public Trust clearance (MBI T2) and no visa sponsorship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Python-Developer_RQ220573)_
-
-`Python` `AWS` `FastAPI` `Flask` `PostgreSQL` `Docker` `Kubernetes` `GitLab`
-
-<sub>May 24, 2026 at 05:29 UTC</sub>
-
----
-
-### [Senior Network Engineer - Secret Clearance Required](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Senior-Network-Engineer---Secret-Clearance-Required_RQ220557-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Falls Church, Virginia · `🟡 Hybrid` `Senior` `$123k-$166k`
-
-_Configure, manage, and maintain enterprise network infrastructure including Cisco routers, switches, firewalls, and Palo Alto IDS/IPS systems for the Army National Guard's global IT operations. Requires active Secret clearance (eligible for Top Secret) and on-site presence in Falls Church, VA; DoD 8570.01-M IAT Level II certification required at start. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Senior-Network-Engineer---Secret-Clearance-Required_RQ220557-1)_
-
-`Cisco` `Palo Alto` `BGP/OSPF` `MPLS` `DISA STIG` `CompTIA Security+` `Secret Clearance`
-
-<sub>May 24, 2026 at 05:29 UTC</sub>
-
----
-
-### [Go-to-Market Engineer - St. Petersburg, FL, USA](https://job-boards.greenhouse.io/speechify/jobs/6004181004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · St. Petersburg, Florida · `Mid` `$105k-$140k`
-
-_Build and own SIMBA's outbound infrastructure — lead enrichment pipelines, scoring models, and sequencing workflows that power GTM motion at scale. Design and maintain the GTM tech stack integrations (HubSpot/Salesforce, Clay, Apollo, Outreach) with AI-powered automation for prospect research and personalized outreach. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004181004)_
-
-`HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Webhooks` `Zapier` `Python`
-
-<sub>May 24, 2026 at 05:29 UTC</sub>
 
 ---
 
