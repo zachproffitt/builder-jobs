@@ -2,11 +2,48 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1309 open roles** (12 new) &nbsp;·&nbsp; 1666 companies searched
+### **1309 open roles** (11 new) &nbsp;·&nbsp; 1666 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## May 25, 2026
+
+### [Principal AI/ML Researcher / Engineer Reasoning, Planning, and Decision-making systems](https://careers.airbnb.com/positions/7955573?gh_jid=7955573)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Principal` `$296k–$370k` `Equity`
+
+_Design and operationalize post-training intelligence frameworks integrating Large Reasoning Models, Knowledge Graphs, and reinforcement learning to power reasoning, planning, and multi-agent decision-making systems across Airbnb's marketplace. Requires deep expertise in hybrid symbolic-connectionist architectures, distributed RL, and production-scale reasoning at the foundational platform level. · [Apply →](https://careers.airbnb.com/positions/7955573?gh_jid=7955573)_
+
+`PyTorch` `JAX` `Ray` `RLlib` `Python` `Reinforcement Learning` `Knowledge Graphs` `Large Language Models`
+
+<sub>May 25, 2026 at 01:17 UTC</sub>
+
+---
+
+### [Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ](https://careers.airbnb.com/positions/7955579?gh_jid=7955579)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Principal` `$292k—$365k` `Equity`
+
+_Build and optimize large language models for customer support AI applications, including fine-tuning, alignment, RAG systems, and real-time inference serving at scale across Airbnb's platform. Requires PhD in ML/CS and 10+ years developing production ML systems; you'll drive multi-year ML infrastructure strategy and architectural decisions. · [Apply →](https://careers.airbnb.com/positions/7955579?gh_jid=7955579)_
+
+`Python` `PyTorch` `LLM Fine-tuning` `Transformer Models` `CUDA` `GPU Optimization` `Model Quantization` `Reinforcement Learning`
+
+<sub>May 25, 2026 at 01:17 UTC</sub>
+
+---
+
+### [Wireless Driver Development Intern - Summer 2026 /  Stagiaire Développement de Pilote Sans Fil - Été 2026](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Cloud-developer-Intern---Stagiaire-dveloppeur-infonuagique_1193428)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · St-Laurent, Quebec, Canada · `🟡 Hybrid` `Intern` `CAD$17.40-$31.00/hour`
+
+_Develop and maintain wireless drivers for networking hardware, focusing on Wi-Fi protocol implementation and driver functionality improvements. Summer internship requiring on-site presence in Quebec. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Cloud-developer-Intern---Stagiaire-dveloppeur-infonuagique_1193428)_
+
+`C` `Wi-Fi Protocols`
+
+<sub>May 25, 2026 at 01:17 UTC</sub>
+
+---
 
 <br>
 
@@ -34,34 +71,12 @@ _Lead the API Core team owning the /v1/messages hot path and request lifecycle f
 
 ---
 
-### [Go-to-Market Engineer - Montreal, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004138004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Montreal, Canada · `Mid`
-
-_Build and own Speechify SIMBA's outbound infrastructure — lead enrichment pipelines, CRM architecture, sequencing workflows, and AI-powered personalization systems that power the sales motion. Own the full GTM tech stack integration and deploy AI agents for automated prospect research and personalized outreach at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004138004)_
-
-`HubSpot` `Salesforce` `Clay` `Apollo` `Zapier` `REST APIs` `Webhooks` `Python`
-
-<sub>May 24, 2026 at 13:39 UTC</sub>
-
----
-
 ### [Go-to-Market Engineer - Ottawa, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004143004)
 <a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Ottawa, Canada · `Mid`
 
 _Build and own the outbound sales infrastructure for SIMBA Voice Agents—lead enrichment pipelines, CRM architecture, AI-powered personalization, and sequencing workflows that drive pipeline at scale. You'll integrate and automate the full GTM tech stack (HubSpot, Salesforce, Clay, Apollo, Outreach, Instantly) and deploy AI agents for prospect research and personalized outreach. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004143004)_
 
 `HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Zapier` `Make` `Python`
-
-<sub>May 24, 2026 at 13:39 UTC</sub>
-
----
-
-### [Go-to-Market Engineer - Toronto, Canada](https://job-boards.greenhouse.io/speechify/jobs/6003990004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Toronto, Canada · `Mid`
-
-_Build and own SIMBA's outbound infrastructure — lead enrichment pipelines, scoring models, and sequencing workflows that power the GTM motion at scale. Instrument the full top-of-funnel with AI-powered personalization, integrations, and automations across the modern GTM tech stack (Clay, Apollo, HubSpot/Salesforce, Outreach/Instantly). · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6003990004)_
-
-`Clay` `Apollo` `HubSpot` `Salesforce` `REST APIs` `Webhooks` `Zapier` `Python`
 
 <sub>May 24, 2026 at 13:39 UTC</sub>
 
@@ -119,28 +134,6 @@ _Build and own SIMBA's outbound infrastructure — lead enrichment pipelines, sc
 `HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Webhooks` `Zapier` `Python`
 
 <sub>May 24, 2026 at 05:29 UTC</sub>
-
----
-
-### [Go-to-Market Engineer - Winston](https://job-boards.greenhouse.io/speechify/jobs/6004188004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Winston-Salem, North Carolina · `Mid` `$105k-$140k`
-
-_Build and own SIMBA's outbound infrastructure — lead enrichment pipelines, scoring models, sequencing workflows, and GTM tech stack integrations (CRM, enrichment tools, sequencing platforms) that power AI-driven prospecting at scale. Deploy AI agents for automated prospect research and personalized outreach, instrument the full top-of-funnel funnel, and rapidly evaluate emerging GTM and AI tooling. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004188004)_
-
-`HubSpot` `Salesforce` `Clay` `Apollo` `Outreach` `Instantly` `REST APIs` `Zapier`
-
-<sub>May 24, 2026 at 05:29 UTC</sub>
-
----
-
-### [Manager of Propulsion Systems](https://job-boards.greenhouse.io/vardaspace/jobs/7747493003)
-<a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Manager` `$175k-$200k` `Equity`
-
-_Lead the propulsion systems discipline for orbital spacecraft, owning subsystem architecture, fluid system design, testing, and flight operations. Requires deep expertise in spacecraft propulsion hardware and hands-on management of a growing engineering team at a fully funded space startup developing commercial LEO infrastructure. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7747493003)_
-
-`Spacecraft Propulsion Systems` `CAD` `PLM Software` `Fluid Systems Analysis` `P&IDs` `Pressurized Hardware` `Propellant Handling` `Systems Engineering`
-
-<sub>May 24, 2026 at 01:15 UTC</sub>
 
 ---
 
