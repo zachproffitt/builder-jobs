@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1322 open roles** (20 new) &nbsp;·&nbsp; 1666 companies searched
+### **1299 open roles** (22 new) &nbsp;·&nbsp; 1666 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 25, 2026
+
+### [Data Scientist, Platform Product](https://job-boards.greenhouse.io/anthropic/jobs/5116820008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, New York / Seattle, Washington / San Francisco, California · `🟡 Hybrid` `Senior` `$275k-$370k` `Equity`
+
+_Build measurement frameworks and analytics infrastructure for Anthropic's Developer Platform, analyzing how AI agents are adopted and deployed at scale. Drive data-informed decisions on product roadmap and platform strategy using causal inference and statistical modeling in a fast-moving AI company. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5116820008)_
+
+`Python` `SQL` `A/B testing` `Causal inference` `Statistical modeling` `Experimental design` `Data visualization`
+
+<sub>May 25, 2026 at 09:35 UTC</sub>
+
+---
+
+### [Data Scientist, Supply](https://job-boards.greenhouse.io/anthropic/jobs/5212119008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York City, New York · `🟡 Hybrid` `Senior` `$275k-$370k` `Equity`
+
+_Build analytics frameworks and measurement systems to optimize how compute is allocated across Claude's infrastructure, connecting supply allocation decisions to user outcomes like retention, LTV, and revenue. Work closely with infrastructure engineers and leadership on production systems with complex resource constraints and queueing dynamics. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5212119008)_
+
+`Python` `SQL` `Operations Research` `Causal Inference` `A/B Testing` `Data Visualization` `Experimentation Platforms` `Statistics`
+
+<sub>May 25, 2026 at 09:35 UTC</sub>
+
+---
 
 ### [CoE Support Engineer](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/CoE-Support-Engineer_R014052)
 <a href="https://aveva.com"><img src="https://www.google.com/s2/favicons?domain=aveva.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aveva** · Lake Forest, California · `🟡 Hybrid` `Mid` `$82k-$137k`
