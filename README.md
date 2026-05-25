@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1822 open roles** (26 new) &nbsp;·&nbsp; 1668 companies searched
+### **1906 open roles** (31 new) &nbsp;·&nbsp; 1668 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 25, 2026
+
+### [Senior AI Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8548545002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$139k—$218k` `Equity`
+
+_Build end-to-end AI-powered solutions for internal enterprise systems (Sales, Marketing, Support), diagnosing business constraints and embedding AI into workflows using modern LLM platforms and APIs. Requires systems thinking, deep hands-on coding, and business acumen to deliver measurable outcomes in a remote environment. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8548545002)_
+
+`Python` `JavaScript/TypeScript` `REST APIs` `GraphQL` `Prompt Engineering` `LLM Model Selection` `Agentic Architecture` `RAG`
+
+<sub>May 25, 2026 at 23:32 UTC</sub>
+
+---
 
 ### [Generative AI Engineer](https://job-boards.greenhouse.io/dataiku/jobs/6002762004)
 <a href="https://dataiku.com"><img src="https://www.google.com/s2/favicons?domain=dataiku.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dataiku** · New York, New York / Remote · `🟡 Hybrid` `Mid` `$160k–$240k` `Equity`
@@ -249,6 +260,50 @@ _Build and own SIMBA's outbound infrastructure — lead sourcing, enrichment pip
 _Build and maintain automated test frameworks for Teladoc's virtual care platform, testing web applications, APIs, and backend microservices across multiple devices. Work with AI-driven automation tools and specialized testing infrastructure serving millions of chronic care patients. · [Apply →](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Software-Engineer-II--QA-Automation_JR20590)_
 
 `Selenium` `Cypress` `Appium` `Java` `Python` `SQL` `API Testing` `Jenkins`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Senior Software Engineer — MD Simulation Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$184k-$287.5k (Level 4) / $224k-$356.5k (Level 5)` `Equity`
+
+_Build GPU-native CUDA kernels and high-performance math primitives for molecular dynamics simulation engines, optimizing core MD algorithms to run at scale across NVIDIA GPU generations. Work at the intersection of GPU computing and computational biology, delivering production-quality software that enables researchers worldwide to fully exploit modern hardware. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333)_
+
+`CUDA` `C++` `C` `GPU Programming` `High-Performance Computing` `Molecular Dynamics` `SPME` `Ewald Summation`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [System Software Engineer - Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2018651)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Mid` `$124k-$195.5k` `Equity`
+
+_Design and optimize system software for next-generation ARM-based Tegra SoCs, performing performance analysis and competitive benchmarking against rival processors. Work spans pre-silicon and post-silicon phases with focus on datacenter-scale CPU and CPU+GPU Superchips. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2018651)_
+
+`ARM Architecture` `C/C++` `Performance Analysis` `CUDA` `Linux` `Kernel Development` `HPC`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Senior System Software Engineer - Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Performance_JR2018642)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity`
+
+_Design and optimize system software for next-generation ARM-based datacenter SoCs, focusing on performance and efficiency across pre-silicon and post-silicon phases. Drive full-stack performance optimizations and competitive analysis against emerging processors from other silicon vendors. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Performance_JR2018642)_
+
+`ARM Architecture` `C/C++` `Performance Analysis` `CUDA` `GPU` `Linux Kernel` `Operating Systems` `HPC`
+
+<sub>May 25, 2026 at 05:44 UTC</sub>
+
+---
+
+### [Manager, Software Engineering – Networking Management](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Software-Engineering---Networking-Management_JR2018427)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Manager`
+
+_Lead a software engineering team building networking management and orchestration tools for AI/ML infrastructure at scale. Requires hands-on technical depth in C/C++ and systems-level architecture alongside team leadership and cross-functional execution. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Software-Engineering---Networking-Management_JR2018427)_
+
+`C/C++` `Linux` `Networking` `Distributed Systems`
 
 <sub>May 25, 2026 at 05:44 UTC</sub>
 
