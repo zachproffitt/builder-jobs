@@ -2,13 +2,57 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **251 open roles** (28 new)
+### **255 open roles** (31 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 26, 2026
+
+### [Staff Software Engineer (Remote Canada)](https://jobs.ashbyhq.com/optro/5df6489f-aa19-4ea2-b1f0-44bff98bda8e)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Staff`
+
+_Build and ship product features end-to-end across a scalable audit and risk platform, leading architecture decisions and mentoring engineers on backend APIs (Node.js), frontend frameworks (Ember), and database systems (PostgreSQL). · [Apply →](https://jobs.ashbyhq.com/optro/5df6489f-aa19-4ea2-b1f0-44bff98bda8e)_
+
+`Node.js` `JavaScript` `TypeScript` `Ember` `Python` `PostgreSQL` `React` `Docker`
+
+<sub>May 26, 2026 at 19:46 UTC</sub>
+
+---
+
+### [Senior Full Stack Java Engineer](https://job-boards.greenhouse.io/cayuse/jobs/8497156002)
+<a href="https://cayuse.com"><img src="https://www.google.com/s2/favicons?domain=cayuse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cayuse** · `🟢 Remote` `Senior`
+
+_Build full-stack features across the Cayuse Research Platform, from data layer to UI, balancing feature delivery with technical debt reduction and platform modernization in a fast-paced Agile environment. · [Apply →](https://job-boards.greenhouse.io/cayuse/jobs/8497156002)_
+
+`Java` `Spring` `Hibernate` `Spring Boot` `Spring Webflux` `JavaScript` `AWS` `Test-Driven Development`
+
+<sub>May 26, 2026 at 19:46 UTC</sub>
+
+---
+
+### [Sr. Software Engineer - Patient Matching (Remote)](https://jobs.ashbyhq.com/rula/62e61834-a793-43be-b863-73019ac83a3e)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Senior`
+
+_Build the provider search, ranking, availability, eligibility, and booking systems that connect patients with the right mental health providers. Lead distributed systems design and mentorship in a high-growth healthcare startup. · [Apply →](https://jobs.ashbyhq.com/rula/62e61834-a793-43be-b863-73019ac83a3e)_
+
+`TypeScript` `React` `Node.js` `PostgreSQL` `AI-assisted development tools` `LLM integration` `Distributed Systems` `Microservices`
+
+<sub>May 26, 2026 at 19:46 UTC</sub>
+
+---
+
+### [Senior Network Engineer](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6006108004?gh_jid=6006108004)
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · `🟢 Remote` `Senior` `$130k-$180k`
+
+_Design, implement, and secure Slingshot's global networking infrastructure across on-premises, cloud, and distributed environments, including Zero Trust Network Access (ZTNA) strategy, AWS GovCloud networking, and the Global Sensor Network. Requires CMMC Level 2 and NIST 800-171 compliance expertise in a defense/aerospace context with active security clearance preferred. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6006108004?gh_jid=6006108004)_
+
+`Zscaler` `AWS` `Terraform` `Zero Trust Architecture` `CMMC Level 2` `NIST 800-171` `VPN` `DNS`
+
+<sub>May 26, 2026 at 19:46 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Developer Productivity Async](https://job-boards.greenhouse.io/gusto/jobs/7947658)
 <a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Los Angeles, California / Seattle, Washington / Remote · `🟢 Remote` `Staff` `$189k-$210k (Denver & remote) / $220k-$250k (San Francisco & New York)` `Equity`
@@ -2492,23 +2536,23 @@ _Architect and implement secure, scalable Python-based data processing platforms
 
 ---
 
-### [Software Development Engineer in Test](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)
-<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · `🟢 Remote` `Senior`
-
-_Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
-
-`Playwright` `Jest` `TypeScript` `Python` `AWS` `Datadog` `REST API testing` `CI/CD`
-
-<sub>May 15, 2026</sub>
-
----
-
 ### [Principal Security Engineer - Threat Intelligence ](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)
 <a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · `🟢 Remote` `Principal`
 
 _Build and operationalize threat intelligence systems and AI-assisted workflows that identify, track, and defend against threat actors targeting Snowflake and its customers. Engineer automation, collection pipelines, and analyst tooling to scale intelligence analysis while maintaining quality and driving security decision-making across the enterprise. · [Apply →](https://jobs.ashbyhq.com/snowflake/7504df05-ebf7-4c43-b9bf-f3820d0171e5)_
 
 `Python` `Go` `SQL` `AWS` `Azure` `GCP` `Machine Learning` `OSINT`
+
+<sub>May 15, 2026</sub>
+
+---
+
+### [Software Development Engineer in Test](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)
+<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · `🟢 Remote` `Senior`
+
+_Design and build automated quality and validation systems for production and disaster recovery environments, combining synthetic transactions, API validation, and observability integration. Build intelligent alerting and AI/ML-driven failure detection systems to enable autonomous self-healing and rapid incident resolution across distributed systems. · [Apply →](https://jobs.ashbyhq.com/socure/6785101c-e12a-4711-8e12-ed68d9e216de)_
+
+`Playwright` `Jest` `TypeScript` `Python` `AWS` `Datadog` `REST API testing` `CI/CD`
 
 <sub>May 15, 2026</sub>
 
