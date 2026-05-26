@@ -2,11 +2,37 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1906 open roles** (31 new) &nbsp;·&nbsp; 1668 companies searched
+### **1902 open roles** (30 new) &nbsp;·&nbsp; 1668 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## May 26, 2026
+
+### [Senior Data Scientist, AI Foundations](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Data-Scientist--AI-Foundations_R225766-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · New York, New York / San Jose, California · `Senior` `$148k-$168.9k` `Equity`
+
+_Build and deploy large language model solutions and NLP systems for Capital One's mobile app serving 80+ million customers, from model training and finetuning to production inference at scale. Requires hands-on expertise with LLMs, generative AI, and experience delivering models in production environments. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Data-Scientist--AI-Foundations_R225766-1)_
+
+`PyTorch` `Python` `AWS` `Hugging Face` `LangChain` `NLP` `Machine Learning` `SQL`
+
+<sub>May 26, 2026 at 01:12 UTC</sub>
+
+---
+
+### [Bioinformatics Scientist](https://myome.com/about-us/careers?gh_jid=4258030009)
+<a href="https://myome.com"><img src="https://www.google.com/s2/favicons?domain=myome.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MyOme** · Menlo Park, California · `🟡 Hybrid` `Mid` `$120k-$150k` `Equity`
+
+_Develop and implement NGS data analysis pipelines and algorithms for clinical-grade whole genome sequencing interpretation. Build quality control processes and statistical frameworks for detecting and interpreting genetic variants in a clinical genetics context. · [Apply →](https://myome.com/about-us/careers?gh_jid=4258030009)_
+
+`Python` `R` `Nextflow` `AWS` `PostgreSQL` `samtools` `bcftools` `bedtools`
+
+<sub>May 26, 2026 at 01:12 UTC</sub>
+
+---
 
 <br>
 
@@ -317,39 +343,6 @@ _Deploy and configure our AI-native supply-chain platform inside defense and ind
 `TypeScript` `JavaScript` `React` `SQL` `PostgreSQL` `Next.js`
 
 <sub>May 25, 2026 at 03:23 UTC</sub>
-
----
-
-### [Principal AI/ML Researcher / Engineer Reasoning, Planning, and Decision-making systems](https://careers.airbnb.com/positions/7955573?gh_jid=7955573)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Principal` `$296k–$370k` `Equity`
-
-_Design and operationalize post-training intelligence frameworks integrating Large Reasoning Models, Knowledge Graphs, and reinforcement learning to power reasoning, planning, and multi-agent decision-making systems across Airbnb's marketplace. Requires deep expertise in hybrid symbolic-connectionist architectures, distributed RL, and production-scale reasoning at the foundational platform level. · [Apply →](https://careers.airbnb.com/positions/7955573?gh_jid=7955573)_
-
-`PyTorch` `JAX` `Ray` `RLlib` `Python` `Reinforcement Learning` `Knowledge Graphs` `Large Language Models`
-
-<sub>May 25, 2026 at 01:17 UTC</sub>
-
----
-
-### [Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ](https://careers.airbnb.com/positions/7955579?gh_jid=7955579)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Principal` `$292k—$365k` `Equity`
-
-_Build and optimize large language models for customer support AI applications, including fine-tuning, alignment, RAG systems, and real-time inference serving at scale across Airbnb's platform. Requires PhD in ML/CS and 10+ years developing production ML systems; you'll drive multi-year ML infrastructure strategy and architectural decisions. · [Apply →](https://careers.airbnb.com/positions/7955579?gh_jid=7955579)_
-
-`Python` `PyTorch` `LLM Fine-tuning` `Transformer Models` `CUDA` `GPU Optimization` `Model Quantization` `Reinforcement Learning`
-
-<sub>May 25, 2026 at 01:17 UTC</sub>
-
----
-
-### [Wireless Driver Development Intern - Summer 2026 /  Stagiaire Développement de Pilote Sans Fil - Été 2026](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Cloud-developer-Intern---Stagiaire-dveloppeur-infonuagique_1193428)
-<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · St-Laurent, Quebec, Canada · `🟡 Hybrid` `Intern` `CAD$17.40-$31.00/hour`
-
-_Develop and maintain wireless drivers for networking hardware, focusing on Wi-Fi protocol implementation and driver functionality improvements. Summer internship requiring on-site presence in Quebec. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Cloud-developer-Intern---Stagiaire-dveloppeur-infonuagique_1193428)_
-
-`C` `Wi-Fi Protocols`
-
-<sub>May 25, 2026 at 01:17 UTC</sub>
 
 ---
 

@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **333 companies** · **1906 open roles** (31 new)
+### **333 companies** · **1902 open roles** (30 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -119,8 +119,8 @@ Agility Robotics builds humanoid robots that are deployed in manufacturing, dist
 
 Airbnb operates a platform offering vacation rentals across 220+ countries and regions, with approximately 8 million properties listed on its service.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal AI/ML Researcher / Engineer Reasoning, Planning, and Decision-making systems](https://careers.airbnb.com/positions/7955573?gh_jid=7955573) · `🟢 Remote` `Principal` `$296k–$370k` `Equity` (May 25)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ](https://careers.airbnb.com/positions/7955579?gh_jid=7955579) · `🟢 Remote` `Principal` `$292k—$365k` `Equity` (May 25)
+- [Principal AI/ML Researcher / Engineer Reasoning, Planning, and Decision-making systems](https://careers.airbnb.com/positions/7955573?gh_jid=7955573) · `🟢 Remote` `Principal` `$296k–$370k` `Equity` (May 25)
+- [Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ](https://careers.airbnb.com/positions/7955579?gh_jid=7955579) · `🟢 Remote` `Principal` `$292k—$365k` `Equity` (May 25)
 - [Principal Engineer -In Bayesian, Large Foundational Systems, and Distributional Reinforcement Learning](https://careers.airbnb.com/positions/7947456?gh_jid=7947456) · `🟢 Remote` `Principal` `$296k-$370k` `Equity` (May 21)
 - [Senior Data Scientist, Guest Travel Insurance (Algorithms)](https://careers.airbnb.com/positions/7926614?gh_jid=7926614) · `🟢 Remote` `Senior` `$179k-$210k` `Equity` (May 21)
 - [Senior Software Engineer, Knowledge Graph](https://careers.airbnb.com/positions/7775934?gh_jid=7775934) · `🟢 Remote` `Senior` `$196k–$230k` `Equity` (May 19)
@@ -727,6 +727,7 @@ Candid Health provides revenue cycle management software that tracks claims end-
 
 ## <a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Capital One](https://capitalone.com)
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data Scientist, AI Foundations](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Data-Scientist--AI-Foundations_R225766-1) · New York, New York / San Jose, California · `Senior` `$148k-$168.9k` `Equity` (May 26)
 - [Distinguished Engineer , Bank Tech (Remote- Eligible)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Distinguished-Engineer---Bank-Tech--Remote--Eligible-_R243024-1) · Remote / McLean, Virginia / New York, New York · `Principal` `$244k-$335k` `Equity` (May 22)
 - [Manager, Security Platform Engineering, DLP Control Platform](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Security-Platform-Engineering--DLP-Control-Platform_R243193-1) · McLean, Virginia / New York, New York / Plano, Texas / Richmond, Virginia · `Manager` `$179k-$245k` `Equity` (May 22)
 - [Lead Software Engineer - Back End](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-Software-Engineer---Back-End_R243208-1) · New York, New York · `Senior` `$215k-$245k` `Equity` (May 22)
@@ -1664,7 +1665,7 @@ Joyn Bio builds autonomous labs that enable biotech research and development by 
 
 Juniper Networks makes Mist, an AI-native networking platform that improves connection reliability, measurability, and security for businesses.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Wireless Driver Development Intern - Summer 2026 /  Stagiaire Développement de Pilote Sans Fil - Été 2026](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Cloud-developer-Intern---Stagiaire-dveloppeur-infonuagique_1193428) · St-Laurent, Quebec, Canada · `🟡 Hybrid` `Intern` `CAD$17.40-$31.00/hour` (May 25)
+- [Wireless Driver Development Intern - Summer 2026 /  Stagiaire Développement de Pilote Sans Fil - Été 2026](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/St-Laurent-Quebec-Canada/Cloud-developer-Intern---Stagiaire-dveloppeur-infonuagique_1193428) · St-Laurent, Quebec, Canada · `🟡 Hybrid` `Intern` `CAD$17.40-$31.00/hour` (May 25)
 - [Senior Networking Software Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Senior-Networking-Software-Engineer_1206787) · Colorado / Minnesota / Texas / Wisconsin · `Senior` `$120.5k-$276.5k` (May 22)
 - [OpenSHMEM Development Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/OpenSHMEM-Development-Engineer_1207357-2) · Colorado / Minnesota / Texas · `🟡 Hybrid` `Mid` `$106k-$243k` (May 21)
 - [System Software Developer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/System-Software-Developer_1207358-1) · Colorado / California / Minnesota / Texas · `🟡 Hybrid` `Mid` `$92k-$213k` (May 21)
@@ -1761,19 +1762,6 @@ LaunchDarkly provides feature management and automation software that helps team
 
 - [Full Stack Engineer, Experimentation](https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003) · `🟢 Remote` `Mid` `$145k-$235k` `Equity` (May 20)
 - [Product Security Engineer](https://job-boards.greenhouse.io/launchdarkly/jobs/7736270003) · San Francisco, California / New York, New York / Boston, Massachusetts / Seattle, Washington / Irvine, California / Los Angeles, California / Monterey, California / Santa Barbara, California / Santa Rosa, California / Austin, Texas / Portland, Oregon / Philadelphia, Pennsylvania / Chicago, Illinois / Remote · `🟢 Remote` `Mid` `$116k - $187k` `Equity` (May 15)
-
----
-
-## <a href="https://lexisnexis.com"><img src="https://www.google.com/s2/favicons?domain=lexisnexis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[LexisNexis](https://lexisnexis.com)
-
-LexisNexis provides legal, government, business, and high-tech information sources.
-
-- [Senior Security Engineer II](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Senior-Security-Engineer-II_R113707) · Raleigh, North Carolina · `Senior` `$95k-$158k` (May 22)
-- [Director Software Engineering - Customer Innovation Lab](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/New-York-NY/Director-Software-Engineering---Customer-Innovation-Lab_R113829-1) · New York, New York · `Manager` `$163k-$303k` (May 22)
-- [Consulting/Principal Security Engineer](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Consulting-Principal-Security-Engineer_R113112) · Raleigh, North Carolina · `Principal` `$104k-$174k` (May 21)
-- [Manager Software Engineering ***Hybrid in Raleigh, NC](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Manager-Software-Engineering----Hybrid-in-Raleigh--NC_R112769) · Raleigh, North Carolina · `🟡 Hybrid` `Manager` `$118k-$219k` (May 20)
-- [Internal GenAI Engineer](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Internal-GenAI-Engineer_R113655) · Raleigh, North Carolina · `Junior` `$59.2k-$98.6k` (May 20)
-- [Senior Internal GenAI engineer](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Senior-Internal-GenAI-engineer_R113656) · Raleigh, North Carolina · `Mid` `$86k-$144k` (May 20)
 
 ---
 
@@ -1977,6 +1965,14 @@ Motional develops and deploys autonomous vehicles.
 
 - [Senior Software Engineer, Autonomy Actions Sustaining](https://motional.com/open-positions/?gh_jid=7742674003#/7742674003) · Las Vegas, Nevada / Boston, Massachusetts / Pittsburgh, Pennsylvania · `🟡 Hybrid` `Senior` `$172k-$229k` `Equity` (May 21)
 - [Senior Software Engineer - AI Data Applications](https://motional.com/open-positions/?gh_jid=7735400003#/7735400003) · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟡 Hybrid` `Senior` `$149k—$198k` `Equity` (May 15)
+
+---
+
+## <a href="https://myome.com"><img src="https://www.google.com/s2/favicons?domain=myome.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[MyOme](https://myome.com)
+
+MyOme is a clinical whole genome analysis platform that helps families understand their risk for inherited diseases using polygenic modeling.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Bioinformatics Scientist](https://myome.com/about-us/careers?gh_jid=4258030009) · Menlo Park, California · `🟡 Hybrid` `Mid` `$120k-$150k` `Equity` (May 26)
 
 ---
 
