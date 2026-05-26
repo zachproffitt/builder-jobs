@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1902 open roles** (26 new) &nbsp;·&nbsp; 1668 companies searched
+### **1908 open roles** (24 new) &nbsp;·&nbsp; 1668 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 26, 2026
+
+### [Backend Staff Engineer](https://job-boards.greenhouse.io/scopely/jobs/5212435008)
+<a href="https://scopely.com"><img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scopely** · Kelowna, BC / Remote · `Staff` `$169k–$253k` `Equity`
+
+_Lead backend systems design and development for MONOPOLY GO! Chat, a real-time social and messaging platform serving millions of players. Design scalable distributed systems handling high-throughput, low-latency chat, notifications, and social features integrated with a live game backend. · [Apply →](https://job-boards.greenhouse.io/scopely/jobs/5212435008)_
+
+`C#` `ASP.NET` `AWS` `DynamoDB` `Redis` `OpenSearch` `SQS/SNS` `ECS`
+
+<sub>May 26, 2026 at 09:26 UTC</sub>
+
+---
+
+### [Full Stack Staff Engineer](https://job-boards.greenhouse.io/scopely/jobs/5212410008)
+<a href="https://scopely.com"><img src="https://www.google.com/s2/favicons?domain=scopely.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scopely** · Kelowna, BC / Remote · `Staff` `$169k—$253k` `Equity`
+
+_Lead full stack development of MONOPOLY GO! Chat's mobile and backend services, building player-facing social and messaging experiences in React Native and C#/ASP.NET for a game with millions of concurrent players. Design resilient distributed systems integrating with live game infrastructure, mentoring engineers on technical direction and AI-assisted development practices. · [Apply →](https://job-boards.greenhouse.io/scopely/jobs/5212410008)_
+
+`C#` `ASP.NET` `React Native` `TypeScript` `AWS` `DynamoDB` `Redis` `protobuf`
+
+<sub>May 26, 2026 at 09:26 UTC</sub>
+
+---
+
+### [Senior Software Verification Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Verification-Engineer_JR2015072)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Senior`
+
+_Design and implement automated test frameworks in Python to verify high-speed networking, virtualization, and security software supporting Ethernet, InfiniBand, and cloud/AI workloads. Deep expertise in networking protocols and Linux system-level testing required. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Verification-Engineer_JR2015072)_
+
+`Python` `Linux` `Docker` `Bash` `KVM` `Git` `Jenkins` `Networking Protocols`
+
+<sub>May 26, 2026 at 09:26 UTC</sub>
+
+---
 
 ### [Software Engineer - Security/Infrastructure](https://jobs.ashbyhq.com/AfterQuery/99afbbe0-5ad1-4f25-a00a-049f14428ac6)
 <a href="https://afterquery.com"><img src="https://www.google.com/s2/favicons?domain=afterquery.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AfterQuery** · San Francisco, California · `Mid` `Equity`
@@ -193,7 +226,7 @@ _Design and execute red team engagements and penetration tests to assess Huntres
 ---
 
 ### [QNX Systems Software Developer II](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260180-1)
-<a href="https://blackberry.com"><img src="https://www.google.com/s2/favicons?domain=blackberry.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Blackberry** · Ottawa, Ontario · `Mid` `$90k-$132k`
+<a href="https://blackberry.com"><img src="https://www.google.com/s2/favicons?domain=blackberry.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BlackBerry QNX** · Ottawa, Ontario · `Mid` `$90k-$132k`
 
 _Develop and maintain 2D and 3D graphics drivers and the QNX Graphics subsystem (Display, GPU, Window system) across native and virtualized embedded platforms. Requires deep expertise in graphics driver development, embedded systems across ARM/x86/PPC architectures, and real-time OS concepts. · [Apply →](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260180-1)_
 
@@ -244,61 +277,6 @@ _Conduct proactive threat hunting and penetration testing across F5's internet-f
 `CrowdStrike Falcon` `Netskope` `Python` `PowerShell` `KQL` `Splunk` `MITRE ATT&CK` `Windows/Linux internals`
 
 <sub>May 25, 2026 at 13:25 UTC</sub>
-
----
-
-### [Data Scientist, Platform Product](https://job-boards.greenhouse.io/anthropic/jobs/5116820008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, New York / Seattle, Washington / San Francisco, California · `🟡 Hybrid` `Senior` `$275k-$370k` `Equity`
-
-_Build measurement frameworks and analytics infrastructure for Anthropic's Developer Platform, analyzing how AI agents are adopted and deployed at scale. Drive data-informed decisions on product roadmap and platform strategy using causal inference and statistical modeling in a fast-moving AI company. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5116820008)_
-
-`Python` `SQL` `A/B testing` `Causal inference` `Statistical modeling` `Experimental design` `Data visualization`
-
-<sub>May 25, 2026 at 09:35 UTC</sub>
-
----
-
-### [Data Scientist, Supply](https://job-boards.greenhouse.io/anthropic/jobs/5212119008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York City, New York · `🟡 Hybrid` `Senior` `$275k-$370k` `Equity`
-
-_Build analytics frameworks and measurement systems to optimize how compute is allocated across Claude's infrastructure, connecting supply allocation decisions to user outcomes like retention, LTV, and revenue. Work closely with infrastructure engineers and leadership on production systems with complex resource constraints and queueing dynamics. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5212119008)_
-
-`Python` `SQL` `Operations Research` `Causal Inference` `A/B Testing` `Data Visualization` `Experimentation Platforms` `Statistics`
-
-<sub>May 25, 2026 at 09:35 UTC</sub>
-
----
-
-### [CoE Support Engineer](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/CoE-Support-Engineer_R014052)
-<a href="https://aveva.com"><img src="https://www.google.com/s2/favicons?domain=aveva.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aveva** · Lake Forest, California · `🟡 Hybrid` `Mid` `$82k-$137k`
-
-_Support and troubleshoot Manufacturing Execution System (MES) applications for industrial clients, diagnosing HMI/SCADA issues and collaborating with R&D teams on escalations. Technical depth in SQL, database troubleshooting, and familiarity with AVEVA platform products (System Platform, Historian, InTouch) required. · [Apply →](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/CoE-Support-Engineer_R014052)_
-
-`SQL` `VB.NET` `C#` `HMI/SCADA` `MES` `Angular` `ASP.NET`
-
-<sub>May 25, 2026 at 07:53 UTC</sub>
-
----
-
-### [Sr. Software Development Engineer 5.5](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Development-Engineer-55_R168185-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$173k-$331k` `Equity`
-
-_Develop critical data processing workflows and high-performance microservices for Adobe's advertising and real-time customer data platform, handling massive-scale data pipelines and complex optimization challenges. Requires 9+ years of software development experience and deep expertise in distributed systems, big data technologies (Spark, Kafka, Snowflake), and Java/Scala. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Development-Engineer-55_R168185-1)_
-
-`Java` `Scala` `Spark` `Kafka` `Snowflake` `MongoDB` `Argo CD` `Jenkins`
-
-<sub>May 25, 2026 at 07:53 UTC</sub>
-
----
-
-### [Computer Scientist 2](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R168853-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · 2 Locations · `Mid`
-
-_Build backend infrastructure and services for Adobe Premiere Pro video workflows, including cloud services, client-server integration, and highly available systems handling 24/7 production traffic. Full-stack role spanning React/TypeScript frontends and Java/C++ server-side development. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R168853-1)_
-
-`Java` `C++` `React` `TypeScript` `Spring` `Hibernate` `Docker` `AWS`
-
-<sub>May 25, 2026 at 07:53 UTC</sub>
 
 ---
 
