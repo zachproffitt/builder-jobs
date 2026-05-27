@@ -2,13 +2,79 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **265 open roles** (37 new)
+### **269 open roles** (29 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 27, 2026
+
+### [Manager, Software Engineering](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Manager--Software-Engineering_JR102675)
+<a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Feedonomics** · `🟢 Remote` `Manager` `$164k-$247k` `Equity`
+
+_Lead and grow a high-performing backend engineering team building product feed management and optimization systems for ecommerce at scale. Hands-on technical leadership balancing people management, system reliability, and product roadmap execution across a distributed team. · [Apply →](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Manager--Software-Engineering_JR102675)_
+
+`PHP` `Python` `Go` `TypeScript` `gRPC` `RabbitMQ` `Google Cloud Platform` `PostgreSQL`
+
+<sub>May 27, 2026 at 17:16 UTC</sub>
+
+---
+
+### [Data Engineer](https://jobs.ashbyhq.com/withflex/c5b0b615-2776-47d3-89d6-8f23453946be)
+<a href="https://www.withflex.com"><img src="https://www.google.com/s2/favicons?domain=www.withflex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Flex** · `🟢 Remote` `Senior` `$160k-$220k` `Equity`
+
+_Design and operate data pipelines, ML classification models, and serving systems that determine HSA/FSA product eligibility at checkout scale. Build the warehouse, transformation layer, and real-time inference infrastructure that powers eligibility decisions across a payments platform processing billions in annual benefit spending. · [Apply →](https://jobs.ashbyhq.com/withflex/c5b0b615-2776-47d3-89d6-8f23453946be)_
+
+`Python` `SQL` `Snowflake` `BigQuery` `Redshift` `dbt` `PyTorch` `Hugging Face Transformers`
+
+<sub>May 27, 2026 at 17:16 UTC</sub>
+
+---
+
+### [Sr Database Architect - DB2](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Sr-Database-Architect---DB2_31993)
+<a href="https://kitewheel.com"><img src="https://www.google.com/s2/favicons?domain=kitewheel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kitewheel** · `🟢 Remote` `Senior` `$119k-$191k`
+
+_Design and architect enterprise database solutions across multiple platforms (z/OS, Exadata, Linux, Windows), providing technical leadership on DB2 RDBMS standards, performance tuning, backup/recovery policies, and mentoring junior DBAs. Requires 12+ years of database administration and architecture experience with advanced z/OS and DB2 mainframe expertise. · [Apply →](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Sr-Database-Architect---DB2_31993)_
+
+`DB2` `z/OS` `REXX` `RACF` `RMF` `Omegamon` `Mainframe Database Architecture` `Performance Tuning`
+
+<sub>May 27, 2026 at 17:16 UTC</sub>
+
+---
+
+### [Director of Engineering](https://job-boards.greenhouse.io/outschool/jobs/4684688006)
+<a href="https://outschool.com"><img src="https://www.google.com/s2/favicons?domain=outschool.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Outschool** · Remote / San Francisco, California · `🟢 Remote` `Manager` `$195k-$325k` `Equity`
+
+_Lead a product engineering team building Outschool's AI-powered platform for alternative education discovery and public funding reimbursement, while scaling the existing live-class marketplace. Hands-on director role requiring deep technical contribution in full-stack development and leading AI-native engineering transformation across the organization. · [Apply →](https://job-boards.greenhouse.io/outschool/jobs/4684688006)_
+
+`TypeScript` `React` `Node.js` `GraphQL` `PostgreSQL` `AI-native Development` `Full-stack Development`
+
+<sub>May 27, 2026 at 17:16 UTC</sub>
+
+---
+
+### [Lead AI/ML Software Engineer](https://job-boards.greenhouse.io/raft/jobs/6007073004)
+<a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · Remote; McLean, Virginia / Colorado Springs, Colorado / Tacoma, Washington / Oahu, Hawaii / Tampa, Florida / Boston, Massachusetts · `🟢 Remote` `Senior` `$180k-$230k` `Equity`
+
+_Lead the architecture and technical evolution of [R]AIMS, Raft's AI mission system platform, making hard design decisions across distributed systems, Kubernetes infrastructure, and AI/ML deployment while mentoring engineers and engaging directly with DoD stakeholders. Requires top secret/SCI clearance eligibility and hands-on leadership of complex production systems in defense/national security contexts. · [Apply →](https://job-boards.greenhouse.io/raft/jobs/6007073004)_
+
+`Kubernetes` `Distributed Systems` `Python` `Kafka` `Machine Learning` `Production ML Systems` `Cloud-Native Architecture` `Top Secret/SCI Clearance`
+
+<sub>May 27, 2026 at 17:16 UTC</sub>
+
+---
+
+### [Space Surveillance Engineer II](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007253004?gh_jid=6007253004)
+<a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · `🟢 Remote` `Senior` `$127k-$212k` `Equity`
+
+_Design and develop detection, tracking, and characterization algorithms and software for space surveillance systems, including sensor interfaces, autonomous observatory control, and sensor network modeling. Requires US citizenship eligible for security clearance. · [Apply →](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6007253004?gh_jid=6007253004)_
+
+`Python` `C++` `Image Processing` `Algorithm Optimization` `Machine Learning` `Linux` `Astrodynamics` `Estimation Theory`
+
+<sub>May 27, 2026 at 17:16 UTC</sub>
+
+---
 
 ### [MS Power Platform Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/MS-Power-Platform-Developer_RQ219572-1)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
@@ -65,17 +131,6 @@ _Design, deploy, and operate mission-critical database infrastructure across SQL
 
 ---
 
-### [Machine Learning Engineer II](https://api.smartrecruiters.com/v1/companies/Eurofins/postings/744000128602709)
-<a href="https://eurofins.com"><img src="https://www.google.com/s2/favicons?domain=eurofins.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Eurofins** · Saint Charles, Missouri · `🟢 Remote` `Mid`
-
-_Design and deploy production-ready AI-enabled applications for drug discovery, including RAG systems, semantic search frameworks, and conversational AI interfaces that integrate structured and unstructured data. Work at the intersection of computational chemistry, bioinformatics, and machine learning in a highly regulated biotech environment. · [Apply →](https://api.smartrecruiters.com/v1/companies/Eurofins/postings/744000128602709)_
-
-`Python` `PyTorch` `TensorFlow` `RAG` `Semantic Search` `Machine Learning` `LLMs` `PostgreSQL`
-
-<sub>May 27, 2026 at 01:16 UTC</sub>
-
----
-
 <br>
 
 ## May 26, 2026
@@ -108,17 +163,6 @@ _Design and develop detection, tracking, and characterization algorithms for spa
 _Lead an engineering team building consumer-facing product features and systems that help people engage meaningfully on Pinterest. Requires 3+ years managing 5+ engineers and strong product sense paired with technical judgment. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7895567)_
 
 <sub>May 26, 2026 at 22:36 UTC</sub>
-
----
-
-### [Software Engineer, Internal Tools](https://jobs.ashbyhq.com/cambio/056d02f8-c639-4181-a106-138582c78d7f)
-<a href="https://www.cambio.ai"><img src="https://www.google.com/s2/favicons?domain=www.cambio.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cambio** · Waterloo, Canada / Toronto, Canada · `🟢 Remote` `Mid`
-
-_Build internal tooling and automation systems for customer success workflows, including task pipelines, integrations, and AI-assisted automation using AWS and Python. High-impact work embedded with end users where you'll see real-time results across the business. · [Apply →](https://jobs.ashbyhq.com/cambio/056d02f8-c639-4181-a106-138582c78d7f)_
-
-`Python` `Django REST Framework` `Celery` `AWS` `PostgreSQL` `Next.js` `SQS` `Redis`
-
-<sub>May 26, 2026 at 21:40 UTC</sub>
 
 ---
 
@@ -331,12 +375,12 @@ _Own technical direction for agentic financial audit workflows, designing agent-
 
 ---
 
-### [Senior People Data Scientist](https://instacart.careers/job/?gh_jid=7958122)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$161k-CAD$170k` `Equity`
+### [Senior People Data Scientist](https://instacart.careers/job/?gh_jid=7958121)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$161k—$204k USD` `Equity`
 
-_Build and own enterprise people analytics data products, dashboards, and metrics infrastructure for workforce planning, organizational health, and HR decision-making. Partner with HR leaders across compensation, retention, recruiting, and engagement to design self-serve analytics platforms and apply advanced statistical methods to complex workforce problems. · [Apply →](https://instacart.careers/job/?gh_jid=7958122)_
+_Own enterprise people analytics across retention, organizational health, and workforce planning—design scalable self-serve dashboards and apply advanced statistical methods (predictive modeling, causal inference) to HR data at scale. Requires expertise in Snowflake, BI tools, survey design, and translating complex analyses for HR/business leaders. · [Apply →](https://instacart.careers/job/?gh_jid=7958121)_
 
-`SQL` `Snowflake` `Tableau` `Looker` `Python` `Workday` `Qualtrics` `Statistical Analysis`
+`SQL` `Snowflake` `Tableau` `Looker` `Regression Analysis` `Predictive Modeling` `Survey Design` `Psychometrics`
 
 <sub>May 26, 2026 at 17:16 UTC</sub>
 
@@ -1965,12 +2009,12 @@ _Build and maintain web applications, APIs, and integrations while providing pro
 
 ---
 
-### [Technical Engineering Manager](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000661)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Manager` `$150k-$171k`
+### [Technical Engineering Manager](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000680)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Manager` `$150k-$180k`
 
-_Lead a team of software engineers building scalable SaaS platform services for digital banking, with 20–30% hands-on code contribution in .NET, Java, or cloud-native microservices architecture. Manage cross-functional delivery across engineering, product, and operations teams in a rapidly growing fintech environment. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000661)_
+_Lead a team of software engineers building scalable SaaS platform services for digital banking; spend 20–30% of your time hands-on writing code, designing APIs, and architecting microservices. This role requires deep expertise in modern cloud-native systems (Kubernetes, microservices, event-driven architecture) and experience in highly regulated fintech environments. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000680)_
 
-`.NET` `Java` `C#` `Kubernetes` `PostgreSQL` `AWS` `Microservices Architecture` `Grafana`
+`.NET` `Java` `C#` `Kubernetes` `PostgreSQL` `AWS` `Grafana` `microservices architecture`
 
 <sub>May 19, 2026 at 19:59 UTC</sub>
 
@@ -2108,12 +2152,12 @@ _Lead a team of 8+ engineers building and operating Pinterest's developer platfo
 
 ---
 
-### [Senior Software Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7943677)
+### [Senior Software Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7345062)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$160k-$185k` `Equity`
 
-_Build and maintain scalable microservices, distributed systems, and core platform infrastructure powering SecurityScorecard's cybersecurity ratings engine across 12M+ companies. Lead technical initiatives around architecture, CI/CD automation, and production reliability while mentoring engineers on a hands-on technical leadership track. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7943677)_
+_Build and maintain scalable distributed systems, microservices, and platform infrastructure that power SecurityScorecard's cybersecurity ratings platform serving 25,000+ organizations. Lead technical initiatives around real-time data pipelines, cloud infrastructure, and developer tooling while mentoring engineers and driving adoption of modern DevOps practices. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7345062)_
 
-`Node.js` `TypeScript` `AWS` `Docker` `Terraform` `PostgreSQL` `ClickHouse` `ArgoCD`
+`TypeScript` `Node.js` `AWS` `Docker` `Terraform` `PostgreSQL` `ClickHouse` `ArgoCD`
 
 <sub>May 19, 2026 at 19:59 UTC</sub>
 
@@ -2343,12 +2387,12 @@ _Deploy computer vision models from proof-of-concept to production on edge hardw
 
 ---
 
-### [VP, Revenue Operations & GTM Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7939126)
-<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$325k-$350k` `Equity`
+### [VP, Revenue Operations & GTM Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7939130)
+<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Manager` `$325k-$350k` `Equity`
 
-_Build and lead SecurityScorecard's full revenue operations function while architecting and deploying AI-native GTM systems using Claude, Salesforce Agentforce, and supporting infrastructure. Own end-to-end revenue forecasting, pipeline analytics, territory design, and agentic workflow automation across Sales, Marketing, and Customer Success at a 12M+ company-rated SaaS platform. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7939126)_
+_Own SecurityScorecard's full revenue operations function while architecting and deploying AI-native GTM workflows using Claude, Salesforce Agentforce, and agentic systems that automate prospecting, lead scoring, and forecasting. Build forecast models with 5–10% accuracy and real-time analytics infrastructure for pipeline health across a 20%+ YoY growth company. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7939130)_
 
-`Salesforce` `Salesforce Agentforce` `Claude` `Snowflake` `Tableau` `Gainsight` `n8n` `Zapier`
+`Salesforce` `Salesforce Agentforce` `Claude` `Snowflake` `Tableau` `Python` `SQL` `n8n`
 
 <sub>May 18, 2026</sub>
 
