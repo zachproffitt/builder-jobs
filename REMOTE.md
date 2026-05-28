@@ -2,13 +2,57 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **286 open roles** (38 new)
+### **289 open roles** (41 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 28, 2026
+
+### [Snowflake Administrator](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Snowflake-Administrator_R0057792)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105k-$149k`
+
+_Own the reliability, security, and cost efficiency of Snowflake on AWS, designing and automating platform operations, CI/CD, observability, access control, and data movement for product and analytics teams. Requires 3+ years hands-on Snowflake administration and production experience with Terraform, AWS infrastructure, and observability stacks. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Snowflake-Administrator_R0057792)_
+
+`Snowflake` `Terraform` `AWS` `Python` `Bash` `SQL` `GitHub` `Datadog`
+
+<sub>May 28, 2026 at 13:33 UTC</sub>
+
+---
+
+### [Staff Backend Engineer - Grafana Enterprise | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6007413004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$186k-$223k CAD` `Equity`
+
+_Design and build distributed backend services in Go powering Grafana Enterprise, the observability platform used by the world's largest infrastructure operators. Focus on scalability, reliability, and multi-tenancy at massive scale for regulated, high-availability environments; staff-level role includes hiring and mentoring engineers. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6007413004)_
+
+`Go` `PostgreSQL` `MySQL` `gRPC` `Kubernetes` `Prometheus` `OpenTelemetry` `Distributed Systems`
+
+<sub>May 28, 2026 at 13:33 UTC</sub>
+
+---
+
+### [Staff Backend Engineer - Grafana Enterprise | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+
+_Design and build backend systems powering Grafana Enterprise, a distributed observability platform serving global enterprises and cloud providers at massive scale. Lead distributed systems architecture in Go with focus on multi-tenancy, consistency, and operational reliability. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004)_
+
+`Go` `gRPC` `PostgreSQL` `Kubernetes` `Prometheus` `OpenTelemetry` `TypeScript` `React`
+
+<sub>May 28, 2026 at 13:33 UTC</sub>
+
+---
+
+### [Head of Data Science - Fraud Insights](https://jobs.ashbyhq.com/socure/82e9f9f6-3896-42d1-b91b-d9ecaa36c6a8)
+<a href="https://socure.com"><img src="https://www.google.com/s2/favicons?domain=socure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socure** · San Francisco, California / New York, New York / Seattle, Washington / Miami, Florida · `🟢 Remote` `Manager`
+
+_Lead fraud research and intelligence across Socure's global identity graph, designing econometric studies to understand fraud evolution, detecting adversarial patterns, and translating findings into regulatory briefings, customer insights, and product strategy. Requires deep expertise in causal inference, fraud domain knowledge, and demonstrated external credibility to represent the organization at conferences and regulatory forums. · [Apply →](https://jobs.ashbyhq.com/socure/82e9f9f6-3896-42d1-b91b-d9ecaa36c6a8)_
+
+`Python` `SQL` `Causal Inference` `Graph Analytics` `Econometrics` `Fraud Analytics` `Statistical Modeling` `Neo4j`
+
+<sub>May 28, 2026 at 13:33 UTC</sub>
+
+---
 
 ### [Software Engineer II, Big Data, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782546)
 <a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$123k-$254k` `Equity`
@@ -218,17 +262,6 @@ _Lead a team of 10+ software engineers building high-scale, low-latency APIs and
 _Lead the Service Platform team responsible for Instacart's core deployment and release engineering systems, including canary infrastructure and end-to-end deployment tooling—foundational systems enabling safe, confident code shipping across the entire engineering organization. Navigate complex distributed systems and drive reliability initiatives in a fast-paced environment while building intuitive, scalable systems that directly impact developer velocity and platform stability. · [Apply →](https://instacart.careers/job/?gh_jid=7960988)_
 
 `Distributed Systems` `Canary Deployment` `Release Engineering` `Infrastructure Platforms` `Temporal` `Incident Management`
-
-<sub>May 27, 2026 at 19:01 UTC</sub>
-
----
-
-### [Senior Software Engineer, Cloud](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Software-Engineer--Cloud_31151599-1)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · `🟢 Remote` `Senior` `$86k-$173k`
-
-_Build scalable, highly available cloud services for a SaaS platform processing billions of healthcare tasks daily across 49+ countries. Design secure, low-latency backend systems in Go that integrate medical device data with partner APIs; requires 6+ years of professional software development experience. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Software-Engineer--Cloud_31151599-1)_
-
-`Go` `PostgreSQL` `Kubernetes` `Docker` `RESTful APIs` `Microservices` `Distributed Systems` `Asynchronous Messaging`
 
 <sub>May 27, 2026 at 19:01 UTC</sub>
 
@@ -2814,7 +2847,7 @@ _Lead the design and delivery of agentic AI systems and intelligent workflows th
 ---
 
 ### [Vice President Site Reliability Engineering (Data Centers)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)
-<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · New York, New York · `🟢 Remote` `Manager`
+<a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy** · New York, New York · `🟢 Remote` `Manager`
 
 _Lead a specialized SRE team designing, deploying, and maintaining automation platforms and infrastructure-as-code systems across hybrid cloud and on-prem data center environments. Establish IaC governance standards, optimize configuration management workflows, and build self-service platforms that enhance engineering velocity while managing complex hybrid infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5997360004)_
 
