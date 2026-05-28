@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **375 companies** · **2337 open roles** (244 new)
+### **375 companies** · **2337 open roles** (241 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -1211,8 +1211,8 @@ David AI develops proprietary audio datasets for AI labs to use in training thei
 
 DeepL provides translation services for speech, text, and media, and offers an API for integration.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Staff Software Engineer | API](https://jobs.ashbyhq.com/DeepL/b14178e6-7ad2-4195-8934-1f94503a4918) · New York, New York · `🟡 Hybrid` `Staff` `Equity` (May 27)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer | API](https://jobs.ashbyhq.com/DeepL/4fe3ffe8-da25-4b84-addc-8dd06aba9e2e) · New York, New York · `🟡 Hybrid` `Senior` `Equity` (May 27)
+- [Senior Staff Software Engineer | API](https://jobs.ashbyhq.com/DeepL/b14178e6-7ad2-4195-8934-1f94503a4918) · New York, New York · `🟡 Hybrid` `Staff` `Equity` (May 27)
+- [Senior Software Engineer | API](https://jobs.ashbyhq.com/DeepL/4fe3ffe8-da25-4b84-addc-8dd06aba9e2e) · New York, New York · `🟡 Hybrid` `Senior` `Equity` (May 27)
 
 ---
 
@@ -2050,7 +2050,6 @@ Kodiak Robotics develops the Kodiak Driver, an autonomous vehicle system that in
 
 Kraken is a cryptocurrency and financial trading platform that allows users to trade cryptocurrency, stocks, futures, and participate in staking.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer II - Frontend - Pro - Infra](https://jobs.ashbyhq.com/kraken.com/4166eacc-41df-44a6-8b01-36bbfdc5db5e) · `🟢 Remote` `Mid` (May 28)
 - [Senior Software Engineer - Frontend - Pro](https://jobs.ashbyhq.com/kraken.com/aa04e385-a718-4630-ba2a-815ff2483ac8) · `🟢 Remote` `Senior` (May 21)
 - [Staff Security Architect](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2) · `🟢 Remote` `Staff` (May 19)
 
@@ -2802,6 +2801,7 @@ Pika is a platform that converts ideas into videos.
 
 Pinterest is a platform where millions of people find creative ideas, plan projects, and seek inspiration. The company develops AI-powered tools to help users discover and save content related to their interests.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer II, Big Data, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782546) · San Francisco, California / Remote · `🟢 Remote` `Mid` `$123k-$254k` `Equity` (May 28)
 - [Manager II, Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=7895567) · San Francisco, California / Remote · `🟢 Remote` `Manager` `$208k-$364k` `Equity` (May 26)
 - [Staff Software Engineer, Cache Infra](https://www.pinterestcareers.com/jobs/?gh_jid=7747067) · San Francisco, California / Palo Alto, California · `🟡 Hybrid` `Staff` `$208k–$364k` `Equity` (May 26)
 - [Director, Machine Learning Engineering – Content & User Understanding](https://www.pinterestcareers.com/jobs/?gh_jid=7908460) · `🟢 Remote` `Manager` `$267k–$550k` `Equity` (May 26)
@@ -2987,7 +2987,7 @@ Quindar builds command and control software and ground systems integration capab
 
 Rackspace delivers multicloud solutions for applications, data, and security across cloud computing services.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Database Reliability Engineer](https://rackspace.wd1.myworkdayjobs.com/External/job/IND-Work-from-Home-Remote/Staff-Database-Reliability-Engineer_R-23101) · `🟢 Remote` `Staff` (May 27)
+- [Staff Database Reliability Engineer](https://rackspace.wd1.myworkdayjobs.com/External/job/IND-Work-from-Home-Remote/Staff-Database-Reliability-Engineer_R-23101) · `🟢 Remote` `Staff` (May 27)
 - [Forward Deployed Engineer - Enterprise AI Solutions](https://rackspace.wd1.myworkdayjobs.com/External/job/US-Work-from-Home/Forward-Deployed-Engineer---Enterprise-AI-Solutions_R-23395) · `🟢 Remote` `Senior` `$165k-$243k` `Equity` (May 22)
 
 ---
