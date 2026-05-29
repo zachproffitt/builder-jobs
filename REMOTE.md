@@ -2,13 +2,134 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **338 open roles** (45 new)
+### **350 open roles** (56 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 29, 2026
+
+### [Software Engineer, Experience Platform](https://jobs.ashbyhq.com/paxos/50465d24-cf16-4784-8f9d-95369a569a6b)
+<a href="https://paxos.com"><img src="https://www.google.com/s2/favicons?domain=paxos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Paxos** · `🟢 Remote` `Mid`
+
+_Build and maintain backend API services and shared libraries for Paxos' unified dashboard platform, with a focus on user authentication, RBAC, and governance features. Work on security-critical infrastructure serving major financial institutions at scale. · [Apply →](https://jobs.ashbyhq.com/paxos/50465d24-cf16-4784-8f9d-95369a569a6b)_
+
+`Golang` `Java` `Python` `Kotlin` `Kubernetes` `Docker` `Kafka` `AWS`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Engineering Manager - Reporting](https://jobs.ashbyhq.com/vanta/1198e8b4-63d6-431c-bd37-8a709645ca63)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Manager` `Equity`
+
+_Lead a reporting and data infrastructure engineering team focused on scalable, AI-powered compliance and security reporting experiences for enterprise customers. Manage 8-12+ engineers across reporting infrastructure, historical analytics, and certified data platforms while shaping long-term technical strategy in partnership with Product and Design. · [Apply →](https://jobs.ashbyhq.com/vanta/1198e8b4-63d6-431c-bd37-8a709645ca63)_
+
+`Data Infrastructure` `Enterprise Reporting` `AI/ML Systems` `Product Strategy` `Team Leadership`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Game Engineering Director](https://job-boards.greenhouse.io/teamlfg/jobs/5668858004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Manager` `$255k—$383k`
+
+_Direct a 30+ person engineering organization building live service game experiences on Unreal Engine, combining action gameplay with community-focused design. Manage senior engineering leads, co-development teams, and cross-studio stakeholders at a PlayStation studio shipping a new IP. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5668858004)_
+
+`Unreal Engine` `Live Service Games` `Team Leadership (30+ engineers)` `Co-development Management` `PlayStation Platform` `Agile Development`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Senior Engineer - Build Systems](https://job-boards.greenhouse.io/teamlfg/jobs/5981474004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Senior` `$160k-$240k`
+
+_Develop and maintain automated build systems for Unreal Engine 5 using C# and C++, managing CI/CD pipelines, build resources, and workflows for game developers. This is a mission-critical infrastructure role at PlayStation supporting a new game franchise with tight feedback loops on build times and system reliability. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5981474004)_
+
+`C#` `C++` `Unreal Engine 5` `Perforce` `CI/CD` `Horde` `UGS`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Senior Game Engineer - Graphics](https://job-boards.greenhouse.io/teamlfg/jobs/6003126004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Senior` `$160k—$240k`
+
+_Own rendering systems and graphics pipelines in Unreal Engine 5 for a multiplayer game, including lighting, materials, particles, post-processing, and performance optimization across platforms. Collaborate with artists to prototype stylized rendering features and visual effects while driving visual quality and technical innovation. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/6003126004)_
+
+`C++` `Unreal Engine 5` `Real-time Rendering` `GPU Optimization` `Shaders` `Graphics Pipelines` `HLSL/GLSL`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Senior Gameplay Engineer – Gameplay Tools](https://job-boards.greenhouse.io/teamlfg/jobs/5976859004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Senior` `$160k–$240k USD`
+
+_Build gameplay systems, workflows, and tools in C++ on Unreal 5 that empower content creators to develop a comedic multiplayer game. Work at PlayStation on a new IP, bridging engine capabilities with designer and artist-facing tooling in a networked environment. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5976859004)_
+
+`C++` `Unreal Engine 5` `Gameplay Systems` `Tools Programming`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Senior Game Services Engineering Lead](https://job-boards.greenhouse.io/teamlfg/jobs/5843987004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Manager` `$217k—$325k`
+
+_Design and build production backend game services for a social multiplayer game, including sessions, matchmaking, and progression systems. Lead a team of engineers while scaling from prototype to production at PlayStation Studios. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5843987004)_
+
+`Rust` `C++` `C#` `Docker` `Git` `Linux` `Distributed Systems` `Game Services Architecture`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Senior Services Engineer (Orchestration)](https://job-boards.greenhouse.io/teamlfg/jobs/5828454004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Senior` `$160k—$240k` `Equity`
+
+_Build and maintain the backend orchestration system that coordinates a global fleet of containerized game servers, handling dynamic resource allocation, monitoring, and security for a PlayStation multiplayer game. Requires production experience with orchestration technologies (Kubernetes, Agones, or similar) and Rust proficiency. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5828454004)_
+
+`Rust` `Kubernetes` `Docker` `Git` `Linux` `Terraform` `IaC` `Agones`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Staff Investment Engineer](https://job-boards.greenhouse.io/teamlfg/jobs/5980581004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Staff` `$190k—$285k`
+
+_Architect and implement player progression systems (loot tables, account storage, progression mechanics) for an unannounced PlayStation game using C++ and Unreal 5, guiding designers and cross-functional teams through pre-production and live service. Experience building networked systems for long-term player engagement at scale required. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5980581004)_
+
+`C++` `Unreal Engine 5` `Game Systems Design` `Live Service Games` `Networking`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Staff Services Engineer](https://job-boards.greenhouse.io/teamlfg/jobs/5659238004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Staff` `$190k—$285k`
+
+_Build and maintain production-quality backend game services for a new PlayStation franchise, including sessions, matchmaking, and player progression systems. Design core services that scale from prototype to production in a games-as-a-service environment. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5659238004)_
+
+`Rust` `C++` `Docker` `Git` `Linux` `Games as a Service` `Backend Systems` `Production Incident Response`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
+
+### [Tech Art Lead](https://job-boards.greenhouse.io/teamlfg/jobs/5659232004)
+<a href="https://teamlfg.gg"><img src="https://www.google.com/s2/favicons?domain=teamlfg.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Team LFG** · `🟢 Remote` `Manager` `$143k—$215k`
+
+_Lead the technical art discipline for a new PlayStation action game, building character rigging systems and art pipelines while managing a team of technical artists. Requires shipping experience across multiple platforms (PC, console) and expertise in real-time character animation constraints within Unreal Engine. · [Apply →](https://job-boards.greenhouse.io/teamlfg/jobs/5659232004)_
+
+`Maya` `Substance Painter` `Python` `Unreal Engine` `Rigging` `Shader Development` `VFX` `Modular Systems`
+
+<sub>May 29, 2026 at 20:15 UTC</sub>
+
+---
 
 ### [Associate Director, Medicare Advantage Bid Strategy & Analytics](https://devoted.wd1.myworkdayjobs.com/Devoted/job/Remote-USA/Associate-Director--Medicare-Advantage-Bid-Strategy---Analytics_R3211)
 <a href="https://devoted.com"><img src="https://www.google.com/s2/favicons?domain=devoted.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Devoted Health** · `🟢 Remote` `Senior` `$129k-$193k` `Equity`
@@ -339,7 +460,7 @@ _Lead machine learning and analytics projects to detect fraud, waste, and abuse 
 ---
 
 ### [Manager, Data Analytics](https://job-boards.greenhouse.io/hs/jobs/7964900)
-<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · `🟢 Remote` `Manager` `$158k-$224k` `Equity`
+<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · `🟢 Remote` `Manager` `$158k-$224k` `Equity`
 
 _Lead the data analytics vision and strategy across the organization, building scalable analytical frameworks, A/B testing infrastructure, and self-service analytics platforms. Manage a team of data analysts and engineers while partnering with product, engineering, and business teams to drive data-driven decision-making at scale. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7964900)_
 
@@ -595,17 +716,6 @@ _Build the core agent execution runtime, orchestration primitives, and cloud inf
 
 ---
 
-### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
-
-_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
-
-`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
-
-<sub>May 28, 2026 at 19:06 UTC</sub>
-
----
-
 ### [Senior Full Stack Engineer (Frontend Leaning - Canada)](https://jobs.ashbyhq.com/loot-labs/561c8628-df7b-4ad9-9026-8263b84674a8)
 <a href="https://lootlabs.gg"><img src="https://www.google.com/s2/favicons?domain=lootlabs.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Loot Labs** · `🟢 Remote` `Senior`
 
@@ -623,6 +733,17 @@ _Build high-performance web applications for a collectibles platform, owning fea
 _Design and scale backend systems for a digital collectibles platform, building production-grade APIs and infrastructure using AWS and TypeScript. Lead architecture decisions for e-commerce and community features serving 500k+ users with 5+ years of senior backend experience required. · [Apply →](https://jobs.ashbyhq.com/loot-labs/7b455997-2ef3-4ecb-9e34-edfd91a7225c)_
 
 `TypeScript` `AWS` `GraphQL` `DynamoDB` `Lambda` `SST` `Terraform` `PostgreSQL`
+
+<sub>May 28, 2026 at 19:06 UTC</sub>
+
+---
+
+### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
+
+_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
+
+`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
 
 <sub>May 28, 2026 at 19:06 UTC</sub>
 
@@ -1034,6 +1155,17 @@ _Build and maintain automation, integrations, and AI-assisted workflows for Gove
 _Deploy and manage infrastructure for Protected B classified environments on AWS, GCP, and Azure, ensuring compliance with ITSG-33 and Canadian government standards. Requires active Secret+ security clearance and experience hardening training and inference infrastructure for AI/ML systems. · [Apply →](https://jobs.ashbyhq.com/cohere/e48c5456-6ff5-4d4b-a632-df0a3dc497ab)_
 
 `Kubernetes` `Terraform` `AWS` `GCP` `Azure` `IAM` `TS/SCI Clearance` `ITSG-33`
+
+<sub>May 27, 2026 at 19:01 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Cloud](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Software-Engineer--Cloud_31151599-1)
+<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · `🟢 Remote` `Senior` `$86k-$173k`
+
+_Build scalable, highly available cloud services for a SaaS platform processing billions of healthcare tasks daily across 49+ countries. Design secure, low-latency backend systems in Go that integrate medical device data with partner APIs; requires 6+ years of professional software development experience. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Senior-Software-Engineer--Cloud_31151599-1)_
+
+`Go` `PostgreSQL` `Kubernetes` `Docker` `RESTful APIs` `Microservices` `Distributed Systems` `Asynchronous Messaging`
 
 <sub>May 27, 2026 at 19:01 UTC</sub>
 
@@ -3100,23 +3232,23 @@ _Build and maintain the Scala, Bazel, and CI infrastructure that powers Iterable
 
 ---
 
-### [Senior Azure Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$149k-$184k`
-
-_Lead design, deployment, and security of enterprise Azure cloud infrastructure supporting AI/ML workloads and mission-critical modernization initiatives. Requires ability to obtain Secret clearance and work with government/defense customers. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)_
-
-`Microsoft Azure` `Azure ML` `Terraform` `Bicep` `DevSecOps` `Kubernetes (AKS)` `PowerShell` `Python`
-
-<sub>May 19, 2026 at 19:59 UTC</sub>
-
----
-
 ### [Staff Security Architect](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)
 <a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Staff`
 
 _Design and verify robust security architecture across Kraken's crypto exchange infrastructure, products, and blockchain systems. Conduct security assessments and audits while staying current with blockchain-specific threats; hands-on role deeply embedded with engineering teams across the company. · [Apply →](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)_
 
 `Application Security` `Infrastructure Security` `Cryptography` `OWASP` `NIST` `Rust` `Blockchain Security` `Web3 Security`
+
+<sub>May 19, 2026 at 19:59 UTC</sub>
+
+---
+
+### [Senior Azure Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$149k-$184k`
+
+_Lead design, deployment, and security of enterprise Azure cloud infrastructure supporting AI/ML workloads and mission-critical modernization initiatives. Requires ability to obtain Secret clearance and work with government/defense customers. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)_
+
+`Microsoft Azure` `Azure ML` `Terraform` `Bicep` `DevSecOps` `Kubernetes (AKS)` `PowerShell` `Python`
 
 <sub>May 19, 2026 at 19:59 UTC</sub>
 
