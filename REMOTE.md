@@ -2,13 +2,55 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **350 open roles** (56 new)
+### **354 open roles** (50 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## May 29, 2026
+
+### [Engineering Manager - Platform](https://jobs.ashbyhq.com/clipboard/88f851bd-dbbd-48e1-a405-bc8168fefccf)
+<a href="https://www.clipboardworks.com"><img src="https://www.google.com/s2/favicons?domain=www.clipboardworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clipboard** · `🟢 Remote` `Manager`
+
+_Lead the Platform team that builds developer infrastructure, tools, and processes enabling Clipboard's 100+ engineers to design, build, test, deploy, and secure software at scale. You'll own cross-cutting systems (auth, notifications, databases, deployments, reliability, security) and make judgment calls on what friction to centralize versus what teams solve independently, with particular focus on risks and opportunities introduced by AI-augmented development. · [Apply →](https://jobs.ashbyhq.com/clipboard/88f851bd-dbbd-48e1-a405-bc8168fefccf)_
+
+<sub>May 29, 2026 at 20:58 UTC</sub>
+
+---
+
+### [Senior Data Scientist, Credit & Fraud Risk Modeling ](https://jobs.ashbyhq.com/kafene/8949d7e0-9e0e-43da-993e-95300aac397a)
+<a href="https://kafene.com"><img src="https://www.google.com/s2/favicons?domain=kafene.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kafene** · `🟢 Remote` `Senior` `$95k-$140k`
+
+_Own the full ML lifecycle for credit risk models that determine customer approval amounts and default predictions at scale. Work with real financial data and regulatory constraints (SR 11-7 governance); 5+ years of predictive modeling experience in credit/lending required. · [Apply →](https://jobs.ashbyhq.com/kafene/8949d7e0-9e0e-43da-993e-95300aac397a)_
+
+`Python` `SQL` `Gradient Boosting` `XGBoost` `scikit-learn` `pandas` `Logistic Regression` `Master's/PhD Required`
+
+<sub>May 29, 2026 at 20:58 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Custody](https://jobs.ashbyhq.com/paxos/d0dc54fd-910c-4779-b569-1e1475d52732)
+<a href="https://paxos.com"><img src="https://www.google.com/s2/favicons?domain=paxos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Paxos** · `🟢 Remote` `Senior`
+
+_Design and maintain secure, scalable crypto custody infrastructure across multiple blockchains for leading financial institutions. Build mission-critical distributed systems handling high-throughput, low-latency asset transactions with expertise in blockchain, distributed systems, and security. · [Apply →](https://jobs.ashbyhq.com/paxos/d0dc54fd-910c-4779-b569-1e1475d52732)_
+
+`Go` `Java` `Kubernetes` `Docker` `Kafka` `AWS` `Rust` `Python`
+
+<sub>May 29, 2026 at 20:58 UTC</sub>
+
+---
+
+### [Senior Data Scientist, Crypto](https://jobs.ashbyhq.com/wealthsimple/cc7bd822-a7b6-4282-ab6f-abe78ee51e06)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Shape Wealthsimple's crypto product strategy by developing metrics, analytical frameworks, and insights that inform product decisions around onboarding, trading, engagement, and retention. Partner cross-functionally with Product, Engineering, and Operations to identify high-impact opportunities and translate complex business questions into actionable recommendations. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/cc7bd822-a7b6-4282-ab6f-abe78ee51e06)_
+
+`SQL` `Python` `dbt` `experimentation design` `causal inference` `product analytics`
+
+<sub>May 29, 2026 at 20:58 UTC</sub>
+
+---
 
 ### [Software Engineer, Experience Platform](https://jobs.ashbyhq.com/paxos/50465d24-cf16-4784-8f9d-95369a569a6b)
 <a href="https://paxos.com"><img src="https://www.google.com/s2/favicons?domain=paxos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Paxos** · `🟢 Remote` `Mid`
@@ -460,7 +502,7 @@ _Lead machine learning and analytics projects to detect fraud, waste, and abuse 
 ---
 
 ### [Manager, Data Analytics](https://job-boards.greenhouse.io/hs/jobs/7964900)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · `🟢 Remote` `Manager` `$158k-$224k` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · `🟢 Remote` `Manager` `$158k-$224k` `Equity`
 
 _Lead the data analytics vision and strategy across the organization, building scalable analytical frameworks, A/B testing infrastructure, and self-service analytics platforms. Manage a team of data analysts and engineers while partnering with product, engineering, and business teams to drive data-driven decision-making at scale. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7964900)_
 
@@ -716,6 +758,17 @@ _Build the core agent execution runtime, orchestration primitives, and cloud inf
 
 ---
 
+### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
+
+_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
+
+`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
+
+<sub>May 28, 2026 at 19:06 UTC</sub>
+
+---
+
 ### [Senior Full Stack Engineer (Frontend Leaning - Canada)](https://jobs.ashbyhq.com/loot-labs/561c8628-df7b-4ad9-9026-8263b84674a8)
 <a href="https://lootlabs.gg"><img src="https://www.google.com/s2/favicons?domain=lootlabs.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Loot Labs** · `🟢 Remote` `Senior`
 
@@ -733,17 +786,6 @@ _Build high-performance web applications for a collectibles platform, owning fea
 _Design and scale backend systems for a digital collectibles platform, building production-grade APIs and infrastructure using AWS and TypeScript. Lead architecture decisions for e-commerce and community features serving 500k+ users with 5+ years of senior backend experience required. · [Apply →](https://jobs.ashbyhq.com/loot-labs/7b455997-2ef3-4ecb-9e34-edfd91a7225c)_
 
 `TypeScript` `AWS` `GraphQL` `DynamoDB` `Lambda` `SST` `Terraform` `PostgreSQL`
-
-<sub>May 28, 2026 at 19:06 UTC</sub>
-
----
-
-### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
-
-_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
-
-`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
 
 <sub>May 28, 2026 at 19:06 UTC</sub>
 
@@ -1525,12 +1567,12 @@ _Deploy and maintain security platforms (Splunk, Sentinel, CrowdStrike) and buil
 
 ---
 
-### [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior`
+### [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
 
-_Build and maintain data pipelines, ETL systems, and analytics infrastructure for Reddit's Sales and Marketing organization. Lead data quality, governance, and self-service initiatives while mentoring data scientists and cross-functional teams on a platform serving 126M+ daily active users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7958403)_
+_Build data pipelines, ETL systems, and analytics infrastructure for Reddit's Sales and Marketing organization. Lead data quality and automation initiatives while mentoring analytics engineers and data scientists; requires advanced degree in quantitative discipline plus 4-5+ years of large-scale ETL and production Python experience. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7445224)_
 
-`Python` `SQL` `Spark` `Airflow` `Scala` `Looker` `Tableau` `Data Modeling`
+`Python` `SQL` `Spark` `Scala` `Airflow` `Looker` `Tableau` `Data Modeling`
 
 <sub>May 26, 2026 at 19:00 UTC</sub>
 
@@ -2300,28 +2342,6 @@ _Build core infrastructure for multi-agent orchestration, including task plannin
 
 ---
 
-### [Senior Full Stack Data Scientist, NLP](https://jobs.ashbyhq.com/trm-labs/75e19d16-f335-45a8-b4cc-66575b76a1db)
-<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · San Francisco, California / Los Angeles, California / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Senior`
-
-_Design, build, and productionize machine learning models for knowledge extraction, entity resolution, and graph-based learning from unstructured data. Integrate ML systems into production APIs and knowledge graphs serving criminal intelligence and national security agencies. · [Apply →](https://jobs.ashbyhq.com/trm-labs/75e19d16-f335-45a8-b4cc-66575b76a1db)_
-
-`Python` `NLP` `Named Entity Recognition` `Knowledge Graphs` `Machine Learning Engineering` `Graph Neural Networks` `PyTorch` `Hugging Face`
-
-<sub>May 21, 2026 at 20:45 UTC</sub>
-
----
-
-### [Senior Data Scientist, Graph ML](https://jobs.ashbyhq.com/trm-labs/91fa6810-96bb-4473-af87-7fac22f010bc)
-<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · San Francisco, California / Los Angeles, California / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Senior`
-
-_Design and productionize machine learning models for knowledge extraction from unstructured data, entity resolution, and graph-based learning—integrating NLP, NER, and graph analytics into production intelligence systems for financial crime investigation. · [Apply →](https://jobs.ashbyhq.com/trm-labs/91fa6810-96bb-4473-af87-7fac22f010bc)_
-
-`Python` `NLP` `Named Entity Recognition` `Knowledge Graphs` `PyTorch or TensorFlow` `Graph Neural Networks` `Entity Resolution` `Production ML Systems`
-
-<sub>May 21, 2026 at 20:45 UTC</sub>
-
----
-
 ### [Synthetic Data Generation and User Simulation PhD Research Intern — Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `🟢 Remote` `Intern` `$30-$94 (hourly)`
 
@@ -2339,6 +2359,28 @@ _Conduct research on synthetic data generation and user simulation for LLM train
 _Develop automated quantum error correction code discovery pipelines and ML-based decoders using AI-driven automation to identify and evaluate high-performance quantum error correcting codes. Work with NVIDIA's cuQuantum and CUDA-Q platforms on frontier research at the intersection of quantum code design, neural decoders, and tensor network simulation methods. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)_
 
 `Python` `Quantum Error Correction` `Machine Learning` `PyTorch` `TensorFlow` `cuQuantum` `CUDA-Q` `Tensor Networks`
+
+<sub>May 21, 2026 at 20:45 UTC</sub>
+
+---
+
+### [Senior Full Stack Data Scientist, NLP](https://jobs.ashbyhq.com/trm-labs/75e19d16-f335-45a8-b4cc-66575b76a1db)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · San Francisco, California / Los Angeles, California / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Senior`
+
+_Design, build, and productionize machine learning models for knowledge extraction, entity resolution, and graph-based learning from unstructured data. Integrate ML systems into production APIs and knowledge graphs serving criminal intelligence and national security agencies. · [Apply →](https://jobs.ashbyhq.com/trm-labs/75e19d16-f335-45a8-b4cc-66575b76a1db)_
+
+`Python` `NLP` `Named Entity Recognition` `Knowledge Graphs` `Machine Learning Engineering` `Graph Neural Networks` `PyTorch` `Hugging Face`
+
+<sub>May 21, 2026 at 20:45 UTC</sub>
+
+---
+
+### [Senior Data Scientist, Graph ML](https://jobs.ashbyhq.com/trm-labs/91fa6810-96bb-4473-af87-7fac22f010bc)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · San Francisco, California / Los Angeles, California / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Senior`
+
+_Design and productionize machine learning models for knowledge extraction from unstructured data, entity resolution, and graph-based learning—integrating NLP, NER, and graph analytics into production intelligence systems for financial crime investigation. · [Apply →](https://jobs.ashbyhq.com/trm-labs/91fa6810-96bb-4473-af87-7fac22f010bc)_
+
+`Python` `NLP` `Named Entity Recognition` `Knowledge Graphs` `PyTorch or TensorFlow` `Graph Neural Networks` `Entity Resolution` `Production ML Systems`
 
 <sub>May 21, 2026 at 20:45 UTC</sub>
 
@@ -3019,23 +3061,23 @@ _Lead a team of developers and administrators managing NetSuite, Workday, Blackl
 
 ---
 
-### [Applied AI Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$125k-$180k` `Equity`
-
-_Build shared infrastructure and agentic AI applications for internal HR systems, including LLM integrations, workflow orchestration, and multi-agent platforms. Experience with AI-assisted development tools and the ability to evaluate LLM-generated code are core to the role. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)_
-
-`Python` `AWS` `Airflow` `Snowflake` `Slack Bolt` `LLM APIs` `CI/CD` `FastAPI`
-
-<sub>May 20, 2026 at 15:15 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Software-Engineer_R0058511)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105.7k-$149.3k`
 
 _Lead the design and delivery of full-stack, cloud-based, and Gen AI-enabled software solutions for financial services applications. Architect scalable systems for data-driven reporting and AI-assisted capabilities while mentoring junior engineers. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Software-Engineer_R0058511)_
 
 `Java` `Python` `SQL` `Cloud Platforms` `CI/CD` `Gen AI` `Full Stack Development`
+
+<sub>May 20, 2026 at 15:15 UTC</sub>
+
+---
+
+### [Applied AI Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$125k-$180k` `Equity`
+
+_Build shared infrastructure and agentic AI applications for internal HR systems, including LLM integrations, workflow orchestration, and multi-agent platforms. Experience with AI-assisted development tools and the ability to evaluate LLM-generated code are core to the role. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)_
+
+`Python` `AWS` `Airflow` `Snowflake` `Slack Bolt` `LLM APIs` `CI/CD` `FastAPI`
 
 <sub>May 20, 2026 at 15:15 UTC</sub>
 
@@ -3276,10 +3318,10 @@ _Lead a team of 8+ engineers building and operating Pinterest's developer platfo
 
 ---
 
-### [Senior Software Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7961001)
+### [Senior Software Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7960884)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$160k-$185k` `Equity`
 
-_Build and evolve the foundational platform systems—microservices, distributed real-time pipelines, and infrastructure—that power SecurityScorecard's cybersecurity ratings engine serving 25,000+ organizations. Lead technical architecture decisions across Node.js/TypeScript backend, AWS cloud infrastructure, and developer tooling while mentoring engineers. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7961001)_
+_Own and evolve foundational platform systems powering SecurityScorecard's cybersecurity rating products, architecting scalable microservices and distributed systems using Node.js, TypeScript, and AWS. Balance hands-on technical leadership with mentoring engineers across core infrastructure, CI/CD automation, and production support at scale. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7960884)_
 
 `Node.js` `TypeScript` `AWS` `Docker` `Terraform` `PostgreSQL` `ClickHouse` `Distributed Systems`
 
@@ -3522,12 +3564,12 @@ _Deploy computer vision models from proof-of-concept to production on edge hardw
 
 ---
 
-### [VP, Revenue Operations & GTM Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7938979)
-<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Manager` `$325k-$350k` `Equity`
+### [VP, Revenue Operations & GTM Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7939126)
+<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$325k-$350k` `Equity`
 
-_Build AI-native revenue operations systems including agentic GTM workflows, real-time forecasting infrastructure, and analytics platforms that automate territory design, lead scoring, and pipeline management. Own the full lead-to-cash process across Sales, Marketing, and Customer Success while architecting Salesforce Agentforce and Snowflake-based intelligence layers for a rapidly scaling SaaS platform. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7938979)_
+_Build and lead SecurityScorecard's full revenue operations function while architecting and deploying AI-native GTM systems using Claude, Salesforce Agentforce, and supporting infrastructure. Own end-to-end revenue forecasting, pipeline analytics, territory design, and agentic workflow automation across Sales, Marketing, and Customer Success at a 12M+ company-rated SaaS platform. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7939126)_
 
-`Salesforce` `Salesforce Agentforce` `Claude` `Snowflake` `Tableau` `Gainsight` `n8n` `Python`
+`Salesforce` `Salesforce Agentforce` `Claude` `Snowflake` `Tableau` `Gainsight` `n8n` `Zapier`
 
 <sub>May 18, 2026</sub>
 
