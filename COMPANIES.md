@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **413 companies** · **2512 open roles** (19 new)
+### **413 companies** · **2513 open roles** (14 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -1156,7 +1156,7 @@ Coder provides self-hosted infrastructure that gives developers a secure, govern
 
 Cohere builds AI models and solutions that help enterprises automate processes, empower employees, and convert fragmented data into actionable insights.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Search Applications Performance Engineer](https://jobs.ashbyhq.com/cohere/74856e86-8eeb-46ea-bf60-b4b4ad3352ae) · Toronto, Canada · `🟢 Remote` `Senior` (May 30)
+- [Senior Search Applications Performance Engineer](https://jobs.ashbyhq.com/cohere/74856e86-8eeb-46ea-bf60-b4b4ad3352ae) · Toronto, Canada · `🟢 Remote` `Senior` (May 30)
 - [Infrastructure Security Engineer (Secret + Clearance)](https://jobs.ashbyhq.com/cohere/e48c5456-6ff5-4d4b-a632-df0a3dc497ab) · Toronto, Canada · `🟢 Remote` `Senior` (May 27)
 - [Manager, Security Engineering](https://jobs.ashbyhq.com/cohere/1599cc22-313e-49c9-ac69-b365f5f8f227) · Toronto, Canada / New York, New York / San Francisco, California / London, UK / Paris, France · `🟡 Hybrid` `Manager` (May 27)
 
@@ -1696,7 +1696,7 @@ Galaxy Digital provides digital asset and AI infrastructure services to institut
 
 GameChanger offers live streaming, sports team management, and scorekeeping services for youth sports coaches and fans.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Director of Engineering](https://jobs.ashbyhq.com/gamechanger/223f815f-45f1-4ccd-9dec-6319825f364e) · `🟢 Remote` `Manager` `$240k-$260k` `Equity` (May 30)
+- [Director of Engineering](https://jobs.ashbyhq.com/gamechanger/223f815f-45f1-4ccd-9dec-6319825f364e) · `🟢 Remote` `Manager` `$240k-$260k` `Equity` (May 30)
 
 ---
 
@@ -1963,7 +1963,7 @@ HomeLight uses data to help homebuyers and sellers find real estate agents natio
 
 HopSkipDrive provides supplemental student transportation and routing software.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [VP, Engineering](https://job-boards.greenhouse.io/hopskipdrive/jobs/6002665004) · `🟢 Remote` `Manager` `$240k-$270k` `Equity` (May 30)
+- [VP, Engineering](https://job-boards.greenhouse.io/hopskipdrive/jobs/6002665004) · `🟢 Remote` `Manager` `$240k-$270k` `Equity` (May 30)
 
 ---
 
@@ -3895,7 +3895,7 @@ SiFive designs and develops processors and systems based on the RISC-V instructi
 
 Sinefa provides autonomous digital experience management and digital experience monitoring software, as well as Prisma Access, SASE, Prisma SD-WAN, and user experience solutions.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Software Engineer (L7 Security)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Software-Engineer--L7-Security-_JR-016867) · Santa Clara, California · `Principal` `$147k-$237.5k` `Equity` (May 30)
+- [Principal Software Engineer (L7 Security)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Software-Engineer--L7-Security-_JR-016867) · Santa Clara, California · `Principal` `$147k-$237.5k` `Equity` (May 30)
 - [Sr Principal Engineer Software- Backend (Prisma Browser)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Principal-Engineer-Software--Backend--Prisma-Browser-_JR-018343) · Santa Clara, California · `Senior` `Equity` (May 29)
 - [​Sr Principal Software Engineer (Prisma Browser)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/XMLNAME--Sr-Principal-Software-Engineer--Prisma-Browser-_JR-018344) · Santa Clara, California · `Principal` `$170k-$277k` `Equity` (May 29)
 - [Sr Principal Engineer Software(Senior Principal Engineer Software - Extension Platform (Prisma Browser)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Principal-Engineer-Software-Senior-Principal-Engineer-Software---Extension-Platform--Prisma-Browser-_JR-018345) · Santa Clara, California · `Senior` `$170k-$277k` `Equity` (May 29)
@@ -4012,7 +4012,7 @@ Optro (formerly AuditBoard) provides an AI-powered governance, risk, and complia
 
 SpaceX develops rockets and spacecraft for space exploration, with the goal of enabling human life on Mars, and operates power plant and datacenter infrastructure that requires procurement and supply chain management for high-voltage transmission and substation equipment.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Security Engineer](https://boards.greenhouse.io/spacex/jobs/8567522002?gh_jid=8567522002) · Cape Canaveral, Florida · `Mid` (May 30)
+- [Security Engineer](https://boards.greenhouse.io/spacex/jobs/8567522002?gh_jid=8567522002) · Cape Canaveral, Florida · `Mid` (May 30)
 - [Principal AI Engineer, Special Programs](https://boards.greenhouse.io/spacex/jobs/8572113002?gh_jid=8572113002) · Palo Alto, California · `Principal` `$220k-$350k` `Equity` (May 30)
 - [Sr. Full Chip Physical Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8572143002?gh_jid=8572143002) · Irvine, California · `Senior` `$160k-$225k` `Equity` (May 29)
 - [Sr. Database Reliability Engineer](https://boards.greenhouse.io/spacex/jobs/8570040002?gh_jid=8570040002) · Hawthorne, California · `Senior` `$155k-$205k` `Equity` (May 29)
@@ -4611,6 +4611,7 @@ Vapi provides a platform that enables developers to build, test, and deploy voic
 
 Varda Space Industries develops in-orbit pharmaceutical processing and reentry capsule technology for the commercial space economy. The company builds spacecraft, ground support equipment, and test infrastructure to enable manufacturing of pharmaceuticals and other products in low Earth orbit.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755457003) · El Segundo, California · `Senior` `$169k-$217k` `Equity` (May 31)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755455003) · El Segundo, California · `Mid` `$120k-$160k` `Equity` (May 31)
 - [Applications Engineer - Engineering](https://job-boards.greenhouse.io/vardaspace/jobs/7750771003) · El Segundo, California · `Mid` `$110k-$130k` `Equity` (May 28)
 - [Applications Engineer - General](https://job-boards.greenhouse.io/vardaspace/jobs/7750781003) · El Segundo, California · `Mid` `$110k-$130k` `Equity` (May 28)
@@ -4705,7 +4706,7 @@ Vise is a technology platform that helps financial advisors build, manage, and e
 
 Vitable Health provides affordable primary care services including visits, medications, and lab tests through Individual Coverage Health Reimbursement Arrangements (ICHRA).
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Product Engineer](https://job-boards.greenhouse.io/vitablehealth/jobs/4701248005) · `🟢 Remote` `Senior` `Equity` (May 30)
+- [Staff Product Engineer](https://job-boards.greenhouse.io/vitablehealth/jobs/4701248005) · `🟢 Remote` `Senior` `Equity` (May 30)
 
 ---
 

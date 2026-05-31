@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2512 open roles** (19 new) &nbsp;·&nbsp; 1695 companies searched
+### **2513 open roles** (14 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 31, 2026
+
+### [Senior Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755457003)
+<a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Senior` `$169k-$217k` `Equity`
+
+_Develop flight software for spacecraft, satellite bus, and reentry capsules operating in low Earth orbit, ensuring reliable real-time control and telemetry throughout the mission. This is safety-critical aerospace software requiring expertise in bare metal and RTOS development; requires US person status under ITAR. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7755457003)_
+
+`C++` `Embedded Systems` `Real-Time Software` `Aerospace` `Python` `Rust` `CCSDS` `F' Framework`
+
+<sub>May 31, 2026 at 03:22 UTC</sub>
+
+---
 
 ### [Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755455003)
 <a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Mid` `$120k-$160k` `Equity`
@@ -156,70 +167,6 @@ _Lead DevSecOps architecture and implementation across AWS/Azure cloud infrastru
 `AWS` `Azure` `Terraform` `Kubernetes` `Docker` `Jenkins` `Ansible` `Python`
 
 <sub>May 30, 2026 at 05:27 UTC</sub>
-
----
-
-### [Senior Search Applications Performance Engineer](https://jobs.ashbyhq.com/cohere/74856e86-8eeb-46ea-bf60-b4b4ad3352ae)
-<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · Toronto, Canada · `🟢 Remote` `Senior`
-
-_Build performance monitoring, optimization, and benchmarking infrastructure for Cohere's Compass AI-powered search platform; scale search services while maintaining low latency and high availability across CPU, GPU, and autoscaled compute environments. · [Apply →](https://jobs.ashbyhq.com/cohere/74856e86-8eeb-46ea-bf60-b4b4ad3352ae)_
-
-`Python` `OpenSearch` `Elasticsearch` `Weaviate` `FastAPI` `Kubernetes` `GPU optimization` `benchmarking frameworks`
-
-<sub>May 30, 2026 at 03:19 UTC</sub>
-
----
-
-### [Principal Software Engineer (L7 Security)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Software-Engineer--L7-Security-_JR-016867)
-<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · Santa Clara, California · `Principal` `$147k-$237.5k` `Equity`
-
-_Design and implement scalable cloud security solutions and next-generation firewalls (NGFW) for high-scale distributed systems handling application identification and content inspection across hardware, virtual, container, and cloud environments. Requires hands-on architectural leadership and deep networking expertise (TCP/UDP, socket programming) at principal level. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Software-Engineer--L7-Security-_JR-016867)_
-
-`C` `Python` `Go` `Kubernetes` `Kafka` `Redis` `GCP` `AWS`
-
-<sub>May 30, 2026 at 03:19 UTC</sub>
-
----
-
-### [Director of Engineering](https://jobs.ashbyhq.com/gamechanger/223f815f-45f1-4ccd-9dec-6319825f364e)
-<a href="https://gamechanger.com"><img src="https://www.google.com/s2/favicons?domain=gamechanger.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GameChanger** · `🟢 Remote` `Manager` `$240k-$260k` `Equity`
-
-_Lead cross-functional engineering teams (mobile, web, backend) building new consumer products and platform capabilities for a youth sports community platform. Balance rapid experimentation with long-term scalability while developing emerging AI-powered features and engineering tooling. · [Apply →](https://jobs.ashbyhq.com/gamechanger/223f815f-45f1-4ccd-9dec-6319825f364e)_
-
-<sub>May 30, 2026 at 03:19 UTC</sub>
-
----
-
-### [VP, Engineering](https://job-boards.greenhouse.io/hopskipdrive/jobs/6002665004)
-<a href="https://hopskipdrive.com"><img src="https://www.google.com/s2/favicons?domain=hopskipdrive.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**HopSkipDrive** · `🟢 Remote` `Manager` `$240k-$270k` `Equity`
-
-_Lead the engineering organization through its next phase of scale, driving execution, fostering high-performance culture, and pioneering AI-accelerated development workflows. Manage a 30-60 person engineering team across Ruby on Rails, React, iOS/Android, and modern cloud infrastructure while balancing technical health with business outcomes. · [Apply →](https://job-boards.greenhouse.io/hopskipdrive/jobs/6002665004)_
-
-`Ruby on Rails` `React` `iOS` `Android` `AWS` `GCP` `AI/ML Integration`
-
-<sub>May 30, 2026 at 03:19 UTC</sub>
-
----
-
-### [Security Engineer](https://boards.greenhouse.io/spacex/jobs/8567522002?gh_jid=8567522002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Cape Canaveral, Florida · `Mid`
-
-_Design, build, and maintain authentication, identity management, network security, and application-level security systems protecting SpaceX infrastructure and data. Requires on-site presence at Cape Canaveral and ability to pass Air Force background check; ITAR-eligible US citizenship or permanent residency required. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8567522002?gh_jid=8567522002)_
-
-`Python` `Go` `C#` `C++` `Rust` `PKI` `SAML` `OIDC`
-
-<sub>May 30, 2026 at 03:19 UTC</sub>
-
----
-
-### [Staff Product Engineer](https://job-boards.greenhouse.io/vitablehealth/jobs/4701248005)
-<a href="https://vitablehealth.com"><img src="https://www.google.com/s2/favicons?domain=vitablehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vitable Health** · `🟢 Remote` `Senior` `Equity`
-
-_Design and own Vitable's payment infrastructure, ledgering, and financial reconciliation systems that move and track money for healthcare benefits at scale. Build systems meeting HIPAA, SOC 2, and financial compliance requirements while mentoring engineers and raising architectural standards across the organization. · [Apply →](https://job-boards.greenhouse.io/vitablehealth/jobs/4701248005)_
-
-`Python` `Django` `Django REST Framework` `PostgreSQL` `AWS` `TypeScript` `Kafka` `Event-Driven Architecture`
-
-<sub>May 30, 2026 at 03:19 UTC</sub>
 
 ---
 
