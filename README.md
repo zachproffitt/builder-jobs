@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2512 open roles** (11 new) &nbsp;·&nbsp; 1695 companies searched
+### **2513 open roles** (11 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 31, 2026
+
+### [Member of Technical Staff - Imagine Safety](https://job-boards.greenhouse.io/xai/jobs/5151022007)
+<a href="https://x.ai"><img src="https://www.google.com/s2/favicons?domain=x.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**xAI** · Palo Alto, California · `Senior` `$180k-$440k` `Equity`
+
+_Build scalable safety systems and real-time content moderation infrastructure for Grok's multimodal generation platform (images, video, audio), including detection pipelines, safeguard enforcement, and evaluation frameworks operating at global scale. Design and deploy systems that balance rapid AI innovation with rigorous safety, trustworthiness, and responsible deployment to millions of users. · [Apply →](https://job-boards.greenhouse.io/xai/jobs/5151022007)_
+
+`Rust` `Machine Learning` `Content Moderation` `Real-time Detection Systems` `Data Pipelines` `Kubernetes` `Distributed Systems` `Observability`
+
+<sub>May 31, 2026 at 22:29 UTC</sub>
+
+---
 
 ### [Chief Architect (System Architecting, Requirements & Interfaces)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Chief-Architect--System-Architecting--Requirements---Interfaces-_JR2026496827-1)
 <a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Richardson, Texas · `Senior` `$210k–$285k`
@@ -119,21 +130,6 @@ _Build highly reliable embedded flight software systems for orbital spacecraft, 
 `C` `C++` `RTOS` `Embedded Systems` `Python` `Spacecraft Software` `F'` `cFS`
 
 <sub>May 31, 2026 at 01:21 UTC</sub>
-
----
-
-<br>
-
-## May 30, 2026
-
-### [Head of Scientific Development Solutions Engineering](https://jobs.ashbyhq.com/benchling/37596984-e4ff-4181-be96-f7ca415540f0)
-<a href="https://benchling.com"><img src="https://www.google.com/s2/favicons?domain=benchling.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benchling** · San Francisco, California · `🟡 Hybrid` `Manager`
-
-_Lead engineering teams building AI-powered lab workflow and data management solutions for biotech R&D; requires 5+ years managing engineering managers across multi-team organizations. · [Apply →](https://jobs.ashbyhq.com/benchling/37596984-e4ff-4181-be96-f7ca415540f0)_
-
-`Cloud Architecture` `Full-Stack Development` `SaaS Platforms` `Engineering Management` `CI/CD` `Observability Tools`
-
-<sub>May 30, 2026 at 22:29 UTC</sub>
 
 ---
 
