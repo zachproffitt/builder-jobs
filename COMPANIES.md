@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **411 companies** · **2466 open roles** (13 new)
+### **410 companies** · **2462 open roles** (13 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -999,6 +999,20 @@ Casca provides an AI-native Loan Origination System that automates business loan
 
 ---
 
+## <a href="https://casetext.com"><img src="https://www.google.com/s2/favicons?domain=casetext.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Casetext](https://casetext.com)
+
+- [Senior Manager, Software Engineering -Search Platform](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Manager--Software-Engineering--Search-Platform_JREQ201061) · `🟡 Hybrid` `Manager` `$118k-$219k USD` (May 29)
+- [Lead Applied Scientist, Document Understanding](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Applied-Scientist--NLP-GenAI_JREQ195790) · `🟢 Remote` `Senior` `$147k-$274k (US) / $140k-$175k CAD (Ontario)` (May 29)
+- [Senior Software Engineer - AI I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Software-Engineer---AI-I_JREQ199416) · `🟡 Hybrid` `Senior` (May 28)
+- [Risk Solutions Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Risk-Solutions-Engineer_JREQ200977) · `🟡 Hybrid` `Mid` (May 28)
+- [Lead Software Engineer – Python/React](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer---Python-React_JREQ201033) · New York, New York / San Francisco, California / Los Angeles, California / Irvine, California / McLean, Virginia / Washington, D.C. / Remote · `🟡 Hybrid` `Senior` `$118k-$219k` `Equity` (May 27)
+- [Manager, Salesforce Applications Support](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Manager--Salesforce-Applications-Support_JREQ200784) · `🟡 Hybrid` `Manager` (May 22)
+- [Senior Software Engineer I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer-I_JREQ200058-1) · `🟡 Hybrid` `Senior` (May 21)
+- [Staff Software Engineer I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Staff-Software-Engineer-I_JREQ200771) · `🟡 Hybrid` `Staff` (May 20)
+- [Lead AI Forward Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Lead-AI-Forward-Engineer_JREQ197282) · `🟡 Hybrid` `Senior` (May 20)
+
+---
+
 ## <a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[CD Projekt Red](https://cdprojektred.com)
 
 CD Projekt Red creates role-playing games including The Witcher series and Cyberpunk 2077.
@@ -1518,6 +1532,12 @@ Epirus makes high-power microwave systems that use directed energy and AI-based 
 
 ---
 
+## <a href="https://ermetic.com"><img src="https://www.google.com/s2/favicons?domain=ermetic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Ermetic](https://ermetic.com)
+
+- [Frontend Engineer - Analytics](https://job-boards.greenhouse.io/tenableinc/jobs/5101853008) · Israel - Office - Tel Aviv · `Mid` (May 17)
+
+---
+
 ## <a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Etched](https://etched.com)
 
 Etched builds AI inference systems with custom ASICs designed specifically for transformers, delivering higher performance and lower cost and latency compared to GPU alternatives. The company's hardware enables applications like real-time video generation and complex reasoning agents that would be impractical with GPUs.
@@ -1531,6 +1551,17 @@ Etched builds AI inference systems with custom ASICs designed specifically for t
 Everbridge provides a critical event and business continuity suite that helps organizations manage safety for their people and assets.
 
 - [Software Engineer](https://jobs.lever.co/everbridge/20f04a0b-eb61-4546-98f3-d48bab046b08) · `🟢 Remote` `Senior` (May 29)
+
+---
+
+## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
+
+- [Senior Infrastructure Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-Infrastructure-Engineer---Sana_JR-0107623-1) · 2 Locations · `Senior` (May 29)
+- [Senior AI Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-AI-Engineer---Sana_JR-0107620) · 2 Locations · `Senior` (May 29)
+- [Sr Manager, Software Development Engineering (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Manager--Software-Development-Engineering_JR-0103056) · Reston, Virginia · `🟡 Hybrid` `Manager` `$193k-$289k` `Equity` (May 27)
+- [Senior Software Development Engineer, Agentic AI](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Development-Engineer_JR-0107127) · Toronto, Canada · `🟡 Hybrid` `Senior` `$140k-$210k CAD` `Equity` (May 21)
+- [Software Development Engineer - ML Ops](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Software-Development-Engineer---ML-Ops_JR-0103873) · Atlanta, Georgia · `🟡 Hybrid` `Mid` `$130k-$195k` `Equity` (May 21)
+- [Senior Manager, Cybersecurity - US Federal](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Manager--Cybersecurity---US-Federal_JR-0107187) · Reston, Virginia · `🟡 Hybrid` `Manager` `$201k-$302k` `Equity` (May 20)
 
 ---
 
@@ -3280,14 +3311,6 @@ Promise provides software that utilities and governments use to manage relief an
 
 ---
 
-## <a href="https://proofpoint.com"><img src="https://www.google.com/s2/favicons?domain=proofpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Proofpoint](https://proofpoint.com)
-
-Proofpoint offers compliance and cybersecurity solutions that protect against cyber attacks across email, web, cloud, and other platforms.
-
-- [Security Software Engineer](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Utah/Security-Software-Engineer_R14278) · `🟢 Remote` `Mid` `$101.6k-$214k` `Equity` (May 26)
-
----
-
 ## <a href="https://prove.com"><img src="https://www.google.com/s2/favicons?domain=prove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Prove](https://prove.com)
 
 Prove provides identity verification services used by over 2,000 companies to reduce fraud and verify consumer identities.
@@ -4354,7 +4377,6 @@ Tenable provides cybersecurity solutions that reduce cyber risk across IT, OT, c
 
 - [Salesforce Developer (Hybrid/Columbia MD)](https://job-boards.greenhouse.io/tenableinc/jobs/5227687008) · Columbia, Maryland · `🟡 Hybrid` `Senior` `$102k–$136k` `Equity` (May 21)
 - [Staff Software Engineer - (Data) - Query Optimization, Schema Design](https://job-boards.greenhouse.io/tenableinc/jobs/5225816008) · `🟢 Remote` `Staff` `$163k-$217.67k` `Equity` (May 21)
-- [Frontend Engineer - Analytics](https://job-boards.greenhouse.io/tenableinc/jobs/5101853008) · Israel - Office - Tel Aviv · `Mid` (May 17)
 
 ---
 
@@ -4384,22 +4406,6 @@ TerraPower develops nuclear reactor and storage technology, and advances methods
 - [Senior Safety Methods Engineer](https://job-boards.greenhouse.io/terrapowerllc/jobs/4257128009) · Bellevue, Washington · `Senior` `$138k - $208k` (May 21)
 - [System Design Engineer – EM Pump](https://job-boards.greenhouse.io/terrapowerllc/jobs/4254988009) · Bellevue, Washington / Everett, Washington / Remote · `🟢 Remote` `Senior` `$168k-$252k` (May 21)
 - [Principal Core Thermal Hydraulics Engineer](https://job-boards.greenhouse.io/terrapowerllc/jobs/4254024009) · Bellevue, Washington · `Principal` `$168k-$252k` (May 20)
-
----
-
-## <a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters](https://thomsonreuters.com)
-
-Thomson Reuters provides technology solutions and content for professionals.
-
-- [Senior Manager, Software Engineering -Search Platform](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Manager--Software-Engineering--Search-Platform_JREQ201061) · `🟡 Hybrid` `Manager` `$118k-$219k USD` (May 29)
-- [Lead Applied Scientist, Document Understanding](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Applied-Scientist--NLP-GenAI_JREQ195790) · `🟢 Remote` `Senior` `$147k-$274k (US) / $140k-$175k CAD (Ontario)` (May 29)
-- [Senior Software Engineer - AI I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Software-Engineer---AI-I_JREQ199416) · `🟡 Hybrid` `Senior` (May 28)
-- [Risk Solutions Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Risk-Solutions-Engineer_JREQ200977) · `🟡 Hybrid` `Mid` (May 28)
-- [Lead Software Engineer – Python/React](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer---Python-React_JREQ201033) · New York, New York / San Francisco, California / Los Angeles, California / Irvine, California / McLean, Virginia / Washington, D.C. / Remote · `🟡 Hybrid` `Senior` `$118k-$219k` `Equity` (May 27)
-- [Manager, Salesforce Applications Support](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Manager--Salesforce-Applications-Support_JREQ200784) · `🟡 Hybrid` `Manager` (May 22)
-- [Senior Software Engineer I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer-I_JREQ200058-1) · `🟡 Hybrid` `Senior` (May 21)
-- [Staff Software Engineer I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Staff-Software-Engineer-I_JREQ200771) · `🟡 Hybrid` `Staff` (May 20)
-- [Lead AI Forward Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Lead-AI-Forward-Engineer_JREQ197282) · `🟡 Hybrid` `Senior` (May 20)
 
 ---
 
@@ -4749,19 +4755,6 @@ Workato builds enterprise servers that connect AI agents to over 1,400 business 
 
 ---
 
-## <a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workday](https://workday.com)
-
-Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
-
-- [Senior Infrastructure Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-Infrastructure-Engineer---Sana_JR-0107623-1) · 2 Locations · `Senior` (May 29)
-- [Senior AI Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-AI-Engineer---Sana_JR-0107620) · 2 Locations · `Senior` (May 29)
-- [Sr Manager, Software Development Engineering (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Manager--Software-Development-Engineering_JR-0103056) · Reston, Virginia · `🟡 Hybrid` `Manager` `$193k-$289k` `Equity` (May 27)
-- [Senior Software Development Engineer, Agentic AI](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Development-Engineer_JR-0107127) · Toronto, Canada · `🟡 Hybrid` `Senior` `$140k-$210k CAD` `Equity` (May 21)
-- [Software Development Engineer - ML Ops](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Software-Development-Engineer---ML-Ops_JR-0103873) · Atlanta, Georgia · `🟡 Hybrid` `Mid` `$130k-$195k` `Equity` (May 21)
-- [Senior Manager, Cybersecurity - US Federal](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Manager--Cybersecurity---US-Federal_JR-0107187) · Reston, Virginia · `🟡 Hybrid` `Manager` `$201k-$302k` `Equity` (May 20)
-
----
-
 ## <a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workleap](https://workleap.com)
 
 Workleap makes an all-in-one employee experience platform that streamlines workflows and improves productivity for hybrid teams.
@@ -4789,16 +4782,6 @@ xAI creates AI systems designed to understand the universe and aid humanity in p
 - [Manager, Engineering (Power Generation)](https://job-boards.greenhouse.io/xai/jobs/5150828007) · Southaven, Mississippi · `Manager` (May 29)
 - [X Developer Platform – Forward Deployed Engineer, X API](https://job-boards.greenhouse.io/xai/jobs/5136287007) · New York, New York / Palo Alto, California · `Senior` `$180k-$440k` `Equity` (May 22)
 - [X Core Gen SWE](https://job-boards.greenhouse.io/xai/jobs/5052529007) · Palo Alto, California (May 21)
-
----
-
-## <a href="https://xylem.com"><img src="https://www.google.com/s2/favicons?domain=xylem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Xylem](https://xylem.com)
-
-Xylem develops water, wastewater, and energy solutions using smart technology.
-
-- [Software Test Automation Intern](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Software-Test-Automation-Intern_R48545) · Morrisville, North Carolina · `🟡 Hybrid` `Intern` `$21/hr-$27/hr` (May 29)
-- [Engineering Leadership Development Program](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Engineering-Leadership-Development-Program_R44664) · 5 Locations · `Intern` (May 27)
-- [Sr. Firmware Engineer](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Senior-Firmware-Engineer_R48524) · Morrisville, North Carolina · `Senior` (May 26)
 
 ---
 
