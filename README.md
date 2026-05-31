@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2350 open roles** (14 new) &nbsp;·&nbsp; 1695 companies searched
+### **2319 open roles** (12 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -145,28 +145,6 @@ _Lead a team of data scientists building generative AI and machine learning solu
 `Python` `Machine Learning` `AWS` `Spark` `Generative AI` `LLM` `SQL` `PyTorch or TensorFlow`
 
 <sub>May 30, 2026 at 19:38 UTC</sub>
-
----
-
-### [Senior Staff Software Engineer, Storage](https://careers.airbnb.com/positions/7702735?gh_jid=7702735)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$244k-$305k` `Equity`
-
-_Build and operate a unified data access gateway and schema management system that abstracts storage complexity for Airbnb's 150+ million users while handling all critical user, listing, and financial data. Work on a distributed database system at massive scale with requirements for reliability, performance, security, and global availability. · [Apply →](https://careers.airbnb.com/positions/7702735?gh_jid=7702735)_
-
-`Distributed Systems` `Database Design` `Java` `C++` `Python` `Kubernetes` `High Performance Infrastructure`
-
-<sub>May 30, 2026 at 14:40 UTC</sub>
-
----
-
-### [Senior React Native Software Engineer](https://job-boards.greenhouse.io/inkind/jobs/5236903008)
-<a href="https://inkind.com"><img src="https://www.google.com/s2/favicons?domain=inkind.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**inKind** · Austin, Texas · `Senior` `$145k-$160k`
-
-_Build AI-powered mobile experiences for a consumer dining app using React Native, integrating LLM-driven features, recommendation systems, and conversational interfaces across iOS and Android. Requires on-site presence in Austin, TX and hands-on experience with AI tooling and LLM integration. · [Apply →](https://job-boards.greenhouse.io/inkind/jobs/5236903008)_
-
-`React Native` `TypeScript` `Redux` `React Query` `REST APIs` `LLM APIs` `AI-assisted development`
-
-<sub>May 30, 2026 at 14:40 UTC</sub>
 
 ---
 
