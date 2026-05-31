@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **413 companies** · **2511 open roles** (12 new)
+### **413 companies** · **2511 open roles** (13 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -446,6 +446,7 @@ Atari sells classic consoles, cartridges, modern game titles, and collectibles.
 
 Atom Computing builds quantum computers using arrays of optically trapped neutral atoms.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Infrastructure Engineer](https://jobs.lever.co/atomcomputing/163f6c41-d684-4b64-ab08-f93789a989ce) · Boulder, Colorado · `🟡 Hybrid` `Senior` (May 31)
 - [Software Engineering Manager](https://jobs.lever.co/atomcomputing/02bd7eb1-3a7b-40f9-8334-c0bbfc3598e1) · Boulder, Colorado · `🟡 Hybrid` `Manager` (May 28)
 
 ---
@@ -4410,12 +4411,12 @@ Thomson Reuters provides technology solutions and content for professionals.
 - [Senior Manager, Software Engineering -Search Platform](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Manager--Software-Engineering--Search-Platform_JREQ201061) · `🟡 Hybrid` `Manager` `$118k-$219k USD` (May 29)
 - [Lead Applied Scientist, Document Understanding](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Applied-Scientist--NLP-GenAI_JREQ195790) · `🟢 Remote` `Senior` `$147k-$274k (US) / $140k-$175k CAD (Ontario)` (May 29)
 - [Senior Software Engineer - AI I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Software-Engineer---AI-I_JREQ199416) · `🟡 Hybrid` `Senior` (May 28)
+- [Lead AI Forward Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-AI-Forward-Engineer_JREQ201044) · `🟡 Hybrid` `Senior` `$118k-$219k USD (US); $140k-$190k CAD (Ontario)` (May 28)
 - [Risk Solutions Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Risk-Solutions-Engineer_JREQ200977) · `🟡 Hybrid` `Mid` (May 28)
 - [Lead Software Engineer – Python/React](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer---Python-React_JREQ201033) · New York, New York / San Francisco, California / Los Angeles, California / Irvine, California / McLean, Virginia / Washington, D.C. / Remote · `🟡 Hybrid` `Senior` `$118k-$219k` `Equity` (May 27)
 - [Manager, Salesforce Applications Support](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Manager--Salesforce-Applications-Support_JREQ200784) · `🟡 Hybrid` `Manager` (May 22)
 - [Senior Software Engineer I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Software-Engineer-I_JREQ200058-1) · `🟡 Hybrid` `Senior` (May 21)
 - [Staff Software Engineer I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Staff-Software-Engineer-I_JREQ200771) · `🟡 Hybrid` `Staff` (May 20)
-- [Lead AI Forward Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Lead-AI-Forward-Engineer_JREQ197282) · `🟡 Hybrid` `Senior` (May 20)
 
 ---
 

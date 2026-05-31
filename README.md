@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2511 open roles** (12 new) &nbsp;·&nbsp; 1695 companies searched
+### **2511 open roles** (13 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 31, 2026
+
+### [Senior Infrastructure Engineer](https://jobs.lever.co/atomcomputing/163f6c41-d684-4b64-ab08-f93789a989ce)
+<a href="https://atom-computing.com"><img src="https://www.google.com/s2/favicons?domain=atom-computing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Atom Computing** · Boulder, Colorado · `🟡 Hybrid` `Senior`
+
+_Build and maintain hybrid on-premises and cloud infrastructure supporting quantum computer software deployment and operations for Atom Computing's neutral atom systems. · [Apply →](https://jobs.lever.co/atomcomputing/163f6c41-d684-4b64-ab08-f93789a989ce)_
+
+`Kubernetes` `Docker` `CI/CD` `Python` `Terraform` `AWS` `monitoring and observability tools`
+
+<sub>May 31, 2026 at 18:36 UTC</sub>
+
+---
 
 ### [Director of Defense Security](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005)
 <a href="https://appliedintuition.com"><img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Applied Intuition** · Washington, D.C. · `Manager` `$200k-$260k` `Equity`
