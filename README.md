@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2462 open roles** (13 new) &nbsp;·&nbsp; 1695 companies searched
+### **2462 open roles** (14 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 31, 2026
+
+### [Director of Defense Security](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005)
+<a href="https://appliedintuition.com"><img src="https://www.google.com/s2/favicons?domain=appliedintuition.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Applied Intuition** · Washington, D.C. · `Manager` `$200k-$260k` `Equity`
+
+_Lead security architecture, compliance operations, and IT infrastructure for defense programs handling classified and controlled unclassified information across multiple secure facilities and regulatory frameworks (CMMC, NIST 800-171/800-53, IL4-IL6). Requires active US security clearance, on-site presence in DC/Virginia, and deep experience scaling security programs in defense or highly regulated environments. · [Apply →](https://boards.greenhouse.io/appliedintuition/jobs/4701275005?gh_jid=4701275005)_
+
+`CMMC` `NIST 800-171` `NIST 800-53` `Zero Trust` `DFARS` `FedRAMP` `IL4/IL5/IL6` `Security Clearance`
+
+<sub>May 31, 2026 at 12:44 UTC</sub>
+
+---
 
 ### [Data Scientist, GTM](https://job-boards.greenhouse.io/anthropic/jobs/5196852008)
 <a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, New York / San Francisco, California · `🟡 Hybrid` `Senior` `$275k-$370k` `Equity`
