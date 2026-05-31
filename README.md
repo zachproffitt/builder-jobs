@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2511 open roles** (13 new) &nbsp;·&nbsp; 1695 companies searched
+### **2511 open roles** (12 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -145,17 +145,6 @@ _Build high-performance Rust software for real-time target tracking, multi-senso
 `Rust` `C++` `Python` `Kalman filters` `sensor fusion` `Bayesian filtering` `linear algebra` `signal processing`
 
 <sub>May 30, 2026 at 20:30 UTC</sub>
-
----
-
-### [Manager, Data Scientist - Innovation Hub](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Innovation-Hub_R243529-1)
-<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Plano, Texas / McLean, Virginia · `Manager` `$179k-$225k` `Equity`
-
-_Lead a team of data scientists building generative AI and machine learning solutions across billions of customer records to drive business impact in financial services. Partner with cross-functional teams to design and deploy AI-powered applications using Python, Spark, AWS, and modern ML technologies at enterprise scale. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Innovation-Hub_R243529-1)_
-
-`Python` `Machine Learning` `AWS` `Spark` `Generative AI` `LLM` `SQL` `PyTorch or TensorFlow`
-
-<sub>May 30, 2026 at 19:38 UTC</sub>
 
 ---
 
