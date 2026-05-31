@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2462 open roles** (12 new) &nbsp;·&nbsp; 1695 companies searched
+### **2510 open roles** (13 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 31, 2026
+
+### [Data Scientist, GTM](https://job-boards.greenhouse.io/anthropic/jobs/5196852008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, New York / San Francisco, California · `🟡 Hybrid` `Senior` `$275k-$370k` `Equity`
+
+_Build measurement frameworks and statistical models to drive data-informed decisions across customer acquisition, expansion, and retention for a consumption-based AI platform. Apply causal inference and experimental design to guide GTM strategy at scale. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5196852008)_
+
+`Python` `SQL` `A/B Testing` `Causal Inference` `Statistical Modeling` `Data Visualization`
+
+<sub>May 31, 2026 at 09:14 UTC</sub>
+
+---
 
 ### [RevOps GTM Systems Architect](https://jobs.ashbyhq.com/cohere/a03e02e4-76be-4666-a71d-e7b1d51e4a0f)
 <a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · New York, New York / San Francisco, California / Toronto, Canada · `🟡 Hybrid` `Senior`
