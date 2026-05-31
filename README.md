@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2511 open roles** (15 new) &nbsp;·&nbsp; 1695 companies searched
+### **2462 open roles** (12 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -145,39 +145,6 @@ _Build AI-powered mobile experiences for a consumer dining app using React Nativ
 `React Native` `TypeScript` `Redux` `React Query` `REST APIs` `LLM APIs` `AI-assisted development`
 
 <sub>May 30, 2026 at 14:40 UTC</sub>
-
----
-
-### [Go-to-Market Engineer - Calgary, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004292004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Calgary, Canada · `Mid`
-
-_Build and own Speechify's outbound infrastructure, from lead enrichment and scoring to CRM architecture and AI-powered personalization at scale. Deploy AI agents and integrations across the modern GTM stack to automate prospect research, outreach generation, and follow-up workflows. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004292004)_
-
-`HubSpot` `Salesforce` `Clay` `Apollo` `Outreach` `Instantly` `REST APIs` `Zapier`
-
-<sub>May 30, 2026 at 07:15 UTC</sub>
-
----
-
-### [Go-to-Market Engineer - St. Louis, MO, USA](https://job-boards.greenhouse.io/speechify/jobs/6004040004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · St. Louis, Missouri · `Mid` `$105k-$140k`
-
-_Build and own Speechify SIMBA's outbound infrastructure — lead sourcing, enrichment pipelines, scoring models, and sequencing workflows that power the GTM engine. Own the full tech stack integration across HubSpot/Salesforce, Clay, Apollo, and Outreach to drive pipeline creation and sales efficiency. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004040004)_
-
-`HubSpot` `Salesforce` `Clay` `Apollo` `REST APIs` `Zapier` `Webhooks` `Outreach`
-
-<sub>May 30, 2026 at 07:15 UTC</sub>
-
----
-
-### [Go-to-Market Engineer - Vancouver, Canada](https://job-boards.greenhouse.io/speechify/jobs/6004139004)
-<a href="https://speechify.com"><img src="https://www.google.com/s2/favicons?domain=speechify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Speechify** · Vancouver, Canada · `Mid`
-
-_Build and own Speechify SIMBA's outbound infrastructure — lead sourcing, enrichment pipelines, scoring models, sequencing workflows, and GTM tech stack integrations that power AI voice agent sales motion. Deploy AI agents for automated prospect research and personalized outreach generation at scale. · [Apply →](https://job-boards.greenhouse.io/speechify/jobs/6004139004)_
-
-`HubSpot` `Salesforce` `Clay` `Apollo` `Outreach` `Instantly` `REST APIs` `Webhooks`
-
-<sub>May 30, 2026 at 07:15 UTC</sub>
 
 ---
 
