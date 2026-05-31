@@ -2,11 +2,26 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2380 open roles** (32 new) &nbsp;·&nbsp; 1685 companies searched
+### **2512 open roles** (19 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## May 31, 2026
+
+### [Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755455003)
+<a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Mid` `$120k-$160k` `Equity`
+
+_Build highly reliable embedded flight software systems for orbital spacecraft, including bare metal and RTOS-based code for attitude control, telemetry, and mission-critical systems. Safety-critical space domain with ITAR export control requirements; must be a US person with spacecraft or avionics software experience. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7755455003)_
+
+`C` `C++` `RTOS` `Embedded Systems` `Python` `Spacecraft Software` `F'` `cFS`
+
+<sub>May 31, 2026 at 01:21 UTC</sub>
+
+---
 
 <br>
 
@@ -156,7 +171,7 @@ _Build performance monitoring, optimization, and benchmarking infrastructure for
 ---
 
 ### [Principal Software Engineer (L7 Security)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Software-Engineer--L7-Security-_JR-016867)
-<a href="https://paloaltonetworks.com"><img src="https://www.google.com/s2/favicons?domain=paloaltonetworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palo Alto Networks** · Santa Clara, California · `Principal` `$147k-$237.5k` `Equity`
+<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · Santa Clara, California · `Principal` `$147k-$237.5k` `Equity`
 
 _Design and implement scalable cloud security solutions and next-generation firewalls (NGFW) for high-scale distributed systems handling application identification and content inspection across hardware, virtual, container, and cloud environments. Requires hands-on architectural leadership and deep networking expertise (TCP/UDP, socket programming) at principal level. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Principal-Software-Engineer--L7-Security-_JR-016867)_
 
@@ -205,164 +220,6 @@ _Design and own Vitable's payment infrastructure, ledgering, and financial recon
 `Python` `Django` `Django REST Framework` `PostgreSQL` `AWS` `TypeScript` `Kafka` `Event-Driven Architecture`
 
 <sub>May 30, 2026 at 03:19 UTC</sub>
-
----
-
-### [Engineering Manager, Developer Infrastructure](https://jobs.ashbyhq.com/sentry/8ff7af3d-6b97-4cc5-9655-e06ea772bf07)
-<a href="https://sentry.io"><img src="https://www.google.com/s2/favicons?domain=sentry.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sentry** · San Francisco, California · `🟡 Hybrid` `Manager` `$220k-$300k` `Equity`
-
-_Lead a team building developer infrastructure platforms including CI/CD systems, cloud-based development environments, and agent orchestration tooling. Shape Sentry's dev tools for AI-assisted development workflows at scale across 200,000+ organizations. · [Apply →](https://jobs.ashbyhq.com/sentry/8ff7af3d-6b97-4cc5-9655-e06ea772bf07)_
-
-`CI/CD Systems` `Kubernetes` `Cloud Infrastructure` `GitHub Actions` `ArgoCD` `Distributed Systems` `Container Orchestration`
-
-<sub>May 30, 2026 at 01:12 UTC</sub>
-
----
-
-### [Sr Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IN---ANY-CITY/Sr-Analyst-I-Software-Engineering_51581564)
-<a href="https://dxc.technology"><img src="https://www.google.com/s2/favicons?domain=dxc.technology&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**DXC Technology** · `🟢 Remote` `Senior` `$66k - $122k`
-
-_Build and modernize core insurance policy administration and claims systems on mainframe platforms, supporting life & annuity operations at scale. Requires deep expertise in COBOL, JCL, and VSAM with hands-on production support responsibility. · [Apply →](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IN---ANY-CITY/Sr-Analyst-I-Software-Engineering_51581564)_
-
-`COBOL` `JCL` `VSAM` `DFSORT` `IBM utilities` `Mainframe Development`
-
-<sub>May 30, 2026 at 01:12 UTC</sub>
-
----
-
-### [Software Engineer, Trade PMR](https://boards.greenhouse.io/robinhood/jobs/7684760?t=gh_src=&gh_jid=7684760)
-<a href="https://robinhood.com"><img src="https://www.google.com/s2/favicons?domain=robinhood.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Robinhood** · New York, New York · `🟡 Hybrid` `Senior` `$166k-$195k` `Equity`
-
-_Design and implement highly scalable backend services for Robinhood's Trade PMR platform, architecting APIs for third-party integrations (Salesforce, CRM systems) and the Robinhood Advisor Network while mentoring junior engineers. Post-acquisition integration at scale in the RIA/wealth management space. · [Apply →](https://boards.greenhouse.io/robinhood/jobs/7684760?t=gh_src=&gh_jid=7684760)_
-
-`.NET` `AWS` `C#` `API Design` `GraphQL` `React` `Distributed Systems` `PostgreSQL`
-
-<sub>May 30, 2026 at 01:12 UTC</sub>
-
----
-
-### [Principal AI Engineer, Special Programs](https://boards.greenhouse.io/spacex/jobs/8572113002?gh_jid=8572113002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Palo Alto, California · `Principal` `$220k-$350k` `Equity`
-
-_Design and build integrations between frontier AI models and U.S. federal government systems, APIs, and data environments. Requires Top Secret Security Clearance and prior work in government or regulated sector technology. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8572113002?gh_jid=8572113002)_
-
-`Python` `LLMs` `API design` `AWS` `GCP` `Azure` `Docker` `Kubernetes`
-
-<sub>May 30, 2026 at 01:12 UTC</sub>
-
----
-
-### [Lead Software Engineer (Python, API Microservices, Devops))](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Lead-Senior-Python-Developer--Python--AWS--Microservices-_10301655)
-<a href="https://toyota.com"><img src="https://www.google.com/s2/favicons?domain=toyota.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toyota** · Plano, Texas · `Senior`
-
-_Build and lead a serverless Data Lake platform with Python microservices, ETL pipelines, and real-time analytics on AWS, handling complex data ingestion and transformation at scale. Requires hands-on technical leadership mentoring a squad of engineers and architectural decision-making across AWS infrastructure, data governance, and security integrations. · [Apply →](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Lead-Senior-Python-Developer--Python--AWS--Microservices-_10301655)_
-
-`Python` `FastAPI` `AWS (ECS Fargate, Lambda, S3, API Gateway, Glue ETL, MSK)` `Terraform` `PyIceberg` `PostgreSQL` `pytest` `GitHub Actions`
-
-<sub>May 30, 2026 at 01:12 UTC</sub>
-
----
-
-### [Lead Data Platform Engineer, Snowflake](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Lead-Data-Platform-Engineer--Snowflake_10304491)
-<a href="https://toyota.com"><img src="https://www.google.com/s2/favicons?domain=toyota.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toyota** · Plano, Texas · `Senior`
-
-_Design, maintain, and optimize Toyota Financial Services' Snowflake data platform across multiple environments, managing warehouses, security, governance, and user onboarding. Establish best practices and evaluate new Snowflake capabilities including Cortex and AI-enabled features; requires 8+ years administering Snowflake in enterprise environments. · [Apply →](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Lead-Data-Platform-Engineer--Snowflake_10304491)_
-
-`Snowflake` `AWS` `SQL` `Python` `Role-Based Access Control` `Data Governance` `Cloud Data Platforms`
-
-<sub>May 30, 2026 at 01:12 UTC</sub>
-
----
-
-<br>
-
-## May 29, 2026
-
-### [Senior Infrastructure Engineer](https://jobs.ashbyhq.com/casca/83618a63-6e9f-43c7-baa7-70460f4db8a7)
-<a href="https://www.cascading.ai"><img src="https://www.google.com/s2/favicons?domain=www.cascading.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Casca** · San Francisco, California · `Senior` `Equity`
-
-_Build and maintain CI/CD pipelines, infrastructure-as-code systems, and observability stacks that power a regulated AI-native banking platform. Own deployment automation, reliability infrastructure, and developer tooling for a fast-growing fintech startup operating at the frontier of AI. · [Apply →](https://jobs.ashbyhq.com/casca/83618a63-6e9f-43c7-baa7-70460f4db8a7)_
-
-`Python` `Go` `TypeScript` `Rust` `AWS` `Terraform` `GitHub Actions` `Docker`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
-
----
-
-### [Structural Analysis Engineer (Entry Level & Associate)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Structural-Analysis-Engineer--Entry-Level---Associate-_JR2026502003-1)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Oklahoma City, Oklahoma · `Junior` `$66k-$89k (Entry-Level) / $79k-$106k (Associate)`
-
-_Perform structural analysis and fatigue/damage tolerance studies for military derivative aircraft (KC-135, E-4B, E-6, E-7, RC-135, KC-767) using finite element modeling and analysis software to assess airworthiness and sustainment. Requires U.S. citizenship and ability to obtain Secret clearance. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Structural-Analysis-Engineer--Entry-Level---Associate-_JR2026502003-1)_
-
-`Finite Element Modeling` `ASIP` `Fatigue and Damage Tolerance Analysis` `Stress Analysis` `Thermal Analysis` `Fastener Analysis`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
-
----
-
-### [Senior Software Engineer, Core Experience](https://instacart.careers/job/?gh_jid=7951926)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$168k-$177.5k` `Equity`
-
-_Build and lead backend systems powering product discovery and personalization for Instacart's grocery platform. Work closely with ML engineers and product teams to develop scalable architectures supporting recommendation systems and advanced customer shopping features. · [Apply →](https://instacart.careers/job/?gh_jid=7951926)_
-
-`Ruby` `Go` `GraphQL` `PostgreSQL` `AWS` `Datadog` `Machine Learning`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
-
----
-
-### [Senior Software Engineer II, Ads Data Solutions Engineering](https://instacart.careers/job/?gh_jid=7951938)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `CAD$196k-CAD$207k` `Equity`
-
-_Lead the design and delivery of scalable, data-intensive systems powering Instacart's off-platform advertising, secure data collaboration (cleanrooms), and taxonomy automation. Co-own the technical roadmap across multiple pillars while mentoring senior engineers and driving AI-assisted development practices at scale. · [Apply →](https://instacart.careers/job/?gh_jid=7951938)_
-
-`Python` `Go` `Airflow` `dbt` `Spark` `Snowflake` `AWS` `Datadog`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
-
----
-
-### [Design Verification Engineer](https://boards.greenhouse.io/lightmatter/jobs/5235028008?gh_jid=5235028008)
-<a href="https://lightmatter.com"><img src="https://www.google.com/s2/favicons?domain=lightmatter.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lightmatter** · Toronto, ON · `🟡 Hybrid` `Mid` `$123k-$150k CAD` `Equity`
-
-_Build UVM testbenches and Real Number Models to verify photonic and analog designs for the Passage™ photonics engine used in AI data centers. Requires deep collaboration across digital, photonic, and analog design teams on mixed-signal verification at the subsystem and full-chip level. · [Apply →](https://boards.greenhouse.io/lightmatter/jobs/5235028008?gh_jid=5235028008)_
-
-`SystemVerilog` `UVM` `Xcelium` `ModelSim` `Questa` `VCS` `AMS verification` `Formal verification`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
-
----
-
-### [Sr. Full Chip Physical Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8572143002?gh_jid=8572143002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Irvine, California · `Senior` `$160k-$225k` `Equity`
-
-_Own full-chip physical verification (DRC, LVS, ESD, PERC) and signoff flows for advanced-node SoCs deployed in Starlink satellites and ground infrastructure. Requires deep expertise in foundry design rules, integration of hard IP blocks, and coordination across cross-functional silicon teams at cutting-edge process nodes (4nm and below). · [Apply →](https://boards.greenhouse.io/spacex/jobs/8572143002?gh_jid=8572143002)_
-
-`Calibre` `ICV` `Pegasus` `Python` `Perl` `Bash` `DRC/LVS verification` `ESD verification`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
-
----
-
-### [Software Engineer, Statistical Evaluation and Sampling](https://careers.withwaymo.com/jobs?gh_jid=7543520)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California / San Francisco, California · `Mid` `$170k-$216k` `Equity`
-
-_Develop importance sampling techniques and ML systems for evaluating autonomous driving safety; build automated pipelines to discover rare and exceptional scenarios in simulation and logged data. Work on a large, complex multi-language codebase (C++, Python, SQL) with statistical rigor at scale. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7543520)_
-
-`C++` `Python` `SQL` `Machine Learning` `Probability and Statistics` `Data Pipelines` `Sampling Methods`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
-
----
-
-### [Manager, Engineering (Power Generation)](https://job-boards.greenhouse.io/xai/jobs/5150828007)
-<a href="https://x.ai"><img src="https://www.google.com/s2/favicons?domain=x.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**xAI** · Southaven, Mississippi · `Manager`
-
-_Lead the engineering design, procurement, and commissioning of large-scale power generation systems (50MW+) for AI superclusters, managing teams across gas turbines, combined-cycle plants, and emerging technologies. Requires 10+ years in power generation engineering and 4+ years of technical leadership. · [Apply →](https://job-boards.greenhouse.io/xai/jobs/5150828007)_
-
-`Gas Turbines` `Combined-Cycle Power Plants` `Reciprocating Engines` `Battery Storage` `Microgrids` `Project Management` `Regulatory Compliance`
-
-<sub>May 29, 2026 at 23:37 UTC</sub>
 
 ---
 
