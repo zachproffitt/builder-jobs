@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2513 open roles** (14 new) &nbsp;·&nbsp; 1695 companies searched
+### **2511 open roles** (15 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## May 31, 2026
+
+### [RevOps GTM Systems Architect](https://jobs.ashbyhq.com/cohere/a03e02e4-76be-4666-a71d-e7b1d51e4a0f)
+<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · New York, New York / San Francisco, California / Toronto, Canada · `🟡 Hybrid` `Senior`
+
+_Own and evolve Cohere's go-to-market tech stack (Salesforce, Marketo, CPQ, NetSuite) by designing integrations, writing custom code, and implementing AI-powered automation across lead routing, forecasting, and workflow systems. · [Apply →](https://jobs.ashbyhq.com/cohere/a03e02e4-76be-4666-a71d-e7b1d51e4a0f)_
+
+`Salesforce` `Apex` `Python` `JavaScript` `SOQL` `Marketo` `NetSuite` `CPQ`
+
+<sub>May 31, 2026 at 05:41 UTC</sub>
+
+---
+
+### [AWS Cloud Security and ICAM Specialist](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AWS-Cloud-Security-and-ICAM-Specialist_RQ220978-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$153k-$207k`
+
+_Design and implement identity and access management architecture for federal cloud-based court case management systems, including federated SSO, Zero Trust enforcement, and FedRAMP compliance across AWS environments. Requires US Public Trust clearance and 10+ years in identity governance with deep KeyCloak and AWS IAM expertise in federal cloud environments. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AWS-Cloud-Security-and-ICAM-Specialist_RQ220978-1)_
+
+`KeyCloak` `AWS IAM` `Identity Center` `Okta` `SailPoint` `SAML` `OAuth2.0` `OIDC`
+
+<sub>May 31, 2026 at 05:41 UTC</sub>
+
+---
+
+### [Cloud DevSecOps Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Cloud-DevSecOps-Engineer_RQ220996-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Chantilly, Virginia / Fort Meade, Maryland · `🟡 Hybrid` `Senior` `$142k-$172k`
+
+_Build and maintain cloud security infrastructure for Department of Defense video services, automating security scanning, compliance monitoring, and identity management across Azure and enterprise cloud platforms. Requires Secret security clearance and on-site presence in Chantilly, VA or Fort Meade, MD (80% of the time). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Cloud-DevSecOps-Engineer_RQ220996-1)_
+
+`Azure` `DevSecOps` `Fortify` `SonarQube` `GitLab` `Sonatype Nexus` `Kubernetes` `CI/CD`
+
+<sub>May 31, 2026 at 05:41 UTC</sub>
+
+---
+
+### [Senior IAM Engineer – Identity Governance & Administration](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-IAM-Engineer---Identity-Governance---Administration_R19260)
+<a href="https://modernatx.com"><img src="https://www.google.com/s2/favicons?domain=modernatx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Moderna** · `🟡 Hybrid` `Senior` `$130k-$209k` `Equity`
+
+_Design, build, and scale enterprise identity governance capabilities including access request workflows, lifecycle management, provisioning, and access certifications across Active Directory, Entra ID, Okta, and SaaS applications. Role requires hands-on engineering in a highly regulated biotech environment with GxP/SOX compliance requirements. · [Apply →](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-IAM-Engineer---Identity-Governance---Administration_R19260)_
+
+`Identity Governance & Administration (IGA)` `SailPoint` `Okta` `Active Directory` `Entra ID` `PowerShell` `REST APIs` `ServiceNow`
+
+<sub>May 31, 2026 at 05:41 UTC</sub>
+
+---
 
 ### [Senior Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755457003)
 <a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Senior` `$169k-$217k` `Equity`
@@ -134,39 +178,6 @@ _Build and own Speechify SIMBA's outbound infrastructure — lead sourcing, enri
 `HubSpot` `Salesforce` `Clay` `Apollo` `Outreach` `Instantly` `REST APIs` `Webhooks`
 
 <sub>May 30, 2026 at 07:15 UTC</sub>
-
----
-
-### [Engineering Manager, Cybersecurity Products](https://job-boards.greenhouse.io/anthropic/jobs/5236531008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `$405k-$485k` `Equity`
-
-_Lead a small, fast-moving team building AI-powered cybersecurity products that use frontier LLMs to defend code and infrastructure. Set technical direction across agentic scanning pipelines, model orchestration, and customer-facing surfaces while partnering with research to productize new model capabilities and staying close to customers; this is a hands-on role requiring time in code, customer calls, and research reviews. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5236531008)_
-
-`Python` `LLMs` `Kubernetes` `Security Engineering` `Incident Response` `Application Security` `CI/CD` `Data Infrastructure`
-
-<sub>May 30, 2026 at 05:27 UTC</sub>
-
----
-
-### [Data Engineer-Secure Data Pipelines](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Engineer-Secure-Data-Pipelines_JR191679-1)
-<a href="https://anthem.com"><img src="https://www.google.com/s2/favicons?domain=anthem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthem Health** · Indianapolis, Indiana · `🟡 Hybrid` `Mid`
-
-_Build and maintain secure, compliant data pipelines on Microsoft Fabric and Azure cloud infrastructure, handling structured and unstructured data at enterprise scale. Role involves complex security configuration, regulatory compliance (HIPAA, NIST, SOC 2), and serves as technical escalation for infrastructure operations. · [Apply →](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Engineer-Secure-Data-Pipelines_JR191679-1)_
-
-`Microsoft Fabric` `Apache Spark` `Azure DevOps` `SQL` `Power BI` `REST API` `HIPAA` `SOC 2`
-
-<sub>May 30, 2026 at 05:27 UTC</sub>
-
----
-
-### [DevSecOps Software Engineer SME](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/DevSecOps-Software-Engineer-SME_RQ220428)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Staff` `$170k-$207k`
-
-_Lead DevSecOps architecture and implementation across AWS/Azure cloud infrastructure, defining security standards, managing Terraform modules, and guiding teams on secure CI/CD practices. This is a subject matter expert role managing engineers and leading technical capture efforts; requires US citizenship and Public Trust clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/DevSecOps-Software-Engineer-SME_RQ220428)_
-
-`AWS` `Azure` `Terraform` `Kubernetes` `Docker` `Jenkins` `Ansible` `Python`
-
-<sub>May 30, 2026 at 05:27 UTC</sub>
 
 ---
 
