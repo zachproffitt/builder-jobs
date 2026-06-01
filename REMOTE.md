@@ -2799,23 +2799,23 @@ _Fine-tune large language models using reinforcement learning and novel inferenc
 
 ---
 
-### [Senior Software Engineer - Frontend - Pro](https://jobs.ashbyhq.com/kraken.com/aa04e385-a718-4630-ba2a-815ff2483ac8)
-<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Senior`
-
-_Design and develop high-quality React applications for Kraken's trading backend services, including the matching engine, market data gateways, and trading APIs. Lead complex frontend systems development, mentor engineers, and shape technical strategy for a crypto exchange platform serving experienced traders and institutions. · [Apply →](https://jobs.ashbyhq.com/kraken.com/aa04e385-a718-4630-ba2a-815ff2483ac8)_
-
-`React` `TypeScript` `JavaScript` `Next.js` `WebSockets` `API Design` `Frontend Testing Frameworks`
-
-<sub>May 21, 2026 at 12:34 UTC</sub>
-
----
-
 ### [Software Engineer](https://lattice.com/job?gh_jid=8463880002)
 <a href="https://lattice.com"><img src="https://www.google.com/s2/favicons?domain=lattice.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lattice** · `🟢 Remote` `Mid` `CAD $90k-CAD $120k` `Equity`
 
 _Build full-stack features for Lattice's people success platform using TypeScript, React, Node.js, and GraphQL. Work closely with product and design teams on employee engagement and performance management tools serving 5,000+ customers. · [Apply →](https://lattice.com/job?gh_jid=8463880002)_
 
 `TypeScript` `React` `GraphQL` `Node.js` `PostgreSQL` `Relay Modern` `AWS` `SQL`
+
+<sub>May 21, 2026 at 12:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Frontend - Pro](https://jobs.ashbyhq.com/kraken.com/aa04e385-a718-4630-ba2a-815ff2483ac8)
+<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Senior`
+
+_Design and develop high-quality React applications for Kraken's trading backend services, including the matching engine, market data gateways, and trading APIs. Lead complex frontend systems development, mentor engineers, and shape technical strategy for a crypto exchange platform serving experienced traders and institutions. · [Apply →](https://jobs.ashbyhq.com/kraken.com/aa04e385-a718-4630-ba2a-815ff2483ac8)_
+
+`React` `TypeScript` `JavaScript` `Next.js` `WebSockets` `API Design` `Frontend Testing Frameworks`
 
 <sub>May 21, 2026 at 12:34 UTC</sub>
 
