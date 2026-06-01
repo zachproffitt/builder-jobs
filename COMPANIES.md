@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **414 companies** · **2515 open roles** (13 new)
+### **412 companies** · **2514 open roles** (16 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -234,7 +234,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [DevSec Ops Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150346007?gh_jid=5150346007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
 - [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150296007?gh_jid=5150296007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
 - [Senior Production Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5150350007?gh_jid=5150350007) · Costa Mesa, California / Washington, D.C. · `Senior` `$191k-$287k` `Equity` (May 29)
-- [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150952007?gh_jid=5150952007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
+- [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150393007?gh_jid=5150393007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
 - [Senior Research Scientist ](https://boards.greenhouse.io/andurilindustries/jobs/5150395007?gh_jid=5150395007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
 - [Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4820783007?gh_jid=4820783007) · Irvine, California · `Senior` `$191k-$253k` `Equity` (May 29)
 - [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150341007?gh_jid=5150341007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
@@ -298,7 +298,6 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Instrumentation Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5086889007?gh_jid=5086889007) · Costa Mesa, California · `Senior` `$146k–$208k` `Equity` (May 18)
 - [Manager, Manufacturing Test Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5140918007?gh_jid=5140918007) · Costa Mesa, California · `Manager` `$146k—$194k` `Equity` (May 18)
 - [Software Engineer, Discovery](https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007) · Costa Mesa, California · `Senior` `$166k-$253k` `Equity` (May 18)
-- [Air-Vehicle Multidisciplinary Design Analysis and Optimization (MDAO) Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5132442007?gh_jid=5132442007) · Costa Mesa, California, United States · `Senior` `$166k-$220k` `Equity` (May 17)
 
 ---
 
@@ -506,8 +505,6 @@ Baker Hughes makes equipment and services for the energy industry to improve saf
 Baseten provides an inference platform for serving and scaling open-source and custom AI models.
 
 - [Data Center Network Engineer](https://jobs.ashbyhq.com/baseten/8570f34d-edfe-4bc2-b2b1-eda37155eddb) · San Francisco, California · `Senior` `Equity` (May 21)
-- [Engineering Manager, Cloud Platform](https://jobs.ashbyhq.com/baseten/1933097e-2f8e-46e2-8442-0c2f4a9394da) · San Francisco, California · `Manager` `Equity` (May 17)
-- [Senior Manager, Cloud Platform & Site Reliability](https://jobs.ashbyhq.com/baseten/1c9b9d23-a1b3-426a-9a88-000be4679960) · San Francisco, California · `Manager` `Equity` (May 17)
 
 ---
 
@@ -524,7 +521,8 @@ Bastion builds regulated financial infrastructure for modern businesses, providi
 
 Baton Market is a business brokerage platform that helps users buy and sell businesses.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer](https://jobs.ashbyhq.com/Baton/12c9b4a1-d31a-435c-a3b0-a2d3f8aa7358) · New York, New York · `🟡 Hybrid` `Mid` `Equity` (May 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer](https://jobs.ashbyhq.com/Baton/acc4eb72-7d41-4c19-a099-c9fe4b4307a0) · New York, New York · `Mid` `Equity` (Jun 1)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://jobs.ashbyhq.com/Baton/12c9b4a1-d31a-435c-a3b0-a2d3f8aa7358) · New York, New York · `🟡 Hybrid` `Mid` `Equity` (May 31)
 
 ---
 
@@ -604,9 +602,7 @@ BitGo provides infrastructure that enables institutions and platforms to securel
 
 ---
 
-## <a href="https://blackberry.com"><img src="https://www.google.com/s2/favicons?domain=blackberry.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[BlackBerry QNX](https://blackberry.com)
-
-BlackBerry operates through two divisions: BlackBerry Secure Communications, which delivers mission-critical security, and QNX, which delivers embedded software.
+## <a href="https://blackberry.com"><img src="https://www.google.com/s2/favicons?domain=blackberry.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Blackberry](https://blackberry.com)
 
 - [QNX Systems Software Developer II](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260180-1) · Ottawa, Ontario · `Mid` `$90k-$132k` (May 25)
 
@@ -2097,11 +2093,11 @@ Instacart operates a grocery delivery service that allows customers to order gro
 - [Senior Machine Learning Engineer II, Growth Modeling](https://instacart.careers/job/?gh_jid=7967561) · `🟢 Remote` `Senior` `CAD$206k-$217k` `Equity` (May 29)
 - [Software Engineer II, Technical Search Visibility](https://instacart.careers/job/?gh_jid=7963661) · `🟢 Remote` `Mid` `CAD$139k–$146k` `Equity` (May 29)
 - [Senior Machine Learning Engineer II, Ads Response Prediction](https://instacart.careers/job/?gh_jid=7963838) · `🟢 Remote` `Senior` `$201k–$253k` `Equity` (May 28)
-- [Senior Marketing Decision Scientist II](https://instacart.careers/job/?gh_jid=7963779) · `🟢 Remote` `Senior` `$167k-$212k` `Equity` (May 28)
+- [Senior Marketing Decision Scientist II](https://instacart.careers/job/?gh_jid=7963780) · `🟢 Remote` `Senior` `CAD$168k–$177k` `Equity` (May 28)
 - [Engineering Manager, Enterprise Platform](https://instacart.careers/job/?gh_jid=7960993) · `🟢 Remote` `Manager` `$192k-$242.5k` `Equity` (May 27)
-- [Engineering Manager, Service Platform](https://instacart.careers/job/?gh_jid=7960988) · `🟢 Remote` `Manager` `CAN$196k–$207k` `Equity` (May 27)
-- [Senior People Data Scientist](https://instacart.careers/job/?gh_jid=7958121) · `🟢 Remote` `Senior` `$161k—$204k USD` `Equity` (May 26)
-- [Senior Engineering Manager, Retailer Platform](https://instacart.careers/job/?gh_jid=7947506) · `🟢 Remote` `Manager` `$221k-$279.5k` `Equity` (May 20)
+- [Engineering Manager, Service Platform](https://instacart.careers/job/?gh_jid=7960958) · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity` (May 27)
+- [Senior People Data Scientist](https://instacart.careers/job/?gh_jid=7958122) · `🟢 Remote` `Senior` `CAD$161k-CAD$170k` `Equity` (May 26)
+- [Senior Engineering Manager, Retailer Platform](https://instacart.careers/job/?gh_jid=7947508) · `🟢 Remote` `Manager` `CAD$229k—CAD$241k` `Equity` (May 20)
 
 ---
 
@@ -2290,6 +2286,8 @@ JLL provides real estate services and solutions.
 
 Juniper Networks makes Mist, an AI-native networking platform that improves connection reliability, measurability, and security for businesses.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Engineer - Developer Productivity](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Engineer---Developer-Productivity_1207653-1) · Colorado / Texas · `🟡 Hybrid` `Mid` `$120.5k-$276.5k` (Jun 1)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Tools Architect / Tech Lead](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Tools-Architect---Tech-Lead_1207652-2) · Colorado / Texas · `🟡 Hybrid` `Senior` `$152k-$349k` (Jun 1)
 - [AI Engineer — AI Efficiency and Economics](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Engineer---AI-Efficiency-and-Economics_1207649-2) · 2 Locations · `Senior` `$137k-$315k` (May 29)
 - [Senior AI Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Senior-AI-Engineer_1207651-2) · Colorado / Texas · `🟡 Hybrid` `Senior` `$137k-$315k` (May 29)
 - [Senior Systems Software Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/Senior-Systems-Software-Engineer_1206239-2) · Colorado / Massachusetts / California / North Carolina · `🟡 Hybrid` `Senior` `$120.5k-$276.5k` (May 29)
@@ -3128,14 +3126,6 @@ Parachute Health operates a digital platform that allows users to order and ePre
 
 ---
 
-## <a href="https://www.paradigmai.com"><img src="https://www.google.com/s2/favicons?domain=www.paradigmai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Paradigm](https://www.paradigmai.com)
-
-Paradigm runs complex research workflows in parallel and delivers structured, cited output for tasks including deal sourcing, market mapping, and competitive analysis.
-
-- [Senior Software Engineer](https://jobs.ashbyhq.com/paradigmai/d8c669df-e688-4e29-8a85-2967ebad8e4c) · San Francisco, California · `Senior` (May 17)
-
----
-
 ## <a href="https://pax8.com"><img src="https://www.google.com/s2/favicons?domain=pax8.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Pax8](https://pax8.com)
 
 Pax8 is a marketplace that helps small businesses access AI-driven technology, community resources, and education.
@@ -3548,6 +3538,7 @@ Resilience is a biomanufacturing contract development and manufacturing organiza
 
 Retell AI provides a platform to build, test, deploy, and monitor AI voice agents in production environments.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Founding GTM Engineer](https://jobs.ashbyhq.com/retell-ai/19a0b250-5c4a-46b2-972d-9c8f50b743c5) · Redwood City, California · `Mid` `$190k-$260k` `Equity` (Jun 1)
 - [Telephony Engineer - Remote](https://jobs.ashbyhq.com/retell-ai/6c83c736-75f4-4e5f-b620-2721ffadd2c4) · `🟢 Remote` `Senior` `$52k-$94k` (May 23)
 
 ---
@@ -4452,7 +4443,6 @@ Toast creates technology that helps restaurants and local businesses operate, in
 - [Principal Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7745976) · `🟢 Remote` `Principal` `$180k-$368k` `Equity` (May 18)
 - [Staff Software Engineer - Application Infrastructure](https://careers.toasttab.com/jobs?gh_jid=7727235) · `🟢 Remote` `Staff` `$151k-$309k` `Equity` (May 18)
 - [Staff Software Engineer, Tech Lead ](https://careers.toasttab.com/jobs?gh_jid=7895604) · `🟢 Remote` `Staff` `$142k—$227k CAD` `Equity` (May 18)
-- [Senior Principal Software Engineer, AI Agents](https://careers.toasttab.com/jobs?gh_jid=7936022) · `🟢 Remote` `Principal` (May 17)
 
 ---
 
@@ -4621,7 +4611,7 @@ Vapi provides a platform that enables developers to build, test, and deploy voic
 Varda Space Industries develops in-orbit pharmaceutical processing and reentry capsule technology for the commercial space economy. The company builds spacecraft, ground support equipment, and test infrastructure to enable manufacturing of pharmaceuticals and other products in low Earth orbit.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755457003) · El Segundo, California · `Senior` `$169k-$217k` `Equity` (May 31)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755455003) · El Segundo, California · `Mid` `$120k-$160k` `Equity` (May 31)
+- [Spacecraft Flight Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7755455003) · El Segundo, California · `Mid` `$120k-$160k` `Equity` (May 31)
 - [Applications Engineer - Engineering](https://job-boards.greenhouse.io/vardaspace/jobs/7750771003) · El Segundo, California · `Mid` `$110k-$130k` `Equity` (May 28)
 - [Applications Engineer - General](https://job-boards.greenhouse.io/vardaspace/jobs/7750781003) · El Segundo, California · `Mid` `$110k-$130k` `Equity` (May 28)
 - [Applications Engineer - Pharma](https://job-boards.greenhouse.io/vardaspace/jobs/7750765003) · El Segundo, California · `Mid` `$120k-$160k` `Equity` (May 28)
@@ -4790,14 +4780,6 @@ Weekend is a TV app that offers game shows including Jeopardy!, Wheel of Fortune
 Osano helps organizations build, manage, and scale their privacy programs to comply with regulations including GDPR and CPRA.
 
 - [Senior Software Engineer, Infrastructure & Tools](https://job-boards.greenhouse.io/osano/jobs/5227123008) · `🟢 Remote` `Senior` `Equity` (May 20)
-
----
-
-## <a href="https://wiz.io"><img src="https://www.google.com/s2/favicons?domain=wiz.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Wiz](https://wiz.io)
-
-Wiz builds cloud security software that scans and secures cloud environments for organizations, with customers including over 50% of the Fortune 100.
-
-- [AI Security Researcher   ](https://www.wiz.io/careers/job/4681239006/:title?gh_jid=4681239006) · Tel Aviv · `Senior` (May 17)
 
 ---
 
