@@ -2,9 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **344 open roles** (0 new)
+### **346 open roles** (2 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 1, 2026
+
+### [Senior DevOps Engineer](https://job-boards.greenhouse.io/incode/jobs/6008887004)
+<a href="https://incode.com"><img src="https://www.google.com/s2/favicons?domain=incode.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Incode Technologies** · `🟢 Remote` `Senior`
+
+_Own production Kubernetes infrastructure, CI/CD pipelines, and observability systems across AWS environments serving identity verification at scale for major fintech and financial institutions. Lead incident response, infrastructure-as-code automation, and developer experience improvements with weekly on-call rotation. · [Apply →](https://job-boards.greenhouse.io/incode/jobs/6008887004)_
+
+`Kubernetes` `AWS` `Terraform` `Helm` `CI/CD` `PostgreSQL` `MongoDB` `Linux`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Staff Site Reliability Engineer — Project Volcano](https://jobs.ashbyhq.com/kong/20d6b0db-fa5d-41b7-a0f7-c892e7327352)
+<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · `🟢 Remote` `Staff`
+
+_Build the multi-region Kubernetes infrastructure, managed data services (PostgreSQL, Redis, object storage), and GitOps deployment automation for Kong's internal developer platform. Define SLOs, error budgets, and observability practices from the ground up for a greenfield platform serving all Kong customers. · [Apply →](https://jobs.ashbyhq.com/kong/20d6b0db-fa5d-41b7-a0f7-c892e7327352)_
+
+`Kubernetes` `PostgreSQL` `Terraform` `ArgoCD` `Datadog` `Prometheus` `Grafana` `Helm`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
 
 <br>
 
@@ -1205,7 +1231,7 @@ _Own the reliability, security, and cost efficiency of Snowflake on AWS, designi
 ---
 
 ### [Staff Backend Engineer - Grafana Enterprise | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6007413004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$186k-$223k CAD` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$186k-$223k CAD` `Equity`
 
 _Design and build distributed backend services in Go powering Grafana Enterprise, the observability platform used by the world's largest infrastructure operators. Focus on scalability, reliability, and multi-tenancy at massive scale for regulated, high-availability environments; staff-level role includes hiring and mentoring engineers. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6007413004)_
 
@@ -1216,7 +1242,7 @@ _Design and build distributed backend services in Go powering Grafana Enterprise
 ---
 
 ### [Staff Backend Engineer - Grafana Enterprise | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Design and build backend systems powering Grafana Enterprise, a distributed observability platform serving global enterprises and cloud providers at massive scale. Lead distributed systems architecture in Go with focus on multi-tenancy, consistency, and operational reliability. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004)_
 
@@ -1461,23 +1487,23 @@ _Engineer, deploy, and optimize GCP infrastructure across IaaS, PaaS, serverless
 
 ---
 
-### [Software Engineer, Banking](https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165)
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · `🟢 Remote` `Senior`
-
-_Design and build large-scale backend systems for payments and money movement, handling domestic currencies, international currencies, stablecoins, and diverse banking partners at massive scale. Requires deep attention to detail in financial systems where correctness and reliability are non-negotiable. · [Apply →](https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165)_
-
-`Distributed Systems` `Systems Design` `Production Reliability` `Backend Engineering` `Financial Systems` `ACH` `Payment Rails` `Cryptocurrency`
-
-<sub>May 27, 2026 at 19:01 UTC</sub>
-
----
-
 ### [Associate Software Engineer](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Associate-Software-Engineer_JR112268)
 <a href="https://ptc.com"><img src="https://www.google.com/s2/favicons?domain=ptc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**PTC** · `🟢 Remote` `Junior`
 
 _Build and maintain DevOps infrastructure, CI/CD pipelines, and documentation automation systems using Python and JavaScript. Convert legacy Perl codebases and instrument systems with observability tooling. · [Apply →](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Associate-Software-Engineer_JR112268)_
 
 `Python` `JavaScript` `GitLab CI` `Docker` `YAML` `CI/CD` `Git` `REST APIs`
+
+<sub>May 27, 2026 at 19:01 UTC</sub>
+
+---
+
+### [Software Engineer, Banking](https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165)
+<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · `🟢 Remote` `Senior`
+
+_Design and build large-scale backend systems for payments and money movement, handling domestic currencies, international currencies, stablecoins, and diverse banking partners at massive scale. Requires deep attention to detail in financial systems where correctness and reliability are non-negotiable. · [Apply →](https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165)_
+
+`Distributed Systems` `Systems Design` `Production Reliability` `Backend Engineering` `Financial Systems` `ACH` `Payment Rails` `Cryptocurrency`
 
 <sub>May 27, 2026 at 19:01 UTC</sub>
 
@@ -3435,7 +3461,7 @@ _Build and operate AWS infrastructure powering CompanyCam's photo documentation 
 ---
 
 ### [Senior Manager, Web Technology | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5999968004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Manager` `$186k CAD-$223k CAD` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Manager` `$186k CAD-$223k CAD` `Equity`
 
 _Lead the technical strategy and engineering execution of grafana.com, transforming it into an AI-first platform while building reliable, performant digital experiences that drive user activation. Partner across marketing, product, and infrastructure teams to define how AI changes website operations, content workflows, and customer journeys; requires hands-on technical judgment in modern web development and strong operational discipline. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5999968004)_
 
@@ -3446,7 +3472,7 @@ _Lead the technical strategy and engineering execution of grafana.com, transform
 ---
 
 ### [Senior Manager, Web Technology | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5999936004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Manager` `$183k-$220k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Manager` `$183k-$220k` `Equity`
 
 _Lead the technical strategy and engineering execution of grafana.com, transforming it into an AI-first, agent-ready platform while managing the web development team and ensuring platform reliability, performance, and security. Balance operational rigor with AI-enabled innovation across content workflows, personalization, and digital experiences that drive product activation. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/5999936004)_
 

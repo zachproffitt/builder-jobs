@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2491 open roles** (29 new) &nbsp;·&nbsp; 1695 companies searched
+### **2531 open roles** (36 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,94 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 1, 2026
+
+### [Salesforce Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/XMLNAME-100198---Software-Development-Engineer-TR6_JREQ190598)
+<a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Mid` `$76k-$141k USD / $82k-$132k CAD`
+
+_Build and implement Salesforce solutions using Apex, Lightning Web Components, and CPQ integrations for enterprise customers. Role involves full life cycle implementation across Sales Cloud, Service Cloud, and complex integrations with REST/SOAP APIs and tools like MuleSoft. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/XMLNAME-100198---Software-Development-Engineer-TR6_JREQ190598)_
+
+`Salesforce` `Apex` `Lightning Web Components` `Visualforce` `Conga CPQ` `REST API` `MuleSoft` `Git`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Public Cloud](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Senior-Software-Engineer---Public-Cloud_260810-1)
+<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · 2 Locations · `🟡 Hybrid` `Senior`
+
+_Design and maintain automated pipelines for building, testing, and distributing hardened public cloud images across AWS, GCP, and Azure using Packer, Python, and Go. Lead image infrastructure architecture and drive security hardening and configuration management for multi-cloud data platform deployments. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Senior-Software-Engineer---Public-Cloud_260810-1)_
+
+`Packer` `Python` `Go` `Ansible` `Salt` `AWS` `GCP` `Azure`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Mid-Level or Lead Integration Engineer – Virtual Reality](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-or-Lead-Integration-Engineer---Virtual-Reality_JR2026509051-1)
+<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · North Charleston, South Carolina · `Senior` `$103k–$171k`
+
+_Develop immersive Virtual Reality scenes and digital visualization tools to support airplane design integration, manufacturing feasibility analysis, and maintenance procedure validation. Requires on-site presence in North Charleston, SC and U.S. Person status for export control compliance. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-or-Lead-Integration-Engineer---Virtual-Reality_JR2026509051-1)_
+
+`CATIA` `Unity` `Unreal Engine` `CAD` `IVT` `MBOM/EBOM` `Human Factors Engineering` `VR/AR Development`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Senior DevOps Engineer](https://job-boards.greenhouse.io/incode/jobs/6008887004)
+<a href="https://incode.com"><img src="https://www.google.com/s2/favicons?domain=incode.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Incode Technologies** · `🟢 Remote` `Senior`
+
+_Own production Kubernetes infrastructure, CI/CD pipelines, and observability systems across AWS environments serving identity verification at scale for major fintech and financial institutions. Lead incident response, infrastructure-as-code automation, and developer experience improvements with weekly on-call rotation. · [Apply →](https://job-boards.greenhouse.io/incode/jobs/6008887004)_
+
+`Kubernetes` `AWS` `Terraform` `Helm` `CI/CD` `PostgreSQL` `MongoDB` `Linux`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Staff Site Reliability Engineer — Project Volcano](https://jobs.ashbyhq.com/kong/20d6b0db-fa5d-41b7-a0f7-c892e7327352)
+<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · `🟢 Remote` `Staff`
+
+_Build the multi-region Kubernetes infrastructure, managed data services (PostgreSQL, Redis, object storage), and GitOps deployment automation for Kong's internal developer platform. Define SLOs, error budgets, and observability practices from the ground up for a greenfield platform serving all Kong customers. · [Apply →](https://jobs.ashbyhq.com/kong/20d6b0db-fa5d-41b7-a0f7-c892e7327352)_
+
+`Kubernetes` `PostgreSQL` `Terraform` `ArgoCD` `Datadog` `Prometheus` `Grafana` `Helm`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Head of Observability](https://jobs.ashbyhq.com/Supabase/3d788231-c984-4bf7-bd8f-ca242988db4f)
+<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `🟢 Remote` `Manager` `Equity`
+
+_Define and execute Supabase's observability strategy end-to-end, owning the internal platform for incident response and the customer-facing product giving developers visibility into their projects. Build and lead a team scaling high-throughput telemetry pipelines while establishing SLOs, best practices, and a dogfooding culture across the platform. · [Apply →](https://jobs.ashbyhq.com/Supabase/3d788231-c984-4bf7-bd8f-ca242988db4f)_
+
+`Prometheus` `Grafana` `VictoriaMetrics` `ClickHouse` `OpenTelemetry` `Distributed Systems` `Observability Platform Development`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Senior/Staff Software Engineer - Behavior Capabilities](https://jobs.lever.co/zoox/2d23cf58-a117-4f40-ac98-7c6a691eb273)
+<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, California · `Senior`
+
+_Develop behavioral and motion planning algorithms for autonomous vehicles that operate effectively under degraded capabilities and in complex driving scenarios. Work across a diverse technical stack including perception, prediction, and hardware integration at a cutting-edge autonomous robotics company. · [Apply →](https://jobs.lever.co/zoox/2d23cf58-a117-4f40-ac98-7c6a691eb273)_
+
+`Motion Planning` `Behavior Planning` `Autonomous Vehicles` `C++` `Python` `ROS2`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Software Engineer - Behavior Capabilities](https://jobs.lever.co/zoox/b7c1a78f-43b9-4142-bd71-97022a760750)
+<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, California · `Mid`
+
+_Build behavioral and motion planning algorithms for autonomous vehicles to handle complex driving scenarios and maintain vehicle uptime during degraded capabilities. · [Apply →](https://jobs.lever.co/zoox/b7c1a78f-43b9-4142-bd71-97022a760750)_
+
+`Motion Planning` `Path Planning` `Autonomous Vehicles` `C++` `Python` `ROS2`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
 
 ### [Manufacturing Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5031240007?gh_jid=5031240007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Quonset, Rhode Island · `Mid` `$111k-$147k` `Equity`
@@ -319,17 +407,6 @@ _Lead security architecture, compliance operations, and IT infrastructure for de
 `CMMC` `NIST 800-171` `NIST 800-53` `Zero Trust` `DFARS` `FedRAMP` `IL4/IL5/IL6` `Security Clearance`
 
 <sub>May 31, 2026 at 12:44 UTC</sub>
-
----
-
-### [Data Scientist, GTM](https://job-boards.greenhouse.io/anthropic/jobs/5196852008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · New York City, New York / San Francisco, California · `🟡 Hybrid` `Senior` `$275k-$370k` `Equity`
-
-_Build measurement frameworks and statistical models to drive data-informed decisions across customer acquisition, expansion, and retention for a consumption-based AI platform. Apply causal inference and experimental design to guide GTM strategy at scale. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5196852008)_
-
-`Python` `SQL` `A/B Testing` `Causal Inference` `Statistical Modeling` `Data Visualization`
-
-<sub>May 31, 2026 at 09:14 UTC</sub>
 
 ---
 
