@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2574 open roles** (150 new) &nbsp;·&nbsp; 1695 companies searched
+### **2652 open roles** (209 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,677 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 1, 2026
+
+### [Staff Software Engineer (Remote Canada)](https://jobs.ashbyhq.com/optro/353ccb18-202d-49e0-9ca2-22ed5bc1808d)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Staff`
+
+_Lead the architecture and implementation of product features across our audit and risk platform's full stack—backend APIs in Node.js, Ember.js frontend, and PostgreSQL data layer. Mentor engineers and drive scalable systems design for a platform serving over half the Fortune 500. · [Apply →](https://jobs.ashbyhq.com/optro/353ccb18-202d-49e0-9ca2-22ed5bc1808d)_
+
+`Node.js` `JavaScript` `TypeScript` `Ember.js` `PostgreSQL` `React` `Python` `Docker`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Sr Software Engineer](https://barn2door-inc.breezy.hr/p/3d08def99668-sr-software-engineer)
+<a href="https://barn2door.com"><img src="https://www.google.com/s2/favicons?domain=barn2door.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Barn2Door** · Nashville, Tennessee / Seattle, Washington · `🟢 Remote` `Senior` `Equity`
+
+_Build full-stack SaaS products serving farmers across all 50 states, architecting scalable systems while mentoring engineers and integrating AI tooling into customer-facing applications. Early-stage food+tech startup with offices in Seattle, WA and Nashville, TN. · [Apply →](https://barn2door-inc.breezy.hr/p/3d08def99668-sr-software-engineer)_
+
+`Node.js` `React` `AWS` `Terraform` `PostgreSQL` `Redis` `Stripe` `RAG`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Fullstack Engineer, Lending (Clasp Finance)](https://jobs.ashbyhq.com/clasp-group/b8b2612d-f0a8-43aa-9fe7-5f4da13e4487)
+<a href="https://clasp.com"><img src="https://www.google.com/s2/favicons?domain=clasp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clasp** · `🟢 Remote` `Senior` `$135k-$165k` `Equity`
+
+_Build the loan origination, servicing, and collections platform for a fintech lending platform serving colleges and universities; design and maintain operational tooling, data pipelines, and compliance-first features across the full lending lifecycle. Requires hands-on expertise with regulated financial systems, TILA/ECOA compliance, and AI-native development practices to ship high-quality software at startup pace. · [Apply →](https://jobs.ashbyhq.com/clasp-group/b8b2612d-f0a8-43aa-9fe7-5f4da13e4487)_
+
+`Python` `TypeScript` `React` `Django` `AWS` `Data Pipelines` `TILA/ECOA Compliance`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Junior Fullstack Engineer, Lending (Clasp Finance)](https://jobs.ashbyhq.com/clasp-group/c3f6f0a1-bc2e-44ad-911a-d5d483c7d5ae)
+<a href="https://clasp.com"><img src="https://www.google.com/s2/favicons?domain=clasp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clasp** · `🟢 Remote` `Junior` `$85k-$100k` `Equity`
+
+_Build loan origination workflows, administrative tools, and servicing features for a college lending platform used across the US. Requires high attention to detail in a regulated financial environment (TILA, ECOA compliance) and experience with Python/TypeScript full-stack development. · [Apply →](https://jobs.ashbyhq.com/clasp-group/c3f6f0a1-bc2e-44ad-911a-d5d483c7d5ae)_
+
+`Python` `TypeScript` `JavaScript` `AWS Lambda` `ETL` `PostgreSQL` `Cursor or Copilot (AI-assisted development)`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Data Automation Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Automation-Engineer_R169258)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$125k-$239k` `Equity`
+
+_Design and build scalable ETL/ELT pipelines and agentic AI-powered workflows that ingest, transform, and validate data across Adobe's MarTech platforms (Analytics, AEM, Marketo, AEP). Requires hands-on expertise in Python, SQL, and orchestration frameworks like Airflow or dbt, with demonstrated experience building LLM-powered automation tools. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Automation-Engineer_R169258)_
+
+`Python` `SQL` `Apache Airflow` `dbt` `Snowflake` `Databricks` `Adobe Experience Platform` `LangChain`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Senior-Software-Engineer_260040-1)
+<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Senior` `$144k-$192k`
+
+_Build the backend services and APIs for Cloudera's enterprise AI and machine learning platform, enabling users to develop and deploy generative AI applications with foundation models. Design and implement microservices architecture supporting ML workflows at enterprise scale with Kubernetes orchestration. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Senior-Software-Engineer_260040-1)_
+
+`Go` `Kubernetes` `gRPC` `SQL` `Python` `microservices` `AWS` `Docker`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Principal Associate, Data Science - AI Foundations](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science---AI-Foundations_R240794-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia / Cambridge, Massachusetts / New York, New York / San Jose, California · `Senior` `$161k-$201k` `Equity`
+
+_Lead research and development of generative AI-powered conversational assistants and domain-specific LLM applications. Fine-tune and optimize large language models for multi-agentic workflows and real-time digital assistance at billion-scale customer datasets. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science---AI-Foundations_R240794-1)_
+
+`Python` `AWS` `PySpark` `LangChain` `LangGraph` `Hugging Face Transformers` `vLLM` `VectorDBs`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Lead AI Engineer (FM Hosting, LLM Inference)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-AI-Engineer--FM-Hosting--LLM-Inference-_R243635-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Cambridge, Massachusetts / McLean, Virginia / New York, New York / San Jose, California · `Senior` `$197k-$245k` `Equity`
+
+_Design and build large-scale LLM inference systems and foundational AI infrastructure, including model optimization, vector databases, and guardrails, serving millions of Capital One customers. Lead technical vision on production AI systems at scale on AWS with state-of-the-art optimization techniques. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-AI-Engineer--FM-Hosting--LLM-Inference-_R243635-1)_
+
+`Python` `PyTorch` `AWS` `LLM Inference` `C++` `Hugging Face` `VectorDB` `Go`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer-FTDS](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Montreal-Quebec-Canada/Senior-Software-Engineer-FTDS_R26-2948)
+<a href="https://rockwellautomation.com"><img src="https://www.google.com/s2/favicons?domain=rockwellautomation.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockwell Automation** · Brossard, Quebec, Canada · `🟡 Hybrid` `Senior`
+
+_Design and deliver full-stack scalable applications and distributed systems supporting critical manufacturing automation platforms. Lead technical architecture and mentor engineers on a cloud-native, containerized infrastructure at the intersection of industrial automation and modern web technologies. · [Apply →](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Montreal-Quebec-Canada/Senior-Software-Engineer-FTDS_R26-2948)_
+
+`TypeScript` `Node.js` `Python` `GraphQL` `REST API` `Docker` `Kubernetes` `GitHub Actions`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Digital ASIC Design Engineer](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Principal-Digital-ASIC-Design-Engineer_JR002105)
+<a href="https://draper.com"><img src="https://www.google.com/s2/favicons?domain=draper.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Draper** · Cambridge, Massachusetts · `Senior` `$82k-$220k`
+
+_Design high-performance digital ASICs in advanced CMOS nodes, implementing from RTL through synthesis and physical layout. Requires active US Secret clearance and on-site work in Cambridge, MA; radiation-hardened and cryptographic systems experience preferred. · [Apply →](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Principal-Digital-ASIC-Design-Engineer_JR002105)_
+
+`Verilog` `SystemVerilog` `VHDL` `Cadence` `Synopsys` `CMOS` `ASIC Design` `TS/SCI Clearance`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Software Development Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1)
+<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Richmond, Canada · `🟡 Hybrid` `Intern` `$23.50-$27.00 CAD/hr`
+
+_Design, code, debug, and test software applications for Boeing's Digital Services Software Engineering team in aerospace. Work within Agile scrum teams on real-world projects; requires eligibility to handle US export-controlled data and legal work authorization in Canada. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1)_
+
+`Java` `Python` `Git` `CI/CD` `Agile` `Cloud Development`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Mid-Level Mission Operations Engineer, Boulder Colorado - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Boulder-CO/Mid-Level-Mission-Operations-Engineer--Boulder-Colorado---Millennium-Space-Systems_JR2026506928)
+<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Boulder, Colorado · `Mid` `$119k-$215k`
+
+_Lead on-orbit spacecraft operations and mission design across the full lifecycle—from proposal through launch, commissioning, and anomaly response—for national security satellites. Requires active TS/SCI clearance and U.S. citizenship. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Boulder-CO/Mid-Level-Mission-Operations-Engineer--Boulder-Colorado---Millennium-Space-Systems_JR2026506928)_
+
+`Satellite Command & Control` `MATLAB` `Python` `C/C++` `CONOPS Design` `TS/SCI Clearance`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Director, Protein Analytics & Biophysics](https://generatebiomedicines.com/open-positions?gh_jid=4683875006)
+<a href="https://generatebiomedicines.com"><img src="https://www.google.com/s2/favicons?domain=generatebiomedicines.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Generate Biomedicines** · Somerville, Massachusetts · `Manager` `$210k-$290k` `Equity`
+
+_Lead the Protein Analytics & Biophysics function—design and scale next-generation biophysical measurement platforms (pooled assays, microfluidics, DNA-barcode readouts, nanoscale detection) that enable AI/ML-driven protein design at orders-of-magnitude higher throughput and lower sample consumption. Requires deep expertise in conventional analytical methods (HPLC, LC/MS, DSF, SPR, BLI) and proven track record inventing or industrializing novel high-throughput assay platforms; vision and execution on team leadership and cross-functional partnership to operationalize experimental systems into production capabilities. · [Apply →](https://generatebiomedicines.com/open-positions?gh_jid=4683875006)_
+
+`HPLC` `LC/MS` `Surface Plasmon Resonance` `Biolayer Interferometry` `Microfluidics` `High-Throughput Screening` `Protein Engineering` `Machine Learning`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer II - Scale Team](https://job-boards.greenhouse.io/honeycomb/jobs/5151547008)
+<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$251k—$283k CAD` `Equity`
+
+_Design and build backend services and APIs in Go for billing, access control, and usage reporting infrastructure that scales across Honeycomb's observability platform. Full-stack ownership including React/TypeScript frontend, with technical leadership across multi-team projects and production on-call responsibilities. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5151547008)_
+
+`Go` `React` `TypeScript` `Authorization (RBAC/OAuth/SSO/SAML)` `Backend Systems Design` `SaaS Infrastructure` `AI-assisted Development`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Data Scientist (Growth)](https://boards.greenhouse.io/inflectionai/jobs/4665103006?gh_jid=4665103006)
+<a href="https://inflection.ai"><img src="https://www.google.com/s2/favicons?domain=inflection.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Inflection AI** · Palo Alto, California · `Senior` `$235k-$300k` `Equity`
+
+_Build predictive models and behavioral frameworks to forecast user churn, identify engagement friction, and drive data-informed growth decisions across acquisition channels and product features. Own the full analytical lifecycle from schema design through model deployment, working with production Postgres, Snowflake, and behavioral tracking tools to surface leading indicators of long-term retention. · [Apply →](https://boards.greenhouse.io/inflectionai/jobs/4665103006?gh_jid=4665103006)_
+
+`Python` `SQL` `Snowflake` `dbt` `PostHog` `scikit-learn` `A/B Testing` `Cohort Analysis`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, AI Productivity](https://instacart.careers/job/?gh_jid=7974573)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$168k–$177k` `Equity`
+
+_Design and build AI-powered internal tools and services—including code assistants, knowledge search, and intelligent workflows—that improve developer and operator productivity at Instacart. Integrate large language models into production systems at scale, own full-lifecycle service delivery, and mentor a team of ~10 engineers in applied AI best practices. · [Apply →](https://instacart.careers/job/?gh_jid=7974573)_
+
+`Python` `Go` `Java` `AWS` `GCP` `Kubernetes` `Docker` `PostgreSQL`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Backend Platform](https://instacart.careers/job/?gh_jid=7974559)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k-$207k` `Equity`
+
+_Design and build shared Go-based platform components (frameworks, libraries, tooling) that enable dozens of product teams to ship reliable, scalable services across our marketplace and fulfillment infrastructure. Lead migrations, standardize APIs and observability practices, and drive developer productivity improvements company-wide. · [Apply →](https://instacart.careers/job/?gh_jid=7974559)_
+
+`Go` `gRPC` `Kubernetes` `OpenTelemetry` `Distributed Systems` `AWS` `CI/CD` `Service Mesh`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Developer Experience](https://instacart.careers/job/?gh_jid=7974567)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$168k–$177k` `Equity`
+
+_Design and build core developer platforms including build systems, CI/CD pipelines, and test infrastructure that reduce engineering friction across the company. Drive measurable improvements to build times, test reliability, and deployment velocity while establishing secure-by-default development guardrails. · [Apply →](https://instacart.careers/job/?gh_jid=7974567)_
+
+`Go` `Python` `TypeScript` `GitHub Actions` `Kubernetes` `Docker` `Terraform` `AWS`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Staff Software Engineer](https://kcura.wd1.myworkdayjobs.com/External_Career_Site/job/Illinois/Staff-Software-Engineer_26-0259)
+<a href="https://relativity.com"><img src="https://www.google.com/s2/favicons?domain=relativity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Relativity** · `🟢 Remote` `Staff` `$174k-$262k` `Equity`
+
+_Design and implement distributed, scalable cloud services processing petabytes of legal data weekly, driving architecture decisions and engineering standards across multiple teams. Requires 10+ years building cloud-native systems at scale with demonstrated technical leadership in regulated, high-stakes environments. · [Apply →](https://kcura.wd1.myworkdayjobs.com/External_Career_Site/job/Illinois/Staff-Software-Engineer_26-0259)_
+
+`Distributed Systems` `Cloud-Native Architecture` `System Design` `Technical Leadership` `Performance Tuning` `Security` `Kubernetes` `Mentorship`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Directory Services Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Directory-Services-Engineer_R0241257)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Arlington, Virginia · `Mid` `$86k-$198k`
+
+_Design, install, configure, and maintain Windows Server and Active Directory infrastructure for enterprise environments, managing IDM, Linux, and AD systems at scale. Requires TS/SCI clearance. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Directory-Services-Engineer_R0241257)_
+
+`Active Directory` `PowerShell` `Azure Active Directory` `Windows Server` `LDAP` `TS/SCI Clearance`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Target Digital Network Analyst](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Target-Digital-Network-Analyst_R0241161)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Fort Meade, Maryland · `Mid` `$99k-$225k`
+
+_Analyze computer networks and identify exploitation opportunities to support offensive cyberspace operations and signals intelligence collection. Requires TS/SCI clearance with polygraph and experience with network protocols, routing infrastructure, and exploitation frameworks in a national security context. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Target-Digital-Network-Analyst_R0241161)_
+
+`Network exploitation` `Signals intelligence` `Python` `C++` `Penetration testing` `TS/SCI Clearance` `Routing protocols` `Network topology analysis`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Mobile Development Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Mobile-Development-Software-Engineer_R0241245)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Atlanta, Georgia · `Senior` `$86k-$198k`
+
+_Design, develop, and modernize enterprise-grade mobile applications for iOS and Android using native frameworks and modern architecture patterns. Requires ability to obtain Public Trust or Suitability/Fitness determination for U.S. government clients. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Mobile-Development-Software-Engineer_R0241245)_
+
+`Swift` `Kotlin` `iOS` `Android` `API Integration` `CI/CD` `Azure` `AWS`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [AI/ML Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-ML-Software-Engineer_R0237289)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 2 Locations · `Senior` `$69k-$158k`
+
+_Deploy and optimize AI/ML systems including LLMs, RAG, and agentic frameworks on cloud platforms (AWS, Google Cloud, Azure) for ARPA-H government R&D programs focused on advancing health outcomes. Requires 5+ years production Python code, neural networks including transformers, and cloud ML infrastructure; up to 25% travel and Master's degree required. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-ML-Software-Engineer_R0237289)_
+
+`Python` `PyTorch` `TensorFlow` `AWS` `Google Cloud` `Azure` `Transformers` `NLP`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [ServiceNow Developer / Administrator](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$97k-$115k`
+
+_Develop and administer ServiceNow configurations and basic integrations for the Centers for Medicare & Medicaid Services (CMS), including Business Rules, Client Scripts, Flow Designer, and CMDB management. Requires ability to obtain Public Trust clearance and US residency (3 of last 5 years). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)_
+
+`ServiceNow` `JavaScript` `Business Rules` `Flow Designer` `CMDB` `REST APIs` `ITIL`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Cryptographic Systems Engineer  - TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Herndon/Cryptographic-Systems-Engineer----TS-SCI-with-Polygraph_RQ220578-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Herndon, Virginia · `Senior` `$162k-$219k`
+
+_Design, implement, and troubleshoot cryptographic systems using General Dynamics crypto devices (E-100, FLEX, Micro, Nano, TL-10G, TL-1G) and GEM crypto manager software for US government defense and intelligence operations. Requires active TS/SCI clearance with polygraph and US citizenship; on-site in Herndon, VA. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Herndon/Cryptographic-Systems-Engineer----TS-SCI-with-Polygraph_RQ220578-1)_
+
+`Cryptography` `AWS` `General Dynamics Crypto Devices` `GEM Crypto Manager` `DevOps` `Azure` `Google Cloud` `TS/SCI Clearance`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [UI/UX Web Developer - TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/UI-UX-Web-Developer---TS-SCI-with-Polygraph_RQ220932-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Chantilly, Virginia · `Senior` `$164k-$165k`
+
+_Build and improve the UI/UX of logistics and enterprise applications serving the Intelligence Community, including ServiceNow and AWS-based systems. Requires active TS/SCI clearance with polygraph and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/UI-UX-Web-Developer---TS-SCI-with-Polygraph_RQ220932-1)_
+
+`Java` `HTML` `AWS` `ServiceNow` `SQL` `MySQL` `Oracle` `Linux`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Front End Software Engineer - TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Front-End-Software-Engineer---TS-SCI-with-Polygraph_RQ220933-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Chantilly, Virginia · `Senior` `$162k-$219k`
+
+_Build scalable, maintainable UI applications using modern frontend frameworks (React, Vue, Angular) integrated with Java/Spring Boot microservices. Requires TS/SCI clearance with polygraph and on-site work at Chantilly, VA. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Front-End-Software-Engineer---TS-SCI-with-Polygraph_RQ220933-1)_
+
+`Java` `TypeScript` `JavaScript` `React` `Vue` `Angular` `Spring Boot` `SQL`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)
+<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · Toronto, Canada · `🟢 Remote` `Senior`
+
+_Lead the design and implementation of microservices and APIs powering API discoverability and management within Kong's API Management platform. Build distributed systems that enable customers to discover, document, and govern their APIs at scale. · [Apply →](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)_
+
+`TypeScript` `JavaScript` `Node.js` `NestJS` `PostgreSQL` `Kubernetes` `Microservices Architecture` `Distributed Systems`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [People Systems Lead - HRIS](https://jobs.ashbyhq.com/lambda/94068330-52f6-4ebe-9ee7-9d09efea0c1c)
+<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, California · `🟡 Hybrid` `Senior` `Equity`
+
+_Own the end-to-end architecture, implementation, and operations of Workday HCM and Payroll systems, building integrations with NetSuite, BigQuery, and downstream systems while establishing SOX-compliant controls for a pre-IPO AI infrastructure company scaling to public operations. · [Apply →](https://jobs.ashbyhq.com/lambda/94068330-52f6-4ebe-9ee7-9d09efea0c1c)_
+
+`Workday HCM` `Workday Payroll` `Workday Studio` `EIBs` `Core Connectors` `SQL` `BigQuery` `NetSuite`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Staff Electrical Test Engineer](https://boards.greenhouse.io/lightmatter/jobs/5235763008?gh_jid=5235763008)
+<a href="https://lightmatter.com"><img src="https://www.google.com/s2/favicons?domain=lightmatter.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lightmatter** · Boston, Massachusetts / Mountain View, California · `🟡 Hybrid` `Senior` `$153k-$205k` `Equity`
+
+_Develop and implement ATE test solutions for silicon photonics chips at HVM scale, including wafer and package-level testing strategies. Partner with foundries, assembly partners, and internal teams to debug failures, improve yields, and optimize test coverage for cutting-edge photonics-based AI accelerators. · [Apply →](https://boards.greenhouse.io/lightmatter/jobs/5235763008?gh_jid=5235763008)_
+
+`Python` `Java` `Advantest V93000` `Teradyne` `Silicon Photonics` `JMP` `Serdes` `DFT`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Intern, Software Engineering - Data Marketplace](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering---Data-Marketplace_JR012200)
+<a href="https://liveramp.com"><img src="https://www.google.com/s2/favicons?domain=liveramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveRamp** · San Francisco, California · `Intern` `$70k-$106k`
+
+_Build scalable data processing and visualization systems on a real-time data connectivity platform; commit production code from week one across full-stack projects using TypeScript, React, and Spark. · [Apply →](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering---Data-Marketplace_JR012200)_
+
+`TypeScript` `React` `Spark` `Python` `SQL`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Salesforce AI Developer Intern](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Salesforce-AI-Developer-Intern_JR012226-1)
+<a href="https://liveramp.com"><img src="https://www.google.com/s2/favicons?domain=liveramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveRamp** · San Francisco, California · `Intern` `$22-$30 (hourly)`
+
+_Support Salesforce development and administration across Sales Cloud and Revenue Cloud, building Flows, Apex components, and dashboards while exploring AI-driven automation and data enrichment initiatives. · [Apply →](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Salesforce-AI-Developer-Intern_JR012226-1)_
+
+`Salesforce` `Apex` `Lightning Web Components` `SOQL` `Python` `SQL` `Salesforce AI`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Software Enabling and Optimization Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Enabling-and-Optimization-Engineer_JR0282409-1)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Hillsboro, Oregon / Santa Clara, California · `Mid` `$111k-$211k` `Equity`
+
+_Develop and optimize Infrastructure Processing Unit (IPU) software solutions for cloud service providers, including system-level testing, debugging, and technical documentation. Working with cutting-edge networking and packet processing hardware at scale in production datacenter environments. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Enabling-and-Optimization-Engineer_JR0282409-1)_
+
+`Python` `Linux` `Git` `Docker` `Jenkins` `DPDK` `P4` `Ethernet`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Mixed Signal IP Enablement and Debug Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Senior-Mixed-Signal-IP-Enablement-and-Debug-Engineer_JR0284421)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Folsom, California / Santa Clara, California · `🟡 Hybrid` `Senior` `$141k-$269k` `Equity`
+
+_Lead pre-silicon to post-silicon validation and debug for high-speed mixed-signal IOs (DDR, PCIe, USB, Ethernet) across Intel's server and foundry SoCs. Work with advanced lab equipment, signal integrity analysis, and cross-functional teams to resolve complex IP issues at the silicon bring-up stage. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Senior-Mixed-Signal-IP-Enablement-and-Debug-Engineer_JR0284421)_
+
+`Python` `SystemVerilog` `PCIe` `DDR` `USB` `Oscilloscopes` `Logic Analyzers` `Signal Integrity`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Staff Mixed Signal IP Enablement and Debug Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Senior-Staff-Mixed-Signal-IP-Enablement-and-Debug-Engineer_JR0284335-1)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Folsom, California / Santa Clara, California · `🟡 Hybrid` `Senior` `$164k-$311k` `Equity`
+
+_Lead IP integration, validation, and post-silicon debug for high-speed mixed-signal IO (DDR, PCIe, USB, Ethernet, UCIe) across Intel Server, Client, and Networking SoCs. Drive root cause analysis, silicon bring-up support, and customer enablement at the intersection of IP design and SoC integration; requires hands-on lab equipment expertise and industry IO specification knowledge. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Senior-Staff-Mixed-Signal-IP-Enablement-and-Debug-Engineer_JR0284335-1)_
+
+`Python` `SystemVerilog` `Oscilloscope` `Logic Analyzer` `Protocol Analyzer` `BERT` `Signal Integrity` `Power Integrity`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [MDM Software Application Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/MDM-Software-Application-Development-Engineer_JR0284454)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · `🟢 Remote` `Senior` `$160k-$227k` `Equity`
+
+_Design and develop SAP MDM and S/4 HANA solutions, including master data workflows, customizations, and large-scale ERP system migrations. Requires 6+ years of hands-on SAP MDG/S4 HANA development experience and semiconductor industry knowledge preferred. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/MDM-Software-Application-Development-Engineer_JR0284454)_
+
+`SAP MDG` `S/4 HANA` `ABAP` `SAP Fiori` `SQL` `ALE/IDOC` `Data Migration` `ERP Integration`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Staff Technical Lead Manager - AI Data Engine](https://motional.com/open-positions/?gh_jid=7759344003#/7759344003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Pittsburgh, Pennsylvania / Boston, Massachusetts / Las Vegas, Nevada · `🟡 Hybrid` `Manager` `$172k-$229k` `Equity`
+
+_Build and lead the AI Data Engine team to architect and execute a petabyte-scale ML dataset generation and data warehouse stack for autonomous vehicle development. Lead team strategy for accelerating data pipeline development, ingestion, and ML training infrastructure in the autonomous vehicles domain. · [Apply →](https://motional.com/open-positions/?gh_jid=7759344003#/7759344003)_
+
+`Python` `Airflow` `AWS` `Parquet` `Iceberg` `Apache Spark` `PostgreSQL` `C++`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Staff Software Engineer - iOS/macOS Device Authenticators](https://www.okta.com/company/careers/opportunity/7944637?gh_jid=7944637)
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · Toronto, Ontario, Canada · `🟡 Hybrid` `Staff` `$160k–$240k CAD` `Equity`
+
+_Design and build the iOS/macOS client platform for Okta's Device Authenticators, handling continuous authentication and passwordless access across millions of enterprise endpoints. Requires 3+ years of production Swift/UIKit/SwiftUI experience and mentorship of other engineers on a fast-paced security-critical platform. · [Apply →](https://www.okta.com/company/careers/opportunity/7944637?gh_jid=7944637)_
+
+`Swift` `iOS` `macOS` `UIKit` `SwiftUI` `Apple Frameworks` `Client-Side Security` `WebAuthn`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Platform Engineering Manager](https://jobs.ashbyhq.com/onebrief/405c55ec-72c5-4173-88f5-ddaaa7557a35)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Manager`
+
+_Lead a Platform Engineering team building and maintaining shared infrastructure services (PostgreSQL, Apache Kafka, Kubernetes) that enable secure software delivery across commercial, government, and classified environments. Requires ability to obtain TS/SCI clearance and operate in high-stakes, air-gapped, and hybrid deployment contexts. · [Apply →](https://jobs.ashbyhq.com/onebrief/405c55ec-72c5-4173-88f5-ddaaa7557a35)_
+
+`Kubernetes` `AWS` `Terraform` `Infrastructure as Code` `GitOps` `PostgreSQL` `Apache Kafka` `Python`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Physical Security Systems Engineer](https://jobs.ashbyhq.com/openai/78a3351e-55db-40dc-9655-4739f31d7ef7)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Mid`
+
+_Support and troubleshoot OpenAI's physical security infrastructure across access control, video surveillance, and GSOC workflows at global office campuses, data centers, and labs. Partner with networking, infrastructure, and security operations teams to maintain system reliability as the company expands. · [Apply →](https://jobs.ashbyhq.com/openai/78a3351e-55db-40dc-9655-4739f31d7ef7)_
+
+`Access Control Systems` `Video Management Systems` `Windows Server` `PostgreSQL` `VLAN Configuration` `Firewall Management` `IP Networking` `IoT Device Management`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior DevOps Engineer](https://job-boards.greenhouse.io/raft/jobs/6010455004)
+<a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · Washington, D.C. / Rome, New York / Hanscom, AFB · `🟡 Hybrid` `Senior` `$150k-$200k` `Equity`
+
+_Design and operate mission-critical data platforms processing billions of events per day across cloud and on-premises environments for the Department of War, building CI/CD pipelines, Kubernetes infrastructure, and data streaming systems while contributing code in Java or Go. Requires active Secret clearance with TS/SCI eligibility; work involves multiple classification levels and air-gapped deployments in regulated government environments. · [Apply →](https://job-boards.greenhouse.io/raft/jobs/6010455004)_
+
+`Kubernetes` `Terraform` `Ansible` `GitLab CI` `Kafka` `Helm` `Prometheus` `Grafana`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [AI Development Specialist](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/AI-Development-Specialist_JR112295)
+<a href="https://ptc.com"><img src="https://www.google.com/s2/favicons?domain=ptc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**PTC** · Boston, Massachusetts · `Mid`
+
+_Develop and tune the Onshape AI Advisor, a conversational assistant for CAD and mechanical design questions, by collecting user feedback, engineering prompts, and building Python automation for model evaluation and improvement. Work at the intersection of LLM engineering, CAD domain expertise, and product development with cross-functional teams. · [Apply →](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/AI-Development-Specialist_JR112295)_
+
+`Python` `Large Language Models` `Prompt Engineering` `Retrieval-Augmented Generation` `CAD Software` `API Integration`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff`
+
+_Own experimentation methodology and causal inference across Reddit's Consumer organization, solving complex problems like network interference, spillover effects, and two-sided marketplace testing at scale. Requires deep expertise in causal inference and experimentation design, with Ph.D. in quantitative field or M.S. plus 12+ years applied science experience. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974507)_
+
+`Python` `R` `SQL` `Causal Inference` `Experimental Design` `Bayesian Methods` `PhD in Statistics`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$232k–$325k` `Equity`
+
+_Lead relevance measurement and evaluation for Reddit's feeds, search, and recommendation systems, designing metrics frameworks and offline evaluation approaches for ranking quality across a community-driven platform. Mentor data scientists on experimentation methodology for ranking systems with complex challenges including spillover effects, contributor-consumer interference, and ecosystem-level impacts. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974605)_
+
+`Causal Inference` `Experimentation Design` `SQL` `Python` `R` `Metrics Design` `Ranking Systems` `Recommendation Systems`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Site Controller, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6010315004?gh_jid=6010315004)
+<a href="https://redwoodmaterials.com"><img src="https://www.google.com/s2/favicons?domain=redwoodmaterials.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Redwood Materials** · San Francisco, California · `Senior` `$180k-$237.5k`
+
+_Build the distributed orchestration and control platform for grid-scale Battery Energy Storage Systems (BESS), coordinating thousands of microcontrollers to enable utility integration and real-time grid synchronization. This role requires architecting deterministic networking, state machine fault handling, and hardware abstraction layers for a mission-critical energy infrastructure system operating at GWh scale. · [Apply →](https://boards.greenhouse.io/redwoodmaterials/jobs/6010315004?gh_jid=6010315004)_
+
+`Rust` `Python` `Kubernetes` `Docker` `Modbus TCP` `CAN` `Linux` `PostgreSQL`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Principal/Senior Principal Engineer - TS/SCI Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7759106003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Long Beach, California · `Principal` `$180k—$250k` `Equity`
+
+_Oversee satellite and spacecraft system engineering across Rocket Lab's Space Systems programs, including requirement derivation, verification, performance budgeting, and architectural development for missions to the Moon, Mars, and national security applications. Requires active TS/SCI clearance and U.S. citizenship due to ITAR export control regulations. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7759106003)_
+
+`MATLAB` `Python` `STK` `Orbital Mechanics` `Spacecraft Subsystems` `TS/SCI Clearance`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Enterprise Developer, GTM Applications](https://jobs.ashbyhq.com/snowflake/4d917314-90eb-47f1-a563-8a76bb7c3b34)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · Menlo Park, California · `Junior`
+
+_Design, develop, and customize Salesforce applications using Apex, Lightning Web Components, and integrations to support sales, marketing, and revenue operations workflows. Build scalable solutions across GTM systems with REST/SOAP APIs and event-driven patterns. · [Apply →](https://jobs.ashbyhq.com/snowflake/4d917314-90eb-47f1-a563-8a76bb7c3b34)_
+
+`Salesforce` `Apex` `Lightning Web Components` `SOQL` `REST APIs` `SOAP APIs` `JavaScript` `Python`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Data Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8569186002?gh_jid=8569186002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Starbase, Texas · `Junior`
+
+_Build data pipelines, automations, and tools for SpaceX's Starship supply chain operations, supporting planning, procurement, material flow, and reliability across thousands of annual launches. Requires US citizenship/permanent residency and ITAR eligibility; on-site in Starbase, TX. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8569186002?gh_jid=8569186002)_
+
+`Python` `SQL` `Airflow` `Pandas` `NumPy` `Git` `dbt` `Power BI`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Software Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Starbase, Texas · `Junior`
+
+_Build data pipelines, automations, and supply chain planning tools that optimize procurement and material flow for thousands of annual Starship launches. Requires US citizenship or permanent residency and on-site presence in Starbase, TX due to ITAR export control regulations. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002)_
+
+`Python` `SQL` `Airflow` `Git` `Pandas` `NumPy` `PostgreSQL` `Power BI`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Staff Software Engineer](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Staff-Software-Engineer_REQ495792)
+<a href="https://jll.com"><img src="https://www.google.com/s2/favicons?domain=jll.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JLL** · New York, New York · `Staff` `$240k-$325k` `Equity`
+
+_Build AI-powered platforms and agents that automate research workflows and enable advanced analytics in commercial real estate. Leverage AI coding assistants and LLM tools to develop production microservices, agent orchestration systems, and evaluation frameworks at scale; requires on-site in New York City for daily iteration with Product and Research teams. · [Apply →](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Staff-Software-Engineer_REQ495792)_
+
+`Python` `Node.js` `Java` `Go` `C#` `AWS` `Azure` `GCP`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior GNC Engineer](https://jobs.ashbyhq.com/turion-space/8518748c-734a-4310-a8a3-656cdadf1478)
+<a href="https://turionspace.com"><img src="https://www.google.com/s2/favicons?domain=turionspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Turion Space** · Irvine, California · `🟡 Hybrid` `Senior` `$150k-$213k` `Equity`
+
+_Design and implement advanced guidance, navigation, and control algorithms for rendezvous and proximity operation satellite missions, including trajectory optimization, hardware-in-the-loop testing, and on-orbit commissioning support. Lead technical trade studies and mentor junior engineers on GNC subsystems for small satellite systems operating in low Earth orbit. · [Apply →](https://jobs.ashbyhq.com/turion-space/8518748c-734a-4310-a8a3-656cdadf1478)_
+
+`C++` `Python` `MATLAB` `Control Systems` `Orbital Mechanics` `Rendezvous and Proximity Operations` `TS/SCI Clearance`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Staff, Software Engineer (L4) - Email](https://job-boards.greenhouse.io/twilio/jobs/7967685)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$171k-$213k`
+
+_Build and operate highly available, fault-tolerant distributed systems handling 12+ billion emails at scale for Twilio Sendgrid. Lead technical decisions on backend service redesign, security hardening, and new product offerings for millions of global customers. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7967685)_
+
+`Golang` `Java` `Kubernetes` `Kafka` `MySQL` `AWS` `PostgreSQL` `monitoring and observability`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Deep Learning Computer Architect - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `🟡 Hybrid` `Junior` `$124k-$241.5k` `Equity`
+
+_Design GPU hardware accelerator architectures to optimize deep learning and AI workloads on next-generation mobile, embedded, and datacenter platforms. Analyze DL algorithms, propose architectural features for acceleration, and collaborate with researchers and software engineers to advance state-of-the-art GPU capabilities. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178)_
+
+`GPU Architecture` `CUDA` `C++` `Python` `PyTorch` `Performance Analysis` `LLM Optimization` `Computer Architecture`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, CUTLASS Kernels ](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Kernels-_JR2018988)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 5 Locations · `Senior` `$152k-$287.5k` `Equity`
+
+_Write optimized Tensor Core kernels (grouped-GEMM, attention, convolution) for NVIDIA GPUs using CUTLASS CUDA C++ and Python DSL, targeting Blackwell and future architectures. Collaborate across GPU architecture, compiler, and framework teams to deliver high-performance math kernels for production deep learning systems. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Kernels-_JR2018988)_
+
+`C++` `CUDA` `Tensor Cores` `PTX` `Computer Architecture` `GPU Optimization` `Python` `NVIDIA GPUs`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, CUTLASS Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Performance_JR2018987)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 5 Locations · `Senior` `$152k-$287.5k` `Equity`
+
+_Develop performance benchmarking and optimization tooling for CUTLASS, NVIDIA's open-source GPU linear algebra library; identify kernel fusion opportunities and close gaps between theoretical and realized GPU performance on state-of-the-art deep learning models. Requires deep GPU architecture expertise and hands-on performance optimization experience at scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Performance_JR2018987)_
+
+`C++` `Python` `PyTorch` `CUDA` `GPU Performance Optimization` `Computer Architecture` `Performance Benchmarking`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, CUTLASS Platform ](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Platform-_JR2018985)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 5 Locations · `Senior` `$152k-$287.5k` `Equity`
+
+_Develop high-performance GPU kernel abstractions and compiler infrastructure for CUTLASS, an open-source ecosystem for Tensor Core programming. Design MLIR dialects and compiler passes for the CUTLASS Python DSL while collaborating with GPU architecture teams to optimize for next-generation hardware. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Platform-_JR2018985)_
+
+`C++` `CUDA` `MLIR` `Python` `GPU Architecture` `Compiler Design` `PTX/NVVM` `High-Performance Computing`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Firmware Design Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Design-Engineer_JR2018349)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Mid`
+
+_Design and develop PHY-layer firmware for NVIDIA's next-generation networking devices, controlling SerDes and physical linkup flows across silicon bring-up phases. Requires deep embedded systems work interfacing with hardware, architecture, and software teams on AI infrastructure networking products. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Design-Engineer_JR2018349)_
+
+`C` `Python` `MATLAB` `SerDes` `Embedded Systems` `Firmware Development` `Hardware/Software Co-design`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [QA Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TX-Austin/QA-Engineer_R56474-1)
+<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Austin, Texas · `Senior` `$78k–$107k`
+
+_Design and own automated test frameworks covering API, UI, integration, and regression testing for an AI-powered contract intelligence platform serving the construction industry. Lead a remote QA team while driving continuous improvement in testing methodologies and quality practices across the software development lifecycle. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TX-Austin/QA-Engineer_R56474-1)_
+
+`Selenium` `Cypress` `Playwright` `Postman` `Git` `CI/CD` `SQL` `AWS`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Staff Software Engineer ](https://jobs.ashbyhq.com/Vetcove/3d7dcf03-3715-41d5-ba35-2e57830e26e6)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$170k-$300k` `Equity`
+
+_Lead the design and delivery of complex product initiatives across web and mobile platforms for a veterinary clinic operations suite, building React and React Native applications used by 25,000+ hospitals. Your systems will manage billions of dollars in transactions and optimize supply chain operations for veterinary organizations. · [Apply →](https://jobs.ashbyhq.com/Vetcove/3d7dcf03-3715-41d5-ba35-2e57830e26e6)_
+
+`JavaScript` `React` `React Native` `Python` `Django` `PostgreSQL` `TypeScript` `Elasticsearch`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Ingénieur en systèmes de contrôle / Concepteur de systèmes](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Ingnieur-en-systmes-de-contrle---Concepteur-de-systmes_WD30271095)
+<a href="https://sensormatic.com"><img src="https://www.google.com/s2/favicons?domain=sensormatic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sensormatic Electronics** · Montréal, Canada · `Mid`
+
+_Design and configure building automation control systems including HVAC, fire, and low-voltage systems; develop control software, coordinate hardware selection, and oversee commissioning and field integration. Requires hands-on system programming, BACnet/LON protocol integration, and technical leadership of junior engineers. · [Apply →](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Ingnieur-en-systmes-de-contrle---Concepteur-de-systmes_WD30271095)_
+
+`BACnet` `LON` `HVAC Controls` `Building Automation Systems` `PLC Programming` `AutoCAD` `MS Office`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Director of Product Development | Data Platform](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Herndon/Director-of-Product-Development---Data-Platform_JR104575)
+<a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epicor** · 2 Locations · `🟡 Hybrid` `Manager`
+
+_Lead the end-to-end data plane strategy for next-generation ERP capabilities, owning data registration, discovery, publishing, and event-driven architectures that power AI-driven insights across global platforms. Scale distributed teams managing data products and governance frameworks across cloud and enterprise systems. · [Apply →](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Herndon/Director-of-Product-Development---Data-Platform_JR104575)_
+
+`Kafka` `Event Streaming` `Data Governance` `Data Pipelines` `Confluent` `RBAC` `Microsoft Data Stack` `Cloud Data Platforms`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
 
 ### [Engineering Manager, Core Entities & Trip Intelligence](https://careers.airbnb.com/positions/7968210?gh_jid=7968210)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Manager` `$212k-$265k` `Equity`
@@ -29,6 +700,28 @@ _Lead the data foundation platform that powers Airbnb's entity model (hosts, lis
 _Build the AI-driven automation engine for go-to-market workflows, synthesizing account intelligence, intent signals, and multi-channel campaigns using custom orchestration and prompt engineering. Work at the intersection of Sales, Marketing, and Data Engineering to operationalize AI agents for ABM, persona identification, and personalized outreach at scale. · [Apply →](https://jobs.ashbyhq.com/ambient.ai/6df5d745-673c-40e5-a2df-5469f5432a51)_
 
 `Python` `JavaScript` `n8n` `AirOps` `Clay` `Salesforce` `HubSpot` `Snowflake`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [BI Developer Senior](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/BI-Developer-Senior_JR192987)
+<a href="https://anthem.com"><img src="https://www.google.com/s2/favicons?domain=anthem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthem Health** · Lake Mary, Florida / St. Louis, Missouri / Wilmington, Delaware / Atlanta, Georgia / Richmond, Virginia / Plano, Texas · `🟡 Hybrid` `Senior`
+
+_Build and maintain analytics applications, dashboards, and reporting tools across multiple BI platforms; design data warehouse solutions using SQL and BI tools like Tableau to serve business needs across Operations, Finance, and IT teams. Mentor junior developers and lead small projects; requires 3+ years of BI platform experience. · [Apply →](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/BI-Developer-Senior_JR192987)_
+
+`Tableau` `SQL` `Snowflake` `Postgres` `Amazon Redshift` `Microsoft SQL Server` `Oracle`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Business Information Developer Consulant](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Developer-Consulant_JR193852)
+<a href="https://anthem.com"><img src="https://www.google.com/s2/favicons?domain=anthem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthem Health** · Norfolk, Virginia · `🟡 Hybrid` `Mid`
+
+_Develop and optimize complex data warehouse applications, SQL queries, stored procedures, and strategic reporting solutions using SSRS, Tableau, and Power BI for healthcare business intelligence. Requires 4+ years of data warehouse development, reporting, or business intelligence experience. · [Apply →](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Developer-Consulant_JR193852)_
+
+`SQL` `SSIS` `SSRS` `Tableau` `Power BI` `Data Warehouse Design` `Data Modeling` `ETL`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -78,28 +771,6 @@ _Own end-to-end software systems for autonomous air defense robots—detection, 
 
 ---
 
-### [BI Developer Senior](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/BI-Developer-Senior_JR192987)
-<a href="https://anthem.com"><img src="https://www.google.com/s2/favicons?domain=anthem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthem Health** · Lake Mary, Florida / St. Louis, Missouri / Wilmington, Delaware / Atlanta, Georgia / Richmond, Virginia / Plano, Texas · `🟡 Hybrid` `Senior`
-
-_Build and maintain analytics applications, dashboards, and reporting tools across multiple BI platforms; design data warehouse solutions using SQL and BI tools like Tableau to serve business needs across Operations, Finance, and IT teams. Mentor junior developers and lead small projects; requires 3+ years of BI platform experience. · [Apply →](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-LAKE-MARY-3200-LAKE-EMMA-RD-STE-1000/BI-Developer-Senior_JR192987)_
-
-`Tableau` `SQL` `Snowflake` `Postgres` `Amazon Redshift` `Microsoft SQL Server` `Oracle`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Business Information Developer Consulant](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Developer-Consulant_JR193852)
-<a href="https://anthem.com"><img src="https://www.google.com/s2/favicons?domain=anthem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthem Health** · Norfolk, Virginia · `🟡 Hybrid` `Mid`
-
-_Develop and optimize complex data warehouse applications, SQL queries, stored procedures, and strategic reporting solutions using SSRS, Tableau, and Power BI for healthcare business intelligence. Requires 4+ years of data warehouse development, reporting, or business intelligence experience. · [Apply →](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Developer-Consulant_JR193852)_
-
-`SQL` `SSIS` `SSRS` `Tableau` `Power BI` `Data Warehouse Design` `Data Modeling` `ETL`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
 ### [Sr. Scientist, Biomarker Discovery](https://biibhr.wd3.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Scientist--Biomarker-Discovery_REQ23423)
 <a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · San Francisco, California · `Senior` `$123k-$164k` `Equity`
 
@@ -140,12 +811,34 @@ _Design and build secure CI/CD pipelines with supply chain security controls (SL
 
 ---
 
-### [Engineering Director, Lending ( Clasp Finance)](https://jobs.ashbyhq.com/clasp-group/d2ffdc4d-a7d5-4b35-97a4-e56fdb642a99)
+### [Engineering Director, Lending (Clasp Finance)](https://jobs.ashbyhq.com/clasp-group/d2ffdc4d-a7d5-4b35-97a4-e56fdb642a99)
 <a href="https://clasp.com"><img src="https://www.google.com/s2/favicons?domain=clasp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clasp** · `🟢 Remote` `Manager` `$180k-$210k` `Equity`
 
 _Lead the engineering team building Clasp Finance's enterprise-grade loan origination platform, managing technical strategy, platform reliability, and regulatory compliance for a fintech lending system serving colleges and universities. Requires hands-on leadership in a regulated fintech domain with experience architecting scalable lending infrastructure and mentoring engineers under compliance and operational constraints. · [Apply →](https://jobs.ashbyhq.com/clasp-group/d2ffdc4d-a7d5-4b35-97a4-e56fdb642a99)_
 
 `Python` `JavaScript` `TypeScript` `Next.js` `Firebase` `Firestore` `NoSQL` `GCP`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Senior Applied Researcher](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Researcher_R168976-1)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$142k-$270k` `Equity`
+
+_Build machine learning models and systems for Adobe Express's AI Foundations team, developing generative AI solutions for creative workflows including computer vision, NLP, and multimodal learning. Deploy production ML systems at scale across agentic and generative AI scenarios. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Researcher_R168976-1)_
+
+`PyTorch` `TensorFlow` `JAX` `Transformers` `Diffusion Models` `Computer Vision` `NLP` `MLOps`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Engineering Manager, Express AI Foundations](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Engineering-Manager--Express-AI-Foundations_R168914)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Manager` `$146.3k-$289.9k` `Equity`
+
+_Lead a team of 6–10 engineers building AI infrastructure for Adobe Express — LLM orchestration, inference services, data pipelines, and evaluation frameworks powering design, imaging, motion, and personalization AI at scale. Requires hands-on technical depth in distributed systems and ML infrastructure to guide architecture, set quality standards, and grow senior engineers. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Engineering-Manager--Express-AI-Foundations_R168914)_
+
+`LLM Orchestration` `ML Infrastructure` `Distributed Systems` `Data Pipelines` `MLOps` `Prompt Engineering` `Model Evaluation` `Responsible AI`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -162,12 +855,12 @@ _Lead the technical roadmap and architecture for Call Guard, a real-time voice A
 
 ---
 
-### [Manager, Data Scientist, Travel Intelligence, Hotels](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist--Travel-Intelligence--Hotels_R243593-1)
-<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia / New York, New York · `Manager` `$197k-$245k`
+### [Senior Member of Technical Staff, Web Data](https://jobs.ashbyhq.com/cohere/82ec1512-5bc3-49dd-b995-b6abc2a958d7)
+<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · `🟢 Remote` `Senior`
 
-_Build machine learning models and real-time systems for hotel search, pricing optimization, and personalized travel recommendations at scale across billions of customer records. Lead end-to-end technical strategy in a green-field environment transitioning from offline historical models to sophisticated ML solutions. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist--Travel-Intelligence--Hotels_R243593-1)_
+_Build and maintain large-scale web data pipelines for pre-training frontier language models, including extraction, deduplication, filtering, and quality assessment of Common Crawl and other web corpora. Work at the intersection of research and engineering to transform raw internet data into high-quality training datasets that directly improve model capabilities. · [Apply →](https://jobs.ashbyhq.com/cohere/82ec1512-5bc3-49dd-b995-b6abc2a958d7)_
 
-`Python` `Scala` `R` `AWS` `Spark` `H2O` `Machine Learning` `SQL`
+`Python` `Apache Spark` `Apache Beam` `Pandas` `Distributed Systems` `Data Deduplication` `Large-Scale Data Processing`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -179,6 +872,17 @@ _Build machine learning models and real-time systems for hotel search, pricing o
 _Build machine learning models for Capital One's Travel Intelligence platform to optimize flight pricing, sorting, and personalized travel recommendations. Requires management of a data science team at scale across billions of customer records using Python, Spark, and AWS. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist--Travel-Intelligence--Flights_R243591-1)_
 
 `Python` `Spark` `AWS` `H2O` `Machine Learning` `Scala` `R`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Manager, Data Scientist, Travel Intelligence, Hotels](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist--Travel-Intelligence--Hotels_R243593-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia / New York, New York · `Manager` `$197k-$245k`
+
+_Build machine learning models and real-time systems for hotel search, pricing optimization, and personalized travel recommendations at scale across billions of customer records. Lead end-to-end technical strategy in a green-field environment transitioning from offline historical models to sophisticated ML solutions. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist--Travel-Intelligence--Hotels_R243593-1)_
+
+`Python` `Scala` `R` `AWS` `Spark` `H2O` `Machine Learning` `SQL`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -228,45 +932,45 @@ _Build sophisticated credit modeling and valuation tools for Capital One's $12+ 
 
 ---
 
-### [Senior Member of Technical Staff, Web Data](https://jobs.ashbyhq.com/cohere/82ec1512-5bc3-49dd-b995-b6abc2a958d7)
-<a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · `🟢 Remote` `Senior`
-
-_Build and maintain large-scale web data pipelines for pre-training frontier language models, including extraction, deduplication, filtering, and quality assessment of Common Crawl and other web corpora. Work at the intersection of research and engineering to transform raw internet data into high-quality training datasets that directly improve model capabilities. · [Apply →](https://jobs.ashbyhq.com/cohere/82ec1512-5bc3-49dd-b995-b6abc2a958d7)_
-
-`Python` `Apache Spark` `Apache Beam` `Pandas` `Distributed Systems` `Data Deduplication` `Large-Scale Data Processing`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Senior Applied Researcher](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Researcher_R168976-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$142k-$270k` `Equity`
-
-_Build machine learning models and systems for Adobe Express's AI Foundations team, developing generative AI solutions for creative workflows including computer vision, NLP, and multimodal learning. Deploy production ML systems at scale across agentic and generative AI scenarios. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Researcher_R168976-1)_
-
-`PyTorch` `TensorFlow` `JAX` `Transformers` `Diffusion Models` `Computer Vision` `NLP` `MLOps`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Engineering Manager, Express AI Foundations](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Engineering-Manager--Express-AI-Foundations_R168914)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Manager` `$146.3k-$289.9k` `Equity`
-
-_Lead a team of 6–10 engineers building AI infrastructure for Adobe Express — LLM orchestration, inference services, data pipelines, and evaluation frameworks powering design, imaging, motion, and personalization AI at scale. Requires hands-on technical depth in distributed systems and ML infrastructure to guide architecture, set quality standards, and grow senior engineers. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Engineering-Manager--Express-AI-Foundations_R168914)_
-
-`LLM Orchestration` `ML Infrastructure` `Distributed Systems` `Data Pipelines` `MLOps` `Prompt Engineering` `Model Evaluation` `Responsible AI`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
 ### [Sr. ML Ops Engineer](https://jobs.ashbyhq.com/corvus-robotics/f5c918ac-9bda-42c2-ba26-ef0fc4c8c839)
 <a href="https://www.corvus-robotics.com"><img src="https://www.google.com/s2/favicons?domain=www.corvus-robotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Corvus Robotics** · `🟢 Remote` `Senior`
 
 _Build the data pipeline infrastructure and ML training systems that consolidate robot telemetry, labeling tools, and cloud storage into a unified platform for autonomous warehouse inventory drones. Own end-to-end ML data infrastructure from raw collection through model deployment, unblocking the ML team to iterate faster on computer vision models. · [Apply →](https://jobs.ashbyhq.com/corvus-robotics/f5c918ac-9bda-42c2-ba26-ef0fc4c8c839)_
 
 `Python` `Kubernetes` `Distributed Systems` `ETL` `S3` `Data Pipeline Architecture` `Kubeflow` `SLURM`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Software Engineer - Sensor, MacOS  (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NC/Software-Engineer---Sensor--MacOS---Remote-_R28962)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$120k-$180k` `Equity`
+
+_Design and develop core sensor features on macOS for CrowdStrike's Falcon endpoint protection platform, handling high-concurrency, low-level OS subsystems (file system, memory, process, networking). Multi-platform codebase shared with Windows and Linux teams. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NC/Software-Engineer---Sensor--MacOS---Remote-_R28962)_
+
+`C++` `Swift` `macOS` `Multi-threading` `SwiftUI` `Python`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Software Engineer III, Cloud - CTIO (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-III--Cloud---CTIO--Hybrid-_R28931)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · Redmond, Washington / Sunnyvale, California / Austin, Texas / New York, New York · `🟡 Hybrid` `Senior` `$120k-$180k` `Equity`
+
+_Lead the design and implementation of low-latency, highly scalable cloud services that power CrowdStrike's next-generation breach prevention platform. Partner with senior technologists and AI teams to architect Tier-1 systems handling massive scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-III--Cloud---CTIO--Hybrid-_R28931)_
+
+`Go` `Java` `Distributed Systems` `Cloud Architecture` `System Design`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Sr. Software Engineer,  Full Stack (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-III---Full-Stack-Systems-Infrastructure--Hybrid-_R27538-1)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build front-end applications and production automation tools for CrowdStrike's cloud-based infrastructure platform serving enterprise security customers at scale. Requires meticulous attention to code security and hands-on mentorship of junior engineers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-III---Full-Stack-Systems-Infrastructure--Hybrid-_R27538-1)_
+
+`React.js` `TypeScript` `JavaScript` `GraphQL` `Kubernetes` `Go` `Grafana` `D3.js`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -316,39 +1020,6 @@ _Design and implement scalable data architectures supporting ingestion, storage,
 
 ---
 
-### [Software Engineer - Sensor, MacOS  (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NC/Software-Engineer---Sensor--MacOS---Remote-_R28962)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$120k-$180k` `Equity`
-
-_Design and develop core sensor features on macOS for CrowdStrike's Falcon endpoint protection platform, handling high-concurrency, low-level OS subsystems (file system, memory, process, networking). Multi-platform codebase shared with Windows and Linux teams. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NC/Software-Engineer---Sensor--MacOS---Remote-_R28962)_
-
-`C++` `Swift` `macOS` `Multi-threading` `SwiftUI` `Python`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Software Engineer III, Cloud - CTIO (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-III--Cloud---CTIO--Hybrid-_R28931)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · Redmond, Washington / Sunnyvale, California / Austin, Texas / New York, New York · `🟡 Hybrid` `Senior` `$120k-$180k` `Equity`
-
-_Lead the design and implementation of low-latency, highly scalable cloud services that power CrowdStrike's next-generation breach prevention platform. Partner with senior technologists and AI teams to architect Tier-1 systems handling massive scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-III--Cloud---CTIO--Hybrid-_R28931)_
-
-`Go` `Java` `Distributed Systems` `Cloud Architecture` `System Design`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Sr. Software Engineer,  Full Stack (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-III---Full-Stack-Systems-Infrastructure--Hybrid-_R27538-1)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
-
-_Build front-end applications and production automation tools for CrowdStrike's cloud-based infrastructure platform serving enterprise security customers at scale. Requires meticulous attention to code security and hands-on mentorship of junior engineers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-III---Full-Stack-Systems-Infrastructure--Hybrid-_R27538-1)_
-
-`React.js` `TypeScript` `JavaScript` `GraphQL` `Kubernetes` `Go` `Grafana` `D3.js`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
 ### [Principal Software Engineer ( Cloud Security )](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Software-Engineer---Cloud-Security--_JR-018385)
 <a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · Office - USA - CA - Headquarters · `Principal` `Equity`
 
@@ -377,50 +1048,6 @@ _Lead the technical evolution of the Identity Governance & Administration (IGA) 
 _Design and implement virtualization and network security features for next-generation firewalls across cloud environments (AWS, Azure, GCP) and Kubernetes clusters. Work with low-level Linux systems programming, network packet processing (DPDK, XDP), and stateful firewall logic at scale. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Software-Engineer--Cloud-Nework-and-AI-Security-_JR-018361)_
 
 `C` `Python` `Go` `Linux Systems Programming` `DPDK` `XDP` `AWS` `Azure`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Senior Software Engineer](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-Software-Engineer_JR-018368)
-<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · California, USA · `Senior` `$126k-$204.5k` `Equity`
-
-_Design and build scalable backend services and data pipelines for an Attack Surface Management platform that discovers and analyzes customers' internet-facing assets. Work on core services, APIs, and ETL systems supporting external security risk identification at enterprise scale. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-Software-Engineer_JR-018368)_
-
-`Python` `Java` `Golang` `Apache Spark` `Apache Beam` `GCP` `AWS` `Azure`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Cloud Security Architect](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Cloud-Security-Architect_R0241216)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Beavercreek, Ohio · `Senior` `$86k-$198k`
-
-_Design and implement secure cloud architectures for government critical systems, incorporating DoD RMF, FedRAMP, and CIS Benchmarks across Azure and AWS environments. Requires Top Secret clearance and hands-on experience with cloud security baselines, IaC, threat modeling, and risk assessments for defense missions. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Cloud-Security-Architect_R0241216)_
-
-`AWS` `Azure` `Infrastructure as Code` `Cloud Security` `DoD RMF` `FedRAMP` `CIS Benchmarks` `TS/SCI Clearance`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Cloud Developer and Customer Support Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Cloud-Developer-and-Customer-Support-Engineer_R0241200)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · McLean, Virginia · `Mid` `$86k-$198k`
-
-_Build and operate cloud infrastructure solutions on AWS, Azure, or GCP while providing technical support to U.S. government agency customers. Requires U.S. citizenship and balance of development work with on-call customer support. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Cloud-Developer-and-Customer-Support-Engineer_R0241200)_
-
-`Python` `AWS` `Azure` `Terraform` `CloudFormation` `Docker` `Git` `IaC`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Weapons Systems Engineer, Lead](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Oklahoma-City-OK/Weapons-Systems-Engineer--Lead_R0241312)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 2 Locations · `Senior` `$99k-$225k`
-
-_Lead weapons systems integration and testing for advanced aircraft platforms supporting the U.S. Air Force and DoD. Requires Secret clearance, 10+ years of defense systems engineering experience, and expertise in aircraft architecture, airworthiness certification, and operational safety. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Oklahoma-City-OK/Weapons-Systems-Engineer--Lead_R0241312)_
-
-`Systems Engineering` `Requirements Documentation` `Aircraft Architecture` `Airworthiness Certification` `Weapons Integration` `DoD Acquisition Processes` `Secret Clearance` `Bachelor's degree in Engineering`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -470,21 +1097,21 @@ _Build and maintain data pipelines and lakehouse infrastructure for an electrica
 
 ---
 
-### [Associate Software Engineer – Web & Visualization](https://jobs.lever.co/protolabs/76d12509-aae6-405e-939a-b0a11cfb804d)
-<a href="https://hubs.com"><img src="https://www.google.com/s2/favicons?domain=hubs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hubs** · Brooklyn Park, Minnesota · `🟡 Hybrid` `Junior`
+### [Principal Cyber Security Engineer, SOC Lead (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cyber-Security-Engineer--SOC-Lead--US-Federal-_JR-0105555)
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity`
 
-_Build web-based applications and data visualization systems for manufacturing operations and digital manufacturing platforms. Contribute to scalable software solutions connecting digital technology with real-world manufacturing systems. · [Apply →](https://jobs.lever.co/protolabs/76d12509-aae6-405e-939a-b0a11cfb804d)_
+_Lead a 24x7 Security Operations Center supporting U.S. Government SaaS deployments including air-gapped environments, overseeing SOC analysts, incident response coordination, and detection engineering. Requires TS/SCI clearance and 10+ years cybersecurity operations experience; US citizenship mandatory for federal government contracts. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cyber-Security-Engineer--SOC-Lead--US-Federal-_JR-0105555)_
+
+`Splunk` `SOAR` `Incident Response` `NIST SP 800-61r3` `MITRE ATT&CK` `TS/SCI Clearance` `DoD 8570 Certifications`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
 ---
 
-### [Principal Cyber Security Engineer, SOC Lead (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cyber-Security-Engineer--SOC-Lead--US-Federal-_JR-0105555)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity`
+### [Associate Software Engineer – Web & Visualization](https://jobs.lever.co/protolabs/76d12509-aae6-405e-939a-b0a11cfb804d)
+<a href="https://hubs.com"><img src="https://www.google.com/s2/favicons?domain=hubs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hubs** · Brooklyn Park, Minnesota · `🟡 Hybrid` `Junior`
 
-_Lead a 24x7 Security Operations Center supporting U.S. Government SaaS deployments including air-gapped environments, overseeing SOC analysts, incident response coordination, and detection engineering. Requires TS/SCI clearance and 10+ years cybersecurity operations experience; US citizenship mandatory for federal government contracts. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cyber-Security-Engineer--SOC-Lead--US-Federal-_JR-0105555)_
-
-`Splunk` `SOAR` `Incident Response` `NIST SP 800-61r3` `MITRE ATT&CK` `TS/SCI Clearance` `DoD 8570 Certifications`
+_Build web-based applications and data visualization systems for manufacturing operations and digital manufacturing platforms. Contribute to scalable software solutions connecting digital technology with real-world manufacturing systems. · [Apply →](https://jobs.lever.co/protolabs/76d12509-aae6-405e-939a-b0a11cfb804d)_
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -501,23 +1128,34 @@ _Own the CI/CD pipeline platform and release management infrastructure for a qua
 
 ---
 
-### [Senior Platform Engineer](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/St-Petersburg---FL---604-49th-St/Senior-Platform-Engineer_R0034673)
-<a href="https://insureon.com"><img src="https://www.google.com/s2/favicons?domain=insureon.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Insureon** · `🟢 Remote` `Senior` `$100k-$150k`
+### [Cloud Security Architect](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Cloud-Security-Architect_R0241216)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Beavercreek, Ohio · `Senior` `$86k-$198k`
 
-_Own production reliability and infrastructure modernization on AWS, leading the migration to Infrastructure as Code (Terraform) while strengthening CI/CD workflows, observability, and security foundations. Build internal developer tooling in Ruby to enable safe AI/agent workflows at scale. · [Apply →](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/St-Petersburg---FL---604-49th-St/Senior-Platform-Engineer_R0034673)_
+_Design and implement secure cloud architectures for government critical systems, incorporating DoD RMF, FedRAMP, and CIS Benchmarks across Azure and AWS environments. Requires Top Secret clearance and hands-on experience with cloud security baselines, IaC, threat modeling, and risk assessments for defense missions. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Cloud-Security-Architect_R0241216)_
 
-`AWS` `Terraform` `Docker` `Kubernetes` `Ruby` `CI/CD` `Linux` `Networking`
+`AWS` `Azure` `Infrastructure as Code` `Cloud Security` `DoD RMF` `FedRAMP` `CIS Benchmarks` `TS/SCI Clearance`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
 ---
 
-### [GTM Engineer](https://lattice.com/job?gh_jid=8570083002)
-<a href="https://lattice.com"><img src="https://www.google.com/s2/favicons?domain=lattice.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lattice** · `🟢 Remote` `Mid` `$141.6k-$156k`
+### [Cloud Developer and Customer Support Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Cloud-Developer-and-Customer-Support-Engineer_R0241200)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · McLean, Virginia · `Mid` `$86k-$198k`
 
-_Build AI-powered workflows and revenue intelligence systems that automate GTM operations, including forecasting risk analysis, executive reporting, and pipeline insights. Use LLMs, APIs, and data pipelines to transform fragmented operational processes into scalable, AI-enabled systems that improve decision-making across Sales, Marketing, and Customer Success. · [Apply →](https://lattice.com/job?gh_jid=8570083002)_
+_Build and operate cloud infrastructure solutions on AWS, Azure, or GCP while providing technical support to U.S. government agency customers. Requires U.S. citizenship and balance of development work with on-call customer support. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Cloud-Developer-and-Customer-Support-Engineer_R0241200)_
 
-`Python` `SQL` `Salesforce` `LLM platforms (OpenAI, Claude)` `LangChain` `API integration` `workflow orchestration` `Looker`
+`Python` `AWS` `Azure` `Terraform` `CloudFormation` `Docker` `Git` `IaC`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Weapons Systems Engineer, Lead](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Oklahoma-City-OK/Weapons-Systems-Engineer--Lead_R0241312)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 2 Locations · `Senior` `$99k-$225k`
+
+_Lead weapons systems integration and testing for advanced aircraft platforms supporting the U.S. Air Force and DoD. Requires Secret clearance, 10+ years of defense systems engineering experience, and expertise in aircraft architecture, airworthiness certification, and operational safety. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Oklahoma-City-OK/Weapons-Systems-Engineer--Lead_R0241312)_
+
+`Systems Engineering` `Requirements Documentation` `Aircraft Architecture` `Airworthiness Certification` `Weapons Integration` `DoD Acquisition Processes` `Secret Clearance` `Bachelor's degree in Engineering`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -534,23 +1172,23 @@ _Design, implement, and maintain on-premises and cloud Exchange email infrastruc
 
 ---
 
-### [16315-Sr Software Engineer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Marietta-Georgia-United-States-of-America/XMLNAME-16315-Sr-Software-Engineer_R1536839)
-<a href="https://iqvia.com"><img src="https://www.google.com/s2/favicons?domain=iqvia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IQVIA** · `🟢 Remote` `Senior` `$91.3k-$228.2k`
+### [GTM Engineer](https://lattice.com/job?gh_jid=8570083002)
+<a href="https://lattice.com"><img src="https://www.google.com/s2/favicons?domain=lattice.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lattice** · `🟢 Remote` `Mid` `$141.6k-$156k`
 
-_Design, develop, and architect mission-critical laboratory information management solutions on the OutSystems low-code platform; serve as U.S. escalation point for production incidents and drive architectural standards across the system. · [Apply →](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Marietta-Georgia-United-States-of-America/XMLNAME-16315-Sr-Software-Engineer_R1536839)_
+_Build AI-powered workflows and revenue intelligence systems that automate GTM operations, including forecasting risk analysis, executive reporting, and pipeline insights. Use LLMs, APIs, and data pipelines to transform fragmented operational processes into scalable, AI-enabled systems that improve decision-making across Sales, Marketing, and Customer Success. · [Apply →](https://lattice.com/job?gh_jid=8570083002)_
 
-`OutSystems` `Azure` `CI/CD` `DevOps` `API Integration` `Design Patterns` `SDLC`
+`Python` `SQL` `Salesforce` `LLM platforms (OpenAI, Claude)` `LangChain` `API integration` `workflow orchestration` `Looker`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
 ---
 
-### [Principal Forward Deployed Engineer](https://www.okta.com/company/careers/opportunity/7961339?gh_jid=7961339)
-<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · San Francisco, California / Chicago, Illinois / Bellevue, Washington / Toronto, Canada · `Principal` `$240k-$369k` `Equity`
+### [Senior Platform Engineer](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/St-Petersburg---FL---604-49th-St/Senior-Platform-Engineer_R0034673)
+<a href="https://insureon.com"><img src="https://www.google.com/s2/favicons?domain=insureon.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Insureon** · `🟢 Remote` `Senior` `$100k-$150k`
 
-_Build reference architectures and lead deployments for AI agent identity and authorization systems at enterprise scale. Requires deep distributed systems and identity protocol expertise, hands-on production experience across OAuth 2.0, OIDC, SAML, fine-grained authorization engines, and direct engagement with HIPAA, FedRAMP, and SOC 2 regulated environments. · [Apply →](https://www.okta.com/company/careers/opportunity/7961339?gh_jid=7961339)_
+_Own production reliability and infrastructure modernization on AWS, leading the migration to Infrastructure as Code (Terraform) while strengthening CI/CD workflows, observability, and security foundations. Build internal developer tooling in Ruby to enable safe AI/agent workflows at scale. · [Apply →](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/St-Petersburg---FL---604-49th-St/Senior-Platform-Engineer_R0034673)_
 
-`OAuth 2.0` `OIDC` `SAML` `ReBAC` `ABAC` `OPA` `Distributed Systems` `Identity Protocols`
+`AWS` `Terraform` `Docker` `Kubernetes` `Ruby` `CI/CD` `Linux` `Networking`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -562,6 +1200,28 @@ _Build reference architectures and lead deployments for AI agent identity and au
 _Design and evolve the technical architecture for a RELX Business Unit, bridging enterprise architects and engineering teams. Lead complex problem-solving across distributed systems, large-scale databases, and high-performance computing infrastructure; requires 10+ years in software/systems engineering. · [Apply →](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Architect_R114308-1)_
 
 `Java` `C++` `C#` `.Net` `Distributed Systems` `High-Performance Computing` `SQL` `Parallel Processing`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Principal Forward Deployed Engineer - Okta for AI Agents](https://www.okta.com/company/careers/opportunity/7961339?gh_jid=7961339)
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · San Francisco, California / Chicago, Illinois / Bellevue, Washington / Toronto, Canada · `Principal` `$240k-$369k` `Equity`
+
+_Build reference architectures and lead deployments for AI agent identity and authorization systems at enterprise scale. Requires deep distributed systems and identity protocol expertise, hands-on production experience across OAuth 2.0, OIDC, SAML, fine-grained authorization engines, and direct engagement with HIPAA, FedRAMP, and SOC 2 regulated environments. · [Apply →](https://www.okta.com/company/careers/opportunity/7961339?gh_jid=7961339)_
+
+`OAuth 2.0` `OIDC` `SAML` `ReBAC` `ABAC` `OPA` `Distributed Systems` `Identity Protocols`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [16315-Sr Software Engineer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Marietta-Georgia-United-States-of-America/XMLNAME-16315-Sr-Software-Engineer_R1536839)
+<a href="https://iqvia.com"><img src="https://www.google.com/s2/favicons?domain=iqvia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IQVIA** · `🟢 Remote` `Senior` `$91.3k-$228.2k`
+
+_Design, develop, and architect mission-critical laboratory information management solutions on the OutSystems low-code platform; serve as U.S. escalation point for production incidents and drive architectural standards across the system. · [Apply →](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Marietta-Georgia-United-States-of-America/XMLNAME-16315-Sr-Software-Engineer_R1536839)_
+
+`OutSystems` `Azure` `CI/CD` `DevOps` `API Integration` `Design Patterns` `SDLC`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -721,28 +1381,6 @@ _Design, deploy, and certify cryptographic systems for space-based assets and gr
 
 ---
 
-### [Software Engineer (L3) Data Substrate](https://job-boards.greenhouse.io/twilio/jobs/7954715)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Mid` `$138k-$203k` `Equity`
-
-_Design and build scalable data ingestion, processing, and analysis infrastructure using Kafka, Spark, and AWS services. Mentor junior engineers and drive data platform evolution across Twilio's global customer base. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7954715)_
-
-`Python` `Java` `Scala` `Spark` `Kafka` `Hive` `Hudi` `AWS`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Senior AI Architect, Foundation Models and SoC Co-Design – Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$208k-$327.75k` `Equity`
-
-_Shape hardware-software co-design strategies for next-generation AI models (Vision-Language-Action, multimodal foundation models) deployed on NVIDIA's embedded SoCs for autonomous vehicles. Map sophisticated AI workloads (transformers, diffusion, MoE) onto heterogeneous compute architectures (GPU, CPU, DLA) and drive silicon architecture decisions through deep performance characterization and model optimization. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387)_
-
-`PyTorch` `TensorFlow` `CUDA` `TensorRT` `Triton` `GPU architecture` `Distributed Systems` `Quantization`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
 ### [Serial Data Application Architect](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Serial-Data-Application-Architect_REQ34672)
 <a href="https://teledyne.com"><img src="https://www.google.com/s2/favicons?domain=teledyne.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teledyne** · Chestnut Ridge, New York · `Mid` `$72.8k-$97.1k`
 
@@ -760,6 +1398,28 @@ _Design and develop measurement software for serial data protocol analysis on te
 _Design and architect next-generation space-ground network solutions integrating satellite communications (LEO/MEO/GEO), ground stations, and cloud platforms; apply AI/ML for network automation and intelligent routing across heterogeneous systems. Requires active TS/SCI clearance and deep expertise in large-scale mission-critical networks for defense/government programs operating in contested environments. · [Apply →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/SPACECOM-Network-Systems-Engineer_REQ34899)_
 
 `Satellite Communications` `Software-Defined Networking` `AI/ML` `Cybersecurity (Zero Trust)` `Cloud Platforms (AWS/Azure/GCP)` `Systems Engineering` `RF Systems` `Network Architecture`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Software Engineer (L3) Data Substrate](https://job-boards.greenhouse.io/twilio/jobs/7954715)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Mid` `$138k-$203k` `Equity`
+
+_Design and build scalable data ingestion, processing, and analysis infrastructure using Kafka, Spark, and AWS services. Mentor junior engineers and drive data platform evolution across Twilio's global customer base. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7954715)_
+
+`Python` `Java` `Scala` `Spark` `Kafka` `Hive` `Hudi` `AWS`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Senior AI Architect, Foundation Models and SoC Co-Design – Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$208k-$327.75k` `Equity`
+
+_Shape hardware-software co-design strategies for next-generation AI models (Vision-Language-Action, multimodal foundation models) deployed on NVIDIA's embedded SoCs for autonomous vehicles. Map sophisticated AI workloads (transformers, diffusion, MoE) onto heterogeneous compute architectures (GPU, CPU, DLA) and drive silicon architecture decisions through deep performance characterization and model optimization. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387)_
+
+`PyTorch` `TensorFlow` `CUDA` `TensorRT` `Triton` `GPU architecture` `Distributed Systems` `Quantization`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -963,61 +1623,6 @@ _Build and operate large-scale GCP infrastructure for Cortex SecOps platform (XD
 
 ---
 
-### [Databrick Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Databrick-Engineer_R0241332)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Fort Meade, Maryland · `Mid` `$77k-$176k`
-
-_Build and maintain scalable data pipelines on the Databricks platform for defense and intelligence clients, managing workspace infrastructure, cluster policies, and RBAC configurations. Requires Secret clearance and support for mission-critical analytics and ML initiatives. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Databrick-Engineer_R0241332)_
-
-`Databricks` `PySpark` `Python` `SQL` `Delta Lake` `Terraform` `Apache Spark` `Secret Clearance`
-
-<sub>June 1, 2026 at 15:17 UTC</sub>
-
----
-
-### [Embedded System Developer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Embedded-System-Developer--Mid_R0235025)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Honolulu, Hawaii · `Senior` `$86k-$198k`
-
-_Design and deploy edge computing systems integrating CPUs, GPUs, TPUs, and FPGAs for tactical and disconnected operations; optimize AI models for real-time inference and harden solutions against cyber threats. Requires Secret clearance and work on defense/DoD applications. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Embedded-System-Developer--Mid_R0235025)_
-
-`C` `C++` `Rust` `Python` `FreeRTOS` `Kubernetes` `GitLab` `Secret Clearance`
-
-<sub>June 1, 2026 at 15:17 UTC</sub>
-
----
-
-### [.NET Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/XMLNAME-NET-Software-Engineer_R0241315)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 3 Locations · `🟡 Hybrid` `Senior` `$69k-$158k`
-
-_Build full-stack .NET applications and systems for government clients, migrating legacy .NET Framework codebases to modern .NET versions in a defense contracting environment. Requires Secret clearance and hands-on architecture, design, and implementation across the full development lifecycle. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/XMLNAME-NET-Software-Engineer_R0241315)_
-
-`C#` `.NET` `Web API` `Docker` `Agile` `Jenkins` `GitHub Actions` `Azure DevOps`
-
-<sub>June 1, 2026 at 15:17 UTC</sub>
-
----
-
-### [Autonomy Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Autonomy-Engineer_R0241314)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Lorton, Virginia · `Senior` `$99k-$225k`
-
-_Develop autonomy, sensing, and navigation software for DoD robotic and unmanned systems across embedded Linux platforms, flight controllers, and real-time algorithms. Requires Secret clearance and 5+ years of C/C++ embedded systems development with robotics experience. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Autonomy-Engineer_R0241314)_
-
-`C/C++` `ROS2` `PX4` `SLAM` `Kalman Filters` `OpenCV` `Docker` `Secret Clearance`
-
-<sub>June 1, 2026 at 15:17 UTC</sub>
-
----
-
-### [AI Architect](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/AI-Architect_R0237282)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Ashburn, Virginia · `Senior` `$112.8k-$257k`
-
-_Design and architect enterprise AI solutions for national security clients, translating business requirements into technical implementations using cloud platforms and large language models. Requires Public Trust clearance or path to DHS Suitability. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/AI-Architect_R0237282)_
-
-`Python` `PySpark` `AWS` `Databricks` `Bedrock` `SageMaker` `GCP` `LLM`
-
-<sub>June 1, 2026 at 15:17 UTC</sub>
-
----
-
 ### [Senior Member of Technical Staff, AI Quality](https://jobs.ashbyhq.com/harperinsure/d237b0dc-836f-4c5a-985c-12c8f71466b4)
 <a href="https://www.harperinsure.com"><img src="https://www.google.com/s2/favicons?domain=www.harperinsure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Harper** · San Francisco, California · `Senior` `$176k-$253k` `Equity`
 
@@ -1073,23 +1678,56 @@ _Design and automate test infrastructure for characterizing integrated photonic 
 
 ---
 
-### [Cloud Infrastructure Engineer](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/Cloud-Infrastructure-Engineer_R0036735)
-<a href="https://insureon.com"><img src="https://www.google.com/s2/favicons?domain=insureon.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Insureon** · Chicago, Illinois · `Mid` `$120k-$130k`
+### [Databrick Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Databrick-Engineer_R0241332)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Fort Meade, Maryland · `Mid` `$77k-$176k`
 
-_Design, build, and maintain scalable cloud infrastructure across AWS and Azure using infrastructure-as-code, automation, and CI/CD pipelines. Requires hands-on expertise with container orchestration (Kubernetes, EKS, AKS) and infrastructure provisioning at scale. · [Apply →](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/Cloud-Infrastructure-Engineer_R0036735)_
+_Build and maintain scalable data pipelines on the Databricks platform for defense and intelligence clients, managing workspace infrastructure, cluster policies, and RBAC configurations. Requires Secret clearance and support for mission-critical analytics and ML initiatives. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Databrick-Engineer_R0241332)_
 
-`AWS` `Azure` `Terraform` `Python` `Bash` `Kubernetes` `Docker` `GitHub Actions`
+`Databricks` `PySpark` `Python` `SQL` `Delta Lake` `Terraform` `Apache Spark` `Secret Clearance`
 
 <sub>June 1, 2026 at 15:17 UTC</sub>
 
 ---
 
-### [Senior Software Engineer](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)
-<a href="https://knewton.com"><img src="https://www.google.com/s2/favicons?domain=knewton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Knewton** · `🟢 Remote` `Senior` `£44.2k-£63.4k`
+### [Embedded System Developer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Embedded-System-Developer--Mid_R0235025)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Honolulu, Hawaii · `Senior` `$86k-$198k`
 
-_Own and modernize subsystems in KnowItAll, a long-lived, high-performance C++ Windows application for spectral analysis and chemical intelligence used by research laboratories worldwide. Work on performance-critical algorithms for spectral search, data-heavy workflows, and architectural improvements while maintaining backward compatibility in a regulated, mission-critical environment. · [Apply →](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)_
+_Design and deploy edge computing systems integrating CPUs, GPUs, TPUs, and FPGAs for tactical and disconnected operations; optimize AI models for real-time inference and harden solutions against cyber threats. Requires Secret clearance and work on defense/DoD applications. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Embedded-System-Developer--Mid_R0235025)_
 
-`C++` `Windows` `MFC` `Performance Tuning` `Memory Management` `Debugging` `Threading`
+`C` `C++` `Rust` `Python` `FreeRTOS` `Kubernetes` `GitLab` `Secret Clearance`
+
+<sub>June 1, 2026 at 15:17 UTC</sub>
+
+---
+
+### [.NET Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/XMLNAME-NET-Software-Engineer_R0241315)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 3 Locations · `🟡 Hybrid` `Senior` `$69k-$158k`
+
+_Build full-stack .NET applications and systems for government clients, migrating legacy .NET Framework codebases to modern .NET versions in a defense contracting environment. Requires Secret clearance and hands-on architecture, design, and implementation across the full development lifecycle. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/XMLNAME-NET-Software-Engineer_R0241315)_
+
+`C#` `.NET` `Web API` `Docker` `Agile` `Jenkins` `GitHub Actions` `Azure DevOps`
+
+<sub>June 1, 2026 at 15:17 UTC</sub>
+
+---
+
+### [Autonomy Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Autonomy-Engineer_R0241314)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Lorton, Virginia · `Senior` `$99k-$225k`
+
+_Develop autonomy, sensing, and navigation software for DoD robotic and unmanned systems across embedded Linux platforms, flight controllers, and real-time algorithms. Requires Secret clearance and 5+ years of C/C++ embedded systems development with robotics experience. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Autonomy-Engineer_R0241314)_
+
+`C/C++` `ROS2` `PX4` `SLAM` `Kalman Filters` `OpenCV` `Docker` `Secret Clearance`
+
+<sub>June 1, 2026 at 15:17 UTC</sub>
+
+---
+
+### [AI Architect](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/AI-Architect_R0237282)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Ashburn, Virginia · `Senior` `$112.8k-$257k`
+
+_Design and architect enterprise AI solutions for national security clients, translating business requirements into technical implementations using cloud platforms and large language models. Requires Public Trust clearance or path to DHS Suitability. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/AI-Architect_R0237282)_
+
+`Python` `PySpark` `AWS` `Databricks` `Bedrock` `SageMaker` `GCP` `LLM`
 
 <sub>June 1, 2026 at 15:17 UTC</sub>
 
@@ -1106,12 +1744,34 @@ _Design and implement ServiceNow CMDB and ITOM Discovery architecture for CMS, m
 
 ---
 
+### [Senior Software Engineer](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)
+<a href="https://knewton.com"><img src="https://www.google.com/s2/favicons?domain=knewton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Knewton** · `🟢 Remote` `Senior` `£44.2k-£63.4k`
+
+_Own and modernize subsystems in KnowItAll, a long-lived, high-performance C++ Windows application for spectral analysis and chemical intelligence used by research laboratories worldwide. Work on performance-critical algorithms for spectral search, data-heavy workflows, and architectural improvements while maintaining backward compatibility in a regulated, mission-critical environment. · [Apply →](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)_
+
+`C++` `Windows` `MFC` `Performance Tuning` `Memory Management` `Debugging` `Threading`
+
+<sub>June 1, 2026 at 15:17 UTC</sub>
+
+---
+
 ### [AI/Automation Engineer (Intern)](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/AI-Automation-Engineer--Intern-_JR012159)
 <a href="https://liveramp.com"><img src="https://www.google.com/s2/favicons?domain=liveramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveRamp** · 2 Locations · `Intern` `$22-$30/hr`
 
 _Build copilot and chatbot experiences using LLMs (ChatGPT, Claude, Gemini) and develop Python-based automations integrating enterprise APIs (Google Workspace, Workday, Salesforce) with workflow platforms like Okta Workflows and Workato. Hands-on internship with production code contributions from week one. · [Apply →](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/AI-Automation-Engineer--Intern-_JR012159)_
 
 `Python` `APIs` `ChatGPT` `Claude` `Gemini` `Okta Workflows` `Workato` `Zapier`
+
+<sub>June 1, 2026 at 15:17 UTC</sub>
+
+---
+
+### [Cloud Infrastructure Engineer](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/Cloud-Infrastructure-Engineer_R0036735)
+<a href="https://insureon.com"><img src="https://www.google.com/s2/favicons?domain=insureon.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Insureon** · Chicago, Illinois · `Mid` `$120k-$130k`
+
+_Design, build, and maintain scalable cloud infrastructure across AWS and Azure using infrastructure-as-code, automation, and CI/CD pipelines. Requires hands-on expertise with container orchestration (Kubernetes, EKS, AKS) and infrastructure provisioning at scale. · [Apply →](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/Cloud-Infrastructure-Engineer_R0036735)_
+
+`AWS` `Azure` `Terraform` `Python` `Bash` `Kubernetes` `Docker` `GitHub Actions`
 
 <sub>June 1, 2026 at 15:17 UTC</sub>
 
@@ -1238,23 +1898,23 @@ _Design and build automated workflows, data pipelines, and AI-driven tools for W
 
 ---
 
-### [Associate Salesforce Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Salesforce-Engineer_JREQ190592)
-<a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Junior` `$65k-$122k`
-
-_Build and customize Salesforce solutions across Sales Cloud and Service Cloud, implementing business logic through Apex, Lightning Web Components, and point-and-click automation. Design and integrate Salesforce systems with enterprise applications using REST/SOAP APIs and CPQ configurations; requires hands-on experience with Conga CPQ and multi-system integration. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Salesforce-Engineer_JREQ190592)_
-
-`Salesforce` `Apex` `Lightning Web Components` `Conga CPQ` `REST APIs` `MuleSoft` `Data Loader` `Git`
-
-<sub>June 1, 2026 at 13:01 UTC</sub>
-
----
-
 ### [Senior Software Engineer (Backend) - AI/ML](https://job-boards.greenhouse.io/clickhouse/jobs/6009094004)
 <a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
 _Design and build AI/ML inference APIs and backend services across ClickHouse's cloud platform, integrating models into production systems with monitoring and observability. Backend focus on API architecture, service design, and ecosystem integrations for agents and data scientists. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6009094004)_
 
 `Python` `TypeScript` `API Design` `Go` `AWS` `Azure` `GCP` `Vector Databases`
+
+<sub>June 1, 2026 at 13:01 UTC</sub>
+
+---
+
+### [Associate Salesforce Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Salesforce-Engineer_JREQ190592)
+<a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Junior` `$65k-$122k`
+
+_Build and customize Salesforce solutions across Sales Cloud and Service Cloud, implementing business logic through Apex, Lightning Web Components, and point-and-click automation. Design and integrate Salesforce systems with enterprise applications using REST/SOAP APIs and CPQ configurations; requires hands-on experience with Conga CPQ and multi-system integration. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Salesforce-Engineer_JREQ190592)_
+
+`Salesforce` `Apex` `Lightning Web Components` `Conga CPQ` `REST APIs` `MuleSoft` `Data Loader` `Git`
 
 <sub>June 1, 2026 at 13:01 UTC</sub>
 
@@ -1293,23 +1953,23 @@ _Build and maintain Yield Management System (YMS) applications that monitor, ana
 
 ---
 
-### [Salesforce Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/XMLNAME-100198---Software-Development-Engineer-TR6_JREQ190598)
-<a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Mid` `$76k-$141k USD / $82k-$132k CAD`
-
-_Build and implement Salesforce solutions using Apex, Lightning Web Components, and CPQ integrations for enterprise customers. Role involves full life cycle implementation across Sales Cloud, Service Cloud, and complex integrations with REST/SOAP APIs and tools like MuleSoft. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/XMLNAME-100198---Software-Development-Engineer-TR6_JREQ190598)_
-
-`Salesforce` `Apex` `Lightning Web Components` `Visualforce` `Conga CPQ` `REST API` `MuleSoft` `Git`
-
-<sub>June 1, 2026 at 10:56 UTC</sub>
-
----
-
 ### [Senior Software Engineer - Public Cloud](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Senior-Software-Engineer---Public-Cloud_260810-1)
 <a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · 2 Locations · `🟡 Hybrid` `Senior`
 
 _Design and maintain automated pipelines for building, testing, and distributing hardened public cloud images across AWS, GCP, and Azure using Packer, Python, and Go. Lead image infrastructure architecture and drive security hardening and configuration management for multi-cloud data platform deployments. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Hungary--Budapest/Senior-Software-Engineer---Public-Cloud_260810-1)_
 
 `Packer` `Python` `Go` `Ansible` `Salt` `AWS` `GCP` `Azure`
+
+<sub>June 1, 2026 at 10:56 UTC</sub>
+
+---
+
+### [Salesforce Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/XMLNAME-100198---Software-Development-Engineer-TR6_JREQ190598)
+<a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Mid` `$76k-$141k USD / $82k-$132k CAD`
+
+_Build and implement Salesforce solutions using Apex, Lightning Web Components, and CPQ integrations for enterprise customers. Role involves full life cycle implementation across Sales Cloud, Service Cloud, and complex integrations with REST/SOAP APIs and tools like MuleSoft. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/XMLNAME-100198---Software-Development-Engineer-TR6_JREQ190598)_
+
+`Salesforce` `Apex` `Lightning Web Components` `Visualforce` `Conga CPQ` `REST API` `MuleSoft` `Git`
 
 <sub>June 1, 2026 at 10:56 UTC</sub>
 
@@ -1646,17 +2306,6 @@ _Build scalable safety systems and real-time content moderation infrastructure f
 `Rust` `Machine Learning` `Content Moderation` `Real-time Detection Systems` `Data Pipelines` `Kubernetes` `Distributed Systems` `Observability`
 
 <sub>May 31, 2026 at 22:29 UTC</sub>
-
----
-
-### [Chief Architect (System Architecting, Requirements & Interfaces)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Chief-Architect--System-Architecting--Requirements---Interfaces-_JR2026496827-1)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Richardson, Texas · `Senior` `$210k–$285k`
-
-_Lead system architecture design and requirements definition for next-generation P-8A Advanced Airborne Sensor mission systems using open architecture principles. Requires active TS/SCI clearance and 10+ years in mission systems development and technical leadership in defense aerospace. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Chief-Architect--System-Architecting--Requirements---Interfaces-_JR2026496827-1)_
-
-`System Architecture` `Mission Systems` `Requirements Engineering` `TS/SCI Clearance`
-
-<sub>May 31, 2026 at 20:33 UTC</sub>
 
 ---
 
