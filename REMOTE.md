@@ -2,16 +2,64 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **386 open roles** (52 new)
+### **368 open roles** (56 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 2, 2026
+
+### [Senior Manager, Application Security (Remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Senior-Manager--Application-Security--Remote-_R056765-1)
+<a href="https://firstam.com"><img src="https://www.google.com/s2/favicons?domain=firstam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**First American** · `🟢 Remote` `Manager` `$148k-$198k`
+
+_Lead and scale an enterprise application security program across engineering teams—embed security into CI/CD pipelines, drive threat modeling and vulnerability management, and build a security-first culture in a regulated financial services environment. · [Apply →](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Senior-Manager--Application-Security--Remote-_R056765-1)_
+
+`SAST` `DAST` `SCA` `DevSecOps` `Threat Modeling` `CI/CD Security` `AWS` `Cloud Security`
+
+<sub>June 2, 2026 at 01:25 UTC</sub>
+
+---
+
+### [Data Scientist Senior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Data-Scientist-Senior_RQ221091-2)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$127k-$172k`
+
+_Build AI/ML solutions for government agencies, including generative AI systems with LLMs, RAG implementations, and intelligent automation for federal healthcare programs. Requires hands-on deployment of production solutions and BI Full 6C clearance. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Data-Scientist-Senior_RQ221091-2)_
+
+`Python` `AWS` `Machine Learning` `Generative AI` `Large Language Models` `RAG` `Data Engineering` `ETL`
+
+<sub>June 2, 2026 at 01:25 UTC</sub>
+
+---
+
+### [Staff Machine Learning Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7679180)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Staff` `$189k-$389k` `Equity`
+
+_Lead the design and deployment of large-scale recommendation and ranking systems powering advertiser and seller guidance across Pinterest's Ads Manager and sales productivity tools. Apply modern ML techniques (retrieval, ranking, embeddings, contextual bandits) to build AI agents that surface next-best actions and learn from user feedback; requires Staff-level technical leadership and hands-on ownership of end-to-end ML systems from problem scoping through production monitoring. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7679180)_
+
+`Python` `Java` `Machine Learning` `Recommendation Systems` `Ranking` `Embeddings` `Reinforcement Learning` `Vector Search`
+
+<sub>June 2, 2026 at 01:25 UTC</sub>
+
+---
+
+### [Engineering Manager, Safety](https://job-boards.greenhouse.io/reddit/jobs/7961895)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Manager` `$217k–$303k` `Equity`
+
+_Lead a 13-engineer team building Reddit's safety platform — user-facing moderation tools, admin training infrastructure for content detection models, and automated defense systems protecting 126M daily users at scale. Requires deep expertise in distributed systems and AI/ML productionization with the leverage to shift incident response from days to seconds. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7961895)_
+
+`Distributed Systems` `Full-Stack Engineering` `AI/ML Infrastructure` `LLM Productionization` `Large-Scale System Architecture`
+
+<sub>June 2, 2026 at 01:25 UTC</sub>
+
+---
 
 <br>
 
 ## June 1, 2026
 
 ### [Senior Engineering Manager, Core Platform](https://job-boards.greenhouse.io/hs/jobs/7964329)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington · `🟢 Remote` `Manager` `$162k-$225k (or $207k-$258.75k depending on location)` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington · `🟢 Remote` `Manager` `$162k-$225k (or $207k-$258.75k depending on location)` `Equity`
 
 _Lead the Core Platform engineering team delivering authentication, payments, entitlements, and shared services infrastructure across 70 million Headspace users; drive technical strategy for platform migrations and distributed backend systems while building and scaling a high-performing engineering organization. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7964329)_
 
@@ -22,7 +70,7 @@ _Lead the Core Platform engineering team delivering authentication, payments, en
 ---
 
 ### [Senior Software Engineer, Backend](https://job-boards.greenhouse.io/hs/jobs/7974975)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$195k` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$195k` `Equity`
 
 _Build authentication, payments, entitlements, and shared platform services supporting Headspace's B2B and direct-to-consumer mental health offerings using TypeScript/Node.js and Python/Django. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7974975)_
 
@@ -76,12 +124,12 @@ _Build infrastructure, tooling, and documentation that makes AI coding agents dr
 
 ---
 
-### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$96k-$130k`
+### [Information Security Engineer](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Engineer_31810)
+<a href="https://kitewheel.com"><img src="https://www.google.com/s2/favicons?domain=kitewheel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kitewheel** · `🟢 Remote` `Mid` `$90k-$144k`
 
-_Build full-stack Java applications supporting USPS enterprise software modernization, including microservices, event-driven architectures, and cloud-native deployments. Requires Public Trust clearance and U.S. residency for the last 5 years. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)_
+_Implement and maintain SIEM and SOAR security solutions, including logging infrastructure, automation, and security system tuning. Provide technical security consulting across the organization and support incident response and compliance functions (PCI DSS, SOX). · [Apply →](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Engineer_31810)_
 
-`Java` `Spring Framework` `Hibernate` `Oracle` `Kafka` `Kubernetes` `Jenkins` `JavaScript`
+`SIEM` `SOAR` `IDS/IPS` `TCP/IP` `Network Security` `Vulnerability Management` `Incident Response` `GCIH`
 
 <sub>June 1, 2026 at 22:10 UTC</sub>
 
@@ -98,12 +146,12 @@ _Build data pipelines, dashboards, and reporting workflows for the talent acquis
 
 ---
 
-### [Information Security Engineer](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Engineer_31810)
-<a href="https://kitewheel.com"><img src="https://www.google.com/s2/favicons?domain=kitewheel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kitewheel** · `🟢 Remote` `Mid` `$90k-$144k`
+### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$96k-$130k`
 
-_Implement and maintain SIEM and SOAR security solutions, including logging infrastructure, automation, and security system tuning. Provide technical security consulting across the organization and support incident response and compliance functions (PCI DSS, SOX). · [Apply →](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Engineer_31810)_
+_Build full-stack Java applications supporting USPS enterprise software modernization, including microservices, event-driven architectures, and cloud-native deployments. Requires Public Trust clearance and U.S. residency for the last 5 years. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)_
 
-`SIEM` `SOAR` `IDS/IPS` `TCP/IP` `Network Security` `Vulnerability Management` `Incident Response` `GCIH`
+`Java` `Spring Framework` `Hibernate` `Oracle` `Kafka` `Kubernetes` `Jenkins` `JavaScript`
 
 <sub>June 1, 2026 at 22:10 UTC</sub>
 
@@ -263,23 +311,23 @@ _Design and build core developer platforms including build systems, CI/CD pipeli
 
 ---
 
-### [ServiceNow Developer / Administrator](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$97k-$115k`
-
-_Develop and administer ServiceNow configurations and basic integrations for the Centers for Medicare & Medicaid Services (CMS), including Business Rules, Client Scripts, Flow Designer, and CMDB management. Requires ability to obtain Public Trust clearance and US residency (3 of last 5 years). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)_
-
-`ServiceNow` `JavaScript` `Business Rules` `Flow Designer` `CMDB` `REST APIs` `ITIL`
-
-<sub>June 1, 2026 at 20:34 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)
 <a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · Toronto, Canada · `🟢 Remote` `Senior`
 
 _Lead the design and implementation of microservices and APIs powering API discoverability and management within Kong's API Management platform. Build distributed systems that enable customers to discover, document, and govern their APIs at scale. · [Apply →](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)_
 
 `TypeScript` `JavaScript` `Node.js` `NestJS` `PostgreSQL` `Kubernetes` `Microservices Architecture` `Distributed Systems`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [ServiceNow Developer / Administrator](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$97k-$115k`
+
+_Develop and administer ServiceNow configurations and basic integrations for the Centers for Medicare & Medicaid Services (CMS), including Business Rules, Client Scripts, Flow Designer, and CMDB management. Requires ability to obtain Public Trust clearance and US residency (3 of last 5 years). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)_
+
+`ServiceNow` `JavaScript` `Business Rules` `Flow Designer` `CMDB` `REST APIs` `ITIL`
 
 <sub>June 1, 2026 at 20:34 UTC</sub>
 
@@ -296,23 +344,23 @@ _Lead a Platform Engineering team building and maintaining shared infrastructure
 
 ---
 
-### [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff`
+### [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$232k–$325k` `Equity`
 
-_Own experimentation methodology and causal inference across Reddit's Consumer organization, solving complex problems like network interference, spillover effects, and two-sided marketplace testing at scale. Requires deep expertise in causal inference and experimentation design, with Ph.D. in quantitative field or M.S. plus 12+ years applied science experience. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974507)_
+_Lead Reddit's experimentation methodology as the technical authority on causal inference in a networked platform environment. Design and scale experimentation frameworks that handle network effects, interference, and two-sided marketplaces to unlock product insights and influence organizational strategy. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974504)_
 
-`Python` `R` `SQL` `Causal Inference` `Experimental Design` `Bayesian Methods` `PhD in Statistics`
+`Causal Inference` `Experimentation Design` `SQL` `Python` `R` `Bayesian Methods` `Network Effects` `Synthetic Control`
 
 <sub>June 1, 2026 at 20:34 UTC</sub>
 
 ---
 
-### [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · Remote, Canada · `🟢 Remote` `Staff`
+### [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$232k–$325k` `Equity`
 
-_Build measurement frameworks and evaluation methodology for Reddit's ranking, search, and recommendation systems across feeds and communities. Influence product strategy through experimentation design and causal inference on a platform with unique challenges like spillover effects and ecosystem-level impacts. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974647)_
+_Lead relevance measurement and evaluation for Reddit's feeds, search, and recommendation systems, designing metrics frameworks and offline evaluation approaches for ranking quality across a community-driven platform. Mentor data scientists on experimentation methodology for ranking systems with complex challenges including spillover effects, contributor-consumer interference, and ecosystem-level impacts. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974605)_
 
-`SQL` `Python` `R` `Causal Inference` `Experimental Design` `Recommendation Systems` `Statistical Computing` `User-Generated Content Platforms`
+`Causal Inference` `Experimentation Design` `SQL` `Python` `R` `Metrics Design` `Ranking Systems` `Recommendation Systems`
 
 <sub>June 1, 2026 at 20:34 UTC</sub>
 
@@ -351,17 +399,6 @@ _Lead the data foundation platform that powers Airbnb's entity model (hosts, lis
 
 ---
 
-### [Principal Product Security Researcher](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
-
-_Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes-based cloud-native workloads on GCP and AWS. Deep expertise in container security, cloud IAM, and threat modeling required for a high-impact Staff-level security engineering role. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)_
-
-`Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
 ### [Expert Engineer](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129564274)
 <a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Multiple Locations, Canada · `🟢 Remote` `Staff`
 
@@ -380,12 +417,34 @@ _Shape and evolve shared technology infrastructure across multiple game projects
 
 ---
 
+### [Principal Product Security Researcher](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
+
+_Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes-based cloud-native workloads on GCP and AWS. Deep expertise in container security, cloud IAM, and threat modeling required for a high-impact Staff-level security engineering role. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)_
+
+`Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
 ### [Senior Member of Technical Staff, Web Data](https://jobs.ashbyhq.com/cohere/82ec1512-5bc3-49dd-b995-b6abc2a958d7)
 <a href="https://cohere.com"><img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cohere** · `🟢 Remote` `Senior`
 
 _Build and maintain large-scale web data pipelines for pre-training frontier language models, including extraction, deduplication, filtering, and quality assessment of Common Crawl and other web corpora. Work at the intersection of research and engineering to transform raw internet data into high-quality training datasets that directly improve model capabilities. · [Apply →](https://jobs.ashbyhq.com/cohere/82ec1512-5bc3-49dd-b995-b6abc2a958d7)_
 
 `Python` `Apache Spark` `Apache Beam` `Pandas` `Distributed Systems` `Data Deduplication` `Large-Scale Data Processing`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Data Architect](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Data-Architect_R0058974)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$125k-$181k`
+
+_Design and implement scalable data architectures supporting ingestion, storage, processing, and consumption across cloud platforms for analytics and operational use cases. Lead data modeling, cloud-native solutions, and governance practices while mentoring engineering teams on data architecture best practices. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Data-Architect_R0058974)_
+
+`Python` `SQL` `AWS` `Spark` `PostgreSQL` `Data Modeling` `Tableau` `Kubernetes`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -408,17 +467,6 @@ _Design and develop core sensor features on macOS for CrowdStrike's Falcon endpo
 _Build front-end applications and production automation tools for CrowdStrike's cloud-based infrastructure platform serving enterprise security customers at scale. Requires meticulous attention to code security and hands-on mentorship of junior engineers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-III---Full-Stack-Systems-Infrastructure--Hybrid-_R27538-1)_
 
 `React.js` `TypeScript` `JavaScript` `GraphQL` `Kubernetes` `Go` `Grafana` `D3.js`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Data Architect](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Data-Architect_R0058974)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$125k-$181k`
-
-_Design and implement scalable data architectures supporting ingestion, storage, processing, and consumption across cloud platforms for analytics and operational use cases. Lead data modeling, cloud-native solutions, and governance practices while mentoring engineering teams on data architecture best practices. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Data-Architect_R0058974)_
-
-`Python` `SQL` `AWS` `Spark` `PostgreSQL` `Data Modeling` `Tableau` `Kubernetes`
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -523,23 +571,23 @@ _Design and build scalable data ingestion, processing, and analysis infrastructu
 
 ---
 
-### [ITOM Discovery SME](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$119k-$161k`
-
-_Design and implement ServiceNow CMDB and ITOM Discovery architecture for CMS, managing configuration data models, discovery patterns across AWS/Azure/GCP cloud environments, and integrations with endpoint management and monitoring systems. Requires Public Trust clearance and US citizenship eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)_
-
-`ServiceNow` `CMDB` `ITOM Discovery` `MID Server` `JavaScript` `AWS` `Azure` `GCP`
-
-<sub>June 1, 2026 at 15:17 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)
 <a href="https://knewton.com"><img src="https://www.google.com/s2/favicons?domain=knewton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Knewton** · `🟢 Remote` `Senior` `£44.2k-£63.4k`
 
 _Own and modernize subsystems in KnowItAll, a long-lived, high-performance C++ Windows application for spectral analysis and chemical intelligence used by research laboratories worldwide. Work on performance-critical algorithms for spectral search, data-heavy workflows, and architectural improvements while maintaining backward compatibility in a regulated, mission-critical environment. · [Apply →](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)_
 
 `C++` `Windows` `MFC` `Performance Tuning` `Memory Management` `Debugging` `Threading`
+
+<sub>June 1, 2026 at 15:17 UTC</sub>
+
+---
+
+### [ITOM Discovery SME](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$119k-$161k`
+
+_Design and implement ServiceNow CMDB and ITOM Discovery architecture for CMS, managing configuration data models, discovery patterns across AWS/Azure/GCP cloud environments, and integrations with endpoint management and monitoring systems. Requires Public Trust clearance and US citizenship eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)_
+
+`ServiceNow` `CMDB` `ITOM Discovery` `MID Server` `JavaScript` `AWS` `Azure` `GCP`
 
 <sub>June 1, 2026 at 15:17 UTC</sub>
 
@@ -2255,17 +2303,6 @@ _Deploy and maintain security platforms (Splunk, Sentinel, CrowdStrike) and buil
 
 ---
 
-### [Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958354)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$164k—$229k` `Equity`
-
-_Build and maintain robust data pipelines, ETL systems, and analytics infrastructure to enable data-driven product decisions across Reddit's consumer platform; architect data collection, create dashboards and tools for data scientists and cross-functional teams, and establish data governance at scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7958354)_
-
-`Python` `SQL` `Spark` `Airflow` `Scala` `Data Modeling` `ETL/ELT` `Relational Databases`
-
-<sub>May 26, 2026 at 19:00 UTC</sub>
-
----
-
 ### [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
 
@@ -2916,12 +2953,12 @@ _Build and deploy custom AI agent solutions for enterprise procurement workflows
 
 ---
 
-### [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7593419)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Senior` `Equity`
+### [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7555019)
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Senior` `$127k-$180.6k` `Equity`
 
-_Design and operate core infrastructure-as-code solutions and Kubernetes clusters to enable Planet's engineering teams to deploy and scale services reliably. Modernize legacy platform tooling and build internal developer platforms serving satellite data processing at scale. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7593419)_
+_Design and operate core infrastructure-as-code solutions for Planet's Kubernetes-based cloud platform, managing GKE clusters, API gateways, and observability systems at scale. Modernize legacy infrastructure tooling while improving developer experience across the organization's internal platform. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7555019)_
 
-`Kubernetes` `Terraform` `GCP` `AWS` `Go` `Python` `ArgoCD` `Grafana`
+`Kubernetes` `Terraform` `Go` `Python` `GCP` `AWS` `Grafana` `GitOps`
 
 <sub>May 22, 2026 at 01:14 UTC</sub>
 
@@ -3518,17 +3555,6 @@ _Build Neki, PlanetScale's sharded PostgreSQL product, designing and implementin
 
 ---
 
-### [Senior Engineering Manager, Developer Productivity](https://job-boards.greenhouse.io/reddit/jobs/7947591)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Manager` `$232k—$325k` `Equity`
-
-_Lead cross-functional engineering teams building AI-native developer productivity platforms spanning agent infrastructure, code review, LLM governance, and CI/CD systems. Shape Reddit's transition to agentic software development by defining safe workflows, measurement systems, and organizational adoption strategies while balancing experimentation with quality and operational safety at scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7947591)_
-
-`LLM platforms` `AI governance` `CI/CD` `Code review systems` `Developer tooling` `DORA` `Agentic workflows` `Observability`
-
-<sub>May 20, 2026 at 20:52 UTC</sub>
-
----
-
 ### [Vice President, System Architecture and Mission Assurance](https://job-boards.greenhouse.io/slingshotaerospace/jobs/6000362004?gh_jid=6000362004)
 <a href="https://slingshotaerospace.com"><img src="https://www.google.com/s2/favicons?domain=slingshotaerospace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Slingshot Aerospace** · `🟢 Remote` `Manager` `$225k-$315k` `Equity`
 
@@ -3760,23 +3786,23 @@ _Lead a team of developers and administrators managing NetSuite, Workday, Blackl
 
 ---
 
-### [Applied AI Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$125k-$180k` `Equity`
-
-_Build shared infrastructure and agentic AI applications for internal HR systems, including LLM integrations, workflow orchestration, and multi-agent platforms. Experience with AI-assisted development tools and the ability to evaluate LLM-generated code are core to the role. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)_
-
-`Python` `AWS` `Airflow` `Snowflake` `Slack Bolt` `LLM APIs` `CI/CD` `FastAPI`
-
-<sub>May 20, 2026 at 15:15 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Software-Engineer_R0058058-1)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105k-$149k`
 
 _Lead the design and development of backend features and services for financial products using Java and AWS infrastructure. Mentor junior engineers, drive code quality and testing standards, and establish DevOps practices across the team. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Software-Engineer_R0058058-1)_
 
 `Java` `Spring Boot` `AWS` `TypeScript` `React` `PostgreSQL` `Unit Testing` `DevOps`
+
+<sub>May 20, 2026 at 15:15 UTC</sub>
+
+---
+
+### [Applied AI Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$125k-$180k` `Equity`
+
+_Build shared infrastructure and agentic AI applications for internal HR systems, including LLM integrations, workflow orchestration, and multi-agent platforms. Experience with AI-assisted development tools and the ability to evaluate LLM-generated code are core to the role. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1)_
+
+`Python` `AWS` `Airflow` `Snowflake` `Slack Bolt` `LLM APIs` `CI/CD` `FastAPI`
 
 <sub>May 20, 2026 at 15:15 UTC</sub>
 
@@ -3962,23 +3988,23 @@ _Build and maintain the Scala, Bazel, and CI infrastructure that powers Iterable
 
 ---
 
-### [Senior Azure Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$149k-$184k`
-
-_Lead design, deployment, and security of enterprise Azure cloud infrastructure supporting AI/ML workloads and mission-critical modernization initiatives. Requires ability to obtain Secret clearance and work with government/defense customers. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)_
-
-`Microsoft Azure` `Azure ML` `Terraform` `Bicep` `DevSecOps` `Kubernetes (AKS)` `PowerShell` `Python`
-
-<sub>May 19, 2026 at 19:59 UTC</sub>
-
----
-
 ### [Staff Security Architect](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)
 <a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Staff`
 
 _Design and verify robust security architecture across Kraken's crypto exchange infrastructure, products, and blockchain systems. Conduct security assessments and audits while staying current with blockchain-specific threats; hands-on role deeply embedded with engineering teams across the company. · [Apply →](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2)_
 
 `Application Security` `Infrastructure Security` `Cryptography` `OWASP` `NIST` `Rust` `Blockchain Security` `Web3 Security`
+
+<sub>May 19, 2026 at 19:59 UTC</sub>
+
+---
+
+### [Senior Azure Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$149k-$184k`
+
+_Lead design, deployment, and security of enterprise Azure cloud infrastructure supporting AI/ML workloads and mission-critical modernization initiatives. Requires ability to obtain Secret clearance and work with government/defense customers. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2)_
+
+`Microsoft Azure` `Azure ML` `Terraform` `Bicep` `DevSecOps` `Kubernetes (AKS)` `PowerShell` `Python`
 
 <sub>May 19, 2026 at 19:59 UTC</sub>
 
@@ -4069,229 +4095,5 @@ _Develop automated quantum error correcting code discovery pipelines using AI an
 `Python` `Quantum Computing` `Superconducting Qubits` `Quantum Error Correction` `Machine Learning` `cuQuantum` `CUDA-Q` `Ansys HFSS`
 
 <sub>May 19, 2026</sub>
-
----
-
-<br>
-
-## May 18, 2026
-
-### [Software Engineer, ML Platform](https://job-boards.greenhouse.io/afresh/jobs/5996537004)
-<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · Remote - Ontario, Canada · `🟢 Remote` `Mid` `$114k-$174k CAD`
-
-_Build and maintain the foundational infrastructure and tooling that powers Afresh's machine learning platform—including data APIs, featurization engines, forecasting systems, optimization engines, and training pipelines. Work on infrastructure at scale, orchestrating billions of decisions across grocery supply chains while preventing food waste. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/5996537004)_
-
-`Python` `PyTorch` `PySpark` `Pandas` `NumPy` `Airflow` `Databricks` `Cython`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Design Engineer, Web](https://job-boards.greenhouse.io/anthropic/jobs/5223916008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York / Remote · `🟢 Remote` `Mid` `$260k—$305k USD` `Equity`
-
-_Build and maintain high-quality web experiences across anthropic.com and claude.com, including interactive marketing pages, data visualizations, and internal content management tools. Work at the intersection of design and development within a headless CMS architecture, translating design intent into production-ready code at rapid iteration speed. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5223916008)_
-
-`Next.js` `React` `CSS` `Headless CMS` `Design Systems` `JavaScript` `TypeScript` `Figma`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Software Engineer, Platform (Developer Experience)](https://jobs.ashbyhq.com/benchling/51347ceb-0e30-4bd9-9fba-8d23f02d288f)
-<a href="https://benchling.com"><img src="https://www.google.com/s2/favicons?domain=benchling.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benchling** · `🟢 Remote` `Senior`
-
-_Build and scale developer experience tooling and release infrastructure that enables code changes to production in 10 minutes, serving 200+ engineers across Benchling's biotech platform. Work on containerized systems and CI/CD pipelines that directly impact engineering productivity and time-to-market for life science R&D software. · [Apply →](https://jobs.ashbyhq.com/benchling/51347ceb-0e30-4bd9-9fba-8d23f02d288f)_
-
-`Kubernetes` `Docker` `Python` `Node.js` `CI/CD` `Release Engineering` `DevOps`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Staff Software Engineer (Customer Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4676390006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k—$231k` `Equity`
-
-_Own significant infrastructure slices of Chainguard's Developer Platform — monorepo CI/CD, the DriftlessAF agentic AI platform, shared build infrastructure, and change-throughput substrate — shaping how internal engineers ship secure software at scale. Drive adoption of agent-driven workflows beyond PR-based systems and productionize observability, RAG, and context engineering for reliable AI agents in production. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4676390006)_
-
-`Go` `CI/CD Systems` `Kubernetes` `Container Orchestration` `GitHub Actions` `Argo Workflows` `Buildkite` `LLM/Agentic AI`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Senior Backend Engineer](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834)
-<a href="https://corelight.com"><img src="https://www.google.com/s2/favicons?domain=corelight.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Corelight Inc.** · `🟢 Remote` `Senior` `$145k–$188k` `Equity`
-
-_Architect and build scalable cloud-native backend systems and data pipelines that transform network security data into actionable intelligence for a SaaS NDR platform. Work with AWS serverless architectures, real-time data ingestion via Kafka, and high-performance APIs serving complex security analytics to enterprise defenders. · [Apply →](https://boards.greenhouse.io/corelight/jobs/7926834?gh_jid=7926834)_
-
-`Python` `Java` `Go` `AWS` `Kafka` `REST APIs` `GraphQL` `Docker`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Senior Software Engineer - Investments](https://job-boards.greenhouse.io/mercury/jobs/5990652004)
-<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$166k-$263k USD (US); CAD $157k-$248k (Canada)` `Equity`
-
-_Build institutional-grade cash management systems for startups, designing and owning technical architecture for Treasury products that safely manage billions in customer assets. Lead cross-functional projects with product, compliance, and risk teams to ship scalable, high-quality financial systems. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/5990652004)_
-
-`Haskell` `Broker-Dealer Trading Systems` `Custody Systems` `Static Typing` `Functional Programming` `Securities (Equities, Fixed Income)` `ETFs` `Mutual Funds`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Strategic Finance - GTM](https://job-boards.greenhouse.io/mercury/jobs/5998488004)
-<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Mid` `$128k-$160k` `Equity`
-
-_Build and own the datasets, dashboards, and automated systems that power Mercury's go-to-market decision-making, translating strategic finance frameworks into scalable infrastructure for growth, marketing, and product teams. Work with large financial datasets to model unit economics, customer acquisition costs, and cohort performance across channels. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/5998488004)_
-
-`SQL` `Python` `Financial Modeling` `Data Warehousing` `Tableau` `Looker` `CAC Analysis` `Unit Economics`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Applied Forward Deployed Engineer (FDE)](https://jobs.ashbyhq.com/montecarlodata/be0320e9-f13f-4470-80a1-db9b8c9a6bb2)
-<a href="https://montecarlodata.com"><img src="https://www.google.com/s2/favicons?domain=montecarlodata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Monte Carlo** · `🟢 Remote` `Junior` `Equity`
-
-_Build customer-specific integrations and connectors for data platforms like Snowflake and Databricks by prototyping in production environments, then feed learnings back to the core product team. You'll own end-to-end deployment and integration work in live enterprise environments from day one. · [Apply →](https://jobs.ashbyhq.com/montecarlodata/be0320e9-f13f-4470-80a1-db9b8c9a6bb2)_
-
-`Python` `SQL` `REST APIs` `Snowflake` `Databricks` `Salesforce`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Full Stack Engineering Intern](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5)
-<a href="https://www.usenash.com"><img src="https://www.google.com/s2/favicons?domain=www.usenash.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nash** · San Francisco, California · `🟢 Remote` `Intern` `Equity`
-
-_Build end-to-end features across Nash's agentic logistics layer, from React/TypeScript operator interfaces to Python services and LLM workflows that power real-time agent decision-making for major retailers. Debug across frontend, backend, and model behavior in a domain where every decision lands in the physical world—handling route recovery, exception triage, and human-agent handoffs for Walmart, 7-Eleven, and other Fortune 500 customers. · [Apply →](https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5)_
-
-`Python` `React` `TypeScript` `PostgreSQL` `REST APIs` `LLMs` `HTML` `CSS`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Data Scientist II, Experimentation](https://www.pinterestcareers.com/jobs/?gh_jid=7896291)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$114k–$235k` `Equity`
-
-_Build and improve Pinterest's experimentation platform by developing statistical methodologies, workflows, and tools that enable thousands of concurrent experiments to run smoothly and generate reliable insights. Partner with product data science teams to optimize experiment design, analysis, and decision-making at massive scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7896291)_
-
-`Python` `Apache Airflow` `Git` `Statistical Analysis` `Experimental Design` `SQL`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Data Scientist II, Infrastructure](https://www.pinterestcareers.com/jobs/?gh_jid=7816424)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Remote / San Francisco, California · `🟢 Remote` `Senior` `$114k-$235k` `Equity`
-
-_Build and refine metrics, dashboards, and analytical frameworks that measure, monitor, and optimize Pinterest's infrastructure systems. Work with production data pipelines and measurement systems to quantify the impact of infrastructure changes on reliability, performance, and user experience at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7816424)_
-
-`SQL` `Python` `Statistics` `Experimentation Design` `Data Pipeline Development` `A/B Testing` `Metrics Definition` `Data Quality`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Sr. Data Scientist, GenAI & Labeling Platforms](https://www.pinterestcareers.com/jobs/?gh_jid=7923203)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Senior` `$139k–$287k` `Equity`
-
-_Build LLM-assisted labeling systems and human-in-the-loop evaluation platforms that reduce labeling costs and improve data quality at scale. Work on prompt optimization, quality estimation, routing, and measurement frameworks for generative AI workflows across Pinterest's labeling infrastructure. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7923203)_
-
-`LLMs` `Machine Learning` `Data Science` `Python` `Prompt Engineering` `Experimentation` `Human-in-the-Loop Systems` `PyTorch`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Senior Software Engineer, GraphQL](https://job-boards.greenhouse.io/reddit/jobs/7309137)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
-
-_Design and build Reddit's foundational GraphQL infrastructure—a federated, Golang-based platform serving hundreds of millions of users across global datacenters. Scale the system for latency, resilience, and observability while mentoring engineers and driving the technical direction of the platform. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7309137)_
-
-`Go` `Kubernetes` `GraphQL` `AWS` `GCP` `CI/CD` `Distributed Systems`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6469397)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k–$229k` `Equity`
-
-_Build microservices, distributed systems, and data-intensive backends powering Reddit's advertising platform. Work on systems that optimize ad delivery, measure campaign performance, and support interactive ad formats at scale across 126 million daily active users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/6469397)_
-
-`Go` `Python` `Scala` `Kafka` `Spark` `Kubernetes` `PostgreSQL` `Redis`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Forward Deployed Engineer](https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901)
-<a href="https://roboflow.com"><img src="https://www.google.com/s2/favicons?domain=roboflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Roboflow** · New York, New York / San Francisco, California / Remote · `🟢 Remote` `Mid` `Equity`
-
-_Deploy computer vision models from proof-of-concept to production on edge hardware in customer environments, handling data pipelines, device configuration, and real-world model optimization. Work embedded with customer teams across manufacturing, logistics, and retail to solve the messy realities of physical-world computer vision deployment. · [Apply →](https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901)_
-
-`Python` `Docker` `Kubernetes` `NVIDIA Jetson` `Linux` `Computer Vision` `MLOps` `Edge Computing`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [VP, Revenue Operations & GTM Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7939139)
-<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Manager` `$325k-$350k` `Equity`
-
-_Build AI-native revenue operations systems using Claude, Salesforce Agentforce, and data infrastructure (Snowflake, Tableau) while owning SecurityScorecard's full lead-to-cash process across Sales, Marketing, and Customer Success. You'll architect agentic GTM workflows, implement real-time forecasting with 5-10% accuracy, and drive territory design and quota setting for a 20%+ YoY growth company. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/7939139)_
-
-`Salesforce` `Salesforce Agentforce` `Claude` `Snowflake` `Tableau` `Gainsight` `n8n` `Python`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Offensive Security Engineer, Red Team ](https://jobs.ashbyhq.com/goteleport/3835d711-7511-473c-847f-a16e634de556)
-<a href="https://goteleport.com"><img src="https://www.google.com/s2/favicons?domain=goteleport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teleport** · `🟢 Remote` `Mid`
-
-_Develop offensive security capabilities and conduct red team operations against Teleport's cloud infrastructure to identify and remediate security gaps. Work with cross-functional teams to integrate detections into security platforms and improve cloud architecture. · [Apply →](https://jobs.ashbyhq.com/goteleport/3835d711-7511-473c-847f-a16e634de556)_
-
-`AWS` `Red Team Operations` `Go` `Rust` `GCP` `Cloud Security Architecture` `Offensive Security`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Principal Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7745976)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$180k-$368k` `Equity`
-
-_Design and build the foundational data infrastructure—real-time streaming, data lakehouse, feature serving, and analytics pipelines—that powers Toast's analytics and AI/ML products across 170,000+ restaurant customers. Lead architectural evolution including migration to Apache Iceberg and scaling streaming infrastructure in a multi-product environment requiring deep technical strategy and cross-functional partnership. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7745976)_
-
-`Apache Iceberg` `Apache Kafka` `Apache Spark` `AWS` `Distributed Systems` `Feature Store` `Kotlin` `Java`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Staff Software Engineer - Application Infrastructure](https://careers.toasttab.com/jobs?gh_jid=7727235)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$151k-$309k` `Equity`
-
-_Architect and operate ultra-reliable, high-performance cloud services and infrastructure handling billions of requests daily from hundreds of internal services and hundreds of thousands of mobile devices. Drive performance optimization, define engineering best practices, and mentor teams across a mission-critical distributed system at restaurant-scale. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7727235)_
-
-`Java` `Kotlin` `Go` `AWS` `PostgreSQL` `DynamoDB` `Terraform` `Apache Pulsar`
-
-<sub>May 18, 2026</sub>
-
----
-
-### [Staff Software Engineer, Tech Lead ](https://careers.toasttab.com/jobs?gh_jid=7895604)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$142k—$227k CAD` `Equity`
-
-_Lead the design and delivery of full-stack employee management features for Toast's restaurant platform, mentoring engineers while building AI-powered solutions that help restaurant operators measure and grow their teams. You'll work across web technologies (React, TypeScript, GraphQL) and backend systems (Java/Kotlin) with emphasis on leveraging AI tools throughout the development lifecycle. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7895604)_
-
-`Java` `Kotlin` `React` `TypeScript` `GraphQL` `REST` `AI/ML tools`
-
-<sub>May 18, 2026</sub>
 
 ---
