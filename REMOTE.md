@@ -10,6 +10,28 @@ Remote engineering roles only — linking directly to each company's job board. 
 
 ## June 3, 2026
 
+### [Senior Machine Learning Engineer, Supply & Competitive Intelligence](https://careers.airbnb.com/positions/7967483?gh_jid=7967483)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$227k` `Equity`
+
+_Build ML models and end-to-end pipelines that extract competitive intelligence signals (pricing, supply, market saturation) from large-scale crawled datasets across global competitors, feeding Airbnb's pricing and supply strategy decisions. Work spans feature engineering, offline training, low-latency online serving, and entity resolution using embeddings, gradient boosted trees, and transformers at global scale. · [Apply →](https://careers.airbnb.com/positions/7967483?gh_jid=7967483)_
+
+`Python` `TensorFlow` `PyTorch` `Scala` `Java` `Feature Engineering` `A/B Testing` `Entity Resolution`
+
+<sub>June 3, 2026 at 13:58 UTC</sub>
+
+---
+
+### [Junior Database Administrator - Fuze Services](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4881387101)
+<a href="https://truepill.com"><img src="https://www.google.com/s2/favicons?domain=truepill.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Truepill** · `🟢 Remote` `Junior` `$77.2k-$96.5k`
+
+_Maintain and monitor AWS RDS database environments, handling patching, backups, incident response, and query optimization for a healthcare platform serving millions of users. Requires on-call rotation and work with HIPAA/HITRUST compliance frameworks. · [Apply →](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4881387101)_
+
+`T-SQL` `SQL Server` `AWS` `Python` `PowerShell` `Datadog` `Terraform`
+
+<sub>June 3, 2026 at 13:58 UTC</sub>
+
+---
+
 ### [Staff Software Engineer - Data Services](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Massachusetts-Remote/Staff-Software-Engineer---Data-Services_260841-1)
 <a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Staff`
 
@@ -240,17 +262,6 @@ _Build and enhance automated threat modeling tooling and security infrastructure
 _Design and maintain infrastructure, platform services, and deployment systems to improve availability, scalability, and efficiency across Thumbtack's distributed microservices platform. Work on large-scale systems spanning DNS, TLS, HTTP/S, and cloud infrastructure with focus on observability and reducing operational toil. · [Apply →](https://jobs.ashbyhq.com/thumbtack/bbe16198-66d7-4a73-bd3d-53f41ff46f20)_
 
 `AWS` `Python` `Go` `Linux` `Distributed Systems` `Kubernetes` `Terraform`
-
-<sub>June 2, 2026 at 21:16 UTC</sub>
-
----
-
-### [Frontier AI Security Researcher](https://jobs.ashbyhq.com/wealthsimple/19b34865-3c4d-449f-bb65-981363f00bdd)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
-
-_Design and build AI-enabled adversarial testing scaffolds and agent systems to automate pentesting, threat modeling, and attack discovery across Wealthsimple's financial platform. Requires shipping production agent frameworks that combine LLM prompts, toolchains, and multi-step strategies to find vulnerabilities at scale in a regulated fintech environment. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/19b34865-3c4d-449f-bb65-981363f00bdd)_
-
-`LLM agents` `Python` `Prompt engineering` `Penetration testing` `Offensive security` `Vulnerability research` `AWS` `Ruby`
 
 <sub>June 2, 2026 at 21:16 UTC</sub>
 
@@ -588,12 +599,12 @@ _Build infrastructure, tooling, and documentation that makes AI coding agents dr
 
 ---
 
-### [Information Security Engineer](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Engineer_31810)
-<a href="https://kitewheel.com"><img src="https://www.google.com/s2/favicons?domain=kitewheel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kitewheel** · `🟢 Remote` `Mid` `$90k-$144k`
+### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$96k-$130k`
 
-_Implement and maintain SIEM and SOAR security solutions, including logging infrastructure, automation, and security system tuning. Provide technical security consulting across the organization and support incident response and compliance functions (PCI DSS, SOX). · [Apply →](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Engineer_31810)_
+_Build full-stack Java applications supporting USPS enterprise software modernization, including microservices, event-driven architectures, and cloud-native deployments. Requires Public Trust clearance and U.S. residency for the last 5 years. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)_
 
-`SIEM` `SOAR` `IDS/IPS` `TCP/IP` `Network Security` `Vulnerability Management` `Incident Response` `GCIH`
+`Java` `Spring Framework` `Hibernate` `Oracle` `Kafka` `Kubernetes` `Jenkins` `JavaScript`
 
 <sub>June 1, 2026 at 22:10 UTC</sub>
 
@@ -841,21 +852,21 @@ _Lead the data foundation platform that powers Airbnb's entity model (hosts, lis
 
 ---
 
-### [Expert Engineer ](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)
-<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Multiple locations, Canada · `🟢 Remote` `Staff`
-
-_Design and evolve shared technology pipelines and systems across multiple game development projects; mentor teams on code modularity, cross-project integration, and long-term ecosystem sustainability. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)_
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
 ### [Principal Product Security Researcher](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
 _Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes-based cloud-native workloads on GCP and AWS. Deep expertise in container security, cloud IAM, and threat modeling required for a high-impact Staff-level security engineering role. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)_
 
 `Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Expert Engineer ](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)
+<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Multiple locations, Canada · `🟢 Remote` `Staff`
+
+_Design and evolve shared technology pipelines and systems across multiple game development projects; mentor teams on code modularity, cross-project integration, and long-term ecosystem sustainability. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)_
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -993,10 +1004,10 @@ _Design and build scalable data ingestion, processing, and analysis infrastructu
 
 ---
 
-### [Senior Software Engineer](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)
+### [Senior Software Engineer](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-GBR/Senior-Software-Engineer_R2600564)
 <a href="https://knewton.com"><img src="https://www.google.com/s2/favicons?domain=knewton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Knewton** · `🟢 Remote` `Senior` `£44.2k-£63.4k`
 
-_Own and modernize subsystems in KnowItAll, a long-lived, high-performance C++ Windows application for spectral analysis and chemical intelligence used by research laboratories worldwide. Work on performance-critical algorithms for spectral search, data-heavy workflows, and architectural improvements while maintaining backward compatibility in a regulated, mission-critical environment. · [Apply →](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-NJ-USA/Senior-Software-Engineer_R2600564)_
+_Own and modernize subsystems in KnowItAll, a long-lived, high-performance C++ Windows application for spectral analysis and chemical intelligence used by research laboratories worldwide. Work on performance-critical algorithms for spectral search, data-heavy workflows, and architectural improvements while maintaining backward compatibility in a regulated, mission-critical environment. · [Apply →](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-GBR/Senior-Software-Engineer_R2600564)_
 
 `C++` `Windows` `MFC` `Performance Tuning` `Memory Management` `Debugging` `Threading`
 
@@ -1505,17 +1516,6 @@ _Design and build scalable batch and real-time data pipelines and ETL systems fo
 
 ---
 
-### [Principal Machine Learning Engineer](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Principal-Machine-Learning-Engineer_REQ23396)
-<a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · `🟢 Remote` `Principal` `Equity`
-
-_Design and implement machine learning pipelines for clinical trial forecasting and optimization, working with cross-functional teams to enhance clinical operations. Lead projects integrating ML models with sensor-based measurement solutions and MLOps infrastructure in a biotech environment. · [Apply →](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Principal-Machine-Learning-Engineer_REQ23396)_
-
-`Python` `TensorFlow` `scikit-learn` `pandas` `PyTorch` `MLOps` `Temporal Forecasting` `PhD Required`
-
-<sub>May 29, 2026 at 17:21 UTC</sub>
-
----
-
 ### [📈 Head of Data](https://jobs.ashbyhq.com/clubhouse/9e8a8fad-38de-41b9-9d2c-9c9e6ed4b0b2)
 <a href="https://clubhouse.com"><img src="https://www.google.com/s2/favicons?domain=clubhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clubhouse** · `🟢 Remote` `Manager`
 
@@ -1938,6 +1938,17 @@ _Build the core agent execution runtime, orchestration primitives, and cloud inf
 
 ---
 
+### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
+
+_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
+
+`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
+
+<sub>May 28, 2026 at 19:06 UTC</sub>
+
+---
+
 ### [Senior Full Stack Engineer (Frontend Leaning - Canada)](https://jobs.ashbyhq.com/loot-labs/561c8628-df7b-4ad9-9026-8263b84674a8)
 <a href="https://lootlabs.gg"><img src="https://www.google.com/s2/favicons?domain=lootlabs.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Loot Labs** · `🟢 Remote` `Senior`
 
@@ -1955,17 +1966,6 @@ _Build high-performance web applications for a collectibles platform, owning fea
 _Design and scale backend systems for a digital collectibles platform, building production-grade APIs and infrastructure using AWS and TypeScript. Lead architecture decisions for e-commerce and community features serving 500k+ users with 5+ years of senior backend experience required. · [Apply →](https://jobs.ashbyhq.com/loot-labs/7b455997-2ef3-4ecb-9e34-edfd91a7225c)_
 
 `TypeScript` `AWS` `GraphQL` `DynamoDB` `Lambda` `SST` `Terraform` `PostgreSQL`
-
-<sub>May 28, 2026 at 19:06 UTC</sub>
-
----
-
-### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
-
-_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
-
-`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
 
 <sub>May 28, 2026 at 19:06 UTC</sub>
 
@@ -2081,12 +2081,12 @@ _Build neural rendering and generative models for autonomous truck sensor simula
 
 ---
 
-### [Senior, ML Engineer - Neural Rendering](https://job-boards.greenhouse.io/torcrobotics/jobs/8429809002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Montreal, Canada / Remote · `🟢 Remote` `Senior` `$160k-$212k` `Equity`
+### [Senior, ML Engineer - Neural Rendering](https://job-boards.greenhouse.io/torcrobotics/jobs/8375567002)
+<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan · `🟢 Remote` `Senior` `$177k-$234k` `Equity`
 
-_Build neural rendering and generative model systems for camera, LiDAR, and Radar sensor simulation in autonomous trucks. Implement state-of-the-art Neural Radiance Fields, 3D Gaussian Splatting, and Diffusion Models in a cloud-based ML ecosystem to close the domain data gap for safe autonomous driving. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8429809002)_
+_Build neural rendering and generative model systems for camera, LiDAR, and Radar sensor simulation in autonomous trucks, enabling data-driven training and validation at scale. Requires PhD or 6+ years industry experience shipping production software, with deep expertise in Neural Radiance Fields, 3D Gaussian Splatting, and diffusion models. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8375567002)_
 
-`Python` `PyTorch` `Neural Radiance Fields` `3D Gaussian Splatting` `Diffusion Models` `CUDA` `Computer Vision` `Generative Models`
+`Python` `PyTorch` `Neural Radiance Fields` `3D Gaussian Splatting` `CUDA` `Diffusion Models` `Computer Vision` `Autonomous Driving`
 
 <sub>May 28, 2026 at 17:27 UTC</sub>
 
