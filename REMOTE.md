@@ -709,23 +709,23 @@ _Design and build core developer platforms including build systems, CI/CD pipeli
 
 ---
 
-### [Senior Software Engineer](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)
-<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · Toronto, Canada · `🟢 Remote` `Senior`
-
-_Lead the design and implementation of microservices and APIs powering API discoverability and management within Kong's API Management platform. Build distributed systems that enable customers to discover, document, and govern their APIs at scale. · [Apply →](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)_
-
-`TypeScript` `JavaScript` `Node.js` `NestJS` `PostgreSQL` `Kubernetes` `Microservices Architecture` `Distributed Systems`
-
-<sub>June 1, 2026 at 20:34 UTC</sub>
-
----
-
 ### [ServiceNow Developer / Administrator](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$97k-$115k`
 
 _Develop and administer ServiceNow configurations and basic integrations for the Centers for Medicare & Medicaid Services (CMS), including Business Rules, Client Scripts, Flow Designer, and CMDB management. Requires ability to obtain Public Trust clearance and US residency (3 of last 5 years). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ServiceNow-Developer---Administrator_RQ221395)_
 
 `ServiceNow` `JavaScript` `Business Rules` `Flow Designer` `CMDB` `REST APIs` `ITIL`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)
+<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · Toronto, Canada · `🟢 Remote` `Senior`
+
+_Lead the design and implementation of microservices and APIs powering API discoverability and management within Kong's API Management platform. Build distributed systems that enable customers to discover, document, and govern their APIs at scale. · [Apply →](https://jobs.ashbyhq.com/kong/dc6033f0-4b07-482d-a0e8-8b35844da524)_
+
+`TypeScript` `JavaScript` `Node.js` `NestJS` `PostgreSQL` `Kubernetes` `Microservices Architecture` `Distributed Systems`
 
 <sub>June 1, 2026 at 20:34 UTC</sub>
 

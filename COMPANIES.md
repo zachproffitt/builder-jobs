@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **425 companies** · **2628 open roles** (219 new)
+### **423 companies** · **2683 open roles** (226 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -614,6 +614,119 @@ Block builds integrated commerce software that enables sellers to accept payment
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Security Engineer, Platform Security](http://block.xyz/careers/jobs/5231316008?gh_jid=5231316008) · Bay Area, California · `Senior` `$185.2k-$326.8k` (Jun 2)
 - [CRM Product Owner, GTM](http://block.xyz/careers/jobs/5235961008?gh_jid=5235961008) · New York, New York · `Senior` `$142k—$236k` (May 29)
 - [Staff Android Software Engineer, Cash App Consumer Platform](http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008) · Bay Area, California · `Staff` `$263k-$395k` (May 29)
+
+---
+
+## <a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Boeing Defense, Space & Security](https://boeing.com)
+
+The Boeing Company develops, manufactures, and services commercial airplanes, defense products, and space systems.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Systems Engineer (Associate, Mid-Level, Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Systems-Engineer--Associate--Mid-Level--Senior-_JR2026511120-1) · Oklahoma City, Oklahoma · `$82k-$165k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Engineering-Manager_JR2026508949-1) · Berkeley, Missouri · `Manager` `$170k-$230k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Fighters Software Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Fighters-Software-Engineering-Manager_JR2026511647-2) · Daytona Beach, Florida · `Manager` `$149.6k-$202.4k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Technology Lead - Modernization & Enablement](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Englewood-CO/Technology-Lead---Modernization---Enablement_JR2026512708-2) · Englewood, Colorado / Plano, Texas / Puyallup, Washington · `🟡 Hybrid` `Senior` `$193800-$262200` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Entry-Level Product Review Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Entry-Level-Product-Review-Engineer_JR2026513017-1) · Everett, Washington · `Junior` `$76.5k-$103.5k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Human Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Human-Engineering-Manager_JR2026512071-1) · Oklahoma City, Oklahoma · `Manager` `$130k-$177k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Systems Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Senior-Systems-Engineer_JR2026506281-1) · Saint Charles, Missouri · `Senior` `$164k–$223k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Systems Engineer, Associate, Experienced and Senior Level](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Systems-Engineer--Associate--Experienced-and-Senior-Level_JR2026506829) · Saint Charles, Missouri · `Mid` `$91.8k-$185.15k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Engineering Manager - Facilities and Infrastructure](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Engineering-Manager---Facilities-and-Infrastructure_JR2026512853-1) · Hazelwood, Missouri · `Manager` `$126k-$171k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Application Tester (Part-Time)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Luis-Obispo-CA/Software-Application-Tester--Part-Time-_JR2026512923-1) · San Luis Obispo, California · `Intern` `$39.52k-$45.76k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Test & Evaluation Engineer (Associate or Experienced) (2nd Shift)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Test---Evaluation-Engineer--Associate-or-Experienced---2nd-Shift-_JR2026511789-1) · Smithfield, Pennsylvania / Lemont Furnace, Pennsylvania · `Mid` `$85k-$140.3k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Service Desk System Administrator (Associate or Experienced)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Service-Desk-System-Administrator--Associate-or-Experienced-_JR2026508510) · 2 Locations · `Junior` `$78k-$112k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Propulsion Structures Stress Analysis Engineer (Associate or Mid-Level)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Propulsion-Structures-Stress-Analysis-Engineer--Associate-or-Mid-Level-_JR2026511064-1) · North Charleston, South Carolina · `Mid` `$85k-$140.3k` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [T-7 Chief Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/T-7-Chief-Software-Engineer_JR2026511544-1) · Berkeley, Missouri · `Manager` `$198k-$267k` (Jun 2)
+- [Product Review Engineer - Liaison Engineering (Associate or Mid-Level)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Product-Review-Engineer---Liaison-Engineering--Associate-or-Mid-Level-_JR2026512571-1) · Saint Charles, Missouri · `Mid` `$85k-$140.3k` (Jun 2)
+- [Cybersecurity - Senior Information System Security Manager (ISSM)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fairfax-VA/Cybersecurity---Senior-Information-System-Security-Manager--ISSM-_JR2026497541-1) · Fairfax, Virginia · `Senior` `$172k-$233k` (Jun 1)
+- [Spacecraft Software Engineer (Associate or Mid-Level)- Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026512895) · El Segundo, California · `Mid` `$106k-$182k` (Jun 1)
+- [Real Time Embedded Software Engineer (Mid-Level or Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Real-Time-Embedded-Software-Engineer--Mid-Level-or-Senior-_JR2026499222-1) · Seattle, Washington · `Mid` `$119k-$162k` (Jun 1)
+- [Mid-Level Structural Analysis Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Mid-Level-Structural-Analysis-Engineer_JR2026506677-1) · Hazelwood, Missouri · `Mid` `$103k-$140k` (Jun 1)
+- [Software Development Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1) · Richmond, Canada · `🟡 Hybrid` `Intern` `$23.50-$27.00 CAD/hr` (Jun 1)
+- [Mid-Level Mission Operations Engineer, Boulder Colorado - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Boulder-CO/Mid-Level-Mission-Operations-Engineer--Boulder-Colorado---Millennium-Space-Systems_JR2026506928) · Boulder, Colorado · `Mid` `$119k-$215k` (Jun 1)
+- [Senior Software Engineer – Artificial Intelligence](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Software-Engineer---Artificial-Intelligence_JR2026512643-1) · Berkeley, Missouri · `Senior` `$173k - $234k` (Jun 1)
+- [Artificial Intelligence (AI) Platform Developer (Mid-Level or Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Artificial-Intelligence--AI--Platform-Developer--Mid-Level-or-Senior-_JR2026511796) · Seattle, Washington / Berkeley, Missouri / Hazelwood, Missouri / Dallas, Texas · `Senior` `$132k-$192k` (Jun 1)
+- [Manufacturing Systems and Simulation MP&P Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Manufacturing-Systems-and-Simulation-MP-P-Engineer---Data-Engineering_JR2026504859-2) · North Charleston, South Carolina · `Mid` `$112k-$151k` (Jun 1)
+- [Software Development Intern - AI and Analytics](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Software-Development-Intern---AI-and-Analytics_JR2026510781-1) · Richmond, Canada · `🟡 Hybrid` `Intern` `$23.50-$27.00 CAD hourly` (Jun 1)
+- [Versatile Technologist (Mid-Level, Senior or Lead)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Versatile-Technologist--Mid-Level--Senior-or-Lead-_JR2026497941-1) · Herndon, Virginia · `Mid` `$96k-$129k` (Jun 1)
+- [DevOps Solutions Developer (Mid-Level, Senior or Lead)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/DevOps-Solutions-Developer--Mid-Level--Senior-or-Lead-_JR2026512719-1) · Herndon, Virginia · `Mid` `$119k-$162k` (Jun 1)
+- [Mid-Level or Lead Integration Engineer – Virtual Reality](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-or-Lead-Integration-Engineer---Virtual-Reality_JR2026509051-1) · North Charleston, South Carolina · `Senior` `$103k–$171k` (Jun 1)
+- [Chief Architect (System Architecting, Requirements & Interfaces)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Chief-Architect--System-Architecting--Requirements---Interfaces-_JR2026496827-1) · Richardson, Texas · `Senior` `$210k–$285k` (May 31)
+- [Structural Analysis Engineer (Entry Level & Associate)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Structural-Analysis-Engineer--Entry-Level---Associate-_JR2026502003-1) · Oklahoma City, Oklahoma · `Junior` `$66k-$89k (Entry-Level) / $79k-$106k (Associate)` (May 29)
+- [Mid-Level Programmer Analyst](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Mid-Level-Programmer-Analyst_JR2026511591-1) · Seal Beach, California / Seattle, Washington · `🟡 Hybrid` `Mid` `$122k-$145k` (May 29)
+- [Operations Center Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Operations-Center-Engineering-Manager_JR2026510995-1) · Seal Beach, California · `Manager` `$151k-$205k` (May 29)
+- [Data Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineer_JR2026512191-1) · Richmond, BC · `🟡 Hybrid` `Mid` `$82k-$145k CAD` (May 29)
+- [Associate Data Solutions Architect](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Associate-Data-Solutions-Architect_JR2026511358-1) · Seattle, Washington / Hazelwood, Missouri / Berkeley, Missouri / Dallas, Texas · `Junior` `$95.2k-$138k` (May 29)
+- [Software Engineer–DevSecOps (Senior or Lead)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer-DevSecOps--Senior-or-Lead-_JR2026504018-1) · Tukwila, Washington · `Senior` `$130900-$177100 (Senior) / $161500-$218500 (Lead)` (May 29)
+- [Senior Structural Analysis Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kennedy-Space-Center-FL/Senior-Structural-Analysis-Engineer_JR2026510760-1) · Kennedy Space Center, Florida · `Senior` `$126k–$171k` (May 29)
+- [Software Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Software-Engineering-Manager_JR2026510838) · Berkeley, Missouri · `Manager` `$160k - $217k` (May 29)
+- [Production Engineering Manager Supporting St. Louis Proprietary](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Production-Engineering-Manager-Supporting-St-Louis-Proprietary_JR2026512013) · Berkeley, Missouri · `Manager` `$141k-$190k` (May 29)
+- [Guidance, Navigation & Control Engineer (Lead or Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Guidance--Navigation---Control-Engineer--Lead-or-Senior-_JR2026511080-2) · Ridley Park, Pennsylvania · `Senior` `$153k-$247k` (May 29)
+- [Senior Product Development Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Senior-Product-Development-Engineering-Manager_JR2026509837-1) · Everett, Washington · `Manager` `$182k-$246k` (May 29)
+- [Senior Agent-to-Agent and Model Context Protocol Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Senior-Agent-to-Agent-and-Model-Context-Protocol-Developer_JR2026510662-1) · North Charleston, South Carolina / Hazelwood, Missouri / Tukwila, Washington / Chicago, Illinois / Arlington, Virginia / Colorado Springs, Colorado / Dallas, Texas · `Senior` `$136k–$197k` (May 29)
+- [Senior Artificial Intelligence Operations Specialist](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Senior-Artificial-Intelligence-Operations-Specialist_JR2026510665-1) · North Charleston, South Carolina / Hazelwood, Missouri / Tukwila, Washington / Chicago, Illinois / Arlington, Virginia / Colorado Springs, Colorado / Dallas, Texas · `Senior` `$136k – $197k` (May 29)
+- [Structural & Payload Design Engineer (Experienced, Senior or Lead)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Structural---Payload-Design-Engineer--Experienced--Senior-or-Lead-_JR2026507284-1) · El Segundo, California · `Senior` `$135k-$182k` (May 29)
+- [Design and Analysis Engineers (Experienced, Lead and Senior)**Sign-On Bonus Potential**](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Design-and-Analysis-Engineers--Experienced--Lead-and-Senior---Sign-On-Bonus-Potential--_JR2026511651) · Long Beach, California · `Senior` `$119k-$239k` (May 29)
+- [DevSecOps Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fairfax-VA/DevSecOps-Software-Engineer_JR2026511998-1) · Fairfax, Virginia · `Mid` `$126k-$189k` (May 28)
+- [Mission Analysis Engineer (Senior) - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mission-Analysis-Engineer--Senior----Millennium-Space-Systems_JR2026512493) · El Segundo, California · `Senior` `$150k-$269k` (May 28)
+- [Ground MILSATCOM Systems Test and Integration Engineer – (Mid-Level or Lead)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Ground-MILSATCOM-Systems-Test-and-Integration-Engineer----Mid-Level-or-Lead-_JR2026511198-1) · Colorado Springs, Colorado · `Senior` `$112k-$151k (Level 3) / $136k-$185k (Level 4)` (May 28)
+- [Ground MILSATCOM Systems Engineer (Senior or Principal)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Ground-MILSATCOM-Systems-Engineer--Senior-or-Principal-_JR2026511175) · Seal Beach, California · `Senior` `$176k-$239k` (May 28)
+- [Ground MILSATCOM Systems Engineer – (Mid-Level or Lead)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Ground-MILSATCOM-Systems-Engineer----Mid-Level-or-Lead-_JR2026511186-1) · Seal Beach, California · `Senior` `$119850-$197800` (May 28)
+- [Structural Analysis Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Structural-Analysis-Engineering-Manager_JR2026512443-2) · Oklahoma City, Oklahoma · `Manager` `$128k-$173k` (May 28)
+- [Electrophysics Engr/Scien (Electrophysics Engr/Scientist-General)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Electrophysics-Engr-Scien--Electrophysics-Engr-Scientist-General-_JR2026511510) · Berkeley, Missouri · `Senior` `$112k-$185k` (May 28)
+- [Software Engineer–Developer (Experienced and Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Software-Engineer-Developer--Experienced-and-Senior-_JR2026512428-1) · Oklahoma City, Oklahoma · `Senior` `$149k-$202k` (May 28)
+- [Associate Software Engineer - Developers](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427-1) · Oklahoma City, Oklahoma · `Junior` `$92k-$125k` (May 28)
+- [E-7A Mission Systems Deputy Chief Engineer - International Programs](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/E-7A-Mission-Systems-Deputy-Chief-Engineer---FMS-Programs_JR2026510870-1) · Oklahoma City, Oklahoma · `Manager` `$158k–$213k` (May 28)
+- [Senior Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Senior-Software-Engineer_JR2026511395-1) · Oklahoma City, Oklahoma · `Senior` `$149k–$202k` (May 28)
+- [Engineering Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Winnipeg-Canada/Engineering-Intern_JR2026509407-1) · Winnipeg, Canada · `Intern` `$23.50-$27.00 CAD/hour` (May 28)
+- [Senior DevOps Integration Specialist](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-DevOps-Integration-Specialist_JR2026510783-1) · Seattle, Washington / Chicago, Illinois / Hazelwood, Missouri / Kent, Washington / Long Beach, California / Mesa, Arizona / North Charleston, South Carolina / Plano, Texas / Tukwila, Washington · `Senior` `$136k–$197k` (May 28)
+- [Associate Software Engineer DevSecOps](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Software-Engineer-DevSecOps_JR2026511961-1) · Tukwila, Washington · `Junior` `$98k-$133k` (May 28)
+- [Data Science Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026510799) · Richmond, Canada · `🟡 Hybrid` `Intern` `$23.50-$27.00 CAD/hr` (May 28)
+- [Data Engineering Intern](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Engineering-Intern_JR2026510800-2) · Richmond, Canada · `🟡 Hybrid` `Intern` `$23.50-$27.00 CAD/hr` (May 28)
+- [Senior/Lead Data Scientist](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---St-Louis-City-MO/Senior-Lead-Data-Scientist_JR2026512296-1) · St. Louis, Missouri · `Senior` `$216k-$250k` (May 28)
+- [Mission Operations Engineer (Mid Level) - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mission-Operations-Engineer--Mid-Level----Millennium-Space-Systems_JR2026512293-1) · El Segundo, California · `Mid` `$99k-$215k` (May 28)
+- [Java Software Engineer – Developer (Experienced and Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Java-Software-Engineer---Developer--Experienced-and-Senior-_JR2026512278-1) · Herndon, Virginia / Mesa, Arizona / Seal Beach, California · `Senior` `$135k-$232k` (May 28)
+- [Lead Java Software Engineer – Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Lead-Java-Software-Engineer---Developer_JR2026512286-2) · Herndon, Virginia / Colorado Springs, Colorado / Seal Beach, California / El Segundo, California · `Senior` `$198k - $286k` (May 27)
+- [Senior Java Software Engineer – Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Senior-Java-Software-Engineer---Developer_JR2026512252-1) · Herndon, Virginia / Seal Beach, California / El Segundo, California / Colorado Springs, Colorado · `Senior` `$160k - $232k` (May 27)
+- [Senior Cloud Application Security Lifecycle Specialist](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Cloud-Application-Security-Lifecycle-Specialist_JR2026511281-1) · Seattle, Washington / North Charleston, South Carolina / Hazelwood, Missouri / Long Beach, California / Mesa, Arizona / Kent, Washington / Plano, Texas / Tukwila, Washington · `Senior` `$142k–$207k` (May 27)
+- [Lead Software Engineer – Embedded](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Lead-Software-Engineer---Embedded_JR2026507797-1) · Long Beach, California / Plano, Texas · `Senior` `$211k-$286k` (May 27)
+- [Senior Software Engineer – Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Senior-Software-Engineer---Developer_JR2026511195-1) · Seal Beach, California / El Segundo, California · `Senior` `$171k-$232k` (May 27)
+- [Associate/Experienced Software Engineer–Developer (Development)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185-1) · Kent, Washington · `Mid` `$112k-$174k` (May 27)
+- [Associate Structural Analysis Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Structural-Analysis-Engineer_JR2026507131-1) · Berkeley, Missouri · `Junior` `$85k-$115k` (May 27)
+- [Full-Stack Software Engineers (Experienced/Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineers--Experienced-Senior-_JR2026510120-1) · Chantilly, Virginia / Mesa, Arizona / Aurora, Colorado · `Senior` `$160k-$232k` (May 27)
+- [Software Engineers–Developer (Associate, Experienced and Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Software-Engineers-Developer--Associate--Experienced-and-Senior-_JR2026512114-1) · Oklahoma City, Oklahoma · `$92k-$202k` (May 27)
+- [Associate Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026511832-1) · Berkeley, Missouri · `Junior` `$82k-$105.3k` (May 26)
+- [Lead Structural DaDT Analysis Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Lead-Structural-DaDT-Analysis-Engineer_JR2026506877-1) · Oklahoma City, Oklahoma · `Senior` (May 26)
+- [Guidance, Navigation & Control Engineer (Associate/Mid-Level)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Guidance--Navigation---Control-Engineer--Associate-Mid-Level-_JR2026510704-1) · Ridley Park, Pennsylvania · `Mid` `$100k-$135k` (May 26)
+- [F-22 Mission Software Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-22-Mission-Software-Engineering-Manager_JR2026511357-2) · Berkeley, Missouri · `Manager` `$160k-$217k` (May 26)
+- [Software Certification Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Software-Certification-Engineering-Manager_JR2026508497-1) · Everett, Washington · `Manager` `$171k-$232k` (May 26)
+- [AC5 Chief Engineer - Phantom Works](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/AC5-Chief-Engineer---Phantom-Works_JR2026511914) · Colorado Springs, Colorado / St. Louis, Missouri / Seattle, Washington · `Manager` `$141k-$204k` (May 26)
+- [Advanced Information Technologist – Mid Level Cloud Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Mid-Level-Cloud-Engineer_JR2026511876) · Hazelwood, Missouri · `Mid` `$119k-$161k` (May 26)
+- [Software Integration Systems Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Software-Integration-Systems-Engineer_JR2026502378-1) · Richardson, Texas · `Mid` `$119k-$162k` (May 22)
+- [Senior Software Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Software-Security-Engineer_JR2026505254-1) · Seattle, Washington / Everett, Washington · `Senior` `$173k-$295k` (May 22)
+- [C-17 Mission Systems Engineer (SME or Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/C-17-Mission-Systems-Engineer--SME-or-Senior-_JR2026509763-1) · Long Beach, California · `Senior` `$135k-$224k` (May 22)
+- [Computing Architect (Manhattan Warehouse M.S.)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hialeah-FL/Computing-Architect--Manhattan-Warehouse-MS-_JR2026510877-1) · Hialeah, Florida · `Senior` `$118k-$168k` (May 22)
+- [Senior Product Review Engineer (Liaison Engineering)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Senior-Product-Review-Engineer--Liaison-Engineering-_JR2026505926-5) · North Charleston, South Carolina · `Senior` `$126k-$171k` (May 22)
+- [Senior System Administrator](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Senior-System-Administrator_JR2026495483-2) · Seal Beach, California · `Senior` `$146k-$197k` (May 22)
+- [Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Product-Security-Engineer_JR2026491163-1) · Colorado Springs, Colorado · `Mid` `$128350-$173650` (May 22)
+- [Mid-Level Cloud DevOps Programmer Analyst](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Mid-Level-Cloud-DevOps-Programmer-Analyst_JR2026510943-1) · Mesa, Arizona / Seal Beach, California / Seattle, Washington · `🟡 Hybrid` `Mid` `$114k - $143k` (May 22)
+- [Senior Cloud DevOps Programmer Analyst](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Senior-Cloud-DevOps-Programmer-Analyst_JR2026510951-1) · Mesa, Arizona / Seal Beach, California / Seattle, Washington · `🟡 Hybrid` `Senior` `$140k-$175k` (May 22)
+- [Spacecraft Field Programmable Gate Array (FPGA) Engineer - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Field-Programmable-Gate-Array--FPGA--Engineer---Millennium-Space-Systems_JR2026511641-1) · El Segundo, California · `Mid` (May 22)
+- [Senior Embedded Linux & BSP Software Engineer (Avionics) - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-Embedded-Linux---BSP-Software-Engineer--Avionics----Millennium-Space-Systems_JR2026511386-4) · El Segundo, California · `Senior` `$121k-$215k` (May 22)
+- [Product Security Engineering Manager, Missile & Weapons Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Product-Security-Engineering-Manager--Missile---Weapons-Systems_JR2026511640-1) · Huntsville, Alabama / St. Charles, Missouri · `Manager` `$204k-$276k` (May 21)
+- [Out of Production Systems Design Engineering Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Out-of-Production-Systems-Design-Engineering-Manager_JR2026496083) · Seal Beach, California · `Manager` `$151k-$204k` (May 21)
+- [Associate Programmer Analyst](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Warner-Robins-GA/Associate-Programmer-Analyst_JR2026508524) · Warner Robins, Georgia · `Junior` `$86k-$117k` (May 21)
+- [Mid-Level Ground Systems Engineer - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Mid-Level-Ground-Systems-Engineer---Millennium-Space-Systems_JR2026511438-1) · Chantilly, Virginia · `Mid` `$119k-$215k` (May 21)
+- [Lead Electronic Warfare System Architect](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Lead-Electronic-Warfare-System-Architect_JR2026510548-1) · Tukwila, Washington / Kent, Washington · `Senior` `$176k-$239k` (May 21)
+- [RCS Special Technology Engineering Manager (Level K)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/RCS-Special-Technology-Engineering-Manager--Level-K-_JR2026510696) · Tukwila, Washington · `Manager` `$151k-$204k` (May 21)
+- [Full Stack Software Engineer (Experienced or Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Full-Stack-Software-Engineer--Experienced-or-Senior-_JR2026511538-1) · Chantilly, Virginia / Seal Beach, California · `Senior` `$135k - $232k` (May 21)
+- [Missions Systems Software Engineer - Embedded (Associate, Experienced, Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-2) · Berkeley, Missouri · `Mid` `$99k-$217k` (May 21)
+- [Associate DevOps Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-DevOps-Developer_JR2026503724) · Seal Beach, California · `Junior` `$98k-$133k` (May 21)
+- [Cloud Security Manager](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Cloud-Security-Manager_JR2026503119) · Seattle, Washington / North Charleston, South Carolina / Chicago, Illinois / El Segundo, California / Mesa, Arizona / San Diego, California / Berkeley, Missouri / Hazelwood, Missouri · `Manager` `$161k-$233k` (May 21)
+- [Senior Production Engineering Manager - Integrated Air & Missile Defense (IAMD) & Patriot Advanced Capability 3 (PAC-3)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Senior-Production-Engineering-Manager---Integrated-Air---Missile-Defense--IAMD----Patriot-Advanced-Capability-3--PAC-3-_JR2026511327-1) · Huntsville, Alabama · `Manager` `$198k-$269k` (May 20)
+- [Lead Program Technical Integrator Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Lead-Program-Technical-Integrator-Engineer_JR2026509237-1) · Saint Charles, Missouri · `Senior` `$164k-$223k` (May 20)
+- [Test Automation Engineer (Experienced or Senior)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Test-Automation-Engineer--Experienced-or-Senior-_JR2026511356-1) · Sylmar, California · `Senior` `$135k - $182k` (May 20)
+- [Senior Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Product-Security-Engineer_JR2026499076) · Berkeley, Missouri · `Senior` `$162k - $276k` (May 20)
+- [Associate or Experienced Cloud and Software Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Associate-or-Experienced-Cloud-and-Software-Security-Engineer_JR2026503506-1) · Daytona Beach, Florida · `Mid` `$95k-$161k` (May 20)
+- [Autonomy Engineer (Mid Career) - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Autonomy-Engineer--Mid-Career----Millennium-Space-Systems_JR2025489859-1) · El Segundo, California · `Senior` `$104k-$172k` (May 20)
 
 ---
 
@@ -1479,6 +1592,19 @@ Everbridge provides a critical event and business continuity suite that helps or
 
 ---
 
+## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
+
+- [Principal Cybersecurity Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cybersecurity-Engineer--US-Federal-_JR-0107626) · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity` (Jun 2)
+- [Software Engineer and Senior Software Engineer - AI Platform](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Engineer-and-Senior-Software-Engineer---AI-Platform_JR-0106467) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$140k-$264k` `Equity` (Jun 1)
+- [Principal Cyber Security Engineer, SOC Lead (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cyber-Security-Engineer--SOC-Lead--US-Federal-_JR-0105555) · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity` (Jun 1)
+- [Senior Infrastructure Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-Infrastructure-Engineer---Sana_JR-0107623-1) · 2 Locations · `Senior` (May 29)
+- [Senior AI Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-AI-Engineer---Sana_JR-0107620) · 2 Locations · `Senior` (May 29)
+- [Sr Manager, Software Development Engineering (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Manager--Software-Development-Engineering_JR-0103056) · Reston, Virginia · `🟡 Hybrid` `Manager` `$193k-$289k` `Equity` (May 27)
+- [Senior Software Development Engineer, Agentic AI](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Development-Engineer_JR-0107127) · Toronto, Canada · `🟡 Hybrid` `Senior` `$140k-$210k CAD` `Equity` (May 21)
+- [Senior Manager, Cybersecurity - US Federal](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Manager--Cybersecurity---US-Federal_JR-0107187) · Reston, Virginia · `🟡 Hybrid` `Manager` `$201k-$302k` `Equity` (May 20)
+
+---
+
 ## <a href="https://evolent.com"><img src="https://www.google.com/s2/favicons?domain=evolent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evolent Health](https://evolent.com)
 
 Evolent Health partners with health plans and providers to improve health outcomes for people with complex and costly health conditions by connecting fragmented parts of the healthcare system. The company employs physicians and other staff to conduct utilization management and medical necessity reviews for healthcare services.
@@ -1487,6 +1613,16 @@ Evolent Health partners with health plans and providers to improve health outcom
 - [Manager, Software Engineering](https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Manager--Software-Engineering_JR-916069) · `🟢 Remote` `Manager` `$120k-$150k` (Jun 1)
 - [Director, AI Transformation](https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Director--AI-Transformation_JR-916253) · `🟢 Remote` `Manager` `$130k-$150k` (May 27)
 - [Managing Director, Client Data Engineering](https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Managing-Director--Client-Data-Engineering_JR-916299) · `🟢 Remote` `Manager` `$175k-$185k` (May 21)
+
+---
+
+## <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[F5 Networks](https://f5.com)
+
+F5 Networks provides application services that ensure applications remain secure and perform consistently across any environment and device.
+
+- [Security Researcher III](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Warsaw/Security-Researcher-III_RP1037261) · 2 Locations · `Senior` (May 25)
+- [Consultant II](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Bangalore-Non-SEZ/Consultant-II_RP1037596) · 2 Locations · `Mid` (May 25)
+- [Senior Identity Engineer, Workforce Identity](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Senior-Identity-Engineer--Workforce-Identity_RP1037538) · Seattle, Washington · `Senior` `$140k-$211k` `Equity` (May 20)
 
 ---
 
@@ -2190,6 +2326,7 @@ IonQ delivers trapped ion quantum computing systems and cloud access for quantum
 
 IQVIA provides advanced analytics and technology to life sciences organizations for accelerating innovation, improving patient outcomes, and bringing treatments to market faster.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Statistical Programmer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Hyderabad-Telangana-India/Senior-Statistical-Programmer_R1541204) · 2 Locations · `Senior` (Jun 3)
 - [16315-Sr Software Engineer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Marietta-Georgia-United-States-of-America/XMLNAME-16315-Sr-Software-Engineer_R1536839) · `🟢 Remote` `Senior` `$91.3k-$228.2k` (Jun 1)
 - [Director Architecture](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Director-Architecture_R1541282) · Wayne, Pennsylvania · `Manager` `$119k-$334k` (Jun 1)
 - [Senior Epidemiological Programmer, Real World Evidence - FSP](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Lisbon-Portugal/Senior-Epidemiological-Programmer--Real-World-Evidence---FSP_R1544495) · 2 Locations · `Senior` (Jun 1)
@@ -2228,27 +2365,6 @@ JLL provides real estate services and solutions.
 - [AI Product Lead](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/AI-Solution-Developer_REQ508155) · Remote / Charlotte, North Carolina / Chicago, Illinois / Dallas, Texas / New York, New York · `Mid` `$200k-$230k` (May 26)
 - [Data Developer](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Data-Developer_REQ507833) · Toronto, ON · `Mid` `$120k-$140k CAD` (May 22)
 - [Automation Engineer](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Spokane-Valley-WA/Automation-Engineer_REQ511897) · Spokane Valley, Washington · `Senior` `$107k` (May 21)
-
----
-
-## <a href="https://johnsoncontrols.com"><img src="https://www.google.com/s2/favicons?domain=johnsoncontrols.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Johnson Controls](https://johnsoncontrols.com)
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer - Data Center Engineering](https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer---Data-Center-Engineering_WD30270943-1) · Glendale, Wisconsin · `Junior` `$93k-$140k` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Software Engineer - Data Center Engineering](https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Principal-Software-Engineer---Data-Center-Engineering_WD30270941-1) · Glendale, Wisconsin · `Principal` `$100k-$164k` (Jun 2)
-- [Ingénieur en systèmes de contrôle / Concepteur de systèmes](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Ingnieur-en-systmes-de-contrle---Concepteur-de-systmes_WD30271095) · Montréal, Canada · `Mid` (Jun 1)
-- [Compressor Design Engineer](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Compressor-Design-Engineer_WD30270818-1) · New Freedom, Pennsylvania · `Junior` `$67k-$85k` (May 29)
-- [BAS IT Specialist for Data Centers](https://jci.wd5.myworkdayjobs.com/JCI/job/Manchester-Manchester-United-Kingdom/Metasys-IT-Specialist---Building-Automation-System_WD30269599) · 9 Locations · `🟡 Hybrid` `Senior` (May 29)
-- [Design Drafter](https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Design-Drafter_WD30270108-1) · York, Pennsylvania · `Mid` `$54k-$81k` (May 28)
-- [O&M (Operations & Maintenance) Controls Intern](https://jci.wd5.myworkdayjobs.com/JCI/job/Hershey-Pennsylvania-United-States-of-America/O-M--Operations---Maintenance--Controls-Intern_WD30270323) · Hershey, Pennsylvania · `Intern` `$39.5k-$45.8k` (May 28)
-- [Senior Software and Algorithm Engineer](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Senior-Software-and-Algorithm-Engineer_WD30269048) · `🟢 Remote` `Senior` `$89k-$149k` (May 27)
-- [Systems Engineer II](https://jci.wd5.myworkdayjobs.com/JCI/job/Charlotte-North-Carolina-United-States-of-America/Systems-Engineer-II_WD30270002-1) · Charlotte, North Carolina · `Mid` `$76k-$104k` (May 27)
-- [Controls Service Technician 5](https://jci.wd5.myworkdayjobs.com/JCI/job/Cranberry-Township-Pennsylvania-United-States-of-America/Controls-Service-Technician-5_WD30269233) · Cranberry Township, Pennsylvania · `Senior` `$76k-$100k` (May 26)
-- [Engineering Manager (Manufacturing)](https://jci.wd5.myworkdayjobs.com/JCI/job/Albany-Missouri-United-States-of-America/Engineering-Manager_WD30263699) · Albany, Missouri · `Manager` `$97k-$130k` (May 22)
-- [Manufacturing Automation Engineer](https://jci.wd5.myworkdayjobs.com/JCI/job/Lubbock-Texas-United-States-of-America/Manufacturing-Automation-Engineer_WD30266955) · Lubbock, Texas · `Mid` `$80k-$105k` (May 21)
-- [Controls Lead Systems Specialist II](https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/Controls-Lead-Systems-Specialist-II_WD30268510-1) · Linthicum, Maryland · `Senior` `$82k-$106k` (May 21)
-- [Senior Power Electronics Engineer (onsite)](https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Senior-Power-Electronics-Engineer--onsite-_WD30269863) · New Freedom, Pennsylvania · `Senior` `$80k-$135k` (May 21)
-- [NextGen Hardware Engineer - Controls](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/NextGen-Hardware-Engineer---Controls_WD30270114) · Milwaukee, Wisconsin / Reynosa, Mexico / Chicago, Illinois / Baltimore, Maryland · `Junior` `$75k` (May 21)
-- [Sr. AI/ML Engineer](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Sr-AI-ML-Engineer_WD30267893) · Milwaukee, Wisconsin · `Senior` `$100k-$140k` `Equity` (May 21)
 
 ---
 
@@ -2672,7 +2788,7 @@ Momentus provides space infrastructure services.
 
 MongoDB develops a database platform that helps organizations store, manage, and access data across distributed systems.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Technical Services Engineer](https://www.mongodb.com/careers/job/?gh_jid=7961465) · Montreal, Canada · `🟡 Hybrid` `Senior` `$129k-$178k CAD` `Equity` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Technical Services Engineer](https://www.mongodb.com/careers/job/?gh_jid=7950439) · Toronto, Canada · `🟡 Hybrid` `Senior` `$129k—$178k CAD` `Equity` (Jun 2)
 - [Staff Research Scientist](https://www.mongodb.com/careers/job/?gh_jid=7956670) · Palo Alto, California / Remote · `🟡 Hybrid` `Staff` `$151k-$297k` `Equity` (May 28)
 - [Software Engineer, Data Migration](https://www.mongodb.com/careers/job/?gh_jid=7523834) · `🟢 Remote` `Mid` `$109k-$215k` `Equity` (May 27)
 - [Salesforce Engineer III, FedRAMP](https://www.mongodb.com/careers/job/?gh_jid=7948530) · `🟢 Remote` `Senior` `$101k-$198k` `Equity` (May 27)
@@ -2759,14 +2875,6 @@ New Relic builds an observability platform that provides insight into complex sy
 Nextdoor is a neighborhood hub where people exchange information, goods, and services with others in their area.
 
 - [Data Scientist - Search](https://about.nextdoor.com/careers-list/?gh_jid=7948362) · `🟢 Remote` `Senior` `$175k-$234k` `Equity` (May 21)
-
----
-
-## <a href="https://nginx.com"><img src="https://www.google.com/s2/favicons?domain=nginx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nginx](https://nginx.com)
-
-- [Security Researcher III](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Warsaw/Security-Researcher-III_RP1037261) · 2 Locations · `Senior` (May 25)
-- [Consultant II](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Bangalore-Non-SEZ/Consultant-II_RP1037596) · 2 Locations · `Mid` (May 25)
-- [Senior Identity Engineer, Workforce Identity](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Senior-Identity-Engineer--Workforce-Identity_RP1037538) · Seattle, Washington · `Senior` `$140k-$211k` `Equity` (May 20)
 
 ---
 
@@ -4311,7 +4419,7 @@ Stripe is a financial services platform that helps businesses accept payments, b
 - [People Systems Platform Engineer (Salesforce)](https://stripe.com/jobs/search?gh_jid=7930153) · San Francisco, California / Seattle, Washington / New York, New York / Chicago, Illinois / Remote · `Senior` (May 28)
 - [Machine Learning Engineer, Capital Underwriting](https://stripe.com/jobs/search?gh_jid=7952048) · `🟢 Remote` `Senior` (May 27)
 - [Engineering Manager, User Compliance ](https://stripe.com/jobs/search?gh_jid=7948198) · Seattle, Washington · `Manager` (May 27)
-- [Software Engineer](https://stripe.com/jobs/search?gh_jid=7922832) · Seattle, Washington · `🟡 Hybrid` `Mid` `$190k-$285k` `Equity` (May 21)
+- [Software Engineer](https://stripe.com/jobs/search?gh_jid=7926587) · New York, New York · `🟡 Hybrid` `Mid` `$156k-$235k` `Equity` (May 21)
 - [Software Engineer IC-02 ](https://stripe.com/jobs/search?gh_jid=7926966) · New York, New York · `🟡 Hybrid` `Mid` `$160k-$235k` `Equity` (May 21)
 - [Principal Security Engineer, Privy](https://stripe.com/jobs/search?gh_jid=7947546) · `🟢 Remote` `Principal` (May 20)
 - [Global Payments Experiences Engineering Manager](https://stripe.com/jobs/search?gh_jid=7940329) · N/A · `Manager` (May 20)
@@ -4799,43 +4907,6 @@ Viam builds a platform that covers the entire robotics lifecycle, providing mult
 
 ---
 
-## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
-
-Visa provides personal payment solutions, payment cards, and rewards programs.
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Data Engineer - Senior Consultant level](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Data-Engineer---Senior-Consultant-level_REF082556W) · Bellevue, Washington · `🟡 Hybrid` `Senior` `$152k-$243k` `Equity` (Jun 3)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Director, AI Strategy & Automation](https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/Director--AI-Strategy---Automation_REF082692W) · San Francisco, California · `🟡 Hybrid` `Manager` `$170k-$273k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Director Software Engineering](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Director-Software-Engineering_REF081058W) · Foster City, California · `🟡 Hybrid` `Manager` `$207k-$332k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Director (Mainframe and GGS)](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Director--Mainframe-and-GGS-_REF081644W-1) · Denver, Colorado · `🟡 Hybrid` `Manager` `$176k-$282k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Cyber Security Engineer - Sr. Consultant level](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Cyber-Security-Engineer---Sr-Consultant-level_REF078642W-1) · Foster City, California · `🟡 Hybrid` `Senior` `$180k-$289k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Site Reliability Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Site-Reliability-Engineer_REF079724W) · Austin, Texas · `🟡 Hybrid` `Staff` `$131k-$210k` `Equity` (Jun 2)
-- [Staff Software Engineer -AI & Middleware Automation](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Software-Engineer--AI---Middleware-Automation_REF082408W) · Austin, Texas · `🟡 Hybrid` `Staff` `$131.6k-$210.3k` `Equity` (May 28)
-- [Senior Software Engineer - AI Agents](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Senior-Software-Engineer---AI-Agents_REF082452W-1) · 2 Locations · `🟡 Hybrid` `Senior` `$123k-$190.9k` `Equity` (May 28)
-- [Software Engineer - HP NonStop - Sr. Consultant level](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer---HP-NonStop---Sr-Consultant-level_REF082309W) · Denver, Colorado · `🟡 Hybrid` `Senior` `$143700-$230200` `Equity` (May 28)
-- [Chief Data Architect](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Chief-Data-Architect_REF082576W) · Foster City, California · `🟡 Hybrid` `Principal` `$217k-$348k` `Equity` (May 28)
-- [Software Engineer, New College Grad - 2026, Highlands Ranch](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--New-College-Grad---2026--Highlands-Ranch_REF082647W-1) · Highlands Ranch, Colorado · `🟡 Hybrid` `Junior` `$98k` `Equity` (May 28)
-- [Engineering Manager](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Engineering-Manager_REF075460W-1) · Austin, Texas · `🟡 Hybrid` `Manager` `$162k-$260k` `Equity` (May 28)
-- [Staff Database Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Database-Engineer_REF070559W) · 2 Locations · `🟡 Hybrid` `Staff` `$124k-$210k` `Equity` (May 27)
-- [Staff SW Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-SW-Engineer_REF059128W) · Austin, Texas · `🟡 Hybrid` `Senior` `$131k-$210k` `Equity` (May 27)
-- [Lead Solutions Architect - GenAI](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Lead-Solutions-Architect---GenAI_REF080419W) · Bellevue, Washington · `🟡 Hybrid` `Staff` `$186k-$299k` `Equity` (May 26)
-- [Software Engineer- Operations and Infrastructure](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) · Austin, Texas · `🟡 Hybrid` `Junior` `$88k-$136.9k` `Equity` (May 26)
-- [Data Scientist, FeatureSpace](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Data-Scientist--FeatureSpace_REF074499W) · 2 Locations · `🟡 Hybrid` `Mid` `Equity` (May 26)
-- [Sr. Network Engineer- Network Observability](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Sr-Network-Engineer--Network-Observability_REF079179W) · Denver, Colorado · `🟡 Hybrid` `Senior` `$104k-$162k` `Equity` (May 22)
-- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer_REF080324W) · Ashburn, Virginia · `🟡 Hybrid` `Junior` `$88k-$136.9k` `Equity` (May 22)
-- [Senior Data Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Senior-Data-Engineer_REF081492W) · Austin, Texas · `🟡 Hybrid` `Senior` `$110k-$171k` `Equity` (May 22)
-- [Staff ML Scientist - New College Grad](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-ML-Scientist---New-College-Grad_REF082565W-2) · Austin, Texas · `🟡 Hybrid` `Junior` `$157k-$170k` `Equity` (May 22)
-- [Staff SW Engineer - Frontend](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Staff-SW-Engineer---Frontend_REF082354W) · Bellevue, Washington · `🟡 Hybrid` `Senior` `$131k-$210k` `Equity` (May 22)
-- [Director, Software Engineering](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Director--Software-Engineering_REF082476W) · Denver, Colorado · `🟡 Hybrid` `Manager` `$176k-$282k` `Equity` (May 22)
-- [Senior Software Engineer-Bigdata & Hadoop Engineer with Development experience](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Senior-Software-Engineer-Bigdata---Hadoop-Engineer-with-Development-experience_REF081788W) · Austin, Texas · `🟡 Hybrid` `Senior` `$110.7k-$171.8k` `Equity` (May 22)
-- [Director, Software Engineering(HR Technology)](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Director--Software-Engineering-HR-Technology-_REF082097W) · Austin, Texas · `🟡 Hybrid` `Manager` `$186k-$299k` `Equity` (May 21)
-- [VCA AI Agent Engineering Sr. Manager](https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/VCA-AI-Agent-Engineering-Sr-Manager_REF074638W) · 3 Locations · `🟡 Hybrid` `Manager` `Equity` (May 20)
-- [Staff Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Software-Engineer_REF076109W) · Austin, Texas · `🟡 Hybrid` `Senior` `$131k-$210k` `Equity` (May 20)
-- [SW Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/SW-Engineer_REF079905W) · Denver, Colorado · `🟡 Hybrid` `Junior` `$83k-$129k` `Equity` (May 20)
-- [Fullstack Senior Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Fullstack-Senior-Software-Engineer_REF081844W-1) · 2 Locations · `🟡 Hybrid` `Senior` `$110.7k-$171.8k` `Equity` (May 20)
-- [Lead SW Engineer - IC - Risk and Identity Solutions](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Lead-SW-Engineer_REF073583W) · Foster City, California · `🟡 Hybrid` `Senior` `$192k-$307k` `Equity` (May 20)
-
----
-
 ## <a href="https://vise.com"><img src="https://www.google.com/s2/favicons?domain=vise.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Vise](https://vise.com)
 
 Vise is a technology platform that helps financial advisors build, manage, and explain personalized investment portfolios.
@@ -4951,21 +5022,6 @@ Workato builds enterprise servers that connect AI agents to over 1,400 business 
 
 ---
 
-## <a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workday](https://workday.com)
-
-Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
-
-- [Principal Cybersecurity Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cybersecurity-Engineer--US-Federal-_JR-0107626) · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity` (Jun 2)
-- [Software Engineer and Senior Software Engineer - AI Platform](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Engineer-and-Senior-Software-Engineer---AI-Platform_JR-0106467) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$140k-$264k` `Equity` (Jun 1)
-- [Principal Cyber Security Engineer, SOC Lead (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cyber-Security-Engineer--SOC-Lead--US-Federal-_JR-0105555) · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity` (Jun 1)
-- [Senior Infrastructure Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-Infrastructure-Engineer---Sana_JR-0107623-1) · 2 Locations · `Senior` (May 29)
-- [Senior AI Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-AI-Engineer---Sana_JR-0107620) · 2 Locations · `Senior` (May 29)
-- [Sr Manager, Software Development Engineering (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Manager--Software-Development-Engineering_JR-0103056) · Reston, Virginia · `🟡 Hybrid` `Manager` `$193k-$289k` `Equity` (May 27)
-- [Senior Software Development Engineer, Agentic AI](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Development-Engineer_JR-0107127) · Toronto, Canada · `🟡 Hybrid` `Senior` `$140k-$210k CAD` `Equity` (May 21)
-- [Senior Manager, Cybersecurity - US Federal](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Manager--Cybersecurity---US-Federal_JR-0107187) · Reston, Virginia · `🟡 Hybrid` `Manager` `$201k-$302k` `Equity` (May 20)
-
----
-
 ## <a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workleap](https://workleap.com)
 
 Workleap makes an all-in-one employee experience platform that streamlines workflows and improves productivity for hybrid teams.
@@ -4991,18 +5047,6 @@ xAI creates AI systems designed to understand the universe and aid humanity in p
 - [Member of Technical Staff - Imagine Safety](https://job-boards.greenhouse.io/xai/jobs/5151022007) · Palo Alto, California · `Senior` `$180k-$440k` `Equity` (May 31)
 - [Manager, Engineering (Power Generation)](https://job-boards.greenhouse.io/xai/jobs/5150828007) · Southaven, Mississippi · `Manager` (May 29)
 - [X Developer Platform – Forward Deployed Engineer, X API](https://job-boards.greenhouse.io/xai/jobs/5136287007) · New York, New York / Palo Alto, California · `Senior` `$180k-$440k` `Equity` (May 22)
-
----
-
-## <a href="https://xylem.com"><img src="https://www.google.com/s2/favicons?domain=xylem.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Xylem](https://xylem.com)
-
-Xylem develops water, wastewater, and energy solutions using smart technology.
-
-- [Sr Software Developer](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Sr-Software-Developer_R47078) · Morrisville, North Carolina · `Senior` (Jun 2)
-- [Test Engineer](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Pewaukee-Wisconsin/Test-Engineer_R48617-1) · Pewaukee, Wisconsin · `Mid` (Jun 1)
-- [Software Test Automation Intern](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Software-Test-Automation-Intern_R48545) · Morrisville, North Carolina · `🟡 Hybrid` `Intern` `$21/hr-$27/hr` (May 29)
-- [Engineering Leadership Development Program](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Engineering-Leadership-Development-Program_R44664) · 5 Locations · `Intern` (May 27)
-- [Sr. Firmware Engineer](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Senior-Firmware-Engineer_R48524) · Morrisville, North Carolina · `Senior` (May 26)
 
 ---
 
