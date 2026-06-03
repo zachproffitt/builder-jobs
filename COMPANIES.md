@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **439 companies** · **2867 open roles** (228 new)
+### **425 companies** · **2734 open roles** (222 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -23,19 +23,10 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 ---
 
-## <a href="https://9mothers.com"><img src="https://www.google.com/s2/favicons?domain=9mothers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[9 Mothers](https://9mothers.com)
-
-9 Mothers develops counter-unmanned aerial systems (C-UAS) that provide AI-powered detection, tracking, and defensive capabilities.
-
-- [R&D Test Engineer, Senior](https://jobs.ashbyhq.com/9-mothers/0ef2b8c3-a414-4432-b048-944ceaba0b51) · Austin, Texas · `Senior` `Equity` (May 19)
-
----
-
 ## <a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Abbott](https://abbott.com)
 
 Abbott creates medical devices and healthcare solutions for cardiovascular health, diabetes management, diagnostic testing, nutrition, and chronic pain management.
 
-- [Applied AI Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Applied-AI-Engineer_31151736-1) · `🟢 Remote` `Junior` `$61.3k-$122.7k` (Jun 1)
 - [Sr. Controls Engineer (Warehouse Support)](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---North-Chicago/Sr-Controls-Engineer--Warehouse-Support-_31151062-1) · North Chicago, Illinois · `Senior` `$78k-$156k` (May 29)
 - [IT Systems Analyst](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/IT-Systems-Analyst_31151851-1) · Sturgis, Michigan · `Junior` `$61k-$122k` (May 29)
 - [Process Development Engineer I](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Process-Development-Engineer-II_31144918-1) · Plymouth, Minnesota · `Junior` `$50.7k-$101.3k` (May 29)
@@ -63,22 +54,6 @@ Abridge provides generative AI-powered documentation tools for clinical conversa
 - [Staff Platform Engineer](https://jobs.ashbyhq.com/Abridge/b64d7beb-3f9b-4a65-bb76-ceec5f3c8b11) · San Francisco, California · `Staff` `Equity` (May 22)
 - [Engineering Manager, Model Inference](https://jobs.ashbyhq.com/Abridge/d948060a-3321-4f81-84a7-e8d3840886ec) · San Francisco, California · `Manager` `Equity` (May 20)
 - [Engineering Manager, AI Productivity](https://jobs.ashbyhq.com/Abridge/0e2d345a-8ebd-4d75-96bd-d2f4efcbf801) · San Francisco, California · `Manager` `Equity` (May 20)
-
----
-
-## <a href="https://accelone.com"><img src="https://www.google.com/s2/favicons?domain=accelone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[AccelOne](https://accelone.com)
-
-AccelOne designs, engineers, and launches AI and software products for production, scaling prototypes into commercial-grade systems and embedding nearshore product and engineering teams to help companies ship faster.
-
-- [Technology Generalist – Applications & Cloud Support](https://accelone.breezy.hr/p/cf70f3989b04-technology-generalist-applications-cloud-support) · `🟢 Remote` `Mid` (May 19)
-
----
-
-## <a href="https://actian.com"><img src="https://www.google.com/s2/favicons?domain=actian.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Actian](https://actian.com)
-
-Actian builds a Data Intelligence Platform powered by knowledge graph technology that provides visibility and control over data.
-
-- [DevOps Engineer](https://jobs.lever.co/actian/56c3193f-4db2-4b55-9006-a755674bfbfe) · Round Rock, Texas · `Mid` (May 19)
 
 ---
 
@@ -151,7 +126,7 @@ Airbnb operates a platform offering vacation rentals across 220+ countries and r
 - [Senior Software Engineer, AI Compute](https://careers.airbnb.com/positions/7568919?gh_jid=7568919) · `🟢 Remote` `Senior` `$191k-$225k` `Equity` (Jun 1)
 - [Engineering Manager, Core Entities & Trip Intelligence](https://careers.airbnb.com/positions/7968210?gh_jid=7968210) · `🟢 Remote` `Manager` `$212k-$265k` `Equity` (Jun 1)
 - [Senior Staff Software Engineer, Storage](https://careers.airbnb.com/positions/7702735?gh_jid=7702735) · `🟢 Remote` `Staff` `$244k-$305k` `Equity` (May 30)
-- [Lead Analyst, Advanced Analytics](https://careers.airbnb.com/positions/7967712?gh_jid=7967712) · `🟢 Remote` `Senior` `$164k-$191k` `Equity` (May 29)
+- [Lead, Advanced Analytics, Payments](https://careers.airbnb.com/positions/7967712?gh_jid=7967712) · `🟢 Remote` `Senior` `$164k-$191k` `Equity` (May 29)
 - [Senior Analyst Advanced Analytics](https://careers.airbnb.com/positions/7960519?gh_jid=7960519) · `🟢 Remote` `Senior` `$136k–$160k` `Equity` (May 28)
 - [Staff Frontend Engineer, Client Data & Networking Platform](https://careers.airbnb.com/positions/7962101?gh_jid=7962101) · `🟢 Remote` `Staff` `$204k-$255k` `Equity` (May 28)
 - [Principal AI/ML Researcher / Engineer Reasoning, Planning, and Decision-making systems](https://careers.airbnb.com/positions/7955573?gh_jid=7955573) · `🟢 Remote` `Principal` `$296k–$370k` `Equity` (May 25)
@@ -186,9 +161,8 @@ AirOps builds an AI search and AEO platform that helps content get cited in AI s
 
 ## <a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Alkami](https://alkami.com)
 
+- [Technical Engineering Manager](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000680) · `🟢 Remote` `Manager` `$150k-$180k` (May 27)
 - [Staff Software Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/India-Home-Office---Gurugram/Staff-Software-Engineer_JR-000552) · `🟢 Remote` `Staff` (May 21)
-- [Technical Engineering Manager](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000680) · `🟢 Remote` `Manager` `$150k-$180k` (May 19)
-- [Technical Consultant II](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Consultant-II_JR-000670) · `🟢 Remote` `Senior` `$99k-$109k` (May 19)
 
 ---
 
@@ -215,7 +189,6 @@ Amount is a platform that enables financial institutions to offer deposit, lendi
 
 - [Operations Software Analyst Seniors](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Operations-Software-Analyst-Seniors_JR0307321) · Jacksonville, Florida · `Senior` (May 28)
 - [Engineer Lead, Software](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-BNGL-FL2-3-TWR-3/Engineer-Lead--Software_JR0306943) · Bangalore, India / Jacksonville, Florida · `Senior` (May 20)
-- [Senior API Engineer](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-GA-ATL-201-STE-900/Senior-API-Engineer_JR0305677) · 2 Locations · `Senior` (May 19)
 
 ---
 
@@ -251,7 +224,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Camera Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5153748007?gh_jid=5153748007) · Lexington, Massachusetts · `Mid` `$98k-$130k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5153507007?gh_jid=5153507007) · Waltham, Massachusetts · `Senior` `$220k-$292k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5153788007?gh_jid=5153788007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5150080007?gh_jid=5150080007) · Waltham, Massachusetts · `Senior` `$191k-$253k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Electronics Components Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5025297007?gh_jid=5025297007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5151191007?gh_jid=5151191007) · Costa Mesa, California · `Senior` `$132k-$198k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Industrial Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5088849007?gh_jid=5088849007) · Costa Mesa, California · `Senior` `$129k-$171k` `Equity` (Jun 2)
@@ -259,10 +232,10 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, QualityOS](https://boards.greenhouse.io/andurilindustries/jobs/5152748007?gh_jid=5152748007) · Ashville, Ohio · `🟡 Hybrid` `Senior` `$147k-$195k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Mission Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5152641007?gh_jid=5152641007) · Lexington, Massachusetts · `Senior` `$191k-$253k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Production Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5152640007?gh_jid=5152640007) · Lexington, Massachusetts · `Senior` `$191k-$253k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Network Automation Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5088393007?gh_jid=5088393007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (Jun 2)
+- [Senior Network Automation Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5088393007?gh_jid=5088393007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (Jun 2)
 - [Infrastructure Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5149139007?gh_jid=5149139007) · Costa Mesa, California · `Mid` `$146k-$194k` `Equity` (Jun 1)
 - [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5152317007?gh_jid=5152317007) · Broomfield, Colorado · `Senior` `$166k–$220k` `Equity` (Jun 1)
-- [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5152319007?gh_jid=5152319007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Jun 1)
+- [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5152309007?gh_jid=5152309007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Jun 1)
 - [Systems Engineer, Battlespace ](https://boards.greenhouse.io/andurilindustries/jobs/5152311007?gh_jid=5152311007) · Broomfield, Colorado · `Mid` `$98k-$129k` `Equity` (Jun 1)
 - [Senior GNC Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5148654007?gh_jid=5148654007) · Seattle, Washington · `Senior` `$132k-$198k` `Equity` (Jun 1)
 - [Senior Software Engineer, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5151649007?gh_jid=5151649007) · Irvine, California · `Senior` `$191k-$253k` `Equity` (Jun 1)
@@ -274,11 +247,11 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Software Engineer, Rust](https://boards.greenhouse.io/andurilindustries/jobs/5150957007?gh_jid=5150957007) · Broomfield, Colorado · `Senior` `$165k–$218k` `Equity` (May 30)
 - [Staff Radar Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150700007?gh_jid=5150700007) · Costa Mesa, California · `Staff` `$165k-$218k` `Equity` (May 29)
 - [DevSec Ops Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150346007?gh_jid=5150346007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
-- [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150296007?gh_jid=5150296007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
+- [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150279007?gh_jid=5150279007) · Huntsville, Alabama · `Senior` `$165k-$218k` `Equity` (May 29)
 - [Senior Production Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5150350007?gh_jid=5150350007) · Costa Mesa, California / Washington, D.C. · `Senior` `$191k-$287k` `Equity` (May 29)
 - [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150393007?gh_jid=5150393007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
 - [Senior Research Scientist ](https://boards.greenhouse.io/andurilindustries/jobs/5150395007?gh_jid=5150395007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
-- [Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150327007?gh_jid=5150327007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
+- [Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4820783007?gh_jid=4820783007) · Irvine, California · `Senior` `$191k-$253k` `Equity` (May 29)
 - [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150344007?gh_jid=5150344007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
 - [Senior Systems Engineer (DOORS/Requirements/DO-178) ](https://boards.greenhouse.io/andurilindustries/jobs/5149530007?gh_jid=5149530007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (May 28)
 - [Enterprise Applications Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5148199007?gh_jid=5148199007) · Costa Mesa, California · `Mid` `$129k-$171k` `Equity` (May 28)
@@ -312,22 +285,19 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Senior Systems Engineer, Launched Effects ](https://boards.greenhouse.io/andurilindustries/jobs/5144315007?gh_jid=5144315007) · Costa Mesa, California · `Senior` `$166k-$220k` `Equity` (May 21)
 - [Senior Systems Engineer (Requirements Definition/FW) ](https://boards.greenhouse.io/andurilindustries/jobs/5144304007?gh_jid=5144304007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (May 21)
 - [Senior Detection & Response Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5137999007?gh_jid=5137999007) · Costa Mesa, California · `Senior` `$166k-$220k` `Equity` (May 21)
-- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5144192007?gh_jid=5144192007) · Boston, Massachusetts · `Staff` `$220k-$292k` `Equity` (May 21)
+- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5152095007?gh_jid=5152095007) · Seattle, Washington · `Staff` `$220k-$292k` `Equity` (May 21)
 - [Ground Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5143734007?gh_jid=5143734007) · Colorado Springs, Colorado · `Senior` `$143k-$191k` `Equity` (May 21)
 - [Senior Ground Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5143736007?gh_jid=5143736007) · Colorado Springs, Colorado · `Senior` `$165k-$218k` `Equity` (May 21)
 - [GNC Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5143704007?gh_jid=5143704007) · Waltham, Massachusetts · `Senior` `$166k-$220k` `Equity` (May 21)
 - [Senior Software Engineer (Frontend), Space](https://boards.greenhouse.io/andurilindustries/jobs/5138370007?gh_jid=5138370007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (May 20)
 - [Technical Operations Engineer - SkillBridge](https://boards.greenhouse.io/andurilindustries/jobs/5142401007?gh_jid=5142401007) · Atlanta, Georgia / Boston, Massachusetts / Costa Mesa, California / Seattle, Washington / Washington, D.C. · `Mid` `Equity` (May 20)
-- [Security Communications Systems Architect](https://boards.greenhouse.io/andurilindustries/jobs/5143321007?gh_jid=5143321007) · Washington, D.C. · `Senior` `$146k-$194k` `Equity` (May 20)
+- [Security Communications Systems Architect](https://boards.greenhouse.io/andurilindustries/jobs/5026223007?gh_jid=5026223007) · Ashville, Ohio · `Senior` `$113k-$149k` `Equity` (May 20)
 - [Director of Engineering, Rocket Motor Systems](https://boards.greenhouse.io/andurilindustries/jobs/5142817007?gh_jid=5142817007) · Huntsville, Alabama · `Manager` `$165k-$218k` `Equity` (May 20)
 - [Senior Test & Evaluation Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5062916007?gh_jid=5062916007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (May 20)
 - [Lead Software Architect](https://boards.greenhouse.io/andurilindustries/jobs/5124653007?gh_jid=5124653007) · Broomfield, Colorado · `Senior` `$219k-$290k` `Equity` (May 20)
 - [Senior Detection and Response Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5124512007?gh_jid=5124512007) · Costa Mesa, California · `Senior` `$166k-$220k` `Equity` (May 20)
 - [Senior Software Engineer, Game Development ](https://boards.greenhouse.io/andurilindustries/jobs/4960694007?gh_jid=4960694007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (May 20)
 - [Manager, Development Testing (Drones)](https://boards.greenhouse.io/andurilindustries/jobs/5139009007?gh_jid=5139009007) · Costa Mesa, California · `Manager` `$132k-$198k` `Equity` (May 20)
-- [Staff Quality Engineer, Low Observables](https://boards.greenhouse.io/andurilindustries/jobs/5087130007?gh_jid=5087130007) · Ashville, Ohio · `Staff` `$129k-$171k` `Equity` (May 19)
-- [Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5046465007?gh_jid=5046465007) · Costa Mesa, California · `Senior` `$166k-$220k` `Equity` (May 19)
-- [Staff Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5134293007?gh_jid=5134293007) · Costa Mesa, California · `Staff` `$191k-$253k` `Equity` (May 19)
 
 ---
 
@@ -350,11 +320,11 @@ Anthem Health provides health insurance plans for Medicare, medical coverage, de
 - [Business Information Developer Consulant](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Developer-Consulant_JR193852) · Norfolk, Virginia · `🟡 Hybrid` `Mid` (Jun 1)
 - [Data Engineer-Secure Data Pipelines](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Engineer-Secure-Data-Pipelines_JR191679-1) · Indianapolis, Indiana · `🟡 Hybrid` `Mid` (May 30)
 - [Senior AI Engineer](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Senior-AI-Engineer_JR183677) · Illinois · `🟡 Hybrid` `Senior` `$156k-$235k` `Equity` (May 29)
+- [Engineer Senior](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Engineer-Senior_JR194446-1) · Indianapolis, Indiana · `🟡 Hybrid` `Senior` (May 28)
 - [Provider Analytics Consultant](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Provider-Analytics-Consultant_JR188396-1) · 4 Locations · `🟡 Hybrid` `Senior` (May 26)
 - [Information Security Sr Advisor - Automation Engineer](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Sr-Advisor---Automation-Engineer_JR192108) · Atlanta, Georgia / Mason, Ohio / Indianapolis, Indiana / Norfolk, Virginia / Louisville, Kentucky · `🟡 Hybrid` `Senior` (May 26)
 - [Information Security Sr Advisor - Data Protection Engineer](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Sr-Advisor---Data-Protection-Engineer_JR192107) · Atlanta, Georgia / Grand Prairie, Texas / Mason, Ohio / Indianapolis, Indiana / Tampa, Florida / Norfolk, Virginia · `🟡 Hybrid` `Senior` (May 26)
 - [Information Security Advisor - Network Decryption Engineer](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Advisor---Network-Decryption-Engineer_JR192105) · Indianapolis, Indiana / Atlanta, Georgia / Mason, Ohio / Tampa, Florida / Grand Prairie, Texas · `🟡 Hybrid` `Senior` (May 20)
-- [Engineer Senior](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Engineer-Senior_JR194446-1) · Indianapolis, Indiana · `🟡 Hybrid` `Senior` (May 19)
 
 ---
 
@@ -413,7 +383,7 @@ Archer is an aerospace company based in San Jose, California that designs, manuf
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sensor Modeling Engineer](https://job-boards.greenhouse.io/archer56/jobs/7740910003) · `🟢 Remote` `Mid` `$140k-$180k` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Artificial Intelligence Research Engineer (SJ2026KP)](https://job-boards.greenhouse.io/archer56/jobs/7761437003) · San Jose, California · `Staff` `$237.5k-$249.375k` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer, Backend](https://job-boards.greenhouse.io/archer56/jobs/7499023003) · San Jose, California · `Staff` `$172.8k-$210k` (Jun 2)
+- [Staff Software Engineer, Backend](https://job-boards.greenhouse.io/archer56/jobs/7499023003) · San Jose, California · `Staff` `$172.8k-$210k` (Jun 2)
 - [Rotor/Hub Structural Analyst](https://job-boards.greenhouse.io/archer56/jobs/7736340003) · San Jose, California · `Senior` `$125k-$160k` (May 28)
 - [Staff Software Engineer, BMS](https://job-boards.greenhouse.io/archer56/jobs/7740909003) · San Jose, California · `Staff` `$170k-$215k` (May 28)
 - [Staff Software Engineer, EEC](https://job-boards.greenhouse.io/archer56/jobs/7740913003) · San Jose, California · `Staff` `$170k-$215k` (May 28)
@@ -470,7 +440,6 @@ Astronomer provides Astro, a platform for building, running, and observing Apach
 Atom Computing builds quantum computers using arrays of optically trapped neutral atoms.
 
 - [Senior Infrastructure Engineer](https://jobs.lever.co/atomcomputing/163f6c41-d684-4b64-ab08-f93789a989ce) · Boulder, Colorado · `🟡 Hybrid` `Senior` (May 31)
-- [Software Engineering Manager](https://jobs.lever.co/atomcomputing/02bd7eb1-3a7b-40f9-8334-c0bbfc3598e1) · Boulder, Colorado · `🟡 Hybrid` `Manager` (May 28)
 
 ---
 
@@ -495,7 +464,6 @@ AvePoint provides data protection solutions.
 AVEVA provides solutions and expertise for engineering, operations, and performance optimization.
 
 - [Tech Support Engineer](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/CoE-Support-Engineer_R014052) · Lake Forest, California · `🟡 Hybrid` `Mid` `$82k-$137k` (May 25)
-- [Senior Software Engineer (C++ and C#)](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Calgary-Canada/Senior-Software-Engineer--C---and-C--_R013964) · Calgary, Canada / Houston, Texas · `🟡 Hybrid` `Senior` `$124k-$207k` (May 19)
 
 ---
 
@@ -528,7 +496,7 @@ Barn2Door provides online platforms that enable local farms to sell their produc
 
 Baseten provides an inference platform for serving and scaling open-source and custom AI models.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer- BIS (Baseten Inference Stack)](https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73) · San Francisco, California · `Mid` `Equity` (Jun 2)
+- [Software Engineer- BIS (Baseten Inference Stack)](https://jobs.ashbyhq.com/baseten/c8701794-bdc1-4932-bffa-a444ce57ed73) · San Francisco, California · `Mid` `Equity` (Jun 2)
 - [Data Center Network Engineer](https://jobs.ashbyhq.com/baseten/8570f34d-edfe-4bc2-b2b1-eda37155eddb) · San Francisco, California · `Senior` `Equity` (May 21)
 
 ---
@@ -548,14 +516,6 @@ Baton Market is a business brokerage platform that helps users buy and sell busi
 
 - [Software Engineer](https://jobs.ashbyhq.com/Baton/acc4eb72-7d41-4c19-a099-c9fe4b4307a0) · New York, New York · `Mid` `Equity` (Jun 1)
 - [Senior Software Engineer](https://jobs.ashbyhq.com/Baton/12c9b4a1-d31a-435c-a3b0-a2d3f8aa7358) · New York, New York · `🟡 Hybrid` `Mid` `Equity` (May 31)
-
----
-
-## <a href="https://bearrobotics.ai"><img src="https://www.google.com/s2/favicons?domain=bearrobotics.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Bear Robotics](https://bearrobotics.ai)
-
-Bear Robotics builds service robots and industrial autonomous mobile robots (AMRs) for hospitality and logistics operations.
-
-- [Software Engineering Intern, Systems](https://bear-robotics.breezy.hr/p/861b391f128a-software-engineering-intern-systems) · Redwood City, California · `Intern` (May 19)
 
 ---
 
@@ -642,15 +602,6 @@ BlackSky owns and operates a space-based intelligence platform that provides sat
 Bland AI builds an enterprise platform that makes AI phone calls.
 
 - [Forward Deployed Engineer](https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70) · San Francisco, California · `🟡 Hybrid` `Mid` `$120k-$180k` `Equity` (May 28)
-
----
-
-## <a href="https://www.blissway.com"><img src="https://www.google.com/s2/favicons?domain=www.blissway.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Blissway](https://www.blissway.com)
-
-Blissway provides roadside tolling infrastructure that can be deployed in weeks with no upfront cost to agencies.
-
-- [Software Engineer, Data Assembly](https://jobs.ashbyhq.com/blissway/284c1d9a-b688-4e60-bd28-e4ba2e757428) · Denver, Colorado · `🟡 Hybrid` `Mid` `Equity` (May 19)
-- [Software Engineer, Vehicle Identification](https://jobs.ashbyhq.com/blissway/3d5fea85-bb9d-466c-a483-52a58b0932d6) · Denver, Colorado · `🟡 Hybrid` `Mid` `Equity` (May 19)
 
 ---
 
@@ -787,8 +738,6 @@ The Boeing Company develops, manufactures, and services commercial airplanes, de
 - [Senior Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Product-Security-Engineer_JR2026499076) · Berkeley, Missouri · `Senior` `$162k - $276k` (May 20)
 - [Associate or Experienced Cloud and Software Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Associate-or-Experienced-Cloud-and-Software-Security-Engineer_JR2026503506-1) · Daytona Beach, Florida · `Mid` `$95k-$161k` (May 20)
 - [Autonomy Engineer (Mid Career) - Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Autonomy-Engineer--Mid-Career----Millennium-Space-Systems_JR2025489859-1) · El Segundo, California · `Senior` `$104k-$172k` (May 20)
-- [Lead Software Systems Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Lead-Software-Systems-Engineer_JR2026511123-1) · Tukwila, Washington · `Senior` `$171k-$232k` (May 19)
-- [Networking & Distributed Systems Researcher – Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Networking---Distributed-Systems-Researcher---Product-Security-Engineer_JR2026511017) · Huntington Beach, California · `Mid` `$123k-$186k` (May 19)
 
 ---
 
@@ -906,21 +855,16 @@ Booz Allen Hamilton provides consulting and technology services for civil, defen
 - [Ground System Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Ground-System-Engineer_R0240603) · 2 Locations · `Senior` `$99k-$225k` (May 20)
 - [Systems Administrator, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wright-Patterson-AFB-OH/Systems-Administrator--Senior_R0240583) · Wright Patterson AFB, Ohio · `Senior` `$77k-$176k` (May 20)
 - [Full Stack Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Full-Stack-Software-Engineer_R0240781) · 2 Locations · `Senior` `$86k-$198k` (May 20)
+- [AI Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Software-Development-Engineer--Senior_R0238303) · Washington, D.C. · `Mid` `$69k-$158k` (May 20)
 - [Software Test Automation and QA Developer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Laurel-MD/Software-Test-Automation-and-QA-Developer--Senior_R0240586) · 2 Locations · `🟡 Hybrid` `Senior` `$86k-$198k` (May 20)
 - [Azure Cloud Administrator](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Azure-Cloud-Administrator_R0240587) · Camp Lejeune, North Carolina · `Mid` `$69k-$158k` (May 20)
+- [Cloud Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cloud-Engineer_R0241234) · 2 Locations · `Mid` `$69.4k-$158k` (May 20)
 - [Laser Physicist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Laser-Physicist_R0238910) · Colorado Springs, Colorado · `Mid` `$69k-$158k` (May 20)
+- [Data Scientist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0241354) · 2 Locations · `Mid` `$77k-$176k` (May 20)
 - [Software Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Software-Engineer--Mid_R0240263) · 2 Locations · `Mid` `$69k-$158k` (May 20)
 - [Software Test Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Software-Test-Engineer_R0240564) · Chantilly, Virginia · `Senior` `$99k-$225k` (May 20)
 - [Databricks Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Databricks-Engineer--Mid_R0232557) · McLean, Virginia · `Mid` `$62k-$141k` (May 20)
 - [Wireless Infrastructure Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Wireless-Infrastructure-Engineer--Mid_R0233198) · McLean, Virginia · `Mid` `$62k-$141k` (May 20)
-- [Data Scientist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0241354) · 2 Locations · `Mid` `$77k-$176k` (May 19)
-- [Cloud Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cloud-Engineer_R0241234) · 2 Locations · `Mid` `$69.4k-$158k` (May 19)
-- [AI Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/AI-ML-Infrastructure-Software-Development-Engineer_R0238288) · Washington, D.C. · `Senior` `$86k-$198k` (May 19)
-- [Platform DevOps Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Platform-DevOps-Engineer_R0238776) · 3 Locations · `Mid` `$61k-$141k` (May 19)
-- [Cloud Computing Application Architect, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Cloud-Computing-Application-Architect--Senior_R0230943) · 2 Locations · `Senior` `$86.8k-$198k` (May 19)
-- [Mission Systems Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Mission-Systems-Software-Engineer_R0240457) · Rome, New York · `🟡 Hybrid` `Senior` `$69k-$158k` (May 19)
-- [Microelectronics Reliability Lab Support Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wright-Patterson-AFB-OH/Microelectronics-Reliability-Lab-Support-Engineer_R0240414) · Wright Patterson AFB, Ohio · `Junior` `$61k-$141k` (May 19)
-- [Cloud Infrastructure Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cloud-Infrastructure-Engineer_R0240283) · Colorado Springs, Colorado / Washington, D.C. · `🟡 Hybrid` `Senior` `$86k-$198k` (May 19)
 
 ---
 
@@ -934,7 +878,6 @@ Boston Dynamics builds robots for automation tasks.
 - [Senior Staff Embedded Linux Software Engineer](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Senior-Staff-Embedded-Linux-Software-Engineer_R2792) · Waltham, Massachusetts · `Staff` `$151k-$193k` (May 27)
 - [Senior Staff Machine Learning Engineer](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Senior-Staff-Machine-Learning-Engineer_R2781) · Waltham, Massachusetts · `Staff` `$154k-$222k` (May 21)
 - [Software Engineer in Test, Humanoid Robotics](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Software-Quality-Automation-Engineer_R2777) · Waltham, Massachusetts · `Mid` `$90k-$111k` (May 20)
-- [Sr. Staff, ML Engineer R&D](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Sr-Staff--ML-Engineer-R-D_R2750) · Waltham, Massachusetts · `Staff` `$173k-$225k` (May 19)
 
 ---
 
@@ -988,6 +931,7 @@ Capella Space, an IonQ company, operates synthetic aperture radar satellites and
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Lead Front End Engineer - Capital One Software (Remote)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Lead-Front-End-Engineer---Capital-One-Software--Remote-_R243305-1) · `🟢 Remote` `Senior` `$179k-$204k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Director, Data Scientist](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Data-Scientist_R243711-2) · McLean, Virginia / New York, New York · `Manager` `$269k-$335k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Lead Data Engineer (Java, Python, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Data-Engineer--Java--Python--AWS-_R243700-1) · Plano, Texas · `Senior` `$179k-$204k` `Equity` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Lead Machine Learning Engineer (Intelligent Foundations and Experiences)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Machine-Learning-Engineer--Intelligent-Foundations-and-Experiences-_R243624-1) · Cambridge, Massachusetts / McLean, Virginia / New York, New York / Richmond, Virginia · `Senior` `$209k-$286.2k` `Equity` (Jun 2)
 - [Principal Associate, Data Science - AI Foundations](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science---AI-Foundations_R240794-1) · McLean, Virginia / Cambridge, Massachusetts / New York, New York / San Jose, California · `Senior` `$161k-$201k` `Equity` (Jun 1)
 - [Lead AI Engineer (FM Hosting, LLM Inference)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Lead-AI-Engineer--FM-Hosting--LLM-Inference-_R243635-1) · Cambridge, Massachusetts / McLean, Virginia / New York, New York / San Jose, California · `Senior` `$197k-$245k` `Equity` (Jun 1)
 - [Manager, Data Scientist, Travel Intelligence, Flights](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist--Travel-Intelligence--Flights_R243591-1) · McLean, Virginia / New York, New York · `Manager` `$197k-$245k` (Jun 1)
@@ -1057,12 +1001,6 @@ Capella Space, an IonQ company, operates synthetic aperture radar satellites and
 - [Distinguished Engineer - Card](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Distinguished-Engineer---Card_R242888-1) · McLean, Virginia / Richmond, Virginia · `Principal` `$244k-$307k` `Equity` (May 20)
 - [Senior Software Engineer, Salesforce (Global Payment Network)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Senior-Software-Engineer--Salesforce--Global-Payment-Network-_R243026-1) · Houston, Texas / Riverwoods, Illinois · `Senior` `$147k-$167k` `Equity` (May 20)
 - [Lead Software Engineer, Back End (Distributed Data & Computing Tools) (Cloud Operations Resilience Engineering)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Lead-Software-Engineer--Back-End--Distributed-Data---Computing-Tools---Cloud-Operations-Resilience-Engineering-_R242984-1) · McLean, Virginia / Plano, Texas / Richmond, Virginia · `Senior` `$179k-$225k` `Equity` (May 20)
-- [Senior Lead Machine Learning Engineer (Intelligent Foundations and Experiences)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Lead-Machine-Learning-Engineer--Intelligent-Foundations-and-Experiences-_R243624-1) · Cambridge, Massachusetts / McLean, Virginia / New York, New York / Richmond, Virginia · `Senior` `$209k-$286.2k` `Equity` (May 19)
-- [Principal Associate, Quantitative Analysis](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Quantitative-Analysis_R242927-1) · McLean, Virginia · `🟡 Hybrid` `Senior` (May 19)
-- [Lead Software Engineer, Full Stack (Risk Tech)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack--Risk-Tech-_R242567-2) · McLean, Virginia / Richmond, Virginia · `Senior` `$179k-$225k` `Equity` (May 19)
-- [Sr. Lead, Software Engineer, Back End (Python, Spark, AWS) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Sr-Lead--Software-Engineer--Back-End--Python--Spark--AWS---Enterprise-Platforms-Technology-_R242869-1) · McLean, Virginia / Richmond, Virginia · `Manager` `$209k-$262.4k` `Equity` (May 19)
-- [Sr. Lead, Software Engineer, Full Stack (Python, Node, AWS) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Sr-Lead--Software-Engineer--Full-Stack--Python--Node--AWS---Enterprise-Platforms-Technology-_R242873-1) · McLean, Virginia / Richmond, Virginia · `Senior` `$209k-$262.4k` `Equity` (May 19)
-- [Lead Software Engineer (Go, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Go--AWS-_R242881-1) · McLean, Virginia · `Manager` `$197k-$225k` `Equity` (May 19)
 
 ---
 
@@ -1165,7 +1103,6 @@ ClickHouse builds a real-time analytics and data warehousing platform used for a
 - [Principal Software Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/6001254004) · `🟢 Remote` `Principal` `$140k-$200k` `Equity` (May 21)
 - [Senior Software Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5996144004) · `🟢 Remote` `Senior` `$140k-$208k` `Equity` (May 21)
 - [Senior Analytics Engineer, GTM](https://job-boards.greenhouse.io/clickhouse/jobs/6000537004) · San Francisco, California · `🟡 Hybrid` `Senior` `$175k–$219k / $195k–$244k` `Equity` (May 20)
-- [Senior Software Engineer (Typescript / FrontEnd) - AI/ML](https://job-boards.greenhouse.io/clickhouse/jobs/5996876004) · `🟢 Remote` `Senior` `$141k–$232k` `Equity` (May 19)
 
 ---
 
@@ -1196,8 +1133,6 @@ Cloudera provides a hybrid data and AI platform that operates across clouds, dat
 - [Staff Software Engineer, AI](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-San-Jose/Staff-Software-Engineer--AI_260103-2) · San Jose, California · `🟡 Hybrid` `Staff` `$184k-$230k` `Equity` (May 20)
 - [Sr. Staff Engineer](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Sr-Staff-Engineer_260782-1) · `🟢 Remote` `Staff` `$213k-$266k` (May 20)
 - [Principal Software Engineer - Spark](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-San-Jose/Principal-Software-Engineer---Spark_260363-1) · San Jose, California · `🟡 Hybrid` `Principal` `$270k-$320k` (May 20)
-- [Staff Platform Engineer - Taikun & Kubernetes support - K8S, RKE and Longhorn](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Czech-Republic--Remote/Staff-Software-Developer---Taikun---Kubernetes-support---K8S--RKE-and-Longhorn_251585-1) · 5 Locations · `🟡 Hybrid` `Staff` (May 19)
-- [Staff Software Engineer](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--Texas--Austin/Staff-Software-Engineer_251458) · Austin, Texas · `🟡 Hybrid` `Staff` (May 19)
 
 ---
 
@@ -1279,7 +1214,6 @@ Collectors builds infrastructure for the collectibles market that handles trust,
 Colliers provides professional services and investment management.
 
 - [Director Software Engineering](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/Director-Software-Engineering_JR17872) · Toronto, ON · `🟡 Hybrid` `Manager` (May 26)
-- [AI Engineer](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Toronto-Ontario-Canada/AI-Engineer_JR17755) · Toronto, ON · `🟡 Hybrid` `Mid` `$129k-$142k CAD` (May 19)
 
 ---
 
@@ -1293,20 +1227,11 @@ CommerceIQ provides a unified AI platform that helps retailers streamline sales,
 
 ---
 
-## <a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Commure](https://commure.com)
-
-Athelas makes an AI-driven revenue cycle management, electronic health records, and ambient AI platform for healthcare businesses.
-
-- [Senior Forward Deployed Engineer](https://jobs.ashbyhq.com/commure/61965fb1-439b-4d66-9d75-ab7b0197b705) · Mountain View, California · `Senior` (May 19)
-
----
-
 ## <a href="https://companycam.com"><img src="https://www.google.com/s2/favicons?domain=companycam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[CompanyCam](https://companycam.com)
 
 CompanyCam provides photo documentation and AI tools that allow field teams to capture work, track job progress, and communicate between field and office locations.
 
 - [Manager, Product Analytics & Data Science](https://companycam.com/job?gh_jid=7738365003) · `🟢 Remote` `Manager` `$160k-$176k` `Equity` (May 21)
-- [Senior Infrastructure Engineer](https://companycam.com/job?gh_jid=7739965003) · `🟢 Remote` `Senior` `$200k-$210k` `Equity` (May 19)
 
 ---
 
@@ -1379,8 +1304,6 @@ CrowdStrike provides a cloud-native cybersecurity platform that protects endpoin
 - [Sr. Product Security Engineer, Network and Infrastructure](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Network-and-Infrastructure_R28851) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (May 21)
 - [CrowdStrike Next-Gen SIEM Associate Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-FL/CrowdStrike-Next-Gen-SIEM-Associate-Consultant--Remote-_R27456) · `🟢 Remote` `Junior` `$70k-$95k` `Equity` (May 20)
 - [Applied AI Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Applied-AI-Developer--Remote-_R28473-1) · `🟢 Remote` `Mid` `$125k-$180k` `Equity` (May 20)
-- [Sr. Engineer - Cloud SDET - Lightning (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-III---Cloud-SDET---Lightning--Remote-_R24950) · Sunnyvale, California · `🟡 Hybrid` `Senior` `$140k-$215k` `Equity` (May 19)
-- [Sr. Manager, Engineering (Hybrid, Sunnyvale)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Manager--Engineering--Hybrid--Sunnyvale-_R28596) · Sunnyvale, California · `🟡 Hybrid` `Manager` `$160k-$250k` `Equity` (May 19)
 
 ---
 
@@ -1414,12 +1337,11 @@ d-Matrix builds software and hardware for generative AI applications. The compan
 
 Databricks builds a data and AI platform that helps customers develop, deploy, and optimize generative AI applications and machine learning models at scale.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Staff Software Engineer — Observability, Insights & Governance](https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002) · Bellevue, Washington / Seattle, Washington · `Staff` `$217k–$298k` `Equity` (Jun 2)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Staff Software Engineer — Observability, Insights & Governance](https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002) · San Francisco, California / Mountain View, California · `Staff` `$228k–$314k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002) · Washington, D.C. / Maryland / Virginia · `🟡 Hybrid` `Senior` `$185k–$255k` `Equity` (Jun 2)
 - [Sr. Manager, Engineering  Configuration Platform Team](https://databricks.com/company/careers/open-positions/job?gh_jid=8567602002) · Bellevue, Washington · `Manager` `$222k-$300k` `Equity` (May 28)
 - [Manager, Delivery Solutions Architects - Financial Services](https://databricks.com/company/careers/open-positions/job?gh_jid=8565280002) · Georgia / Illinois / New York / Washington, D.C. · `Manager` `$197k-$270k` `Equity` (May 27)
 - [Sr. Staff AI Research TLM - AI Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=8557780002) · San Francisco, California / Mountain View, California · `Principal` `$270k-$340k` `Equity` (May 20)
-- [Sr. Staff Software Engineer - Managed Tables ](https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002) · Mountain View, California · `Staff` `$228k-$314k` `Equity` (May 19)
 
 ---
 
@@ -1478,7 +1400,6 @@ Disco builds AI-driven legal software and services that are cloud-based solution
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Enterprise AI Platform Engineer](https://www.csdisco.com/careers-listing?gh_jid=8573237002) · Austin, Texas · `Senior` `Equity` (Jun 2)
 - [Compliance Engineer](https://www.csdisco.com/careers-listing?gh_jid=8569904002) · `🟢 Remote` `Senior` `Equity` (May 28)
-- [AI Transformation Lead](https://www.csdisco.com/careers-listing?gh_jid=8556714002) · Austin, Texas · `Senior` `Equity` (May 19)
 
 ---
 
@@ -1635,7 +1556,6 @@ Epic Games creates Fortnite, Unreal Engine, and the Epic Games Store, and builds
 - [Senior AI Engineer](https://epicgames.com/careers/jobs/6001641004?gh_jid=6001641004) · Cary, North Carolina · `Senior` (May 22)
 - [Senior AI Programmer](https://epicgames.com/careers/jobs/6004763004?gh_jid=6004763004) · Vancouver, Canada · `Senior` `$166k–$243k CAD` (May 22)
 - [Senior UI Programmer](https://epicgames.com/careers/jobs/6001649004?gh_jid=6001649004) · Cary, North Carolina · `Senior` (May 22)
-- [Principal Engineer, AI Platform](https://epicgames.com/careers/jobs/5996485004?gh_jid=5996485004) · Cary, North Carolina · `Principal` (May 19)
 
 ---
 
@@ -1661,7 +1581,6 @@ Epirus makes high-power microwave systems that use directed energy and AI-based 
 Etched builds AI inference systems with custom ASICs designed specifically for transformers, delivering higher performance and lower cost and latency compared to GPU alternatives. The company's hardware enables applications like real-time video generation and complex reasoning agents that would be impractical with GPUs.
 
 - [Emulation Engineer](https://jobs.ashbyhq.com/Etched/bab9e9c5-d0b0-4bac-b784-20a177a6fc3a) · San Jose, California · `Senior` `$150k-$275k` (Jun 1)
-- [Accelerator Software Engineer](https://jobs.ashbyhq.com/Etched/8e280db7-f954-4467-b3ea-b9b4386d6632) · San Jose, California · `Mid` (May 19)
 
 ---
 
@@ -1704,7 +1623,7 @@ Federato builds an AI-native insurance platform that handles the full policy lif
 
 Feedonomics optimizes product feed data to display products across multiple shopping discovery channels.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data Solutions Developer](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/Austin-TX/Senior-Data-Solutions-Developer_JR102680) · Austin, Texas · `🟡 Hybrid` `Senior` `$111k-$167k` `Equity` (Jun 2)
+- [Senior Data Solutions Developer](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/Austin-TX/Senior-Data-Solutions-Developer_JR102680) · Austin, Texas · `🟡 Hybrid` `Senior` `$111k-$167k` `Equity` (Jun 2)
 - [Senior Software Engineer (Full Stack)](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Senior-Software-Engineer--Full-Stack-_JR102665-1) · `🟢 Remote` `Senior` `$135k-$203k` `Equity` (May 28)
 - [Manager, Software Engineering](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Manager--Software-Engineering_JR102675) · `🟢 Remote` `Manager` `$164k-$247k` `Equity` (May 27)
 - [Software Engineer II](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Software-Engineer-II_JR102599) · `🟢 Remote` `Mid` `$124k-$193k` `Equity` (May 20)
@@ -1742,7 +1661,7 @@ Firecrawl provides an API for searching, scraping, and interacting with web cont
 
 First American Financial Corporation provides title insurance and settlement services for real estate transactions including home purchases, refinances, equity loans, and commercial property deals.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Manager, Application Security (Remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Senior-Manager--Application-Security--Remote-_R056765-1) · `🟢 Remote` `Manager` `$148k-$198k` (Jun 2)
+- [Senior Manager, Application Security (Remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Senior-Manager--Application-Security--Remote-_R056765-1) · `🟢 Remote` `Manager` `$148k-$198k` (Jun 2)
 - [Appian Engineer (Low Code) - Remote](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Rosa/Appian-Engineer--Low-Code----Remote_R055901) · `🟢 Remote` `Mid` `$121k-$132k` (May 29)
 - [AI Undergraduate Internship](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/AI-Undergraduate-Internship_R056023) · 2 Locations · `Intern` `$48k-$56k` (May 26)
 - [Senior Salesforce Developer (Remote)](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Salesforce-Developer--Remote-_R056722) · `🟢 Remote` `Senior` `$148k - $198k` (May 22)
@@ -1790,6 +1709,7 @@ Frame.io is a platform that centralizes files, feedback, and people to help team
 - [Senior Computer Scientist 1](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist-1_R169191-1) · 2 Locations · `Senior` (May 29)
 - [Full Stack Software Engineer 3](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Full-Stack-Software-Engineer-3_R167823) · `🟢 Remote` `Mid` `$114.1k-$214.95k` `Equity` (May 29)
 - [Senior Software Development Engineer, SDK & Cloud Data Platform Engineering](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer--SDK---Cloud-Data-Platform-Engineering_R166590-1) · `🟢 Remote` `Senior` `$173k-$331k` `Equity` (May 26)
+- [Product Security Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Security-Engineer_R165070-1) · San Jose, California · `Mid` `$122.9k-$216.3k` `Equity` (May 26)
 - [Senior Applied Scientist](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R169113-1) · `🟢 Remote` `Senior` `$142.7k-$270.95k` `Equity` (May 26)
 - [Mgr, Software Development](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Mgr--Software-Development_R169043) · 2 Locations · `Manager` (May 26)
 - [Sr. Software Development Engineer 5.5](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Development-Engineer-55_R168185-1) · San Jose, California · `Senior` `$173k-$331k` `Equity` (May 25)
@@ -1816,12 +1736,6 @@ Frame.io is a platform that centralizes files, feedback, and people to help team
 - [Senior Software Development Engineer, Agent Workflows, Firefly Boards](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer--Agent-Workflows--Firefly-Boards_R169100) · San Jose, California · `Senior` `$173.5k-$331.05k` `Equity` (May 21)
 - [Director, ML Engineering](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Director--ML-Engineering_R169097) · Multiple US locations · `Manager` `$206k-$384k` `Equity` (May 21)
 - [Software Development and Test Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-and-Test-Engineer_R168923-1) · San Jose, California · `Senior` `$114k-$214k` `Equity` (May 20)
-- [Sr Applied Scientist, Generative AI/ML](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Sr-Applied-Scientist--Generative-AI-ML_R161947) · Seattle, Washington · `Senior` `$142k-$270k` `Equity` (May 19)
-- [Product Security Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Security-Engineer_R165070-1) · San Jose, California · `Mid` `$122.9k-$216.3k` `Equity` (May 19)
-- [Researcher/ML Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Researcher-ML-Engineer_R169016) · San Jose, California · `Mid` `$183k-$265k` `Equity` (May 19)
-- [Quality Engineer, Nextcam](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Quality-Engineer--Nextcam_R167732) · San Jose, California · `Mid` `$139k-$257.5k` `Equity` (May 19)
-- [Sr Machine Learning Engineer, Adobe Firefly Services](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Machine-Learning-Engineer--Adobe-Firefly-Services_R168917) · `🟢 Remote` `Senior` `$151.8k-$265.35k` `Equity` (May 19)
-- [Staff Applied Scientist](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Applied-Scientist_R168482) · San Jose, California · `Senior` `$164k-$313.3k` `Equity` (May 19)
 
 ---
 
@@ -1849,7 +1763,6 @@ GameChanger offers live streaming, sports team management, and scorekeeping serv
 Gecko Robotics builds AI and robotic systems that organizations use to build, operate, and maintain critical infrastructure.
 
 - [Software Engineer | Data Platform](https://jobs.ashbyhq.com/gecko-robotics/9fcb98dc-cfb5-4ccb-8930-7e3c2b5ab368) · New York, New York · `🟡 Hybrid` `Senior` `Equity` (May 27)
-- [Field Software Engineer | Manufacturing ](https://jobs.ashbyhq.com/gecko-robotics/5975c3b1-5360-4f1c-ae79-d633cb22397d) · Boston, Massachusetts · `Senior` `Equity` (May 19)
 
 ---
 
@@ -1863,7 +1776,7 @@ General Dynamics Information Technology delivers technology solutions and missio
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Systems Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-TX-Fort-Hood---Fort-Hood-TXC002/Sensor-Integration-and-Data-Fusion-Lab-Manager_RQ221484) · Fort Hood, Texas · `Senior` `$110k-$149k` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Cybersecurity Systems Engineer/Information Systems Security Engineer (ISSE) - TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-DC-Washington/Cybersecurity-Systems-Engineer-Information-Systems-Security-Engineer--ISSE----TS-SCI-with-Polygraph_RQ221401-2) · Elkridge, Maryland / Washington, D.C. · `Senior` `$164k-$213k` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Software-Developer_RQ221033) · `🟢 Remote` `Senior` `$142k-$189k` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Data Scientist Senior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Data-Scientist-Senior_RQ221091-2) · `🟢 Remote` `Senior` `$127k-$172k` (Jun 2)
+- [Data Scientist Senior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Data-Scientist-Senior_RQ221091-2) · `🟢 Remote` `Senior` `$127k-$172k` (Jun 2)
 - [Software Engineer 3](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-3_RQ221446-1) · Annapolis Junction, Maryland · `Senior` `$175k-$238k` (Jun 1)
 - [System Engineer 3](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/System-Engineer-3_RQ221449-2) · Annapolis Junction, Maryland · `🟡 Hybrid` `Senior` `$193.8k-$262.2k` (Jun 1)
 - [UI/UX Web Developer - TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/UI-UX-Web-Developer---TS-SCI-with-Polygraph_RQ220932-1) · Chantilly, Virginia · `Senior` `$164k-$165k` (Jun 1)
@@ -1937,11 +1850,6 @@ General Dynamics Information Technology delivers technology solutions and missio
 - [Cyber Security Analyst Sr](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-CA-Beale-AFB/Cyber-Security-Analyst-Sr_RQ220498) · Beale AFB, California · `Senior` `$93k-$118k` (May 20)
 - [Senior  Software Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior--Software-Developer_RQ215981) · `🟢 Remote` `Principal` `$169k-$229k` (May 20)
 - [Full-Stack Software Developer - TS/SCI w/Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Herndon/Full-Stack-Software-Developer---TS-SCI-w-Polygraph_RQ219953-1) · Herndon, Virginia · `Senior` `$161.5k-$218.5k` (May 20)
-- [Network Security Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Home-Office-MDHOME/Security-Engineer_RQ220217-1) · `🟢 Remote` `Senior` `$131750-$178250` (May 19)
-- [Network Engineer Principal](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Network-Engineer-Principal_RQ220396-2) · Chantilly, Virginia · `Principal` `$111k-$150k` (May 19)
-- [Software Programmer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-AL-Daleville/Software-Programmer_RQ219232-1) · Daleville, Alabama · `Junior` `$72k-$97k` (May 19)
-- [Senior Azure Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2) · `🟢 Remote` `Senior` `$149k-$184k` (May 19)
-- [Software Engineer - TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer---TS-SCI-with-Polygraph_RQ219637-1) · Chantilly, Virginia · `Senior` `$186k-$252k` (May 19)
 
 ---
 
@@ -2010,16 +1918,6 @@ Grafana Labs builds Grafana, an open-source visualization tool used by over 20 m
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer | Canada |Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6011797004) · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity` (Jun 2)
 - [Staff Backend Engineer - Grafana Enterprise | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6007413004) · `🟢 Remote` `Staff` `$186k-$223k CAD` `Equity` (May 28)
 - [Staff Backend Engineer - Grafana Enterprise | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004) · `🟢 Remote` `Staff` `$174k-$209k` `Equity` (May 28)
-- [Senior Manager, Web Technology | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5999968004) · `🟢 Remote` `Manager` `$186k CAD-$223k CAD` `Equity` (May 19)
-- [Senior Manager, Web Technology | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5999936004) · `🟢 Remote` `Manager` `$183k-$220k` `Equity` (May 19)
-
----
-
-## <a href="https://grata.com"><img src="https://www.google.com/s2/favicons?domain=grata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grata](https://grata.com)
-
-Grata provides a platform for sourcing deals, streamlining diligence processes, and connecting with other participants in private markets.
-
-- [Director of Platform Engineering](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City---BlueFlame-AI--Grata/Director-of-Platform-Engineering_R36178) · New York, New York · `🟡 Hybrid` `Manager` `$170k-$297.2k` (May 19)
 
 ---
 
@@ -2082,9 +1980,7 @@ Haven Studios builds games for PlayStation, including a new multiplayer IP desig
 
 ---
 
-## <a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Headspace Health](https://headspacehealth.com)
-
-Headspace Health delivers mental health care services including mindfulness and clinical support to organizations and their members.
+## <a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Headspace](https://headspace.com)
 
 - [Senior Engineering Manager, Core Platform](https://job-boards.greenhouse.io/hs/jobs/7964329) · San Francisco, California / New York, New York / Seattle, Washington · `🟢 Remote` `Manager` `$162k-$225k (or $207k-$258.75k depending on location)` `Equity` (Jun 1)
 - [Senior Software Engineer, Backend](https://job-boards.greenhouse.io/hs/jobs/7974975) · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$195k` `Equity` (Jun 1)
@@ -2106,7 +2002,6 @@ Hightouch provides a marketing platform with a composable CDP that uses AI to he
 
 - [Software Engineer - AI Productivity](https://job-boards.greenhouse.io/hightouch/jobs/5809895004) · `🟢 Remote` `Staff` `$180k-$320k` `Equity` (Jun 1)
 - [Software Engineer, Native Delivery](https://job-boards.greenhouse.io/hightouch/jobs/6004706004) · New York, New York / San Francisco, California · `🟢 Remote` `Senior` `$180k-$320k` `Equity` (May 22)
-- [Engineering Manager, Customer Studio](https://job-boards.greenhouse.io/hightouch/jobs/5999976004) · `🟢 Remote` `Manager` `$220k-$300k` `Equity` (May 19)
 
 ---
 
@@ -2159,7 +2054,6 @@ Horizon3 provides security testing software that simulates real-world attacks to
 
 - [Principal Engineer, Technical Lead](https://jobs.ashbyhq.com/horizon3ai/2aef1e36-5d89-4723-a3c5-b7c80b537f56) · `🟢 Remote` `Principal` `$213k-$273k` `Equity` (May 29)
 - [Director, Pentest Platform](https://jobs.ashbyhq.com/horizon3ai/f7103c0e-facd-4717-a053-7409bfde8e12) · `🟢 Remote` `Manager` `$280k-$315k` `Equity` (May 20)
-- [Manager, Security Engineering, Cloud & AppSec](https://jobs.ashbyhq.com/horizon3ai/f1ec575d-6be7-448f-bcca-1966a42128b4) · `🟢 Remote` `Manager` `$149k-$185k` `Equity` (May 19)
 
 ---
 
@@ -2366,15 +2260,6 @@ Intel builds semiconductor fabrication equipment and develops manufacturing proc
 - [Packaging Module Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0284086-1) · Phoenix, Arizona · `Mid` `$115k-$219k` `Equity` (May 20)
 - [CPU Design Verification Engineer ](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Design-Verification-Engineer-_JR0283987) · Austin, Texas / Hillsboro, Oregon · `Mid` `$122k-$172k` `Equity` (May 20)
 - [Design Verification Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Design-Verification-Engineer_JR0283648) · Folsom, California / San Jose, California / Santa Clara, California · `Senior` `$141k-$269k` `Equity` (May 20)
-- [Firewall Network Security Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Firewall-Network-Security-Engineer_JR0284032-1) · Phoenix, Arizona · `Mid` `$105k-$175k` `Equity` (May 19)
-
----
-
-## <a href="https://interactivebrokers.com"><img src="https://www.google.com/s2/favicons?domain=interactivebrokers.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Interactive Brokers](https://interactivebrokers.com)
-
-Interactive Brokers provides online trading solutions that offer direct global access to stocks, options, futures, currencies, bonds and funds, with low commissions and financing rates.
-
-- [Senior Software Engineer](https://job-boards.greenhouse.io/ibkr/jobs/8478175002) · Greenwich, Connecticut · `🟡 Hybrid` `Senior` `Equity` (May 19)
 
 ---
 
@@ -2383,7 +2268,6 @@ Interactive Brokers provides online trading solutions that offer direct global a
 Intercom provides a helpdesk platform with an integrated AI Agent for customer support.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Demo Engineer](https://job-boards.greenhouse.io/intercom/jobs/7926714) · San Francisco, California · `🟡 Hybrid` `Principal` `$268k-$320k` `Equity` (Jun 2)
-- [Senior IT Systems Engineer](https://job-boards.greenhouse.io/intercom/jobs/7943136) · San Francisco, California · `🟡 Hybrid` `Senior` `$142k-$237k` `Equity` (May 19)
 
 ---
 
@@ -2407,6 +2291,7 @@ Invoca provides AI-powered analytics software that analyzes phone conversations 
 
 IonQ delivers trapped ion quantum computing systems and cloud access for quantum applications.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Cloud Platform and Infrastructure Architect](https://job-boards.greenhouse.io/ionq/jobs/6010604004) · Santa Clara, California · `🟡 Hybrid` `Principal` `$248k-$325k` `Equity` (Jun 3)
 - [Satellite Operations Engineer](https://job-boards.greenhouse.io/ionq/jobs/6009174004) · Louisville, Colorado · `🟡 Hybrid` `Mid` `$85k-$165k` (Jun 1)
 - [Senior Staff DevOps Engineer](https://job-boards.greenhouse.io/ionq/jobs/6009486004) · Denver, Colorado · `🟡 Hybrid` `Staff` `$167k-$219k` `Equity` (Jun 1)
 - [Senior Photonics Test Engineer](https://job-boards.greenhouse.io/ionq/jobs/6007964004) · Boston, Massachusetts · `Senior` `$126k-$166k` `Equity` (Jun 1)
@@ -2443,14 +2328,6 @@ Ironclad provides software that enables users to design and deploy contracts qui
 - [Senior Staff Site Reliability Engineer](https://jobs.ashbyhq.com/ironcladhq/a460a920-d839-4bcb-9a05-3ea1f07b4742) · San Francisco, California · `🟡 Hybrid` `Staff` `$245k-$270k` `Equity` (May 29)
 - [Senior Analytics Engineer](https://jobs.ashbyhq.com/ironcladhq/92c4c68b-e18d-4f87-bb3b-fcac248fdd51) · San Francisco, California · `Senior` `$147k-$184k` `Equity` (May 29)
 - [Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/a257dd84-8370-4e42-82ae-8a1db4c4a2f5) · San Francisco, California · `🟡 Hybrid` `Senior` `$160k-$200k` (May 21)
-
----
-
-## <a href="https://iterable.com"><img src="https://www.google.com/s2/favicons?domain=iterable.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Iterable](https://iterable.com)
-
-Iterable is an AI customer engagement platform that helps brands respond in real time to customer behavior using unified data and optimization.
-
-- [Software Engineer II](https://job-boards.greenhouse.io/iterable/jobs/7923199) · `🟢 Remote` `Mid` `$114k-$188k` `Equity` (May 19)
 
 ---
 
@@ -2497,6 +2374,7 @@ JLL provides real estate services and solutions.
 
 Juniper Networks makes Mist, an AI-native networking platform that improves connection reliability, measurability, and security for businesses.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Networking Resident Engineer - Top Secret Clearance Required - Washington DC (Onsite)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Washington-District-of-Columbia-United-States-of-America/Senior-Networking-Resident-Engineer---Top-Secret-Clearance-Required---Washington-DC--Onsite-_1206687-3) · Washington, D.C. · `Senior` `$105k-$243k` (Jun 3)
 - [AI Engineer - Developer Productivity](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Engineer---Developer-Productivity_1207653-1) · Colorado / Texas · `🟡 Hybrid` `Mid` `$120.5k-$276.5k` (Jun 1)
 - [AI Tools Architect / Tech Lead](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Tools-Architect---Tech-Lead_1207652-2) · Colorado / Texas · `🟡 Hybrid` `Senior` `$152k-$349k` (Jun 1)
 - [AI Engineer — AI Efficiency and Economics](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Engineer---AI-Efficiency-and-Economics_1207649-2) · 2 Locations · `Senior` `$137k-$315k` (May 29)
@@ -2508,11 +2386,6 @@ Juniper Networks makes Mist, an AI-native networking platform that improves conn
 - [Cloud Engineer I (QA Automation focus)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Cloud-Engineer-I--QA-Automation-focus-_1207371-2) · Roseville, California · `🟡 Hybrid` `Junior` `$92k-$187k` (May 20)
 - [Distinguished Technologist & Director, AI Strategy and Enablement (OCTO & HPE Labs)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Distinguished-Technologist---Director--AI-Strategy-and-Enablement--OCTO---HPE-Labs-_1206055-2) · Colorado / California / Texas · `🟡 Hybrid` `Principal` `$170k-$412.5k` (May 20)
 - [HPE Labs - Research Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Research-Engineer_1206781-2) · Milpitas, California · `Senior` `$120k-$243k` (May 20)
-- [Systems Software Expert](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Expert_1206799-2) · Colorado / Texas · `🟡 Hybrid` `Senior` `$120.5k-$276.5k` (May 19)
-- [Senior Platform Software Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Senior-Platform-Software-Engineer_1198216-2) · Sunnyvale, California · `🟡 Hybrid` `Senior` `$136.5k-$276.5k` (May 19)
-- [Embedded Software Developer - Security](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Developer---Security_1207502-2) · Colorado / Texas / Wisconsin · `Senior` `$120.5k-$276.5k` (May 19)
-- [Firmware Security Architect](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Security-Architect_1207505-2) · Colorado / Texas / Wisconsin · `Staff` `$161k-$370k` (May 19)
-- [Principal Software Engineer, Embedded (RIS)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Principal-Software-Engineer--Embedded--RIS-_1205911-2) · Sunnyvale, California · `🟡 Hybrid` `Principal` `$172k-$349k` (May 19)
 
 ---
 
@@ -2559,14 +2432,6 @@ Kitewheel builds CSG Xponent, a real-time customer experience platform that comb
 
 ---
 
-## <a href="https://klarity.ai"><img src="https://www.google.com/s2/favicons?domain=klarity.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Klarity](https://klarity.ai)
-
-Klarity discovers how enterprises operate, structures the information into a Process Index, and enables continuous improvement through accelerated current-state discovery.
-
-- [Technical Product Manager](https://jobs.ashbyhq.com/klarity-ai/4843b6cd-405e-412f-8261-d1a2d6acd850) · San Francisco, California · `Junior` `Equity` (May 19)
-
----
-
 ## <a href="https://knewton.com"><img src="https://www.google.com/s2/favicons?domain=knewton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Knewton](https://knewton.com)
 
 Knewton makes adaptive courseware called Knewton Alta that provides students with personalized support tailored to their individual learning needs.
@@ -2596,7 +2461,6 @@ Kodiak Robotics develops the Kodiak Driver, an autonomous vehicle system that in
 Kraken is a cryptocurrency and financial trading platform that allows users to trade cryptocurrency, stocks, futures, and participate in staking.
 
 - [Senior Software Engineer - Frontend - Pro](https://jobs.ashbyhq.com/kraken.com/aa04e385-a718-4630-ba2a-815ff2483ac8) · `🟢 Remote` `Senior` (May 21)
-- [Staff Security Architect](https://jobs.ashbyhq.com/kraken.com/ad27e3b9-35ce-4f61-81c8-21cd136340b2) · `🟢 Remote` `Staff` (May 19)
 
 ---
 
@@ -2864,7 +2728,6 @@ Metriport provides an open-source universal API that enables digital health comp
 - [Customer Support Engineer](https://jobs.ashbyhq.com/metriport/312ad94e-2ccb-4876-a989-be3706ef1007) · San Francisco, California · `Mid` `Equity` (May 28)
 - [Forward Deployed Engineer](https://jobs.ashbyhq.com/metriport/a75f250e-2215-4a53-8ff0-066a048d258c) · San Francisco, California · `Mid` `Equity` (May 28)
 - [Software Engineer, Internal Tools](https://jobs.ashbyhq.com/metriport/aeab934e-3b36-4ba1-9dd0-b98befebb39d) · San Francisco, California · `Mid` `Equity` (May 20)
-- [AI Engineer](https://jobs.ashbyhq.com/metriport/d89fa823-9872-460b-a322-809e69e08598) · San Francisco, California · `Senior` `Equity` (May 19)
 
 ---
 
@@ -2902,6 +2765,14 @@ Moderna develops messenger RNA (mRNA) therapeutics and vaccines.
 - [Scientist, Oncology Bioinformatics](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Scientist--Oncology-Bioinformatics_R19231) · `Senior` `$121k-$194k` `Equity` (May 27)
 - [Senior Research Associate, Genome Sciences](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Senior-Research-Associate--Genome-Sciences_R19242) · Cambridge, Massachusetts · `🟡 Hybrid` `Mid` `$74k-$118.4k` `Equity` (May 27)
 - [2026 Co-Op, Process Automation and Drug Product](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/XMLNAME-2026-Co-Op--Process-Automation-and-Drug-Product_R18771) · `Intern` `$20/hr-$60/hr` `Equity` (May 21)
+
+---
+
+## <a href="https://momentus.space"><img src="https://www.google.com/s2/favicons?domain=momentus.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Momentus](https://momentus.space)
+
+Momentus provides space infrastructure services.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Systems Architect Engineer ](https://job-boards.greenhouse.io/momentus/jobs/6011970004) · San Jose, California · `Senior` `$160k-$200k` `Equity` (Jun 3)
 
 ---
 
@@ -2965,14 +2836,6 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 
 ---
 
-## <a href="https://near.org"><img src="https://www.google.com/s2/favicons?domain=near.org&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Near Protocol](https://near.org)
-
-Near Protocol is a blockchain platform that provides infrastructure for asset liquidity and autonomous agent transactions.
-
-- [Senior Security Engineer](https://job-boards.eu.greenhouse.io/nearfoundation/jobs/4870028101) · `🟢 Remote` `Senior` `Equity` (May 19)
-
----
-
 ## <a href="https://neighborly.com"><img src="https://www.google.com/s2/favicons?domain=neighborly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Neighborly](https://neighborly.com)
 
 Neighborly connects customers with local home service professionals for various household needs.
@@ -3004,7 +2867,6 @@ New Relic builds an observability platform that provides insight into complex sy
 Nextdoor is a neighborhood hub where people exchange information, goods, and services with others in their area.
 
 - [Data Scientist - Search](https://about.nextdoor.com/careers-list/?gh_jid=7948362) · `🟢 Remote` `Senior` `$175k-$234k` `Equity` (May 21)
-- [GTM Engineer](https://about.nextdoor.com/careers-list/?gh_jid=7939631) · New York, New York · `🟡 Hybrid` `Senior` `$135k-$165k` `Equity` (May 19)
 
 ---
 
@@ -3066,8 +2928,8 @@ Nvidia manufactures datacenter products and operates engineering labs where thes
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Architect, GPU Networking Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906) · 2 Locations · `Senior` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Full-Stack Solution Engineer - Sensorized Human](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Full-Stack-Solution-Engineer---Sensorized-Human_JR2018291) · 2 Locations · `Mid` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Simulation Engineer, Industrial Physics and Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Remote/Principal-Simulation-Engineer--Industrial-Physics-and-Robotics_JR2018458) · 6 Locations · `Principal` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Field Application Engineer, AI Factory](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Field-Application-Engineer_JR2010874) · 2 Locations · `🟡 Hybrid` `Senior` `$132k-$207k (L3) / $160k-$253k (L4)` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Manager, Agentic AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Manager--Agentic-AI_JR2001693) · Santa Clara, California · `Manager` `$272k-$431.25k` `Equity` (Jun 2)
+- [Field Application Engineer, AI Factory](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Field-Application-Engineer_JR2010874) · 2 Locations · `🟡 Hybrid` `Senior` `$132k-$207k (L3) / $160k-$253k (L4)` `Equity` (Jun 2)
+- [Senior Software Manager, Agentic AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Manager--Agentic-AI_JR2001693) · Santa Clara, California · `Manager` `$272k-$431.25k` `Equity` (Jun 2)
 - [Senior Systems Software Engineer, AI Stack and Performance - DGX Station](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--AI-Stack-and-Performance---DGX-Station_JR2019004) · 2 Locations · `Senior` `$224k-$356.5k` `Equity` (Jun 1)
 - [Deep Learning Computer Architect - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178) · 2 Locations · `🟡 Hybrid` `Junior` `$124k-$241.5k` `Equity` (Jun 1)
 - [Deep Learning Performance Architect, CUTLASS DSL](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect--CUTLASS-DSL_JR2018773) · 2 Locations · `Senior` (Jun 1)
@@ -3197,14 +3059,6 @@ Nvidia manufactures datacenter products and operates engineering labs where thes
 - [System Level Test Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Level-Test-Engineer_JR2017918) · Santa Clara, California · `Mid` `$132k-$253k` `Equity` (May 20)
 - [Implementation Methodology Engineer - GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Implementation-Methodology-Engineer---GPU_JR2011872) · Santa Clara, California · `🟡 Hybrid` `Mid` `$136k-$264.5k` `Equity` (May 20)
 - [Senior Datacenter Product Development Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-Product-Development-Engineer_JR2018282) · Santa Clara, California · `Senior` `$168k-$322k` `Equity` (May 20)
-- [Senior Performance Architect, Nemotron](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Architect--Nemotron_JR2018413) · 3 Locations · `Senior` `$152k-$287.5k` `Equity` (May 19)
-- [Senior Systems Prototyping and Emulation Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Prototyping-and-Emulation-Engineer_JR2018195) · Santa Clara, California · `Senior` `$168k-$264.5k (L4), $196k-$310.5k (L5)` `Equity` (May 19)
-- [Senior Product Engineer  Transceivers](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Engineer--Transceivers_JR2018425) · 4 Locations · `Senior` `$168k-$264.5k (Level 4) / $196k-$310.5k (Level 5)` `Equity` (May 19)
-- [Quantum Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) · Santa Clara, California · `🟢 Remote` `Intern` `$20-$71/hour` (May 19)
-- [Senior System Software Engineer - Graphics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer---Graphics_JR2017306-1) · 3 Locations · `Senior` (May 19)
-- [Principal Engineer - System Software GPU Server](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer---System-Software-GPU-Server_JR2018082) · Santa Clara, California · `Principal` `$272k-$431.25k` `Equity` (May 19)
-- [Senior System Software Engineer – Data Center GPU Compute Diagnostics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2018218) · Durham, North Carolina · `Senior` `$224k-$356.5k` `Equity` (May 19)
-- [Senior System Software Engineer, Automotive Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Automotive-Performance_JR2017705) · 2 Locations · `Senior` `$224k-$431.25k` `Equity` (May 19)
 
 ---
 
@@ -3228,7 +3082,6 @@ Okta builds identity infrastructure that enables organizations to secure their s
 - [Manager, Site Reliability Engineering](https://www.okta.com/company/careers/opportunity/7904652?gh_jid=7904652) · San Francisco, California · `🟡 Hybrid` `Manager` `$204k-$281k` `Equity` (May 22)
 - [Staff Software Engineer - Device Identity](https://www.okta.com/company/careers/opportunity/7673698?gh_jid=7673698) · Toronto, Ontario, Canada · `🟡 Hybrid` `Staff` `$160k-$220k CAD` `Equity` (May 21)
 - [Staff Software Engineer,  Passwordless ](https://www.okta.com/company/careers/opportunity/7696955?gh_jid=7696955) · Toronto, Ontario, Canada · `🟡 Hybrid` `Staff` `$160k-$220k CAD` `Equity` (May 20)
-- [Staff Software Engineer - Android](https://www.okta.com/company/careers/opportunity/7917929?gh_jid=7917929) · Toronto, Ontario, Canada · `Senior` `$160k-$240k CAD` `Equity` (May 19)
 
 ---
 
@@ -3295,7 +3148,6 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 - [Capacity Systems Software Engineer](https://jobs.ashbyhq.com/openai/11c51b12-3ba0-4a7a-a0d2-ed0661324dc3) · San Francisco, California · `🟡 Hybrid` `Senior` (May 22)
 - [Software Engineer, API SDK](https://jobs.ashbyhq.com/openai/77fbf383-bb97-4006-9b2d-e5de2d6f79d3) · San Francisco, California · `Senior` `$293k-$385k` (May 22)
 - [Forward Deployed Security Engineer](https://jobs.ashbyhq.com/openai/89d61ae8-1ce1-4187-9edd-da8029979e41) · Washington, D.C. · `🟡 Hybrid` `Senior` (May 21)
-- [Analytics Engineer, SMB](https://jobs.ashbyhq.com/openai/c3f437e7-034b-4ea0-a29e-c62eb23ca24f) · San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` (May 19)
 
 ---
 
@@ -3304,14 +3156,6 @@ OpenAI is an AI research and deployment company dedicated to ensuring that gener
 OpenGov builds software for cities, counties, and state agencies.
 
 - [Manager, Engineering](https://jobs.ashbyhq.com/opengov/2ef56c48-38a2-4a1e-bf4e-7718bc46f3d2) · Boston, Massachusetts · `Manager` `$175k-$219k` (May 29)
-
----
-
-## <a href="https://openly.com"><img src="https://www.google.com/s2/favicons?domain=openly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Openly](https://openly.com)
-
-Openly provides home insurance through independent agents.
-
-- [Engineering Manager, Data Engineering (Remote, US)](https://job-boards.greenhouse.io/openly/jobs/4696499005) · `🟢 Remote` `Manager` `$176k-$198k` `Equity` (May 19)
 
 ---
 
@@ -3444,14 +3288,6 @@ PermitFlow provides a platform that handles permit preparation, submission, and 
 
 ---
 
-## <a href="https://perplexity.ai"><img src="https://www.google.com/s2/favicons?domain=perplexity.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Perplexity](https://perplexity.ai)
-
-Perplexity builds an AI search and productivity tool that serves enterprise customers through a scaled customer success model focused on onboarding, adoption, retention, and expansion across SMB and Mid-Market accounts.
-
-- [Sales Systems Engineer, Enterprise Operations](https://jobs.ashbyhq.com/perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc) · San Francisco, California · `Senior` (May 19)
-
----
-
 ## <a href="https://phoenix.ca"><img src="https://www.google.com/s2/favicons?domain=phoenix.ca&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Phoenix](https://phoenix.ca)
 
 Phoenix is a digital health clinic in Canada that provides healthcare services for men.
@@ -3474,7 +3310,7 @@ Pinterest is a platform where millions of people find creative ideas, plan proje
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, iOS ](https://www.pinterestcareers.com/jobs/?gh_jid=5601228) · San Francisco, California / Remote · `🟢 Remote` `Mid` `$123k–$254k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Manager, Engineering, Ad Formats](https://www.pinterestcareers.com/jobs/?gh_jid=7819062) · San Francisco, California / Palo Alto, California · `🟡 Hybrid` `Manager` `$242k-$429k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Machine Learning Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7679180) · San Francisco, California / Remote · `🟢 Remote` `Staff` `$189k-$389k` `Equity` (Jun 2)
+- [Staff Machine Learning Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7679180) · San Francisco, California / Remote · `🟢 Remote` `Staff` `$189k-$389k` `Equity` (Jun 2)
 - [Staff Software Engineer, Capacity Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=7908593) · `🟢 Remote` `Staff` `$177k-$364k` `Equity` (Jun 1)
 - [Software Engineer II, Big Data, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782546) · San Francisco, California / Remote · `🟢 Remote` `Mid` `$123k-$254k` `Equity` (May 28)
 - [Manager II, Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=7895567) · San Francisco, California / Remote · `🟢 Remote` `Manager` `$208k-$364k` `Equity` (May 26)
@@ -3485,9 +3321,6 @@ Pinterest is a platform where millions of people find creative ideas, plan proje
 - [Sr. Staff Machine Learning Engineer, Content Ecosystem](https://www.pinterestcareers.com/jobs/?gh_jid=7919043) · San Francisco, California / Remote · `🟢 Remote` `Staff` `$227k-$469k` `Equity` (May 22)
 - [Staff Machine Learning Engineer, Ads Conversion](https://www.pinterestcareers.com/jobs/?gh_jid=7902034) · San Francisco, California / Palo Alto, California / Seattle, Washington · `🟡 Hybrid` `Staff` `$222k-$389k` `Equity` (May 22)
 - [Sr. SDET, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7943697) · San Francisco, California / Remote · `🟢 Remote` `Senior` `$132k-$272k` `Equity` (May 20)
-- [Software Engineer II, Backend](https://www.pinterestcareers.com/jobs/?gh_jid=5132899) · Toronto, ON · `🟡 Hybrid` `Mid` `$139k-$189k CAD` (May 19)
-- [Sr. Manager, Code Foundations](https://www.pinterestcareers.com/jobs/?gh_jid=7863290) · `🟢 Remote` `Manager` `$208k-$429k` `Equity` (May 19)
-- [Staff Machine Learning Engineer, Ads Measurement Products](https://www.pinterestcareers.com/jobs/?gh_jid=6482819) · San Francisco, California / Palo Alto, California / Seattle, Washington · `🟡 Hybrid` `Staff` `$189k–$389k` `Equity` (May 19)
 
 ---
 
@@ -3542,10 +3375,6 @@ Plus AI develops SuperDrive virtual driver software for autonomous commercial ve
 - [Software Engineer Intern - Robotics](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) · Santa Clara, California · `Intern` (May 22)
 - [Software Engineer Intern- Runtime, Robotics](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4) · Santa Clara, California · `Intern` (May 22)
 - [Senior Research Engineer, Controls](https://jobs.lever.co/plus-2/afcecf79-7d15-4d9a-bfd6-c9833f7c7d19) · Santa Clara, California · `Senior` (May 21)
-- [Machine Learning Infrastructure Engineer Intern](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4) · Santa Clara, California · `Intern` (May 19)
-- [Simulation Engineer Intern](https://jobs.lever.co/plus-2/a58986e8-c9a0-4ca3-a8f1-6abec1e88464) · Santa Clara, California · `Intern` (May 19)
-- [Software Engineer Intern - Data](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4) · Santa Clara, California · `Intern` (May 19)
-- [Software Engineer Intern - Data Infrastructure and Tools](https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9) · Santa Clara, California · `Intern` (May 19)
 
 ---
 
@@ -3606,7 +3435,6 @@ PsiQuantum builds quantum computers designed for commercial use.
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Optical Fiber Network Design Engineer](https://www.psiquantum.com/apply?gh_jid=7761923003) · Milpitas, California · `Senior` `$170k-$195k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior System Integration Engineer](https://www.psiquantum.com/apply?gh_jid=7761870003) · Milpitas, California · `Senior` `$140k-$200k` `Equity` (Jun 2)
 - [Senior Integrated Photonics Engineer - Active Devices and Circuits](https://www.psiquantum.com/apply?gh_jid=7760358003) · Palo Alto, California · `Senior` `$150k-$202k` `Equity` (Jun 1)
-- [Senior Analog / Mixed-Signal IC Design Engineer](https://www.psiquantum.com/apply?gh_jid=7738656003) · Palo Alto, California · `Senior` `$145k-$197k USD` `Equity` (May 19)
 
 ---
 
@@ -3616,16 +3444,6 @@ PTC provides technology for engineering, manufacturing, and servicing physical p
 
 - [Senior Oracle Developer](https://ptc.wd1.myworkdayjobs.com/PTC/job/USA-San-Mateo-CA/Senior-Oracle-Developer_JR112285) · San Mateo, California · `🟡 Hybrid` `Senior` `$125k-$170k` `Equity` (Jun 1)
 - [Senior Cloud Operations Engineer](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Senior-Cloud-Operations-Engineer_JR112128-1) · `🟢 Remote` `Senior` `$75k-$115k` `Equity` (May 27)
-- [Senior Software Development Engineer, Platform](https://ptc.wd1.myworkdayjobs.com/PTC/job/USA-San-Mateo-CA/Senior-Software-Development-Engineer--Platform_JR112212) · San Mateo, California · `🟡 Hybrid` `Senior` `$150k-$165k` `Equity` (May 19)
-- [Tech Lead (Java Full Stack)](https://ptc.wd1.myworkdayjobs.com/PTC/job/IND-Pune---Marisoft/Tech-Lead--Java-Full-Stack-_JR112236) · IND-Pune - Marisoft · `Senior` (May 19)
-
----
-
-## <a href="https://puppet.com"><img src="https://www.google.com/s2/favicons?domain=puppet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Puppet](https://puppet.com)
-
-Puppet is an infrastructure ops platform for automation, configuration management, DevSecOps, compliance, CI/CD, and patching.
-
-- [Vice President, Engineering](https://jobs.lever.co/perforce/3aa2cfda-f5b4-44f3-82c7-63f5a0c81cff) · Burlington, Massachusetts · `Manager` (May 19)
 
 ---
 
@@ -3678,7 +3496,6 @@ Quindar builds command and control software and ground systems integration capab
 
 - [Ground System Integration Engineer](https://jobs.ashbyhq.com/quindar/7aa2c0b6-d45a-4c5c-b565-da950adab9b8) · Arvada, Colorado · `🟡 Hybrid` `Senior` (May 22)
 - [Site Reliability Engineer (SRE)](https://jobs.ashbyhq.com/quindar/9b8e07e6-7d4c-41f0-bd3e-e416a0738016) · Arvada, Colorado · `Mid` (May 22)
-- [Principal Engineer, Mission Software](https://jobs.ashbyhq.com/quindar/d33bf2d7-f539-4a1f-ab9c-0484baf39e16) · Arvada, Colorado · `🟡 Hybrid` `Principal` (May 19)
 
 ---
 
@@ -3744,7 +3561,6 @@ Recursion is an AI drug discovery company that uses artificial intelligence to d
 
 - [Engineering Manager - Machine Learning](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7961460) · Salt Lake City, Utah · `🟡 Hybrid` `Manager` `$151k-$203k` `Equity` (May 29)
 - [Associate Director, Computational Biology – Early Discovery](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7961602) · Salt Lake City, Utah · `🟡 Hybrid` `Manager` `$200k-$220k` `Equity` (May 27)
-- [Staff Engineer, Identity & Access Management (IAM)](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7943347) · Salt Lake City, Utah / Remote · `🟡 Hybrid` `Senior` `$180k-$212k` `Equity` (May 19)
 
 ---
 
@@ -3753,7 +3569,7 @@ Recursion is an AI drug discovery company that uses artificial intelligence to d
 Reddit is a community platform where users submit, vote, and comment on topics across more than 100,000 active communities, serving approximately 126 million daily active unique visitors. The company operates a Trust & Safety organization that works to protect users from harmful content and behaviors across the site.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)](https://job-boards.greenhouse.io/reddit/jobs/7976852) · `🟢 Remote` `Senior` `$190k–$267k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Engineering Manager, Safety](https://job-boards.greenhouse.io/reddit/jobs/7961895) · `🟢 Remote` `Manager` `$217k–$303k` `Equity` (Jun 2)
+- [Engineering Manager, Safety](https://job-boards.greenhouse.io/reddit/jobs/7961895) · `🟢 Remote` `Manager` `$217k–$303k` `Equity` (Jun 2)
 - [Engineering Manager, Advanced Signals (SWE)](https://job-boards.greenhouse.io/reddit/jobs/7966985) · `🟢 Remote` `Manager` `$217k–$303k` `Equity` (Jun 1)
 - [Senior Software Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/6909091) · `🟢 Remote` `Senior` `$190k–$267k` `Equity` (Jun 1)
 - [Software Engineer](https://job-boards.greenhouse.io/reddit/jobs/6909093) · Remote, Ontario, Canada · `🟢 Remote` `Mid` (Jun 1)
@@ -3945,7 +3761,6 @@ Roblox operates a platform where users can create and play 3D games and virtual 
 - [Software Engineer, Core Services](https://careers.roblox.com/jobs/7943533?gh_jid=7943533) · San Mateo, California · `🟡 Hybrid` `Junior` `$153k–$196k` `Equity` (May 20)
 - [Senior Software Engineer - Studio Authoring Tools](https://careers.roblox.com/jobs/7943710?gh_jid=7943710) · San Mateo, California · `🟡 Hybrid` `Senior` `$196k–$243k` `Equity` (May 20)
 - [Engineering Manager - Account Security](https://careers.roblox.com/jobs/7940279?gh_jid=7940279) · San Mateo, California · `🟡 Hybrid` `Manager` `$295k-$345k` `Equity` (May 20)
-- [Senior Detection and Response Engineer](https://careers.roblox.com/jobs/7931525?gh_jid=7931525) · San Mateo, California · `🟡 Hybrid` `Senior` `$243k–$295k` `Equity` (May 19)
 
 ---
 
@@ -3985,7 +3800,6 @@ Rocket Lab delivers launch services, spacecraft, and satellite components.
 - [Mission Operation Intern Fall 2026](https://job-boards.greenhouse.io/rocketlab/jobs/7735976003) · Long Beach, California · `Intern` `$28/hr` `Equity` (May 20)
 - [Senior LN Development and Integration Lead](https://job-boards.greenhouse.io/rocketlab/jobs/7741227003) · Long Beach, California · `Senior` `$124k–$155k` `Equity` (May 20)
 - [Combustion Devices Intern Fall 2026](https://job-boards.greenhouse.io/rocketlab/jobs/7728523003) · Long Beach, California · `Intern` `$28/hr (approximately $56k annualized)` `Equity` (May 20)
-- [R&D Engineering Intern Fall 2026](https://job-boards.greenhouse.io/rocketlab/jobs/7736088003) · Albuquerque, New Mexico · `Intern` (May 19)
 
 ---
 
@@ -4166,7 +3980,6 @@ Scribe makes software that automatically documents processes by creating visual 
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Head of Data](https://jobs.ashbyhq.com/scribe/aaab90d3-a4ff-4ab0-bcc8-057767b32234) · San Francisco, California · `🟡 Hybrid` `Manager` `$230k-$275k` `Equity` (Jun 2)
 - [Senior Full-Stack Engineer, Platform (EST)](https://jobs.ashbyhq.com/scribe/a5650f40-bfe5-4b14-b5e6-49ed6edd619f) · `🟢 Remote` `Senior` `$145k-$200k` `Equity` (May 21)
-- [Backend Engineer](https://jobs.ashbyhq.com/scribe/4cbbac75-4082-4e5f-905b-e985f68bd77c) · San Francisco, California · `Mid` `$140k-$165k` `Equity` (May 19)
 
 ---
 
@@ -4174,8 +3987,8 @@ Scribe makes software that automatically documents processes by creating visual 
 
 SecurityScorecard provides cybersecurity ratings for organizations, continuously rating over 12 million companies across 64 countries. The company's patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting.
 
+- [Senior Software Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7960892) · Halifax, NS (Remote) · `🟢 Remote` `Senior` `$160k-$185k` `Equity` (May 27)
 - [Head of Engineering](https://job-boards.greenhouse.io/securityscorecard/jobs/7952078) · Jersey City, New Jersey · `🟡 Hybrid` `Manager` `$260k-$320k` `Equity` (May 21)
-- [Senior Software Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/7345062) · `🟢 Remote` `Senior` `$160k-$185k` `Equity` (May 19)
 
 ---
 
@@ -4194,8 +4007,6 @@ Sentry provides application performance monitoring software that helps developer
 - [Engineering Manager, Developer Infrastructure](https://jobs.ashbyhq.com/sentry/8ff7af3d-6b97-4cc5-9655-e06ea772bf07) · San Francisco, California · `🟡 Hybrid` `Manager` `$220k-$300k` `Equity` (May 30)
 - [Security Engineer, IAM](https://jobs.ashbyhq.com/sentry/d98f9c72-836a-47fc-aaee-859f2ab63480) · Toronto, Ontario, Canada · `Mid` `$163k-$253k CAD` `Equity` (May 29)
 - [Senior Software Engineer, Developer Infrastructure](https://jobs.ashbyhq.com/sentry/3e2f7a78-c99c-4233-abb8-5f0bb9b1868c) · Toronto, Ontario, Canada · `Senior` `$200k-$295k CAD` `Equity` (May 21)
-- [Senior Software Engineer (Node), JavaScript SDK](https://jobs.ashbyhq.com/sentry/c2b2dece-cecb-46e8-be1f-22b08d6b3483) · San Francisco, California · `🟡 Hybrid` `Senior` `$190k-$280k` `Equity` (May 19)
-- [Senior Software Engineer (Frameworks), JavaScript SDK](https://jobs.ashbyhq.com/sentry/4eb18706-9bbb-4b55-a58c-0fd71a3cb080) · San Francisco, California · `🟡 Hybrid` `Senior` `$190k-$280k` `Equity` (May 19)
 
 ---
 
@@ -4240,6 +4051,14 @@ SiFive designs and develops processors and systems based on the RISC-V instructi
 - [Intern - Design Verification Infrastructure Engineer - Platform](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101292) · 4 Locations · `Intern` `Equity` (May 23)
 - [Staff Design Verification Engineer – Coherent Interconnect](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Boston-Massachusetts-United-States/Staff-Design-Verification-Engineer---Coherent-Interconnect_R-101212) · 2 Locations · `Staff` `Equity` (May 20)
 - [Principal Design Verification Engineer – High Performance CPU Subsystem](https://sifive.wd1.myworkdayjobs.com/sifivecareers/job/Austin-Texas-United-States/Principal-Design-Verification-Engineer---High-Performance-CPU-Subsystem_R-101284) · 2 Locations · `Principal` `Equity` (May 20)
+
+---
+
+## <a href="https://silabs.com"><img src="https://www.google.com/s2/favicons?domain=silabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Silicon Labs](https://silabs.com)
+
+Silicon Labs makes silicon, software, and solutions for connected applications.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Digital Design Engineer I](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Digital-Design-Engineer-I_20658-1) · Austin, Texas · `🟡 Hybrid` `Junior` `$78k-$146k` `Equity` (Jun 3)
 
 ---
 
@@ -4341,7 +4160,6 @@ Snowflake builds a cloud data platform that enables organizations to store, proc
 - [Forward Deployed Engineer, Applied AI](https://jobs.ashbyhq.com/snowflake/a6a3e9d2-b045-466a-8074-1613c07891fe) · Menlo Park, California · `Mid` (May 21)
 - [Senior Forward Deployed Engineer, Applied AI](https://jobs.ashbyhq.com/snowflake/12455179-f3ff-4739-b8c0-c21f3c116b87) · Menlo Park, California · `🟡 Hybrid` `Senior` (May 21)
 - [Senior Software Engineer - Billing Platform ](https://jobs.ashbyhq.com/snowflake/52892674-342b-4519-9a57-7097e4ef4a8a) · Menlo Park, California · `Senior` (May 20)
-- [Staff Software Engineer - Parameters](https://jobs.ashbyhq.com/snowflake/1ed263be-f6d1-41fb-8cd7-fc99112c2ca1) · Bellevue, Washington · `Staff` (May 19)
 
 ---
 
@@ -4382,17 +4200,18 @@ Optro (formerly AuditBoard) provides an AI-powered governance, risk, and complia
 
 SpaceX develops rockets and spacecraft for space exploration, with the goal of enabling human life on Mars, and operates power plant and datacenter infrastructure that requires procurement and supply chain management for high-voltage transmission and substation equipment.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Components (Starshield)](https://boards.greenhouse.io/spacex/jobs/8575987002?gh_jid=8575987002) · Hawthorne, California · `Junior` `$125k-$175k` `Equity` (Jun 3)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Site Reliability Engineering (Application Software)](https://boards.greenhouse.io/spacex/jobs/8575857002?gh_jid=8575857002) · Hawthorne, California · `Mid` `$125k-$175k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. RF Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8573920002?gh_jid=8573920002) · Hawthorne, California · `Senior` `$165k-$230k` `Equity` (Jun 2)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Hardware Test & Automation (Starshield)](https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002) · Hawthorne, California · `Mid` `$125k-$195k` `Equity` (Jun 2)
+- [Software Engineer, Hardware Test & Automation (Starshield)](https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002) · Hawthorne, California · `Mid` `$125k-$195k` `Equity` (Jun 2)
 - [Data Engineer (Starlink Network Analytics, Wi-Fi) ](https://boards.greenhouse.io/spacex/jobs/8573711002?gh_jid=8573711002) · Redmond, Washington · `🟡 Hybrid` `Junior` `$125k-$175k` `Equity` (Jun 1)
 - [Network Operations Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8571363002?gh_jid=8571363002) · Redmond, Washington · `Junior` `$105k-$150k` `Equity` (Jun 1)
 - [Software Engineer (Starlink) ](https://boards.greenhouse.io/spacex/jobs/8569790002?gh_jid=8569790002) · Redmond, Washington · `🟡 Hybrid` `Junior` `$125k-$175k` `Equity` (Jun 1)
 - [Sr. Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8569967002?gh_jid=8569967002) · Redmond, Washington · `Senior` `$165k-$230k` `Equity` (Jun 1)
 - [Data Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8569186002?gh_jid=8569186002) · Starbase, Texas · `Junior` (Jun 1)
-- [Software Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002) · Starbase, Texas · `Junior` (Jun 1)
+- [Software Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8569160002?gh_jid=8569160002) · Hawthorne, California · `Junior` `$125k-$175k` `Equity` (Jun 1)
 - [Sr. Automation & Controls Engineer, Solar Cell Factory](https://boards.greenhouse.io/spacex/jobs/8569381002?gh_jid=8569381002) · Bastrop, Texas · `Senior` (Jun 1)
-- [Security Engineer](https://boards.greenhouse.io/spacex/jobs/8567522002?gh_jid=8567522002) · Cape Canaveral, Florida · `Mid` (May 30)
+- [Security Engineer](https://boards.greenhouse.io/spacex/jobs/8567571002?gh_jid=8567571002) · Hawthorne, California · `Mid` `$130k-$180k` `Equity` (May 30)
 - [Principal AI Engineer, Special Programs](https://boards.greenhouse.io/spacex/jobs/8572113002?gh_jid=8572113002) · Palo Alto, California · `Principal` `$220k-$350k` `Equity` (May 30)
 - [Sr. Full Chip Physical Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8572143002?gh_jid=8572143002) · Irvine, California · `Senior` `$160k-$225k` `Equity` (May 29)
 - [Sr. Database Reliability Engineer](https://boards.greenhouse.io/spacex/jobs/8570040002?gh_jid=8570040002) · Hawthorne, California · `Senior` `$155k-$205k` `Equity` (May 29)
@@ -4409,7 +4228,7 @@ SpaceX develops rockets and spacecraft for space exploration, with the goal of e
 - [GNC Engineer, Beam Planning (Starshield)](https://boards.greenhouse.io/spacex/jobs/8564124002?gh_jid=8564124002) · Hawthorne, California · `Mid` `$125k-$175k` `Equity` (May 27)
 - [GNC Engineer, Fleet Management (Starshield)](https://boards.greenhouse.io/spacex/jobs/8564126002?gh_jid=8564126002) · Hawthorne, California · `Junior` `$125k-$175k` `Equity` (May 27)
 - [Security Software Engineer - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8564158002?gh_jid=8564158002) · Hawthorne, California · `Mid` `$130k-$180k` `Equity` (May 27)
-- [Sr. SOC/ASIC Physical Design Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8564781002?gh_jid=8564781002) · Sunnyvale, California · `Senior` `$170k-$230k` `Equity` (May 26)
+- [Sr. SOC/ASIC Physical Design Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8564796002?gh_jid=8564796002) · Austin, Texas · `Senior` (May 26)
 - [Principal Wi-Fi Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8564810002?gh_jid=8564810002) · Palo Alto, California · `Principal` `$210k-$300k` `Equity` (May 26)
 - [Manager, Gateway Electronics Engineering (Starlink)](https://boards.greenhouse.io/spacex/jobs/8563083002?gh_jid=8563083002) · Bastrop, Texas · `Manager` (May 25)
 - [Aerodynamics Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8558715002?gh_jid=8558715002) · Starbase, Texas · `Junior` (May 25)
@@ -4423,20 +4242,20 @@ SpaceX develops rockets and spacecraft for space exploration, with the goal of e
 - [GNC Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8561432002?gh_jid=8561432002) · Starbase, Texas · `Junior` (May 22)
 - [Sr. Automation & Controls Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8562427002?gh_jid=8562427002) · Starbase, Texas · `Senior` (May 22)
 - [Principal Software Engineer, CDN  (Starlink)](https://boards.greenhouse.io/spacex/jobs/8562265002?gh_jid=8562265002) · Palo Alto, California · `Principal` `$210k-$295k` `Equity` (May 22)
-- [Principal DFT Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8561578002?gh_jid=8561578002) · Austin, Texas · `Principal` (May 22)
+- [Principal DFT Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8561577002?gh_jid=8561577002) · Irvine, California · `Principal` `$200k-$285k` `Equity` (May 22)
 - [GNC Software Engineer - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8560746002?gh_jid=8560746002) · Hawthorne, California · `Junior` `$125k-$175k` `Equity` (May 21)
 - [AI Engineer, Platform Infrastructure, Special Programs](https://boards.greenhouse.io/spacex/jobs/8557110002?gh_jid=8557110002) · Palo Alto, California · `Junior` `$125k-$220k` `Equity` (May 21)
-- [AI Engineer, Special Programs](https://boards.greenhouse.io/spacex/jobs/8557208002?gh_jid=8557208002) · Washington, D.C. · `Mid` `$125k-$220k` `Equity` (May 21)
+- [AI Engineer, Special Programs](https://boards.greenhouse.io/spacex/jobs/8557038002?gh_jid=8557038002) · Palo Alto, California · `Mid` `$125k-$220k` `Equity` (May 21)
 - [AI Engineer, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8557219002?gh_jid=8557219002) · Washington, D.C. · `Mid` `$125k-$220k` `Equity` (May 21)
 - [Sr. AI Engineer, Platform Infrastructure, Special Programs](https://boards.greenhouse.io/spacex/jobs/8557126002?gh_jid=8557126002) · Palo Alto, California · `Senior` `$220k-$350k` `Equity` (May 21)
 - [Sr. AI Engineer, Special Programs](https://boards.greenhouse.io/spacex/jobs/8557060002?gh_jid=8557060002) · Palo Alto, California · `Senior` `$220k-$350k` `Equity` (May 21)
 - [Sr. AI Engineer, Special Programs - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8557093002?gh_jid=8557093002) · Palo Alto, California · `Senior` `$220k-$350k` `Equity` (May 21)
 - [Software Engineer, Embedded Software (Starlink)](https://boards.greenhouse.io/spacex/jobs/8552752002?gh_jid=8552752002) · Redmond, Washington · `Junior` `$125k-$175k` `Equity` (May 21)
 - [Software Engineer, Flight Software (Starlink)](https://boards.greenhouse.io/spacex/jobs/8551932002?gh_jid=8551932002) · Redmond, Washington · `Junior` `$125k-$175k` `Equity` (May 21)
-- [Design Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8559056002?gh_jid=8559056002) · Irvine, California · `Junior` `$125k-$175k` `Equity` (May 21)
-- [Principal Design Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8559218002?gh_jid=8559218002) · Redmond, Washington · `Principal` `$210k-$300k` `Equity` (May 21)
-- [Sr. ASIC Design Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8559224002?gh_jid=8559224002) · Redmond, Washington · `Senior` `$165k-$230k` `Equity` (May 21)
-- [Sr. RTL Design Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8560224002?gh_jid=8560224002) · Sunnyvale, California · `Senior` `$170k-$235k` `Equity` (May 21)
+- [Design Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8559067002?gh_jid=8559067002) · Austin, Texas · `Junior` (May 21)
+- [Principal Design Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8559220002?gh_jid=8559220002) · Sunnyvale, California · `Principal` `$210k-$310k` `Equity` (May 21)
+- [Sr. ASIC Design Verification Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8559221002?gh_jid=8559221002) · Irvine, California · `Senior` `$165k-$230k` `Equity` (May 21)
+- [Sr. RTL Design Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8560209002?gh_jid=8560209002) · Irvine, California · `Senior` `$160k-$225k` `Equity` (May 21)
 - [FPGA/ASIC Design Engineer (Silicon Engineering)](https://boards.greenhouse.io/spacex/jobs/8560022002?gh_jid=8560022002) · Redmond, Washington · `Junior` `$125k-$175k` `Equity` (May 21)
 - [Embedded Software Engineer, OS/Platform  (Starlink)](https://boards.greenhouse.io/spacex/jobs/8552893002?gh_jid=8552893002) · Redmond, Washington · `Junior` `$125k-$175k` `Equity` (May 21)
 - [OS/Platform Software Engineer (Starlink)   ](https://boards.greenhouse.io/spacex/jobs/8552882002?gh_jid=8552882002) · Redmond, Washington · `Junior` `$125k-$175k` `Equity` (May 21)
@@ -4445,11 +4264,10 @@ SpaceX develops rockets and spacecraft for space exploration, with the goal of e
 - [Software Engineer, Engineering Simulation & Automation (Vehicle Engineering)](https://boards.greenhouse.io/spacex/jobs/8559054002?gh_jid=8559054002) · Hawthorne, California · `Junior` `$125k-$175k` `Equity` (May 21)
 - [Principal RF Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8558471002?gh_jid=8558471002) · Hawthorne, California · `Principal` `$200k-$285k` `Equity` (May 20)
 - [Principal Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558835002?gh_jid=8558835002) · Sunnyvale, California · `Principal` `$210k-$295k` `Equity` (May 20)
-- [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558859002?gh_jid=8558859002) · Palo Alto, California · `Junior` `$135k-$185k` `Equity` (May 20)
-- [Sr. Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558869002?gh_jid=8558869002) · Redmond, Washington · `Senior` `$160k-$225k` `Equity` (May 20)
+- [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558857002?gh_jid=8558857002) · Redmond, Washington · `Mid` `$125k-$175k` `Equity` (May 20)
+- [Sr. Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558870002?gh_jid=8558870002) · Sunnyvale, California · `Senior` `$170k-$235k` `Equity` (May 20)
 - [Manager, Network Operations Center](https://boards.greenhouse.io/spacex/jobs/8557358002?gh_jid=8557358002) · Hawthorne, California · `Manager` (May 20)
 - [Flight Software Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8556909002?gh_jid=8556909002) · Redmond, Washington · `🟡 Hybrid` `Junior` `$125k-$175k` `Equity` (May 20)
-- [Sr. Automation & Controls Engineer (Components)](https://boards.greenhouse.io/spacex/jobs/8557015002?gh_jid=8557015002) · Hawthorne, California · `Senior` `$130k-$180k` `Equity` (May 19)
 
 ---
 
@@ -4511,7 +4329,6 @@ Speechify is a text-to-speech application that reads books, PDFs, and web pages 
 Spotify is a music streaming platform that partners with artists and labels to distribute and promote music content.
 
 - [Senior Machine Learning Engineer - Enrichment & Content Intelligence](https://jobs.lever.co/spotify/159e823e-5a29-4222-94bb-40e97f63cc93) · New York, New York · `Senior` (May 29)
-- [Senior Machine Learning Engineer - Personalization](https://jobs.lever.co/spotify/d126952c-a859-45b9-8b7b-eee85731acb9) · New York, New York · `Senior` (May 19)
 
 ---
 
@@ -4530,15 +4347,6 @@ Spur is an agentic QA platform that tests e-commerce sites end-to-end to catch b
 SpyCloud provides account takeover and ransomware prevention services by analyzing exposed identity data from breaches and malware to help organizations identify and address vulnerabilities before attackers can exploit them.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Integration Engineer](https://job-boards.greenhouse.io/spycloud/jobs/7758799003) · `🟢 Remote` `Senior` (Jun 2)
-- [Security Researcher III (Phishing)](https://job-boards.greenhouse.io/spycloud/jobs/7740383003) · `🟢 Remote` `Senior` (May 19)
-
----
-
-## <a href="https://stability.ai"><img src="https://www.google.com/s2/favicons?domain=stability.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Stability AI](https://stability.ai)
-
-Stability AI delivers generative AI tools and solutions for content production.
-
-- [Junior Software Engineer](http://stability.ai/careers?gh_jid=4874202101) · `🟢 Remote` `Junior` (May 23)
 
 ---
 
@@ -4557,7 +4365,6 @@ StackAdapt is an AI-powered marketing platform used by digital marketers.
 Standard Bots makes industrial collaborative robots (cobots).
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Embedded Systems ](https://jobs.ashbyhq.com/StandardBots/895d67d7-ccc9-4ee0-be7e-a4ddfbaa78b7) · Glen Cove, New York · `Senior` `$170k-$210k` `Equity` (Jun 2)
-- [Senior Software Quality Engineer (QA)](https://jobs.ashbyhq.com/StandardBots/f5fac210-b8b6-48c5-bb13-23a7e383d315) · Glen Cove, New York · `Senior` `$130k-$170k` `Equity` (May 19)
 
 ---
 
@@ -4602,7 +4409,7 @@ Stripe is a financial services platform that helps businesses accept payments, b
 - [People Systems Platform Engineer (Salesforce)](https://stripe.com/jobs/search?gh_jid=7930153) · San Francisco, California / Seattle, Washington / New York, New York / Chicago, Illinois / Remote · `Senior` (May 28)
 - [Machine Learning Engineer, Capital Underwriting](https://stripe.com/jobs/search?gh_jid=7952048) · `🟢 Remote` `Senior` (May 27)
 - [Engineering Manager, User Compliance ](https://stripe.com/jobs/search?gh_jid=7948198) · Seattle, Washington · `Manager` (May 27)
-- [Software Engineer](https://stripe.com/jobs/search?gh_jid=7922832) · Seattle, Washington · `🟡 Hybrid` `Mid` `$190k-$285k` `Equity` (May 21)
+- [Software Engineer](https://stripe.com/jobs/search?gh_jid=7926587) · New York, New York · `🟡 Hybrid` `Mid` `$156k-$235k` `Equity` (May 21)
 - [Software Engineer IC-02 ](https://stripe.com/jobs/search?gh_jid=7926966) · New York, New York · `🟡 Hybrid` `Mid` `$160k-$235k` `Equity` (May 21)
 - [Principal Security Engineer, Privy](https://stripe.com/jobs/search?gh_jid=7947546) · `🟢 Remote` `Principal` (May 20)
 - [Global Payments Experiences Engineering Manager](https://stripe.com/jobs/search?gh_jid=7940329) · N/A · `Manager` (May 20)
@@ -4640,7 +4447,6 @@ Supabase provides a backend platform built on Postgres that includes database ma
 
 - [Head of Observability](https://jobs.ashbyhq.com/Supabase/3d788231-c984-4bf7-bd8f-ca242988db4f) · `🟢 Remote` `Manager` `Equity` (Jun 1)
 - [Product Security Engineer ](https://jobs.ashbyhq.com/Supabase/8d05bc85-53f3-4ebf-b5b4-c88cdb922673) · `🟢 Remote` `Senior` `Equity` (May 27)
-- [OrioleDB Developer (AMER)](https://jobs.ashbyhq.com/Supabase/621516b5-4d8f-4ee9-8287-2da12e63d023) · `🟢 Remote` `Senior` `Equity` (May 19)
 
 ---
 
@@ -4656,6 +4462,7 @@ Sygaldry Technologies builds quantum-accelerated AI servers.
 
 T-Mobile is a wireless telecommunications company that provides network coverage, service plans, and mobile technology solutions to customers through retail locations and multiple channels.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr Engineer, Software](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineer--Software_REQ356018) · 2 Locations · `Senior` `$113k-$205k` `Equity` (Jun 3)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Manager, myHR](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--myHR_REQ348290-1) · Overland Park, Kansas · `🟡 Hybrid` `Manager` `$91k-$165k` `Equity` (Jun 2)
 - [Engineers, Software Full Stack](https://tmobile.wd1.myworkdayjobs.com/External/job/Bethesda-Maryland/Engineers--Software-Full-Stack_REQ351165) · Bethesda, Maryland · `🟡 Hybrid` `Mid` `$150k-$155k` `Equity` (Jun 1)
 - [Sr Data Scientist](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Data-Scientist_REQ347224-2) · 2 Locations · `Senior` `$106k-$191.1k` `Equity` (May 29)
@@ -4664,7 +4471,6 @@ T-Mobile is a wireless telecommunications company that provides network coverage
 - [Principal Architects, Systems](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Principal-Architects--Systems_REQ353118) · Frisco, Texas · `🟡 Hybrid` `Principal` `$154k-$175k` `Equity` (May 21)
 - [Sr Engineer, Tax Technology](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Sr-Engineer--Tax-Technology_REQ353323) · 3 Locations · `Senior` `$113k-$205k` `Equity` (May 21)
 - [Sr Software Engineer, ioS](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Sr-Software-Engineer--ioS_REQ356230) · Bellevue, Washington / Frisco, Texas / Overland Park, Kansas · `Senior` `$113k-$205k` `Equity` (May 20)
-- [Sr. Engineer, Software - EPM](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Engineer--Software---EPM_REQ354570-2) · 2 Locations · `Senior` `$113k-$205k` `Equity` (May 19)
 
 ---
 
@@ -4812,7 +4618,7 @@ Thomson Reuters provides technology solutions and content for professionals.
 - [Senior Manager, Software Engineering -Search Platform](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Manager--Software-Engineering--Search-Platform_JREQ201061) · `🟡 Hybrid` `Manager` `$118k-$219k USD` (May 29)
 - [Lead Applied Scientist, Document Understanding](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Applied-Scientist--NLP-GenAI_JREQ195790) · `🟢 Remote` `Senior` `$147k-$274k (US) / $140k-$175k CAD (Ontario)` (May 29)
 - [Senior Software Engineer - AI I](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Software-Engineer---AI-I_JREQ199416) · `🟡 Hybrid` `Senior` (May 28)
-- [Lead AI Forward Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-AI-Forward-Engineer_JREQ201044) · `🟡 Hybrid` `Senior` `$118k-$219k USD (US); $140k-$190k CAD (Ontario)` (May 28)
+- [Lead AI Forward Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Lead-AI-Forward-Engineer_JREQ198095-1) · `🟡 Hybrid` `Senior` (May 28)
 - [Risk Solutions Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Risk-Solutions-Engineer_JREQ200977) · `🟡 Hybrid` `Mid` (May 28)
 - [Lead Software Engineer – Python/React](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Lead-Software-Engineer---Python-React_JREQ201033) · New York, New York / San Francisco, California / Los Angeles, California / Irvine, California / McLean, Virginia / Washington, D.C. / Remote · `🟡 Hybrid` `Senior` `$118k-$219k` `Equity` (May 27)
 - [Manager, Salesforce Applications Support](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Manager--Salesforce-Applications-Support_JREQ200784) · `🟡 Hybrid` `Manager` (May 22)
@@ -4941,7 +4747,14 @@ True Anomaly develops capabilities for space superiority.
 - [Staff Software Engineer, Front End](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142114007) · Denver, Colorado / Long Beach, California · `Staff` `$185k-$320k` `Equity` (May 21)
 - [Senior Engineering Manager, Ground Software](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007) · Denver, Colorado / Colorado Springs, Colorado · `🟡 Hybrid` `Manager` `$190k-$320k` `Equity` (May 20)
 - [Engineering Manager, eGSE](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140261007) · Long Beach, California · `Manager` `$150k-$230k` `Equity` (May 20)
-- [Engineering Manager, Software (Modeling and Simulation)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140156007) · Denver, Colorado / Long Beach, California · `Manager` `$145k-$245k` `Equity` (May 19)
+
+---
+
+## <a href="https://www.truelinkfinancial.com"><img src="https://www.google.com/s2/favicons?domain=www.truelinkfinancial.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[True Link](https://www.truelinkfinancial.com)
+
+True Link provides financial services for financial caregivers.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://jobs.ashbyhq.com/truelinkfinancial/79a24a30-5f5a-4147-a5c2-c35e24f56802) · `🟢 Remote` `Senior` (Jun 3)
 
 ---
 
@@ -4986,14 +4799,6 @@ UiPath provides a business orchestration and automation platform that combines A
 
 ---
 
-## <a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Ursa Major](https://ursamajor.com)
-
-Ursa Major designs and delivers propulsion and defense systems, including high-performance propulsion for hypersonics, solid rocket motors, satellite maneuvering, and launch applications. The company develops these systems to address national security demands for America and its allies.
-
-- [Chief Engineer, Hypersonics Integration & Technology](https://ursamajor.com/careers/?gh_jid=4696962005) · Berthoud, Colorado · `Senior` `$175k-$230k` `Equity` (May 19)
-
----
-
 ## <a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Vanta](https://vanta.com)
 
 Vanta provides automated compliance software for startups.
@@ -5021,8 +4826,6 @@ Vantor makes spatial intelligence products that combine spatial data, AI, and so
 - [DevSecOps Engineer (TS/SCI)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/DevSecOps-Engineer--TS-SCI-_R23983) · Herndon, Virginia · `Senior` `$137k-$200.2k` (May 29)
 - [Director, DevOps and Mission Infrastructure](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Director--DevOps-and-Mission-Infrastructure_R23964) · Westminster, Colorado · `🟡 Hybrid` `Manager` `$164k-$239.8k` (May 28)
 - [DevOps Engineer (TS/SCI)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Colorado-Springs-CO/Devops-Engineer_R23970) · Colorado / Washington, D.C. Metropolitan Area · `Mid` `$102k-$149.6k (Colorado) / $113k-$165k (DC Metro)` (May 28)
-- [Software Development Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Software-Development-Engineer_R23921) · Westminster, Colorado · `🟡 Hybrid` `Senior` `$102k-$149.6k` `Equity` (May 19)
-- [Model Based Systems Engineering (MBSE) and Digital Modeling Engineer (Secret clearance)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Model-Based-Systems-Engineering--MBSE--and-Digital-Modeling-Engineer--Secret-clearance-_R23929) · El Segundo, California · `🟡 Hybrid` `Senior` `$117k-$171.6k` (May 19)
 
 ---
 
@@ -5054,8 +4857,6 @@ Varda Space Industries develops in-orbit pharmaceutical processing and reentry c
 - [Senior Fluid Systems Engineer - Pharmaceutical Payloads](https://job-boards.greenhouse.io/vardaspace/jobs/7742311003) · El Segundo, California · `Senior` `$133k-$170k` `Equity` (May 22)
 - [Avionics Systems Manager](https://job-boards.greenhouse.io/vardaspace/jobs/7746573003) · El Segundo, California · `Manager` `$170k-$198k` `Equity` (May 22)
 - [Mission Operations and Automation Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7742305003) · El Segundo, California · `Mid` `$120k-$170k` `Equity` (May 20)
-- [Automation and Controls Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7728988003) · El Segundo, California · `Mid` `$114k-$184k` `Equity` (May 19)
-- [Senior Automation and Controls Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7728987003) · El Segundo, California · `Senior` `$140k-$216k` `Equity` (May 19)
 
 ---
 
@@ -5065,8 +4866,6 @@ Vast builds habitats for human habitation and work in low-Earth orbit.
 
 - [Manager,  Engineering](https://boards.greenhouse.io/vast/jobs/4682556006?gh_jid=4682556006) · Long Beach, California · `Manager` `$150k-$215k` `Equity` (May 23)
 - [Senior Manager, Propulsion and Fluids Analysis ](https://boards.greenhouse.io/vast/jobs/4411508006?gh_jid=4411508006) · Long Beach, California · `Manager` `$164k-$232.8k` `Equity` (May 20)
-- [Life Support System Engineer II](https://boards.greenhouse.io/vast/jobs/4682799006?gh_jid=4682799006) · Long Beach, California · `Senior` `$86k–$122k` `Equity` (May 19)
-- [Staff DevOps Engineer](https://boards.greenhouse.io/vast/jobs/4682089006?gh_jid=4682089006) · Long Beach, California · `Senior` `$159k-$267.7k` `Equity` (May 19)
 
 ---
 
@@ -5078,7 +4877,6 @@ Verily builds an AI-native platform that transforms complex health data for rese
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Cloud Developer](https://verily.wd1.myworkdayjobs.com/Verily_Careers/job/Waterloo-Ontario/ATLAS-Software-Engineer_REQ-330) · Waterloo, ON · `Senior` `CAD 146k–164k` `Equity` (Jun 2)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Developer, Developer Platform](https://verily.wd1.myworkdayjobs.com/Verily_Careers/job/Waterloo-Ontario/Software-Engineer--Developer-Platform_REQ-647) · Waterloo, Ontario · `Mid` `CAD $120k-$136k` `Equity` (Jun 2)
 - [AI Applied Scientist](https://verily.wd1.myworkdayjobs.com/Verily_Careers/job/Waterloo-Ontario/AI-Applied-Scientist_REQ-790) · 2 Locations · `Mid` `CAD 139k-CAD 156.5k` `Equity` (May 27)
-- [Senior Software Developer, Developer Platform](https://verily.wd1.myworkdayjobs.com/Verily_Careers/job/Waterloo-Ontario/Senior-Software-Developer--Developer-Platform_REQ-789) · 2 Locations · `Senior` `CAD 146500-CAD 164500` `Equity` (May 19)
 
 ---
 
@@ -5133,8 +4931,6 @@ Visa provides personal payment solutions, payment cards, and rewards programs.
 - [SW Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/SW-Engineer_REF079905W) · Denver, Colorado · `🟡 Hybrid` `Junior` `$83k-$129k` `Equity` (May 20)
 - [Fullstack Senior Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Fullstack-Senior-Software-Engineer_REF081844W-1) · 2 Locations · `🟡 Hybrid` `Senior` `$110.7k-$171.8k` `Equity` (May 20)
 - [Lead SW Engineer - IC - Risk and Identity Solutions](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Lead-SW-Engineer_REF073583W) · Foster City, California · `🟡 Hybrid` `Senior` `$192k-$307k` `Equity` (May 20)
-- [Sr Data Scientist](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Sr-Data-Scientist_REF082349W) · Foster City, California · `🟡 Hybrid` `Senior` `$161k-$258k` `Equity` (May 19)
-- [Sr. Cybersecurity Analyst](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Sr-Cybersecurity-Analyst_REF070424W-1) · Ashburn, Virginia · `🟡 Hybrid` `Senior` `$131k-$210k` `Equity` (May 19)
 
 ---
 
@@ -5198,8 +4994,6 @@ Waymo makes autonomous vehicles for people and goods transportation.
 - [Engineering Manager, Rider Growth ](https://careers.withwaymo.com/jobs?gh_jid=7947564) · Mountain View, California / San Francisco, California · `🟡 Hybrid` `Manager` `$251k-$310k` `Equity` (May 26)
 - [Technical Lead Manager, Query & Storage SWE](https://careers.withwaymo.com/jobs?gh_jid=7917933) · Mountain View, California · `🟡 Hybrid` `Manager` `$251k-$310k` `Equity` (May 22)
 - [Tech Lead Manager, Data Engineer](https://careers.withwaymo.com/jobs?gh_jid=7947334) · Mountain View, California · `🟡 Hybrid` `Manager` `$251k-$310k` `Equity` (May 21)
-- [Applied Research Scientist, Multi-Modal Perception (PhD New Grad)](https://careers.withwaymo.com/jobs?gh_jid=7948348) · Mountain View, California / San Francisco, California · `🟡 Hybrid` `Junior` `$175k-$215k` `Equity` (May 21)
-- [Software Engineer, ML Inference, Simulation Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=7353876) · Mountain View, California / San Francisco, California · `🟡 Hybrid` `Mid` `$170k-$216k` `Equity` (May 19)
 
 ---
 
@@ -5207,14 +5001,13 @@ Waymo makes autonomous vehicles for people and goods transportation.
 
 Wayve develops AI software and foundation models that enable vehicles to perceive, understand, and navigate complex environments for automated driving systems. The company builds mapless, hardware-agnostic AI products designed for automakers to transition from assisted to fully automated driving.
 
-- [Engineering Manager, App SW - Embedded ](https://wayve.firststage.co/jobs?gh_jid=8571217002) · Detroit, Michigan / Sunnyvale, California · `🟡 Hybrid` `Manager` `$252.5k-$298.2k` `Equity` (May 29)
-- [Machine Learning Engineering Manager, App SW](https://wayve.firststage.co/jobs?gh_jid=8571171002) · Sunnyvale, California / Detroit, Michigan · `🟡 Hybrid` `Manager` `$336k-$381k` `Equity` (May 29)
+- [Engineering Manager, App SW - Embedded ](https://wayve.firststage.co/jobs?gh_jid=8568363002) · Detroit, Michigan / Sunnyvale, California · `🟡 Hybrid` `Manager` `$252k-$298k` `Equity` (May 29)
+- [Machine Learning Engineering Manager, App SW](https://wayve.firststage.co/jobs?gh_jid=8568364002) · Sunnyvale, California / Detroit, Michigan · `🟡 Hybrid` `Manager` `$336k-$381k` `Equity` (May 29)
 - [System Integration Engineer](https://wayve.firststage.co/jobs?gh_jid=8567734002) · Sunnyvale, California · `🟡 Hybrid` `Senior` (May 28)
 - [Machine Learning Engineer, App SW](https://wayve.firststage.co/jobs?gh_jid=8568694002) · Sunnyvale, California / Detroit, Michigan · `🟡 Hybrid` `Senior` `$283.5k-$381.6k` `Equity` (May 28)
 - [Director AV Product Engineering](https://wayve.firststage.co/jobs?gh_jid=8561338002) · London, UK / Sunnyvale, California · `🟡 Hybrid` `Manager` `$440k-$580k` `Equity` (May 27)
 - [Staff Machine Learning Engineer, AV Core](https://wayve.firststage.co/jobs?gh_jid=8562545002) · Sunnyvale, California · `🟡 Hybrid` `Staff` `$336k-$370k` `Equity` (May 22)
 - [Technical Director, Embedded Vehicle Software](https://wayve.firststage.co/jobs?gh_jid=8221919002) · Sunnyvale, California · `🟡 Hybrid` `Manager` (May 21)
-- [Engineering Manager, Embedded Automotive Platform ](https://wayve.firststage.co/jobs?gh_jid=8554492002) · Sunnyvale, California · `🟡 Hybrid` `Manager` (May 19)
 
 ---
 
@@ -5228,14 +5021,6 @@ Wealthsimple offers spending, trading, and investment services.
 - [Senior Software Developer, Business Banking](https://jobs.ashbyhq.com/wealthsimple/df32c640-3426-45ee-9d19-bcf281776fda) · `🟢 Remote` `Senior` `Equity` (May 26)
 - [Specialist, Derivatives Risk Remediation](https://jobs.ashbyhq.com/wealthsimple/eeb98d8e-1e36-4639-af18-dfc3fb780d92) · Toronto, Canada · `🟢 Remote` `Mid` (May 22)
 - [Senior Software Developer, Ledger](https://jobs.ashbyhq.com/wealthsimple/cd3bedb9-e99b-4205-8878-dadb9e27f1ac) · Toronto, Canada · `🟢 Remote` `Senior` `Equity` (May 20)
-
----
-
-## <a href="https://weekend.com"><img src="https://www.google.com/s2/favicons?domain=weekend.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Weekend (fmr. Volley)](https://weekend.com)
-
-Weekend is a TV app that offers game shows including Jeopardy!, Wheel of Fortune, and Song Quiz with voice controls, available on Roku, Fire TV, Samsung, and LG devices.
-
-- [Engineering Manager, AI Game Engine](https://jobs.ashbyhq.com/weekend/70b3cb39-6269-4d82-b21d-4ae4cf46971f) · San Francisco, California · `🟡 Hybrid` `Manager` (May 19)
 
 ---
 
@@ -5268,7 +5053,7 @@ Workato builds enterprise servers that connect AI agents to over 1,400 business 
 
 Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Cybersecurity Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cybersecurity-Engineer--US-Federal-_JR-0107626) · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity` (Jun 2)
+- [Principal Cybersecurity Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cybersecurity-Engineer--US-Federal-_JR-0107626) · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity` (Jun 2)
 - [Software Engineer and Senior Software Engineer - AI Platform](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Engineer-and-Senior-Software-Engineer---AI-Platform_JR-0106467) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$140k-$264k` `Equity` (Jun 1)
 - [Principal Cyber Security Engineer, SOC Lead (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cyber-Security-Engineer--SOC-Lead--US-Federal-_JR-0105555) · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity` (Jun 1)
 - [Senior Infrastructure Engineer - Sana](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Senior-Infrastructure-Engineer---Sana_JR-0107623-1) · 2 Locations · `Senior` (May 29)
@@ -5285,7 +5070,6 @@ Workleap makes an all-in-one employee experience platform that streamlines workf
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Developer II - ShareGate Protect](https://job-boards.greenhouse.io/workleap/jobs/5010357007) · `🟢 Remote` `Mid` `$100k-$130k CAD` (Jun 2)
 - [Software Developer II - Sharegate Platform](https://job-boards.greenhouse.io/workleap/jobs/5143274007) · `🟢 Remote` `Mid` `$100k-$130k CAD` (May 28)
-- [Software Developer II - ShareGate Migrate [Core]](https://job-boards.greenhouse.io/workleap/jobs/5133060007) · `🟢 Remote` `Senior` `$100k-$130k CAD` (May 19)
 
 ---
 
@@ -5301,7 +5085,7 @@ Writer builds an enterprise AI agent platform that helps teams execute and scale
 
 xAI creates AI systems designed to understand the universe and aid humanity in pursuing knowledge.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Ads Product ](https://job-boards.greenhouse.io/xai/jobs/5152408007) · Palo Alto, California · `Junior` `$150k - $350k USD` `Equity` (Jun 2)
+- [Software Engineer, Ads Product ](https://job-boards.greenhouse.io/xai/jobs/5152408007) · Palo Alto, California · `Junior` `$150k - $350k USD` `Equity` (Jun 2)
 - [Member of Technical Staff - Imagine Safety](https://job-boards.greenhouse.io/xai/jobs/5151022007) · Palo Alto, California · `Senior` `$180k-$440k` `Equity` (May 31)
 - [Manager, Engineering (Power Generation)](https://job-boards.greenhouse.io/xai/jobs/5150828007) · Southaven, Mississippi · `Manager` (May 29)
 - [X Developer Platform – Forward Deployed Engineer, X API](https://job-boards.greenhouse.io/xai/jobs/5136287007) · New York, New York / Palo Alto, California · `Senior` `$180k-$440k` `Equity` (May 22)
@@ -5312,7 +5096,7 @@ xAI creates AI systems designed to understand the universe and aid humanity in p
 
 Xylem develops water, wastewater, and energy solutions using smart technology.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr Software Developer](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Sr-Software-Developer_R47078) · Morrisville, North Carolina · `Senior` (Jun 2)
+- [Sr Software Developer](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Sr-Software-Developer_R47078) · Morrisville, North Carolina · `Senior` (Jun 2)
 - [Test Engineer](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Pewaukee-Wisconsin/Test-Engineer_R48617-1) · Pewaukee, Wisconsin · `Mid` (Jun 1)
 - [Software Test Automation Intern](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Software-Test-Automation-Intern_R48545) · Morrisville, North Carolina · `🟡 Hybrid` `Intern` `$21/hr-$27/hr` (May 29)
 - [Engineering Leadership Development Program](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morrisville-North-Carolina-Office/Engineering-Leadership-Development-Program_R44664) · 5 Locations · `Intern` (May 27)
