@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **368 open roles** (39 new)
+### **371 open roles** (30 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 4, 2026
+
+### [Principal DevOps Engineer](https://job-boards.greenhouse.io/hs/jobs/7983355)
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · `🟢 Remote` `Principal` `$162k-$225k` `Equity`
+
+_Define long-term cloud platform architecture and technical strategy for 65M+ users, owning reliability, observability, and developer experience standards across AWS infrastructure. Drive organizational CI/CD governance, IaC practices, and multi-year platform roadmaps while mentoring senior engineers. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7983355)_
+
+`AWS` `Terraform` `Kubernetes` `CI/CD` `SLO/SLI Design` `IaC` `Incident Management` `Observability`
+
+<sub>June 4, 2026 at 19:47 UTC</sub>
+
+---
 
 ### [Senior Cloud Engineer ](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
 <a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k (standard US) / $157k-$230k (premium markets)` `Equity`
@@ -73,17 +84,6 @@ _Design and evolve security operations platforms (SIEM/SOAR, EDR, CSPM, containe
 `SIEM/SOAR` `EDR` `CSPM` `Python` `Cloud Security` `Detection Engineering` `Security Automation` `MITRE ATT&CK`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
-
----
-
-### [Senior Cloud Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$129k-$220k` `Equity`
-
-_Design and implement defensive security controls across cloud, network, and production infrastructure; build automation tooling for threat detection and security visibility. Requires TS/SCI clearance eligibility and experience securing high-complexity defense technology systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)_
-
-`Python` `Go` `Rust` `Terraform` `AWS` `Azure` `GCP` `TS/SCI Clearance`
-
-<sub>June 4, 2026 at 17:14 UTC</sub>
 
 ---
 
@@ -2026,23 +2026,23 @@ _Lead design and management of finance data ingestion and transformation pipelin
 
 ---
 
-### [Open-Source Machine Learning Engineer - US Remote](https://apply.workable.com/huggingface/j/19A136F8E2/)
-<a href="https://huggingface.co"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hugging Face** · `🟢 Remote`
-
-_n/a (insufficient description content) · [Apply →](https://apply.workable.com/huggingface/j/19A136F8E2/)_
-
-`n/a (insufficient description content)`
-
-<sub>May 29, 2026 at 17:21 UTC</sub>
-
----
-
 ### [Principal Engineer, Technical Lead](https://jobs.ashbyhq.com/horizon3ai/2aef1e36-5d89-4723-a3c5-b7c80b537f56)
 <a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Principal` `$213k-$273k` `Equity`
 
 _Lead the technical vision and architecture for Horizon3's Risk-Based Vulnerability Management (RBVM) platform, a scalable backend system powering autonomous pentest and vulnerability assessment at enterprise scale. Balance hands-on backend development (50/50 split initially) with architectural design, cross-functional leadership, and mentorship as the team grows. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/2aef1e36-5d89-4723-a3c5-b7c80b537f56)_
 
 `Go` `Rust` `Python` `Java` `PostgreSQL` `GraphQL` `AWS` `Docker`
+
+<sub>May 29, 2026 at 17:21 UTC</sub>
+
+---
+
+### [Open-Source Machine Learning Engineer - US Remote](https://apply.workable.com/huggingface/j/19A136F8E2/)
+<a href="https://huggingface.co"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hugging Face** · `🟢 Remote`
+
+_n/a (insufficient description content) · [Apply →](https://apply.workable.com/huggingface/j/19A136F8E2/)_
+
+`n/a (insufficient description content)`
 
 <sub>May 29, 2026 at 17:21 UTC</sub>
 
@@ -3002,6 +3002,17 @@ _Build full-stack federal platform architecture and services replacing legacy sy
 
 ---
 
+### [GPU Performance Engineer - Neural Reconstruction](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/GPU-Performance-Engineer---Neural-Reconstruction_JR2018808)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `225k CAD - 340k CAD` `Equity`
+
+_Optimize end-to-end neural reconstruction and Gaussian Splatting workflows across data loading, training, and rendering using CUDA, PyTorch, and GPU profiling to improve performance and scalability. Work close to hardware on differentiable rendering and computer vision systems that push GPU computing limits, balancing training speed, memory footprint, and production reliability. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/GPU-Performance-Engineer---Neural-Reconstruction_JR2018808)_
+
+`Python` `C++` `CUDA` `PyTorch` `GPU profiling` `Nsight Systems` `Nsight Compute` `Gaussian Splatting`
+
+<sub>May 27, 2026 at 03:22 UTC</sub>
+
+---
+
 <br>
 
 ## May 26, 2026
@@ -3522,17 +3533,6 @@ _Lead QA strategy and test automation across Zwift's mobile and backend systems,
 
 ---
 
-### [Software Developer/Software Engineer in Test](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Software-Developer-Software-Engineer-in-Test_RQ220283-2)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$93.5k-$126.5k`
-
-_Design and develop automated testing frameworks and tools for complex data-driven software systems, with emphasis on database testing, data validation, and CI/CD pipeline integration. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Software-Developer-Software-Engineer-in-Test_RQ220283-2)_
-
-`TypeScript` `Node.js` `PL-SQL` `T-SQL` `Python` `Playwright` `Jenkins` `PostgreSQL`
-
-<sub>May 22, 2026 at 18:18 UTC</sub>
-
----
-
 ### [Senior Business Engineer - Ads](https://job-boards.greenhouse.io/reddit/jobs/7954598)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$180k–$252k` `Equity`
 
@@ -3660,6 +3660,17 @@ _Monitor and remediate derivative exposures exceeding $1 billion across a retail
 _Own the full lifecycle of ClickHouse's JVM-based data framework integrations, including database drivers and SDKs for Apache Spark, Flink, Kafka, and Beam that handle billions of records per second. Deep expertise in high-performance database engineering, memory management, and concurrent programming required for mission-critical data workloads at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6000801004)_
 
 `Java` `Apache Spark` `Apache Flink` `Kafka Connect` `Apache Beam` `JDBC` `Concurrent Programming` `Memory Management`
+
+<sub>May 22, 2026 at 09:22 UTC</sub>
+
+---
+
+### [Senior Firmware Engineer - GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-SC-Remote/Senior-Firmware-Engineer---GPU_JR2018453)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$152k-$241.5k` `Equity`
+
+_Build and architect foundational firmware for GPU out-of-band management, including peripheral control, secure update mechanisms, and communication telemetry systems. Work with RISC-V or similar embedded architectures at the hardware-software interface, collaborating closely with ASIC designers to define firmware-hardware protocols for next-generation GPU subsystems. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-SC-Remote/Senior-Firmware-Engineer---GPU_JR2018453)_
+
+`C` `RISC-V` `Embedded Systems` `Firmware Development` `SPI` `I2C` `PCIe` `Ada`
 
 <sub>May 22, 2026 at 09:22 UTC</sub>
 
@@ -3807,6 +3818,28 @@ _Build and scale Omada's core enrollment forecasting engine—transforming manua
 _Build core infrastructure for multi-agent orchestration, including task planning, coordination, execution, and recovery at scale across dozens of production agents. Design reliable backend services and APIs for agent discovery, state management, scheduling, and observability in a zero-to-one platform that scales from specialized agents today to enterprise-wide deployment. · [Apply →](https://www.samsara.com/company/careers/roles/7356410?gh_jid=7356410)_
 
 `Python` `Go` `Distributed Systems` `API Design` `Workflow Orchestration` `Event-Driven Systems` `Observability`
+
+<sub>May 21, 2026 at 20:45 UTC</sub>
+
+---
+
+### [Synthetic Data Generation and User Simulation PhD Research Intern — Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `🟢 Remote` `Intern` `$30-$94 (hourly)`
+
+_Conduct research on synthetic data generation and user simulation for LLM training, developing methods for behavioral calibration of simulated users, trajectory synthesis, and data-quality estimation that measurably improve downstream model performance. Requires pursuing or holding a PhD in Computer Science, Machine Learning, or related field with publication experience at top-tier AI conferences. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317)_
+
+`Python` `PyTorch` `HuggingFace` `vLLM` `Generative Modeling` `LLM Post-training` `Reward Modeling` `PhD Preferred`
+
+<sub>May 21, 2026 at 20:45 UTC</sub>
+
+---
+
+### [Quantum Error Correction Research Scientist Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Intern` `$20-$71/hr`
+
+_Develop automated quantum error correction code discovery pipelines and ML-based decoders using AI-driven automation to identify and evaluate high-performance quantum error correcting codes. Work with NVIDIA's cuQuantum and CUDA-Q platforms on frontier research at the intersection of quantum code design, neural decoders, and tensor network simulation methods. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628)_
+
+`Python` `Quantum Error Correction` `Machine Learning` `PyTorch` `TensorFlow` `cuQuantum` `CUDA-Q` `Tensor Networks`
 
 <sub>May 21, 2026 at 20:45 UTC</sub>
 
