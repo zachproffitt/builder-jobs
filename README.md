@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2487 open roles** (261 new) &nbsp;·&nbsp; 1695 companies searched
+### **2520 open roles** (264 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,72 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 4, 2026
+
+### [GNC Engineer, Sr.](https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/GNC-Engineer--Sr_7855)
+<a href="https://avinc.com"><img src="https://www.google.com/s2/favicons?domain=avinc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AeroVironment** · Lawrence, Kansas · `Senior` `$111k-$158k`
+
+_Develop guidance, navigation, and control (GN&C) systems for autonomous aircraft and unmanned air vehicles, including autopilot hardware/software, flight control systems, and inertial navigation. Requires US citizenship and ITAR compliance for defense contracting. · [Apply →](https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/GNC-Engineer--Sr_7855)_
+
+`Control Systems` `MATLAB` `Simulink` `Flight Dynamics` `Autopilot Systems` `Monte Carlo Simulation` `Hardware-in-the-Loop Testing` `State Space Analysis`
+
+<sub>June 4, 2026 at 13:25 UTC</sub>
+
+---
+
+### [Manager, Data Analysis - Card Data](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Analysis---Card-Data_R243060-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia / Richmond, Virginia · `Manager` `$149k-$188k` `Equity`
+
+_Lead a team of data analysts building statistical models and analytics infrastructure for credit card product strategy and customer experience optimization. Work with billions of records in production systems at a Fortune 200 company prioritizing data-driven decision-making. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Analysis---Card-Data_R243060-1)_
+
+`Python` `R` `SQL` `Spark` `Tableau` `AWS` `Statistics` `SQL`
+
+<sub>June 4, 2026 at 13:25 UTC</sub>
+
+---
+
+### [Cybersecurity Engineer Principal](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Fort-Belvoir/Cybersecurity-Engineer-Principal_RQ221594-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Fort Belvoir, Virginia · `Principal` `$187k-$253k`
+
+_Architect and oversee cybersecurity platform modernization (Splunk, PaloAlto, AWS, Azure) and risk management frameworks for DoD nuclear stockpile defense systems; requires active Top Secret/SCI clearance and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Fort-Belvoir/Cybersecurity-Engineer-Principal_RQ221594-1)_
+
+`Network Security` `System Security` `Risk Management Framework` `eMASS` `Splunk` `PaloAlto` `AWS` `Azure`
+
+<sub>June 4, 2026 at 13:25 UTC</sub>
+
+---
+
+### [Operations Research Systems Analyst (ORSA) MID-TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-HI-Pearl-Harbor/Operations-Research-Systems-Analyst--ORSA--MID-TS-SCI-with-Polygraph_RQ220947-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Pearl Harbor, Hawaii · `Mid` `$110k-$149k`
+
+_Apply operations research, mathematical modeling, and simulation techniques to optimize intelligence operations and support data-driven decision-making across the Indo-Pacific theater. Requires active TS/SCI clearance with polygraph and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-HI-Pearl-Harbor/Operations-Research-Systems-Analyst--ORSA--MID-TS-SCI-with-Polygraph_RQ220947-1)_
+
+`Python` `R` `MATLAB` `Mathematical Modeling` `Simulation` `Operations Research` `Decision Analysis` `TS/SCI Clearance`
+
+<sub>June 4, 2026 at 13:25 UTC</sub>
+
+---
+
+### [Sr. Technical Oracle EBS R12 and Oracle EPM Developer](https://mavenir.wd1.myworkdayjobs.com/Mavenir_Careers/job/Richardson-Texas/Sr-Technical-Oracle-EBS-R12-and-Oracle-EPM-Developer_R0016246)
+<a href="https://mavenir.com"><img src="https://www.google.com/s2/favicons?domain=mavenir.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mavenir** · 2 Locations · `Senior`
+
+_Build and maintain Oracle ERP R12 EBS financial systems and Oracle Enterprise Performance Management (EPM) infrastructure; support Order-to-Cash and Procure-to-Pay workflows across global finance operations. Requires 8+ years in corporate finance or accounting with deep technical expertise in Oracle Financials modules, SQL/PL/SQL, and EPM integration. · [Apply →](https://mavenir.wd1.myworkdayjobs.com/Mavenir_Careers/job/Richardson-Texas/Sr-Technical-Oracle-EBS-R12-and-Oracle-EPM-Developer_R0016246)_
+
+`Oracle EBS R12` `Oracle EPM` `SQL` `PL/SQL` `XML` `BI Publisher` `Oracle Reports` `Oracle Financials`
+
+<sub>June 4, 2026 at 13:25 UTC</sub>
+
+---
+
+### [Staff R&D Robotics Electrical Engineer (Pittsburgh, PA)](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Staff-R-D-Robotics-Electrical-Engineer--Pittsburgh--PA-_R91137)
+<a href="https://smith-nephew.com"><img src="https://www.google.com/s2/favicons?domain=smith-nephew.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Smith & Nephew** · Pittsburgh, Pennsylvania · `🟡 Hybrid` `Staff`
+
+_Lead electrical design of next-generation surgical robotic systems for joint replacement procedures, from concept through production. Requires hands-on PCBA design, embedded systems integration, and cross-functional collaboration in a regulated medical device environment. · [Apply →](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Staff-R-D-Robotics-Electrical-Engineer--Pittsburgh--PA-_R91137)_
+
+`Altium` `Embedded Systems` `Microcontrollers` `PCB Layout` `SPI` `I2C` `USB` `EtherCAT`
+
+<sub>June 4, 2026 at 13:25 UTC</sub>
+
+---
 
 ### [Sr Mgr, Software Development Engineering](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Bangalore-Non-SEZ/Sr-Mgr--Software-Development-Engineering_RP1037715)
 <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**F5 Networks** · 2 Locations · `Manager`
@@ -600,7 +666,7 @@ _Lead the design and implementation of next-generation testing and automation pl
 ---
 
 ### [Principal Cybersecurity Engineer - US Federal](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cybersecurity-Engineer---US-Federal_JR-0106554)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity`
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Principal` `$184k-$277k` `Equity`
 
 _Build and lead cybersecurity operations for Workday's air-gapped classified cloud environment serving US federal agencies, owning vulnerability management, incident response, threat hunting, and threat detection. Requires TS/SCI clearance and US citizenship; work involves classified systems in high-stakes government infrastructure. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cybersecurity-Engineer---US-Federal_JR-0106554)_
 
@@ -1029,7 +1095,7 @@ _Build and operate cloud infrastructure, CI/CD pipelines, and Kubernetes-based m
 ---
 
 ### [Software Development Engineer--Pipedream Connect](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Software-Development-Engineer--Pipedream-Connect_JR-0107821)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · San Francisco, California · `🟡 Hybrid` `Senior` `$148k-$222k` `Equity`
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · San Francisco, California · `🟡 Hybrid` `Senior` `$148k-$222k` `Equity`
 
 _Build connectors and integrations for Pipedream Connect, enabling AI agents to access third-party APIs and applications at enterprise scale. Work across a modern stack (Go, Node.js, Rust, Rails, Kotlin) on features like progressive auth scopes, service-level account management, and document normalization across platforms. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Software-Development-Engineer--Pipedream-Connect_JR-0107821)_
 
@@ -1798,12 +1864,12 @@ _Develop and deploy machine vision systems for automated manufacturing lines, in
 
 ---
 
-### [Senior Software Engineer, XR Tools (Sand Table)](https://boards.greenhouse.io/andurilindustries/jobs/5154531007?gh_jid=5154531007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Seattle, Washington · `Senior` `$191k-$253k` `Equity`
+### [Senior Software Engineer, XR Tools (Sand Table)](https://boards.greenhouse.io/andurilindustries/jobs/5154536007?gh_jid=5154536007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Senior` `$191k-$253k` `Equity`
 
-_Build deployment pipelines, launcher applications, and calibration tools for high-stakes XR demonstrations powering Anduril's Sand Table defense visualization platform. Requires ability to obtain Secret security clearance and solve complex hardware-software integration challenges in real-time systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5154531007?gh_jid=5154531007)_
+_Build distribution pipelines, deployment tools, and XR calibration systems for Sand Table, Anduril's AI-powered 3D command center platform. Requires Secret clearance and involves performance-critical C++ development for high-stakes military demonstrations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5154536007?gh_jid=5154536007)_
 
-`C++` `XR/Extended Reality` `OpenXR` `TypeScript` `Electron` `3D Math` `Real-time Rendering` `Secret Clearance`
+`C++` `XR/Extended Reality` `OpenXR` `TypeScript` `Electron` `Spatial Tracking` `Performance Profiling` `Secret Clearance`
 
 <sub>June 3, 2026 at 17:52 UTC</sub>
 
@@ -1862,23 +1928,12 @@ _Own system-level architecture and integration for industrial imaging systems, b
 
 ---
 
-### [Staff Software Engineer - Apache Spark](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Staff-Software-Engineer---Apache-Spark_260440)
-<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Staff` `$184k-$230k`
+### [Sr. Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Engineer_R169112)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$159.2k-$301.6k` `Equity`
 
-_Build next-generation features for Apache Spark and Cloudera's Data Engineering Experience, operating at massive scale on thousands of production nodes processing petabytes of data. Deep expertise in distributed systems, SQL optimization, and modern table formats (Parquet, Iceberg) required; you'll be a core contributor to Apache Spark open-source. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Staff-Software-Engineer---Apache-Spark_260440)_
+_Build 3D asset pipelines and web APIs enabling enterprise customers to create, transform, and deliver digital twin content for ecommerce and web experiences. Work with USD scene structures, distributed systems on Kubernetes, and multiple cloud platforms (AWS, Azure) at production scale. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Engineer_R169112)_
 
-`Scala` `Java` `Python` `Apache Spark` `Apache Iceberg` `Distributed Systems` `SQL Optimization` `JVM`
-
-<sub>June 3, 2026 at 17:52 UTC</sub>
-
----
-
-### [Staff Software Engineer - Apache Iceberg](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Washington-Remote/Staff-Software-Engineer---Apache-Iceberg_260845-1)
-<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Staff` `$184k-$230k`
-
-_Drive the evolution of Apache Iceberg as a core contributor, architecting performance improvements and new features across Cloudera's data lake platform handling petabyte-scale datasets. Work on distributed systems spanning hundreds to thousands of production nodes in multi-cloud environments, directly influencing the open-source project's direction. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Washington-Remote/Staff-Software-Engineer---Apache-Iceberg_260845-1)_
-
-`Java` `Apache Iceberg` `Distributed Systems` `SQL optimization` `Scala` `C++` `Python`
+`TypeScript` `React` `Python` `C++` `USD` `Kubernetes` `AWS` `Azure`
 
 <sub>June 3, 2026 at 17:52 UTC</sub>
 
@@ -1906,12 +1961,23 @@ _Lead a portfolio of backend microservices and cloud-based financial systems bui
 
 ---
 
-### [Sr. Software Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Engineer_R169112)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$159.2k-$301.6k` `Equity`
+### [Staff Software Engineer - Apache Spark](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Staff-Software-Engineer---Apache-Spark_260440)
+<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Staff` `$184k-$230k`
 
-_Build 3D asset pipelines and web APIs enabling enterprise customers to create, transform, and deliver digital twin content for ecommerce and web experiences. Work with USD scene structures, distributed systems on Kubernetes, and multiple cloud platforms (AWS, Azure) at production scale. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Engineer_R169112)_
+_Build next-generation features for Apache Spark and Cloudera's Data Engineering Experience, operating at massive scale on thousands of production nodes processing petabytes of data. Deep expertise in distributed systems, SQL optimization, and modern table formats (Parquet, Iceberg) required; you'll be a core contributor to Apache Spark open-source. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Remote/Staff-Software-Engineer---Apache-Spark_260440)_
 
-`TypeScript` `React` `Python` `C++` `USD` `Kubernetes` `AWS` `Azure`
+`Scala` `Java` `Python` `Apache Spark` `Apache Iceberg` `Distributed Systems` `SQL Optimization` `JVM`
+
+<sub>June 3, 2026 at 17:52 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Apache Iceberg](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Washington-Remote/Staff-Software-Engineer---Apache-Iceberg_260845-1)
+<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Staff` `$184k-$230k`
+
+_Drive the evolution of Apache Iceberg as a core contributor, architecting performance improvements and new features across Cloudera's data lake platform handling petabyte-scale datasets. Work on distributed systems spanning hundreds to thousands of production nodes in multi-cloud environments, directly influencing the open-source project's direction. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Washington-Remote/Staff-Software-Engineer---Apache-Iceberg_260845-1)_
+
+`Java` `Apache Iceberg` `Distributed Systems` `SQL optimization` `Scala` `C++` `Python`
 
 <sub>June 3, 2026 at 17:52 UTC</sub>
 
@@ -2005,17 +2071,6 @@ _Lead the GSLB/DNS and Service Provider Protocol engineering teams building load
 
 ---
 
-### [Systems Engineer I](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sunnyvale/Systems-Engineer-I_31152140)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · Sunnyvale, California · `Junior` `$73.9k-$116k`
-
-_Develop and validate algorithms and system requirements for cardiac rhythm management medical devices. Medical device industry experience required; FDA regulatory compliance and clinical evaluation of diagnostic systems are central to the role. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sunnyvale/Systems-Engineer-I_31152140)_
-
-`Medical device development` `FDA regulations` `Systems engineering` `Algorithm development` `MATLAB` `Simulink` `Python`
-
-<sub>June 3, 2026 at 17:52 UTC</sub>
-
----
-
 ### [Sr Analyst I Software Engineering (CyberLife - Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA-IN-Client-Site-CSC-Location/Sr-Analyst-I-Software-Engineering--CyberLife---Developer_51581773)
 <a href="https://dxc.technology"><img src="https://www.google.com/s2/favicons?domain=dxc.technology&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**DXC Technology** · Indianapolis, Indiana · `Senior`
 
@@ -2033,6 +2088,17 @@ _Develop and modernize COBOL-based core insurance platforms for Life & Annuity p
 _Lead a BI and data engineering team building dashboards, reports, and ETL pipelines for government enterprise systems; requires active Secret clearance and hands-on BI development using tools like Power BI, Oracle reporting suites, and Ab Initio. · [Apply →](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---VA---ASHBURN/Associate-Manager-Data-Engineering_51581938)_
 
 `Power BI` `Oracle Database` `Ab Initio` `ETL` `Oracle OBIEE` `Kafka` `Kibana` `Secret Clearance`
+
+<sub>June 3, 2026 at 17:52 UTC</sub>
+
+---
+
+### [Systems Engineer I](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sunnyvale/Systems-Engineer-I_31152140)
+<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · Sunnyvale, California · `Junior` `$73.9k-$116k`
+
+_Develop and validate algorithms and system requirements for cardiac rhythm management medical devices. Medical device industry experience required; FDA regulatory compliance and clinical evaluation of diagnostic systems are central to the role. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sunnyvale/Systems-Engineer-I_31152140)_
+
+`Medical device development` `FDA regulations` `Systems engineering` `Algorithm development` `MATLAB` `Simulink` `Python`
 
 <sub>June 3, 2026 at 17:52 UTC</sub>
 
@@ -2313,23 +2379,23 @@ _Design and deploy secure, scalable generative AI services and microservices for
 
 ---
 
-### [Director of Engineering, Product Platforms](https://job-boards.greenhouse.io/aerospike/jobs/8480410002)
-<a href="https://aerospike.com"><img src="https://www.google.com/s2/favicons?domain=aerospike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aerospike** · Mountain View, California · `🟡 Hybrid` `Manager` `$250k-$300k`
-
-_Lead engineering teams building Aerospike Cloud—a multi-tenant, cloud-native platform serving as the foundation for all Aerospike products, including control planes, billing, licensing, and telemetry systems. Requires 5+ years of technical leadership experience and deep expertise in distributed systems, Kubernetes, and cloud infrastructure (AWS/GCP/Azure). · [Apply →](https://job-boards.greenhouse.io/aerospike/jobs/8480410002)_
-
-`Go` `Java` `Kubernetes` `AWS` `Docker` `Terraform` `PostgreSQL` `Datadog`
-
-<sub>June 3, 2026 at 17:52 UTC</sub>
-
----
-
 ### [Software Engineering Manager, Robotics Neural Reconstruction and Real2Sim Applications](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager--Robotics-Neural-Reconstruction-and-Real2Sim-Applications_JR2019107)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Manager` `$224k-$431.25k` `Equity`
 
 _Lead a robotics team building neural reconstruction and real-to-sim technologies for creating digital twins and robot learning applications. Drive hands-on development of 3D reconstruction algorithms, physics simulation tools, and sim-to-real transfer systems integrated with NVIDIA's Isaac platform at scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager--Robotics-Neural-Reconstruction-and-Real2Sim-Applications_JR2019107)_
 
 `Python` `C++` `PyTorch` `TensorFlow` `JAX` `Isaac Sim` `MuJoCo` `GPU computing`
+
+<sub>June 3, 2026 at 17:52 UTC</sub>
+
+---
+
+### [Director of Engineering, Product Platforms](https://job-boards.greenhouse.io/aerospike/jobs/8480410002)
+<a href="https://aerospike.com"><img src="https://www.google.com/s2/favicons?domain=aerospike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aerospike** · Mountain View, California · `🟡 Hybrid` `Manager` `$250k-$300k`
+
+_Lead engineering teams building Aerospike Cloud—a multi-tenant, cloud-native platform serving as the foundation for all Aerospike products, including control planes, billing, licensing, and telemetry systems. Requires 5+ years of technical leadership experience and deep expertise in distributed systems, Kubernetes, and cloud infrastructure (AWS/GCP/Azure). · [Apply →](https://job-boards.greenhouse.io/aerospike/jobs/8480410002)_
+
+`Go` `Java` `Kubernetes` `AWS` `Docker` `Terraform` `PostgreSQL` `Datadog`
 
 <sub>June 3, 2026 at 17:52 UTC</sub>
 
@@ -2539,6 +2605,17 @@ _Design and build agentic AI workflows and LLM-powered systems for a loan origin
 _Lead a cross-functional software engineering team building scalable backend applications and APIs for commercial real estate capital solutions. You'll provide technical leadership on Python, PostgreSQL, Kafka, and AWS infrastructure while managing team development and execution across the full software development lifecycle. · [Apply →](https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Remote---USA/Engineering-Manager_Req-1925-1)_
 
 `Python` `PostgreSQL` `Kafka` `AWS` `Airflow` `API Development` `Distributed Systems` `Mapbox`
+
+<sub>June 3, 2026 at 15:46 UTC</sub>
+
+---
+
+### [ServiceNow Developer (ITSM Module) At Client Site in Ottawa](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856)
+<a href="https://dxc.technology"><img src="https://www.google.com/s2/favicons?domain=dxc.technology&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**DXC Technology** · Ottawa, ON · `Senior`
+
+_Design, develop, and configure ServiceNow ITSM/ITOM solutions including workflows, forms, scripts, and integrations. Requires Top Secret clearance with Canadian government and Canadian citizenship with 10 years verifiable history on Canadian soil. · [Apply →](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/CAN---ON---OTTAWA/ServiceNow-Developer-At-Client-Site_51523856)_
+
+`ServiceNow` `JavaScript` `Business Rules` `ITSM` `ITOM` `Discovery` `Service Mapping` `Event Management`
 
 <sub>June 3, 2026 at 15:46 UTC</sub>
 
@@ -2838,50 +2915,6 @@ _Maintain and monitor AWS RDS database environments, handling patching, backups,
 `T-SQL` `SQL Server` `AWS` `Python` `PowerShell` `Datadog` `Terraform`
 
 <sub>June 3, 2026 at 13:58 UTC</sub>
-
----
-
-### [Staff Software Engineer - Data Services](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Massachusetts-Remote/Staff-Software-Engineer---Data-Services_260841-1)
-<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Staff`
-
-_Build enterprise-grade Apache Airflow orchestration infrastructure for Cloudera Data Engineering, enabling multi-tenant workflow scheduling and execution across Kubernetes, multi-cloud, and on-premises environments at scale. Drive the technical roadmap for integrating Airflow with Spark and Iceberg lakehouse architectures while contributing back to the open-source community. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Massachusetts-Remote/Staff-Software-Engineer---Data-Services_260841-1)_
-
-`Apache Airflow` `Python` `Kubernetes` `Spark` `Scala` `Java` `Distributed Systems` `Cloud-Native Architecture`
-
-<sub>June 3, 2026 at 11:47 UTC</sub>
-
----
-
-### [Sr. Lead Software Engineer - Front End (Angular, JavaScript, CSS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Lead-Software-Engineer---Front-End--Angular--JavaScript--CSS-_R243734-1)
-<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia · `Manager` `$229900-$262400` `Equity`
-
-_Lead a frontend engineering team building distributed microservices and full-stack cloud applications using Angular, React, and Node.js. Requires 6+ years of software engineering experience and 1+ year of cloud computing (AWS, Azure, GCP). · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Lead-Software-Engineer---Front-End--Angular--JavaScript--CSS-_R243734-1)_
-
-`Angular` `JavaScript` `TypeScript` `React` `Node.js` `HTML/CSS` `AWS` `Azure`
-
-<sub>June 3, 2026 at 11:47 UTC</sub>
-
----
-
-### [Principal Engineer](https://motional.com/open-positions/?gh_jid=7692527003#/7692527003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · `🟢 Remote` `Principal` `$240k-$330k` `Equity`
-
-_Design and deploy machine learning models for motion planning and behavior prediction in autonomous vehicles, including reinforcement learning and generative AI systems. Leadership role requiring execution of large-scale technical initiatives and productionization onto AV fleets. · [Apply →](https://motional.com/open-positions/?gh_jid=7692527003#/7692527003)_
-
-`Python` `PyTorch` `TensorFlow` `C++` `CUDA` `Reinforcement Learning` `Generative AI` `PhD Preferred`
-
-<sub>June 3, 2026 at 11:47 UTC</sub>
-
----
-
-### [Staff Engineer](https://motional.com/open-positions/?gh_jid=7685750003#/7685750003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Las Vegas, Nevada / Pittsburgh, Pennsylvania / Remote · `🟢 Remote` `Staff` `$205k-$272k` `Equity`
-
-_Design and lead the implementation of ML models for autonomous vehicle behavior prediction and motion planning, deploying solutions to production robotaxi fleets. Requires proven track record shipping ML systems for autonomous vehicles or robotics at scale. · [Apply →](https://motional.com/open-positions/?gh_jid=7685750003#/7685750003)_
-
-`PyTorch` `TensorFlow` `Python` `C++` `CUDA` `Reinforcement Learning` `Generative AI` `Autonomous Driving`
-
-<sub>June 3, 2026 at 11:47 UTC</sub>
 
 ---
 
