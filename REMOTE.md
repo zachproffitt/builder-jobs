@@ -900,23 +900,23 @@ _Build infrastructure, tooling, and documentation that makes AI coding agents dr
 
 ---
 
-### [QA Engineer - Mortgage](https://jobs.ashbyhq.com/loancrate/9c4c1f30-e0e2-4533-a91b-8af60dab0bf7)
-<a href="https://loancrate.com"><img src="https://www.google.com/s2/favicons?domain=loancrate.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LoanCrate** · `🟢 Remote` `Mid`
-
-_Build and own the regression test suite and release verification process for an AI-native mortgage origination platform, testing end-to-end workflows across loan types and catching bugs before they reach customers. Lead the QA function as the first dedicated QA hire, with opportunities to scale the team and define quality standards across a fintech product handling billions in annual loan volume. · [Apply →](https://jobs.ashbyhq.com/loancrate/9c4c1f30-e0e2-4533-a91b-8af60dab0bf7)_
-
-`Playwright` `Cypress` `Selenium` `JSON` `API testing` `Browser DevTools` `Mortgage Operations` `Loan Origination Systems`
-
-<sub>June 1, 2026 at 22:10 UTC</sub>
-
----
-
 ### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$96k-$130k`
 
 _Build full-stack Java applications supporting USPS enterprise software modernization, including microservices, event-driven architectures, and cloud-native deployments. Requires Public Trust clearance and U.S. residency for the last 5 years. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ221005)_
 
 `Java` `Spring Framework` `Hibernate` `Oracle` `Kafka` `Kubernetes` `Jenkins` `JavaScript`
+
+<sub>June 1, 2026 at 22:10 UTC</sub>
+
+---
+
+### [QA Engineer - Mortgage](https://jobs.ashbyhq.com/loancrate/9c4c1f30-e0e2-4533-a91b-8af60dab0bf7)
+<a href="https://loancrate.com"><img src="https://www.google.com/s2/favicons?domain=loancrate.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LoanCrate** · `🟢 Remote` `Mid`
+
+_Build and own the regression test suite and release verification process for an AI-native mortgage origination platform, testing end-to-end workflows across loan types and catching bugs before they reach customers. Lead the QA function as the first dedicated QA hire, with opportunities to scale the team and define quality standards across a fintech product handling billions in annual loan volume. · [Apply →](https://jobs.ashbyhq.com/loancrate/9c4c1f30-e0e2-4533-a91b-8af60dab0bf7)_
+
+`Playwright` `Cypress` `Selenium` `JSON` `API testing` `Browser DevTools` `Mortgage Operations` `Loan Origination Systems`
 
 <sub>June 1, 2026 at 22:10 UTC</sub>
 
@@ -2239,6 +2239,17 @@ _Build the core agent execution runtime, orchestration primitives, and cloud inf
 
 ---
 
+### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
+
+_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
+
+`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
+
+<sub>May 28, 2026 at 19:06 UTC</sub>
+
+---
+
 ### [Senior Full Stack Engineer (Frontend Leaning - Canada)](https://jobs.ashbyhq.com/loot-labs/561c8628-df7b-4ad9-9026-8263b84674a8)
 <a href="https://lootlabs.gg"><img src="https://www.google.com/s2/favicons?domain=lootlabs.gg&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Loot Labs** · `🟢 Remote` `Senior`
 
@@ -2256,17 +2267,6 @@ _Build high-performance web applications for a collectibles platform, owning fea
 _Design and scale backend systems for a digital collectibles platform, building production-grade APIs and infrastructure using AWS and TypeScript. Lead architecture decisions for e-commerce and community features serving 500k+ users with 5+ years of senior backend experience required. · [Apply →](https://jobs.ashbyhq.com/loot-labs/7b455997-2ef3-4ecb-9e34-edfd91a7225c)_
 
 `TypeScript` `AWS` `GraphQL` `DynamoDB` `Lambda` `SST` `Terraform` `PostgreSQL`
-
-<sub>May 28, 2026 at 19:06 UTC</sub>
-
----
-
-### [Network Engineering Manager](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$131k-$178k`
-
-_Manage network infrastructure, security operations, and engineering teams for EPA's MAINES contract, overseeing zero trust architecture, cloud networking, and vendor relationships. Requires US citizenship and NACI (T1) clearance eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Network-Engineering-Manager_RQ220856-1)_
-
-`Zscaler` `AWS` `MPLS` `Cisco` `F5` `Zero Trust Architecture` `Routing/Switching/Wireless`
 
 <sub>May 28, 2026 at 19:06 UTC</sub>
 
