@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2287 open roles** (64 new) &nbsp;·&nbsp; 1695 companies searched
+### **2321 open roles** (47 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 6, 2026
+
+### [Engineering Manager, Front-End](https://jobs.ashbyhq.com/axle-health/2041d939-e7b6-4de7-bf5d-4507d1b9abdd)
+<a href="https://www.axlehealth.com"><img src="https://www.google.com/s2/favicons?domain=www.axlehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Axle Health** · Santa Monica, California · `Manager` `Equity`
+
+_Lead Axle's Front-End and Mobile Engineering team while spending the majority of your time writing, reviewing, and shipping code for web and mobile applications used by clinicians, schedulers, and patients in home healthcare. Build and maintain systems compliant with healthcare data security standards (HIPAA, SOC-2, HITRUST). · [Apply →](https://jobs.ashbyhq.com/axle-health/2041d939-e7b6-4de7-bf5d-4507d1b9abdd)_
+
+`React` `TypeScript` `React Native` `JavaScript` `Node.js` `GraphQL` `REST APIs` `AWS`
+
+<sub>June 6, 2026 at 21:30 UTC</sub>
+
+---
 
 ### [Software Engineer](https://jobs.lever.co/protolabs/929fbd6f-878b-4042-a702-77390078618e)
 <a href="https://hubs.com"><img src="https://www.google.com/s2/favicons?domain=hubs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hubs** · Maple Plain, Minnesota · `🟡 Hybrid`
@@ -515,204 +526,6 @@ _Build and maintain SAP S/4HANA financial systems and data pipelines for Toyota'
 `SAP S/4HANA` `SAP FICO` `Snowflake` `AWS` `Informatica` `Tableau` `Data Integration` `API Technologies`
 
 <sub>June 5, 2026 at 21:38 UTC</sub>
-
----
-
-### [Senior Software Engineer](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Boston/Senior-Software-Engineer_R-101243)
-<a href="https://alegeus.com"><img src="https://www.google.com/s2/favicons?domain=alegeus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alegeus** · Boston, Massachusetts · `🟡 Hybrid` `Senior` `$88k-$149.9k`
-
-_Build high-performance, transactional SaaS applications for fintech and healthtech platforms using C#, .NET, and SQL Server. Work with microservices architecture, Azure cloud, and Kubernetes in a hybrid role (25% in Boston office). · [Apply →](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Boston/Senior-Software-Engineer_R-101243)_
-
-`C#` `.NET 8.0` `ASP.NET Web API` `T-SQL` `SQL Server` `Azure` `Kubernetes` `Dapper`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Data Architect (Remote)](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580946002&gh_jid=8580946002)
-<a href="https://axiomspace.com"><img src="https://www.google.com/s2/favicons?domain=axiomspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Axiom Space** · `🟢 Remote` `Senior` `$148k-$172k`
-
-_Design and maintain Axiom's enterprise data model across disparate systems, establishing data governance policies, quality standards, and ensuring reliable data assets that enable AI initiatives. Manage a Data Engineer, coordinate with enterprise applications leadership, and administer the Databricks environment in a matrixed organization. · [Apply →](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8580946002&gh_jid=8580946002)_
-
-`SQL` `Python` `Databricks` `Salesforce` `Workday` `Data Governance` `Data Modeling` `Enterprise Architecture`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Forward-Deployed AI Engineer - Marketing Analytics & Data Science](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Forward-Deployed-AI-Engineer---Marketing-Analytics---Data-Science_R169366-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Senior` `$133k-$236k` `Equity`
-
-_Build AI-powered tools and automations embedded within Adobe's marketing teams, deploying agentic systems that transform marketing workflows from first principles. Work directly with marketing operations teams, rapidly prototype solutions based on their feedback, and establish scalable patterns across the Growth Marketing & Insights organization. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Forward-Deployed-AI-Engineer---Marketing-Analytics---Data-Science_R169366-1)_
-
-`Python` `SQL` `Claude API` `Agent Frameworks` `Azure` `AWS` `LLMs` `Prompt Engineering`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Senior DevSecOps Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-DevSecOps-Engineer_JR2026513770-1)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Berkeley, Missouri · `Senior` `$136k - $185k`
-
-_Lead the design, deployment, and maintenance of Mission Systems software development environments across multiple security levels, including CI/CD pipelines, Infrastructure as Code, and cloud/on-premises infrastructure. Requires ability to obtain U.S. Secret Clearance and U.S. citizenship. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-DevSecOps-Engineer_JR2026513770-1)_
-
-`Kubernetes` `Docker` `AWS` `Azure` `Infrastructure as Code` `CI/CD` `Python` `Security Clearance`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Backend Engineer](https://jobs.ashbyhq.com/echomark/85f6f822-b28c-499f-8a97-cbc071352da9)
-<a href="https://echomark.com"><img src="https://www.google.com/s2/favicons?domain=echomark.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EchoMark** · Bellevue, Washington · `Mid`
-
-_Design and scale backend services for a document forensics and data leak detection platform, building cloud infrastructure, database schemas, and security-hardened APIs that process and track personalized markings embedded in sensitive documents. · [Apply →](https://jobs.ashbyhq.com/echomark/85f6f822-b28c-499f-8a97-cbc071352da9)_
-
-`Python` `C#` `Java` `AWS` `Azure` `GCP` `Terraform` `PostgreSQL`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Engineering Lead ](https://jobs.ashbyhq.com/echomark/51c95280-09ca-46c9-b65f-e34e76f03c20)
-<a href="https://echomark.com"><img src="https://www.google.com/s2/favicons?domain=echomark.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EchoMark** · Bellevue, Washington · `Manager`
-
-_Lead and scale the engineering team building EchoMark's multitenant SaaS platform for document forensics and data leak tracking; requires hands-on technical leadership with proven experience shipping enterprise B2B products at scale. · [Apply →](https://jobs.ashbyhq.com/echomark/51c95280-09ca-46c9-b65f-e34e76f03c20)_
-
-`SaaS Architecture` `Multitenant Systems` `B2B Product Development` `Document Processing` `Enterprise Security`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Senior Backend Engineer ](https://jobs.ashbyhq.com/echomark/24a2205d-ab58-4023-ae81-debe6222ce5d)
-<a href="https://echomark.com"><img src="https://www.google.com/s2/favicons?domain=echomark.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EchoMark** · Bellevue, Washington · `Senior`
-
-_Design and scale infrastructure-as-code tooling and backend services for a multi-tenant document forensics platform supporting commercial, government, and on-premises deployments. Deep experience with cloud infrastructure (AWS/Azure/GCP) and distributed systems at scale required. · [Apply →](https://jobs.ashbyhq.com/echomark/24a2205d-ab58-4023-ae81-debe6222ce5d)_
-
-`C#` `Python` `Java` `Terraform` `AWS` `Azure` `GCP` `Infrastructure as Code`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Software Engineer ](https://jobs.ashbyhq.com/echomark/3b46dd3e-9137-423a-89b0-962a114dcc2c)
-<a href="https://echomark.com"><img src="https://www.google.com/s2/favicons?domain=echomark.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EchoMark** · Bellevue, Washington · `Mid`
-
-_Design and build full-stack products for document watermarking and data leak tracking, from database schema and backend services to frontend interfaces. Ship complete features end-to-end with ownership over architecture, customer experience, and technical direction. · [Apply →](https://jobs.ashbyhq.com/echomark/3b46dd3e-9137-423a-89b0-962a114dcc2c)_
-
-`Python` `Java` `C#` `Kubernetes` `Docker` `PostgreSQL` `RBAC` `CI/CD`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Satellite Communications System Security Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Satellite-Communications-System-Security-Engineer--Mid_R0241631)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 2 Locations · `Mid` `$69k-$158k`
-
-_Develop and implement security solutions for DoD satellite communications systems, including vulnerability assessments, STIG compliance, and RMF accreditation documentation. Requires Secret clearance and hands-on experience with IAVM, ESS/ACAS scanning, and DoD security frameworks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Satellite-Communications-System-Security-Engineer--Mid_R0241631)_
-
-`STIGs` `RMF` `IAVM` `ACAS` `ESS` `Active Directory` `Cisco` `VMware`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [AFSIM Mission Analyst](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/AFSIM-Mission-Analyst_R0241629)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Beavercreek, Ohio · `Junior` `$69k-$158k`
-
-_Assess and evaluate combat weapon systems using AFSIM modeling and simulation tools, MATLAB, and in-house post-processing to inform DoD acquisition decisions on system attributes and operational tactics. Requires Secret clearance and defense systems analysis experience. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/AFSIM-Mission-Analyst_R0241629)_
-
-`AFSIM` `MATLAB` `Modeling and Simulation` `Operations Analysis` `Linux` `Secret Clearance`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [ICAM Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/ICAM-Engineer_R0241669)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 4 Locations · `Senior` `$86k-$198k`
-
-_Design and implement enterprise identity and access management (IdAM) solutions using Radiant Logic, integrating federated identity, directory services, and data virtualization to secure systems against advanced cyber threats. Requires Top Secret clearance and work on defense/government systems. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/ICAM-Engineer_R0241669)_
-
-`Radiant Logic` `Java` `Groovy` `Active Directory` `LDAP` `SAML 2.0` `OAuth 2.0` `OpenID Connect`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Senior Security Researcher](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Senior-Security-Researcher_JR-017813-1)
-<a href="https://paloaltonetworks.com"><img src="https://www.google.com/s2/favicons?domain=paloaltonetworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palo Alto Networks** · Santa Clara, California · `Senior` `$139k-$225k` `Equity`
-
-_Conduct advanced vulnerability research, reverse engineering, and exploit development across Web, OS, IoT, and supply chain security; leverage LLMs and AI agents to automate bug hunting, PoC generation, and vulnerability validation at scale. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Senior-Security-Researcher_JR-017813-1)_
-
-`Reverse Engineering` `Fuzzing` `Exploit Development` `Python` `Large Language Models` `Reinforcement Learning` `C/C++` `Penetration Testing`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Staff Software Engineer, Backend](https://job-boards.greenhouse.io/glossgenius/jobs/7765141003)
-<a href="https://glossgenius.com"><img src="https://www.google.com/s2/favicons?domain=glossgenius.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GlossGenius** · `🟢 Remote` `Staff` `Equity`
-
-_Lead technical architecture and 0-to-1 product builds for AI-powered appointment and payment systems serving 100,000+ service businesses. Own system design, mentor backend engineers, and balance 60% technical planning with 40% hands-on coding in a high-growth startup environment. · [Apply →](https://job-boards.greenhouse.io/glossgenius/jobs/7765141003)_
-
-`Kotlin` `TypeScript` `AWS` `Kubernetes` `LLM Integration` `Claude` `GitHub Copilot`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Staff Software Engineer,  AI Developer Tools](https://job-boards.greenhouse.io/gusto/jobs/7947684)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Staff` `$180k-$200k (Denver & remote), $220k-$245k (San Francisco, New York, Seattle)` `Equity`
-
-_Architect and scale the AI platform that integrates LLMs into Gusto's developer workflow, including autonomous agents, RAG systems, and intelligent automation to accelerate engineering velocity across the organization. Production-grade distributed systems work with deep AI infrastructure expertise required; staff-level role shaping technical vision across hundreds of engineers. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/7947684)_
-
-`Python` `LLMs` `RAG` `Multi-Agent Systems` `Prompt Engineering` `Fine-tuning` `Distributed Systems` `PostgreSQL`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Security Operations Analyst - West Coast ](https://job-boards.greenhouse.io/huntress/jobs/7743188003)
-<a href="https://huntress.com"><img src="https://www.google.com/s2/favicons?domain=huntress.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Huntress** · `🟢 Remote` `Mid` `$100k-$125k` `Equity`
-
-_Triage, investigate, and respond to security alerts and intrusions across thousands of endpoints; perform malware analysis, forensic investigation, and threat remediation using EDR telemetry and log sources. Requires 2+ years SOC or DFIR experience and working knowledge of Windows/Linux/macOS attack surfaces, Active Directory, and threat actor TTPs. · [Apply →](https://job-boards.greenhouse.io/huntress/jobs/7743188003)_
-
-`MITRE ATT&CK Framework` `PowerShell` `Windows Active Directory` `Malware Analysis` `EDR` `DFIR` `Python` `Bash`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Staff Software Engineer, Big Data Storage](https://www.pinterestcareers.com/jobs/?gh_jid=7437356)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Palo Alto, California / Remote · `🟢 Remote` `Staff` `$177k—$364k` `Equity`
-
-_Design and build Pinterest's exabyte-scale data lake storage platform using Apache Iceberg and related big data technologies, serving ML/AI and analytics workloads across the organization. Lead complex technical initiatives from architecture through execution while contributing to open source communities. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7437356)_
-
-`Apache Iceberg` `Java` `Scala` `Python` `Spark` `Flink` `Distributed Systems` `Data Lake Infrastructure`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Staff Machine Learning Engineer - Game Tech Group, ML Platform](https://www.riotgames.com/en/work-with-us/job/7977840?gh_jid=7977840)
-<a href="https://riotgames.com"><img src="https://www.google.com/s2/favicons?domain=riotgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Riot Games** · Los Angeles, California · `Staff`
-
-_Design and operate AI/ML inference infrastructure for game development and player experiences, including deployment pipelines, model serving systems, and orchestration frameworks at scale. Lead MLOps architecture for Riot's ecosystem supporting foundation models to gradient boosted trees; requires 6+ years of experience with production ML platforms and GPU orchestration. · [Apply →](https://www.riotgames.com/en/work-with-us/job/7977840?gh_jid=7977840)_
-
-`Kubernetes` `Terraform` `PyTorch` `NVIDIA Triton` `KServe` `Feast` `CI/CD` `Python`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
-
----
-
-### [Secure Device Mobile Engineer](https://stripe.com/jobs/search?gh_jid=7982720)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · New York, New York · `Senior`
-
-_Build endpoint security software and infrastructure for Stripe's device fleet (10,000+ macOS, iOS, Android, ChromeOS devices), including on-device telemetry via system extensions, backend security controls, and device attestation services. Requires deep expertise in Apple platform security, modern threat landscape knowledge, and ability to operate high-RPS backend services. · [Apply →](https://stripe.com/jobs/search?gh_jid=7982720)_
-
-`Swift` `Objective-C` `Go` `iOS Security` `macOS Security` `System Extensions` `Backend Development` `AWS`
-
-<sub>June 5, 2026 at 20:44 UTC</sub>
 
 ---
 
