@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2426 open roles** (25 new) &nbsp;·&nbsp; 1695 companies searched
+### **2434 open roles** (19 new) &nbsp;·&nbsp; 1695 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -216,76 +216,6 @@ _Build and curate large-scale multimodal datasets for training embodied AI found
 `Python` `PyTorch` `distributed systems` `vision-language models` `large language models` `NLP` `data curation` `JAX`
 
 <sub>June 6, 2026 at 01:13 UTC</sub>
-
----
-
-<br>
-
-## June 5, 2026
-
-### [Manager, Missiles Reliability Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5107188007?gh_jid=5107188007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Manager` `$166k-$220k` `Equity`
-
-_Lead a reliability engineering team driving design, testing, and qualification of missile systems for defense applications. Requires active U.S. security clearance and on-site presence in Costa Mesa, CA. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5107188007?gh_jid=5107188007)_
-
-`FMEA` `FMECA` `Weibull Analysis` `MIL-STD-810` `MIL-STD-1629` `Fault Tree Analysis` `Systems Engineering`
-
-<sub>June 5, 2026 at 23:34 UTC</sub>
-
----
-
-### [Associate Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Product-Security-Engineer_JR2026512635)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Hazelwood, Missouri · `Junior` `$102k-$138k`
-
-_Develop and implement product security controls and DoD compliance requirements (RMF, JSIG, NISPOM) for P-8A training systems and virtual maintenance trainers throughout the full lifecycle. Requires active Secret Security Clearance and DoD 8570 Level II certification (CompTIA Security+ or CySA+). · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Product-Security-Engineer_JR2026512635)_
-
-`DoD Risk Management Framework` `Cybersecurity` `Threat Analysis` `Vulnerability Scanning` `System Hardening` `CompTIA Security+` `CySA+` `TS/SCI Clearance`
-
-<sub>June 5, 2026 at 23:34 UTC</sub>
-
----
-
-### [Quality Engineer I](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---South-Carolina---Liberty/Quality-Engineer-I_31152692)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · Liberty, South Carolina · `Junior` `$50.7k-$101.3k`
-
-_Develop and maintain quality engineering methodologies for cardiac rhythm medical devices in manufacturing and new product development. Lead process control systems, CAPA implementation, and FDA/GMP compliance for regulated medical device production. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---South-Carolina---Liberty/Quality-Engineer-I_31152692)_
-
-`FDA Regulations` `GMP` `ISO 13485` `ISO 14971` `Six Sigma` `Lean Manufacturing` `Statistical Analysis` `ASQ CQE`
-
-<sub>June 5, 2026 at 23:34 UTC</sub>
-
----
-
-### [Senior Server Engineer II, Identity Platform](https://jobs.ashbyhq.com/strava/3e676c3a-ecad-4108-8311-4199b02894b8)
-<a href="https://strava.com"><img src="https://www.google.com/s2/favicons?domain=strava.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Strava** · San Francisco, California · `🟡 Hybrid` `Senior`
-
-_Design and build scalable backend services for Strava's identity platform, including authentication, authorization, token lifecycle management, and account security. Partner with cross-functional teams to deliver identity foundations that enable safety, privacy, and growth across 180+ million athletes globally. · [Apply →](https://jobs.ashbyhq.com/strava/3e676c3a-ecad-4108-8311-4199b02894b8)_
-
-`Ruby` `Java` `Scala` `Python` `Go` `MySQL` `Redis` `Cassandra`
-
-<sub>June 5, 2026 at 23:34 UTC</sub>
-
----
-
-### [Staff Engineer, Billing](https://stripe.com/jobs/search?gh_jid=7986185)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · San Francisco, California / Seattle, Washington · `Staff` `Equity`
-
-_Own the technical architecture of Stripe Billing's extensibility platform, designing systems that safely execute user-authored scripts and orchestration within the billing engine while partnering with domain teams to bring extension points to production. Work on novel problems in a high-autonomy role scaling from early adoption to general availability across enterprise customers with complex billing requirements. · [Apply →](https://stripe.com/jobs/search?gh_jid=7986185)_
-
-`Distributed Systems` `Service-Oriented Architecture` `Domain-Driven Design` `Payments Systems` `Platform Engineering`
-
-<sub>June 5, 2026 at 23:34 UTC</sub>
-
----
-
-### [Principal Engineer, Software - Enterprise Automation (RPA & AI)](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Principal-Engineer--Software---Enterprise-Automation--RPA---AI-_REQ354768-1)
-<a href="https://t-mobile.com"><img src="https://www.google.com/s2/favicons?domain=t-mobile.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**T-Mobile** · 3 Locations · `Principal` `$133.5k-$240.7k` `Equity`
-
-_Lead the architectural design and modernization of T-Mobile's enterprise robotic process automation (RPA) platform, establishing automation standards and frameworks while guiding responsible integration of AI-assisted engineering capabilities. Work directly with executive stakeholders on platform strategy and evolution across business-critical operations at scale. · [Apply →](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Principal-Engineer--Software---Enterprise-Automation--RPA---AI-_REQ354768-1)_
-
-`UiPath` `Microsoft Power Automation` `Python` `C#` `Azure` `Kubernetes` `Docker` `GitLab`
-
-<sub>June 5, 2026 at 23:34 UTC</sub>
 
 ---
 

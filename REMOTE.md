@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **349 open roles** (4 new)
+### **348 open roles** (4 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -1634,17 +1634,6 @@ _Lead the architecture and implementation of product features across our audit a
 
 ---
 
-### [Sr Software Engineer](https://barn2door-inc.breezy.hr/p/3d08def99668-sr-software-engineer)
-<a href="https://barn2door.com"><img src="https://www.google.com/s2/favicons?domain=barn2door.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Barn2Door** · Nashville, Tennessee / Seattle, Washington · `🟢 Remote` `Senior` `Equity`
-
-_Build full-stack SaaS products serving farmers across all 50 states, architecting scalable systems while mentoring engineers and integrating AI tooling into customer-facing applications. Early-stage food+tech startup with offices in Seattle, WA and Nashville, TN. · [Apply →](https://barn2door-inc.breezy.hr/p/3d08def99668-sr-software-engineer)_
-
-`Node.js` `React` `AWS` `Terraform` `PostgreSQL` `Redis` `Stripe` `RAG`
-
-<sub>June 1, 2026 at 20:34 UTC</sub>
-
----
-
 ### [Senior Software Engineer II - Scale Team](https://job-boards.greenhouse.io/honeycomb/jobs/5151547008)
 <a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$251k—$283k CAD` `Equity`
 
@@ -1711,23 +1700,23 @@ _Lead a Platform Engineering team building and maintaining shared infrastructure
 
 ---
 
-### [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff`
+### [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$232k–$325k` `Equity`
 
-_Own experimentation methodology and causal inference across Reddit's Consumer organization, solving complex problems like network interference, spillover effects, and two-sided marketplace testing at scale. Requires deep expertise in causal inference and experimentation design, with Ph.D. in quantitative field or M.S. plus 12+ years applied science experience. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974507)_
+_Lead Reddit's experimentation methodology as the technical authority on causal inference in a networked platform environment. Design and scale experimentation frameworks that handle network effects, interference, and two-sided marketplaces to unlock product insights and influence organizational strategy. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974504)_
 
-`Python` `R` `SQL` `Causal Inference` `Experimental Design` `Bayesian Methods` `PhD in Statistics`
+`Causal Inference` `Experimentation Design` `SQL` `Python` `R` `Bayesian Methods` `Network Effects` `Synthetic Control`
 
 <sub>June 1, 2026 at 20:34 UTC</sub>
 
 ---
 
-### [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974647)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · Remote, Canada · `🟢 Remote` `Staff`
+### [Senior Staff Data Scientist - Consumer Relevance](https://job-boards.greenhouse.io/reddit/jobs/7974605)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$232k–$325k` `Equity`
 
-_Build measurement frameworks and evaluation methodology for Reddit's ranking, search, and recommendation systems across feeds and communities. Influence product strategy through experimentation design and causal inference on a platform with unique challenges like spillover effects and ecosystem-level impacts. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974647)_
+_Lead relevance measurement and evaluation for Reddit's feeds, search, and recommendation systems, designing metrics frameworks and offline evaluation approaches for ranking quality across a community-driven platform. Mentor data scientists on experimentation methodology for ranking systems with complex challenges including spillover effects, contributor-consumer interference, and ecosystem-level impacts. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7974605)_
 
-`SQL` `Python` `R` `Causal Inference` `Experimental Design` `Recommendation Systems` `Statistical Computing` `User-Generated Content Platforms`
+`Causal Inference` `Experimentation Design` `SQL` `Python` `R` `Metrics Design` `Ranking Systems` `Recommendation Systems`
 
 <sub>June 1, 2026 at 20:34 UTC</sub>
 
@@ -1766,21 +1755,21 @@ _Lead the data foundation platform that powers Airbnb's entity model (hosts, lis
 
 ---
 
-### [Expert Engineer ](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)
-<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Multiple locations, Canada · `🟢 Remote` `Staff`
-
-_Design and evolve shared technology pipelines and systems across multiple game development projects; mentor teams on code modularity, cross-project integration, and long-term ecosystem sustainability. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)_
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
 ### [Principal Product Security Researcher](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
 _Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes-based cloud-native workloads on GCP and AWS. Deep expertise in container security, cloud IAM, and threat modeling required for a high-impact Staff-level security engineering role. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)_
 
 `Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
+### [Expert Engineer ](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)
+<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Multiple locations, Canada · `🟢 Remote` `Staff`
+
+_Design and evolve shared technology pipelines and systems across multiple game development projects; mentor teams on code modularity, cross-project integration, and long-term ecosystem sustainability. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)_
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -3595,12 +3584,12 @@ _Build and maintain robust data pipelines, ETL systems, and analytics infrastruc
 
 ---
 
-### [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7445224)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
+### [Senior Analytics Engineer](https://job-boards.greenhouse.io/reddit/jobs/7958403)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior`
 
-_Build data pipelines, ETL systems, and analytics infrastructure for Reddit's Sales and Marketing organization. Lead data quality and automation initiatives while mentoring analytics engineers and data scientists; requires advanced degree in quantitative discipline plus 4-5+ years of large-scale ETL and production Python experience. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7445224)_
+_Build and maintain data pipelines, ETL systems, and analytics infrastructure for Reddit's Sales and Marketing organization. Lead data quality, governance, and self-service initiatives while mentoring data scientists and cross-functional teams on a platform serving 126M+ daily active users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7958403)_
 
-`Python` `SQL` `Spark` `Scala` `Airflow` `Looker` `Tableau` `Data Modeling`
+`Python` `SQL` `Spark` `Airflow` `Scala` `Looker` `Tableau` `Data Modeling`
 
 <sub>May 26, 2026 at 19:00 UTC</sub>
 
