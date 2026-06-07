@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2428 open roles** (6 new) &nbsp;·&nbsp; 1710 companies searched
+### **2405 open roles** (4 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,17 +11,6 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 7, 2026
-
-### [Lead SW Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Lead-SW-Engineer_REF080572W)
-<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Austin, Texas · `🟡 Hybrid` `Senior` `$173.1k-$276.8k` `Equity`
-
-_Design and deliver enterprise Risk platform services handling 40% of global transaction volume, leading technical architecture decisions and cross-functional teams. Requires 10+ years of experience and on-site presence in Austin. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Lead-SW-Engineer_REF080572W)_
-
-`Java` `Go` `React` `Distributed Systems` `Microservices` `Fraud Detection` `GenAI`
-
-<sub>June 7, 2026 at 16:39 UTC</sub>
-
----
 
 ### [Solution Director for Digital Engineering](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Solution-Director-for-Digital-Engineering_RQ221405-1)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Manager` `$191k-$258k`
@@ -68,15 +57,6 @@ _Lead Axle's Front-End and Mobile Engineering team while spending the majority o
 `React` `TypeScript` `React Native` `JavaScript` `Node.js` `GraphQL` `REST APIs` `AWS`
 
 <sub>June 6, 2026 at 21:30 UTC</sub>
-
----
-
-### [Software Engineer](https://jobs.lever.co/protolabs/929fbd6f-878b-4042-a702-77390078618e)
-<a href="https://hubs.com"><img src="https://www.google.com/s2/favicons?domain=hubs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hubs** · Maple Plain, Minnesota · `🟡 Hybrid`
-
-_Design and deliver scalable software solutions for digital manufacturing platforms that power customer-facing products at scale. · [Apply →](https://jobs.lever.co/protolabs/929fbd6f-878b-4042-a702-77390078618e)_
-
-<sub>June 6, 2026 at 17:33 UTC</sub>
 
 ---
 
