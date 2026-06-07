@@ -2,11 +2,48 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2407 open roles** (10 new) &nbsp;·&nbsp; 1710 companies searched
+### **2294 open roles** (7 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 7, 2026
+
+### [Solution Director for Digital Engineering](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Solution-Director-for-Digital-Engineering_RQ221405-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Manager` `$191k-$258k`
+
+_Lead digital engineering architecture and hands-on development for defense weapons systems and IT programs across General Dynamics, integrating AI/ML, cloud, and advanced tooling while managing teams of architects and engineers. Requires Secret clearance with ability to obtain TS/SCI, 10+ years of defense systems experience, and expert-level Model Based Systems Engineering (UML, SysML, UAF, DoDAF). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Solution-Director-for-Digital-Engineering_RQ221405-1)_
+
+`Model Based Systems Engineering` `SysML` `UML` `DoDAF` `UAF` `BPMN` `Cloud Computing` `AI/ML`
+
+<sub>June 7, 2026 at 05:42 UTC</sub>
+
+---
+
+### [Senior Engineer II, Automation, INT](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Senior-Engineer-II--Automation--INT_R19275)
+<a href="https://modernatx.com"><img src="https://www.google.com/s2/favicons?domain=modernatx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Moderna** · Marlborough, Massachusetts · `Senior` `$145k-$234k` `Equity`
+
+_Lead design and implementation of advanced manufacturing automation systems for personalized medicine production, spanning DeltaV, PLCs, SCADA, robotics, and data integration across ISA-95/ISA-88 compliant architectures. Navigate FDA 21 CFR Part 11 and Annex 11 compliance with hands-on technical ownership of system validation, APIs, and cross-functional deployment at scale. · [Apply →](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Senior-Engineer-II--Automation--INT_R19275)_
+
+`DeltaV` `ISA-95` `ISA-88` `SCADA` `OPC` `HART` `Ethernet/IP` `Kepware`
+
+<sub>June 7, 2026 at 05:42 UTC</sub>
+
+---
+
+### [Sr. Systems Engineer, Digital for Research and Technical Development](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Systems-Engineer--Digital-for-Research-and-Technical-Development_R19287)
+<a href="https://modernatx.com"><img src="https://www.google.com/s2/favicons?domain=modernatx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Moderna** · `🟡 Hybrid` `Senior` `$130k-$209k` `Equity`
+
+_Manage lifecycle, optimization, and continuous improvement of laboratory digital systems and enterprise platforms across R&TD environments, including instrument controllers, LIMS/ELN integrations, and hybrid on-premises/cloud architectures. Experience with GxP-regulated laboratory environments, computer system validation, and pharmaceutical/biotech instrument ecosystems required. · [Apply →](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Systems-Engineer--Digital-for-Research-and-Technical-Development_R19287)_
+
+`Windows` `Linux` `VMware` `AWS` `ServiceNow` `JIRA` `Virtualization` `Cybersecurity`
+
+<sub>June 7, 2026 at 05:42 UTC</sub>
+
+---
 
 <br>
 
@@ -51,72 +88,6 @@ _Own the ground-up build of product-led growth and lifecycle infrastructure for 
 `TypeScript` `Node.js` `Python` `SQL` `Product Analytics` `CDP` `Reverse-ETL` `Event Taxonomy`
 
 <sub>June 6, 2026 at 07:18 UTC</sub>
-
----
-
-### [Platform Database Administrator (DBA) for Aurora/MySQL](https://jobs.lever.co/leantaas/70de62be-0028-4b9e-8013-12aa594b699b)
-<a href="https://leantaas.com"><img src="https://www.google.com/s2/favicons?domain=leantaas.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LeanTaaS** · `🟢 Remote` `Mid`
-
-_Manage and optimize Aurora/MySQL database infrastructure supporting healthcare operations software used by 1,200+ hospitals; ensure high availability, performance, and security for systems handling patient access and operational data. · [Apply →](https://jobs.lever.co/leantaas/70de62be-0028-4b9e-8013-12aa594b699b)_
-
-`Aurora` `MySQL` `AWS` `Database Administration` `High Availability` `Performance Tuning` `SQL`
-
-<sub>June 6, 2026 at 05:27 UTC</sub>
-
----
-
-### [SoC Integration Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Integration-Engineer_JR0284554)
-<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Santa Clara, California / Folsom, California / Hillsboro, Oregon / Austin, Texas · `🟡 Hybrid` `Senior` `$141k-$269k` `Equity`
-
-_Design and integrate high-performance Network-on-Chip (NoC) and interconnect fabrics for Intel SoCs, optimizing across power, performance, and area constraints. Partner with architecture, IP, and physical design teams to deliver scalable silicon platforms that power millions of devices globally. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Integration-Engineer_JR0284554)_
-
-`Verilog` `SystemVerilog` `AMBA (AXI, CHI, APB, AHB)` `PCIe` `CXL` `Physical Design` `Timing Constraints` `Lint/CDC/RDC`
-
-<sub>June 6, 2026 at 05:27 UTC</sub>
-
----
-
-### [Member of Technical Staff (AI Software Engineer, Multimodal)](https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81)
-<a href="https://perplexity.ai"><img src="https://www.google.com/s2/favicons?domain=perplexity.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Perplexity** · San Francisco, California · `Senior`
-
-_Design and build multimodal AI platform systems spanning immersive UIs, realtime audio/video processing, backend infrastructure, and SDKs that enable new forms of human-AI interaction beyond touch interfaces. Work across the full stack on bleeding-edge problems in audio processing, video handling, and novel input modalities at scale. · [Apply →](https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81)_
-
-`Python` `Rust` `C++` `PyTorch` `audio processing` `video processing` `realtime systems` `backend infrastructure`
-
-<sub>June 6, 2026 at 05:27 UTC</sub>
-
----
-
-### [Member of Technical Staff (AI Software Engineer, Agents)](https://jobs.ashbyhq.com/perplexity/8fd01227-a933-4319-a281-fa6e3ce8d8ca)
-<a href="https://perplexity.ai"><img src="https://www.google.com/s2/favicons?domain=perplexity.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Perplexity** · San Francisco, California · `Staff`
-
-_Build AI agents that navigate the digital world and perform complex tasks for users across web, mobile, and cloud environments. Drive the frontier of agentic AI by developing action/decision models, permission architectures, and secure-by-design capabilities that scale to millions of users. · [Apply →](https://jobs.ashbyhq.com/perplexity/8fd01227-a933-4319-a281-fa6e3ce8d8ca)_
-
-`Python` `TypeScript` `Go` `Rust` `PyTorch` `Reinforcement Learning` `Browser Automation` `Playwright`
-
-<sub>June 6, 2026 at 05:27 UTC</sub>
-
----
-
-### [Member of Technical Staff (ML Engineer, Recommendations & User Modeling)](https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91)
-<a href="https://perplexity.ai"><img src="https://www.google.com/s2/favicons?domain=perplexity.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Perplexity** · San Francisco, California · `Senior`
-
-_Design and build recommendation and personalization systems for Perplexity's AI search platform, combining LLM intelligence with user context to drive core product experiences. Own user modeling, ranking decision layers, and data infrastructure for a product used by millions; requires hands-on ML systems experience at scale. · [Apply →](https://jobs.ashbyhq.com/perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91)_
-
-`Machine Learning` `LLM Integration` `Recommendation Systems` `Ranking Systems` `Feature Engineering` `Online Experimentation` `Engagement Modeling` `Model Calibration`
-
-<sub>June 6, 2026 at 05:27 UTC</sub>
-
----
-
-### [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005)
-<a href="https://scale.com"><img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scale AI** · San Francisco, California / New York, New York · `Intern` `$74k—$111k` `Equity` `Benefits`
-
-_Build agentic workflows and AI-powered automation tools using LLM frameworks (LangChain, LangGraph, CrewAI) that integrate Slack, Salesforce, and internal systems; deploy real systems used by Scale AI teams daily, measuring ROI and adoption metrics from day one. · [Apply →](https://job-boards.greenhouse.io/scaleai/jobs/4703343005)_
-
-`Python` `JavaScript` `LangChain` `OpenAI` `Anthropic` `React` `LLM APIs` `RAG`
-
-<sub>June 6, 2026 at 05:27 UTC</sub>
 
 ---
 
