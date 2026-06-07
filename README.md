@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2306 open roles** (13 new) &nbsp;·&nbsp; 1710 companies searched
+### **2407 open roles** (10 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -117,39 +117,6 @@ _Build agentic workflows and AI-powered automation tools using LLM frameworks (L
 `Python` `JavaScript` `LangChain` `OpenAI` `Anthropic` `React` `LLM APIs` `RAG`
 
 <sub>June 6, 2026 at 05:27 UTC</sub>
-
----
-
-### [Engineering Manager – Cloud Platform (Security / Identity)](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CyberArk-Santa-Clara-CA/Engineering-Manager---Cloud-Platform--Security---Identity-_JR-018004)
-<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · Santa Clara, California · `Manager` `$165k-$267.5k` `Equity`
-
-_Lead a team building distributed cloud platform services for machine identity management and protection at enterprise scale. Experience with identity systems, PKI, certificate lifecycle management, and distributed systems architecture is valued. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CyberArk-Santa-Clara-CA/Engineering-Manager---Cloud-Platform--Security---Identity-_JR-018004)_
-
-`Distributed Systems` `APIs` `Service-Oriented Architecture` `Cloud Platforms` `Backend Systems` `TLS` `x509` `PKI`
-
-<sub>June 6, 2026 at 03:19 UTC</sub>
-
----
-
-### [Software Engineer, Cloud Agents](https://jobs.ashbyhq.com/openai/f6278b60-dd42-4aa8-a3cd-c105f75ae8ae)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `Senior`
-
-_Design and operate orchestration, sandboxing, and storage systems for long-running agents serving ChatGPT, Codex, and the OpenAI API at scale. Requires 9+ years of backend/infrastructure experience leading large-scale projects from ambiguous requirements to production systems. · [Apply →](https://jobs.ashbyhq.com/openai/f6278b60-dd42-4aa8-a3cd-c105f75ae8ae)_
-
-`Python` `Rust` `Go` `Distributed Systems` `Cloud Infrastructure` `Kubernetes`
-
-<sub>June 6, 2026 at 03:19 UTC</sub>
-
----
-
-### [Senior Software Engineer, Perception Future Sensing Platforms](https://careers.withwaymo.com/jobs?gh_jid=7948185)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California / San Francisco, California · `🟡 Hybrid` `Senior` `$213k-$263k` `Equity`
-
-_Build abstraction layers and cross-platform integration for Waymo's Perception software stack across heterogeneous sensor hardware (LiDAR, camera, radar). Scale multi-modal perception algorithms across millions of miles of real-world driving data while maintaining portability across diverse vehicle platforms and sensor configurations. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7948185)_
-
-`C++` `Lidar` `Camera` `Radar` `ML Systems` `Autonomous Vehicles` `Sensor Fusion` `Python`
-
-<sub>June 6, 2026 at 03:19 UTC</sub>
 
 ---
 
