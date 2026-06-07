@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2434 open roles** (19 new) &nbsp;·&nbsp; 1695 companies searched
+### **2306 open roles** (13 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -150,72 +150,6 @@ _Build abstraction layers and cross-platform integration for Waymo's Perception 
 `C++` `Lidar` `Camera` `Radar` `ML Systems` `Autonomous Vehicles` `Sensor Fusion` `Python`
 
 <sub>June 6, 2026 at 03:19 UTC</sub>
-
----
-
-### [Software Engineer–Developer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Software-Engineer-Developer_JR2026512899-1)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · `🟢 Remote` `Mid` `$118k-$182k`
-
-_Build and maintain the Fabric tool suite — an integrated ecosystem of web-based developer productivity tools for Boeing's internal software factory. Full-stack development spanning Python backends, React/Angular frontends, GitLab CI/CD pipelines, Kubernetes deployments, AI agent tooling, and data visualization dashboards; requires U.S. Person status for export control compliance. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Software-Engineer-Developer_JR2026512899-1)_
-
-`Python` `JavaScript` `TypeScript` `React` `Docker` `Kubernetes` `AWS EKS` `GitLab CI/CD`
-
-<sub>June 6, 2026 at 01:13 UTC</sub>
-
----
-
-### [HPC Operations Engineer](https://jobs.ashbyhq.com/lambda/764437a8-3d46-4544-9350-ce87bc76f946)
-<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · San Francisco, California / Bellevue, Washington · `🟡 Hybrid` `Senior` `Equity`
-
-_Deploy, configure, and manage large-scale HPC clusters for AI workloads across thousands of nodes, including OS, firmware, networking, and job scheduling systems. Requires 5+ years of HPC cluster deployment experience and expertise in InfiniBand, Ethernet fabrics, SLURM/Kubernetes, and Linux systems; 4 days/week on-site in San Francisco or Bellevue. · [Apply →](https://jobs.ashbyhq.com/lambda/764437a8-3d46-4544-9350-ce87bc76f946)_
-
-`InfiniBand` `SLURM` `Kubernetes` `Linux` `RDMA` `NCCL` `Docker` `Horovod`
-
-<sub>June 6, 2026 at 01:13 UTC</sub>
-
----
-
-### [Reactor Core Thermal Fluids Engineer](https://job-boards.greenhouse.io/oklo/jobs/6015809004)
-<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · `🟢 Remote` `Junior` `$80k-$175k` `Equity`
-
-_Develop and validate thermal-hydraulic models for advanced fission reactor cores using subchannel codes, systems codes, and CFD simulations. Work on core thermal analysis methods and automation tools for steady-state and transient conditions; requires US-based work with travel to Santa Clara headquarters twice quarterly and onsite presence for two-week onboarding. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6015809004)_
-
-`Python` `RELAP` `COBRA-TF` `DASSH` `MOOSE` `Computational Fluid Dynamics` `Numerical Methods` `Heat Transfer`
-
-<sub>June 6, 2026 at 01:13 UTC</sub>
-
----
-
-### [Software Engineer, Propulsion Simulation & Data Analysis](https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Junior` `$125k-$175k` `Equity`
-
-_Build and maintain physics-based simulation models and data analysis tools for the Raptor rocket engine, translating test data into performance predictions for flight operations and design optimization. Work with sparse instrumentation and high-dimensional datasets to conduct anomaly resolution and engine cycle analysis; models directly support safety-critical guidance, navigation, and control decisions for every SpaceX mission. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002)_
-
-`Python` `C++` `Physics simulation` `Thermodynamics` `Control systems` `Data pipelines` `React` `PostgreSQL`
-
-<sub>June 6, 2026 at 01:13 UTC</sub>
-
----
-
-### [Sr. Software Engineer, Propulsion Simulation & Data Analysis (Raptor)](https://boards.greenhouse.io/spacex/jobs/8581310002?gh_jid=8581310002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Senior` `$165k-$230k` `Equity`
-
-_Build and maintain physics-based lumped-parameter thermofluid simulation models of the Raptor rocket engine; develop data pipelines and analysis tools to translate test data into flight performance predictions and support anomaly resolution for hundreds of engine tests and missions. Requires ITAR eligibility (US citizen, green card, refugee, or asylee status). · [Apply →](https://boards.greenhouse.io/spacex/jobs/8581310002?gh_jid=8581310002)_
-
-`Python` `C++` `Physics-based Modeling` `Thermodynamics` `Dynamical Systems` `Data Pipelines` `React` `PostgreSQL`
-
-<sub>June 6, 2026 at 01:13 UTC</sub>
-
----
-
-### [Engineering Internship, Enrichment and Curation](https://wayve.firststage.co/jobs?gh_jid=8382427002)
-<a href="https://wayve.ai"><img src="https://www.google.com/s2/favicons?domain=wayve.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wayve** · Sunnyvale, California · `🟡 Hybrid` `Intern` `$199.5k`
-
-_Build and curate large-scale multimodal datasets for training embodied AI foundation models; train vision-language models on distributed systems and evaluate them on autonomous driving benchmarks. · [Apply →](https://wayve.firststage.co/jobs?gh_jid=8382427002)_
-
-`Python` `PyTorch` `distributed systems` `vision-language models` `large language models` `NLP` `data curation` `JAX`
-
-<sub>June 6, 2026 at 01:13 UTC</sub>
 
 ---
 
