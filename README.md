@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2404 open roles** (5 new) &nbsp;·&nbsp; 1710 companies searched
+### **2404 open roles** (4 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -53,21 +53,6 @@ _Manage lifecycle, optimization, and continuous improvement of laboratory digita
 `Windows` `Linux` `VMware` `AWS` `ServiceNow` `JIRA` `Virtualization` `Cybersecurity`
 
 <sub>June 7, 2026 at 05:42 UTC</sub>
-
----
-
-<br>
-
-## June 6, 2026
-
-### [Engineering Manager, Front-End](https://jobs.ashbyhq.com/axle-health/2041d939-e7b6-4de7-bf5d-4507d1b9abdd)
-<a href="https://www.axlehealth.com"><img src="https://www.google.com/s2/favicons?domain=www.axlehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Axle Health** · Santa Monica, California · `Manager` `Equity`
-
-_Lead Axle's Front-End and Mobile Engineering team while spending the majority of your time writing, reviewing, and shipping code for web and mobile applications used by clinicians, schedulers, and patients in home healthcare. Build and maintain systems compliant with healthcare data security standards (HIPAA, SOC-2, HITRUST). · [Apply →](https://jobs.ashbyhq.com/axle-health/2041d939-e7b6-4de7-bf5d-4507d1b9abdd)_
-
-`React` `TypeScript` `React Native` `JavaScript` `Node.js` `GraphQL` `REST APIs` `AWS`
-
-<sub>June 6, 2026 at 21:30 UTC</sub>
 
 ---
 
