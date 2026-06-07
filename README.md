@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2261 open roles** (6 new) &nbsp;·&nbsp; 1710 companies searched
+### **2405 open roles** (5 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -66,17 +66,6 @@ _Lead Axle's Front-End and Mobile Engineering team while spending the majority o
 _Design and deliver scalable software solutions for digital manufacturing platforms that power customer-facing products at scale. · [Apply →](https://jobs.lever.co/protolabs/929fbd6f-878b-4042-a702-77390078618e)_
 
 <sub>June 6, 2026 at 17:33 UTC</sub>
-
----
-
-### [Senior Software Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Software-Developer_RQ221491)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$142k-$189k`
-
-_Build and improve core services handling customer intake, application screening, and information dissemination across distributed, multi-tier systems. Modernize system architecture and mentor junior developers; requires US citizenship and ability to maintain Public Trust 6C clearance. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Software-Developer_RQ221491)_
-
-`Java` `Python` `Distributed Systems` `Microservices` `Cloud Engineering` `Caching` `Design Patterns`
-
-<sub>June 6, 2026 at 12:42 UTC</sub>
 
 ---
 
