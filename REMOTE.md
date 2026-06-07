@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **343 open roles** (3 new)
+### **344 open roles** (2 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -101,6 +101,17 @@ _Lead technical integrations and support for Pinterest's Tier 1 partners across 
 _Design and maintain infrastructure systems to improve availability, scalability, and efficiency across Thumbtack's distributed platform serving 300,000 local service businesses. Set architectural direction for platform services, implement deployment and infrastructure management tooling, and reduce operational toil for the engineering organization. · [Apply →](https://jobs.ashbyhq.com/thumbtack/7b436f4e-e209-4735-bda5-cd32d60fdb4d)_
 
 `AWS` `Linux` `Python` `Go` `PHP` `JavaScript` `Distributed Systems` `Microservices`
+
+<sub>June 5, 2026 at 21:38 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Developer Tools for Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Remote/Senior-Software-Engineer---Developer-Tools-for-Deep-Learning_JR2013176)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$152k-$287.5k` `Equity`
+
+_Build developer tools for designing and optimizing deep neural networks, working with frameworks like PyTorch and TensorRT. Requires hands-on expertise in deep learning model training and deployment at scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Remote/Senior-Software-Engineer---Developer-Tools-for-Deep-Learning_JR2013176)_
+
+`PyTorch` `TensorFlow` `JAX` `Python` `C++` `ONNX` `TensorRT` `Deep Learning`
 
 <sub>June 5, 2026 at 21:38 UTC</sub>
 
@@ -1539,23 +1550,23 @@ _Build infrastructure, tooling, and documentation that makes AI coding agents dr
 
 ---
 
-### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
-
-_Develop and maintain enterprise-class case management and electronic filing systems for the US federal judiciary using Java/Spring Boot in an agile environment. Federal IT security compliance and Section 508 accessibility standards required. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)_
-
-`Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
-
-<sub>June 1, 2026 at 22:10 UTC</sub>
-
----
-
 ### [QA Engineer - Mortgage](https://jobs.ashbyhq.com/loancrate/9c4c1f30-e0e2-4533-a91b-8af60dab0bf7)
 <a href="https://loancrate.com"><img src="https://www.google.com/s2/favicons?domain=loancrate.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LoanCrate** · `🟢 Remote` `Mid`
 
 _Build and own the regression test suite and release verification process for an AI-native mortgage origination platform, testing end-to-end workflows across loan types and catching bugs before they reach customers. Lead the QA function as the first dedicated QA hire, with opportunities to scale the team and define quality standards across a fintech product handling billions in annual loan volume. · [Apply →](https://jobs.ashbyhq.com/loancrate/9c4c1f30-e0e2-4533-a91b-8af60dab0bf7)_
 
 `Playwright` `Cypress` `Selenium` `JSON` `API testing` `Browser DevTools` `Mortgage Operations` `Loan Origination Systems`
+
+<sub>June 1, 2026 at 22:10 UTC</sub>
+
+---
+
+### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
+
+_Develop and maintain enterprise-class case management and electronic filing systems for the US federal judiciary using Java/Spring Boot in an agile environment. Federal IT security compliance and Section 508 accessibility standards required. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)_
+
+`Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
 
 <sub>June 1, 2026 at 22:10 UTC</sub>
 
@@ -1933,23 +1944,23 @@ _Lead the design and development of backend features and services for financial 
 
 ---
 
-### [ITOM Discovery SME](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$119k-$161k`
-
-_Design and implement ServiceNow CMDB and ITOM Discovery architecture for CMS, managing configuration data models, discovery patterns across AWS/Azure/GCP cloud environments, and integrations with endpoint management and monitoring systems. Requires Public Trust clearance and US citizenship eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)_
-
-`ServiceNow` `CMDB` `ITOM Discovery` `MID Server` `JavaScript` `AWS` `Azure` `GCP`
-
-<sub>June 1, 2026 at 15:17 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-GBR/Senior-Software-Engineer_R2600564)
 <a href="https://knewton.com"><img src="https://www.google.com/s2/favicons?domain=knewton.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Knewton** · `🟢 Remote` `Senior` `£44.2k-£63.4k`
 
 _Own and modernize subsystems in KnowItAll, a long-lived, high-performance C++ Windows application for spectral analysis and chemical intelligence used by research laboratories worldwide. Work on performance-critical algorithms for spectral search, data-heavy workflows, and architectural improvements while maintaining backward compatibility in a regulated, mission-critical environment. · [Apply →](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-GBR/Senior-Software-Engineer_R2600564)_
 
 `C++` `Windows` `MFC` `Performance Tuning` `Memory Management` `Debugging` `Threading`
+
+<sub>June 1, 2026 at 15:17 UTC</sub>
+
+---
+
+### [ITOM Discovery SME](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$119k-$161k`
+
+_Design and implement ServiceNow CMDB and ITOM Discovery architecture for CMS, managing configuration data models, discovery patterns across AWS/Azure/GCP cloud environments, and integrations with endpoint management and monitoring systems. Requires Public Trust clearance and US citizenship eligibility. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/ITOM-Discovery-SME_RQ221429-1)_
+
+`ServiceNow` `CMDB` `ITOM Discovery` `MID Server` `JavaScript` `AWS` `Azure` `GCP`
 
 <sub>June 1, 2026 at 15:17 UTC</sub>
 
@@ -3146,17 +3157,6 @@ _Build AI-powered internal tools and applications that accelerate Vanta's go-to-
 
 ## May 27, 2026
 
-### [Senior Oracle ERP Developer](https://sunrun.wd5.myworkdayjobs.com/Sunrun_Careers/job/REMOTE/Staff-Infrastructure-and-Enterprise-Engineer_R56695)
-<a href="https://sunrun.com"><img src="https://www.google.com/s2/favicons?domain=sunrun.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sunrun** · `🟢 Remote` `Senior` `$154k-$185k`
-
-_Design and develop technical solutions across Oracle EBS R12 and Oracle Fusion Cloud ERP, including PL/SQL, OIC integrations, data migrations, and OCI PaaS extensions. Lead multi-year EBS-to-Cloud migration with complex data conversions and co-existence strategies. · [Apply →](https://sunrun.wd5.myworkdayjobs.com/Sunrun_Careers/job/REMOTE/Staff-Infrastructure-and-Enterprise-Engineer_R56695)_
-
-`Oracle EBS` `PL/SQL` `Oracle Fusion Cloud` `Oracle Integration Cloud (OIC)` `FBDI` `Oracle Forms` `Oracle Reports` `Java`
-
-<sub>May 27, 2026 at 23:36 UTC</sub>
-
----
-
 ### [Software Engineer — Integrations](https://jobs.ashbyhq.com/kodex/31e53827-080b-4266-945c-950005486081)
 <a href="https://www.kodexglobal.com"><img src="https://www.google.com/s2/favicons?domain=www.kodexglobal.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodex** · `🟢 Remote` `Mid` `Equity`
 
@@ -3462,6 +3462,17 @@ _Build full-stack federal platform architecture and services replacing legacy sy
 `React` `Java` `Python` `Node.js` `Go` `AWS GovCloud` `Docker` `Kubernetes`
 
 <sub>May 27, 2026 at 05:39 UTC</sub>
+
+---
+
+### [GPU Performance Engineer - Neural Reconstruction](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/GPU-Performance-Engineer---Neural-Reconstruction_JR2018808)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `225k CAD - 340k CAD` `Equity`
+
+_Optimize end-to-end neural reconstruction and Gaussian Splatting workflows across data loading, training, and rendering using CUDA, PyTorch, and GPU profiling to improve performance and scalability. Work close to hardware on differentiable rendering and computer vision systems that push GPU computing limits, balancing training speed, memory footprint, and production reliability. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/GPU-Performance-Engineer---Neural-Reconstruction_JR2018808)_
+
+`Python` `C++` `CUDA` `PyTorch` `GPU profiling` `Nsight Systems` `Nsight Compute` `Gaussian Splatting`
+
+<sub>May 27, 2026 at 03:22 UTC</sub>
 
 ---
 

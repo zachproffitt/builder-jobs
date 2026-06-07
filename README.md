@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2294 open roles** (7 new) &nbsp;·&nbsp; 1710 companies searched
+### **2439 open roles** (6 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -77,17 +77,6 @@ _Build and improve core services handling customer intake, application screening
 `Java` `Python` `Distributed Systems` `Microservices` `Cloud Engineering` `Caching` `Design Patterns`
 
 <sub>June 6, 2026 at 12:42 UTC</sub>
-
----
-
-### [Senior Product Engineer, Growth & Lifecycle Infrastructure - Music & Audio](http://stability.ai/careers?gh_jid=4886027101)
-<a href="https://stability.ai"><img src="https://www.google.com/s2/favicons?domain=stability.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stability AI** · Los Angeles, California / Remote · `🟢 Remote` `Senior`
-
-_Own the ground-up build of product-led growth and lifecycle infrastructure for music and audio products across web, desktop, plugin, and mobile — designing the event model, selecting the martech stack (CDP, product analytics, lifecycle messaging, experimentation, warehouse, reverse-ETL), wiring integrations, and shipping paywall and entitlement logic that drives measurable conversion from visitor to paying customer. This is a greenfield role requiring hands-on ownership of in-app PLG mechanics and revenue-critical systems with no product manager. · [Apply →](http://stability.ai/careers?gh_jid=4886027101)_
-
-`TypeScript` `Node.js` `Python` `SQL` `Product Analytics` `CDP` `Reverse-ETL` `Event Taxonomy`
-
-<sub>June 6, 2026 at 07:18 UTC</sub>
 
 ---
 
