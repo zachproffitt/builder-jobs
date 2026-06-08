@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2353 open roles** (5 new) &nbsp;·&nbsp; 1710 companies searched
+### **2230 open roles** (9 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 8, 2026
+
+### [Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus](https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Mid` `$166k-$220k` `Equity`
+
+_Design, develop, and operate Hardware-In-The-Loop (HITL) simulation environments for aerospace vehicles, creating real-time vehicle models and avionics emulation to validate flight control and autonomy software before live flight tests. Requires TS/SCI clearance and hands-on experience with real-time simulation platforms (NI/Speedgoat, dSPACE) in defense aerospace contexts. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007)_
+
+`MATLAB` `Simulink` `C++` `Python` `Flight Dynamics` `Guidance Navigation and Control (GNC)` `Hardware-In-The-Loop (HITL)` `Software-In-The-Loop (SITL)`
+
+<sub>June 8, 2026 at 03:24 UTC</sub>
+
+---
+
+### [Machine Learning Engineer - Document Intelligence](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515)
+<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Pleasanton, California · `🟡 Hybrid` `Senior` `$160k-$240k USD` `Equity`
+
+_Build scalable ML pipelines and LLM-powered document intelligence services for entity extraction, classification, and resolution at enterprise scale. Work with production systems processing documents for 31M+ Workday users across financials and spend management; requires advanced degree in quantitative field and proven track record shipping LLM products. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515)_
+
+`Python` `PyTorch` `TensorFlow` `NLP` `LLMs` `RAG` `LangChain` `PySpark`
+
+<sub>June 8, 2026 at 03:24 UTC</sub>
+
+---
+
+### [Senior Manager, Product Data Science](https://jobs.ashbyhq.com/snowflake/117e5dc0-6191-43f2-8e05-863d405da289)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · Menlo Park, California · `Manager`
+
+_Lead a data science team optimizing app experience and data marketplace products, building AI-native solutions including agentic services and semantic views while mentoring team members on generative AI best practices and governance. · [Apply →](https://jobs.ashbyhq.com/snowflake/117e5dc0-6191-43f2-8e05-863d405da289)_
+
+`Python` `SQL` `Machine Learning` `LLMs` `AI Evaluation Methods`
+
+<sub>June 8, 2026 at 03:24 UTC</sub>
+
+---
 
 ### [Software Engineer](https://jobs.ashbyhq.com/metriport/c530f024-c1fb-44f1-9504-f4e41f65e35a)
 <a href="https://metriport.com"><img src="https://www.google.com/s2/favicons?domain=metriport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Metriport** · San Francisco, California · `Senior` `Equity`
@@ -35,6 +68,17 @@ _Design and optimize microarchitecture for next-generation high-performance CPU 
 `Verilog` `SystemVerilog` `C++` `Python` `Arm ISA` `x86` `RISC-V` `Computer Architecture`
 
 <sub>June 7, 2026 at 19:38 UTC</sub>
+
+---
+
+### [Lead SW Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Lead-SW-Engineer_REF080572W)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Austin, Texas · `🟡 Hybrid` `Senior` `$173.1k-$276.8k` `Equity`
+
+_Design and deliver enterprise Risk platform services handling 40% of global transaction volume, leading technical architecture decisions and cross-functional teams. Requires 10+ years of experience and on-site presence in Austin. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Lead-SW-Engineer_REF080572W)_
+
+`Java` `Go` `React` `Distributed Systems` `Microservices` `Fraud Detection` `GenAI`
+
+<sub>June 7, 2026 at 16:39 UTC</sub>
 
 ---
 

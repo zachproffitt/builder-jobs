@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **423 companies** · **2353 open roles** (5 new)
+### **417 companies** · **2230 open roles** (9 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -201,6 +201,7 @@ Anchorage Digital is a regulated crypto platform that provides institutions with
 
 Anduril Industries builds autonomous systems and defense technology for US and allied forces.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Modeling, Simulation & Analysis (MSA) Engineer - HITL Focus](https://boards.greenhouse.io/andurilindustries/jobs/5156779007?gh_jid=5156779007) · Costa Mesa, California · `Mid` `$166k-$220k` `Equity` (Jun 8)
 - [Manager, Missiles Reliability Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5107188007?gh_jid=5107188007) · Costa Mesa, California · `Manager` `$166k-$220k` `Equity` (Jun 5)
 - [Systems Engineer, Launched Effects ](https://boards.greenhouse.io/andurilindustries/jobs/5157570007?gh_jid=5157570007) · Costa Mesa, California · `Mid` `$146k-$194k` `Equity` (Jun 5)
 - [Mission Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5156713007?gh_jid=5156713007) · Reston, Virginia · `Mid` `$151k-$200k` `Equity` (Jun 5)
@@ -225,7 +226,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Senior Systems Engineer (Network Test), Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5151873007?gh_jid=5151873007) · Santa Ana, California · `Senior` `$166k-$220k` `Equity` (Jun 3)
 - [Camera Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5153748007?gh_jid=5153748007) · Lexington, Massachusetts · `Mid` `$98k-$130k` `Equity` (Jun 2)
 - [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5153774007?gh_jid=5153774007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jun 2)
-- [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5153784007?gh_jid=5153784007) · Washington, D.C. · `Senior` `$191k-$253k` `Equity` (Jun 2)
+- [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5153788007?gh_jid=5153788007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Jun 2)
 - [Senior Electronics Components Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5025297007?gh_jid=5025297007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (Jun 2)
 - [Senior Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5151191007?gh_jid=5151191007) · Costa Mesa, California · `Senior` `$132k-$198k` `Equity` (Jun 2)
 - [Senior Industrial Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5088849007?gh_jid=5088849007) · Costa Mesa, California · `Senior` `$129k-$171k` `Equity` (Jun 2)
@@ -235,9 +236,9 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Senior Production Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5152640007?gh_jid=5152640007) · Lexington, Massachusetts · `Senior` `$191k-$253k` `Equity` (Jun 2)
 - [Senior Network Automation Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5088393007?gh_jid=5088393007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (Jun 2)
 - [Infrastructure Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5149139007?gh_jid=5149139007) · Costa Mesa, California · `Mid` `$146k-$194k` `Equity` (Jun 1)
-- [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5152317007?gh_jid=5152317007) · Broomfield, Colorado · `Senior` `$166k–$220k` `Equity` (Jun 1)
-- [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5152319007?gh_jid=5152319007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Jun 1)
-- [Systems Engineer, Battlespace ](https://boards.greenhouse.io/andurilindustries/jobs/5152311007?gh_jid=5152311007) · Broomfield, Colorado · `Mid` `$98k-$129k` `Equity` (Jun 1)
+- [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5152306007?gh_jid=5152306007) · Broomfield, Colorado · `Senior` `$144k-$191k` `Equity` (Jun 1)
+- [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5152309007?gh_jid=5152309007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Jun 1)
+- [Systems Engineer, Battlespace ](https://boards.greenhouse.io/andurilindustries/jobs/5152322007?gh_jid=5152322007) · Broomfield, Colorado · `Mid` `$113k-$149k` `Equity` (Jun 1)
 - [Senior GNC Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5148654007?gh_jid=5148654007) · Seattle, Washington · `Senior` `$132k-$198k` `Equity` (Jun 1)
 - [Senior Software Engineer, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5151649007?gh_jid=5151649007) · Irvine, California · `Senior` `$191k-$253k` `Equity` (Jun 1)
 - [Software Engineer, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5151652007?gh_jid=5151652007) · Irvine, California · `Mid` `$166k-$220k` `Equity` (Jun 1)
@@ -250,12 +251,12 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [DevSec Ops Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150346007?gh_jid=5150346007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
 - [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150953007?gh_jid=5150953007) · Waltham, Massachusetts · `Senior` `$191k-$253k` `Equity` (May 29)
 - [Senior Production Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5150350007?gh_jid=5150350007) · Costa Mesa, California / Washington, D.C. · `Senior` `$191k-$287k` `Equity` (May 29)
-- [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150952007?gh_jid=5150952007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
+- [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5150954007?gh_jid=5150954007) · Waltham, Massachusetts · `Senior` `$220k-$292k` `Equity` (May 29)
 - [Senior Research Scientist ](https://boards.greenhouse.io/andurilindustries/jobs/5150395007?gh_jid=5150395007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (May 29)
 - [Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4820783007?gh_jid=4820783007) · Irvine, California · `Senior` `$191k-$253k` `Equity` (May 29)
-- [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150344007?gh_jid=5150344007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
+- [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5150341007?gh_jid=5150341007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (May 29)
 - [Senior Systems Engineer (DOORS/Requirements/DO-178) ](https://boards.greenhouse.io/andurilindustries/jobs/5149530007?gh_jid=5149530007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (May 28)
-- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5149209007?gh_jid=5149209007) · Huntsville, Alabama · `Staff` `$190k-$252k` `Equity` (May 28)
+- [Staff Software Engineer, Production Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5152095007?gh_jid=5152095007) · Seattle, Washington · `Staff` `$220k-$292k` `Equity` (May 28)
 - [Enterprise Applications Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5148199007?gh_jid=5148199007) · Costa Mesa, California · `Mid` `$129k-$171k` `Equity` (May 28)
 - [Staff Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5149052007?gh_jid=5149052007) · Atlanta, Georgia · `Staff` `$190k-$252k` `Equity` (May 28)
 - [Mission Integration Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5139129007?gh_jid=5139129007) · Reston, Virginia · `Mid` `$146k-$194k` `Equity` (May 28)
@@ -264,7 +265,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Staff Propulsion Integration Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5147039007?gh_jid=5147039007) · Costa Mesa, California · `Staff` `$220k-$292k` `Equity` (May 27)
 - [Senior Requirements Engineer (C/JAMA/DOORs)](https://boards.greenhouse.io/andurilindustries/jobs/5147832007?gh_jid=5147832007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (May 27)
 - [Development Test Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5121877007?gh_jid=5121877007) · Quincy, Massachusetts · `Junior` `$86k-$100k` `Equity` (May 27)
-- [Senior Controls Engineer, Manufacturing Automation](https://boards.greenhouse.io/andurilindustries/jobs/5154533007?gh_jid=5154533007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (May 27)
+- [Senior Controls Engineer, Manufacturing Automation](https://boards.greenhouse.io/andurilindustries/jobs/5147572007?gh_jid=5147572007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (May 27)
 - [Senior Software QA Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5147483007?gh_jid=5147483007) · Lexington, Massachusetts · `Senior` `$146k-$194k` `Equity` (May 27)
 - [Senior FPGA Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5147421007?gh_jid=5147421007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (May 27)
 - [Manager, Product Security Foundations](https://boards.greenhouse.io/andurilindustries/jobs/5143540007?gh_jid=5143540007) · Costa Mesa, California · `Manager` `$191k-$253k` `Equity` (May 26)
@@ -467,14 +468,6 @@ Baker Hughes makes equipment and services for the energy industry to improve saf
 
 ---
 
-## <a href="https://barn2door.com"><img src="https://www.google.com/s2/favicons?domain=barn2door.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Barn2Door](https://barn2door.com)
-
-Barn2Door provides online platforms that enable local farms to sell their products directly to customers under their own brand.
-
-- [Sr Software Engineer](https://barn2door-inc.breezy.hr/p/3d08def99668-sr-software-engineer) · Nashville, Tennessee / Seattle, Washington · `🟢 Remote` `Senior` `Equity` (Jun 1)
-
----
-
 ## <a href="https://baseten.com"><img src="https://www.google.com/s2/favicons?domain=baseten.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Baseten](https://baseten.com)
 
 Baseten provides an inference platform for serving and scaling open-source and custom AI models.
@@ -489,14 +482,6 @@ Baton Market is a business brokerage platform that helps users buy and sell busi
 
 - [Software Engineer](https://jobs.ashbyhq.com/Baton/acc4eb72-7d41-4c19-a099-c9fe4b4307a0) · New York, New York · `Mid` `Equity` (Jun 1)
 - [Senior Software Engineer](https://jobs.ashbyhq.com/Baton/12c9b4a1-d31a-435c-a3b0-a2d3f8aa7358) · New York, New York · `🟡 Hybrid` `Mid` `Equity` (May 31)
-
----
-
-## <a href="https://bearrobotics.ai"><img src="https://www.google.com/s2/favicons?domain=bearrobotics.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Bear Robotics](https://bearrobotics.ai)
-
-Bear Robotics builds service robots and industrial autonomous mobile robots (AMRs) for hospitality and logistics operations.
-
-- [Robotics Software Engineer II, Mission](https://bear-robotics.breezy.hr/p/f0861772b503-robotics-software-engineer-ii-mission) · Redwood City, California · `Senior` `$176k-$196k` (Jun 5)
 
 ---
 
@@ -2879,147 +2864,6 @@ Nuro develops autonomous driving software called Nuro Driver, an AI-based self-d
 
 ---
 
-## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
-
-Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
-
-- [Senior ML Platform Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ML-Platform-Engineer_JR2013616) · `🟢 Remote` `Senior` `$152k-$287.5k` `Equity` (Jun 5)
-- [Senior Software Engineer - Developer Tools for Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Remote/Senior-Software-Engineer---Developer-Tools-for-Deep-Learning_JR2013176) · `🟢 Remote` `Senior` `$152k-$287.5k` `Equity` (Jun 5)
-- [Software DevOps Engineer, Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer_JR2011548) · Santa Clara, California · `Senior` `$148k-$235.75k (L3) / $176k-$276k (L4)` `Equity` (Jun 5)
-- [Cyber Security Analyst](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-VA-Remote/Cyber-Security-Analyst_JR2013431) · 3 Locations · `Senior` `$160k-$258.75k` `Equity` (Jun 5)
-- [Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493) · Santa Clara, California · `Intern` `$41.6k-$147.2k` (Jun 5)
-- [Software Embedded Engineer, DOCA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Embedded-Engineer--DOCA_JR2015983) · 2 Locations · `Mid` (Jun 5)
-- [Senior Software Engineer, RDMA Transport](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--RDMA-Transport_JR2018932) · 2 Locations · `Senior` (Jun 5)
-- [Senior Software Engineer - NIC and Switch Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer---NIC-and-Switch-Simulation_JR2018714) · 2 Locations · `Senior` (Jun 5)
-- [SOC Clock Distribution Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203) · 2 Locations · `Mid` (Jun 5)
-- [Applied AI Researcher - World Reconstruction and Generation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Applied-AI-Researcher---World-Reconstruction-and-Generation_JR2019212) · 4 Locations · `Senior` (Jun 5)
-- [Senior Deep Learning Hardware Modeling Architect - LPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Hardware-Modeling-Architect---LPU_JR2019216) · 3 Locations · `🟡 Hybrid` `Senior` `$152k-$287.5k` `Equity` (Jun 5)
-- [Senior System Software Engineer, CPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Senior-System-Software-Engineer--CPU_JR2019268) · 2 Locations · `Senior` (Jun 5)
-- [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330) · Austin, Texas · `Junior` `$116k-$189k (Level 2) / $136k-$218k (Level 3)` `Equity` (Jun 5)
-- [GeForce NOW Content Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/GeForce-NOW-Content-Engineer_JR2019302) · 2 Locations · `Mid` `125k CAD - 175k CAD` `Equity` (Jun 5)
-- [Senior AI Infrastructure Engineer - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Engineer---DGX-Cloud_JR2018820) · 2 Locations · `Senior` `$152k-$287.5k` `Equity` (Jun 5)
-- [Senior LPU ASIC Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-LPU-ASIC-Engineer_JR2019382) · 6 Locations · `🟡 Hybrid` `Senior` `$136k-$218.5k (L3) / $168k-$264.5k (L4)` `Equity` (Jun 4)
-- [Senior Graphics Shader Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Graphics-Shader-Compiler-Engineer_JR2019322) · 2 Locations · `Senior` `$225k CAD - $275k CAD` `Equity` (Jun 4)
-- [Senior Compiler Engineer - DL](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---DL_JR2016862) · 6 Locations · `Senior` `$152k-$241.5k` `Equity` (Jun 4)
-- [Senior Software Engineer - XR Physical AI Partners Engagement](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---XR-Physical-AI-Partners-Engagement_JR2019340) · Santa Clara, California · `Senior` `$184k-$287.5k (L4) or $224k-$356.5k (L5)` `Equity` (Jun 4)
-- [SOC Design Methodologies Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/SOC-Design-Methodologies-Engineer_JR2019265) · 2 Locations · `Junior` (Jun 4)
-- [Software Engineer, CAD Automation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation_JR2019252) · Santa Clara, California · `Mid` `$136k-$264.5k` `Equity` (Jun 4)
-- [Senior Machine Learning Engineer, Perception - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer--Perception---Autonomous-Driving_JR2018915) · 3 Locations · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity` (Jun 4)
-- [Senior Software Engineer, DGX Cloud AI Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-AI-Infrastructure_JR2019246) · 5 Locations · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity` (Jun 4)
-- [Senior Software Engineer - NVIDIA Warp](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---NVIDIA-Warp_JR2012134-1) · 2 Locations · `Senior` `$184k-$287.5k (Level 4) or $224k-$356.5k (Level 5)` `Equity` (Jun 4)
-- [Developer Technology Engineer - AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---AI_JR2017060-1) · 3 Locations · `Mid` (Jun 4)
-- [Senior Software Engineer, Subnet Management](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Subnet-Manager_JR2007452) · 2 Locations · `Senior` `$184k-$356.5k` `Equity` (Jun 4)
-- [Software Engineer, DGX Cloud AI Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure_JR2019248) · 5 Locations · `Mid` `$116k-$224.25k` `Equity` (Jun 4)
-- [Senior Firmware Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2019234) · Santa Clara, California · `Senior` `$184k-$356.5k` `Equity` (Jun 4)
-- [Senior Applied Machine Learning Engineer - VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Machine-Learning-Engineer---VLSI-Design_JR2014328) · Santa Clara, California · `🟡 Hybrid` `Senior` `$152k-$264.5k` `Equity` (Jun 4)
-- [Senior Deep Learning Performance Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Performance-Architect_JR2019301) · 2 Locations · `Senior` `$184k-$356.5k` `Equity` (Jun 4)
-- [Software Engineer, GPU Performance Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--GPU-Performance-Tools_JR2017424) · 3 Locations · `Mid` `$124k-$241.5k` `Equity` (Jun 4)
-- [Senior Software Development Tech Lead – NVLink FW and NVOS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Tech-Lead---NVLink-FW-and-NVOS_JR2019101) · Santa Clara, California · `Senior` `$224k-$431.25k` `Equity` (Jun 4)
-- [Senior Digital Design Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Digital-Design-Engineer_JR2019299) · 3 Locations · `Senior` `$136k-$264.5k` `Equity` (Jun 3)
-- [ASIC Clocks Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Design-Engineer---New-College-Grad-2026_JR2019229-1) · 2 Locations · `Junior` `$100k-$189.75k` `Equity` (Jun 3)
-- [Software Engineer, Hardware Tools and Methodology - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) · Santa Clara, California · `🟡 Hybrid` `Junior` `$116k-$218.5k` `Equity` (Jun 3)
-- [Research Scientist, Electronic Design Automation - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) · Santa Clara, California · `Junior` `$168k-$264.5k` `Equity` (Jun 3)
-- [AI Inference Performance Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441) · Santa Clara, California · `Junior` `$124k-$195.5k` `Equity` (Jun 3)
-- [Senior Software Engineer, AI Web Products](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AI-Web-Products_JR2013475) · 6 Locations · `Senior` `$184k-$356.5k` `Equity` (Jun 3)
-- [Senior Software Engineer, Generative AI Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Generative-AI-Research_JR2010593) · Santa Clara, California · `Senior` `$224k-$356.5k` `Equity` (Jun 3)
-- [Senior VLSI CAD Software Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-VLSI-CAD-Software-Engineer_JR2019132) · 2 Locations · `Senior` (Jun 3)
-- [Systems Performance Engineer, Agentic AI Workloads – New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Performance-Engineer--Agentic-AI-Workloads---New-College-Grad-2026_JR2018588) · 3 Locations · `Junior` `$124k-$241.5k` `Equity` (Jun 3)
-- [Senior CPU Performance Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-CPU-Performance-Architect_JR2019251) · 3 Locations · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity` (Jun 3)
-- [Software Engineering Manager, Robotics Neural Reconstruction and Real2Sim Applications](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager--Robotics-Neural-Reconstruction-and-Real2Sim-Applications_JR2019107) · Santa Clara, California · `Manager` `$224k-$431.25k` `Equity` (Jun 3)
-- [Senior Quantum Systems Engineer - Quantum Computing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153) · 2 Locations · `Senior` (Jun 3)
-- [Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-and-AI-Infrastructure-Engineer---Chip-Design-and-DFX_JR2018256) · Santa Clara, California · `Senior` `$200k-$379.5k` `Equity` (Jun 3)
-- [DGX Cloud Kubernetes Runtime Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619) · Santa Clara, California · `Intern` `$20-$71/hr` (Jun 3)
-- [Senior DFX Power Methodology Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFX-Power-Methodology-Engineer_JR2018255) · Santa Clara, California · `Senior` `$196k-$310.5k (Level 5) / $232k-$368k (Level 6)` `Equity` (Jun 3)
-- [Senior FPGA Prototyping Platform Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-FPGA-Prototyping-Platform-Engineer_JR2017479) · Santa Clara, California · `Senior` `$168k-$310.5k` `Equity` (Jun 2)
-- [Applied AI Engineer - VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Engineer---VLSI-Design_JR2019190) · Santa Clara, California · `🟡 Hybrid` `Mid` `$136k-$264.5k` `Equity` (Jun 2)
-- [Senior ASIC AI Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-AI-Engineer_JR2019195) · Santa Clara, California · `Senior` `$136k-$264.5k` `Equity` (Jun 2)
-- [Simulation Engineer, Industrial Physics and Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Simulation-Engineer--Industrial-Physics-and-Robotics_JR2018520) · Santa Clara, California · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity` (Jun 2)
-- [Low Power ASIC Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005) · Santa Clara, California · `Junior` `$100k-$189.75k` `Equity` (Jun 2)
-- [Senior Software Architect, GPU Networking Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-Software-Architect--GPU-Networking-Research_JR2016906) · 2 Locations · `Senior` (Jun 2)
-- [Full-Stack Solution Engineer - Sensorized Human](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Full-Stack-Solution-Engineer---Sensorized-Human_JR2018291) · 2 Locations · `Mid` (Jun 2)
-- [Principal Simulation Engineer, Industrial Physics and Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Remote/Principal-Simulation-Engineer--Industrial-Physics-and-Robotics_JR2018458) · 6 Locations · `Principal` (Jun 2)
-- [Senior Software Manager, Agentic AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Manager--Agentic-AI_JR2001693) · Santa Clara, California · `Manager` `$272k-$431.25k` `Equity` (Jun 2)
-- [Field Application Engineer, AI Factory](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Field-Application-Engineer_JR2010874) · 2 Locations · `🟡 Hybrid` `Senior` `$132k-$207k (L3) / $160k-$253k (L4)` `Equity` (Jun 2)
-- [Senior Systems Software Engineer, AI Stack and Performance - DGX Station](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--AI-Stack-and-Performance---DGX-Station_JR2019004) · 2 Locations · `Senior` `$224k-$356.5k` `Equity` (Jun 1)
-- [Deep Learning Computer Architect - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178) · 2 Locations · `🟡 Hybrid` `Junior` `$124k-$241.5k` `Equity` (Jun 1)
-- [Deep Learning Performance Architect, CUTLASS DSL](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect--CUTLASS-DSL_JR2018773) · 2 Locations · `Senior` (Jun 1)
-- [Senior Software Engineer, CUTLASS Kernels ](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Kernels-_JR2018988) · 5 Locations · `Senior` `$152k-$287.5k` `Equity` (Jun 1)
-- [Senior Software Engineer, CUTLASS Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Performance_JR2018987) · 5 Locations · `Senior` `$152k-$287.5k` `Equity` (Jun 1)
-- [Senior Software Engineer, CUTLASS Platform ](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUTLASS-Platform-_JR2018985) · 5 Locations · `Senior` `$152k-$287.5k` `Equity` (Jun 1)
-- [Firmware Design Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Design-Engineer_JR2018349) · 2 Locations · `Mid` (Jun 1)
-- [Senior AI Architect, Foundation Models and SoC Co-Design – Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387) · Santa Clara, California · `Senior` `$208k-$327.75k` `Equity` (Jun 1)
-- [Manager, Product Engineering Manufacturing - AI and Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Product-Engineering-Manufacturing---AI-and-Networking_JR2017751) · Santa Clara, California · `Manager` `$200k-$322k` `Equity` (Jun 1)
-- [Product Development Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Development-Engineer_JR2009811-1) · Santa Clara, California · `Senior` `$168k-$258.75k` `Equity` (Jun 1)
-- [Senior Software Development Engineer in Test](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test_JR2018424) · Santa Clara, California · `Senior` `$140k-$270.25k` `Equity` (Jun 1)
-- [Senior Systems Software Engineer, Windows and Linux Enablement -  DGX Station](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Windows-and-Linux-Enablement----DGX-Station_JR2019007) · 2 Locations · `Senior` `$224k-$356.5k` `Equity` (Jun 1)
-- [Senior Security Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353) · 5 Locations · `Senior` (Jun 1)
-- [Software Engineer – Infrastructure & Network Automation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer---Infrastructure---Network-Automation_JR2018770) · 2 Locations · `Mid` (Jun 1)
-- [Senior RAS and Power Management Firmware Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-RAS-and-Power-Management-Firmware-Architect_JR2018727) · 3 Locations · `Senior` (Jun 1)
-- [Senior Design-for-Test Engineer, ATPG](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Design-for-Test-Engineer--ATPG_JR2004451) · 2 Locations · `Senior` (Jun 1)
-- [Manager, Cybersecurity](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-VA-Remote/Manager--Cybersecurity_JR2017278) · 3 Locations · `Manager` `$160k-$253k` `Equity` (Jun 1)
-- [Senior Manager, Artificial Intelligence - Machine Learning Platform](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Artificial-Intelligence---Machine-Learning-Platform_JR2018876) · 3 Locations · `Manager` `$272k-$488.75k` `Equity` (Jun 1)
-- [Principal Architect, System Software - Orbital Data Center](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Architect--System-Software---Orbital-Data-Center_JR2019010) · 2 Locations · `Principal` `$272k-$431.25k` `Equity` (Jun 1)
-- [Manager, Software Engineering - Cumulus Linux](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-Engineering---Cumulus-Linux_JR2018585) · Santa Clara, California · `Manager` `$224k-$431.25k` `Equity` (Jun 1)
-- [Senior Power and Performance Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Power-and-Performance-Engineer_JR2019066) · Santa Clara, California · `🟡 Hybrid` `Senior` `$168k-$310.5k` `Equity` (May 29)
-- [GPU Simulation System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Simulation-System-Software-Engineer_JR2018237) · Santa Clara, California · `🟡 Hybrid` `Mid` `$152k-$241.5k` `Equity` (May 29)
-- [Senior C++ Software Engineer - Infrastructure Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-C---Software-Engineer---Infrastructure-Tools_JR2018693) · 4 Locations · `🟡 Hybrid` `Senior` `$152k-$287.5k` `Equity` (May 29)
-- [Senior Software Engineer - Agentic AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-LLM-Engineer--AI---Chip-Design_JR1989138) · Santa Clara, California · `🟡 Hybrid` `Senior` `$152k-$287.5k` `Equity` (May 29)
-- [Senior Software Engineer – Financial Systems Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Financial-Systems-Engineering_JR2018947) · 4 Locations · `Senior` `$224k-$356.5k` `Equity` (May 29)
-- [Software Engineer, TensorRT Specialized Platforms - New College Grad 2025](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870) · Santa Clara, California · `Junior` `$124k-$195.5k` `Equity` (May 29)
-- [Physical Design Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/Physical-Design-Engineer_JR2012365) · Westford, Massachusetts · `Senior` `$116k-$218.5k` `Equity` (May 29)
-- [Director, Rack Scale Software Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Rack-Scale-Software-Architecture_JR2012499) · 5 Locations · `Manager` `$320k-$488.75k` `Equity` (May 29)
-- [Senior Software Engineer, Agentic Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Systems_JR2018875) · 5 Locations · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity` (May 29)
-- [Engineering Manager, Inference Benchmarking — AI Perf](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Engineering-Manager--Inference-Benchmarking---AI-Perf_JR2017635) · 6 Locations · `Manager` `$224k-$356.5k` `Equity` (May 29)
-- [System Speed and Reliability Co-Design Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Speed-and-Reliability-Co-Design-Engineer_JR2018911-1) · Santa Clara, California · `🟡 Hybrid` `Mid` `$136k-$264.5k` `Equity` (May 28)
-- [Senior Lab DSP Communication Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Lab-DSP-Communication-Engineer_JR2018056) · 2 Locations · `Senior` (May 28)
-- [Senior DSP Python Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-DSP-Python-Engineer_JR2018360) · 2 Locations · `Senior` (May 28)
-- [Senior System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2018913) · 2 Locations · `Senior` `$152k-$241.5k` `Equity` (May 28)
-- [AI Computing Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Architect_JR2018848) · 2 Locations · `Senior` (May 28)
-- [Capacity Operations and Analytics Manager](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Capacity-Operations-and-Analytics-Manager_JR2018419) · 2 Locations · `Senior` `$168k-$270.25k` `Equity` (May 28)
-- [Technical Marketing Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer_JR2018597-1) · Santa Clara, California · `🟡 Hybrid` `Senior` `$160k-$322k` `Equity` (May 28)
-- [Full-Stack Solution Engineer: Humanoid Whole-Body Control and Loco-manipulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Full-Stack-Solution-Engineer--Humanoid-Whole-Body-Control-and-Loco-manipulation_JR2018290) · 2 Locations · `Senior` (May 28)
-- [Infrastructure Software Engineer, Deep Learning Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Software-Engineer--Deep-Learning-Libraries_JR2018616) · 2 Locations · `Mid` (May 28)
-- [Deep Learning Performance Architect, CUTLASS DSL Testing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Architect--CUTLASS-DSL-Testing_JR2018782) · 2 Locations · `Mid` (May 28)
-- [Deep Learning Compiler Engineer - CUDA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Engineer---CUDA_JR2010731) · 2 Locations · `Mid` (May 28)
-- [Principal System Software Engineer - AV Platform](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-System-Software-Engineer---AV-Platform_JR2018839) · Santa Clara, California · `Principal` `$272k-$431.25k` `Equity` (May 28)
-- [PhD Research Intern, Generative AI - 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) · Santa Clara, California · `Intern` `$62k-$195k` (May 28)
-- [Senior Deep Learning Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Deep-Learning-Engineer_JR2014226) · 2 Locations · `Senior` `$152k-$287.5k` `Equity` (May 28)
-- [Senior Software Development Engineer in Test - SDET](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---SDET_JR2013758) · Santa Clara, California · `Senior` `$140k-$224.25k (Level 3) / $168k-$270.25k (Level 4)` `Equity` (May 27)
-- [Senior System Software Engineer, NvSci](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--NvSci_JR2018688) · 2 Locations · `Senior` `$184k-$287.5k (L4) or $224k-$356.5k (L5)` `Equity` (May 27)
-- [Senior System Software Engineer - QNX BSP and IOs Virtualization](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---QNX-BSP-and-IOs-Virtualization_JR2018599) · Santa Clara, California · `Senior` `$152k-$287.5k` `Equity` (May 27)
-- [Senior Software Engineer, DGX Cloud Production Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGX-Cloud-Production-Engineering_JR2019319) · 2 Locations · `Senior` `$184k-$287.5k (Level 4) / $224k-$356.5k (Level 5)` `Equity` (May 27)
-- [Senior Software Engineer, AI Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Software-Engineer--AI-Networking_JR2018812) · `🟢 Remote` `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity` (May 27)
-- [Software Performance at Scale Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Performance-at-Scale-Intern---Fall-2026_JR2018701) · Santa Clara, California · `Intern` `$41.6k-$147.2k` (May 27)
-- [Data Analysis Intern, Applied System Engineering - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Analysis-Intern--Applied-System-Engineering---Fall-2026_JR2018687-1) · Santa Clara, California · `Intern` `$20-$71/hr` (May 27)
-- [AI and Systems Software Intern, At Scale AI - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Systems-Software-Intern--At-Scale-AI---Fall-2026_JR2018652) · Santa Clara, California · `Intern` `$20-$71/hr (approximately $41.6k-$147.9k annualized)` (May 27)
-- [AI Workload and Networking Research Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/AI-Workload-and-Networking-Research-Architect_JR2018707) · 2 Locations · `Senior` (May 27)
-- [Developer Technology Engineer, AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineer--AI_JR2018676) · 3 Locations · `Mid` (May 27)
-- [Engineering Manager, DGX Cloud Production Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Engineering-Manager--DGX-Cloud-Production-Engineering_JR2018814) · 3 Locations · `Manager` `$224k-$356.5k` `Equity` (May 27)
-- [GPU Performance Engineer - Neural Reconstruction](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/GPU-Performance-Engineer---Neural-Reconstruction_JR2018808) · `🟢 Remote` `Senior` `225k CAD - 340k CAD` `Equity` (May 27)
-- [Lead Algorithm Engineer, Map-Perception Fusion](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lead-Algorithm-Engineer--Map-Perception-Fusion_JR2018438) · 4 Locations · `Senior` `$224k-$356.5k` `Equity` (May 27)
-- [Senior ASIC Front End Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Front-End-Infrastructure-Engineer_JR2018704-1) · 4 Locations · `Senior` `$184k-$356.5k` `Equity` (May 27)
-- [Principal Performance and Manufacturing Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Performance-and-Manufacturing-Architect_JR2018099) · 6 Locations · `Principal` `$232k-$368k` `Equity` (May 27)
-- [Senior Systems Software Engineer, Machine Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Machine-Learning_JR2018315) · 2 Locations · `Senior` `$152k-$287.5k` `Equity` (May 26)
-- [Senior Director, System Software Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--System-Software-Engineering---DGX-Cloud_JR2018626) · Santa Clara, California · `Manager` `$384k-$575k` `Equity` (May 26)
-- [Compiler Engineer, Compute Front-End - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Compute-Front-End--New-College-Grad-2026_JR2013488) · 3 Locations · `Junior` `$124k-$241.5k` `Equity` (May 26)
-- [SOC Verification Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Verification-Engineer_JR2012618) · 4 Locations · `🟡 Hybrid` `Mid` (May 26)
-- [Senior SOC Verification Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SOC-Verification-Engineer_JR2012616) · 4 Locations · `🟡 Hybrid` `Senior` (May 26)
-- [Systems Quality and Reliability Engineer - LPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Quality-and-Reliability-Engineer---LPU_JR2018660) · Santa Clara, California · `🟡 Hybrid` `Mid` `$136k-$218.5k` `Equity` (May 26)
-- [Manager, ATE Test Development](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--ATE-Test-Development_JR2018208) · Santa Clara, California · `Manager` `$184k-$287.5k` `Equity` (May 26)
-- [Senior Debug System Engineer, Datacenter](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Debug-System-Engineer--Datacenter_JR2018046-1) · Santa Clara, California · `Senior` `$168k-$258.75k` `Equity` (May 26)
-- [Senior Software Verification Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Verification-Engineer_JR2015072) · 2 Locations · `Senior` (May 26)
-- [Senior Data Scientist - Security](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Data-Scientist---Security-and-Networking-Research_JR2018548) · 4 Locations · `Senior` (May 26)
-- [Senior AI Security Researcher](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-AI-Safety-Red-Teamer_JR2018549) · 4 Locations · `Senior` (May 26)
-- [Manager, Software Engineering – Network Simulation and Testing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Software-Engineering---Network-Simulation-and-Testing_JR2018428) · 2 Locations · `Manager` (May 26)
-- [Senior Network Modeling Architect - Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Network-Modeling-Architect---Networking_JR2018013) · 2 Locations · `🟡 Hybrid` `Senior` (May 26)
-- [Performance Modeling Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Performance-Modeling-Architect_JR2018613) · 2 Locations · `Senior` (May 26)
-- [Senior Silicon Security Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR2017969) · 5 Locations · `Senior` (May 26)
-- [Senior Software Engineer — MD Simulation Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333) · Santa Clara, California · `Senior` `$184k-$287.5k (Level 4) / $224k-$356.5k (Level 5)` `Equity` (May 25)
-- [Senior System Software Engineer - Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Performance_JR2018642) · 6 Locations · `Senior` `$184k-$287.5k (L4) / $224k-$356.5k (L5)` `Equity` (May 25)
-- [Manager, Software Engineering – Networking Management](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Software-Engineering---Networking-Management_JR2018427) · 2 Locations · `Manager` (May 25)
-
----
-
 ## <a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Oklo](https://oklo.com)
 
 Oklo develops and operates advanced nuclear reactors and is building a nuclear training organization to support safe and efficient plant operations for its advanced reactor facilities.
@@ -3146,14 +2990,6 @@ Osaro offers robotic piece-picking solutions for various industries.
 
 - [Senior Backend Software Engineer](https://jobs.lever.co/osaro/56fcf771-5c21-4ec8-b4df-c978acbad4a0) · San Francisco, California · `Senior` (May 28)
 - [Senior Software Engineering Manager](https://jobs.lever.co/osaro/9cc3bea4-f509-4253-9d0c-098f3ff6250f) · San Francisco, California · `Manager` (May 28)
-
----
-
-## <a href="https://otis.com"><img src="https://www.google.com/s2/favicons?domain=otis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Otis](https://otis.com)
-
-Otis manufactures and maintains elevators, escalators, and moving walkways, and provides modernization tools and service packages for buildings.
-
-- [Business Analytics Engineer](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/OTTXH-Texas-Home-Offices-Remote-Location-Remote-City-TX-06032-USA/Business-Analytics-Engineer_20160424) · `🟢 Remote` `Mid` (Jun 5)
 
 ---
 
@@ -4044,20 +3880,11 @@ Slingshot Aerospace builds data and software solutions for space operations to s
 
 ---
 
-## <a href="https://smith-nephew.com"><img src="https://www.google.com/s2/favicons?domain=smith-nephew.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Smith & Nephew](https://smith-nephew.com)
-
-Smith & Nephew is a global medical technology company that designs and manufactures medical devices and technology products.
-
-- [Systems Verification Engineer](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Systems-Verification-Engineer_R91176) · Andover, Massachusetts · `🟡 Hybrid` `Mid` `$85k-$128k` (Jun 5)
-- [Staff R&D Robotics Electrical Engineer (Pittsburgh, PA)](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Staff-R-D-Robotics-Electrical-Engineer--Pittsburgh--PA-_R91137) · Pittsburgh, Pennsylvania · `🟡 Hybrid` `Staff` (Jun 4)
-- [Low‑Code Application Developer (Mendix) – Snowflake & Power BI (Remote US)](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Field/Data-Analyst_R84953) · `🟢 Remote` `Mid` `$66k-$110k` `Equity` (Jun 1)
-
----
-
 ## <a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Snowflake](https://snowflake.com)
 
 Snowflake builds a cloud data platform that enables organizations to store, process, and analyze data using SQL and supports various data workloads including analytics, data warehousing, and data lakes.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Manager, Product Data Science](https://jobs.ashbyhq.com/snowflake/117e5dc0-6191-43f2-8e05-863d405da289) · Menlo Park, California · `Manager` (Jun 8)
 - [Senior Software Engineer - Internal Observability](https://jobs.ashbyhq.com/snowflake/a438f51d-cbca-4751-88c3-5de326833bba) · Menlo Park, California · `Senior` (Jun 5)
 - [Senior Software Engineer — Ingestion for Spark](https://jobs.ashbyhq.com/snowflake/f7b61017-c557-46f0-9583-4dd3168e57b9) · Bellevue, Washington · `Senior` (Jun 3)
 - [Senior Software Engineer - Metadata ](https://jobs.ashbyhq.com/snowflake/cc474c7a-48ca-45bc-b017-f68627af9f5c) · Bellevue, Washington · `Senior` (Jun 3)
@@ -4305,14 +4132,6 @@ Suno makes an AI music generator that creates original music.
 
 ---
 
-## <a href="https://sunrun.com"><img src="https://www.google.com/s2/favicons?domain=sunrun.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Sunrun](https://sunrun.com)
-
-Sunrun provides home solar panel and battery storage systems, offering installation with little to no money down and fixed energy rates.
-
-- [Senior Oracle ERP Developer](https://sunrun.wd5.myworkdayjobs.com/Sunrun_Careers/job/REMOTE/Staff-Infrastructure-and-Enterprise-Engineer_R56695) · `🟢 Remote` `Senior` `$154k-$185k` (May 27)
-
----
-
 ## <a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Supabase](https://supabase.com)
 
 Supabase provides a backend platform built on Postgres that includes database management, authentication, APIs, real-time capabilities, serverless functions, file storage, and vector embeddings for application development.
@@ -4424,18 +4243,6 @@ Telnyx LLC operates a global communications platform that provides voice AI agen
 
 ---
 
-## <a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Tempus AI](https://tempus.com)
-
-Tempus builds an operating system that combines clinical and molecular data to make information accessible for cancer treatment and research.
-
-- [Translational Scientist, Applied Machine Learning and Agentic AI, Pharma R&D](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/New-York-City/Machine-Learning-Scientist--Applied-Machine-Learning-and-Agentic-AI--Pharma-R-D_JR202600508) · New York, New York · `Senior` `$120k-$160k` `Equity` (Jun 1)
-- [Site Reliability Engineer](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Calgary/Site-Reliability-Engineer_JR202600494-1) · Calgary, Canada · `Mid` (May 27)
-- [Senior Software Engineer, OS Ecosystem](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Senior-Software-Engineer--OS-Ecosystem_JR202600497) · Chicago, Illinois · `Senior` `$110k-$160k` `Equity` (May 27)
-- [Sr Manager, Software Engineering](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Sr-Manager--Software-Engineering_JR202600496) · Chicago, Illinois · `Manager` `$150k-$210k` `Equity` (May 27)
-- [Data Scientist II, Outcomes Research](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Scientist-II--Outcomes-Research_JR202600492) · Chicago, Illinois / New York, New York / San Francisco, California / Remote · `Senior` `$90k-$150k` `Equity` (May 27)
-
----
-
 ## <a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Tenstorrent](https://tenstorrent.com)
 
 Tenstorrent builds computers for AI.
@@ -4459,7 +4266,9 @@ TerraPower develops nuclear reactor and storage technology, and advances methods
 
 ---
 
-## <a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters Labs](https://labs.thomsonreuters.com)
+## <a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters](https://thomsonreuters.com)
+
+Thomson Reuters provides technology solutions and content for professionals.
 
 - [Senior Endpoints Automation Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Endpoints-Automation-Engineer_JREQ200799) · `🟡 Hybrid` `Senior` (Jun 5)
 - [Software Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Software-Engineer_JREQ201179) · Washington, D.C. / McLean, Virginia / New York, New York / San Francisco, California / Los Angeles, California / Irvine, California · `🟡 Hybrid` `Mid` `$117k-$218k` `Equity` (Jun 5)
@@ -4776,6 +4585,33 @@ Viam builds a platform that covers the entire robotics lifecycle, providing mult
 
 ---
 
+## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
+
+Visa provides personal payment solutions, payment cards, and rewards programs.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Lead SW Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Lead-SW-Engineer_REF080572W) · Austin, Texas · `🟡 Hybrid` `Senior` `$173.1k-$276.8k` `Equity` (Jun 7)
+- [Sr Manager - Software Engineering](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Sr-Manager---Software-Engineering_REF081982W-1) · Austin, Texas · `🟡 Hybrid` `Manager` `$162k-$260k` `Equity` (Jun 5)
+- [Staff SW Engineer-2](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-SW-Engineer-2_REF080665W) · Foster City, California · `🟡 Hybrid` `Senior` `$146k-$233k` `Equity` (Jun 4)
+- [Software Test Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Test-Engineer_REF077610W) · Austin, Texas · `🟡 Hybrid` `Junior` `$76k-$118k` `Equity` (Jun 3)
+- [Data Engineer - Senior Consultant level](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Data-Engineer---Senior-Consultant-level_REF082556W) · Bellevue, Washington · `🟡 Hybrid` `Senior` `$152k-$243k` `Equity` (Jun 3)
+- [Director, AI Strategy & Automation](https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/Director--AI-Strategy---Automation_REF082692W) · San Francisco, California · `🟡 Hybrid` `Manager` `$170k-$273k` `Equity` (Jun 2)
+- [Director (Mainframe and GGS)](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Director--Mainframe-and-GGS-_REF081644W-1) · Denver, Colorado · `🟡 Hybrid` `Manager` `$176k-$282k` `Equity` (Jun 2)
+- [Cyber Security Engineer - Sr. Consultant level](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Cyber-Security-Engineer---Sr-Consultant-level_REF078642W-1) · Foster City, California · `🟡 Hybrid` `Senior` `$180k-$289k` `Equity` (Jun 2)
+- [Staff Site Reliability Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Site-Reliability-Engineer_REF079724W) · Austin, Texas · `🟡 Hybrid` `Staff` `$131k-$210k` `Equity` (Jun 2)
+- [Staff Software Engineer -AI & Middleware Automation](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Software-Engineer--AI---Middleware-Automation_REF082408W) · Austin, Texas · `🟡 Hybrid` `Staff` `$131.6k-$210.3k` `Equity` (May 28)
+- [Senior Software Engineer - AI Agents](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Senior-Software-Engineer---AI-Agents_REF082452W-1) · 2 Locations · `🟡 Hybrid` `Senior` `$123k-$190.9k` `Equity` (May 28)
+- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer_REF081843W-1) · Foster City, California · `🟡 Hybrid` `Junior` (May 28)
+- [Staff Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Software-Engineer_REF076109W) · Austin, Texas · `🟡 Hybrid` `Senior` `$131k-$210k` `Equity` (May 28)
+- [Chief Data Architect](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Chief-Data-Architect_REF082576W) · Foster City, California · `🟡 Hybrid` `Principal` `$217k-$348k` `Equity` (May 28)
+- [Engineering Manager](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Engineering-Manager_REF075460W-1) · Austin, Texas · `🟡 Hybrid` `Manager` `$162k-$260k` `Equity` (May 28)
+- [Staff Database Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Database-Engineer_REF070559W) · 2 Locations · `🟡 Hybrid` `Staff` `$124k-$210k` `Equity` (May 27)
+- [Staff SW Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-SW-Engineer_REF059128W) · Austin, Texas · `🟡 Hybrid` `Senior` `$131k-$210k` `Equity` (May 27)
+- [Lead Solutions Architect - GenAI](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Lead-Solutions-Architect---GenAI_REF080419W) · Bellevue, Washington · `🟡 Hybrid` `Staff` `$186k-$299k` `Equity` (May 26)
+- [Software Engineer- Operations and Infrastructure](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W) · Austin, Texas · `🟡 Hybrid` `Junior` `$88k-$136.9k` `Equity` (May 26)
+- [Data Scientist, FeatureSpace](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Data-Scientist--FeatureSpace_REF074499W) · 2 Locations · `🟡 Hybrid` `Mid` `Equity` (May 26)
+
+---
+
 ## <a href="https://vitablehealth.com"><img src="https://www.google.com/s2/favicons?domain=vitablehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Vitable Health](https://vitablehealth.com)
 
 Vitable Health provides affordable primary care services including visits, medications, and lab tests through Individual Coverage Health Reimbursement Arrangements (ICHRA).
@@ -4903,6 +4739,7 @@ Workato builds enterprise servers that connect AI agents to over 1,400 business 
 
 Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Machine Learning Engineer - Document Intelligence](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515) · Pleasanton, California · `🟡 Hybrid` `Senior` `$160k-$240k USD` `Equity` (Jun 8)
 - [Sr. Software Engineer, Security (Pipedream)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sr-Software-Engineer--Security--Pipedream-_JR-0107129) · Pleasanton, California · `🟡 Hybrid` `Senior` `$176k-$264k` `Equity` (Jun 5)
 - [Director of Machine Learning Engineering - Agent Factory](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/Director-of-Machine-Learning-Engineering---Agent-Factory_JR-0107670-1) · Seattle, Washington · `🟡 Hybrid` `Manager` `$249k-$374k` `Equity` (Jun 5)
 - [Software Development Engineer - Integration Platform (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer---Integration-Platform--US-Federal-_JR-0105495) · Reston, Virginia · `🟡 Hybrid` `Mid` `$137k-$205.4k` `Equity` (Jun 5)
