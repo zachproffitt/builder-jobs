@@ -2,11 +2,26 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2404 open roles** (4 new) &nbsp;·&nbsp; 1710 companies searched
+### **2353 open roles** (5 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 8, 2026
+
+### [Software Engineer](https://jobs.ashbyhq.com/metriport/c530f024-c1fb-44f1-9504-f4e41f65e35a)
+<a href="https://metriport.com"><img src="https://www.google.com/s2/favicons?domain=metriport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Metriport** · San Francisco, California · `Senior` `Equity`
+
+_Build end-to-end healthcare data integration and transformation systems serving 300+ million patient records across major US healthcare IT systems. Healthcare domain expertise (FHIR, HL7, EHR systems) preferred; requires on-site in San Francisco. · [Apply →](https://jobs.ashbyhq.com/metriport/c530f024-c1fb-44f1-9504-f4e41f65e35a)_
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `AWS` `DynamoDB` `FHIR`
+
+<sub>June 8, 2026 at 01:22 UTC</sub>
+
+---
 
 <br>
 
