@@ -2,24 +2,13 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **355 open roles** (21 new)
+### **355 open roles** (20 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 8, 2026
-
-### [Manager, Enterprise Security Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5159139007?gh_jid=5159139007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Manager` `$129k-$220k` `Equity`
-
-_Build and scale a team of security engineers to design and implement defensive controls across cloud, production, and corporate infrastructure for defense technology systems. Requires TS/SCI clearance and hands-on technical leadership in a strategic competition environment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5159139007?gh_jid=5159139007)_
-
-`Python` `Go` `Rust` `Terraform` `AWS` `CI/CD` `Linux` `TS/SCI Clearance`
-
-<sub>June 8, 2026 at 21:41 UTC</sub>
-
----
 
 ### [Ads AI Analytics Lead II](https://instacart.careers/job/?gh_jid=7495338)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$131k–$165k USD` `Equity`
@@ -49,6 +38,17 @@ _Design and maintain scalable infrastructure and CI/CD pipelines for hosting ser
 _Own advanced machine learning models across fraud detection domains (payment fraud, account takeover, identity spoofing, network abuse) for a platform processing 1T+ events annually. Architect modeling strategies informed by deep attacker tactics knowledge, drive framework selection across tree-based, deep learning, and graph methods, and establish adversarial-robust quality standards that prevent model degradation under evolving fraud schemes. · [Apply →](https://jobs.ashbyhq.com/sift/77acd877-51ad-4b2f-ba41-da33d8bcc0b4)_
 
 `XGBoost` `LightGBM` `PyTorch` `TensorFlow` `Graph Neural Networks` `SQL` `Python` `Fraud Detection`
+
+<sub>June 8, 2026 at 21:01 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750342-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141k-$237k` `Equity`
+
+_Lead end-to-end data science projects across Zillow's B2B agent software portfolio, building segmentation and performance models, designing experiments, and deploying models to production. Work with large datasets on Snowflake/Spark and mentor junior team members. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750342-2)_
+
+`Python` `SQL` `scikit-learn` `PySpark` `Snowflake` `Airflow` `dbt` `A/B Testing`
 
 <sub>June 8, 2026 at 21:01 UTC</sub>
 
@@ -153,23 +153,12 @@ _Build scalable data pipelines and transformations for CrowdStrike's operational
 
 ---
 
-### [Manager, Engineering | ML Infrastructure & Tooling](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6016209004)
-<a href="https://extrahop.com"><img src="https://www.google.com/s2/favicons?domain=extrahop.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ExtraHop** · `🟢 Remote` `Manager` `$170k-$195k`
+### [Forward Deployed Engineer](https://instacart.careers/job/?gh_jid=7989203)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$185k–$195k` `Equity`
 
-_Lead the Machine Learning Infrastructure team to design and build scalable ML tooling, experiment platforms, and production systems for cybersecurity threat detection models. Manage a team shipping infrastructure that supports model development, deployment, and cloud-scale inference for network security. · [Apply →](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6016209004)_
+_Build agentic AI solutions deployed directly into enterprise retail customer environments, integrating Instacart's platform capabilities with existing undocumented and non-standard infrastructure. Requires 10+ years of software engineering shipping production code, hands-on LLM/agent framework experience, and direct enterprise customer-facing delivery experience. · [Apply →](https://instacart.careers/job/?gh_jid=7989203)_
 
-`Python` `Kubernetes` `AWS` `CI/CD` `Machine Learning Infrastructure` `DevOps` `SQL` `IaC`
-
-<sub>June 8, 2026 at 17:16 UTC</sub>
-
----
-
-### [Forward Deployed Engineer](https://instacart.careers/job/?gh_jid=7989205)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$169k–$214k USD` `Equity`
-
-_Build agentic AI solutions embedded directly within enterprise retail customer environments, integrating Instacart's platform capabilities with messy, heterogeneous legacy systems and undocumented APIs. This role bridges R&D and field implementation, requiring both hands-on coding and direct customer technical leadership; requires 10+ years of software engineering experience with proven LLM/agent frameworks shipped to production. · [Apply →](https://instacart.careers/job/?gh_jid=7989205)_
-
-`Python` `LLM APIs` `Agent Frameworks` `RAG` `Function Calling` `Enterprise Data Integration` `Retail Systems`
+`Python` `LLM APIs` `RAG` `Agent Frameworks` `Function Calling` `Enterprise Data Integration` `Retail/E-commerce Systems`
 
 <sub>June 8, 2026 at 17:16 UTC</sub>
 
@@ -763,12 +752,12 @@ _Build the AI-native platform that spans the full insurance policy lifecycle, fr
 
 ---
 
-### [Senior Engineering Manager, Search](https://instacart.careers/job/?gh_jid=7982868)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAD$229k–$241k` `Equity`
+### [Senior Engineering Manager, Search](https://instacart.careers/job/?gh_jid=7982867)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$221k—$279k` `Equity`
 
-_Lead the Search engineering team building Instacart's single-retailer and cross-retailer search, query understanding, and ranking infrastructure. Scale the team's ML experimentation velocity while partnering with platform teams to design next-generation retrieval architecture handling tier-1 traffic and Ads on Search. · [Apply →](https://instacart.careers/job/?gh_jid=7982868)_
+_Lead a dedicated search engineering team owning Single-Retailer Search, Cross-Retailer Search, and search suggestions for Instacart's discovery funnel. Manage a senior team of engineers and MLEs working on ML-weighted ranking systems operating one of Instacart's largest revenue surfaces, with focus on modern retrieval techniques, LLM integration, and multi-stage ranking infrastructure. · [Apply →](https://instacart.careers/job/?gh_jid=7982867)_
 
-`Machine Learning` `Search & Ranking` `Distributed Systems` `LLMs` `Neural Retrieval` `ANN` `A/B Testing`
+`Search Ranking` `Machine Learning` `Neural/Semantic Retrieval` `LLMs` `Distributed Systems` `A/B Testing` `Personalization` `Real-time Services`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
 
@@ -785,23 +774,23 @@ _Build multi-system automation workflows and predictive scoring models powering 
 
 ---
 
-### [ML Engineer - Verifications](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)
-<a href="https://www.kodexglobal.com"><img src="https://www.google.com/s2/favicons?domain=www.kodexglobal.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodex** · `🟢 Remote` `Senior` `Equity`
-
-_Build and deploy ML models to detect suspicious activity and fraud across Kodex's verification platform, supporting threat intelligence workflows. Work across the full ML lifecycle—from data exploration through production monitoring—in a compliance-sensitive environment where models directly impact customer trust and law enforcement data requests. · [Apply →](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)_
-
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Databricks` `SQL` `AWS` `Fraud Detection`
-
-<sub>June 4, 2026 at 19:00 UTC</sub>
-
----
-
 ### [Information Security Architect](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Architect_32062-1)
 <a href="https://kitewheel.com"><img src="https://www.google.com/s2/favicons?domain=kitewheel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kitewheel** · `🟢 Remote` `Senior` `$108k-$174k`
 
 _Design and evolve security operations platforms (SIEM/SOAR, EDR, CSPM, container security) across hybrid-cloud environments, leading automation and orchestration capabilities that reduce analyst toil and scale detection-and-response effectiveness. Requires hands-on security engineering experience, threat detection content development, and ability to architect enterprise-grade security automation. · [Apply →](https://csgi.wd5.myworkdayjobs.com/CSGCareers/job/United-States-Remote/Information-Security-Architect_32062-1)_
 
 `SIEM/SOAR` `EDR` `CSPM` `Python` `Cloud Security` `Detection Engineering` `Security Automation` `MITRE ATT&CK`
+
+<sub>June 4, 2026 at 19:00 UTC</sub>
+
+---
+
+### [ML Engineer - Verifications](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)
+<a href="https://www.kodexglobal.com"><img src="https://www.google.com/s2/favicons?domain=www.kodexglobal.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodex** · `🟢 Remote` `Senior` `Equity`
+
+_Build and deploy ML models to detect suspicious activity and fraud across Kodex's verification platform, supporting threat intelligence workflows. Work across the full ML lifecycle—from data exploration through production monitoring—in a compliance-sensitive environment where models directly impact customer trust and law enforcement data requests. · [Apply →](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)_
+
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Databricks` `SQL` `AWS` `Fraud Detection`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
 
@@ -824,6 +813,17 @@ _Develop and maintain enterprise-class case management and electronic filing sys
 _Build and scale Optro's globally distributed Kubernetes-based cloud infrastructure to support the audit, risk, ESG, and InfoSec platform serving Fortune 500 customers. Design and implement observability, automation, and infrastructure provisioning systems while maintaining high reliability and security across multiple cloud platforms. · [Apply →](https://jobs.ashbyhq.com/optro/d7076478-8970-4e3e-bb42-2bd7dc6502c8)_
 
 `Kubernetes` `Go` `Python` `TypeScript` `AWS` `Azure` `Terraform` `Docker`
+
+<sub>June 4, 2026 at 17:14 UTC</sub>
+
+---
+
+### [Senior Cloud Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$129k-$220k` `Equity`
+
+_Design and implement defensive security controls across cloud, network, and production infrastructure; build automation tooling for threat detection and security visibility. Requires TS/SCI clearance eligibility and experience securing high-complexity defense technology systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)_
+
+`Python` `Go` `Rust` `Terraform` `AWS` `Azure` `GCP` `TS/SCI Clearance`
 
 <sub>June 4, 2026 at 17:14 UTC</sub>
 
@@ -947,6 +947,17 @@ _Design and scale backend systems, APIs, and services for Nango's integration pl
 `Node.js` `APIs` `Database Design` `System Scalability` `SDK Development`
 
 <sub>June 4, 2026 at 09:32 UTC</sub>
+
+---
+
+### [Senior Network Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5155231007?gh_jid=5155231007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$128k-$220k` `Equity`
+
+_Design and implement defensive security controls and architecture for cloud, production, and corporate infrastructure protecting advanced defense technology systems. Requires TS/SCI clearance and experience with network security, infrastructure-as-code, and production incident response in high-complexity environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5155231007?gh_jid=5155231007)_
+
+`Python` `Go` `Rust` `Terraform` `AWS` `Azure` `GCP` `TS/SCI Clearance`
+
+<sub>June 4, 2026 at 01:28 UTC</sub>
 
 ---
 
@@ -1497,17 +1508,6 @@ _Own the infrastructure platform and operations on AWS for a cannabis wholesale 
 
 ---
 
-### [Security Engineer](https://stripe.com/jobs/search?gh_jid=7923191)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Senior` `$194k-$268k` `Equity`
-
-_Build and enhance automated threat modeling tooling and security infrastructure for a global payments platform; develop secure AI/LLM integration patterns and help reduce security debt across Stripe's core products (Payments, Connect, Subscriptions, Checkout, RADAR, Issuing). · [Apply →](https://stripe.com/jobs/search?gh_jid=7923191)_
-
-`AWS` `GCP or Azure` `Kubernetes` `Docker` `Threat Modeling` `Application Security` `Infrastructure Security`
-
-<sub>June 2, 2026 at 21:16 UTC</sub>
-
----
-
 ### [Sensor Modeling Engineer](https://job-boards.greenhouse.io/archer56/jobs/7740910003)
 <a href="https://archer.com"><img src="https://www.google.com/s2/favicons?domain=archer.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Archer Aviation** · `🟢 Remote` `Mid` `$140k-$180k`
 
@@ -1983,21 +1983,21 @@ _Lead the data foundation platform that powers Airbnb's entity model (hosts, lis
 
 ---
 
+### [Expert Engineer ](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)
+<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Multiple locations, Canada · `🟢 Remote` `Staff`
+
+_Design and evolve shared technology pipelines and systems across multiple game development projects; mentor teams on code modularity, cross-project integration, and long-term ecosystem sustainability. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)_
+
+<sub>June 1, 2026 at 18:13 UTC</sub>
+
+---
+
 ### [Principal Product Security Researcher](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
 _Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes-based cloud-native workloads on GCP and AWS. Deep expertise in container security, cloud IAM, and threat modeling required for a high-impact Staff-level security engineering role. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4685060006)_
 
 `Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
-
-<sub>June 1, 2026 at 18:13 UTC</sub>
-
----
-
-### [Expert Engineer ](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)
-<a href="https://cdprojektred.com"><img src="https://www.google.com/s2/favicons?domain=cdprojektred.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CD Projekt Red** · Multiple locations, Canada · `🟢 Remote` `Staff`
-
-_Design and evolve shared technology pipelines and systems across multiple game development projects; mentor teams on code modularity, cross-project integration, and long-term ecosystem sustainability. · [Apply →](https://api.smartrecruiters.com/v1/companies/CDPROJEKTRED/postings/744000129776961)_
 
 <sub>June 1, 2026 at 18:13 UTC</sub>
 
@@ -3546,17 +3546,6 @@ _Design and develop detection, tracking, and characterization algorithms and sof
 
 ---
 
-### [Senior Model Risk Manager - AI/ML](https://job-boards.greenhouse.io/mercury/jobs/6006491004)
-<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$200k-$250k` `Equity`
-
-_Define and build Mercury's model risk management framework for AI/ML systems, including validation, monitoring, and governance tools that keep generative models, autonomous agents, and real-time financial systems safe and compliant. Work at the intersection of model development, regulatory expectations (SR 11-7, SR 26-2), and emerging AI risks like hallucination and drift in a fintech environment where MRM practices are still being invented. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6006491004)_
-
-`Python` `SQL` `scikit-learn` `XGBoost` `LLMs` `RAG` `Prompt Engineering` `AI Agents`
-
-<sub>May 27, 2026 at 15:20 UTC</sub>
-
----
-
 ### [MS Power Platform Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/MS-Power-Platform-Developer_RQ219572-1)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
 
@@ -3574,6 +3563,17 @@ _Build enterprise business applications and data solutions for NASA using Micros
 _Design, develop, and deploy custom Salesforce applications for NASA's Consolidated Applications and Platform Services (NCAPS) program, including integrations with existing enterprise systems using Apex, Lightning Web Components, and REST/SOAP APIs. Requires US citizenship and security-conscious development practices in a government contracting environment. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Salesforce-Developer_RQ219579)_
 
 `Salesforce` `Apex` `Lightning Web Components` `JavaScript` `SOQL` `REST APIs` `Git` `Agile`
+
+<sub>May 27, 2026 at 15:20 UTC</sub>
+
+---
+
+### [Senior Model Risk Manager - AI/ML](https://job-boards.greenhouse.io/mercury/jobs/6006491004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$200k-$250k` `Equity`
+
+_Define and build Mercury's model risk management framework for AI/ML systems, including validation, monitoring, and governance tools that keep generative models, autonomous agents, and real-time financial systems safe and compliant. Work at the intersection of model development, regulatory expectations (SR 11-7, SR 26-2), and emerging AI risks like hallucination and drift in a fintech environment where MRM practices are still being invented. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6006491004)_
+
+`Python` `SQL` `scikit-learn` `XGBoost` `LLMs` `RAG` `Prompt Engineering` `AI Agents`
 
 <sub>May 27, 2026 at 15:20 UTC</sub>
 
@@ -3823,12 +3823,12 @@ _Own technical direction for agentic financial audit workflows, designing agent-
 
 ---
 
-### [Senior People Data Scientist](https://instacart.careers/job/?gh_jid=7958122)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$161k-CAD$170k` `Equity`
+### [Senior People Data Scientist](https://instacart.careers/job/?gh_jid=7958121)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$161k—$204k USD` `Equity`
 
-_Build and own enterprise people analytics data products, dashboards, and metrics infrastructure for workforce planning, organizational health, and HR decision-making. Partner with HR leaders across compensation, retention, recruiting, and engagement to design self-serve analytics platforms and apply advanced statistical methods to complex workforce problems. · [Apply →](https://instacart.careers/job/?gh_jid=7958122)_
+_Own enterprise people analytics across retention, organizational health, and workforce planning—design scalable self-serve dashboards and apply advanced statistical methods (predictive modeling, causal inference) to HR data at scale. Requires expertise in Snowflake, BI tools, survey design, and translating complex analyses for HR/business leaders. · [Apply →](https://instacart.careers/job/?gh_jid=7958121)_
 
-`SQL` `Snowflake` `Tableau` `Looker` `Python` `Workday` `Qualtrics` `Statistical Analysis`
+`SQL` `Snowflake` `Tableau` `Looker` `Regression Analysis` `Predictive Modeling` `Survey Design` `Psychometrics`
 
 <sub>May 26, 2026 at 17:16 UTC</sub>
 
