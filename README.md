@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2363 open roles** (30 new) &nbsp;·&nbsp; 1710 companies searched
+### **2383 open roles** (41 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,125 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 8, 2026
+
+### [Salesforce Technical Lead (Remote)](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8581763002&gh_jid=8581763002)
+<a href="https://axiomspace.com"><img src="https://www.google.com/s2/favicons?domain=axiomspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Axiom Space** · `🟢 Remote` `Senior` `$160k-$172k`
+
+_Lead Salesforce platform architecture and strategy for a legal services enterprise, owning the data model, security, and integrations with enterprise systems. Manage a team of two engineers while setting engineering standards and governing the platform's technical health across 14,000+ legal professionals. · [Apply →](https://www.axiomlaw.com/careers/headquarters/available-positions?job=8581763002&gh_jid=8581763002)_
+
+`Salesforce` `Apex` `SOQL` `SFDX` `Boomi` `CI/CD` `Salesforce Platform Developer II`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Principal Associate, Data Science - Model Risk Office](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science---Model-Risk-Office_R243970-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Chicago, Illinois / McLean, Virginia / New York, New York / Plano, Texas · `Senior` `$147k-$201k` `Equity`
+
+_Lead model risk validation and governance across Capital One's production ML systems, building data science solutions to identify model failures and quantify business impact at scale across billions of customer records. Requires hands-on expertise in statistical modeling, Python, and cloud infrastructure alongside team leadership. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science---Model-Risk-Office_R243970-1)_
+
+`Python` `AWS` `Spark` `SQL` `Machine Learning` `Statistical Modeling` `R` `Scala`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Software Engineer II, Cloud - CTIO (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-II--Cloud---CTIO--Hybrid-_R28995)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · Redmond, Washington / Sunnyvale, California / Austin, Texas / New York, New York · `🟡 Hybrid` `Mid` `$100k-$145k` `Equity`
+
+_Lead the design and implementation of low-latency, highly scalable cloud services powering CrowdStrike's next-generation security platform. Drive architectural decisions across senior technologists while mentoring teammates through code and design reviews. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-II--Cloud---CTIO--Hybrid-_R28995)_
+
+`Go` `Java` `Distributed Systems` `Cloud Architecture` `Kubernetes`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Software Engineer III, Cloud - CTIO (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-III--Cloud---CTIO--Hybrid-_R28997)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · Redmond, Washington / Sunnyvale, California / Austin, Texas / New York, New York · `🟡 Hybrid` `Senior` `$120k-$180k` `Equity`
+
+_Build low-latency, highly scalable cloud services that power CrowdStrike's next-generation cybersecurity platform. Lead architectural components for a system handling massive breach-detection workloads with AI integration. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-III--Cloud---CTIO--Hybrid-_R28997)_
+
+`Go` `Java` `Cloud Architecture` `Distributed Systems` `Kubernetes` `AWS`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://www.mongodb.com/careers/job/?gh_jid=7975692)
+<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · New York, New York · `Senior` `$126k-$248k` `Equity`
+
+_Build the server-side backup infrastructure for MongoDB Atlas, managing hundreds of terabytes of data and billions of daily operations at global scale. Handle distributed systems challenges including performance optimization, data consistency, and production incident response in a mission-critical service. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=7975692)_
+
+`Java` `Go` `C#` `Distributed Systems` `Linux` `PostgreSQL`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Applied Researcher](https://jobs.ashbyhq.com/physicalintelligence/1a7a181f-c318-4e0b-9516-c7111b3e3968)
+<a href="https://physicalintelligence.company"><img src="https://www.google.com/s2/favicons?domain=physicalintelligence.company&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Physical Intelligence** · San Francisco, California · `Senior`
+
+_Deploy and debug learned policies on physical robots across the full stack (perception, policy, control, hardware), training and tuning models for real-world dexterous tasks. Requires hands-on experience deploying robots or autonomous systems in real-world environments and ability to diagnose failures across perception, control, and hardware subsystems. · [Apply →](https://jobs.ashbyhq.com/physicalintelligence/1a7a181f-c318-4e0b-9516-c7111b3e3968)_
+
+`Python` `ROS2` `PyTorch` `Robot Manipulation` `Policy Training` `Neural Network Debugging`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Deployments Software Engineer](https://jobs.ashbyhq.com/physicalintelligence/1e8a741a-d415-4c34-9ac8-eda4c5393e41)
+<a href="https://physicalintelligence.company"><img src="https://www.google.com/s2/favicons?domain=physicalintelligence.company&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Physical Intelligence** · San Francisco, California · `Mid`
+
+_Build the real-time teleoperation and control software stack for deploying general-purpose AI robots on customer sites, optimizing latency, reliability, and system performance across compute, networking, and video streaming. Requires deep expertise in low-latency systems, profiling, and distributed real-time software. · [Apply →](https://jobs.ashbyhq.com/physicalintelligence/1e8a741a-d415-4c34-9ac8-eda4c5393e41)_
+
+`C++` `Rust` `Python` `Real-Time Systems` `WebRTC` `Video Streaming` `GPU Profiling` `eBPF`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Software Engineer (AI Productivity)](https://jobs.ashbyhq.com/physicalintelligence/7f8397a4-c3cd-45c6-90c7-13c4481f4699)
+<a href="https://physicalintelligence.company"><img src="https://www.google.com/s2/favicons?domain=physicalintelligence.company&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Physical Intelligence** · San Francisco, California · `Mid`
+
+_Build internal AI tooling, agents, and integrations that help engineering, research, and operations teams move faster — from LLM-powered coding assistants to agent management systems. Partner across the company to drive AI adoption and measure productivity impact. · [Apply →](https://jobs.ashbyhq.com/physicalintelligence/7f8397a4-c3cd-45c6-90c7-13c4481f4699)_
+
+`Python` `TypeScript` `React` `PostgreSQL` `GCP` `Kubernetes` `LLM integrations` `Agent infrastructure`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Backend Engineer - Personalization](https://jobs.lever.co/spotify/aac09f2d-e0cc-43e1-8435-01e60e426520)
+<a href="https://spotify.com"><img src="https://www.google.com/s2/favicons?domain=spotify.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spotify** · New York, New York
+
+_Build the data ingestion and materialization platform that powers Spotify's personalization engine, processing hundreds of millions of events daily to enable recommendation algorithms across Home, Search, and playlist features. · [Apply →](https://jobs.lever.co/spotify/aac09f2d-e0cc-43e1-8435-01e60e426520)_
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [ATE Test Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2018986)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$132k-$207k` `Equity`
+
+_Develop and implement ATE test programs for NVIDIA's advanced GPU chips, including test method code, scripting, and automation tools. Work with manufacturing teams across continents on silicon verification, yield optimization, and production cost reduction for next-generation compute and gaming products. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2018986)_
+
+`Advantest 93K` `C++` `Python` `Perl` `Linux` `ATPG` `SCAN` `DFT`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
+
+### [Senior Data Scientist, Sales](https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Build and maintain ML models and data pipelines for the Commercial team to optimize sales processes, customer targeting, and revenue metrics. Lead decision science initiatives across sales operations, financial advisor support, and the AI Voice Agent program. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1)_
+
+`Python` `SQL` `dbt` `Airflow` `Machine Learning` `A/B Testing` `Experimentation`
+
+<sub>June 8, 2026 at 13:46 UTC</sub>
+
+---
 
 ### [Software Engineer](https://jobs.ashbyhq.com/nox-metals/507178b6-7190-4e32-b29c-a1d1bbb3a021)
 <a href="https://noxmetals.co"><img src="https://www.google.com/s2/favicons?domain=noxmetals.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nox Metals** · Windsor, ON · `Junior`
@@ -79,7 +198,7 @@ _Design and develop core sensor features for the Windows OS kernel, including fi
 ---
 
 ### [Software Engineer Integration Platform (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Engineer-Integration-Platform--US-Federal-_JR-0105501)
-<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Mid` `$151k-$227k` `Equity`
+<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Mid` `$151k-$227k` `Equity`
 
 _Build scalable observability and integration infrastructure serving thousands of critical integrations for U.S. federal agencies on the Workday platform. Requires U.S. citizenship and ability to obtain TS/SCI w/CI Poly security clearance; may require on-site presence in the DC/MD/VA area. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Engineer-Integration-Platform--US-Federal-_JR-0105501)_
 
@@ -299,7 +418,7 @@ _Design, develop, and operate Hardware-In-The-Loop (HITL) simulation environment
 ---
 
 ### [Machine Learning Engineer - Document Intelligence](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515)
-<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Pleasanton, California · `🟡 Hybrid` `Senior` `$160k-$240k USD` `Equity`
+<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Pleasanton, California · `🟡 Hybrid` `Senior` `$160k-$240k USD` `Equity`
 
 _Build scalable ML pipelines and LLM-powered document intelligence services for entity extraction, classification, and resolution at enterprise scale. Work with production systems processing documents for 31M+ Workday users across financials and spend management; requires advanced degree in quantitative field and proven track record shipping LLM products. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515)_
 
