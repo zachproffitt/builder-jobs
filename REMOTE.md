@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **350 open roles** (31 new)
+### **348 open roles** (31 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -1145,23 +1145,23 @@ _Build the AI-native platform that spans the full insurance policy lifecycle, fr
 
 ---
 
-### [Senior GTM Engineer, Marketing Operations](https://job-boards.greenhouse.io/webflow/jobs/7980379)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Senior` `$143k-$195k` `Equity`
-
-_Build multi-system automation workflows and predictive scoring models powering Webflow's go-to-market motion across marketing, sales, and partner teams. Design data enrichment pipelines, API integrations, and cost-optimized automations connecting Salesforce, Marketo, Clay, and Snowflake at scale. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/7980379)_
-
-`Salesforce` `Marketo` `Clay` `Snowflake` `n8n` `Make` `Zapier` `API integrations`
-
-<sub>June 4, 2026 at 19:00 UTC</sub>
-
----
-
 ### [Senior Engineering Manager, Search](https://instacart.careers/job/?gh_jid=7982868)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAD$229k–$241k` `Equity`
 
 _Lead the Search engineering team building Instacart's single-retailer and cross-retailer search, query understanding, and ranking infrastructure. Scale the team's ML experimentation velocity while partnering with platform teams to design next-generation retrieval architecture handling tier-1 traffic and Ads on Search. · [Apply →](https://instacart.careers/job/?gh_jid=7982868)_
 
 `Machine Learning` `Search & Ranking` `Distributed Systems` `LLMs` `Neural Retrieval` `ANN` `A/B Testing`
+
+<sub>June 4, 2026 at 19:00 UTC</sub>
+
+---
+
+### [Senior GTM Engineer, Marketing Operations](https://job-boards.greenhouse.io/webflow/jobs/7980379)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Senior` `$143k-$195k` `Equity`
+
+_Build multi-system automation workflows and predictive scoring models powering Webflow's go-to-market motion across marketing, sales, and partner teams. Design data enrichment pipelines, API integrations, and cost-optimized automations connecting Salesforce, Marketo, Clay, and Snowflake at scale. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/7980379)_
+
+`Salesforce` `Marketo` `Clay` `Snowflake` `n8n` `Make` `Zapier` `API integrations`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
 
@@ -1178,23 +1178,23 @@ _Design and evolve security operations platforms (SIEM/SOAR, EDR, CSPM, containe
 
 ---
 
-### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
-
-_Develop and maintain enterprise-class case management and electronic filing systems for the US federal judiciary using Java/Spring Boot in an agile environment. Federal IT security compliance and Section 508 accessibility standards required. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)_
-
-`Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
-
-<sub>June 4, 2026 at 19:00 UTC</sub>
-
----
-
 ### [ML Engineer - Verifications](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)
 <a href="https://www.kodexglobal.com"><img src="https://www.google.com/s2/favicons?domain=www.kodexglobal.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodex** · `🟢 Remote` `Senior` `Equity`
 
 _Build and deploy ML models to detect suspicious activity and fraud across Kodex's verification platform, supporting threat intelligence workflows. Work across the full ML lifecycle—from data exploration through production monitoring—in a compliance-sensitive environment where models directly impact customer trust and law enforcement data requests. · [Apply →](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)_
 
 `Python` `PyTorch` `TensorFlow` `Scikit-learn` `Databricks` `SQL` `AWS` `Fraud Detection`
+
+<sub>June 4, 2026 at 19:00 UTC</sub>
+
+---
+
+### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
+
+_Develop and maintain enterprise-class case management and electronic filing systems for the US federal judiciary using Java/Spring Boot in an agile environment. Federal IT security compliance and Section 508 accessibility standards required. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)_
+
+`Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
 
@@ -1329,17 +1329,6 @@ _Design and scale backend systems, APIs, and services for Nango's integration pl
 `Node.js` `APIs` `Database Design` `System Scalability` `SDK Development`
 
 <sub>June 4, 2026 at 09:32 UTC</sub>
-
----
-
-### [Senior Network Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5155231007?gh_jid=5155231007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$128k-$220k` `Equity`
-
-_Design and implement defensive security controls and architecture for cloud, production, and corporate infrastructure protecting advanced defense technology systems. Requires TS/SCI clearance and experience with network security, infrastructure-as-code, and production incident response in high-complexity environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5155231007?gh_jid=5155231007)_
-
-`Python` `Go` `Rust` `Terraform` `AWS` `Azure` `GCP` `TS/SCI Clearance`
-
-<sub>June 4, 2026 at 01:28 UTC</sub>
 
 ---
 
@@ -1874,17 +1863,6 @@ _Build the detection and response systems for Guardian's real-time monitoring pl
 _Own the infrastructure platform and operations on AWS for a cannabis wholesale distribution network, managing CI/CD migrations (GitLab CI to GitHub Actions), Kubernetes clusters, managed Postgres, Kafka/CDC pipelines, and a data lake (Iceberg + Snowflake). Scale systems from working to resilient and secure through growth, with hands-on ownership of infrastructure-as-code, security practices, and SOC 2 compliance. · [Apply →](https://job-boards.greenhouse.io/nabis/jobs/6011424004)_
 
 `Kubernetes` `AWS` `Terraform` `PostgreSQL` `GitHub Actions` `Kafka` `Snowflake` `dbt`
-
-<sub>June 2, 2026 at 21:16 UTC</sub>
-
----
-
-### [Security Engineer](https://stripe.com/jobs/search?gh_jid=7923191)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Senior` `$194k-$268k` `Equity`
-
-_Build and enhance automated threat modeling tooling and security infrastructure for a global payments platform; develop secure AI/LLM integration patterns and help reduce security debt across Stripe's core products (Payments, Connect, Subscriptions, Checkout, RADAR, Issuing). · [Apply →](https://stripe.com/jobs/search?gh_jid=7923191)_
-
-`AWS` `GCP or Azure` `Kubernetes` `Docker` `Threat Modeling` `Application Security` `Infrastructure Security`
 
 <sub>June 2, 2026 at 21:16 UTC</sub>
 
