@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2519 open roles** (29 new) &nbsp;·&nbsp; 1710 companies searched
+### **2348 open roles** (30 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -12,23 +12,23 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## June 10, 2026
 
-### [QA Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/QA-Engineer_JREQ187685)
-<a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Mid`
-
-_Build automated test systems for regression, performance, and load testing across enterprise cloud-native applications. Design and implement CI/CD test pipelines with synthetic test data, API automation, and observability integration for large-scale SaaS and PaaS environments. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/QA-Engineer_JREQ187685)_
-
-`Java` `Python` `Selenium` `REST Assured` `AWS` `Azure` `Kubernetes` `CI/CD`
-
-<sub>June 10, 2026 at 07:46 UTC</sub>
-
----
-
 ### [Senior Software Development Engineer - Developer Productivity](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer---Photoshop-CI-CD-Infrastructure_R169236)
 <a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · 3 Locations · `Senior` `$159k-$301k` `Equity`
 
 _Build and operate the AI-driven CI/CD automation platform that powers Photoshop's build, test, and release pipeline across Windows, macOS, iOS, Android, and Web at massive scale (thousands of builds daily). Architect intelligent failure triage, self-healing pipeline components, and predictive build health systems using LLMs, while designing AWS cloud infrastructure that orchestrates hybrid on-premises and cloud compute for hundreds of engineer customers. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer---Photoshop-CI-CD-Infrastructure_R169236)_
 
 `Python` `Go` `AWS` `CI/CD` `LLM Integration` `Xcode` `macOS` `Shell`
+
+<sub>June 10, 2026 at 07:46 UTC</sub>
+
+---
+
+### [QA Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/QA-Engineer_JREQ187685)
+<a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters Labs** · `🟡 Hybrid` `Mid`
+
+_Build automated test systems for regression, performance, and load testing across enterprise cloud-native applications. Design and implement CI/CD test pipelines with synthetic test data, API automation, and observability integration for large-scale SaaS and PaaS environments. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/QA-Engineer_JREQ187685)_
+
+`Java` `Python` `Selenium` `REST Assured` `AWS` `Azure` `Kubernetes` `CI/CD`
 
 <sub>June 10, 2026 at 07:46 UTC</sub>
 
@@ -56,23 +56,23 @@ _Design and implement monitoring, observability, and alerting systems for large-
 
 ---
 
-### [Logic Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Logic-Design-Engineer_JR0277174-1)
-<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Santa Clara, California · `🟡 Hybrid` `Senior` `$220k-$311k` `Equity`
-
-_Design high-speed SerDes IP blocks using RTL coding and simulation for integration into Intel's next-generation SoCs, with focus on mixed-signal architecture, PMA/PCS layers, and post-silicon validation. On-site in Santa Clara; requires 6+ years of industry experience in SerDes design. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Logic-Design-Engineer_JR0277174-1)_
-
-`SystemVerilog` `SerDes` `Mixed-Signal Design` `UVM/OVM` `TCL` `Python` `Perl` `Digital Design`
-
-<sub>June 10, 2026 at 05:43 UTC</sub>
-
----
-
 ### [NESD Test Engineer | Active Secret clearance](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/NESD-Test-Engineer---Active-Secret-clearance_RQ221755-1)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$97k-$129k`
 
 _Lead QA automation and test engineering for Navy Enterprise Service Desk's BMC Helix ticketing and AI-driven incident management systems, ensuring mission-critical government software meets functional, security, and operational requirements. Requires active Secret clearance and 8+ years of test engineering experience. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/NESD-Test-Engineer---Active-Secret-clearance_RQ221755-1)_
 
 `QA Automation` `Test Engineering` `BMC Helix` `API Testing` `Microservices Testing` `AI/ML Testing` `Secret Clearance` `Bachelor's Degree in Technical Discipline`
+
+<sub>June 10, 2026 at 05:43 UTC</sub>
+
+---
+
+### [Logic Design Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Logic-Design-Engineer_JR0277174-1)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Santa Clara, California · `🟡 Hybrid` `Senior` `$220k-$311k` `Equity`
+
+_Design high-speed SerDes IP blocks using RTL coding and simulation for integration into Intel's next-generation SoCs, with focus on mixed-signal architecture, PMA/PCS layers, and post-silicon validation. On-site in Santa Clara; requires 6+ years of industry experience in SerDes design. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Logic-Design-Engineer_JR0277174-1)_
+
+`SystemVerilog` `SerDes` `Mixed-Signal Design` `UVM/OVM` `TCL` `Python` `Perl` `Digital Design`
 
 <sub>June 10, 2026 at 05:43 UTC</sub>
 
@@ -145,7 +145,7 @@ _Build and own the security program from scratch at a fast-growing startup—dri
 ---
 
 ### [Analytics Sr Software Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0108035)
-<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Senior` `$151k-$227k` `Equity`
+<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Senior` `$151k-$227k` `Equity`
 
 _Build and maintain Kubernetes-based infrastructure automation, CI/CD pipelines, and observability systems for Workday's analytics platform serving U.S. federal agencies in GovCloud; requires TS/SCI w/CI Poly security clearance and U.S. citizenship. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0108035)_
 
@@ -161,6 +161,17 @@ _Build and maintain Kubernetes-based infrastructure automation, CI/CD pipelines,
 _Design and execute comprehensive functional validation strategies for industry-leading SerDes IP, including root cause analysis, post-silicon debugging, and validation infrastructure development for mixed-signal interfaces. Requires 2+ years of SerDes post-silicon validation experience and 3+ years total relevant experience. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Senior-Staff-Analog-Circuit-Design-Engineer---SerDes_JR0284081)_
 
 `SerDes` `Mixed-Signal Testing` `Python` `C++` `Post-Silicon Validation` `I/O Principles` `Electrical Validation`
+
+<sub>June 10, 2026 at 03:21 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Tech Lead](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Minneapolis-Minnesota-United-States-of-America/Senior-Software-Engineer---Tech-Lead_1208070-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · Colorado / Massachusetts / California / Minnesota / Texas · `🟡 Hybrid` `Senior` `$120k-$276k`
+
+_Build and integrate containerized software stacks for HPC and AI workloads, incorporating compilers, runtimes, developer tools, and libraries across the full systems software stack. Lead technical initiatives across compilers, MPI, and system software while driving performance, scalability, and reliability for production environments. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Minneapolis-Minnesota-United-States-of-America/Senior-Software-Engineer---Tech-Lead_1208070-2)_
+
+`C` `C++` `Python` `Docker` `Podman` `Kubernetes` `CI/CD` `HPC`
 
 <sub>June 10, 2026 at 03:21 UTC</sub>
 
@@ -221,23 +232,23 @@ _Design structural solutions for aircraft repair and modification concessions, w
 
 ---
 
-### [Senior IP Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-IP-Development-Engineer_JR0284653)
-<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Austin, Texas / Phoenix, Arizona / Hillsboro, Oregon · `🟡 Hybrid` `Senior` `$141k-$269k` `Equity`
-
-_Design and maintain sophisticated multi-language software solutions for Intel's semiconductor design infrastructure, supporting 150+ internal engineers across EDA tools, IP layout automation, and CI/CD pipelines. Requires hands-on expertise in C++, Python, Perl, and TCL with 5+ years of industry experience and deep familiarity with Electronic Design Automation workflows. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-IP-Development-Engineer_JR0284653)_
-
-`C++` `Python` `Perl` `TCL` `Bash` `SWIG` `C` `Boost`
-
-<sub>June 10, 2026 at 01:19 UTC</sub>
-
----
-
 ### [Data Engineer](https://jobs.ashbyhq.com/mach9/d417fcf4-f9c2-46f9-a081-1d408cd109ca)
 <a href="https://www.mach9.ai"><img src="https://www.google.com/s2/favicons?domain=www.mach9.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mach9** · San Francisco, California · `🟡 Hybrid` `Mid`
 
 _Build scalable ETL pipelines that ingest, standardize, and optimize large-volume geospatial datasets (point clouds, imagery, sensor data) for ML training and production inference. Design data versioning, CI/CD validation, and agentic systems for automated dataset triage and code patching; requires hands-on experience with distributed data processing at scale. · [Apply →](https://jobs.ashbyhq.com/mach9/d417fcf4-f9c2-46f9-a081-1d408cd109ca)_
 
 `Python` `Spark` `AWS` `PostgreSQL` `Geospatial Data Formats` `GDAL` `Distributed Systems` `LLM-driven Workflows`
+
+<sub>June 10, 2026 at 01:19 UTC</sub>
+
+---
+
+### [Senior IP Development Engineer](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-IP-Development-Engineer_JR0284653)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Austin, Texas / Phoenix, Arizona / Hillsboro, Oregon · `🟡 Hybrid` `Senior` `$141k-$269k` `Equity`
+
+_Design and maintain sophisticated multi-language software solutions for Intel's semiconductor design infrastructure, supporting 150+ internal engineers across EDA tools, IP layout automation, and CI/CD pipelines. Requires hands-on expertise in C++, Python, Perl, and TCL with 5+ years of industry experience and deep familiarity with Electronic Design Automation workflows. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-IP-Development-Engineer_JR0284653)_
+
+`C++` `Python` `Perl` `TCL` `Bash` `SWIG` `C` `Boost`
 
 <sub>June 10, 2026 at 01:19 UTC</sub>
 
