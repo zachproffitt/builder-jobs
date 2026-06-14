@@ -981,7 +981,7 @@ _Lead a team of engineers building and maintaining GameChanger's experimentation
 ---
 
 ### [Principal DevOps Engineer](https://job-boards.greenhouse.io/hs/jobs/7983355)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · `🟢 Remote` `Principal` `$162k-$225k` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · `🟢 Remote` `Principal` `$162k-$225k` `Equity`
 
 _Define long-term cloud platform architecture and technical strategy for 65M+ users, owning reliability, observability, and developer experience standards across AWS infrastructure. Drive organizational CI/CD governance, IaC practices, and multi-year platform roadmaps while mentoring senior engineers. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7983355)_
 
@@ -1065,17 +1065,6 @@ _Develop and maintain enterprise-class case management and electronic filing sys
 `Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
-
----
-
-### [Senior Cloud Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$129k-$220k` `Equity`
-
-_Design and implement defensive security controls across cloud, network, and production infrastructure; build automation tooling for threat detection and security visibility. Requires TS/SCI clearance eligibility and experience securing high-complexity defense technology systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)_
-
-`Python` `Go` `Rust` `Terraform` `AWS` `Azure` `GCP` `TS/SCI Clearance`
-
-<sub>June 4, 2026 at 17:14 UTC</sub>
 
 ---
 
@@ -1948,7 +1937,7 @@ _Lead a 13-engineer team building Reddit's safety platform — user-facing moder
 ## June 1, 2026
 
 ### [Senior Engineering Manager, Core Platform](https://job-boards.greenhouse.io/hs/jobs/7964329)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington · `🟢 Remote` `Manager` `$162k-$225k (or $207k-$258.75k depending on location)` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington · `🟢 Remote` `Manager` `$162k-$225k (or $207k-$258.75k depending on location)` `Equity`
 
 _Lead the Core Platform engineering team delivering authentication, payments, entitlements, and shared services infrastructure across 70 million Headspace users; drive technical strategy for platform migrations and distributed backend systems while building and scaling a high-performing engineering organization. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7964329)_
 
@@ -1959,7 +1948,7 @@ _Lead the Core Platform engineering team delivering authentication, payments, en
 ---
 
 ### [Senior Software Engineer, Backend](https://job-boards.greenhouse.io/hs/jobs/7974975)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$195k` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$195k` `Equity`
 
 _Build authentication, payments, entitlements, and shared platform services supporting Headspace's B2B and direct-to-consumer mental health offerings using TypeScript/Node.js and Python/Django. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7974975)_
 
@@ -2085,6 +2074,17 @@ _Lead a high-performing engineering team building and scaling production APIs an
 _Lead the architecture and implementation of product features across our audit and risk platform's full stack—backend APIs in Node.js, Ember.js frontend, and PostgreSQL data layer. Mentor engineers and drive scalable systems design for a platform serving over half the Fortune 500. · [Apply →](https://jobs.ashbyhq.com/optro/353ccb18-202d-49e0-9ca2-22ed5bc1808d)_
 
 `Node.js` `JavaScript` `TypeScript` `Ember.js` `PostgreSQL` `React` `Python` `Docker`
+
+<sub>June 1, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Sr Software Engineer](https://barn2door-inc.breezy.hr/p/3d08def99668-sr-software-engineer)
+<a href="https://barn2door.com"><img src="https://www.google.com/s2/favicons?domain=barn2door.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Barn2Door** · Nashville, Tennessee / Seattle, Washington · `🟢 Remote` `Senior` `Equity`
+
+_Build full-stack SaaS products serving farmers across all 50 states, architecting scalable systems while mentoring engineers and integrating AI tooling into customer-facing applications. Early-stage food+tech startup with offices in Seattle, WA and Nashville, TN. · [Apply →](https://barn2door-inc.breezy.hr/p/3d08def99668-sr-software-engineer)_
+
+`Node.js` `React` `AWS` `Terraform` `PostgreSQL` `Redis` `Stripe` `RAG`
 
 <sub>June 1, 2026 at 20:34 UTC</sub>
 
