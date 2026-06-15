@@ -2,11 +2,37 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1808 open roles** (7 new) &nbsp;·&nbsp; 1710 companies searched
+### **1801 open roles** (9 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 15, 2026
+
+### [Staff Machine Learning Engineer - Data](https://job-boards.greenhouse.io/kodiak/jobs/4231590009)
+<a href="https://kodiak.ai"><img src="https://www.google.com/s2/favicons?domain=kodiak.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodiak Robotics** · Mountain View, California · `Staff` `$200k-$265k` `Equity`
+
+_Build data pipelines and ML infrastructure that transform autonomous trucking fleet data into models powering perception, prediction, and planning systems. Work on real-world autonomous vehicle systems where scale and safety are critical; requires on-site presence in Mountain View, CA. · [Apply →](https://job-boards.greenhouse.io/kodiak/jobs/4231590009)_
+
+`Python` `Apache Airflow` `SQL` `ETL` `PyTorch` `Kubernetes` `PostgreSQL` `AWS`
+
+<sub>June 15, 2026 at 01:27 UTC</sub>
+
+---
+
+### [Senior Full Stack Developer](https://job-boards.greenhouse.io/superset/jobs/5260818008)
+<a href="https://superset.com"><img src="https://www.google.com/s2/favicons?domain=superset.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**super{set}** · Montreal, QC · `🟡 Hybrid` `Senior`
+
+_Build full-stack applications for an AI-powered marketing platform, designing and shipping customer-facing features across backend services, APIs, and web frontends. Balance pragmatic delivery with high engineering standards while integrating AI capabilities into products for enterprise customers. · [Apply →](https://job-boards.greenhouse.io/superset/jobs/5260818008)_
+
+`Node.js` `React` `Python` `Go` `AI/LLM integration` `PostgreSQL` `TypeScript`
+
+<sub>June 15, 2026 at 01:27 UTC</sub>
+
+---
 
 <br>
 
