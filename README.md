@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1820 open roles** (14 new) &nbsp;·&nbsp; 1710 companies searched
+### **1806 open roles** (20 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,94 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 15, 2026
+
+### [Sr Software Development Engineer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad-SEZ/Sr-SW-Engineer_RP1037899)
+<a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**F5 Networks** · 2 Locations · `Senior`
+
+_Design and automate release processes across F5's software and SaaS platforms using Python, Golang, Terraform, and CI/CD pipelines. Manage cloud marketplace workflows (AWS, Azure, GCP) and integrate AI-driven tools into release management infrastructure. · [Apply →](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad-SEZ/Sr-SW-Engineer_RP1037899)_
+
+`Python` `Golang` `Terraform` `Perforce` `GitLab` `AWS` `Azure` `GCP`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Device Software](https://jobs.ashbyhq.com/hinge-health/0e548ae6-1aa8-434b-88a4-dcb079ea469d)
+<a href="https://hingehealth.com"><img src="https://www.google.com/s2/favicons?domain=hingehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hinge Health** · San Francisco, California · `Staff`
+
+_Lead the design and delivery of backend systems powering connected medical device experiences, clinical workflows, and device-control flows—APIs, Python services, Next.js applications, and device telemetry integrations. Role requires navigating FDA-regulated healthcare domain with high reliability and compliance standards, with staff-level influence across hardware, clinical, regulatory, and product teams. · [Apply →](https://jobs.ashbyhq.com/hinge-health/0e548ae6-1aa8-434b-88a4-dcb079ea469d)_
+
+`Python` `Next.js` `TypeScript` `AWS` `PostgreSQL` `Redis` `GraphQL` `Docker`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
+
+### [Infrastructure Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Fort-Meade/Infrastructure-Engineer_RQ222295-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Fort Meade, Maryland / Chantilly, Virginia · `Senior` `$164k-$201k`
+
+_Design, implement, and maintain enterprise infrastructure solutions for Department of Defense missions across Microsoft Azure and on-premises environments, supporting mission-critical operations at scale. Requires active DoD Secret clearance and US citizenship; 75-100% travel expected. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Fort-Meade/Infrastructure-Engineer_RQ222295-1)_
+
+`Microsoft Azure` `Microsoft 365` `PowerShell` `Terraform` `Windows Server` `Azure Virtual Desktop` `Azure Firewall` `Group Policy`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
+
+### [Linux Server Engineer, Senior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Linux-Server-Engineer--Senior_RQ222009-2)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$97k-$132k`
+
+_Maintain and deploy Linux systems (RHEL, Oracle Enterprise) across internal IT infrastructure, managing patching, security compliance, cloud platforms (Azure, OCI), and backup systems. Lead a small team of junior administrators and manage enterprise-scale server operations. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Linux-Server-Engineer--Senior_RQ222009-2)_
+
+`Linux` `Shell Scripting` `RHEL` `Oracle Enterprise Linux` `Azure` `OCI` `VMware` `Technical Troubleshooting`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
+
+### [Senior Database Administrator (Sr. DBA)](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Herndon/Senior-Database-Administrator--Sr-DBA-_RQ221979-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Herndon, Virginia / Remote · `🟡 Hybrid` `Senior` `$107k-$138k`
+
+_Design, implement, and optimize mission-critical SQL Server and Oracle database environments for enterprise OCIO systems, including backup, disaster recovery, and cloud deployments across OCI, Azure, and AWS. Requires 7+ years of hands-on DBA experience and US Person status. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Herndon/Senior-Database-Administrator--Sr-DBA-_RQ221979-1)_
+
+`SQL Server` `Oracle Database` `PowerShell` `Python` `OCI` `Azure` `Bash` `AWS`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Growth Platforms](https://app.careerpuck.com/job-board/lyft/job/8586322002?gh_jid=8586322002)
+<a href="https://lyft.com"><img src="https://www.google.com/s2/favicons?domain=lyft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lyft** · San Francisco, California · `🟡 Hybrid` `Senior` `$148k-$185k` `Equity`
+
+_Build and own Lyft's Incentives & Messaging systems that determine and deliver the right offers and communications to drivers and riders at scale. Lead projects across distributed systems handling millions of users, working with cross-functional teams to adapt growth platforms to meet business needs. · [Apply →](https://app.careerpuck.com/job-board/lyft/job/8586322002?gh_jid=8586322002)_
+
+`Python` `Go` `AWS` `Distributed Systems` `NoSQL` `Backend Development`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
+
+### [Engineer III, Process Development](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-III--Process-Development_R19302-1)
+<a href="https://modernatx.com"><img src="https://www.google.com/s2/favicons?domain=modernatx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Moderna** · Norwood, Massachusetts · `🟡 Hybrid` `Senior` `$89k-$143k` `Equity`
+
+_Design and implement next-generation mRNA manufacturing systems, translating bioprocess development expertise into automated production workflows with integrated process control and GxP compliance. Work on scaling RNA production processes (IVT, purification) into fully integrated systems handling closed-loop, continuous operations for clinical and commercial supply. · [Apply →](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-III--Process-Development_R19302-1)_
+
+`Bioprocess Design` `Chromatography` `Ultrafiltration` `GMP/GxP Compliance` `Process Analytical Technology (PAT)` `RNA Manufacturing` `Clean-In-Place (CIP)` `FDA/EMA/ICH Regulations`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
+
+### [HPC/ML Infrastructure Engineer](https://jobs.ashbyhq.com/spellbrush/449fdcb3-fb20-4e4c-87d6-f9007ebd404b)
+<a href="https://spellbrush.com"><img src="https://www.google.com/s2/favicons?domain=spellbrush.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spellbrush** · San Francisco, California / Tokyo, Japan · `Senior`
+
+_Lead administration and operations of a massive GPU cluster for anime AI model training, managing SLURM orchestration, parallel filesystems, networking, and hardware provisioning across bare-metal infrastructure. · [Apply →](https://jobs.ashbyhq.com/spellbrush/449fdcb3-fb20-4e4c-87d6-f9007ebd404b)_
+
+`SLURM` `Kubernetes` `Ansible` `WEKA` `Ceph` `Prometheus` `Grafana` `Linux System Administration`
+
+<sub>June 15, 2026 at 06:01 UTC</sub>
+
+---
 
 ### [Software Engineer or Senior Software Engineer - Data Hub](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Engineer---Data-Platform-and-Agent-Trust_JR-0106848)
 <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Toronto, Canada · `🟡 Hybrid` `Senior` `$140k CAD - $210k CAD` `Equity`
@@ -145,28 +233,6 @@ _Lead the Engagement Modeling team building ML models for Reddit's Ads predictio
 `TensorFlow` `PyTorch` `Machine Learning` `Deep Learning` `Large Language Models`
 
 <sub>June 14, 2026 at 12:30 UTC</sub>
-
----
-
-### [Senior Network Engineer - Top Secret](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Arlington/Senior-Network-Engineer---Top-Secret_RQ222016-2)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Arlington, Virginia · `Senior` `$93k - $121k`
-
-_Design and maintain mission-critical network infrastructure for a Pentagon-based government program, including router/switch/firewall configuration, LAN/WAN systems, and VPN architecture. Requires active Top Secret/SCI clearance and hands-on Aruba networking experience. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Arlington/Senior-Network-Engineer---Top-Secret_RQ222016-2)_
-
-`Aruba` `Cisco (CCNA/CCNP)` `IP VPN` `LAN/WAN` `Juniper` `Firewall Configuration` `TS/SCI Clearance`
-
-<sub>June 14, 2026 at 05:45 UTC</sub>
-
----
-
-### [Technical DevSecOps Manager - TS/SCI with Polygraph](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-McLean/Technical-DevSecOps-Manager---TS-SCI-with-Polygraph_RQ222177-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · McLean, Virginia · `Manager` `$147k-$199k`
-
-_Lead DevSecOps transformation for national security systems across VMs, containers, and serverless platforms, architecting and operating CI/CD pipelines at scale while mentoring multiple agile teams. Requires TS/SCI clearance with polygraph. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-McLean/Technical-DevSecOps-Manager---TS-SCI-with-Polygraph_RQ222177-1)_
-
-`Jenkins` `ArgoCD` `Terraform` `Kubernetes` `Docker` `AWS` `Azure` `Ansible`
-
-<sub>June 14, 2026 at 05:45 UTC</sub>
 
 ---
 
