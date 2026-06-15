@@ -2,9 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **218 open roles** (2 new)
+### **220 open roles** (4 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 15, 2026
+
+### [Data Scientist (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7772314003)
+<a href="https://striveworks.com"><img src="https://www.google.com/s2/favicons?domain=striveworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Striveworks** · Remote; Tacoma, Washington · `🟢 Remote` `Mid` `$160k-$190k` `Equity`
+
+_Build and deploy machine learning models for mission-critical AI operations across image, video, text, and geospatial data in national security and defense applications. Requires active Secret security clearance and US citizenship; significant travel expected (25-30%). · [Apply →](https://job-boards.greenhouse.io/striveworks/jobs/7772314003)_
+
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Computer Vision` `Docker` `Kubernetes` `TS/SCI Clearance`
+
+<sub>June 15, 2026 at 03:25 UTC</sub>
+
+---
+
+### [Machine Learning Engineer (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7772335003)
+<a href="https://striveworks.com"><img src="https://www.google.com/s2/favicons?domain=striveworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Striveworks** · Remote; Tacoma, Washington · `🟢 Remote` `Mid` `$160k-$190k` `Equity`
+
+_Build machine learning pipelines and AI operations systems for national security and defense applications, processing imagery, video, text, geospatial, and time series data. Requires active Secret clearance and US citizenship; travel up to 30% if remote, 25% if on-site in Tacoma, WA. · [Apply →](https://job-boards.greenhouse.io/striveworks/jobs/7772335003)_
+
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Kubernetes` `Docker` `Go` `Rust`
+
+<sub>June 15, 2026 at 03:25 UTC</sub>
+
+---
 
 <br>
 

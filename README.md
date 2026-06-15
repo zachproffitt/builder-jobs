@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1801 open roles** (9 new) &nbsp;·&nbsp; 1710 companies searched
+### **1820 open roles** (14 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 15, 2026
+
+### [Software Engineer or Senior Software Engineer - Data Hub](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Engineer---Data-Platform-and-Agent-Trust_JR-0106848)
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Toronto, Canada · `🟡 Hybrid` `Senior` `$140k CAD - $210k CAD` `Equity`
+
+_Build a cloud-based data platform that ingests, computes, and aggregates datasets for AI/ML inference and agentic workflows across Workday applications. Work with Kubernetes, Apache Spark, and data lake infrastructure (Iceberg) at scale. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/Senior-Software-Engineer---Data-Platform-and-Agent-Trust_JR-0106848)_
+
+`Java` `Python` `Scala` `Apache Spark` `Kubernetes` `Terraform` `AWS` `Apache Iceberg`
+
+<sub>June 15, 2026 at 03:25 UTC</sub>
+
+---
+
+### [Senior Vice President of Engineering](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Senior-Vice-President-of-Engineering_1208518)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · Sunnyvale, California · `🟡 Hybrid` `Manager` `$300k-$600k`
+
+_Lead the strategy, architecture, and execution of a global ASIC, silicon, and hardware engineering organization delivering custom networking platforms for high-performance routing, switching, data centers, and AI infrastructure. Requires 20+ years of experience including 15+ years managing global engineering teams, deep expertise in ASIC/SoC design, hardware platforms, and networking architectures at enterprise, cloud, and hyperscale scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Senior-Vice-President-of-Engineering_1208518)_
+
+`ASIC Design` `RTL` `Silicon Design` `Hardware Architecture` `Networking` `Verification` `Ethernet` `SerDes`
+
+<sub>June 15, 2026 at 03:25 UTC</sub>
+
+---
+
+### [Senior Systems/Software Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/Senior-Systems-Software-Engineer_1207869-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · Colorado / Massachusetts / North Carolina / Texas · `Senior` `$120.5k-$276.5k`
+
+_Build systems infrastructure and data path software for HPE edge-to-cloud products using modern C++. Design and optimize multithreaded, distributed systems running on Linux with attention to performance, memory safety, and low-latency execution. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/Senior-Systems-Software-Engineer_1207869-2)_
+
+`C++` `Python` `Linux` `Multithreaded Programming` `Distributed Systems` `GDB` `Algorithms & Data Structures` `File Systems / Storage`
+
+<sub>June 15, 2026 at 03:25 UTC</sub>
+
+---
+
+### [Data Scientist (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7772314003)
+<a href="https://striveworks.com"><img src="https://www.google.com/s2/favicons?domain=striveworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Striveworks** · Remote; Tacoma, Washington · `🟢 Remote` `Mid` `$160k-$190k` `Equity`
+
+_Build and deploy machine learning models for mission-critical AI operations across image, video, text, and geospatial data in national security and defense applications. Requires active Secret security clearance and US citizenship; significant travel expected (25-30%). · [Apply →](https://job-boards.greenhouse.io/striveworks/jobs/7772314003)_
+
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Computer Vision` `Docker` `Kubernetes` `TS/SCI Clearance`
+
+<sub>June 15, 2026 at 03:25 UTC</sub>
+
+---
+
+### [Machine Learning Engineer (Active Secret Clearance)](https://job-boards.greenhouse.io/striveworks/jobs/7772335003)
+<a href="https://striveworks.com"><img src="https://www.google.com/s2/favicons?domain=striveworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Striveworks** · Remote; Tacoma, Washington · `🟢 Remote` `Mid` `$160k-$190k` `Equity`
+
+_Build machine learning pipelines and AI operations systems for national security and defense applications, processing imagery, video, text, geospatial, and time series data. Requires active Secret clearance and US citizenship; travel up to 30% if remote, 25% if on-site in Tacoma, WA. · [Apply →](https://job-boards.greenhouse.io/striveworks/jobs/7772335003)_
+
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Kubernetes` `Docker` `Go` `Rust`
+
+<sub>June 15, 2026 at 03:25 UTC</sub>
+
+---
 
 ### [Staff Machine Learning Engineer - Data](https://job-boards.greenhouse.io/kodiak/jobs/4231590009)
 <a href="https://kodiak.ai"><img src="https://www.google.com/s2/favicons?domain=kodiak.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodiak Robotics** · Mountain View, California · `Staff` `$200k-$265k` `Equity`
