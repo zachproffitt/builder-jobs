@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **198 open roles** (26 new)
+### **197 open roles** (25 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -948,17 +948,6 @@ _Build production ML systems for supply chain optimization—demand forecasting,
 
 ---
 
-### [SDET II, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782544)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$109k—$224k` `Equity`
-
-_Build and maintain automated test suites for web platform and API testing, designing end-to-end test cases that validate frontend-backend integration, API contracts, and data consistency. Partner with frontend and backend engineers to integrate tests into CI/CD pipelines and establish shift-left testing practices for a high-traffic CTV advertising platform. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7782544)_
-
-`Playwright` `Cypress` `JavaScript` `TypeScript` `Postman` `REST-assured` `API testing` `React`
-
-<sub>June 9, 2026 at 11:13 UTC</sub>
-
----
-
 ### [Senior Database Reliability Engineer](https://jobs.ashbyhq.com/scribe/e8c36a84-1bff-4918-837e-667436bad978)
 <a href="https://scribe.com"><img src="https://www.google.com/s2/favicons?domain=scribe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribe** · San Francisco, California / Remote · `🟢 Remote` `Senior` `Equity`
 
@@ -1068,17 +1057,6 @@ _Design and build automated testing frameworks across UI, API, and integration l
 _Design and develop high-throughput payment processing systems for POS integrations, architecting card reader SDKs and payment transaction infrastructure for restaurant point-of-sale platforms. Lead technical strategy across cross-functional teams with deep expertise in JVM concurrency, EMV standards, and mission-critical transactional security. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7769188)_
 
 `Kotlin` `Java` `JVM` `Coroutines` `EMV` `Card Payments` `Observability` `SDK Development`
-
-<sub>June 8, 2026 at 19:49 UTC</sub>
-
----
-
-### [Software Quality Operations Specialist](https://careers.withwaymo.com/jobs?gh_jid=7458098)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California · `🟢 Remote` `Mid` `$120k-$151k` `Equity`
-
-_Design and deploy machine learning and generative AI models to enhance issue detection, triage efficiency, and quality assurance for autonomous vehicle testing. Partner with engineering teams to integrate AI-powered insights into quality operations workflows while managing vendor teams and defining quality control processes for both human and AI-generated outputs. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7458098)_
-
-`Machine Learning` `Generative AI` `ML Testing` `SQL` `LLM` `Transformer Models` `Data Quality Assurance` `Statistical Metrics`
 
 <sub>June 8, 2026 at 19:49 UTC</sub>
 
@@ -1705,6 +1683,17 @@ _Build multi-system automation workflows and predictive scoring models powering 
 
 ---
 
+### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
+
+_Develop and maintain enterprise-class case management and electronic filing systems for the US federal judiciary using Java/Spring Boot in an agile environment. Federal IT security compliance and Section 508 accessibility standards required. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)_
+
+`Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
+
+<sub>June 4, 2026 at 19:00 UTC</sub>
+
+---
+
 ### [ML Engineer - Verifications](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)
 <a href="https://www.kodexglobal.com"><img src="https://www.google.com/s2/favicons?domain=www.kodexglobal.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodex** · `🟢 Remote` `Senior` `Equity`
 
@@ -1716,14 +1705,14 @@ _Build and deploy ML models to detect suspicious activity and fraud across Kodex
 
 ---
 
-### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
+### [Senior Cloud Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$129k-$220k` `Equity`
 
-_Develop and maintain enterprise-class case management and electronic filing systems for the US federal judiciary using Java/Spring Boot in an agile environment. Federal IT security compliance and Section 508 accessibility standards required. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)_
+_Design and implement defensive security controls across cloud, network, and production infrastructure; build automation tooling for threat detection and security visibility. Requires TS/SCI clearance eligibility and experience securing high-complexity defense technology systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)_
 
-`Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
+`Python` `Go` `Rust` `Terraform` `AWS` `Azure` `GCP` `TS/SCI Clearance`
 
-<sub>June 4, 2026 at 19:00 UTC</sub>
+<sub>June 4, 2026 at 17:14 UTC</sub>
 
 ---
 
