@@ -2,13 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **203 open roles** (35 new)
+### **189 open roles** (33 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 18, 2026
+
+### [Senior Director Decision Science](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Decision-Science_R0059560-1)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$151k-$220k`
+
+_Lead enterprise-scale real-time decisioning and next-best-action systems that power customer engagement, lead routing, and optimization across omni-channel touchpoints. Direct teams in designing decision policies, optimization frameworks, and experimentation practices while maintaining governance, fairness, and audit compliance; requires 9+ years in decision science or optimization and 3+ years in people management. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Decision-Science_R0059560-1)_
+
+`Python` `SQL` `Optimization` `Experimentation Design` `Uplift Modeling` `Bandit Algorithms` `Decision Science` `Generalized Linear Models`
+
+<sub>June 18, 2026 at 21:49 UTC</sub>
+
+---
+
+### [Senior Manager, Software Engineering](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Manager--Software-Engineering_JR114263)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$204k-$327k` `Equity`
+
+_Lead the Core Platform Infrastructure team building distributed systems foundations (messaging, async processing, internal developer platform) that power engineering across ServiceTitan. Drive architectural decisions for high-scale, high-reliability systems serving hundreds of services and engineers, with hands-on technical leadership and team growth. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Manager--Software-Engineering_JR114263)_
+
+`Distributed Systems` `Messaging Systems` `Event-Driven Architectures` `Asynchronous Processing` `Internal Developer Platforms` `Performance Engineering` `Reliability Engineering` `AI/ML Tooling`
+
+<sub>June 18, 2026 at 21:49 UTC</sub>
+
+---
 
 ### [Senior Data Platform Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Streaming-Engineer_R0056639)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105k-$149k`
@@ -21,12 +43,12 @@ _Design and build scalable data platform solutions including streaming pipelines
 
 ---
 
-### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017073)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
+### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017071)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Design and conduct offensive security operations across Instacart's product suite, deploying and operationalizing security tools to scale vulnerability discovery and mature security posture. Integrate security testing into engineering workflows and mentor the security team across mobile, AI, and cloud attack surfaces. · [Apply →](https://instacart.careers/job/?gh_jid=8017073)_
+_Design and conduct offensive security operations across Instacart's product suite, deploying security tools and techniques to scale vulnerability discovery. Requires deep expertise in mobile/cloud/AI security testing and threat modeling; remote role with market-competitive equity compensation. · [Apply →](https://instacart.careers/job/?gh_jid=8017071)_
 
-`Penetration Testing` `Mobile App Security` `Cloud Security` `Threat Modeling` `Security Architecture` `Offensive Security` `Vulnerability Assessment` `Burp Suite`
+`Mobile App Penetration Testing` `Cloud Penetration Testing` `Threat Modeling` `Security Architecture` `AI Security Testing` `Bug Bounty Research`
 
 <sub>June 18, 2026 at 21:00 UTC</sub>
 
@@ -231,7 +253,7 @@ _Build production ML models for claims time series forecasting and NLP text unde
 ---
 
 ### [DevOps Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)
-<a href="https://paloaltonetworks.com"><img src="https://www.google.com/s2/favicons?domain=paloaltonetworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palo Alto Networks** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
+<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
 
 _Design and architect scalable CI/CD infrastructure and developer productivity platforms using infrastructure as code, mentoring engineers while remaining hands-on. Focus on cloud infrastructure (AWS preferred), containers, and Kubernetes across security and governance use cases in a mission-critical cybersecurity environment. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)_
 
@@ -247,39 +269,6 @@ _Design and architect scalable CI/CD infrastructure and developer productivity p
 _Lead the full product development lifecycle for Instacart's B2B platform, owning major workstreams from conception through deployment for over 1 million business users. Build scalable backend systems for team member management, reporting, spend controls, and new B2B ordering surfaces while mentoring engineers and influencing roadmap direction. · [Apply →](https://instacart.careers/job/?gh_jid=8014051)_
 
 `Ruby` `Rails` `Datadog` `Python` `Java` `Backend Development`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Lead Senior Principal Cloud Developer with Node.JS and React.JS](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Lead-Senior-Principal-Cloud-Developer-with-NodeJS-and-ReactJS_RQ209106)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Principal` `$142k-$189k`
-
-_Design, architect, and maintain cloud solutions on AWS for federal government customers, including infrastructure automation, data integration, and serverless/containerized applications. Requires Public Trust clearance and US Person status. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Lead-Senior-Principal-Cloud-Developer-with-NodeJS-and-ReactJS_RQ209106)_
-
-`AWS` `Python` `Bash` `PowerShell` `Node.js` `React.js` `Docker` `Kubernetes`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Cloud Security Information Analyst](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Security-Information-Analyst_RQ222731-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$97k-$120k`
-
-_Build cloud security infrastructure and monitoring systems for the Case Management Modernization Program supporting 204+ federal courts; develop vulnerability detection and incident response capabilities while ensuring Authority to Operate compliance for modern, containerized judicial case management solutions. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Security-Information-Analyst_RQ222731-1)_
-
-`AWS Security Hub` `Python` `Bash` `JavaScript` `Splunk` `SAST` `DevSecOps` `CNAPP`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Cloud Solutions Architect](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Solutions-Architect_RQ222733)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Washington, D.C. / Falls Church, Virginia (Remote, within 60 miles required) · `🟢 Remote` `Senior` `$147k-$199k`
-
-_Design and maintain enterprise multi-cloud architectures across AWS, Azure, and other cloud service providers for the VA, including landing zones, identity management, and security baselines. Requires federal cloud modernization experience, ability to obtain Public Trust clearance, and hands-on IaC expertise with Terraform, CloudFormation, or Bicep. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Solutions-Architect_RQ222733)_
-
-`AWS` `Azure` `Terraform` `CloudFormation` `Bicep` `IaC` `Zero Trust Architecture` `IAM`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
@@ -337,17 +326,6 @@ _Build production-grade genomic analysis pipelines for next-generation sequencin
 `Java` `C++` `Python` `Perl` `MySQL` `Linux` `Next-Generation Sequencing` `Variant Calling`
 
 <sub>June 18, 2026 at 15:15 UTC</sub>
-
----
-
-### [Principal DevSecOps / Platform Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Principal-DevSecOps---Platform-Engineer_RQ222176)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Principal` `$113.9k-$154.1k`
-
-_Design, develop, and maintain CI/CD pipelines and security automation platforms for DoD and federal customers, integrating SAST/SCA/container scanning, agentic AI capabilities, and supply chain security controls across classified and unclassified environments. Requires active Secret clearance and hands-on experience deploying Kubernetes in air-gapped/classified settings. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Principal-DevSecOps---Platform-Engineer_RQ222176)_
-
-`Kubernetes` `GitLab CI/CD` `Terraform` `Ansible` `Docker` `Git` `SAST` `SCA`
-
-<sub>June 18, 2026 at 05:48 UTC</sub>
 
 ---
 
@@ -520,17 +498,6 @@ _Build and scale large-scale data ingestion and transformation pipelines integra
 
 ---
 
-### [Cloud Engineer Principal](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Engineer-Principal_RQ222569-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Principal` `$128k-$173k`
-
-_Design, architect, and maintain cloud infrastructure solutions across AWS, Azure, GCP, or OCI for large multi-tenant enterprise platforms; requires Secret clearance (or ability to obtain) and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Engineer-Principal_RQ222569-1)_
-
-`AWS` `Azure` `GCP` `Python` `Bash` `PowerShell` `Linux` `Secret Clearance`
-
-<sub>June 17, 2026 at 16:24 UTC</sub>
-
----
-
 <br>
 
 ## June 16, 2026
@@ -601,17 +568,6 @@ _Design and build scalable data pipelines and multi-tenant application backends 
 
 ---
 
-### [Senior UI Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-UI-Developer_RQ222398)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$127k-$172k`
-
-_Lead the migration of Vue.js UI components from Nuxt 2 to Nuxt 3 for EPA environmental science applications, refactoring legacy code and building modern web frontends for chemical, exposure, and ecology data systems. Requires US citizenship and ability to obtain EPA Public Trust Level 4 clearance. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-UI-Developer_RQ222398)_
-
-`Vue.js` `Nuxt` `JavaScript` `Node.js` `NACI (T1)`
-
-<sub>June 16, 2026 at 21:58 UTC</sub>
-
----
-
 ### [Software Engineer (L1)](https://job-boards.greenhouse.io/twilio/jobs/7681338)
 <a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Junior` `$121k-$143k` `Equity`
 
@@ -631,17 +587,6 @@ _Conduct manual and automated penetration testing on web applications and APIs t
 `OWASP Top 10` `Penetration Testing` `Web Application Security` `API Security` `Prompt Injection` `Proof-of-Concept Development`
 
 <sub>June 16, 2026 at 20:10 UTC</sub>
-
----
-
-### [AWS Cloud Infrastructure Engineer (Keycloak Specialty)](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AWS-Cloud-Infrastructure-Engineer--Keycloak-Specialty-_RQ222522-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$153k-$207k`
-
-_Design and implement identity and access management infrastructure using Keycloak and AWS services for federal court modernization systems, ensuring compliance with FedRAMP, NIST 800-63, and Zero Trust Architecture principles. Requires ability to obtain Public Trust clearance and U.S. person status for government work. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/AWS-Cloud-Infrastructure-Engineer--Keycloak-Specialty-_RQ222522-1)_
-
-`Keycloak` `AWS IAM` `OAuth2.0` `OIDC` `SAML` `Zero Trust Architecture` `FedRAMP` `NIST 800-63`
-
-<sub>June 16, 2026 at 18:37 UTC</sub>
 
 ---
 
@@ -733,17 +678,6 @@ _Own the architecture and implementation of backend systems for Chainguard's Ath
 
 ---
 
-### [Microservices Developer/Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Microservices-Developer-Engineer_RQ222547-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$128k-$173k`
-
-_Build and maintain scalable backend microservices using Java and Spring Boot to support USPS platform infrastructure, with responsibility for APIs, database migrations from on-prem to AWS, containerization, Kubernetes orchestration, and observability across distributed systems. Requires Public Trust clearance and US residency for the last 5 years. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Microservices-Developer-Engineer_RQ222547-1)_
-
-`Java` `Spring Boot` `Kubernetes` `Docker` `AWS` `CI/CD` `RESTful APIs` `PostgreSQL`
-
-<sub>June 16, 2026 at 16:41 UTC</sub>
-
----
-
 ### [Senior Software Quality Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8573963002)
 <a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Senior` `$104k-$130k`
 
@@ -752,28 +686,6 @@ _Design and develop test automation frameworks for mobile SDKs, backend APIs, an
 `Java` `Selenium` `Appium` `JUnit` `TestNG` `Postman` `Kubernetes` `Kafka`
 
 <sub>June 16, 2026 at 16:41 UTC</sub>
-
----
-
-### [Oracle Identity & Access Management Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Oracle-Identity---Access-Management-Engineer_RQ222472-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$112k-$145k`
-
-_Build and maintain Oracle Identity Management infrastructure (OAM 12c, OID, OIG) for the CMS HIGLAS program, including custom development of integrations, scheduled jobs, and identity federation solutions. Requires Java coding expertise with Oracle IAM APIs and ability to work with US government systems under NACI clearance. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Oracle-Identity---Access-Management-Engineer_RQ222472-1)_
-
-`Oracle Access Manager` `Oracle Identity Manager` `Oracle Identity Governance` `Java` `REST APIs` `SAML` `OAuth` `LDAP`
-
-<sub>June 16, 2026 at 14:48 UTC</sub>
-
----
-
-### [Mid-Level Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Mid-Level-Java-Developer_RQ222520-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$93k-$120k`
-
-_Build and enhance government software systems and applications as part of an Agile team using Java, Spring, and web services. Requires Public Trust clearance (NACI T1) and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Mid-Level-Java-Developer_RQ222520-1)_
-
-`Java` `Spring` `Hibernate` `SQL Server` `REST` `SOAP` `Maven` `JUnit`
-
-<sub>June 16, 2026 at 14:48 UTC</sub>
 
 ---
 
@@ -869,17 +781,6 @@ _Lead a distributed engineering team building billing, incentives, and performan
 
 ---
 
-### [DevSecOps Software Developer SME](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/DevSecOps-Software-Developer-SME_RQ221643-2)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$149k-$201k`
-
-_Design and build automation, CI/CD pipelines, and infrastructure-as-code tools to support secure software delivery in mission-focused cloud environments. Requires Top Secret/SCI clearance and 10+ years of DevOps, automation, or systems engineering experience. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/DevSecOps-Software-Developer-SME_RQ221643-2)_
-
-`Python` `Bash` `PowerShell` `GitLab CI/CD` `Infrastructure as Code` `AWS` `Azure` `Kubernetes`
-
-<sub>June 15, 2026 at 22:49 UTC</sub>
-
----
-
 ### [Sr Engineer, Software](https://boards.greenhouse.io/blacksky/jobs/8583120002?gh_jid=8583120002)
 <a href="https://blacksky.com"><img src="https://www.google.com/s2/favicons?domain=blacksky.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BlackSky** · Seattle, Washington / Remote · `🟢 Remote` `Senior` `$140k-$160k` `Equity`
 
@@ -941,17 +842,6 @@ _Lead the Activations engineering team responsible for client onboarding integra
 _Build the UI/UX and front-end implementation for education technology products used by millions of students and teachers; design and maintain a living design system as code while bridging design and engineering teams. Requires expert-level Figma and production React/TypeScript proficiency with deep ownership of pixel-accurate, accessible implementations. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7998049)_
 
 `React` `TypeScript` `Figma` `HTML/CSS` `Storybook` `WCAG` `Design Systems` `Accessibility`
-
-<sub>June 15, 2026 at 20:16 UTC</sub>
-
----
-
-### [Cloud Application Architect (Node.js and React.js) - Remote](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Application-Architect--Nodejs-and-Reactjs----Remote_RQ222507-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$195k-$264k`
-
-_Architect and build cloud-native government applications on AWS, designing multi-tenant enterprise platforms with Node.js and React.js front-ends, Lambda microservices, and infrastructure-as-code automation. Requires BI Full 6C public trust clearance and US person status for federal work. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Application-Architect--Nodejs-and-Reactjs----Remote_RQ222507-1)_
-
-`AWS` `Node.js` `React.js` `Python` `Bash` `Terraform` `CloudFormation` `Lambda`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
@@ -1363,17 +1253,6 @@ _Design and ship Android transaction experiences (cart, checkout, payments, orde
 
 ---
 
-### [Cloud Software Developer (Node.js and React.js required) - State of Louisiana](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer--Nodejs-and-Reactjs-required----State-of-Louisiana_RQ222072-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Bossier City, Louisiana / Remote · `🟢 Remote` `Senior` `$128k-$173k`
-
-_Build cloud-native applications using Node.js and React.js on AWS infrastructure, with responsibility for designing scalable architectures, implementing infrastructure-as-code with Terraform, and ensuring secure cloud operations. Requires BI Full 6C (T4) public trust clearance and US Person status. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer--Nodejs-and-Reactjs-required----State-of-Louisiana_RQ222072-1)_
-
-`Node.js` `React.js` `AWS` `Terraform` `JavaScript/TypeScript` `Linux` `CI/CD` `AWS CDK`
-
-<sub>June 9, 2026 at 17:05 UTC</sub>
-
----
-
 ### [Senior Software Engineer - Data Platform](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)
 <a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$126k-$163k CAD` `Equity`
 
@@ -1382,17 +1261,6 @@ _Design and build high-scale data ingestion and replication systems moving petab
 `Apache Spark` `Databricks` `Delta Lake` `Python` `Go` `AWS` `Terraform` `Airflow`
 
 <sub>June 9, 2026 at 17:05 UTC</sub>
-
----
-
-### [Cloud Software Developer (Node.js/React.js required)](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer--Nodejs-Reactjs-required---Open-_RQ222039)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$128k-$173k`
-
-_Build and maintain cloud-native applications using Node.js and React.js deployed on AWS infrastructure with Terraform-based IaC. Role requires designing secure, scalable architectures and automating CI/CD pipelines for government customers; requires BI Full 6C (T4) public trust clearance and US person status. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Software-Developer--Nodejs-Reactjs-required---Open-_RQ222039)_
-
-`AWS` `Node.js` `React.js` `Terraform` `JavaScript` `TypeScript` `Linux` `CI/CD`
-
-<sub>June 9, 2026 at 15:15 UTC</sub>
 
 ---
 
@@ -1433,23 +1301,23 @@ _Build and expand open-source security infrastructure for secrets management, PK
 
 ## June 8, 2026
 
+### [Manager, Enterprise Security Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5159139007?gh_jid=5159139007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Manager` `$129k-$220k` `Equity`
+
+_Build and scale a team of security engineers to design and implement defensive controls across cloud, production, and corporate infrastructure for defense technology systems. Requires TS/SCI clearance and hands-on technical leadership in a strategic competition environment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5159139007?gh_jid=5159139007)_
+
+`Python` `Go` `Rust` `Terraform` `AWS` `CI/CD` `Linux` `TS/SCI Clearance`
+
+<sub>June 8, 2026 at 21:41 UTC</sub>
+
+---
+
 ### [Ads AI Analytics Lead II](https://instacart.careers/job/?gh_jid=7495338)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$131k–$165k USD` `Equity`
 
 _Own the intelligence and automation behind Instacart's Ads agents by designing the semantic layer, building dbt/Snowflake data models, and orchestrating retrieval-augmented generation (RAG) workflows to diagnose campaign performance and drive ROAS lift. Requires deep fluency in ads analytics (ROAS, pacing, auction dynamics) and proven ability to ship production AI systems with measurable business impact. · [Apply →](https://instacart.careers/job/?gh_jid=7495338)_
 
 `Python` `SQL` `dbt` `Snowflake` `Airflow` `Tableau` `A/B Testing` `RAG`
-
-<sub>June 8, 2026 at 21:01 UTC</sub>
-
----
-
-### [Reliability Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Reliability-Engineer_RQ221995-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
-
-_Design and maintain scalable infrastructure and CI/CD pipelines for hosting services and data center operations supporting a federal government mission. Requires Public Trust suitability and 5+ years of SRE/DevOps experience. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Reliability-Engineer_RQ221995-1)_
-
-`Python` `Bash` `Jenkins` `Terraform` `Docker` `Kubernetes` `AWS` `Ansible`
 
 <sub>June 8, 2026 at 21:01 UTC</sub>
 
@@ -1628,21 +1496,6 @@ _Build and maintain ML models and data pipelines for the Commercial team to opti
 `Python` `SQL` `dbt` `Airflow` `Machine Learning` `A/B Testing` `Experimentation`
 
 <sub>June 8, 2026 at 13:46 UTC</sub>
-
----
-
-<br>
-
-## June 7, 2026
-
-### [Solution Director for Digital Engineering](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Solution-Director-for-Digital-Engineering_RQ221405-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Manager` `$191k-$258k`
-
-_Lead digital engineering architecture and hands-on development for defense weapons systems and IT programs across General Dynamics, integrating AI/ML, cloud, and advanced tooling while managing teams of architects and engineers. Requires Secret clearance with ability to obtain TS/SCI, 10+ years of defense systems experience, and expert-level Model Based Systems Engineering (UML, SysML, UAF, DoDAF). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Solution-Director-for-Digital-Engineering_RQ221405-1)_
-
-`Model Based Systems Engineering` `SysML` `UML` `DoDAF` `UAF` `BPMN` `Cloud Computing` `AI/ML`
-
-<sub>June 7, 2026 at 05:42 UTC</sub>
 
 ---
 
@@ -2055,7 +1908,7 @@ _Lead a team of engineers building and maintaining GameChanger's experimentation
 ---
 
 ### [Principal DevOps Engineer](https://job-boards.greenhouse.io/hs/jobs/7983355)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · `🟢 Remote` `Principal` `$162k-$225k` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · `🟢 Remote` `Principal` `$162k-$225k` `Equity`
 
 _Define long-term cloud platform architecture and technical strategy for 65M+ users, owning reliability, observability, and developer experience standards across AWS infrastructure. Drive organizational CI/CD governance, IaC practices, and multi-year platform roadmaps while mentoring senior engineers. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/7983355)_
 
@@ -2098,12 +1951,12 @@ _Build the AI-native platform that spans the full insurance policy lifecycle, fr
 
 ---
 
-### [Senior Engineering Manager, Search](https://instacart.careers/job/?gh_jid=7982868)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAD$229k–$241k` `Equity`
+### [Senior Engineering Manager, Search](https://instacart.careers/job/?gh_jid=7982867)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$221k—$279k` `Equity`
 
-_Lead the Search engineering team building Instacart's single-retailer and cross-retailer search, query understanding, and ranking infrastructure. Scale the team's ML experimentation velocity while partnering with platform teams to design next-generation retrieval architecture handling tier-1 traffic and Ads on Search. · [Apply →](https://instacart.careers/job/?gh_jid=7982868)_
+_Lead a dedicated search engineering team owning Single-Retailer Search, Cross-Retailer Search, and search suggestions for Instacart's discovery funnel. Manage a senior team of engineers and MLEs working on ML-weighted ranking systems operating one of Instacart's largest revenue surfaces, with focus on modern retrieval techniques, LLM integration, and multi-stage ranking infrastructure. · [Apply →](https://instacart.careers/job/?gh_jid=7982867)_
 
-`Machine Learning` `Search & Ranking` `Distributed Systems` `LLMs` `Neural Retrieval` `ANN` `A/B Testing`
+`Search Ranking` `Machine Learning` `Neural/Semantic Retrieval` `LLMs` `Distributed Systems` `A/B Testing` `Personalization` `Real-time Services`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
 
@@ -2126,17 +1979,6 @@ _Build multi-system automation workflows and predictive scoring models powering 
 _Build and deploy ML models to detect suspicious activity and fraud across Kodex's verification platform, supporting threat intelligence workflows. Work across the full ML lifecycle—from data exploration through production monitoring—in a compliance-sensitive environment where models directly impact customer trust and law enforcement data requests. · [Apply →](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)_
 
 `Python` `PyTorch` `TensorFlow` `Scikit-learn` `Databricks` `SQL` `AWS` `Fraud Detection`
-
-<sub>June 4, 2026 at 19:00 UTC</sub>
-
----
-
-### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
-
-_Develop and maintain enterprise-class case management and electronic filing systems for the US federal judiciary using Java/Spring Boot in an agile environment. Federal IT security compliance and Section 508 accessibility standards required. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)_
-
-`Java` `Spring Boot` `JSP` `RESTful Web Services` `Hibernate` `Angular` `Docker` `Git`
 
 <sub>June 4, 2026 at 19:00 UTC</sub>
 
