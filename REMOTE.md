@@ -2,13 +2,79 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **196 open roles** (31 new)
+### **202 open roles** (34 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 18, 2026
+
+### [Software Development Engineer in Test](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Mid`
+
+_Build and maintain test automation frameworks across multiple layers (integration, end-to-end) for a military staff collaboration platform, focusing on shift-left quality practices and CI/CD pipeline reliability. Work on observability systems, performance testing infrastructure, and internal tooling that enables teams to ship with confidence in a defense technology environment. · [Apply →](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3)_
+
+`Python` `C++` `C#` `CI/CD` `Test Automation` `API Testing` `Performance Testing` `Kubernetes`
+
+<sub>June 18, 2026 at 19:51 UTC</sub>
+
+---
+
+### [Software Development Engineer in Test [Geospatial]](https://jobs.ashbyhq.com/onebrief/8ee26b8a-97dd-4035-95e2-6ebe657fa59b)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Mid`
+
+_Build test automation frameworks and CI/CD quality systems for a military collaboration platform, with focus on validating geospatial algorithms, spatial data accuracy, and system performance at scale. Role involves shift-left quality practices, observability instrumentation, and internal tooling for high-stakes defense applications. · [Apply →](https://jobs.ashbyhq.com/onebrief/8ee26b8a-97dd-4035-95e2-6ebe657fa59b)_
+
+`Python` `C++` `C#` `CI/CD` `Azure Pipelines` `GitHub Actions` `Docker` `Kubernetes`
+
+<sub>June 18, 2026 at 19:51 UTC</sub>
+
+---
+
+### [Director, Data Science](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Data-Science_JR115218)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$246k-$395k` `Equity`
+
+_Lead a data science and AI team building agentic systems, autonomous workflows, and ML-powered products across operational efficiency (forecasting, lead scoring, decision support) and post-sales customer experiences (support agents, onboarding automation). Requires production experience with LLMs, conversational AI, and autonomous systems at scale, plus team leadership. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Data-Science_JR115218)_
+
+`Python` `SQL` `LLMs` `Agentic Systems` `PyTorch or TensorFlow` `Prompt Engineering` `Production ML/MLOps` `Statistics`
+
+<sub>June 18, 2026 at 19:51 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Behaviors](https://job-boards.greenhouse.io/torcrobotics/jobs/8596548002)
+<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan / Fort Worth, Texas / Blacksburg, Virginia · `🟢 Remote` `Senior` `$160k—$193k` `Equity`
+
+_Design and develop planning, prediction, and decision-making systems for autonomous trucks, including trajectory generation, behavior prediction, and motion planning algorithms. Work across simulation (SiL, HiL, ViL) and real-world vehicle validation to deploy safe, production-grade autonomy software. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8596548002)_
+
+`C++` `Python` `Robotics` `Motion Planning` `Autonomous Vehicles` `Machine Learning` `Trajectory Optimization` `Model Predictive Control`
+
+<sub>June 18, 2026 at 19:51 UTC</sub>
+
+---
+
+### [Principal Engineer](https://job-boards.greenhouse.io/twilio/jobs/7944264)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Principal` `$188k-$276k` `Equity`
+
+_Lead technical strategy and architecture for Twilio's KYC and Phone Numbers platform, processing millions of requests globally while pioneering AI-driven development workflows to accelerate feature delivery. Requires 16+ years designing highly available, mission-critical distributed systems at scale and deep expertise in Java or Go with AWS cloud-native infrastructure. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7944264)_
+
+`Java` `Go` `AWS` `Kubernetes` `Terraform` `Kafka` `DynamoDB` `GitHub Copilot`
+
+<sub>June 18, 2026 at 19:51 UTC</sub>
+
+---
+
+### [Staff Software Engineer](https://job-boards.greenhouse.io/twilio/jobs/7944328)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$171k-$251k` `Equity`
+
+_Lead the architecture and modernization of Twilio's KYC and Phone Numbers platform, a mission-critical distributed system processing millions of requests globally. Architect cloud-native microservices at five-nines reliability scale while mentoring senior engineers and integrating AI-driven development workflows into team practices. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7944328)_
+
+`Java` `Go` `AWS` `Kubernetes` `Terraform` `Kafka` `DynamoDB` `Microservices Architecture`
+
+<sub>June 18, 2026 at 19:51 UTC</sub>
+
+---
 
 ### [Senior Machine Learning Engineer, Customer Support Engineering](https://careers.airbnb.com/positions/8014904?gh_jid=8014904)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$227k` `Equity`
@@ -421,17 +487,6 @@ _Build and scale large-scale data ingestion and transformation pipelines integra
 
 ---
 
-### [Cloud Engineer Principal](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Engineer-Principal_RQ222569-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Principal` `$128k-$173k`
-
-_Design, architect, and maintain cloud infrastructure solutions across AWS, Azure, GCP, or OCI for large multi-tenant enterprise platforms; requires Secret clearance (or ability to obtain) and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Engineer-Principal_RQ222569-1)_
-
-`AWS` `Azure` `GCP` `Python` `Bash` `PowerShell` `Linux` `Secret Clearance`
-
-<sub>June 17, 2026 at 16:24 UTC</sub>
-
----
-
 <br>
 
 ## June 16, 2026
@@ -612,23 +667,23 @@ _Build backend services in Go for Athena, Chainguard's enterprise-scale vulnerab
 
 ---
 
-### [Staff Software Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4689703006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
-
-_Own the architecture and implementation of backend systems for Chainguard's Athena vulnerability clearing house—processing enterprise vulnerability reports, deduplicating findings, and routing clean signals to remediation at scale. Lead technical standards and mentor a high-performing team in Go on GCP. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689703006)_
-
-`Go` `GCP` `Terraform` `Data Pipelines` `PostgreSQL` `Kubernetes` `Datadog`
-
-<sub>June 16, 2026 at 16:41 UTC</sub>
-
----
-
-### [Staff Software Engineer ](https://job-boards.greenhouse.io/chainguard/jobs/4689447006)
+### [Staff Software Engineer  (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4689447006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
 
 _Own a significant domain within Chainguard's vulnerability remediation clearing house — customer onboarding, entitlement management, or data validation pipelines — architecting and implementing backend systems in Go on GCP that ingest, deduplicate, and route vulnerability reports at enterprise scale. Requires proven ability to take systems from prototype to reliable, scalable production and establish engineering standards for a high-performing team. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689447006)_
 
 `Go` `GCP` `Terraform` `data pipeline architecture` `PostgreSQL` `Kubernetes` `distributed systems`
+
+<sub>June 16, 2026 at 16:41 UTC</sub>
+
+---
+
+### [Staff Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4689703006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
+
+_Own the architecture and implementation of backend systems for Chainguard's Athena vulnerability clearing house—processing enterprise vulnerability reports, deduplicating findings, and routing clean signals to remediation at scale. Lead technical standards and mentor a high-performing team in Go on GCP. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689703006)_
+
+`Go` `GCP` `Terraform` `Data Pipelines` `PostgreSQL` `Kubernetes` `Datadog`
 
 <sub>June 16, 2026 at 16:41 UTC</sub>
 
@@ -1698,12 +1753,12 @@ _Build user-centric financial features in a Rails/React stack for underserved po
 
 ---
 
-### [AI Product Engineer - ClickStack](https://job-boards.greenhouse.io/clickhouse/jobs/6014115004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [AI Product Engineer - ClickStack](https://job-boards.greenhouse.io/clickhouse/jobs/6014112004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$130k-$208k` `Equity`
 
-_Build agentic systems that investigate production incidents, design reusable skills and MCP integrations, and optimize agent performance across latency, cost, and reliability on a petabyte-scale observability platform. Requires production experience with LLM agents and strong opinions on context engineering, tool design, and agent observability. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6014115004)_
+_Build agentic systems that investigate incidents and propose root causes on a petabyte-scale observability platform, with responsibility for context engineering, tool design, evals, and cost optimization in production environments. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6014112004)_
 
-`TypeScript` `Python` `LLM Agents` `MCP` `ClickHouse SQL` `Docker` `Kubernetes` `OpenTelemetry`
+`TypeScript` `Python` `LLM Agents` `MCP` `ClickHouse` `Docker` `Kubernetes` `OpenTelemetry`
 
 <sub>June 5, 2026 at 17:43 UTC</sub>
 
@@ -2032,17 +2087,6 @@ _Build multi-system automation workflows and predictive scoring models powering 
 
 ---
 
-### [ML Engineer - Verifications](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)
-<a href="https://www.kodexglobal.com"><img src="https://www.google.com/s2/favicons?domain=www.kodexglobal.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodex** · `🟢 Remote` `Senior` `Equity`
-
-_Build and deploy ML models to detect suspicious activity and fraud across Kodex's verification platform, supporting threat intelligence workflows. Work across the full ML lifecycle—from data exploration through production monitoring—in a compliance-sensitive environment where models directly impact customer trust and law enforcement data requests. · [Apply →](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)_
-
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Databricks` `SQL` `AWS` `Fraud Detection`
-
-<sub>June 4, 2026 at 19:00 UTC</sub>
-
----
-
 ### [Senior Java Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Java-Developer_RQ218191)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$111k-$150k`
 
@@ -2054,12 +2098,34 @@ _Develop and maintain enterprise-class case management and electronic filing sys
 
 ---
 
+### [ML Engineer - Verifications](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)
+<a href="https://www.kodexglobal.com"><img src="https://www.google.com/s2/favicons?domain=www.kodexglobal.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kodex** · `🟢 Remote` `Senior` `Equity`
+
+_Build and deploy ML models to detect suspicious activity and fraud across Kodex's verification platform, supporting threat intelligence workflows. Work across the full ML lifecycle—from data exploration through production monitoring—in a compliance-sensitive environment where models directly impact customer trust and law enforcement data requests. · [Apply →](https://jobs.ashbyhq.com/kodex/a7301dd9-739e-4c63-8047-d28fd414db4c)_
+
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Databricks` `SQL` `AWS` `Fraud Detection`
+
+<sub>June 4, 2026 at 19:00 UTC</sub>
+
+---
+
 ### [Senior Software Engineer II, Infra Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/d7076478-8970-4e3e-bb42-2bd7dc6502c8)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
 
 _Build and scale Optro's globally distributed Kubernetes-based cloud infrastructure to support the audit, risk, ESG, and InfoSec platform serving Fortune 500 customers. Design and implement observability, automation, and infrastructure provisioning systems while maintaining high reliability and security across multiple cloud platforms. · [Apply →](https://jobs.ashbyhq.com/optro/d7076478-8970-4e3e-bb42-2bd7dc6502c8)_
 
 `Kubernetes` `Go` `Python` `TypeScript` `AWS` `Azure` `Terraform` `Docker`
+
+<sub>June 4, 2026 at 17:14 UTC</sub>
+
+---
+
+### [Senior Cloud Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$129k-$220k` `Equity`
+
+_Design and implement defensive security controls across cloud, network, and production infrastructure; build automation tooling for threat detection and security visibility. Requires TS/SCI clearance eligibility and experience securing high-complexity defense technology systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5155735007?gh_jid=5155735007)_
+
+`Python` `Go` `Rust` `Terraform` `AWS` `Azure` `GCP` `TS/SCI Clearance`
 
 <sub>June 4, 2026 at 17:14 UTC</sub>
 
