@@ -327,7 +327,7 @@ _Design and implement production mission management software for autonomous sate
 ---
 
 ### [Senior AI Engineer | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
 
 _Build multi-agent AI systems and backend services powering Marketing Operations automation at scale, including agentic orchestration, LLM integrations, and systems connecting AI models to internal business platforms. Work with production observability and governance for AI workflows across 7,000+ customers, with autonomy over technical direction and high-leverage problem solving. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004)_
 
@@ -338,7 +338,7 @@ _Build multi-agent AI systems and backend services powering Marketing Operations
 ---
 
 ### [Senior AI Engineer | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
 
 _Build multi-agent AI infrastructure and automation platform for Marketing Operations, owning end-to-end agentic systems from architecture through production operation. Ship production systems integrating LLMs with internal and third-party data platforms (BigQuery, Slack, CRMs) using orchestration frameworks and API services. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004)_
 
@@ -1372,7 +1372,7 @@ _Lead the design and implementation of critical software systems across the Empo
 ---
 
 ### [Staff Software Engineer - Platform, SysEng | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6013355004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
 
 _Build and scale Grafana Cloud's platform infrastructure to handle hundreds of millions of metrics, logs, and traces per second. Lead cross-functional systems engineering work on reducing region deployment timelines, cloud infrastructure capacity management, and reliability improvements across a distributed Kubernetes-based platform serving 7,000+ customers. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6013355004)_
 
@@ -1383,7 +1383,7 @@ _Build and scale Grafana Cloud's platform infrastructure to handle hundreds of m
 ---
 
 ### [Staff Software Engineer - Platform, SysEng | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6013354004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Build and scale the infrastructure platform serving Grafana's millions-per-second observability data pipeline across Kubernetes clusters and cloud regions. Drive performance, reliability, and developer productivity across distributed systems handling metrics, logs, and traces at massive scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6013354004)_
 

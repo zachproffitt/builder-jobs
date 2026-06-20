@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1530 open roles** (44 new) &nbsp;·&nbsp; 1710 companies searched
+### **1530 open roles** (34 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -385,116 +385,6 @@ _Develop Python-based tools, dashboards, and metrics to validate autonomous truc
 `Python` `Data Analysis` `Metrics & Dashboards` `Autonomous Vehicles` `Systems Engineering` `Root Cause Analysis` `Software Testing` `Defect Management`
 
 <sub>June 19, 2026 at 21:33 UTC</sub>
-
----
-
-### [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5169849007?gh_jid=5169849007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Lead systems engineering for Anduril's command and control software platform, owning end-to-end design, requirements decomposition, modeling/simulation, and validation of autonomous mission execution and battlespace optimization algorithms. Requires active U.S. Secret security clearance and on-site presence in Broomfield, CO with up to 25% travel to customer sites. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5169849007?gh_jid=5169849007)_
-
-`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `MBSE` `TS/SCI Clearance`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5169845007?gh_jid=5169845007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado · `Mid` `$126k-$167k` `Equity`
-
-_Design, develop, and validate advanced algorithmic capabilities for command and control systems including tracking, sensor fusion, and threat forecasting. Own systems end-to-end from requirements decomposition through field validation; requires active U.S. Secret security clearance and willingness to travel to customer sites. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5169845007?gh_jid=5169845007)_
-
-`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `Rust` `C++`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Forward Deployed Engineer](https://jobs.ashbyhq.com/casca/577560f5-e509-4ffe-9ff0-cbf71b64e954)
-<a href="https://www.cascading.ai"><img src="https://www.google.com/s2/favicons?domain=www.cascading.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Casca** · San Francisco, California · `Mid` `Equity`
-
-_Partner with banking customers to architect and build end-to-end AI-native systems that replace legacy banking infrastructure, owning production code across backend APIs, AI model integration, and web applications from design through deployment. · [Apply →](https://jobs.ashbyhq.com/casca/577560f5-e509-4ffe-9ff0-cbf71b64e954)_
-
-`React` `TypeScript` `Next.js` `Python` `LangChain` `Vercel AI SDK`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Senior Robotics Software Engineer](https://jobs.ashbyhq.com/charge-robotics/925534e6-c2fd-4b54-90d6-11771c144575)
-<a href="https://chargerobotics.com"><img src="https://www.google.com/s2/favicons?domain=chargerobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Charge Robotics** · San Leandro, California · `🟡 Hybrid` `Senior`
-
-_Build perception, motion planning, and controls software for robots that autonomously construct solar farms. Deploy real-time embedded systems controlling industrial automation hardware (actuators, motors, hydraulics) in unstructured field conditions at scale. · [Apply →](https://jobs.ashbyhq.com/charge-robotics/925534e6-c2fd-4b54-90d6-11771c144575)_
-
-`Python` `C++` `ROS2` `Motion Planning` `Robotics` `Real-time Systems` `Perception` `Industrial Automation`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Manufacturing Controls Engineer - Sturgis, MI Plant](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/Manufacturing-Controls-Engineer---Sturgis--MI-Plant_31154055-1)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · Sturgis, Michigan · `Mid` `$61.3k-$122.7k`
-
-_Design and implement electrical control systems, PLCs, SCADA, and HMI platforms for pharmaceutical/nutritional manufacturing operations at Abbott's Sturgis facility. Work in FDA-regulated environment requiring GMP compliance and capital project management expertise. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/Manufacturing-Controls-Engineer---Sturgis--MI-Plant_31154055-1)_
-
-`PLC Programming` `SCADA` `HMI` `Allen Bradley` `GE IFIX` `FactoryTalk` `Ignition` `OSIsoft`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Biostatistician](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Biostatistician_31153900-1)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · Alameda, California · `Mid` `$85k–$156k`
-
-_Write SAS/R code for statistical analyses in clinical studies for diabetes care devices; develop statistical analysis plans, conduct data reviews, and prepare summaries to support study objectives. On-site role in Alameda, CA. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Biostatistician_31153900-1)_
-
-`SAS` `R` `Statistical Analysis` `Clinical Data Analysis`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [IBM Verify Identity Access Engineer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/IBM-Verify-Identity-Access-Engineer--Senior_R0242632-1)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · McLean, Virginia · `Senior` `$86k-$198k`
-
-_Design, deploy, and operate IBM identity and access management systems (IVIA, ISVA, IVIG) including single sign-on, privileged access, and federation protocols for large-scale government and enterprise clients. Requires Secret clearance eligibility and experience with WebSEAL configuration, authentication/authorization flows, and high-availability architectures. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/IBM-Verify-Identity-Access-Engineer--Senior_R0242632-1)_
-
-`IBM Verify Identity Access` `IBM Security Verify Access` `WebSEAL` `SAML` `OIDC` `OAuth 2.0` `Secret Clearance` `Terraform`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Quant Research](https://jobs.ashbyhq.com/kalshi/a0a953d6-3769-4254-8381-d98c647c078f)
-<a href="https://kalshi.com"><img src="https://www.google.com/s2/favicons?domain=kalshi.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kalshi** · New York, New York · `Mid` `$150k-$250k` `Equity`
-
-_Build quantitative models for prediction markets that ship into production, including new indices and research systems across a CFTC-regulated exchange. Work on novel quant problems in an unstructured domain with direct collaboration with engineering, product, and trading teams. · [Apply →](https://jobs.ashbyhq.com/kalshi/a0a953d6-3769-4254-8381-d98c647c078f)_
-
-`Python` `PyTorch` `Statistics` `Machine Learning` `Risk Management` `Derivatives` `VaR`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Site Reliability Engineer (Top Secret Clearance)](https://boards.greenhouse.io/spacex/jobs/8601223002?gh_jid=8601223002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Mid` `$145k-$175k` `Equity`
-
-_Build and operate scalable on-premises and cloud infrastructure for GPU-accelerated machine learning workloads, including Kubernetes automation, hardware systems management, and core services. Requires active Top Secret clearance and support for classified national security missions. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8601223002?gh_jid=8601223002)_
-
-`Kubernetes` `Python` `Bash` `Linux` `DevOps` `Terraform` `PostgreSQL` `TS/SCI Clearance`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
-
----
-
-### [Manager, Machine Learning](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Manager--Machine-Learning_10327806-1)
-<a href="https://toyota.com"><img src="https://www.google.com/s2/favicons?domain=toyota.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toyota** · Plano, Texas · `Manager`
-
-_Lead a machine learning engineering team building production ML systems for credit decisioning, pricing, collections, and treasury at Toyota Financial Services. Establish MLOps practices, ML production standards, and governance frameworks for regulated financial decisioning systems operating on AWS and Snowflake at scale. · [Apply →](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Manager--Machine-Learning_10327806-1)_
-
-`Python` `SQL` `AWS` `Snowflake` `MLOps` `Spark` `Docker` `Kubernetes`
-
-<sub>June 19, 2026 at 20:39 UTC</sub>
 
 ---
 
