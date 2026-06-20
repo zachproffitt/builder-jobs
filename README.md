@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1530 open roles** (34 new) &nbsp;·&nbsp; 1710 companies searched
+### **1602 open roles** (29 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,26 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 20, 2026
+
+### [Senior Automation and Controls Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7770811003)
+<a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Senior` `$140k-$216k` `Equity`
+
+_Build ground support equipment and test automation infrastructure for spacecraft manufacturing and qualification, including custom PLC frameworks and EtherCAT tooling for propulsion test stands, thermal vacuum chambers, and spacecraft-level integration testing. Requires hands-on work across the full stack—control software, electrical panel design, cabinet wiring, and real-time deterministic control loops—in a fast-paced aerospace startup environment. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7770811003)_
+
+`Python` `TwinCAT 3` `EtherCAT` `Structured Text (IEC 61131-3)` `Modbus` `Real-Time Control Systems` `Docker` `Grafana`
+
+<sub>June 20, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Intern Undergraduate - Technical](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56005)
+<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$43.18k-$57.3k`
+
+_Design and develop quality testing procedures and perform functional, regression, and performance testing for software products. Research emerging testing technologies to improve team efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56005)_
+
+<sub>June 20, 2026 at 21:36 UTC</sub>
+
+---
 
 ### [Software Engineer, Eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004)
 <a href="https://vercel.com"><img src="https://www.google.com/s2/favicons?domain=vercel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vercel** · San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$208k-$312k` `Equity`
@@ -308,83 +328,6 @@ _Design and implement control algorithms, PLC programming, and real-time data co
 `PLC Programming` `FLNet` `Ethernet IP` `QIS` `EDC` `Python` `C++` `Rockwell ControlLogix`
 
 <sub>June 19, 2026 at 22:28 UTC</sub>
-
----
-
-### [Staff Software Engineer, Inference Platform ](https://job-boards.greenhouse.io/cerebrassystems/jobs/7779149003)
-<a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems** · Sunnyvale, California · `Staff`
-
-_Lead the design and implementation of the orchestration layer for a globally distributed AI inference platform running on Cerebras' wafer-scale chips; architect active-active systems with rapid failover, optimize for sub-100ms latency at scale, and mentor senior engineers on distributed systems reliability and security. · [Apply →](https://job-boards.greenhouse.io/cerebrassystems/jobs/7779149003)_
-
-`Kubernetes` `Go` `C++` `Distributed Systems` `TLS/mTLS` `Observability` `ML Inference` `gRPC`
-
-<sub>June 19, 2026 at 21:33 UTC</sub>
-
----
-
-### [Distinguished Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Distinguished-Engineer_R244850)
-<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Toronto, ON · `🟡 Hybrid` `Principal`
-
-_Lead technical vision and architecture across Capital One Canada's cloud banking platform, mentoring engineers and driving innovation in microservices, APIs, and cloud infrastructure. Requires 10+ years software engineering experience with 7+ years public cloud (AWS, GCP, Azure) and hands-on technical leadership in a director-equivalent IC role. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Distinguished-Engineer_R244850)_
-
-`AWS` `GCP` `Azure` `Java` `Python` `Go` `JavaScript` `Kubernetes`
-
-<sub>June 19, 2026 at 21:33 UTC</sub>
-
----
-
-### [Senior Engineering Manager](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Buffalo-Grove/Senior-Engineering-Manager_31152806-1)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · Buffalo Grove, Illinois / Austin, Texas · `Manager` `$129k-$258k`
-
-_Lead operations engineering and manufacturing management for diabetes care diagnostic devices at Abbott's manufacturing sites, overseeing automated production lines, process optimization, and regulatory compliance in a FDA-regulated medical device environment. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Buffalo-Grove/Senior-Engineering-Manager_31152806-1)_
-
-`FDA` `GMP` `Project Management` `Quality Management Systems` `Environmental Management Systems` `Automated Manufacturing` `Team Leadership`
-
-<sub>June 19, 2026 at 21:33 UTC</sub>
-
----
-
-### [DNEA and Signals Analyst](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/DNEA-and-Signals-Analyst_R0242636)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Annapolis Junction, Maryland · `Mid` `$99k-$225k`
-
-_Execute offensive cyber operations and signals intelligence analysis supporting national security missions. Requires TS/SCI clearance with polygraph and expertise in network exploitation, signals analysis, and digital network intelligence. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/DNEA-and-Signals-Analyst_R0242636)_
-
-`Network Exploitation` `Signals Intelligence` `Python` `C++` `SATCOM` `RF Analysis` `TS/SCI Clearance` `Polygraph`
-
-<sub>June 19, 2026 at 21:33 UTC</sub>
-
----
-
-### [Associate Data - New Grad](https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/HQ---Atlanta-GA/Associate-Data---New-Grad_JR102588)
-<a href="https://stord.com"><img src="https://www.google.com/s2/favicons?domain=stord.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stord** · Atlanta, Georgia · `🟡 Hybrid` `Junior`
-
-_Build data pipelines, analytics dashboards, or predictive models for a $10B+ commerce platform managing order management, warehouse operations, and logistics. Requires on-site 3+ days/week in Atlanta to work directly with operations teams and product. · [Apply →](https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/HQ---Atlanta-GA/Associate-Data---New-Grad_JR102588)_
-
-`SQL` `Python` `dbt` `Airflow` `Spark` `Snowflake` `Looker` `scikit-learn`
-
-<sub>June 19, 2026 at 21:33 UTC</sub>
-
----
-
-### [Software Engineer - New Grad](https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/HQ---Atlanta-GA/Software-Engineer---New-Grad_JR102585)
-<a href="https://stord.com"><img src="https://www.google.com/s2/favicons?domain=stord.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stord** · Atlanta, Georgia · `🟡 Hybrid` `Junior`
-
-_Build end-to-end features across Stord's commerce platform (OMS, WMS, fulfillment software), shipping code to production within your first month. Work in an Atlanta office near live warehouse operations, giving you direct visibility into how your systems impact real commerce at scale ($10B+ annually). · [Apply →](https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/HQ---Atlanta-GA/Software-Engineer---New-Grad_JR102585)_
-
-`Full-stack development` `Backend language` `Git` `Relational databases` `Testing` `Event-driven systems`
-
-<sub>June 19, 2026 at 21:33 UTC</sub>
-
----
-
-### [System Engineer II - Release Readiness & Metrics (Python)](https://job-boards.greenhouse.io/torcrobotics/jobs/8597132002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan / Fort Worth, Texas / Blacksburg, Virginia · `🟢 Remote` `Mid` `$120k-$144k` `Equity`
-
-_Develop Python-based tools, dashboards, and metrics to validate autonomous truck software quality and release readiness. Analyze testing data from simulation and on-road environments to support release decisions for safety-critical autonomous driving systems. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8597132002)_
-
-`Python` `Data Analysis` `Metrics & Dashboards` `Autonomous Vehicles` `Systems Engineering` `Root Cause Analysis` `Software Testing` `Defect Management`
-
-<sub>June 19, 2026 at 21:33 UTC</sub>
 
 ---
 
