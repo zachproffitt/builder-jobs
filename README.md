@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1616 open roles** (64 new) &nbsp;·&nbsp; 1710 companies searched
+### **1536 open roles** (55 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 20, 2026
+
+### [Software Engineer, Eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004)
+<a href="https://vercel.com"><img src="https://www.google.com/s2/favicons?domain=vercel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vercel** · San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$208k-$312k` `Equity`
+
+_Design and implement core framework primitives for eve, Vercel's production AI agent framework, including file-system conventions, compiler, runtime, and integrations across channels (Slack, Web Chat, WhatsApp, API, Cron) and connections (Vercel Connect / MCP endpoints). Build developer tooling and observability infrastructure for AI-native applications on the Vercel platform. · [Apply →](https://job-boards.greenhouse.io/vercel/jobs/6098390004)_
+
+`TypeScript` `JavaScript` `Next.js` `Distributed Systems` `Durable Execution` `LLM APIs` `AI SDK` `Vercel Workflows`
+
+<sub>June 20, 2026 at 18:41 UTC</sub>
+
+---
 
 ### [Data Engineer, Quality Intelligence ](https://boards.greenhouse.io/andurilindustries/jobs/5167749007?gh_jid=5167749007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Mid` `$144k-$191k` `Equity`
@@ -605,116 +616,6 @@ _Build production machine learning models for creator platforms, focusing on rec
 `Python` `SQL` `PyTorch` `TensorFlow` `Reinforcement Learning` `Recommendation Systems` `Contextual Bandits` `A/B Testing`
 
 <sub>June 19, 2026 at 18:49 UTC</sub>
-
----
-
-### [Senior Software Engineer – Platform (Containers & Kubernetes)](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Senior-Software-Engineer---Platform--Containers---Kubernetes-_R013831)
-<a href="https://aveva.com"><img src="https://www.google.com/s2/favicons?domain=aveva.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aveva** · San Leandro, California · `🟡 Hybrid` `Senior` `$117k-$196k`
-
-_Build and operate the Trusted Container Registry platform, developing automation for secure image workflows including scanning, signing, and publishing across AVEVA's product portfolio. Core work involves container security, CI/CD integration, and platform reliability at scale for 2000+ developers. · [Apply →](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Senior-Software-Engineer---Platform--Containers---Kubernetes-_R013831)_
-
-`Kubernetes` `Docker` `CI/CD` `Python` `Go` `Azure DevOps` `Cosign` `Trivy`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [Mobile Engineering Manager - Adobe Scan](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R169873-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Jose, California · `Manager` `$160k-$320k` `Equity`
-
-_Lead an Android engineering team building Adobe Scan's document capture, editing, and sharing experiences serving millions of users daily. Requires 5+ years of team leadership experience and strong technical foundation in mobile architecture and performance optimization. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R169873-1)_
-
-`Android` `Mobile Architecture` `Performance Optimization` `Team Leadership` `Product Development`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [Manager, Data Scientist - Business Cards & Payments Credit Infrastructure Team](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Business-Cards---Payments-Credit-Infrastructure-Team_R244659-1)
-<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia · `Manager` `$197k-$225k`
-
-_Build machine learning models for credit card valuation and acquisitions across billions of customer records, from design through training, evaluation, and production deployment. Work with Python, Spark, and AWS at scale in a Fortune 200 company with decades of data-driven decision-making infrastructure. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Business-Cards---Payments-Credit-Infrastructure-Team_R244659-1)_
-
-`Python` `Spark` `AWS` `H2O` `SQL` `Machine Learning` `Scala or R`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [Co-op, Test Engineer Lab Assistant (Canada)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483-1)
-<a href="https://rockwellautomation.com"><img src="https://www.google.com/s2/favicons?domain=rockwellautomation.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockwell Automation** · Cambridge, Ontario, Canada · `Intern` `$21-$32 CAD/hour`
-
-_Design and execute automated and manual test procedures for variable frequency drives; support test hardware platform development and lab operations. Full-time on-site co-op role in Cambridge, ON — requires legal work authorization in Canada and commutability to office. · [Apply →](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Test-Engineer-Lab-Assistant--Canada-_R26-4483-1)_
-
-`PLC Programming` `C` `.NET` `AutoCAD` `VISIO` `Microsoft Access`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [EMSO Solution Architect](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Belcamp-MD/EMSO-Solution-Architect_R0242621)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 2 Locations · `🟡 Hybrid` `Senior` `$112k-$257k`
-
-_Design and architect RF, Electromagnetic Warfare, and Electromagnetic Spectrum Operations systems for defense; integrate software, commercial COTS hardware, and signal-processing frameworks to deliver scalable, rapidly fieldable spectrum-dominant capabilities. Requires TS/SCI clearance and 5+ years of hands-on systems development in spectrum operations for DoD. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Belcamp-MD/EMSO-Solution-Architect_R0242621)_
-
-`RF Systems` `Electromagnetic Warfare` `Signal Processing` `Docker` `Kubernetes` `Microservices` `Machine Learning` `TS/SCI Clearance`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [AI/ML Engineeer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Hampton-VA/AI-ML-Engineeer_R0242615)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · 2 Locations · `Senior` `$77.5k-$176k`
-
-_Build AI/ML operations infrastructure and CI/CD pipelines for mission-critical warfighting systems, automating deployment, monitoring, and orchestration across containerized workloads in secure, policy-controlled environments. Requires Secret clearance and experience with Kubernetes, Docker, and ML frameworks in cloud and hybrid compute environments. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Hampton-VA/AI-ML-Engineeer_R0242615)_
-
-`Python` `Kubernetes` `Docker` `Jenkins` `AWS` `Azure` `GCP` `Secret Clearance`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [Senior Systems Engineer I/II - Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7779004003)
-<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Tucson, Arizona · `Senior`
-
-_Design, develop, and test space-based electro-optical sensors and payloads for DoD and Intelligence Community missions, managing technical budgets, requirements, simulations, and system integration. Requires active SECRET clearance and on-site work in Tucson, AZ; ITAR-controlled defense contractor environment. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7779004003)_
-
-`Systems Engineering` `Requirements Management (JAMA/Doors/Cameo)` `MATLAB` `Simulink` `EO/IR Payload Integration` `Space Environment Testing` `ITAR Compliance`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [Senior Salesforce Engineer](https://jobs.ashbyhq.com/skydio/bee8ad98-8b08-4d3c-b2ea-c581e52f91ea)
-<a href="https://skydio.com"><img src="https://www.google.com/s2/favicons?domain=skydio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Skydio** · `🟢 Remote` `Senior` `$150k-$180k` `Equity`
-
-_Design and deploy high-quality business solutions on the Salesforce platform, with emphasis on Service Cloud architecture, Apex/LWC development, and integrations. 6+ years of Salesforce development experience required. · [Apply →](https://jobs.ashbyhq.com/skydio/bee8ad98-8b08-4d3c-b2ea-c581e52f91ea)_
-
-`Salesforce` `Apex` `LWC` `Salesforce CPQ` `Salesforce DX` `GitHub Actions` `Einstein Analytics` `SCRUM`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [Information Security Engineer, Network Security Engineering](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Information-Security-Engineer--Network-Security-Engineering_REQ513310)
-<a href="https://jll.com"><img src="https://www.google.com/s2/favicons?domain=jll.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JLL** · `🟢 Remote` `Senior` `$154k-$161k`
-
-_Build and maintain enterprise-scale network security infrastructure using Palo Alto Networks, WAF/CDN platforms, and API security tooling for a global real estate services firm. Lead troubleshooting of complex multi-layer network and application security issues across inter-continental architectures, and drive automation pipelines for firewall rule deployment and policy management. · [Apply →](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Information-Security-Engineer--Network-Security-Engineering_REQ513310)_
-
-`Palo Alto Networks` `WAF/CDN (Akamai/Cloudflare/Imperva/F5)` `API Security` `Python` `TLS/IPsec` `BGP` `SIEM` `Packet Analysis`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
-
----
-
-### [Staff Software Developer, Production Engineering](https://jobs.ashbyhq.com/wealthsimple/eeb6b49e-cd1a-4ac0-ab93-67dbc631758d)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Staff`
-
-_Build platform-wide reliability improvements and incident prevention tooling across Wealthsimple's critical financial infrastructure, serving 4M+ Canadians. Work across distributed services to design guardrails, load testing analysis, and AI-assisted incident response systems; requires deep expertise in Kubernetes, distributed systems, and SRE at scale. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/eeb6b49e-cd1a-4ac0-ab93-67dbc631758d)_
-
-`Kubernetes` `Helm` `Argo` `Distributed Systems` `Load Testing` `Incident Response` `Backend Systems` `Capacity Planning`
-
-<sub>June 19, 2026 at 17:44 UTC</sub>
 
 ---
 
