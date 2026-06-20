@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1537 open roles** (27 new) &nbsp;·&nbsp; 1710 companies searched
+### **1599 open roles** (19 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -216,96 +216,6 @@ _Design and develop operational software for analyzing 802.11 network traffic an
 `C++` `Flutter` `Qt` `802.11` `MATLAB` `DSP` `TS/SCI Clearance` `Polygraph`
 
 <sub>June 20, 2026 at 01:18 UTC</sub>
-
----
-
-<br>
-
-## June 19, 2026
-
-### [Senior Software Engineer - AI Integrations](https://jobs.ashbyhq.com/commure/ee0220cc-ecec-413f-a22a-4d4d229683de)
-<a href="https://commure.com"><img src="https://www.google.com/s2/favicons?domain=commure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Commure** · Mountain View, California · `🟡 Hybrid` `Senior`
-
-_Design and implement integration solutions between our AI platform and 40+ healthcare EMR systems, leveraging LLM technology to automate data exchange via HL7/FHIR. Handle $25B+ in annual claims data with strict HIPAA compliance and high-stakes impact on patient care delivery. · [Apply →](https://jobs.ashbyhq.com/commure/ee0220cc-ecec-413f-a22a-4d4d229683de)_
-
-`Python` `Go` `C++` `JavaScript` `GCP` `AWS` `Docker` `Kubernetes`
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [Out of Production Deputy Chief Project Engineer and SC&P Leader](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Out-of-Production-Deputy-Chief-Project-Engineer-and-SC-P-Leader_JR2026515597)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Seal Beach, California · `Manager` `$182k - $246k`
-
-_Lead fleet safety engineering and certification for Boeing's out-of-production commercial aircraft programs, managing a team of deputy engineers to resolve technical issues, drive safety investigations, and represent the program to regulators including the FAA. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Out-of-Production-Deputy-Chief-Project-Engineer-and-SC-P-Leader_JR2026515597)_
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [Senior Product Security Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Product-Security-Engineer_JR2026513854-1)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Berkeley, Missouri / Hazelwood, Missouri · `Senior` `$162k-$219k` `Equity`
-
-_Build and sustain cybersecurity engineering for embedded avionics systems across fighter jets, autonomous platforms, and classified defense programs; requires Secret security clearance, DoD RMF compliance, and 9+ years in defense avionics or networked operational technology security. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Product-Security-Engineer_JR2026513854-1)_
-
-`Embedded Systems Security` `Avionics` `Risk Management Framework (RMF)` `Threat Analysis` `Secure Architecture` `DO-326A` `DO-178C` `CISSP`
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [Senior Research Engineer](https://jobs.ashbyhq.com/mem0/55ef65b7-b9ad-4953-9892-430642281a23)
-<a href="https://mem0.ai"><img src="https://www.google.com/s2/favicons?domain=mem0.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mem0** · San Francisco, California · `🟡 Hybrid` `Senior`
-
-_Own the end-to-end development of memory features for AI agents—fine-tune models for extraction, updates, consolidation, and conflict resolution; implement research ideas from papers into production systems; and build evaluation infrastructure (offline metrics, online A/B tests) at scale. Requires shipping with SOTA latency and reliability while iterating based on real-world customer feedback and field trials. · [Apply →](https://jobs.ashbyhq.com/mem0/55ef65b7-b9ad-4953-9892-430642281a23)_
-
-`Python` `PyTorch` `vLLM` `RAG` `LLM Fine-tuning` `Retrieval Ranking` `A/B Testing` `Embeddings`
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [Principal Software Engineer & Architect](https://safetychain.bamboohr.com/careers/180)
-<a href="https://safetychain.com"><img src="https://www.google.com/s2/favicons?domain=safetychain.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SafetyChain Software** · Grapevine, Texas · `🟢 Remote` `Principal`
-
-_Design and build enterprise-grade, AI-enabled supply chain platform foundations using TypeScript (Deno backend + unified frontend); architect high-performance services for food & beverage operations at scale. Requires senior judgment on distributed systems, multiple data storage models, and pragmatic architectural decisions for real-world operational workflows. · [Apply →](https://safetychain.bamboohr.com/careers/180)_
-
-`TypeScript` `Deno` `Node.js` `Python` `Go` `Java` `C#` `Distributed Systems`
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [GNC Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8601722002?gh_jid=8601722002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Sunnyvale, California · `Mid` `$135k-$185k` `Equity`
-
-_Develop guidance, navigation, and control algorithms and software systems for Starlink's satellite constellation and user terminals, including orbit transfer automation, collision avoidance, attitude control, and state estimation. Production C++ and Python code deployed across thousands of active satellites with on-call operational support required; ITAR eligibility required. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8601722002?gh_jid=8601722002)_
-
-`C++` `Python` `orbital mechanics` `control theory` `state estimation` `attitude determination` `low-thrust trajectory optimization`
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [Sr. Site Reliability Engineer](https://boards.greenhouse.io/spacex/jobs/8601438002?gh_jid=8601438002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Washington, D.C. · `Senior` `$165k-$230k` `Equity`
-
-_Build and manage highly reliable cloud and on-premises infrastructure for SpaceX's Starshield satellite communications network, supporting secure government systems for earth observation, communications, and hosted payloads. Requires Top Secret Security Clearance and experience with large-scale Kubernetes deployments and Linux systems. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8601438002?gh_jid=8601438002)_
-
-`Kubernetes` `Python` `Bash` `Terraform` `Linux` `Ansible` `Bazel` `Top Secret Clearance`
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [Full Stack Engineer, Billing](https://stripe.com/jobs/search?gh_jid=6786324)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · N/A · `Senior`
-
-_Build distributed backend systems, APIs, and services powering Stripe's billing and revenue platform for millions of businesses. Scope and architect technical projects with focus on API design, performance, reliability, and event-driven systems at scale. · [Apply →](https://stripe.com/jobs/search?gh_jid=6786324)_
-
-`Distributed Systems` `API Design` `Event-Driven Architecture` `Subscription Management` `Financial Systems` `Backend Services`
-
-<sub>June 19, 2026 at 23:31 UTC</sub>
 
 ---
 
