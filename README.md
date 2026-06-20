@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1602 open roles** (29 new) &nbsp;·&nbsp; 1710 companies searched
+### **1537 open roles** (27 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 20, 2026
+
+### [Intern - Site Reliability Engineering](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern---Site-Reliability-Engineering_R56496)
+<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$45k-$60k`
+
+_Build cloud infrastructure monitoring, deployment, and automation systems for Trimble's enterprise products. Learn reliability engineering practices in an agile team environment while implementing policy enforcement automation on cloud infrastructure. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern---Site-Reliability-Engineering_R56496)_
+
+`Python` `Bash` `PowerShell` `C#` `Cloud Infrastructure` `Kubernetes`
+
+<sub>June 20, 2026 at 22:33 UTC</sub>
+
+---
 
 ### [Senior Automation and Controls Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7770811003)
 <a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Senior` `$140k-$216k` `Equity`
@@ -23,10 +34,10 @@ _Build ground support equipment and test automation infrastructure for spacecraf
 
 ---
 
-### [Intern Undergraduate - Technical](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56005)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$43.18k-$57.3k`
+### [Intern Undergraduate - Technical](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)
+<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$43k-$57k`
 
-_Design and develop quality testing procedures and perform functional, regression, and performance testing for software products. Research emerging testing technologies to improve team efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56005)_
+_Design and develop testing procedures and execute functional, regression, performance, and integration tests for software products. Contribute to quality initiatives and research emerging testing technologies to improve testing efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)_
 
 <sub>June 20, 2026 at 21:36 UTC</sub>
 
@@ -295,39 +306,6 @@ _Build distributed backend systems, APIs, and services powering Stripe's billing
 `Distributed Systems` `API Design` `Event-Driven Architecture` `Subscription Management` `Financial Systems` `Backend Services`
 
 <sub>June 19, 2026 at 23:31 UTC</sub>
-
----
-
-### [Chief Architect - Customer Identity Access Management (CIAM)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Chief-Architect---Customer-Identity-Access-Management--CIAM-_JR2026515037-1)
-<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Seattle, Washington / Portland, Oregon / Seal Beach, California / Salt Lake City, Utah / Mesa, Arizona / Dallas, Texas / Oklahoma City, Oklahoma / St. Charles, Illinois / Miami, Florida / North Charleston, South Carolina / Ridley Park, Pennsylvania · `Principal` `$182k - $238k`
-
-_Lead the design and implementation of a Customer Identity and Access Management (CIAM) architecture framework across Boeing's defense and commercial operations, translating business and security requirements into scalable, compliant solutions. Requires 5+ years designing CIAM solutions and 1+ year leading large-scale identity transformation programs in highly regulated industries. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Chief-Architect---Customer-Identity-Access-Management--CIAM-_JR2026515037-1)_
-
-`OAuth 2.0` `MFA` `SSO` `Ping Identity` `AWS` `GCP` `Azure` `GDPR`
-
-<sub>June 19, 2026 at 22:28 UTC</sub>
-
----
-
-### [Research Engineer / Research Scientist -Personal AGI, Proactivity ](https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · San Francisco, California · `🟡 Hybrid` `Senior`
-
-_Research and develop improvements to model personalization and agentic capabilities using reinforcement learning, dataset creation, and post-training methods. Build evaluations for tracking model improvements and collaborate with research and product teams to influence technical solutions in ChatGPT and future products. · [Apply →](https://jobs.ashbyhq.com/openai/e57d196b-4fa0-4463-bd33-d8189f0d3541)_
-
-`Machine Learning` `LLM Post-Training` `Reinforcement Learning` `Python` `PyTorch` `Evaluation Design`
-
-<sub>June 19, 2026 at 22:28 UTC</sub>
-
----
-
-### [Assembly Control Engineer](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Assembly-Control-Engineer_10304633-1)
-<a href="https://toyota.com"><img src="https://www.google.com/s2/favicons?domain=toyota.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toyota** · Georgetown, Kentucky · `Mid`
-
-_Design and implement control algorithms, PLC programming, and real-time data collection systems for Toyota's North American manufacturing assembly lines. Lead new model projects across safety-critical production control systems at manufacturing scale; requires 30% travel to machine vendors and Toyota facilities, with possible 1-year dispatch to support project deployment. · [Apply →](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Assembly-Control-Engineer_10304633-1)_
-
-`PLC Programming` `FLNet` `Ethernet IP` `QIS` `EDC` `Python` `C++` `Rockwell ControlLogix`
-
-<sub>June 19, 2026 at 22:28 UTC</sub>
 
 ---
 
