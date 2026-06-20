@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1597 open roles** (83 new) &nbsp;·&nbsp; 1710 companies searched
+### **1616 open roles** (82 new) &nbsp;·&nbsp; 1710 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -883,6 +883,17 @@ _Lead the engineering organization building SpyCloud's cybersecurity threat dete
 
 ---
 
+### [Staff Software Engineer - Zero Trust Networking (remote)](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Staff-Software-Engineer---Zero-Trust-Networking--remote-_WD30272019)
+<a href="https://johnsoncontrols.com"><img src="https://www.google.com/s2/favicons?domain=johnsoncontrols.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Johnson Controls** · `🟢 Remote` `Staff` `$120k-$185k`
+
+_Lead the technical architecture and development of OpenBlue Airwall Zero Trust Networking technology, designing and scaling distributed systems for secure edge-to-cloud communication and remote access to mission-critical assets worldwide. Requires expertise in C++/Rust networking stack and distributed systems design. · [Apply →](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Staff-Software-Engineer---Zero-Trust-Networking--remote-_WD30272019)_
+
+`C++` `Rust` `Distributed Systems` `Networking` `VPN` `Zero Trust Architecture` `Secure Remote Access` `IAM`
+
+<sub>June 19, 2026 at 14:12 UTC</sub>
+
+---
+
 ### [Principal Systems Architect](https://boards.greenhouse.io/blacksky/jobs/8598770002?gh_jid=8598770002)
 <a href="https://blacksky.com"><img src="https://www.google.com/s2/favicons?domain=blacksky.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BlackSky** · `🟢 Remote` `Principal` `$190k-$215k` `Equity`
 
@@ -902,28 +913,6 @@ _Lead the tools programming team building internal development tools, editors, a
 `C#` `.NET` `C++` `WPF` `XAML` `Python` `Blender` `Maya`
 
 <sub>June 19, 2026 at 12:27 UTC</sub>
-
----
-
-### [Member of Technical Staff - Web Crawl Engineer](https://jobs.ashbyhq.com/reflectionai/ee258570-a3f9-4276-9bf4-35b2b70dbc61)
-<a href="https://reflection.ai"><img src="https://www.google.com/s2/favicons?domain=reflection.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reflection AI** · San Francisco, California · `Senior` `Equity`
-
-_Build and operate web-scale crawling infrastructure that continuously discovers, acquires, and processes content from billions of URLs to power frontier AI model training. Own URL discovery, prioritization, scheduling, distributed crawl orchestration, content extraction, and large-scale dataset delivery systems. · [Apply →](https://jobs.ashbyhq.com/reflectionai/ee258570-a3f9-4276-9bf4-35b2b70dbc61)_
-
-`Distributed Systems` `Ray` `Spark` `Apache Beam` `Flink` `Python` `Kubernetes` `Petabyte-scale Data Processing`
-
-<sub>June 19, 2026 at 10:39 UTC</sub>
-
----
-
-### [Principal Engineer, Model Development Platform](https://wayve.firststage.co/jobs?gh_jid=8598782002)
-<a href="https://wayve.ai"><img src="https://www.google.com/s2/favicons?domain=wayve.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wayve** · Sunnyvale, California · `🟡 Hybrid` `Principal` `$295k-$335k` `Equity`
-
-_Own the end-to-end architecture of Wayve's AI model lifecycle platform—data ingestion, training orchestration, experiment scheduling, and on-road testing infrastructure—spanning web applications, distributed compute, ML Ops, and data pipelines. This role operates at the intersection of AI research and safety-critical autonomous driving systems, requiring deep systems design across Spark, Kubernetes, and large-scale optimization algorithms. · [Apply →](https://wayve.firststage.co/jobs?gh_jid=8598782002)_
-
-`Kubernetes` `Spark` `Airflow` `Python` `Ray` `FastAPI` `React` `Linear Programming`
-
-<sub>June 19, 2026 at 10:39 UTC</sub>
 
 ---
 
