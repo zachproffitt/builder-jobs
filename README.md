@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1599 open roles** (19 new) &nbsp;·&nbsp; 1710 companies searched
+### **1679 open roles** (13 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -150,72 +150,6 @@ _Develop, test, integrate, and sustain automation tools for provisioning and con
 `Bash` `Python` `Ansible` `GitLab CI` `Linux CLI` `Infrastructure as Code (IaC)` `Git` `TS/SCI Clearance`
 
 <sub>June 20, 2026 at 03:20 UTC</sub>
-
----
-
-### [Senior Staff Software Engineer - Mobile(Android)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Senior-Staff-Software-Engineer---Mobile-Android-_R244954-1)
-<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Toronto, ON · `🟡 Hybrid` `Staff` `$184k-$210k CAD`
-
-_Design and architect scalable Android platform solutions across Capital One's mobile ecosystem, mentoring senior technical leaders while driving architectural standards and major technology investments. Requires 8+ years of hands-on native Android development with Java/Kotlin and proven ability to influence cross-organizational technical strategy. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Senior-Staff-Software-Engineer---Mobile-Android-_R244954-1)_
-
-`Java` `Kotlin` `RxJava` `Coroutines` `Dagger` `Jetpack Compose` `AWS`
-
-<sub>June 20, 2026 at 01:18 UTC</sub>
-
----
-
-### [Software Engineer 4](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-4_RQ222700-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Senior` `$195.5k-$264.5k`
-
-_Build a distributed metrics and monitoring solution for HPC systems using Splunk and automation tooling. Requires active TS/SCI clearance with polygraph and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-4_RQ222700-1)_
-
-`Python` `Splunk` `Ansible` `GitLab CI` `Kafka` `Bash` `TS/SCI Clearance` `HPC Systems`
-
-<sub>June 20, 2026 at 01:18 UTC</sub>
-
----
-
-### [Test Engineer 3](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Test-Engineer-3_RQ222705-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Senior` `$152k-$205k`
-
-_Develop and execute comprehensive test plans for HPC systems, analyzing test results and logs using data visualization tools to ensure mission-critical government systems meet requirements. Requires active TS/SCI clearance with polygraph and US citizenship; based on-site in Annapolis Junction, MD. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Test-Engineer-3_RQ222705-1)_
-
-`HPC` `Linux` `Python` `Bash` `SQL` `Splunk` `GitLab CI` `TS/SCI Clearance + Polygraph`
-
-<sub>June 20, 2026 at 01:18 UTC</sub>
-
----
-
-### [Software Engineer 2](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-2_RQ221999-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Senior` `$152k-$205k`
-
-_Build and maintain tools and services integrating with Atlassian's suite of products (Jira, Confluence) for mission-critical government applications. Requires TS/SCI clearance with polygraph, US citizenship, and on-site presence in Annapolis Junction, MD. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-2_RQ221999-1)_
-
-`Python` `Bash` `Java` `Linux` `Docker` `Kubernetes` `Ansible` `GitLab CI`
-
-<sub>June 20, 2026 at 01:18 UTC</sub>
-
----
-
-### [CNO Software Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/CNO-Software-Engineer_RQ222243-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Senior` `$206k-$279k`
-
-_Design and implement software solutions for Computer Network Operations (CNO) missions, including reverse engineering of objective software/hardware and developing operational capabilities for resource-restricted environments. Requires Top Secret SCI clearance with polygraph, 15+ years of embedded systems experience, and expertise in low-level debugging and ARM architecture analysis. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/CNO-Software-Engineer_RQ222243-1)_
-
-`C++` `Objective-C` `ARM assembly` `Python` `Reverse Engineering` `Ghidra` `IDA Pro` `IEEE 802.11`
-
-<sub>June 20, 2026 at 01:18 UTC</sub>
-
----
-
-### [Software Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer_RQ222244-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Senior` `$175k-$238k`
-
-_Design and develop operational software for analyzing 802.11 network traffic and cyber network operations challenges. Requires active TS/SCI clearance with polygraph and 7+ years of software engineering experience. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer_RQ222244-1)_
-
-`C++` `Flutter` `Qt` `802.11` `MATLAB` `DSP` `TS/SCI Clearance` `Polygraph`
-
-<sub>June 20, 2026 at 01:18 UTC</sub>
 
 ---
 
