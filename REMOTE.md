@@ -2,9 +2,46 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **157 open roles** (1 new)
+### **157 open roles** (3 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 21, 2026
+
+### [Performance Tester/Platform Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Performance-Tester-Platform-Engineer_RQ222784)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$96k-$130k`
+
+_Design and execute performance, load, and stress tests for enterprise case management applications running on AWS, using tools like JMeter, LoadRunner, and K6. Diagnose performance bottlenecks in React and Node.js microservices, validate system scalability under federal standards, and integrate automated performance testing into CI/CD pipelines. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Performance-Tester-Platform-Engineer_RQ222784)_
+
+`JMeter` `LoadRunner` `K6` `JavaScript` `AWS` `Datadog` `Prometheus` `Grafana`
+
+<sub>June 21, 2026 at 05:48 UTC</sub>
+
+---
+
+### [Service Now Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Service-Now-Developer_RQ222449-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$85k-$109k`
+
+_Develop and maintain ServiceNow applications across ITSM modules, including custom forms, workflows, integrations, and AI-powered features using Now Assist. Role requires 5+ years ServiceNow development experience and expertise in prompt engineering and agentic AI systems. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Service-Now-Developer_RQ222449-1)_
+
+`ServiceNow` `JavaScript` `ITSM` `Now Assist` `Prompt Engineering` `Agile` `SQL` `REST APIs`
+
+<sub>June 21, 2026 at 05:48 UTC</sub>
+
+---
+
+### [Telephony Test Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Telephony-Test-Engineer_RQ222491-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Junior` `$75.65k-$102.35k`
+
+_Design and execute test plans and manual test scripts for ACD, IVR, and IVA call flow systems; validate routing logic, speech recognition, and conversational AI interactions across telephony platforms. Requires ability to obtain Public Trust clearance (BI Full 6C). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Telephony-Test-Engineer_RQ222491-1)_
+
+`ACD/IVR/IVA systems` `SIP` `CTI` `Speech Recognition` `Jira` `ServiceNow` `VoIP` `Test Case Design`
+
+<sub>June 21, 2026 at 05:48 UTC</sub>
+
+---
 
 <br>
 
@@ -102,17 +139,6 @@ _Own the software architecture for satellite ground segment systems, designing a
 
 ---
 
-### [Senior Software Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Software-Developer_RQ221724)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$119k-$161k`
-
-_Develop and maintain mission-critical biometric identification systems for the Department of Homeland Security, working across Java, C++, and Oracle across all application tiers (UI, backend, database). Requires passing a Public Trust background check and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Software-Developer_RQ221724)_
-
-`Java` `C++` `Oracle` `SQL` `Bash/Shell Scripting` `GitLab` `CI/CD` `XML/JSON`
-
-<sub>June 19, 2026 at 05:55 UTC</sub>
-
----
-
 ### [Senior Security Engineer](https://job-boards.greenhouse.io/gofundme/jobs/8011421)
 <a href="https://gofundme.com"><img src="https://www.google.com/s2/favicons?domain=gofundme.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoFundMe** · `🟢 Remote` `Senior` `$124k-$186k` `Equity`
 
@@ -205,12 +231,12 @@ _Design and build scalable data platform solutions including streaming pipelines
 
 ---
 
-### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017071)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017073)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
 
-_Design and conduct offensive security operations across Instacart's product suite, deploying security tools and techniques to scale vulnerability discovery. Requires deep expertise in mobile/cloud/AI security testing and threat modeling; remote role with market-competitive equity compensation. · [Apply →](https://instacart.careers/job/?gh_jid=8017071)_
+_Design and conduct offensive security operations across Instacart's product suite, deploying and operationalizing security tools to scale vulnerability discovery and mature security posture. Integrate security testing into engineering workflows and mentor the security team across mobile, AI, and cloud attack surfaces. · [Apply →](https://instacart.careers/job/?gh_jid=8017073)_
 
-`Mobile App Penetration Testing` `Cloud Penetration Testing` `Threat Modeling` `Security Architecture` `AI Security Testing` `Bug Bounty Research`
+`Penetration Testing` `Mobile App Security` `Cloud Security` `Threat Modeling` `Security Architecture` `Offensive Security` `Vulnerability Assessment` `Burp Suite`
 
 <sub>June 18, 2026 at 21:00 UTC</sub>
 
@@ -415,7 +441,7 @@ _Build production ML models for claims time series forecasting and NLP text unde
 ---
 
 ### [DevOps Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)
-<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
+<a href="https://paloaltonetworks.com"><img src="https://www.google.com/s2/favicons?domain=paloaltonetworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palo Alto Networks** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
 
 _Design and architect scalable CI/CD infrastructure and developer productivity platforms using infrastructure as code, mentoring engineers while remaining hands-on. Focus on cloud infrastructure (AWS preferred), containers, and Kubernetes across security and governance use cases in a mission-critical cybersecurity environment. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)_
 
@@ -480,23 +506,12 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 
 ---
 
-### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$181k—$226k` `Equity`
+### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$242k—$302k CAD` `Equity`
 
-_Own the architecture and platform infrastructure for Tailscale's next-generation web console, including authentication, session management, and cross-origin integrations. Lead frontend platform design across multiple products unified under one experience, with deep involvement in identity systems and browser security. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)_
+_Own the technical architecture of Tailscale's next-generation web console, including authentication infrastructure, unified product platform, and shared frontend systems. Build at the intersection of product engineering and platform engineering across identity, security, and multi-service integrations. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)_
 
-`React` `TypeScript` `Web Security (CORS, CSRF, cookies)` `Authentication Systems` `Testing Infrastructure` `Design Systems` `Feature Flagging` `Analytics`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
-
-_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
-
-`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
+`React` `TypeScript` `HTTP` `CORS` `Authentication` `CSRF Protection` `Web Security` `Testing Infrastructure`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
@@ -708,28 +723,6 @@ _Design, architect, and maintain cloud infrastructure solutions across AWS, Azur
 
 ## June 16, 2026
 
-### [Software Development Engineer, iOS](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Mid` `$129k-$217k` `Equity`
-
-_Build and maintain Zillow's iOS design system, creating reusable components and patterns that product teams use to build high-quality experiences for millions of mobile users. Work with modern development environments incorporating AI-assisted tools while upholding accessibility and performance standards across iOS applications. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)_
-
-`Swift` `SwiftUI` `iOS` `Accessibility` `CI/CD` `Testing Frameworks` `Application Performance` `Build Tools`
-
-<sub>June 16, 2026 at 23:39 UTC</sub>
-
----
-
-### [Senior Software Development Engineer, Android](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Build reusable Android components, frameworks, and design system infrastructure using Kotlin and Jetpack Compose that power consistent experiences across Zillow's mobile products at scale. Architect platform-level UI systems and tooling that improve developer velocity and code quality across the organization. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)_
-
-`Kotlin` `Jetpack Compose` `Android Architecture` `Android UI/UX` `Design Systems` `Accessibility`
-
-<sub>June 16, 2026 at 23:39 UTC</sub>
-
----
-
 ### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/aa156425-ec0d-4617-a684-521501ebc8cd)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
 
@@ -840,12 +833,12 @@ _Design and build scalable backend systems and third-party integrations for a te
 
 ---
 
-### [Principal Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4689477006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `$220k–$258k` `Equity`
+### [Principal Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4690547006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `Equity`
 
-_Set technical direction for Athena, Chainguard's vulnerability data clearing house that ingests, validates, deduplicates, and routes enterprise vulnerability reports at scale. Own the transition from rapid prototyping to production-grade systems with observability, incident handling, and operational rigor across distributed data pipelines and customer entitlement systems. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689477006)_
+_Lead technical strategy and architecture for Athena, the vulnerability data clearing house that validates, deduplicates, and routes enterprise security findings at enterprise scale. Transition the system from rapid prototyping to production-grade infrastructure with deep ownership of data validation pipelines, workflow orchestration, and vulnerability remediation workflows. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4690547006)_
 
-`Go` `GCP` `Terraform` `Distributed Systems` `Data Pipelines` `Kubernetes` `PostgreSQL`
+`Go` `GCP` `Terraform` `Distributed Systems` `Data Pipelines` `Vulnerability Management` `Cloud Security`
 
 <sub>June 16, 2026 at 16:41 UTC</sub>
 
@@ -1119,12 +1112,12 @@ _Architect and build cloud-native government applications on AWS, designing mult
 
 ---
 
-### [Software Engineering Manager - Image and Data Compression Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `$200k-$322k` `Equity`
+### [Sr. Software Engineer, Android](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$149k-$308k` `Equity`
 
-_Lead a team building accelerated image and data compression software libraries. Domain expertise in image processing, compression algorithms, and parallel programming (CUDA, MPI) valued; requires 3+ years management experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)_
+_Build consumer-facing Android features and frameworks for Pinterest's inspiration platform, scaling to millions of users. Lead product development end-to-end from ideation through A/B testing and release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)_
 
-`C++` `Python` `CUDA` `Image Processing` `Data Compression` `Parallel Programming` `MPI`
+`Kotlin` `Java` `Android` `Activity Lifecycle` `Memory Management`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
@@ -1572,6 +1565,17 @@ _Build and expand open-source security infrastructure for secrets management, PK
 <br>
 
 ## June 8, 2026
+
+### [Manager, Enterprise Security Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5159139007?gh_jid=5159139007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Manager` `$129k-$220k` `Equity`
+
+_Build and scale a team of security engineers to design and implement defensive controls across cloud, production, and corporate infrastructure for defense technology systems. Requires TS/SCI clearance and hands-on technical leadership in a strategic competition environment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5159139007?gh_jid=5159139007)_
+
+`Python` `Go` `Rust` `Terraform` `AWS` `CI/CD` `Linux` `TS/SCI Clearance`
+
+<sub>June 8, 2026 at 21:41 UTC</sub>
+
+---
 
 ### [Ads AI Analytics Lead II](https://instacart.careers/job/?gh_jid=7495338)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$131k–$165k USD` `Equity`
