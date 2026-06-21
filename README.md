@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1618 open roles** (16 new) &nbsp;·&nbsp; 1720 companies searched
+### **1602 open roles** (20 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 21, 2026
+
+### [Principal Quality Engineer](https://www.dealpath.com/job-post/?gh_jid=8019952)
+<a href="https://dealpath.com"><img src="https://www.google.com/s2/favicons?domain=dealpath.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dealpath** · San Francisco, California · `🟡 Hybrid` `Principal` `$180k-$230k` `Equity`
+
+_Build and own AI evals infrastructure, test automation frameworks, and quality practices across Dealpath's agentic product platform. Drive quality transformation from centralized manual QA to delivery-team-owned quality, with responsibility for test pyramid strategy, coverage metrics, release criteria, and embedded QE coaching in a fast-growth PropTech/FinTech SaaS environment. · [Apply →](https://www.dealpath.com/job-post/?gh_jid=8019952)_
+
+`Playwright` `Cypress` `TypeScript` `Python` `LangSmith` `Braintrust` `DeepEval` `Datadog`
+
+<sub>June 21, 2026 at 18:43 UTC</sub>
+
+---
+
+### [Software Engineer, C++ (Dragon)](https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Junior` `$125k-$175k` `Equity`
+
+_Develop, test, and deploy mission-critical flight software for Dragon crewed and cargo vehicles; design automated tools for software configuration verification and deployment. Requires ITAR eligibility and occasional travel to launch sites. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002)_
+
+`C++` `C` `Linux` `Bash` `Real-time Embedded Systems` `State Machines` `Git`
+
+<sub>June 21, 2026 at 18:43 UTC</sub>
+
+---
+
+### [Sr. Software Engineer, C++ (Dragon)](https://boards.greenhouse.io/spacex/jobs/8602061002?gh_jid=8602061002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Senior` `$165k-$230k` `Equity`
+
+_Develop, verify, and deploy mission-critical flight software for Dragon crewed and cargo vehicles; build tools for automated configuration verification and software deployment at scale. Work with real-time embedded systems in a safety-critical aerospace environment requiring ITAR compliance. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8602061002?gh_jid=8602061002)_
+
+`C++` `C` `Linux` `Bash` `Real-time Embedded Systems` `Software Testing` `State Machines`
+
+<sub>June 21, 2026 at 18:43 UTC</sub>
+
+---
+
+### [Software Engineering Student](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineering-Student_JR2018720)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Intern`
+
+_Design, develop, and execute tests and simulations for a Network management and Telemetry system (NVIDIA Minerva) operating at cloud scale; develop and maintain networking simulations for NetQ capabilities. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineering-Student_JR2018720)_
+
+`Python` `Bash` `Linux` `Test Automation` `Networking` `Telemetry Systems`
+
+<sub>June 21, 2026 at 18:43 UTC</sub>
+
+---
+
+### [Design Engineer I](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineer-I_20777-1)
+<a href="https://silabs.com"><img src="https://www.google.com/s2/favicons?domain=silabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Silicon Labs** · Austin, Texas · `🟡 Hybrid` `Junior` `$78k-$146k` `Equity`
+
+_Support physical implementation of digital IC designs from RTL through GDSII, developing timing constraints and performing static timing analysis to drive designs to tapeout. Requires on-site in Austin, TX. · [Apply →](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineer-I_20777-1)_
+
+`Static Timing Analysis` `SDC` `Cadence Tempus` `Synopsys PrimeTime` `Python` `Perl` `Tcl` `Linux`
+
+<sub>June 21, 2026 at 18:43 UTC</sub>
+
+---
 
 ### [Engineering Manager](https://www.dealpath.com/job-post/?gh_jid=8019940)
 <a href="https://dealpath.com"><img src="https://www.google.com/s2/favicons?domain=dealpath.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dealpath** · New York, New York · `🟡 Hybrid` `Manager` `$200k-$230k` `Equity`
@@ -176,17 +231,6 @@ _Build ground support equipment and test automation infrastructure for spacecraf
 _Design and develop testing procedures and execute functional, regression, performance, and integration tests for software products. Contribute to quality initiatives and research emerging testing technologies to improve testing efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)_
 
 <sub>June 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Software Engineer, Eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004)
-<a href="https://vercel.com"><img src="https://www.google.com/s2/favicons?domain=vercel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vercel** · San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$208k-$312k` `Equity`
-
-_Design and implement core framework primitives for eve, Vercel's production AI agent framework, including file-system conventions, compiler, runtime, and integrations across channels (Slack, Web Chat, WhatsApp, API, Cron) and connections (Vercel Connect / MCP endpoints). Build developer tooling and observability infrastructure for AI-native applications on the Vercel platform. · [Apply →](https://job-boards.greenhouse.io/vercel/jobs/6098390004)_
-
-`TypeScript` `JavaScript` `Next.js` `Distributed Systems` `Durable Execution` `LLM APIs` `AI SDK` `Vercel Workflows`
-
-<sub>June 20, 2026 at 18:41 UTC</sub>
 
 ---
 
