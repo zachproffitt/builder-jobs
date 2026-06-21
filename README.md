@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1591 open roles** (14 new) &nbsp;·&nbsp; 1720 companies searched
+### **1608 open roles** (14 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -137,21 +137,21 @@ _Build cloud infrastructure monitoring, deployment, and automation systems for T
 
 ---
 
+### [Intern Undergraduate - Technical](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)
+<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$43k-$57k`
+
+_Design and develop testing procedures and execute functional, regression, performance, and integration tests for software products. Contribute to quality initiatives and research emerging testing technologies to improve testing efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)_
+
+<sub>June 20, 2026 at 21:36 UTC</sub>
+
+---
+
 ### [Senior Automation and Controls Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7770811003)
 <a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Senior` `$140k-$216k` `Equity`
 
 _Build ground support equipment and test automation infrastructure for spacecraft manufacturing and qualification, including custom PLC frameworks and EtherCAT tooling for propulsion test stands, thermal vacuum chambers, and spacecraft-level integration testing. Requires hands-on work across the full stack—control software, electrical panel design, cabinet wiring, and real-time deterministic control loops—in a fast-paced aerospace startup environment. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7770811003)_
 
 `Python` `TwinCAT 3` `EtherCAT` `Structured Text (IEC 61131-3)` `Modbus` `Real-Time Control Systems` `Docker` `Grafana`
-
-<sub>June 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Intern Undergraduate - Technical](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$43k-$57k`
-
-_Design and develop testing procedures and execute functional, regression, performance, and integration tests for software products. Contribute to quality initiatives and research emerging testing technologies to improve testing efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)_
 
 <sub>June 20, 2026 at 21:36 UTC</sub>
 
