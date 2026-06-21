@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1679 open roles** (13 new) &nbsp;·&nbsp; 1720 companies searched
+### **1605 open roles** (9 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -23,21 +23,21 @@ _Build cloud infrastructure monitoring, deployment, and automation systems for T
 
 ---
 
+### [Intern Undergraduate - Technical](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)
+<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$43k-$57k`
+
+_Design and develop testing procedures and execute functional, regression, performance, and integration tests for software products. Contribute to quality initiatives and research emerging testing technologies to improve testing efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)_
+
+<sub>June 20, 2026 at 21:36 UTC</sub>
+
+---
+
 ### [Senior Automation and Controls Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7770811003)
 <a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Senior` `$140k-$216k` `Equity`
 
 _Build ground support equipment and test automation infrastructure for spacecraft manufacturing and qualification, including custom PLC frameworks and EtherCAT tooling for propulsion test stands, thermal vacuum chambers, and spacecraft-level integration testing. Requires hands-on work across the full stack—control software, electrical panel design, cabinet wiring, and real-time deterministic control loops—in a fast-paced aerospace startup environment. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7770811003)_
 
 `Python` `TwinCAT 3` `EtherCAT` `Structured Text (IEC 61131-3)` `Modbus` `Real-Time Control Systems` `Docker` `Grafana`
-
-<sub>June 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Intern Undergraduate - Technical](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$43k-$57k`
-
-_Design and develop testing procedures and execute functional, regression, performance, and integration tests for software products. Contribute to quality initiatives and research emerging testing technologies to improve testing efficiency. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern-Undergraduate---Technical_R56003)_
 
 <sub>June 20, 2026 at 21:36 UTC</sub>
 
@@ -106,50 +106,6 @@ _Design, develop, and execute comprehensive test plans for force protection syst
 `Test Engineering` `Test Plans` `Engineering Change Order (ECO)` `Technical Data Packages` `Level of Repair Analysis (LORA)` `Environmental Testing` `DoD Systems` `Secret Clearance`
 
 <sub>June 20, 2026 at 05:40 UTC</sub>
-
----
-
-### [Software Engineer, Inference Platform ](https://job-boards.greenhouse.io/cerebrassystems/jobs/7779234003)
-<a href="https://cerebras.net"><img src="https://www.google.com/s2/favicons?domain=cerebras.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerebras Systems** · Sunnyvale, California · `Senior`
-
-_Build the orchestration layer for a globally distributed AI inference platform that manages Cerebras wafer-scale clusters; design k8s operators, failure domains, and active-active systems handling real-time inference at scale with latency-sensitive requirements. · [Apply →](https://job-boards.greenhouse.io/cerebrassystems/jobs/7779234003)_
-
-`Kubernetes` `Go` `C++` `Distributed Systems` `ML Inference Infrastructure` `TLS/mTLS` `High-Performance Systems` `Observability`
-
-<sub>June 20, 2026 at 03:20 UTC</sub>
-
----
-
-### [Software Engineer 3](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-3_RQ222637-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Senior` `$175k-$238k`
-
-_Design, implement, and maintain CI/CD pipelines and GitLab Runner infrastructure for mission-critical government software delivery across multiple development teams. Requires active TS/SCI clearance with polygraph and US citizenship. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-3_RQ222637-1)_
-
-`Bash` `Python` `GitLab CI` `Docker` `Ansible` `Git` `TS/SCI Clearance` `Polygraph`
-
-<sub>June 20, 2026 at 03:20 UTC</sub>
-
----
-
-### [Systems/Network Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Systems-Network-Engineer_RQ222464-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Principal` `$148k-$201k`
-
-_Design, deploy, and maintain enterprise network infrastructure for intelligence community systems, including CISCO switches/routers/firewalls, security appliances, and physical network construction. Requires active TS/SCI clearance with polygraph and 20+ years hands-on network engineering experience in DoD/IC environments. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Systems-Network-Engineer_RQ222464-1)_
-
-`CCNA` `Cisco IOS` `Palo Alto Networks` `HAIPE` `Wireshark` `Tripwire` `Visio` `TS/SCI Clearance`
-
-<sub>June 20, 2026 at 03:20 UTC</sub>
-
----
-
-### [Software Integration Engineer 4](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Integration-Engineer-4_RQ222636-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Annapolis Junction, Maryland · `Senior` `$194k-$263k`
-
-_Develop, test, integrate, and sustain automation tools for provisioning and configuring High-Performance Computing (HPC) infrastructure within Linux environments. Requires active TS/SCI clearance with polygraph and 10+ years of related experience. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Integration-Engineer-4_RQ222636-1)_
-
-`Bash` `Python` `Ansible` `GitLab CI` `Linux CLI` `Infrastructure as Code (IaC)` `Git` `TS/SCI Clearance`
-
-<sub>June 20, 2026 at 03:20 UTC</sub>
 
 ---
 
