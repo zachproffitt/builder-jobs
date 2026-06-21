@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1529 open roles** (15 new) &nbsp;·&nbsp; 1720 companies searched
+### **1618 open roles** (16 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 21, 2026
+
+### [Engineering Manager](https://www.dealpath.com/job-post/?gh_jid=8019940)
+<a href="https://dealpath.com"><img src="https://www.google.com/s2/favicons?domain=dealpath.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dealpath** · New York, New York · `🟡 Hybrid` `Manager` `$200k-$230k` `Equity`
+
+_Lead a team of software engineers building AI-powered real estate technology at a growth-stage platform that has powered $10+ trillion in transactions. Champion AI-assisted development practices across your team while driving execution of high-impact product initiatives in a hybrid role requiring 3 days/week in NYC. · [Apply →](https://www.dealpath.com/job-post/?gh_jid=8019940)_
+
+`React` `Node.js` `Ruby` `GitHub Copilot` `Cursor` `SaaS` `Enterprise Software`
+
+<sub>June 21, 2026 at 17:39 UTC</sub>
+
+---
 
 ### [Senior Manager, Software Engineering, Full Stack (People Leader & Jira) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Software-Engineering--Full-Stack--People-Leader---Jira---Enterprise-Platforms-Technology-_R244913-1)
 <a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia · `Manager` `$229k-$262k` `Equity`
