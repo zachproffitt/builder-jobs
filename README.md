@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1556 open roles** (17 new) &nbsp;·&nbsp; 1720 companies searched
+### **1601 open roles** (18 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 21, 2026
+
+### [Applied AI Engineer, Silicon Engineering](https://jobs.ashbyhq.com/Etched/831bfa22-d883-450b-9b10-2a16421525a0)
+<a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Etched** · San Jose, California · `Mid`
+
+_Build LLM-agent workflows and tooling that accelerate chip development—debug triage, testbench automation, waveform analysis, EDA scripting, and knowledge retrieval—embedded with RTL, verification, and physical design teams. Requires shipping real agentic systems and ownership of evals that separate demos from production tools engineers rely on; in-person role in San Jose. · [Apply →](https://jobs.ashbyhq.com/Etched/831bfa22-d883-450b-9b10-2a16421525a0)_
+
+`Python` `LLM agents` `Claude API` `Retrieval-Augmented Generation (RAG)` `SystemVerilog` `Functional Verification (UVM)` `Tool-calling / Model Context Protocol (MCP)` `Tcl`
+
+<sub>June 21, 2026 at 22:35 UTC</sub>
+
+---
 
 ### [Principal Quality Engineer](https://www.dealpath.com/job-post/?gh_jid=8019952)
 <a href="https://dealpath.com"><img src="https://www.google.com/s2/favicons?domain=dealpath.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dealpath** · San Francisco, California · `🟡 Hybrid` `Principal` `$180k-$230k` `Equity`
@@ -40,6 +51,17 @@ _Develop, test, and deploy mission-critical flight software for Dragon crewed an
 _Develop, verify, and deploy mission-critical flight software for Dragon crewed and cargo vehicles; build tools for automated configuration verification and software deployment at scale. Work with real-time embedded systems in a safety-critical aerospace environment requiring ITAR compliance. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8602061002?gh_jid=8602061002)_
 
 `C++` `C` `Linux` `Bash` `Real-time Embedded Systems` `Software Testing` `State Machines`
+
+<sub>June 21, 2026 at 18:43 UTC</sub>
+
+---
+
+### [Software Engineering Student](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineering-Student_JR2018720)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Intern`
+
+_Design, develop, and execute tests and simulations for a Network management and Telemetry system (NVIDIA Minerva) operating at cloud scale; develop and maintain networking simulations for NetQ capabilities. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Engineering-Student_JR2018720)_
+
+`Python` `Bash` `Linux` `Test Automation` `Networking` `Telemetry Systems`
 
 <sub>June 21, 2026 at 18:43 UTC</sub>
 
@@ -185,21 +207,6 @@ _Lead the engineering organization building Workato's developer platform, CLI, S
 `Distributed Systems` `Cloud-Native Architecture` `API Design` `LLM Application Architectures` `AI Agent Frameworks`
 
 <sub>June 21, 2026 at 05:48 UTC</sub>
-
----
-
-<br>
-
-## June 20, 2026
-
-### [Intern - Site Reliability Engineering](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern---Site-Reliability-Engineering_R56496)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · Lake Oswego, Oregon · `Intern` `$45k-$60k`
-
-_Build cloud infrastructure monitoring, deployment, and automation systems for Trimble's enterprise products. Learn reliability engineering practices in an agile team environment while implementing policy enforcement automation on cloud infrastructure. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Intern---Site-Reliability-Engineering_R56496)_
-
-`Python` `Bash` `PowerShell` `C#` `Cloud Infrastructure` `Kubernetes`
-
-<sub>June 20, 2026 at 22:33 UTC</sub>
 
 ---
 
