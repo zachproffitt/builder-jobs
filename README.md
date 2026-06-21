@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1591 open roles** (13 new) &nbsp;·&nbsp; 1720 companies searched
+### **1591 open roles** (14 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 21, 2026
+
+### [Forward Deployed Engineer - Finance Analytics & AI Specialist](https://jobs.ashbyhq.com/snowflake/9cf335c9-f99d-4ddb-b307-0dcd3a162a09)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · Menlo Park, California · `🟡 Hybrid` `Mid`
+
+_Build and deploy AI agent workflows, semantic models, and Streamlit analytics applications inside customer Snowflake environments to automate finance workflows like revenue analysis, cost monitoring, and operational reporting. Embed onsite with enterprise finance teams to own end-to-end deployment, production rollout, and knowledge transfer until customers achieve self-sufficiency; requires deep finance domain expertise and daily use of AI coding assistants. · [Apply →](https://jobs.ashbyhq.com/snowflake/9cf335c9-f99d-4ddb-b307-0dcd3a162a09)_
+
+`Python` `SQL` `Snowflake Cortex` `LLM coding assistants (Cursor/GitHub Copilot/CoCo)` `Streamlit` `YAML` `Prompt Engineering` `Finance Analytics`
+
+<sub>June 21, 2026 at 13:43 UTC</sub>
+
+---
 
 ### [AGM Senior Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-AZ-Fort-Huachuca/AGM-Senior-Engineer_RQ222683-1)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · Fort Huachuca, Arizona · `Senior` `$101k-$132k`
