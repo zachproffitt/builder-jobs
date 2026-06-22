@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1603 open roles** (22 new) &nbsp;·&nbsp; 1720 companies searched
+### **1605 open roles** (24 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,26 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## June 22, 2026
+
+### [Senior Product Security Engineer II](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Oxford/Senior-Product-Security-Engineer-II_R113910-2)
+<a href="https://lexisnexis.com"><img src="https://www.google.com/s2/favicons?domain=lexisnexis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LexisNexis** · 2 Locations · `Senior`
+
+_Embed security practices, automation, and tooling into engineering team workflows and CI/CD pipelines; design secure-by-default patterns and reference implementations. Partner with platform and architecture teams to reduce risk and improve delivery at scale across applications. · [Apply →](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Oxford/Senior-Product-Security-Engineer-II_R113910-2)_
+
+`Application Security` `CI/CD Security` `Secure Coding Practices` `Security Automation` `Threat Modeling` `Identity and Access Management` `Secrets Management` `Security Compliance`
+
+<sub>June 22, 2026 at 11:07 UTC</sub>
+
+---
+
+### [Engineering Manager](https://jobs.ashbyhq.com/Supabase/99a80436-89ec-412b-b782-1dd462bd16dc)
+<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `🟢 Remote` `Manager` `Equity`
+
+_Lead and grow an engineering team across Supabase's Postgres platform—Database, Auth, Storage, Edge Functions, Realtime, or Vector Search. You'll own team roadmap, hiring, delivery, and people development in a remote-first, globally distributed environment; requires 5+ years engineering background and 3+ years managing remote teams. · [Apply →](https://jobs.ashbyhq.com/Supabase/99a80436-89ec-412b-b782-1dd462bd16dc)_
+
+<sub>June 22, 2026 at 11:07 UTC</sub>
+
+---
 
 ### [Senior Software Engineer- Developer Experience](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Engineer--Developer-Experience_R169844-1)
 <a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$139k-$257.55k` `Equity`
