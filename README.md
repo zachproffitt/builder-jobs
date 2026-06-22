@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1605 open roles** (24 new) &nbsp;·&nbsp; 1720 companies searched
+### **1621 open roles** (39 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -12,14 +12,190 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## June 22, 2026
 
-### [Senior Product Security Engineer II](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Oxford/Senior-Product-Security-Engineer-II_R113910-2)
-<a href="https://lexisnexis.com"><img src="https://www.google.com/s2/favicons?domain=lexisnexis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LexisNexis** · 2 Locations · `Senior`
+### [Software Engineer, Sr. (Apps)](https://avav.wd1.myworkdayjobs.com/AVAV/job/Pittsburgh-PA/Software-Engineer--Sr--Apps-_7987)
+<a href="https://avinc.com"><img src="https://www.google.com/s2/favicons?domain=avinc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AeroVironment** · Pittsburgh, Pennsylvania · `Senior` `$111k-$158k`
 
-_Embed security practices, automation, and tooling into engineering team workflows and CI/CD pipelines; design secure-by-default patterns and reference implementations. Partner with platform and architecture teams to reduce risk and improve delivery at scale across applications. · [Apply →](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Oxford/Senior-Product-Security-Engineer-II_R113910-2)_
+_Design and develop application-level user interfaces for complex autonomous systems and robotics platforms, with emphasis on real-time data visualization and UI architecture. Requires U.S. citizenship due to ITAR compliance for defense technology. · [Apply →](https://avav.wd1.myworkdayjobs.com/AVAV/job/Pittsburgh-PA/Software-Engineer--Sr--Apps-_7987)_
 
-`Application Security` `CI/CD Security` `Secure Coding Practices` `Security Automation` `Threat Modeling` `Identity and Access Management` `Secrets Management` `Security Compliance`
+`QML` `C++` `Qt` `React` `Git` `Object-Oriented Design` `Real-time Systems` `UI Architecture`
 
-<sub>June 22, 2026 at 11:07 UTC</sub>
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Principal Research Engineer, Post-Training](https://jobs.ashbyhq.com/character/cab23a8b-97ba-4b20-a8e3-f7d9a61e13f4)
+<a href="https://character.ai"><img src="https://www.google.com/s2/favicons?domain=character.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Character.ai** · Redwood City, California · `Principal`
+
+_Lead the technical vision and execution of post-training systems for large language models, developing alignment algorithms, optimization techniques, and training infrastructure that power Character.AI's role-playing chat features. Mentor a team of researchers and engineers while driving research advances in reinforcement learning, preference optimization, and LLM alignment at scale. · [Apply →](https://jobs.ashbyhq.com/character/cab23a8b-97ba-4b20-a8e3-f7d9a61e13f4)_
+
+`PyTorch` `Transformers` `Reinforcement Learning` `CUDA` `Kubernetes` `Distributed Systems` `Large Language Models` `GPU Optimization`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Senior Cyber Cryptographic Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Cyber-Cryptographic-Engineer_R244948-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Riverwoods, Illinois · `Senior` `$147.1k-$167.9k` `Equity`
+
+_Build enterprise cryptographic platforms and key management systems securing Capital One's cloud infrastructure at scale. Design automated certificate lifecycle management and cryptographic controls across serverless architecture serving hundreds of internal teams; requires deep expertise in PKI, key management, and advanced cryptographic techniques. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Cyber-Cryptographic-Engineer_R244948-1)_
+
+`AWS` `Python` `Terraform` `PKI` `Key Management` `AWS Lambda` `CloudWatch` `Cryptography`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Manager, Data Scientist - Model Risk Office](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Model-Risk-Office_R244712-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · McLean, Virginia / New York, New York / Richmond, Virginia · `Manager` `$179k-$245k` `Equity`
+
+_Build machine learning models and statistical systems for credit risk management and fraud detection across billions of customer records in the Model Risk Office. Lead a team defending against model failures while developing production ML systems using Python, Spark, and AWS at Fortune 200 scale. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Model-Risk-Office_R244712-1)_
+
+`Python` `AWS` `Spark` `H2O` `SQL` `Machine Learning` `Statistics` `Deep Learning`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Sr. Lead Software Engineer (Python, Scala, Spark, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Sr-Lead-Software-Engineer--Python--Scala--Spark--AWS-_R245064-1)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Chicago, Illinois / McLean, Virginia / Richmond, Virginia · `Manager` `$209k-$262.4k` `Equity`
+
+_Lead a portfolio of distributed microservices and full-stack systems projects using Python, Scala, Spark, and AWS; mentor a team of backend engineers on cloud-based solutions for financial services. This is a leadership role at a major financial institution requiring hands-on technical depth alongside team leadership. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Sr-Lead-Software-Engineer--Python--Scala--Spark--AWS-_R245064-1)_
+
+`Python` `Scala` `Spark` `AWS` `Java` `Kubernetes` `Docker` `SQL`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Lead Software Engineer (Python, Scala, Spark, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Python--Scala--Spark--AWS-_R245063)
+<a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Capital One** · Chicago, Illinois / McLean, Virginia / Richmond, Virginia · `Senior` `$179k-$225k` `Equity`
+
+_Lead a team of backend engineers building distributed microservices and cloud-based systems on AWS to support regulatory and financial empowerment products for millions of users. Requires 4+ years of software engineering experience and hands-on coding with Python, Scala, Spark, or Java in a cloud environment. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Python--Scala--Spark--AWS-_R245063)_
+
+`Python` `Scala` `Spark` `AWS` `Java` `Kubernetes` `Docker` `SQL`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Static Timing Analysis (STA) Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Static-Timing-Analysis--STA--Engineer_JR2026514605)
+<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · El Segundo, California · `Senior` `$176k-$239k`
+
+_Own static timing analysis and closure for high-integrity ASICs and FPGAs across Boeing's defense and space programs, from pre-layout through post-layout signoff. Requires U.S. citizenship and ability to obtain Secret clearance; 100% on-site in El Segundo, CA. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Static-Timing-Analysis--STA--Engineer_JR2026514605)_
+
+`Static Timing Analysis` `Synopsys Primetime` `Synopsys Design Compiler` `Cadence Tempus` `Cadence Genus` `Python` `TCL` `Perl`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Systems Engineer (Entry-Level)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Schriever-SFB-CO/Systems-Engineer--Entry-Level-_JR2026512739-1)
+<a href="https://boeing.com"><img src="https://www.google.com/s2/favicons?domain=boeing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Boeing Defense, Space & Security** · Schriever, Colorado · `Junior` `$73k-$100k`
+
+_Support operations and engineering for on-orbit military satellite communications systems, including ground command and control testing, satellite data analysis, and procedure validation. Requires U.S. citizenship and ability to obtain Secret security clearance; fully on-site at Schriever Space Force Base, CO. · [Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Schriever-SFB-CO/Systems-Engineer--Entry-Level-_JR2026512739-1)_
+
+`Satellite Operations` `Ground Systems Software` `Database Management` `Systems Analysis` `TS/SCI Clearance`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Senior Snowflake Platform DevOps Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Snowflake-Platform-DevOps-Engineer_R0055900)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105k-$149k`
+
+_Own the reliability, security, and cost efficiency of Snowflake on AWS infrastructure—design and automate platform operations, CI/CD, observability, access control, and data movement for governed data products. Requires production expertise in Snowflake administration, AWS, Terraform, and Kubernetes; includes on-call incident response and SLO management. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Snowflake-Platform-DevOps-Engineer_R0055900)_
+
+`Snowflake` `AWS` `Terraform` `Kubernetes` `Python` `Git` `SQL` `GitHub`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Senior Full Stack Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Full-Stack-Engineer_RQ222448-2)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$119k-$161k`
+
+_Modernize EPA ENERGYSTAR Portfolio Manager web applications by rewriting the user interface using Angular and maintaining full-stack Java backend services; requires US citizenship and Public Trust clearance. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Full-Stack-Engineer_RQ222448-2)_
+
+`Java` `Angular` `Spring Framework` `Hibernate ORM` `Apache Tomcat` `Angular Material`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Staff Site Reliability Engineer - Volcano](https://jobs.ashbyhq.com/kong/97ddfb66-083f-4ee9-8d85-7372fe20f2a0)
+<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · `🟢 Remote` `Staff`
+
+_Build the reliability foundation and multi-region Kubernetes infrastructure for Volcano, Kong's internal developer platform serving edge deployments, managed PostgreSQL, auth, realtime, and storage APIs. Design and operate the GitOps/CI/CD backbone, managed data services, and observability systems for a greenfield platform at company-wide strategic scale. · [Apply →](https://jobs.ashbyhq.com/kong/97ddfb66-083f-4ee9-8d85-7372fe20f2a0)_
+
+`Kubernetes` `Terraform` `ArgoCD` `Datadog` `Prometheus` `Grafana` `PostgreSQL` `Redis`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Software Engineer - Data](https://boards.greenhouse.io/point72/jobs/8544800002?gh_jid=8544800002)
+<a href="https://point72.com"><img src="https://www.google.com/s2/favicons?domain=point72.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Point72** · New York, New York · `Mid` `$200k-$300k`
+
+_Build enterprise-grade data infrastructure and agentic AI workflows to enable unified data access and trusted data delivery across a multi-billion-dollar investment firm. Requires hands-on experience with LLM-based systems, backend services, and cloud infrastructure at production scale. · [Apply →](https://boards.greenhouse.io/point72/jobs/8544800002?gh_jid=8544800002)_
+
+`Python` `PostgreSQL` `Kubernetes` `Docker` `Terraform` `FastAPI` `AWS` `LLMs`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Machine Learning Engineer](https://job-boards.greenhouse.io/reddit/jobs/8014436)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · San Francisco, California · `Senior` `$187k-$260k` `Equity`
+
+_Design and implement next-generation ML-based recommendation and ranking systems powering Reddit's personalization and discovery for 126M+ daily active users. Train, evaluate, and deploy sophisticated deep learning models to production at scale; requires Master's degree in Computer Science or related quantitative discipline. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8014436)_
+
+`PyTorch` `TensorFlow` `AWS` `GCP` `Scikit-learn` `Pandas` `BigQuery` `Deep Learning`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Software Engineer](https://job-boards.greenhouse.io/reddit/jobs/8013591)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · San Francisco, California · `Mid` `$190k-$267k` `Equity`
+
+_Build new advertising formats for Reddit, including end-to-end prototyping, implementation, and launch across web and mobile surfaces. Develop infrastructure and technical foundations supporting rapid iteration on ad products at scale across 126M daily active users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8013591)_
+
+`TypeScript` `React` `PostgreSQL` `JavaScript` `Kubernetes` `Docker` `CSS` `HTML5`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Software Engineer, Platform](https://jobs.ashbyhq.com/rillet/01ba41d6-06ff-416f-a66b-13f26fd3343c)
+<a href="https://rillet.com"><img src="https://www.google.com/s2/favicons?domain=rillet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rillet** · New York, New York · `🟡 Hybrid` `Senior` `$150k-$270k` `Equity`
+
+_Own the infrastructure, CI/CD, developer tooling, and external API platform that enables Rillet's engineering team to ship accounting and finance software at scale. Deep AWS expertise required; you'll set technical direction for reliability, security, and compliance in an AI-native fintech product. · [Apply →](https://jobs.ashbyhq.com/rillet/01ba41d6-06ff-416f-a66b-13f26fd3343c)_
+
+`AWS` `Kubernetes` `CI/CD` `PostgreSQL` `Kotlin` `TypeScript` `Distributed Systems` `Observability`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Software Engineer](https://jobs.ashbyhq.com/rillet/6d3eaba9-1fc6-4f1a-b1f2-e92b203b6dd9)
+<a href="https://rillet.com"><img src="https://www.google.com/s2/favicons?domain=rillet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rillet** · San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$150k-$270k` `Equity`
+
+_Own full-stack features and systems for an AI-native ERP serving accounting and finance teams, from backend architecture to user interfaces. Scale complex, large-scale projects in a fast-moving fintech environment with strong product instincts and technical decision-making authority. · [Apply →](https://jobs.ashbyhq.com/rillet/6d3eaba9-1fc6-4f1a-b1f2-e92b203b6dd9)_
+
+`Kotlin` `Spring Boot` `TypeScript` `Svelte` `PostgreSQL` `AWS` `Java`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
+
+---
+
+### [Senior Automation Engineer](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Edison-NJ/Senior-Automation-Engineer_REQ516693-1)
+<a href="https://jll.com"><img src="https://www.google.com/s2/favicons?domain=jll.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JLL** · Edison, New Jersey · `Senior` `$129k-$142k`
+
+_Design and implement PLC-based automation control systems for industrial material handling equipment including conveyors, sortation systems, and SCADA devices; lead automation engineering teams at warehouse distribution sites. Requires 5+ years PLC programming experience and leadership of technical staff. · [Apply →](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Edison-NJ/Senior-Automation-Engineer_REQ516693-1)_
+
+`PLC Programming` `Ladder Logic` `Siemens` `Allen-Bradley` `RSLogix5000` `HMI` `SCADA` `Robotics`
+
+<sub>June 22, 2026 at 14:09 UTC</sub>
 
 ---
 
@@ -264,17 +440,6 @@ _Lead a team of full stack engineers building distributed microservices and clou
 `Java` `JavaScript` `TypeScript` `Python` `Go` `AWS` `Kubernetes` `Docker`
 
 <sub>June 21, 2026 at 15:42 UTC</sub>
-
----
-
-### [Forward Deployed Engineer - Finance Analytics & AI Specialist](https://jobs.ashbyhq.com/snowflake/9cf335c9-f99d-4ddb-b307-0dcd3a162a09)
-<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · Menlo Park, California · `🟡 Hybrid` `Mid`
-
-_Build and deploy AI agent workflows, semantic models, and Streamlit analytics applications inside customer Snowflake environments to automate finance workflows like revenue analysis, cost monitoring, and operational reporting. Embed onsite with enterprise finance teams to own end-to-end deployment, production rollout, and knowledge transfer until customers achieve self-sufficiency; requires deep finance domain expertise and daily use of AI coding assistants. · [Apply →](https://jobs.ashbyhq.com/snowflake/9cf335c9-f99d-4ddb-b307-0dcd3a162a09)_
-
-`Python` `SQL` `Snowflake Cortex` `LLM coding assistants (Cursor/GitHub Copilot/CoCo)` `Streamlit` `YAML` `Prompt Engineering` `Finance Analytics`
-
-<sub>June 21, 2026 at 13:43 UTC</sub>
 
 ---
 
