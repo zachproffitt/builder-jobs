@@ -2,13 +2,90 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **161 open roles** (10 new)
+### **172 open roles** (17 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 22, 2026
+
+### [Senior Engineering Manager, AI Quality & Governance ](https://job-boards.greenhouse.io/mitratech/jobs/7983765)
+<a href="https://inszoom.com"><img src="https://www.google.com/s2/favicons?domain=inszoom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**INSZoom** · `🟢 Remote` `Manager` `$210k-$230k`
+
+_Lead the AI Quality & Governance platform that makes AI systems at Mitratech measurable, observable, and production-ready — designing evaluations, observability infrastructure, guardrails, and governance controls across LLM and agentic workflows. Hands-on leadership role combining platform engineering and applied AI quality with ~50% production code writing; requires shipping production AI systems and operating their operational complexity at scale. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/7983765)_
+
+`Python` `TypeScript` `AWS` `LangFuse` `LLM systems` `AI observability` `Backend systems` `AI governance`
+
+<sub>June 22, 2026 at 18:29 UTC</sub>
+
+---
+
+### [Senior Engineering Manager, Data & Cloud Platform ](https://job-boards.greenhouse.io/mitratech/jobs/7983778)
+<a href="https://inszoom.com"><img src="https://www.google.com/s2/favicons?domain=inszoom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**INSZoom** · `🟢 Remote` `Manager` `$190k-$210k`
+
+_Lead the data and cloud infrastructure foundation for an AI platform organization, building unified data access layers, agent memory systems, shared ingestion pipelines, and cloud runtime infrastructure that powers AI product teams across legal workflows. Hands-on manager role spending ~50% time writing production code; requires design and operation of multi-team data platforms in regulated, compliance-sensitive environments with legacy product data fragmentation. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/7983778)_
+
+`Python` `TypeScript` `AWS` `Snowflake` `Fivetran` `dbt` `Kubernetes` `Distributed Systems`
+
+<sub>June 22, 2026 at 18:29 UTC</sub>
+
+---
+
+### [Software Development Engineer II, Search](https://jobs.ashbyhq.com/Mapbox/f287033e-0b09-4f60-9b97-447b490757fb)
+<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox** · `🟢 Remote` `Senior` `$160k-$217k`
+
+_Design and optimize on-device search algorithms for mobile and automotive systems operating without network connectivity, handling data compression (Zstd), delta updates, and performance tuning under strict CPU and memory constraints. Work directly with automotive OEMs and Tier 1 suppliers globally to integrate offline search capabilities into production vehicles and mobile devices. · [Apply →](https://jobs.ashbyhq.com/Mapbox/f287033e-0b09-4f60-9b97-447b490757fb)_
+
+`C++` `Python` `Zstd` `Data Compression` `Algorithm Optimization` `Performance Profiling` `Geospatial Data` `Automotive Systems`
+
+<sub>June 22, 2026 at 18:29 UTC</sub>
+
+---
+
+### [Distinguished Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7940044)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Seattle, Washington / Remote · `🟢 Remote` `Principal` `$280k–$576k` `Equity`
+
+_Define the technical vision and architecture for Pinterest's Homefeed, Search, and AI Assistant, leading the design of large-scale retrieval, ranking, and generative AI systems that shape discovery for hundreds of millions of users. Drive multi-year architectural transformations unifying signals and models across surfaces while mentoring senior engineers and staff technical leaders. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7940044)_
+
+`Large-scale Retrieval & Ranking` `Representation Learning` `Search Systems` `Large Language Models` `Multi-objective Optimization` `Machine Learning Infrastructure` `Distributed Systems` `RAG`
+
+<sub>June 22, 2026 at 18:29 UTC</sub>
+
+---
+
+### [Senior Frontend Software Engineer, Home Experience](https://job-boards.greenhouse.io/reddit/jobs/7751064)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k—$267k` `Equity`
+
+_Build the feed experience for hundreds of millions of Reddit users across web and mobile platforms, optimizing for high traffic, performance, and user engagement. Work on large-scale web applications with complex architecture serving massive RPS while driving metrics-led product decisions. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7751064)_
+
+`JavaScript` `TypeScript` `React` `CSS` `GraphQL` `REST` `large-scale web applications`
+
+<sub>June 22, 2026 at 18:29 UTC</sub>
+
+---
+
+### [Software Engineer, Test](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Software-Engineer--Test_JR115219)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Junior` `$94k-$152k` `Equity`
+
+_Build and maintain end-to-end, component, and load tests for ServiceTitan's dispatch scheduling system serving 15,000+ contractor businesses using Playwright, Cypress, and K6. Core role requires proficiency with AI-assisted test authoring (Claude/Copilot) as the primary development workflow. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Software-Engineer--Test_JR115219)_
+
+`Playwright` `Cypress` `K6` `JavaScript` `TypeScript` `Git` `Jira` `HTML/CSS/XPath`
+
+<sub>June 22, 2026 at 18:29 UTC</sub>
+
+---
+
+### [Principal Technical Architect - AI/ML](https://jobs.ashbyhq.com/snowflake/87566a4e-d05f-4f9c-b32a-b3c36a6f494a)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · `🟢 Remote` `Principal`
+
+_Architect enterprise AI/ML solutions and legacy system modernizations on Snowflake, designing reusable patterns and guardrails for LLM safety and performance at scale. Deep expertise in migrating Netezza, Teradata, and Exadata workloads to cloud-native AI infrastructure required. · [Apply →](https://jobs.ashbyhq.com/snowflake/87566a4e-d05f-4f9c-b32a-b3c36a6f494a)_
+
+`Snowflake` `LLM` `Generative AI` `Vector Databases` `Data Architecture` `Cloud Migration` `Enterprise Architecture`
+
+<sub>June 22, 2026 at 18:29 UTC</sub>
+
+---
 
 ### [Senior Software Engineer](https://arpio.breezy.hr/p/0eb60b4e96fd-senior-software-engineer)
 <a href="https://arpio.io"><img src="https://www.google.com/s2/favicons?domain=arpio.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Arpio** · `🟢 Remote` `Senior`
@@ -65,12 +142,12 @@ _Architect and scale secure CI/CD pipelines, Infrastructure as Code, and Kuberne
 
 ---
 
-### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Junior` `$144k–$192k` `Equity`
+### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Pittsburgh, Pennsylvania / Remote · `🟢 Remote` `Junior` `$144k-$192k` `Equity`
 
-_Build ML pipelines and embedding-based search tools to discover edge cases and long-tail scenarios in petabytes of autonomous driving sensor data. Work with foundation models, representation learning, and active learning workflows to accelerate model improvement and dataset curation. · [Apply →](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)_
+_Build ML pipelines and embedding-based search tools to mine critical edge cases and long-tail scenarios from petabytes of multimodal autonomous vehicle sensor data. Work with foundation models, representation learning, and active learning to accelerate model improvement across post-training analysis and dataset curation for self-driving vehicles. · [Apply →](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)_
 
-`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Multimodal Learning` `Active Learning`
+`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Active Learning` `Multimodal Learning`
 
 <sub>June 22, 2026 at 16:41 UTC</sub>
 
@@ -123,6 +200,17 @@ _Build the reliability foundation and multi-region Kubernetes infrastructure for
 <br>
 
 ## June 21, 2026
+
+### [Performance Tester/Platform Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Performance-Tester-Platform-Engineer_RQ222784)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$96k-$130k`
+
+_Design and execute performance, load, and stress tests for enterprise case management applications running on AWS, using tools like JMeter, LoadRunner, and K6. Diagnose performance bottlenecks in React and Node.js microservices, validate system scalability under federal standards, and integrate automated performance testing into CI/CD pipelines. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Performance-Tester-Platform-Engineer_RQ222784)_
+
+`JMeter` `LoadRunner` `K6` `JavaScript` `AWS` `Datadog` `Prometheus` `Grafana`
+
+<sub>June 21, 2026 at 05:48 UTC</sub>
+
+---
 
 ### [Sr Principal, ServiceNow Developer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Sr-Principal--ServiceNow-Developer_RQ222503-1)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Principal` `$130k-$177k`
@@ -594,6 +682,17 @@ _Own the architecture and platform infrastructure for Tailscale's next-generatio
 
 ---
 
+### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
+
+_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
+
+`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
+
+<sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
 ### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
 <a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
 
@@ -788,6 +887,28 @@ _Design, architect, and maintain cloud infrastructure solutions across AWS, Azur
 <br>
 
 ## June 16, 2026
+
+### [Software Development Engineer, iOS](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Mid` `$129k-$217k` `Equity`
+
+_Build and maintain Zillow's iOS design system, creating reusable components and patterns that product teams use to build high-quality experiences for millions of mobile users. Work with modern development environments incorporating AI-assisted tools while upholding accessibility and performance standards across iOS applications. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)_
+
+`Swift` `SwiftUI` `iOS` `Accessibility` `CI/CD` `Testing Frameworks` `Application Performance` `Build Tools`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer, Android](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build reusable Android components, frameworks, and design system infrastructure using Kotlin and Jetpack Compose that power consistent experiences across Zillow's mobile products at scale. Architect platform-level UI systems and tooling that improve developer velocity and code quality across the organization. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)_
+
+`Kotlin` `Jetpack Compose` `Android Architecture` `Android UI/UX` `Design Systems` `Accessibility`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
 
 ### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/aa156425-ec0d-4617-a684-521501ebc8cd)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
