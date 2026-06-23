@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **161 open roles** (32 new)
+### **166 open roles** (32 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -153,23 +153,23 @@ _Build and maintain developer tooling, CI/CD infrastructure, and automation syst
 
 ---
 
-### [QA/Automation Tester](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$96k-$130k`
-
-_Build AI-driven test automation frameworks for USPS payroll systems using Python, Selenium, and generative AI tools to automate test case generation, execution, and maintenance. Must obtain Public Trust clearance and have 5-year US residency requirement. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)_
-
-`Python` `Selenium` `Test Automation` `Visual Studio Code` `GitHub Copilot` `Payroll Domain Knowledge` `CI/CD` `AI/ML Tools`
-
-<sub>June 22, 2026 at 20:09 UTC</sub>
-
----
-
 ### [Backend Engineer, Flag Delivery](https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$145k-$235k` `Equity` `Health insurance` `Vision insurance` `Dental insurance` `Mental health benefits`
 
 _Build and operate backend services powering LaunchDarkly's real-time flag delivery systems, handling streaming and polling models at scale. Work on distributed systems with caching, concurrency, and failure handling; requires strong production debugging instincts and AI fluency in engineering workflow. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003)_
 
 `Go` `Java` `Rust` `Distributed Systems` `Caching` `Observability` `Production Debugging`
+
+<sub>June 22, 2026 at 20:09 UTC</sub>
+
+---
+
+### [QA/Automation Tester](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$96k-$130k`
+
+_Build AI-driven test automation frameworks for USPS payroll systems using Python, Selenium, and generative AI tools to automate test case generation, execution, and maintenance. Must obtain Public Trust clearance and have 5-year US residency requirement. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)_
+
+`Python` `Selenium` `Test Automation` `Visual Studio Code` `GitHub Copilot` `Payroll Domain Knowledge` `CI/CD` `AI/ML Tools`
 
 <sub>June 22, 2026 at 20:09 UTC</sub>
 
@@ -307,12 +307,12 @@ _Architect and scale secure CI/CD pipelines, Infrastructure as Code, and Kuberne
 
 ---
 
-### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Pittsburgh, Pennsylvania / Remote · `🟢 Remote` `Junior` `$144k-$192k` `Equity`
+### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Junior` `$144k–$192k` `Equity`
 
-_Build ML pipelines and embedding-based search tools to mine critical edge cases and long-tail scenarios from petabytes of multimodal autonomous vehicle sensor data. Work with foundation models, representation learning, and active learning to accelerate model improvement across post-training analysis and dataset curation for self-driving vehicles. · [Apply →](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)_
+_Build ML pipelines and embedding-based search tools to discover edge cases and long-tail scenarios in petabytes of autonomous driving sensor data. Work with foundation models, representation learning, and active learning workflows to accelerate model improvement and dataset curation. · [Apply →](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)_
 
-`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Active Learning` `Multimodal Learning`
+`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Multimodal Learning` `Active Learning`
 
 <sub>June 22, 2026 at 16:41 UTC</sub>
 
@@ -803,14 +803,36 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 
 ---
 
-### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$242k—$302k CAD` `Equity`
+### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$181k—$226k` `Equity`
 
-_Own the technical architecture of Tailscale's next-generation web console, including authentication infrastructure, unified product platform, and shared frontend systems. Build at the intersection of product engineering and platform engineering across identity, security, and multi-service integrations. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)_
+_Own the architecture and platform infrastructure for Tailscale's next-generation web console, including authentication, session management, and cross-origin integrations. Lead frontend platform design across multiple products unified under one experience, with deep involvement in identity systems and browser security. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)_
 
-`React` `TypeScript` `HTTP` `CORS` `Authentication` `CSRF Protection` `Web Security` `Testing Infrastructure`
+`React` `TypeScript` `Web Security (CORS, CSRF, cookies)` `Authentication Systems` `Testing Infrastructure` `Design Systems` `Feature Flagging` `Analytics`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
+### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
+
+_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
+
+`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
+
+<sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
+### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
+
+_Build production-grade genomic analysis pipelines for next-generation sequencing data, including variant calling, fusion detection, and quality control systems. Work with sequence alignment algorithms and scaled in-house infrastructure to process complex diagnostic datasets at clinical scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6024028004)_
+
+`Java` `C++` `Python` `Perl` `MySQL` `Linux` `Next-Generation Sequencing` `Variant Calling`
+
+<sub>June 18, 2026 at 15:15 UTC</sub>
 
 ---
 
@@ -987,6 +1009,28 @@ _Build and scale large-scale data ingestion and transformation pipelines integra
 
 ## June 16, 2026
 
+### [Software Development Engineer, iOS](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Mid` `$129k-$217k` `Equity`
+
+_Build and maintain Zillow's iOS design system, creating reusable components and patterns that product teams use to build high-quality experiences for millions of mobile users. Work with modern development environments incorporating AI-assisted tools while upholding accessibility and performance standards across iOS applications. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)_
+
+`Swift` `SwiftUI` `iOS` `Accessibility` `CI/CD` `Testing Frameworks` `Application Performance` `Build Tools`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer, Android](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build reusable Android components, frameworks, and design system infrastructure using Kotlin and Jetpack Compose that power consistent experiences across Zillow's mobile products at scale. Architect platform-level UI systems and tooling that improve developer velocity and code quality across the organization. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)_
+
+`Kotlin` `Jetpack Compose` `Android Architecture` `Android UI/UX` `Design Systems` `Accessibility`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
+
 ### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/aa156425-ec0d-4617-a684-521501ebc8cd)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
 
@@ -1108,12 +1152,12 @@ _Lead technical strategy and architecture for Athena, the vulnerability data cle
 
 ---
 
-### [Senior Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4689483006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Senior` `$157k-$184k` `Equity`
+### [Senior Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4689701006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Senior` `Equity`
 
-_Build and maintain core backend components of a secure software supply chain clearing house in Go, including customer onboarding flows, data ingestion pipelines, and entitlement logic at enterprise scale. Own significant subsystems end-to-end from design through production, working with staff and principal engineers on architectural patterns that handle unstructured data from enterprise customers. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689483006)_
+_Build and maintain core components of Chainguard's vulnerability data clearing house in Go on GCP, including customer onboarding, entitlement logic, and data ingestion pipelines. Own subsystems handling unstructured enterprise data, drive them from design through production, and participate in on-call rotation for a system that processes vulnerability data at enterprise scale. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689701006)_
 
-`Go` `GCP` `Terraform` `PostgreSQL` `Kubernetes` `Data Pipeline Architecture` `IaC`
+`Go` `GCP` `Terraform` `PostgreSQL` `Kubernetes` `gRPC` `Protocol Buffers` `Datadog`
 
 <sub>June 16, 2026 at 16:41 UTC</sub>
 
@@ -1349,6 +1393,17 @@ _Build the UI/UX and front-end implementation for education technology products 
 _Architect and build cloud-native government applications on AWS, designing multi-tenant enterprise platforms with Node.js and React.js front-ends, Lambda microservices, and infrastructure-as-code automation. Requires BI Full 6C public trust clearance and US person status for federal work. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Cloud-Application-Architect--Nodejs-and-Reactjs----Remote_RQ222507-1)_
 
 `AWS` `Node.js` `React.js` `Python` `Bash` `Terraform` `CloudFormation` `Lambda`
+
+<sub>June 15, 2026 at 20:16 UTC</sub>
+
+---
+
+### [Sr. Software Engineer, Android](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$149k-$308k` `Equity`
+
+_Build consumer-facing Android features and frameworks for Pinterest's inspiration platform, scaling to millions of users. Lead product development end-to-end from ideation through A/B testing and release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)_
+
+`Kotlin` `Java` `Android` `Activity Lifecycle` `Memory Management`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
@@ -1760,12 +1815,12 @@ _Build cloud-native applications using Node.js and React.js on AWS infrastructur
 
 ---
 
-### [Senior Software Engineer - Data Platform](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$130k-$220k` `Equity`
+### [Senior Software Engineer - Data Platform](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$126k-$163k CAD` `Equity`
 
-_Design and build high-scale data ingestion, replication, and processing infrastructure for Samsara's data lakehouse, handling petabytes of IoT data from production stores like RDS and DynamoDB into Delta Lake on S3. Work on foundational distributed systems including Spark, Databricks, metadata services, and orchestration platforms that enable analytics, AI, and product teams across the company. · [Apply →](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530)_
+_Design and build high-scale data ingestion and replication systems moving petabytes from production databases into a Spark/Databricks lakehouse, along with foundational data platform infrastructure including Delta Lake, metadata services, and orchestration systems. Requires deep experience with distributed data systems and AWS infrastructure at production scale. · [Apply →](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)_
 
-`Apache Spark` `Databricks` `Delta Lake` `Python` `Go` `AWS (S3, RDS, DynamoDB, Kinesis)` `Terraform` `Airflow`
+`Apache Spark` `Databricks` `Delta Lake` `Python` `Go` `AWS` `Terraform` `Airflow`
 
 <sub>June 9, 2026 at 17:05 UTC</sub>
 
