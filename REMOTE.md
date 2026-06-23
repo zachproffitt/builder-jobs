@@ -2,13 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **172 open roles** (41 new)
+### **168 open roles** (43 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 23, 2026
+
+### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$200k—$241k` `Equity`
+
+_Develop motion planning algorithms (search-based, sampling-based, optimization-based) and integrate them into autonomous vehicle decision-making systems. Build robust, scalable codebases for autonomous driving software deployed in the world's longest-standing public robotaxi fleet; requires C++ expertise and experience processing/analyzing large-scale autonomous vehicle field data. · [Apply →](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)_
+
+`C++` `Motion Planning` `Autonomous Driving` `ROS` `Python` `Optimization` `SLAM` `Robotics`
+
+<sub>June 23, 2026 at 19:44 UTC</sub>
+
+---
+
+### [QA/UAT Engineer](https://jobs.ashbyhq.com/nylas/9482fb3b-0a08-424f-b024-80ccec258d3f)
+<a href="https://nylas.com"><img src="https://www.google.com/s2/favicons?domain=nylas.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nylas** · Remote, Toronto, Ontario · `🟢 Remote` `Mid`
+
+_Build and maintain automated test suites across REST and gRPC APIs for email, calendar, contacts, and scheduling services, alongside browser automation and exploratory testing. Collaborate with backend and frontend teams to integrate quality checks into CI/CD pipelines and pioneer AI-assisted testing workflows. · [Apply →](https://jobs.ashbyhq.com/nylas/9482fb3b-0a08-424f-b024-80ccec258d3f)_
+
+`Go` `Playwright` `Cypress` `Selenium` `gRPC` `REST APIs` `Postman` `Docker`
+
+<sub>June 23, 2026 at 19:44 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Full-stack (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6099681004)
 <a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · `🟢 Remote` `Senior` `$156k-$231k` `Equity`
@@ -272,12 +294,12 @@ _Design and develop end-to-end prototypes and production solutions for AI-powere
 
 ---
 
-### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014352)
-<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff` `$180k-$200k`
+### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014297)
+<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
 
-_Build production AI agent systems for Acquia DAM, architecting stateful multi-agent workflows using LangGraph and Temporal that power enterprise-scale autonomous asset governance, agentic orchestration, and visual transformations. Requires hands-on expertise in LangGraph, Temporal, Pydantic, and LangFuse observability at production scale. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014352)_
+_Build and architect agentic AI workflows for Acquia DAM, deeply integrating production AI systems (LangGraph, Temporal, Pydantic) with enterprise-scale asset governance, autonomous asset management, and multi-model orchestration. Requires 3+ years shipping production AI agents and hands-on expertise in stateful, cyclic workflows at scale; collaborate with product teams on AI observability via LangFuse and mentor engineers on agentic design patterns and RAG strategies. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014297)_
 
-`LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
+`Python` `LangGraph` `Temporal` `Pydantic` `LangFuse` `LangChain` `AWS` `RAG`
 
 <sub>June 23, 2026 at 09:22 UTC</sub>
 
@@ -977,36 +999,14 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 
 ---
 
-### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$242k—$302k CAD` `Equity`
+### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$181k—$226k` `Equity`
 
-_Own the technical architecture of Tailscale's next-generation web console, including authentication infrastructure, unified product platform, and shared frontend systems. Build at the intersection of product engineering and platform engineering across identity, security, and multi-service integrations. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)_
+_Own the architecture and platform infrastructure for Tailscale's next-generation web console, including authentication, session management, and cross-origin integrations. Lead frontend platform design across multiple products unified under one experience, with deep involvement in identity systems and browser security. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)_
 
-`React` `TypeScript` `HTTP` `CORS` `Authentication` `CSRF Protection` `Web Security` `Testing Infrastructure`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
-
-_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
-
-`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
+`React` `TypeScript` `Web Security (CORS, CSRF, cookies)` `Authentication Systems` `Testing Infrastructure` `Design Systems` `Feature Flagging` `Analytics`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
-
-_Build production-grade genomic analysis pipelines for next-generation sequencing data, including variant calling, fusion detection, and quality control systems. Work with sequence alignment algorithms and scaled in-house infrastructure to process complex diagnostic datasets at clinical scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6024028004)_
-
-`Java` `C++` `Python` `Perl` `MySQL` `Linux` `Next-Generation Sequencing` `Variant Calling`
-
-<sub>June 18, 2026 at 15:15 UTC</sub>
 
 ---
 
@@ -1160,28 +1160,6 @@ _Build and scale large-scale data ingestion and transformation pipelines integra
 <br>
 
 ## June 16, 2026
-
-### [Software Development Engineer, iOS](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Mid` `$129k-$217k` `Equity`
-
-_Build and maintain Zillow's iOS design system, creating reusable components and patterns that product teams use to build high-quality experiences for millions of mobile users. Work with modern development environments incorporating AI-assisted tools while upholding accessibility and performance standards across iOS applications. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)_
-
-`Swift` `SwiftUI` `iOS` `Accessibility` `CI/CD` `Testing Frameworks` `Application Performance` `Build Tools`
-
-<sub>June 16, 2026 at 23:39 UTC</sub>
-
----
-
-### [Senior Software Development Engineer, Android](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Build reusable Android components, frameworks, and design system infrastructure using Kotlin and Jetpack Compose that power consistent experiences across Zillow's mobile products at scale. Architect platform-level UI systems and tooling that improve developer velocity and code quality across the organization. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)_
-
-`Kotlin` `Jetpack Compose` `Android Architecture` `Android UI/UX` `Design Systems` `Accessibility`
-
-<sub>June 16, 2026 at 23:39 UTC</sub>
-
----
 
 ### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/aa156425-ec0d-4617-a684-521501ebc8cd)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
@@ -1479,17 +1457,6 @@ _Lead the Activations engineering team responsible for client onboarding integra
 _Build the UI/UX and front-end implementation for education technology products used by millions of students and teachers; design and maintain a living design system as code while bridging design and engineering teams. Requires expert-level Figma and production React/TypeScript proficiency with deep ownership of pixel-accurate, accessible implementations. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7998049)_
 
 `React` `TypeScript` `Figma` `HTML/CSS` `Storybook` `WCAG` `Design Systems` `Accessibility`
-
-<sub>June 15, 2026 at 20:16 UTC</sub>
-
----
-
-### [Sr. Software Engineer, Android](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$149k-$308k` `Equity`
-
-_Build consumer-facing Android features and frameworks for Pinterest's inspiration platform, scaling to millions of users. Lead product development end-to-end from ideation through A/B testing and release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)_
-
-`Kotlin` `Java` `Android` `Activity Lifecycle` `Memory Management`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
@@ -1865,17 +1832,6 @@ _Build and maintain Vanta's company website on a modern headless CMS stack (Next
 `Next.js` `TypeScript` `React` `Sanity CMS` `Tailwind CSS` `JavaScript` `GROQ` `Vercel`
 
 <sub>June 9, 2026 at 17:48 UTC</sub>
-
----
-
-### [Founding Design Engineer](https://jobs.ashbyhq.com/garage/c8aced60-6abf-46a2-8a00-59c2996305d0)
-<a href="https://www.shopgarage.com"><img src="https://www.google.com/s2/favicons?domain=www.shopgarage.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Garage** · New York, New York · `🟢 Remote` `Mid` `Equity`
-
-_Build polished, production-quality UI across Garage's asset marketplace platform using React, Next.js, and TypeScript, working directly with the Co-founder and CTO on design details from discovery to shipping. · [Apply →](https://jobs.ashbyhq.com/garage/c8aced60-6abf-46a2-8a00-59c2996305d0)_
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `CSS`
-
-<sub>June 9, 2026 at 17:05 UTC</sub>
 
 ---
 
