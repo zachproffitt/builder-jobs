@@ -2,13 +2,112 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **171 open roles** (40 new)
+### **181 open roles** (43 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 23, 2026
+
+### [Platform Solution Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Platform-Solution-Engineer--MANTL-_JR-000725)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Mid` `$100k-$120k`
+
+_Configure and deploy backend system environments for financial institutions during implementation, translating business requirements into scalable JSON and API configurations aligned with banking best practices. Work with regulated financial services systems where configuration decisions impact core deposit account workflows across multiple concurrent customer implementations. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Platform-Solution-Engineer--MANTL-_JR-000725)_
+
+`JSON` `REST APIs` `Postman` `API configuration` `Core banking systems` `Financial services` `JIRA`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Data Engineer ](https://job-boards.greenhouse.io/newsela/jobs/7985789)
+<a href="https://newsela.com"><img src="https://www.google.com/s2/favicons?domain=newsela.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Newsela** · `🟢 Remote` `Mid` `$100k-$120.8k` `Equity`
+
+_Build and maintain ETL pipelines and custom integrations between K-12 Student Information Systems and internal/external platforms, ensuring data accuracy and availability across educational workflows. Work with REST APIs, SFTP, and data warehousing systems to support school operations and learning analytics. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7985789)_
+
+`Python` `SQL` `ETL/ELT tools` `REST APIs` `SFTP` `Data Warehousing` `Student Information Systems (SIS)`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Senior AI/ML Engineer](https://job-boards.greenhouse.io/natera/jobs/6099227004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$125k–$157k`
+
+_Design and build production-grade generative AI and ML platforms for healthcare, including vector search, RAG systems, agentic orchestration, and LLMOps infrastructure serving internal workflows and external-facing AI solutions. Requires expertise in compliance-first engineering for regulated healthcare environments (HIPAA, CLIA, FDA) and hands-on leadership establishing platform standards across the organization. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6099227004)_
+
+`Python` `PyTorch` `TensorFlow` `AWS` `Kubernetes` `MLflow` `Terraform` `Datadog`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Senior Director, Architecture](https://job-boards.greenhouse.io/pingidentity/jobs/8603018002)
+<a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Manager`
+
+_Lead the technical architecture strategy across Ping Identity's cloud identity platform, defining enterprise architecture standards, driving cloud-native modernization, and embedding AI-first thinking across product and engineering. Requires 15+ years in software architecture leadership with proven experience scaling distributed systems, conducting M&A technical due diligence, and influencing senior executives in complex enterprise environments. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8603018002)_
+
+`Distributed Systems` `Cloud Architecture` `DevSecOps` `Kubernetes` `Microservices` `API Design` `AI/ML Infrastructure` `Platform Engineering`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Manager II, Trends Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=7909000)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Manager` `$177k–$364k` `Equity`
+
+_Lead a team of engineers building Pinterest Trends, Audience Insights, and AI-powered advertiser insights products that drive advertiser decision-making across the Ads ecosystem. Establish technical standards for LLM-powered capabilities including summarization, classification, and conversational insights with safety and quality guardrails. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7909000)_
+
+`LLM/Generative AI` `Python` `Distributed Systems` `Data Infrastructure` `SQL` `Kubernetes` `Experimentation/A-B Testing` `AWS`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Sr. Data Scientist, Forecasting](https://www.pinterestcareers.com/jobs/?gh_jid=8001932)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$164k-$339k` `Equity`
+
+_Lead the forecasting team building production time-series models for key company metrics (MAU, revenue) at web scale, owning the full modeling lifecycle from problem framing through deployment and monitoring. Mentor 2+ data scientists and present high-visibility scenario analyses to VP-level leadership; requires 8+ years of production forecasting experience and strong SQL/Python skills. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8001932)_
+
+`Python` `SQL` `Airflow` `Time-Series Modeling` `Forecasting` `Statistics` `Hive/Presto/Spark SQL` `scikit-learn`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Trends Machine Learning Infrastructure ](https://www.pinterestcareers.com/jobs/?gh_jid=7960984)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Staff` `$177k—$364k` `Equity`
+
+_Lead the technical architecture of a unified, AI-powered insights platform that transforms Pinterest's trend and audience signals into actionable intelligence for advertisers. Build scalable data pipelines and LLM-powered capabilities (summarization, classification, agentic systems) integrated across the Ads ecosystem; requires on-site quarterly in San Francisco or Palo Alto. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7960984)_
+
+`Python` `Machine Learning` `LLMs` `Data Pipelines` `Distributed Systems` `SQL` `Spark` `PyTorch`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Software Engineer II, Voice AI Platform](https://careers.toasttab.com/jobs?gh_jid=8013367)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote / Boston, Massachusetts / New York, New York · `🟢 Remote` `Mid` `$125k-$254k` `Equity`
+
+_Design and build scalable backend services for Toast's Voice AI platform, handling real-time integrations and microservices in Kotlin/Java. Work in a greenfield space where platform and use cases are being defined together; requires comfort with AI-powered systems, nondeterminism, and observability challenges distinct from traditional software. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8013367)_
+
+`Kotlin` `Java` `PostgreSQL` `AWS` `React` `Distributed Systems` `Microservices` `DynamoDB`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Senior DevOps Engineer  ](https://www.unqork.com/career-details/?gh_jid=8577078002)
+<a href="https://unqork.com"><img src="https://www.google.com/s2/favicons?domain=unqork.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Unqork** · `🟢 Remote` `Senior` `$110k-$170k` `Equity`
+
+_Build the next-generation control plane provisioning and managing Kubernetes clusters across commercial, government, and edge environments, with emphasis on automation and scale. Design self-service infrastructure tooling and observability systems for regulated enterprise environments handling millions of transactions. · [Apply →](https://www.unqork.com/career-details/?gh_jid=8577078002)_
+
+`Kubernetes` `Terraform` `Go` `AWS` `TypeScript` `Python` `IaC` `Distributed Systems`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
 
 ### [Software Engineer, Mission Systems](https://job-boards.greenhouse.io/planetlabs/jobs/8008293)
 <a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Mid` `$127k—$180k USD` `Equity`
@@ -54,12 +153,12 @@ _Design and implement security controls for AI systems, agents, and enterprise i
 
 ---
 
-### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782262003#/7782262003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$190k–$244k` `Equity`
+### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782401003#/7782401003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$168k–$244k` `Equity`
 
-_Design and implement onboard and offboard software pipelines for autonomous vehicle localization systems, including SLAM development and sensor fusion. Work with a team scaling production robotaxi technology; requires 3+ years of production C++ development in autonomous robotics. · [Apply →](https://motional.com/open-positions/?gh_jid=7782262003#/7782262003)_
+_Build large-scale data mining and continuous learning pipelines for autonomous driving, extracting uncertainty indicators to identify challenging scenarios and improve model performance. Work spans ML infrastructure integration, statistical analysis of model robustness, and mentorship of junior researchers on a deployed robotaxi fleet. · [Apply →](https://motional.com/open-positions/?gh_jid=7782401003#/7782401003)_
 
-`C++` `SLAM` `Sensor Fusion` `Data Pipelines` `Autonomous Vehicles` `Python`
+`Python` `PyTorch` `AWS (S3, RDS, Athena, Redshift, EKS)` `PostgreSQL` `SQL` `Kubernetes` `TensorFlow` `Distributed Systems`
 
 <sub>June 23, 2026 at 19:44 UTC</sub>
 
@@ -305,6 +404,17 @@ _Design and scale AI-driven HR solutions including chatbots and agents that auto
 
 ---
 
+### [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
+
+_Build and scale the Core API Platform that processes millions of requests per second, powering Reddit's listings, posts, comments, and media features. Mentor junior engineers while optimizing media delivery and system performance to 5+ nines availability across hundreds of millions of users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8022441)_
+
+`Go` `Python` `Distributed Systems` `API Platform Architecture` `Media Delivery`
+
+<sub>June 23, 2026 at 15:10 UTC</sub>
+
+---
+
 ### [Senior Manager, Engineering](https://jobs.ashbyhq.com/snapdocs/7bca3a10-4dac-408e-b7b7-93d0aef0d6e0)
 <a href="https://snapdocs.com"><img src="https://www.google.com/s2/favicons?domain=snapdocs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snapdocs** · `🟢 Remote` `Manager` `$164k-$235k` `Equity`
 
@@ -327,12 +437,12 @@ _Design and develop end-to-end prototypes and production solutions for AI-powere
 
 ---
 
-### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014297)
-<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
+### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014352)
+<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff` `$180k-$200k`
 
-_Build and architect agentic AI workflows for Acquia DAM, deeply integrating production AI systems (LangGraph, Temporal, Pydantic) with enterprise-scale asset governance, autonomous asset management, and multi-model orchestration. Requires 3+ years shipping production AI agents and hands-on expertise in stateful, cyclic workflows at scale; collaborate with product teams on AI observability via LangFuse and mentor engineers on agentic design patterns and RAG strategies. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014297)_
+_Build production AI agent systems for Acquia DAM, architecting stateful multi-agent workflows using LangGraph and Temporal that power enterprise-scale autonomous asset governance, agentic orchestration, and visual transformations. Requires hands-on expertise in LangGraph, Temporal, Pydantic, and LangFuse observability at production scale. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014352)_
 
-`Python` `LangGraph` `Temporal` `Pydantic` `LangFuse` `LangChain` `AWS` `RAG`
+`LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
 
 <sub>June 23, 2026 at 09:22 UTC</sub>
 
