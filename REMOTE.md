@@ -2,13 +2,68 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **167 open roles** (37 new)
+### **171 open roles** (40 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 23, 2026
+
+### [Manager, Forward Deployed Engineering - CMEG](https://databricks.com/company/careers/open-positions/job?gh_jid=8585019002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Manager` `$211k—$291k` `Equity`
+
+_Lead a team of Forward Deployed Engineers and AI Engineers delivering large-scale data platform migrations, lakehouse transformations, and generative AI systems to strategic enterprise accounts. Requires 5+ years hands-on experience as a technical solutions architect or data/AI engineer combined with 4+ years managing high-performing technical delivery teams. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8585019002)_
+
+`Apache Spark` `Delta Lake` `MLflow` `Databricks` `Data Migration` `ML/AI Systems`
+
+<sub>June 23, 2026 at 15:10 UTC</sub>
+
+---
+
+### [Manager, Forward Deployed Engineering - Manufacturing](https://databricks.com/company/careers/open-positions/job?gh_jid=8585023002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Manager` `$211k–$291k` `Equity`
+
+_Lead a team of Forward Deployed Engineers and AI Engineers delivering large-scale data migrations, lakehouse architecture, and generative AI systems to enterprise customers; requires deep technical credibility in modern data and AI platforms alongside people leadership. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8585023002)_
+
+`Apache Spark` `Delta Lake` `MLflow` `Databricks` `Python` `Scala` `SQL` `Distributed Systems`
+
+<sub>June 23, 2026 at 15:10 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Backend Foundations](https://job-boards.greenhouse.io/parachutehealth/jobs/5166132007)
+<a href="https://parachute.com"><img src="https://www.google.com/s2/favicons?domain=parachute.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Parachute Health** · `🟢 Remote` `Senior` `$165k-$210k` `Equity`
+
+_Build full-stack platform services in Ruby and TypeScript/React that power a medical equipment ordering system connecting 300K+ clinicians; develop agentic LLM workflows to enhance the software development lifecycle and strengthen production observability across the platform. · [Apply →](https://job-boards.greenhouse.io/parachutehealth/jobs/5166132007)_
+
+`Ruby` `TypeScript` `React` `Python` `Go` `AWS` `Terraform` `LangGraph`
+
+<sub>June 23, 2026 at 15:10 UTC</sub>
+
+---
+
+### [Principal Data Analytics and AI Analyst](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Principal-Data-Analytics-and-AI-Analyst_JR112381)
+<a href="https://ptc.com"><img src="https://www.google.com/s2/favicons?domain=ptc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**PTC** · `🟢 Remote` `Senior` `$126k-$160k` `Equity`
+
+_Design and scale AI-driven HR solutions including chatbots and agents that automate workflows across Workday, ServiceNow, and SharePoint; lead workforce analytics and executive dashboarding to drive HR decision-making at a 7,000-person organization. · [Apply →](https://ptc.wd1.myworkdayjobs.com/PTC/job/Remote-USA/Principal-Data-Analytics-and-AI-Analyst_JR112381)_
+
+`Python` `Power BI` `Workday` `AI/ML` `ServiceNow` `DAX` `Foundry`
+
+<sub>June 23, 2026 at 15:10 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
+
+_Build and scale the Core API Platform that processes millions of requests per second, powering Reddit's listings, posts, comments, and media features. Mentor junior engineers while optimizing media delivery and system performance to 5+ nines availability across hundreds of millions of users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8022441)_
+
+`Go` `Python` `Distributed Systems` `API Platform Architecture` `Media Delivery`
+
+<sub>June 23, 2026 at 15:10 UTC</sub>
+
+---
 
 ### [Senior Manager, Engineering](https://jobs.ashbyhq.com/snapdocs/7bca3a10-4dac-408e-b7b7-93d0aef0d6e0)
 <a href="https://snapdocs.com"><img src="https://www.google.com/s2/favicons?domain=snapdocs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snapdocs** · `🟢 Remote` `Manager` `$164k-$235k` `Equity`
@@ -212,23 +267,23 @@ _Build and maintain developer tooling, CI/CD infrastructure, and automation syst
 
 ---
 
-### [QA/Automation Tester](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$96k-$130k`
-
-_Build AI-driven test automation frameworks for USPS payroll systems using Python, Selenium, and generative AI tools to automate test case generation, execution, and maintenance. Must obtain Public Trust clearance and have 5-year US residency requirement. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)_
-
-`Python` `Selenium` `Test Automation` `Visual Studio Code` `GitHub Copilot` `Payroll Domain Knowledge` `CI/CD` `AI/ML Tools`
-
-<sub>June 22, 2026 at 20:09 UTC</sub>
-
----
-
 ### [Backend Engineer, Flag Delivery](https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$145k-$235k` `Equity` `Health insurance` `Vision insurance` `Dental insurance` `Mental health benefits`
 
 _Build and operate backend services powering LaunchDarkly's real-time flag delivery systems, handling streaming and polling models at scale. Work on distributed systems with caching, concurrency, and failure handling; requires strong production debugging instincts and AI fluency in engineering workflow. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003)_
 
 `Go` `Java` `Rust` `Distributed Systems` `Caching` `Observability` `Production Debugging`
+
+<sub>June 22, 2026 at 20:09 UTC</sub>
+
+---
+
+### [QA/Automation Tester](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$96k-$130k`
+
+_Build AI-driven test automation frameworks for USPS payroll systems using Python, Selenium, and generative AI tools to automate test case generation, execution, and maintenance. Must obtain Public Trust clearance and have 5-year US residency requirement. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/QA-Automation-Tester_RQ222899-1)_
+
+`Python` `Selenium` `Test Automation` `Visual Studio Code` `GitHub Copilot` `Payroll Domain Knowledge` `CI/CD` `AI/ML Tools`
 
 <sub>June 22, 2026 at 20:09 UTC</sub>
 
@@ -399,17 +454,6 @@ _Build and operate highly available, massive-scale distributed systems for Twili
 
 ---
 
-### [Senior Full Stack Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Full-Stack-Engineer_RQ222448-2)
-<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Senior` `$119k-$161k`
-
-_Modernize EPA ENERGYSTAR Portfolio Manager web applications by rewriting the user interface using Angular and maintaining full-stack Java backend services; requires US citizenship and Public Trust clearance. · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Full-Stack-Engineer_RQ222448-2)_
-
-`Java` `Angular` `Spring Framework` `Hibernate ORM` `Apache Tomcat` `Angular Material`
-
-<sub>June 22, 2026 at 14:09 UTC</sub>
-
----
-
 ### [Staff Site Reliability Engineer - Volcano](https://jobs.ashbyhq.com/kong/97ddfb66-083f-4ee9-8d85-7372fe20f2a0)
 <a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · `🟢 Remote` `Staff`
 
@@ -455,6 +499,21 @@ _Develop and maintain ServiceNow applications across ITSM modules, including cus
 `ServiceNow` `JavaScript` `ITSM` `Now Assist` `Prompt Engineering` `Agile` `SQL` `REST APIs`
 
 <sub>June 21, 2026 at 05:48 UTC</sub>
+
+---
+
+<br>
+
+## June 20, 2026
+
+### [Software Developer | Active Secret clearance](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Software-Developer---Active-Secret-clearance_RQ222779)
+<a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Mid` `$112k-$138k`
+
+_Build cloud-based applications and automation solutions supporting Navy mission-critical systems. Requires active Secret clearance and 3+ years of cloud development experience in multi-cloud environments (Azure, AWS, GCP, OCI). · [Apply →](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Software-Developer---Active-Secret-clearance_RQ222779)_
+
+`Azure` `AWS` `GitHub` `GitLab` `Agile` `CompTIA Security+` `Secret Clearance`
+
+<sub>June 20, 2026 at 05:40 UTC</sub>
 
 ---
 
@@ -873,17 +932,6 @@ _Own the architecture and platform infrastructure for Tailscale's next-generatio
 
 ---
 
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
-
-_Build production-grade genomic analysis pipelines for next-generation sequencing data, including variant calling, fusion detection, and quality control systems. Work with sequence alignment algorithms and scaled in-house infrastructure to process complex diagnostic datasets at clinical scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6024028004)_
-
-`Java` `C++` `Python` `Perl` `MySQL` `Linux` `Next-Generation Sequencing` `Variant Calling`
-
-<sub>June 18, 2026 at 15:15 UTC</sub>
-
----
-
 ### [Principal DevSecOps / Platform Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Principal-DevSecOps---Platform-Engineer_RQ222176)
 <a href="https://gdit.com"><img src="https://www.google.com/s2/favicons?domain=gdit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**General Dynamics Information Technology** · `🟢 Remote` `Principal` `$113.9k-$154.1k`
 
@@ -1167,12 +1215,12 @@ _Design and build scalable backend systems and third-party integrations for a te
 
 ---
 
-### [Principal Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4690547006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `Equity`
+### [Principal Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4689477006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `$220k–$258k` `Equity`
 
-_Lead technical strategy and architecture for Athena, the vulnerability data clearing house that validates, deduplicates, and routes enterprise security findings at enterprise scale. Transition the system from rapid prototyping to production-grade infrastructure with deep ownership of data validation pipelines, workflow orchestration, and vulnerability remediation workflows. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4690547006)_
+_Set technical direction for Athena, Chainguard's vulnerability data clearing house that ingests, validates, deduplicates, and routes enterprise vulnerability reports at scale. Own the transition from rapid prototyping to production-grade systems with observability, incident handling, and operational rigor across distributed data pipelines and customer entitlement systems. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689477006)_
 
-`Go` `GCP` `Terraform` `Distributed Systems` `Data Pipelines` `Vulnerability Management` `Cloud Security`
+`Go` `GCP` `Terraform` `Distributed Systems` `Data Pipelines` `Kubernetes` `PostgreSQL`
 
 <sub>June 16, 2026 at 16:41 UTC</sub>
 
