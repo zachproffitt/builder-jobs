@@ -2,13 +2,46 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **181 open roles** (43 new)
+### **186 open roles** (45 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 23, 2026
+
+### [Sr. Data Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Data-Engineer_JR-000718)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Senior` `$120k-$150k`
+
+_Build and maintain data lakes and data warehousing solutions for a multi-tenant banking SaaS platform, including ETL pipelines, data governance, and infrastructure as code. Lead design and code reviews while mentoring junior engineers; requires deep expertise in AWS big data services and modern data architecture at scale. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Data-Engineer_JR-000718)_
+
+`Python` `SQL` `AWS (EMR, Glue, S3, EKS, Lambda, Athena, RDS, Kinesis)` `PostgreSQL` `Kubernetes` `Terraform` `Kafka` `Redshift`
+
+<sub>June 23, 2026 at 22:35 UTC</sub>
+
+---
+
+### [Senior Software Engineer – Low-Latency, Async & Systems Programming | Cloud Security](https://job-boards.greenhouse.io/tenableinc/jobs/5277490008)
+<a href="https://tenable.com"><img src="https://www.google.com/s2/favicons?domain=tenable.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenable** · `🟢 Remote` `Senior` `$137k–$183k` `Equity`
+
+_Build high-performance, low-latency asynchronous systems handling massive non-blocking throughput on a single machine, optimizing memory allocation, GC pressure, and concurrent event-driven architectures. Deep systems programming expertise required—targeting engineers from game engine, HFT, or database internals backgrounds. · [Apply →](https://job-boards.greenhouse.io/tenableinc/jobs/5277490008)_
+
+`C++` `Rust` `C#` `Java` `Asynchronous Programming` `Memory Management` `Concurrent Systems` `Performance Profiling`
+
+<sub>June 23, 2026 at 22:35 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Presence](https://job-boards.greenhouse.io/reddit/jobs/8024892)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
+
+_Build backend systems and APIs for Reddit Pro (business tools for brands and publishers) and Youth Experience (age-appropriate community features for teen users), operating at scale across 126M daily active users. Lead technical strategy and mentor engineers while balancing rapid iteration with reliability in a distributed systems environment. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8024892)_
+
+`Go` `Python` `GraphQL` `Cassandra` `Distributed Systems` `API Design` `System Architecture`
+
+<sub>June 23, 2026 at 22:35 UTC</sub>
+
+---
 
 ### [Platform Solution Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Platform-Solution-Engineer--MANTL-_JR-000725)
 <a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Mid` `$100k-$120k`
@@ -65,7 +98,7 @@ _Lead a team of engineers building Pinterest Trends, Audience Insights, and AI-p
 
 ---
 
-### [Sr. Data Scientist, Forecasting](https://www.pinterestcareers.com/jobs/?gh_jid=8001932)
+### [Staff Data Scientist, Forecasting](https://www.pinterestcareers.com/jobs/?gh_jid=8001932)
 <a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$164k-$339k` `Equity`
 
 _Lead the forecasting team building production time-series models for key company metrics (MAU, revenue) at web scale, owning the full modeling lifecycle from problem framing through deployment and monitoring. Mentor 2+ data scientists and present high-visibility scenario analyses to VP-level leadership; requires 8+ years of production forecasting experience and strong SQL/Python skills. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8001932)_
@@ -153,12 +186,12 @@ _Design and implement security controls for AI systems, agents, and enterprise i
 
 ---
 
-### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782401003#/7782401003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$168k–$244k` `Equity`
+### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$200k—$241k` `Equity`
 
-_Build large-scale data mining and continuous learning pipelines for autonomous driving, extracting uncertainty indicators to identify challenging scenarios and improve model performance. Work spans ML infrastructure integration, statistical analysis of model robustness, and mentorship of junior researchers on a deployed robotaxi fleet. · [Apply →](https://motional.com/open-positions/?gh_jid=7782401003#/7782401003)_
+_Develop motion planning algorithms (search-based, sampling-based, optimization-based) and integrate them into autonomous vehicle decision-making systems. Build robust, scalable codebases for autonomous driving software deployed in the world's longest-standing public robotaxi fleet; requires C++ expertise and experience processing/analyzing large-scale autonomous vehicle field data. · [Apply →](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)_
 
-`Python` `PyTorch` `AWS (S3, RDS, Athena, Redshift, EKS)` `PostgreSQL` `SQL` `Kubernetes` `TensorFlow` `Distributed Systems`
+`C++` `Motion Planning` `Autonomous Driving` `ROS` `Python` `Optimization` `SLAM` `Robotics`
 
 <sub>June 23, 2026 at 19:44 UTC</sub>
 
@@ -404,17 +437,6 @@ _Design and scale AI-driven HR solutions including chatbots and agents that auto
 
 ---
 
-### [Senior Software Engineer, Core Platform](https://job-boards.greenhouse.io/reddit/jobs/8022441)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
-
-_Build and scale the Core API Platform that processes millions of requests per second, powering Reddit's listings, posts, comments, and media features. Mentor junior engineers while optimizing media delivery and system performance to 5+ nines availability across hundreds of millions of users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8022441)_
-
-`Go` `Python` `Distributed Systems` `API Platform Architecture` `Media Delivery`
-
-<sub>June 23, 2026 at 15:10 UTC</sub>
-
----
-
 ### [Senior Manager, Engineering](https://jobs.ashbyhq.com/snapdocs/7bca3a10-4dac-408e-b7b7-93d0aef0d6e0)
 <a href="https://snapdocs.com"><img src="https://www.google.com/s2/favicons?domain=snapdocs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snapdocs** · `🟢 Remote` `Manager` `$164k-$235k` `Equity`
 
@@ -437,12 +459,12 @@ _Design and develop end-to-end prototypes and production solutions for AI-powere
 
 ---
 
-### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014352)
-<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff` `$180k-$200k`
+### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014297)
+<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
 
-_Build production AI agent systems for Acquia DAM, architecting stateful multi-agent workflows using LangGraph and Temporal that power enterprise-scale autonomous asset governance, agentic orchestration, and visual transformations. Requires hands-on expertise in LangGraph, Temporal, Pydantic, and LangFuse observability at production scale. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014352)_
+_Build and architect agentic AI workflows for Acquia DAM, deeply integrating production AI systems (LangGraph, Temporal, Pydantic) with enterprise-scale asset governance, autonomous asset management, and multi-model orchestration. Requires 3+ years shipping production AI agents and hands-on expertise in stateful, cyclic workflows at scale; collaborate with product teams on AI observability via LangFuse and mentor engineers on agentic design patterns and RAG strategies. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014297)_
 
-`LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
+`Python` `LangGraph` `Temporal` `Pydantic` `LangFuse` `LangChain` `AWS` `RAG`
 
 <sub>June 23, 2026 at 09:22 UTC</sub>
 
@@ -727,12 +749,12 @@ _Design and deliver enterprise capabilities within Devoted's proprietary Orinoco
 
 ---
 
-### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Junior` `$144k–$192k` `Equity`
+### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Pittsburgh, Pennsylvania / Remote · `🟢 Remote` `Junior` `$144k-$192k` `Equity`
 
-_Build ML pipelines and embedding-based search tools to discover edge cases and long-tail scenarios in petabytes of autonomous driving sensor data. Work with foundation models, representation learning, and active learning workflows to accelerate model improvement and dataset curation. · [Apply →](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)_
+_Build ML pipelines and embedding-based search tools to mine critical edge cases and long-tail scenarios from petabytes of multimodal autonomous vehicle sensor data. Work with foundation models, representation learning, and active learning to accelerate model improvement across post-training analysis and dataset curation for self-driving vehicles. · [Apply →](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)_
 
-`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Multimodal Learning` `Active Learning`
+`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Active Learning` `Multimodal Learning`
 
 <sub>June 22, 2026 at 16:41 UTC</sub>
 
@@ -1153,6 +1175,28 @@ _Own the architecture and platform infrastructure for Tailscale's next-generatio
 
 ---
 
+### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
+
+_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
+
+`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
+
+<sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
+### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
+
+_Build production-grade genomic analysis pipelines for next-generation sequencing data, including variant calling, fusion detection, and quality control systems. Work with sequence alignment algorithms and scaled in-house infrastructure to process complex diagnostic datasets at clinical scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6024028004)_
+
+`Java` `C++` `Python` `Perl` `MySQL` `Linux` `Next-Generation Sequencing` `Variant Calling`
+
+<sub>June 18, 2026 at 15:15 UTC</sub>
+
+---
+
 <br>
 
 ## June 17, 2026
@@ -1190,7 +1234,7 @@ _Lead a distributed engineering team building growth experiments and onboarding 
 
 ---
 
-### [Senior Growth Architect ](https://job-boards.greenhouse.io/pacaso/jobs/6093140004)
+### [Senior Product Manager, Growth](https://job-boards.greenhouse.io/pacaso/jobs/6093140004)
 <a href="https://pacaso.com"><img src="https://www.google.com/s2/favicons?domain=pacaso.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pacaso** · `🟢 Remote` `Senior` `Equity`
 
 _Design and build AI-native growth systems that move buyers across the entire funnel—from interest through product-qualified handoff to sales—treating the site, email, messaging, and CRM as one connected buyer journey. Own the buyer intelligence layer (signals, scoring, context, next-best-action logic) and prove system architecture through prototyping before handing off to engineering for production scale. · [Apply →](https://job-boards.greenhouse.io/pacaso/jobs/6093140004)_
@@ -1303,6 +1347,28 @@ _Build and scale large-scale data ingestion and transformation pipelines integra
 <br>
 
 ## June 16, 2026
+
+### [Software Development Engineer, iOS](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Mid` `$129k-$217k` `Equity`
+
+_Build and maintain Zillow's iOS design system, creating reusable components and patterns that product teams use to build high-quality experiences for millions of mobile users. Work with modern development environments incorporating AI-assisted tools while upholding accessibility and performance standards across iOS applications. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)_
+
+`Swift` `SwiftUI` `iOS` `Accessibility` `CI/CD` `Testing Frameworks` `Application Performance` `Build Tools`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer, Android](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build reusable Android components, frameworks, and design system infrastructure using Kotlin and Jetpack Compose that power consistent experiences across Zillow's mobile products at scale. Architect platform-level UI systems and tooling that improve developer velocity and code quality across the organization. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)_
+
+`Kotlin` `Jetpack Compose` `Android Architecture` `Android UI/UX` `Design Systems` `Accessibility`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
 
 ### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/aa156425-ec0d-4617-a684-521501ebc8cd)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
@@ -1600,17 +1666,6 @@ _Lead the Activations engineering team responsible for client onboarding integra
 _Build the UI/UX and front-end implementation for education technology products used by millions of students and teachers; design and maintain a living design system as code while bridging design and engineering teams. Requires expert-level Figma and production React/TypeScript proficiency with deep ownership of pixel-accurate, accessible implementations. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7998049)_
 
 `React` `TypeScript` `Figma` `HTML/CSS` `Storybook` `WCAG` `Design Systems` `Accessibility`
-
-<sub>June 15, 2026 at 20:16 UTC</sub>
-
----
-
-### [Software Engineering Manager - Image and Data Compression Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `$200k-$322k` `Equity`
-
-_Lead a team building accelerated image and data compression software libraries. Domain expertise in image processing, compression algorithms, and parallel programming (CUDA, MPI) valued; requires 3+ years management experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)_
-
-`C++` `Python` `CUDA` `Image Processing` `Data Compression` `Parallel Programming` `MPI`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
@@ -1989,12 +2044,12 @@ _Design and ship Android transaction experiences (cart, checkout, payments, orde
 
 ---
 
-### [Senior Software Engineer - Data Platform](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$130k-$220k` `Equity`
+### [Senior Software Engineer - Data Platform](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$126k-$163k CAD` `Equity`
 
-_Design and build high-scale data ingestion, replication, and processing infrastructure for Samsara's data lakehouse, handling petabytes of IoT data from production stores like RDS and DynamoDB into Delta Lake on S3. Work on foundational distributed systems including Spark, Databricks, metadata services, and orchestration platforms that enable analytics, AI, and product teams across the company. · [Apply →](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530)_
+_Design and build high-scale data ingestion and replication systems moving petabytes from production databases into a Spark/Databricks lakehouse, along with foundational data platform infrastructure including Delta Lake, metadata services, and orchestration systems. Requires deep experience with distributed data systems and AWS infrastructure at production scale. · [Apply →](https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889)_
 
-`Apache Spark` `Databricks` `Delta Lake` `Python` `Go` `AWS (S3, RDS, DynamoDB, Kinesis)` `Terraform` `Airflow`
+`Apache Spark` `Databricks` `Delta Lake` `Python` `Go` `AWS` `Terraform` `Airflow`
 
 <sub>June 9, 2026 at 17:05 UTC</sub>
 
