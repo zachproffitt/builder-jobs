@@ -2,13 +2,46 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **189 open roles** (49 new)
+### **190 open roles** (49 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 24, 2026
+
+### [Senior Software Engineer, Dev Tools](https://careers.airbnb.com/positions/8021476?gh_jid=8021476)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k–$230k` `Equity`
+
+_Build cloud development environments and async agent execution platforms at scale on Kubernetes, handling infrastructure for millions of engineers and AI agents. Design foundational distributed systems addressing real cost-efficiency tradeoffs as agentic workload volumes surge. · [Apply →](https://careers.airbnb.com/positions/8021476?gh_jid=8021476)_
+
+`Kubernetes` `AWS` `Go` `Python` `Docker` `Distributed Systems` `CI/CD` `Git`
+
+<sub>June 24, 2026 at 17:44 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Full-Stack (Power Packs)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Full-Stack--Power-Packs-_JR105353)
+<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$140k-$228k`
+
+_Build backend services, APIs, and frontend applications powering the Power Packs marketplace experience—a flexible, scalable platform for collectible trading cards, autographs, and memorabilia with white-label capabilities. Support distributed architecture across grading, authentication, vaulting, and sales systems serving millions of collectibles worldwide. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Full-Stack--Power-Packs-_JR105353)_
+
+`Java` `Spring Boot` `PostgreSQL` `DynamoDB` `React` `TypeScript` `Next.js` `Kubernetes`
+
+<sub>June 24, 2026 at 17:44 UTC</sub>
+
+---
+
+### [Senior Applied AI Engineer](https://job-boards.greenhouse.io/omadahealth/jobs/8008825)
+<a href="https://omadahealth.com"><img src="https://www.google.com/s2/favicons?domain=omadahealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Omada Health** · `🟢 Remote` `Senior` `$191k-$250k` `Equity`
+
+_Design and deploy sophisticated generative AI models and LLM-based applications across Omada's digital care platform, translating advanced AI into tangible improvements in chronic disease management for millions of members. Build end-to-end AI solutions using production LLM APIs and cloud platforms, monitoring model performance and iterating based on real-world health outcomes. · [Apply →](https://job-boards.greenhouse.io/omadahealth/jobs/8008825)_
+
+`PyTorch` `Hugging Face` `OpenAI` `AWS SageMaker` `Azure ML` `LangChain` `LLamaIndex` `Prompt Engineering`
+
+<sub>June 24, 2026 at 17:44 UTC</sub>
+
+---
 
 ### [Staff Software Engineer](https://job-boards.greenhouse.io/conga/jobs/5172836007)
 <a href="https://conga.com"><img src="https://www.google.com/s2/favicons?domain=conga.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Conga** · `🟢 Remote` `Staff` `$173k–$229k` `Equity`
@@ -399,7 +432,7 @@ _Build data collection systems and analysis pipelines to locate, extract, and an
 
 ---
 
-### [Senior Enterprise Secruity Engineer](https://jobs.ashbyhq.com/thumbtack/8c584fdf-8f23-40b3-90d6-6cec479f7c8c)
+### [Senior Enterprise Security Engineer](https://jobs.ashbyhq.com/thumbtack/8c584fdf-8f23-40b3-90d6-6cec479f7c8c)
 <a href="https://thumbtack.com"><img src="https://www.google.com/s2/favicons?domain=thumbtack.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thumbtack** · `🟢 Remote` `Senior` `$179k-$272k`
 
 _Design and implement security controls for AI systems, agents, and enterprise identities at scale—threat modeling, IAM hardening, secure defaults for autonomous agents, and data pipeline security. Partner cross-functionally to embed security into Thumbtack's AI adoption while maintaining velocity. · [Apply →](https://jobs.ashbyhq.com/thumbtack/8c584fdf-8f23-40b3-90d6-6cec479f7c8c)_
@@ -410,12 +443,12 @@ _Design and implement security controls for AI systems, agents, and enterprise i
 
 ---
 
-### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$200k—$241k` `Equity`
+### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782262003#/7782262003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$190k–$244k` `Equity`
 
-_Develop motion planning algorithms (search-based, sampling-based, optimization-based) and integrate them into autonomous vehicle decision-making systems. Build robust, scalable codebases for autonomous driving software deployed in the world's longest-standing public robotaxi fleet; requires C++ expertise and experience processing/analyzing large-scale autonomous vehicle field data. · [Apply →](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)_
+_Design and implement onboard and offboard software pipelines for autonomous vehicle localization systems, including SLAM development and sensor fusion. Work with a team scaling production robotaxi technology; requires 3+ years of production C++ development in autonomous robotics. · [Apply →](https://motional.com/open-positions/?gh_jid=7782262003#/7782262003)_
 
-`C++` `Motion Planning` `Autonomous Driving` `ROS` `Python` `Optimization` `SLAM` `Robotics`
+`C++` `SLAM` `Sensor Fusion` `Data Pipelines` `Autonomous Vehicles` `Python`
 
 <sub>June 23, 2026 at 19:44 UTC</sub>
 
@@ -606,12 +639,12 @@ _Build backend infrastructure and moderation tooling for Reddit's Safety and Mod
 
 ---
 
-### [Senior Data Engineer](https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
+### [Senior Data Engineer](https://www.samsara.com/company/careers/roles/8025794?gh_jid=8025794)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
 
-_Build large-scale data platforms and Spark-driven workflows that power Samsara's connected operations cloud, enabling analytics and automation across ERP, CRM, and product data sources. Design data infrastructure as a product, including MCP servers and AI agents that accelerate data engineering workflows in an AI-first environment. · [Apply →](https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565)_
+_Design and build large-scale data platforms and Spark-driven ETL pipelines at scale, including MCP servers and AI agents that automate data engineering workflows. Lead architecture decisions for a data infrastructure serving analytics, AI, and operations teams across a public IoT company processing terabytes of operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8025794?gh_jid=8025794)_
 
-`Python` `SQL` `PySpark` `Spark` `Databricks` `dbt` `Fivetran` `AWS`
+`Python` `SQL` `Spark` `PySpark` `Databricks` `dbt` `Fivetran` `AWS`
 
 <sub>June 23, 2026 at 16:58 UTC</sub>
 
@@ -1432,17 +1465,6 @@ _Design and build AI-powered tools and capabilities that help product teams run 
 
 ---
 
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
-
-_Build production-grade genomic analysis pipelines for next-generation sequencing data, including variant calling, fusion detection, and quality control systems. Work with sequence alignment algorithms and scaled in-house infrastructure to process complex diagnostic datasets at clinical scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6024028004)_
-
-`Java` `C++` `Python` `Perl` `MySQL` `Linux` `Next-Generation Sequencing` `Variant Calling`
-
-<sub>June 18, 2026 at 15:15 UTC</sub>
-
----
-
 <br>
 
 ## June 17, 2026
@@ -1912,17 +1934,6 @@ _Lead the Activations engineering team responsible for client onboarding integra
 _Build the UI/UX and front-end implementation for education technology products used by millions of students and teachers; design and maintain a living design system as code while bridging design and engineering teams. Requires expert-level Figma and production React/TypeScript proficiency with deep ownership of pixel-accurate, accessible implementations. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7998049)_
 
 `React` `TypeScript` `Figma` `HTML/CSS` `Storybook` `WCAG` `Design Systems` `Accessibility`
-
-<sub>June 15, 2026 at 20:16 UTC</sub>
-
----
-
-### [Sr. Software Engineer, Android](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$149k-$308k` `Equity`
-
-_Build consumer-facing Android features and frameworks for Pinterest's inspiration platform, scaling to millions of users. Lead product development end-to-end from ideation through A/B testing and release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)_
-
-`Kotlin` `Java` `Android` `Activity Lifecycle` `Memory Management`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
