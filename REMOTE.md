@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **195 open roles** (39 new)
+### **196 open roles** (37 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 24, 2026
+
+### [Sr. Data Engineer (Remote)](https://jobs.ashbyhq.com/rula/7eebb402-3215-4d71-9850-fd35f3da3b4f)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Senior`
+
+_Build AI-ready data infrastructure and governance systems that enable analytics and product teams to securely access enterprise data at scale for LLM applications. Work in a regulated healthcare environment (HIPAA) designing semantic layers and data architectures for responsible AI access to sensitive mental health data. · [Apply →](https://jobs.ashbyhq.com/rula/7eebb402-3215-4d71-9850-fd35f3da3b4f)_
+
+`Python` `SQL` `Snowflake` `Terraform` `Kafka` `Spark` `HIPAA Compliance`
+
+<sub>June 24, 2026 at 22:36 UTC</sub>
+
+---
 
 ### [Senior Software Engineer - Kubernetes Operations](https://job-boards.greenhouse.io/marqeta/jobs/7922382)
 <a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Senior` `$144k - $180k` `Equity`
@@ -98,23 +109,23 @@ _Design, build, and operate Kubernetes clusters across public cloud (AWS EKS), p
 
 ---
 
-### [Senior AI Engineer - Grafana AI/ML | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100725004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD 129k - CAD 217k` `Equity`
+### [Senior AI Engineer - Grafana AI/ML | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100724004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$127k-$203k` `Equity`
 
-_Build AI-powered features for incident detection, triage, and resolution using LLMs and agent frameworks integrated with observability data and tools. Requires rapid iteration on production systems serving millions of users at scale; Canada time zone required. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100725004)_
+_Build and ship AI-powered features for incident detection, triage, and resolution within Grafana's observability platform, including LLM-driven agents and automated analysis workflows. Focus on rapid iteration with real users and scaling solutions across cloud-native infrastructure. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100724004)_
 
-`Python` `LLMs` `Prompt Engineering` `GenAI` `Agent Frameworks` `Kubernetes` `Docker` `AWS`
+`LLMs` `Python` `Kubernetes` `Docker` `AWS` `GCP` `Azure` `Terraform`
 
 <sub>June 24, 2026 at 18:46 UTC</sub>
 
 ---
 
-### [Staff AI Engineer - Grafana AI/ML | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 230k` `Equity`
+### [Staff AI Engineer - Grafana AI/ML | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$220k` `Equity`
 
-_Build AI-powered features for incident detection, triage, and resolution within Grafana's observability platform using LLMs and agent frameworks. Requires shipping production systems at scale with rapid iteration and a focus on real-world impact for observability workflows. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004)_
+_Build AI-powered features for incident detection, triage, and resolution within Grafana's observability platform, using LLMs and agent frameworks to automate analysis and incident lifecycle management. Focus on rapid experimentation, shipping production systems, and scaling AI workflows integrated with observability tools and developer workflows. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004)_
 
-`Python` `LLMs` `Prompt Engineering` `GenAI` `Agent Frameworks` `AWS` `GCP` `Azure`
+`LLM` `Prompt Engineering` `Python` `Kubernetes` `Docker` `Terraform` `AWS` `GCP`
 
 <sub>June 24, 2026 at 18:46 UTC</sub>
 
@@ -542,12 +553,12 @@ _Build data collection systems and analysis pipelines to locate, extract, and an
 
 ---
 
-### [Senior Enterprise Security Engineer](https://jobs.ashbyhq.com/thumbtack/8c584fdf-8f23-40b3-90d6-6cec479f7c8c)
-<a href="https://thumbtack.com"><img src="https://www.google.com/s2/favicons?domain=thumbtack.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thumbtack** · `🟢 Remote` `Senior` `$179k-$272k`
+### [Senior Enterprise Security Engineer](https://jobs.ashbyhq.com/thumbtack/4f88b69b-8870-4e63-bc72-133214104aab)
+<a href="https://thumbtack.com"><img src="https://www.google.com/s2/favicons?domain=thumbtack.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thumbtack** · Remote, Canada · `🟢 Remote` `Senior` `$180k-$233k`
 
-_Design and implement security controls for AI systems, agents, and enterprise identities at scale—threat modeling, IAM hardening, secure defaults for autonomous agents, and data pipeline security. Partner cross-functionally to embed security into Thumbtack's AI adoption while maintaining velocity. · [Apply →](https://jobs.ashbyhq.com/thumbtack/8c584fdf-8f23-40b3-90d6-6cec479f7c8c)_
+_Design and implement security controls for AI systems, agents, and enterprise identities at Thumbtack—threat modeling agentic systems, hardening IAM for non-human identities, and securing data pipelines that feed AI infrastructure. Requires deep expertise in modern enterprise security (OAuth/OIDC, SAML, secrets management, least-privilege design) and experience evaluating risk across cloud-native systems. · [Apply →](https://jobs.ashbyhq.com/thumbtack/4f88b69b-8870-4e63-bc72-133214104aab)_
 
-`AWS` `GCP` `OAuth/OIDC` `SAML` `threat modeling` `API security` `secrets management` `SaaS security`
+`OAuth/OIDC` `SAML` `AWS` `GCP` `Threat Modeling` `API Security` `Secrets Management` `Incident Response`
 
 <sub>June 23, 2026 at 20:53 UTC</sub>
 
@@ -619,23 +630,23 @@ _Lead the on-vehicle autonomy software stack for autonomous surface vessels, own
 
 ---
 
-### [Senior Software Engineer, Agentic Systems](https://jobs.ashbyhq.com/horizon3ai/e36e9f43-c831-43ac-85b3-782b28bef222)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$169k-$208k` `Equity`
-
-_Build the autonomous agent layer that powers a production-safe web application penetration tester, orchestrating LLM reasoning, tool use, exploitation, and verification while maintaining strict no-false-positives guarantees. Own the evaluation infrastructure and LLM inference pipeline on AWS Bedrock to ensure the agent reliably finds real exploitable vulnerabilities at scale. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/e36e9f43-c831-43ac-85b3-782b28bef222)_
-
-`Python` `LLM Agents` `Tool Use / Function Calling` `Structured Outputs` `Prompt Engineering` `Production LLM Systems` `Evaluation Frameworks` `AWS Bedrock`
-
-<sub>June 23, 2026 at 18:54 UTC</sub>
-
----
-
 ### [Senior Software Engineer, Browser Automation](https://jobs.ashbyhq.com/horizon3ai/477bec02-0548-4631-804b-4cb4b1b05803)
 <a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$169k-$208k` `Equity`
 
 _Build the browser automation and crawling engine that discovers, navigates, and interacts with target web applications at scale for autonomous penetration testing. Own a critical, production-safe subsystem running unattended against customer environments with zero tolerance for false positives. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/477bec02-0548-4631-804b-4cb4b1b05803)_
 
 `TypeScript` `Node.js` `Playwright` `Puppeteer` `Chrome DevTools Protocol` `Chromium` `Distributed Systems` `Web Application Security`
+
+<sub>June 23, 2026 at 18:54 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Agentic Systems](https://jobs.ashbyhq.com/horizon3ai/e36e9f43-c831-43ac-85b3-782b28bef222)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$169k-$208k` `Equity`
+
+_Build the autonomous agent layer that powers a production-safe web application penetration tester, orchestrating LLM reasoning, tool use, exploitation, and verification while maintaining strict no-false-positives guarantees. Own the evaluation infrastructure and LLM inference pipeline on AWS Bedrock to ensure the agent reliably finds real exploitable vulnerabilities at scale. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/e36e9f43-c831-43ac-85b3-782b28bef222)_
+
+`Python` `LLM Agents` `Tool Use / Function Calling` `Structured Outputs` `Prompt Engineering` `Production LLM Systems` `Evaluation Frameworks` `AWS Bedrock`
 
 <sub>June 23, 2026 at 18:54 UTC</sub>
 
@@ -760,12 +771,12 @@ _Design and build large-scale data platforms and Spark-driven ETL pipelines at s
 
 ---
 
-### [Principal Software Engineer, Platform](https://jobs.ashbyhq.com/vanta/f1af3c57-be2d-4263-9579-0c04d29b1289)
+### [Principal Software Engineer, Platform](https://jobs.ashbyhq.com/vanta/70b2dbdf-d300-4597-9f81-12cd1f2ee34d)
 <a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Principal` `Equity`
 
-_Define frontend engineering standards, architecture patterns, and developer tools across Vanta's organization; establish best practices for data layer, state management, testing, and design systems while spending ~50% of time writing code. · [Apply →](https://jobs.ashbyhq.com/vanta/f1af3c57-be2d-4263-9579-0c04d29b1289)_
+_Define and establish frontend development standards, architecture patterns, and best practices across the organization while working hands-on with teams on complex technical problems—approximately 50% coding. Partner with the AI Developer Experience team to build tooling for AI-generated frontend code, maintaining quality and consistency at scale. · [Apply →](https://jobs.ashbyhq.com/vanta/70b2dbdf-d300-4597-9f81-12cd1f2ee34d)_
 
-`JavaScript` `GraphQL` `React` `TypeScript` `Testing Frameworks` `Design Systems` `Web Accessibility` `Build Systems`
+`JavaScript` `GraphQL` `React` `TypeScript` `Testing Frameworks` `Design Systems` `Accessibility Standards` `AI Developer Experience`
 
 <sub>June 23, 2026 at 16:58 UTC</sub>
 
@@ -837,10 +848,10 @@ _Build and architect agentic AI workflows for Acquia DAM, deeply integrating pro
 
 ---
 
-### [Senior Data Engineer - AI Infrastructure](https://jobs.ashbyhq.com/kraken.com/c9b1bab4-344f-4dc8-b59e-340c3da8bb50)
+### [Senior Data Engineer - Agents Systems](https://jobs.ashbyhq.com/kraken.com/b3e49efe-c1e4-45fc-99a0-cf57ff9f543f)
 <a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Senior`
 
-_Own streaming data pipelines and feature stores powering live ML inference and real-time model serving at Kraken's AI infrastructure platform. Build low-latency, high-reliability systems using RisingWave, Apache Flink, or Kafka Streams to reduce inference latency from hours to seconds across crypto trading infrastructure. · [Apply →](https://jobs.ashbyhq.com/kraken.com/c9b1bab4-344f-4dc8-b59e-340c3da8bb50)_
+_Own streaming data pipelines and feature stores powering real-time inference across Kraken's AI infrastructure; build low-latency systems that serve production ML models using RisingWave, Apache Flink, or Kafka Streams. Requires reducing latency from hours to seconds while maintaining high reliability in a fast-moving AI-focused team. · [Apply →](https://jobs.ashbyhq.com/kraken.com/b3e49efe-c1e4-45fc-99a0-cf57ff9f543f)_
 
 `Apache Flink` `Kafka Streams` `RisingWave` `Python` `Scala` `SQL` `Feature Store Design` `Data Quality`
 
@@ -848,10 +859,10 @@ _Own streaming data pipelines and feature stores powering live ML inference and 
 
 ---
 
-### [Senior Data Engineer - Agents Systems](https://jobs.ashbyhq.com/kraken.com/b3e49efe-c1e4-45fc-99a0-cf57ff9f543f)
+### [Senior Data Engineer - AI Infrastructure](https://jobs.ashbyhq.com/kraken.com/c9b1bab4-344f-4dc8-b59e-340c3da8bb50)
 <a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Senior`
 
-_Own streaming data pipelines and feature stores powering real-time inference across Kraken's AI infrastructure; build low-latency systems that serve production ML models using RisingWave, Apache Flink, or Kafka Streams. Requires reducing latency from hours to seconds while maintaining high reliability in a fast-moving AI-focused team. · [Apply →](https://jobs.ashbyhq.com/kraken.com/b3e49efe-c1e4-45fc-99a0-cf57ff9f543f)_
+_Own streaming data pipelines and feature stores powering live ML inference and real-time model serving at Kraken's AI infrastructure platform. Build low-latency, high-reliability systems using RisingWave, Apache Flink, or Kafka Streams to reduce inference latency from hours to seconds across crypto trading infrastructure. · [Apply →](https://jobs.ashbyhq.com/kraken.com/c9b1bab4-344f-4dc8-b59e-340c3da8bb50)_
 
 `Apache Flink` `Kafka Streams` `RisingWave` `Python` `Scala` `SQL` `Feature Store Design` `Data Quality`
 
@@ -1234,23 +1245,23 @@ _Lead the end-to-end technical program management function for Mercury's bank ch
 
 ---
 
-### [Senior Software Engineer, Guest Lifecycle & Loyalty](https://jobs.ashbyhq.com/owner/7d5db775-5063-4098-8474-f185ad9d8a1e)
-<a href="https://owner.com"><img src="https://www.google.com/s2/favicons?domain=owner.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Owner** · `🟢 Remote` `Senior` `$190k-$220k` `Equity`
-
-_Build reliable messaging and data pipelines powering lifecycle marketing campaigns (email/SMS/push) at scale across 20,000+ restaurants, with a focus on segmentation, experimentation infrastructure, and AI-assisted personalization. Ship production-ready systems for attribution, deliverability, and compliance while raising observability and operational excellence standards for business-critical pipelines. · [Apply →](https://jobs.ashbyhq.com/owner/7d5db775-5063-4098-8474-f185ad9d8a1e)_
-
-`Python` `SQL` `Kafka` `PostgreSQL` `Experimentation Design` `Machine Learning` `LLMs` `Data Pipelines`
-
-<sub>June 18, 2026 at 23:40 UTC</sub>
-
----
-
 ### [Staff Software Engineer, Guest Lifecycle & Loyalty](https://jobs.ashbyhq.com/owner/0fdcea84-a2fd-49a9-9065-5ee6c6c5aae2)
 <a href="https://owner.com"><img src="https://www.google.com/s2/favicons?domain=owner.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Owner** · `🟢 Remote` `Staff` `$220k-$240k` `Equity`
 
 _Own the technical strategy and implementation of a personalization and loyalty marketing platform for restaurants—building ML-powered systems that decide who to reach, when, on which channel, and with what offer. Work at the intersection of LLM-based and classic ML approaches, experimentation infrastructure, and high-volume campaign delivery at scale. · [Apply →](https://jobs.ashbyhq.com/owner/0fdcea84-a2fd-49a9-9065-5ee6c6c5aae2)_
 
 `Python` `PostgreSQL` `Machine Learning` `Experimentation & Measurement` `Data Pipelines` `LLMs` `AWS` `Kafka`
+
+<sub>June 18, 2026 at 23:40 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Guest Lifecycle & Loyalty](https://jobs.ashbyhq.com/owner/7d5db775-5063-4098-8474-f185ad9d8a1e)
+<a href="https://owner.com"><img src="https://www.google.com/s2/favicons?domain=owner.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Owner** · `🟢 Remote` `Senior` `$190k-$220k` `Equity`
+
+_Build reliable messaging and data pipelines powering lifecycle marketing campaigns (email/SMS/push) at scale across 20,000+ restaurants, with a focus on segmentation, experimentation infrastructure, and AI-assisted personalization. Ship production-ready systems for attribution, deliverability, and compliance while raising observability and operational excellence standards for business-critical pipelines. · [Apply →](https://jobs.ashbyhq.com/owner/7d5db775-5063-4098-8474-f185ad9d8a1e)_
+
+`Python` `SQL` `Kafka` `PostgreSQL` `Experimentation Design` `Machine Learning` `LLMs` `Data Pipelines`
 
 <sub>June 18, 2026 at 23:40 UTC</sub>
 
@@ -1300,12 +1311,12 @@ _Design and build scalable data platform solutions including streaming pipelines
 
 ---
 
-### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017073)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
+### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017071)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Design and conduct offensive security operations across Instacart's product suite, deploying and operationalizing security tools to scale vulnerability discovery and mature security posture. Integrate security testing into engineering workflows and mentor the security team across mobile, AI, and cloud attack surfaces. · [Apply →](https://instacart.careers/job/?gh_jid=8017073)_
+_Design and conduct offensive security operations across Instacart's product suite, deploying security tools and techniques to scale vulnerability discovery. Requires deep expertise in mobile/cloud/AI security testing and threat modeling; remote role with market-competitive equity compensation. · [Apply →](https://instacart.careers/job/?gh_jid=8017071)_
 
-`Penetration Testing` `Mobile App Security` `Cloud Security` `Threat Modeling` `Security Architecture` `Offensive Security` `Vulnerability Assessment` `Burp Suite`
+`Mobile App Penetration Testing` `Cloud Penetration Testing` `Threat Modeling` `Security Architecture` `AI Security Testing` `Bug Bounty Research`
 
 <sub>June 18, 2026 at 21:00 UTC</sub>
 
@@ -1322,23 +1333,23 @@ _Develop identity and access management services for Tailscale's control plane, 
 
 ---
 
-### [Software Development Engineer in Test](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3)
-<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Mid`
-
-_Build and maintain test automation frameworks across multiple layers (integration, end-to-end) for a military staff collaboration platform, focusing on shift-left quality practices and CI/CD pipeline reliability. Work on observability systems, performance testing infrastructure, and internal tooling that enables teams to ship with confidence in a defense technology environment. · [Apply →](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3)_
-
-`Python` `C++` `C#` `CI/CD` `Test Automation` `API Testing` `Performance Testing` `Kubernetes`
-
-<sub>June 18, 2026 at 19:51 UTC</sub>
-
----
-
 ### [Software Development Engineer in Test [Geospatial]](https://jobs.ashbyhq.com/onebrief/8ee26b8a-97dd-4035-95e2-6ebe657fa59b)
 <a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Mid`
 
 _Build test automation frameworks and CI/CD quality systems for a military collaboration platform, with focus on validating geospatial algorithms, spatial data accuracy, and system performance at scale. Role involves shift-left quality practices, observability instrumentation, and internal tooling for high-stakes defense applications. · [Apply →](https://jobs.ashbyhq.com/onebrief/8ee26b8a-97dd-4035-95e2-6ebe657fa59b)_
 
 `Python` `C++` `C#` `CI/CD` `Azure Pipelines` `GitHub Actions` `Docker` `Kubernetes`
+
+<sub>June 18, 2026 at 19:51 UTC</sub>
+
+---
+
+### [Software Development Engineer in Test](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Mid`
+
+_Build and maintain test automation frameworks across multiple layers (integration, end-to-end) for a military staff collaboration platform, focusing on shift-left quality practices and CI/CD pipeline reliability. Work on observability systems, performance testing infrastructure, and internal tooling that enables teams to ship with confidence in a defense technology environment. · [Apply →](https://jobs.ashbyhq.com/onebrief/fbd0fd12-5aed-4428-9373-55ec2c5076f3)_
+
+`Python` `C++` `C#` `CI/CD` `Test Automation` `API Testing` `Performance Testing` `Kubernetes`
 
 <sub>June 18, 2026 at 19:51 UTC</sub>
 
@@ -1542,6 +1553,17 @@ _Own the technical architecture of Tailscale's next-generation web console, incl
 
 ---
 
+### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
+
+_Build production-grade genomic analysis pipelines for next-generation sequencing data, including variant calling, fusion detection, and quality control systems. Work with sequence alignment algorithms and scaled in-house infrastructure to process complex diagnostic datasets at clinical scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6024028004)_
+
+`Java` `C++` `Python` `Perl` `MySQL` `Linux` `Next-Generation Sequencing` `Variant Calling`
+
+<sub>June 18, 2026 at 15:15 UTC</sub>
+
+---
+
 <br>
 
 ## June 17, 2026
@@ -1596,17 +1618,6 @@ _Design and build AI-native growth systems that move buyers across the entire fu
 _Build and maintain core networking software components for Tailscale's overlay network product, including application-layer networking features, proxies, connectors, and routing optimizations. Take ownership of the full product lifecycle from architecture through production operations, with an emphasis on distributed systems, OS-level networking internals, and security-first design. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4706938005)_
 
 `Go` `PostgreSQL` `Distributed Systems` `Socket Programming` `Packet Filtering` `Linux Networking` `Concurrency` `SQL`
-
-<sub>June 17, 2026 at 20:53 UTC</sub>
-
----
-
-### [Staff, Analytics Engineer, GTM Data Science & Analytics](https://job-boards.greenhouse.io/twilio/jobs/8008538)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$155.5k-$228.7k` `Equity`
-
-_Design and build a centralized business data layer in dbt that serves as the single source of truth for GTM metrics across sales and finance, with responsibility for data reconciliation, quality checks, and cross-functional metric alignment. Staff-level role mentoring analytics engineers and leading complex data investigations at a SaaS company. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8008538)_
-
-`dbt` `SQL` `Snowflake` `Python` `Data Modeling` `Data Quality Testing` `CI/CD`
 
 <sub>June 17, 2026 at 20:53 UTC</sub>
 
