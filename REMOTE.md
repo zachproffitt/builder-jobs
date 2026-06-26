@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **212 open roles** (19 new)
+### **213 open roles** (18 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 26, 2026
+
+### [Sr. Software Engineer, Machine Learning, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7999050)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$155k-$320k` `Equity`
+
+_Build ML and AI systems powering real-time bidding, campaign optimization, and incrementality measurement for a Connected TV ad-buying platform handling millions of bid decisions per second. Requires production Python, causal inference expertise, and adtech/programmatic advertising domain knowledge. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7999050)_
+
+`Python` `Machine Learning` `PyTorch` `TensorFlow` `AWS` `Scala` `Spark` `Causal Inference`
+
+<sub>June 26, 2026 at 07:34 UTC</sub>
+
+---
 
 ### [Staff Data Scientist, Ads Delivery](https://www.pinterestcareers.com/jobs/?gh_jid=7985294)
 <a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Seattle, Washington / Remote · `🟢 Remote` `Staff` `$164k-$339k` `Equity`
@@ -157,12 +168,12 @@ _Lead the engineering strategy and execution for GitLab's end-to-end analytics p
 
 ---
 
-### [Staff Software Engineer Data - DC Tech Lead](https://job-boards.greenhouse.io/afresh/jobs/6101672004)
-<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · `🟢 Remote` `Staff` `$168k-$273k` `Equity`
+### [Staff Software Engineer Data - DC Tech Lead](https://job-boards.greenhouse.io/afresh/jobs/6101713004)
+<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · Remote - Toronto, Ontario, Canada · `🟢 Remote` `Staff` `$148k-$242k CAD` `Equity`
 
-_Design and build ETL pipelines using PySpark and DBT to process large-scale grocery customer datasets for distribution center operations; mentor engineers and define data architecture strategy for a platform orchestrating billions of decisions across 10%+ of the U.S. grocery market. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6101672004)_
+_Design and build ETL pipelines using PySpark and DBT to process large-scale customer datasets for grocery distribution center operations, with technical leadership responsibilities for the DC Solutions team. Mentor engineers and external contractors while defining data architecture strategy for a platform orchestrating billions of decisions across 10%+ of the U.S. grocery market. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6101713004)_
 
-`PySpark` `DBT` `Python` `SQL` `Databricks` `Snowflake` `ETL` `Data Architecture`
+`PySpark` `DBT` `Python` `SQL` `Databricks` `Snowflake` `ETL`
 
 <sub>June 25, 2026 at 16:55 UTC</sub>
 
@@ -1550,12 +1561,12 @@ _Design and conduct offensive security operations across Instacart's product sui
 
 ---
 
-### [Backend Engineer, Identity](https://job-boards.greenhouse.io/tailscale/jobs/4707636005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$218k—$273k CAD` `Equity`
+### [Backend Engineer, Identity](https://job-boards.greenhouse.io/tailscale/jobs/4707649005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$163k-$204k` `Equity`
 
-_Develop identity and access management services for Tailscale's control plane, implementing authentication protocols (OAuth2, OIDC, SAML, WebAuthn) and user synchronization capabilities. Requires on-call participation and a security-first approach to building observable, scalable backend services in Go. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707636005)_
+_Develop identity and access management services for Tailscale's control plane, including OAuth2, OIDC, SAML, WebAuthn, and SCIM integrations. Build observable, secure backend services in Go handling authentication protocols at scale; requires on-call participation. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707649005)_
 
-`Go` `OAuth2` `SAML` `PostgreSQL` `Distributed Systems` `OIDC` `WebAuthn` `SCIM`
+`Go` `OAuth2` `SAML` `PostgreSQL` `SCIM` `WebAuthn` `Distributed Systems` `Security`
 
 <sub>June 18, 2026 at 21:00 UTC</sub>
 
@@ -2020,12 +2031,12 @@ _Design and build scalable backend systems and third-party integrations for a te
 
 ---
 
-### [Principal Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4690547006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `Equity`
+### [Principal Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4689477006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `$220k–$258k` `Equity`
 
-_Lead technical strategy and architecture for Athena, the vulnerability data clearing house that validates, deduplicates, and routes enterprise security findings at enterprise scale. Transition the system from rapid prototyping to production-grade infrastructure with deep ownership of data validation pipelines, workflow orchestration, and vulnerability remediation workflows. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4690547006)_
+_Set technical direction for Athena, Chainguard's vulnerability data clearing house that ingests, validates, deduplicates, and routes enterprise vulnerability reports at scale. Own the transition from rapid prototyping to production-grade systems with observability, incident handling, and operational rigor across distributed data pipelines and customer entitlement systems. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4689477006)_
 
-`Go` `GCP` `Terraform` `Distributed Systems` `Data Pipelines` `Vulnerability Management` `Cloud Security`
+`Go` `GCP` `Terraform` `Distributed Systems` `Data Pipelines` `Kubernetes` `PostgreSQL`
 
 <sub>June 16, 2026 at 16:41 UTC</sub>
 
@@ -2211,12 +2222,12 @@ _Build the UI/UX and front-end implementation for education technology products 
 
 ---
 
-### [Software Engineering Manager - Image and Data Compression Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `$200k-$322k` `Equity`
+### [Sr. Software Engineer, Android](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$149k-$308k` `Equity`
 
-_Lead a team building accelerated image and data compression software libraries. Domain expertise in image processing, compression algorithms, and parallel programming (CUDA, MPI) valued; requires 3+ years management experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)_
+_Build consumer-facing Android features and frameworks for Pinterest's inspiration platform, scaling to millions of users. Lead product development end-to-end from ideation through A/B testing and release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)_
 
-`C++` `Python` `CUDA` `Image Processing` `Data Compression` `Parallel Programming` `MPI`
+`Kotlin` `Java` `Android` `Activity Lifecycle` `Memory Management`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
