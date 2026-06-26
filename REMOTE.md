@@ -2,13 +2,57 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **224 open roles** (29 new)
+### **231 open roles** (29 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 26, 2026
+
+### [Senior Machine Learning Engineer I, AI Governance (Remote USA)](https://jobs.ashbyhq.com/optro/da67948c-a896-40d2-a9eb-89e4e810905e)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
+
+_Build production ML systems powering LLM-based features (chat, data extraction, agentic workflows, semantic search) for Optro's audit and risk management platform. Focus on RAG, prompt engineering, fine-tuning, and knowledge distillation applied to enterprise risk data at $300M+ ARR scale. · [Apply →](https://jobs.ashbyhq.com/optro/da67948c-a896-40d2-a9eb-89e4e810905e)_
+
+`Python` `PyTorch` `Hugging Face` `PostgreSQL` `Kubernetes` `Docker` `TypeScript` `AWS`
+
+<sub>June 26, 2026 at 16:49 UTC</sub>
+
+---
+
+### [Senior Software Engineer I](https://job-boards.greenhouse.io/energyhub/jobs/8586008002)
+<a href="https://energyhub.com"><img src="https://www.google.com/s2/favicons?domain=energyhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EnergyHub** · `🟢 Remote` `Senior` `$130k-$170k`
+
+_Design and develop backend services for residential battery integration with industry-standard energy protocols (OpenADR, IEEE 2030.5); build client-facing REST APIs and internal service integrations for virtual power plant capabilities. Requires expertise in smart grid/DER communication standards and Spring/Java backend systems. · [Apply →](https://job-boards.greenhouse.io/energyhub/jobs/8586008002)_
+
+`Java` `Spring` `PostgreSQL` `REST APIs` `AWS` `OpenADR` `IEEE 2030.5` `GitHub Actions`
+
+<sub>June 26, 2026 at 16:49 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Mercury Command](https://job-boards.greenhouse.io/mercury/jobs/5803347004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$200k-$250k` `Equity`
+
+_Design and ship new capabilities for Command, Mercury's LLM-powered financial assistant, owning the product end-to-end from system prompts and agentic workflows to frontend components. Scale LLM reliability and performance in production fintech, building eval infrastructure and multi-step agent interactions that are safe and trustworthy for real financial operations. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/5803347004)_
+
+`TypeScript` `Haskell` `LLM Architecture` `Prompt Engineering` `Agentic Systems` `Eval Infrastructure` `Production AI Systems` `API Design`
+
+<sub>June 26, 2026 at 16:49 UTC</sub>
+
+---
+
+### [Backend Engineer, Financial Connections](https://stripe.com/jobs/search?gh_jid=8030859)
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Remote, Canada · `🟢 Remote` `Senior`
+
+_Design and build scalable backend infrastructure for bank integrations and financial data connectivity across the Stripe platform. Lead large technical projects balancing emerging fintech opportunities (stablecoins, AI wallets) with reliable access to legacy banking networks. · [Apply →](https://stripe.com/jobs/search?gh_jid=8030859)_
+
+`Distributed Systems` `API Design` `Financial Systems` `Large-scale Infrastructure` `Cross-team Project Leadership`
+
+<sub>June 26, 2026 at 16:49 UTC</sub>
+
+---
 
 ### [Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
 <a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
@@ -698,6 +742,17 @@ _Build the ground-up PLG growth and lifecycle infrastructure for music and audio
 
 ---
 
+### [Principal Design Technologist, AI Design Tools](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$169k-$284k` `Equity`
+
+_Own the end-to-end AI design tooling ecosystem at Zillow—unifying scattered AI tools, building an MCP server integration for Claude and Cursor, and shipping evaluation harnesses that hold AI-generated UX to design system standards. Requires shipping infrastructure that measurably changed how teams work and deep fluency with modern AI coding tools in production codebases. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)_
+
+`Python` `TypeScript` `React` `Figma API` `MCP (Model Context Protocol)` `Claude API` `Design Systems` `Accessibility (A11y)`
+
+<sub>June 24, 2026 at 16:53 UTC</sub>
+
+---
+
 ### [QA Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/QA-Engineer_R2026-0213)
 <a href="https://bonterratech.com"><img src="https://www.google.com/s2/favicons?domain=bonterratech.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bonterra** · `🟢 Remote` `Mid` `$72k-$85k` `Equity`
 
@@ -775,12 +830,12 @@ _Build automated revenue infrastructure that turns prospect data and buying sign
 
 ---
 
-### [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$132.6k-$171.6k CAD` `Equity`
+### [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$204k-$235k.50` `Equity`
 
-_Monitor and respond to security incidents, lead forensic investigations, and build automation tools for security operations at a public IoT platform serving physical operations industries. Requires Python scripting to develop investigation automation and 5+ years incident response experience. · [Apply →](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084)_
+_Lead security incident response and digital forensic investigations for a platform managing IoT data across logistics, agriculture, and manufacturing. Build Python-based tools and automation to support incident response and insider threat operations at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105)_
 
-`Python` `Security Incident Response` `SIEM` `macOS` `Windows` `Linux` `AWS` `GCP`
+`Python` `Incident Response` `SIEM` `AWS` `GCP` `macOS` `Windows` `Linux`
 
 <sub>June 24, 2026 at 11:10 UTC</sub>
 
@@ -1098,12 +1153,12 @@ _Build scalable backend systems and AI-powered platforms for Airbnb's messaging,
 
 ---
 
-### [Staff Software Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer_JR-000702)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$150k-$175k`
+### [Staff Software Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer_JR-000729)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$160k-$185k`
 
-_Build and lead high-quality, scalable cloud-native software systems for a digital banking platform serving U.S. banks and credit unions, with ownership across the full application lifecycle from design through production support. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer_JR-000702)_
+_Lead the design and implementation of high-quality, scalable software systems for a SaaS banking platform, owning multiple product features end-to-end. Build cloud-native applications serving US financial institutions at scale, with responsibilities spanning architecture, code reviews, mentoring, and on-call incident response. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer_JR-000729)_
 
-`Java` `C#` `React` `Angular` `Kubernetes` `PostgreSQL` `AWS` `OpenTelemetry`
+`Java` `C#` `React` `Angular` `Kubernetes` `AWS` `PostgreSQL` `OpenTelemetry`
 
 <sub>June 23, 2026 at 16:58 UTC</sub>
 
@@ -1658,12 +1713,12 @@ _Design and build scalable data platform solutions including streaming pipelines
 
 ---
 
-### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017073)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
+### [Senior Product Security Engineer II](https://instacart.careers/job/?gh_jid=8017071)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Design and conduct offensive security operations across Instacart's product suite, deploying and operationalizing security tools to scale vulnerability discovery and mature security posture. Integrate security testing into engineering workflows and mentor the security team across mobile, AI, and cloud attack surfaces. · [Apply →](https://instacart.careers/job/?gh_jid=8017073)_
+_Design and conduct offensive security operations across Instacart's product suite, deploying security tools and techniques to scale vulnerability discovery. Requires deep expertise in mobile/cloud/AI security testing and threat modeling; remote role with market-competitive equity compensation. · [Apply →](https://instacart.careers/job/?gh_jid=8017071)_
 
-`Penetration Testing` `Mobile App Security` `Cloud Security` `Threat Modeling` `Security Architecture` `Offensive Security` `Vulnerability Assessment` `Burp Suite`
+`Mobile App Penetration Testing` `Cloud Penetration Testing` `Threat Modeling` `Security Architecture` `AI Security Testing` `Bug Bounty Research`
 
 <sub>June 18, 2026 at 21:00 UTC</sub>
 
@@ -1900,6 +1955,17 @@ _Own the technical architecture of Tailscale's next-generation web console, incl
 
 ---
 
+### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
+
+_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
+
+`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
+
+<sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
 ### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6024028004)
 <a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$117k–$146k`
 
@@ -2050,6 +2116,28 @@ _Build and scale large-scale data ingestion and transformation pipelines integra
 <br>
 
 ## June 16, 2026
+
+### [Senior Software Development Engineer, Android](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build reusable Android components, frameworks, and design system infrastructure using Kotlin and Jetpack Compose that power consistent experiences across Zillow's mobile products at scale. Architect platform-level UI systems and tooling that improve developer velocity and code quality across the organization. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)_
+
+`Kotlin` `Jetpack Compose` `Android Architecture` `Android UI/UX` `Design Systems` `Accessibility`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
+
+### [Software Development Engineer, iOS](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Mid` `$129k-$217k` `Equity`
+
+_Build and maintain Zillow's iOS design system, creating reusable components and patterns that product teams use to build high-quality experiences for millions of mobile users. Work with modern development environments incorporating AI-assisted tools while upholding accessibility and performance standards across iOS applications. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)_
+
+`Swift` `SwiftUI` `iOS` `Accessibility` `CI/CD` `Testing Frameworks` `Application Performance` `Build Tools`
+
+<sub>June 16, 2026 at 23:39 UTC</sub>
+
+---
 
 ### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/aa156425-ec0d-4617-a684-521501ebc8cd)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
@@ -2325,17 +2413,6 @@ _Lead the Activations engineering team responsible for client onboarding integra
 _Build the UI/UX and front-end implementation for education technology products used by millions of students and teachers; design and maintain a living design system as code while bridging design and engineering teams. Requires expert-level Figma and production React/TypeScript proficiency with deep ownership of pixel-accurate, accessible implementations. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7998049)_
 
 `React` `TypeScript` `Figma` `HTML/CSS` `Storybook` `WCAG` `Design Systems` `Accessibility`
-
-<sub>June 15, 2026 at 20:16 UTC</sub>
-
----
-
-### [Sr. Software Engineer, Android](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$149k-$308k` `Equity`
-
-_Build consumer-facing Android features and frameworks for Pinterest's inspiration platform, scaling to millions of users. Lead product development end-to-end from ideation through A/B testing and release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)_
-
-`Kotlin` `Java` `Android` `Activity Lifecycle` `Memory Management`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
