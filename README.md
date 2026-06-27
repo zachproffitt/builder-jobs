@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2000 open roles** (76 new) &nbsp;·&nbsp; 1720 companies searched
+### **2000 open roles** (61 new) &nbsp;·&nbsp; 1720 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -226,7 +226,7 @@ _Build full-stack features for a design-intensive creative platform, from pixel-
 ---
 
 ### [Senior Cloud Engineer - US Federal](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cloud-Engineer---US-Federal_JR-0108207)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Senior` `$163k-$245k` `Equity`
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Senior` `$163k-$245k` `Equity`
 
 _Build and operate scalable, secure cloud infrastructure services on AWS or GCP, managing environment automation, service health, and vulnerability management for Workday's public cloud migration. Requires active TS/SCI clearance and US citizenship for federal government contracts. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Cloud-Engineer---US-Federal_JR-0108207)_
 
@@ -237,7 +237,7 @@ _Build and operate scalable, secure cloud infrastructure services on AWS or GCP,
 ---
 
 ### [Principal Cloud Engineer - US Federal](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cloud-Engineer---US-Federal_JR-0108260)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Principal` `$191k-$287k` `Equity`
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Principal` `$191k-$287k` `Equity`
 
 _Lead cloud infrastructure strategy and migration to public cloud (AWS/GCP) for Workday's federal government contracts, architecting scalable, secure infrastructure-as-code solutions. Requires TS/SCI w/CI Poly clearance and US citizenship for federal compliance. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Cloud-Engineer---US-Federal_JR-0108260)_
 
@@ -684,171 +684,6 @@ _Build machine learning models to enhance data quality and accuracy for autonomo
 `Python` `PyTorch` `TensorFlow` `Computer Vision` `Sensor Fusion` `Deep Learning` `Data Quality Assessment` `Autonomous Vehicles`
 
 <sub>June 26, 2026 at 21:36 UTC</sub>
-
----
-
-### [Software Engineer, Agent Platform](https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Washington, D.C. · `Senior` `$220k-$292k` `Equity`
-
-_Own and evolve Anduril's internal LLM agent framework, building the platform that enables teams across the company to develop, evaluate, and deploy reliable LLM agents in mission-critical defense applications. Design core abstractions, runtime architecture, evaluation tooling, and integrations that support multiple business lines building agents for autonomy, planning, and sensor fusion in edge-compatible environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007)_
-
-`Python` `LLM Agents` `Langchain` `Claude SDK` `Kubernetes` `Docker` `Distributed Systems` `ML Infrastructure`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Models Engineer, AI Platform](https://boards.greenhouse.io/cloudflare/jobs/8028747?gh_jid=8028747)
-<a href="https://cloudflare.com"><img src="https://www.google.com/s2/favicons?domain=cloudflare.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudflare** · Austin, Texas · `🟡 Hybrid` `Mid`
-
-_Build demos, integrations, and developer tooling to bring new AI models to Cloudflare's edge platform; author technical content and guide external model partners through integration while supporting a global developer community. · [Apply →](https://boards.greenhouse.io/cloudflare/jobs/8028747?gh_jid=8028747)_
-
-`Python` `PyTorch` `Hugging Face Transformers` `Diffusers` `JavaScript` `TypeScript` `Cloudflare Workers` `Technical Writing`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Staff Software Engineer - Security Platform](https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411)
-<a href="https://cloudflare.com"><img src="https://www.google.com/s2/favicons?domain=cloudflare.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudflare** · Austin, Texas / Denver, Colorado / Atlanta, Georgia / Washington, D.C. / Seattle, Washington / New York, New York / Toronto, Canada · `🟡 Hybrid` `Staff` `$150k-$275k` `Equity`
-
-_Build and operate distributed systems for secrets management, PKI, and machine/workload identity across Cloudflare's global network spanning 310+ cities. Requires strong security implementation expertise, distributed systems design, and cryptography background with potential on-call responsibilities. · [Apply →](https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411)_
-
-`Go` `Python` `Distributed Systems` `Cryptography` `HashiCorp Vault` `OpenBao` `HSM` `TPM`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Data Architect, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Data-Architect--Senior_R0242379)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Albuquerque, New Mexico · `🟡 Hybrid` `Senior` `$86k-$198k`
-
-_Own the enterprise data architecture, data models, governance, and quality frameworks powering analytics and operations for DoD clients. Design and enforce data governance standards, lead client data maturity assessments, and build data solutions in Python and SQL; requires Secret clearance and experience in DoD or requirements-driven delivery environments. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Data-Architect--Senior_R0242379)_
-
-`Python` `SQL` `AWS` `ETL/ELT` `Data Modeling` `dbt` `Airflow` `Secret Clearance`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Software Engineer in Test (SET)](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Software-Engineer-in-Test--SET-_31154542-1)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · Lake Forest, Illinois · `Senior` `$78k-$156k`
-
-_Build and maintain test automation frameworks for AlinIQ informatics products across server, web, cloud, and mobile platforms; lead testing strategy and mentor junior QA engineers in a regulated healthcare diagnostics environment. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Software-Engineer-in-Test--SET-_31154542-1)_
-
-`C#` `Automated Testing` `Manual Testing` `Microsoft Windows` `Test Automation Frameworks` `Regression Testing` `IMS` `Agile`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Sr. Principal Engineer, AI Systems and Solutions](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Sr-Principal-Engineer--AI-Systems-and-Solutions_JR0285283)
-<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Hillsboro, Oregon / Folsom, California / Santa Clara, California · `Principal` `$255k-$413k` `Equity`
-
-_Lead system-level validation strategies across performance, power, and thermal domains, driving transformation through generative AI to automate test planning, coverage analysis, and execution. Requires 15+ years in silicon/platform validation and hands-on experience applying LLMs to engineering workflows. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Sr-Principal-Engineer--AI-Systems-and-Solutions_JR0285283)_
-
-`Python` `Generative AI` `LLMs` `Machine Learning` `Test Automation` `Data Analytics` `Performance Characterization` `Thermal Analysis`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Principal Data Scientist II](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Principal-Data-Scientist-II_R113370)
-<a href="https://lexisnexis.com"><img src="https://www.google.com/s2/favicons?domain=lexisnexis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LexisNexis** · Raleigh, North Carolina · `Principal` `$163k - $303k`
-
-_Lead strategic data science initiatives and team direction across the legal tech business, partnering with cross-functional stakeholders to deliver high-impact models and insights at scale. This is a principal-level role overseeing medium-sized teams and setting governance and best practices for data science across the organization. · [Apply →](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Principal-Data-Scientist-II_R113370)_
-
-`Data Science` `Machine Learning` `Python` `SQL` `Team Leadership` `Generative AI`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Senior Software Engineer -Alerts](https://job-boards.greenhouse.io/newrelic/jobs/5282587008)
-<a href="https://newrelic.com"><img src="https://www.google.com/s2/favicons?domain=newrelic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**New Relic** · Ottawa, Canada · `Senior`
-
-_Design and develop backend services in Java/Kotlin that process high-volume telemetry and alerting workloads for New Relic's observability platform. Build the signal ingestion, persistence, and retrieval systems at the heart of a customer-facing alerts product operating at scale across distributed systems. · [Apply →](https://job-boards.greenhouse.io/newrelic/jobs/5282587008)_
-
-`Java` `Kotlin` `PostgreSQL` `Kafka` `Kubernetes` `Docker` `AWS` `Terraform`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Principal System Engineer LIMS](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Principal-System-Engineer-LIMS_R19358)
-<a href="https://modernatx.com"><img src="https://www.google.com/s2/favicons?domain=modernatx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Moderna** · `🟢 Remote` `Senior` `$130k–$209k` `Equity`
-
-_Implement and improve LabVantage LIMS solutions for Moderna's Quality Control Digital Laboratory Systems, managing integrations with MES, SAP, and eQMS across small to large cross-functional projects. Requires 8+ years LabVantage LIMS development in a GxP/GMP environment and expertise in computer systems validation (GAMP). · [Apply →](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Principal-System-Engineer-LIMS_R19358)_
-
-`LabVantage` `LIMS` `GxP` `GMP` `SAP` `MES` `eQMS` `GAMP`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality](https://job-boards.greenhouse.io/reddit/jobs/8029120)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$185k–$303k` `Equity`
-
-_Build and deploy optimization algorithms for Reddit's auction, bidding, and pacing systems that power the ads marketplace at internet scale. Requires strong quantitative skills (math, optimization, or operations research background) and experience with production ML systems; handle both algorithmic design and end-to-end system ownership from experimentation to deployment. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8029120)_
-
-`Python` `Java` `Go` `Spark` `Kafka` `Airflow` `BigQuery` `Redis`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Senior Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/425f4bad-b1ec-4e9b-8f0a-0e8fc83f1fe8)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Staff`
-
-_Lead the technical strategy and architectural evolution for Rula's Provider organization, spanning all microservices, cloud infrastructure, and full-stack systems serving healthcare provider integrations. Establish engineering standards, drive high-impact initiatives, and mentor architects across teams; requires 10+ years building distributed systems and deep expertise in healthcare data standards (FHIR, HL7). · [Apply →](https://jobs.ashbyhq.com/rula/425f4bad-b1ec-4e9b-8f0a-0e8fc83f1fe8)_
-
-`Distributed Systems` `Microservices Architecture` `SQL` `NoSQL` `AWS` `Node.js` `TypeScript` `Kafka`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002)
-<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Junior` `$125k-$175k` `Equity`
-
-_Build highly reliable software systems to control hundreds of satellites in low earth orbit, including Linux-based C++ flight software, mesh networking protocols, ground operations systems, and continuous integration infrastructure. Requires ability to obtain and maintain Top Secret/SCI clearance; US citizenship or permanent residency required by ITAR regulations. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002)_
-
-`C++` `C` `Python` `Linux` `Networking Protocols` `Top Secret/SCI Clearance` `Computer Architecture` `ARM`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Senior Software Engineer, Integrations ](https://job-boards.greenhouse.io/stackadapt/jobs/4296836009)
-<a href="https://stackadapt.com"><img src="https://www.google.com/s2/favicons?domain=stackadapt.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**StackAdapt** · `🟢 Remote` `Senior`
-
-_Build scalable backend systems and APIs for StackAdapt's advertising platform, integrating third-party data for audience building, attribution, and real-time ad serving. Work with high-volume data pipelines and mentor senior engineers across GoLang, AWS, Kubernetes, and Kafka infrastructure. · [Apply →](https://job-boards.greenhouse.io/stackadapt/jobs/4296836009)_
-
-`GoLang` `AWS` `Kubernetes` `Kafka` `Snowflake` `TiDB` `RocksDB`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Corporate Security Engineer](https://job-boards.greenhouse.io/taxbit/jobs/6102260004)
-<a href="https://taxbit.com"><img src="https://www.google.com/s2/favicons?domain=taxbit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TaxBit** · Salt Lake City, Utah · `Mid` `$58k-$167k` `Equity`
-
-_Design and operate Taxbit's corporate identity, endpoint, and workspace infrastructure across Okta, Jamf, Intune, and Google Workspace; implement security baselines aligned with ISO 27001, SOC 2, and NIST CSF compliance frameworks. · [Apply →](https://job-boards.greenhouse.io/taxbit/jobs/6102260004)_
-
-`Okta` `Jamf` `Microsoft Intune` `Google Workspace` `Bash` `Python` `PowerShell` `ISO 27001`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
-
----
-
-### [Software Engineer - Robot Link Platform](https://jobs.lever.co/zoox/44136143-ba13-4839-bdc5-26a7633080a3)
-<a href="https://zoox.com"><img src="https://www.google.com/s2/favicons?domain=zoox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zoox** · Foster City, California · `Mid`
-
-_Design and build cloud backend microservices for autonomous robotaxi fleet management, telemetry, and rider support. Architect mission-critical communication systems between robot software and cloud services operating at scale. · [Apply →](https://jobs.lever.co/zoox/44136143-ba13-4839-bdc5-26a7633080a3)_
-
-`Microservices` `Cloud Services` `Network Protocols` `Distributed Systems`
-
-<sub>June 26, 2026 at 20:42 UTC</sub>
 
 ---
 
