@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1907 open roles** (5 new) &nbsp;·&nbsp; 1729 companies searched
+### **2003 open roles** (4 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -53,17 +53,6 @@ _Lead a specialized security engineering team building automated controls and gu
 `Application Security` `Cloud Security` `AWS` `AI Security` `SAST` `DAST` `SCA` `Kubernetes`
 
 <sub>June 27, 2026 at 07:18 UTC</sub>
-
----
-
-### [Engineering Manager - Core Infra](https://jobs.ashbyhq.com/cinder/bf8990e5-a3de-4682-a218-841607e0f0d5)
-<a href="https://cinder.ai"><img src="https://www.google.com/s2/favicons?domain=cinder.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cinder** · New York, New York · `Manager`
-
-_Lead the Core Infrastructure team building content moderation and safety systems for major internet platforms. Manage end-to-end team delivery, architect high-throughput workflow engines handling billions of content decisions, and drive execution quality across agents, review tooling, and platform reliability. · [Apply →](https://jobs.ashbyhq.com/cinder/bf8990e5-a3de-4682-a218-841607e0f0d5)_
-
-`Workflow Automation` `High-Throughput Systems` `AI Agents` `Platform Reliability` `Operational Metrics (DORA)`
-
-<sub>June 27, 2026 at 05:27 UTC</sub>
 
 ---
 
