@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2002 open roles** (10 new) &nbsp;·&nbsp; 1729 companies searched
+### **2043 open roles** (9 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -100,29 +100,14 @@ _Build causal inference models and experimental frameworks to measure the impact
 
 ---
 
-<br>
+### [Controls Service Technician](https://jci.wd5.myworkdayjobs.com/JCI/job/Cranberry-Township-Pennsylvania-United-States-of-America/Controls-Service-Technician_WD30271822)
+<a href="https://johnsoncontrols.com"><img src="https://www.google.com/s2/favicons?domain=johnsoncontrols.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Johnson Controls** · Cranberry Township, Pennsylvania · `Mid` `$76k-$100k`
 
-## June 27, 2026
+_Design, program, and commission complex HVAC building control systems and low-voltage subsystems (lighting, nurse call, networks) for commercial and industrial facilities. Requires proficiency with LON protocol and building automation platforms; involves field commissioning, troubleshooting, and technical documentation. · [Apply →](https://jci.wd5.myworkdayjobs.com/JCI/job/Cranberry-Township-Pennsylvania-United-States-of-America/Controls-Service-Technician_WD30271822)_
 
-### [Controls and Automation Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7787934003)
-<a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Mid` `$131k-$184k` `Equity`
+`LON` `BACnet` `Modbus` `Visio` `Building Automation Systems` `HVAC Controls` `IP Networking`
 
-_Design and build ground support equipment and test automation systems for spaceflight hardware qualification, including custom PLC frameworks and EtherCAT tooling. Work across the full stack from control software to electrical panel design and cabinet wiring in a fast-paced aerospace startup environment. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7787934003)_
-
-`Python` `TwinCAT 3` `EtherCAT` `Structured Text` `PLC` `Modbus` `RS-232/485` `Docker`
-
-<sub>June 27, 2026 at 23:30 UTC</sub>
-
----
-
-### [Senior Controls and Automation Software Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/7787935003)
-<a href="https://varda.space"><img src="https://www.google.com/s2/favicons?domain=varda.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Varda Space Industries** · El Segundo, California · `Senior` `$169k-$216k` `Equity`
-
-_Design and build custom ground support equipment and test automation systems for spacecraft manufacturing and qualification, including PLC frameworks, EtherCAT integration, and real-time control loops. Aerospace experience preferred; requires on-site work in El Segundo, CA and US person status for ITAR compliance. · [Apply →](https://job-boards.greenhouse.io/vardaspace/jobs/7787935003)_
-
-`Python` `TwinCAT 3` `EtherCAT` `IEC 61131-3` `Modbus` `embedded firmware` `Docker` `InfluxDB`
-
-<sub>June 27, 2026 at 23:30 UTC</sub>
+<sub>June 28, 2026 at 12:41 UTC</sub>
 
 ---
 
