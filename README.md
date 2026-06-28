@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2003 open roles** (4 new) &nbsp;·&nbsp; 1729 companies searched
+### **1906 open roles** (3 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -42,17 +42,6 @@ _Develop and execute on-orbit mission operations for commercial spacecraft, owni
 `Python` `JavaScript` `HTML` `Git` `Spacecraft Systems` `Avionics` `GNC (Guidance, Navigation & Control)` `Thermal Design`
 
 <sub>June 27, 2026 at 22:30 UTC</sub>
-
----
-
-### [Manager, Security Engineering](https://job-boards.greenhouse.io/acquia/jobs/8022299)
-<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Manager` `$150k-$169.75k`
-
-_Lead a specialized security engineering team building automated controls and guardrails for application, cloud, and AI system security across AWS-native products. Partner with Product Engineering to embed "secure by default" foundations and define security standards for LLM-based agents and agentic AI systems. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8022299)_
-
-`Application Security` `Cloud Security` `AWS` `AI Security` `SAST` `DAST` `SCA` `Kubernetes`
-
-<sub>June 27, 2026 at 07:18 UTC</sub>
 
 ---
 
