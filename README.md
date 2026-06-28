@@ -2,11 +2,37 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1932 open roles** (3 new) &nbsp;·&nbsp; 1729 companies searched
+### **1907 open roles** (5 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## June 28, 2026
+
+### [Data Scientist - Algorithms, Community Support](https://careers.airbnb.com/positions/8031901?gh_jid=8031901)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$151k-$175k` `Equity`
+
+_Build and deploy LLM/ML models to automate customer issue classification, synthetic data curation, and personalization algorithms for Airbnb's Community Support platform. Work on production systems handling millions of host and guest interactions with direct impact on product launches and operational efficiency. · [Apply →](https://careers.airbnb.com/positions/8031901?gh_jid=8031901)_
+
+`Python` `SQL` `PyTorch` `TensorFlow` `LLM fine-tuning` `Causal Inference` `Machine Learning` `NLP`
+
+<sub>June 28, 2026 at 17:33 UTC</sub>
+
+---
+
+### [Data Scientist - Inference, Community Support](https://careers.airbnb.com/positions/8031907?gh_jid=8031907)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$151k–$175k` `Equity`
+
+_Build causal inference models and experimental frameworks to measure the impact of Community Support product launches and optimize resource allocation for hosts and guests. Apply Bayesian modeling and statistical inference to measure long-term effects of product changes and uncover heterogeneous treatment effects in a high-stakes customer support environment. · [Apply →](https://careers.airbnb.com/positions/8031907?gh_jid=8031907)_
+
+`Python` `R` `SQL` `Causal Inference` `Bayesian Modeling` `Experimental Design` `Statistical Inference` `PyTorch or TensorFlow`
+
+<sub>June 28, 2026 at 17:33 UTC</sub>
+
+---
 
 <br>
 
