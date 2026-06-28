@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2000 open roles** (11 new) &nbsp;·&nbsp; 1729 companies searched
+### **1907 open roles** (5 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -64,72 +64,6 @@ _Lead the Core Infrastructure team building content moderation and safety system
 `Workflow Automation` `High-Throughput Systems` `AI Agents` `Platform Reliability` `Operational Metrics (DORA)`
 
 <sub>June 27, 2026 at 05:27 UTC</sub>
-
----
-
-### [AI Data Scientist](https://jobs.lever.co/ro/68d2dbb0-7e75-412a-8067-ef0e11ea7f19)
-<a href="https://ro.co"><img src="https://www.google.com/s2/favicons?domain=ro.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ro** · New York, New York · `Mid`
-
-_Design and execute evaluations for LLM-powered products across telehealth, clinical operations, and internal tooling to measure AI system quality in production. Partner with engineers to run experiments and improve AI feature performance at scale in a healthcare platform serving millions of patients. · [Apply →](https://jobs.lever.co/ro/68d2dbb0-7e75-412a-8067-ef0e11ea7f19)_
-
-`LLM evaluation` `Python` `Experimentation` `Machine Learning` `Healthcare Data`
-
-<sub>June 27, 2026 at 03:19 UTC</sub>
-
----
-
-### [AI Engineer](https://jobs.lever.co/ro/0b6ded09-e358-4e39-a428-a2cbf6b15cda)
-<a href="https://ro.co"><img src="https://www.google.com/s2/favicons?domain=ro.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ro** · New York, New York · `Junior`
-
-_Build LLM-powered features across patient experience, clinical operations, and internal tooling—from prototype through production. Work on orchestration layers, prompt engineering, retrieval systems, and evaluations for healthcare applications requiring high reliability at scale. · [Apply →](https://jobs.lever.co/ro/0b6ded09-e358-4e39-a428-a2cbf6b15cda)_
-
-`LLM` `RAG` `Python` `Prompt Engineering` `Evaluation Frameworks` `Healthcare`
-
-<sub>June 27, 2026 at 03:19 UTC</sub>
-
----
-
-### [AI Product Engineer](https://jobs.lever.co/ro/aec06f32-3b1d-4dc9-9a4c-a51d095824c8)
-<a href="https://ro.co"><img src="https://www.google.com/s2/favicons?domain=ro.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ro** · New York, New York · `Mid`
-
-_Build LLM-powered products across patient experience, clinical operations, and internal tooling at a vertically integrated healthcare platform. Work directly with clinical operators to prototype AI workflows that improve healthcare delivery at scale. · [Apply →](https://jobs.lever.co/ro/aec06f32-3b1d-4dc9-9a4c-a51d095824c8)_
-
-`LLM` `RAG` `Python` `API Design` `Product Thinking`
-
-<sub>June 27, 2026 at 03:19 UTC</sub>
-
----
-
-### [Senior AI Engineer](https://jobs.lever.co/ro/81dd41da-ba24-435b-83c4-bd19a312744b)
-<a href="https://ro.co"><img src="https://www.google.com/s2/favicons?domain=ro.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ro** · New York, New York · `Senior`
-
-_Build LLM-powered features across patient experience, clinical operations, and internal tooling, owning systems from prototype to production. Work on orchestration, prompt engineering, retrieval systems, and evaluation frameworks for healthcare applications requiring high reliability. · [Apply →](https://jobs.lever.co/ro/81dd41da-ba24-435b-83c4-bd19a312744b)_
-
-`LLM` `RAG` `Prompt Engineering` `Python` `Healthcare Domain Knowledge`
-
-<sub>June 27, 2026 at 03:19 UTC</sub>
-
----
-
-### [Senior AI Product Engineer](https://jobs.lever.co/ro/5641c1f4-c126-42eb-b2f5-1b228d77a5db)
-<a href="https://ro.co"><img src="https://www.google.com/s2/favicons?domain=ro.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ro** · New York, New York · `🟡 Hybrid` `Senior`
-
-_Build LLM-powered products across patient experience, clinical operations, and pharmacy workflows. Own the full lifecycle from problem identification through production deployment, writing prompt orchestrations, evaluations, and Python services at healthcare scale. · [Apply →](https://jobs.lever.co/ro/5641c1f4-c126-42eb-b2f5-1b228d77a5db)_
-
-`Python` `LLM/Prompt Engineering` `API Design` `Healthcare Domain` `Product Strategy`
-
-<sub>June 27, 2026 at 03:19 UTC</sub>
-
----
-
-### [Senior Applied AI Scientist](https://jobs.lever.co/ro/7d3b2a27-56e2-460a-9356-41022d9ed095)
-<a href="https://ro.co"><img src="https://www.google.com/s2/favicons?domain=ro.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ro** · New York, New York · `Senior`
-
-_Design evaluation frameworks and measurement systems for production LLM applications across telehealth, clinical operations, and internal tooling. Own the optimization pipeline that ensures AI systems improve in accuracy, reliability, and cost-efficiency at healthcare scale. · [Apply →](https://jobs.lever.co/ro/7d3b2a27-56e2-460a-9356-41022d9ed095)_
-
-`LLM Evaluation` `PyTorch` `Python` `Prompt Engineering` `A/B Testing` `Experiment Design` `Production ML`
-
-<sub>June 27, 2026 at 03:19 UTC</sub>
 
 ---
 
