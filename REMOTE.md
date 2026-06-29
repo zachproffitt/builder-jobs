@@ -2,13 +2,68 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **259 open roles** (15 new)
+### **256 open roles** (19 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 29, 2026
+
+### [Senior Director of Engineering, Consumer AI](https://jobs.ashbyhq.com/1password/ef8e8a1f-349e-42bc-a859-586f4aaa5916)
+<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Manager` `$272k-$408k (USD) / $254k-$381k (CAD)` `Equity`
+
+_Lead 1Password's Consumer AI strategy and engineering organization to build trustworthy, privacy-preserving AI-powered identity and access management products at scale. Balance AI innovation with security and privacy rigor in a high-growth SaaS environment; requires 12+ years engineering experience and 5+ years leading large organizations. · [Apply →](https://jobs.ashbyhq.com/1password/ef8e8a1f-349e-42bc-a859-586f4aaa5916)_
+
+`AI/ML Systems` `Product Strategy` `Engineering Leadership` `Privacy & Security Design` `Organizational Design`
+
+<sub>June 29, 2026 at 20:44 UTC</sub>
+
+---
+
+### [Lead Design Engineer](https://boards.greenhouse.io/descript/jobs/7789070003?gh_jid=7789070003)
+<a href="https://descript.com"><img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Descript** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$247k-$280k`
+
+_Build and maintain the production design system for a video editing platform, creating React components with strongly-typed APIs, accessible interactions, and motion design. Drive consistency across the product while enabling designers and engineers to self-serve; design system expertise at production scale required. · [Apply →](https://boards.greenhouse.io/descript/jobs/7789070003?gh_jid=7789070003)_
+
+`React` `TypeScript` `CSS Modules` `Figma` `Accessibility (a11y)` `Motion Design` `Design Systems` `CSS Custom Properties`
+
+<sub>June 29, 2026 at 20:44 UTC</sub>
+
+---
+
+### [Database Engineer](http://invoicecloud.net/careers/open-positions?gh_jid=7789142003)
+<a href="https://engagesmart.com"><img src="https://www.google.com/s2/favicons?domain=engagesmart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EngageSmart** · `🟢 Remote` `Mid` `$120k-$140k`
+
+_Maintain, optimize, and evolve database systems supporting InvoiceCloud's SaaS fintech platform. Design and deploy Azure-based automation solutions (Logic Apps, Functions) and improve database performance through query tuning and architecture improvements at scale. · [Apply →](http://invoicecloud.net/careers/open-positions?gh_jid=7789142003)_
+
+`T-SQL` `Microsoft SQL Server` `Azure SQL DB` `Azure Functions` `Azure Logic Apps` `Query Store` `C#`
+
+<sub>June 29, 2026 at 20:44 UTC</sub>
+
+---
+
+### [Senior Software Engineer II - Shopper Activation & Engagement ](https://instacart.careers/job/?gh_jid=8036533)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k-CAD$207k` `Equity`
+
+_Lead the design and delivery of highly scalable services powering the shopper lifecycle—onboarding, eligibility, earnings, ratings, recognition, and retention—while setting technical direction for domain migrations and platform modernization. Champion AI enablement across the team through internal tooling and agentic automations that accelerate development, testing, and operations; requires 7+ years building production systems at scale and 3+ years architecting distributed systems with hands-on mentoring and cross-functional leadership. · [Apply →](https://instacart.careers/job/?gh_jid=8036533)_
+
+`Go` `Java` `Kotlin` `Python` `AWS` `GCP` `Kubernetes` `Kafka`
+
+<sub>June 29, 2026 at 20:44 UTC</sub>
+
+---
+
+### [Front End Engineer](https://jobs.ashbyhq.com/readme/83dca29c-e9f5-4c2d-a251-37b9fab0b6e9)
+<a href="https://readme.com"><img src="https://www.google.com/s2/favicons?domain=readme.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ReadMe** · San Francisco, California / New York, New York / Columbus, Ohio / Remote · `🟢 Remote` `Senior`
+
+_Build and own the frontend interfaces for ReadMe's developer documentation platform, including the editor, docs experience, and interactive surfaces used by thousands of developers daily. Shape performance, accessibility, and user experience across React/TypeScript applications serving multiple customer types (developers, tech writers, product owners). · [Apply →](https://jobs.ashbyhq.com/readme/83dca29c-e9f5-4c2d-a251-37b9fab0b6e9)_
+
+`React` `TypeScript` `JavaScript` `state management` `accessibility`
+
+<sub>June 29, 2026 at 20:44 UTC</sub>
+
+---
 
 ### [Principal Engineer, Product Engineering](https://jobs.ashbyhq.com/1password/42e39877-8c7c-4f18-9d42-336777df1de9)
 <a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Principal` `$246k-$369k (USD); $228k-$342k (CAD)` `Equity`
@@ -71,17 +126,6 @@ _Build and maintain governance, risk, and compliance infrastructure across secur
 _Optimize and deploy high-performance LLM inference pipelines across data center, edge, and embedded platforms, owning inference runtimes and pushing model performance through quantization, kernel fusion, and cache optimization. Scale to 500+ million automotive deployments with zero external vendor dependency for inference. · [Apply →](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Engineer_R0005965)_
 
 `CUDA` `vLLM` `TensorRT-LLM` `llama.cpp` `Quantization (INT8/INT4/FP4/FP8)` `GPU Architecture` `Python`
-
-<sub>June 29, 2026 at 17:10 UTC</sub>
-
----
-
-### [Data Scientist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29081)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
-
-_Build agentic AI systems for cybersecurity threat analysis by post-training LLMs with RLHF/reinforcement learning, designing agent workflows, and developing evaluation frameworks on CrowdStrike's trillion-event-per-day behavioral dataset. Requires PhD-level mastery of modern ML research and hands-on expertise in LLM training, RL, and agent architectures. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29081)_
-
-`PyTorch` `LLM Training` `RLHF` `Reinforcement Learning` `Hugging Face Transformers` `GPU Computing` `Python` `Agent Architectures`
 
 <sub>June 29, 2026 at 17:10 UTC</sub>
 
@@ -603,17 +647,6 @@ _Build agentic workflows on Claude and warehouse-backed data infrastructure to p
 
 ---
 
-### [Software Engineer - Patient Experience](https://job-boards.greenhouse.io/natera/jobs/6033356004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$105k-$132k`
-
-_Build and maintain a patient-facing web portal application and supporting microservices for genetic testing and diagnostic results. Full-stack role spanning React frontends, Node.js/TypeScript backends, AWS infrastructure, and event-driven architectures serving healthcare workflows at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6033356004)_
-
-`TypeScript` `React` `Node.js` `GraphQL` `AWS` `PostgreSQL` `Kafka` `Terraform`
-
-<sub>June 25, 2026 at 20:49 UTC</sub>
-
----
-
 ### [Sr. Software Engineer - Provider Access (Remote)](https://jobs.ashbyhq.com/rula/960bf1ee-6bd2-45b9-aabe-22001ecf0f16)
 <a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Senior`
 
@@ -860,17 +893,6 @@ _Administer and maintain MOVEit Transfer and Automation solutions, including use
 
 ---
 
-### [Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6099223004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Mid` `$105k-$132k` `Equity`
-
-_Build and deploy AI agent workflows that automate business processes across domains (clinical ops, sales, customer experience) by 10-100x, connecting to enterprise systems via APIs, webhooks, and MCP servers. Own end-to-end agent performance in production including evals, observability, and iterative tuning in a regulated healthcare environment (HIPAA, GxP). · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6099223004)_
-
-`Python` `SQL` `LLMs` `Prompt Engineering` `RAG` `API Integration` `MCP` `CrewAI`
-
-<sub>June 24, 2026 at 20:42 UTC</sub>
-
----
-
 ### [Software Engineer, Dev Velocity (all levels)](https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d)
 <a href="https://render.com"><img src="https://www.google.com/s2/favicons?domain=render.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Render** · `🟢 Remote`
 
@@ -1064,17 +1086,6 @@ _Manage a team of data scientists building fraud detection and identity verifica
 _Build the ground-up PLG growth and lifecycle infrastructure for music and audio products—own the CDP, product analytics, lifecycle messaging, experimentation, and reverse-ETL stack; design event taxonomy and in-app growth mechanics (viral loops, paywalls, referral systems) that drive measurable conversion from anonymous visitor to paying customer across web, desktop, plugin, and mobile. This is a greenfield role at the intersection of growth marketing and product infrastructure, requiring deep hands-on expertise in the modern martech and billing stack. · [Apply →](http://stability.ai/careers?gh_jid=4907461101)_
 
 `TypeScript` `Node.js` `Python` `SQL` `CDP` `Product Analytics` `Lifecycle Messaging` `Reverse-ETL`
-
-<sub>June 24, 2026 at 16:53 UTC</sub>
-
----
-
-### [Principal Design Technologist, AI Design Tools](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$169k-$284k` `Equity`
-
-_Own the end-to-end AI design tooling ecosystem at Zillow—unifying scattered AI tools, building an MCP server integration for Claude and Cursor, and shipping evaluation harnesses that hold AI-generated UX to design system standards. Requires shipping infrastructure that measurably changed how teams work and deep fluency with modern AI coding tools in production codebases. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)_
-
-`Python` `TypeScript` `React` `Figma API` `MCP (Model Context Protocol)` `Claude API` `Design Systems` `Accessibility (A11y)`
 
 <sub>June 24, 2026 at 16:53 UTC</sub>
 
@@ -2228,7 +2239,7 @@ _Build production ML models for claims time series forecasting and NLP text unde
 ---
 
 ### [DevOps Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)
-<a href="https://paloaltonetworks.com"><img src="https://www.google.com/s2/favicons?domain=paloaltonetworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Palo Alto Networks** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
+<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
 
 _Design and architect scalable CI/CD infrastructure and developer productivity platforms using infrastructure as code, mentoring engineers while remaining hands-on. Focus on cloud infrastructure (AWS preferred), containers, and Kubernetes across security and governance use cases in a mission-critical cybersecurity environment. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)_
 
@@ -2266,17 +2277,6 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 _Own the technical architecture of Tailscale's next-generation web console, including authentication infrastructure, unified product platform, and shared frontend systems. Build at the intersection of product engineering and platform engineering across identity, security, and multi-service integrations. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)_
 
 `React` `TypeScript` `HTTP` `CORS` `Authentication` `CSRF Protection` `Web Security` `Testing Infrastructure`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
-
-_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
-
-`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
@@ -2432,28 +2432,6 @@ _Build and scale large-scale data ingestion and transformation pipelines integra
 <br>
 
 ## June 16, 2026
-
-### [Senior Software Development Engineer, Android](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Build reusable Android components, frameworks, and design system infrastructure using Kotlin and Jetpack Compose that power consistent experiences across Zillow's mobile products at scale. Architect platform-level UI systems and tooling that improve developer velocity and code quality across the organization. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--Android_P750594-2)_
-
-`Kotlin` `Jetpack Compose` `Android Architecture` `Android UI/UX` `Design Systems` `Accessibility`
-
-<sub>June 16, 2026 at 23:39 UTC</sub>
-
----
-
-### [Software Development Engineer, iOS](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Mid` `$129k-$217k` `Equity`
-
-_Build and maintain Zillow's iOS design system, creating reusable components and patterns that product teams use to build high-quality experiences for millions of mobile users. Work with modern development environments incorporating AI-assisted tools while upholding accessibility and performance standards across iOS applications. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Software-Development-Engineer--iOS_P750593-2)_
-
-`Swift` `SwiftUI` `iOS` `Accessibility` `CI/CD` `Testing Frameworks` `Application Performance` `Build Tools`
-
-<sub>June 16, 2026 at 23:39 UTC</sub>
-
----
 
 ### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/aa156425-ec0d-4617-a684-521501ebc8cd)
 <a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
@@ -2740,17 +2718,6 @@ _Build the UI/UX and front-end implementation for education technology products 
 _Build consumer-facing Android features and frameworks for Pinterest's inspiration platform, scaling to millions of users. Lead product development end-to-end from ideation through A/B testing and release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=5432095)_
 
 `Kotlin` `Java` `Android` `Activity Lifecycle` `Memory Management`
-
-<sub>June 15, 2026 at 20:16 UTC</sub>
-
----
-
-### [Software Engineering Manager - Image and Data Compression Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `$200k-$322k` `Equity`
-
-_Lead a team building accelerated image and data compression software libraries. Domain expertise in image processing, compression algorithms, and parallel programming (CUDA, MPI) valued; requires 3+ years management experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)_
-
-`C++` `Python` `CUDA` `Image Processing` `Data Compression` `Parallel Programming` `MPI`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
