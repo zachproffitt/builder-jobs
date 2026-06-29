@@ -2,13 +2,68 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **249 open roles** (7 new)
+### **255 open roles** (12 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 29, 2026
+
+### [Sr. Principal Software Engineer](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Engineer_R0005965)
+<a href="https://cerence.com"><img src="https://www.google.com/s2/favicons?domain=cerence.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerence Inc.** · `🟢 Remote` `Principal` `$141k-$226k` `Equity`
+
+_Optimize and deploy high-performance LLM inference pipelines across data center, edge, and embedded platforms, owning inference runtimes and pushing model performance through quantization, kernel fusion, and cache optimization. Scale to 500+ million automotive deployments with zero external vendor dependency for inference. · [Apply →](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Engineer_R0005965)_
+
+`CUDA` `vLLM` `TensorRT-LLM` `llama.cpp` `Quantization (INT8/INT4/FP4/FP8)` `GPU Architecture` `Python`
+
+<sub>June 29, 2026 at 17:10 UTC</sub>
+
+---
+
+### [Data Scientist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29081)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build agentic AI systems for cybersecurity threat analysis by post-training LLMs with RLHF/reinforcement learning, designing agent workflows, and developing evaluation frameworks on CrowdStrike's trillion-event-per-day behavioral dataset. Requires PhD-level mastery of modern ML research and hands-on expertise in LLM training, RL, and agent architectures. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29081)_
+
+`PyTorch` `LLM Training` `RLHF` `Reinforcement Learning` `Hugging Face Transformers` `GPU Computing` `Python` `Agent Architectures`
+
+<sub>June 29, 2026 at 17:10 UTC</sub>
+
+---
+
+### [Manager, Software Engineering - Identity Platform](https://job-boards.greenhouse.io/marqeta/jobs/8035793)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Manager` `$174k-$218k` `Equity`
+
+_Lead the design and operation of an Identity Platform managing the full KYC/KYB lifecycle—from CIP verification at account opening through ongoing CDD, continuous risk monitoring, sanction screening, and AML/BSA compliance. Build AI-first automation systems to reduce manual review rates and scale identity verification across new regulatory jurisdictions. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8035793)_
+
+`Java` `Spring Boot` `Python` `Airflow` `KYC/KYB` `AML/BSA Compliance` `Identity Verification` `Event-Driven Architectures`
+
+<sub>June 29, 2026 at 17:10 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer, Configuration & Coordination](https://www.pinterestcareers.com/jobs/?gh_jid=7679640)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Staff` `$208k—$429k` `Equity`
+
+_Own the end-to-end technical strategy for configuration and coordination infrastructure serving mission-critical systems across regions and clouds—feature flags, ML settings, experiments, and service discovery. Architect next-generation control planes, orchestrate migration from legacy systems, and lead cross-functional alignment across Traffic, Compute, Observability, and Cloud Architecture teams at massive scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7679640)_
+
+`Distributed Systems` `Control Plane Architecture` `Feature Flags` `Kubernetes` `Service Mesh` `IaC` `CI/CD` `Observability`
+
+<sub>June 29, 2026 at 17:10 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Service Communications](https://www.pinterestcareers.com/jobs/?gh_jid=7990086)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Staff` `$177k–$364k` `Equity`
+
+_Architect and deploy advanced service mesh features using Envoy proxy, leading organization-wide adoption of service identity, mTLS, and traffic optimization primitives across hundreds of internal services. Requires deep expertise in distributed systems, multi-language framework development (Java, Python, C++), and proven ability to drive adoption of complex platform capabilities across cross-functional teams at massive scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7990086)_
+
+`Envoy` `Service Mesh` `Distributed Systems` `Java` `Python` `C++` `mTLS` `Kubernetes`
+
+<sub>June 29, 2026 at 17:10 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Konnect Admin/Billing](https://jobs.ashbyhq.com/kong/2dd41d27-36c1-4ea0-99b0-7716370b0911)
 <a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · Toronto, Canada · `🟢 Remote` `Senior`
@@ -110,12 +165,12 @@ _Lead a specialized security engineering team building automated controls and gu
 
 ## June 26, 2026
 
-### [Business Technology Engineer II](https://www.samsara.com/company/careers/roles/8022729?gh_jid=8022729)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$104k–$175k` `Equity`
+### [Business Technology Engineer II](https://www.samsara.com/company/careers/roles/8031880?gh_jid=8031880)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$101k–$131k CAD` `Equity`
 
-_Own Samsara's identity and access management infrastructure, including Okta (SSO, provisioning, workflows), Google Workspace administration, and Workato-based automation platform (OWL-IT) — managing identity systems for a scale-stage public company with StateRAMP/FedRAMP compliance requirements. · [Apply →](https://www.samsara.com/company/careers/roles/8022729?gh_jid=8022729)_
+_Own Samsara's identity infrastructure including Okta, Google Workspace, and Workato automation platform (OWL-IT); design, build, and support enterprise identity and access management systems at scale with StateRAMP/FedRAMP compliance requirements. · [Apply →](https://www.samsara.com/company/careers/roles/8031880?gh_jid=8031880)_
 
-`Okta` `Workato` `Google Workspace` `REST APIs` `Python` `Google Cloud Platform` `Splunk` `Terraform`
+`Okta` `Workato` `Google Workspace` `REST APIs` `Python` `Splunk` `Google Cloud Platform` `SCIM`
 
 <sub>June 26, 2026 at 23:33 UTC</sub>
 
@@ -1073,12 +1128,12 @@ _Build automated revenue infrastructure that turns prospect data and buying sign
 
 ---
 
-### [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$204k-$235k.50` `Equity`
+### [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$132.6k-$171.6k CAD` `Equity`
 
-_Lead security incident response and digital forensic investigations for a platform managing IoT data across logistics, agriculture, and manufacturing. Build Python-based tools and automation to support incident response and insider threat operations at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105)_
+_Monitor and respond to security incidents, lead forensic investigations, and build automation tools for security operations at a public IoT platform serving physical operations industries. Requires Python scripting to develop investigation automation and 5+ years incident response experience. · [Apply →](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084)_
 
-`Python` `Incident Response` `SIEM` `AWS` `GCP` `macOS` `Windows` `Linux`
+`Python` `Security Incident Response` `SIEM` `macOS` `Windows` `Linux` `AWS` `GCP`
 
 <sub>June 24, 2026 at 11:10 UTC</sub>
 
@@ -1193,6 +1248,17 @@ _Configure and deploy backend system environments for financial institutions dur
 _Build and maintain ETL pipelines and custom integrations between K-12 Student Information Systems and internal/external platforms, ensuring data accuracy and availability across educational workflows. Work with REST APIs, SFTP, and data warehousing systems to support school operations and learning analytics. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7985789)_
 
 `Python` `SQL` `ETL/ELT tools` `REST APIs` `SFTP` `Data Warehousing` `Student Information Systems (SIS)`
+
+<sub>June 23, 2026 at 21:41 UTC</sub>
+
+---
+
+### [Senior Director, Architecture](https://job-boards.greenhouse.io/pingidentity/jobs/8603018002)
+<a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Manager`
+
+_Lead the technical architecture strategy across Ping Identity's cloud identity platform, defining enterprise architecture standards, driving cloud-native modernization, and embedding AI-first thinking across product and engineering. Requires 15+ years in software architecture leadership with proven experience scaling distributed systems, conducting M&A technical due diligence, and influencing senior executives in complex enterprise environments. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8603018002)_
+
+`Distributed Systems` `Cloud Architecture` `DevSecOps` `Kubernetes` `Microservices` `API Design` `AI/ML Infrastructure` `Platform Engineering`
 
 <sub>June 23, 2026 at 21:41 UTC</sub>
 
@@ -1945,12 +2011,12 @@ _Design and conduct offensive security operations across Instacart's product sui
 
 ---
 
-### [Backend Engineer, Identity](https://job-boards.greenhouse.io/tailscale/jobs/4707649005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$163k-$204k` `Equity`
+### [Backend Engineer, Identity](https://job-boards.greenhouse.io/tailscale/jobs/4707636005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$218k—$273k CAD` `Equity`
 
-_Develop identity and access management services for Tailscale's control plane, including OAuth2, OIDC, SAML, WebAuthn, and SCIM integrations. Build observable, secure backend services in Go handling authentication protocols at scale; requires on-call participation. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707649005)_
+_Develop identity and access management services for Tailscale's control plane, implementing authentication protocols (OAuth2, OIDC, SAML, WebAuthn) and user synchronization capabilities. Requires on-call participation and a security-first approach to building observable, scalable backend services in Go. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707636005)_
 
-`Go` `OAuth2` `SAML` `PostgreSQL` `SCIM` `WebAuthn` `Distributed Systems` `Security`
+`Go` `OAuth2` `SAML` `PostgreSQL` `Distributed Systems` `OIDC` `WebAuthn` `SCIM`
 
 <sub>June 18, 2026 at 21:00 UTC</sub>
 
@@ -2201,6 +2267,17 @@ _Build production-grade genomic analysis pipelines for next-generation sequencin
 <br>
 
 ## June 17, 2026
+
+### [AI Platform Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Platforms-Manager--Remote-_R26362)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build and scale infrastructure for internal AI agents, implementing cloud-native platforms with advanced security, observability, and identity integration. Bridge rapid prototyping with production-grade Kubernetes deployments while evaluating emerging AI technologies and securing agentic workflows at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Platforms-Manager--Remote-_R26362)_
+
+`Python` `TypeScript` `Docker` `Kubernetes` `AWS` `GCP` `Terraform` `OAuth2`
+
+<sub>June 17, 2026 at 23:41 UTC</sub>
+
+---
 
 ### [SDET II, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=8011568)
 <a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$109k-$224k` `Equity`
@@ -2634,17 +2711,6 @@ _Lead the Activations engineering team responsible for client onboarding integra
 _Build the UI/UX and front-end implementation for education technology products used by millions of students and teachers; design and maintain a living design system as code while bridging design and engineering teams. Requires expert-level Figma and production React/TypeScript proficiency with deep ownership of pixel-accurate, accessible implementations. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7998049)_
 
 `React` `TypeScript` `Figma` `HTML/CSS` `Storybook` `WCAG` `Design Systems` `Accessibility`
-
-<sub>June 15, 2026 at 20:16 UTC</sub>
-
----
-
-### [Software Engineering Manager - Image and Data Compression Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `$200k-$322k` `Equity`
-
-_Lead a team building accelerated image and data compression software libraries. Domain expertise in image processing, compression algorithms, and parallel programming (CUDA, MPI) valued; requires 3+ years management experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineering-Manager---Image-and-Data-Compression-Libraries_JR1990877)_
-
-`C++` `Python` `CUDA` `Image Processing` `Data Compression` `Parallel Programming` `MPI`
 
 <sub>June 15, 2026 at 20:16 UTC</sub>
 
