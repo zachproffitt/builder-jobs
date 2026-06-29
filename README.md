@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1900 open roles** (13 new) &nbsp;·&nbsp; 1729 companies searched
+### **1940 open roles** (12 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -12,14 +12,14 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## June 29, 2026
 
-### [Senior Applied AI Researcher, Digital Biology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Researcher--Digital-Biology_JR2018564)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$184k-$287.5k (Level 4) / $224k-$356.5k (Level 5)` `Equity`
+### [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8034975?gh_jid=8034975)
+<a href="https://okta.com"><img src="https://www.google.com/s2/favicons?domain=okta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Okta** · San Francisco, California · `🟡 Hybrid` `Senior`
 
-_Build foundational and generative AI models for biological data, including large-scale transformers, multimodal learning systems, and agentic AI frameworks integrated with digital twin systems for healthcare simulation and diagnostics. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Researcher--Digital-Biology_JR2018564)_
+_Design and operate large-scale cloud infrastructure and production services for Okta's identity platform, building automation and internal platforms using Go, Python, Terraform, and Kubernetes. Lead reliability initiatives across globally distributed systems serving millions of customers, with emphasis on incident response, observability, and operational excellence. · [Apply →](https://www.okta.com/company/careers/opportunity/8034975?gh_jid=8034975)_
 
-`PyTorch` `CUDA` `Python` `C++` `LLMs` `Transformers` `Distributed Training` `Multimodal Learning`
+`Kubernetes` `Terraform` `Go` `Python` `AWS` `GCP` `Datadog` `PostgreSQL`
 
-<sub>June 29, 2026 at 09:48 UTC</sub>
+<sub>June 29, 2026 at 11:48 UTC</sub>
 
 ---
 
@@ -31,17 +31,6 @@ _Design and develop a distributed cloud control plane system for Snowflake's ela
 `Java` `Distributed Systems` `SQL` `FoundationDB` `Cloud Architecture` `Performance Optimization` `AI Agents`
 
 <sub>June 29, 2026 at 08:05 UTC</sub>
-
----
-
-### [Deep Learning Performance Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Deep-Learning-Performance-Architect_JR2020267)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `🟡 Hybrid` `Junior`
-
-_Build performance analysis tools and benchmarking systems for AI workloads on GPU architectures. Develop profiling and debugging tools that guide real-time, cost-effective computing platform design for deep learning; requires strong foundation in parallel computing and transformer model architectures. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Deep-Learning-Performance-Architect_JR2020267)_
-
-`C++` `Python` `GPU Computing` `Parallel Programming` `Performance Profiling` `PyTorch or TensorFlow` `Architecture Simulation`
-
-<sub>June 29, 2026 at 05:47 UTC</sub>
 
 ---
 
@@ -126,17 +115,6 @@ _Design and deploy large-scale, production-grade AI systems and platforms (agent
 
 ---
 
-### [Senior Cloud Software Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Cloud-Software-Engineer_JR2020094)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Senior`
-
-_Architect and build large-scale GPU cloud service platforms (PaaS) for deep learning and AI workloads, handling distributed systems, microservices, and Kubernetes orchestration at scale. Lead platform reliability, observability, and DevSecOps practices across a dynamic cloud infrastructure serving millions of GPU compute requests. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Cloud-Software-Engineer_JR2020094)_
-
-`Java` `Spring Boot` `Kubernetes` `Docker` `Go` `Python` `Cassandra` `PostgreSQL`
-
-<sub>June 28, 2026 at 18:36 UTC</sub>
-
----
-
 ### [Data Scientist - Algorithms, Community Support](https://careers.airbnb.com/positions/8031901?gh_jid=8031901)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$151k-$175k` `Equity`
 
@@ -156,6 +134,17 @@ _Build causal inference models and experimental frameworks to measure the impact
 `Python` `R` `SQL` `Causal Inference` `Bayesian Modeling` `Experimental Design` `Statistical Inference` `PyTorch or TensorFlow`
 
 <sub>June 28, 2026 at 17:33 UTC</sub>
+
+---
+
+### [Controls Service Technician](https://jci.wd5.myworkdayjobs.com/JCI/job/Cranberry-Township-Pennsylvania-United-States-of-America/Controls-Service-Technician_WD30271822)
+<a href="https://johnsoncontrols.com"><img src="https://www.google.com/s2/favicons?domain=johnsoncontrols.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Johnson Controls** · Cranberry Township, Pennsylvania · `Mid` `$76k-$100k`
+
+_Design, program, and commission complex HVAC building control systems and low-voltage subsystems (lighting, nurse call, networks) for commercial and industrial facilities. Requires proficiency with LON protocol and building automation platforms; involves field commissioning, troubleshooting, and technical documentation. · [Apply →](https://jci.wd5.myworkdayjobs.com/JCI/job/Cranberry-Township-Pennsylvania-United-States-of-America/Controls-Service-Technician_WD30271822)_
+
+`LON` `BACnet` `Modbus` `Visio` `Building Automation Systems` `HVAC Controls` `IP Networking`
+
+<sub>June 28, 2026 at 12:41 UTC</sub>
 
 ---
 
