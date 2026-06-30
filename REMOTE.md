@@ -2,13 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **266 open roles** (30 new)
+### **263 open roles** (29 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## June 30, 2026
+
+### [Senior Staff Software Engineer, Host Pricing & Settings](https://careers.airbnb.com/positions/8039723?gh_jid=8039723)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff`
+
+_Own the technical strategy and architecture for ML model serving infrastructure across Host Pricing, including feature store design, model composition, online/offline inference consistency, and backfill/evaluation systems. You'll rearchitect a sophisticated pricing ML platform serving millions of hosts, establishing domain contracts between modeling and serving teams so each can move independently. · [Apply →](https://careers.airbnb.com/positions/8039723?gh_jid=8039723)_
+
+`Java` `Kotlin` `Python` `Spark` `Airflow` `Kafka` `Feature Store (Chronon/Tecton/Feast)` `ML Systems Design`
+
+<sub>June 30, 2026 at 23:36 UTC</sub>
+
+---
+
+### [Senior Engineering Manager - Enablement](https://job-boards.greenhouse.io/honeycomb/jobs/5250118008)
+<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Manager` `$208k–$234k` `Equity`
+
+_Lead the Engineering Enablement team building CI/CD pipelines, developer tooling, and the Autobots autonomous agent platform that integrates observability into Honeycomb's engineering workflows. Requires multi-year experience leading large-scale engineering enablement initiatives and proven track record with AI tooling adoption and developer productivity metrics. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5250118008)_
+
+`CI/CD` `CircleCI` `GitHub Actions` `Observability` `OpenTelemetry` `AI/ML Systems` `TypeScript` `Go`
+
+<sub>June 30, 2026 at 23:36 UTC</sub>
+
+---
 
 ### [Senior Software Engineer - Trust and Telemetry](https://jobs.ashbyhq.com/apollo-graphql/fa16d41c-fa77-4c3b-9da4-edb90c87881f)
 <a href="https://apollographql.com"><img src="https://www.google.com/s2/favicons?domain=apollographql.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Apollo** · `🟢 Remote` `Senior`
@@ -1283,7 +1305,7 @@ _Design, build, and operate Kubernetes clusters across public cloud (AWS EKS), p
 ---
 
 ### [Staff AI Engineer - Grafana AI/ML | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 230k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD 186k - CAD 230k` `Equity`
 
 _Build AI-powered features for incident detection, triage, and resolution within Grafana's observability platform using LLMs and agent frameworks. Requires shipping production systems at scale with rapid iteration and a focus on real-world impact for observability workflows. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004)_
 
@@ -1294,7 +1316,7 @@ _Build AI-powered features for incident detection, triage, and resolution within
 ---
 
 ### [Staff AI Engineer - Grafana AI/ML | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$220k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$220k` `Equity`
 
 _Build AI-powered features for incident detection, triage, and resolution within Grafana's observability platform, using LLMs and agent frameworks to automate analysis and incident lifecycle management. Focus on rapid experimentation, shipping production systems, and scaling AI workflows integrated with observability tools and developer workflows. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004)_
 
@@ -1671,28 +1693,6 @@ _Build the next-generation control plane provisioning and managing Kubernetes cl
 
 ---
 
-### [Software Engineer, Mission Systems](https://job-boards.greenhouse.io/planetlabs/jobs/8008293)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Mid` `$127k—$180k USD` `Equity`
-
-_Build and maintain the web-based Mission Control platform and distributed microservices that automate the monitoring, control, and operations of Planet's satellite constellation. Design and implement HTTP APIs, critical infrastructure, and automation systems that directly enable spacecraft operators to manage hundreds of imaging satellites in orbit. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/8008293)_
-
-`Python` `API Design` `PostgreSQL` `Docker` `GitLab CI` `AWS` `Kubernetes` `Datadog`
-
-<sub>June 23, 2026 at 20:53 UTC</sub>
-
----
-
-### [Software Engineer - Platform, Mission Systems](https://job-boards.greenhouse.io/planetlabs/jobs/8022265)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Mid` `$127k-$191.4k` `Equity`
-
-_Build and maintain the cloud-based infrastructure, microservices, and automation systems that operate Planet's satellite constellation. Requires managing critical infrastructure at scale (AWS/GCP), designing APIs for spacecraft scheduling and telemetry processing, and collaborating with ground operations teams; US/Canada location with 3 days/week in-office if near a Planet office. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/8022265)_
-
-`Python` `AWS` `GCP` `Kubernetes` `Terraform` `Ansible` `PostgreSQL` `Docker`
-
-<sub>June 23, 2026 at 20:53 UTC</sub>
-
----
-
 ### [Senior Security Researcher (Phishing)](https://job-boards.greenhouse.io/spycloud/jobs/7782033003)
 <a href="https://spycloud.com"><img src="https://www.google.com/s2/favicons?domain=spycloud.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpyCloud** · `🟢 Remote` `Senior` `$119k-$155k`
 
@@ -1933,12 +1933,12 @@ _Design and develop end-to-end prototypes and production solutions for AI-powere
 
 ---
 
-### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014352)
-<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff` `$180k-$200k`
+### [Staff AI Engineer (Acquia DAM)](https://job-boards.greenhouse.io/acquia/jobs/8014297)
+<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
 
-_Build production AI agent systems for Acquia DAM, architecting stateful multi-agent workflows using LangGraph and Temporal that power enterprise-scale autonomous asset governance, agentic orchestration, and visual transformations. Requires hands-on expertise in LangGraph, Temporal, Pydantic, and LangFuse observability at production scale. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014352)_
+_Build and architect agentic AI workflows for Acquia DAM, deeply integrating production AI systems (LangGraph, Temporal, Pydantic) with enterprise-scale asset governance, autonomous asset management, and multi-model orchestration. Requires 3+ years shipping production AI agents and hands-on expertise in stateful, cyclic workflows at scale; collaborate with product teams on AI observability via LangFuse and mentor engineers on agentic design patterns and RAG strategies. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8014297)_
 
-`LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
+`Python` `LangGraph` `Temporal` `Pydantic` `LangFuse` `LangChain` `AWS` `RAG`
 
 <sub>June 23, 2026 at 09:22 UTC</sub>
 
@@ -1987,17 +1987,6 @@ _Design and operate security infrastructure protecting AI hardware development s
 _Design and integrate radiological hot cell systems for nuclear fuel recycling facilities, including shielding, containment, remote handling, and robotic systems. Requires 5+ years in radiological facility or hot cell engineering and understanding of radiation shielding, criticality safety, and NRC/DOE regulatory standards. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6099061004)_
 
 `CAD (NX, SolidWorks, Inventor)` `Radiation Shielding` `Remote Handling Systems` `Robotics` `NRC Regulations` `DOE Regulations` `FMEA` `Mechanical Engineering`
-
-<sub>June 22, 2026 at 21:48 UTC</sub>
-
----
-
-### [Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/7967527)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Senior` `$160k–$215k` `Equity`
-
-_Build and operate the core object and metadata storage platform that manages petabytes of satellite imagery across Planet's data infrastructure, serving climate monitoring, disaster response, and agriculture applications. Work across object storage, metadata indexing, Elasticsearch, and disaster recovery systems at massive scale with 10+ years of backend experience including 6+ years each in Go and Python. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/7967527)_
-
-`Go` `Python` `PostgreSQL` `Elasticsearch` `Kubernetes` `Terraform` `AWS` `GCP`
 
 <sub>June 22, 2026 at 21:48 UTC</sub>
 
@@ -2430,7 +2419,7 @@ _Design and implement production mission management software for autonomous sate
 ---
 
 ### [Senior AI Engineer | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
 
 _Build multi-agent AI systems and backend services powering Marketing Operations automation at scale, including agentic orchestration, LLM integrations, and systems connecting AI models to internal business platforms. Work with production observability and governance for AI workflows across 7,000+ customers, with autonomy over technical direction and high-leverage problem solving. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004)_
 
@@ -2441,7 +2430,7 @@ _Build multi-agent AI systems and backend services powering Marketing Operations
 ---
 
 ### [Senior AI Engineer | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
 
 _Build multi-agent AI infrastructure and automation platform for Marketing Operations, owning end-to-end agentic systems from architecture through production operation. Ship production systems integrating LLMs with internal and third-party data platforms (BigQuery, Slack, CRMs) using orchestration frameworks and API services. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004)_
 
@@ -2468,17 +2457,6 @@ _Lead Outschool's data team to build data infrastructure, analytics pipelines, a
 _Build and operate a cloud-native CTV advertising platform on AWS and Kubernetes, managing multi-tenant infrastructure, GitOps deployments, and observability at scale. Requires hands-on production experience with Kubernetes cluster operations, ArgoCD, Terraform, and incident response in a performance-critical advertising system. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7782538)_
 
 `AWS` `Kubernetes` `ArgoCD` `Terraform` `Helm` `GitHub Actions` `Python` `Bash`
-
-<sub>June 18, 2026 at 19:01 UTC</sub>
-
----
-
-### [Software Engineer, Compute Team](https://job-boards.greenhouse.io/planetlabs/jobs/8002692)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Mid` `$127k-$180.6k` `Equity`
-
-_Build and operate distributed backend services processing satellite imagery at scale across hundreds of workflows using Go, Python, and Kubernetes on Google Cloud. Work with large-scale data persistence layers (Spanner, BigTable, PostgreSQL, Redis) and geospatial datasets; requires on-call rotation for 24x7 operations. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/8002692)_
-
-`Go` `Python` `Kubernetes` `GCP` `PostgreSQL` `BigTable` `Redis` `Terraform`
 
 <sub>June 18, 2026 at 19:01 UTC</sub>
 
@@ -2517,17 +2495,6 @@ _Build production ML models for claims time series forecasting and NLP text unde
 
 ---
 
-### [DevOps Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)
-<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
-
-_Design and architect scalable CI/CD infrastructure and developer productivity platforms using infrastructure as code, mentoring engineers while remaining hands-on. Focus on cloud infrastructure (AWS preferred), containers, and Kubernetes across security and governance use cases in a mission-critical cybersecurity environment. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)_
-
-`Python` `Groovy` `Bash` `AWS` `Kubernetes` `Docker` `Terraform` `Jenkins`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
 ### [Senior Software Engineer,  Instacart Business](https://instacart.careers/job/?gh_jid=8014051)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$168k—CAN$177k` `Equity`
 
@@ -2545,6 +2512,17 @@ _Lead the full product development lifecycle for Instacart's B2B platform, ownin
 _Build marketing measurement frameworks and statistical models to quantify ROI across Pinterest's advertising channels and optimize budget allocation. Apply causal inference, experimentation, and machine learning to drive revenue growth decisions for millions of advertisers. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8011376)_
 
 `Python` `R` `SQL` `Machine Learning` `Statistics` `Causal Inference` `A/B Testing` `Marketing Attribution`
+
+<sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
+### [DevOps Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)
+<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
+
+_Design and architect scalable CI/CD infrastructure and developer productivity platforms using infrastructure as code, mentoring engineers while remaining hands-on. Focus on cloud infrastructure (AWS preferred), containers, and Kubernetes across security and governance use cases in a mission-critical cybersecurity environment. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)_
+
+`Python` `Groovy` `Bash` `AWS` `Kubernetes` `Docker` `Terraform` `Jenkins`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
@@ -2694,17 +2672,6 @@ _Lead a team of 8-10 Enterprise Customer Success Managers, coaching them to driv
 `SaaS Metrics` `Customer Health Management` `Account Management` `Process Optimization`
 
 <sub>June 17, 2026 at 19:50 UTC</sub>
-
----
-
-### [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8011111)
-<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Senior` `$160k—$228k` `Equity`
-
-_Build full-stack software solutions for strategic defense and security customers, including front-end, back-end, data integration, and cloud infrastructure. Requires active TS/TS:SCI security clearance and 30-50% travel to customer sites. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/8011111)_
-
-`Python` `AWS` `Geospatial Software (Rasterio, GDAL, Fiona, Shapely)` `JavaScript` `Java` `Go` `C#` `CI/CD`
-
-<sub>June 17, 2026 at 19:03 UTC</sub>
 
 ---
 
