@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **252 open roles** (26 new)
+### **257 open roles** (30 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -10,23 +10,89 @@ Remote engineering roles only — linking directly to each company's job board. 
 
 ## June 30, 2026
 
+### [Applied AI Engineer](https://job-boards.greenhouse.io/homeward/jobs/8612048002)
+<a href="https://homeward.com"><img src="https://www.google.com/s2/favicons?domain=homeward.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Homeward** · `🟢 Remote` `Mid` `$160k` `Equity`
+
+_Design and build AI-powered features including LLM API integrations, RAG pipelines, and AI-driven automation across customer-facing and internal tools. Build shared tooling, observability systems, and evaluation frameworks to make AI development easier and more reliable across the engineering team. · [Apply →](https://job-boards.greenhouse.io/homeward/jobs/8612048002)_
+
+`Python` `FastAPI` `LLM APIs` `RAG` `PostgreSQL` `Docker` `Kubernetes` `Prompt Engineering`
+
+<sub>June 30, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Engineering Manager (Austin, TX)](https://job-boards.greenhouse.io/homeward/jobs/5295514002)
+<a href="https://homeward.com"><img src="https://www.google.com/s2/favicons?domain=homeward.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Homeward** · Austin, Texas · `🟢 Remote` `Manager` `$170k` `Equity`
+
+_Lead a team of 3-4 engineers building and shipping acquisition features for Homeward's real estate platform, with emphasis on AI-assisted development practices and cross-functional collaboration. Must be based in Austin, TX despite remote-first company structure. · [Apply →](https://job-boards.greenhouse.io/homeward/jobs/5295514002)_
+
+`Python` `Django` `Flask` `Celery` `Front-End Development` `Microservices` `LLM API Integrations`
+
+<sub>June 30, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Sr. Engineering Manager, Programmatic Ad Tech, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782569)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Manager` `$208k-$429k` `Equity`
+
+_Lead the architectural decisions and technical roadmap for tvScientific's ad server independence initiative, overseeing bidder infrastructure, index building, and VAST serving while partnering on Pinterest bidder integration. Requires deep programmatic ad tech expertise and experience building high-volume, data-intensive systems at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7782569)_
+
+`Programmatic Ad Tech` `Ad Server Architecture` `ML in Low-Latency Systems` `Distributed Systems` `Data-Intensive Systems` `Python` `C++` `Go`
+
+<sub>June 30, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Senior Security Engineer, AI Security ](https://job-boards.greenhouse.io/reddit/jobs/8039261)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
+
+_Build reusable security primitives and threat-modeling tools to secure AI-powered products, LLM integrations, and agentic workflows across Reddit's platform. Design inference-path and execution-path security controls to detect prompt injection, jailbreaks, tool misuse, and unsafe code generation at scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8039261)_
+
+`Python` `JavaScript` `TypeScript` `Go` `Kubernetes` `threat modeling` `prompt injection` `LLM security`
+
+<sub>June 30, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Windows Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710781005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$191k—$239k CAD` `Equity`
+
+_Build and maintain the Windows client for Tailscale's network interconnection platform using WinUI, Windows App SDK, C#, and Go. Implement native Windows platform features while contributing to cross-platform networking code in an early-stage, fully remote company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710781005)_
+
+`C#` `WinUI` `Windows App SDK` `Go` `XAML` `xUnit` `DNS` `VPN`
+
+<sub>June 30, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Staff Software Engineer](https://careers.toasttab.com/jobs?gh_jid=7818286)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$175k—$227k USD` `Equity`
+
+_Build full-stack features for Toast IQ, a restaurant operations AI platform, across frontend (React), backend services, and integrations with the Toast ecosystem. Requires applied ML/LLM experience and distributed systems expertise at scale. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7818286)_
+
+`Java` `Kotlin` `React` `GraphQL` `DynamoDB` `Distributed Systems` `Machine Learning` `Microservices`
+
+<sub>June 30, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Senior Security Engineer](https://jobs.ashbyhq.com/vanta/9787c187-a03f-491b-a852-30452bbf5a3c)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
+
+_Own security projects across threat modeling, vulnerability management, and secure software architecture at a high-growth trust management platform. Build tools and programs to scale security practices across engineering teams while maintaining developer velocity. · [Apply →](https://jobs.ashbyhq.com/vanta/9787c187-a03f-491b-a852-30452bbf5a3c)_
+
+`Threat Modeling` `Penetration Testing` `Security Code Review` `Vulnerability Management` `Red Teaming` `Cloud Security` `Secure Software Architecture` `Risk Prioritization`
+
+<sub>June 30, 2026 at 18:49 UTC</sub>
+
+---
+
 ### [MB - Lead Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/MB---Lead-Software-Engineer_R2026-0269)
 <a href="https://bonterratech.com"><img src="https://www.google.com/s2/favicons?domain=bonterratech.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bonterra** · `🟢 Remote` `Senior` `$109k-$145k` `Equity`
 
 _Build and maintain AI-powered features in a full-stack Django/Python/PostgreSQL/AWS platform serving progressive political campaigns and advocacy organizations. Lead technical health, sprint execution, and mentor junior engineers while integrating LLMs and AI tools into the product. · [Apply →](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/MB---Lead-Software-Engineer_R2026-0269)_
 
 `Python` `Django` `PostgreSQL` `AWS` `React` `TypeScript` `Node.js` `LLMs`
-
-<sub>June 30, 2026 at 17:43 UTC</sub>
-
----
-
-### [Data Scientist](https://www.abclegal.com/job-openings/job?id=7784242003&gh_jid=7784242003)
-<a href="https://docketly.com"><img src="https://www.google.com/s2/favicons?domain=docketly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docketly** · `🟢 Remote` `Mid`
-
-_Build and maintain ML models powering operations and customer targeting across legal services workflows; own the full model lifecycle from training through production monitoring and optimization. Deploy models using AWS SageMaker Studio with MLOps pipelines including experiment tracking, model registry, and automated retraining. · [Apply →](https://www.abclegal.com/job-openings/job?id=7784242003&gh_jid=7784242003)_
-
-`Python` `PyTorch` `TensorFlow` `AWS SageMaker` `MLOps` `SQL` `scikit-learn` `Dagster`
 
 <sub>June 30, 2026 at 17:43 UTC</sub>
 
@@ -295,6 +361,17 @@ _Lead the safety strategy and development lifecycle for autonomous vehicles, def
 _Develop and configure ServiceNow solutions including workflows, automations, and integrations that power Pax8's cloud marketplace platform. Work with enterprise IT service management systems at a fast-growing SaaS company with opportunities to experiment with AI-driven automation and cloud technologies. · [Apply →](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/Remote---US/ServiceNow-Developer-I_R-101994)_
 
 `ServiceNow` `JavaScript` `REST APIs` `JSON` `ITSM` `Workflows & Automations`
+
+<sub>June 29, 2026 at 18:52 UTC</sub>
+
+---
+
+### [Sr. Engineer, Governance, Risk & Compliance (TPRM)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Build and maintain governance, risk, and compliance infrastructure across security tools (SIEM, DLP, IAM, PAM) and GRC platforms; integrate solutions with enterprise systems to support compliance frameworks like SOC 2, HITRUST, HIPAA, and PCI. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)_
+
+`SIEM` `DLP` `IAM` `PAM` `NIST CSF` `SOC 2` `HITRUST` `AWS`
 
 <sub>June 29, 2026 at 18:52 UTC</sub>
 
@@ -600,17 +677,6 @@ _Design and develop backend services for residential battery integration with in
 _Design and ship new capabilities for Command, Mercury's LLM-powered financial assistant, owning the product end-to-end from system prompts and agentic workflows to frontend components. Scale LLM reliability and performance in production fintech, building eval infrastructure and multi-step agent interactions that are safe and trustworthy for real financial operations. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/5803347004)_
 
 `TypeScript` `Haskell` `LLM Architecture` `Prompt Engineering` `Agentic Systems` `Eval Infrastructure` `Production AI Systems` `API Design`
-
-<sub>June 26, 2026 at 16:49 UTC</sub>
-
----
-
-### [Backend Engineer, Financial Connections](https://stripe.com/jobs/search?gh_jid=8030859)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Remote, Canada · `🟢 Remote` `Senior`
-
-_Design and build scalable backend infrastructure for bank integrations and financial data connectivity across the Stripe platform. Lead large technical projects balancing emerging fintech opportunities (stablecoins, AI wallets) with reliable access to legacy banking networks. · [Apply →](https://stripe.com/jobs/search?gh_jid=8030859)_
-
-`Distributed Systems` `API Design` `Financial Systems` `Large-scale Infrastructure` `Cross-team Project Leadership`
 
 <sub>June 26, 2026 at 16:49 UTC</sub>
 
@@ -1594,17 +1660,6 @@ _Build and maintain automated test suites across REST and gRPC APIs for email, c
 
 ---
 
-### [Senior Software Engineer, Full-stack (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6099681004)
-<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · `🟢 Remote` `Senior` `$156k-$231k` `Equity`
-
-_Build full-stack applications and services for a grocery supply chain optimization platform, spanning React frontends, APIs, and data layers to reduce food waste at scale. Work with ML specialists and enterprise customers like Albertsons and Meijer on forecasting, inventory management, and distribution center operations. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6099681004)_
-
-`TypeScript` `React` `Python` `PostgreSQL` `GraphQL` `Databricks` `dbt` `Azure`
-
-<sub>June 23, 2026 at 18:54 UTC</sub>
-
----
-
 ### [Principal IT Systems Engineer ](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6026708004)
 <a href="https://extrahop.com"><img src="https://www.google.com/s2/favicons?domain=extrahop.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ExtraHop** · `🟢 Remote` `Principal` `$165k-$180k`
 
@@ -2418,12 +2473,12 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 
 ---
 
-### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$242k—$302k CAD` `Equity`
+### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$181k—$226k` `Equity`
 
-_Own the technical architecture of Tailscale's next-generation web console, including authentication infrastructure, unified product platform, and shared frontend systems. Build at the intersection of product engineering and platform engineering across identity, security, and multi-service integrations. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)_
+_Own the architecture and platform infrastructure for Tailscale's next-generation web console, including authentication, session management, and cross-origin integrations. Lead frontend platform design across multiple products unified under one experience, with deep involvement in identity systems and browser security. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)_
 
-`React` `TypeScript` `HTTP` `CORS` `Authentication` `CSRF Protection` `Web Security` `Testing Infrastructure`
+`React` `TypeScript` `Web Security (CORS, CSRF, cookies)` `Authentication Systems` `Testing Infrastructure` `Design Systems` `Feature Flagging` `Analytics`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
@@ -2499,12 +2554,12 @@ _Design and build AI-native growth systems that move buyers across the entire fu
 
 ---
 
-### [Software Engineer, Networking (Features)](https://job-boards.greenhouse.io/tailscale/jobs/4706938005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$218k—$302k CAD` `Equity`
+### [Software Engineer, Networking (Features)](https://job-boards.greenhouse.io/tailscale/jobs/4706998005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$163k—$226k` `Equity`
 
-_Build and maintain core networking software components for Tailscale's overlay network product, including application-layer networking features, proxies, connectors, and routing optimizations. Take ownership of the full product lifecycle from architecture through production operations, with an emphasis on distributed systems, OS-level networking internals, and security-first design. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4706938005)_
+_Develop networking features and optimizations for Tailscale's VPN client and backend services, taking ownership of the complete product lifecycle from design through deployment. Work on application-layer networking (proxies, connectors, overlay routing) and OS-level socket programming with a security-first mindset in a fully remote, early-stage environment. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4706998005)_
 
-`Go` `PostgreSQL` `Distributed Systems` `Socket Programming` `Packet Filtering` `Linux Networking` `Concurrency` `SQL`
+`Go` `PostgreSQL` `Distributed Systems` `Socket Programming` `Linux Networking` `Packet Filtering` `Concurrency`
 
 <sub>June 17, 2026 at 20:53 UTC</sub>
 
