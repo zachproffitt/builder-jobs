@@ -2,13 +2,57 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **260 open roles** (26 new)
+### **263 open roles** (29 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 1, 2026
+
+### [Software Engineer, Design Systems](https://jobs.ashbyhq.com/assembledhq/a1acaea9-5c7c-462f-b07d-395c63e53907)
+<a href="https://assembled.com"><img src="https://www.google.com/s2/favicons?domain=assembled.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Assembled** · `🟢 Remote` `Senior` `$160k-$270k` `Equity`
+
+_Lead the technical architecture and infrastructure for Assembled's design system, defining component APIs, token systems, and tooling that enables AI coding agents to generate production-quality UI at scale. Shape frontend foundations across the platform used by all product teams while raising quality bars for performance, accessibility, and developer experience. · [Apply →](https://jobs.ashbyhq.com/assembledhq/a1acaea9-5c7c-462f-b07d-395c63e53907)_
+
+`TypeScript` `React` `Storybook` `Component Architecture` `Design Systems` `Accessibility` `Frontend Tooling`
+
+<sub>July 1, 2026 at 22:37 UTC</sub>
+
+---
+
+### [AI Solution Engineer](https://job-boards.greenhouse.io/cayuse/jobs/8617123002)
+<a href="https://cayuse.com"><img src="https://www.google.com/s2/favicons?domain=cayuse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cayuse** · `🟢 Remote` `Senior`
+
+_Design and implement AI-powered solutions across business operations, including LLM integrations, intelligent automation, and ML workflows. Partner with business and engineering teams to identify high-impact AI opportunities, build rapid prototypes, and establish internal AI governance and capability standards. · [Apply →](https://job-boards.greenhouse.io/cayuse/jobs/8617123002)_
+
+`Python` `Java` `AWS` `LLM APIs` `RAG` `LangChain` `SQL` `Prompt Engineering`
+
+<sub>July 1, 2026 at 22:37 UTC</sub>
+
+---
+
+### [Director of Engineering, Growth & Monetization](https://job-boards.greenhouse.io/gitlab/jobs/8592768002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `$203k-$345k` `Equity`
+
+_Lead the engineering strategy and architecture for GitLab's monetization platform—quoting, billing, invoicing, entitlements, and usage metering systems—across multiple teams. Guide technical vision for self-service purchase flows, API-first platform design, and integration with Zuora and Salesforce in a compliance-intensive environment (SOX-aware controls). · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8592768002)_
+
+`Billing Architecture` `Usage Metering` `SaaS Monetization` `Zuora` `Salesforce` `API-First Architecture` `Distributed Systems` `SOX Compliance`
+
+<sub>July 1, 2026 at 22:37 UTC</sub>
+
+---
+
+### [Senior Red Team Engineer](https://jobs.ashbyhq.com/snowflake/b059983f-8144-4b08-96eb-521f9258de51)
+<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · `🟢 Remote` `Senior`
+
+_Develop tools, methodologies, and infrastructure to support Red Team security assessments across Snowflake's cloud environments, identifying vulnerabilities in software, systems, and networks. Execute offensive security engagements across AWS, GCP, and Azure environments at scale in a high-growth cloud-native company. · [Apply →](https://jobs.ashbyhq.com/snowflake/b059983f-8144-4b08-96eb-521f9258de51)_
+
+`Python` `Golang` `AWS` `GCP` `Azure` `Offensive Security` `Cloud Infrastructure`
+
+<sub>July 1, 2026 at 22:37 UTC</sub>
+
+---
 
 ### [Professional Services Technical Architect ](https://job-boards.greenhouse.io/gitlab/jobs/8616847002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$123k—$209k` `Equity`
@@ -95,6 +139,17 @@ _Build the research-to-production pipeline for threat intelligence at SecuritySc
 `Python` `TypeScript` `YARA` `Sigma` `STIX 2.1` `TAXII 2.1` `AWS` `Kubernetes`
 
 <sub>July 1, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Asheville, Ohio / Atlanta, Georgia / Boston, Massachusetts / Costa Mesa, California / Remote / Seattle, Washington / Washington, D.C. · `🟢 Remote` `Mid` `$129k-$220k` `Equity`
+
+_Build log aggregation pipelines and security data lake infrastructure to centralize security visibility across Anduril's defense technology systems. Requires TS/SCI clearance and hands-on work with ETL at scale in AWS/Azure/GCP environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)_
+
+`Spark` `DuckDB` `Go` `Rust` `Terraform` `AWS` `ETL` `TS/SCI Clearance`
+
+<sub>July 1, 2026 at 16:54 UTC</sub>
 
 ---
 
@@ -983,7 +1038,7 @@ _Build production ML systems powering LLM-based features (chat, data extraction,
 
 ---
 
-### [Senior Software Engineer I, Battery](https://job-boards.greenhouse.io/energyhub/jobs/8586008002)
+### [Senior Software Engineer, Battery](https://job-boards.greenhouse.io/energyhub/jobs/8586008002)
 <a href="https://energyhub.com"><img src="https://www.google.com/s2/favicons?domain=energyhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EnergyHub** · `🟢 Remote` `Senior` `$130k-$170k`
 
 _Design and develop backend services for residential battery integration with industry-standard energy protocols (OpenADR, IEEE 2030.5); build client-facing REST APIs and internal service integrations for virtual power plant capabilities. Requires expertise in smart grid/DER communication standards and Spring/Java backend systems. · [Apply →](https://job-boards.greenhouse.io/energyhub/jobs/8586008002)_
@@ -1600,17 +1655,6 @@ _Manage a team of data scientists building fraud detection and identity verifica
 _Build the ground-up PLG growth and lifecycle infrastructure for music and audio products—own the CDP, product analytics, lifecycle messaging, experimentation, and reverse-ETL stack; design event taxonomy and in-app growth mechanics (viral loops, paywalls, referral systems) that drive measurable conversion from anonymous visitor to paying customer across web, desktop, plugin, and mobile. This is a greenfield role at the intersection of growth marketing and product infrastructure, requiring deep hands-on expertise in the modern martech and billing stack. · [Apply →](http://stability.ai/careers?gh_jid=4907461101)_
 
 `TypeScript` `Node.js` `Python` `SQL` `CDP` `Product Analytics` `Lifecycle Messaging` `Reverse-ETL`
-
-<sub>June 24, 2026 at 16:53 UTC</sub>
-
----
-
-### [Principal Design Technologist, AI Design Tools](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$169k-$284k` `Equity`
-
-_Own the end-to-end AI design tooling ecosystem at Zillow—unifying scattered AI tools, building an MCP server integration for Claude and Cursor, and shipping evaluation harnesses that hold AI-generated UX to design system standards. Requires shipping infrastructure that measurably changed how teams work and deep fluency with modern AI coding tools in production codebases. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)_
-
-`Python` `TypeScript` `React` `Figma API` `MCP (Model Context Protocol)` `Claude API` `Design Systems` `Accessibility (A11y)`
 
 <sub>June 24, 2026 at 16:53 UTC</sub>
 
@@ -2315,12 +2359,12 @@ _Architect enterprise AI/ML solutions and legacy system modernizations on Snowfl
 
 ---
 
-### [Senior Software Engineer - Identity & Authorization Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6018899004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Software Engineer - Identity & Authorization Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6018901004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Design and build unified authentication, authorization, and audit services powering ClickHouse Cloud across multiple products—including RBAC/ReBAC, token issuance, protocol implementations (SAML, OIDC, OAuth2), and SDKs that product teams embed. Scale requires operating distributed systems with multi-region consistency concerns and carrying on-call responsibility for the critical path of every customer request. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6018899004)_
+_Design and build the unified authentication, authorization, and audit platform that powers access control across ClickHouse Cloud's products, including RBAC/ReBAC services, token issuance, SAML/SCIM/OIDC/OAuth2 protocol implementations, and SDKs for product teams. Operate distributed systems at scale with multi-region consistency and carry on-call responsibility for production reliability. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6018901004)_
 
-`Go` `Rust` `TypeScript` `Python` `OIDC` `OAuth2` `SAML` `Zanzibar`
+`Go` `Rust` `C++` `TypeScript` `Python` `OAuth2` `OIDC` `SAML`
 
 <sub>June 22, 2026 at 16:41 UTC</sub>
 
@@ -2736,17 +2780,6 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 _Own the technical architecture of Tailscale's next-generation web console, including authentication infrastructure, unified product platform, and shared frontend systems. Build at the intersection of product engineering and platform engineering across identity, security, and multi-service integrations. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)_
 
 `React` `TypeScript` `HTTP` `CORS` `Authentication` `CSRF Protection` `Web Security` `Testing Infrastructure`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
-
-_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
-
-`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
