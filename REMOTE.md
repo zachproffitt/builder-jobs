@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **248 open roles** (31 new)
+### **245 open roles** (31 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -530,17 +530,6 @@ _Lead the safety strategy and development lifecycle for autonomous vehicles, def
 _Develop and configure ServiceNow solutions including workflows, automations, and integrations that power Pax8's cloud marketplace platform. Work with enterprise IT service management systems at a fast-growing SaaS company with opportunities to experiment with AI-driven automation and cloud technologies. · [Apply →](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/Remote---US/ServiceNow-Developer-I_R-101994)_
 
 `ServiceNow` `JavaScript` `REST APIs` `JSON` `ITSM` `Workflows & Automations`
-
-<sub>June 29, 2026 at 18:52 UTC</sub>
-
----
-
-### [Sr. Engineer, Governance, Risk & Compliance (TPRM)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)
-<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
-
-_Build and maintain governance, risk, and compliance infrastructure across security tools (SIEM, DLP, IAM, PAM) and GRC platforms; integrate solutions with enterprise systems to support compliance frameworks like SOC 2, HITRUST, HIPAA, and PCI. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)_
-
-`SIEM` `DLP` `IAM` `PAM` `NIST CSF` `SOC 2` `HITRUST` `AWS`
 
 <sub>June 29, 2026 at 18:52 UTC</sub>
 
@@ -1468,17 +1457,6 @@ _Manage a team of data scientists building fraud detection and identity verifica
 _Build the ground-up PLG growth and lifecycle infrastructure for music and audio products—own the CDP, product analytics, lifecycle messaging, experimentation, and reverse-ETL stack; design event taxonomy and in-app growth mechanics (viral loops, paywalls, referral systems) that drive measurable conversion from anonymous visitor to paying customer across web, desktop, plugin, and mobile. This is a greenfield role at the intersection of growth marketing and product infrastructure, requiring deep hands-on expertise in the modern martech and billing stack. · [Apply →](http://stability.ai/careers?gh_jid=4907461101)_
 
 `TypeScript` `Node.js` `Python` `SQL` `CDP` `Product Analytics` `Lifecycle Messaging` `Reverse-ETL`
-
-<sub>June 24, 2026 at 16:53 UTC</sub>
-
----
-
-### [Principal Design Technologist, AI Design Tools](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$169k-$284k` `Equity`
-
-_Own the end-to-end AI design tooling ecosystem at Zillow—unifying scattered AI tools, building an MCP server integration for Claude and Cursor, and shipping evaluation harnesses that hold AI-generated UX to design system standards. Requires shipping infrastructure that measurably changed how teams work and deep fluency with modern AI coding tools in production codebases. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)_
-
-`Python` `TypeScript` `React` `Figma API` `MCP (Model Context Protocol)` `Claude API` `Design Systems` `Accessibility (A11y)`
 
 <sub>June 24, 2026 at 16:53 UTC</sub>
 
@@ -2604,17 +2582,6 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 _Own the architecture and platform infrastructure for Tailscale's next-generation web console, including authentication, session management, and cross-origin integrations. Lead frontend platform design across multiple products unified under one experience, with deep involvement in identity systems and browser security. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)_
 
 `React` `TypeScript` `Web Security (CORS, CSRF, cookies)` `Authentication Systems` `Testing Infrastructure` `Design Systems` `Feature Flagging` `Analytics`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
-
-_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
-
-`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
