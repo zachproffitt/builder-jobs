@@ -2,13 +2,46 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **245 open roles** (31 new)
+### **251 open roles** (34 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 1, 2026
+
+### [Senior Software Engineer, Growth ](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)
+<a href="https://docker.com"><img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docker** · `🟢 Remote` `Senior` `Equity`
+
+_Build and ship full-stack growth experiments across Docker's product suite, including onboarding, activation, and checkout flows that drive measurable outcomes for 20M+ monthly developers. Work across React/JavaScript frontends, Go/Python backends, and experimentation frameworks to optimize user journeys and funnel metrics. · [Apply →](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)_
+
+`JavaScript` `TypeScript` `React` `Go` `Python` `A/B Testing` `Feature Flags` `Snowflake`
+
+<sub>July 1, 2026 at 13:10 UTC</sub>
+
+---
+
+### [Sr. AI Agent Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Design, develop, and deploy production-ready AI agents that enhance enterprise workflows across CrowdStrike's business functions. Build evaluation datasets, optimize for cost and performance, and contribute frameworks to the AI Center of Excellence while staying current with emerging LLM capabilities and AI safety standards. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239)_
+
+`Python` `Large Language Models` `AI Agents` `Generative AI` `Machine Learning` `PyTorch or TensorFlow` `Prompt Engineering` `AI Safety`
+
+<sub>July 1, 2026 at 13:10 UTC</sub>
+
+---
+
+### [Senior / Staff Data Engineer](https://job-boards.greenhouse.io/usenourish/jobs/5283958008)
+<a href="https://nourish.com"><img src="https://www.google.com/s2/favicons?domain=nourish.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nourish** · New York, New York / Remote · `🟢 Remote` `Senior`
+
+_Build the foundational data platform (ingestion, warehouse, transformations, governance) for Nourish's AI-native digital health system, scaling across 250+ health systems and 200M+ covered Americans. Own Snowflake architecture, dbt modeling, observability, and semantic layers that enable both human analysts and AI agents to safely access trusted data at scale. · [Apply →](https://job-boards.greenhouse.io/usenourish/jobs/5283958008)_
+
+`Snowflake` `dbt` `SQL` `RudderStack` `Fivetran` `Python` `Airflow` `Data Governance`
+
+<sub>July 1, 2026 at 13:10 UTC</sub>
+
+---
 
 ### [Senior Backend Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/6101148004)
 <a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$166k-$208k USD (US); CAD 157k-196k (Canada)` `Equity`
@@ -535,6 +568,17 @@ _Develop and configure ServiceNow solutions including workflows, automations, an
 
 ---
 
+### [Sr. Engineer, Governance, Risk & Compliance (TPRM)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Build and maintain governance, risk, and compliance infrastructure across security tools (SIEM, DLP, IAM, PAM) and GRC platforms; integrate solutions with enterprise systems to support compliance frameworks like SOC 2, HITRUST, HIPAA, and PCI. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)_
+
+`SIEM` `DLP` `IAM` `PAM` `NIST CSF` `SOC 2` `HITRUST` `AWS`
+
+<sub>June 29, 2026 at 18:52 UTC</sub>
+
+---
+
 ### [Sr. Principal Software Engineer](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Engineer_R0005965)
 <a href="https://cerence.com"><img src="https://www.google.com/s2/favicons?domain=cerence.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerence Inc.** · `🟢 Remote` `Principal` `$141k-$226k` `Equity`
 
@@ -785,23 +829,23 @@ _Lead the design and implementation of industrial AI agents and end-to-end proto
 
 ---
 
-### [Senior Software Engineer, Care Experience](https://careers.toasttab.com/jobs?gh_jid=7590046)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior`
-
-_Build backend services and AI-driven platforms powering Toast's support infrastructure across chat, voice, and agent-assisted channels serving millions of interactions. Design and operate business-critical systems handling urgent customer support at scale, integrating AI capabilities with agent tooling and core Toast product data. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7590046)_
-
-`Java` `Kotlin` `AI tooling (Claude, Cursor, MCP servers)` `distributed systems` `API design` `backend services`
-
-<sub>June 26, 2026 at 17:41 UTC</sub>
-
----
-
 ### [Manager, Engineering - App Engine (CUDA)](https://job-boards.greenhouse.io/torcrobotics/jobs/8610332002)
 <a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan / Fort Worth, Texas / Blacksburg, Virginia · `🟢 Remote` `Manager` `$160k-$193k` `Equity`
 
 _Lead the Application Engine team building middleware that integrates deep learning models into Torc's Level 4 autonomous trucking stack, managing CUDA optimization, GPU resource management, and model deployment pipelines. Requires deep technical expertise in GPU parallel computing and production ML frameworks to guide architecture decisions in a safety-critical, multi-sensor autonomous driving environment. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8610332002)_
 
 `CUDA` `GPU optimization` `PyTorch` `TensorRT` `ONNX` `C++` `Linux` `Real-time Systems`
+
+<sub>June 26, 2026 at 17:41 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Care Experience](https://careers.toasttab.com/jobs?gh_jid=7590046)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior`
+
+_Build backend services and AI-driven platforms powering Toast's support infrastructure across chat, voice, and agent-assisted channels serving millions of interactions. Design and operate business-critical systems handling urgent customer support at scale, integrating AI capabilities with agent tooling and core Toast product data. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7590046)_
+
+`Java` `Kotlin` `AI tooling (Claude, Cursor, MCP servers)` `distributed systems` `API design` `backend services`
 
 <sub>June 26, 2026 at 17:41 UTC</sub>
 
@@ -1457,6 +1501,17 @@ _Manage a team of data scientists building fraud detection and identity verifica
 _Build the ground-up PLG growth and lifecycle infrastructure for music and audio products—own the CDP, product analytics, lifecycle messaging, experimentation, and reverse-ETL stack; design event taxonomy and in-app growth mechanics (viral loops, paywalls, referral systems) that drive measurable conversion from anonymous visitor to paying customer across web, desktop, plugin, and mobile. This is a greenfield role at the intersection of growth marketing and product infrastructure, requiring deep hands-on expertise in the modern martech and billing stack. · [Apply →](http://stability.ai/careers?gh_jid=4907461101)_
 
 `TypeScript` `Node.js` `Python` `SQL` `CDP` `Product Analytics` `Lifecycle Messaging` `Reverse-ETL`
+
+<sub>June 24, 2026 at 16:53 UTC</sub>
+
+---
+
+### [Principal Design Technologist, AI Design Tools](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$169k-$284k` `Equity`
+
+_Own the end-to-end AI design tooling ecosystem at Zillow—unifying scattered AI tools, building an MCP server integration for Claude and Cursor, and shipping evaluation harnesses that hold AI-generated UX to design system standards. Requires shipping infrastructure that measurably changed how teams work and deep fluency with modern AI coding tools in production codebases. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)_
+
+`Python` `TypeScript` `React` `Figma API` `MCP (Model Context Protocol)` `Claude API` `Design Systems` `Accessibility (A11y)`
 
 <sub>June 24, 2026 at 16:53 UTC</sub>
 
@@ -2582,6 +2637,17 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 _Own the architecture and platform infrastructure for Tailscale's next-generation web console, including authentication, session management, and cross-origin integrations. Lead frontend platform design across multiple products unified under one experience, with deep involvement in identity systems and browser security. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)_
 
 `React` `TypeScript` `Web Security (CORS, CSRF, cookies)` `Authentication Systems` `Testing Infrastructure` `Design Systems` `Feature Flagging` `Analytics`
+
+<sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
+### [Principal Product Technologist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$169k-$284k` `Equity`
+
+_Design and build AI-powered tools and capabilities that help product teams run structured experiments, discover insights, and accelerate decision-making across Zillow's product development lifecycle. Deep experience with LLM orchestration, agentic systems, and instrumentation required to evolve how a large organization develops products. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Product-Technologist_P750648-2)_
+
+`LLM orchestration` `Retrieval-Augmented Generation` `Agentic architectures` `Python` `Data pipeline design` `Metric framework design` `AI systems architecture` `TypeScript`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
