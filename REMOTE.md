@@ -2,13 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **257 open roles** (34 new)
+### **256 open roles** (34 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 1, 2026
+
+### [Software Engineer, Product (Frontend-leaning)](https://jobs.ashbyhq.com/assembledhq/c3df088b-7a30-4e1a-b9c6-def05c140c07)
+<a href="https://assembled.com"><img src="https://www.google.com/s2/favicons?domain=assembled.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Assembled** · `🟢 Remote` `Mid` `$140k-$210k` `Equity`
+
+_Build customer-facing product experiences end-to-end across frontend, backend, APIs, and AI-powered workflows for a unified customer support platform. Lead React application architecture and performance improvements while shaping how AI coding agents integrate into the development workflow. · [Apply →](https://jobs.ashbyhq.com/assembledhq/c3df088b-7a30-4e1a-b9c6-def05c140c07)_
+
+`TypeScript` `React` `JavaScript` `Storybook` `PostgreSQL` `AI coding agents`
+
+<sub>July 1, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8041918)
+<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$140k-$150k` `Equity`
+
+_Build the research-to-production pipeline for threat intelligence at scale, turning security research findings into shipped detection rules, YARA/Sigma signatures, and STIX-formatted feeds. Own production systems spanning malware analysis automation, sandbox orchestration, OSINT ingestion, and correlation pipelines that link scan data with adversary tracking—with responsibility for safe model deployment in detection content generation. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8041918)_
+
+`Python` `TypeScript` `AWS` `STIX 2.1` `TAXII 2.1` `YARA` `Sigma` `PostgreSQL`
+
+<sub>July 1, 2026 at 17:43 UTC</sub>
+
+---
 
 ### [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Asheville, Ohio / Atlanta, Georgia / Boston, Massachusetts / Costa Mesa, California / Remote / Seattle, Washington / Washington, D.C. · `🟢 Remote` `Mid` `$129k-$220k` `Equity`
@@ -278,7 +300,7 @@ _Build shared infrastructure, governance frameworks, and AI/automation solutions
 
 ---
 
-### [Senior Software Engineer  - Fronend ](https://jobs.ashbyhq.com/kong/480a99c7-badc-430a-a53f-4bb58d2a1e42)
+### [Senior Software Engineer - Front end ](https://jobs.ashbyhq.com/kong/480a99c7-badc-430a-a53f-4bb58d2a1e42)
 <a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · Toronto, Canada · `🟢 Remote` `Senior`
 
 _Build scalable, responsive UI components and features for Kong Konnect using Vue.js and TypeScript, including major product features like Catalog and Context Mesh. · [Apply →](https://jobs.ashbyhq.com/kong/480a99c7-badc-430a-a53f-4bb58d2a1e42)_
@@ -297,17 +319,6 @@ _Own day-to-day operations and maintenance of AWS GovCloud infrastructure includ
 `Kubernetes` `Terraform` `AWS` `GitLab CI` `Datadog` `Linux` `Helm` `Python`
 
 <sub>June 30, 2026 at 19:41 UTC</sub>
-
----
-
-### [Applied AI Engineer](https://job-boards.greenhouse.io/homeward/jobs/8612048002)
-<a href="https://homeward.com"><img src="https://www.google.com/s2/favicons?domain=homeward.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Homeward** · `🟢 Remote` `Mid` `$160k` `Equity`
-
-_Design and build AI-powered features including LLM API integrations, RAG pipelines, and AI-driven automation across customer-facing and internal tools. Build shared tooling, observability systems, and evaluation frameworks to make AI development easier and more reliable across the engineering team. · [Apply →](https://job-boards.greenhouse.io/homeward/jobs/8612048002)_
-
-`Python` `FastAPI` `LLM APIs` `RAG` `PostgreSQL` `Docker` `Kubernetes` `Prompt Engineering`
-
-<sub>June 30, 2026 at 18:49 UTC</sub>
 
 ---
 
@@ -440,17 +451,6 @@ _Own the health, stability, and performance of production data pipelines, wareho
 `Python` `SQL` `Fivetran` `dbt` `PostgreSQL` `AWS` `Snowflake` `Datadog`
 
 <sub>June 30, 2026 at 15:59 UTC</sub>
-
----
-
-### [Manager, Federal Sales Engineering](https://job-boards.greenhouse.io/spycloud/jobs/7782070003)
-<a href="https://spycloud.com"><img src="https://www.google.com/s2/favicons?domain=spycloud.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpyCloud** · `🟢 Remote` `Manager` `$133k-$200k`
-
-_Lead federal pre-sales for a cybersecurity breach intelligence platform, splitting time between managing a sales engineering team and personally running strategic demos and proofs of concept for DoD, intelligence, and law enforcement agencies. Requires active TS/SCI clearance, deep federal market expertise, and hands-on technical depth in OSINT, malware intelligence, and identity analytics. · [Apply →](https://job-boards.greenhouse.io/spycloud/jobs/7782070003)_
-
-`Cybersecurity` `Federal Sales Engineering` `OSINT` `Python` `TS/SCI Clearance` `Malware Intelligence` `Identity Analytics` `FedRAMP`
-
-<sub>June 30, 2026 at 15:03 UTC</sub>
 
 ---
 
@@ -972,12 +972,12 @@ _Design and build scalable backend infrastructure for bank integrations and fina
 
 ---
 
-### [Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Design, build, and operate petabyte-scale metrics collection and storage systems handling trillions of records and millions of events per second. Requires 5+ years building distributed systems and 2+ years with Golang; ClickHouse experience is a bonus. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)_
+_Design, build, and operate petabyte-scale metrics infrastructure that processes millions of events per second, handling billing data and customer analytics across ClickHouse instances. Requires experience building fault-tolerant distributed systems and working in Kubernetes environments at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)_
 
-`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `GCP` `Azure` `ArgoCD`
+`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `ArgoCD` `Distributed Systems` `PostgreSQL`
 
 <sub>June 26, 2026 at 15:54 UTC</sub>
 
@@ -1452,7 +1452,7 @@ _Design, build, and operate Kubernetes clusters across public cloud (AWS EKS), p
 ---
 
 ### [Staff AI Engineer - Grafana AI/ML | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD 186k - CAD 230k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 230k` `Equity`
 
 _Build AI-powered features for incident detection, triage, and resolution within Grafana's observability platform using LLMs and agent frameworks. Requires shipping production systems at scale with rapid iteration and a focus on real-world impact for observability workflows. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004)_
 
@@ -1463,7 +1463,7 @@ _Build AI-powered features for incident detection, triage, and resolution within
 ---
 
 ### [Staff AI Engineer - Grafana AI/ML | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$220k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$220k` `Equity`
 
 _Build AI-powered features for incident detection, triage, and resolution within Grafana's observability platform, using LLMs and agent frameworks to automate analysis and incident lifecycle management. Focus on rapid experimentation, shipping production systems, and scaling AI workflows integrated with observability tools and developer workflows. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004)_
 
@@ -1638,12 +1638,12 @@ _Build automated revenue infrastructure that turns prospect data and buying sign
 
 ---
 
-### [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$132.6k-$171.6k CAD` `Equity`
+### [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$204k-$235k.50` `Equity`
 
-_Monitor and respond to security incidents, lead forensic investigations, and build automation tools for security operations at a public IoT platform serving physical operations industries. Requires Python scripting to develop investigation automation and 5+ years incident response experience. · [Apply →](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084)_
+_Lead security incident response and digital forensic investigations for a platform managing IoT data across logistics, agriculture, and manufacturing. Build Python-based tools and automation to support incident response and insider threat operations at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105)_
 
-`Python` `Security Incident Response` `SIEM` `macOS` `Windows` `Linux` `AWS` `GCP`
+`Python` `Incident Response` `SIEM` `AWS` `GCP` `macOS` `Windows` `Linux`
 
 <sub>June 24, 2026 at 11:10 UTC</sub>
 
@@ -1753,7 +1753,7 @@ _Configure and deploy backend system environments for financial institutions dur
 ---
 
 ### [Data Engineer ](https://job-boards.greenhouse.io/newsela/jobs/7985789)
-<a href="https://newsela.com"><img src="https://www.google.com/s2/favicons?domain=newsela.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Newsela** · `🟢 Remote` `Mid` `$100k-$120.8k` `Equity`
+<a href="https://formative.com"><img src="https://www.google.com/s2/favicons?domain=formative.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Formative** · `🟢 Remote` `Mid` `$100k-$120.8k` `Equity`
 
 _Build and maintain ETL pipelines and custom integrations between K-12 Student Information Systems and internal/external platforms, ensuring data accuracy and availability across educational workflows. Work with REST APIs, SFTP, and data warehousing systems to support school operations and learning analytics. · [Apply →](https://job-boards.greenhouse.io/newsela/jobs/7985789)_
 
@@ -1851,12 +1851,12 @@ _Design and implement security controls for AI systems, agents, and enterprise i
 
 ---
 
-### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$200k—$241k` `Equity`
+### [Senior Engineer ](https://motional.com/open-positions/?gh_jid=7782262003#/7782262003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$190k–$244k` `Equity`
 
-_Develop motion planning algorithms (search-based, sampling-based, optimization-based) and integrate them into autonomous vehicle decision-making systems. Build robust, scalable codebases for autonomous driving software deployed in the world's longest-standing public robotaxi fleet; requires C++ expertise and experience processing/analyzing large-scale autonomous vehicle field data. · [Apply →](https://motional.com/open-positions/?gh_jid=7782198003#/7782198003)_
+_Design and implement onboard and offboard software pipelines for autonomous vehicle localization systems, including SLAM development and sensor fusion. Work with a team scaling production robotaxi technology; requires 3+ years of production C++ development in autonomous robotics. · [Apply →](https://motional.com/open-positions/?gh_jid=7782262003#/7782262003)_
 
-`C++` `Motion Planning` `Autonomous Driving` `ROS` `Python` `Optimization` `SLAM` `Robotics`
+`C++` `SLAM` `Sensor Fusion` `Data Pipelines` `Autonomous Vehicles` `Python`
 
 <sub>June 23, 2026 at 19:44 UTC</sub>
 
@@ -1870,17 +1870,6 @@ _Build and maintain automated test suites across REST and gRPC APIs for email, c
 `Go` `Playwright` `Cypress` `Selenium` `gRPC` `REST APIs` `Postman` `Docker`
 
 <sub>June 23, 2026 at 19:44 UTC</sub>
-
----
-
-### [Senior Software Engineer, Full-stack (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6099681004)
-<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · `🟢 Remote` `Senior` `$156k-$231k` `Equity`
-
-_Build full-stack applications and services for a grocery supply chain optimization platform, spanning React frontends, APIs, and data layers to reduce food waste at scale. Work with ML specialists and enterprise customers like Albertsons and Meijer on forecasting, inventory management, and distribution center operations. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6099681004)_
-
-`TypeScript` `React` `Python` `PostgreSQL` `GraphQL` `Databricks` `dbt` `Azure`
-
-<sub>June 23, 2026 at 18:54 UTC</sub>
 
 ---
 
@@ -1992,12 +1981,12 @@ _Build backend infrastructure and moderation tooling for Reddit's Safety and Mod
 
 ---
 
-### [Senior Data Engineer](https://www.samsara.com/company/careers/roles/8025794?gh_jid=8025794)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
+### [Senior Data Engineer](https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
 
-_Design and build large-scale data platforms and Spark-driven ETL pipelines at scale, including MCP servers and AI agents that automate data engineering workflows. Lead architecture decisions for a data infrastructure serving analytics, AI, and operations teams across a public IoT company processing terabytes of operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8025794?gh_jid=8025794)_
+_Build large-scale data platforms and Spark-driven workflows that power Samsara's connected operations cloud, enabling analytics and automation across ERP, CRM, and product data sources. Design data infrastructure as a product, including MCP servers and AI agents that accelerate data engineering workflows in an AI-first environment. · [Apply →](https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565)_
 
-`Python` `SQL` `Spark` `PySpark` `Databricks` `dbt` `Fivetran` `AWS`
+`Python` `SQL` `PySpark` `Spark` `Databricks` `dbt` `Fivetran` `AWS`
 
 <sub>June 23, 2026 at 16:58 UTC</sub>
 
@@ -2282,12 +2271,12 @@ _Architect enterprise AI/ML solutions and legacy system modernizations on Snowfl
 
 ---
 
-### [Senior Software Engineer - Identity & Authorization Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6018899004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Software Engineer - Identity & Authorization Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6018901004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Design and build unified authentication, authorization, and audit services powering ClickHouse Cloud across multiple products—including RBAC/ReBAC, token issuance, protocol implementations (SAML, OIDC, OAuth2), and SDKs that product teams embed. Scale requires operating distributed systems with multi-region consistency concerns and carrying on-call responsibility for the critical path of every customer request. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6018899004)_
+_Design and build the unified authentication, authorization, and audit platform that powers access control across ClickHouse Cloud's products, including RBAC/ReBAC services, token issuance, SAML/SCIM/OIDC/OAuth2 protocol implementations, and SDKs for product teams. Operate distributed systems at scale with multi-region consistency and carry on-call responsibility for production reliability. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6018901004)_
 
-`Go` `Rust` `TypeScript` `Python` `OIDC` `OAuth2` `SAML` `Zanzibar`
+`Go` `Rust` `C++` `TypeScript` `Python` `OAuth2` `OIDC` `SAML`
 
 <sub>June 22, 2026 at 16:41 UTC</sub>
 
@@ -2304,12 +2293,12 @@ _Design and deliver enterprise capabilities within Devoted's proprietary Orinoco
 
 ---
 
-### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Junior` `$144k–$192k` `Equity`
+### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Pittsburgh, Pennsylvania / Remote · `🟢 Remote` `Junior` `$144k-$192k` `Equity`
 
-_Build ML pipelines and embedding-based search tools to discover edge cases and long-tail scenarios in petabytes of autonomous driving sensor data. Work with foundation models, representation learning, and active learning workflows to accelerate model improvement and dataset curation. · [Apply →](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)_
+_Build ML pipelines and embedding-based search tools to mine critical edge cases and long-tail scenarios from petabytes of multimodal autonomous vehicle sensor data. Work with foundation models, representation learning, and active learning to accelerate model improvement across post-training analysis and dataset curation for self-driving vehicles. · [Apply →](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)_
 
-`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Multimodal Learning` `Active Learning`
+`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Active Learning` `Multimodal Learning`
 
 <sub>June 22, 2026 at 16:41 UTC</sub>
 
@@ -2577,7 +2566,7 @@ _Design and implement production mission management software for autonomous sate
 ---
 
 ### [Senior AI Engineer | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
 
 _Build multi-agent AI systems and backend services powering Marketing Operations automation at scale, including agentic orchestration, LLM integrations, and systems connecting AI models to internal business platforms. Work with production observability and governance for AI workflows across 7,000+ customers, with autonomy over technical direction and high-leverage problem solving. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004)_
 
@@ -2588,7 +2577,7 @@ _Build multi-agent AI systems and backend services powering Marketing Operations
 ---
 
 ### [Senior AI Engineer | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
 
 _Build multi-agent AI infrastructure and automation platform for Marketing Operations, owning end-to-end agentic systems from architecture through production operation. Ship production systems integrating LLMs with internal and third-party data platforms (BigQuery, Slack, CRMs) using orchestration frameworks and API services. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004)_
 
@@ -2697,12 +2686,12 @@ _Build marketing measurement frameworks and statistical models to quantify ROI a
 
 ---
 
-### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$181k—$226k` `Equity`
+### [Frontend Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$242k—$302k CAD` `Equity`
 
-_Own the architecture and platform infrastructure for Tailscale's next-generation web console, including authentication, session management, and cross-origin integrations. Lead frontend platform design across multiple products unified under one experience, with deep involvement in identity systems and browser security. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707457005)_
+_Own the technical architecture of Tailscale's next-generation web console, including authentication infrastructure, unified product platform, and shared frontend systems. Build at the intersection of product engineering and platform engineering across identity, security, and multi-service integrations. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4707448005)_
 
-`React` `TypeScript` `Web Security (CORS, CSRF, cookies)` `Authentication Systems` `Testing Infrastructure` `Design Systems` `Feature Flagging` `Analytics`
+`React` `TypeScript` `HTTP` `CORS` `Authentication` `CSRF Protection` `Web Security` `Testing Infrastructure`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
@@ -2778,12 +2767,12 @@ _Design and build AI-native growth systems that move buyers across the entire fu
 
 ---
 
-### [Software Engineer, Networking (Features)](https://job-boards.greenhouse.io/tailscale/jobs/4706938005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$218k—$302k CAD` `Equity`
+### [Software Engineer, Networking (Features)](https://job-boards.greenhouse.io/tailscale/jobs/4706998005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$163k—$226k` `Equity`
 
-_Build and maintain core networking software components for Tailscale's overlay network product, including application-layer networking features, proxies, connectors, and routing optimizations. Take ownership of the full product lifecycle from architecture through production operations, with an emphasis on distributed systems, OS-level networking internals, and security-first design. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4706938005)_
+_Develop networking features and optimizations for Tailscale's VPN client and backend services, taking ownership of the complete product lifecycle from design through deployment. Work on application-layer networking (proxies, connectors, overlay routing) and OS-level socket programming with a security-first mindset in a fully remote, early-stage environment. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4706998005)_
 
-`Go` `PostgreSQL` `Distributed Systems` `Socket Programming` `Packet Filtering` `Linux Networking` `Concurrency` `SQL`
+`Go` `PostgreSQL` `Distributed Systems` `Socket Programming` `Linux Networking` `Packet Filtering` `Concurrency`
 
 <sub>June 17, 2026 at 20:53 UTC</sub>
 
