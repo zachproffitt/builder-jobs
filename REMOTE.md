@@ -2,13 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **256 open roles** (25 new)
+### **257 open roles** (24 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 1, 2026
+
+### [Staff Engineer](https://elemica.wd501.myworkdayjobs.com/Elemica_Careers/job/NA_Remote_GA/Staff-Engineer_JR100063)
+<a href="https://elemica.com"><img src="https://www.google.com/s2/favicons?domain=elemica.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Elemica** · `🟢 Remote` `Staff`
+
+_Lead distributed systems architecture and platform engineering across multiple teams for a Fortune 100-serving SaaS supply chain platform. Design and mentor engineers on scalable microservices, cloud infrastructure, and enterprise data integration systems; requires 8+ years of experience with distributed systems and staff-level technical leadership. · [Apply →](https://elemica.wd501.myworkdayjobs.com/Elemica_Careers/job/NA_Remote_GA/Staff-Engineer_JR100063)_
+
+`Scala` `Java` `AWS` `Akka` `RabbitMQ` `Python` `Bash` `PostgreSQL`
+
+<sub>July 1, 2026 at 20:42 UTC</sub>
+
+---
+
+### [Manager II, Machine Learning – Conversion Visibility](https://www.pinterestcareers.com/jobs/?gh_jid=8010903)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Seattle, Washington / Remote · `🟢 Remote` `Manager` `$189k–$389k` `Equity`
+
+_Lead a hybrid team of ML engineers and backend software engineers building identity resolution and conversion visibility modeling systems that connect onsite Pinterest activity to offsite conversions in a privacy-preserving way. Requires 7+ years shipping large-scale production ML systems and 2+ years engineering management experience; focus on ads conversion attribution and identity matching domains. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8010903)_
+
+`Machine Learning` `ML Systems` `Ads/Measurement` `Python` `PyTorch or TensorFlow` `Data Pipelines` `SQL` `Experimentation`
+
+<sub>July 1, 2026 at 20:42 UTC</sub>
+
+---
 
 ### [Head of Product - Business Lending](https://job-boards.greenhouse.io/mercury/jobs/6106974004)
 <a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Manager` `$289k-$362k USD / 273k-342k CAD` `Equity`
@@ -40,17 +62,6 @@ _Build production systems that operationalize threat intelligence research—tur
 `Python` `TypeScript` `YARA` `Sigma` `STIX` `TAXII` `AWS` `PostgreSQL`
 
 <sub>July 1, 2026 at 17:43 UTC</sub>
-
----
-
-### [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Asheville, Ohio / Atlanta, Georgia / Boston, Massachusetts / Costa Mesa, California / Remote / Seattle, Washington / Washington, D.C. · `🟢 Remote` `Mid` `$129k-$220k` `Equity`
-
-_Build log aggregation pipelines and security data lake infrastructure to centralize security visibility across Anduril's defense technology systems. Requires TS/SCI clearance and hands-on work with ETL at scale in AWS/Azure/GCP environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)_
-
-`Spark` `DuckDB` `Go` `Rust` `Terraform` `AWS` `ETL` `TS/SCI Clearance`
-
-<sub>July 1, 2026 at 16:54 UTC</sub>
 
 ---
 
@@ -961,7 +972,7 @@ _Design and build scalable backend infrastructure for bank integrations and fina
 
 ---
 
-### [Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
+### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
 <a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
 _Design, build, and operate petabyte-scale metrics collection and storage systems handling trillions of records and millions of events per second. Requires 5+ years building distributed systems and 2+ years with Golang; ClickHouse experience is a bonus. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)_
@@ -2653,6 +2664,17 @@ _Build production ML models for claims time series forecasting and NLP text unde
 
 ---
 
+### [DevOps Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)
+<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
+
+_Design and architect scalable CI/CD infrastructure and developer productivity platforms using infrastructure as code, mentoring engineers while remaining hands-on. Focus on cloud infrastructure (AWS preferred), containers, and Kubernetes across security and governance use cases in a mission-critical cybersecurity environment. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)_
+
+`Python` `Groovy` `Bash` `AWS` `Kubernetes` `Docker` `Terraform` `Jenkins`
+
+<sub>June 18, 2026 at 17:15 UTC</sub>
+
+---
+
 ### [Senior Software Engineer,  Instacart Business](https://instacart.careers/job/?gh_jid=8014051)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$168k—CAN$177k` `Equity`
 
@@ -2670,17 +2692,6 @@ _Lead the full product development lifecycle for Instacart's B2B platform, ownin
 _Build marketing measurement frameworks and statistical models to quantify ROI across Pinterest's advertising channels and optimize budget allocation. Apply causal inference, experimentation, and machine learning to drive revenue growth decisions for millions of advertisers. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8011376)_
 
 `Python` `R` `SQL` `Machine Learning` `Statistics` `Causal Inference` `A/B Testing` `Marketing Attribution`
-
-<sub>June 18, 2026 at 17:15 UTC</sub>
-
----
-
-### [DevOps Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)
-<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Senior` `$173k-$279.5k` `Equity`
-
-_Design and architect scalable CI/CD infrastructure and developer productivity platforms using infrastructure as code, mentoring engineers while remaining hands-on. Focus on cloud infrastructure (AWS preferred), containers, and Kubernetes across security and governance use cases in a mission-critical cybersecurity environment. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---USA---MA/DevOps-Architect_JR-018942)_
-
-`Python` `Groovy` `Bash` `AWS` `Kubernetes` `Docker` `Terraform` `Jenkins`
 
 <sub>June 18, 2026 at 17:15 UTC</sub>
 
