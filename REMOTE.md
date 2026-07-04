@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **251 open roles** (1 new)
+### **253 open roles** (1 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -1126,6 +1126,17 @@ _Develop and configure ServiceNow solutions including workflows, automations, an
 
 ---
 
+### [Sr. Engineer, Governance, Risk & Compliance (TPRM)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Build and maintain governance, risk, and compliance infrastructure across security tools (SIEM, DLP, IAM, PAM) and GRC platforms; integrate solutions with enterprise systems to support compliance frameworks like SOC 2, HITRUST, HIPAA, and PCI. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)_
+
+`SIEM` `DLP` `IAM` `PAM` `NIST CSF` `SOC 2` `HITRUST` `AWS`
+
+<sub>June 29, 2026 at 18:52 UTC</sub>
+
+---
+
 ### [Sr. Principal Software Engineer](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Engineer_R0005965)
 <a href="https://cerence.com"><img src="https://www.google.com/s2/favicons?domain=cerence.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerence Inc.** · `🟢 Remote` `Principal` `$141k-$226k` `Equity`
 
@@ -2026,6 +2037,17 @@ _Manage a team of data scientists building fraud detection and identity verifica
 _Build the ground-up PLG growth and lifecycle infrastructure for music and audio products—own the CDP, product analytics, lifecycle messaging, experimentation, and reverse-ETL stack; design event taxonomy and in-app growth mechanics (viral loops, paywalls, referral systems) that drive measurable conversion from anonymous visitor to paying customer across web, desktop, plugin, and mobile. This is a greenfield role at the intersection of growth marketing and product infrastructure, requiring deep hands-on expertise in the modern martech and billing stack. · [Apply →](http://stability.ai/careers?gh_jid=4907461101)_
 
 `TypeScript` `Node.js` `Python` `SQL` `CDP` `Product Analytics` `Lifecycle Messaging` `Reverse-ETL`
+
+<sub>June 24, 2026 at 16:53 UTC</sub>
+
+---
+
+### [Principal Design Technologist, AI Design Tools](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$169k-$284k` `Equity`
+
+_Own the end-to-end AI design tooling ecosystem at Zillow—unifying scattered AI tools, building an MCP server integration for Claude and Cursor, and shipping evaluation harnesses that hold AI-generated UX to design system standards. Requires shipping infrastructure that measurably changed how teams work and deep fluency with modern AI coding tools in production codebases. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1)_
+
+`Python` `TypeScript` `React` `Figma API` `MCP (Model Context Protocol)` `Claude API` `Design Systems` `Accessibility (A11y)`
 
 <sub>June 24, 2026 at 16:53 UTC</sub>
 
