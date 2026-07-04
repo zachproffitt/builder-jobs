@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2135 open roles** (7 new) &nbsp;·&nbsp; 1729 companies searched
+### **2101 open roles** (4 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -53,39 +53,6 @@ _Build and maintain CI/CD pipelines and Infrastructure as Code systems to automa
 `Bash` `Python` `Ansible` `Terraform` `Jenkins` `GitLab` `AWS` `Azure`
 
 <sub>July 3, 2026 at 21:15 UTC</sub>
-
----
-
-### [Principal Optical Engineer](https://job-boards.greenhouse.io/rocketlab/jobs/7793187003)
-<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Tucson, Arizona · `Principal`
-
-_Develop detection and calibration algorithms and conduct radiometric simulations for advanced electro-optical/infrared space payloads supporting DoD and national defense missions. Requires active TS/SCI clearance and hands-on expertise with optical systems characterization, alignment, and metrology. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7793187003)_
-
-`MATLAB` `Python` `Zemax` `FRED` `Optical Systems` `EO/IR Payloads` `Radiometric Analysis` `TS/SCI Clearance`
-
-<sub>July 3, 2026 at 19:39 UTC</sub>
-
----
-
-### [Senior FPGA Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7747032003)
-<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Senior` `$131k—$218k` `Equity`
-
-_Design and implement FPGA logic for advanced electro-optical/infrared space payloads supporting the U.S. Space Development Agency's Proliferated Warfighter Space Architecture. Requires U.S. Government Security Clearance and expertise in radiation-hardened FPGA design for defense and intelligence applications. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7747032003)_
-
-`FPGA` `VHDL` `Xilinx` `RTL` `AXI Stream` `DDR4` `Aurora` `Python`
-
-<sub>July 3, 2026 at 19:39 UTC</sub>
-
----
-
-### [Sr Data Scientist, AI Products](https://jobs.ashbyhq.com/wealthsimple/ca658e54-6569-4081-84ac-a9b7541e7af8)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
-
-_Lead the full AI product lifecycle for financial products used by 4 million Canadians — from designing and training foundation models and LLMs to running A/B tests and causal inference experiments that measure real-world impact. Build production-grade training pipelines and evaluation harnesses while partnering with PMs, designers, and engineers to translate business goals into technical AI roadmaps. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/ca658e54-6569-4081-84ac-a9b7541e7af8)_
-
-`Python` `PyTorch` `Transformers` `LLMs` `A/B Testing` `Causal Inference` `SQL` `Recommender Systems`
-
-<sub>July 3, 2026 at 19:39 UTC</sub>
 
 ---
 
