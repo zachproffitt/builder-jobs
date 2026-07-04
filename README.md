@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2135 open roles** (11 new) &nbsp;·&nbsp; 1729 companies searched
+### **1982 open roles** (10 new) &nbsp;·&nbsp; 1729 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -117,17 +117,6 @@ _Plan and execute full-scope adversary emulation operations across hybrid enviro
 _Design and implement scalable security solutions across Twilio's products and platforms, partnering with engineering teams to drive security risk reduction and uplevel organizational security capabilities. Lead threat modeling, security design reviews, and mentorship of engineering teams on security best practices at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8042071)_
 
 `Python` `Go` `Java` `AWS` `Threat Modeling` `CI/CD` `Infrastructure-as-Code` `LLMs`
-
-<sub>July 3, 2026 at 17:40 UTC</sub>
-
----
-
-### [Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Metrics-and-Evaluation---Autonomous-Vehicles_JR2014651)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 5 Locations · `Senior` `$152k-$287.5k` `Equity`
-
-_Build evaluation metrics and dashboards to enable rapid debugging and testing of autonomous vehicle planning and control algorithms across simulation and on-road driving data. Work at scale across vehicle simulation, path planning, and control systems with Python, C++, and large monorepos. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Metrics-and-Evaluation---Autonomous-Vehicles_JR2014651)_
-
-`Python` `Pandas` `NumPy` `SciPy` `Matplotlib` `C++` `Bazel` `Git`
 
 <sub>July 3, 2026 at 17:40 UTC</sub>
 
