@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2137 open roles** (19 new) &nbsp;·&nbsp; 1734 companies searched
+### **2141 open roles** (30 new) &nbsp;·&nbsp; 1734 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,127 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 6, 2026
+
+### [Software Engineer, Research Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5283063008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$405k-$625k` `Equity`
+
+_Design and scale distributed infrastructure systems that accelerate research workflows across Anthropic, handling rapidly evolving requirements and multi-month projects from ambiguous problem spaces to production. Direct partnership with research teams to anticipate needs; requires experience navigating reliability and scaling challenges as systems grow underneath active workloads. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5283063008)_
+
+`Distributed Systems` `Cloud Infrastructure` `IaC` `Python` `Go` `Kubernetes` `PostgreSQL` `Machine Learning workflows`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Salesforce CPQ Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Salesforce-CPQ-Engineer_R26-4606)
+<a href="https://rockwellautomation.com"><img src="https://www.google.com/s2/favicons?domain=rockwellautomation.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockwell Automation** · 7 Locations · `🟡 Hybrid` `Mid`
+
+_Develop custom Salesforce solutions using Apex, Visualforce, and Lightning Components, with a focus on CPQ implementations and integrations with enterprise systems via APIs and MuleSoft. Hybrid role with 3 days/week in-office requirement at Rockwell Automation facilities. · [Apply →](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Salesforce-CPQ-Engineer_R26-4606)_
+
+`Salesforce` `Apex` `Visualforce` `Lightning Components` `JavaScript` `MuleSoft` `Salesforce CPQ` `GitHub`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Engineer III, ADME](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5179451007)
+<a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio** · Boston, Massachusetts · `Mid` `$90k-$140k` `Equity`
+
+_Build and optimize high-throughput in vitro ADME assays and analytical workflows for drug discovery, translating manual methods into automation-enabled operations. Requires hands-on LC-MS/MS and metabolomics expertise with on-site presence in Boston, MA. · [Apply →](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5179451007)_
+
+`LC-MS/MS` `Python` `R` `Metabolomics` `LIMS` `High-Throughput Mass Spectrometry` `PhD Preferred`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Engineering Manager, Cell Infrastructure](https://job-boards.greenhouse.io/gitlab/jobs/8615946002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `Equity`
+
+_Lead the design and delivery of multi-cloud cell placement and orchestration systems for GitLab's horizontally-scalable infrastructure, building and growing an engineering team responsible for provisioning, routing, and operating cells across cloud providers. This is a 0-to-1 infrastructure leadership role requiring hands-on experience with distributed systems, cell-based architecture, and operational reliability at scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8615946002)_
+
+`Distributed Systems` `Cell-Based Architecture` `Multi-Cloud Infrastructure` `Kubernetes` `Site Reliability Engineering` `Incident Management` `FinOps`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Full Stack Developer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · San Antonio, Texas · `Mid` `$69.4k-$158k`
+
+_Build full-stack web applications using ASP.NET, Oracle, and modern architectural approaches for Department of Air Force clients. Requires Secret clearance eligibility and experience with identity/authentication protocols (OIDC/SAML). · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)_
+
+`ASP.NET` `Oracle` `SQL` `PL/SQL` `C#` `IIS` `OIDC` `SAML`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Software Developer II (Web), Migrate - ShareGate](https://job-boards.greenhouse.io/workleap/jobs/5136744007)
+<a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · `🟢 Remote` `Mid` `$100k-$130k CAD` `Equity`
+
+_Build a brand-new web application for ShareGate Migrate from scratch, shipping full-stack features with Microsoft 365 integration directly in the browser. Establish technical foundations and testing practices for a greenfield project serving thousands of IT professionals globally. · [Apply →](https://job-boards.greenhouse.io/workleap/jobs/5136744007)_
+
+`TypeScript` `React` `C#` `.NET` `Microsoft Graph` `Azure AD` `MSAL` `AI coding tools`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Knowledge Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Analyst_R00338421)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
+
+_Design and build knowledge graph components for client data architecture transformations, working hands-on across ingestion, ontology modeling, curation, and deployment. Mentor junior engineers while staying current with generative AI, LLMs, and agentic technologies in an enterprise consulting environment. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Analyst_R00338421)_
+
+`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Python` `Semantic Web` `NLP` `LLMs`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Knowledge Engineering Associate Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Associate-Manager_R00338406)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Manager`
+
+_Lead the design, development, and implementation of Knowledge Graph solutions and AI/semantic architectures for enterprise clients. Direct ontology design, graph-based ML models, and end-to-end data pipelines while managing technical teams and driving client engagement across large programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Associate-Manager_R00338406)_
+
+`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Ontology Design` `Python` `PyTorch` `NLP`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Knowledge Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Manager_R00338395)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Manager`
+
+_Lead the design and build of Knowledge Graph solutions for enterprise clients, directing AI, semantic, and graph-based ML implementations across data architecture transformations. Manage a team on large programs, setting technical direction for KG/ontology standards and establishing end-to-end data pipelines for LLM and AI applications. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Manager_R00338395)_
+
+`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Python` `PyTorch` `Airflow` `NLP`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [Knowledge Engineering Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Manager_R00338382)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Manager`
+
+_Lead knowledge graph solution architecture and implementation for Accenture's most strategic clients, transforming their data infrastructure with AI and semantic technologies. Build and mentor teams of engineers while establishing best practices for ontology design, KG curation, and graph-based ML across complex, multi-stakeholder programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Manager_R00338382)_
+
+`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Stardog` `Amazon Neptune` `LLMs` `Python`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
+### [AI Infrastructure Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5664680-S2056883-1)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
+
+_Build and maintain ML pipelines, infrastructure, and operational tooling for training, evaluation, and model deployment at scale. Architect custom AI infrastructure solutions optimizing for performance, power consumption, cost, and scalability across the computational stack. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5664680-S2056883-1)_
+
+`Google Cloud` `Machine Learning Operations` `Python` `Kubernetes` `TensorFlow` `MLflow` `CI/CD`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
 
 ### [Oracle PL/SQL Developer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Oracle-PL-SQL-Developer_R1548046)
 <a href="https://iqvia.com"><img src="https://www.google.com/s2/favicons?domain=iqvia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IQVIA** · 2 Locations · `Junior`
@@ -144,23 +265,23 @@ _Lead a marketing technology team building web analytics, pixel tracking, media 
 
 ---
 
-### [Custom Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436681-S1978182-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Mid`
+### [Custom Software Engineering Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5623697-S2029602-1)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
 
-_Build full-stack enterprise applications using Java with Spring Boot on the backend and React/Angular on the frontend, integrating AI-assisted development tools and RAG-based features. Role emphasizes hands-on development with AI copilots to accelerate delivery while maintaining engineering best practices at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436681-S1978182-1)_
+_Lead technical architecture and development of custom software solutions integrating physical security platforms (Genetec Omnicast, Synergis) with enterprise IT infrastructure. Design and deliver cloud-native systems on Azure while managing team delivery across the full development lifecycle; requires hands-on expertise in security systems integration, .NET/Azure, and identity platforms. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5623697-S2029602-1)_
 
-`Java` `Spring Boot` `React` `Angular` `TypeScript` `JavaScript` `SQL` `NoSQL`
+`.NET` `Azure` `REST APIs` `Kendo UI` `GitHub` `SQL` `Microsoft Entra ID` `Genetec Omnicast`
 
 <sub>July 6, 2026 at 05:17 UTC</sub>
 
 ---
 
-### [Custom Software Engineering Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Custom-Software-Engineering-Lead_ATCI-5664403-S2056775-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
+### [Custom Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5635021-S2055968-1)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Mid`
 
-_Lead the technical architecture and development of custom software solutions using Oracle Planning and Budgeting (EPBCS), guiding teams through design and delivery while establishing coding standards and ensuring scalability. Requires minimum 7.5 years of experience with EPBCS and strong expertise in software architecture design for enterprise solutions. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Custom-Software-Engineering-Lead_ATCI-5664403-S2056775-1)_
+_Build and maintain back-end architecture, CMS functionality, integrations, and APIs for global marketing websites using Sanity CMS headless architecture and Next.js. Work across enterprise-scale digital properties requiring structured content, personalization, SEO/AEO/GEO support, and integration with marketing technology platforms. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5635021-S2055968-1)_
 
-`Oracle EPBCS` `Software Architecture` `Software Development Lifecycle` `Code Quality Assurance` `Team Leadership`
+`JavaScript` `TypeScript` `Node.js` `Sanity CMS` `Next.js` `React` `GraphQL` `Git`
 
 <sub>July 6, 2026 at 05:17 UTC</sub>
 
