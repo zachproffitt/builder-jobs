@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2179 open roles** (68 new) &nbsp;·&nbsp; 1734 companies searched
+### **2151 open roles** (66 new) &nbsp;·&nbsp; 1734 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -67,6 +67,39 @@ _Design and build automated test frameworks, API simulators, and UI automation i
 
 ---
 
+### [Senior WMS Developer](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)
+<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$135k-$220k`
+
+_Design, develop, and configure Infios WMS solutions for PSA Vault, managing inventory and fulfillment workflows across millions of high-value collectibles. Requires 4+ years of hands-on WMS implementation experience with complex SQL database work and API integrations. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)_
+
+`Infios WMS` `Körber` `HighJump` `MS SQL Server` `API Designer` `Advantage Architect` `Page Editor`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [QA Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/QA-Engineer_R26-4873-1)
+<a href="https://rockwellautomation.com"><img src="https://www.google.com/s2/favicons?domain=rockwellautomation.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockwell Automation** · 4 Locations · `🟡 Hybrid` `Mid`
+
+_Build comprehensive test automation and manual testing solutions for manufacturing software products using Playwright, Postman, and JMeter. Work across CI/CD pipelines and Agile environments to ensure quality and reliability at scale in industrial automation systems. · [Apply →](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/QA-Engineer_R26-4873-1)_
+
+`Playwright` `C#` `Postman` `REST API` `JMeter` `SQL` `Azure DevOps` `SpecFlow`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Software Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Software-Engineer_JREQ201364)
+<a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters Labs** · `🟡 Hybrid` `Junior`
+
+_Design and deploy software applications integrating APIs, cloud-native architectures, and AI capabilities across full-stack development. Hybrid role (2-3 days/week in office) at Thomson Reuters with focus on modern development practices, CI/CD, and containerization. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Software-Engineer_JREQ201364)_
+
+`APIs` `CI/CD` `Containerization` `Infrastructure as Code` `AI/ML` `Automated Testing` `Cloud-Native Architecture` `Agile`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
 ### [Senior Software Quality Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Software-Quality-Engineer_R169697)
 <a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Francisco, California · `Senior` `$113.4k-$221.75k` `Equity`
 
@@ -84,39 +117,6 @@ _Own end-to-end quality strategy for a new AI-first web application, building te
 _Develop and ship iOS features for Document Cloud mobile applications, a digital document platform serving millions of users globally. Minimum 10 years of software engineering experience required; on-site in San Jose. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer--iOS_R169984)_
 
 `iOS` `Swift` `Objective-C` `C++`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [Senior WMS Developer](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$135k-$220k`
-
-_Design, develop, and configure Infios WMS solutions for PSA Vault, managing inventory and fulfillment workflows across millions of high-value collectibles. Requires 4+ years of hands-on WMS implementation experience with complex SQL database work and API integrations. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)_
-
-`Infios WMS` `Körber` `HighJump` `MS SQL Server` `API Designer` `Advantage Architect` `Page Editor`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [Software Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Software-Engineer_JREQ201364)
-<a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters Labs** · `🟡 Hybrid` `Junior`
-
-_Design and deploy software applications integrating APIs, cloud-native architectures, and AI capabilities across full-stack development. Hybrid role (2-3 days/week in office) at Thomson Reuters with focus on modern development practices, CI/CD, and containerization. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Software-Engineer_JREQ201364)_
-
-`APIs` `CI/CD` `Containerization` `Infrastructure as Code` `AI/ML` `Automated Testing` `Cloud-Native Architecture` `Agile`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [QA Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/QA-Engineer_R26-4873-1)
-<a href="https://rockwellautomation.com"><img src="https://www.google.com/s2/favicons?domain=rockwellautomation.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockwell Automation** · 4 Locations · `🟡 Hybrid` `Mid`
-
-_Build comprehensive test automation and manual testing solutions for manufacturing software products using Playwright, Postman, and JMeter. Work across CI/CD pipelines and Agile environments to ensure quality and reliability at scale in industrial automation systems. · [Apply →](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/QA-Engineer_R26-4873-1)_
-
-`Playwright` `C#` `Postman` `REST API` `JMeter` `SQL` `Azure DevOps` `SpecFlow`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -148,6 +148,17 @@ _Build mission-critical software for autonomous vehicles, unmanned systems, medi
 _Detect, investigate, and remediate security incidents in real-time for enterprise customers across Windows, Mac, and Linux platforms. Requires on-site presence (hybrid schedule) and willingness to work 4x10 schedule including weekend shifts; US citizens and Green Card holders only. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29191)_
 
 `Incident Response` `Malware Analysis` `Forensic Analysis` `Python` `C` `Network Analysis` `Windows` `Linux`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Principal Security Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Security-Architect_JR-018980)
+<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Principal` `$162k-$263k` `Equity`
+
+_Build intelligent, automated remediation engines and in-product agents for cloud security across AWS, Azure, GCP, OCI, and AliCloud, replacing manual detection and response processes at scale. Own all phases of product development from design through implementation, requiring hands-on expertise in cloud-native architecture security and Infrastructure-as-Code tooling. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Security-Architect_JR-018980)_
+
+`Python` `Terraform` `Ansible` `AWS` `Azure` `GCP` `Cloud IAM` `CNAPP Platforms`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -338,28 +349,6 @@ _Lead cloud-native platform delivery and developer experience at scale, building
 
 ---
 
-### [Principal Security Architect](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Security-Architect_JR-018980)
-<a href="https://sinefa.com"><img src="https://www.google.com/s2/favicons?domain=sinefa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sinefa** · `🟢 Remote` `Principal` `$162k-$263k` `Equity`
-
-_Build intelligent, automated remediation engines and in-product agents for cloud security across AWS, Azure, GCP, OCI, and AliCloud, replacing manual detection and response processes at scale. Own all phases of product development from design through implementation, requiring hands-on expertise in cloud-native architecture security and Infrastructure-as-Code tooling. · [Apply →](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principal-Security-Architect_JR-018980)_
-
-`Python` `Terraform` `Ansible` `AWS` `Azure` `GCP` `Cloud IAM` `CNAPP Platforms`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [Manager, Solutions Architecture - Financial Services Capital Markets](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 3 Locations · `Manager` `$224k-$356.5k` `Equity`
-
-_Lead a solutions architecture team driving NVIDIA's full-stack products (GPUs, HPC, AI frameworks) into capital markets use cases including portfolio optimization, trading, and feature generation. Manage technical strategy, architect multi-disciplinary initiatives across clusters, distributed systems, and ML pipelines, and mentor a team of architects while building industry leadership in quantitative finance. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)_
-
-`CUDA` `PyTorch` `Triton` `Kubernetes` `Spark` `C++` `Python` `TensorFlow`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
 ### [Member of Technical Staff - RL Inference](https://job-boards.greenhouse.io/xai/jobs/5180223007)
 <a href="https://x.ai"><img src="https://www.google.com/s2/favicons?domain=x.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**xAI** · Palo Alto, California · `Senior`
 
@@ -382,12 +371,12 @@ _Design and implement SQL data pipelines and R-based statistical analyses for la
 
 ---
 
-### [Senior Data & Integration Engineer (AI Platforms & Salesforce Ecosystem)](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)
-<a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epicor** · 2 Locations · `Senior`
+### [Manager, Solutions Architecture - Financial Services Capital Markets](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 3 Locations · `Manager` `$224k-$356.5k` `Equity`
 
-_Design and build scalable backend services and ETL pipelines integrating Salesforce with enterprise systems (Workday, ServiceNow) to enable AI-native applications and data workflows. Work across distributed systems, vector databases, and modern data stacks with focus on production-grade reliability and observability. · [Apply →](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)_
+_Lead a solutions architecture team driving NVIDIA's full-stack products (GPUs, HPC, AI frameworks) into capital markets use cases including portfolio optimization, trading, and feature generation. Manage technical strategy, architect multi-disciplinary initiatives across clusters, distributed systems, and ML pipelines, and mentor a team of architects while building industry leadership in quantitative finance. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)_
 
-`Python` `SQL` `Salesforce` `Airflow` `Spark` `dbt` `Azure` `RAG`
+`CUDA` `PyTorch` `Triton` `Kubernetes` `Spark` `C++` `Python` `TensorFlow`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -399,6 +388,17 @@ _Design and build scalable backend services and ETL pipelines integrating Salesf
 _Build and operate SailPoint and Okta CIAM identity governance platforms, managing identity lifecycle, provisioning/de-provisioning, and secure customer access while ensuring compliance with SOX, GDPR, and PCI-DSS standards. · [Apply →](https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Identity---Access-Management--IAM--Engineer_10325060)_
 
 `SailPoint` `Okta` `CIAM` `SAML` `OAuth` `OIDC` `ServiceNow` `AWS`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Senior Data & Integration Engineer (AI Platforms & Salesforce Ecosystem)](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)
+<a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epicor** · 2 Locations · `Senior`
+
+_Design and build scalable backend services and ETL pipelines integrating Salesforce with enterprise systems (Workday, ServiceNow) to enable AI-native applications and data workflows. Work across distributed systems, vector databases, and modern data stacks with focus on production-grade reliability and observability. · [Apply →](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)_
+
+`Python` `SQL` `Salesforce` `Airflow` `Spark` `dbt` `Azure` `RAG`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -459,6 +459,17 @@ _Develop custom Salesforce solutions using Apex, Visualforce, and Lightning Comp
 
 ---
 
+### [Full Stack Developer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · San Antonio, Texas · `Mid` `$69.4k-$158k`
+
+_Build full-stack web applications using ASP.NET, Oracle, and modern architectural approaches for Department of Air Force clients. Requires Secret clearance eligibility and experience with identity/authentication protocols (OIDC/SAML). · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)_
+
+`ASP.NET` `Oracle` `SQL` `PL/SQL` `C#` `IIS` `OIDC` `SAML`
+
+<sub>July 6, 2026 at 14:31 UTC</sub>
+
+---
+
 ### [Engineer III, ADME](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5179451007)
 <a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio** · Boston, Massachusetts · `Mid` `$90k-$140k` `Equity`
 
@@ -481,34 +492,12 @@ _Lead the design and delivery of multi-cloud cell placement and orchestration sy
 
 ---
 
-### [Full Stack Developer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · San Antonio, Texas · `Mid` `$69.4k-$158k`
-
-_Build full-stack web applications using ASP.NET, Oracle, and modern architectural approaches for Department of Air Force clients. Requires Secret clearance eligibility and experience with identity/authentication protocols (OIDC/SAML). · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)_
-
-`ASP.NET` `Oracle` `SQL` `PL/SQL` `C#` `IIS` `OIDC` `SAML`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
 ### [Software Developer II (Web), Migrate - ShareGate](https://job-boards.greenhouse.io/workleap/jobs/5136744007)
 <a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · `🟢 Remote` `Mid` `$100k-$130k CAD` `Equity`
 
 _Build a brand-new web application for ShareGate Migrate from scratch, shipping full-stack features with Microsoft 365 integration directly in the browser. Establish technical foundations and testing practices for a greenfield project serving thousands of IT professionals globally. · [Apply →](https://job-boards.greenhouse.io/workleap/jobs/5136744007)_
 
 `TypeScript` `React` `C#` `.NET` `Microsoft Graph` `Azure AD` `MSAL` `AI coding tools`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Knowledge Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Analyst_R00338421)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
-
-_Design and build knowledge graph components for client data architecture transformations, working hands-on across ingestion, ontology modeling, curation, and deployment. Mentor junior engineers while staying current with generative AI, LLMs, and agentic technologies in an enterprise consulting environment. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Analyst_R00338421)_
-
-`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Python` `Semantic Web` `NLP` `LLMs`
 
 <sub>July 6, 2026 at 14:31 UTC</sub>
 
@@ -742,21 +731,6 @@ _Build NVIDIA PhysicsNemo, a physics-AI framework enabling digital twins and ML 
 `Python` `PyTorch` `TensorFlow` `JAX` `CUDA` `Graph Neural Networks` `Diffusion Models` `Reinforcement Learning`
 
 <sub>July 6, 2026 at 00:13 UTC</sub>
-
----
-
-<br>
-
-## July 5, 2026
-
-### [Principal Software Engineer ](https://www.zoominfo.com/careers?gh_jid=8589812002)
-**ZoomInfo** · Toronto, Ontario, Canada · `Principal`
-
-_Own the GitOps deployment API/CLI, self-service deployment capabilities, and shared TypeScript package ecosystem powering ZoomInfo's CI/CD pipelines; architect and build high-leverage, high-risk components in Go and TypeScript/Node while mentoring senior engineers and driving platform evolution across organizational boundaries. Requires hands-on leadership of mission-critical infrastructure systems that many teams depend on, with deep expertise in delivery tooling (ArgoCD, Helm), backend platform engineering, and Agentic AI/durable workflows. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8589812002)_
-
-`Go` `TypeScript` `Node.js` `NestJS` `ArgoCD` `Helm` `Kubernetes` `GCP Cloud Run`
-
-<sub>July 5, 2026 at 20:18 UTC</sub>
 
 ---
 

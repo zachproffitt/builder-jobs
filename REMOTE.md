@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **254 open roles** (7 new)
+### **253 open roles** (7 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -539,12 +539,12 @@ _Build customer-facing product experiences end-to-end across frontend, backend, 
 
 ---
 
-### [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8041918)
+### [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8041910)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$140k-$150k` `Equity`
 
-_Build the research-to-production pipeline for threat intelligence at scale, turning security research findings into shipped detection rules, YARA/Sigma signatures, and STIX-formatted feeds. Own production systems spanning malware analysis automation, sandbox orchestration, OSINT ingestion, and correlation pipelines that link scan data with adversary tracking—with responsibility for safe model deployment in detection content generation. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8041918)_
+_Build the research-to-production pipeline for threat intelligence at SecurityScorecard, turning malware findings and infrastructure clusters into shipped detection rules, distributed feeds, and platform APIs. Own STIX 2.1 adoption as unified output schema, threat intel platform components across multiple services, and automation that moves the team from analyst-driven toward model-driven workflows with analyst review; requires 5–8 years hands-on engineering in threat intelligence or detection systems and proficiency in production language models, detection tooling (YARA, Sigma), and threat intelligence standards. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8041910)_
 
-`Python` `TypeScript` `AWS` `STIX 2.1` `TAXII 2.1` `YARA` `Sigma` `PostgreSQL`
+`Python` `TypeScript` `YARA` `Sigma` `STIX 2.1` `TAXII 2.1` `AWS` `Kubernetes`
 
 <sub>July 1, 2026 at 17:43 UTC</sub>
 
@@ -1314,7 +1314,7 @@ _Design, build, test, and maintain production LLM-based agents that automate Cus
 
 ---
 
-### [Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality](https://job-boards.greenhouse.io/reddit/jobs/8029120)
+### [Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$185k–$303k` `Equity`
 
 _Build and deploy optimization algorithms for Reddit's auction, bidding, and pacing systems that power the ads marketplace at internet scale. Requires strong quantitative skills (math, optimization, or operations research background) and experience with production ML systems; handle both algorithmic design and end-to-end system ownership from experimentation to deployment. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8029120)_
@@ -1452,17 +1452,6 @@ _Design and develop backend services for residential battery integration with in
 _Design and ship new capabilities for Command, Mercury's LLM-powered financial assistant, owning the product end-to-end from system prompts and agentic workflows to frontend components. Scale LLM reliability and performance in production fintech, building eval infrastructure and multi-step agent interactions that are safe and trustworthy for real financial operations. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/5803347004)_
 
 `TypeScript` `Haskell` `LLM Architecture` `Prompt Engineering` `Agentic Systems` `Eval Infrastructure` `Production AI Systems` `API Design`
-
-<sub>June 26, 2026 at 16:49 UTC</sub>
-
----
-
-### [Backend Engineer, Financial Connections](https://stripe.com/jobs/search?gh_jid=8030859)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · Remote, Canada · `🟢 Remote` `Senior`
-
-_Design and build scalable backend infrastructure for bank integrations and financial data connectivity across the Stripe platform. Lead large technical projects balancing emerging fintech opportunities (stablecoins, AI wallets) with reliable access to legacy banking networks. · [Apply →](https://stripe.com/jobs/search?gh_jid=8030859)_
-
-`Distributed Systems` `API Design` `Financial Systems` `Large-scale Infrastructure` `Cross-team Project Leadership`
 
 <sub>June 26, 2026 at 16:49 UTC</sub>
 
@@ -2800,12 +2789,12 @@ _Design and deliver enterprise capabilities within Devoted's proprietary Orinoco
 
 ---
 
-### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Junior` `$144k–$192k` `Equity`
+### [Machine Learning Engineer, Data Mining](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Pittsburgh, Pennsylvania / Remote · `🟢 Remote` `Junior` `$144k-$192k` `Equity`
 
-_Build ML pipelines and embedding-based search tools to discover edge cases and long-tail scenarios in petabytes of autonomous driving sensor data. Work with foundation models, representation learning, and active learning workflows to accelerate model improvement and dataset curation. · [Apply →](https://motional.com/open-positions/?gh_jid=7779985003#/7779985003)_
+_Build ML pipelines and embedding-based search tools to mine critical edge cases and long-tail scenarios from petabytes of multimodal autonomous vehicle sensor data. Work with foundation models, representation learning, and active learning to accelerate model improvement across post-training analysis and dataset curation for self-driving vehicles. · [Apply →](https://motional.com/open-positions/?gh_jid=7780008003#/7780008003)_
 
-`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Multimodal Learning` `Active Learning`
+`PyTorch` `TensorFlow` `Python` `SQL` `Pandas` `NumPy` `Active Learning` `Multimodal Learning`
 
 <sub>June 22, 2026 at 16:41 UTC</sub>
 
