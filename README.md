@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **2133 open roles** (15 new) &nbsp;·&nbsp; 1734 companies searched
+### **2137 open roles** (19 new) &nbsp;·&nbsp; 1734 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 6, 2026
+
+### [Oracle PL/SQL Developer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Oracle-PL-SQL-Developer_R1548046)
+<a href="https://iqvia.com"><img src="https://www.google.com/s2/favicons?domain=iqvia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IQVIA** · 2 Locations · `Junior`
+
+_Develop and maintain data extraction and transformation solutions in the Canada Custom Data Extracts platform using Oracle PL/SQL, supporting clinical research and healthcare intelligence workflows. · [Apply →](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Oracle-PL-SQL-Developer_R1548046)_
+
+`Oracle PL/SQL` `Python` `Power BI`
+
+<sub>July 6, 2026 at 10:52 UTC</sub>
+
+---
+
+### [DevOps Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Ukraine-Remote/DevOps-Engineer_JR2020684)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 2 Locations · `Mid`
+
+_Build and maintain CI/CD pipelines and automation infrastructure across bare-metal, virtualized, and containerized environments for high-performance computing hardware. Support development and testing workflows for distributed engineering teams working on next-generation infrastructure and software platforms. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Ukraine-Remote/DevOps-Engineer_JR2020684)_
+
+`Jenkins` `GitLab CI` `Kubernetes` `Bash` `Python` `Groovy` `QEMU/KVM` `GitHub`
+
+<sub>July 6, 2026 at 10:52 UTC</sub>
+
+---
+
+### [Senior Software Test Developer – DriveOS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Test-Developer---DriveOS_JR2020834)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$140k-$270.25k` `Equity`
+
+_Develop test automation and verification systems for NVIDIA's DriveOS automotive operating system, ensuring functional and performance quality across embedded automotive platforms. Design and implement automation pipelines that validate hardware-software integration for safety-critical automotive systems. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Test-Developer---DriveOS_JR2020834)_
+
+`Python` `C++` `Git` `Perforce` `Linux` `Embedded Systems` `ISO 26262` `LLM`
+
+<sub>July 6, 2026 at 10:52 UTC</sub>
+
+---
+
+### [Senior Automation Test Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Senior-Automation-Test-Engineer_R00333112)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
+
+_Build and maintain automated testing frameworks and scripts across multiple testing types (functional, integration, API, regression) for enterprise software applications at scale. Requires 3+ years of QA/automation testing experience and expertise with Selenium, Katalon Studio, Postman, and SoapUI. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Senior-Automation-Test-Engineer_R00333112)_
+
+`Selenium` `Katalon Studio` `Postman` `SoapUI` `SQL` `Git` `Azure DevOps` `BrowserStack`
+
+<sub>July 6, 2026 at 10:52 UTC</sub>
+
+---
 
 ### [Senior Engineer I, Automation](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Marlborough-Massachusetts/Senior-Engineer-I--Automation_R19375)
 <a href="https://modernatx.com"><img src="https://www.google.com/s2/favicons?domain=modernatx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Moderna** · Marlborough, Massachusetts · `🟡 Hybrid` `Senior` `$121k-$194k` `Equity`
@@ -100,12 +144,12 @@ _Lead a marketing technology team building web analytics, pixel tracking, media 
 
 ---
 
-### [Custom Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5664441-S2056781-1)
+### [Custom Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436681-S1978182-1)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Mid`
 
-_Build custom software solutions using Oracle Planning and Budgeting (EPBCS), designing and coding components to meet enterprise planning and budgeting requirements. Requires minimum 3 years of hands-on experience with EPBCS development and integration. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5664441-S2056781-1)_
+_Build full-stack enterprise applications using Java with Spring Boot on the backend and React/Angular on the frontend, integrating AI-assisted development tools and RAG-based features. Role emphasizes hands-on development with AI copilots to accelerate delivery while maintaining engineering best practices at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436681-S1978182-1)_
 
-`Oracle EPBCS` `Oracle Planning and Budgeting` `Java` `Python` `SQL` `Agile`
+`Java` `Spring Boot` `React` `Angular` `TypeScript` `JavaScript` `SQL` `NoSQL`
 
 <sub>July 6, 2026 at 05:17 UTC</sub>
 
@@ -128,6 +172,17 @@ _Lead the technical architecture and development of custom software solutions us
 _Lead the design and development of Power BI reports, dashboards, and semantic data models using DAX and Power Query; mentor junior BI developers and enforce coding standards. Progressively expand into PowerApps and Power Automate for broader Power Platform adoption. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/BI-Engineer_ATCP-1419575-S423245)_
 
 `Power BI` `DAX` `Power Query` `SQL` `Power Automate` `PowerApps` `Azure` `Dataverse`
+
+<sub>July 6, 2026 at 05:17 UTC</sub>
+
+---
+
+### [AI LLM Technology Architecture](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quebec---Montreal/AI-LLM-Technology-Architecture_R00337757)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$108k-$220k CAD`
+
+_Design and deliver end-to-end enterprise AI platform architectures spanning agentic systems, generative AI, and classical ML — architecting multi-agent orchestration, RAG pipelines, model inference, security frameworks, and observability systems. Lead technical authority across client engagements with deep ownership in domains like AI security, agent design, or data engineering; independently prototype foundational components and produce architecture artifacts (ADRs, diagrams, specifications) guiding cross-functional delivery teams. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Quebec---Montreal/AI-LLM-Technology-Architecture_R00337757)_
+
+`Python` `LLMs` `Generative AI` `Agentic Systems` `RAG` `Machine Learning Architecture` `Cloud Platforms` `Vector Databases`
 
 <sub>July 6, 2026 at 05:17 UTC</sub>
 
@@ -167,17 +222,6 @@ _Design and execute comprehensive test plans for Dynamics 365 Customer Engagemen
 `Dynamics 365` `Selenium` `EasyRepro` `Azure DevOps` `SQL` `Power Apps` `Power Automate` `Agile`
 
 <sub>July 5, 2026 at 18:10 UTC</sub>
-
----
-
-### [Senior GPU Architect, Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-GPU-Architect--Deep-Learning_JR2019902)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 3 Locations · `Senior`
-
-_Define and architect new GPU hardware features for deep learning workloads, translating AI workload bottlenecks into differentiated architectural innovations. Drive microarchitectural exploration across compute pipelines, memory hierarchy, and data movement while partnering with RTL, design, and software teams through modeling and silicon readiness. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-GPU-Architect--Deep-Learning_JR2019902)_
-
-`GPU Architecture` `C++` `Python` `Performance Modeling` `Memory Systems` `High Performance Computing` `ASIC Design` `Deep Learning Workloads`
-
-<sub>July 5, 2026 at 08:06 UTC</sub>
 
 ---
 
