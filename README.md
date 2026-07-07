@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1922 open roles** (49 new) &nbsp;·&nbsp; 1734 companies searched
+### **1910 open roles** (35 new) &nbsp;·&nbsp; 1734 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -67,17 +67,6 @@ _Design and build automated test frameworks, API simulators, and UI automation i
 
 ---
 
-### [Senior WMS Developer](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$135k-$220k`
-
-_Design, develop, and configure Infios WMS solutions for PSA Vault, managing inventory and fulfillment workflows across millions of high-value collectibles. Requires 4+ years of hands-on WMS implementation experience with complex SQL database work and API integrations. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)_
-
-`Infios WMS` `Körber` `HighJump` `MS SQL Server` `API Designer` `Advantage Architect` `Page Editor`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
 ### [Senior Software Quality Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Software-Quality-Engineer_R169697)
 <a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · San Francisco, California · `Senior` `$113.4k-$221.75k` `Equity`
 
@@ -106,6 +95,17 @@ _Develop and ship iOS features for Document Cloud mobile applications, a digital
 _Build comprehensive test automation and manual testing solutions for manufacturing software products using Playwright, Postman, and JMeter. Work across CI/CD pipelines and Agile environments to ensure quality and reliability at scale in industrial automation systems. · [Apply →](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/QA-Engineer_R26-4873-1)_
 
 `Playwright` `C#` `Postman` `REST API` `JMeter` `SQL` `Azure DevOps` `SpecFlow`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Senior WMS Developer](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)
+<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$135k-$220k`
+
+_Design, develop, and configure Infios WMS solutions for PSA Vault, managing inventory and fulfillment workflows across millions of high-value collectibles. Requires 4+ years of hands-on WMS implementation experience with complex SQL database work and API integrations. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)_
+
+`Infios WMS` `Körber` `HighJump` `MS SQL Server` `API Designer` `Advantage Architect` `Page Editor`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -210,28 +210,6 @@ _Develop and maintain quality engineering methodologies and process control syst
 
 ---
 
-### [Machine Learning Engineer](https://app.careerpuck.com/job-board/lyft/job/8620859002?gh_jid=8620859002)
-<a href="https://lyft.com"><img src="https://www.google.com/s2/favicons?domain=lyft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lyft** · Toronto, Canada · `🟡 Hybrid` `Mid` `CAD $118k - CAD $148k` `Equity`
-
-_Design, build, and deploy ML systems across Lyft Business covering pricing algorithms, fraud detection, behavior detection, and agentic AI platforms. Work at scale serving millions of rides with direct business impact across healthcare, corporate travel, and marketplace optimization. · [Apply →](https://app.careerpuck.com/job-board/lyft/job/8620859002?gh_jid=8620859002)_
-
-`Python` `PyTorch` `TensorFlow` `LangChain` `LangGraph` `AWS SageMaker` `RAG` `Graph Neural Networks`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [Senior Anaplan Solution Architect](https://app.careerpuck.com/job-board/lyft/job/8617884002?gh_jid=8617884002)
-<a href="https://lyft.com"><img src="https://www.google.com/s2/favicons?domain=lyft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lyft** · San Francisco, California · `🟡 Hybrid` `Staff` `$165k-$206.25k` `Equity`
-
-_Design and architect complex financial planning models on the Anaplan platform, driving large-scale rebuilds of FP&A systems including budget, forecast, and consolidation applications. Set technical standards for model performance, scalability, and governance across the Anaplan Center of Excellence; requires Anaplan Solution Architect certification and 8+ years in financial systems. · [Apply →](https://app.careerpuck.com/job-board/lyft/job/8617884002?gh_jid=8617884002)_
-
-`Anaplan` `Anaplan Polaris` `Financial Planning & Analysis` `Oracle ERP` `Workday` `Redshift`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
 ### [Sr. Principal Engineer, Photonics Solutions](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Sr-Principal-Engineer--Photonics-Solutions_JR0285389)
 <a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Santa Clara, California · `Principal` `$256k-$361k` `Equity`
 
@@ -249,6 +227,28 @@ _Lead the product architecture for silicon photonics AI connectivity solutions, 
 _Design electro-optical architectures and simulation methodologies for next-generation silicon photonics optical interconnects in data center and AI systems. Requires PhD in Electrical Engineering or Optics with 3+ years of digital/mixed-signal design and tapeout experience; on-site in Santa Clara, CA. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Research-Engineer-Scientist_JR0285402)_
 
 `Verilog` `Verilog-A` `C++` `Python` `Electronic-Photonic IC Design` `Mixed-Signal Design` `Photonic IC Design` `PhD Required`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Machine Learning Engineer](https://app.careerpuck.com/job-board/lyft/job/8620859002?gh_jid=8620859002)
+<a href="https://lyft.com"><img src="https://www.google.com/s2/favicons?domain=lyft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lyft** · Toronto, Canada · `🟡 Hybrid` `Mid` `CAD $118k - CAD $148k` `Equity`
+
+_Design, build, and deploy ML systems across Lyft Business covering pricing algorithms, fraud detection, behavior detection, and agentic AI platforms. Work at scale serving millions of rides with direct business impact across healthcare, corporate travel, and marketplace optimization. · [Apply →](https://app.careerpuck.com/job-board/lyft/job/8620859002?gh_jid=8620859002)_
+
+`Python` `PyTorch` `TensorFlow` `LangChain` `LangGraph` `AWS SageMaker` `RAG` `Graph Neural Networks`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Senior Anaplan Solution Architect](https://app.careerpuck.com/job-board/lyft/job/8617884002?gh_jid=8617884002)
+<a href="https://lyft.com"><img src="https://www.google.com/s2/favicons?domain=lyft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lyft** · San Francisco, California · `🟡 Hybrid` `Staff` `$165k-$206.25k` `Equity`
+
+_Design and architect complex financial planning models on the Anaplan platform, driving large-scale rebuilds of FP&A systems including budget, forecast, and consolidation applications. Set technical standards for model performance, scalability, and governance across the Anaplan Center of Excellence; requires Anaplan Solution Architect certification and 8+ years in financial systems. · [Apply →](https://app.careerpuck.com/job-board/lyft/job/8617884002?gh_jid=8617884002)_
+
+`Anaplan` `Anaplan Polaris` `Financial Planning & Analysis` `Oracle ERP` `Workday` `Redshift`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -318,23 +318,23 @@ _Build data science infrastructure and ML models to detect security threats, qua
 
 ---
 
-### [Principal Platform Engineer, DevOps/Developer Experience](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Principal-Platform-Engineer--DevOps-Developer-Experience_JR20516)
-<a href="https://teladoc.com"><img src="https://www.google.com/s2/favicons?domain=teladoc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teladoc Health** · `🟢 Remote` `Principal` `$180k-$210k`
-
-_Lead cloud-native platform delivery and developer experience at scale, building reusable infrastructure patterns, observability standards, and CI/CD automation across a healthcare platform supporting millions of patients. Requires 12+ years operating production systems in regulated healthcare environments with hands-on Kubernetes, AWS/Azure, and Infrastructure-as-Code expertise. · [Apply →](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Principal-Platform-Engineer--DevOps-Developer-Experience_JR20516)_
-
-`Kubernetes` `Terraform` `AWS` `Azure` `CI/CD` `Infrastructure-as-Code` `Microservices Architecture` `Observability`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
 ### [Failure Analysis Engineer](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Engineer_R117351)
 <a href="https://samsung.com"><img src="https://www.google.com/s2/favicons?domain=samsung.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsung R&D** · Taylor, Texas · `Junior` `$76k-$145k`
 
 _Conduct physical failure analysis on semiconductor wafers and dies to identify root causes of manufacturing defects, using SEM, FIB, and electrical characterization techniques. Work with process engineers and foundry customers to drive corrective actions on FinFET and advanced process nodes. · [Apply →](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Failure-Analysis-Engineer_R117351)_
 
 `FinFET` `SEM` `FIB` `OBIRCH` `PEM` `Semiconductor Process Technology` `Electrical Characterization` `Failure Analysis Methodology`
+
+<sub>July 6, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Principal Platform Engineer, DevOps/Developer Experience](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Principal-Platform-Engineer--DevOps-Developer-Experience_JR20516)
+<a href="https://teladoc.com"><img src="https://www.google.com/s2/favicons?domain=teladoc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teladoc Health** · `🟢 Remote` `Principal` `$180k-$210k`
+
+_Lead cloud-native platform delivery and developer experience at scale, building reusable infrastructure patterns, observability standards, and CI/CD automation across a healthcare platform supporting millions of patients. Requires 12+ years operating production systems in regulated healthcare environments with hands-on Kubernetes, AWS/Azure, and Infrastructure-as-Code expertise. · [Apply →](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Principal-Platform-Engineer--DevOps-Developer-Experience_JR20516)_
+
+`Kubernetes` `Terraform` `AWS` `Azure` `CI/CD` `Infrastructure-as-Code` `Microservices Architecture` `Observability`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -351,17 +351,6 @@ _Design and optimize the inference stack for reinforcement learning workloads at
 
 ---
 
-### [Manager, Solutions Architecture - Financial Services Capital Markets](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 3 Locations · `Manager` `$224k-$356.5k` `Equity`
-
-_Lead a solutions architecture team driving NVIDIA's full-stack products (GPUs, HPC, AI frameworks) into capital markets use cases including portfolio optimization, trading, and feature generation. Manage technical strategy, architect multi-disciplinary initiatives across clusters, distributed systems, and ML pipelines, and mentor a team of architects while building industry leadership in quantitative finance. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)_
-
-`CUDA` `PyTorch` `Triton` `Kubernetes` `Spark` `C++` `Python` `TensorFlow`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
 ### [Senior Research Data Analyst ](https://job-boards.greenhouse.io/komodohealth/jobs/8615632002)
 <a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Senior` `$128k-$170k` `Equity`
 
@@ -373,12 +362,12 @@ _Design and implement SQL data pipelines and R-based statistical analyses for la
 
 ---
 
-### [Senior Data & Integration Engineer (AI Platforms & Salesforce Ecosystem)](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)
-<a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epicor** · 2 Locations · `Senior`
+### [Manager, Solutions Architecture - Financial Services Capital Markets](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 3 Locations · `Manager` `$224k-$356.5k` `Equity`
 
-_Design and build scalable backend services and ETL pipelines integrating Salesforce with enterprise systems (Workday, ServiceNow) to enable AI-native applications and data workflows. Work across distributed systems, vector databases, and modern data stacks with focus on production-grade reliability and observability. · [Apply →](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)_
+_Lead a solutions architecture team driving NVIDIA's full-stack products (GPUs, HPC, AI frameworks) into capital markets use cases including portfolio optimization, trading, and feature generation. Manage technical strategy, architect multi-disciplinary initiatives across clusters, distributed systems, and ML pipelines, and mentor a team of architects while building industry leadership in quantitative finance. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1)_
 
-`Python` `SQL` `Salesforce` `Airflow` `Spark` `dbt` `Azure` `RAG`
+`CUDA` `PyTorch` `Triton` `Kubernetes` `Spark` `C++` `Python` `TensorFlow`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
 
@@ -395,157 +384,14 @@ _Build and operate SailPoint and Okta CIAM identity governance platforms, managi
 
 ---
 
-### [Data Science Research Manager - Accenture Research](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Data-Science-Research-Manager---Accenture-Research_R00329773-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations · `🟡 Hybrid` `Manager` `$80k-$266k`
+### [Senior Data & Integration Engineer (AI Platforms & Salesforce Ecosystem)](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)
+<a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epicor** · 2 Locations · `Senior`
 
-_Build ML and generative AI pipelines, agentic systems, and synthetic persona frameworks for client research engagements across industries on GCP. Lead a team of data scientists and mentor junior talent while collaborating with academic institutions like MIT Sloan and Wharton on long-horizon research. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Data-Science-Research-Manager---Accenture-Research_R00329773-1)_
+_Design and build scalable backend services and ETL pipelines integrating Salesforce with enterprise systems (Workday, ServiceNow) to enable AI-native applications and data workflows. Work across distributed systems, vector databases, and modern data stacks with focus on production-grade reliability and observability. · [Apply →](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306)_
 
-`Python` `Machine Learning` `Generative AI` `Agentic AI` `Synthetic Data Generation` `Google Cloud Platform` `NLP` `RAG`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [Java SpringBoot Developer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Java-SpringBoot-Developer_R00330901)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · British Columbia / Ontario, Canada · `🟡 Hybrid` `Senior` `$69k-$119k`
-
-_Own the technical architecture and development standards for full-stack Java/Spring Boot solutions serving enterprise clients across cloud platforms. Lead microservices design, API development, and distributed systems implementation while driving adoption of modern development practices across teams. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Java-SpringBoot-Developer_R00330901)_
-
-`Java` `Spring Boot` `Kafka` `Microservices Architecture` `Azure` `Web API Design` `Distributed Systems` `GitHub Copilot`
+`Python` `SQL` `Salesforce` `Airflow` `Spark` `dbt` `Azure` `RAG`
 
 <sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [Bilingual SAP SuccessFactors Senior Analyst (French/ English)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Bilingual-SAP-SuccessFactors-Specialist--French--English-_R00335844)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Montreal, Canada · `🟡 Hybrid` `Senior` `$56k-$106k`
-
-_Lead L2/L3 support and enhancements for SAP SuccessFactors Employee Central, including configuration, integrations, and incident resolution across global client deployments. Requires SAP SuccessFactors EC certification and bilingual English/French fluency; 3 days/week on-site in Montreal. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/Bilingual-SAP-SuccessFactors-Specialist--French--English-_R00335844)_
-
-`SAP SuccessFactors` `Employee Central` `SAP Integration Suite` `ITIL` `Role-Based Permissions` `MDF Objects` `APIs`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
-### [Software Engineer, Research Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5283063008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$405k-$625k` `Equity`
-
-_Design and scale distributed infrastructure systems that accelerate research workflows across Anthropic, handling rapidly evolving requirements and multi-month projects from ambiguous problem spaces to production. Direct partnership with research teams to anticipate needs; requires experience navigating reliability and scaling challenges as systems grow underneath active workloads. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5283063008)_
-
-`Distributed Systems` `Cloud Infrastructure` `IaC` `Python` `Go` `Kubernetes` `PostgreSQL` `Machine Learning workflows`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Salesforce CPQ Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Salesforce-CPQ-Engineer_R26-4606)
-<a href="https://rockwellautomation.com"><img src="https://www.google.com/s2/favicons?domain=rockwellautomation.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rockwell Automation** · 7 Locations · `🟡 Hybrid` `Mid`
-
-_Develop custom Salesforce solutions using Apex, Visualforce, and Lightning Components, with a focus on CPQ implementations and integrations with enterprise systems via APIs and MuleSoft. Hybrid role with 3 days/week in-office requirement at Rockwell Automation facilities. · [Apply →](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Salesforce-CPQ-Engineer_R26-4606)_
-
-`Salesforce` `Apex` `Visualforce` `Lightning Components` `JavaScript` `MuleSoft` `Salesforce CPQ` `GitHub`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Engineer III, ADME](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5179451007)
-<a href="https://joyn.bio"><img src="https://www.google.com/s2/favicons?domain=joyn.bio&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Joyn Bio** · Boston, Massachusetts · `Mid` `$90k-$140k` `Equity`
-
-_Build and optimize high-throughput in vitro ADME assays and analytical workflows for drug discovery, translating manual methods into automation-enabled operations. Requires hands-on LC-MS/MS and metabolomics expertise with on-site presence in Boston, MA. · [Apply →](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5179451007)_
-
-`LC-MS/MS` `Python` `R` `Metabolomics` `LIMS` `High-Throughput Mass Spectrometry` `PhD Preferred`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Engineering Manager, Cell Infrastructure](https://job-boards.greenhouse.io/gitlab/jobs/8615946002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `Equity`
-
-_Lead the design and delivery of multi-cloud cell placement and orchestration systems for GitLab's horizontally-scalable infrastructure, building and growing an engineering team responsible for provisioning, routing, and operating cells across cloud providers. This is a 0-to-1 infrastructure leadership role requiring hands-on experience with distributed systems, cell-based architecture, and operational reliability at scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8615946002)_
-
-`Distributed Systems` `Cell-Based Architecture` `Multi-Cloud Infrastructure` `Kubernetes` `Site Reliability Engineering` `Incident Management` `FinOps`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Full Stack Developer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · San Antonio, Texas · `Mid` `$69.4k-$158k`
-
-_Build full-stack web applications using ASP.NET, Oracle, and modern architectural approaches for Department of Air Force clients. Requires Secret clearance eligibility and experience with identity/authentication protocols (OIDC/SAML). · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Full-Stack-Developer_R0243706)_
-
-`ASP.NET` `Oracle` `SQL` `PL/SQL` `C#` `IIS` `OIDC` `SAML`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Software Developer II (Web), Migrate - ShareGate](https://job-boards.greenhouse.io/workleap/jobs/5136744007)
-<a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · `🟢 Remote` `Mid` `$100k-$130k CAD` `Equity`
-
-_Build a brand-new web application for ShareGate Migrate from scratch, shipping full-stack features with Microsoft 365 integration directly in the browser. Establish technical foundations and testing practices for a greenfield project serving thousands of IT professionals globally. · [Apply →](https://job-boards.greenhouse.io/workleap/jobs/5136744007)_
-
-`TypeScript` `React` `C#` `.NET` `Microsoft Graph` `Azure AD` `MSAL` `AI coding tools`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Knowledge Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Analyst_R00338421)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
-
-_Design and build knowledge graph components for client data architecture transformations, working hands-on across ingestion, ontology modeling, curation, and deployment. Mentor junior engineers while staying current with generative AI, LLMs, and agentic technologies in an enterprise consulting environment. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Analyst_R00338421)_
-
-`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Python` `Semantic Web` `NLP` `LLMs`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Knowledge Engineering Associate Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Associate-Manager_R00338406)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Manager`
-
-_Lead the design, development, and implementation of Knowledge Graph solutions and AI/semantic architectures for enterprise clients. Direct ontology design, graph-based ML models, and end-to-end data pipelines while managing technical teams and driving client engagement across large programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Associate-Manager_R00338406)_
-
-`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Ontology Design` `Python` `PyTorch` `NLP`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Knowledge Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Manager_R00338395)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Manager`
-
-_Lead the design and build of Knowledge Graph solutions for enterprise clients, directing AI, semantic, and graph-based ML implementations across data architecture transformations. Manage a team on large programs, setting technical direction for KG/ontology standards and establishing end-to-end data pipelines for LLM and AI applications. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Manager_R00338395)_
-
-`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Python` `PyTorch` `Airflow` `NLP`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [Knowledge Engineering Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Manager_R00338382)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Manager`
-
-_Lead knowledge graph solution architecture and implementation for Accenture's most strategic clients, transforming their data infrastructure with AI and semantic technologies. Build and mentor teams of engineers while establishing best practices for ontology design, KG curation, and graph-based ML across complex, multi-stakeholder programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Knowledge-Engineering-Senior-Manager_R00338382)_
-
-`Knowledge Graphs` `RDF` `SPARQL` `Neo4j` `Stardog` `Amazon Neptune` `LLMs` `Python`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
-
----
-
-### [AI Infrastructure Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5664680-S2056883-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `Senior`
-
-_Build and maintain ML pipelines, infrastructure, and operational tooling for training, evaluation, and model deployment at scale. Architect custom AI infrastructure solutions optimizing for performance, power consumption, cost, and scalability across the computational stack. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5664680-S2056883-1)_
-
-`Google Cloud` `Machine Learning Operations` `Python` `Kubernetes` `TensorFlow` `MLflow` `CI/CD`
-
-<sub>July 6, 2026 at 14:31 UTC</sub>
 
 ---
 
