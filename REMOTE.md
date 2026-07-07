@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **230 open roles** (7 new)
+### **226 open roles** (6 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -928,17 +928,6 @@ _Build complex features and subsystems for voter/donor management platforms serv
 
 ---
 
-### [Principal Security Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Security-Engineer_R0054574-1)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Principal` `$138k-$200k`
-
-_Lead enterprise cybersecurity incident response and detection operations for a financial services company. Design and implement security automation frameworks using Python, PowerShell, and AWS Lambda; integrate AI/ML models into SIEM and EDR systems to enhance threat detection and response at scale. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Security-Engineer_R0054574-1)_
-
-`Python` `PowerShell` `AWS Lambda` `SIEM` `EDR` `MITRE ATT&CK` `Terraform` `AWS`
-
-<sub>June 30, 2026 at 16:52 UTC</sub>
-
----
-
 ### [Staff Cloud Networking Engineer](https://jobs.ashbyhq.com/scribe/d449a0a3-8850-4e2b-8dda-9ce374c7fc04)
 <a href="https://scribe.com"><img src="https://www.google.com/s2/favicons?domain=scribe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribe** · `🟢 Remote` `Staff`
 
@@ -1008,28 +997,6 @@ _Build and maintain Reddit's distributed caching and storage infrastructure serv
 <br>
 
 ## June 29, 2026
-
-### [Software Engineer, Cloud Networking](https://careers.airbnb.com/positions/8037090?gh_jid=8037090)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$157k-$185k` `Equity`
-
-_Build and operate cloud-native networking infrastructure (load balancers, service mesh, VPC, cross-region gateways) that connects all Airbnb users and services globally. Work with open source communities (Kubernetes, Istio, Envoy) to design multi-region network architecture on AWS, GCP, and Azure at scale. · [Apply →](https://careers.airbnb.com/positions/8037090?gh_jid=8037090)_
-
-`Istio` `Envoy` `Kubernetes` `AWS` `GCP` `Azure` `Go` `Distributed Systems`
-
-<sub>June 29, 2026 at 23:31 UTC</sub>
-
----
-
-### [Principal, Fraud Intelligence](https://job-boards.greenhouse.io/gofundme/jobs/8024144)
-<a href="https://gofundme.com"><img src="https://www.google.com/s2/favicons?domain=gofundme.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoFundMe** · `🟢 Remote` `Principal` `$144k-$216k` `Equity`
-
-_Design and operate scalable fraud detection systems across GoFundMe's global platform, integrating third-party vendors, ML/AI detection, rules engines, and operational workflows to proactively prevent payment fraud, account takeover, and marketplace abuse. Requires deep expertise across fraud vendors and the ability to translate fraud trends into system-level solutions while partnering across Product, Engineering, Data, and Operations. · [Apply →](https://job-boards.greenhouse.io/gofundme/jobs/8024144)_
-
-`SQL` `Python` `fraud detection systems` `machine learning` `third-party fraud vendor integration` `rules engines` `data pipelines` `dashboarding`
-
-<sub>June 29, 2026 at 23:31 UTC</sub>
-
----
 
 ### [Senior Software Engineer, Test (Org Modeling)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer_JR114182)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Senior` `$152k-$245k` `Equity`
@@ -1147,17 +1114,6 @@ _Lead the safety strategy and development lifecycle for autonomous vehicles, def
 _Develop and configure ServiceNow solutions including workflows, automations, and integrations that power Pax8's cloud marketplace platform. Work with enterprise IT service management systems at a fast-growing SaaS company with opportunities to experiment with AI-driven automation and cloud technologies. · [Apply →](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/Remote---US/ServiceNow-Developer-I_R-101994)_
 
 `ServiceNow` `JavaScript` `REST APIs` `JSON` `ITSM` `Workflows & Automations`
-
-<sub>June 29, 2026 at 18:52 UTC</sub>
-
----
-
-### [Sr. Engineer, Governance, Risk & Compliance (TPRM)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)
-<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
-
-_Build and maintain governance, risk, and compliance infrastructure across security tools (SIEM, DLP, IAM, PAM) and GRC platforms; integrate solutions with enterprise systems to support compliance frameworks like SOC 2, HITRUST, HIPAA, and PCI. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)_
-
-`SIEM` `DLP` `IAM` `PAM` `NIST CSF` `SOC 2` `HITRUST` `AWS`
 
 <sub>June 29, 2026 at 18:52 UTC</sub>
 
