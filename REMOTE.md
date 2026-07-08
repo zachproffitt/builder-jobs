@@ -2,13 +2,57 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **196 open roles** (4 new)
+### **201 open roles** (8 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 8, 2026
+
+### [Frontend Engineer ](https://jobs.ashbyhq.com/havocai/1a3e63db-bacf-41fc-b18f-c94abcad278b)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Mid` `Equity`
+
+_Develop performant React-based web applications with map-based and real-time data visualization interfaces for military autonomous systems operating in contested environments. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/1a3e63db-bacf-41fc-b18f-c94abcad278b)_
+
+`React` `TypeScript` `JavaScript` `GraphQL` `Mapbox` `WebGL` `Jest` `Security Clearance`
+
+<sub>July 8, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Senior Frontend Engineer](https://jobs.ashbyhq.com/havocai/5cdfc31d-3ef2-464f-a587-7d9a2dec8a5b)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Senior` `Equity`
+
+_Build scalable, high-performance React-based user interfaces for real-time operational dashboards and map-based visualization systems powering autonomous military and commercial systems. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/5cdfc31d-3ef2-464f-a587-7d9a2dec8a5b)_
+
+`React` `TypeScript` `JavaScript` `GraphQL` `Mapbox` `WebGL` `Jest` `Security Clearance`
+
+<sub>July 8, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Staff Cloud Platform Engineer](https://jobs.ashbyhq.com/havocai/d972b069-33ea-41e9-8de6-b9b864f41a87)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Staff` `Equity`
+
+_Design and operate secure, scalable AWS cloud infrastructure and Kubernetes platforms powering autonomous systems for mission-critical defense and commercial applications. Requires U.S. citizenship and ability to obtain government security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/d972b069-33ea-41e9-8de6-b9b864f41a87)_
+
+`AWS` `Kubernetes` `Infrastructure as Code` `Go` `Python` `CI/CD` `Distributed Systems` `Security Clearance`
+
+<sub>July 8, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Senior Cloud Platform Engineer](https://jobs.ashbyhq.com/havocai/e8c6b641-e740-4590-a182-b3f1fdb9e694)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Senior` `Equity`
+
+_Design, build, and operate secure, scalable AWS infrastructure and Kubernetes platforms that power mission-critical autonomous systems for defense applications. Support FedRAMP and DoD compliance (IL4/IL5) with hands-on infrastructure automation, CI/CD pipelines, and self-service platform tooling across edge-to-cloud deployments. · [Apply →](https://jobs.ashbyhq.com/havocai/e8c6b641-e740-4590-a182-b3f1fdb9e694)_
+
+`AWS` `Kubernetes` `EKS` `Infrastructure as Code` `Go` `Python` `CI/CD` `DevSecOps`
+
+<sub>July 8, 2026 at 14:30 UTC</sub>
+
+---
 
 ### [Backend Engineer (Ruby), AI Engineering: Agent Observability](https://job-boards.greenhouse.io/gitlab/jobs/8620720002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
@@ -396,12 +440,12 @@ _Build and maintain the exposure management platform's backend services and APIs
 
 ---
 
-### [Billing Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710822005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$143k-$179k` `Equity`
+### [Billing Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710794005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$191k–$239k CAD` `Equity`
 
-_Build and own Tailscale's billing platform, integrating with third-party services like Stripe and Metronome to handle usage-based and subscription billing models at scale. Lead the full product lifecycle from system design to financial reporting, with responsibility for high-availability billing infrastructure, metering logic, and incident response for a fully distributed company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710822005)_
+_Build and own Tailscale's billing platform, integrating third-party services like Stripe and Metronome to power usage-based and subscription pricing models. Drive metering logic, financial data accuracy, and billing system reliability across a fully distributed company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710794005)_
 
-`Go` `Stripe` `PostgreSQL` `Distributed Systems` `Event-Driven Architecture` `Microservices` `API Design` `SaaS Billing`
+`Go` `Stripe` `SQL` `Distributed Systems` `PostgreSQL` `API Design` `Microservices` `Event-Driven Architecture`
 
 <sub>July 2, 2026 at 17:57 UTC</sub>
 
@@ -413,6 +457,17 @@ _Build and own Tailscale's billing platform, integrating with third-party servic
 _Own the iOS roadmap for Instacart's Transaction Platform team, shipping checkout, payments, and OCR-driven features end-to-end while mentoring cross-functional partners and modernizing the codebase. Role requires substantial technical leadership and production experience at scale across a high-impact marketplace. · [Apply →](https://instacart.careers/job/?gh_jid=8035364)_
 
 `Swift` `SwiftUI` `UIKit` `RxSwift` `Combine` `MVVM` `MVI` `GraphQL`
+
+<sub>July 2, 2026 at 15:23 UTC</sub>
+
+---
+
+### [Senior Data Scientist, Systems Performance](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k-$198.5k` `Equity`
+
+_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)_
+
+`Python` `SQL` `Statistical Analysis` `Causal Inference` `Machine Learning` `Autonomous Driving` `AWS` `Transformers`
 
 <sub>July 2, 2026 at 15:23 UTC</sub>
 
@@ -576,6 +631,17 @@ _Build production systems that operationalize threat intelligence research—tur
 
 ---
 
+### [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Asheville, Ohio / Atlanta, Georgia / Boston, Massachusetts / Costa Mesa, California / Remote / Seattle, Washington / Washington, D.C. · `🟢 Remote` `Mid` `$129k-$220k` `Equity`
+
+_Build log aggregation pipelines and security data lake infrastructure to centralize security visibility across Anduril's defense technology systems. Requires TS/SCI clearance and hands-on work with ETL at scale in AWS/Azure/GCP environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)_
+
+`Spark` `DuckDB` `Go` `Rust` `Terraform` `AWS` `ETL` `TS/SCI Clearance`
+
+<sub>July 1, 2026 at 16:54 UTC</sub>
+
+---
+
 ### [IT Engineering Lead](https://jobs.ashbyhq.com/elevenlabs/3a75a63b-5f28-4688-9963-d9607e21ae67)
 <a href="https://elevenlabs.io"><img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ElevenLabs** · `🟢 Remote` `Manager` `Equity`
 
@@ -620,7 +686,7 @@ _Lead R&D for AI/ML models powering perishable inventory replenishment, research
 
 ---
 
-### [Director of Engineering, AI](https://jobs.ashbyhq.com/delinea/929f9601-ac47-465b-bb23-63834df9d36f)
+### [Director of Engineering, AI Security](https://jobs.ashbyhq.com/delinea/929f9601-ac47-465b-bb23-63834df9d36f)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Manager`
 
 _Lead the multi-team engineering organization building Delinea's AI security platform, from agent discovery and identity to runtime authorization and integrations with enterprise AI systems like Microsoft Copilot and Salesforce Agentforce. Requires deep technical depth in identity, authorization, or distributed systems to own architecture-level decisions while scaling the platform from early customers to broad production use. · [Apply →](https://jobs.ashbyhq.com/delinea/929f9601-ac47-465b-bb23-63834df9d36f)_
@@ -965,17 +1031,6 @@ _Lead the development and deployment of financial data infrastructure, analytics
 
 ---
 
-### [Senior Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$172k-$229k` `Equity`
-
-_Develop motion control and trajectory optimization algorithms for production autonomous vehicles, implementing performance-critical control systems in C++ that enable safe and comfortable robotaxi behaviors. Experience with Model Predictive Control, motion planning under uncertainty, and numerical optimization solvers required for this role advancing commercial autonomous driving at scale. · [Apply →](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)_
-
-`C++` `Model Predictive Control` `Motion Planning` `IPOPT` `Gurobi` `Vehicle Dynamics` `Trajectory Optimization` `Python`
-
-<sub>June 30, 2026 at 13:46 UTC</sub>
-
----
-
 ### [Senior Manager, Software Engineering (Platform/Infra)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Manager--Software-Engineering--Platform-Infra-_JR115293)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$204k-$327k` `Equity`
 
@@ -1259,12 +1314,12 @@ _Build scalable cloud-native microservices for Delinea's Identity Security Platf
 
 ## June 27, 2026
 
-### [Manager, Security Engineering](https://job-boards.greenhouse.io/acquia/jobs/8036426)
-<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Manager`
+### [Manager, Security Engineering](https://job-boards.greenhouse.io/acquia/jobs/8022299)
+<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Manager` `$150k-$169.75k`
 
-_Lead a security engineering team building automated controls and guardrails for application, cloud, and AI system security across Acquia's product portfolio on AWS. Define and execute shift-left security practices, cloud-native security standards, and AI/LLM security frameworks while translating technical risks into actionable roadmaps for Product Engineering teams. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8036426)_
+_Lead a specialized security engineering team building automated controls and guardrails for application, cloud, and AI system security across AWS-native products. Partner with Product Engineering to embed "secure by default" foundations and define security standards for LLM-based agents and agentic AI systems. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8022299)_
 
-`AWS` `Application Security` `Cloud Security` `SAST` `DAST` `SCA` `AI Security` `LLM Security`
+`Application Security` `Cloud Security` `AWS` `AI Security` `SAST` `DAST` `SCA` `Kubernetes`
 
 <sub>June 27, 2026 at 07:18 UTC</sub>
 
@@ -1274,12 +1329,12 @@ _Lead a security engineering team building automated controls and guardrails for
 
 ## June 26, 2026
 
-### [Business Technology Engineer II](https://www.samsara.com/company/careers/roles/8031880?gh_jid=8031880)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$101k–$131k CAD` `Equity`
+### [Business Technology Engineer II](https://www.samsara.com/company/careers/roles/8022729?gh_jid=8022729)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$104k–$175k` `Equity`
 
-_Own Samsara's identity infrastructure including Okta, Google Workspace, and Workato automation platform (OWL-IT); design, build, and support enterprise identity and access management systems at scale with StateRAMP/FedRAMP compliance requirements. · [Apply →](https://www.samsara.com/company/careers/roles/8031880?gh_jid=8031880)_
+_Own Samsara's identity and access management infrastructure, including Okta (SSO, provisioning, workflows), Google Workspace administration, and Workato-based automation platform (OWL-IT) — managing identity systems for a scale-stage public company with StateRAMP/FedRAMP compliance requirements. · [Apply →](https://www.samsara.com/company/careers/roles/8022729?gh_jid=8022729)_
 
-`Okta` `Workato` `Google Workspace` `REST APIs` `Python` `Splunk` `Google Cloud Platform` `SCIM`
+`Okta` `Workato` `Google Workspace` `REST APIs` `Python` `Google Cloud Platform` `Splunk` `Terraform`
 
 <sub>June 26, 2026 at 23:33 UTC</sub>
 
@@ -1483,12 +1538,12 @@ _Design and ship new capabilities for Command, Mercury's LLM-powered financial a
 
 ---
 
-### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Design, build, and operate petabyte-scale metrics collection and storage systems handling trillions of records and millions of events per second. Requires 5+ years building distributed systems and 2+ years with Golang; ClickHouse experience is a bonus. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)_
+_Design, build, and operate petabyte-scale metrics infrastructure that processes millions of events per second, handling billing data and customer analytics across ClickHouse instances. Requires experience building fault-tolerant distributed systems and working in Kubernetes environments at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)_
 
-`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `GCP` `Azure` `ArgoCD`
+`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `ArgoCD` `Distributed Systems` `PostgreSQL`
 
 <sub>June 26, 2026 at 15:54 UTC</sub>
 
