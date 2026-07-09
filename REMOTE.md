@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **192 open roles** (27 new)
+### **187 open roles** (20 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -10,14 +10,69 @@ Remote engineering roles only — linking directly to each company's job board. 
 
 ## July 9, 2026
 
-### [Sr AI Engineer](https://www.vectra.ai/about/jobs?gh_jid=7760601)
-<a href="https://vectra.ai"><img src="https://www.google.com/s2/favicons?domain=vectra.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vectra AI** · `🟢 Remote` `Senior` `$140k-$236k` `Equity`
+### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Build machine learning models and production infrastructure for AI-driven threat detection across hybrid cloud and network environments. Deploy and operate models at scale in adversarial cybersecurity settings with real-time requirements. · [Apply →](https://www.vectra.ai/about/jobs?gh_jid=7760601)_
+_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex). Drive production-ready connectors that position ClickHouse as the natural choice for RAG architectures, ML feature pipelines, and LLM-powered data applications. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)_
 
-`Python` `PyTorch` `TensorFlow` `Go` `Java` `C++` `Distributed Systems` `Anomaly Detection`
+`Python` `Airflow` `dbt` `Pandas` `NumPy` `Pydantic` `SQL` `async programming`
 
-<sub>July 9, 2026 at 08:33 UTC</sub>
+<sub>July 9, 2026 at 16:04 UTC</sub>
+
+---
+
+### [Head of AI Enablement Engineering](https://jobs.ashbyhq.com/Deepgram/c91de352-9f25-479e-8877-fbea9576a52c)
+<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Manager`
+
+_Build and lead Deepgram's AI enablement strategy end-to-end — personally architecting production agents, MCP integrations, and paved-road workflows that embed safe AI leverage across every function, then grow a small team and champions network to scale adoption company-wide. This is a build-first leadership role with high visibility and executive sponsorship, requiring hands-on engineering credibility and the ability to drive adoption through demonstrated value rather than mandate in a fast-moving, AI-native environment. · [Apply →](https://jobs.ashbyhq.com/Deepgram/c91de352-9f25-479e-8877-fbea9576a52c)_
+
+`LLM agents` `MCP` `Prompt Engineering` `Agentic Orchestration` `Python` `Retrieval Systems` `Vector Databases` `Enterprise AI Platforms`
+
+<sub>July 9, 2026 at 16:04 UTC</sub>
+
+---
+
+### [Sr. Data Engineer](https://jobs.ashbyhq.com/instructure/474c56f1-f828-4f3d-94d9-234a16bcf99a)
+<a href="https://instructure.com"><img src="https://www.google.com/s2/favicons?domain=instructure.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instructure** · `🟢 Remote` `Senior` `Equity`
+
+_Design and deploy scalable ETL/ELT pipelines from diverse source systems into Snowflake, leveraging Databricks and dbt to build governed data marts and implement a Semantic Layer that standardizes metrics and dimensions across the business. · [Apply →](https://jobs.ashbyhq.com/instructure/474c56f1-f828-4f3d-94d9-234a16bcf99a)_
+
+`Snowflake` `dbt` `Databricks` `PySpark` `Python` `AWS` `SQL` `Fivetran`
+
+<sub>July 9, 2026 at 16:04 UTC</sub>
+
+---
+
+### [Agent Engineer [IC4]](https://job-boards.greenhouse.io/sourcegraph91/jobs/6103567004)
+<a href="https://sourcegraph.com"><img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sourcegraph** · `🟢 Remote` `Senior` `$88k-$176k` `Equity`
+
+_Own the agentic systems powering Sourcegraph's code understanding products — designing multi-step agent loops, evaluations, model selection, and retrieval pipelines to deliver reliable, cost-efficient AI-powered developer experiences at enterprise scale. Requires deep agent engineering expertise combining software engineering, ML, and statistics; this is a senior technical leadership role setting standards for the team. · [Apply →](https://job-boards.greenhouse.io/sourcegraph91/jobs/6103567004)_
+
+`Python` `Go` `TypeScript` `PyTorch` `LLMs` `Retrieval-Augmented Generation` `LLM Evaluations` `Prompt Engineering`
+
+<sub>July 9, 2026 at 16:04 UTC</sub>
+
+---
+
+### [Principal Software Engineer, Advanced Analytics Platform](https://careers.toasttab.com/jobs?gh_jid=8048737)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$180k-$368k` `Equity`
+
+_Build foundational data infrastructure — real-time streaming, data lakehouse, feature serving, and cloud-native analytics pipelines — powering Toast's analytics and AI/ML products for 170,000+ restaurants. Define technical strategy for platform evolution (Apache Iceberg migration, Feature Store, streaming scale) and mentor engineers through architectural transformation. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8048737)_
+
+`Apache Iceberg` `Apache Kafka` `Apache Spark` `Databricks` `AWS` `Apache Pulsar` `Kotlin` `Java`
+
+<sub>July 9, 2026 at 16:04 UTC</sub>
+
+---
+
+### [Staff Machine Learning Engineer](https://careers.toasttab.com/jobs?gh_jid=8031086)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$151k-$309k` `Equity`
+
+_Build and operate the core ML infrastructure platform powering Toast's feature store, model serving, experimentation, and training systems. Lead architectural decisions across a distributed system serving personalization, forecasting, fraud detection, and AI-powered restaurant experiences at scale. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8031086)_
+
+`Python` `Java` `Kotlin` `Go` `Scala` `Distributed Systems` `Kubernetes` `Kafka`
+
+<sub>July 9, 2026 at 16:04 UTC</sub>
 
 ---
 
@@ -146,17 +201,6 @@ _Build the UX and product surface for agentic workflows in Prefect Cloud — exe
 
 ---
 
-### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
-
-_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
-
-`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
-
-<sub>July 8, 2026 at 20:24 UTC</sub>
-
----
-
 ### [Distinguished Engineer, Reactor Systems](https://job-boards.greenhouse.io/kairospower/jobs/6023687004)
 <a href="https://kairospower.com"><img src="https://www.google.com/s2/favicons?domain=kairospower.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kairos Power** · `🟢 Remote` `Principal`
 
@@ -278,23 +322,23 @@ _Design, build, and operate secure, scalable AWS infrastructure and Kubernetes p
 
 ---
 
-### [Senior Backend Software Engineer](https://jobs.ashbyhq.com/havocai/95bc4563-07e5-4a26-b764-6e168e424273)
-<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Senior` `Equity`
-
-_Design and build scalable, highly concurrent distributed backend services in Go for autonomous systems operating in mission-critical environments. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/95bc4563-07e5-4a26-b764-6e168e424273)_
-
-`Go` `Kubernetes` `Distributed Systems` `AWS` `API Design` `Performance Optimization` `IoT` `Networking`
-
-<sub>July 8, 2026 at 13:28 UTC</sub>
-
----
-
 ### [Backend Engineer (Ruby), AI Engineering: Agent Observability](https://job-boards.greenhouse.io/gitlab/jobs/8620720002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
 
 _Build backend systems for AI agent observability and interactions across GitLab's platform, enabling agents to interact with the full software delivery lifecycle. Design and maintain GraphQL/REST APIs, implement complex features in the GitLab monolith and AI gateway, and establish architectural patterns for AI agent integration at scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8620720002)_
 
 `Ruby on Rails` `PostgreSQL` `GraphQL` `REST APIs` `Python` `Vue.js` `RSpec` `AI/ML Integration`
+
+<sub>July 8, 2026 at 13:28 UTC</sub>
+
+---
+
+### [Senior Backend Software Engineer](https://jobs.ashbyhq.com/havocai/95bc4563-07e5-4a26-b764-6e168e424273)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Senior` `Equity`
+
+_Design and build scalable, highly concurrent distributed backend services in Go for autonomous systems operating in mission-critical environments. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/95bc4563-07e5-4a26-b764-6e168e424273)_
+
+`Go` `Kubernetes` `Distributed Systems` `AWS` `API Design` `Performance Optimization` `IoT` `Networking`
 
 <sub>July 8, 2026 at 13:28 UTC</sub>
 
@@ -325,17 +369,6 @@ _Design and build scalable, highly concurrent distributed backend systems in Go 
 <br>
 
 ## July 6, 2026
-
-### [Senior WMS Developer](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$135k-$220k`
-
-_Design, develop, and configure Infios WMS solutions for PSA Vault, managing inventory and fulfillment workflows across millions of high-value collectibles. Requires 4+ years of hands-on WMS implementation experience with complex SQL database work and API integrations. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-WMS-Developer_JR105545)_
-
-`Infios WMS` `Körber` `HighJump` `MS SQL Server` `API Designer` `Advantage Architect` `Page Editor`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
 
 ### [Analyst I, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29191)
 <a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Junior` `$85k-$120k` `Equity`
@@ -488,17 +521,6 @@ _Build and scale the internal engineering platform and Kubernetes infrastructure
 
 ---
 
-### [Staff Software Engineer - Banking and Money Movement](https://job-boards.greenhouse.io/marqeta/jobs/8015885)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$174k - $218k` `Equity`
-
-_Lead the design and delivery of large-scale financial services systems including account creation, transaction processing, payment systems, and reconciliation on Marqeta's card issuing platform. Requires 8+ years backend engineering experience and 3+ years in payments/FinTech, with autonomous ownership of multi-component systems serving major brands like Block, Affirm, and Uber. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8015885)_
-
-`Java` `Python` `PostgreSQL` `MySQL` `Microservices` `Distributed Systems` `AWS` `Kubernetes`
-
-<sub>July 2, 2026 at 23:15 UTC</sub>
-
----
-
 ### [Security Software Engineer II, Detection and Response](https://www.pinterestcareers.com/jobs/?gh_jid=8015490)
 <a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Mid` `$123k–$254k` `Equity`
 
@@ -620,17 +642,6 @@ _Write production code (Python, TypeScript, Node) embedded with enterprise custo
 
 ---
 
-### [Senior Design Engineer, PSA](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Design-Engineer--PSA_JR105335)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$150k-$220k`
-
-_Build polished web products across PSA's marketplace, fintech, submissions, and collector tools using React and Svelte. Establish and maintain design systems while partnering closely with design and product teams to deliver delightful user experiences for millions of collectors. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Design-Engineer--PSA_JR105335)_
-
-`React` `Svelte` `Design Systems` `Product Design`
-
-<sub>July 2, 2026 at 17:57 UTC</sub>
-
----
-
 ### [Principal AI Platform Engineer](https://datasite.wd1.myworkdayjobs.com/datasite/job/Remote-USA/Principal-AI-Platform-Engineer_R36211)
 <a href="https://grata.com"><img src="https://www.google.com/s2/favicons?domain=grata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grata** · `🟢 Remote` `Principal` `$117k-$206k`
 
@@ -670,17 +681,6 @@ _Build and own Tailscale's billing platform, integrating with third-party servic
 _Own the iOS roadmap for Instacart's Transaction Platform team, shipping checkout, payments, and OCR-driven features end-to-end while mentoring cross-functional partners and modernizing the codebase. Role requires substantial technical leadership and production experience at scale across a high-impact marketplace. · [Apply →](https://instacart.careers/job/?gh_jid=8035364)_
 
 `Swift` `SwiftUI` `UIKit` `RxSwift` `Combine` `MVVM` `MVI` `GraphQL`
-
-<sub>July 2, 2026 at 15:23 UTC</sub>
-
----
-
-### [Senior Data Scientist, Systems Performance](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k-$198.5k` `Equity`
-
-_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)_
-
-`Python` `SQL` `Statistical Analysis` `Causal Inference` `Machine Learning` `Autonomous Driving` `AWS` `Transformers`
 
 <sub>July 2, 2026 at 15:23 UTC</sub>
 
@@ -833,12 +833,12 @@ _Build customer-facing product experiences end-to-end across frontend, backend, 
 
 ---
 
-### [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8040012)
+### [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8041975)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$140k-$150k` `Equity`
 
-_Build the research-to-production pipeline for threat intelligence at scale, turning malware findings and infrastructure research into shipped detection rules, YARA/Sigma signatures, and STIX/TAXII-distributed feeds consumed by 25,000+ organizations. Requires production experience with threat intelligence systems, detection engineering, and LLM-based automation in security workflows. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8040012)_
+_Build the research-to-production pipeline that transforms threat intelligence findings into shipped detection content, platform components, and distributed feeds. Own schema design (STIX 2.1, TAXII 2.1), detection rule generation (YARA, Sigma), and ML-driven enrichment workflows that operate at production scale across multiple runtimes. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8041975)_
 
-`Python` `TypeScript` `YARA` `Sigma` `STIX 2.1` `TAXII 2.1` `AWS` `PostgreSQL`
+`Python` `TypeScript` `AWS` `YARA` `Sigma` `STIX 2.1` `TAXII 2.1` `PostgreSQL`
 
 <sub>July 1, 2026 at 17:43 UTC</sub>
 
@@ -1685,23 +1685,23 @@ _Lead the design and implementation of industrial AI agents and end-to-end proto
 
 ---
 
-### [Senior Software Engineer, Care Experience](https://careers.toasttab.com/jobs?gh_jid=7590046)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior`
-
-_Build backend services and AI-driven platforms powering Toast's support infrastructure across chat, voice, and agent-assisted channels serving millions of interactions. Design and operate business-critical systems handling urgent customer support at scale, integrating AI capabilities with agent tooling and core Toast product data. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7590046)_
-
-`Java` `Kotlin` `AI tooling (Claude, Cursor, MCP servers)` `distributed systems` `API design` `backend services`
-
-<sub>June 26, 2026 at 17:41 UTC</sub>
-
----
-
 ### [Manager, Engineering - App Engine (CUDA)](https://job-boards.greenhouse.io/torcrobotics/jobs/8610332002)
 <a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan / Fort Worth, Texas / Blacksburg, Virginia · `🟢 Remote` `Manager` `$160k-$193k` `Equity`
 
 _Lead the Application Engine team building middleware that integrates deep learning models into Torc's Level 4 autonomous trucking stack, managing CUDA optimization, GPU resource management, and model deployment pipelines. Requires deep technical expertise in GPU parallel computing and production ML frameworks to guide architecture decisions in a safety-critical, multi-sensor autonomous driving environment. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8610332002)_
 
 `CUDA` `GPU optimization` `PyTorch` `TensorRT` `ONNX` `C++` `Linux` `Real-time Systems`
+
+<sub>June 26, 2026 at 17:41 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Care Experience](https://careers.toasttab.com/jobs?gh_jid=7590046)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior`
+
+_Build backend services and AI-driven platforms powering Toast's support infrastructure across chat, voice, and agent-assisted channels serving millions of interactions. Design and operate business-critical systems handling urgent customer support at scale, integrating AI capabilities with agent tooling and core Toast product data. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7590046)_
+
+`Java` `Kotlin` `AI tooling (Claude, Cursor, MCP servers)` `distributed systems` `API design` `backend services`
 
 <sub>June 26, 2026 at 17:41 UTC</sub>
 
@@ -1751,12 +1751,12 @@ _Design and ship new capabilities for Command, Mercury's LLM-powered financial a
 
 ---
 
-### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Design, build, and operate petabyte-scale metrics collection and storage systems handling trillions of records and millions of events per second. Requires 5+ years building distributed systems and 2+ years with Golang; ClickHouse experience is a bonus. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)_
+_Design, build, and operate petabyte-scale metrics infrastructure that processes millions of events per second, handling billing data and customer analytics across ClickHouse instances. Requires experience building fault-tolerant distributed systems and working in Kubernetes environments at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)_
 
-`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `GCP` `Azure` `ArgoCD`
+`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `ArgoCD` `Distributed Systems` `PostgreSQL`
 
 <sub>June 26, 2026 at 15:54 UTC</sub>
 
@@ -2036,61 +2036,6 @@ _Build web platforms for restaurant discovery, onboarding, and data quality serv
 `React` `TypeScript` `GraphQL` `REST APIs` `Kotlin` `Java`
 
 <sub>June 25, 2026 at 16:55 UTC</sub>
-
----
-
-### [Senior Software Engineer, Back-End (Payments)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Senior-Software-Engineer--Back-End--Payments-_JR105356)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$140k-$228k`
-
-_Build and scale multi-gateway payment infrastructure (Stripe, PayPal, and others) powering all transactions across the Collectors marketplace, integrating backend APIs in C#/.NET with React/Svelte frontends while ensuring PCI-DSS compliance and high availability on AWS/Kubernetes. Requires deep payments and fintech experience; on-site collaboration expected for candidates within 1 hour of Santa Ana, CA headquarters. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Senior-Software-Engineer--Back-End--Payments-_JR105356)_
-
-`C#` `.NET` `React` `TypeScript` `PostgreSQL` `DynamoDB` `AWS` `Kubernetes`
-
-<sub>June 25, 2026 at 07:27 UTC</sub>
-
----
-
-### [Senior Software Engineer, Back-End (Vault)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Back-End--Vault-_JR105354)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$140k-$228k`
-
-_Design and build scalable backend systems and APIs on AWS that power the Collectors Vault—a secure storage platform managing millions of collectible assets across trading cards, coins, and other collectibles. You'll own technical architecture end-to-end with senior-level influence while ensuring asset accuracy, security, and integrity at scale. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Back-End--Vault-_JR105354)_
-
-`Java` `AWS` `C#` `APIs` `Distributed Systems` `Event-Driven Architecture` `Serverless Architecture` `Security`
-
-<sub>June 25, 2026 at 07:27 UTC</sub>
-
----
-
-### [Senior Software Engineer, Front-End (CX Apps)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Front-End--CX-Apps-_JR105355)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$140k-$228k`
-
-_Build polished, performant consumer-facing web experiences for the Collectors platform using React, Next.js, and TypeScript—connecting millions of collectors with grading, authentication, marketplace, and order management services. Lead technical design and execution across frontend and backend integration on a large distributed codebase. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Front-End--CX-Apps-_JR105355)_
-
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Svelte`
-
-<sub>June 25, 2026 at 05:32 UTC</sub>
-
----
-
-### [Senior Software Engineer, Full-Stack (PSA Liquidity Platform)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Senior-Software-Engineer--Full-Stack--PSA-Liquidity-Platform-_JR105349-1)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$140k-$228k`
-
-_Build the PSA Liquidity Platform — a real-time matching engine and buyer/seller marketplace connecting supply and demand across millions of collectibles, handling instant offer generation, targeting, and fulfillment across PSA Partner Offers and eBay Consignment channels. Requires designing distributed, event-driven microservices at scale with low-latency matching and cross-system integration across Grading, Vaulting, and Collection Management. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US---Remote/Senior-Software-Engineer--Full-Stack--PSA-Liquidity-Platform-_JR105349-1)_
-
-`Java` `Spring Boot` `React` `Kafka` `Kubernetes` `AWS` `Datadog` `PostgreSQL`
-
-<sub>June 25, 2026 at 05:32 UTC</sub>
-
----
-
-### [Senior Software Engineer, Back-End (Power Packs)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Full-Stack--Power-Packs-_JR105352)
-<a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Senior` `$140k-$228k`
-
-_Build the shared data foundations and backend systems that power flexible, scalable marketplace experiences for collectibles across white-label platforms. Design and implement distributed systems handling pack configuration, lifecycle management, and integrations with core platform services at scale. · [Apply →](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Senior-Software-Engineer--Full-Stack--Power-Packs-_JR105352)_
-
-`Java` `Spring Boot` `PostgreSQL` `DynamoDB` `AWS` `Docker` `Kubernetes` `Kafka`
-
-<sub>June 25, 2026 at 03:20 UTC</sub>
 
 ---
 
