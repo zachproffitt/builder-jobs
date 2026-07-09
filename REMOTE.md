@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **210 open roles** (26 new)
+### **207 open roles** (27 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 9, 2026
+
+### [Senior Product Security Engineer](https://jobs.ashbyhq.com/delinea/1b5d311f-5085-4772-afe7-40471ea491b3)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
+
+_Lead product security architecture, threat modeling, and secure design reviews across Delinea's identity security platform. Mature the security development lifecycle (S-SDLC) and integrate security testing tools (SAST, DAST, SCA) into development pipelines; requires 5+ years in product security with demonstrated expertise in threat modeling, cloud security, and application security. · [Apply →](https://jobs.ashbyhq.com/delinea/1b5d311f-5085-4772-afe7-40471ea491b3)_
+
+`Cloud Security` `Threat Modeling` `SAST` `DAST` `SCA` `Kubernetes` `Python` `Azure`
+
+<sub>July 9, 2026 at 21:35 UTC</sub>
+
+---
 
 ### [Detection Engineer - Machine Learning (Remote, East/Central)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)
 <a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
@@ -98,12 +109,12 @@ _Build integrations that discover, identify, and govern AI agents across third-p
 
 ---
 
-### [IAM Engineer](https://jobs.ashbyhq.com/kraken.com/1a8154b4-e2e4-40c3-bbf0-773d75338d81)
-<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · Canada · `🟢 Remote` `Mid`
+### [IAM Engineer](https://jobs.ashbyhq.com/kraken.com/d39ac0dc-7131-4c66-8c84-5a3971dd199f)
+<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Mid`
 
-_Build and scale identity and access management infrastructure using Okta, ConductorOne, and Terraform across a global crypto trading platform serving 10M+ users. Drive adoption of RBAC/ABAC controls and support M&A integrations while maintaining SOX, PCI-DSS, and ISO 27001 compliance. · [Apply →](https://jobs.ashbyhq.com/kraken.com/1a8154b4-e2e4-40c3-bbf0-773d75338d81)_
+_Own identity and access management infrastructure at Kraken using Okta, ConductorOne, and Terraform to manage credentials and access controls for a crypto trading platform serving 10M+ users. Build secure access systems under regulatory frameworks (SOX, PCI-DSS, ISO 27001) while solving unique challenges in credential management and access governance. · [Apply →](https://jobs.ashbyhq.com/kraken.com/d39ac0dc-7131-4c66-8c84-5a3971dd199f)_
 
-`Terraform` `Okta` `ConductorOne` `Python` `Bash` `RBAC` `ABAC` `Zero Trust`
+`Terraform` `Okta` `ConductorOne` `Python` `Bash` `SailPoint` `RBAC` `ABAC`
 
 <sub>July 9, 2026 at 18:05 UTC</sub>
 
@@ -164,12 +175,12 @@ _Lead a team of 8 data scientists building blockchain attribution models and dat
 
 ---
 
-### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex). Drive production-ready connectors that position ClickHouse as the natural choice for RAG architectures, ML feature pipelines, and LLM-powered data applications. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)_
+_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex); design production-grade connectors that make ClickHouse a natural fit for RAG pipelines, vector stores, and ML feature stores. Requires hands-on production experience as a Data Engineer, Data Scientist, or ML Engineer, and deep expertise building and maintaining Python connectors or SDKs for major platforms. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)_
 
-`Python` `Airflow` `dbt` `Pandas` `NumPy` `Pydantic` `SQL` `async programming`
+`Python` `Airflow` `Dagster` `dbt` `LangChain` `LlamaIndex` `Pandas` `Pydantic`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
@@ -443,28 +454,6 @@ _Build and maintain highly resilient cloud infrastructure supporting 20 billion 
 
 ---
 
-### [Frontend Engineer ](https://jobs.ashbyhq.com/havocai/1a3e63db-bacf-41fc-b18f-c94abcad278b)
-<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Mid` `Equity`
-
-_Develop performant React-based web applications with map-based and real-time data visualization interfaces for military autonomous systems operating in contested environments. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/1a3e63db-bacf-41fc-b18f-c94abcad278b)_
-
-`React` `TypeScript` `JavaScript` `GraphQL` `Mapbox` `WebGL` `Jest` `Security Clearance`
-
-<sub>July 8, 2026 at 14:30 UTC</sub>
-
----
-
-### [Senior Frontend Engineer](https://jobs.ashbyhq.com/havocai/5cdfc31d-3ef2-464f-a587-7d9a2dec8a5b)
-<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Senior` `Equity`
-
-_Build scalable, high-performance React-based user interfaces for real-time operational dashboards and map-based visualization systems powering autonomous military and commercial systems. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/5cdfc31d-3ef2-464f-a587-7d9a2dec8a5b)_
-
-`React` `TypeScript` `JavaScript` `GraphQL` `Mapbox` `WebGL` `Jest` `Security Clearance`
-
-<sub>July 8, 2026 at 14:30 UTC</sub>
-
----
-
 ### [Staff Cloud Platform Engineer](https://jobs.ashbyhq.com/havocai/d972b069-33ea-41e9-8de6-b9b864f41a87)
 <a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Staff` `Equity`
 
@@ -482,6 +471,28 @@ _Design and operate secure, scalable AWS cloud infrastructure and Kubernetes pla
 _Design, build, and operate secure, scalable AWS infrastructure and Kubernetes platforms that power mission-critical autonomous systems for defense applications. Support FedRAMP and DoD compliance (IL4/IL5) with hands-on infrastructure automation, CI/CD pipelines, and self-service platform tooling across edge-to-cloud deployments. · [Apply →](https://jobs.ashbyhq.com/havocai/e8c6b641-e740-4590-a182-b3f1fdb9e694)_
 
 `AWS` `Kubernetes` `EKS` `Infrastructure as Code` `Go` `Python` `CI/CD` `DevSecOps`
+
+<sub>July 8, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Senior Frontend Engineer](https://jobs.ashbyhq.com/havocai/5cdfc31d-3ef2-464f-a587-7d9a2dec8a5b)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Senior` `Equity`
+
+_Build scalable, high-performance React-based user interfaces for real-time operational dashboards and map-based visualization systems powering autonomous military and commercial systems. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/5cdfc31d-3ef2-464f-a587-7d9a2dec8a5b)_
+
+`React` `TypeScript` `JavaScript` `GraphQL` `Mapbox` `WebGL` `Jest` `Security Clearance`
+
+<sub>July 8, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Frontend Engineer ](https://jobs.ashbyhq.com/havocai/1a3e63db-bacf-41fc-b18f-c94abcad278b)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Mid` `Equity`
+
+_Develop performant React-based web applications with map-based and real-time data visualization interfaces for military autonomous systems operating in contested environments. Requires U.S. citizenship and ability to obtain security clearance. · [Apply →](https://jobs.ashbyhq.com/havocai/1a3e63db-bacf-41fc-b18f-c94abcad278b)_
+
+`React` `TypeScript` `JavaScript` `GraphQL` `Mapbox` `WebGL` `Jest` `Security Clearance`
 
 <sub>July 8, 2026 at 14:30 UTC</sub>
 
@@ -840,36 +851,14 @@ _Build and maintain the exposure management platform's backend services and APIs
 
 ---
 
-### [Billing Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710822005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$143k-$179k` `Equity`
+### [Billing Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710794005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$191k–$239k CAD` `Equity`
 
-_Build and own Tailscale's billing platform, integrating with third-party services like Stripe and Metronome to handle usage-based and subscription billing models at scale. Lead the full product lifecycle from system design to financial reporting, with responsibility for high-availability billing infrastructure, metering logic, and incident response for a fully distributed company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710822005)_
+_Build and own Tailscale's billing platform, integrating third-party services like Stripe and Metronome to power usage-based and subscription pricing models. Drive metering logic, financial data accuracy, and billing system reliability across a fully distributed company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710794005)_
 
-`Go` `Stripe` `PostgreSQL` `Distributed Systems` `Event-Driven Architecture` `Microservices` `API Design` `SaaS Billing`
+`Go` `Stripe` `SQL` `Distributed Systems` `PostgreSQL` `API Design` `Microservices` `Event-Driven Architecture`
 
 <sub>July 2, 2026 at 17:57 UTC</sub>
-
----
-
-### [Senior iOS Engineer](https://instacart.careers/job/?gh_jid=8035364)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · Remote (ON, AB, BC, NS) · `🟢 Remote` `Senior` `CAN$168k-CAN$177.5k` `Equity`
-
-_Own the iOS roadmap for Instacart's Transaction Platform team, shipping checkout, payments, and OCR-driven features end-to-end while mentoring cross-functional partners and modernizing the codebase. Role requires substantial technical leadership and production experience at scale across a high-impact marketplace. · [Apply →](https://instacart.careers/job/?gh_jid=8035364)_
-
-`Swift` `SwiftUI` `UIKit` `RxSwift` `Combine` `MVVM` `MVI` `GraphQL`
-
-<sub>July 2, 2026 at 15:23 UTC</sub>
-
----
-
-### [Senior Data Scientist, Systems Performance](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k-$198.5k` `Equity`
-
-_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)_
-
-`Python` `SQL` `Statistical Analysis` `Causal Inference` `Machine Learning` `Autonomous Driving` `AWS` `Transformers`
-
-<sub>July 2, 2026 at 15:23 UTC</sub>
 
 ---
 
@@ -1442,17 +1431,6 @@ _Lead the development and deployment of financial data infrastructure, analytics
 
 ---
 
-### [Senior Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$172k-$229k` `Equity`
-
-_Develop motion control and trajectory optimization algorithms for production autonomous vehicles, implementing performance-critical control systems in C++ that enable safe and comfortable robotaxi behaviors. Experience with Model Predictive Control, motion planning under uncertainty, and numerical optimization solvers required for this role advancing commercial autonomous driving at scale. · [Apply →](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)_
-
-`C++` `Model Predictive Control` `Motion Planning` `IPOPT` `Gurobi` `Vehicle Dynamics` `Trajectory Optimization` `Python`
-
-<sub>June 30, 2026 at 13:46 UTC</sub>
-
----
-
 ### [Senior Manager, Software Engineering (Platform/Infra)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Manager--Software-Engineering--Platform-Infra-_JR115293)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$204k-$327k` `Equity`
 
@@ -1685,17 +1663,6 @@ _Architect and deploy advanced service mesh features using Envoy proxy, leading 
 `Envoy` `Service Mesh` `Distributed Systems` `Java` `Python` `C++` `mTLS` `Kubernetes`
 
 <sub>June 29, 2026 at 17:10 UTC</sub>
-
----
-
-### [Senior Software Engineer, Konnect Admin/Billing](https://jobs.ashbyhq.com/kong/2dd41d27-36c1-4ea0-99b0-7716370b0911)
-<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · Toronto, Canada · `🟢 Remote` `Senior`
-
-_Design and build TypeScript microservices powering Kong's billing platform, handling customer lifecycle management, payment integrations, and usage metering across self-serve and enterprise SaaS models. Requires deep expertise in distributed systems, event-driven architectures, and financial data correctness where bugs have direct revenue impact. · [Apply →](https://jobs.ashbyhq.com/kong/2dd41d27-36c1-4ea0-99b0-7716370b0911)_
-
-`TypeScript` `Node.js` `NestJS` `PostgreSQL` `Kafka` `Stripe` `Kubernetes` `GitHub Actions`
-
-<sub>June 29, 2026 at 15:19 UTC</sub>
 
 ---
 
@@ -1960,12 +1927,12 @@ _Design and ship new capabilities for Command, Mercury's LLM-powered financial a
 
 ---
 
-### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Design, build, and operate petabyte-scale metrics collection and storage systems handling trillions of records and millions of events per second. Requires 5+ years building distributed systems and 2+ years with Golang; ClickHouse experience is a bonus. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)_
+_Design, build, and operate petabyte-scale metrics infrastructure that processes millions of events per second, handling billing data and customer analytics across ClickHouse instances. Requires experience building fault-tolerant distributed systems and working in Kubernetes environments at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)_
 
-`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `GCP` `Azure` `ArgoCD`
+`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `ArgoCD` `Distributed Systems` `PostgreSQL`
 
 <sub>June 26, 2026 at 15:54 UTC</sub>
 
@@ -2015,12 +1982,12 @@ _Lead the Engineering Quality Management team overseeing quality assurance, comp
 
 ---
 
-### [Staff Software Engineer ](https://jobs.ashbyhq.com/Vetcove/5c2b2621-636f-4b3c-b014-2078a3b6fcc2)
-<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$170k-$300k` `Equity`
+### [Staff Design Engineer ](https://jobs.ashbyhq.com/Vetcove/ce82cea6-0624-425d-9749-2db80453a120)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Senior` `$140k-$220k` `Equity`
 
-_Lead the design and architecture of complex product initiatives across web and mobile platforms for a veterinary clinic management system, building React and React Native applications serving tens of thousands of users managing billions in transactions. Mentor engineers and set engineering standards across teams while working across the full stack (Python backend, JavaScript/React frontend, Postgres/Elasticsearch data stores). · [Apply →](https://jobs.ashbyhq.com/Vetcove/5c2b2621-636f-4b3c-b014-2078a3b6fcc2)_
+_Build pixel-perfect React components and interactions for Vetcove's veterinary software platforms, collaborating closely with designers to implement modular, reusable UI with advanced CSS animations and micro-interactions. · [Apply →](https://jobs.ashbyhq.com/Vetcove/ce82cea6-0624-425d-9749-2db80453a120)_
 
-`JavaScript` `React` `React Native` `Python` `Django` `PostgreSQL` `TypeScript` `Elasticsearch`
+`React` `CSS` `JavaScript` `Figma`
 
 <sub>June 26, 2026 at 15:03 UTC</sub>
 
@@ -2037,25 +2004,14 @@ _Lead the architecture and evolution of frontend systems across Vetcove's veteri
 
 ---
 
-### [Staff Design Engineer ](https://jobs.ashbyhq.com/Vetcove/ce82cea6-0624-425d-9749-2db80453a120)
-<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Senior` `$140k-$220k` `Equity`
+### [Staff Software Engineer ](https://jobs.ashbyhq.com/Vetcove/5c2b2621-636f-4b3c-b014-2078a3b6fcc2)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$170k-$300k` `Equity`
 
-_Build pixel-perfect React components and interactions for Vetcove's veterinary software platforms, collaborating closely with designers to implement modular, reusable UI with advanced CSS animations and micro-interactions. · [Apply →](https://jobs.ashbyhq.com/Vetcove/ce82cea6-0624-425d-9749-2db80453a120)_
+_Lead the design and architecture of complex product initiatives across web and mobile platforms for a veterinary clinic management system, building React and React Native applications serving tens of thousands of users managing billions in transactions. Mentor engineers and set engineering standards across teams while working across the full stack (Python backend, JavaScript/React frontend, Postgres/Elasticsearch data stores). · [Apply →](https://jobs.ashbyhq.com/Vetcove/5c2b2621-636f-4b3c-b014-2078a3b6fcc2)_
 
-`React` `CSS` `JavaScript` `Figma`
+`JavaScript` `React` `React Native` `Python` `Django` `PostgreSQL` `TypeScript` `Elasticsearch`
 
 <sub>June 26, 2026 at 15:03 UTC</sub>
-
----
-
-### [AI Integrations Staff Engineer](https://jobs.ashbyhq.com/Vetcove/6b80fa7d-efb7-4ef1-b884-c24b5790b163)
-<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$150k-$230k` `Equity`
-
-_Build and integrate production AI features into veterinary practice management and ecommerce platforms, designing evaluation frameworks and observability systems to monitor model performance at scale. Staff-level role requiring leadership across data science, engineering, and product teams. · [Apply →](https://jobs.ashbyhq.com/Vetcove/6b80fa7d-efb7-4ef1-b884-c24b5790b163)_
-
-`Python` `AI/ML Integration` `LLM Fine-tuning` `Agent Frameworks` `Observability` `Production Systems` `Web Frameworks` `Backend Systems`
-
-<sub>June 26, 2026 at 13:49 UTC</sub>
 
 ---
 
@@ -2065,6 +2021,17 @@ _Build and integrate production AI features into veterinary practice management 
 _Lead a high-impact engineering team building veterinary practice management, procurement, and ecommerce platforms serving 25,000+ hospitals. Stay close to the code while mentoring engineers, driving technical strategy, and shipping reliable products in a remote environment. · [Apply →](https://jobs.ashbyhq.com/Vetcove/f4bf8374-43ed-4f7b-b2fb-2c107b407716)_
 
 `System Design` `Code Review` `PostgreSQL` `Web Applications` `Scalability & Reliability`
+
+<sub>June 26, 2026 at 13:49 UTC</sub>
+
+---
+
+### [AI Integrations Staff Engineer](https://jobs.ashbyhq.com/Vetcove/6b80fa7d-efb7-4ef1-b884-c24b5790b163)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$150k-$230k` `Equity`
+
+_Build and integrate production AI features into veterinary practice management and ecommerce platforms, designing evaluation frameworks and observability systems to monitor model performance at scale. Staff-level role requiring leadership across data science, engineering, and product teams. · [Apply →](https://jobs.ashbyhq.com/Vetcove/6b80fa7d-efb7-4ef1-b884-c24b5790b163)_
+
+`Python` `AI/ML Integration` `LLM Fine-tuning` `Agent Frameworks` `Observability` `Production Systems` `Web Frameworks` `Backend Systems`
 
 <sub>June 26, 2026 at 13:49 UTC</sub>
 
@@ -2204,12 +2171,12 @@ _Build and maintain platform engineering infrastructure supporting 29,000+ compa
 
 ---
 
-### [Staff Software Engineer Data - DC Tech Lead](https://job-boards.greenhouse.io/afresh/jobs/6101713004)
-<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · Remote - Toronto, Ontario, Canada · `🟢 Remote` `Staff` `$148k-$242k CAD` `Equity`
+### [Staff Software Engineer Data - DC Tech Lead](https://job-boards.greenhouse.io/afresh/jobs/6101672004)
+<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · `🟢 Remote` `Staff` `$168k-$273k` `Equity`
 
-_Design and build ETL pipelines using PySpark and DBT to process large-scale customer datasets for grocery distribution center operations, with technical leadership responsibilities for the DC Solutions team. Mentor engineers and external contractors while defining data architecture strategy for a platform orchestrating billions of decisions across 10%+ of the U.S. grocery market. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6101713004)_
+_Design and build ETL pipelines using PySpark and DBT to process large-scale grocery customer datasets for distribution center operations; mentor engineers and define data architecture strategy for a platform orchestrating billions of decisions across 10%+ of the U.S. grocery market. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6101672004)_
 
-`PySpark` `DBT` `Python` `SQL` `Databricks` `Snowflake` `ETL`
+`PySpark` `DBT` `Python` `SQL` `Databricks` `Snowflake` `ETL` `Data Architecture`
 
 <sub>June 25, 2026 at 16:55 UTC</sub>
 
