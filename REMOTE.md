@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **188 open roles** (25 new)
+### **192 open roles** (26 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 9, 2026
+
+### [Sr AI Engineer](https://www.vectra.ai/about/jobs?gh_jid=7760601)
+<a href="https://vectra.ai"><img src="https://www.google.com/s2/favicons?domain=vectra.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vectra AI** · `🟢 Remote` `Senior` `$140k-$236k` `Equity`
+
+_Build machine learning models and production infrastructure for AI-driven threat detection across hybrid cloud and network environments. Deploy and operate models at scale in adversarial cybersecurity settings with real-time requirements. · [Apply →](https://www.vectra.ai/about/jobs?gh_jid=7760601)_
+
+`Python` `PyTorch` `TensorFlow` `Go` `Java` `C++` `Distributed Systems` `Anomaly Detection`
+
+<sub>July 9, 2026 at 08:33 UTC</sub>
+
+---
 
 ### [Backend Engineer- Inference Services](https://jobs.ashbyhq.com/Deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5)
 <a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Mid`
@@ -174,6 +185,17 @@ _Lead security strategy and operations across infrastructure, application, and o
 _Build scalable software features and data engineering pipelines for financial services applications, including ETL processes, reporting infrastructure, and user-facing experiences. Role spans full development lifecycle from design through deployment across AWS cloud services. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Engineer-Software_R0058055)_
 
 `Java` `Python` `JavaScript` `SQL` `AWS (EMR, Lambda, EC2)` `Tableau` `ETL` `CI/CD`
+
+<sub>July 8, 2026 at 16:44 UTC</sub>
+
+---
+
+### [Principal Software Engineer](https://job-boards.greenhouse.io/marqeta/jobs/7873134)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Principal` `$242k-$303k` `Equity`
+
+_Own the technical roadmap and author system designs for Marqeta's card issuing and payment processing platform, spanning onboarding, digital wallets, authorization & clearing, transaction controls, and ledger systems. Requires 12+ years of hands-on software engineering experience with high-volume, low-latency payment infrastructure and multi-region systems at scale. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/7873134)_
+
+`Java` `Spring Boot` `Kubernetes` `Terraform` `Helm` `Kafka` `AWS` `Microservices`
 
 <sub>July 8, 2026 at 16:44 UTC</sub>
 
@@ -450,6 +472,17 @@ _Build and scale the Internal Engineering Platform (IEP) that powers Grafana Clo
 _Build and scale the internal engineering platform and Kubernetes infrastructure that powers Grafana Cloud's distributed observability stack, handling millions of metrics, logs, and traces per second. Drive platform maturity and reliability across multiple teams while optimizing for performance, cost, and developer productivity in a cloud-native architecture. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6108292004)_
 
 `Go` `Python` `Kubernetes` `Terraform` `Distributed Systems` `Karpenter` `Crossplane` `Jsonnet`
+
+<sub>July 2, 2026 at 23:15 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Banking and Money Movement](https://job-boards.greenhouse.io/marqeta/jobs/8015885)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$174k - $218k` `Equity`
+
+_Lead the design and delivery of large-scale financial services systems including account creation, transaction processing, payment systems, and reconciliation on Marqeta's card issuing platform. Requires 8+ years backend engineering experience and 3+ years in payments/FinTech, with autonomous ownership of multi-component systems serving major brands like Block, Affirm, and Uber. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8015885)_
+
+`Java` `Python` `PostgreSQL` `MySQL` `Microservices` `Distributed Systems` `AWS` `Kubernetes`
 
 <sub>July 2, 2026 at 23:15 UTC</sub>
 
@@ -1397,6 +1430,17 @@ _Build and maintain governance, risk, and compliance infrastructure across secur
 _Optimize and deploy high-performance LLM inference pipelines across data center, edge, and embedded platforms, owning inference runtimes and pushing model performance through quantization, kernel fusion, and cache optimization. Scale to 500+ million automotive deployments with zero external vendor dependency for inference. · [Apply →](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Engineer_R0005965)_
 
 `CUDA` `vLLM` `TensorRT-LLM` `llama.cpp` `Quantization (INT8/INT4/FP4/FP8)` `GPU Architecture` `Python`
+
+<sub>June 29, 2026 at 17:10 UTC</sub>
+
+---
+
+### [Manager, Software Engineering - Identity Platform](https://job-boards.greenhouse.io/marqeta/jobs/8035793)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Manager` `$174k-$218k` `Equity`
+
+_Lead the design and operation of an Identity Platform managing the full KYC/KYB lifecycle—from CIP verification at account opening through ongoing CDD, continuous risk monitoring, sanction screening, and AML/BSA compliance. Build AI-first automation systems to reduce manual review rates and scale identity verification across new regulatory jurisdictions. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8035793)_
+
+`Java` `Spring Boot` `Python` `Airflow` `KYC/KYB` `AML/BSA Compliance` `Identity Verification` `Event-Driven Architectures`
 
 <sub>June 29, 2026 at 17:10 UTC</sub>
 
