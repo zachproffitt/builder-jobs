@@ -2,9 +2,46 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **190 open roles** (24 new)
+### **188 open roles** (25 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## July 9, 2026
+
+### [Backend Engineer- Inference Services](https://jobs.ashbyhq.com/Deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5)
+<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Mid`
+
+_Build Deepgram's core inference services for speech-to-text, focusing on networking, audio processing, distributed compute orchestration, and latency optimization at scale. Experience with modern ML frameworks and audio processing is valuable for optimizing real-time speech models serving millions of requests. · [Apply →](https://jobs.ashbyhq.com/Deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5)_
+
+`Rust` `Python` `Distributed Systems` `High Performance Computing` `Audio Processing` `PyTorch` `Machine Learning`
+
+<sub>July 9, 2026 at 04:59 UTC</sub>
+
+---
+
+### [Applied ML Engineer](https://jobs.ashbyhq.com/Deepgram/94ae2781-a85f-493a-86c1-ff85a9289355)
+<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Senior`
+
+_Own the research-to-production pipeline for speech AI models—take research checkpoints through training, evaluation, packaging, and deployment to production at scale. Partner with research scientists to productionize Deepgram's speech-to-text and text-to-speech models running on a hybrid GPU cluster and cloud infrastructure, optimizing for accuracy, latency, and throughput under real production traffic. · [Apply →](https://jobs.ashbyhq.com/Deepgram/94ae2781-a85f-493a-86c1-ff85a9289355)_
+
+`Python` `PyTorch` `ML pipelines` `Model serving` `Inference optimization` `Distributed systems` `GPU compute` `CUDA`
+
+<sub>July 9, 2026 at 04:59 UTC</sub>
+
+---
+
+### [AI Forward Deployed Engineer - SAP Ariba](https://jobs.ashbyhq.com/zip/585c6ffa-0e0f-41ab-9a4a-979bb45f1714)
+<a href="https://ziphq.com"><img src="https://www.google.com/s2/favicons?domain=ziphq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Zip** · San Francisco, California · `🟢 Remote` `Mid` `$130k-$170k` `Equity`
+
+_Build and deploy AI agent solutions tailored to enterprise procurement workflows using Zip's AppStudio infrastructure, embedded directly at customer sites to solve high-priority operational problems. Requires 3+ years of hands-on SAP Ariba experience and demonstrated ability to build with AI agents (Claude, N8N, Make, Zapier) or similar automation platforms. · [Apply →](https://jobs.ashbyhq.com/zip/585c6ffa-0e0f-41ab-9a4a-979bb45f1714)_
+
+`SAP Ariba` `Claude` `N8N` `Make` `Zapier` `API Integration` `AI Agents`
+
+<sub>July 9, 2026 at 04:59 UTC</sub>
+
+---
 
 <br>
 
@@ -98,17 +135,6 @@ _Build the UX and product surface for agentic workflows in Prefect Cloud — exe
 
 ---
 
-### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
-
-_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
-
-`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
-
-<sub>July 8, 2026 at 20:24 UTC</sub>
-
----
-
 ### [Distinguished Engineer, Reactor Systems](https://job-boards.greenhouse.io/kairospower/jobs/6023687004)
 <a href="https://kairospower.com"><img src="https://www.google.com/s2/favicons?domain=kairospower.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kairos Power** · `🟢 Remote` `Principal`
 
@@ -148,17 +174,6 @@ _Lead security strategy and operations across infrastructure, application, and o
 _Build scalable software features and data engineering pipelines for financial services applications, including ETL processes, reporting infrastructure, and user-facing experiences. Role spans full development lifecycle from design through deployment across AWS cloud services. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Engineer-Software_R0058055)_
 
 `Java` `Python` `JavaScript` `SQL` `AWS (EMR, Lambda, EC2)` `Tableau` `ETL` `CI/CD`
-
-<sub>July 8, 2026 at 16:44 UTC</sub>
-
----
-
-### [Principal Software Engineer](https://job-boards.greenhouse.io/marqeta/jobs/7873134)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Principal` `$242k-$303k` `Equity`
-
-_Own the technical roadmap and author system designs for Marqeta's card issuing and payment processing platform, spanning onboarding, digital wallets, authorization & clearing, transaction controls, and ledger systems. Requires 12+ years of hands-on software engineering experience with high-volume, low-latency payment infrastructure and multi-region systems at scale. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/7873134)_
-
-`Java` `Spring Boot` `Kubernetes` `Terraform` `Helm` `Kafka` `AWS` `Microservices`
 
 <sub>July 8, 2026 at 16:44 UTC</sub>
 
@@ -311,17 +326,6 @@ _Design and develop scalable full-stack services and infrastructure for a custom
 
 ---
 
-### [Principal Platform Engineer, DevOps/Developer Experience](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Principal-Platform-Engineer--DevOps-Developer-Experience_JR20516)
-<a href="https://teladoc.com"><img src="https://www.google.com/s2/favicons?domain=teladoc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teladoc Health** · `🟢 Remote` `Principal` `$180k-$210k`
-
-_Lead cloud-native platform delivery and developer experience at scale, building reusable infrastructure patterns, observability standards, and CI/CD automation across a healthcare platform supporting millions of patients. Requires 12+ years operating production systems in regulated healthcare environments with hands-on Kubernetes, AWS/Azure, and Infrastructure-as-Code expertise. · [Apply →](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Principal-Platform-Engineer--DevOps-Developer-Experience_JR20516)_
-
-`Kubernetes` `Terraform` `AWS` `Azure` `CI/CD` `Infrastructure-as-Code` `Microservices Architecture` `Observability`
-
-<sub>July 6, 2026 at 17:48 UTC</sub>
-
----
-
 ### [Engineering Manager, Cell Infrastructure](https://job-boards.greenhouse.io/gitlab/jobs/8615946002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `Equity`
 
@@ -446,17 +450,6 @@ _Build and scale the Internal Engineering Platform (IEP) that powers Grafana Clo
 _Build and scale the internal engineering platform and Kubernetes infrastructure that powers Grafana Cloud's distributed observability stack, handling millions of metrics, logs, and traces per second. Drive platform maturity and reliability across multiple teams while optimizing for performance, cost, and developer productivity in a cloud-native architecture. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6108292004)_
 
 `Go` `Python` `Kubernetes` `Terraform` `Distributed Systems` `Karpenter` `Crossplane` `Jsonnet`
-
-<sub>July 2, 2026 at 23:15 UTC</sub>
-
----
-
-### [Staff Software Engineer - Banking and Money Movement](https://job-boards.greenhouse.io/marqeta/jobs/8015885)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$174k - $218k` `Equity`
-
-_Lead the design and delivery of large-scale financial services systems including account creation, transaction processing, payment systems, and reconciliation on Marqeta's card issuing platform. Requires 8+ years backend engineering experience and 3+ years in payments/FinTech, with autonomous ownership of multi-component systems serving major brands like Block, Affirm, and Uber. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8015885)_
-
-`Java` `Python` `PostgreSQL` `MySQL` `Microservices` `Distributed Systems` `AWS` `Kubernetes`
 
 <sub>July 2, 2026 at 23:15 UTC</sub>
 
@@ -1108,10 +1101,10 @@ _Build reusable security primitives and threat-modeling tools to secure AI-power
 
 ---
 
-### [Windows Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710785005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$143k-$179k` `Equity`
+### [Windows Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710781005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$191k—$239k CAD` `Equity`
 
-_Build and maintain the Windows client for Tailscale's secure network interconnection platform using WinUI, Windows App SDK, and C#. Implement native Windows platform features while contributing to cross-platform networking code in a security-focused product. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710785005)_
+_Build and maintain the Windows client for Tailscale's network interconnection platform using WinUI, Windows App SDK, C#, and Go. Implement native Windows platform features while contributing to cross-platform networking code in an early-stage, fully remote company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710781005)_
 
 `C#` `WinUI` `Windows App SDK` `Go` `XAML` `xUnit` `DNS` `VPN`
 
@@ -1404,17 +1397,6 @@ _Build and maintain governance, risk, and compliance infrastructure across secur
 _Optimize and deploy high-performance LLM inference pipelines across data center, edge, and embedded platforms, owning inference runtimes and pushing model performance through quantization, kernel fusion, and cache optimization. Scale to 500+ million automotive deployments with zero external vendor dependency for inference. · [Apply →](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/Sr-Principal-Software-Engineer_R0005965)_
 
 `CUDA` `vLLM` `TensorRT-LLM` `llama.cpp` `Quantization (INT8/INT4/FP4/FP8)` `GPU Architecture` `Python`
-
-<sub>June 29, 2026 at 17:10 UTC</sub>
-
----
-
-### [Manager, Software Engineering - Identity Platform](https://job-boards.greenhouse.io/marqeta/jobs/8035793)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Manager` `$174k-$218k` `Equity`
-
-_Lead the design and operation of an Identity Platform managing the full KYC/KYB lifecycle—from CIP verification at account opening through ongoing CDD, continuous risk monitoring, sanction screening, and AML/BSA compliance. Build AI-first automation systems to reduce manual review rates and scale identity verification across new regulatory jurisdictions. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8035793)_
-
-`Java` `Spring Boot` `Python` `Airflow` `KYC/KYB` `AML/BSA Compliance` `Identity Verification` `Event-Driven Architectures`
 
 <sub>June 29, 2026 at 17:10 UTC</sub>
 
