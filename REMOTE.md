@@ -2,13 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **207 open roles** (27 new)
+### **206 open roles** (26 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 9, 2026
+
+### [Senior Software Engineer, Dev Ops](https://job-boards.greenhouse.io/conga/jobs/5182918007)
+<a href="https://conga.com"><img src="https://www.google.com/s2/favicons?domain=conga.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Conga** · `🟢 Remote` `Senior`
+
+_Design and build CI/CD pipelines, cloud infrastructure, and Kubernetes platforms across AWS and Azure to enable rapid, reliable software delivery at scale. Senior infrastructure role requiring hands-on expertise in modern DevOps toolchains and cloud-native architectures supporting enterprise SaaS. · [Apply →](https://job-boards.greenhouse.io/conga/jobs/5182918007)_
+
+`Terraform` `Kubernetes` `Docker` `AWS` `Azure` `CloudFormation` `CI/CD` `Infrastructure as Code`
+
+<sub>July 9, 2026 at 23:18 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Dev Ops](https://job-boards.greenhouse.io/conga/jobs/5182920007)
+<a href="https://conga.com"><img src="https://www.google.com/s2/favicons?domain=conga.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Conga** · `🟢 Remote` `Staff`
+
+_Design and lead enterprise-scale cloud infrastructure, CI/CD pipelines, and Kubernetes platforms supporting Conga's SaaS solutions across AWS and Azure. Architect infrastructure-as-code solutions, drive cloud modernization, and establish DevOps best practices across engineering teams. · [Apply →](https://job-boards.greenhouse.io/conga/jobs/5182920007)_
+
+`Kubernetes` `Docker` `Terraform` `AWS` `Azure` `CloudFormation` `Infrastructure as Code` `Site Reliability Engineering`
+
+<sub>July 9, 2026 at 23:18 UTC</sub>
+
+---
 
 ### [Senior Product Security Engineer](https://jobs.ashbyhq.com/delinea/1b5d311f-5085-4772-afe7-40471ea491b3)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
@@ -175,12 +197,12 @@ _Lead a team of 8 data scientists building blockchain attribution models and dat
 
 ---
 
-### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex); design production-grade connectors that make ClickHouse a natural fit for RAG pipelines, vector stores, and ML feature stores. Requires hands-on production experience as a Data Engineer, Data Scientist, or ML Engineer, and deep expertise building and maintaining Python connectors or SDKs for major platforms. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)_
+_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex). Drive production-ready connectors that position ClickHouse as the natural choice for RAG architectures, ML feature pipelines, and LLM-powered data applications. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)_
 
-`Python` `Airflow` `Dagster` `dbt` `LangChain` `LlamaIndex` `Pandas` `Pydantic`
+`Python` `Airflow` `dbt` `Pandas` `NumPy` `Pydantic` `SQL` `async programming`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
@@ -277,17 +299,6 @@ _Build and deploy AI agent solutions tailored to enterprise procurement workflow
 <br>
 
 ## July 8, 2026
-
-### [Site Reliability Engineer II](https://job-boards.greenhouse.io/pingidentity/jobs/8582420002)
-<a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Mid` `CAD 87k-105k`
-
-_Build and maintain cloud infrastructure across multiple AWS accounts using Infrastructure as Code tools; manage 24/7 on-call rotations supporting enterprise identity and access management systems. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8582420002)_
-
-`AWS` `Terraform` `Python` `Bash` `Ansible` `Kubernetes` `Docker` `Jenkins`
-
-<sub>July 8, 2026 at 22:13 UTC</sub>
-
----
 
 ### [Staff Software Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer_JR115398)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Staff` `$185k-$297k` `Equity`
@@ -407,17 +418,6 @@ _Lead security strategy and operations across infrastructure, application, and o
 `AWS` `Incident Response` `Supply Chain Security` `Infrastructure Security` `Identity and Access Management` `Application Security` `Distributed Systems` `Payments`
 
 <sub>July 8, 2026 at 18:22 UTC</sub>
-
----
-
-### [Engineer Software](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Engineer-Software_R0058055)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Mid` `$87k-$123k`
-
-_Build scalable software features and data engineering pipelines for financial services applications, including ETL processes, reporting infrastructure, and user-facing experiences. Role spans full development lifecycle from design through deployment across AWS cloud services. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Engineer-Software_R0058055)_
-
-`Java` `Python` `JavaScript` `SQL` `AWS (EMR, Lambda, EC2)` `Tableau` `ETL` `CI/CD`
-
-<sub>July 8, 2026 at 16:44 UTC</sub>
 
 ---
 
@@ -771,17 +771,6 @@ _Build and modernize the financial data warehouse and ETL infrastructure powerin
 `AWS S3` `Python` `SQL` `Snowflake` `dbt` `Airflow` `Workato` `NetSuite`
 
 <sub>July 2, 2026 at 21:16 UTC</sub>
-
----
-
-### [Senior Software Engineer (RoR/Go), SSCS: Authentication](https://job-boards.greenhouse.io/gitlab/jobs/8614945002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$139k–$235k` `Equity`
-
-_Build GATE, GitLab's centralized identity and access management service for token issuance, validation, and authentication across multi-tenant SaaS, Self-Managed, Dedicated, and air-gapped deployments. Design and implement authentication mechanisms including passkeys, Workload Identity Federation, and composite identities while migrating authentication paths from the Rails monolith into Go-based GATE. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8614945002)_
-
-`Go` `Ruby` `OAuth` `OIDC` `SAML` `JWT` `Kubernetes`
-
-<sub>July 2, 2026 at 19:42 UTC</sub>
 
 ---
 
@@ -1927,12 +1916,12 @@ _Design and ship new capabilities for Command, Mercury's LLM-powered financial a
 
 ---
 
-### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Design, build, and operate petabyte-scale metrics infrastructure that processes millions of events per second, handling billing data and customer analytics across ClickHouse instances. Requires experience building fault-tolerant distributed systems and working in Kubernetes environments at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)_
+_Design, build, and operate petabyte-scale metrics collection and storage systems handling trillions of records and millions of events per second. Requires 5+ years building distributed systems and 2+ years with Golang; ClickHouse experience is a bonus. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)_
 
-`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `ArgoCD` `Distributed Systems` `PostgreSQL`
+`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `GCP` `Azure` `ArgoCD`
 
 <sub>June 26, 2026 at 15:54 UTC</sub>
 
@@ -1949,7 +1938,7 @@ _Build the end-to-end acquisition, activation, retention, and monetization funne
 
 ---
 
-### [Staff Software Engineer, Cloud Sandboxes (West Coast)](https://jobs.ashbyhq.com/docker/0c3291ff-141c-4dbd-8369-10f0d1e99d2c)
+### [Staff Software Engineer, Cloud Sandboxes (Seattle or SF/Bay Area)](https://jobs.ashbyhq.com/docker/0c3291ff-141c-4dbd-8369-10f0d1e99d2c)
 <a href="https://docker.com"><img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docker** · Seattle, Washington · `🟢 Remote` `Staff` `Equity`
 
 _Design and build the core infrastructure for Docker's cloud sandboxed environments, including microVM orchestration, workload scheduling, and multi-tenant control planes. Work on distributed systems at scale serving millions of developers; requires 10+ years of backend engineering experience with container orchestration and cloud platforms. · [Apply →](https://jobs.ashbyhq.com/docker/0c3291ff-141c-4dbd-8369-10f0d1e99d2c)_
