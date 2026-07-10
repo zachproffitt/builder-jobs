@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **187 open roles** (27 new)
+### **187 open roles** (25 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 10, 2026
+
+### [Senior Data Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/8047121)
+<a href="https://humaninterest.com"><img src="https://www.google.com/s2/favicons?domain=humaninterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Human Interest** · `🟢 Remote` `Senior` `$171k-$207k` `Equity`
+
+_Build and own the data platform infrastructure that ensures reliability and governance of data powering Human Interest's products, customer reporting, and business metrics. Lead the evolution toward an AI-first architecture that scales for both human analysts and AI consumption, with hands-on ownership of pipelines from ingestion through transformation to delivery. · [Apply →](https://job-boards.greenhouse.io/humaninterest/jobs/8047121)_
+
+`Python` `Snowflake` `Airflow` `dbt` `AWS` `Terraform` `Meltano` `data governance`
+
+<sub>July 10, 2026 at 07:43 UTC</sub>
+
+---
 
 ### [Senior Software Engineer I - App Observability](https://job-boards.greenhouse.io/honeycomb/jobs/5304116008)
 <a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$160k-$180k` `Equity`
@@ -907,17 +918,6 @@ _Build agentic workflows and RAG pipelines to automate Go-To-Market processes, i
 `Java` `Go` `Python` `LLMs` `RAG` `AWS` `Salesforce` `Distributed Systems`
 
 <sub>July 2, 2026 at 15:23 UTC</sub>
-
----
-
-### [Senior Support Engineer](https://job-boards.greenhouse.io/karbon/jobs/6107351004)
-<a href="https://karbonhq.com"><img src="https://www.google.com/s2/favicons?domain=karbonhq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**KarbonHQ** · `🟢 Remote` `Senior` `$107k-$120k` `Equity`
-
-_Lead root cause analysis and production troubleshooting for a global practice management platform, reading C# and .NET code to diagnose complex application and data-layer issues. Requires 5+ years at the deepest tier of B2B SaaS support, SQL expertise, and production investigation across distributed systems. · [Apply →](https://job-boards.greenhouse.io/karbon/jobs/6107351004)_
-
-`C#` `SQL` `Microsoft SQL Server` `Datadog` `Azure (Application Insights, Log Analytics, Kusto/KQL)` `PowerShell` `Python` `Elastic`
-
-<sub>July 2, 2026 at 07:37 UTC</sub>
 
 ---
 
