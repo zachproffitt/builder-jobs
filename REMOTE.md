@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **193 open roles** (31 new)
+### **191 open roles** (26 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -10,23 +10,45 @@ Remote engineering roles only — linking directly to each company's job board. 
 
 ## July 10, 2026
 
+### [AI Specialist](https://job-boards.greenhouse.io/launchdarkly/jobs/7800006003)
+<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$182k-$295k` `Equity`
+
+_Build integrations, technical content, and demos for LaunchDarkly's AgentControl product—a platform for AI engineers to release, monitor, and optimize AI agents. Drive early-stage adoption, establish Solutions Engineering frameworks, and gather product feedback that shapes development; requires deep expertise in multi-agent systems, LLM mechanics, and 12+ years of AI/ML engineering experience. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7800006003)_
+
+`Python` `PyTorch` `TensorFlow` `LangGraph` `LLMs` `Multi-Agent Systems` `MCP (Model Context Protocol)` `Transformer Architecture`
+
+<sub>July 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Staff Data Scientist, Finance & Business Ops](https://www.pinterestcareers.com/jobs/?gh_jid=8036273)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$164k–$339k` `Equity`
+
+_Own a forecasting and finance analytics product end to end — from data pipelines through interactive web UI for scenario modeling, backtesting, and diagnostics — while driving AI adoption across the CFO organization and advising executives on AI strategy and capability roadmaps. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8036273)_
+
+`Python` `SQL` `TypeScript` `JavaScript` `Time-Series Forecasting` `PyTorch` `TensorFlow` `Modern UI Frameworks`
+
+<sub>July 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Senior Android Engineer, Design System](https://job-boards.greenhouse.io/reddit/jobs/8055374)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k—$267k` `Equity`
+
+_Build and evolve Reddit's cross-platform design system and UI infrastructure on Android, creating reusable Compose components and architecture patterns that power experiences across the company. Focus on performance optimization, accessibility tooling, and developer experience at scale across 126M+ daily active users. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8055374)_
+
+`Kotlin` `Jetpack Compose` `Android` `UI Architecture` `Performance Optimization` `Accessibility`
+
+<sub>July 10, 2026 at 17:02 UTC</sub>
+
+---
+
 ### [Sr. Backend Engineer - Engine Team: API](https://jobs.ashbyhq.com/Deepgram/d98e6723-3485-4b58-9494-d6bf028fa905)
 <a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Senior`
 
 _Design and implement Deepgram's core inference services for speech processing, handling networking, audio transcoding, latency optimization, and distributed compute orchestration at scale. Work with complex system challenges in high-performance computing environments processing trillions of audio samples. · [Apply →](https://jobs.ashbyhq.com/Deepgram/d98e6723-3485-4b58-9494-d6bf028fa905)_
 
 `Rust` `Python` `C++` `Distributed Systems` `Audio Processing` `High Performance Computing` `Machine Learning frameworks (PyTorch)` `UNIX`
-
-<sub>July 10, 2026 at 14:43 UTC</sub>
-
----
-
-### [Principal Analyst, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Analyst--Falcon-Complete--Remote-_R29376)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$145k-$220k` `Equity`
-
-_Detect, investigate, and remediate security incidents in real-time across Windows, Mac, and Linux systems for CrowdStrike's global customer base processing 3 trillion events per day. Lead incident response efforts using malware analysis, forensic investigation, and network analysis; requires US citizenship or Green Card and willingness to work 4x10 schedule with hybrid on-site presence after training. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Analyst--Falcon-Complete--Remote-_R29376)_
-
-`Incident Response` `Malware Analysis` `Computer Forensics` `Network Forensics` `Python` `C` `Windows` `Linux`
 
 <sub>July 10, 2026 at 14:43 UTC</sub>
 
@@ -121,17 +143,6 @@ _Design and lead enterprise-scale cloud infrastructure, CI/CD pipelines, and Kub
 `Kubernetes` `Docker` `Terraform` `AWS` `Azure` `CloudFormation` `Infrastructure as Code` `Site Reliability Engineering`
 
 <sub>July 9, 2026 at 23:18 UTC</sub>
-
----
-
-### [Senior Product Security Engineer](https://jobs.ashbyhq.com/delinea/1b5d311f-5085-4772-afe7-40471ea491b3)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
-
-_Lead product security architecture, threat modeling, and secure design reviews across Delinea's identity security platform. Mature the security development lifecycle (S-SDLC) and integrate security testing tools (SAST, DAST, SCA) into development pipelines; requires 5+ years in product security with demonstrated expertise in threat modeling, cloud security, and application security. · [Apply →](https://jobs.ashbyhq.com/delinea/1b5d311f-5085-4772-afe7-40471ea491b3)_
-
-`Cloud Security` `Threat Modeling` `SAST` `DAST` `SCA` `Kubernetes` `Python` `Azure`
-
-<sub>July 9, 2026 at 21:35 UTC</sub>
 
 ---
 
@@ -458,17 +469,6 @@ _Build the UX and product surface for agentic workflows in Prefect Cloud — exe
 
 ---
 
-### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
-
-_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
-
-`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
-
-<sub>July 8, 2026 at 20:24 UTC</sub>
-
----
-
 ### [Distinguished Engineer, Reactor Systems](https://job-boards.greenhouse.io/kairospower/jobs/6023687004)
 <a href="https://kairospower.com"><img src="https://www.google.com/s2/favicons?domain=kairospower.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kairos Power** · `🟢 Remote` `Principal`
 
@@ -671,7 +671,7 @@ _Lead the design and delivery of multi-cloud cell placement and orchestration sy
 
 ---
 
-### [Software Developer II (Web), Migrate - ShareGate](https://job-boards.greenhouse.io/workleap/jobs/5136744007)
+### [Software Developer II (C#), Migrate - ShareGate](https://job-boards.greenhouse.io/workleap/jobs/5136744007)
 <a href="https://workleap.com"><img src="https://www.google.com/s2/favicons?domain=workleap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workleap** · `🟢 Remote` `Mid` `$100k-$130k CAD` `Equity`
 
 _Build a brand-new web application for ShareGate Migrate from scratch, shipping full-stack features with Microsoft 365 integration directly in the browser. Establish technical foundations and testing practices for a greenfield project serving thousands of IT professionals globally. · [Apply →](https://job-boards.greenhouse.io/workleap/jobs/5136744007)_
@@ -932,25 +932,14 @@ _Build and maintain the exposure management platform's backend services and APIs
 
 ---
 
-### [Billing Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710794005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$191k–$239k CAD` `Equity`
+### [Billing Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4710822005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$143k-$179k` `Equity`
 
-_Build and own Tailscale's billing platform, integrating third-party services like Stripe and Metronome to power usage-based and subscription pricing models. Drive metering logic, financial data accuracy, and billing system reliability across a fully distributed company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710794005)_
+_Build and own Tailscale's billing platform, integrating with third-party services like Stripe and Metronome to handle usage-based and subscription billing models at scale. Lead the full product lifecycle from system design to financial reporting, with responsibility for high-availability billing infrastructure, metering logic, and incident response for a fully distributed company. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710822005)_
 
-`Go` `Stripe` `SQL` `Distributed Systems` `PostgreSQL` `API Design` `Microservices` `Event-Driven Architecture`
+`Go` `Stripe` `PostgreSQL` `Distributed Systems` `Event-Driven Architecture` `Microservices` `API Design` `SaaS Billing`
 
 <sub>July 2, 2026 at 17:57 UTC</sub>
-
----
-
-### [Senior Data Scientist, Systems Performance](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k-$198.5k` `Equity`
-
-_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)_
-
-`Python` `SQL` `Statistical Analysis` `Causal Inference` `Machine Learning` `Autonomous Driving` `AWS` `Transformers`
-
-<sub>July 2, 2026 at 15:23 UTC</sub>
 
 ---
 
@@ -1501,17 +1490,6 @@ _Lead the development and deployment of financial data infrastructure, analytics
 
 ---
 
-### [Senior Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$172k-$229k` `Equity`
-
-_Develop motion control and trajectory optimization algorithms for production autonomous vehicles, implementing performance-critical control systems in C++ that enable safe and comfortable robotaxi behaviors. Experience with Model Predictive Control, motion planning under uncertainty, and numerical optimization solvers required for this role advancing commercial autonomous driving at scale. · [Apply →](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)_
-
-`C++` `Model Predictive Control` `Motion Planning` `IPOPT` `Gurobi` `Vehicle Dynamics` `Trajectory Optimization` `Python`
-
-<sub>June 30, 2026 at 13:46 UTC</sub>
-
----
-
 ### [Senior Manager, Software Engineering (Platform/Infra)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Manager--Software-Engineering--Platform-Infra-_JR115293)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$204k-$327k` `Equity`
 
@@ -2008,12 +1986,12 @@ _Design and ship new capabilities for Command, Mercury's LLM-powered financial a
 
 ---
 
-### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Design, build, and operate petabyte-scale metrics collection and storage systems handling trillions of records and millions of events per second. Requires 5+ years building distributed systems and 2+ years with Golang; ClickHouse experience is a bonus. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)_
+_Design, build, and operate petabyte-scale metrics infrastructure that processes millions of events per second, handling billing data and customer analytics across ClickHouse instances. Requires experience building fault-tolerant distributed systems and working in Kubernetes environments at scale. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)_
 
-`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `GCP` `Azure` `ArgoCD`
+`Golang` `Kubernetes` `Terraform` `ClickHouse` `AWS` `ArgoCD` `Distributed Systems` `PostgreSQL`
 
 <sub>June 26, 2026 at 15:54 UTC</sub>
 
