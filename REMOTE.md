@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **183 open roles** (37 new)
+### **185 open roles** (38 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 11, 2026
+
+### [Site Reliability Engineer, Intermediate to Senior Staff — Infrastructure Platforms](https://job-boards.greenhouse.io/gitlab/jobs/8623389002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$126k-$314k` `Equity`
+
+_Build and operate reliable, scalable production infrastructure on Kubernetes and cloud platforms (GCP/AWS) for GitLab.com serving 50M+ users; write infrastructure-as-code tooling, automation systems, and observability solutions to reduce toil at organizational scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8623389002)_
+
+`Go` `Ruby` `Kubernetes` `Terraform` `GCP` `AWS` `Infrastructure as Code` `Observability`
+
+<sub>July 11, 2026 at 03:32 UTC</sub>
+
+---
 
 ### [Red Team Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5320469008)
 <a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$320k-$405k` `Equity`
@@ -1630,6 +1641,17 @@ _Build and evolve edge infrastructure systems (CDN, ingress/egress proxies, rate
 _Lead the design, automation, and optimization of PostgreSQL and Amazon Aurora database infrastructure for a SaaS insurance platform processing billions of dollars in claims. Build monitoring, tuning, and scaling strategies while evolving into broader SRE responsibilities across the infrastructure stack. · [Apply →](https://jobs.ashbyhq.com/assured/49f06676-8e82-4320-856b-7ad11cb91378)_
 
 `PostgreSQL` `Amazon Aurora` `Terraform` `JavaScript` `TypeScript` `Node.js` `Docker` `Kubernetes`
+
+<sub>June 30, 2026 at 19:41 UTC</sub>
+
+---
+
+### [AI & Automations Lead](https://job-boards.greenhouse.io/hopskipdrive/jobs/6100043004)
+<a href="https://hopskipdrive.com"><img src="https://www.google.com/s2/favicons?domain=hopskipdrive.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**HopSkipDrive** · `🟢 Remote` `Senior` `$120k-$145k` `Equity`
+
+_Build shared infrastructure, governance frameworks, and AI/automation solutions for an organization handling children's transportation data and school operations. Own the review and deployment process for all corporate AI integrations, MCP servers, and agentic workflows across teams; requires hands-on building and security-first thinking in a regulated education data environment. · [Apply →](https://job-boards.greenhouse.io/hopskipdrive/jobs/6100043004)_
+
+`Python` `GCP` `n8n` `Claude` `MCP servers` `Prompt engineering` `IAM` `Google Apps Script`
 
 <sub>June 30, 2026 at 19:41 UTC</sub>
 
