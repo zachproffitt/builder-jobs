@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1560 open roles** (4 new) &nbsp;·&nbsp; 1742 companies searched
+### **1677 open roles** (4 new) &nbsp;·&nbsp; 1742 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 12, 2026
+
+### [Search Engineer](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7)
+<a href="https://www.firecrawl.dev"><img src="https://www.google.com/s2/favicons?domain=www.firecrawl.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Firecrawl** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$190k-$260k` `Equity`
+
+_Build the crawling, indexing, and retrieval systems for Firecrawl Search, a web-to-data platform serving AI agents. Own services end-to-end from design through production optimization, reducing latency and cost per query at scale. · [Apply →](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7)_
+
+`Backend Systems` `Distributed Systems` `Crawling Infrastructure` `Search Indexing` `Ranking Algorithms` `Cost Optimization`
+
+<sub>July 12, 2026 at 21:57 UTC</sub>
+
+---
 
 ### [Staff Software Engineer (C#, Cloud)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Staff-Software-Engineer--C---Cloud-_JREQ201794)
 <a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Staff` `$127k-$236k` `Equity`
@@ -42,21 +53,6 @@ _Build and operate a distributed data platform processing billions of events per
 `Python` `Spark` `Kafka` `Flink` `BigQuery` `Scala` `Go` `Java`
 
 <sub>July 12, 2026 at 09:07 UTC</sub>
-
----
-
-<br>
-
-## July 11, 2026
-
-### [Machine Learning Engineer - Quality Intelligence](https://jobs.ashbyhq.com/AfterQuery/a06f0b5f-63f6-4e33-a195-e2f5d5f6e1b1)
-<a href="https://afterquery.com"><img src="https://www.google.com/s2/favicons?domain=afterquery.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AfterQuery** · San Francisco, California · `Mid`
-
-_Build ML systems that measure, predict, and improve data quality across foundation model datasets—including expert matching, anomaly detection, and evaluation infrastructure. This is a founding role at a $300M+ valued AI data company directly integrated into the workflows of frontier AI labs. · [Apply →](https://jobs.ashbyhq.com/AfterQuery/a06f0b5f-63f6-4e33-a195-e2f5d5f6e1b1)_
-
-`Machine Learning` `Python` `Data pipelines` `Ranking systems` `Anomaly detection` `Production ML systems` `SQL` `Distributed systems`
-
-<sub>July 11, 2026 at 21:55 UTC</sub>
 
 ---
 

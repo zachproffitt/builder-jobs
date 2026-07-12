@@ -2,9 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **183 open roles** (0 new)
+### **183 open roles** (1 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## July 12, 2026
+
+### [Search Engineer](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7)
+<a href="https://www.firecrawl.dev"><img src="https://www.google.com/s2/favicons?domain=www.firecrawl.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Firecrawl** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$190k-$260k` `Equity`
+
+_Build the crawling, indexing, and retrieval systems for Firecrawl Search, a web-to-data platform serving AI agents. Own services end-to-end from design through production optimization, reducing latency and cost per query at scale. · [Apply →](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7)_
+
+`Backend Systems` `Distributed Systems` `Crawling Infrastructure` `Search Indexing` `Ranking Algorithms` `Cost Optimization`
+
+<sub>July 12, 2026 at 21:57 UTC</sub>
+
+---
 
 <br>
 
@@ -124,12 +139,12 @@ _Build and maintain integrations between Hudu and third-party PSA/RMM platforms 
 
 ---
 
-### [Engineering Manager, Order Experience](https://instacart.careers/job/?gh_jid=8056110)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAN$196k–CAN$207k` `Equity`
+### [Engineering Manager, Order Experience](https://instacart.careers/job/?gh_jid=8056109)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
 
-_Lead an 8+ person engineering team owning Instacart's mission-critical checkout, order management, and post-order quality infrastructure that directly impacts conversion and reliability at scale. Manage 10+ cross-functional partner dependencies while balancing near-term shipping with long-term platform modernization in a high-transaction e-commerce environment. · [Apply →](https://instacart.careers/job/?gh_jid=8056110)_
+_Lead an 8+ person engineering team owning checkout architecture, order management, and post-order quality systems at the core of Instacart's e-commerce platform. Navigate high-volume cross-functional dependencies across 10+ partner teams while balancing platform modernization with shipping customer-facing value in a mission-critical, conversion-impacting domain. · [Apply →](https://instacart.careers/job/?gh_jid=8056109)_
 
-`Backend Systems` `Order Management` `Checkout Architecture` `Distributed Systems` `E-commerce`
+`Backend Systems` `E-commerce Infrastructure` `Order Management` `Checkout Architecture` `Payment Systems` `Distributed Systems` `Team Leadership` `Cross-functional Coordination`
 
 <sub>July 10, 2026 at 22:10 UTC</sub>
 
@@ -621,12 +636,12 @@ _Lead a team of 8 data scientists building blockchain attribution models and dat
 
 ---
 
-### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex). Drive production-ready connectors that position ClickHouse as the natural choice for RAG architectures, ML feature pipelines, and LLM-powered data applications. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)_
+_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex); design production-grade connectors that make ClickHouse a natural fit for RAG pipelines, vector stores, and ML feature stores. Requires hands-on production experience as a Data Engineer, Data Scientist, or ML Engineer, and deep expertise building and maintaining Python connectors or SDKs for major platforms. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)_
 
-`Python` `Airflow` `dbt` `Pandas` `NumPy` `Pydantic` `SQL` `async programming`
+`Python` `Airflow` `Dagster` `dbt` `LangChain` `LlamaIndex` `Pandas` `Pydantic`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
@@ -774,6 +789,17 @@ _Own mobile distribution infrastructure for thousands of branded restaurant apps
 _Build the UX and product surface for agentic workflows in Prefect Cloud — execution plans, no-code agent authoring, human-in-the-loop gates — shipping end-to-end features that help developers orchestrate AI agents at scale. Requires deep knowledge of orchestration and developer-tools platforms (Airflow, Temporal, Langsmith, n8n) and fluency with AI development tools like Claude Code. · [Apply →](https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171)_
 
 `TypeScript` `Vue` `Python` `React` `full-stack development` `Orchestration Platforms` `Claude Code`
+
+<sub>July 8, 2026 at 20:24 UTC</sub>
+
+---
+
+### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
+
+_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
+
+`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
 
 <sub>July 8, 2026 at 20:24 UTC</sub>
 
@@ -1239,17 +1265,6 @@ _Build and own Tailscale's billing platform, integrating third-party services li
 `Go` `Stripe` `SQL` `Distributed Systems` `PostgreSQL` `API Design` `Microservices` `Event-Driven Architecture`
 
 <sub>July 2, 2026 at 17:57 UTC</sub>
-
----
-
-### [Senior Data Scientist, Systems Performance](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k-$198.5k` `Equity`
-
-_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)_
-
-`Python` `SQL` `Statistical Analysis` `Causal Inference` `Machine Learning` `Autonomous Driving` `AWS` `Transformers`
-
-<sub>July 2, 2026 at 15:23 UTC</sub>
 
 ---
 
@@ -1795,17 +1810,6 @@ _Own the health, stability, and performance of production data pipelines, wareho
 _Lead the development and deployment of financial data infrastructure, analytics pipelines, and AI solutions across accounting, FP&A, and revenue operations. Manage a team of data analysts while owning the data warehouse strategy, governance framework, and BI tooling (Tableau/Snowflake) for a publicly traded, hypergrowth SaaS company processing mission-critical financial data at scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Finance-Data---Analytics-Manager--Remote-_R29218-1)_
 
 `SQL` `Snowflake` `Tableau` `Salesforce` `NetSuite` `Coupa` `ServiceNow` `Python`
-
-<sub>June 30, 2026 at 13:46 UTC</sub>
-
----
-
-### [Senior Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Remote · `🟢 Remote` `Senior` `$172k-$229k` `Equity`
-
-_Develop motion control and trajectory optimization algorithms for production autonomous vehicles, implementing performance-critical control systems in C++ that enable safe and comfortable robotaxi behaviors. Experience with Model Predictive Control, motion planning under uncertainty, and numerical optimization solvers required for this role advancing commercial autonomous driving at scale. · [Apply →](https://motional.com/open-positions/?gh_jid=7789999003#/7789999003)_
-
-`C++` `Model Predictive Control` `Motion Planning` `IPOPT` `Gurobi` `Vehicle Dynamics` `Trajectory Optimization` `Python`
 
 <sub>June 30, 2026 at 13:46 UTC</sub>
 
