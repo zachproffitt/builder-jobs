@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1576 open roles** (6 new) &nbsp;·&nbsp; 1742 companies searched
+### **1689 open roles** (7 new) &nbsp;·&nbsp; 1742 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 12, 2026
+
+### [Senior Software Engineer, Realtime Imaging](https://boards.greenhouse.io/andurilindustries/jobs/5185274007?gh_jid=5185274007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
+
+_Implement and deploy real-time image processing software for infrared imaging systems on embedded, SWAP-limited hardware. Work on high-bandwidth processing pipelines in C++ and CUDA for defense applications; requires active U.S. security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5185274007?gh_jid=5185274007)_
+
+`C++` `CUDA` `Linux` `NixOS` `Nix` `Python` `Rust` `TS/SCI Clearance`
+
+<sub>July 12, 2026 at 13:42 UTC</sub>
+
+---
 
 ### [Software Engineer - X Data](https://job-boards.greenhouse.io/xai/jobs/5182183007)
 <a href="https://x.ai"><img src="https://www.google.com/s2/favicons?domain=x.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**xAI** · Palo Alto, California · `Mid` `$125k-$400k` `Equity`
