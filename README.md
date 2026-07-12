@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1697 open roles** (6 new) &nbsp;·&nbsp; 1742 companies searched
+### **1560 open roles** (4 new) &nbsp;·&nbsp; 1742 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -57,28 +57,6 @@ _Build ML systems that measure, predict, and improve data quality across foundat
 `Machine Learning` `Python` `Data pipelines` `Ranking systems` `Anomaly detection` `Production ML systems` `SQL` `Distributed systems`
 
 <sub>July 11, 2026 at 21:55 UTC</sub>
-
----
-
-### [Principal Software Engineer - Backend](https://job-boards.greenhouse.io/dragos/jobs/5287904008)
-<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Principal` `$225k` `Equity`
-
-_Design and implement robust, high-performance backend systems in Rust for the leading OT cybersecurity platform serving critical infrastructure operators. Lead architectural decisions across multiple teams and mentor senior engineers in a distributed systems environment handling industrial control system data at scale. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5287904008)_
-
-`Rust` `PostgreSQL` `Elasticsearch` `Kubernetes` `Docker` `Prometheus` `Terraform` `Microservices Architecture`
-
-<sub>July 11, 2026 at 20:58 UTC</sub>
-
----
-
-### [GTM Systems Engineer, Salesforce](https://jobs.ashbyhq.com/ramp/ffc09fc0-7785-48db-a203-a148f62534be)
-<a href="https://ramp.com"><img src="https://www.google.com/s2/favicons?domain=ramp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ramp** · New York, New York · `Senior`
-
-_Design and develop Salesforce applications, integrations, and data pipelines to scale Ramp's GTM systems handling billions in business spend. Build solutions across Salesforce, Python-based integrations, and iPaaS platforms (Workato, Clay) with architectural responsibility for system maturity. · [Apply →](https://jobs.ashbyhq.com/ramp/ffc09fc0-7785-48db-a203-a148f62534be)_
-
-`Salesforce` `Apex` `Python` `Lightning Web Components` `Systems Architecture` `Integrations` `API Design` `dbt`
-
-<sub>July 11, 2026 at 20:58 UTC</sub>
 
 ---
 
