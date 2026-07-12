@@ -2,11 +2,26 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1677 open roles** (5 new) &nbsp;·&nbsp; 1742 companies searched
+### **1578 open roles** (6 new) &nbsp;·&nbsp; 1742 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## July 12, 2026
+
+### [Software Engineer - X Data](https://job-boards.greenhouse.io/xai/jobs/5182183007)
+<a href="https://x.ai"><img src="https://www.google.com/s2/favicons?domain=x.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**xAI** · Palo Alto, California · `Mid` `$125k-$400k` `Equity`
+
+_Build and operate a distributed data platform processing billions of events per day, designing production-grade realtime and batch pipelines that power user-behavior insights, product decisions, and internal data products across the company. Own data correctness end-to-end and partner with product, safety, and business teams to surface high-impact data opportunities. · [Apply →](https://job-boards.greenhouse.io/xai/jobs/5182183007)_
+
+`Python` `Spark` `Kafka` `Flink` `BigQuery` `Scala` `Go` `Java`
+
+<sub>July 12, 2026 at 09:07 UTC</sub>
+
+---
 
 <br>
 
