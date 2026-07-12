@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1563 open roles** (6 new) &nbsp;·&nbsp; 1742 companies searched
+### **1697 open roles** (6 new) &nbsp;·&nbsp; 1742 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 12, 2026
+
+### [Staff Software Engineer (C#, Cloud)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Staff-Software-Engineer--C---Cloud-_JREQ201794)
+<a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Thomson Reuters** · `🟡 Hybrid` `Staff` `$127k-$236k` `Equity`
+
+_Lead the design and development of enterprise AI services and LLM orchestration platforms across AWS, Azure, and GCP, building foundational components for Agentic AI and intelligent automation. Provide hands-on technical leadership to a team while championing security-by-design principles and evaluating emerging AI architectures. · [Apply →](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Staff-Software-Engineer--C---Cloud-_JREQ201794)_
+
+`C#` `Azure` `AWS` `GCP` `Python` `SQL` `Docker` `CI/CD`
+
+<sub>July 12, 2026 at 19:15 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Realtime Imaging](https://boards.greenhouse.io/andurilindustries/jobs/5185274007?gh_jid=5185274007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
@@ -68,17 +79,6 @@ _Design and develop Salesforce applications, integrations, and data pipelines to
 `Salesforce` `Apex` `Python` `Lightning Web Components` `Systems Architecture` `Integrations` `API Design` `dbt`
 
 <sub>July 11, 2026 at 20:58 UTC</sub>
-
----
-
-### [Staff Software Engineer (Backend) - Everand Core](https://jobs.ashbyhq.com/ScribdInc/c8fbcc07-e25a-4aa1-8208-306659febb36)
-<a href="https://scribd.com"><img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribd** · San Francisco, California / Remote · `🟢 Remote` `Staff` `$141k-$254k` `Equity`
-
-_Own the backend platform powering Everand's web and mobile reading experiences, including services for discoverability, personalization, and core consumption journeys. Set technical direction through design and architecture work, modernize legacy systems, and mentor engineers across a distributed backend team. · [Apply →](https://jobs.ashbyhq.com/ScribdInc/c8fbcc07-e25a-4aa1-8208-306659febb36)_
-
-`Ruby` `Python` `Go` `Scala` `Distributed Systems` `PostgreSQL` `Observability`
-
-<sub>July 11, 2026 at 19:14 UTC</sub>
 
 ---
 
