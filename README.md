@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1700 open roles** (51 new) &nbsp;·&nbsp; 1742 companies searched
+### **1699 open roles** (49 new) &nbsp;·&nbsp; 1742 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -12,12 +12,12 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## July 13, 2026
 
-### [Software Engineer, Dev Tools](https://careers.airbnb.com/positions/8055229?gh_jid=8055229)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$162k-$190k` `Equity`
+### [Senior Software Engineer I (Full Stack), Cyber Risk (Remote Canada)](https://jobs.ashbyhq.com/optro/6dd0088a-00fa-4ad7-b770-ad0318d916f4)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
 
-_Build and operate cloud development environments and async agent execution platforms on Kubernetes, handling infrastructure for millions of concurrent developer and AI workloads. Scale distributed systems across container orchestration, source control, CI/CD validation, and monorepo tooling while optimizing for both developer productivity and infrastructure cost. · [Apply →](https://careers.airbnb.com/positions/8055229?gh_jid=8055229)_
+_Build and ship full-stack product features end-to-end across our audit, risk, and InfoSec platform serving 50%+ of Fortune 500. Lead application architecture decisions, mentor engineers, and design scalable systems handling enterprise-scale compliance and security workflows. · [Apply →](https://jobs.ashbyhq.com/optro/6dd0088a-00fa-4ad7-b770-ad0318d916f4)_
 
-`Kubernetes` `Docker` `AWS` `Go` `Python` `Distributed Systems` `CI/CD` `GitHub`
+`Node.js` `React` `Ember` `PostgreSQL` `Docker` `Kubernetes` `TypeScript` `Python`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -29,17 +29,6 @@ _Build and operate cloud development environments and async agent execution plat
 _Lead the design, development, and production deployment of enterprise AI/ML solutions driving measurable business outcomes in healthcare. Architect scalable end-to-end systems for model training, evaluation, deployment, and lifecycle management across regulated healthcare environments. · [Apply →](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CA-WALNUT-CREEK-2121-N-CALIFORNIA-BLVD-7TH-FL/Principal-Applied-Scientist_JR198938-1)_
 
 `Python` `PyTorch` `TensorFlow` `MLOps` `Kubernetes` `AWS` `Generative AI` `Large Language Models`
-
-<sub>July 13, 2026 at 14:51 UTC</sub>
-
----
-
-### [Senior Software Engineer I (Full Stack), Cyber Risk (Remote Canada)](https://jobs.ashbyhq.com/optro/6dd0088a-00fa-4ad7-b770-ad0318d916f4)
-<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
-
-_Build and ship full-stack product features end-to-end across our audit, risk, and InfoSec platform serving 50%+ of Fortune 500. Lead application architecture decisions, mentor engineers, and design scalable systems handling enterprise-scale compliance and security workflows. · [Apply →](https://jobs.ashbyhq.com/optro/6dd0088a-00fa-4ad7-b770-ad0318d916f4)_
-
-`Node.js` `React` `Ember` `PostgreSQL` `Docker` `Kubernetes` `TypeScript` `Python`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -73,17 +62,6 @@ _Build and maintain Ubuntu and open source software across the full Linux stack�
 _Build and extend Linux kernel network stack systems handling egress traffic across Cloudflare's global infrastructure, impacting millions of customers. Work on packet-processing software and distributed systems at massive scale; requires deep expertise in eBPF, BGP routing, and systems-level programming. · [Apply →](https://boards.greenhouse.io/cloudflare/jobs/7541032?gh_jid=7541032)_
 
 `Linux Kernel` `eBPF` `BGP` `Go` `Rust` `C` `Python` `Distributed Systems`
-
-<sub>July 13, 2026 at 14:51 UTC</sub>
-
----
-
-### [Manager, Forward Deployed Engineering - Public Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8629163002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Washington, D.C. / Maryland / Virginia · `🟡 Hybrid` `Manager` `$211k-$291k` `Equity`
-
-_Lead a team of Forward Deployed Engineers architecting and delivering mission-critical data platform migrations, AI/ML systems, and lakehouse modernizations for strategic enterprise customers in the public sector. Requires active U.S. government security clearance and periodic on-site work in the DC/MD/VA region. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8629163002)_
-
-`Databricks` `Apache Spark` `Delta Lake` `MLflow` `TS/SCI Clearance`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -128,6 +106,17 @@ _Lead backend platform architecture and microservices systems for regulatory com
 _Lead a portfolio of backend microservices and distributed systems projects serving millions of customers, mentoring engineers and architecting cloud-based solutions on AWS. Requires team leadership experience and hands-on coding across Java, Python, Go, and Scala. · [Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End--Enterprise-Platforms-Technology-_R246271-1)_
 
 `Java` `Python` `Go` `Scala` `Node.js` `AWS` `Kubernetes` `Docker`
+
+<sub>July 13, 2026 at 14:51 UTC</sub>
+
+---
+
+### [Manager, Forward Deployed Engineering - Public Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8629163002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Washington, D.C. / Maryland / Virginia · `🟡 Hybrid` `Manager` `$211k-$291k` `Equity`
+
+_Lead a team of Forward Deployed Engineers architecting and delivering mission-critical data platform migrations, AI/ML systems, and lakehouse modernizations for strategic enterprise customers in the public sector. Requires active U.S. government security clearance and periodic on-site work in the DC/MD/VA region. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8629163002)_
+
+`Databricks` `Apache Spark` `Delta Lake` `MLflow` `TS/SCI Clearance`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -563,17 +552,6 @@ _Build developer-facing product features for Firecrawl's web scraping API, shipp
 `API Design` `Web Scraping` `LLM Integration` `Product Thinking` `Developer Experience`
 
 <sub>July 12, 2026 at 22:56 UTC</sub>
-
----
-
-### [Search Engineer](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7)
-<a href="https://www.firecrawl.dev"><img src="https://www.google.com/s2/favicons?domain=www.firecrawl.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Firecrawl** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$190k-$260k` `Equity`
-
-_Build the crawling, indexing, and retrieval systems for Firecrawl Search, a web-to-data platform serving AI agents. Own services end-to-end from design through production optimization, reducing latency and cost per query at scale. · [Apply →](https://jobs.ashbyhq.com/firecrawl/762b4426-b4aa-4377-96d3-51f40c59cbf7)_
-
-`Backend Systems` `Distributed Systems` `Crawling Infrastructure` `Search Indexing` `Ranking Algorithms` `Cost Optimization`
-
-<sub>July 12, 2026 at 21:57 UTC</sub>
 
 ---
 
