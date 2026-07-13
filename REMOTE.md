@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **189 open roles** (5 new)
+### **188 open roles** (6 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 13, 2026
+
+### [Senior System Software Engineer for Cloud – GeForce NOW](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-System-Software-Engineer-for-Cloud---GeForce-NOW_JR2021248)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$184k-$287.5k` `Equity`
+
+_Design and build scalable cloud-based systems for GeForce NOW's game streaming service, including Kubernetes infrastructure, microservices, and observability solutions serving millions of users. Deep expertise in distributed systems, container orchestration, and cloud-native architecture required. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-System-Software-Engineer-for-Cloud---GeForce-NOW_JR2021248)_
+
+`Kubernetes` `Golang` `Java` `Python` `AWS` `Docker` `Terraform` `Prometheus`
+
+<sub>July 13, 2026 at 11:20 UTC</sub>
+
+---
 
 ### [Growth Engineer, Support Engineering](https://jobs.ashbyhq.com/firecrawl/61f134a9-d91f-4b7b-a35d-14c60916454e)
 <a href="https://www.firecrawl.dev"><img src="https://www.google.com/s2/favicons?domain=www.firecrawl.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Firecrawl** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$205k–$250k` `Equity`
@@ -837,17 +848,6 @@ _Own mobile distribution infrastructure for thousands of branded restaurant apps
 _Build the UX and product surface for agentic workflows in Prefect Cloud — execution plans, no-code agent authoring, human-in-the-loop gates — shipping end-to-end features that help developers orchestrate AI agents at scale. Requires deep knowledge of orchestration and developer-tools platforms (Airflow, Temporal, Langsmith, n8n) and fluency with AI development tools like Claude Code. · [Apply →](https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171)_
 
 `TypeScript` `Vue` `Python` `React` `full-stack development` `Orchestration Platforms` `Claude Code`
-
-<sub>July 8, 2026 at 20:24 UTC</sub>
-
----
-
-### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
-
-_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
-
-`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
 
 <sub>July 8, 2026 at 20:24 UTC</sub>
 
@@ -2049,17 +2049,6 @@ _Define architecture and technical direction for core product systems spanning c
 _Lead the safety strategy and development lifecycle for autonomous vehicles, defining validation approaches across operational design domains, machine learning model training, and deployment. Own functional safety case development per UL4600 and ISO26262, mentor a safety engineering team, and ensure compliance with autonomous vehicle safety standards across simulation, closed courses, and public roads. · [Apply →](https://job-boards.greenhouse.io/maymobility/jobs/8612302002)_
 
 `ISO 26262` `ISO 8800` `ISO 21448` `UL 4600` `Autonomous Vehicles` `Machine Learning Safety` `Functional Safety` `ISO 24118`
-
-<sub>June 29, 2026 at 18:52 UTC</sub>
-
----
-
-### [Sr. Engineer, Governance, Risk & Compliance (TPRM)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)
-<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
-
-_Build and maintain governance, risk, and compliance infrastructure across security tools (SIEM, DLP, IAM, PAM) and GRC platforms; integrate solutions with enterprise systems to support compliance frameworks like SOC 2, HITRUST, HIPAA, and PCI. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer--Governance--Risk---Compliance--TPRM-_R-101711)_
-
-`SIEM` `DLP` `IAM` `PAM` `NIST CSF` `SOC 2` `HITRUST` `AWS`
 
 <sub>June 29, 2026 at 18:52 UTC</sub>
 
