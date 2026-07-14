@@ -552,17 +552,6 @@ _Design and build backend systems and APIs in Go for Honeycomb's observability p
 
 ## July 9, 2026
 
-### [Senior Software Engineer, Dev Ops](https://job-boards.greenhouse.io/conga/jobs/5182918007)
-<a href="https://conga.com"><img src="https://www.google.com/s2/favicons?domain=conga.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Conga** · `🟢 Remote` `Senior`
-
-_Design and build CI/CD pipelines, cloud infrastructure, and Kubernetes platforms across AWS and Azure to enable rapid, reliable software delivery at scale. Senior infrastructure role requiring hands-on expertise in modern DevOps toolchains and cloud-native architectures supporting enterprise SaaS. · [Apply →](https://job-boards.greenhouse.io/conga/jobs/5182918007)_
-
-`Terraform` `Kubernetes` `Docker` `AWS` `Azure` `CloudFormation` `CI/CD` `Infrastructure as Code`
-
-<sub>July 9, 2026 at 23:18 UTC</sub>
-
----
-
 ### [Staff Software Engineer, Dev Ops](https://job-boards.greenhouse.io/conga/jobs/5182920007)
 <a href="https://conga.com"><img src="https://www.google.com/s2/favicons?domain=conga.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Conga** · `🟢 Remote` `Staff`
 
@@ -717,12 +706,12 @@ _Lead a team of 8 data scientists building blockchain attribution models and dat
 
 ---
 
-### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex); design production-grade connectors that make ClickHouse a natural fit for RAG pipelines, vector stores, and ML feature stores. Requires hands-on production experience as a Data Engineer, Data Scientist, or ML Engineer, and deep expertise building and maintaining Python connectors or SDKs for major platforms. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)_
+_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex). Drive production-ready connectors that position ClickHouse as the natural choice for RAG architectures, ML feature pipelines, and LLM-powered data applications. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)_
 
-`Python` `Airflow` `Dagster` `dbt` `LangChain` `LlamaIndex` `Pandas` `Pydantic`
+`Python` `Airflow` `dbt` `Pandas` `NumPy` `Pydantic` `SQL` `async programming`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
@@ -1474,6 +1463,17 @@ _Build production pipelines and platform systems that transform threat intellige
 
 ---
 
+### [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Asheville, Ohio / Atlanta, Georgia / Boston, Massachusetts / Costa Mesa, California / Remote / Seattle, Washington / Washington, D.C. · `🟢 Remote` `Mid` `$129k-$220k` `Equity`
+
+_Build log aggregation pipelines and security data lake infrastructure to centralize security visibility across Anduril's defense technology systems. Requires TS/SCI clearance and hands-on work with ETL at scale in AWS/Azure/GCP environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007)_
+
+`Spark` `DuckDB` `Go` `Rust` `Terraform` `AWS` `ETL` `TS/SCI Clearance`
+
+<sub>July 1, 2026 at 16:54 UTC</sub>
+
+---
+
 ### [IT Engineering Lead](https://jobs.ashbyhq.com/elevenlabs/3a75a63b-5f28-4688-9963-d9607e21ae67)
 <a href="https://elevenlabs.io"><img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ElevenLabs** · `🟢 Remote` `Manager` `Equity`
 
@@ -1485,12 +1485,12 @@ _Lead and build IT infrastructure and security systems for a rapidly growing AI 
 
 ---
 
-### [Staff Applied Scientist (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6105870004)
-<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · Remote, Ontario, Canada · `🟢 Remote` `Staff` `$169k-$252k CAD` `Equity`
+### [Staff Applied Scientist (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6105868004)
+<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · `🟢 Remote` `Staff` `$191k-$287k` `Equity`
 
-_Lead R&D for AI/ML models powering perishable inventory replenishment, researching and implementing demand forecasting, inventory decay modeling, and multi-echelon supply chain optimization that orchestrates billions of ordering decisions daily across 10%+ of U.S. grocery market. Requires expertise in stochastic optimization, operations research, and ability to drive research from conception through production-grade Python implementations. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6105870004)_
+_Lead R&D for AI/ML models powering fresh inventory replenishment across billions of daily ordering decisions—research and implement demand forecasting, perishability modeling, and multi-echelon inventory optimization systems. Work directly on high-impact problems in a high-volatility domain with immediate visibility to production impact and measurable food waste reduction. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6105868004)_
 
-`Python` `Machine Learning` `Operations Research` `Stochastic Optimization` `Demand Forecasting` `Inventory Optimization` `Supply Chain Optimization` `PyTorch`
+`Python` `PyTorch` `Operations Research` `Stochastic Optimization` `Inventory Optimization` `Demand Forecasting` `Supply Chain Optimization` `Approximate Dynamic Programming`
 
 <sub>July 1, 2026 at 15:09 UTC</sub>
 
