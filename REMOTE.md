@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **135 open roles** (0 new)
+### **134 open roles** (0 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -60,17 +60,6 @@ _Design and build the core backend services for an AI-native data intelligence a
 _Build the core reasoning, planning, and tool integration for an AI agent that assists enterprise users in developing low-code applications; own both the agentic intelligence and the backend systems that power it at scale. Work directly with the VP of Agentic AI on a high-impact product serving Fortune 500 companies in regulated industries. · [Apply →](https://www.unqork.com/career-details/?gh_jid=8584611002)_
 
 `TypeScript` `Python` `LLM/RAG systems` `Backend Systems` `Agent Frameworks` `React` `PostgreSQL` `Observability`
-
-<sub>July 13, 2026 at 14:51 UTC</sub>
-
----
-
-### [Software Engineer, OpenShell](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$184k-$287.5k` `Equity`
-
-_Build runtime infrastructure and developer workflows for secure, production-grade AI agents; translate cutting-edge agentic research into enterprise-ready systems. Requires hands-on prototyping, evaluation frameworks, and red-teaming of agent safety and security. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)_
-
-`Python` `PyTorch` `LLMs` `Kubernetes` `Ray` `vLLM` `TensorRT-LLM` `Triton`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -761,6 +750,17 @@ _Design and execute sophisticated penetration tests, red team operations, and cu
 
 ---
 
+### [Data Analyst, Software Engineering Track ](https://job-boards.greenhouse.io/acuitymd/jobs/6111981004)
+<a href="https://acuitymd.com"><img src="https://www.google.com/s2/favicons?domain=acuitymd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AcuityMD** · `🟢 Remote` `Junior` `$80k-$100k` `Equity`
+
+_Investigate customer data issues using SQL and Python while building expertise in AcuityMD's healthcare data platform and pipelines. Track for transition into Junior Software Engineer role with hands-on mentorship from experienced engineers on modern development practices and AI-assisted tooling. · [Apply →](https://job-boards.greenhouse.io/acuitymd/jobs/6111981004)_
+
+`SQL` `Python` `BigQuery` `Git`
+
+<sub>July 8, 2026 at 20:24 UTC</sub>
+
+---
+
 ### [Senior Software Engineer, Mobile Platform - Guest App (Remote, Canada)](https://jobs.ashbyhq.com/owner/128eeff3-a353-47e7-96c8-7960a1ee50ff)
 <a href="https://owner.com"><img src="https://www.google.com/s2/favicons?domain=owner.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Owner** · `🟢 Remote` `Senior` `$190k-$220k` `Equity`
 
@@ -789,6 +789,17 @@ _Own mobile distribution infrastructure for thousands of branded restaurant apps
 _Build the UX and product surface for agentic workflows in Prefect Cloud — execution plans, no-code agent authoring, human-in-the-loop gates — shipping end-to-end features that help developers orchestrate AI agents at scale. Requires deep knowledge of orchestration and developer-tools platforms (Airflow, Temporal, Langsmith, n8n) and fluency with AI development tools like Claude Code. · [Apply →](https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171)_
 
 `TypeScript` `Vue` `Python` `React` `full-stack development` `Orchestration Platforms` `Claude Code`
+
+<sub>July 8, 2026 at 20:24 UTC</sub>
+
+---
+
+### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
+
+_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
+
+`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
 
 <sub>July 8, 2026 at 20:24 UTC</sub>
 
@@ -989,7 +1000,7 @@ _Build and operate the SaaS infrastructure for Teleport Cloud, a globally distri
 
 ## July 3, 2026
 
-### [Control Plane Engineer ](https://jobs.ashbyhq.com/Supabase/620bcab3-787c-4ffe-bd37-5d45e209925e)
+### [API Engineer ](https://jobs.ashbyhq.com/Supabase/620bcab3-787c-4ffe-bd37-5d45e209925e)
 <a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `🟢 Remote` `Senior` `Equity`
 
 _Design and maintain internal and public-facing APIs for the Supabase platform, including Management API, OAuth integrations, and third-party partnerships. Build testing, debugging, and monitoring infrastructure to ensure API reliability at scale across Studio, CLI, and multiple Supabase services. · [Apply →](https://jobs.ashbyhq.com/Supabase/620bcab3-787c-4ffe-bd37-5d45e209925e)_
@@ -1147,17 +1158,6 @@ _Design and build full-stack applications and GenAI/ML-powered services for Pint
 
 ---
 
-### [Staff Data Engineer, Corporate Engineering ](https://job-boards.greenhouse.io/reddit/jobs/8039702)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$180k—$252k` `Equity`
-
-_Build and modernize the financial data warehouse and ETL infrastructure powering Reddit's corporate systems, establishing scalable pipelines that integrate enterprise data (ERP, EPM, Treasury, HR) into a cloud data warehouse while ensuring SOX compliance and 100% data integrity. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8039702)_
-
-`AWS S3` `Python` `SQL` `Snowflake` `dbt` `Airflow` `Workato` `NetSuite`
-
-<sub>July 2, 2026 at 21:16 UTC</sub>
-
----
-
 ### [Staff Software Engineer, Configuration Platform ](https://careers.toasttab.com/jobs?gh_jid=8038159)
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$151k-$309k` `Equity`
 
@@ -1224,10 +1224,10 @@ _Build and own Tailscale's billing platform, integrating with third-party servic
 
 ---
 
-### [Senior Data Scientist, Systems Performance](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)
+### [Senior Data Scientist, Systems Performance](https://job-boards.greenhouse.io/motional/jobs/7792493003)
 <a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k-$198.5k` `Equity`
 
-_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)_
+_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://job-boards.greenhouse.io/motional/jobs/7792493003)_
 
 `Python` `SQL` `Statistical Analysis` `Causal Inference` `Machine Learning` `Autonomous Driving` `AWS` `Transformers`
 
@@ -1437,14 +1437,14 @@ _Lead the multi-team engineering organization building Delinea's AI security pla
 
 ---
 
-### [Senior Software Engineer, Core Frameworks](https://careers.toasttab.com/jobs?gh_jid=8015731)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior` `$125k-$254k` `Equity`
+### [Senior Software Engineer, Growth ](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)
+<a href="https://docker.com"><img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docker** · `🟢 Remote` `Senior` `Equity`
 
-_Build and maintain core libraries and developer tooling infrastructure used by hundreds of engineers across Toast; integrate AI-assisted capabilities into local development tools and service templates to accelerate the inner-loop development experience. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8015731)_
+_Build and ship full-stack growth experiments across Docker's product suite, including onboarding, activation, and checkout flows that drive measurable outcomes for 20M+ monthly developers. Work across React/JavaScript frontends, Go/Python backends, and experimentation frameworks to optimize user journeys and funnel metrics. · [Apply →](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)_
 
-`Kotlin` `Java` `AWS` `Docker` `GitHub` `React` `TypeScript` `Go`
+`JavaScript` `TypeScript` `React` `Go` `Python` `A/B Testing` `Feature Flags` `Snowflake`
 
-<sub>July 1, 2026 at 15:09 UTC</sub>
+<sub>July 1, 2026 at 13:10 UTC</sub>
 
 ---
 
@@ -1454,17 +1454,6 @@ _Build and maintain core libraries and developer tooling infrastructure used by 
 _Design, develop, and deploy production-ready AI agents that enhance enterprise workflows across CrowdStrike's business functions. Build evaluation datasets, optimize for cost and performance, and contribute frameworks to the AI Center of Excellence while staying current with emerging LLM capabilities and AI safety standards. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239)_
 
 `Python` `Large Language Models` `AI Agents` `Generative AI` `Machine Learning` `PyTorch or TensorFlow` `Prompt Engineering` `AI Safety`
-
-<sub>July 1, 2026 at 13:10 UTC</sub>
-
----
-
-### [Senior Software Engineer, Growth ](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)
-<a href="https://docker.com"><img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docker** · `🟢 Remote` `Senior` `Equity`
-
-_Build and ship full-stack growth experiments across Docker's product suite, including onboarding, activation, and checkout flows that drive measurable outcomes for 20M+ monthly developers. Work across React/JavaScript frontends, Go/Python backends, and experimentation frameworks to optimize user journeys and funnel metrics. · [Apply →](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)_
-
-`JavaScript` `TypeScript` `React` `Go` `Python` `A/B Testing` `Feature Flags` `Snowflake`
 
 <sub>July 1, 2026 at 13:10 UTC</sub>
 
