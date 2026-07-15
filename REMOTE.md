@@ -22,7 +22,7 @@ _Build and ship full-stack product features end-to-end across our audit, risk, a
 ---
 
 ### [Staff Backend Engineer - Second Horizon | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6111473004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD $186k - $223k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD $186k - $223k` `Equity`
 
 _Build the core backend services for an AI-native data intelligence system, including ingestion, storage, retrieval APIs, and multi-tenant SaaS infrastructure that powers agent access to enterprise context. Early-stage role on a high-autonomy team shipping from prototype to production-grade observability platform. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6111473004)_
 
@@ -33,7 +33,7 @@ _Build the core backend services for an AI-native data intelligence system, incl
 ---
 
 ### [Staff Backend Engineer - Second Horizon | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6114603004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Design and build the core backend services for an AI-native data intelligence and context management system that powers observability across enterprises, including ingestion pipelines, retrieval APIs, multi-tenant storage, and agent-facing integrations. This is an early-stage, high-autonomy role on a skunkworks team building production infrastructure for AI agents to access governed enterprise context at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6114603004)_
 
@@ -975,7 +975,7 @@ _Design, develop, and configure Infios WMS solutions for PSA Vault, managing inv
 ---
 
 ### [Analyst I, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29191)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Junior` `$85k-$120k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Junior` `$85k-$120k` `Equity`
 
 _Detect, investigate, and remediate security incidents in real-time for enterprise customers across Windows, Mac, and Linux platforms. Requires on-site presence (hybrid schedule) and willingness to work 4x10 schedule including weekend shifts; US citizens and Green Card holders only. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29191)_
 
@@ -1060,7 +1060,7 @@ _Design and implement scalable security solutions across Twilio's products and p
 ## July 2, 2026
 
 ### [Staff Backend Engineer - Adaptive Telemetry, Databases | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6108385004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
 
 _Lead the design and operation of adaptive telemetry systems (metrics, logs, traces, profiles) that optimize data storage and reduce customer costs across Grafana Cloud's databases (Mimir, Loki, Tempo, Pyroscope). Drive architectural strategy, reliability targets, and end-to-end delivery of large-scale distributed systems serving 7,000+ customers at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6108385004)_
 
@@ -1071,7 +1071,7 @@ _Lead the design and operation of adaptive telemetry systems (metrics, logs, tra
 ---
 
 ### [Staff Backend Engineer - Adaptive Telemetry, Databases | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6108384004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Lead the architecture and delivery of Adaptive Telemetry systems (Adaptive Metrics, Logs, Traces, Profiles) that optimize storage and cost across Grafana Cloud's distributed telemetry databases. Own reliability, performance, and scalability of mission-critical systems handling observability data at massive scale for 7,000+ customers including Microsoft, NVIDIA, and Bloomberg. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6108384004)_
 
@@ -1082,7 +1082,7 @@ _Lead the architecture and delivery of Adaptive Telemetry systems (Adaptive Metr
 ---
 
 ### [Staff Software Engineer - Platform, SysEng | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6108293004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
 
 _Build and scale the Internal Engineering Platform (IEP) that powers Grafana Cloud's infrastructure for millions of metrics, logs, and traces per second. Lead system design and operational excellence across distributed Kubernetes clusters, with focus on reducing region build timelines and improving reliability and performance at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6108293004)_
 
@@ -1093,7 +1093,7 @@ _Build and scale the Internal Engineering Platform (IEP) that powers Grafana Clo
 ---
 
 ### [Staff Software Engineer - Platform, SysEng | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6108292004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Build and scale the internal engineering platform and Kubernetes infrastructure that powers Grafana Cloud's distributed observability stack, handling millions of metrics, logs, and traces per second. Drive platform maturity and reliability across multiple teams while optimizing for performance, cost, and developer productivity in a cloud-native architecture. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6108292004)_
 
@@ -1482,7 +1482,7 @@ _Build and ship full-stack growth experiments across Docker's product suite, inc
 ---
 
 ### [Sr. AI Agent Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Design, develop, and deploy production-ready AI agents that enhance enterprise workflows across CrowdStrike's business functions. Build evaluation datasets, optimize for cost and performance, and contribute frameworks to the AI Center of Excellence while staying current with emerging LLM capabilities and AI safety standards. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239)_
 

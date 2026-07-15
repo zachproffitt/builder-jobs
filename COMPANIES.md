@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **263 companies** · **1259 open roles** (0 new)
+### **262 companies** · **1253 open roles** (0 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -145,7 +145,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Embedded Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5184786007?gh_jid=5184786007) · Lexington, Massachusetts · `Senior` `$166k-$220k` `Equity` (Jul 10)
 - [Firmware Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5184789007?gh_jid=5184789007) · Lexington, Massachusetts · `Senior` `$166k-$220k` `Equity` (Jul 10)
 - [Senior Electrical Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5184781007?gh_jid=5184781007) · Boulder, Colorado · `Senior` `$126k-$167k` `Equity` (Jul 10)
-- [Software Engineer, Agentic Modeling & Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5184726007?gh_jid=5184726007) · Costa Mesa, California · `Senior` `$191k-$292k` `Equity` (Jul 10)
+- [Software Engineer, Agentic Modeling & Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5112335007?gh_jid=5112335007) · Washington, D.C. · `Senior` `$191k-$292k` `Equity` (Jul 10)
 - [Staff Electrical Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5184782007?gh_jid=5184782007) · Boulder, Colorado · `Staff` `$165k-$218k` `Equity` (Jul 10)
 - [Manufacturing Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4862526007?gh_jid=4862526007) · Ashville, Ohio · `Senior` `Equity` (Jul 10)
 - [Senior Software Engineer, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5184546007?gh_jid=5184546007) · Huntsville, Alabama · `Senior` `$165k–$218k` `Equity` (Jul 10)
@@ -181,7 +181,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Senior Advanced Research Scientist ](https://boards.greenhouse.io/andurilindustries/jobs/5179750007?gh_jid=5179750007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 3)
 - [Senior Software Engineer, Radar](https://boards.greenhouse.io/andurilindustries/jobs/5179751007?gh_jid=5179751007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 3)
 - [Analytics Engineer, Hardware Test](https://boards.greenhouse.io/andurilindustries/jobs/4768437007?gh_jid=4768437007) · Costa Mesa, California · `Mid` `$146k-$194k` `Equity` (Jul 2)
-- [Robotics Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007) · Boston, Massachusetts · `Staff` `$191k-$253k` `Equity` (Jul 2)
+- [Robotics Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007) · Costa Mesa, California · `Staff` `$191k-$253k` `Equity` (Jul 2)
 - [Senior Software Engineer, Cryptography](https://boards.greenhouse.io/andurilindustries/jobs/5179636007?gh_jid=5179636007) · Boston, Massachusetts / Costa Mesa, California / Seattle, Washington · `Principal` `$191k-$253k` `Equity` (Jul 2)
 - [Staff Robotics Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5179585007?gh_jid=5179585007) · Boston, Massachusetts · `Staff` `$253k-$336k` `Equity` (Jul 2)
 - [Staff Software Engineer, Cryptography](https://boards.greenhouse.io/andurilindustries/jobs/5179641007?gh_jid=5179641007) · Boston, Massachusetts / Costa Mesa, California / Seattle, Washington · `Staff` `$220k-$292k` `Equity` (Jul 2)
@@ -192,11 +192,11 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Senior Mission Software Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5178546007?gh_jid=5178546007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (Jul 2)
 - [Algorithm Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5178391007?gh_jid=5178391007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (Jul 1)
 - [Embedded Haskell Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5178470007?gh_jid=5178470007) · Costa Mesa, California · `Mid` `$129k-$171k` `Equity` (Jul 1)
-- [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5178392007?gh_jid=5178392007) · Huntsville, Alabama · `Senior` `$165k-$218k` `Equity` (Jul 1)
+- [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5179749007?gh_jid=5179749007) · Fort Collins, Colorado · `Senior` `$165k–$218k` `Equity` (Jul 1)
 - [Senior Embedded Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5178469007?gh_jid=5178469007) · Costa Mesa, California · `Senior` `$191k-$253k` `Equity` (Jul 1)
 - [Senior Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5178398007?gh_jid=5178398007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 1)
 - [Senior Research Scientist ](https://boards.greenhouse.io/andurilindustries/jobs/5178401007?gh_jid=5178401007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 1)
-- [Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5178387007?gh_jid=5178387007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Jul 1)
+- [Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5178402007?gh_jid=5178402007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 1)
 - [Senior Software Engineer, Air & Missile Defense ](https://boards.greenhouse.io/andurilindustries/jobs/5178404007?gh_jid=5178404007) · Huntsville, Alabama · `Senior` `$165k-$218k` `Equity` (Jul 1)
 - [Lead Software Architect, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5178351007?gh_jid=5178351007) · Broomfield, Colorado · `Senior` `$219k-$290k` `Equity` (Jul 1)
 - [Rapid Integration & Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5176707007?gh_jid=5176707007) · Costa Mesa, California · `Mid` `$99k-$130k` `Equity` (Jul 1)
@@ -212,13 +212,13 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Security Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007) · Asheville, Ohio / Atlanta, Georgia / Boston, Massachusetts / Costa Mesa, California / Remote / Seattle, Washington / Washington, D.C. · `🟢 Remote` `Mid` `$129k-$220k` `Equity` (Jul 1)
 - [Senior Controls Engineer, Manufacturing Automation](https://boards.greenhouse.io/andurilindustries/jobs/5178050007?gh_jid=5178050007) · Costa Mesa, California · `Senior` `$146k-$194k` `Equity` (Jul 1)
 - [Senior Data Protection Engineer, Classified Systems](https://boards.greenhouse.io/andurilindustries/jobs/5176526007?gh_jid=5176526007) · Costa Mesa, California · `Senior` `$166k-$220k` `Equity` (Jul 1)
-- [Senior Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5178107007?gh_jid=5178107007) · Waltham, Massachusetts · `Senior` `$220k-$292k` `Equity` (Jul 1)
-- [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5178118007?gh_jid=5178118007) · Waltham, Massachusetts · `Senior` `$220k-$292k` `Equity` (Jul 1)
+- [Senior Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5178100007?gh_jid=5178100007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 1)
+- [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5178121007?gh_jid=5178121007) · Washington, D.C. · `Senior` `$220k-$292k` `Equity` (Jul 1)
 - [Senior Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5178093007?gh_jid=5178093007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 1)
 - [Senior Software Engineer, State Estimation ](https://boards.greenhouse.io/andurilindustries/jobs/5178098007?gh_jid=5178098007) · Broomfield, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 1)
 - [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5178130007?gh_jid=5178130007) · Broomfield, Colorado · `Senior` `$143k-$191k` `Equity` (Jul 1)
 - [Software Engineer, 3rd-Party Integrations](https://boards.greenhouse.io/andurilindustries/jobs/5177896007?gh_jid=5177896007) · Reston, Virginia · `Senior` `$166k-$220k` `Equity` (Jul 1)
-- [Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5178105007?gh_jid=5178105007) · Broomfield, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 1)
+- [Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5178108007?gh_jid=5178108007) · Waltham, Massachusetts · `Mid` `$146k-$194k` `Equity` (Jul 1)
 - [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5178117007?gh_jid=5178117007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Jul 1)
 - [Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5178094007?gh_jid=5178094007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (Jul 1)
 - [Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5178127007?gh_jid=5178127007) · Broomfield, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 1)
@@ -752,6 +752,20 @@ Corelight provides network visibility and analytics software for threat detectio
 
 ---
 
+## <a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[CrowdStrike](https://crowdstrike.com)
+
+CrowdStrike provides a cloud-native cybersecurity platform that protects endpoints, cloud workloads, identities, and data.
+
+- [Sr. Engineer - Risk Platform (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29171) · Sunnyvale, California / Redmond, Washington · `🟡 Hybrid` `Senior` `$140k-$215k` `Equity` (Jul 13)
+- [Engineer II, Threat Detection - Windows (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-II--Threat-Detection---Windows--Hybrid-_R29387) · 4 Locations · `🟡 Hybrid` `Mid` `$100k-$145k` `Equity` (Jul 10)
+- [Backend Engineer III (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Backend-Engineer-III--Hybrid-_R29326) · Sunnyvale, California / Redmond, Washington · `🟡 Hybrid` `Senior` `$120k-$180k` `Equity` (Jul 9)
+- [Sr. Software Engineer - Sensor - Cloud Runtime Protection (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27156) · Sunnyvale, California · `🟡 Hybrid` `Senior` `$140k-$215k` `Equity` (Jul 9)
+- [Analyst I, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29191) · `🟢 Remote` `Junior` `$85k-$120k` `Equity` (Jul 6)
+- [Sr. Software Engineer II, Cloud/Backend - SCP (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer--Cloud-Backend---SCP--Hybrid-_R28348) · Sunnyvale, California / Redmond, Washington · `🟡 Hybrid` `Senior` `$160k-$250k` `Equity` (Jul 1)
+- [Sr. AI Agent Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Jul 1)
+
+---
+
 ## <a href="https://cultureamp.com"><img src="https://www.google.com/s2/favicons?domain=cultureamp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Culture Amp](https://cultureamp.com)
 
 Culture Amp provides an employee experience platform that offers performance, development, and employee engagement tools.
@@ -929,18 +943,6 @@ Envoy Global, Inc. provides visitor management, workplace management, and digita
 
 ---
 
-## <a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Epicor](https://epicor.com)
-
-Epicor makes enterprise resource planning (ERP) software designed for specific industries to improve return on investment, efficiency, and business growth.
-
-- [Associate Manager, Product Development](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Lehi/Associate-Manager--Product-Development_JR104937) · 2 Locations · `🟡 Hybrid` `Manager` (Jul 10)
-- [Senior Manager, Salesforce Quote-to-Cash](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Austin-Las-Cimas/Senior-Manager--Salesforce-Quote-to-Cash_JR105007) · Austin, Texas · `Manager` (Jul 9)
-- [Product Developer | Forward Deployed](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Herndon/Product-Developer_JR104875) · 3 Locations · `🟡 Hybrid` `Mid` `$94k-$151k` (Jul 9)
-- [Senior Data & Integration Engineer (AI Platforms & Salesforce Ecosystem)](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/UK-Bracknell/Product-Developer--Sr_JR104306) · 2 Locations · `Senior` (Jul 6)
-- [Mgr, Product Development](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Hyderabad/Mgr--Product-Development_JR104890) · 2 Locations · `Manager` (Jul 2)
-
----
-
 ## <a href="https://etched.com"><img src="https://www.google.com/s2/favicons?domain=etched.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Etched](https://etched.com)
 
 Etched builds AI inference systems with custom ASICs designed specifically for transformers, delivering higher performance and lower cost and latency compared to GPU alternatives. The company's hardware enables applications like real-time video generation and complex reasoning agents that would be impractical with GPUs.
@@ -1085,7 +1087,9 @@ GoFundMe is a crowdfunding platform that allows people to start fundraisers and 
 
 ---
 
-## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana](https://grafana.com)
+## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana Labs](https://grafana.com)
+
+Grafana Labs builds Grafana, an open-source visualization tool used by over 20 million users for monitoring and observability, and provides the Grafana LGTM Stack (featuring Mimir for metrics, Loki for logs, and Tempo for traces) that can be deployed as a fully managed cloud service or self-managed enterprise offering to help companies manage their observability strategies.
 
 - [Staff Backend Engineer - Second Horizon | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6111473004) · `🟢 Remote` `Staff` `CAD $186k - $223k` `Equity` (Jul 13)
 - [Staff Backend Engineer - Second Horizon | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6114603004) · `🟢 Remote` `Staff` `$174k-$209k` `Equity` (Jul 13)
@@ -1181,18 +1185,6 @@ Human Interest builds 401(k) retirement plans for small and medium-sized busines
 
 - [Senior Data Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/8047121) · `🟢 Remote` `Senior` `$171k-$207k` `Equity` (Jul 10)
 - [Engineering Manager, Shared Services](https://job-boards.greenhouse.io/humaninterest/jobs/8029529) · `🟢 Remote` `Manager` `$220k-$265k` `Equity` (Jul 1)
-
----
-
-## <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Humio (CrowdStrike)](https://humio.com)
-
-- [Sr. Engineer - Risk Platform (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29171) · Sunnyvale, California / Redmond, Washington · `🟡 Hybrid` `Senior` `$140k-$215k` `Equity` (Jul 13)
-- [Engineer II, Threat Detection - Windows (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-II--Threat-Detection---Windows--Hybrid-_R29387) · 4 Locations · `🟡 Hybrid` `Mid` `$100k-$145k` `Equity` (Jul 10)
-- [Backend Engineer III (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Backend-Engineer-III--Hybrid-_R29326) · Sunnyvale, California / Redmond, Washington · `🟡 Hybrid` `Senior` `$120k-$180k` `Equity` (Jul 9)
-- [Sr. Software Engineer - Sensor - Cloud Runtime Protection (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27156) · Sunnyvale, California · `🟡 Hybrid` `Senior` `$140k-$215k` `Equity` (Jul 9)
-- [Analyst I, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29191) · `🟢 Remote` `Junior` `$85k-$120k` `Equity` (Jul 6)
-- [Sr. Software Engineer II, Cloud/Backend - SCP (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer--Cloud-Backend---SCP--Hybrid-_R28348) · Sunnyvale, California / Redmond, Washington · `🟡 Hybrid` `Senior` `$160k-$250k` `Equity` (Jul 1)
-- [Sr. AI Agent Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Jul 1)
 
 ---
 
@@ -1386,7 +1378,6 @@ LexisNexis provides legal, government, business, and high-tech information sourc
 - [Senior Data Scientist I](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/United-Kingdom/Senior-Data-Scientist-I_R114918) · 2 Locations · `Senior` `Equity` (Jul 10)
 - [Systems Engineer III** Hybrid in Horsham, PA](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Horsham-PA/Systems-Engineer-III---Hybrid-in-Horsham--PA_R115702) · Horsham, Pennsylvania · `🟡 Hybrid` `Senior` `$71.6k-$119.4k` (Jul 9)
 - [Sr. Director, E-commerce & Customer Enablement](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Sr-Director--E-commerce---Customer-Enablement_R115924) · Raleigh, North Carolina · `Manager` `$156k-$290k` (Jul 8)
-- [Senior Data Scientist II](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Illinois/Senior-Data-Scientist-II_R115314) · `🟢 Remote` `Senior` `$110k-$183k` (Jul 2)
 - [Senior Software Engineer](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Senior-Software-Engineer_R115089) · Raleigh, North Carolina · `Senior` `$95k-$158k` (Jul 1)
 - [Quality Engineering Lead***Hybrid in Horsham, PA](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Horsham-PA/Quality-Engineering-Lead---Hybrid-in-Horsham--PA_R115498) · Horsham, Pennsylvania · `🟡 Hybrid` `Manager` `$115k-$192k` (Jul 1)
 
@@ -2595,9 +2586,7 @@ TerraPower develops nuclear reactor and storage technology, and advances methods
 
 ---
 
-## <a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters](https://thomsonreuters.com)
-
-Thomson Reuters provides technology solutions and content for professionals.
+## <a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters Labs](https://labs.thomsonreuters.com)
 
 - [Staff Software Engineer (C#, Cloud)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Staff-Software-Engineer--C---Cloud-_JREQ201794) · `🟡 Hybrid` `Staff` `$127k-$236k` `Equity` (Jul 12)
 - [Vice President, AI Platform Engineering](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Vice-President--AI-Platform-Engineering_JREQ201896) · Eagan, Minnesota / Frisco, Texas / New York, New York · `🟡 Hybrid` `Manager` `$198k-$368k` `Equity` (Jul 10)
