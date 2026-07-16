@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **114 open roles** (0 new)
+### **112 open roles** (0 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -60,17 +60,6 @@ _Design and build the core backend services for an AI-native data intelligence a
 _Build the core reasoning, planning, and tool integration for an AI agent that assists enterprise users in developing low-code applications; own both the agentic intelligence and the backend systems that power it at scale. Work directly with the VP of Agentic AI on a high-impact product serving Fortune 500 companies in regulated industries. · [Apply →](https://www.unqork.com/career-details/?gh_jid=8584611002)_
 
 `TypeScript` `Python` `LLM/RAG systems` `Backend Systems` `Agent Frameworks` `React` `PostgreSQL` `Observability`
-
-<sub>July 13, 2026 at 14:51 UTC</sub>
-
----
-
-### [Software Engineer, OpenShell](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$184k-$287.5k` `Equity`
-
-_Build runtime infrastructure and developer workflows for secure, production-grade AI agents; translate cutting-edge agentic research into enterprise-ready systems. Requires hands-on prototyping, evaluation frameworks, and red-teaming of agent safety and security. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)_
-
-`Python` `PyTorch` `LLMs` `Kubernetes` `Ray` `vLLM` `TensorRT-LLM` `Triton`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -708,17 +697,6 @@ _Build and lead Deepgram's AI enablement strategy end-to-end — personally arch
 _Own the agentic systems powering Sourcegraph's code understanding products — designing multi-step agent loops, evaluations, model selection, and retrieval pipelines to deliver reliable, cost-efficient AI-powered developer experiences at enterprise scale. Requires deep agent engineering expertise combining software engineering, ML, and statistics; this is a senior technical leadership role setting standards for the team. · [Apply →](https://job-boards.greenhouse.io/sourcegraph91/jobs/6103567004)_
 
 `Python` `Go` `TypeScript` `PyTorch` `LLMs` `Retrieval-Augmented Generation` `LLM Evaluations` `Prompt Engineering`
-
-<sub>July 9, 2026 at 16:04 UTC</sub>
-
----
-
-### [Principal Software Engineer, Advanced Analytics Platform](https://careers.toasttab.com/jobs?gh_jid=8048737)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$180k-$368k` `Equity`
-
-_Build foundational data infrastructure — real-time streaming, data lakehouse, feature serving, and cloud-native analytics pipelines — powering Toast's analytics and AI/ML products for 170,000+ restaurants. Define technical strategy for platform evolution (Apache Iceberg migration, Feature Store, streaming scale) and mentor engineers through architectural transformation. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8048737)_
-
-`Apache Iceberg` `Apache Kafka` `Apache Spark` `Databricks` `AWS` `Apache Pulsar` `Kotlin` `Java`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
