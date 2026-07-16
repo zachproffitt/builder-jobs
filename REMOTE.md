@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **133 open roles** (0 new)
+### **114 open roles** (0 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -702,17 +702,6 @@ _Build and lead Deepgram's AI enablement strategy end-to-end — personally arch
 
 ---
 
-### [Principal Engineer Tech Lead, Embodied AI & Off-Board Performance Evaluation](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada · `🟢 Remote` `Principal` `$200k–$275k` `Equity`
-
-_Architect and oversee a multimodal LLM-based monitoring framework that ingests autonomous vehicle logs to automatically identify safety incidents, enrich them with structured context, and conduct root cause analysis for the Autonomy team. Lead the design of off-board evaluation pipelines integrating vision-language models, vector databases, and AV performance metrics with >90% F1 score targets for anomaly detection. · [Apply →](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)_
-
-`Python` `LLM` `Vision-Language Models` `Retrieval-Augmented Generation` `Prompt Engineering` `AWS` `GCP` `Ray`
-
-<sub>July 9, 2026 at 16:04 UTC</sub>
-
----
-
 ### [Agent Engineer [IC4]](https://job-boards.greenhouse.io/sourcegraph91/jobs/6103567004)
 <a href="https://sourcegraph.com"><img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sourcegraph** · `🟢 Remote` `Senior` `$88k-$176k` `Equity`
 
@@ -822,6 +811,17 @@ _Build and own the mobile distribution platform powering thousands of branded re
 _Build the UX and product surface for agentic workflows in Prefect Cloud — execution plans, no-code agent authoring, human-in-the-loop gates — shipping end-to-end features that help developers orchestrate AI agents at scale. Requires deep knowledge of orchestration and developer-tools platforms (Airflow, Temporal, Langsmith, n8n) and fluency with AI development tools like Claude Code. · [Apply →](https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171)_
 
 `TypeScript` `Vue` `Python` `React` `full-stack development` `Orchestration Platforms` `Claude Code`
+
+<sub>July 8, 2026 at 20:24 UTC</sub>
+
+---
+
+### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
+
+_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
+
+`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
 
 <sub>July 8, 2026 at 20:24 UTC</sub>
 
@@ -1246,17 +1246,6 @@ _Build and own Tailscale's billing platform, integrating third-party services li
 
 ---
 
-### [Senior Data Scientist, Systems Performance](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Senior` `$149k-$198.5k` `Equity`
-
-_Lead the development of evaluation frameworks and metrics for autonomous vehicle performance, connecting technical problems to rigorous, data-driven approaches for measuring autonomy stack reliability and launch readiness. Partner with Functional Safety and Systems Engineering teams to ensure evaluation signals inform safety cases and inform decisions around commercializing fully driverless robotaxis. · [Apply →](https://motional.com/open-positions/?gh_jid=7792493003#/7792493003)_
-
-`Python` `SQL` `Statistical Analysis` `Causal Inference` `Machine Learning` `Autonomous Driving` `AWS` `Transformers`
-
-<sub>July 2, 2026 at 15:23 UTC</sub>
-
----
-
 ### [Staff Data Engineer](https://job-boards.greenhouse.io/nabis/jobs/6107180004)
 <a href="https://www.nabis.com"><img src="https://www.google.com/s2/favicons?domain=www.nabis.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nabis** · `🟢 Remote` `Staff` `$145k-$170k`
 
@@ -1298,207 +1287,5 @@ _Lead a security engineering team building automated controls and guardrails for
 `AWS` `Application Security` `Cloud Security` `SAST` `DAST` `SCA` `AI Security` `LLM Security`
 
 <sub>July 2, 2026 at 10:47 UTC</sub>
-
----
-
-<br>
-
-## July 1, 2026
-
-### [Director of Engineering, Growth & Monetization](https://job-boards.greenhouse.io/gitlab/jobs/8592768002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `$203k-$345k` `Equity`
-
-_Lead the engineering strategy and architecture for GitLab's monetization platform—quoting, billing, invoicing, entitlements, and usage metering systems—across multiple teams. Guide technical vision for self-service purchase flows, API-first platform design, and integration with Zuora and Salesforce in a compliance-intensive environment (SOX-aware controls). · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8592768002)_
-
-`Billing Architecture` `Usage Metering` `SaaS Monetization` `Zuora` `Salesforce` `API-First Architecture` `Distributed Systems` `SOX Compliance`
-
-<sub>July 1, 2026 at 22:37 UTC</sub>
-
----
-
-### [Senior Red Team Engineer](https://jobs.ashbyhq.com/snowflake/b059983f-8144-4b08-96eb-521f9258de51)
-<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · `🟢 Remote` `Senior`
-
-_Develop tools, methodologies, and infrastructure to support Red Team security assessments across Snowflake's cloud environments, identifying vulnerabilities in software, systems, and networks. Execute offensive security engagements across AWS, GCP, and Azure environments at scale in a high-growth cloud-native company. · [Apply →](https://jobs.ashbyhq.com/snowflake/b059983f-8144-4b08-96eb-521f9258de51)_
-
-`Python` `Golang` `AWS` `GCP` `Azure` `Offensive Security` `Cloud Infrastructure`
-
-<sub>July 1, 2026 at 22:37 UTC</sub>
-
----
-
-### [Professional Services Technical Architect ](https://job-boards.greenhouse.io/gitlab/jobs/8616847002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$123k—$209k` `Equity`
-
-_Design and deliver GitLab infrastructure implementations and migrations for enterprise customers, using Terraform, Ansible, and the GitLab Environment Toolkit across cloud and on-premises environments. Lead the full technical delivery lifecycle from scoping through implementation, mentor consulting teams, and build reusable deployment automation. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8616847002)_
-
-`Terraform` `Ansible` `GitLab` `CI/CD` `Kubernetes` `Infrastructure as Code` `Cloud Architecture` `DevOps`
-
-<sub>July 1, 2026 at 21:39 UTC</sub>
-
----
-
-### [Senior Backend Engineer, Data Platform](https://job-boards.greenhouse.io/launchdarkly/jobs/7791926003)
-<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$158k-$257k` `Equity`
-
-_Design and operate distributed data infrastructure supporting streaming/batch pipelines, analytical data stores, and warehouse systems that power experimentation, metrics, observability, and other customer-facing capabilities at scale. Requires hands-on experience with production data systems and participation in on-call rotation. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7791926003)_
-
-`Kinesis` `Airflow` `Spark` `Flink` `ClickHouse` `PostgreSQL` `Python` `Go`
-
-<sub>July 1, 2026 at 21:39 UTC</sub>
-
----
-
-### [Senior Mobile Engineer](https://job-boards.greenhouse.io/podium81/jobs/7944182)
-<a href="https://podium.com"><img src="https://www.google.com/s2/favicons?domain=podium.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Podium** · Lehi, Utah / Remote · `🟢 Remote` `Senior`
-
-_Design and scale native iOS (Swift) and Android (Kotlin) architectures to support autonomous AI agent workflows, multi-turn conversations, and real-time interactions for local businesses. Lead the intersection of mobile and agentic AI with low-latency streaming and client-side agent state management. · [Apply →](https://job-boards.greenhouse.io/podium81/jobs/7944182)_
-
-`Swift` `Kotlin` `iOS` `Android` `GraphQL` `Python` `Elixir` `React`
-
-<sub>July 1, 2026 at 21:39 UTC</sub>
-
----
-
-### [Manager II, Machine Learning – Conversion Visibility](https://www.pinterestcareers.com/jobs/?gh_jid=8010903)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Seattle, Washington / Remote · `🟢 Remote` `Manager` `$189k–$389k` `Equity`
-
-_Lead a hybrid team of ML engineers and backend software engineers building identity resolution and conversion visibility modeling systems that connect onsite Pinterest activity to offsite conversions in a privacy-preserving way. Requires 7+ years shipping large-scale production ML systems and 2+ years engineering management experience; focus on ads conversion attribution and identity matching domains. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8010903)_
-
-`Machine Learning` `ML Systems` `Ads/Measurement` `Python` `PyTorch or TensorFlow` `Data Pipelines` `SQL` `Experimentation`
-
-<sub>July 1, 2026 at 20:42 UTC</sub>
-
----
-
-### [Head of Product - Business Lending](https://job-boards.greenhouse.io/mercury/jobs/6106974004)
-<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Manager` `$289k-$362k USD / 273k-342k CAD` `Equity`
-
-_Lead Mercury's business lending product strategy and organization end-to-end, owning the P&L for lending products (term loans, lines of credit) while building and scaling a high-performing product management team. Requires deep expertise in the full lending lifecycle, credit risk discipline, and the ability to balance rapid growth with regulatory rigor in a fintech environment. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6106974004)_
-
-`Lending Products` `Credit Risk` `Product Strategy` `P&L Management` `Underwriting` `SMB Lending` `Data-Driven Experimentation` `Cross-Functional Leadership`
-
-<sub>July 1, 2026 at 18:50 UTC</sub>
-
----
-
-### [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8040012)
-<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$140k-$150k` `Equity`
-
-_Build the research-to-production pipeline for threat intelligence at scale, turning malware findings and infrastructure research into shipped detection rules, YARA/Sigma signatures, and STIX/TAXII-distributed feeds consumed by 25,000+ organizations. Requires production experience with threat intelligence systems, detection engineering, and LLM-based automation in security workflows. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8040012)_
-
-`Python` `TypeScript` `YARA` `Sigma` `STIX 2.1` `TAXII 2.1` `AWS` `PostgreSQL`
-
-<sub>July 1, 2026 at 17:43 UTC</sub>
-
----
-
-### [IT Engineering Lead](https://jobs.ashbyhq.com/elevenlabs/3a75a63b-5f28-4688-9963-d9607e21ae67)
-<a href="https://elevenlabs.io"><img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ElevenLabs** · `🟢 Remote` `Manager` `Equity`
-
-_Lead and build IT infrastructure and security systems for a rapidly growing AI company, managing endpoints, networks, office buildouts, and SaaS integrations across a global team. Requires hands-on technical work alongside team leadership, mentoring, and hiring in a high-growth environment. · [Apply →](https://jobs.ashbyhq.com/elevenlabs/3a75a63b-5f28-4688-9963-d9607e21ae67)_
-
-`Python` `Bash` `Okta` `Google Workspace` `Jamf` `SAML` `SCIM` `OIDC`
-
-<sub>July 1, 2026 at 16:54 UTC</sub>
-
----
-
-### [Staff Applied Scientist (Distribution Center)](https://job-boards.greenhouse.io/afresh/jobs/6105868004)
-<a href="https://afresh.com"><img src="https://www.google.com/s2/favicons?domain=afresh.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Afresh** · `🟢 Remote` `Staff` `$191k-$287k` `Equity`
-
-_Lead R&D for AI/ML models powering fresh inventory replenishment across billions of daily ordering decisions—research and implement demand forecasting, perishability modeling, and multi-echelon inventory optimization systems. Work directly on high-impact problems in a high-volatility domain with immediate visibility to production impact and measurable food waste reduction. · [Apply →](https://job-boards.greenhouse.io/afresh/jobs/6105868004)_
-
-`Python` `PyTorch` `Operations Research` `Stochastic Optimization` `Inventory Optimization` `Demand Forecasting` `Supply Chain Optimization` `Approximate Dynamic Programming`
-
-<sub>July 1, 2026 at 15:09 UTC</sub>
-
----
-
-### [Director of Engineering, AI Security](https://jobs.ashbyhq.com/delinea/929f9601-ac47-465b-bb23-63834df9d36f)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Manager`
-
-_Lead the multi-team engineering organization building Delinea's AI security platform, from agent discovery and identity to runtime authorization and integrations with enterprise AI systems like Microsoft Copilot and Salesforce Agentforce. Requires deep technical depth in identity, authorization, or distributed systems to own architecture-level decisions while scaling the platform from early customers to broad production use. · [Apply →](https://jobs.ashbyhq.com/delinea/929f9601-ac47-465b-bb23-63834df9d36f)_
-
-`Identity Management` `Authorization Systems` `Cloud Security` `Distributed Systems` `AI Security`
-
-<sub>July 1, 2026 at 15:09 UTC</sub>
-
----
-
-### [Senior Software Engineer, Growth ](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)
-<a href="https://docker.com"><img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docker** · `🟢 Remote` `Senior` `Equity`
-
-_Build and ship full-stack growth experiments across Docker's product suite, including onboarding, activation, and checkout flows that drive measurable outcomes for 20M+ monthly developers. Work across React/JavaScript frontends, Go/Python backends, and experimentation frameworks to optimize user journeys and funnel metrics. · [Apply →](https://jobs.ashbyhq.com/docker/f33cb85b-b967-4c93-9fad-cc29bd77ee60)_
-
-`JavaScript` `TypeScript` `React` `Go` `Python` `A/B Testing` `Feature Flags` `Snowflake`
-
-<sub>July 1, 2026 at 13:10 UTC</sub>
-
----
-
-### [Sr. AI Agent Developer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
-
-_Design, develop, and deploy production-ready AI agents that enhance enterprise workflows across CrowdStrike's business functions. Build evaluation datasets, optimize for cost and performance, and contribute frameworks to the AI Center of Excellence while staying current with emerging LLM capabilities and AI safety standards. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-AI-Agent-Developer--Remote-_R29239)_
-
-`Python` `Large Language Models` `AI Agents` `Generative AI` `Machine Learning` `PyTorch or TensorFlow` `Prompt Engineering` `AI Safety`
-
-<sub>July 1, 2026 at 13:10 UTC</sub>
-
----
-
-### [Senior / Staff Data Engineer](https://job-boards.greenhouse.io/usenourish/jobs/5283958008)
-<a href="https://nourish.com"><img src="https://www.google.com/s2/favicons?domain=nourish.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nourish** · New York, New York / Remote · `🟢 Remote` `Senior`
-
-_Build the foundational data platform (ingestion, warehouse, transformations, governance) for Nourish's AI-native digital health system, scaling across 250+ health systems and 200M+ covered Americans. Own Snowflake architecture, dbt modeling, observability, and semantic layers that enable both human analysts and AI agents to safely access trusted data at scale. · [Apply →](https://job-boards.greenhouse.io/usenourish/jobs/5283958008)_
-
-`Snowflake` `dbt` `SQL` `RudderStack` `Fivetran` `Python` `Airflow` `Data Governance`
-
-<sub>July 1, 2026 at 13:10 UTC</sub>
-
----
-
-### [Senior Backend Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/6101148004)
-<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$166k-$208k USD (US); CAD 157k-196k (Canada)` `Equity`
-
-_Build backend systems for Mercury's fintech banking platform serving startups, architecting services using Haskell and SQL. Requires making architectural decisions, measuring their impact, and actively leveraging AI tools to amplify development velocity. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6101148004)_
-
-`Haskell` `SQL` `Backend Development` `fintech`
-
-<sub>July 1, 2026 at 07:47 UTC</sub>
-
----
-
-### [Senior Full-Stack Engineer](https://job-boards.greenhouse.io/mercury/jobs/6101151004)
-<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$166k - $208k` `Equity`
-
-_Build the full-stack banking product experiences for startups using Haskell, React, and TypeScript. Work in a small product group (Banking, Experiences, Expansion, or Risk) with strong product ownership and close collaboration with designers. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6101151004)_
-
-`Haskell` `React` `TypeScript` `Redux` `Full-stack development`
-
-<sub>July 1, 2026 at 07:47 UTC</sub>
-
----
-
-### [Software Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/6101145004)
-<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Junior` `$122k-$158k USD` `Equity`
-
-_Build backend and full-stack services for a fintech banking platform serving startups, with focus on product ownership and shipping lovable user experiences. Work in a small, autonomous team using Haskell and TypeScript across the stack. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6101145004)_
-
-`Haskell` `TypeScript` `React` `Redux` `Backend Development` `Full-Stack Development`
-
-<sub>July 1, 2026 at 07:47 UTC</sub>
-
----
-
-### [Engineering Manager, Shared Services](https://job-boards.greenhouse.io/humaninterest/jobs/8029529)
-<a href="https://humaninterest.com"><img src="https://www.google.com/s2/favicons?domain=humaninterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Human Interest** · `🟢 Remote` `Manager` `$220k-$265k` `Equity`
-
-_Lead the platform team that delivers shared services (AI services, authentication, authorization, notifications, email, tokenization, frontend hosting) that other engineering teams depend on. Shape the technical direction of these foundational capabilities, mentor engineers on quality software and systems design, and drive adoption across the organization. · [Apply →](https://job-boards.greenhouse.io/humaninterest/jobs/8029529)_
-
-`TypeScript` `Node.js` `React` `AWS` `PostgreSQL` `Terraform` `Systems Design`
-
-<sub>July 1, 2026 at 05:44 UTC</sub>
 
 ---
