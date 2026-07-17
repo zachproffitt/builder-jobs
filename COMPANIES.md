@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **238 companies** · **900 open roles** (0 new)
+### **239 companies** · **940 open roles** (0 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -401,7 +401,7 @@ Boston Dynamics builds robots for automation tasks.
 
 Brex provides a finance software platform offering corporate cards, banking, expense management, accounting, and travel services to companies in over 120 countries.
 
-- [Staff Software Engineer, Banking](https://www.brex.com/careers/8618076002?gh_jid=8618076002) · Seattle, Washington · `🟡 Hybrid` `Staff` `$240k-$285k` `Equity` (Jul 2)
+- [Staff Software Engineer, Banking](https://www.brex.com/careers/8618063002?gh_jid=8618063002) · Vancouver, British Columbia, Canada · `🟡 Hybrid` `Staff` `$240k-$285k` `Equity` (Jul 2)
 
 ---
 
@@ -745,6 +745,13 @@ Epicor makes enterprise resource planning (ERP) software designed for specific i
 Etched builds AI inference systems with custom ASICs designed specifically for transformers, delivering higher performance and lower cost and latency compared to GPU alternatives. The company's hardware enables applications like real-time video generation and complex reasoning agents that would be impractical with GPUs.
 
 - [Head of Platform Product Reliability](https://jobs.ashbyhq.com/Etched/fbade92c-43c8-4e8d-931a-be9c5ec27b5b) · San Jose, California · `Manager` (Jul 8)
+
+---
+
+## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
+
+- [Sr Software Development Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Software-Development-Engineer--US-Federal-_JR-0102024) · Reston, Virginia · `🟡 Hybrid` `Senior` `$163k-$245k` `Equity` (Jul 8)
+- [Senior Software Engineer (Full Stack)](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Senior-Software-Engineer--Full-Stack-_JR-0108308) · Vancouver, Canada · `🟡 Hybrid` `Senior` `$140k-$210k CAD` `Equity` (Jul 2)
 
 ---
 
@@ -1401,7 +1408,6 @@ Nvidia manufactures datacenter products and operates engineering labs where thes
 - [Senior Field Application Engineer, ODM Support](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Field-Application-Engineer--ODM-Support_JR2020934) · Houston, Texas · `🟡 Hybrid` `Senior` `$132k-$253k` `Equity` (Jul 8)
 - [Senior Network Site Reliability Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Network-Site-Reliability-Engineer_JR2020679) · 3 Locations · `Senior` (Jul 8)
 - [Senior Software Engineer, Agentic AI Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Ho-Chi-Minh-City/Senior-Software-Engineer--Agentic-AI-Systems_JR2020868) · 2 Locations · `Senior` (Jul 8)
-- [Manager, Solutions Architecture - Financial Services Capital Markets](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Manager--Solutions-Architecture---Financial-Services-Capital-Markets_JR2019663-1) · 3 Locations · `Manager` `$224k-$356.5k` `Equity` (Jul 6)
 - [DevOps Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Ukraine-Kyiv/DevOps-Engineer_JR2020684) · 2 Locations · `Mid` (Jul 6)
 - [Senior Software Test Developer – DriveOS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Test-Developer---DriveOS_JR2020834) · Santa Clara, California · `Senior` `$140k-$270.25k` `Equity` (Jul 6)
 - [Chip Modeling Architect](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Modeling-Architect_JR2020707) · 2 Locations · `Senior` (Jul 6)
@@ -2014,6 +2020,49 @@ Optro (formerly AuditBoard) provides an AI-powered governance, risk, and complia
 
 ---
 
+## <a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[SpaceX](https://spacex.com)
+
+SpaceX develops rockets and spacecraft for space exploration, with the goal of enabling human life on Mars, and operates power plant and datacenter infrastructure that requires procurement and supply chain management for high-voltage transmission and substation equipment.
+
+- [Operations Engineer (Production)](https://boards.greenhouse.io/spacex/jobs/8629084002?gh_jid=8629084002) · Hawthorne, California · `Junior` `$100k-$140k` `Equity` (Jul 11)
+- [RF Test Engineer (Starlink/Akoustis) ](https://boards.greenhouse.io/spacex/jobs/8624152002?gh_jid=8624152002) · Canandaigua, New York · `Mid` `$85k-$150k` `Equity` (Jul 10)
+- [Sr. Full Stack Software Engineer (Components)](https://boards.greenhouse.io/spacex/jobs/8628284002?gh_jid=8628284002) · Hawthorne, California · `Senior` `$165k-$230k` `Equity` (Jul 10)
+- [Sr. Software Engineer (Components)](https://boards.greenhouse.io/spacex/jobs/8628394002?gh_jid=8628394002) · Hawthorne, California · `Senior` `$165k-$230k` `Equity` (Jul 10)
+- [Sr. SI/PI Engineer - Serdes, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8627694002?gh_jid=8627694002) · Palo Alto, California · `Senior` (Jul 10)
+- [RF Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002) · Bastrop, Texas · `Junior` (Jul 10)
+- [Sr. High Performance Computing (HPC) Systems Engineer](https://boards.greenhouse.io/spacex/jobs/8627593002?gh_jid=8627593002) · Hawthorne, California · `Senior` `$165k-$230k` `Equity` (Jul 10)
+- [Sr. RF Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624890002?gh_jid=8624890002) · Bastrop, Texas · `Senior` (Jul 10)
+- [Test Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8627642002?gh_jid=8627642002) · Starbase, Texas · `Junior` (Jul 10)
+- [Antenna Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8621989002?gh_jid=8621989002) · Bastrop, Texas · `Junior` (Jul 9)
+- [December 2026 New Graduate Engineer, Propulsion (Starship)](https://boards.greenhouse.io/spacex/jobs/8627510002?gh_jid=8627510002) · Starbase, Texas · `Junior` (Jul 9)
+- [Embedded Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624836002?gh_jid=8624836002) · Bastrop, Texas · `Mid` (Jul 9)
+- [Mission Integration Engineer, Mission Systems (Starshield)](https://boards.greenhouse.io/spacex/jobs/8626679002?gh_jid=8626679002) · Hawthorne, California · `Junior` `$100k-$140k` `Equity` (Jul 9)
+- [Product Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624835002?gh_jid=8624835002) · Bastrop, Texas · `Mid` (Jul 9)
+- [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624833002?gh_jid=8624833002) · Bastrop, Texas · `Mid` (Jul 9)
+- [Sr. Application Security Engineer   ](https://boards.greenhouse.io/spacex/jobs/8624695002?gh_jid=8624695002) · Redmond, Washington · `Senior` `$170k-$235k` `Equity` (Jul 9)
+- [Sr. Embedded Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624708002?gh_jid=8624708002) · Redmond, Washington · `Senior` `$170k-$235k` `Equity` (Jul 9)
+- [Sr. Embedded Security Engineer (Starlink) ](https://boards.greenhouse.io/spacex/jobs/8624866002?gh_jid=8624866002) · Bastrop, Texas · `Senior` (Jul 9)
+- [Sr. Network Security Engineer](https://boards.greenhouse.io/spacex/jobs/8627634002?gh_jid=8627634002) · Starbase, Texas · `Senior` (Jul 9)
+- [Sr. Product Security Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624707002?gh_jid=8624707002) · Redmond, Washington · `Senior` `$170k-$235k` `Equity` (Jul 9)
+- [Sr. Product Security Engineer (Starlink) ](https://boards.greenhouse.io/spacex/jobs/8624867002?gh_jid=8624867002) · Bastrop, Texas · `Senior` (Jul 9)
+- [Sr. Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624705002?gh_jid=8624705002) · Redmond, Washington · `Senior` `$170k-$235k` `Equity` (Jul 9)
+- [Sr. Security Software Engineer (Starlink) ](https://boards.greenhouse.io/spacex/jobs/8624864002?gh_jid=8624864002) · Bastrop, Texas · `Senior` (Jul 9)
+- [Data Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8626500002?gh_jid=8626500002) · Hawthorne, California · `Junior` `$125k-$175k` `Equity` (Jul 9)
+- [Software Engineer, Components (Starshield)](https://boards.greenhouse.io/spacex/jobs/8625617002?gh_jid=8625617002) · Hawthorne, California · `Junior` `$125k-$175k` `Equity` (Jul 9)
+- [Software Engineer, Components Test (Starshield)](https://boards.greenhouse.io/spacex/jobs/8625615002?gh_jid=8625615002) · Hawthorne, California · `Mid` `$125k-$175k` `Equity` (Jul 9)
+- [Sr. Core Integration Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8624593002?gh_jid=8624593002) · Redmond, Washington · `Senior` `$165k-$230k` `Equity` (Jul 9)
+- [Full Stack Software Engineer, Data (Starlink)](https://boards.greenhouse.io/spacex/jobs/8625149002?gh_jid=8625149002) · Redmond, Washington · `Junior` `$125k-$175k` `Equity` (Jul 8)
+- [Software Engineer, CDN  (Starlink)](https://boards.greenhouse.io/spacex/jobs/8624953002?gh_jid=8624953002) · Palo Alto, California · `Mid` `$135k-$185k` `Equity` (Jul 8)
+- [Software Engineer, Telemetry (Starlink)](https://boards.greenhouse.io/spacex/jobs/8625182002?gh_jid=8625182002) · Redmond, Washington · `Junior` `$125k-$175k` `Equity` (Jul 8)
+- [Sr. Software Engineer, CDN  (Starlink)](https://boards.greenhouse.io/spacex/jobs/8625010002?gh_jid=8625010002) · Palo Alto, California · `Senior` `$175k-$240k` `Equity` (Jul 8)
+- [Sr. Software Engineer, Telemetry (Starlink)](https://boards.greenhouse.io/spacex/jobs/8625186002?gh_jid=8625186002) · Redmond, Washington · `Senior` `$165k-$230k` `Equity` (Jul 8)
+- [Mission Integration Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8624678002?gh_jid=8624678002) · Hawthorne, California · `Mid` `$100k-$140k` `Equity` (Jul 8)
+- [Trajectory Analysis Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8624547002?gh_jid=8624547002) · Starbase, Texas · `Junior` (Jul 8)
+- [Sr. Application Software Engineer](https://boards.greenhouse.io/spacex/jobs/8624435002?gh_jid=8624435002) · Cape Canaveral, Florida · `Senior` (Jul 8)
+- [Automation & Controls Engineer (Raptor Manufacturing Systems) ](https://boards.greenhouse.io/spacex/jobs/8617201002?gh_jid=8617201002) · Hawthorne, California · `Junior` `$100k-$135k` `Equity` (Jul 2)
+
+---
+
 ## <a href="https://spire.com"><img src="https://www.google.com/s2/favicons?domain=spire.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Spire Global](https://spire.com)
 
 Spire Global builds a space-powered data and analytics platform that uses a proprietary satellite constellation to provide insights about Earth, and is developing advanced satellite communication and navigation systems along with RF monitoring constellations.
@@ -2156,7 +2205,9 @@ Tenstorrent builds computers for AI.
 
 ---
 
-## <a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters Labs](https://labs.thomsonreuters.com)
+## <a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters](https://thomsonreuters.com)
+
+Thomson Reuters provides technology solutions and content for professionals.
 
 - [Staff Software Engineer (C#, Cloud)](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Staff-Software-Engineer--C---Cloud-_JREQ201794) · `🟡 Hybrid` `Staff` `$127k-$236k` `Equity` (Jul 12)
 - [Data Scientist](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ201984) · `🟢 Remote` `Mid` `$102k-$189k` (Jul 10)
@@ -2204,7 +2255,7 @@ Toast creates technology that helps restaurants and local businesses operate, in
 - [Staff Machine Learning Engineer](https://careers.toasttab.com/jobs?gh_jid=8031086) · `🟢 Remote` `Staff` `$151k-$309k` `Equity` (Jul 9)
 - [Senior Software Engineer, Orders Pricing](https://careers.toasttab.com/jobs?gh_jid=8039432) · Boston, Massachusetts · `🟡 Hybrid` `Senior` `$125k-$254k` `Equity` (Jul 9)
 - [Data Scientist II](https://careers.toasttab.com/jobs?gh_jid=8052241) · `🟢 Remote` `Mid` `$110k-$136k CAD` `Equity` (Jul 8)
-- [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049) · `🟢 Remote` `Staff` `$133k-$272k` `Equity` (Jul 8)
+- [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8052293) · `🟢 Remote` `Staff` `$127k–$203k CAD` `Equity` (Jul 8)
 - [Staff Software Engineer, Configuration Platform ](https://careers.toasttab.com/jobs?gh_jid=8038159) · `🟢 Remote` `Staff` `$151k-$309k` `Equity` (Jul 2)
 - [Senior Software Engineer, AI & Strategy](https://careers.toasttab.com/jobs?gh_jid=7716303) · `🟢 Remote` `Senior` `$125k-$254k` `Equity` (Jul 2)
 
@@ -2411,15 +2462,6 @@ Wayve develops AI software and foundation models that enable vehicles to perceiv
 Wealthsimple offers spending, trading, and investment services.
 
 - [Sr Data Scientist, AI Products](https://jobs.ashbyhq.com/wealthsimple/ca658e54-6569-4081-84ac-a9b7541e7af8) · `🟢 Remote` `Senior` (Jul 3)
-
----
-
-## <a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workday](https://workday.com)
-
-Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
-
-- [Sr Software Development Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Software-Development-Engineer--US-Federal-_JR-0102024) · Reston, Virginia · `🟡 Hybrid` `Senior` `$163k-$245k` `Equity` (Jul 8)
-- [Senior Software Engineer (Full Stack)](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Senior-Software-Engineer--Full-Stack-_JR-0108308) · Vancouver, Canada · `🟡 Hybrid` `Senior` `$140k-$210k CAD` `Equity` (Jul 2)
 
 ---
 

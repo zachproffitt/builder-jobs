@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **111 open roles** (0 new)
+### **110 open roles** (0 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -789,17 +789,6 @@ _Build and own the mobile distribution platform powering thousands of branded re
 _Build the UX and product surface for agentic workflows in Prefect Cloud — execution plans, no-code agent authoring, human-in-the-loop gates — shipping end-to-end features that help developers orchestrate AI agents at scale. Requires deep knowledge of orchestration and developer-tools platforms (Airflow, Temporal, Langsmith, n8n) and fluency with AI development tools like Claude Code. · [Apply →](https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171)_
 
 `TypeScript` `Vue` `Python` `React` `full-stack development` `Orchestration Platforms` `Claude Code`
-
-<sub>July 8, 2026 at 20:24 UTC</sub>
-
----
-
-### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
-
-_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
-
-`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
 
 <sub>July 8, 2026 at 20:24 UTC</sub>
 
