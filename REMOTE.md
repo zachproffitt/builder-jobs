@@ -22,7 +22,7 @@ _Build and ship full-stack product features end-to-end across our audit, risk, a
 ---
 
 ### [Staff Backend Engineer - Second Horizon | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6111473004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD $186k - $223k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD $186k - $223k` `Equity`
 
 _Build the core backend services for an AI-native data intelligence system, including ingestion, storage, retrieval APIs, and multi-tenant SaaS infrastructure that powers agent access to enterprise context. Early-stage role on a high-autonomy team shipping from prototype to production-grade observability platform. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6111473004)_
 
@@ -33,22 +33,11 @@ _Build the core backend services for an AI-native data intelligence system, incl
 ---
 
 ### [Staff Backend Engineer - Second Horizon | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6114603004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Design and build the core backend services for an AI-native data intelligence and context management system that powers observability across enterprises, including ingestion pipelines, retrieval APIs, multi-tenant storage, and agent-facing integrations. This is an early-stage, high-autonomy role on a skunkworks team building production infrastructure for AI agents to access governed enterprise context at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6114603004)_
 
 `Python` `Go` `PostgreSQL` `AWS` `Kubernetes` `LLMs` `Observability Tools` `Agent Frameworks`
-
-<sub>July 13, 2026 at 14:51 UTC</sub>
-
----
-
-### [Staff AI Engineer](https://www.unqork.com/career-details/?gh_jid=8584611002)
-<a href="https://unqork.com"><img src="https://www.google.com/s2/favicons?domain=unqork.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Unqork** · `🟢 Remote` `Staff` `$145k-$220k` `Equity`
-
-_Build the core reasoning, planning, and tool integration for an AI agent that assists enterprise users in developing low-code applications; own both the agentic intelligence and the backend systems that power it at scale. Work directly with the VP of Agentic AI on a high-impact product serving Fortune 500 companies in regulated industries. · [Apply →](https://www.unqork.com/career-details/?gh_jid=8584611002)_
-
-`TypeScript` `Python` `LLM/RAG systems` `Backend Systems` `Agent Frameworks` `React` `PostgreSQL` `Observability`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -60,6 +49,17 @@ _Build the core reasoning, planning, and tool integration for an AI agent that a
 _Build runtime infrastructure and developer workflows for secure, production-grade AI agents; translate cutting-edge agentic research into enterprise-ready systems. Requires hands-on prototyping, evaluation frameworks, and red-teaming of agent safety and security. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)_
 
 `Python` `PyTorch` `LLMs` `Kubernetes` `Ray` `vLLM` `TensorRT-LLM` `Triton`
+
+<sub>July 13, 2026 at 14:51 UTC</sub>
+
+---
+
+### [Staff AI Engineer](https://www.unqork.com/career-details/?gh_jid=8584611002)
+<a href="https://unqork.com"><img src="https://www.google.com/s2/favicons?domain=unqork.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Unqork** · `🟢 Remote` `Staff` `$145k-$220k` `Equity`
+
+_Build the core reasoning, planning, and tool integration for an AI agent that assists enterprise users in developing low-code applications; own both the agentic intelligence and the backend systems that power it at scale. Work directly with the VP of Agentic AI on a high-impact product serving Fortune 500 companies in regulated industries. · [Apply →](https://www.unqork.com/career-details/?gh_jid=8584611002)_
+
+`TypeScript` `Python` `LLM/RAG systems` `Backend Systems` `Agent Frameworks` `React` `PostgreSQL` `Observability`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -183,7 +183,7 @@ _Build backend services and frontend interfaces for Saga, Deepgram's voice OS th
 
 ---
 
-### [Principal Support Engineer](https://jobs.ashbyhq.com/docker/35a3733e-535e-49f3-9308-4e14742adbb8)
+### [Staff Support Tooling Engineer](https://jobs.ashbyhq.com/docker/35a3733e-535e-49f3-9308-4e14742adbb8)
 <a href="https://docker.com"><img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docker** · `🟢 Remote` `Senior` `Equity`
 
 _Build agentic workflows and full-stack support tooling (UI, APIs, integrations) that automate customer support operations across Docker Hub—from case triage and enrichment to billing and account resolution. Requires daily fluency with AI-assisted development tools and production-grade observability, testing, and safe human handoff patterns at scale. · [Apply →](https://jobs.ashbyhq.com/docker/35a3733e-535e-49f3-9308-4e14742adbb8)_
@@ -515,17 +515,6 @@ _Design and lead enterprise-scale cloud infrastructure, CI/CD pipelines, and Kub
 
 ---
 
-### [Detection Engineer - Machine Learning (Remote, East/Central)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
-
-_Analyze malware detections and reverse-engineer binaries to improve machine learning detection models and reduce false positives across CrowdStrike's platform processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)_
-
-`Python` `Malware Analysis` `Reverse Engineering` `Binary Analysis` `Windows API` `Machine Learning` `C/C++` `Assembly`
-
-<sub>July 9, 2026 at 19:59 UTC</sub>
-
----
-
 ### [Senior Engineering Manager, Clients Team](https://jobs.ashbyhq.com/horizon3ai/78ae0845-cdd7-4732-a965-48f87bf1f884)
 <a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Manager` `$260k-$280k` `Equity`
 
@@ -543,6 +532,17 @@ _Lead the Clients team building and shipping NodeZero runner software—containe
 _Own the end-to-end deployment lifecycle of applied AI applications across Toast's Retail GTM function—building agentic workflows, RAG pipelines, and vertical-specific integrations into Salesforce, Snowflake, and TaskRay while establishing governance structures and field enablement to drive measurable productivity gains across sales and onboarding teams. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029612)_
 
 `Python` `JavaScript` `Claude` `Gemini` `Salesforce` `Snowflake` `API Integration` `Prompt Engineering`
+
+<sub>July 9, 2026 at 19:59 UTC</sub>
+
+---
+
+### [Detection Engineer - Machine Learning (Remote, East/Central)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
+
+_Analyze malware detections and reverse-engineer binaries to improve machine learning detection models and reduce false positives across CrowdStrike's platform processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)_
+
+`Python` `Malware Analysis` `Reverse Engineering` `Binary Analysis` `Windows API` `Machine Learning` `C/C++` `Assembly`
 
 <sub>July 9, 2026 at 19:59 UTC</sub>
 
