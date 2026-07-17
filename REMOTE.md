@@ -54,6 +54,17 @@ _Build the core reasoning, planning, and tool integration for an AI agent that a
 
 ---
 
+### [Software Engineer, OpenShell](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$184k-$287.5k` `Equity`
+
+_Build runtime infrastructure and developer workflows for secure, production-grade AI agents; translate cutting-edge agentic research into enterprise-ready systems. Requires hands-on prototyping, evaluation frameworks, and red-teaming of agent safety and security. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)_
+
+`Python` `PyTorch` `LLMs` `Kubernetes` `Ray` `vLLM` `TensorRT-LLM` `Triton`
+
+<sub>July 13, 2026 at 14:51 UTC</sub>
+
+---
+
 ### [ AI Engineer](https://job-boards.eu.greenhouse.io/clarityai/jobs/4926149101)
 <a href="https://clarity.ai"><img src="https://www.google.com/s2/favicons?domain=clarity.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clarity AI** · `🟢 Remote` `Mid` `Equity`
 
@@ -200,15 +211,6 @@ _Build and maintain integrations between Hudu and third-party PSA/RMM platforms 
 _Lead an 8+ person engineering team owning checkout architecture, order management, and post-order quality systems at the core of Instacart's e-commerce platform. Navigate high-volume cross-functional dependencies across 10+ partner teams while balancing platform modernization with shipping customer-facing value in a mission-critical, conversion-impacting domain. · [Apply →](https://instacart.careers/job/?gh_jid=8056109)_
 
 `Backend Systems` `E-commerce Infrastructure` `Order Management` `Checkout Architecture` `Payment Systems` `Distributed Systems` `Team Leadership` `Cross-functional Coordination`
-
-<sub>July 10, 2026 at 22:10 UTC</sub>
-
----
-
-### [Director of Engineering, GRC Program Orchestration](https://jobs.ashbyhq.com/vanta/355f9382-4c2a-4671-a728-11504bbb2fa9)
-<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Manager` `Equity`
-
-_Lead multiple engineering teams building Vanta's Governance, Risk, and Compliance (GRC) product, focusing on control management, policy orchestration, and continuous audit monitoring for enterprise customers. · [Apply →](https://jobs.ashbyhq.com/vanta/355f9382-4c2a-4671-a728-11504bbb2fa9)_
 
 <sub>July 10, 2026 at 22:10 UTC</sub>
 
