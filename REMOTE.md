@@ -2,13 +2,57 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **136 open roles** (55 new)
+### **141 open roles** (60 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 21, 2026
+
+### [Software Development Engineer II (Fullstack), Studio](https://jobs.ashbyhq.com/Mapbox/ff8bc612-f7dc-4195-978f-ee92e93c7f22)
+<a href="https://mapbox.com"><img src="https://www.google.com/s2/favicons?domain=mapbox.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mapbox** · `🟢 Remote` `Mid` `$160k-$217k`
+
+_Lead full-stack development on Mapbox Studio, a complex React/Redux map design tool; build workflow features that enable designers to create maps faster while solving large-scale architecture problems. Requires 3+ years backend infrastructure experience and deep expertise in performance optimization for data-intensive applications. · [Apply →](https://jobs.ashbyhq.com/Mapbox/ff8bc612-f7dc-4195-978f-ee92e93c7f22)_
+
+`React` `TypeScript` `Redux` `JavaScript` `AWS` `Jest` `Playwright` `HTML5`
+
+<sub>July 21, 2026 at 22:09 UTC</sub>
+
+---
+
+### [Senior Applied Scientist](https://www.samsara.com/company/careers/roles/8042166?gh_jid=8042166)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$170k-$286k` `Equity`
+
+_Build and optimize machine learning and computer vision models for IoT-enabled physical operations, including video-based safety, vehicle telematics, and equipment monitoring at petabyte scale. Deploy models to edge devices and backend infrastructure serving 2.3M+ deployed sensors across agriculture, construction, transportation, and manufacturing. · [Apply →](https://www.samsara.com/company/careers/roles/8042166?gh_jid=8042166)_
+
+`Python` `PyTorch` `TensorFlow` `C++` `Computer Vision` `Edge ML` `Object Detection` `Spark`
+
+<sub>July 21, 2026 at 22:09 UTC</sub>
+
+---
+
+### [Director of Engineering, Consumer Products](https://jobs.ashbyhq.com/talkiatry/86e5939c-8fd3-4129-8f77-444ee638b3c7)
+<a href="https://talkiatry.com"><img src="https://www.google.com/s2/favicons?domain=talkiatry.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Talkiatry** · `🟢 Remote` `Manager`
+
+_Lead two engineering teams (Growth and Patient Portal) building the patient-facing experience for a mental health platform at scale, plus own QA and Product Support across all application teams. Requires hands-on technical credibility with React, TypeScript, and AWS, and experience adopting AI-assisted development tools to evolve team practices. · [Apply →](https://jobs.ashbyhq.com/talkiatry/86e5939c-8fd3-4129-8f77-444ee638b3c7)_
+
+`React` `TypeScript` `Next.js` `AWS` `HIPAA Compliance`
+
+<sub>July 21, 2026 at 22:09 UTC</sub>
+
+---
+
+### [Staff Software Engineer, GRC](https://jobs.ashbyhq.com/vanta/c752a8a1-5832-4d2a-a8c5-8b8308d6a7e2)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Staff` `Equity`
+
+_Lead large-scale technical initiatives across Vanta's GRC platform, setting architectural direction for compliance and governance systems that serve enterprise customers. Mentor engineering teams and drive organizational technical strategy in a rapidly scaling SaaS business. · [Apply →](https://jobs.ashbyhq.com/vanta/c752a8a1-5832-4d2a-a8c5-8b8308d6a7e2)_
+
+`System Design` `SaaS Architecture` `Distributed Systems` `APIs` `Database Design` `Frontend Development` `Cloud Infrastructure` `Leadership`
+
+<sub>July 21, 2026 at 22:09 UTC</sub>
+
+---
 
 ### [Software Engineer, CI Platform Infrastructure](https://careers.airbnb.com/positions/8077612?gh_jid=8077612)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$162k-$190k` `Equity`
@@ -232,6 +276,17 @@ _Design and implement multi-tiered software applications across the full stack f
 _Build the core backend systems and platform infrastructure powering Mural's agentic AI collaboration experiences, including agent orchestration, durable execution, memory management, and observability. Work on distributed systems handling complex multi-step workflows at scale with Azure OpenAI integration. · [Apply →](https://jobs.ashbyhq.com/mural/7a781912-3c72-4843-8810-8a9d0c550569)_
 
 `Node.js` `MongoDB` `Azure OpenAI` `Distributed Systems` `Agent Orchestration` `API Design` `LLM Evaluation` `Retrieval Systems`
+
+<sub>July 21, 2026 at 16:37 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8642133002)
+<a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Senior` `$110k-$137k`
+
+_Design and develop large-scale, multi-tenant Java-based identity management products with focus on OAuth 2.0, OpenID Connect, and enterprise authentication systems. Scale and performance optimization required for Fortune 100 customers. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8642133002)_
+
+`Java` `REST APIs` `OAuth 2.0` `OpenID Connect` `AWS` `GCP` `Azure` `Cryptography`
 
 <sub>July 21, 2026 at 16:37 UTC</sub>
 
@@ -958,7 +1013,7 @@ _Build iOS features for Thumbtack's customer acquisition and engagement platform
 
 ---
 
-### [Software & Solutions Engineer, CRM](https://job-boards.greenhouse.io/unbounce/jobs/5304198008)
+### [Professional Services, Engineering Consultant](https://job-boards.greenhouse.io/unbounce/jobs/5304198008)
 <a href="https://unbounce.com"><img src="https://www.google.com/s2/favicons?domain=unbounce.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Unbounce** · `🟢 Remote` `Mid` `$90k-$100k USD`
 
 _Build and deliver custom CRM integrations and solutions for Insightly clients using low-code platforms (Workato) and AWS Lambda functions. Balance technical implementation with customer-facing delivery, managing projects from scoping through UAT while troubleshooting APIs and custom code in a professional services environment. · [Apply →](https://job-boards.greenhouse.io/unbounce/jobs/5304198008)_
@@ -1270,17 +1325,6 @@ _Build and lead Deepgram's AI enablement strategy end-to-end — personally arch
 
 ---
 
-### [Principal Engineer Tech Lead, Embodied AI & Off-Board Performance Evaluation](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada · `🟢 Remote` `Principal` `$200k–$275k` `Equity`
-
-_Architect and oversee a multimodal LLM-based monitoring framework that ingests autonomous vehicle logs to automatically identify safety incidents, enrich them with structured context, and conduct root cause analysis for the Autonomy team. Lead the design of off-board evaluation pipelines integrating vision-language models, vector databases, and AV performance metrics with >90% F1 score targets for anomaly detection. · [Apply →](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)_
-
-`Python` `LLM` `Vision-Language Models` `Retrieval-Augmented Generation` `Prompt Engineering` `AWS` `GCP` `Ray`
-
-<sub>July 9, 2026 at 16:04 UTC</sub>
-
----
-
 ### [Agent Engineer [IC4]](https://job-boards.greenhouse.io/sourcegraph91/jobs/6103567004)
 <a href="https://sourcegraph.com"><img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sourcegraph** · `🟢 Remote` `Senior` `$88k-$176k` `Equity`
 
@@ -1368,6 +1412,17 @@ _Build and own the mobile distribution platform powering thousands of branded re
 _Build the UX and product surface for agentic workflows in Prefect Cloud — execution plans, no-code agent authoring, human-in-the-loop gates — shipping end-to-end features that help developers orchestrate AI agents at scale. Requires deep knowledge of orchestration and developer-tools platforms (Airflow, Temporal, Langsmith, n8n) and fluency with AI development tools like Claude Code. · [Apply →](https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171)_
 
 `TypeScript` `Vue` `Python` `React` `full-stack development` `Orchestration Platforms` `Claude Code`
+
+<sub>July 8, 2026 at 20:24 UTC</sub>
+
+---
+
+### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
+
+_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
+
+`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
 
 <sub>July 8, 2026 at 20:24 UTC</sub>
 
