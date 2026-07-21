@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **109 open roles** (27 new)
+### **109 open roles** (26 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -86,7 +86,7 @@ _Build and operate AI-powered agents and workflows that automate vulnerability r
 ---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
 
@@ -290,17 +290,6 @@ _Design and operate cloud reliability infrastructure for healthcare systems—es
 
 ---
 
-### [Principal Business Intelligence Manager](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$136k-$229k` `Equity`
-
-_Own the data architecture, semantic-layer strategy, and governed data-product standards for Zillow's customer experience operations, spanning multiple systems and business lines. Lead through technical depth and hands-on problem-solving to make the data foundation trustworthy, scalable, and AI-ready across BI, analytics, self-service, and ML consumption patterns. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)_
-
-`SQL` `Data Modeling` `dbt` `Databricks` `Snowflake` `Tableau` `Semantic Layer Design` `Data Governance`
-
-<sub>July 21, 2026 at 00:05 UTC</sub>
-
----
-
 <br>
 
 ## July 13, 2026
@@ -333,6 +322,17 @@ _Build the core backend services for an AI-native data intelligence system, incl
 _Design and build the core backend services for an AI-native data intelligence and context management system that powers observability across enterprises, including ingestion pipelines, retrieval APIs, multi-tenant storage, and agent-facing integrations. This is an early-stage, high-autonomy role on a skunkworks team building production infrastructure for AI agents to access governed enterprise context at scale. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6114603004)_
 
 `Python` `Go` `PostgreSQL` `AWS` `Kubernetes` `LLMs` `Observability Tools` `Agent Frameworks`
+
+<sub>July 13, 2026 at 14:51 UTC</sub>
+
+---
+
+### [Software Engineer, OpenShell](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$184k-$287.5k` `Equity`
+
+_Build runtime infrastructure and developer workflows for secure, production-grade AI agents; translate cutting-edge agentic research into enterprise-ready systems. Requires hands-on prototyping, evaluation frameworks, and red-teaming of agent safety and security. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825)_
+
+`Python` `PyTorch` `LLMs` `Kubernetes` `Ray` `vLLM` `TensorRT-LLM` `Triton`
 
 <sub>July 13, 2026 at 14:51 UTC</sub>
 
@@ -791,7 +791,7 @@ _Design and lead enterprise-scale cloud infrastructure, CI/CD pipelines, and Kub
 ---
 
 ### [Detection Engineer - Machine Learning (Remote, East/Central)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
 
 _Analyze malware detections and reverse-engineer binaries to improve machine learning detection models and reduce false positives across CrowdStrike's platform processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)_
 
