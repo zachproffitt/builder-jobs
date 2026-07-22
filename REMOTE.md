@@ -2,13 +2,35 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **144 open roles** (37 new)
+### **144 open roles** (36 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 22, 2026
+
+### [Senior Machine Learning Engineer, Developer Advocacy | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121756004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$164k CAD-$197k CAD` `Equity`
+
+_Build and evolve a personalized recommendation system for Grafana's Interactive Learning platform, moving from rule-based to ML-driven next-best-action suggestions. Own end-to-end model development, serving, feature engineering, and monitoring for a real-time recommendation service integrated into a production platform used by millions. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6121756004)_
+
+`Python` `PyTorch` `Go` `TypeScript` `Machine Learning` `Recommendation Systems` `MLOps` `Feature Engineering`
+
+<sub>July 22, 2026 at 14:17 UTC</sub>
+
+---
+
+### [Senior Machine Learning Engineer, Developer Advocacy | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+
+_Build and operate a real-time personalized recommendation system for Grafana's Interactive Learning platform, evolving from rule-based rules to ML-driven candidate selection, ranking, and next-best-action recommendations. Own the full lifecycle—model development, validation, monitoring, feature pipelines, and safe integration into production—while partnering with engineers and data teams on experimentation and measurement. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004)_
+
+`Python` `PyTorch` `TensorFlow` `Go` `TypeScript` `Kafka` `Recommender Systems` `A/B Testing`
+
+<sub>July 22, 2026 at 14:17 UTC</sub>
+
+---
 
 ### [Forward Deployed Analytics Engineer ](https://job-boards.greenhouse.io/hightouch/jobs/6122160004)
 <a href="https://hightouch.com"><img src="https://www.google.com/s2/favicons?domain=hightouch.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hightouch** · `🟢 Remote` `Mid` `$100k-$160k` `Equity`
@@ -119,17 +141,6 @@ _Build the core UI layer and micro-experiences powering Alkami's Online Banking 
 _Drive technical direction for backend platform capabilities and product domains, designing scalable .NET/C# services while shaping the organization's adoption of agentic AI tools, code review practices, and AI-native architecture patterns. Lead architectural debt remediation, mentor multiple teams, and establish standards for AI-consumable documentation and knowledge management. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/8049926)_
 
 `.NET` `C#` `Python` `Java` `Go` `PostgreSQL` `Microsoft SQL Server` `AWS`
-
-<sub>July 21, 2026 at 20:23 UTC</sub>
-
----
-
-### [Bioinformatics Manager (Oncology Product Development)](https://job-boards.greenhouse.io/natera/jobs/6117368004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$140k-$175k`
-
-_Manage a team of bioinformaticians and data scientists developing ctDNA-based oncology diagnostic tests, leading the design and validation of analysis pipelines for cancer variant and methylation detection. Lead cross-functional product development from research through commercial launch in a regulated medical diagnostics environment. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6117368004)_
-
-`Python` `R` `Machine Learning` `NGS` `DNA Methylation` `Statistical Modeling` `Bioinformatics` `ctDNA`
 
 <sub>July 21, 2026 at 20:23 UTC</sub>
 
@@ -482,7 +493,7 @@ _Build and operate AI-powered agents and workflows that automate vulnerability r
 ---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
 
@@ -633,21 +644,21 @@ _Build checkout and payment link products at Stripe that serve millions of busin
 
 ---
 
-### [Engineering Manager, Product Engineering](https://jobs.ashbyhq.com/trm-labs/e316a0e4-44f4-46b0-9415-e10ab2b4f18e)
-<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Manager`
-
-_Lead a multidisciplinary pod of frontend, backend, and full-stack engineers shipping workflow-heavy product features for an AI-powered criminal investigation platform used by law enforcement and financial institutions. · [Apply →](https://jobs.ashbyhq.com/trm-labs/e316a0e4-44f4-46b0-9415-e10ab2b4f18e)_
-
-<sub>July 21, 2026 at 00:05 UTC</sub>
-
----
-
 ### [Sr. System Test Engineer - HiL](https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002)
 <a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan · `🟢 Remote` `Senior` `$139k–$166k` `Equity`
 
 _Design and build Hardware-in-the-Loop test benches to validate autonomous truck driving software across perception, sensor fusion, and vehicle control systems. Requires deep expertise in HiL platforms, ROS/ROS2, and safety-critical system validation for autonomous vehicles. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002)_
 
 `Python` `C++` `ROS/ROS2` `Hardware-in-the-Loop (HiL)` `dSPACE` `CAN` `CANoe` `ISO 26262`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Engineering Manager, Product Engineering](https://jobs.ashbyhq.com/trm-labs/e316a0e4-44f4-46b0-9415-e10ab2b4f18e)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Manager`
+
+_Lead a multidisciplinary pod of frontend, backend, and full-stack engineers shipping workflow-heavy product features for an AI-powered criminal investigation platform used by law enforcement and financial institutions. · [Apply →](https://jobs.ashbyhq.com/trm-labs/e316a0e4-44f4-46b0-9415-e10ab2b4f18e)_
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
@@ -885,12 +896,12 @@ _Build and maintain integrations between Hudu and third-party PSA/RMM platforms 
 
 ---
 
-### [Engineering Manager, Order Experience](https://instacart.careers/job/?gh_jid=8056110)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAN$196k–CAN$207k` `Equity`
+### [Engineering Manager, Order Experience](https://instacart.careers/job/?gh_jid=8056109)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
 
-_Lead an 8+ person engineering team owning Instacart's mission-critical checkout, order management, and post-order quality infrastructure that directly impacts conversion and reliability at scale. Manage 10+ cross-functional partner dependencies while balancing near-term shipping with long-term platform modernization in a high-transaction e-commerce environment. · [Apply →](https://instacart.careers/job/?gh_jid=8056110)_
+_Lead an 8+ person engineering team owning checkout architecture, order management, and post-order quality systems at the core of Instacart's e-commerce platform. Navigate high-volume cross-functional dependencies across 10+ partner teams while balancing platform modernization with shipping customer-facing value in a mission-critical, conversion-impacting domain. · [Apply →](https://instacart.careers/job/?gh_jid=8056109)_
 
-`Backend Systems` `Order Management` `Checkout Architecture` `Distributed Systems` `E-commerce`
+`Backend Systems` `E-commerce Infrastructure` `Order Management` `Checkout Architecture` `Payment Systems` `Distributed Systems` `Team Leadership` `Cross-functional Coordination`
 
 <sub>July 10, 2026 at 22:10 UTC</sub>
 
@@ -1187,7 +1198,7 @@ _Design and lead enterprise-scale cloud infrastructure, CI/CD pipelines, and Kub
 ---
 
 ### [Detection Engineer - Machine Learning (Remote, East/Central)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
 
 _Analyze malware detections and reverse-engineer binaries to improve machine learning detection models and reduce false positives across CrowdStrike's platform processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)_
 
@@ -1340,12 +1351,12 @@ _Lead two data engineering sub-teams owning TRM's petabyte-scale blockchain inte
 
 ---
 
-### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex). Drive production-ready connectors that position ClickHouse as the natural choice for RAG architectures, ML feature pipelines, and LLM-powered data applications. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)_
+_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex); design production-grade connectors that make ClickHouse a natural fit for RAG pipelines, vector stores, and ML feature stores. Requires hands-on production experience as a Data Engineer, Data Scientist, or ML Engineer, and deep expertise building and maintaining Python connectors or SDKs for major platforms. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)_
 
-`Python` `Airflow` `dbt` `Pandas` `NumPy` `Pydantic` `SQL` `async programming`
+`Python` `Airflow` `Dagster` `dbt` `LangChain` `LlamaIndex` `Pandas` `Pydantic`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
@@ -1357,17 +1368,6 @@ _Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestra
 _Build and lead Deepgram's AI enablement strategy end-to-end — personally architecting production agents, MCP integrations, and paved-road workflows that embed safe AI leverage across every function, then grow a small team and champions network to scale adoption company-wide. This is a build-first leadership role with high visibility and executive sponsorship, requiring hands-on engineering credibility and the ability to drive adoption through demonstrated value rather than mandate in a fast-moving, AI-native environment. · [Apply →](https://jobs.ashbyhq.com/Deepgram/c91de352-9f25-479e-8877-fbea9576a52c)_
 
 `LLM agents` `MCP` `Prompt Engineering` `Agentic Orchestration` `Python` `Retrieval Systems` `Vector Databases` `Enterprise AI Platforms`
-
-<sub>July 9, 2026 at 16:04 UTC</sub>
-
----
-
-### [Principal Engineer Tech Lead, Embodied AI & Off-Board Performance Evaluation](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada · `🟢 Remote` `Principal` `$200k–$275k` `Equity`
-
-_Architect and oversee a multimodal LLM-based monitoring framework that ingests autonomous vehicle logs to automatically identify safety incidents, enrich them with structured context, and conduct root cause analysis for the Autonomy team. Lead the design of off-board evaluation pipelines integrating vision-language models, vector databases, and AV performance metrics with >90% F1 score targets for anomaly detection. · [Apply →](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)_
-
-`Python` `LLM` `Vision-Language Models` `Retrieval-Augmented Generation` `Prompt Engineering` `AWS` `GCP` `Ray`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
