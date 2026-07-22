@@ -2,13 +2,145 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **151 open roles** (25 new)
+### **164 open roles** (27 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 22, 2026
+
+### [Staff Backend Engineer - Ads Platform](https://careers.airbnb.com/positions/8074897?gh_jid=8074897)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k-$265k` `Equity`
+
+_Lead technical strategy and hands-on engineering for Airbnb's AI-powered paid advertising platform across Google, Meta, and other channels—architecting autonomous systems for creative generation, bid optimization, audience management, and campaign lifecycle automation at scale. · [Apply →](https://careers.airbnb.com/positions/8074897?gh_jid=8074897)_
+
+`Python` `TypeScript` `Distributed Systems` `Machine Learning` `Advertising Systems` `Google Ads API` `Meta Ads API` `SQL`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Senior Software Engineer II (Full Stack), Fieldwork Automation (Remote Canada)](https://jobs.ashbyhq.com/optro/b977e5ad-89d8-4cfb-b70e-b5372ba1e762)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
+
+_Build and ship end-to-end product features for an audit and risk SaaS platform, leading architecture decisions and mentoring engineers across a full-stack Node.js/React/Python application. 8+ years of web-based enterprise SaaS development required; security-sensitive environment with access to customer and company data. · [Apply →](https://jobs.ashbyhq.com/optro/b977e5ad-89d8-4cfb-b70e-b5372ba1e762)_
+
+`Node.js` `React` `TypeScript` `PostgreSQL` `Python` `Docker` `Kubernetes` `REST APIs`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Senior Software Engineer II (Full Stack), Fieldwork Automation (Remote Arizona)](https://jobs.ashbyhq.com/optro/601ef6b7-f454-4335-ab58-1eb8ef67536e)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
+
+_Build and ship end-to-end product features for an enterprise SaaS audit, risk, and compliance platform serving Fortune 500 customers. Lead architecture decisions, mentor engineers, and work across a full stack (Node.js backend, React/Vue/Ember frontend, PostgreSQL, Kubernetes). · [Apply →](https://jobs.ashbyhq.com/optro/601ef6b7-f454-4335-ab58-1eb8ef67536e)_
+
+`Node.js` `React` `TypeScript` `PostgreSQL` `Kubernetes` `Docker` `Python` `REST APIs`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Senior Software Engineer II (Full Stack), Fieldwork Automation (Remote Pennsylvania)](https://jobs.ashbyhq.com/optro/cdb850d1-c059-4976-a0ee-0e865bfac4e3)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
+
+_Build and ship end-to-end product features for a SaaS audit and compliance platform, mentoring engineers and leading architecture decisions across a full stack using Node.js, React, and PostgreSQL. Scale to Fortune 500 customers handling sensitive compliance and financial data. · [Apply →](https://jobs.ashbyhq.com/optro/cdb850d1-c059-4976-a0ee-0e865bfac4e3)_
+
+`Node.js` `React` `PostgreSQL` `Kubernetes` `Docker` `TypeScript` `Python` `REST APIs`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Senior Software Engineer II (Full Stack), Fieldwork Automation (Remote Florida)](https://jobs.ashbyhq.com/optro/e9fede9b-52bc-4454-bd76-95f0314c69b2)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
+
+_Build and ship end-to-end product features for an audit, risk, and ESG platform serving 50%+ of Fortune 500 companies. Lead large strategic projects, mentor engineers, and architect scalable SaaS infrastructure handling enterprise-scale workloads. · [Apply →](https://jobs.ashbyhq.com/optro/e9fede9b-52bc-4454-bd76-95f0314c69b2)_
+
+`Node.js` `React` `TypeScript` `PostgreSQL` `Kubernetes` `Docker` `Python` `REST APIs`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Software Engineer (Full-Stack)](https://jobs.ashbyhq.com/backflip/1eba42fe-07a5-475a-b3ee-f17c533ee7a3)
+<a href="https://backflip.com"><img src="https://www.google.com/s2/favicons?domain=backflip.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Backflip Studios** · `🟢 Remote` `Mid` `$130k-$160k` `Equity`
+
+_Build and ship full-stack features across TypeScript/React frontend and TypeScript/Python backend for residential real estate financing products. Own integrations and backend services (LoanPro, HubSpot, internal APIs) with accountability for reliability, testing, and production incident response on a small, high-leverage early-stage team. · [Apply →](https://jobs.ashbyhq.com/backflip/1eba42fe-07a5-475a-b3ee-f17c533ee7a3)_
+
+`TypeScript` `React` `Python` `PostgreSQL` `LoanPro` `HubSpot API` `Testing` `CI/CD`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Senior Cloud Data Infrastructure Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5778616004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+
+_Build a cloud-native serverless database platform on Kubernetes, including the in-house operator and metrics pipeline for ClickHouse. Work on distributed infrastructure at scale with expertise in production systems, cloud providers, and data storage systems like Kafka and Spark. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/5778616004)_
+
+`Go` `C++` `Kubernetes` `AWS` `GCP` `Azure` `Kafka` `Spark`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Staff Software Engineer](https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167)
+<a href="https://confluent.io"><img src="https://www.google.com/s2/favicons?domain=confluent.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Confluent** · Mountain View, California · `🟢 Remote` `Staff`
+
+_Design and build backend services in Go, Java, and Python that enable AI model inference and agent execution on streaming data in Confluent Cloud. Lead cross-team technical decisions spanning model lifecycle, inference routing, control planes, and serving layers for production infrastructure at scale. · [Apply →](https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167)_
+
+`Go` `Java` `Python` `Kubernetes` `Distributed Systems` `Cloud-Native Architecture`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480)
+<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · `🟢 Remote`
+
+_Build and operate OpenAI's global compute infrastructure across distributed systems, GPU clusters, data centers, and manufacturing supply chain at unprecedented scale to support frontier AI model training and deployment. · [Apply →](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480)_
+
+`Distributed Systems` `GPU Clusters` `High-Performance Computing` `Data Center Operations` `Cloud Infrastructure` `Supply Chain Management` `Systems Architecture`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Head of GTM AI and Engineering](https://www.samsara.com/company/careers/roles/8052310?gh_jid=8052310)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Manager` `$196k-$350k` `Equity`
+
+_Lead a multi-disciplinary team of AI engineers, data scientists, and data engineers to build production AI systems, forecasting engines, and automated data pipelines that power Samsara's go-to-market engine across CRM and product telemetry. Requires hands-on technical depth in LLM orchestration, complex data modeling, and BigQuery/SQL; managing other people managers at scale within a high-growth SaaS environment. · [Apply →](https://www.samsara.com/company/careers/roles/8052310?gh_jid=8052310)_
+
+`LLM Orchestration` `BigQuery` `SQL` `Snowflake` `Salesforce` `Data Modeling` `Python` `Looker`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Data Engineer - AI/ML ](https://jobs.ashbyhq.com/trm-labs/13abf238-3475-4227-91cd-ac470973080f)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Mid`
+
+_Own performance tuning and reliability of the StarRocks-backed serving layer for government cloud investigations, including query optimization, data pipeline hardening, and incident response in a regulated high-availability environment. Requires US citizenship for GovCloud data access. · [Apply →](https://jobs.ashbyhq.com/trm-labs/13abf238-3475-4227-91cd-ac470973080f)_
+
+`StarRocks` `Distributed Systems` `Data Pipelines` `SQL` `Query Optimization` `Claude` `Incident Response` `GovCloud`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8076802)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$141.5k-$208k` `Equity`
+
+_Build and maintain robust data models, dashboards, and semantic layers for Go-To-Market analytics using BI-as-Code practices; establish data quality frameworks and CI/CD pipelines to support sales, marketing, and revenue operations at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8076802)_
+
+`SQL` `Tableau` `dbt` `Git` `CI/CD` `Salesforce` `Python` `Looker`
+
+<sub>July 22, 2026 at 20:18 UTC</sub>
+
+---
 
 ### [Senior Software Engineer (Insurance Tech)](https://job-boards.greenhouse.io/evolutioniq/jobs/6122678004)
 <a href="https://evolutioniq.com"><img src="https://www.google.com/s2/favicons?domain=evolutioniq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EvolutionIQ** · New York, New York / Chicago, Illinois / Remote · `🟢 Remote` `Senior` `$215k-$230k` `Equity`
@@ -332,7 +464,7 @@ _Design and optimize LLM prompts for Five9's AI-powered Automated Quality Manage
 ---
 
 ### [Senior Product Scientist, Agentic Growth & Marketing](https://job-boards.greenhouse.io/hs/jobs/8077611)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
 
 _Own the execution of Headspace's agentic marketing system—a closed-loop growth engine that autonomously optimizes paid acquisition spend, reallocates budgets across platforms, and triggers personalized lifecycle communications based on real-time member signals and causal measurement. Build production ML systems for marketing automation at scale in the consumer subscription health space, requiring SQL, Python, and cross-functional collaboration with engineering and product teams. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/8077611)_
 
@@ -581,7 +713,7 @@ _Build and operate AI-powered agents and workflows that automate vulnerability r
 ---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
 
@@ -639,17 +771,6 @@ _Own production reliability and incident response for Grafana Cloud's multi-tena
 _Lead a backend and platform engineering team migrating NodeZero's pentest data processing from batch to real-time, event-driven microservices architecture, handling hundreds of thousands of hosts at enterprise scale. Work encompasses stream processing, storage design, schema evolution, and cybersecurity domain logic translation in a greenfield architectural transformation. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/00ea08e4-6523-4782-93f6-09b35ecc23dc)_
 
 `Kafka` `AWS` `Datadog` `Python` `Go` `Distributed Systems` `Event-Driven Architecture` `Stream Processing`
-
-<sub>July 21, 2026 at 00:05 UTC</sub>
-
----
-
-### [Staff Technical Support Engineer](https://jobs.ashbyhq.com/horizon3ai/efb7a52e-2884-43f6-ad7e-a03b5998aa19)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Staff` `$117k-$145k` `Equity`
-
-_Lead enterprise technical support and incident response for a cybersecurity platform, diagnosing and resolving complex issues across cloud infrastructure, networking, and containerized environments for mission-critical deployments. Requires expertise in Linux, Kubernetes, AWS/Azure/GCP, and advanced networking troubleshooting in production environments. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/efb7a52e-2884-43f6-ad7e-a03b5998aa19)_
-
-`Linux` `Kubernetes` `Docker` `AWS` `Azure` `GCP` `Terraform` `Ansible`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
@@ -769,6 +890,28 @@ _Design and ship AI-powered workflows, agents, and automations (using Claude, Du
 _Provide technical customer support for cloud security platform, troubleshooting customer issues across cloud infrastructure, Kubernetes, and security systems. Design and implement automation solutions to scale support operations; requires US person status per EAR/ITAR regulations. · [Apply →](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006)_
 
 `Python` `Java` `JavaScript` `Kubernetes` `AWS` `Azure` `GCP` `Linux`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Design and operate cloud reliability infrastructure for healthcare systems—establish SLOs/SLIs, drive incident response processes, and build observability solutions across GCP/AWS. 10+ years required in cloud operations or SRE with proven production system ownership in distributed architectures. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)_
+
+`Google Cloud Platform` `AWS` `Terraform` `Kubernetes` `Python` `Prometheus` `Datadog` `Infrastructure as Code`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Principal Business Intelligence Manager](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$136k-$229k` `Equity`
+
+_Own the data architecture, semantic-layer strategy, and governed data-product standards for Zillow's customer experience operations, spanning multiple systems and business lines. Lead through technical depth and hands-on problem-solving to make the data foundation trustworthy, scalable, and AI-ready across BI, analytics, self-service, and ML consumption patterns. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)_
+
+`SQL` `Data Modeling` `dbt` `Databricks` `Snowflake` `Tableau` `Semantic Layer Design` `Data Governance`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
@@ -962,12 +1105,12 @@ _Build and maintain integrations between Hudu and third-party PSA/RMM platforms 
 
 ---
 
-### [Engineering Manager, Order Experience](https://instacart.careers/job/?gh_jid=8056109)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
+### [Engineering Manager, Order Experience](https://instacart.careers/job/?gh_jid=8056110)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAN$196k–CAN$207k` `Equity`
 
-_Lead an 8+ person engineering team owning checkout architecture, order management, and post-order quality systems at the core of Instacart's e-commerce platform. Navigate high-volume cross-functional dependencies across 10+ partner teams while balancing platform modernization with shipping customer-facing value in a mission-critical, conversion-impacting domain. · [Apply →](https://instacart.careers/job/?gh_jid=8056109)_
+_Lead an 8+ person engineering team owning Instacart's mission-critical checkout, order management, and post-order quality infrastructure that directly impacts conversion and reliability at scale. Manage 10+ cross-functional partner dependencies while balancing near-term shipping with long-term platform modernization in a high-transaction e-commerce environment. · [Apply →](https://instacart.careers/job/?gh_jid=8056110)_
 
-`Backend Systems` `E-commerce Infrastructure` `Order Management` `Checkout Architecture` `Payment Systems` `Distributed Systems` `Team Leadership` `Cross-functional Coordination`
+`Backend Systems` `Order Management` `Checkout Architecture` `Distributed Systems` `E-commerce`
 
 <sub>July 10, 2026 at 22:10 UTC</sub>
 
@@ -1138,7 +1281,7 @@ _Build and deliver custom CRM integrations and solutions for Insightly clients u
 
 ---
 
-### [Solutions Engineer (AgentControl)](https://job-boards.greenhouse.io/launchdarkly/jobs/7800006003)
+### [Solutions Engineer (AI)](https://job-boards.greenhouse.io/launchdarkly/jobs/7800006003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$182k-$295k` `Equity`
 
 _Build integrations, technical content, and demos for LaunchDarkly's AgentControl product—a platform for AI engineers to release, monitor, and optimize AI agents. Drive early-stage adoption, establish Solutions Engineering frameworks, and gather product feedback that shapes development; requires deep expertise in multi-agent systems, LLM mechanics, and 12+ years of AI/ML engineering experience. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7800006003)_
@@ -1264,7 +1407,7 @@ _Design and lead enterprise-scale cloud infrastructure, CI/CD pipelines, and Kub
 ---
 
 ### [Detection Engineer - Machine Learning (Remote, East/Central)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
 
 _Analyze malware detections and reverse-engineer binaries to improve machine learning detection models and reduce false positives across CrowdStrike's platform processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)_
 
@@ -1439,6 +1582,17 @@ _Build and lead Deepgram's AI enablement strategy end-to-end — personally arch
 
 ---
 
+### [Principal Engineer Tech Lead, Embodied AI & Off-Board Performance Evaluation](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)
+<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Remote / Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada · `🟢 Remote` `Principal` `$200k–$275k` `Equity`
+
+_Architect and oversee a multimodal LLM-based monitoring framework that ingests autonomous vehicle logs to automatically identify safety incidents, enrich them with structured context, and conduct root cause analysis for the Autonomy team. Lead the design of off-board evaluation pipelines integrating vision-language models, vector databases, and AV performance metrics with >90% F1 score targets for anomaly detection. · [Apply →](https://motional.com/open-positions/?gh_jid=7799653003#/7799653003)_
+
+`Python` `LLM` `Vision-Language Models` `Retrieval-Augmented Generation` `Prompt Engineering` `AWS` `GCP` `Ray`
+
+<sub>July 9, 2026 at 16:04 UTC</sub>
+
+---
+
 ### [Agent Engineer [IC4]](https://job-boards.greenhouse.io/sourcegraph91/jobs/6103567004)
 <a href="https://sourcegraph.com"><img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sourcegraph** · `🟢 Remote` `Senior` `$88k-$176k` `Equity`
 
@@ -1526,17 +1680,6 @@ _Build and own the mobile distribution platform powering thousands of branded re
 _Build the UX and product surface for agentic workflows in Prefect Cloud — execution plans, no-code agent authoring, human-in-the-loop gates — shipping end-to-end features that help developers orchestrate AI agents at scale. Requires deep knowledge of orchestration and developer-tools platforms (Airflow, Temporal, Langsmith, n8n) and fluency with AI development tools like Claude Code. · [Apply →](https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171)_
 
 `TypeScript` `Vue` `Python` `React` `full-stack development` `Orchestration Platforms` `Claude Code`
-
-<sub>July 8, 2026 at 20:24 UTC</sub>
-
----
-
-### [Staff Data Scientist](https://careers.toasttab.com/jobs?gh_jid=8029049)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$133k-$272k` `Equity`
-
-_Lead the design and development of scalable ML systems for restaurant use cases including menu recommendation, demand forecasting, offer targeting, and guest personalization. Work with production ML systems at scale requiring distributed training, real-time inference, and hands-on MLOps across AWS infrastructure. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8029049)_
-
-`Python` `SQL` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `Distributed Systems` `MLOps`
 
 <sub>July 8, 2026 at 20:24 UTC</sub>
 
