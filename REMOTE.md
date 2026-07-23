@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **151 open roles** (27 new)
+### **153 open roles** (28 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 23, 2026
+
+### [Senior Software Engineer II - LLM Observability ](https://job-boards.greenhouse.io/honeycomb/jobs/5366557008)
+<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$183k-$206k` `Equity`
+
+_Build backend systems and APIs in Go for Honeycomb's LLM observability platform, defining how AI workloads are represented in telemetry and normalized across diverse ecosystems. Lead complex multi-team projects, mentor engineers, and own full-stack product features across the observability infrastructure that powers cost analysis and anomaly detection. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5366557008)_
+
+`Go` `React` `TypeScript` `OpenTelemetry` `API Design` `Distributed Systems`
+
+<sub>July 23, 2026 at 07:41 UTC</sub>
+
+---
 
 ### [Staff Computational Biologist](https://job-boards.greenhouse.io/freenome/jobs/8638413002)
 <a href="https://freenome.com"><img src="https://www.google.com/s2/favicons?domain=freenome.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Freenome** · `🟢 Remote` `Staff` `$188k-$270k` `Equity`
@@ -69,12 +80,12 @@ _Build and maintain full-stack financial software applications using Java, SQL, 
 
 ---
 
-### [Detection Engineer II](https://instacart.careers/job/?gh_jid=8080512)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$142k—$180k USD` `Equity`
+### [Detection Engineer II](https://instacart.careers/job/?gh_jid=8080532)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Mid` `CAD$145k-$153k` `Equity`
 
-_Build detection logic and security automation systems across Instacart's cloud-native platform, identifying threats through endpoint, cloud, container, and SaaS telemetry. Develop detection-as-code pipelines, SOAR playbooks, and threat hunting methodologies to protect one of North America's largest grocery technology platforms. · [Apply →](https://instacart.careers/job/?gh_jid=8080512)_
+_Build and operate detection systems that identify threats across Instacart's cloud-native infrastructure, from telemetry collection through automated response. Develop detection-as-code logic across endpoint, cloud, container, and SaaS platforms while hunting novel attacker techniques and optimizing for signal quality and scale. · [Apply →](https://instacart.careers/job/?gh_jid=8080532)_
 
-`Python` `Golang` `AWS` `Azure` `GCP` `macOS internals` `SOAR` `Detection-as-Code`
+`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `Detection-as-Code` `Endpoint Detection and Response`
 
 <sub>July 22, 2026 at 22:12 UTC</sub>
 
@@ -212,12 +223,12 @@ _Own performance tuning and reliability of the StarRocks-backed serving layer fo
 
 ---
 
-### [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8074762)
+### [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8076802)
 <a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$141.5k-$208k` `Equity`
 
-_Build and maintain robust data models, semantic layers, and automated BI infrastructure to enable trusted sales analytics, reporting, and AI capabilities for GTM teams. Apply software engineering practices (Git, CI/CD, testing frameworks) to scale BI-as-Code across the organization. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8074762)_
+_Build and maintain robust data models, dashboards, and semantic layers for Go-To-Market analytics using BI-as-Code practices; establish data quality frameworks and CI/CD pipelines to support sales, marketing, and revenue operations at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8076802)_
 
-`SQL` `Tableau` `dbt` `Git` `CI/CD` `Python` `Salesforce` `Looker`
+`SQL` `Tableau` `dbt` `Git` `CI/CD` `Salesforce` `Python` `Looker`
 
 <sub>July 22, 2026 at 20:18 UTC</sub>
 
@@ -534,7 +545,7 @@ _Design and optimize LLM prompts for Five9's AI-powered Automated Quality Manage
 ---
 
 ### [Senior Product Scientist, Agentic Growth & Marketing](https://job-boards.greenhouse.io/hs/jobs/8077611)
-<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
+<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
 
 _Own the execution of Headspace's agentic marketing system—a closed-loop growth engine that autonomously optimizes paid acquisition spend, reallocates budgets across platforms, and triggers personalized lifecycle communications based on real-time member signals and causal measurement. Build production ML systems for marketing automation at scale in the consumer subscription health space, requiring SQL, Python, and cross-functional collaboration with engineering and product teams. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/8077611)_
 
@@ -783,7 +794,7 @@ _Build and operate AI-powered agents and workflows that automate vulnerability r
 ---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
 
@@ -960,6 +971,17 @@ _Design and ship AI-powered workflows, agents, and automations (using Claude, Du
 _Provide technical customer support for cloud security platform, troubleshooting customer issues across cloud infrastructure, Kubernetes, and security systems. Design and implement automation solutions to scale support operations; requires US person status per EAR/ITAR regulations. · [Apply →](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006)_
 
 `Python` `Java` `JavaScript` `Kubernetes` `AWS` `Azure` `GCP` `Linux`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Design and operate cloud reliability infrastructure for healthcare systems—establish SLOs/SLIs, drive incident response processes, and build observability solutions across GCP/AWS. 10+ years required in cloud operations or SRE with proven production system ownership in distributed architectures. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)_
+
+`Google Cloud Platform` `AWS` `Terraform` `Kubernetes` `Python` `Prometheus` `Datadog` `Infrastructure as Code`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
@@ -1455,7 +1477,7 @@ _Design and lead enterprise-scale cloud infrastructure, CI/CD pipelines, and Kub
 ---
 
 ### [Detection Engineer - Machine Learning (Remote, East/Central)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$90k-$125k` `Equity`
 
 _Analyze malware detections and reverse-engineer binaries to improve machine learning detection models and reduce false positives across CrowdStrike's platform processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832)_
 
@@ -1608,12 +1630,12 @@ _Lead two data engineering sub-teams owning TRM's petabyte-scale blockchain inte
 
 ---
 
-### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Senior Software Engineer - Python and Data Ecosystem](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex); design production-grade connectors that make ClickHouse a natural fit for RAG pipelines, vector stores, and ML feature stores. Requires hands-on production experience as a Data Engineer, Data Scientist, or ML Engineer, and deep expertise building and maintaining Python connectors or SDKs for major platforms. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107514004)_
+_Own and evolve ClickHouse's Python connector and SDK ecosystem across orchestration platforms (Airflow, Dagster, Prefect), transformation tools (dbt, SQLMesh), and AI/LLM integrations (LangChain, LlamaIndex). Drive production-ready connectors that position ClickHouse as the natural choice for RAG architectures, ML feature pipelines, and LLM-powered data applications. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6107515004)_
 
-`Python` `Airflow` `Dagster` `dbt` `LangChain` `LlamaIndex` `Pandas` `Pydantic`
+`Python` `Airflow` `dbt` `Pandas` `NumPy` `Pydantic` `SQL` `async programming`
 
 <sub>July 9, 2026 at 16:04 UTC</sub>
 
