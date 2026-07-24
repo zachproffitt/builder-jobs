@@ -2,13 +2,68 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **162 open roles** (30 new)
+### **164 open roles** (24 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 24, 2026
+
+### [Senior Machine Learning Engineer](https://www.agero.com/available-jobs?gh_jid=8639034002)
+<a href="https://agero.com"><img src="https://www.google.com/s2/favicons?domain=agero.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Agero** · `🟢 Remote` `Senior` `$133k-$180k`
+
+_Design, develop, and deploy machine learning models and algorithms to optimize Agero's dispatch management, accident response, and service delivery operations across 12 million annual service events. Lead the full ML project lifecycle from ideation through production deployment and monitoring, requiring expertise in building large-scale systems with Python, AWS, and modern ML infrastructure tools. · [Apply →](https://www.agero.com/available-jobs?gh_jid=8639034002)_
+
+`Python` `AWS` `SageMaker` `Pandas` `Scikit-learn` `Airflow` `SQL` `DVC`
+
+<sub>July 24, 2026 at 20:36 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Developer Platform ](https://job-boards.greenhouse.io/chainguard/jobs/4699416006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Senior` `$157k—$184k` `Equity`
+
+_Build and operate the internal CI/CD platform and Agentic AI infrastructure that powers Chainguard's engineering organization, including monorepo orchestration, agent observability, and standardized deployment pipelines. Scale AI-driven development practices to automate away developer toil while maintaining safety and review quality. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4699416006)_
+
+`Go` `CI/CD` `GitHub Actions` `Argo Workflows` `Buildkite` `Kubernetes` `Container orchestration` `DORA metrics`
+
+<sub>July 24, 2026 at 20:36 UTC</sub>
+
+---
+
+### [Senior Full Stack Engineer](https://jobs.ashbyhq.com/goteleport/f0ef2e82-1d4b-440c-b1b6-4f02e4472e37)
+<a href="https://goteleport.com"><img src="https://www.google.com/s2/favicons?domain=goteleport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teleport** · `🟢 Remote` `Senior`
+
+_Build user interfaces and backend APIs for Teleport's infrastructure identity platform, implementing server-side pagination, passwordless authentication flows, and onboarding experiences. Work across the full product lifecycle from customer discovery through open-source implementation in Go, Rust, TypeScript, and React. · [Apply →](https://jobs.ashbyhq.com/goteleport/f0ef2e82-1d4b-440c-b1b6-4f02e4472e37)_
+
+`Go` `TypeScript` `React` `Rust` `Web Security`
+
+<sub>July 24, 2026 at 20:36 UTC</sub>
+
+---
+
+### [Senior Workday Integrations Engineer](https://careers.toasttab.com/jobs?gh_jid=7686137)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior` `$83k-$170k` `Equity`
+
+_Design, build, and maintain Workday integrations across payroll, benefits, talent acquisition, and identity management systems using Workday Studio, EIB, and cloud connectors. Lead integrations through full lifecycle ownership while strengthening system stability through monitoring, testing, and continuous improvement in a fast-growing enterprise environment. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7686137)_
+
+`Workday Studio` `Workday EIB` `Workday Cloud Connect` `PECI` `REST` `SOAP` `XML` `XSLT`
+
+<sub>July 24, 2026 at 20:36 UTC</sub>
+
+---
+
+### [Software Engineer II, Payments](https://careers.toasttab.com/jobs?gh_jid=8059808)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote, US / Boston, Massachusetts · `🟢 Remote` `Mid` `$104k-$213k` `Equity`
+
+_Build high-performance, scalable microservices for Toast's unified payment processing platform that handles millions of dollars in daily transactions across multiple payment channels. Experience with payment systems is valuable; role emphasizes modern backend architecture and AI-assisted development practices. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8059808)_
+
+`Kotlin` `Java` `Microservices` `AWS` `PostgreSQL` `DynamoDB` `Containerization` `Payment Systems`
+
+<sub>July 24, 2026 at 20:36 UTC</sub>
+
+---
 
 ### [Software Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Software-Engineer--MANTL-_JR-000779)
 <a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Mid` `$120k-$145k`
@@ -43,12 +98,12 @@ _Lead a team of attack engineers building vulnerability research, reverse engine
 
 ---
 
-### [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
+### [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k-$260k` `Equity`
 
-_Build backend systems orchestrating real-time, AI-powered voice agents and driver feedback experiences running at the edge of commercial vehicles. Design service contracts between cloud and embedded firmware that handle multi-agent orchestration, asynchronous workflows, and AI quality/safety considerations in a safety-critical transportation domain. · [Apply →](https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934)_
+_Build backend systems orchestrating real-time AI-powered voice agents and driver feedback experiences running at the edge on connected vehicle hardware. Design zero-to-one products coordinating across backend and embedded edge boundaries with reliability and real-time responsiveness as core requirements. · [Apply →](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736)_
 
-`Python` `Go` `LLM/AI agents` `Distributed Systems` `Backend Architecture` `Edge Computing` `Real-time Systems`
+`Python` `Go` `LLMs` `Distributed Systems` `Edge Computing` `AI Safety` `Real-time Systems` `gRPC`
 
 <sub>July 24, 2026 at 18:25 UTC</sub>
 
@@ -76,17 +131,6 @@ _Lead end-to-end interconnection technical execution for thermal energy storage 
 
 ---
 
-### [Senior Cybersecurity Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171-1)
-<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · `🟢 Remote` `Senior` `$86k–$173k`
-
-_Lead product security assessments and vulnerability remediation across Abbott's diabetes management devices and supporting infrastructure. Design systematic security controls and preventive strategies for regulated medical device software, requiring hands-on testing with SAST/DAST/SCA tools and security certification. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171-1)_
-
-`Burp Suite` `SAST` `DAST` `SCA` `SBOM` `Postman` `JIRA` `CISSP`
-
-<sub>July 24, 2026 at 16:51 UTC</sub>
-
----
-
 ### [Staff Software Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer_JR113916)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Staff` `$185k-$297k` `Equity`
 
@@ -104,17 +148,6 @@ _Lead the technical vision and architecture of an engineering squad building clo
 _Build an AI-native tutoring platform that personalizes learning experiences and measures student progress—combining LLM systems, user feedback, and product design. As the first engineer, you'll shape architecture, product direction, and engineering culture at an early-stage AI education startup. · [Apply →](https://job-boards.greenhouse.io/superset/jobs/5369491008)_
 
 `Full-stack development` `LLMs` `AI systems` `Production AI` `Retrieval systems` `Evaluation frameworks` `Product development` `Infrastructure`
-
-<sub>July 24, 2026 at 07:38 UTC</sub>
-
----
-
-### [Associate, Full Stack Developer, Debug & Development](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Associate--Full-Stack-Developer--Debug---Development_JR20921)
-<a href="https://teladoc.com"><img src="https://www.google.com/s2/favicons?domain=teladoc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teladoc Health** · `🟢 Remote` `Junior` `$80k-$95k` `Equity`
-
-_Build developer productivity tools, CI/CD pipelines, and Kubernetes workflows that improve software delivery across the engineering organization. Work on Java backend services and modern web applications supporting enterprise development standards and secure coding practices. · [Apply →](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Associate--Full-Stack-Developer--Debug---Development_JR20921)_
-
-`Java` `Kubernetes` `CI/CD` `Jenkins` `GitHub Actions` `Git` `Containerization`
 
 <sub>July 24, 2026 at 07:38 UTC</sub>
 
@@ -148,17 +181,6 @@ _Build the frontend for Reddit's advertiser tools, translating AI-backed creativ
 _Lead enterprise data transformation establishing Snowflake as the source of truth for company-wide metrics, dashboards, and AI agents serving Product, Engineering, Finance, and Operations. Hands-on technical leadership requiring production SQL, dbt, and AI agent development alongside building and scaling a data organization reporting to the CTO. · [Apply →](https://jobs.ashbyhq.com/butterflymx/f71674ae-e2e9-4116-91fd-341cccd0407d)_
 
 `Snowflake` `dbt` `SQL` `Fivetran` `Sigma` `Python` `AI Agents` `SaaS Metrics`
-
-<sub>July 24, 2026 at 00:08 UTC</sub>
-
----
-
-### [Red Team Services Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29462-1)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$95k-$140k` `Equity`
-
-_Perform penetration testing and red team assessments for enterprise customers, simulating threat actors across operating systems, applications, databases, and network infrastructure to identify security vulnerabilities and improve their defense posture. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29462-1)_
-
-`Metasploit` `Cobalt Strike` `Burp Suite` `Nmap` `Nessus` `Windows` `Linux` `Scripting`
 
 <sub>July 24, 2026 at 00:08 UTC</sub>
 
@@ -469,17 +491,6 @@ _Lead a multi-disciplinary team of ML/Data engineers building AI-powered communi
 
 ---
 
-### [Master Data Architect](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-Colorado-Remote/Master-Data-Architect_R166312)
-<a href="https://bakerhughes.com"><img src="https://www.google.com/s2/favicons?domain=bakerhughes.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baker Hughes** · `🟢 Remote` `Senior` `$127k-$270k`
-
-_Design and govern enterprise master data management architecture across multiple domains using Informatica IDMC, integrating batch and real-time data flows with Databricks data lake infrastructure. Balance data governance rigor with technical scalability while mentoring engineering teams on MDM leading practices. · [Apply →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-Colorado-Remote/Master-Data-Architect_R166312)_
-
-`Informatica IDMC` `Databricks` `SQL` `Kafka` `AWS` `Azure` `GCP` `Data Modeling`
-
-<sub>July 22, 2026 at 22:12 UTC</sub>
-
----
-
 ### [Lead Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0059760-1)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
 
@@ -708,6 +719,17 @@ _Build the application and cognitive layer for humanoid robots, combining Voice 
 `Python` `C++` `BehaviorTree.CPP` `LLMs` `VLMs` `ROS2` `Docker` `Kubernetes`
 
 <sub>July 22, 2026 at 16:39 UTC</sub>
+
+---
+
+### [Sr. Engineer - Database Engineering (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Database-Engineering--Hybrid-_R29433)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · USA - Remote · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build and operate large-scale distributed data infrastructure managing petabytes of critical business data across Cassandra, Elasticsearch, Kafka, and other data plane systems. Work on systems processing 3 trillion events per day with 2-3 days/week on-site requirement. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Database-Engineering--Hybrid-_R29433)_
+
+`Cassandra` `Elasticsearch` `Kafka` `Kubernetes` `Chef` `Ruby` `PostgreSQL` `AWS`
+
+<sub>July 22, 2026 at 14:17 UTC</sub>
 
 ---
 
@@ -1193,21 +1215,21 @@ _Build and operate AI-powered agents and workflows that automate vulnerability r
 
 ---
 
-### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+### [Sr Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Software-Engineer_R0060850)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105k-$149k`
 
-_Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
-
-`Python` `Go` `Shell` `GitHub` `GitHub Actions` `Linux` `Artifactory` `S3`
+_Lead the design and development of significant software features and projects within a financial services platform, mentoring junior and mid-level engineers while contributing to software architecture improvements. Full-stack development in a professional environment with flexibility on remote work setup requirements. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Software-Engineer_R0060850)_
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
 ---
 
-### [Sr Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Software-Engineer_R0060850)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105k-$149k`
+### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
-_Lead the design and development of significant software features and projects within a financial services platform, mentoring junior and mid-level engineers while contributing to software architecture improvements. Full-stack development in a professional environment with flexibility on remote work setup requirements. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Software-Engineer_R0060850)_
+_Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
+
+`Python` `Go` `Shell` `GitHub` `GitHub Actions` `Linux` `Artifactory` `S3`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
