@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1168 open roles** (9 new) &nbsp;·&nbsp; 1748 companies searched
+### **1168 open roles** (8 new) &nbsp;·&nbsp; 1748 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -101,17 +101,6 @@ _Own product quality infrastructure for an AI gateway supporting 100+ LLM provid
 `Python` `CI/CD` `Testing Infrastructure` `Release Engineering` `Distributed Systems`
 
 <sub>July 25, 2026 at 17:10 UTC</sub>
-
----
-
-### [Senior Principal Field Architect - AI Agents](https://job-boards.greenhouse.io/twilio/jobs/8039186)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Principal` `$284k-$405k` `Equity`
-
-_Engineer seamless integrations between Twilio Agent Connect, Twilio Conversations suite, and hyperscaler AI platforms (AWS Bedrock, Azure Foundry, GCP Vertex AI); act as technical liaison with leading AI tool and cloud companies to accelerate customer adoption of conversational AI on Twilio's APIs. Requires hands-on understanding of modern software development, conversational AI architectures, and deep cloud/AI expertise across AWS, Azure, GCP. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8039186)_
-
-`AWS Bedrock` `Azure Foundry` `GCP Vertex AI` `Conversational AI` `Cloud Architecture` `Machine Learning` `Strategic Technical Leadership` `Enterprise Integration`
-
-<sub>July 25, 2026 at 11:20 UTC</sub>
 
 ---
 
