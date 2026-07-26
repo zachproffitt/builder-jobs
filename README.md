@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1265 open roles** (7 new) &nbsp;·&nbsp; 1748 companies searched
+### **1248 open roles** (9 new) &nbsp;·&nbsp; 1748 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 26, 2026
+
+### [Sr. Full Stack Engineer (Application Software)](https://boards.greenhouse.io/spacex/jobs/8650986002?gh_jid=8650986002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Starbase, Texas · `Senior`
+
+_Build mission-critical full-stack applications that accelerate SpaceX's launch vehicle production, Starship manufacturing systems, and Starlink satellite constellation management. Work on systems handling concurrent data streams from thousands of assets, high-throughput factory software, and public-facing customer platforms; requires US citizenship or permanent residency (ITAR-eligible). · [Apply →](https://boards.greenhouse.io/spacex/jobs/8650986002?gh_jid=8650986002)_
+
+`Python` `C#.NET` `Go` `React` `Angular` `PostgreSQL` `Kubernetes` `Docker`
+
+<sub>July 26, 2026 at 23:09 UTC</sub>
+
+---
+
+### [Sr. Full Stack Engineer, Manufacturing Systems](https://boards.greenhouse.io/spacex/jobs/8650989002?gh_jid=8650989002)
+<a href="https://spacex.com"><img src="https://www.google.com/s2/favicons?domain=spacex.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpaceX** · Hawthorne, California · `Senior` `$165k-$230k` `Equity`
+
+_Build mission-critical manufacturing software systems for Starship production and next-generation Starlink factories, handling real-time data from satellite constellations and high-throughput production workflows. Requires ITAR eligibility and willingness to work extended hours during launch cadence. · [Apply →](https://boards.greenhouse.io/spacex/jobs/8650989002?gh_jid=8650989002)_
+
+`Python` `C#.NET` `Go` `React` `Angular` `PostgreSQL` `Kubernetes` `Docker`
+
+<sub>July 26, 2026 at 23:09 UTC</sub>
+
+---
 
 ### [Staff Applied Scientist](https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002)
 <a href="https://lyft.com"><img src="https://www.google.com/s2/favicons?domain=lyft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lyft** · San Francisco, California · `🟡 Hybrid` `Staff` `$193600-$242000` `Equity`
@@ -57,7 +79,7 @@ _Model, analyze, and validate GPU and SoC architectures using SystemC and simula
 ---
 
 ### [Sr. Site Reliability Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0105486)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Senior` `$151k-$227k` `Equity`
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Senior` `$151k-$227k` `Equity`
 
 _Build and maintain Kubernetes infrastructure, CI/CD pipelines, and observability systems for Workday Analytics in GovCloud federal deployments. Requires US citizenship and ability to obtain TS/SCI w/CI Poly security clearance. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0105486)_
 
@@ -68,7 +90,7 @@ _Build and maintain Kubernetes infrastructure, CI/CD pipelines, and observabilit
 ---
 
 ### [Site Reliability Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0105488)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Mid` `$131k-$196.6k` `Equity`
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Reston, Virginia · `🟡 Hybrid` `Mid` `$131k-$196.6k` `Equity`
 
 _Build and maintain Kubernetes infrastructure, CI/CD pipelines, and observability systems for Workday Analytics deployments to U.S. federal agencies on GovCloud. Requires TS/SCI w/CI Poly security clearance and U.S. citizenship. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0105488)_
 
