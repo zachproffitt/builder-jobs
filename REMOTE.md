@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **151 open roles** (5 new)
+### **142 open roles** (4 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -568,17 +568,6 @@ _Lead design and development of KBMax product features, mentoring engineers and 
 
 ---
 
-### [Director, Data Engineering - Business Data](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Manager` `$178k-$299k` `Equity`
-
-_Lead a data engineering team building scalable data pipelines and a modern cloud-based data platform using Spark, Airflow, and Databricks to power Zillow's real estate industry products and insights. Requires 5+ years leading data engineering teams and 15+ years in quantitative analysis with strong SQL and Python/Java/Scala proficiency. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1)_
-
-`Python` `Java` `Scala` `SQL` `Spark` `Airflow` `Databricks` `AWS`
-
-<sub>July 23, 2026 at 17:41 UTC</sub>
-
----
-
 ### [Senior Software Engineer II - LLM Observability ](https://job-boards.greenhouse.io/honeycomb/jobs/5366557008)
 <a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$183k-$206k` `Equity`
 
@@ -870,7 +859,7 @@ _Build the application and cognitive layer for humanoid robots, combining Voice 
 ---
 
 ### [Sr. Engineer - Database Engineering (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Database-Engineering--Hybrid-_R29433)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · USA - Remote · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · USA - Remote · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build and operate large-scale distributed data infrastructure managing petabytes of critical business data across Cassandra, Elasticsearch, Kafka, and other data plane systems. Work on systems processing 3 trillion events per day with 2-3 days/week on-site requirement. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Database-Engineering--Hybrid-_R29433)_
 
@@ -1374,7 +1363,7 @@ _Build and operate AI-powered agents and workflows that automate vulnerability r
 ---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
 
@@ -1534,17 +1523,6 @@ _Design and operate cloud reliability infrastructure for healthcare systems—es
 
 ---
 
-### [Principal Business Intelligence Manager](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$136k-$229k` `Equity`
-
-_Own the data architecture, semantic-layer strategy, and governed data-product standards for Zillow's customer experience operations, spanning multiple systems and business lines. Lead through technical depth and hands-on problem-solving to make the data foundation trustworthy, scalable, and AI-ready across BI, analytics, self-service, and ML consumption patterns. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)_
-
-`SQL` `Data Modeling` `dbt` `Databricks` `Snowflake` `Tableau` `Semantic Layer Design` `Data Governance`
-
-<sub>July 21, 2026 at 00:05 UTC</sub>
-
----
-
 <br>
 
 ## July 13, 2026
@@ -1601,86 +1579,5 @@ _Build internal tools, automations, and AI-assisted workflows that scale Firecra
 `Full-stack development` `LLMs` `Python` `JavaScript` `React` `PostgreSQL` `API design`
 
 <sub>July 13, 2026 at 03:39 UTC</sub>
-
----
-
-<br>
-
-## July 11, 2026
-
-### [Staff Software Engineer (Backend) - Everand Core](https://jobs.ashbyhq.com/ScribdInc/c8fbcc07-e25a-4aa1-8208-306659febb36)
-<a href="https://scribd.com"><img src="https://www.google.com/s2/favicons?domain=scribd.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribd** · San Francisco, California / Remote · `🟢 Remote` `Staff` `$141k-$254k` `Equity`
-
-_Own the backend platform powering Everand's web and mobile reading experiences, including services for discoverability, personalization, and core consumption journeys. Set technical direction through design and architecture work, modernize legacy systems, and mentor engineers across a distributed backend team. · [Apply →](https://jobs.ashbyhq.com/ScribdInc/c8fbcc07-e25a-4aa1-8208-306659febb36)_
-
-`Ruby` `Python` `Go` `Scala` `Distributed Systems` `PostgreSQL` `Observability`
-
-<sub>July 11, 2026 at 19:14 UTC</sub>
-
----
-
-### [Site Reliability Engineer, Intermediate to Senior Staff — Infrastructure Platforms](https://job-boards.greenhouse.io/gitlab/jobs/8623389002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$126k-$314k` `Equity`
-
-_Build and operate reliable, scalable production infrastructure on Kubernetes and cloud platforms (GCP/AWS) for GitLab.com serving 50M+ users; write infrastructure-as-code tooling, automation systems, and observability solutions to reduce toil at organizational scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8623389002)_
-
-`Go` `Ruby` `Kubernetes` `Terraform` `GCP` `AWS` `Infrastructure as Code` `Observability`
-
-<sub>July 11, 2026 at 03:32 UTC</sub>
-
----
-
-### [Red Team Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/5320469008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$320k-$405k` `Equity`
-
-_Design and execute adversarial attacks across Anthropic's AI products and infrastructure, including jailbreaks, prompt injection vectors, and full kill-chain exploits targeting novel capabilities like agent systems and tool use. Requires hands-on expertise in penetration testing, LLM security, and automation framework development to uncover vulnerabilities in advanced AI systems before deployment. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5320469008)_
-
-`Burp Suite` `Metasploit` `Python` `LLM Security` `Prompt Injection` `API Security` `Penetration Testing` `Abuse Detection Systems`
-
-<sub>July 11, 2026 at 00:04 UTC</sub>
-
----
-
-### [Business Money Engineering](https://job-boards.greenhouse.io/gusto/jobs/8035802)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · San Francisco, California / New York, New York / Remote · `🟢 Remote` `Staff` `$163k-$204k (Denver & remote), $197k-$247k (San Francisco & New York)` `Equity`
-
-_Build and scale financial products (Bill Pay, Invoicing, Expenses, Payroll Bridge, Cash Flow Dashboard) that help small businesses manage cash flow and accounting. Work on distributed systems powering business money and accounting experiences at scale in a fintech environment; requires 8+ years of experience architecting resilient backend systems. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8035802)_
-
-`Ruby` `Ruby on Rails` `GraphQL` `TypeScript` `React` `AWS` `Distributed Systems` `Fintech`
-
-<sub>July 11, 2026 at 00:04 UTC</sub>
-
----
-
-### [Backend Engineer, Moderation Enforcement](https://job-boards.greenhouse.io/reddit/jobs/7922994)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k—$229k` `Equity`
-
-_Build backend systems and APIs for Reddit's moderation enforcement platform, enabling moderators to create and manage community standards at scale across 100,000+ active communities. Design and implement maintainable REST/GraphQL APIs and services handling one of the internet's largest moderation datasets. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/7922994)_
-
-`Python` `Go` `GraphQL` `REST` `gRPC`
-
-<sub>July 11, 2026 at 00:04 UTC</sub>
-
----
-
-### [Senior Data Engineer II](https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$134k-$203k` `Equity`
-
-_Design and build large-scale data platforms, APIs, and intelligent tooling for Samsara's IoT operations cloud, including Spark workflows, data APIs in FastAPI, and MCP servers that expose data assets to AI agents. Work at the intersection of data infrastructure and AI-native tooling in a production environment processing data from ERP, CRM, and product systems across billions of IoT data points. · [Apply →](https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914)_
-
-`Python` `SQL` `Spark` `PySpark` `FastAPI` `Databricks` `AWS` `PostgreSQL`
-
-<sub>July 11, 2026 at 00:04 UTC</sub>
-
----
-
-### [Senior Backend Engineer - Application Access](https://jobs.ashbyhq.com/goteleport/b7c4e513-7c41-4c39-8247-c5a3360a8e8a)
-<a href="https://goteleport.com"><img src="https://www.google.com/s2/favicons?domain=goteleport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teleport** · `🟢 Remote` `Senior`
-
-_Design and implement backend services in Go for infrastructure access control, auditing, and identity workflows, including cloud database integrations, distributed systems scaling to 10K+ node clusters, and identity-aware HTTPS proxying. Cryptography engineering and Linux systems expertise required for hardened security implementation. · [Apply →](https://jobs.ashbyhq.com/goteleport/b7c4e513-7c41-4c39-8247-c5a3360a8e8a)_
-
-`Go` `Linux` `OAuth` `Cryptography` `Distributed Systems` `PostgreSQL` `gRPC` `Kubernetes`
-
-<sub>July 11, 2026 at 00:04 UTC</sub>
 
 ---
