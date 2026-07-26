@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1259 open roles** (10 new) &nbsp;·&nbsp; 1748 companies searched
+### **1261 open roles** (9 new) &nbsp;·&nbsp; 1748 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -112,17 +112,6 @@ _Engineer seamless integrations between Twilio Agent Connect, Twilio Conversatio
 `AWS Bedrock` `Azure Foundry` `GCP Vertex AI` `Conversational AI` `Cloud Architecture` `Machine Learning` `Strategic Technical Leadership` `Enterprise Integration`
 
 <sub>July 25, 2026 at 11:20 UTC</sub>
-
----
-
-### [RPW Solution Architect](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/RPW-Solution-Architect_R0037774)
-<a href="https://insureon.com"><img src="https://www.google.com/s2/favicons?domain=insureon.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Insureon** · Chicago, Illinois · `🟡 Hybrid` `Senior` `$150k-$175k` `Equity`
-
-_Design end-to-end technical integrations across retirement and wealth management platforms (CRM, trading, data aggregators, custodial systems), translating business requirements into buildable architecture and owning automation of workflows across the ecosystem. Requires hands-on experience with wealth/retirement industry platforms like Orion or Broadridge and cloud platforms (Azure, AWS, GCP). · [Apply →](https://hubinternational.wd1.myworkdayjobs.com/HUBInternational/job/Chicago-IL/RPW-Solution-Architect_R0037774)_
-
-`Solution Architecture` `Integration Design` `API Design` `ETL` `Cloud Platforms (Azure/AWS/GCP)` `Data Pipeline Design` `Enterprise Systems Integration` `TOGAF`
-
-<sub>July 25, 2026 at 07:24 UTC</sub>
 
 ---
 
