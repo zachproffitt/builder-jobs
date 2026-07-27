@@ -2,7 +2,7 @@
 
 A curated index of engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **1276 open roles** (13 new) &nbsp;·&nbsp; 1748 companies searched
+### **1262 open roles** (18 new) &nbsp;·&nbsp; 1748 companies searched
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
@@ -11,6 +11,94 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 27, 2026
+
+### [Senior Inference Engineer, GPU Kernel Optimization](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--GPU-Kernel-Optimization_JR2021962)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 4 Locations · `Senior` `$184k-$287.5k` `Equity`
+
+_Build silicon-measured GPU kernel benchmarking infrastructure, model-level performance projection tooling, and agentic optimization systems to accelerate LLM inference on NVIDIA hardware. Work across compiler, kernel, hardware, and framework teams to diagnose bottlenecks and ship measurable performance gains at the PTX/SASS layer. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Inference-Engineer--GPU-Kernel-Optimization_JR2021962)_
+
+`Python` `C++` `CUDA` `Triton` `CUTLASS` `CUPTI` `NSYS` `NCU`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
+
+### [Senior Architect, SOC Modeling](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--SOC-Modeling_JR2022003)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$152k-$241.5k (Level 3) / $184k-$287.5k (Level 4)` `Equity`
+
+_Build functional models and simulation infrastructure for GPU/SOC architectures across datacenter, automotive, and client products. Guide modeling teams on high-performance chip architecture validation with SystemC/TLM; requires Master's or PhD in Computer Science/Engineering with 5+ years of experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--SOC-Modeling_JR2022003)_
+
+`C++` `C` `SystemC` `TLM` `Python` `Perl` `Docker` `Jenkins`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
+
+### [Harness and Platform Engineer, AI Safety and Security Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Senior` `$152k-$241.5k` `Equity`
+
+_Build the agent harness and evaluation platform for AI safety and security research, enabling reproducible vulnerability detection experiments. Requires hands-on ownership of containerized environments, CI/CD pipelines, and ML infrastructure that prioritizes researcher productivity and experiment repeatability. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886)_
+
+`Python` `Docker` `CI/CD` `Kubernetes` `NeMo` `LLM Orchestration` `ML Infrastructure` `Git`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
+
+### [Security Research Engineer, AI Safety and Security Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Research-Engineer--AI-Safety-and-Security-Engineering_JR2021887)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Senior` `$152k-$241.5k` `Equity`
+
+_Build validation and patching methods for AI-powered vulnerability discovery tools that find and fix software bugs in NVIDIA-internal targets. Establish rigorous standards for confirming vulnerabilities are real and reachable, and define what makes a fix correct, safe, and regression-free—balancing AI-assisted workflows with disciplined security judgment. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Research-Engineer--AI-Safety-and-Security-Engineering_JR2021887)_
+
+`C` `C++` `Python` `Vulnerability Research` `Fuzzing` `Program Analysis` `Static Analysis` `Symbolic Execution`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
+
+### [Senior Manager, AI Safety and Security Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--AI-Safety-and-Security-Engineering_JR2021882)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Manager` `$272k-$431.25k` `Equity`
+
+_Build and lead the foundational AI Safety & Security Engineering team from first hire, owning the Find, Validate, and Patch roadmap across vulnerability detection, validation, and remediation systems. Requires managing teams building complex ML infrastructure and security tooling at scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--AI-Safety-and-Security-Engineering_JR2021882)_
+
+`ML Infrastructure` `Security Tooling` `Distributed Systems` `Vulnerability Research` `Team Leadership`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
+
+### [Distinguished Engineer, AI Safety and Security Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer--AI-Safety-and-Security-Engineering_JR2021883)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Principal` `$320k-$488.75k` `Equity`
+
+_Design the foundational harness architecture and engineering standards for NVIDIA's AI Safety & Security team, which builds AI-powered tooling to discover, validate, and patch software vulnerabilities. Lead the technical roadmap from prototypes to production-grade systems while mentoring founding engineers; requires 18+ years architecting distributed systems, ML pipelines, or large-scale platforms. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer--AI-Safety-and-Security-Engineering_JR2021883)_
+
+`Distributed Systems` `ML Pipelines` `LLM Agent Frameworks` `Vulnerability Research` `Security Engineering` `Software Architecture` `Evaluation Infrastructure`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
+
+### [Evaluation and ML Systems Engineer, AI Safety and Security Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Evaluation-and-ML-Systems-Engineer--AI-Safety-and-Security-Engineering_JR2021888)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · 6 Locations · `Senior` `$152k-$241.5k` `Equity`
+
+_Build benchmarking, evaluation, and reproducibility infrastructure for ML-based security vulnerability detection systems. Design metrics and protocols that make AI safety claims verifiable and traceable to code and experimental runs. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Evaluation-and-ML-Systems-Engineer--AI-Safety-and-Security-Engineering_JR2021888)_
+
+`Python` `ML evaluation` `Benchmarking` `Experiment tracking` `Data pipelines` `Statistical analysis`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
+
+### [Senior Systems Software Engineer, Developer Productivity and Cloud Automation - GeForce NOW](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Developer-Productivity-and-Cloud-Automation---GeForce-NOW_JR2021956)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · Santa Clara, California · `Senior` `$184k-$287.5k (Level 4) or $224k-$356.5k (Level 5)` `Equity`
+
+_Build and own the Kubernetes-native deployment platform, GitOps pipelines, and backend microservices that power global zero-downtime rollouts and multi-cloud automation for GeForce NOW. Requires 10+ years of production-scale cloud infrastructure expertise and deep knowledge of Kubernetes operators, Flux/Argo CD, and hybrid on-premises GPU + public cloud environments. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Developer-Productivity-and-Cloud-Automation---GeForce-NOW_JR2021956)_
+
+`Kubernetes` `Go` `GitOps` `Flux CD` `Argo CD` `Terraform` `Ansible` `Prometheus`
+
+<sub>July 27, 2026 at 07:42 UTC</sub>
+
+---
 
 ### [Systems Engineer, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/4843950007?gh_jid=4843950007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Costa Mesa, California · `Mid` `$113k-$149k` `Equity`
@@ -123,39 +211,6 @@ _Model, analyze, and validate GPU and SoC architectures using SystemC and simula
 `C++` `C` `SystemC` `Python` `Perl` `CMake` `Docker` `Jenkins`
 
 <sub>July 26, 2026 at 20:15 UTC</sub>
-
----
-
-### [Sr. Site Reliability Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0105486)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Senior` `$151k-$227k` `Equity`
-
-_Build and maintain Kubernetes infrastructure, CI/CD pipelines, and observability systems for Workday Analytics in GovCloud federal deployments. Requires US citizenship and ability to obtain TS/SCI w/CI Poly security clearance. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0105486)_
-
-`Kubernetes` `Terraform` `Argo CD` `AWS` `Python` `Go` `Prometheus` `Grafana`
-
-<sub>July 26, 2026 at 04:34 UTC</sub>
-
----
-
-### [Site Reliability Engineer (US Federal)](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0105488)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Reston, Virginia · `🟡 Hybrid` `Mid` `$131k-$196.6k` `Equity`
-
-_Build and maintain Kubernetes infrastructure, CI/CD pipelines, and observability systems for Workday Analytics deployments to U.S. federal agencies on GovCloud. Requires TS/SCI w/CI Poly security clearance and U.S. citizenship. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0105488)_
-
-`Kubernetes` `Terraform` `Argo CD` `AWS` `Python` `GoLang` `Prometheus` `Grafana`
-
-<sub>July 26, 2026 at 04:34 UTC</sub>
-
----
-
-### [Staff Software Engineer, AI Tools](https://www.pinterestcareers.com/jobs/?gh_jid=7305880)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$177k–$364k` `Equity`
-
-_Lead the architecture and operations of third-party AI tool integrations (Claude, Glean, etc.) into Pinterest's infrastructure, owning OAuth/OIDC/SAML authentication, Model Context Protocol servers, and secure data access patterns. Design reusable integration standards and mentor staff-level engineers on enterprise AI connectivity at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7305880)_
-
-`Python` `Go` `TypeScript` `OAuth 2.0` `OIDC` `SAML` `REST APIs` `Model Context Protocol`
-
-<sub>July 26, 2026 at 04:34 UTC</sub>
 
 ---
 
