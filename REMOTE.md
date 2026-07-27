@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **144 open roles** (0 new)
+### **142 open roles** (0 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
@@ -194,23 +194,23 @@ _Build user interfaces and backend APIs for Teleport's infrastructure identity p
 
 ---
 
-### [Senior Workday Integrations Engineer](https://careers.toasttab.com/jobs?gh_jid=7686137)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior` `$83k-$170k` `Equity`
-
-_Design, build, and maintain Workday integrations across payroll, benefits, talent acquisition, and identity management systems using Workday Studio, EIB, and cloud connectors. Lead integrations through full lifecycle ownership while strengthening system stability through monitoring, testing, and continuous improvement in a fast-growing enterprise environment. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7686137)_
-
-`Workday Studio` `Workday EIB` `Workday Cloud Connect` `PECI` `REST` `SOAP` `XML` `XSLT`
-
-<sub>July 24, 2026 at 20:36 UTC</sub>
-
----
-
 ### [Software Engineer II, Payments](https://careers.toasttab.com/jobs?gh_jid=8059808)
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote, US / Boston, Massachusetts · `🟢 Remote` `Mid` `$104k-$213k` `Equity`
 
 _Build high-performance, scalable microservices for Toast's unified payment processing platform that handles millions of dollars in daily transactions across multiple payment channels. Experience with payment systems is valuable; role emphasizes modern backend architecture and AI-assisted development practices. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8059808)_
 
 `Kotlin` `Java` `Microservices` `AWS` `PostgreSQL` `DynamoDB` `Containerization` `Payment Systems`
+
+<sub>July 24, 2026 at 20:36 UTC</sub>
+
+---
+
+### [Workday Integrations Engineer](https://careers.toasttab.com/jobs?gh_jid=7686137)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Senior` `$83k-$170k` `Equity`
+
+_Design, build, and maintain Workday integrations across payroll, benefits, talent acquisition, and identity management systems using Workday Studio, EIB, and cloud connectors. Lead integrations through full lifecycle ownership while strengthening system stability through monitoring, testing, and continuous improvement in a fast-growing enterprise environment. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=7686137)_
+
+`Workday Studio` `Workday EIB` `Workday Cloud Connect` `PECI` `REST` `SOAP` `XML` `XSLT`
 
 <sub>July 24, 2026 at 20:36 UTC</sub>
 
@@ -249,12 +249,12 @@ _Lead a team of attack engineers building vulnerability research, reverse engine
 
 ---
 
-### [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
+### [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k-$260k` `Equity`
 
-_Build backend systems orchestrating real-time, AI-powered voice agents and driver feedback experiences running at the edge of commercial vehicles. Design service contracts between cloud and embedded firmware that handle multi-agent orchestration, asynchronous workflows, and AI quality/safety considerations in a safety-critical transportation domain. · [Apply →](https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934)_
+_Build backend systems orchestrating real-time AI-powered voice agents and driver feedback experiences running at the edge on connected vehicle hardware. Design zero-to-one products coordinating across backend and embedded edge boundaries with reliability and real-time responsiveness as core requirements. · [Apply →](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736)_
 
-`Python` `Go` `LLM/AI agents` `Distributed Systems` `Backend Architecture` `Edge Computing` `Real-time Systems`
+`Python` `Go` `LLMs` `Distributed Systems` `Edge Computing` `AI Safety` `Real-time Systems` `gRPC`
 
 <sub>July 24, 2026 at 18:25 UTC</sub>
 
@@ -642,17 +642,6 @@ _Lead a multi-disciplinary team of ML/Data engineers building AI-powered communi
 
 ---
 
-### [Master Data Architect](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-Colorado-Remote/Master-Data-Architect_R166312)
-<a href="https://bakerhughes.com"><img src="https://www.google.com/s2/favicons?domain=bakerhughes.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Baker Hughes** · `🟢 Remote` `Senior` `$127k-$270k`
-
-_Design and govern enterprise master data management architecture across multiple domains using Informatica IDMC, integrating batch and real-time data flows with Databricks data lake infrastructure. Balance data governance rigor with technical scalability while mentoring engineering teams on MDM leading practices. · [Apply →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-Colorado-Remote/Master-Data-Architect_R166312)_
-
-`Informatica IDMC` `Databricks` `SQL` `Kafka` `AWS` `Azure` `GCP` `Data Modeling`
-
-<sub>July 22, 2026 at 22:12 UTC</sub>
-
----
-
 ### [Lead Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0059760-1)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
 
@@ -664,12 +653,12 @@ _Build and maintain full-stack financial software applications using Java, SQL, 
 
 ---
 
-### [Detection Engineer II](https://instacart.careers/job/?gh_jid=8080532)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Mid` `CAD$145k-$153k` `Equity`
+### [Detection Engineer II](https://instacart.careers/job/?gh_jid=8080512)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$142k—$180k USD` `Equity`
 
-_Build and operate detection systems that identify threats across Instacart's cloud-native infrastructure, from telemetry collection through automated response. Develop detection-as-code logic across endpoint, cloud, container, and SaaS platforms while hunting novel attacker techniques and optimizing for signal quality and scale. · [Apply →](https://instacart.careers/job/?gh_jid=8080532)_
+_Build detection logic and security automation systems across Instacart's cloud-native platform, identifying threats through endpoint, cloud, container, and SaaS telemetry. Develop detection-as-code pipelines, SOAR playbooks, and threat hunting methodologies to protect one of North America's largest grocery technology platforms. · [Apply →](https://instacart.careers/job/?gh_jid=8080512)_
 
-`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `Detection-as-Code` `Endpoint Detection and Response`
+`Python` `Golang` `AWS` `Azure` `GCP` `macOS internals` `SOAR` `Detection-as-Code`
 
 <sub>July 22, 2026 at 22:12 UTC</sub>
 
@@ -885,7 +874,7 @@ _Build the application and cognitive layer for humanoid robots, combining Voice 
 ---
 
 ### [Sr. Engineer - Database Engineering (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Database-Engineering--Hybrid-_R29433)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · USA - Remote · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · USA - Remote · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build and operate large-scale distributed data infrastructure managing petabytes of critical business data across Cassandra, Elasticsearch, Kafka, and other data plane systems. Work on systems processing 3 trillion events per day with 2-3 days/week on-site requirement. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Database-Engineering--Hybrid-_R29433)_
 
@@ -1015,17 +1004,6 @@ _Build the core UI layer and micro-experiences powering Alkami's Online Banking 
 _Drive technical direction for backend platform capabilities and product domains, designing scalable .NET/C# services while shaping the organization's adoption of agentic AI tools, code review practices, and AI-native architecture patterns. Lead architectural debt remediation, mentor multiple teams, and establish standards for AI-consumable documentation and knowledge management. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/8049926)_
 
 `.NET` `C#` `Python` `Java` `Go` `PostgreSQL` `Microsoft SQL Server` `AWS`
-
-<sub>July 21, 2026 at 20:23 UTC</sub>
-
----
-
-### [Bioinformatics Manager (Oncology Product Development)](https://job-boards.greenhouse.io/natera/jobs/6117368004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$140k-$175k`
-
-_Manage a team of bioinformaticians and data scientists developing ctDNA-based oncology diagnostic tests, leading the design and validation of analysis pipelines for cancer variant and methylation detection. Lead cross-functional product development from research through commercial launch in a regulated medical diagnostics environment. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6117368004)_
-
-`Python` `R` `Machine Learning` `NGS` `DNA Methylation` `Statistical Modeling` `Bioinformatics` `ctDNA`
 
 <sub>July 21, 2026 at 20:23 UTC</sub>
 
@@ -1378,7 +1356,7 @@ _Build and operate AI-powered agents and workflows that automate vulnerability r
 ---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain security controls for CrowdStrike's open-source footprint and software supply chain, including GitHub organization hardening, dependency risk mitigation, and supply chain threat detection across 3 trillion daily events. Requires hands-on implementation of scanning systems, automation tooling, and policy enforcement at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328)_
 
