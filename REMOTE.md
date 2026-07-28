@@ -2,9 +2,68 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **151 open roles** (18 new)
+### **155 open roles** (23 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## July 28, 2026
+
+### [Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4700281006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Junior` `$105k-$123k` `Equity`
+
+_Support and operate Chainguard's Identity and Access Management, cloud infrastructure, and AI/ML pipeline security systems. Earlier-career role pairing hands-on IT administration or software development with modern security practices across GCP/AWS/Azure and ML platforms at scale. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4700281006)_
+
+`IAM` `Cloud Security` `GCP` `AWS` `Azure` `Python` `Kubernetes` `Scripting`
+
+<sub>July 28, 2026 at 04:18 UTC</sub>
+
+---
+
+### [Engineering Lead, Web Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6126897004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$177k-$222k` `Equity`
+
+_Lead the technical strategy and hands-on development of ClickHouse's marketing website and web platform using Next.js, React, and TypeScript. Architect scalable systems for high-traffic SaaS while mentoring a growing engineering team and partnering across design, marketing, and product. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6126897004)_
+
+`Next.js` `React` `TypeScript` `JavaScript` `Strapi` `Web Performance` `SEO` `A/B Testing`
+
+<sub>July 28, 2026 at 04:18 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Model Evaluation & AI Systems](https://jobs.ashbyhq.com/Deepgram/6f3d761e-4873-43af-a9b1-daeb147661f9)
+<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Senior`
+
+_Build evaluation pipelines and quality assurance infrastructure that validates speech-to-text, text-to-speech, and multimodal AI models before production deployment. Design automated testing frameworks, canaries, and monitoring systems operating against large GPU clusters; requires hands-on experience with modern AI system evaluation and strong analytical reasoning about model metrics and statistical variation. · [Apply →](https://jobs.ashbyhq.com/Deepgram/6f3d761e-4873-43af-a9b1-daeb147661f9)_
+
+`Python` `Rust` `Go` `PyTorch` `TensorFlow` `Kubernetes` `Grafana` `LLM Evaluation`
+
+<sub>July 28, 2026 at 04:18 UTC</sub>
+
+---
+
+### [Senior Engineer, Data](https://jobs.ashbyhq.com/hive.co/20396a82-06f2-4382-b698-a73f3893dbbc)
+<a href="https://www.hive.co"><img src="https://www.google.com/s2/favicons?domain=www.hive.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hive** · `🟢 Remote` `Senior` `Equity`
+
+_Design and operate a cloud-native big data platform handling billions of interactions annually, plus build ML infrastructure for feature stores, model serving, and production monitoring. Own end-to-end data pipelines from CDC through validation and transformation, connecting technical decisions to business outcomes in a high-growth SaaS event platform. · [Apply →](https://jobs.ashbyhq.com/hive.co/20396a82-06f2-4382-b698-a73f3893dbbc)_
+
+`Python` `Airflow` `Clickhouse` `PostgreSQL` `Redshift` `PyTorch` `scikit-learn` `Distributed Systems`
+
+<sub>July 28, 2026 at 04:18 UTC</sub>
+
+---
+
+### [Sr. Software Engineer, Infrastructure](https://job-boards.greenhouse.io/pilothq/jobs/8653025002)
+<a href="https://pilot.com"><img src="https://www.google.com/s2/favicons?domain=pilot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pilot** · `🟢 Remote` `Senior` `$133k-$267k` `Equity`
+
+_Build and maintain the full infrastructure stack — from AWS cloud infrastructure to internal product platform — supporting Pilot's financial software serving 3,000+ small businesses. Mentor infrastructure engineers across the team while ensuring secure, scalable, and reliable systems for daily deployments. · [Apply →](https://job-boards.greenhouse.io/pilothq/jobs/8653025002)_
+
+`Python` `Terraform` `AWS` `PostgreSQL` `Docker` `TypeScript` `Vue.js` `Honeycomb`
+
+<sub>July 28, 2026 at 04:18 UTC</sub>
+
+---
 
 <br>
 
@@ -831,12 +890,12 @@ _Build detection logic and security automation systems across Instacart's cloud-
 
 ---
 
-### [Staff Software Engineer, Bazel & Go](https://instacart.careers/job/?gh_jid=8080310)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k—$279k USD` `Equity`
+### [Staff Software Engineer, Bazel & Go](https://instacart.careers/job/?gh_jid=8080312)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `CAD$229k—CAD$241k` `Equity`
 
-_Lead technical direction for Instacart's Bazel build system and Go platform, owning remote build execution, caching, performance, and the frameworks and patterns used by thousands of daily builds across the engineering org. Drive multi-quarter initiatives to measurably improve build times, CI reliability, and developer velocity at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8080310)_
+_Lead technical direction for Instacart's Bazel build system and Go backend platform, owning build performance, caching infrastructure, and developer experience across 1000+ engineers. Requires hands-on expertise in remote build execution, build graph optimization, and large-scale Go service architecture, with measurable impact on build times and CI reliability. · [Apply →](https://instacart.careers/job/?gh_jid=8080312)_
 
-`Bazel` `Go` `Remote Build Execution (RBE)` `AWS` `Distributed Systems` `CI/CD` `Build Performance Optimization`
+`Bazel` `Go` `AWS` `Remote Build Execution` `Distributed Systems` `CI/CD` `Mentorship`
 
 <sub>July 22, 2026 at 22:12 UTC</sub>
 
@@ -1160,17 +1219,6 @@ _Build the core UI layer and micro-experiences powering Alkami's Online Banking 
 _Drive technical direction for backend platform capabilities and product domains, designing scalable .NET/C# services while shaping the organization's adoption of agentic AI tools, code review practices, and AI-native architecture patterns. Lead architectural debt remediation, mentor multiple teams, and establish standards for AI-consumable documentation and knowledge management. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/8049926)_
 
 `.NET` `C#` `Python` `Java` `Go` `PostgreSQL` `Microsoft SQL Server` `AWS`
-
-<sub>July 21, 2026 at 20:23 UTC</sub>
-
----
-
-### [Bioinformatics Manager (Oncology Product Development)](https://job-boards.greenhouse.io/natera/jobs/6117368004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$140k-$175k`
-
-_Manage a team of bioinformaticians and data scientists developing ctDNA-based oncology diagnostic tests, leading the design and validation of analysis pipelines for cancer variant and methylation detection. Lead cross-functional product development from research through commercial launch in a regulated medical diagnostics environment. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6117368004)_
-
-`Python` `R` `Machine Learning` `NGS` `DNA Methylation` `Statistical Modeling` `Bioinformatics` `ctDNA`
 
 <sub>July 21, 2026 at 20:23 UTC</sub>
 
