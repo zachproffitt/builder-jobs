@@ -2,13 +2,24 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **180 open roles** (31 new)
+### **181 open roles** (29 new)
 
 [← All roles](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
 
 <br>
 
 ## July 28, 2026
+
+### [Senior React Native Software Engineer ](https://job-boards.greenhouse.io/inkind/jobs/5373412008)
+<a href="https://inkind.com"><img src="https://www.google.com/s2/favicons?domain=inkind.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**inKind** · `🟢 Remote` `Senior` `$160k-$180k`
+
+_Build and maintain high-performance React Native applications for inKind's consumer-facing mobile platform, owning the full mobile stack from TypeScript frontend code to native iOS (Swift) and Android (Kotlin) modules. Lead React Native upgrades, improve architecture and testing infrastructure, and debug complex native platform issues at scale serving hundreds of thousands of users. · [Apply →](https://job-boards.greenhouse.io/inkind/jobs/5373412008)_
+
+`React Native` `TypeScript` `Swift` `Kotlin` `Jest` `Redux` `React Query` `Detox`
+
+<sub>July 28, 2026 at 23:10 UTC</sub>
+
+---
 
 ### [Senior Manager, Detection & Response (Security Engineering)](https://jobs.ashbyhq.com/confluent/46f3f467-8728-47b4-8fad-06e18ffbe552)
 <a href="https://confluent.io"><img src="https://www.google.com/s2/favicons?domain=confluent.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Confluent** · `🟢 Remote` `Manager`
@@ -625,12 +636,12 @@ _Design and build end-to-end AI-powered features and full-stack infrastructure f
 
 ---
 
-### [Software Engineer, AI Enablement ](https://job-boards.greenhouse.io/tailscale/jobs/4710755005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$163k–$226k` `Equity`
+### [Software Engineer, AI Enablement ](https://job-boards.greenhouse.io/tailscale/jobs/4710703005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$218k—$302k CAD` `Equity`
 
-_Build internal AI enablement tools, workflows, and practices that help Tailscale engineers adopt coding agents and LLMs safely and effectively. Partner with engineering leadership to define AI adoption strategy, evaluate new models and tools, and measure impact on engineering velocity. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710755005)_
+_Build internal tools, workflows, and documentation for AI-assisted development across Tailscale's engineering organization. Partner with leadership to define AI enablement priorities, evaluate coding agents and models, and measure adoption impact on engineering velocity. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4710703005)_
 
-`Python` `Go` `Rust` `Claude` `LLM evaluation` `Developer Experience` `Code Review practices`
+`Python` `Go` `Rust` `Claude` `LLM evaluation` `Developer Experience` `Internal tooling`
 
 <sub>July 24, 2026 at 22:14 UTC</sub>
 
@@ -746,12 +757,12 @@ _Lead a team of attack engineers building vulnerability research, reverse engine
 
 ---
 
-### [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k-$260k` `Equity`
+### [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
 
-_Build backend systems orchestrating real-time AI-powered voice agents and driver feedback experiences running at the edge on connected vehicle hardware. Design zero-to-one products coordinating across backend and embedded edge boundaries with reliability and real-time responsiveness as core requirements. · [Apply →](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736)_
+_Build backend systems orchestrating real-time, AI-powered voice agents and driver feedback experiences running at the edge of commercial vehicles. Design service contracts between cloud and embedded firmware that handle multi-agent orchestration, asynchronous workflows, and AI quality/safety considerations in a safety-critical transportation domain. · [Apply →](https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934)_
 
-`Python` `Go` `LLMs` `Distributed Systems` `Edge Computing` `AI Safety` `Real-time Systems` `gRPC`
+`Python` `Go` `LLM/AI agents` `Distributed Systems` `Backend Architecture` `Edge Computing` `Real-time Systems`
 
 <sub>July 24, 2026 at 18:25 UTC</sub>
 
@@ -1058,17 +1069,6 @@ _Lead design and development of KBMax product features, mentoring engineers and 
 
 ---
 
-### [Director, Data Engineering - Business Data](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Manager` `$178k-$299k` `Equity`
-
-_Lead a data engineering team building scalable data pipelines and a modern cloud-based data platform using Spark, Airflow, and Databricks to power Zillow's real estate industry products and insights. Requires 5+ years leading data engineering teams and 15+ years in quantitative analysis with strong SQL and Python/Java/Scala proficiency. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1)_
-
-`Python` `Java` `Scala` `SQL` `Spark` `Airflow` `Databricks` `AWS`
-
-<sub>July 23, 2026 at 17:41 UTC</sub>
-
----
-
 ### [Senior Software Engineer II - LLM Observability ](https://job-boards.greenhouse.io/honeycomb/jobs/5366557008)
 <a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$183k-$206k` `Equity`
 
@@ -1139,12 +1139,12 @@ _Build detection logic and security automation systems across Instacart's cloud-
 
 ---
 
-### [Staff Software Engineer, Bazel & Go](https://instacart.careers/job/?gh_jid=8080312)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `CAD$229k—CAD$241k` `Equity`
+### [Staff Software Engineer, Bazel & Go](https://instacart.careers/job/?gh_jid=8080310)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k—$279k USD` `Equity`
 
-_Lead technical direction for Instacart's Bazel build system and Go backend platform, owning build performance, caching infrastructure, and developer experience across 1000+ engineers. Requires hands-on expertise in remote build execution, build graph optimization, and large-scale Go service architecture, with measurable impact on build times and CI reliability. · [Apply →](https://instacart.careers/job/?gh_jid=8080312)_
+_Lead technical direction for Instacart's Bazel build system and Go platform, owning remote build execution, caching, performance, and the frameworks and patterns used by thousands of daily builds across the engineering org. Drive multi-quarter initiatives to measurably improve build times, CI reliability, and developer velocity at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8080310)_
 
-`Bazel` `Go` `AWS` `Remote Build Execution` `Distributed Systems` `CI/CD` `Mentorship`
+`Bazel` `Go` `Remote Build Execution (RBE)` `AWS` `Distributed Systems` `CI/CD` `Build Performance Optimization`
 
 <sub>July 22, 2026 at 22:12 UTC</sub>
 
@@ -1271,12 +1271,12 @@ _Own performance tuning and reliability of the StarRocks-backed serving layer fo
 
 ---
 
-### [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8074762)
+### [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8076802)
 <a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$141.5k-$208k` `Equity`
 
-_Build and maintain robust data models, semantic layers, and automated BI infrastructure to enable trusted sales analytics, reporting, and AI capabilities for GTM teams. Apply software engineering practices (Git, CI/CD, testing frameworks) to scale BI-as-Code across the organization. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8074762)_
+_Build and maintain robust data models, dashboards, and semantic layers for Go-To-Market analytics using BI-as-Code practices; establish data quality frameworks and CI/CD pipelines to support sales, marketing, and revenue operations at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8076802)_
 
-`SQL` `Tableau` `dbt` `Git` `CI/CD` `Python` `Salesforce` `Looker`
+`SQL` `Tableau` `dbt` `Git` `CI/CD` `Salesforce` `Python` `Looker`
 
 <sub>July 22, 2026 at 20:18 UTC</sub>
 
@@ -1484,6 +1484,17 @@ _Drive technical direction for backend platform capabilities and product domains
 
 ---
 
+### [Bioinformatics Manager (Oncology Product Development)](https://job-boards.greenhouse.io/natera/jobs/6117368004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$140k-$175k`
+
+_Manage a team of bioinformaticians and data scientists developing ctDNA-based oncology diagnostic tests, leading the design and validation of analysis pipelines for cancer variant and methylation detection. Lead cross-functional product development from research through commercial launch in a regulated medical diagnostics environment. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6117368004)_
+
+`Python` `R` `Machine Learning` `NGS` `DNA Methylation` `Statistical Modeling` `Bioinformatics` `ctDNA`
+
+<sub>July 21, 2026 at 20:23 UTC</sub>
+
+---
+
 ### [AI Systems, Model Optimization](https://unconv.ai/careers/?gh_jid=4272105009)
 <a href="https://posterity.com"><img src="https://www.google.com/s2/favicons?domain=posterity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Posterity Health** · Palo Alto, California / Remote · `🟢 Remote` `Senior`
 
@@ -1662,6 +1673,17 @@ _Design and implement multi-tiered software applications across the full stack f
 _Build the core backend systems and platform infrastructure powering Mural's agentic AI collaboration experiences, including agent orchestration, durable execution, memory management, and observability. Work on distributed systems handling complex multi-step workflows at scale with Azure OpenAI integration. · [Apply →](https://jobs.ashbyhq.com/mural/7a781912-3c72-4843-8810-8a9d0c550569)_
 
 `Node.js` `MongoDB` `Azure OpenAI` `Distributed Systems` `Agent Orchestration` `API Design` `LLM Evaluation` `Retrieval Systems`
+
+<sub>July 21, 2026 at 16:37 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8642133002)
+<a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Senior` `$110k-$137k`
+
+_Design and develop large-scale, multi-tenant Java-based identity management products with focus on OAuth 2.0, OpenID Connect, and enterprise authentication systems. Scale and performance optimization required for Fortune 100 customers. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8642133002)_
+
+`Java` `REST APIs` `OAuth 2.0` `OpenID Connect` `AWS` `GCP` `Azure` `Cryptography`
 
 <sub>July 21, 2026 at 16:37 UTC</sub>
 
@@ -1986,17 +2008,6 @@ _Provide technical customer support for cloud security platform, troubleshooting
 _Design and operate cloud reliability infrastructure for healthcare systems—establish SLOs/SLIs, drive incident response processes, and build observability solutions across GCP/AWS. 10+ years required in cloud operations or SRE with proven production system ownership in distributed architectures. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)_
 
 `Google Cloud Platform` `AWS` `Terraform` `Kubernetes` `Python` `Prometheus` `Datadog` `Infrastructure as Code`
-
-<sub>July 21, 2026 at 00:05 UTC</sub>
-
----
-
-### [Principal Business Intelligence Manager](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$136k-$229k` `Equity`
-
-_Own the data architecture, semantic-layer strategy, and governed data-product standards for Zillow's customer experience operations, spanning multiple systems and business lines. Lead through technical depth and hands-on problem-solving to make the data foundation trustworthy, scalable, and AI-ready across BI, analytics, self-service, and ML consumption patterns. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)_
-
-`SQL` `Data Modeling` `dbt` `Databricks` `Snowflake` `Tableau` `Semantic Layer Design` `Data Governance`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
