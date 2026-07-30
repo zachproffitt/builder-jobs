@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **301 open roles** (44 new) &nbsp;·&nbsp; 1748 companies searched
+### **398 open roles** (49 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,83 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 30, 2026
+
+### [AI Engineer — GTM Analytics](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$117.3k-$201.65k` `Equity`
+
+_Build AI-powered analytics agents and LLM-driven workflows for Databricks' go-to-market platform, serving 6,000+ field users. Ship features end-to-end using agentic systems, RAG, and LLM integrations while leaning on AI coding tools as a core part of your development workflow. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002)_
+
+`Python` `SQL` `LLMs` `RAG` `Claude` `Databricks` `FastAPI` `React`
+
+<sub>July 30, 2026 at 18:25 UTC</sub>
+
+---
+
+### [Senior Manager, Offensive Security](https://jobs.ashbyhq.com/delinea/7e881ae6-c78d-4abc-9b85-db7017f7ff4b)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Manager`
+
+_Lead and mature Delinea's offensive security program, directing penetration testing and red team engagements across product and enterprise environments, including hands-on testing of cloud, containerized, and identity infrastructure. Work with frontier AI models to evaluate attack paths and secure high-stakes identity and access control systems protecting major enterprises. · [Apply →](https://jobs.ashbyhq.com/delinea/7e881ae6-c78d-4abc-9b85-db7017f7ff4b)_
+
+`Burp Suite` `Cobalt Strike` `BloodHound` `Python` `PowerShell` `Active Directory` `Kubernetes` `AWS`
+
+<sub>July 30, 2026 at 18:25 UTC</sub>
+
+---
+
+### [Sr. Site Reliability Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782550)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$139k-$287k` `Equity`
+
+_Build and operate a cloud-native CTV advertising platform on AWS, Kubernetes, and ArgoCD, ensuring reliability, scalability, and observability across production infrastructure. Lead infrastructure automation, GitOps workflows, and incident response for a high-performance media buying platform serving performance marketers. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7782550)_
+
+`Kubernetes` `AWS` `Terraform` `ArgoCD` `Helm` `GitHub Actions` `Bash` `Python`
+
+<sub>July 30, 2026 at 18:25 UTC</sub>
+
+---
+
+### [Staff Engineer](https://job-boards.greenhouse.io/raft/jobs/6129909004)
+<a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · `🟢 Remote` `Staff` `$180k-$190k` `Equity`
+
+_Architect and operate production Kubernetes platforms across AWS and hybrid environments, establishing infrastructure-as-code standards, CI/CD pipelines, and security controls for mission-critical federal applications. Requires Secret clearance eligibility and hands-on leadership of platform reliability, observability, and DevSecOps practices at scale. · [Apply →](https://job-boards.greenhouse.io/raft/jobs/6129909004)_
+
+`Kubernetes` `Terraform` `AWS` `GitLab CI/CD` `Argo CD` `Python` `Go` `Prometheus`
+
+<sub>July 30, 2026 at 18:25 UTC</sub>
+
+---
+
+### [Applied AI Engineer, Founding Team](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Applied-AI-Engineer--Founding-Team_R00323002)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations negotiable (California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington) · `Senior` `$62k-$218k`
+
+_Build agentic AI systems and retrieval infrastructure for an enterprise knowledge platform spanning 27 Oracle servers and 980K+ documents, including MCP server networks and AI-assisted sales tools. Requires hands-on experience shipping Claude/Anthropic-based systems and hybrid retrieval pipelines into production at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Applied-AI-Engineer--Founding-Team_R00323002)_
+
+`Claude` `Anthropic` `Model Context Protocol (MCP)` `Vector Search` `Knowledge Graphs` `Hybrid Retrieval` `Evaluation Frameworks` `Oracle`
+
+<sub>July 30, 2026 at 18:25 UTC</sub>
+
+---
+
+### [ServiceNow Technical Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Technical-Architect_R00347579)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+
+_Lead ServiceNow platform architecture and implementation for Fortune 500 clients across IT transformation programs. Manage teams of ServiceNow developers while driving continuous improvements to implementation methodologies and solution design; requires minimum 8 years ServiceNow development and technical architecture experience. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Technical-Architect_R00347579)_
+
+`ServiceNow` `JavaScript` `SQL` `Agile` `AWS` `Azure` `ITIL`
+
+<sub>July 30, 2026 at 18:25 UTC</sub>
+
+---
+
+### [Senior Investigator Digital Forensics, Incident Response (DFIR)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Senior-Investigator-Digital-Forensics--Incident-Response--DFIR-_R00334283)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$54k-$205k`
+
+_Lead complex digital forensics and incident response investigations for enterprise clients, performing memory forensics, malware analysis, threat hunting, and artifact recovery across cloud and traditional environments. Mentor junior investigators, develop automation tools, and produce defensible investigative reports; requires ability to obtain US security clearance. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Senior-Investigator-Digital-Forensics--Incident-Response--DFIR-_R00334283)_
+
+`Digital Forensics` `Incident Response` `Volatility` `EnCase` `Python` `PowerShell` `AWS` `Active Directory`
+
+<sub>July 30, 2026 at 18:25 UTC</sub>
+
+---
 
 ### [Staff Engineering Manager, Vault](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Staff-Engineering-Manager--Vault_JR105601)
 <a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Manager` `$190k-$308k`
@@ -66,6 +143,17 @@ _Lead hybrid CMMC Level 2 security architecture and controls across cloud and on
 `NIST SP 800-171` `CMMC Level 2` `Zero-Trust Networking` `SIEM` `System Security Plans (SSP)` `Risk Assessment` `Micro-segmentation` `Security Clearance`
 
 <sub>July 30, 2026 at 16:43 UTC</sub>
+
+---
+
+### [Site Reliability Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0057712)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Mid` `$87k-$123k`
+
+_Own operational excellence and reliability for financial services platform infrastructure supporting millions of customers across AWS and Kubernetes environments. Participate in on-call rotations, lead incident response and postmortems, and maintain high-availability systems in a regulated financial services environment. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0057712)_
+
+`Kubernetes` `AWS` `Terraform` `Docker` `Datadog` `GitLab CI` `Python` `Go`
+
+<sub>July 30, 2026 at 14:26 UTC</sub>
 
 ---
 
@@ -227,6 +315,17 @@ _Deploy and manage cloud-native data infrastructure on Kubernetes (EKS/GKE), imp
 
 ---
 
+### [CrowdStrike Platform Associate Resident Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
+
+_Deploy, configure, and optimize the CrowdStrike Falcon endpoint security platform for enterprise customers; develop scripting solutions using Falcon APIs and troubleshoot security operations across Windows, Mac, and Linux environments. Embedded consulting role requiring travel up to 25% and hands-on technical implementation across small to large enterprises. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426)_
+
+`PowerShell` `Python` `Bash` `Active Directory` `AWS` `Azure` `GCP` `SCCM`
+
+<sub>July 29, 2026 at 21:07 UTC</sub>
+
+---
+
 ### [Staff Platform Security Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8653959002)
 <a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Staff` `$152k-$172.3k`
 
@@ -260,12 +359,23 @@ _Design and architect end-to-end Oracle EBS Financials solutions across billing,
 
 ---
 
-### [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075577)
+### [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075570)
 <a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Senior`
 
-_Build and deploy scalable Stripe integrations and standalone applications directly for Stripe's strategic customers, combining business logic with Stripe best practices and user-facing interfaces. Work across full-stack projects—backend systems, infrastructure, and frontends—with ownership over new features and technical direction in a brand-new consulting engineering team. · [Apply →](https://stripe.com/jobs/search?gh_jid=8075577)_
+_Build scalable Stripe integrations and standalone applications deployed directly in user environments, combining user business logic with Stripe best practices. Work across the full stack with strategic enterprise clients, establishing best practices and tooling for Stripe's new Forward Deployed Engineering offering. · [Apply →](https://stripe.com/jobs/search?gh_jid=8075570)_
 
-`JavaScript` `TypeScript` `React` `Ruby` `Go` `Java` `Distributed Systems` `API Design`
+`JavaScript` `TypeScript` `React` `Ruby` `Go` `Java` `API Design` `Distributed Systems`
+
+<sub>July 29, 2026 at 21:07 UTC</sub>
+
+---
+
+### [Data Architect, Next Platform](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Architect--Next-Platform_JR202600742-1)
+<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · Chicago, Illinois / New York, New York / San Francisco, California / Remote · `Senior` `$140k-$200k` `Equity`
+
+_Design the enterprise data architecture for a multi-modal healthcare data ecosystem integrating EHR, genomics, and imaging data across federated hospital networks to enable autonomous AI agents. Requires deep expertise in healthcare data standards (HL7, FHIR), data modeling (3NF, Star Schema, Data Vault 2.0), and HIPAA-regulated environments at enterprise scale. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Architect--Next-Platform_JR202600742-1)_
+
+`SQL` `Python` `BigQuery` `Data Vault 2.0` `HL7` `FHIR` `Vector Databases` `HIPAA Compliance`
 
 <sub>July 29, 2026 at 21:07 UTC</sub>
 
@@ -282,12 +392,23 @@ _Design and maintain core operations datasets, data marts, and feature stores in
 
 ---
 
-### [CrowdStrike Platform Associate Resident Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
+### [Senior Manager, Storage Production Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Production-Engineering_JR2021663)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `$272k-$431.25k` `Equity`
 
-_Deploy, configure, and optimize the CrowdStrike Falcon endpoint security platform for enterprise customers; develop scripting solutions using Falcon APIs and troubleshoot security operations across Windows, Mac, and Linux environments. Embedded consulting role requiring travel up to 25% and hands-on technical implementation across small to large enterprises. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426)_
+_Lead a Storage Production Engineering team managing large-scale distributed storage systems (Lustre, Ceph, MinIO, S3-compatible platforms) that support NVIDIA's AI and HPC infrastructure. Requires direct hands-on expertise in storage architecture, networking protocols (NFS, SMB, iSCSI, RDMA, NVMe-oF), and operational excellence at mission-critical scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Production-Engineering_JR2021663)_
 
-`PowerShell` `Python` `Bash` `Active Directory` `AWS` `Azure` `GCP` `SCCM`
+`Lustre` `Ceph` `MinIO` `Terraform` `Ansible` `Prometheus` `NVMe-oF` `RDMA`
+
+<sub>July 29, 2026 at 21:07 UTC</sub>
+
+---
+
+### [Software Engineer III](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937)
+<a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**C.H. Robinson** · `🟢 Remote` `Senior` `$119k-$202k`
+
+_Design and deliver software solutions for global forwarding operations, partnering with product managers and engineers to build high-performance systems serving enterprise logistics customers. You'll conduct user research to inform technical decisions, optimize for scale and availability, and mentor junior engineers. · [Apply →](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937)_
+
+`C#` `.NET` `MS SQL` `Azure` `AWS` `Kafka` `RabbitMQ` `Git`
 
 <sub>July 29, 2026 at 21:07 UTC</sub>
 
@@ -321,6 +442,17 @@ _Build end-to-end AI-powered CI/CD products including the Guardener and hardened
 _Build secure, scalable microservices on C# .NET running in Kubernetes and Azure to discover, govern, and secure machine identities (service accounts, secrets, workloads, AI agents) at enterprise scale. Architect distributed systems handling event-driven workflows, multi-tenancy, and integration with enterprise identity providers (Okta, Entra ID). · [Apply →](https://jobs.ashbyhq.com/delinea/c07dd7d9-87a6-439e-a4db-0948ac395336)_
 
 `C#` `.NET` `Kubernetes` `Azure` `Terraform` `Azure Cosmos DB` `RabbitMQ` `Azure SQL`
+
+<sub>July 29, 2026 at 19:37 UTC</sub>
+
+---
+
+### [Lead Data Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Data-Engineer_R0059804-1)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$125k-$181k`
+
+_Lead the design and development of scalable data pipelines, ingestion frameworks, and data platforms for enterprise financial services; mentor engineers on data governance, security, and architectural standards at scale. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Data-Engineer_R0059804-1)_
+
+`Python` `PySpark` `SQL` `AWS` `Data Modeling` `ETL/ELT` `Data Warehousing` `Spark`
 
 <sub>July 29, 2026 at 19:37 UTC</sub>
 
@@ -422,83 +554,6 @@ _Design and ship identity, endpoint, and SaaS security controls for a Series C A
 `Entra ID` `Intune` `PowerShell` `Python` `Terraform` `Google Workspace` `Bash` `n8n`
 
 <sub>July 29, 2026 at 19:37 UTC</sub>
-
----
-
-### [Lead Data Scientist, Robotics](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004)
-<a href="https://agilityrobotics.com"><img src="https://www.google.com/s2/favicons?domain=agilityrobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Agility Robotics** · `🟢 Remote` `Senior` `$218k–$340k` `Equity`
-
-_Build predictive maintenance, fleet performance, and anomaly detection systems for humanoid robots deployed at scale in warehouses and manufacturing—leveraging telemetry, logs, and sensor data to drive reliability, unit economics, and product decisions. Partner cross-functionally with hardware, embedded, manufacturing, and operations teams to set technical direction for data-driven automation. · [Apply →](https://www.agilityrobotics.com/about/job-post?gh_jid=6127729004)_
-
-`Python` `SQL` `Time-Series Analysis` `Anomaly Detection` `Predictive Maintenance` `Survival Analysis` `Causal Inference` `Robotics`
-
-<sub>July 29, 2026 at 17:24 UTC</sub>
-
----
-
-### [Engineering Manager, Experimentation](https://job-boards.greenhouse.io/launchdarkly/jobs/7819651003)
-<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Manager` `$163k-$263k` `Equity`
-
-_Lead the Experimentation team building LaunchDarkly's core product — a platform for statistical experiment analysis and setup. Scale data infrastructure supporting warehouse-native analysis and feature management at massive scale, with technical depth in backend services, observability, and data pipelines. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7819651003)_
-
-`Go` `Python` `Java` `Rust` `Snowflake` `Redshift` `BigQuery` `Airflow`
-
-<sub>July 29, 2026 at 17:24 UTC</sub>
-
----
-
-### [Ground Systems Technical Manager (Secret clearance)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/El-Segundo-CA/Ground-Systems-Technical-Manager--Secret-clearance-_R24324-2)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Colorado / California · `Senior` `$105k-$154k (Colorado) / $121k-$177.1k (California)`
-
-_Develop and manage technical requirements, interface control documents, and model-based systems engineering products for next-generation Space Force missile warning and remote sensing capabilities. Requires active Secret clearance, U.S. citizenship, and experience with large-scale space systems engineering programs. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/El-Segundo-CA/Ground-Systems-Technical-Manager--Secret-clearance-_R24324-2)_
-
-`MBSE` `SysML` `Enterprise Architect` `IEEE 15288` `DoD 5000` `Jira` `Confluence` `DOORS NextGen`
-
-<sub>July 29, 2026 at 17:24 UTC</sub>
-
----
-
-### [Model Based Systems Engineering (MBSE) and Digital Modeling Engineer (Secret clearance)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Model-Based-Systems-Engineering--MBSE--and-Digital-Modeling-Engineer--Secret-clearance-_R24322-3)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Remote / On-site (2-3 days/week required; specific location not specified) · `🟡 Hybrid` `Senior` `$95k-$201k`
-
-_Develop model-based systems engineering and digital modeling solutions for next-generation U.S. Space Force missile warning, tactical intelligence, and environmental monitoring capabilities. Requires Secret clearance, U.S. citizenship, and on-site presence 2-3 days/week. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Model-Based-Systems-Engineering--MBSE--and-Digital-Modeling-Engineer--Secret-clearance-_R24322-3)_
-
-`MBSE` `Cameo` `MagicDraw` `SparxEA` `DOORS` `IBM Rhapsody` `MATLAB` `STK`
-
-<sub>July 29, 2026 at 17:24 UTC</sub>
-
----
-
-### [Staff Software Engineer - RCM (Remote)](https://jobs.ashbyhq.com/rula/0b83a783-dd26-4eb1-bf8c-dc88354950ae)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Staff`
-
-_Lead the architecture and technical vision of the Revenue Cycle Management Payments platform, designing distributed systems for complex payment processing, claims submission, and revenue workflows at scale. This role requires deep expertise in distributed systems and involves mentoring engineers while navigating healthcare compliance (HIPAA) and financial domain complexity. · [Apply →](https://jobs.ashbyhq.com/rula/0b83a783-dd26-4eb1-bf8c-dc88354950ae)_
-
-`TypeScript` `Node.js` `React` `Kafka` `AWS` `Microservices` `Distributed Systems` `HIPAA`
-
-<sub>July 29, 2026 at 17:24 UTC</sub>
-
----
-
-### [Engineering Manager](https://jobs.ashbyhq.com/socket/1e5693c0-24d3-4a8d-8c99-04ac4b289e78)
-<a href="https://socket.dev"><img src="https://www.google.com/s2/favicons?domain=socket.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socket** · `🟢 Remote` `Manager` `Equity`
-
-_Lead a team of engineers building Socket's open source security and auditing platform. Stay engaged in technical decisions and architectural trade-offs while fostering a culture of ownership and autonomy; requires deep technical judgment in a TypeScript/JavaScript ecosystem. · [Apply →](https://jobs.ashbyhq.com/socket/1e5693c0-24d3-4a8d-8c99-04ac4b289e78)_
-
-`TypeScript` `JavaScript`
-
-<sub>July 29, 2026 at 17:24 UTC</sub>
-
----
-
-### [Engineering Manager, Data Platform](https://jobs.ashbyhq.com/trm-labs/8c0ea2a6-e423-4898-9e7b-810719030013)
-<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · San Francisco, California / Los Angeles, California / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Manager`
-
-_Lead a data platform team building highly available, petabyte-scale data infrastructure for analyzing blockchain transaction activity across TRM's AI-powered crime investigation products. Guide mission-critical ETL pipelines, distributed systems, and data services that serve leading agencies and businesses worldwide. · [Apply →](https://jobs.ashbyhq.com/trm-labs/8c0ea2a6-e423-4898-9e7b-810719030013)_
-
-`Python` `SQL` `Spark` `Kafka` `Airflow` `Kubernetes` `Terraform` `ClickHouse`
-
-<sub>July 29, 2026 at 17:24 UTC</sub>
 
 ---
 
