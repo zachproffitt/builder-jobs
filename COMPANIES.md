@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **161 companies** · **420 open roles** (50 new)
+### **165 companies** · **426 open roles** (47 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -17,6 +17,14 @@ Engineering roles grouped by company, linking directly to each company's job boa
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior IT Engineer](https://jobs.ashbyhq.com/1password/df6afe6a-7e62-4d57-be23-22583d0cdeb9) · `🟢 Remote` `Senior` `$117k-$164k USD / $103k-$144k CAD` `Equity` (Jul 30)
 - [Developer, Open Source](https://jobs.ashbyhq.com/1password/c22ea4e6-f39b-448c-a9e9-a04445ba18e6) · `🟢 Remote` `Mid` `$123k-$172k USD / $111k-$155k CAD` `Equity` (Jul 29)
 - [.Net Developer, SaaS Manager](https://jobs.ashbyhq.com/1password/fb0f0d1d-5655-4c54-b4e7-e985c475dc9e) · `🟢 Remote` `Mid` `$123k-$172k USD / $111k-$155k CAD` `Equity` (Jul 21)
+
+---
+
+## <a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Abbott](https://abbott.com)
+
+Abbott creates medical devices and healthcare solutions for cardiovascular health, diabetes management, diagnostic testing, nutrition, and chronic pain management.
+
+- [Senior Cybersecurity Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171-1) · `🟢 Remote` `Senior` `$86k–$173k` (Jul 24)
 
 ---
 
@@ -464,19 +472,20 @@ EnergyHub provides software that helps utilities scale virtual power plants to m
 
 ---
 
+## <a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Epicor](https://epicor.com)
+
+Epicor makes enterprise resource planning (ERP) software designed for specific industries to improve return on investment, efficiency, and business growth.
+
+- [Principal Product Developer | KBMax](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Remote/Principal-Product-Developer---KBMax_JR105104) · `🟢 Remote` `Principal` `$138k-$235k` (Jul 23)
+- [Product Developer, Sr](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Lehi/Product-Developer--Sr_JR104999) · `🟢 Remote` `Senior` `$105k-$178k` (Jul 23)
+
+---
+
 ## <a href="https://everbridge.com"><img src="https://www.google.com/s2/favicons?domain=everbridge.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Everbridge](https://everbridge.com)
 
 Everbridge provides a critical event and business continuity suite that helps organizations manage safety for their people and assets.
 
 - [Software Engineer](https://jobs.lever.co/everbridge/2ea5e5bd-a815-40fc-9d1f-e166d2f162c1) · `🟢 Remote` (Jul 21)
-
----
-
-## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
-
-- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
-- [Software Development Engineer - Workday Everywhere](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Development-Engineer---Workday-Everywhere_JR-0108946) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$123k-$222k` `Equity` (Jul 23)
-- [Forward Deployed Partner Architect](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Remote/Forward-Deployed-Partner-Architect_JR-0108918) · `🟢 Remote` `Senior` `$162k-$243k` `Equity` (Jul 22)
 
 ---
 
@@ -530,6 +539,15 @@ Five9 provides cloud contact center and AI services for organizations.
 - [Director, Solution Consulting Operations](https://www.five9.com/about/careers/job-detail?gh_jid=6129958004) · `🟢 Remote` `Manager` `$124k–$288k` `Equity` (Jul 29)
 - [Senior WEM AQM Prompt Engineer](https://www.five9.com/about/careers/job-detail?gh_jid=6112661004) · `🟢 Remote` `Senior` `$88k–$247k` `Equity` (Jul 21)
 - [WEM AQM Prompt Engineer](https://www.five9.com/about/careers/job-detail?gh_jid=6112682004) · `🟢 Remote` `Mid` `$70k–$195k` `Equity` (Jul 21)
+
+---
+
+## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
+
+Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
+
+- [Director, Data Engineering - Business Data](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1) · `🟢 Remote` `Manager` `$178k-$299k` `Equity` (Jul 23)
+- [Principal Business Intelligence Manager](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2) · `🟢 Remote` `Principal` `$136k-$229k` `Equity` (Jul 21)
 
 ---
 
@@ -679,9 +697,9 @@ Human Interest builds 401(k) retirement plans for small and medium-sized busines
 
 ## <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Humio (CrowdStrike)](https://humio.com)
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer--Application-Security--Remote-_R29569) · `🟢 Remote` `Mid` `$120k-$180k` `Equity` (Jul 30)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Product-Security-Engineer--Application-Security--Remote-_R29568-1) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Product Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
+- [Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer--Application-Security--Remote-_R29569) · `🟢 Remote` `Mid` `$120k-$180k` `Equity` (Jul 30)
+- [Senior Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Product-Security-Engineer--Application-Security--Remote-_R29568-1) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
+- [Sr. Product Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
 - [CrowdStrike Platform Associate Resident Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426) · `🟢 Remote` `Junior` `$70k-$95k` `Equity` (Jul 29)
 - [Automation Engineer II, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Automation-Engineer-II--Falcon-Complete--Remote-_R29474) · `🟢 Remote` `Mid` `Equity` (Jul 29)
 - [Engineering Manager - Production Services Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineering-Manager---Production-Services-Infrastructure--Remote-_R29579-1) · `🟢 Remote` `Manager` `$120k-$180k` `Equity` (Jul 29)
@@ -894,6 +912,14 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 - [Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6115022004) · `🟢 Remote` `Mid` `$105k-$132k` `Equity` (Jul 28)
 - [Staff Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6115020004) · `🟢 Remote` `Staff` `$152k-$190k` `Equity` (Jul 28)
 - [Bioinformatics Manager (Oncology Product Development)](https://job-boards.greenhouse.io/natera/jobs/6117368004) · `🟢 Remote` `Manager` `$140k-$175k` (Jul 21)
+
+---
+
+## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+
+NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+
+- [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734) · `🟢 Remote` `Senior` (Jul 21)
 
 ---
 
@@ -1257,7 +1283,7 @@ StackAdapt is an AI-powered marketing platform used by digital marketers.
 
 Stripe is a financial services platform that helps businesses accept payments, build billing models, and manage money movement.
 
-- [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075577) · `🟢 Remote` `Senior` (Jul 29)
+- [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075570) · `🟢 Remote` `Senior` (Jul 29)
 - [Staff Software Engineer, Service Infrastructure](https://stripe.com/jobs/search?gh_jid=8090141) · `🟢 Remote` `Staff` (Jul 28)
 - [Software Engineer - Full Stack](https://stripe.com/jobs/search?gh_jid=8084193) · `🟢 Remote` `Mid` `$161k - $213k` `Equity` (Jul 24)
 - [Engineering Manager, Tax Platform](https://stripe.com/jobs/search?gh_jid=8080238) · `🟢 Remote` `Manager` `$274k-$322k` `Equity` (Jul 22)
@@ -1334,9 +1360,7 @@ Tenable provides cybersecurity solutions that reduce cyber risk across IT, OT, c
 
 ---
 
-## <a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters](https://thomsonreuters.com)
-
-Thomson Reuters provides technology solutions and content for professionals.
+## <a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters Labs](https://labs.thomsonreuters.com)
 
 - [Lead IAM Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Lead-IAM-Engineer_JREQ201528) · `🟢 Remote` `Senior` `$140k CAD - $190k CAD` (Jul 21)
 - [Senior Legal AI Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Legal-AI-Engineer_JREQ202169) · `🟢 Remote` `Senior` `$100k-$185k` (Jul 21)
@@ -1420,7 +1444,7 @@ Twilio delivers communications services including messaging, voice, and email to
 - [Senior Principal Field Architect - AI Agents](https://job-boards.greenhouse.io/twilio/jobs/8039186) · `🟢 Remote` `Principal` `$284k-$405k` `Equity` (Jul 25)
 - [Sr AI Architect - Conversational AI](https://job-boards.greenhouse.io/twilio/jobs/7926891) · `🟢 Remote` `Principal` `$275k-$405k` `Equity` (Jul 24)
 - [Sr Architect - Emerging Technologies (Fraud Detection and Governance)](https://job-boards.greenhouse.io/twilio/jobs/7960476) · `🟢 Remote` `Senior` `$207.2k-$304.6k` `Equity` (Jul 24)
-- [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8074762) · `🟢 Remote` `Staff` `$141.5k-$208k` `Equity` (Jul 22)
+- [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8076802) · `🟢 Remote` `Staff` `$141.5k-$208k` `Equity` (Jul 22)
 
 ---
 
@@ -1507,6 +1531,16 @@ Wealthsimple offers spending, trading, and investment services.
 Wiz builds cloud security software that scans and secures cloud environments for organizations, with customers including over 50% of the Fortune 100.
 
 - [Solutions Support Engineer, Weekend 2nd shift, US-APAC](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006) · `🟢 Remote` `Mid` `$108k–$148k` `Equity` (Jul 21)
+
+---
+
+## <a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workday](https://workday.com)
+
+Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
+
+- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
+- [Software Development Engineer - Workday Everywhere](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Development-Engineer---Workday-Everywhere_JR-0108946) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$123k-$222k` `Equity` (Jul 23)
+- [Forward Deployed Partner Architect](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Remote/Forward-Deployed-Partner-Architect_JR-0108918) · `🟢 Remote` `Senior` `$162k-$243k` `Equity` (Jul 22)
 
 ---
 

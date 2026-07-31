@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **227 open roles** (30 new)
+### **232 open roles** (27 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -1420,6 +1420,17 @@ _Lead end-to-end interconnection technical execution for thermal energy storage 
 
 ---
 
+### [Senior Cybersecurity Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171-1)
+<a href="https://abbott.com"><img src="https://www.google.com/s2/favicons?domain=abbott.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Abbott** · `🟢 Remote` `Senior` `$86k–$173k`
+
+_Lead product security assessments and vulnerability remediation across Abbott's diabetes management devices and supporting infrastructure. Design systematic security controls and preventive strategies for regulated medical device software, requiring hands-on testing with SAST/DAST/SCA tools and security certification. · [Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Cybersecurity-Engineer_31157171-1)_
+
+`Burp Suite` `SAST` `DAST` `SCA` `SBOM` `Postman` `JIRA` `CISSP`
+
+<sub>July 24, 2026 at 16:51 UTC</sub>
+
+---
+
 ### [Founding Engineer](https://job-boards.greenhouse.io/superset/jobs/5369491008)
 <a href="https://superset.com"><img src="https://www.google.com/s2/favicons?domain=superset.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**super{set}** · `🟢 Remote` `Senior` `Equity`
 
@@ -1655,6 +1666,28 @@ _Build the new ShareGate Migrate web application from scratch, shipping full-sta
 
 ---
 
+### [Principal Product Developer | KBMax](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Remote/Principal-Product-Developer---KBMax_JR105104)
+<a href="https://epicor.com"><img src="https://www.google.com/s2/favicons?domain=epicor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epicor** · `🟢 Remote` `Principal` `$138k-$235k`
+
+_Lead design and development of KBMax product features, mentoring engineers and driving architectural decisions across the platform. Thought leader establishing best practices and engineering culture across a 5,000-person company building AI-powered ERP systems. · [Apply →](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Remote/Principal-Product-Developer---KBMax_JR105104)_
+
+`Software Architecture` `Mentorship` `Testing Methodology` `Continuous Integration` `AI/ML Systems`
+
+<sub>July 23, 2026 at 17:41 UTC</sub>
+
+---
+
+### [Director, Data Engineering - Business Data](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Manager` `$178k-$299k` `Equity`
+
+_Lead a data engineering team building scalable data pipelines and a modern cloud-based data platform using Spark, Airflow, and Databricks to power Zillow's real estate industry products and insights. Requires 5+ years leading data engineering teams and 15+ years in quantitative analysis with strong SQL and Python/Java/Scala proficiency. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Director--Data-Engineering---Business-Data_P751016-1)_
+
+`Python` `Java` `Scala` `SQL` `Spark` `Airflow` `Databricks` `AWS`
+
+<sub>July 23, 2026 at 17:41 UTC</sub>
+
+---
+
 ### [Senior Software Engineer II - LLM Observability ](https://job-boards.greenhouse.io/honeycomb/jobs/5366557008)
 <a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$183k-$206k` `Equity`
 
@@ -1802,12 +1835,12 @@ _Own performance tuning and reliability of the StarRocks-backed serving layer fo
 
 ---
 
-### [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8074762)
+### [Staff, Business Intelligence Engineer](https://job-boards.greenhouse.io/twilio/jobs/8076802)
 <a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$141.5k-$208k` `Equity`
 
-_Build and maintain robust data models, semantic layers, and automated BI infrastructure to enable trusted sales analytics, reporting, and AI capabilities for GTM teams. Apply software engineering practices (Git, CI/CD, testing frameworks) to scale BI-as-Code across the organization. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8074762)_
+_Build and maintain robust data models, dashboards, and semantic layers for Go-To-Market analytics using BI-as-Code practices; establish data quality frameworks and CI/CD pipelines to support sales, marketing, and revenue operations at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8076802)_
 
-`SQL` `Tableau` `dbt` `Git` `CI/CD` `Python` `Salesforce` `Looker`
+`SQL` `Tableau` `dbt` `Git` `CI/CD` `Salesforce` `Python` `Looker`
 
 <sub>July 22, 2026 at 20:18 UTC</sub>
 
@@ -2530,6 +2563,28 @@ _Design and ship AI-powered workflows, agents, and automations (using Claude, Du
 _Provide technical customer support for cloud security platform, troubleshooting customer issues across cloud infrastructure, Kubernetes, and security systems. Design and implement automation solutions to scale support operations; requires US person status per EAR/ITAR regulations. · [Apply →](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006)_
 
 `Python` `Java` `JavaScript` `Kubernetes` `AWS` `Azure` `GCP` `Linux`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Design and operate cloud reliability infrastructure for healthcare systems—establish SLOs/SLIs, drive incident response processes, and build observability solutions across GCP/AWS. 10+ years required in cloud operations or SRE with proven production system ownership in distributed architectures. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)_
+
+`Google Cloud Platform` `AWS` `Terraform` `Kubernetes` `Python` `Prometheus` `Datadog` `Infrastructure as Code`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Principal Business Intelligence Manager](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$136k-$229k` `Equity`
+
+_Own the data architecture, semantic-layer strategy, and governed data-product standards for Zillow's customer experience operations, spanning multiple systems and business lines. Lead through technical depth and hands-on problem-solving to make the data foundation trustworthy, scalable, and AI-ready across BI, analytics, self-service, and ML consumption patterns. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Business-Intelligence-Manager_P750956-2)_
+
+`SQL` `Data Modeling` `dbt` `Databricks` `Snowflake` `Tableau` `Semantic Layer Design` `Data Governance`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 

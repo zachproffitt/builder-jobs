@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **420 open roles** (50 new) &nbsp;·&nbsp; 1748 companies searched
+### **426 open roles** (47 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -25,23 +25,23 @@ _Build cloud-based subscription management services handling tens of millions of
 
 ---
 
-### [Senior Software Engineer II - Agentic Intelligence](https://job-boards.greenhouse.io/honeycomb/jobs/5373987008)
-<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$183k—$206k` `Equity`
-
-_Design and ship production-grade AI agents that investigate and reason over high-cardinality observability data in Canvas, taking prototypes through to production while defining reliability standards for agent systems. Requires deep LLM/agent engineering experience and end-to-end ownership on a small, fully distributed team. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5373987008)_
-
-`LLM systems` `Agent architecture` `Python` `RAG` `Prompt engineering` `Eval frameworks` `TypeScript` `Observability platforms`
-
-<sub>July 31, 2026 at 00:11 UTC</sub>
-
----
-
 ### [Embedded Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Embedded-Software-Engineer_R0245751)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
 
 _Develop embedded software and digital signal processing algorithms for RF quantum sensing systems used in national security applications, integrating microcontrollers, sensors, and motorized subsystems. Requires TS/SCI clearance and on-site presence in Colorado Springs, CO with up to 25% travel. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Embedded-Software-Engineer_R0245751)_
 
 `C` `C++` `Python` `Digital Signal Processing` `RF Theory` `Embedded Systems` `Linux` `TS/SCI Clearance`
+
+<sub>July 31, 2026 at 00:11 UTC</sub>
+
+---
+
+### [Senior Software Engineer II - Agentic Intelligence](https://job-boards.greenhouse.io/honeycomb/jobs/5373987008)
+<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `$183k—$206k` `Equity`
+
+_Design and ship production-grade AI agents that investigate and reason over high-cardinality observability data in Canvas, taking prototypes through to production while defining reliability standards for agent systems. Requires deep LLM/agent engineering experience and end-to-end ownership on a small, fully distributed team. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5373987008)_
+
+`LLM systems` `Agent architecture` `Python` `RAG` `Prompt engineering` `Eval frameworks` `TypeScript` `Observability platforms`
 
 <sub>July 31, 2026 at 00:11 UTC</sub>
 
@@ -530,39 +530,6 @@ _Lead frontend architecture for the Fleet Manager UI, a web interface managing h
 `TypeScript` `React` `GraphQL` `REST APIs` `OpenAPI` `Web Accessibility (WCAG)` `Design Systems` `End-to-End Testing`
 
 <sub>July 30, 2026 at 11:45 UTC</sub>
-
----
-
-### [Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer--Application-Security--Remote-_R29569)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$120k-$180k` `Equity`
-
-_Build tools, automation, and threat models to identify and help fix security defects in CrowdStrike's cloud-native applications. Requires hands-on code review, penetration testing, and secure development lifecycle expertise across Go, Python, and Java applications at scale (3 trillion events/day processing). · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer--Application-Security--Remote-_R29569)_
-
-`Go` `Python` `Java` `Threat Modeling` `SAST` `DAST` `CSPM` `Kubernetes`
-
-<sub>July 30, 2026 at 09:36 UTC</sub>
-
----
-
-### [Senior Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Product-Security-Engineer--Application-Security--Remote-_R29568-1)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$160k-$250k` `Equity`
-
-_Build and maintain application security tools, threat models, and automation across CrowdStrike's web and cloud-native products; conduct hands-on secure code reviews and penetration testing to identify and eliminate design and implementation flaws. Work at massive scale processing 3 trillion events per day, requiring deep expertise in threat modeling (STRIDE), browser security, API security, and cloud-native security across GCP/Azure/AWS. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Product-Security-Engineer--Application-Security--Remote-_R29568-1)_
-
-`Go` `Python` `JavaScript` `TypeScript` `React` `Node.js` `Electron` `Kubernetes`
-
-<sub>July 30, 2026 at 09:36 UTC</sub>
-
----
-
-### [Sr. Product Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$160k-$250k` `Equity`
-
-_Conduct deep security analysis of endpoint protection products—audit C/C++ Linux applications for design flaws, perform threat modeling, and collaborate with product teams to build secure systems processing 3 trillion events daily. Requires 10+ years of engineering/security experience and hands-on expertise in Linux system internals, reverse engineering, and threat modeling. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555)_
-
-`C/C++` `Linux` `Ghidra` `IDA Pro` `Rust` `Go` `STRIDE` `Reverse Engineering`
-
-<sub>July 30, 2026 at 09:36 UTC</sub>
 
 ---
 
