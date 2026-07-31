@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **419 open roles** (45 new) &nbsp;·&nbsp; 1748 companies searched
+### **423 open roles** (42 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## July 31, 2026
+
+### [Business Applications Manager](https://jobs.ashbyhq.com/horizon3ai/b4083165-1560-4ee5-b99e-11351087698c)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Manager` `$178k-$220k` `Equity`
+
+_Lead the Business Applications team to build and maintain enterprise SaaS administration, integration architecture (Workato and AWS-based), and AI agent deployment across GTM, Finance, Legal, and Engineering. Hands-on leadership in a fast-growing cybersecurity company; requires managing contractors, setting governance, and scaling enablement across distributed teams. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/b4083165-1560-4ee5-b99e-11351087698c)_
+
+`Jira` `Workato` `AWS (Lambda, S3, RDS, API Gateway, EventBridge, Step Functions)` `Glean` `Claude` `Gemini` `AWS Bedrock` `REST/Event-Driven Architecture`
+
+<sub>July 31, 2026 at 15:25 UTC</sub>
+
+---
 
 ### [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)
 <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity`
@@ -181,17 +192,6 @@ _Build Python-based services and AWS data pipelines that measure autonomy perfor
 
 ---
 
-### [Senior Software Engineer, Compute Sanitizer - GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--Compute-Sanitizer---GPU_JR2021736)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity`
-
-_Develop and advance NVIDIA's Compute Sanitizer GPU debugging and profiling tools across Linux, Windows, and embedded operating systems. Work at the intersection of GPU architecture, driver systems, and developer tools; requires deep systems programming expertise and hands-on work with low-level compute models and emerging GPU technologies. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--Compute-Sanitizer---GPU_JR2021736)_
-
-`C` `C++` `Assembly Language` `CUDA` `GPU Architecture` `Memory Management` `Debugging` `ELF/DWARF`
-
-<sub>July 30, 2026 at 22:15 UTC</sub>
-
----
-
 ### [Software Engineer (L2)](https://job-boards.greenhouse.io/twilio/jobs/8097672)
 <a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Mid` `$116k-$146k` `Equity`
 
@@ -209,6 +209,17 @@ _Design and build scalable backend systems and APIs for Twilio's Segment custome
 _Design and implement complex data models and manage data infrastructure to enable dashboards, self-serve analytics, and data science teams across the organization. Build semantic layers and observability tooling to support AI-driven analytics while ensuring security, anonymization, and compliance standards. · [Apply →](https://jobs.ashbyhq.com/vanta/1989a49f-227e-4928-b068-8ff24af88541)_
 
 `dbt` `SQL` `Snowflake` `BigQuery` `Redshift` `Fivetran` `Airflow` `Looker`
+
+<sub>July 30, 2026 at 22:15 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Compute Sanitizer - GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--Compute-Sanitizer---GPU_JR2021736)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity`
+
+_Develop and advance NVIDIA's Compute Sanitizer GPU debugging and profiling tools across Linux, Windows, and embedded operating systems. Work at the intersection of GPU architecture, driver systems, and developer tools; requires deep systems programming expertise and hands-on work with low-level compute models and emerging GPU technologies. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--Compute-Sanitizer---GPU_JR2021736)_
+
+`C` `C++` `Assembly Language` `CUDA` `GPU Architecture` `Memory Management` `Debugging` `ELF/DWARF`
 
 <sub>July 30, 2026 at 22:15 UTC</sub>
 
@@ -412,17 +423,6 @@ _Lead ServiceNow platform architecture and implementation for Fortune 500 client
 
 ---
 
-### [ServiceNow Implementation Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Implementation-Specialist_R00347566)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$196k`
-
-_Implement and customize ServiceNow solutions for enterprise clients across incident, problem, change, and service catalog management. Requires 3+ years of ServiceNow implementation experience with JavaScript/application development and travel up to 100% depending on client engagements. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Implementation-Specialist_R00347566)_
-
-`ServiceNow` `JavaScript` `SQL` `Angular JS` `REST APIs` `LDAP` `Single Sign-On`
-
-<sub>July 30, 2026 at 18:25 UTC</sub>
-
----
-
 ### [Staff Engineering Manager, Vault](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/US-Remote---California/Staff-Engineering-Manager--Vault_JR105601)
 <a href="https://collectors.com"><img src="https://www.google.com/s2/favicons?domain=collectors.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Collectors** · `🟢 Remote` `Manager` `$190k-$308k`
 
@@ -475,39 +475,6 @@ _Lead hybrid CMMC Level 2 security architecture and controls across cloud and on
 `NIST SP 800-171` `CMMC Level 2` `Zero-Trust Networking` `SIEM` `System Security Plans (SSP)` `Risk Assessment` `Micro-segmentation` `Security Clearance`
 
 <sub>July 30, 2026 at 16:43 UTC</sub>
-
----
-
-### [Site Reliability Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0057712)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Mid` `$87k-$123k`
-
-_Own operational excellence and reliability for financial services platform infrastructure supporting millions of customers across AWS and Kubernetes environments. Participate in on-call rotations, lead incident response and postmortems, and maintain high-availability systems in a regulated financial services environment. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0057712)_
-
-`Kubernetes` `AWS` `Terraform` `Docker` `Datadog` `GitLab CI` `Python` `Go`
-
-<sub>July 30, 2026 at 14:26 UTC</sub>
-
----
-
-### [Sr. Software Engineer - AI Platform Experience (Remote)](https://jobs.ashbyhq.com/rula/e088c86d-1a3c-4da9-81f5-d75990344f20)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Senior`
-
-_Build foundational AI agent infrastructure and frameworks enabling agentic development across engineering teams. Design core platform components for LLM integrations and agent systems while driving developer enablement and tooling across the organization. · [Apply →](https://jobs.ashbyhq.com/rula/e088c86d-1a3c-4da9-81f5-d75990344f20)_
-
-`LLM integrations` `Agent frameworks` `Python` `Cloud platforms` `CI/CD` `API design` `Software architecture` `Developer experience`
-
-<sub>July 30, 2026 at 14:26 UTC</sub>
-
----
-
-### [Principal Software Engineer - Identity & Access Management](https://job-boards.greenhouse.io/sezzle/jobs/7820899003)
-<a href="https://sezzle.com"><img src="https://www.google.com/s2/favicons?domain=sezzle.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sezzle** · `🟢 Remote` `Principal` `$72k-$132k`
-
-_Own the technical vision and architecture for Sezzle's authentication and authorization platform, including a purpose-built API auth gateway and identity services, designing zero-downtime migrations and establishing OAuth2/OIDC standards across a fintech microservices infrastructure. Requires deep hands-on expertise in auth systems at scale, proven leadership of large-scale service migrations, and 12+ years of backend engineering experience in security-critical systems. · [Apply →](https://job-boards.greenhouse.io/sezzle/jobs/7820899003)_
-
-`Golang` `OAuth2/OIDC` `PostgreSQL` `MySQL` `API Gateway Design` `Distributed Systems` `AWS` `Kubernetes`
-
-<sub>July 30, 2026 at 14:26 UTC</sub>
 
 ---
 
