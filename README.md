@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **453 open roles** (35 new) &nbsp;·&nbsp; 1748 companies searched
+### **454 open roles** (34 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 1, 2026
+
+### [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior`
+
+_Own verification and validation strategy for bioinformatics pipelines and medical device software across NGS analysis, lab automation, and LIMS systems in a regulated diagnostic context. Design and execute comprehensive V&V test protocols for clinical diagnostics software under IEC 62304 and ISO 13485, with required travel to Boulder, CO lab for integration and testing activities. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6130601004)_
+
+`IEC 62304` `ISO 13485` `NGS bioinformatics` `Nextflow` `AWS` `GCP` `LIMS/LIS` `FDA regulatory compliance`
+
+<sub>August 1, 2026 at 13:46 UTC</sub>
+
+---
 
 ### [Full Stack Engineer - Frontend-Focused](https://citizenshipper.breezy.hr/p/d6ce7647b795-full-stack-engineer-frontend-focused)
 <a href="https://citizenshipper.com"><img src="https://www.google.com/s2/favicons?domain=citizenshipper.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CitizenShipper** · `🟢 Remote` `Mid`
@@ -227,6 +238,17 @@ _Resolve customer issues in GitLab's DevSecOps platform across Self-managed and 
 
 ---
 
+### [Software Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=8089124)
+<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · `🟢 Remote` `Mid` `$109k-$215k` `Equity`
+
+_Build evaluation systems, quality gates, and developer tooling for MongoDB's agent skills platform—including CLIs, test harnesses, safety checks, and CI/CD workflows. Work at the intersection of developer tooling, applied AI, and software quality, shipping durable internal systems that validate agent behavior and ensure safe, maintainable agent-authored content. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=8089124)_
+
+`Python` `TypeScript` `GitHub Actions` `Go` `Java` `static analysis` `evaluation frameworks` `CI/CD`
+
+<sub>July 31, 2026 at 19:46 UTC</sub>
+
+---
+
 ### [Principal Ground Systems Engineer - Mission Architecture and Systems Engineering](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Ground-Systems-Engineer---Mission-Architecture-and-Systems-Engineering_R24318)
 <a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Principal` `$135k-$198k` `Equity`
 
@@ -244,17 +266,6 @@ _Lead mission architecture and ground systems engineering for satellite and defe
 _Lead systems engineering activities across satellite and ground infrastructure programs, translating mission objectives into integrated system designs spanning spacecraft, payloads, ground systems, software, and operations. Requires U.S. citizenship and active involvement in the complete systems engineering lifecycle from concept through verification and operational deployment. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Satellite---Ground-Systems-Engineer_R24317-1)_
 
 `SysML` `MBSE` `Cameo Systems Modeler` `Enterprise Architect` `IBM DOORS Next` `STK` `Git`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [Software Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=8089124)
-<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · `🟢 Remote` `Mid` `$109k-$215k` `Equity`
-
-_Build evaluation systems, quality gates, and developer tooling for MongoDB's agent skills platform—including CLIs, test harnesses, safety checks, and CI/CD workflows. Work at the intersection of developer tooling, applied AI, and software quality, shipping durable internal systems that validate agent behavior and ensure safe, maintainable agent-authored content. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=8089124)_
-
-`Python` `TypeScript` `GitHub Actions` `Go` `Java` `static analysis` `evaluation frameworks` `CI/CD`
 
 <sub>July 31, 2026 at 19:46 UTC</sub>
 
@@ -378,28 +389,6 @@ _Lead the Business Applications team to build and maintain enterprise SaaS admin
 `Jira` `Workato` `AWS (Lambda, S3, RDS, API Gateway, EventBridge, Step Functions)` `Glean` `Claude` `Gemini` `AWS Bedrock` `REST/Event-Driven Architecture`
 
 <sub>July 31, 2026 at 15:25 UTC</sub>
-
----
-
-### [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity`
-
-_Build end-to-end cloud integrations and observability features for Grafana Cloud, working across TypeScript/React frontends, Go backends, and Jsonnet monitoring mixins. Contribute to open-source observability standards (Prometheus, OpenTelemetry) and own features from user problem through production deployment and on-call support. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)_
-
-`Go` `TypeScript` `React` `Jsonnet` `Prometheus` `OpenTelemetry` `Grafana` `AI-assisted development`
-
-<sub>July 31, 2026 at 13:03 UTC</sub>
-
----
-
-### [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
-
-_Develop end-to-end cloud integrations and observability apps for Grafana Cloud, shipping features across React frontends, Go backends, and Jsonnet monitoring mixins. Work with large-scale observability systems (Prometheus, OpenTelemetry) impacting 7,000+ customers; contribute upstream to open source projects. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)_
-
-`Go` `TypeScript` `React` `Jsonnet` `Prometheus` `OpenTelemetry` `Grafana Alloy` `GraphQL`
-
-<sub>July 31, 2026 at 13:03 UTC</sub>
 
 ---
 

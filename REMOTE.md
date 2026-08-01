@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **250 open roles** (25 new)
+### **252 open roles** (24 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,17 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 1, 2026
+
+### [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior`
+
+_Own verification and validation strategy for bioinformatics pipelines and medical device software across NGS analysis, lab automation, and LIMS systems in a regulated diagnostic context. Design and execute comprehensive V&V test protocols for clinical diagnostics software under IEC 62304 and ISO 13485, with required travel to Boulder, CO lab for integration and testing activities. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6130601004)_
+
+`IEC 62304` `ISO 13485` `NGS bioinformatics` `Nextflow` `AWS` `GCP` `LIMS/LIS` `FDA regulatory compliance`
+
+<sub>August 1, 2026 at 13:46 UTC</sub>
+
+---
 
 ### [Full Stack Engineer - Frontend-Focused](https://citizenshipper.breezy.hr/p/d6ce7647b795-full-stack-engineer-frontend-focused)
 <a href="https://citizenshipper.com"><img src="https://www.google.com/s2/favicons?domain=citizenshipper.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CitizenShipper** · `🟢 Remote` `Mid`
@@ -2403,7 +2414,7 @@ _Design and optimize LLM prompts for Five9's AI-powered Automated Quality Manage
 ---
 
 ### [Senior Product Scientist, Agentic Growth & Marketing](https://job-boards.greenhouse.io/hs/jobs/8077611)
-<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
+<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
 
 _Own the execution of Headspace's agentic marketing system—a closed-loop growth engine that autonomously optimizes paid acquisition spend, reallocates budgets across platforms, and triggers personalized lifecycle communications based on real-time member signals and causal measurement. Build production ML systems for marketing automation at scale in the consumer subscription health space, requiring SQL, Python, and cross-functional collaboration with engineering and product teams. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/8077611)_
 
@@ -2776,6 +2787,17 @@ _Design and ship AI-powered workflows, agents, and automations (using Claude, Du
 _Provide technical customer support for cloud security platform, troubleshooting customer issues across cloud infrastructure, Kubernetes, and security systems. Design and implement automation solutions to scale support operations; requires US person status per EAR/ITAR regulations. · [Apply →](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006)_
 
 `Python` `Java` `JavaScript` `Kubernetes` `AWS` `Azure` `GCP` `Linux`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Design and operate cloud reliability infrastructure for healthcare systems—establish SLOs/SLIs, drive incident response processes, and build observability solutions across GCP/AWS. 10+ years required in cloud operations or SRE with proven production system ownership in distributed architectures. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)_
+
+`Google Cloud Platform` `AWS` `Terraform` `Kubernetes` `Python` `Prometheus` `Datadog` `Infrastructure as Code`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 

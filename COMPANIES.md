@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **166 companies** · **453 open roles** (35 new)
+### **166 companies** · **454 open roles** (34 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -486,14 +486,6 @@ Everbridge provides a critical event and business continuity suite that helps or
 
 ---
 
-## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
-
-- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
-- [Software Development Engineer - Workday Everywhere](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Development-Engineer---Workday-Everywhere_JR-0108946) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$123k-$222k` `Equity` (Jul 23)
-- [Forward Deployed Partner Architect](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Remote/Forward-Deployed-Partner-Architect_JR-0108918) · `🟢 Remote` `Senior` `$162k-$243k` `Equity` (Jul 22)
-
----
-
 ## <a href="https://evolutioniq.com"><img src="https://www.google.com/s2/favicons?domain=evolutioniq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[EvolutionIQ](https://evolutioniq.com)
 
 EvolutionIQ provides an insurance claims guidance platform that helps carriers process claims faster and make better decisions.
@@ -606,8 +598,8 @@ Gradial provides AI agents that help enterprise marketing teams execute campaign
 
 Grafana Labs builds Grafana, an open-source visualization tool used by over 20 million users for monitoring and observability, and provides the Grafana LGTM Stack (featuring Mimir for metrics, Loki for logs, and Tempo for traces) that can be deployed as a fully managed cloud service or self-managed enterprise offering to help companies manage their observability strategies.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004) · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity` (Jul 31)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004) · `🟢 Remote` `Senior` `$154k-$185k` `Equity` (Jul 31)
+- [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004) · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity` (Jul 31)
+- [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004) · `🟢 Remote` `Senior` `$154k-$185k` `Equity` (Jul 31)
 - [Senior Machine Learning Engineer, Developer Advocacy | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121756004) · `🟢 Remote` `Senior` `$164k CAD-$197k CAD` `Equity` (Jul 22)
 - [Senior Machine Learning Engineer, Developer Advocacy | US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004) · `🟢 Remote` `Senior` `$154k-$185k` `Equity` (Jul 22)
 
@@ -639,9 +631,7 @@ Harness provides a software delivery platform that manages the software developm
 
 ---
 
-## <a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Headspace Health](https://headspacehealth.com)
-
-Headspace Health delivers mental health care services including mindfulness and clinical support to organizations and their members.
+## <a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Headspace](https://headspace.com)
 
 - [Senior Product Scientist, Agentic Growth & Marketing](https://job-boards.greenhouse.io/hs/jobs/8077611) · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity` (Jul 21)
 
@@ -946,10 +936,19 @@ Nash provides autonomic logistics software that unifies decision-making across f
 
 Natera develops cell-free DNA tests for oncology, women's health, and organ health to inform healthcare decisions.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004) · `🟢 Remote` `Senior` (Aug 1)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004) · `🟢 Remote` `Senior` `$118k—$148k` (Jul 31)
 - [Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6115022004) · `🟢 Remote` `Mid` `$105k-$132k` `Equity` (Jul 28)
 - [Staff Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6115020004) · `🟢 Remote` `Staff` `$152k-$190k` `Equity` (Jul 28)
 - [Bioinformatics Manager (Oncology Product Development)](https://job-boards.greenhouse.io/natera/jobs/6117368004) · `🟢 Remote` `Manager` `$140k-$175k` (Jul 21)
+
+---
+
+## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+
+NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+
+- [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734) · `🟢 Remote` `Senior` (Jul 21)
 
 ---
 
@@ -1089,14 +1088,6 @@ Podium provides an AI-powered lead generation and management platform for conver
 Unconventional AI develops AI computing technology designed to achieve energy efficiency comparable to biological systems.
 
 - [AI Systems, Model Optimization](https://unconv.ai/careers/?gh_jid=4272105009) · Palo Alto, California / Remote · `🟢 Remote` `Senior` (Jul 21)
-
----
-
-## <a href="https://proofpoint.com"><img src="https://www.google.com/s2/favicons?domain=proofpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Proofpoint](https://proofpoint.com)
-
-Proofpoint offers compliance and cybersecurity solutions that protect against cyber attacks across email, web, cloud, and other platforms.
-
-- [Software Engineer - AI Platform Team](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Software-Engineer---AI-Platform-Team_R14306-1) · `🟢 Remote` `Staff` `$101.6k-$214k` `Equity` (Jul 21)
 
 ---
 
@@ -1571,6 +1562,16 @@ Wealthsimple offers spending, trading, and investment services.
 Wiz builds cloud security software that scans and secures cloud environments for organizations, with customers including over 50% of the Fortune 100.
 
 - [Solutions Support Engineer, Weekend 2nd shift, US-APAC](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006) · `🟢 Remote` `Mid` `$108k–$148k` `Equity` (Jul 21)
+
+---
+
+## <a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workday](https://workday.com)
+
+Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
+
+- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
+- [Software Development Engineer - Workday Everywhere](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Development-Engineer---Workday-Everywhere_JR-0108946) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$123k-$222k` `Equity` (Jul 23)
+- [Forward Deployed Partner Architect](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Remote/Forward-Deployed-Partner-Architect_JR-0108918) · `🟢 Remote` `Senior` `$162k-$243k` `Equity` (Jul 22)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **453 open roles** (35 new) &nbsp;·&nbsp; 1748 companies searched
+### **454 open roles** (34 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,28 @@ Remote and Colorado engineering roles posted more than 24 hours ago. Listings ar
 <br>
 
 ## July 31, 2026
+
+### [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity`
+
+_Build end-to-end cloud integrations and observability features for Grafana Cloud, working across TypeScript/React frontends, Go backends, and Jsonnet monitoring mixins. Contribute to open-source observability standards (Prometheus, OpenTelemetry) and own features from user problem through production deployment and on-call support. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)_
+
+`Go` `TypeScript` `React` `Jsonnet` `Prometheus` `OpenTelemetry` `Grafana` `AI-assisted development`
+
+<sub>July 31, 2026 at 13:03 UTC</sub>
+
+---
+
+### [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+
+_Develop end-to-end cloud integrations and observability apps for Grafana Cloud, shipping features across React frontends, Go backends, and Jsonnet monitoring mixins. Work with large-scale observability systems (Prometheus, OpenTelemetry) impacting 7,000+ customers; contribute upstream to open source projects. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)_
+
+`Go` `TypeScript` `React` `Jsonnet` `Prometheus` `OpenTelemetry` `Grafana Alloy` `GraphQL`
+
+<sub>July 31, 2026 at 13:03 UTC</sub>
+
+---
 
 ### [Software Development Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Software-Development-Engineer_R170523-1)
 <a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Senior` `$93k-$179k` `Equity`
@@ -1134,7 +1156,7 @@ _Own the architectural integrity and code quality of AI-assisted products in a t
 ---
 
 ### [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957)
-<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity`
+<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity`
 
 _Lead data conversion strategy and execution for healthcare ERP implementations, translating customer business requirements into ETL pipelines and technical specifications. Requires hands-on SQL, Python, and legacy system experience (PeopleSoft, Epic, Meditech) across multi-year healthcare deployments. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957)_
 
@@ -2598,7 +2620,7 @@ _Design and build a secure, highly available ClickHouse Cloud platform for regul
 ---
 
 ### [Software Development Engineer - Workday Everywhere](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Development-Engineer---Workday-Everywhere_JR-0108946)
-<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · Boulder, Colorado · `🟡 Hybrid` `Senior` `$123k-$222k` `Equity`
+<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · Boulder, Colorado · `🟡 Hybrid` `Senior` `$123k-$222k` `Equity`
 
 _Build end-to-end features for Workday's enterprise collaboration integrations across Slack, Microsoft Teams, and AI agentic platforms, handling performance, scalability, and resilience at millions of users scale. Design and implement integrations with AI assistant standards (MCP, A2A protocols) and maintain core infrastructure across front-end, back-end, and cloud deployment. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Software-Development-Engineer---Workday-Everywhere_JR-0108946)_
 
@@ -3051,7 +3073,7 @@ _Build and maintain security controls, conduct vulnerability assessments, and su
 ---
 
 ### [Forward Deployed Partner Architect](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Remote/Forward-Deployed-Partner-Architect_JR-0108918)
-<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · `🟢 Remote` `Senior` `$162k-$243k` `Equity`
+<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · `🟢 Remote` `Senior` `$162k-$243k` `Equity`
 
 _Co-architect enterprise AI solutions and agentic workflows with System Integrators and AI model providers, designing and leading 4-8 week pilot-to-production builds that integrate Workday's platform into complex multi-cloud environments. Requires deep expertise in agentic AI systems, enterprise security/compliance, and the ability to translate technical architecture into measurable business outcomes for C-suite stakeholders. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Remote/Forward-Deployed-Partner-Architect_JR-0108918)_
 
@@ -3094,23 +3116,23 @@ _Build the application and cognitive layer for humanoid robots, combining Voice 
 
 ---
 
-### [Principal Software Development Engineer, Graph](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Software-Development-Engineer--Graph_R170592-1)
-<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Principal` `$190k-$360k` `Equity`
-
-_Design and implement core components of Project Graph, a visual node-graph editor for combining AI models, Adobe tools, and custom components; lead architecture and operation of large-scale distributed systems with focus on web components and developer experience. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Software-Development-Engineer--Graph_R170592-1)_
-
-`Web Components` `TypeScript` `JavaScript` `React` `Node.js` `Distributed Systems` `Shadow DOM` `LIT`
-
-<sub>July 22, 2026 at 16:39 UTC</sub>
-
----
-
 ### [GTM Engineer, AI & Automation](https://job-boards.greenhouse.io/clickhouse/jobs/6122325004)
 <a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$145k-$195k, $165k-$225k (premium markets)` `Equity`
 
 _Design, build, and ship AI agents and workflows that automate the go-to-market motion—prospecting, lead routing, outbound sequencing, deal support, and expansion signals—instrumenting the customer lifecycle to turn usage and telemetry into automated action. Own end-to-end systems from design through production monitoring, with the bar set by moving real revenue numbers on a consumption-based business model. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6122325004)_
 
 `Python` `TypeScript` `JavaScript` `SQL` `Salesforce` `Postgres` `ClickHouse` `dbt`
+
+<sub>July 22, 2026 at 16:39 UTC</sub>
+
+---
+
+### [Principal Software Development Engineer, Graph](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Software-Development-Engineer--Graph_R170592-1)
+<a href="https://frame.io"><img src="https://www.google.com/s2/favicons?domain=frame.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Frame.io** · `🟢 Remote` `Principal` `$190k-$360k` `Equity`
+
+_Design and implement core components of Project Graph, a visual node-graph editor for combining AI models, Adobe tools, and custom components; lead architecture and operation of large-scale distributed systems with focus on web components and developer experience. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Software-Development-Engineer--Graph_R170592-1)_
+
+`Web Components` `TypeScript` `JavaScript` `React` `Node.js` `Distributed Systems` `Shadow DOM` `LIT`
 
 <sub>July 22, 2026 at 16:39 UTC</sub>
 
@@ -3522,22 +3544,11 @@ _Design and optimize LLM prompts for Five9's AI-powered Automated Quality Manage
 ---
 
 ### [Senior Product Scientist, Agentic Growth & Marketing](https://job-boards.greenhouse.io/hs/jobs/8077611)
-<a href="https://headspacehealth.com"><img src="https://www.google.com/s2/favicons?domain=headspacehealth.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace Health** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
+<a href="https://headspace.com"><img src="https://www.google.com/s2/favicons?domain=headspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Headspace** · San Francisco, California / New York, New York / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$122k-$190k` `Equity`
 
 _Own the execution of Headspace's agentic marketing system—a closed-loop growth engine that autonomously optimizes paid acquisition spend, reallocates budgets across platforms, and triggers personalized lifecycle communications based on real-time member signals and causal measurement. Build production ML systems for marketing automation at scale in the consumer subscription health space, requiring SQL, Python, and cross-functional collaboration with engineering and product teams. · [Apply →](https://job-boards.greenhouse.io/hs/jobs/8077611)_
 
 `Python` `SQL` `Braze` `Causal Inference` `Incrementality Testing` `Media Mix Modeling` `Reinforcement Learning` `Contextual Bandits`
-
-<sub>July 21, 2026 at 18:21 UTC</sub>
-
----
-
-### [Sr Staff DevOps Engineer ](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-DevOps-Engineer-_R24290)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `🟡 Hybrid` `Staff` `$128k-$187k`
-
-_Lead reliability engineering and infrastructure automation for the Vantor Hub platform across commercial and government AWS environments, designing CI/CD pipelines, Kubernetes orchestration, and incident response processes. Requires active TS/SCI clearance and US citizenship for defense/government work. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-DevOps-Engineer-_R24290)_
-
-`AWS` `Kubernetes` `Terraform` `Python` `Bash` `Docker` `SRE` `IaC`
 
 <sub>July 21, 2026 at 18:21 UTC</sub>
 
@@ -3549,6 +3560,17 @@ _Lead reliability engineering and infrastructure automation for the Vantor Hub p
 _Lead the AXIS team building metrics, observability infrastructure, and AI-enabled tools to measure and improve developer productivity across MongoDB's engineering organization. Requires 4+ years managing software engineers and 8+ years hands-on experience with production systems, observability, or data platforms. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=8052620)_
 
 `observability` `data pipelines` `analytics platforms` `AI tools development` `developer tooling` `platform engineering`
+
+<sub>July 21, 2026 at 18:21 UTC</sub>
+
+---
+
+### [Sr Staff DevOps Engineer ](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-DevOps-Engineer-_R24290)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `🟡 Hybrid` `Staff` `$128k-$187k`
+
+_Lead reliability engineering and infrastructure automation for the Vantor Hub platform across commercial and government AWS environments, designing CI/CD pipelines, Kubernetes orchestration, and incident response processes. Requires active TS/SCI clearance and US citizenship for defense/government work. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-DevOps-Engineer-_R24290)_
+
+`AWS` `Kubernetes` `Terraform` `Python` `Bash` `Docker` `SRE` `IaC`
 
 <sub>July 21, 2026 at 18:21 UTC</sub>
 
@@ -3756,17 +3778,6 @@ _Build foundational AI agent infrastructure for RevenueCat's AI assistant that h
 _Design, build, and ship end-to-end product features for RevenueCat's mobile monetization platform, working across frontend, backend, and data layers to serve thousands of developers and hundreds of millions of end-users. Ownership spans problem definition through production rollout and long-term maintenance in a remote-first environment. · [Apply →](https://jobs.ashbyhq.com/revenuecat/563cb60e-1471-4c8d-865c-d21eec081645)_
 
 `TypeScript` `React` `PostgreSQL` `Python` `Flask` `AWS`
-
-<sub>July 21, 2026 at 16:37 UTC</sub>
-
----
-
-### [Software Engineer - AI Platform Team](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Software-Engineer---AI-Platform-Team_R14306-1)
-<a href="https://proofpoint.com"><img src="https://www.google.com/s2/favicons?domain=proofpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Proofpoint** · `🟢 Remote` `Staff` `$101.6k-$214k` `Equity`
-
-_Design and build the internal platform that enables all Proofpoint product teams to develop, evaluate, and deploy agentic AI applications — spanning agent runtimes, eval-driven release gates, OpenTelemetry observability, and cross-product authentication for AI workloads. Work on mission-critical systems used by Fortune 100 customers 24/7/365, setting architectural patterns that define how the company ships production agentic software. · [Apply →](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Software-Engineer---AI-Platform-Team_R14306-1)_
-
-`Python` `TypeScript` `LangGraph` `OpenAI Agents SDK` `Anthropic Agent SDK` `OpenTelemetry` `LangSmith` `Kubernetes`
 
 <sub>July 21, 2026 at 16:37 UTC</sub>
 
@@ -4309,23 +4320,23 @@ _Lead engineering teams building AI-native loyalty and travel booking features o
 
 ---
 
-### [Sr. System Test Engineer - HiL](https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan · `🟢 Remote` `Senior` `$139k–$166k` `Equity`
-
-_Design and build Hardware-in-the-Loop test benches to validate autonomous truck driving software across perception, sensor fusion, and vehicle control systems. Requires deep expertise in HiL platforms, ROS/ROS2, and safety-critical system validation for autonomous vehicles. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002)_
-
-`Python` `C++` `ROS/ROS2` `Hardware-in-the-Loop (HiL)` `dSPACE` `CAN` `CANoe` `ISO 26262`
-
-<sub>July 21, 2026 at 00:05 UTC</sub>
-
----
-
 ### [Senior Manager, Product & Innovation](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Manager--Product---Innovation_REQ523126)
 <a href="https://jll.com"><img src="https://www.google.com/s2/favicons?domain=jll.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JLL** · `🟢 Remote` `Manager` `$155k-$198k`
 
 _Lead the data, analytics, and AI product function for a major operations account—designing and building internal software products that serve 5,000+ employees across 147 sites. Build AI-driven workflows, work order management tools, and HR automation on AWS, with direct hands-on ownership of architecture, code, and product roadmap. Requires both field operations credibility (5+ years maintenance/reliability leadership) and proven ability to design, build, and ship production systems on AWS. · [Apply →](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Manager--Product---Innovation_REQ523126)_
 
 `Python` `SQL` `AWS` `Terraform` `RAG` `LLMs` `React` `TypeScript`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Sr. System Test Engineer - HiL](https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002)
+<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan · `🟢 Remote` `Senior` `$139k–$166k` `Equity`
+
+_Design and build Hardware-in-the-Loop test benches to validate autonomous truck driving software across perception, sensor fusion, and vehicle control systems. Requires deep expertise in HiL platforms, ROS/ROS2, and safety-critical system validation for autonomous vehicles. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8542718002)_
+
+`Python` `C++` `ROS/ROS2` `Hardware-in-the-Loop (HiL)` `dSPACE` `CAN` `CANoe` `ISO 26262`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
@@ -4357,6 +4368,17 @@ _Design and ship AI-powered workflows, agents, and automations (using Claude, Du
 _Provide technical customer support for cloud security platform, troubleshooting customer issues across cloud infrastructure, Kubernetes, and security systems. Design and implement automation solutions to scale support operations; requires US person status per EAR/ITAR regulations. · [Apply →](https://www.wiz.io/careers/job/4683509006/:title?gh_jid=4683509006)_
 
 `Python` `Java` `JavaScript` `Kubernetes` `AWS` `Azure` `GCP` `Linux`
+
+<sub>July 21, 2026 at 00:05 UTC</sub>
+
+---
+
+### [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Design and operate cloud reliability infrastructure for healthcare systems—establish SLOs/SLIs, drive incident response processes, and build observability solutions across GCP/AWS. 10+ years required in cloud operations or SRE with proven production system ownership in distributed architectures. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734)_
+
+`Google Cloud Platform` `AWS` `Terraform` `Kubernetes` `Python` `Prometheus` `Datadog` `Infrastructure as Code`
 
 <sub>July 21, 2026 at 00:05 UTC</sub>
 
