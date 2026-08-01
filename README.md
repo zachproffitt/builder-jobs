@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **458 open roles** (27 new) &nbsp;·&nbsp; 1748 companies searched
+### **454 open roles** (20 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -235,83 +235,6 @@ _Design and build production-grade agentic AI systems for enterprise clients, in
 `Python` `Java` `Kubernetes` `Docker` `Claude` `OpenAI` `Vertex AI` `LLM Agents`
 
 <sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [Senior Data Reliability Engineer AWS](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Reliability-Engineer-AWS_R0061387)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105.7k-$149.3k`
-
-_Own the reliability and stability of AWS-based production data pipelines and analytics platforms, diagnosing failures, performing root cause analysis, and implementing durable fixes across distributed systems like Spark, EMR, and Redshift. Requires 5+ years operating production data platforms and hands-on experience troubleshooting real-world pipeline failures. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Reliability-Engineer-AWS_R0061387)_
-
-`Python` `SQL` `AWS` `Apache Spark` `Amazon EMR` `Amazon Redshift` `Kafka` `Observability`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [Support Engineer (AMER)](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
-
-_Resolve customer issues in GitLab's DevSecOps platform across Self-managed and SaaS deployments, diving into codebase and infrastructure to diagnose root causes and contribute merge requests for fixes. Work embedded within the Engineering department with on-call rotation coverage and responsibilities for documentation, testing, and hiring. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)_
-
-`Ruby` `Bash` `Ruby on Rails` `Git` `Kubernetes` `Linux Systems Administration` `CI/CD` `GitLab`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [Software Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=8089124)
-<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · `🟢 Remote` `Mid` `$109k-$215k` `Equity`
-
-_Build evaluation systems, quality gates, and developer tooling for MongoDB's agent skills platform—including CLIs, test harnesses, safety checks, and CI/CD workflows. Work at the intersection of developer tooling, applied AI, and software quality, shipping durable internal systems that validate agent behavior and ensure safe, maintainable agent-authored content. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=8089124)_
-
-`Python` `TypeScript` `GitHub Actions` `Go` `Java` `static analysis` `evaluation frameworks` `CI/CD`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [Principal Ground Systems Engineer - Mission Architecture and Systems Engineering](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Ground-Systems-Engineer---Mission-Architecture-and-Systems-Engineering_R24318)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Principal` `$135k-$198k` `Equity`
-
-_Lead mission architecture and ground systems engineering for satellite and defense space systems, translating complex customer objectives into integrated system designs spanning spacecraft, payloads, communications, and mission operations. Requires deep systems engineering expertise across complete lifecycles and ability to influence technical direction across multidisciplinary teams; US Person status and security clearance eligibility required. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Ground-Systems-Engineer---Mission-Architecture-and-Systems-Engineering_R24318)_
-
-`Systems Engineering` `Model-Based Systems Engineering (MBSE)` `SysML` `Requirements Management` `Spacecraft Systems` `Ground Systems Architecture` `Mission Operations` `Satellite Systems`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [Satellite & Ground Systems Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Satellite---Ground-Systems-Engineer_R24317-1)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$109k-$159.5k`
-
-_Lead systems engineering activities across satellite and ground infrastructure programs, translating mission objectives into integrated system designs spanning spacecraft, payloads, ground systems, software, and operations. Requires U.S. citizenship and active involvement in the complete systems engineering lifecycle from concept through verification and operational deployment. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Satellite---Ground-Systems-Engineer_R24317-1)_
-
-`SysML` `MBSE` `Cameo Systems Modeler` `Enterprise Architect` `IBM DOORS Next` `STK` `Git`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [AI Platform Engineer](https://jobs.ashbyhq.com/Supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541)
-<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `🟢 Remote` `Staff` `Equity`
-
-_Build the execution layer for Supabase's internal AI agent platform—including event-triggered queues, a model-agnostic runtime, durable state management, human review gates, and complete run logging. Design and enforce governance controls so dangerous actions are structurally impossible rather than merely forbidden, and build the evaluation layer that gates all agent deployments on measurable safety and correctness. · [Apply →](https://jobs.ashbyhq.com/Supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541)_
-
-`Python` `GCP` `Terraform` `PostgreSQL` `LLM Observability` `Agent Frameworks` `MCP Servers` `CI/CD`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [Senior Data Scientist](https://job-boards.greenhouse.io/komodohealth/jobs/8661607002)
-<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Senior` `$162k-$219k` `Equity`
-
-_Own and advance Komodo's statistical projection models that translate healthcare claims data into national market estimates, ensuring model quality through rigorous evaluation, customer engagement, and methodological innovation. Deep expertise required in US healthcare claims data (ICD, CPT, NDC coding), sample-to-population projection methods, and creative validation approaches when ground truth is limited. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8661607002)_
-
-`Python` `R` `SQL` `Statistics` `Bayesian Statistics` `Healthcare Claims Data` `Projection Methodology` `Causal Inference`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
 
 ---
 
