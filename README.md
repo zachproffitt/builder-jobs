@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **454 open roles** (20 new) &nbsp;·&nbsp; 1748 companies searched
+### **451 open roles** (13 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -158,83 +158,6 @@ _Design and develop Java/Spring and React services for a precision genomics plat
 `Java` `Spring` `React` `PostgreSQL` `Elasticsearch` `AWS` `API Design` `Cloud-Native Architecture`
 
 <sub>July 31, 2026 at 23:11 UTC</sub>
-
----
-
-### [Staff Software Engineer, Data and Partner Platform](https://job-boards.greenhouse.io/energyhub/jobs/8659800002)
-<a href="https://energyhub.com"><img src="https://www.google.com/s2/favicons?domain=energyhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EnergyHub** · `🟢 Remote` `Staff` `$160k-$180k`
-
-_Architect and implement scalable data ingestion, processing, and integration systems for utility partners and energy market data, serving as a technical leader across the Data and Partner Platform team. Lead high-severity incident investigations, mentor engineers across the organization, and drive decisions on schema design, microservices architecture, and compliance in a regulated energy industry context. · [Apply →](https://job-boards.greenhouse.io/energyhub/jobs/8659800002)_
-
-`AWS` `Snowflake` `gRPC` `Python` `Java` `TypeScript` `dbt` `Airflow`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [Senior Offensive Security Consultant](https://jobs.ashbyhq.com/horizon3ai/7bbf880c-f6c4-4ab5-ad21-af7edb2ccc10)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$200k-$250k` `Equity`
-
-_Lead end-to-end penetration testing and red team engagements across customer production environments—internal networks, web applications, cloud infrastructure—to identify vulnerabilities and attack chains. Requires hands-on expertise with web application testing (Burp Suite, OWASP ZAP), network exploitation (CrackMapExec, BloodHound, Impacket), and cloud assessment tools, plus ability to mentor junior consultants. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/7bbf880c-f6c4-4ab5-ad21-af7edb2ccc10)_
-
-`Burp Suite` `CrackMapExec` `BloodHound` `Impacket` `Metasploit Framework` `Python` `PowerShell` `Cobalt Strike`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [HPC Support Engineer](https://jobs.ashbyhq.com/lambda/83e77f46-c393-47ae-83ed-db4b0daf6e18)
-<a href="https://lambdalabs.com"><img src="https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lambda Labs** · `🟢 Remote` `Senior` `Equity`
-
-_Provide senior technical escalation for GPU cloud infrastructure, troubleshooting hardware, kernel, and driver-level issues across distributed HPC systems. Mentor junior engineers, automate operational processes, and drive recurring customer issues to permanent engineering fixes. · [Apply →](https://jobs.ashbyhq.com/lambda/83e77f46-c393-47ae-83ed-db4b0daf6e18)_
-
-`Linux` `Kubernetes` `Slurm` `Python` `CUDA` `Prometheus` `Grafana` `Datadog`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [GTM Engineer](https://jobs.ashbyhq.com/Nash/c485ac8a-9b1f-4d29-be99-2d0937bd0f14)
-<a href="https://www.usenash.com"><img src="https://www.google.com/s2/favicons?domain=www.usenash.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nash** · `🟢 Remote` `Mid` `Equity`
-
-_Lead technical discovery, design integration architecture, and build POCs for enterprise logistics customers connecting to the Nash AI platform. Build and test AI agents, prompts, and workflows on realistic customer data; foundational hire building out the Solutions Engineering function from scratch. · [Apply →](https://jobs.ashbyhq.com/Nash/c485ac8a-9b1f-4d29-be99-2d0937bd0f14)_
-
-`REST APIs` `Webhooks` `JSON` `Python` `AI Agents` `Prompt Engineering` `System Architecture` `OMS/WMS/TMS integration`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$118k—$148k`
-
-_Develop novel algorithms and automated analysis workflows for genomic data to advance early cancer detection; analyze multi-omic datasets using high-performance pipelines and statistical models. Role requires deep expertise in NGS analysis, variant calling, and clinical-grade bioinformatics infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6122491004)_
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `WDL` `AWS` `NGS Analysis` `Variant Calling`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [Staff Machine Learning Engineer, Applied Research](https://www.pinterestcareers.com/jobs/?gh_jid=8015539)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$189k–$389k` `Equity`
-
-_Develop machine learning models and systems for Pinterest's search, recommendation, and reasoning agents, including NLP, computer vision, graph neural networks, and reinforcement learning applications. Work on cutting-edge LLM research applied across growth, discovery, ads, and search with a world-class research team. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8015539)_
-
-`Python` `PyTorch` `TensorFlow` `NLP` `Computer Vision` `Graph Neural Networks` `Reinforcement Learning` `Java`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [AI Native Full Stack Developer — Associate Manager / Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/AI-Native-Full-Stack-Developer---Associate-Manager---Manager_R00336404)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$90k-$140k`
-
-_Design and build production-grade agentic AI systems for enterprise clients, including agent orchestration, RAG, multi-provider LLM integration, and cloud-native deployment across microservices and Kubernetes. Work embedded with clients to move AI solutions from proof-of-concept to operational reality in complex enterprise environments. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/AI-Native-Full-Stack-Developer---Associate-Manager---Manager_R00336404)_
-
-`Python` `Java` `Kubernetes` `Docker` `Claude` `OpenAI` `Vertex AI` `LLM Agents`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
 
 ---
 
