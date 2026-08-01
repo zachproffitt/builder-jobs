@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **447 open roles** (34 new) &nbsp;·&nbsp; 1748 companies searched
+### **452 open roles** (33 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -378,17 +378,6 @@ _Build production safety monitoring workflows and statistical analysis systems t
 `Python` `SQL` `Statistics` `Time-Series Analysis` `Risk Analysis` `Data Visualization` `Cloud Data Technology` `Uncertainty Quantification`
 
 <sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [Business Applications Manager](https://jobs.ashbyhq.com/horizon3ai/b4083165-1560-4ee5-b99e-11351087698c)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Manager` `$178k-$220k` `Equity`
-
-_Lead the Business Applications team to build and maintain enterprise SaaS administration, integration architecture (Workato and AWS-based), and AI agent deployment across GTM, Finance, Legal, and Engineering. Hands-on leadership in a fast-growing cybersecurity company; requires managing contractors, setting governance, and scaling enablement across distributed teams. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/b4083165-1560-4ee5-b99e-11351087698c)_
-
-`Jira` `Workato` `AWS (Lambda, S3, RDS, API Gateway, EventBridge, Step Functions)` `Glean` `Claude` `Gemini` `AWS Bedrock` `REST/Event-Driven Architecture`
-
-<sub>July 31, 2026 at 15:25 UTC</sub>
 
 ---
 

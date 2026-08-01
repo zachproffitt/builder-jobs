@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **165 companies** · **447 open roles** (34 new)
+### **165 companies** · **452 open roles** (33 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -106,7 +106,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 23)
 - [Senior Algorithm Developer](https://boards.greenhouse.io/andurilindustries/jobs/5194473007?gh_jid=5194473007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
 - [Scientific Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5193977007?gh_jid=5193977007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
-- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5193934007?gh_jid=5193934007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 23)
+- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5194570007?gh_jid=5194570007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 23)
 - [Senior Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5193973007?gh_jid=5193973007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
 - [Senior Software Engineer, Air & Missile Defense](https://boards.greenhouse.io/andurilindustries/jobs/5193980007?gh_jid=5193980007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
 - [Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5193974007?gh_jid=5193974007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
@@ -274,7 +274,7 @@ Chainalysis provides blockchain analysis and investigation services to governmen
 Chainguard provides hardened, secure, and production-ready open source software builds, container images, and language libraries that are built from source in a SLSA L3-compliant factory and verified with SBOMs and provenance.
 
 - [Senior Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700937006) · `🟢 Remote` `Senior` `$157k–$184k` `Equity` (Jul 29)
-- [Staff Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700929006) · `🟢 Remote` `Staff` `$205k-$231k` `Equity` (Jul 29)
+- [Staff Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700933006) · `🟢 Remote` `Staff` `$205k-$231k` `Equity` (Jul 29)
 - [Senior Security Engineer (Cloud)](https://job-boards.greenhouse.io/chainguard/jobs/4700287006) · `🟢 Remote` `Senior` `$137k-$160k` `Equity` (Jul 28)
 - [Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4700281006) · `🟢 Remote` `Junior` `$105k-$123k` `Equity` (Jul 28)
 - [Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4699210006) · `🟢 Remote` `Senior` `$121k-$142k` `Equity` (Jul 27)
@@ -660,7 +660,7 @@ Honeycomb is a service for observability that helps developers understand and tr
 Horizon3 provides security testing software that simulates real-world attacks to demonstrate vulnerabilities in a customer's environment and help identify what needs to be fixed.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Offensive Security Consultant](https://jobs.ashbyhq.com/horizon3ai/7bbf880c-f6c4-4ab5-ad21-af7edb2ccc10) · `🟢 Remote` `Senior` `$200k-$250k` `Equity` (Jul 31)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Business Applications Manager](https://jobs.ashbyhq.com/horizon3ai/b4083165-1560-4ee5-b99e-11351087698c) · `🟢 Remote` `Manager` `$178k-$220k` `Equity` (Jul 31)
+- [Business Applications Manager](https://jobs.ashbyhq.com/horizon3ai/b4083165-1560-4ee5-b99e-11351087698c) · `🟢 Remote` `Manager` `$178k-$220k` `Equity` (Jul 31)
 - [Senior Backend Engineer, Security Controls](https://jobs.ashbyhq.com/horizon3ai/57d96033-2e76-4f73-87e3-b11e0586ae19) · `🟢 Remote` `Senior` `$187k-$208k` `Equity` (Jul 28)
 - [Staff Defensive Security Software Engineer](https://jobs.ashbyhq.com/horizon3ai/95044547-e65e-494f-b04c-ea1853ac1369) · `🟢 Remote` `Staff` `$240k-$270k` `Equity` (Jul 28)
 - [Engineering Manager, Rapid Response](https://jobs.ashbyhq.com/horizon3ai/38fec2b0-e37d-4b5a-8ab2-c56635c06b75) · `🟢 Remote` `Manager` `$235k-$265k` `Equity` (Jul 24)
@@ -708,12 +708,12 @@ inKind is an app that helps users discover dining restaurants, browse menus, and
 Instacart operates a grocery delivery service that allows customers to order groceries and household goods for delivery, while also providing earnings opportunities for personal shoppers who fulfill those orders.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Android Engineer, Shopper Activation and Engagement](https://instacart.careers/job/?gh_jid=8099277) · `🟢 Remote` `Senior` `CAN$168k—$177k` `Equity` (Jul 31)
-- [Forward Deployed Engineer](https://instacart.careers/job/?gh_jid=8097507) · `🟢 Remote` `Senior` `CAD$185k–$195k` `Equity` (Jul 30)
-- [Senior Risk & Compliance Engineer - Data](https://instacart.careers/job/?gh_jid=8091193) · `🟢 Remote` `Senior` `CAN$153k-CAN$187k` `Equity` (Jul 29)
+- [Forward Deployed Engineer](https://instacart.careers/job/?gh_jid=8097510) · `🟢 Remote` `Senior` `$169k—$214k USD` `Equity` (Jul 30)
+- [Senior Risk & Compliance Engineer - Data](https://instacart.careers/job/?gh_jid=8091191) · `🟢 Remote` `Senior` `$156k—$230k USD` `Equity` (Jul 29)
 - [Senior Engineering Manager, Activation & Engagement](https://instacart.careers/job/?gh_jid=8084166) · `🟢 Remote` `Manager` `$229k–$241k CAD` `Equity` (Jul 27)
 - [Senior Engineering Manager, Enterprise Fulfillment](https://instacart.careers/job/?gh_jid=8084349) · `🟢 Remote` `Manager` `$221k—$279k USD` `Equity` (Jul 27)
 - [Senior Software Engineer, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8089322) · `🟢 Remote` `Senior` `$168k-$177.5k CAD` `Equity` (Jul 27)
-- [Detection Engineer II](https://instacart.careers/job/?gh_jid=8080532) · `🟢 Remote` `Mid` `CAD$145k-$153k` `Equity` (Jul 22)
+- [Detection Engineer II](https://instacart.careers/job/?gh_jid=8080512) · `🟢 Remote` `Senior` `$142k—$180k USD` `Equity` (Jul 22)
 - [Staff Software Engineer, Bazel & Go](https://instacart.careers/job/?gh_jid=8080310) · `🟢 Remote` `Staff` `$221k—$279k USD` `Equity` (Jul 22)
 
 ---
@@ -889,7 +889,7 @@ Moderna develops messenger RNA (mRNA) therapeutics and vaccines.
 MongoDB develops a database platform that helps organizations store, manage, and access data across distributed systems.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=8089124) · `🟢 Remote` `Mid` `$109k-$215k` `Equity` (Jul 31)
-- [Senior Engineering Manager, Developer Productivity](https://www.mongodb.com/careers/job/?gh_jid=8052618) · `🟢 Remote` `Manager` `$151k-$297k` `Equity` (Jul 21)
+- [Senior Engineering Manager, Developer Productivity](https://www.mongodb.com/careers/job/?gh_jid=8052620) · `🟢 Remote` `Manager` `$191k–$265k CAD` `Equity` (Jul 21)
 
 ---
 
@@ -937,11 +937,16 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 
 ---
 
-## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
 
-NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
 
-- [Sr. Cloud Operations Reliability Engineer (SRE)](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Cloud-Operations-Reliability-Engineer--SRE-_R-101734) · `🟢 Remote` `Senior` (Jul 21)
+- [Senior Software Engineer, Compute Sanitizer - GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--Compute-Sanitizer---GPU_JR2021736) · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity` (Jul 30)
+- [Senior Manager, Storage Production Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Production-Engineering_JR2021663) · `🟢 Remote` `Manager` `$272k-$431.25k` `Equity` (Jul 29)
+- [Senior Cyber Security Engineer - Vulnerability Operation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Cyber-Security-Engineer---Vulnerability-Operation_JR2021418) · `🟢 Remote` `Senior` `$196k-$310.5k` `Equity` (Jul 29)
+- [Applied AI Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Applied-AI-Engineer_JR2018179-3) · `🟢 Remote` `Senior` `$152k-$241k (L3) / $184k-$287k (L4)` `Equity` (Jul 28)
+- [Senior Engineer, Build and DevOps - ADI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Engineer--Build-and-DevOps---ADI_JR2021994) · `🟢 Remote` `Senior` `$184k-$287.5k` `Equity` (Jul 24)
+- [Director of Engineering - Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director-of-Engineering---Autonomous-Vehicles_JR2009924) · `🟢 Remote` `Manager` `$320k-$488.75k` `Equity` (Jul 22)
 
 ---
 
@@ -1183,7 +1188,7 @@ Samsara builds a platform called the Connected Operations Cloud that collects In
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Marketing Analytics Manager - BI & Data Architecture](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653) · `🟢 Remote` `Senior` `$138k–$179k CAD` `Equity` (Jul 31)
 - [Sr. Software Engineer II, AI Platform](https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373) · `🟢 Remote` `Senior` `$130k-$198k` `Equity` (Jul 25)
 - [Senior Software Engineer II - Web Experience](https://www.samsara.com/company/careers/roles/8055217?gh_jid=8055217) · `🟢 Remote` `Senior` `$154k–$260k` `Equity` (Jul 24)
-- [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8021301?gh_jid=8021301) · `🟢 Remote` `Senior` `$154700-$208000` `Equity` (Jul 24)
+- [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934) · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity` (Jul 24)
 - [Head of GTM AI and Engineering](https://www.samsara.com/company/careers/roles/8052310?gh_jid=8052310) · `🟢 Remote` `Manager` `$196k-$350k` `Equity` (Jul 22)
 - [Senior+ Applied Scientist](https://www.samsara.com/company/careers/roles/8042166?gh_jid=8042166) · `🟢 Remote` `Senior` `$170k-$286k` `Equity` (Jul 21)
 
@@ -1337,7 +1342,7 @@ Switchfly provides employee rewards and loyalty programs that offer members trav
 
 Tailscale builds software that securely interconnects people and their devices regardless of location, enabling teams to protect their networks and share access to internal tools. Founded in 2019 and fully distributed, the company is backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.
 
-- [Engineering Manager, Control Plane](https://job-boards.greenhouse.io/tailscale/jobs/4719601005) · `🟢 Remote` `Manager` `$206k-$257k` `Equity` (Jul 29)
+- [Engineering Manager, Control Plane](https://job-boards.greenhouse.io/tailscale/jobs/4719580005) · `🟢 Remote` `Manager` `$276k—$344k CAD` `Equity` (Jul 29)
 - [Software Engineer, Networking (Edge)](https://job-boards.greenhouse.io/tailscale/jobs/4715448005) · `🟢 Remote` `Mid` `$163k-$204k` `Equity` (Jul 29)
 - [Software Engineer, AI Enablement ](https://job-boards.greenhouse.io/tailscale/jobs/4710755005) · `🟢 Remote` `Senior` `$163k–$226k` `Equity` (Jul 24)
 
@@ -1376,7 +1381,9 @@ Tenable provides cybersecurity solutions that reduce cyber risk across IT, OT, c
 
 ---
 
-## <a href="https://labs.thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=labs.thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters Labs](https://labs.thomsonreuters.com)
+## <a href="https://thomsonreuters.com"><img src="https://www.google.com/s2/favicons?domain=thomsonreuters.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Thomson Reuters](https://thomsonreuters.com)
+
+Thomson Reuters provides technology solutions and content for professionals.
 
 - [Lead IAM Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Lead-IAM-Engineer_JREQ201528) · `🟢 Remote` `Senior` `$140k CAD - $190k CAD` (Jul 21)
 - [Senior Legal AI Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Legal-AI-Engineer_JREQ202169) · `🟢 Remote` `Senior` `$100k-$185k` (Jul 21)
@@ -1456,7 +1463,7 @@ True Anomaly develops capabilities for space superiority.
 
 Twilio delivers communications services including messaging, voice, and email to hundreds of thousands of businesses and empowers millions of developers worldwide to build customer experiences.
 
-- [Software Engineer (L2)](https://job-boards.greenhouse.io/twilio/jobs/8100236) · `🟢 Remote` `Mid` `$138k-$203k` `Equity` (Jul 30)
+- [Software Engineer (L2)](https://job-boards.greenhouse.io/twilio/jobs/8097672) · `🟢 Remote` `Mid` `$116k-$146k` `Equity` (Jul 30)
 - [Senior Analytics Engineer](https://job-boards.greenhouse.io/twilio/jobs/8044650) · `🟢 Remote` `Senior` `$141k-$208k` `Equity` (Jul 28)
 - [Senior Principal Field Architect - AI Agents](https://job-boards.greenhouse.io/twilio/jobs/8039186) · `🟢 Remote` `Principal` `$284k-$405k` `Equity` (Jul 25)
 - [Sr AI Architect - Conversational AI](https://job-boards.greenhouse.io/twilio/jobs/7926891) · `🟢 Remote` `Principal` `$275k-$405k` `Equity` (Jul 24)
