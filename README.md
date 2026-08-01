@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **367 open roles** (28 new) &nbsp;·&nbsp; 1748 companies searched
+### **454 open roles** (34 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -106,6 +106,17 @@ _Build scalable moderation UI features and components for Reddit's community pla
 
 ---
 
+### [Staff, Software Engineer](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Staff--Software-Engineer_JR202600774-1)
+<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Staff` `$164k-$246k`
+
+_Design and develop Java/Spring and React services for a precision genomics platform, architecting data models and search systems to handle large-scale variant data in a regulated clinical environment. Lead technical direction across multiple services and mentor engineers while partnering with scientific and clinical domain experts. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Staff--Software-Engineer_JR202600774-1)_
+
+`Java` `Spring` `React` `PostgreSQL` `Elasticsearch` `AWS` `API Design` `Cloud-Native Architecture`
+
+<sub>July 31, 2026 at 23:11 UTC</sub>
+
+---
+
 ### [Staff Software Engineer, Data and Partner Platform](https://job-boards.greenhouse.io/energyhub/jobs/8659800002)
 <a href="https://energyhub.com"><img src="https://www.google.com/s2/favicons?domain=energyhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EnergyHub** · `🟢 Remote` `Staff` `$160k-$180k`
 
@@ -139,17 +150,6 @@ _Provide senior technical escalation for GPU cloud infrastructure, troubleshooti
 
 ---
 
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$118k—$148k`
-
-_Develop novel algorithms and automated analysis workflows for genomic data to advance early cancer detection; analyze multi-omic datasets using high-performance pipelines and statistical models. Role requires deep expertise in NGS analysis, variant calling, and clinical-grade bioinformatics infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6122491004)_
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `WDL` `AWS` `NGS Analysis` `Variant Calling`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
 ### [GTM Engineer](https://jobs.ashbyhq.com/Nash/c485ac8a-9b1f-4d29-be99-2d0937bd0f14)
 <a href="https://www.usenash.com"><img src="https://www.google.com/s2/favicons?domain=www.usenash.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nash** · `🟢 Remote` `Mid` `Equity`
 
@@ -161,12 +161,34 @@ _Lead technical discovery, design integration architecture, and build POCs for e
 
 ---
 
+### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$118k—$148k`
+
+_Develop novel algorithms and automated analysis workflows for genomic data to advance early cancer detection; analyze multi-omic datasets using high-performance pipelines and statistical models. Role requires deep expertise in NGS analysis, variant calling, and clinical-grade bioinformatics infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6122491004)_
+
+`Python` `NumPy` `Pandas` `Scikit-learn` `WDL` `AWS` `NGS Analysis` `Variant Calling`
+
+<sub>July 31, 2026 at 21:16 UTC</sub>
+
+---
+
 ### [Staff Machine Learning Engineer, Applied Research](https://www.pinterestcareers.com/jobs/?gh_jid=8015539)
 <a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$189k–$389k` `Equity`
 
 _Develop machine learning models and systems for Pinterest's search, recommendation, and reasoning agents, including NLP, computer vision, graph neural networks, and reinforcement learning applications. Work on cutting-edge LLM research applied across growth, discovery, ads, and search with a world-class research team. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8015539)_
 
 `Python` `PyTorch` `TensorFlow` `NLP` `Computer Vision` `Graph Neural Networks` `Reinforcement Learning` `Java`
+
+<sub>July 31, 2026 at 21:16 UTC</sub>
+
+---
+
+### [AI Native Full Stack Developer — Associate Manager / Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/AI-Native-Full-Stack-Developer---Associate-Manager---Manager_R00336404)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$90k-$140k`
+
+_Design and build production-grade agentic AI systems for enterprise clients, including agent orchestration, RAG, multi-provider LLM integration, and cloud-native deployment across microservices and Kubernetes. Work embedded with clients to move AI solutions from proof-of-concept to operational reality in complex enterprise environments. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/AI-Native-Full-Stack-Developer---Associate-Manager---Manager_R00336404)_
+
+`Python` `Java` `Kubernetes` `Docker` `Claude` `OpenAI` `Vertex AI` `LLM Agents`
 
 <sub>July 31, 2026 at 21:16 UTC</sub>
 
@@ -205,6 +227,28 @@ _Build evaluation systems, quality gates, and developer tooling for MongoDB's ag
 
 ---
 
+### [Principal Ground Systems Engineer - Mission Architecture and Systems Engineering](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Ground-Systems-Engineer---Mission-Architecture-and-Systems-Engineering_R24318)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Principal` `$135k-$198k` `Equity`
+
+_Lead mission architecture and ground systems engineering for satellite and defense space systems, translating complex customer objectives into integrated system designs spanning spacecraft, payloads, communications, and mission operations. Requires deep systems engineering expertise across complete lifecycles and ability to influence technical direction across multidisciplinary teams; US Person status and security clearance eligibility required. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Ground-Systems-Engineer---Mission-Architecture-and-Systems-Engineering_R24318)_
+
+`Systems Engineering` `Model-Based Systems Engineering (MBSE)` `SysML` `Requirements Management` `Spacecraft Systems` `Ground Systems Architecture` `Mission Operations` `Satellite Systems`
+
+<sub>July 31, 2026 at 19:46 UTC</sub>
+
+---
+
+### [Satellite & Ground Systems Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Satellite---Ground-Systems-Engineer_R24317-1)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$109k-$159.5k`
+
+_Lead systems engineering activities across satellite and ground infrastructure programs, translating mission objectives into integrated system designs spanning spacecraft, payloads, ground systems, software, and operations. Requires U.S. citizenship and active involvement in the complete systems engineering lifecycle from concept through verification and operational deployment. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Satellite---Ground-Systems-Engineer_R24317-1)_
+
+`SysML` `MBSE` `Cameo Systems Modeler` `Enterprise Architect` `IBM DOORS Next` `STK` `Git`
+
+<sub>July 31, 2026 at 19:46 UTC</sub>
+
+---
+
 ### [AI Platform Engineer](https://jobs.ashbyhq.com/Supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541)
 <a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `🟢 Remote` `Staff` `Equity`
 
@@ -233,6 +277,17 @@ _Own and advance Komodo's statistical projection models that translate healthcar
 _Build the full-stack platform connecting Blissway's tolling hardware to millions of drivers, partners, and government agencies—owning public-facing toll management systems, partner integrations with DMVs and payment processors, deployment infrastructure, and access control across the stack. Work on early-stage integrations with complex data contracts and compliance constraints in a lean 25-person team shipping at high velocity. · [Apply →](https://jobs.ashbyhq.com/blissway/62bbed11-2f1d-4d7a-bfab-10519b6db5c1)_
 
 `Python` `TypeScript` `PostgreSQL` `AWS` `Kubernetes` `Docker` `React`
+
+<sub>July 31, 2026 at 17:48 UTC</sub>
+
+---
+
+### [FinOps Engineer / Architect](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/FinOps-Engineer---Architect_R0006009)
+<a href="https://cerence.com"><img src="https://www.google.com/s2/favicons?domain=cerence.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerence Inc.** · `🟢 Remote` `Mid` `$86k-$129k` `Equity`
+
+_Build and maintain cloud cost reporting, allocation, and optimization tooling across Azure, AWS, and GCP environments. Drive FinOps automation, data pipelines, and financial accountability systems using SQL, Power BI, and Microsoft Fabric. · [Apply →](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/FinOps-Engineer---Architect_R0006009)_
+
+`Azure` `AWS` `GCP` `SQL` `Power BI` `Microsoft Fabric` `Python` `CloudZero`
 
 <sub>July 31, 2026 at 17:48 UTC</sub>
 
@@ -277,6 +332,17 @@ _Develop automated test frameworks and execute verification campaigns for satell
 _Build the semantic layers and "Gold Layer" data models in Databricks that enable self-serve BI and AI-driven analytics for Sales and Marketing teams. Design ETL pipelines and structured documentation optimized for agentic AI workflows across large-scale IoT and operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653)_
 
 `Python` `SQL` `Databricks` `dbt` `Tableau` `Streamlit` `Tableau` `PostgreSQL`
+
+<sub>July 31, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Director, Software Engineering (Infrastructure)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Software-Engineering--Infrastructure-_JR115337-1)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$246k-$395k` `Equity`
+
+_Lead a global SRE team managing 4-9's availability and operational excellence for a mission-critical SaaS platform serving tens of thousands of trades businesses. Own release management, incident response, capacity planning, and cloud infrastructure across AWS/GCP/Azure at enterprise scale. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Software-Engineering--Infrastructure-_JR115337-1)_
+
+`Kubernetes` `Docker` `Terraform` `AWS` `Azure` `GCP` `CI/CD` `Jenkins`
 
 <sub>July 31, 2026 at 17:48 UTC</sub>
 
