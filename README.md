@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **451 open roles** (13 new) &nbsp;·&nbsp; 1748 companies searched
+### **457 open roles** (6 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -77,87 +77,6 @@ _Design and operate AWS-based cloud infrastructure, Kubernetes platforms, and in
 `AWS` `Kubernetes` `Terraform` `TypeScript` `CI/CD` `Distributed Systems` `Observability` `Infrastructure as Code`
 
 <sub>August 1, 2026 at 03:43 UTC</sub>
-
----
-
-<br>
-
-## July 31, 2026
-
-### [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Develop state-of-the-art algorithms and high-performance software for AI-powered autonomous military systems, from prototyping to mission-critical deployment. Requires TS/SCI clearance and deep expertise in applied mathematics, controls, signal processing, and scientific computing. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007)_
-
-`Applied Mathematics` `Controls Theory` `Digital Signal Processing` `Machine Learning` `Scientific Computing` `Python` `C++` `TS/SCI Clearance`
-
-<sub>July 31, 2026 at 23:11 UTC</sub>
-
----
-
-### [Senior Software Engineer, Radar](https://boards.greenhouse.io/andurilindustries/jobs/5201033007?gh_jid=5201033007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Build application-level software for next-generation radar systems, including mission software, data processing pipelines, and operator interfaces. Requires hands-on experience with Nix for reproducible builds and strong C++ expertise in a defense technology environment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5201033007?gh_jid=5201033007)_
-
-`C++` `Python` `Nix` `gRPC` `Protobuf` `Docker` `Linux` `Distributed Systems`
-
-<sub>July 31, 2026 at 23:11 UTC</sub>
-
----
-
-### [Staff Software Engineer, Surfaces](https://jobs.ashbyhq.com/Jasper%20AI/c8d06b73-1058-49c9-ab76-95692743b09c)
-<a href="https://jasper.ai"><img src="https://www.google.com/s2/favicons?domain=jasper.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Jasper** · `🟢 Remote` `Staff` `$221k-$260k` `Equity`
-
-_Own the architecture and modernization of Jasper's governance domain (authentication, authorization, roles, permissions, organizations, billing) to power enterprise marketing workflows at scale. Deep technical IC role requiring hands-on backend work (70–80%) alongside architectural leadership; enterprise-grade security, compliance, and multi-tenancy are critical. · [Apply →](https://jobs.ashbyhq.com/Jasper%20AI/c8d06b73-1058-49c9-ab76-95692743b09c)_
-
-`Authentication/Authorization` `Multi-tenant Systems` `Billing Systems` `Enterprise Backend Architecture` `LLMs` `AI Agents` `Backend Engineering` `System Design`
-
-<sub>July 31, 2026 at 23:11 UTC</sub>
-
----
-
-### [Staff Software Engineer, IQ](https://jobs.ashbyhq.com/Jasper%20AI/cf36519d-76b9-4c3a-b629-fd414016c048)
-<a href="https://jasper.ai"><img src="https://www.google.com/s2/favicons?domain=jasper.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Jasper** · `🟢 Remote` `Staff` `$221k-$260k` `Equity`
-
-_Own the technical vision and architecture for data integration systems that connect Jasper to external platforms like Salesforce and HubSpot, ensuring secure ingestion and modeling of enterprise data that powers the AI layer. Build reliability and scalability into systems handling API rate limits, authentication, and compliance constraints across disparate external systems. · [Apply →](https://jobs.ashbyhq.com/Jasper%20AI/cf36519d-76b9-4c3a-b629-fd414016c048)_
-
-`Distributed Systems` `Data Ingestion` `API Integration` `LLMs` `RAG` `Salesforce` `HubSpot`
-
-<sub>July 31, 2026 at 23:11 UTC</sub>
-
----
-
-### [Staff Datebase Engineer](https://jobs.ashbyhq.com/owner/3e4d4c76-4e16-4335-aaba-1d2f38db3cde)
-<a href="https://owner.com"><img src="https://www.google.com/s2/favicons?domain=owner.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Owner** · `🟢 Remote` `Staff`
-
-_Lead database infrastructure and migrations for a restaurant SaaS platform serving 20,000+ owners. Own schema design, query optimization, and zero-downtime migrations on high-volume production systems; build reusable data-access primitives for product engineering teams. · [Apply →](https://jobs.ashbyhq.com/owner/3e4d4c76-4e16-4335-aaba-1d2f38db3cde)_
-
-`PostgreSQL` `Python` `Terraform` `AWS` `Redis` `Distributed Systems` `Schema Design` `Query Optimization`
-
-<sub>July 31, 2026 at 23:11 UTC</sub>
-
----
-
-### [Frontend Engineer III, Moderation Enforcement](https://job-boards.greenhouse.io/reddit/jobs/8093021)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$164k—$229k` `Equity`
-
-_Build scalable moderation UI features and components for Reddit's community platform, from prototyping through launch. Contribute to Reddit's design system and component library while working with a modern web stack at massive scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8093021)_
-
-`React` `TypeScript` `JavaScript` `Web Components` `LitElement`
-
-<sub>July 31, 2026 at 23:11 UTC</sub>
-
----
-
-### [Staff, Software Engineer](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Staff--Software-Engineer_JR202600774-1)
-<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Staff` `$164k-$246k`
-
-_Design and develop Java/Spring and React services for a precision genomics platform, architecting data models and search systems to handle large-scale variant data in a regulated clinical environment. Lead technical direction across multiple services and mentor engineers while partnering with scientific and clinical domain experts. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Staff--Software-Engineer_JR202600774-1)_
-
-`Java` `Spring` `React` `PostgreSQL` `Elasticsearch` `AWS` `API Design` `Cloud-Native Architecture`
-
-<sub>July 31, 2026 at 23:11 UTC</sub>
 
 ---
 
