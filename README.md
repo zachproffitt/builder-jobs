@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **452 open roles** (33 new) &nbsp;·&nbsp; 1748 companies searched
+### **458 open roles** (27 new) &nbsp;·&nbsp; 1748 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 1, 2026
+
+### [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/federato/jobs/5375752008)
+<a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Federato** · `🟢 Remote` `Senior` `$160k-$200k` `Equity`
+
+_Drive technical implementation and integration of Federato's AI-native insurance platform for enterprise customers, including writing production code in Python, JavaScript, and SQL. Mentor junior forward deployed engineers, design custom solutions for client-specific constraints, and influence product roadmap through real-world deployment learnings. · [Apply →](https://job-boards.greenhouse.io/federato/jobs/5375752008)_
+
+`Python` `JavaScript` `SQL` `systems integration` `architecture design`
+
+<sub>August 1, 2026 at 19:22 UTC</sub>
+
+---
+
+### [Staff Site Reliability Engineer](https://jobs.lever.co/filevine/e57a5f16-0711-4f50-a9a9-d19edf7b097a)
+<a href="https://filevine.com"><img src="https://www.google.com/s2/favicons?domain=filevine.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Filevine** · `🟢 Remote` `Staff`
+
+_Build and maintain the infrastructure and reliability systems powering Filevine's Legal AI platform, ensuring high availability and performance at scale. Lead architecture decisions and mentorship across the SRE team. · [Apply →](https://jobs.lever.co/filevine/e57a5f16-0711-4f50-a9a9-d19edf7b097a)_
+
+`Kubernetes` `Terraform` `Python` `Go` `AWS` `PostgreSQL` `Observability`
+
+<sub>August 1, 2026 at 19:22 UTC</sub>
+
+---
 
 ### [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004)
 <a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior`
@@ -290,94 +312,6 @@ _Own and advance Komodo's statistical projection models that translate healthcar
 `Python` `R` `SQL` `Statistics` `Bayesian Statistics` `Healthcare Claims Data` `Projection Methodology` `Causal Inference`
 
 <sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
-### [Software Engineer, Full Stack ](https://jobs.ashbyhq.com/blissway/62bbed11-2f1d-4d7a-bfab-10519b6db5c1)
-<a href="https://www.blissway.com"><img src="https://www.google.com/s2/favicons?domain=www.blissway.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Blissway** · Denver, Colorado · `Mid` `Equity`
-
-_Build the full-stack platform connecting Blissway's tolling hardware to millions of drivers, partners, and government agencies—owning public-facing toll management systems, partner integrations with DMVs and payment processors, deployment infrastructure, and access control across the stack. Work on early-stage integrations with complex data contracts and compliance constraints in a lean 25-person team shipping at high velocity. · [Apply →](https://jobs.ashbyhq.com/blissway/62bbed11-2f1d-4d7a-bfab-10519b6db5c1)_
-
-`Python` `TypeScript` `PostgreSQL` `AWS` `Kubernetes` `Docker` `React`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [FinOps Engineer / Architect](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/FinOps-Engineer---Architect_R0006009)
-<a href="https://cerence.com"><img src="https://www.google.com/s2/favicons?domain=cerence.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cerence Inc.** · `🟢 Remote` `Mid` `$86k-$129k` `Equity`
-
-_Build and maintain cloud cost reporting, allocation, and optimization tooling across Azure, AWS, and GCP environments. Drive FinOps automation, data pipelines, and financial accountability systems using SQL, Power BI, and Microsoft Fabric. · [Apply →](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/FinOps-Engineer---Architect_R0006009)_
-
-`Azure` `AWS` `GCP` `SQL` `Power BI` `Microsoft Fabric` `Python` `CloudZero`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [Senior Android Engineer, Shopper Activation and Engagement](https://instacart.careers/job/?gh_jid=8099277)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$168k—$177k` `Equity`
-
-_Build consumer-facing Android features in Kotlin for the shopper activation, engagement, and earnings experiences on Instacart's marketplace. Own features end-to-end from design through experimentation and iteration, directly impacting supply, utilization, and quality outcomes across millions of shoppers. · [Apply →](https://instacart.careers/job/?gh_jid=8099277)_
-
-`Kotlin` `Android` `RxJava` `Dagger` `Jetpack Compose` `Kotlin Coroutines` `A/B Testing` `BigQuery`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [AI Engineer II](https://job-boards.greenhouse.io/mitratech/jobs/8056311)
-<a href="https://inszoom.com"><img src="https://www.google.com/s2/favicons?domain=inszoom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**INSZoom** · `🟢 Remote` `Mid` `$125k-$145k`
-
-_Build AI-enabled features and agent workflows on an AWS-native GenAI platform using LLMs, RAG systems, and production agent tooling. Own small services end-to-end including deployment, monitoring, and on-call support in a fast-moving environment. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/8056311)_
-
-`Python` `FastAPI` `Pydantic` `pytest` `AWS` `Bedrock` `Claude` `LangChain`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [Senior Hardware Test Automation Engineer](https://job-boards.greenhouse.io/ionq/jobs/6130359004)
-<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Louisville, Colorado · `Senior` `$126k–$181k` `Equity`
-
-_Develop automated test frameworks and execute verification campaigns for satellite hardware subsystems across power, communications, and autonomy. Design and deploy Python-based test automation controlling lab equipment, with hands-on responsibility for hardware-in-the-loop testing at scale in an aerospace environment. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6130359004)_
-
-`Python` `Git` `CI/CD` `GPIB` `Ethernet` `USB` `Hardware-in-the-loop (HIL)` `NumPy`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [Senior Marketing Analytics Manager - BI & Data Architecture](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$138k–$179k CAD` `Equity`
-
-_Build the semantic layers and "Gold Layer" data models in Databricks that enable self-serve BI and AI-driven analytics for Sales and Marketing teams. Design ETL pipelines and structured documentation optimized for agentic AI workflows across large-scale IoT and operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653)_
-
-`Python` `SQL` `Databricks` `dbt` `Tableau` `Streamlit` `Tableau` `PostgreSQL`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [Director, Software Engineering (Infrastructure)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Software-Engineering--Infrastructure-_JR115337-1)
-<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$246k-$395k` `Equity`
-
-_Lead a global SRE team managing 4-9's availability and operational excellence for a mission-critical SaaS platform serving tens of thousands of trades businesses. Own release management, incident response, capacity planning, and cloud infrastructure across AWS/GCP/Azure at enterprise scale. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Software-Engineering--Infrastructure-_JR115337-1)_
-
-`Kubernetes` `Docker` `Terraform` `AWS` `Azure` `GCP` `CI/CD` `Jenkins`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
-### [Safety Data Analyst](https://job-boards.greenhouse.io/torcrobotics/jobs/8649136002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Blacksburg, Virginia · `🟢 Remote` `Senior` `$126k–$151k` `Equity`
-
-_Build production safety monitoring workflows and statistical analysis systems to continuously assess autonomous truck performance across real-world and simulation data. Work on safety-critical systems in a regulated domain requiring statistically defensible risk quantification and regulatory traceability. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8649136002)_
-
-`Python` `SQL` `Statistics` `Time-Series Analysis` `Risk Analysis` `Data Visualization` `Cloud Data Technology` `Uncertainty Quantification`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
 
 ---
 
