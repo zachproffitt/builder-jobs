@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **494 open roles** (4 new) &nbsp;·&nbsp; 1754 companies searched
+### **501 open roles** (3 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -44,17 +44,6 @@ _Own verification and validation strategy for bioinformatics pipelines and medic
 `IEC 62304` `ISO 13485` `NGS bioinformatics` `Nextflow` `AWS` `GCP` `LIMS/LIS` `FDA regulatory compliance`
 
 <sub>August 1, 2026 at 13:46 UTC</sub>
-
----
-
-### [Full Stack Engineer - Frontend-Focused](https://citizenshipper.breezy.hr/p/d6ce7647b795-full-stack-engineer-frontend-focused)
-<a href="https://citizenshipper.com"><img src="https://www.google.com/s2/favicons?domain=citizenshipper.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CitizenShipper** · `🟢 Remote` `Mid`
-
-_Build and optimize user-facing features across a two-sided logistics marketplace, owning products end-to-end from frontend through backend integrations. Work autonomously in a mature codebase with high ownership and product focus, improving performance, accessibility, and key product metrics. · [Apply →](https://citizenshipper.breezy.hr/p/d6ce7647b795-full-stack-engineer-frontend-focused)_
-
-`React` `TypeScript` `JavaScript` `APIs` `Relational Databases` `Non-relational Databases` `Web Performance Optimization` `Accessibility (A11y)`
-
-<sub>August 1, 2026 at 06:37 UTC</sub>
 
 ---
 
