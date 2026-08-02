@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **495 open roles** (6 new) &nbsp;·&nbsp; 1748 companies searched
+### **494 open roles** (4 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -55,28 +55,6 @@ _Build and optimize user-facing features across a two-sided logistics marketplac
 `React` `TypeScript` `JavaScript` `APIs` `Relational Databases` `Non-relational Databases` `Web Performance Optimization` `Accessibility (A11y)`
 
 <sub>August 1, 2026 at 06:37 UTC</sub>
-
----
-
-### [Senior Snowflake Platform Administrator](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Snowflake-Platform-Administrator_R0061390)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
-
-_Design, implement, and optimize the enterprise Snowflake platform within AWS, managing security, governance, performance, and automation for analytics, data engineering, and AI/ML workloads. Requires 3+ years administering enterprise Snowflake environments and hands-on expertise with platform architecture, RBAC, query optimization, and IaC tools. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Snowflake-Platform-Administrator_R0061390)_
-
-`Snowflake` `AWS` `Terraform` `Python` `SQL` `dbt` `Apache Airflow` `GitHub Actions`
-
-<sub>August 1, 2026 at 03:43 UTC</sub>
-
----
-
-### [Senior Software Engineer, Infrastructure Platform](https://lattice.com/job?gh_jid=8487540002)
-<a href="https://lattice.com"><img src="https://www.google.com/s2/favicons?domain=lattice.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Lattice** · `🟢 Remote` `Senior` `CAD $123k - CAD $165k` `Equity`
-
-_Design and operate AWS-based cloud infrastructure, Kubernetes platforms, and internal developer tooling that improve reliability and deployment velocity across Lattice's engineering organization. Lead technical initiatives across distributed systems, observability, and CI/CD to reduce friction for product engineers. · [Apply →](https://lattice.com/job?gh_jid=8487540002)_
-
-`AWS` `Kubernetes` `Terraform` `TypeScript` `CI/CD` `Distributed Systems` `Observability` `Infrastructure as Code`
-
-<sub>August 1, 2026 at 03:43 UTC</sub>
 
 ---
 
