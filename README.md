@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **481 open roles** (4 new) &nbsp;·&nbsp; 1754 companies searched
+### **508 open roles** (3 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -48,17 +48,6 @@ _Build and maintain the infrastructure and reliability systems powering Filevine
 `Kubernetes` `Terraform` `Python` `Go` `AWS` `PostgreSQL` `Observability`
 
 <sub>August 1, 2026 at 19:22 UTC</sub>
-
----
-
-### [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior`
-
-_Own verification and validation strategy for bioinformatics pipelines and medical device software across NGS analysis, lab automation, and LIMS systems in a regulated diagnostic context. Design and execute comprehensive V&V test protocols for clinical diagnostics software under IEC 62304 and ISO 13485, with required travel to Boulder, CO lab for integration and testing activities. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6130601004)_
-
-`IEC 62304` `ISO 13485` `NGS bioinformatics` `Nextflow` `AWS` `GCP` `LIMS/LIS` `FDA regulatory compliance`
-
-<sub>August 1, 2026 at 13:46 UTC</sub>
 
 ---
 
