@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **462 open roles** (14 new) &nbsp;·&nbsp; 1754 companies searched
+### **476 open roles** (27 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,149 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 3, 2026
+
+### [Software Engineer, Biztech Client and Identity](https://careers.airbnb.com/positions/8095390?gh_jid=8095390)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$162k-$186k` `Equity`
+
+_Build and maintain secure, scalable systems for Airbnb's Zero Trust identity and endpoint security infrastructure serving all corporate employees and partners. Work with open source products and Kubernetes to develop critical client platforms and backend services where reliability and security are paramount. · [Apply →](https://careers.airbnb.com/positions/8095390?gh_jid=8095390)_
+
+`Go` `Python` `Kubernetes` `AWS` `Infrastructure as Code` `Java`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Senior Offensive Security Engineer](https://boards.greenhouse.io/array/jobs/6133568004?gh_jid=6133568004)
+<a href="https://array.com"><img src="https://www.google.com/s2/favicons?domain=array.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Array Health** · `🟢 Remote` `Senior` `$170k+` `Equity`
+
+_Identify and exploit vulnerabilities in financial products, APIs, and infrastructure through manual techniques and AI-assisted code analysis to demonstrate real business risk. Work at scale across web applications, distributed systems, and OWASP-critical attack surfaces in the fintech domain. · [Apply →](https://boards.greenhouse.io/array/jobs/6133568004?gh_jid=6133568004)_
+
+`Offensive Security` `Penetration Testing` `Web Application Security` `API Security` `Authentication & Authorization` `Exploit Development` `OWASP Top 10` `AI-assisted Security Research`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Senior Field Engineer (Forward Deployed)](https://job-boards.eu.greenhouse.io/cognite/jobs/4943706101)
+<a href="https://cognite.com"><img src="https://www.google.com/s2/favicons?domain=cognite.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cognite LLC** · Houston, Texas / Remote · `🟢 Remote` `Senior`
+
+_Lead the design and deployment of industrial AI agents and data solutions for enterprise clients, moving from strategy to live implementations using Cognite's Atlas AI and Data Fusion platforms. Bridge field learnings back to product, requiring deep expertise in GenAI systems, industrial architecture, and hands-on prototype development across complex, multi-system integrations. · [Apply →](https://job-boards.eu.greenhouse.io/cognite/jobs/4943706101)_
+
+`Python` `LLMs (Gemini/Claude/GPT-4)` `RAG` `GenAI` `Industrial Data Architecture` `Agentic AI` `Kubernetes`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Senior Engineering Manager, Video Enablement](https://jobs.ashbyhq.com/gamechanger/c9d6250c-e2f4-4757-bb4b-97fc1a607095)
+<a href="https://gamechanger.com"><img src="https://www.google.com/s2/favicons?domain=gamechanger.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GameChanger** · `🟢 Remote` `Manager` `$209k-$235k` `Equity`
+
+_Lead a 5-9 person video enablement team building live-streaming and VOD infrastructure handling millions of streams annually across mobile, backend, and infrastructure domains. Hands-on technical leadership role managing end-to-end video pipeline (ingest, transcode, storage, playback) in AWS while mentoring senior and staff engineers. · [Apply →](https://jobs.ashbyhq.com/gamechanger/c9d6250c-e2f4-4757-bb4b-97fc1a607095)_
+
+`AWS` `video streaming` `live streaming` `Go` `Rust` `TypeScript` `Node.js` `Kotlin`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Chief Software Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Chief-Software-Systems-Engineer_R0245907)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Manager` `$99k-$225k`
+
+_Lead the systems engineering team designing and integrating enterprise Electronic Warfare software platforms for space operations, managing full lifecycle from requirements through validation and evolution across multi-contractor teams. Requires Top Secret clearance and experience building cloud-native, modular mission-critical systems for government customers. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Chief-Software-Systems-Engineer_R0245907)_
+
+`Systems Engineering` `Cloud-Native Architecture` `Microservices` `API Governance` `DevSecOps` `Electronic Warfare Systems` `Zero Trust Architecture` `TS/SCI Clearance`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Head of Revenue Technology & Architecture](https://job-boards.greenhouse.io/mercury/jobs/6129918004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Manager` `$218k-$303k` `Equity`
+
+_Lead the design and implementation of Mercury's revenue technology stack serving 100+ sellers across Sales, Partnerships, and Account Management. Rebuild systems AI-first while managing a team of engineers and architects; requires hands-on technical leadership and Salesforce fluency or equivalent revenue systems expertise. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6129918004)_
+
+`Salesforce` `Revenue Systems Architecture` `AI/ML Integration` `GTM Systems` `B2B SaaS` `Change Leadership`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Software Engineer II, Android](https://www.pinterestcareers.com/jobs/?gh_jid=4916795)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$118k–$244k` `Equity`
+
+_Lead iOS platform architecture and technical strategy across Pinterest's mobile infrastructure. Drive large-scale migrations and refactoring initiatives while mentoring iOS engineers and ensuring world-class developer experience at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=4916795)_
+
+`iOS` `Swift` `Objective-C` `Modern iOS Frameworks` `Distributed Systems` `Cross-functional Leadership`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Senior Backend Engineer, Prefect Cloud](https://jobs.ashbyhq.com/prefect/5e9d904f-b4d4-46cd-ab77-a4b6d80dbce8)
+<a href="https://prefect.io"><img src="https://www.google.com/s2/favicons?domain=prefect.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Prefect** · `🟢 Remote` `Senior` `$172k-$242k` `Equity`
+
+_Own distributed systems in Prefect Cloud—orchestration, APIs, data paths, and services—scaling from millions to billions of tasks per day. Bring deep expertise in query engines, analytical databases, streaming systems, or distributed data-processing runtimes (DataFusion, ClickHouse, Trino, DuckDB, Spark, Flink, etc.) to solve problems in query planning, execution, partitioning, and fault tolerance. · [Apply →](https://jobs.ashbyhq.com/prefect/5e9d904f-b4d4-46cd-ab77-a4b6d80dbce8)_
+
+`Python` `Distributed Systems` `Query Optimization` `Data Partitioning` `Fault Tolerance` `Kubernetes` `PostgreSQL`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Staff DevSecOps Engineer](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Staff-DevSecOps-Engineer_R013905)
+<a href="https://sailpoint.com"><img src="https://www.google.com/s2/favicons?domain=sailpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sailpoint** · `🟢 Remote` `Staff` `$121k-$203.9k` `Equity`
+
+_Build and operate security infrastructure for a SaaS identity platform, including file integrity monitoring, audit automation, hardened base images, and container security across AWS. Requires on-call rotation and U.S. citizenship for FedRAMP compliance. · [Apply →](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Staff-DevSecOps-Engineer_R013905)_
+
+`AWS` `Terraform` `Jenkins` `Python` `Ruby` `Chef` `SIEM` `IDS/IPS`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Staff Software Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer_JR115621)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Staff` `$185k-$297k` `Equity`
+
+_Own the technical vision and architecture for test automation frameworks across cloud and mobile systems, designing resilient, reusable testing infrastructure and integrating automated testing into CI/CD pipelines. Mentor a mixed-seniority engineering team while driving an AI-first approach to test automation strategy. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer_JR115621)_
+
+`Playwright` `TypeScript` `Maestro` `Azure DevOps` `API Testing` `Mobile Testing` `Jira` `XRay`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Senior Data Scientist, Applied ML](https://job-boards.greenhouse.io/spycloud/jobs/7824305003)
+<a href="https://spycloud.com"><img src="https://www.google.com/s2/favicons?domain=spycloud.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SpyCloud** · Austin, Texas / Remote · `🟢 Remote` `Senior` `$154k-$200k`
+
+_Design, build, and deploy machine learning models for cybersecurity use cases including threat detection, fraud intelligence, and risk scoring — own the full lifecycle from data preparation through production monitoring. Work with real-world security data (structured and unstructured) and production cloud infrastructure; requires hands-on ownership of data pipelines, feature engineering, and model lifecycle management. · [Apply →](https://job-boards.greenhouse.io/spycloud/jobs/7824305003)_
+
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `NLP` `Airflow` `AWS`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Data Scientist, Trust & Safety - Rentals](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$119k-$201k` `Equity`
+
+_Build and deploy end-to-end ML solutions and analytical systems that address trust and safety challenges in Zillow's rental marketplace. Design and maintain production-quality models for fraud detection, user verification, or rental platform integrity, working with large datasets across distributed cloud-based data platforms. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1)_
+
+`Python` `SQL` `Machine Learning` `Feature Engineering` `A/B Testing` `Cloud Data Platforms` `Model Validation` `Experimentation`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Sr. Applied AI Engineer (Claude/Codex)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/CA---Mountain-View/Sr-Applied-AI-Engineer--Claude-Codex-_R00346989)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$293k`
+
+_Design and architect enterprise LLM solutions using Claude, guiding large customers through discovery, evaluation, and production deployment. Requires deep technical expertise with Claude/LLM systems combined with customer-facing presales skills to translate complex business requirements into scalable AI architectures. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/CA---Mountain-View/Sr-Applied-AI-Engineer--Claude-Codex-_R00346989)_
+
+`Claude` `Python` `prompt engineering` `LLM evaluation frameworks` `fine-tuning` `distributed systems` `API integration` `machine learning infrastructure`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, PLM ](https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$166k-$220k` `Equity`
@@ -113,7 +256,7 @@ _Own CI/CD pipeline architecture and developer experience for 1Password's engine
 
 ---
 
-### [ Security Software Engineer: Anti-Abuse/Trust & Safety](https://beehiiv.bamboohr.com/careers/59)
+### [ Security Software Engineer, Anti-Abuse/Trust & Safety (Global)](https://beehiiv.bamboohr.com/careers/59)
 <a href="https://beehiiv.com"><img src="https://www.google.com/s2/favicons?domain=beehiiv.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**beehiiv** · `🟢 Remote` `Senior` `Equity`
 
 _Build and maintain anti-abuse and fraud detection systems protecting beehiiv's platform of newsletters, podcasts, and digital products from malicious activity. Work with a focused Trust & Safety team to design security features, investigate abuse reports, and integrate third-party fraud/security tools into production systems. · [Apply →](https://beehiiv.bamboohr.com/careers/59)_
