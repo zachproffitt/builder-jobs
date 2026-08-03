@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **484 open roles** (31 new) &nbsp;·&nbsp; 1754 companies searched
+### **484 open roles** (33 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 3, 2026
+
+### [Senior Biological Data Scientist](https://job-boards.greenhouse.io/bridgebio/jobs/5202217007)
+<a href="https://bridgebio.com"><img src="https://www.google.com/s2/favicons?domain=bridgebio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BridgeBio** · `🟢 Remote` `Senior` `$155k-$205k` `Equity`
+
+_Design and execute integrative computational analyses across multiomics datasets (transcriptomic, proteomic, genetic) to accelerate therapeutic discovery and biomarker identification in rare genetic diseases. Requires PhD with 5+ years of industry/postdoctoral experience applying computational methods to large-scale biological data; expertise in single-cell RNA sequencing and LLM/agentic AI workflows for computational biology strongly preferred. · [Apply →](https://job-boards.greenhouse.io/bridgebio/jobs/5202217007)_
+
+`Python` `transcriptomics` `single-cell RNA sequencing` `multiomics analysis` `biomarker discovery` `machine learning` `large language models` `spatial transcriptomics`
+
+<sub>August 3, 2026 at 23:13 UTC</sub>
+
+---
+
+### [Senior Security Researcher](https://job-boards.greenhouse.io/cobaltio/jobs/8674136002)
+<a href="https://cobalt.io"><img src="https://www.google.com/s2/favicons?domain=cobalt.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cobalt** · `🟢 Remote` `Senior` `$120k-$150k` `Equity`
+
+_Conduct advanced vulnerability research and exploit development across modern application stacks, cloud infrastructure, and enterprise systems; translate security findings into platform capabilities and mentorship for the Cobalt pentesting community. Requires 5+ years offensive security experience and deep technical expertise in binary analysis, OS internals, and exploit crafting. · [Apply →](https://job-boards.greenhouse.io/cobaltio/jobs/8674136002)_
+
+`Python` `Go` `Bash` `Rust` `Ghidra` `IDA Pro` `Kubernetes` `AWS`
+
+<sub>August 3, 2026 at 23:13 UTC</sub>
+
+---
+
+### [Senior Flight Dynamics Engineer II ](https://job-boards.greenhouse.io/rocketlab/jobs/7824923003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Senior` `$135k-$175k` `Equity`
+
+_Develop and analyze spacecraft trajectories, orbital propagation, and maneuvers for Earth orbit, lunar, and interplanetary missions; design guidance profiles and support real-time mission operations. Build in-house flight dynamics simulation tools and infrastructure for responsive space missions. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7824923003)_
+
+`Python` `STK` `GMAT` `Orbital Mechanics` `Git` `Kalman Filtering` `Monte Carlo Simulation` `ODTK`
+
+<sub>August 3, 2026 at 23:13 UTC</sub>
+
+---
+
+### [Software Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/8103253)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$171k-$226k` `Equity`
+
+_Build and own the Android Voice and Video SDKs, including WebRTC/ReSiprocate integration and C++ layers serving thousands of customers in contact centers, healthcare, and logistics. Requires 10+ years Android development experience and deep expertise in real-time communications architecture. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8103253)_
+
+`Java` `Kotlin` `C++` `WebRTC` `Android SDK Development` `SIP` `ReSiprocate` `CircleCI`
+
+<sub>August 3, 2026 at 23:13 UTC</sub>
+
+---
+
+### [Principal Software Engineer, Tech Lead (TypeScript)](https://job-boards.greenhouse.io/unanet/jobs/7785802003)
+<a href="https://unanet.com"><img src="https://www.google.com/s2/favicons?domain=unanet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Unanet** · `🟢 Remote` `Senior` `$160k-$175k` `Equity`
+
+_Lead technical architecture and engineering execution for Growth Studio, Unanet's AI-first platform serving government contractors; design scalable patterns for AI-enabled workflows, integrations, and data pipelines while mentoring engineering teams and establishing best practices across the organization. · [Apply →](https://job-boards.greenhouse.io/unanet/jobs/7785802003)_
+
+`TypeScript` `JavaScript` `System Design` `Distributed Systems` `API Design` `LLM APIs` `Prompt Engineering` `Cloud Platforms`
+
+<sub>August 3, 2026 at 23:13 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Trading Infrastructure](https://job-boards.greenhouse.io/aptoslabs/jobs/4720881005)
 <a href="https://aptoslabs.com"><img src="https://www.google.com/s2/favicons?domain=aptoslabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aptos Labs** · Palo Alto, California / New York, New York / Remote · `🟢 Remote` `Senior` `$150k-$250k` `Equity`
@@ -42,17 +97,6 @@ _Build AI-powered onboarding and activation surfaces for a CRM, including agent-
 _Define the technical vision for AI-powered Go-To-Market systems, architecting both low-code automation platforms (Workato, Salesforce Flow) and custom agentic AI pipelines (LangGraph, LangChain) that span Salesforce, NetSuite, and Marketo integrations. Set reference architectures, design patterns, and decision frameworks for the entire GTM engineering organization; requires hands-on prototyping and production experience deploying LLM agents at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8104166?gh_jid=8104166)_
 
 `LangGraph` `LangChain` `Python` `Node.js` `FastAPI` `AWS` `LLM Orchestration` `RAG Systems`
-
-<sub>August 3, 2026 at 21:14 UTC</sub>
-
----
-
-### [Adobe Edge Delivery Services Solution Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Edge-Delivery-Services-Solution-Architect_R00348236-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
-
-_Lead full-lifecycle Adobe Experience Manager (AEM) implementations using Edge Delivery Services, architecting content supply chain solutions and managing large teams across enterprise digital transformation programs. Requires hands-on technical depth in AEM Sites, Edge Delivery authoring, and front-end fundamentals, plus 7+ years architecting software/digital projects and 3+ years migrating legacy AEM to modern edge-based platforms. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Edge-Delivery-Services-Solution-Architect_R00348236-1)_
-
-`Adobe Experience Manager (AEM)` `Edge Delivery Services` `JavaScript` `CSS` `Adobe Experience Platform` `Adobe Target` `Adobe Analytics` `Firefly`
 
 <sub>August 3, 2026 at 21:14 UTC</sub>
 
@@ -174,17 +218,6 @@ _Own the technical vision and architecture for test automation frameworks across
 _Design, build, and deploy machine learning models for cybersecurity use cases including threat detection, fraud intelligence, and risk scoring — own the full lifecycle from data preparation through production monitoring. Work with real-world security data (structured and unstructured) and production cloud infrastructure; requires hands-on ownership of data pipelines, feature engineering, and model lifecycle management. · [Apply →](https://job-boards.greenhouse.io/spycloud/jobs/7824305003)_
 
 `Python` `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `NLP` `Airflow` `AWS`
-
-<sub>August 3, 2026 at 19:49 UTC</sub>
-
----
-
-### [Data Scientist, Trust & Safety - Rentals](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$119k-$201k` `Equity`
-
-_Build and deploy end-to-end ML solutions and analytical systems that address trust and safety challenges in Zillow's rental marketplace. Design and maintain production-quality models for fraud detection, user verification, or rental platform integrity, working with large datasets across distributed cloud-based data platforms. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1)_
-
-`Python` `SQL` `Machine Learning` `Feature Engineering` `A/B Testing` `Cloud Data Platforms` `Model Validation` `Experimentation`
 
 <sub>August 3, 2026 at 19:49 UTC</sub>
 
@@ -341,21 +374,6 @@ _Build and own microservices across a 20+ service Backstage internal developer p
 `TypeScript` `Node.js` `GraphQL` `PostgreSQL` `Redis` `Kubernetes` `GCP` `ArgoCD`
 
 <sub>August 3, 2026 at 15:49 UTC</sub>
-
----
-
-<br>
-
-## August 2, 2026
-
-### [Staff Security Engineer](https://jobs.ashbyhq.com/livekit/acff3f8d-8951-4109-aef0-bd23a6034c9e)
-<a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Staff` `Equity`
-
-_Own security across the full stack of a real-time communications platform — applications, infrastructure, CI/CD systems, and developer workflows. Build tooling and automations to prevent vulnerabilities, lead threat modeling and secure code reviews, and harden authentication and access control for systems handling billions of calls annually. · [Apply →](https://jobs.ashbyhq.com/livekit/acff3f8d-8951-4109-aef0-bd23a6034c9e)_
-
-`Threat modeling` `Secure code review` `CI/CD security` `AWS` `Container security` `Static analysis` `Vulnerability management` `WebRTC`
-
-<sub>August 2, 2026 at 22:05 UTC</sub>
 
 ---
 
