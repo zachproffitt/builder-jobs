@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **476 open roles** (27 new) &nbsp;·&nbsp; 1754 companies searched
+### **484 open roles** (31 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 3, 2026
+
+### [Senior Software Engineer, Trading Infrastructure](https://job-boards.greenhouse.io/aptoslabs/jobs/4720881005)
+<a href="https://aptoslabs.com"><img src="https://www.google.com/s2/favicons?domain=aptoslabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aptos Labs** · Palo Alto, California / New York, New York / Remote · `🟢 Remote` `Senior` `$150k-$250k` `Equity`
+
+_Build backend services, APIs, indexers, and data pipelines that power trading infrastructure on the Aptos blockchain. You'll own systems handling billions in trading volume across a distributed, scalable platform. · [Apply →](https://job-boards.greenhouse.io/aptoslabs/jobs/4720881005)_
+
+`Rust` `Go` `C++` `Java` `Python` `Distributed Systems` `API Design` `Blockchain Infrastructure`
+
+<sub>August 3, 2026 at 21:14 UTC</sub>
+
+---
+
+### [Senior Frontend Engineer - Growth (USA Only - 100% Remote)](https://jobs.ashbyhq.com/Close/bbd78474-bee4-4fdc-a670-9234457bcf29)
+<a href="https://close.com"><img src="https://www.google.com/s2/favicons?domain=close.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Close** · `🟢 Remote` `Senior`
+
+_Build AI-powered onboarding and activation surfaces for a CRM, including agent-forward tutorials and inbox-to-CRM data import. Design and instrument experiments in Amplitude to measure B2B conversion and user behavior across the product. · [Apply →](https://jobs.ashbyhq.com/Close/bbd78474-bee4-4fdc-a670-9234457bcf29)_
+
+`TypeScript` `React` `Amplitude` `Vite` `CSS Modules` `Playwright` `WebSockets` `Storybook`
+
+<sub>August 3, 2026 at 21:14 UTC</sub>
+
+---
+
+### [Lead AI Engineer- GTM Systems](https://www.samsara.com/company/careers/roles/8104166?gh_jid=8104166)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$135k—$175k USD` `Equity`
+
+_Define the technical vision for AI-powered Go-To-Market systems, architecting both low-code automation platforms (Workato, Salesforce Flow) and custom agentic AI pipelines (LangGraph, LangChain) that span Salesforce, NetSuite, and Marketo integrations. Set reference architectures, design patterns, and decision frameworks for the entire GTM engineering organization; requires hands-on prototyping and production experience deploying LLM agents at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8104166?gh_jid=8104166)_
+
+`LangGraph` `LangChain` `Python` `Node.js` `FastAPI` `AWS` `LLM Orchestration` `RAG Systems`
+
+<sub>August 3, 2026 at 21:14 UTC</sub>
+
+---
+
+### [Adobe Edge Delivery Services Solution Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Edge-Delivery-Services-Solution-Architect_R00348236-1)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+
+_Lead full-lifecycle Adobe Experience Manager (AEM) implementations using Edge Delivery Services, architecting content supply chain solutions and managing large teams across enterprise digital transformation programs. Requires hands-on technical depth in AEM Sites, Edge Delivery authoring, and front-end fundamentals, plus 7+ years architecting software/digital projects and 3+ years migrating legacy AEM to modern edge-based platforms. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Edge-Delivery-Services-Solution-Architect_R00348236-1)_
+
+`Adobe Experience Manager (AEM)` `Edge Delivery Services` `JavaScript` `CSS` `Adobe Experience Platform` `Adobe Target` `Adobe Analytics` `Firefly`
+
+<sub>August 3, 2026 at 21:14 UTC</sub>
+
+---
 
 ### [Software Engineer, Biztech Client and Identity](https://careers.airbnb.com/positions/8095390?gh_jid=8095390)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$162k-$186k` `Equity`
