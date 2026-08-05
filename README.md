@@ -14,23 +14,34 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 5, 2026
 
+### [AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-Edificio-Hidalgo/AI-Engineer--Junior-Middle-_R00347456)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Junior`
+
+_Design and build production-grade full-stack software that integrates with LLM APIs and agentic AI systems, using AI-assisted coding as a core daily practice. Work across diverse client programs and industry verticals with direct pathway to forward-deployed engineering roles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-Edificio-Hidalgo/AI-Engineer--Junior-Middle-_R00347456)_
+
+`Python` `TypeScript` `Java` `LLM APIs` `Docker` `AWS` `LangChain` `LangGraph`
+
+<sub>August 5, 2026 at 12:06 UTC</sub>
+
+---
+
+### [AI Native Engineer (Agentic / Applied)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Engineer--Agentic---Applied-_R00339260)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
+
+_Design, build, and deploy production-grade multi-agent AI systems end-to-end, including agentic orchestration, RAG pipelines, LLM provider integration, and LLMOps infrastructure for enterprise clients. Requires shipped production agentic systems and deep experience with orchestration frameworks like LangGraph, RAG pipelines, and multi-provider LLM abstractions at production scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Engineer--Agentic---Applied-_R00339260)_
+
+`Python` `LangGraph` `RAG` `Kubernetes` `Docker` `Terraform` `LLM APIs` `Production Observability`
+
+<sub>August 5, 2026 at 12:06 UTC</sub>
+
+---
+
 ### [SDK Engineer - JavaScript](https://jobs.ashbyhq.com/Supabase/f44742fb-18c6-478f-bf78-63707ed57db7)
 <a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `🟢 Remote` `Senior` `Equity`
 
 _Build and maintain the JavaScript/TypeScript SDKs that serve as the primary interface for developers accessing Supabase's backend platform (database, auth, storage, realtime, edge functions). Own the type experience across multiple runtimes (Node, Deno, Bun, browsers, Cloudflare Workers, React Native), manage WebSocket-based realtime subscriptions, and design public APIs with permanence—breaking changes require deprecation paths and migration guides. · [Apply →](https://jobs.ashbyhq.com/Supabase/f44742fb-18c6-478f-bf78-63707ed57db7)_
 
 `TypeScript` `JavaScript` `npm` `ESM/CJS builds` `Generics` `WebSocket` `Open-Source Maintenance` `API Design`
-
-<sub>August 5, 2026 at 09:43 UTC</sub>
-
----
-
-### [AI/ML Computational Scientist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/AI-ML-Computational-Science-Manager_R00340719)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
-
-_Design, build, and operationalize AI/ML solutions for enterprise clients, including custom Deep Learning and LLM models, scalable data pipelines, and MLOps infrastructure deployed to production at scale. Requires 7+ years deploying models in production with distributed systems experience and cloud infrastructure expertise. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/AI-ML-Computational-Science-Manager_R00340719)_
-
-`Python` `PyTorch` `TensorFlow` `C++` `SQL` `Distributed Systems` `MLOps` `LLM APIs`
 
 <sub>August 5, 2026 at 09:43 UTC</sub>
 
@@ -170,23 +181,23 @@ _Build and maintain large-scale collection infrastructure for threat intelligenc
 
 ---
 
-### [Senior SDET, PAM](https://job-boards.greenhouse.io/keepersecurity/jobs/4355051009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
-
-_Build scalable automation frameworks for privileged access management workflows across cloud infrastructure, identity providers, and enterprise systems. Architect API, integration, and end-to-end test systems for security-sensitive access controls including credential rotation, session management, and authentication flows (OAuth, SAML, SSO); requires FedRAMP compliance as a U.S. Person. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4355051009)_
-
-`Python` `TypeScript` `Playwright` `Pytest` `Docker` `Kubernetes` `AWS` `GitHub Actions`
-
-<sub>August 4, 2026 at 21:21 UTC</sub>
-
----
-
 ### [Cybersecurity Network Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cybersecurity-Network-Engineer_R0246036)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
 
 _Lead network sustainment, security, and lifecycle management for complex mission-critical IT/OT infrastructures supporting government space sensing and satellite operations; requires 10+ years defending Major Defense Acquisition Programs and Top Secret clearance. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cybersecurity-Network-Engineer_R0246036)_
 
 `Network Security` `Risk Management Framework` `Cyber Risk Assessment` `Routers` `Firewalls` `Next Generation Firewalls` `Software Defined Networking` `TS/SCI Clearance`
+
+<sub>August 4, 2026 at 21:21 UTC</sub>
+
+---
+
+### [Senior SDET, PAM](https://job-boards.greenhouse.io/keepersecurity/jobs/4355051009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
+
+_Build scalable automation frameworks for privileged access management workflows across cloud infrastructure, identity providers, and enterprise systems. Architect API, integration, and end-to-end test systems for security-sensitive access controls including credential rotation, session management, and authentication flows (OAuth, SAML, SSO); requires FedRAMP compliance as a U.S. Person. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4355051009)_
+
+`Python` `TypeScript` `Playwright` `Pytest` `Docker` `Kubernetes` `AWS` `GitHub Actions`
 
 <sub>August 4, 2026 at 21:21 UTC</sub>
 
@@ -269,17 +280,6 @@ _Design and deliver complex backend systems in Ruby on Rails, PostgreSQL, and Gr
 
 ---
 
-### [Principal Full Stack Software Engineer](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)
-<a href="https://www.jitx.com"><img src="https://www.google.com/s2/favicons?domain=www.jitx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JITX** · Remote / Bay Area, California · `🟡 Hybrid` `Principal`
-
-_Build and architect the user management platform and core runtime systems for a code-first circuit board design tool, handling full-stack infrastructure from TypeScript/React frontends to Python backends and complex computational geometry algorithms. Navigate deep technical challenges in graphics rendering, parallel computing optimization, and system architecture in an early-stage startup where you'll own large features end-to-end and raise engineering standards across the team. · [Apply →](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)_
-
-`TypeScript` `React` `Python` `PostgreSQL` `Electron` `PixiJS` `Computational Geometry` `Graph Algorithms`
-
-<sub>August 4, 2026 at 19:49 UTC</sub>
-
----
-
 ### [Model-Based Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Model-Based-Systems-Engineer_R0245999)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
 
@@ -297,6 +297,17 @@ _Develop high-fidelity simulations of space Command and Control architectures fo
 _Develop and deploy security architectures for space sensing and mission-critical defense systems, leading assessments of security posture, vulnerability remediation, and cyber risk management across Major Defense Acquisition Programs. Requires TS clearance and direct work with Air Force warfighter systems. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cybersecurity-Architect_R0246032)_
 
 `Cyber Risk Assessment` `Risk Management Framework` `DoD 8140` `Security+` `Network Security` `Threat Modeling` `TS/SCI Clearance`
+
+<sub>August 4, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Principal Full Stack Software Engineer](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)
+<a href="https://www.jitx.com"><img src="https://www.google.com/s2/favicons?domain=www.jitx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JITX** · Remote / Bay Area, California · `🟡 Hybrid` `Principal`
+
+_Build and architect the user management platform and core runtime systems for a code-first circuit board design tool, handling full-stack infrastructure from TypeScript/React frontends to Python backends and complex computational geometry algorithms. Navigate deep technical challenges in graphics rendering, parallel computing optimization, and system architecture in an early-stage startup where you'll own large features end-to-end and raise engineering standards across the team. · [Apply →](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)_
+
+`TypeScript` `React` `Python` `PostgreSQL` `Electron` `PixiJS` `Computational Geometry` `Graph Algorithms`
 
 <sub>August 4, 2026 at 19:49 UTC</sub>
 
@@ -412,23 +423,23 @@ _Develop front-end, back-end, and middleware solutions for F5's web application 
 
 ---
 
-### [Sr. Data Analyst, Data & Audit Readiness](https://jobs.ashbyhq.com/kraken.com/940d5ad5-6e11-4343-b9a1-9dfff51d1119)
-<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Senior`
-
-_Build audit-ready data pipelines, governance infrastructure, and metadata management systems that enable compliance and controls across Kraken's financial platform. Design and maintain ETL systems with traceability, data quality validation, and access controls built in from inception for a regulated fintech operating at scale. · [Apply →](https://jobs.ashbyhq.com/kraken.com/940d5ad5-6e11-4343-b9a1-9dfff51d1119)_
-
-`dbt` `Airflow` `SQL` `Python` `Distributed Systems` `Data Governance` `ETL`
-
-<sub>August 4, 2026 at 17:59 UTC</sub>
-
----
-
 ### [Software Developer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Software-Developer_R0245998)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
 
 _Design and build core simulation tools for U.S. Space Force command and control (C2) analysis, integrating modeling algorithms and data analytics pipelines. Requires active TS/SCI clearance and on-site presence in Colorado Springs, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Software-Developer_R0245998)_
 
 `Java` `C++` `Python` `Git` `Data Mining` `Machine Learning` `AnyLogic` `TS/SCI Clearance`
+
+<sub>August 4, 2026 at 17:59 UTC</sub>
+
+---
+
+### [Sr. Data Analyst, Data & Audit Readiness](https://jobs.ashbyhq.com/kraken.com/940d5ad5-6e11-4343-b9a1-9dfff51d1119)
+<a href="https://kraken.com"><img src="https://www.google.com/s2/favicons?domain=kraken.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kraken** · `🟢 Remote` `Senior`
+
+_Build audit-ready data pipelines, governance infrastructure, and metadata management systems that enable compliance and controls across Kraken's financial platform. Design and maintain ETL systems with traceability, data quality validation, and access controls built in from inception for a regulated fintech operating at scale. · [Apply →](https://jobs.ashbyhq.com/kraken.com/940d5ad5-6e11-4343-b9a1-9dfff51d1119)_
+
+`dbt` `Airflow` `SQL` `Python` `Distributed Systems` `Data Governance` `ETL`
 
 <sub>August 4, 2026 at 17:59 UTC</sub>
 
@@ -506,17 +517,6 @@ _Lead SOTIF (ISO 21448) safety assessments, risk analyses, and verification stra
 _Lead the Scene Generation team building neural rendering and generative models for sensor simulation (cameras, LiDAR, radar) to close the domain data gap for autonomous truck training. Requires expertise in Neural Radiance Fields, 3D Gaussian Splatting, and diffusion models shipped in production autonomous driving systems. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8651134002)_
 
 `Python` `PyTorch` `Neural Radiance Fields` `3D Gaussian Splatting` `Diffusion Models` `Computer Vision` `CUDA` `Autonomous Driving`
-
-<sub>August 4, 2026 at 17:59 UTC</sub>
-
----
-
-### [Forward Deployed Engineer (FDE) Sr Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Forward-Deployed-Engineer--FDE--Sr-Analyst_R00327300)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$22.45k-$81.68k`
-
-_Design and deploy enterprise AI agents incorporating retrieval, orchestration, and tool invocation across cloud-native infrastructure; build multi-provider abstraction layers and agentic workflows tailored to client verticals (finance, healthcare, retail). Forward-deployed role requiring 25–75% travel and deep client engagement in production AI systems. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Forward-Deployed-Engineer--FDE--Sr-Analyst_R00327300)_
-
-`Python` `Kubernetes` `Docker` `Terraform` `Anthropic Claude` `OpenAI` `Google Vertex AI` `LangGraph`
 
 <sub>August 4, 2026 at 17:59 UTC</sub>
 

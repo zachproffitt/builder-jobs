@@ -33,10 +33,10 @@ Abbott creates medical devices and healthcare solutions for cardiovascular healt
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI/ML Computational Scientist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/AI-ML-Computational-Science-Manager_R00340719) · `🟢 Remote` `Senior` (Aug 5)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-Edificio-Hidalgo/AI-Engineer--Junior-Middle-_R00347456) · `🟢 Remote` `Junior` (Aug 5)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Native Engineer (Agentic / Applied)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Engineer--Agentic---Applied-_R00339260) · `🟢 Remote` `Senior` (Aug 5)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Utilities Technical Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Utilities-Technical-Lead_R00349185) · Multiple US locations (California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington) · `Senior` `$62k-$218k` (Aug 4)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Palantir Forward Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Engineer_R00349169) · `🟢 Remote` `Mid` `$54k-$235k` (Aug 4)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Forward Deployed Engineer (FDE) Sr Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Forward-Deployed-Engineer--FDE--Sr-Analyst_R00327300) · `🟢 Remote` `Senior` `$22.45k-$81.68k` (Aug 4)
 
 ---
 
@@ -114,7 +114,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 23)
 - [Senior Algorithm Developer](https://boards.greenhouse.io/andurilindustries/jobs/5194473007?gh_jid=5194473007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
 - [Scientific Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5193977007?gh_jid=5193977007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
-- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 23)
+- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5193934007?gh_jid=5193934007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Jul 23)
 - [Senior Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5193973007?gh_jid=5193973007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
 - [Senior Software Engineer, Air & Missile Defense](https://boards.greenhouse.io/andurilindustries/jobs/5193980007?gh_jid=5193980007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
 - [Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5193974007?gh_jid=5193974007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 23)
@@ -1389,7 +1389,7 @@ Twilio delivers communications services including messaging, voice, and email to
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8099162) · `🟢 Remote` `Senior` `$141k-$208k` `Equity` (Aug 4)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Platform Engineering (L2)](https://job-boards.greenhouse.io/twilio/jobs/8026207) · `🟢 Remote` `Junior` `$116k-$146k` `Equity` (Aug 4)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer-Platform Engineering (L3)](https://job-boards.greenhouse.io/twilio/jobs/8026203) · `🟢 Remote` `Mid` `$138k-$203k` `Equity` (Aug 4)
-- [Software Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/8103253) · `🟢 Remote` `Staff` `$171k-$226k` `Equity` (Aug 3)
+- [Software Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/8098945) · `🟢 Remote` `Staff` `$171k-$226k` `Equity` (Aug 3)
 - [Software Engineer (L2)](https://job-boards.greenhouse.io/twilio/jobs/8097672) · `🟢 Remote` `Mid` `$116k-$146k` `Equity` (Jul 30)
 - [Senior Analytics Engineer](https://job-boards.greenhouse.io/twilio/jobs/8044650) · `🟢 Remote` `Senior` `$141k-$208k` `Equity` (Jul 28)
 - [Senior Principal Field Architect - AI Agents](https://job-boards.greenhouse.io/twilio/jobs/8039186) · `🟢 Remote` `Principal` `$284k-$405k` `Equity` (Jul 25)
