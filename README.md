@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **399 open roles** (43 new) &nbsp;·&nbsp; 1754 companies searched
+### **415 open roles** (43 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -161,17 +161,6 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 
 ---
 
-### [Lead AI / ML Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Lead-AI---ML-Engineer_R00345340-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$293k`
-
-_Build and deploy responsible AI solutions for enterprise clients, focusing on fairness, explainability, robustness, and bias mitigation across the full AI development lifecycle. Work with Accenture's Global Responsible AI Practice on client-facing engagements addressing ethical AI challenges at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Lead-AI---ML-Engineer_R00345340-1)_
-
-`Python` `TensorFlow` `PyTorch` `Spark` `AWS` `Azure` `Google Cloud` `Machine Learning Interpretability`
-
-<sub>August 5, 2026 at 22:17 UTC</sub>
-
----
-
 ### [Staff Software Engineer, Tax Engineering](https://careers.airbnb.com/positions/8095361?gh_jid=8095361)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k–$265k` `Equity`
 
@@ -227,12 +216,12 @@ _Build and maintain Synapse collection pipelines and threat intelligence infrast
 
 ---
 
-### [Software Engineer, Strategic Projects](https://job-boards.greenhouse.io/tailscale/jobs/4721713005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$218k—$302k CAD` `Equity`
+### [Software Engineer, Strategic Projects](https://job-boards.greenhouse.io/tailscale/jobs/4721714005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$163k–$226k` `Equity`
 
-_Own the hardening and production readiness of AI-native prototypes—from identity-aware LLM gateways to networking infrastructure—ensuring agent-generated code meets Tailscale's security and operational bar. Work directly with reference customers on integrations while co-owning the journey from demo to dependable product in a fast-shipping startup team. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4721713005)_
+_Build production-grade AI-native connectivity infrastructure and prototypes, hardening prototypes from demo to dependable product while collaborating with reference customers on identity-aware networking integrations. Move fast with coding agents while maintaining security, observability, and operational practices that hold the production bar. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4721714005)_
 
-`Go` `Claude Code` `Cursor` `PostgreSQL` `Kubernetes` `OAuth` `OIDC` `SAML`
+`Go` `LLMs` `Coding Agents` `Python` `Rust` `TypeScript` `Networking` `Identity Infrastructure`
 
 <sub>August 5, 2026 at 20:36 UTC</sub>
 
@@ -414,6 +403,28 @@ _Lead the design and delivery of scalable, cloud-native banking platform applica
 
 ---
 
+### [Operations Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
+
+_Deploy, monitor, and troubleshoot software-defined radar systems and sensor fusion integration for U.S. military and DHS customers; requires active Secret clearance and willingness to travel 50-75% to field sites and forward operating locations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007)_
+
+`Python` `Bash` `Data Pipeline` `Sensor Fusion` `Radar Systems` `TS/SCI Clearance`
+
+<sub>August 5, 2026 at 14:29 UTC</sub>
+
+---
+
+### [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204301007?gh_jid=5204301007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
+
+_Implement and deploy real-time image processing software for infrared imaging systems on embedded, SWAP-limited hardware. Requires hands-on Linux kernel and NixOS expertise, C++/CUDA development, and active or eligibility for US security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5204301007?gh_jid=5204301007)_
+
+`C++` `CUDA` `Linux` `Nix/NixOS` `Rust` `Python` `CI/CD` `TS/SCI Clearance`
+
+<sub>August 5, 2026 at 14:29 UTC</sub>
+
+---
+
 ### [Senior Systems Engineer](https://job-boards.greenhouse.io/dragos/jobs/5362133008)
 <a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Senior` `$165k` `Equity`
 
@@ -436,23 +447,23 @@ _Build production machine learning models for insurance claims forecasting and N
 
 ---
 
-### [Salesforce Data Cloud & AI Architect Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Salesforce-Data-Cloud---AI-Architect-Senior-Manager_R00339990)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$112k-$302k`
-
-_Architect enterprise-scale Salesforce Data Cloud, Agentforce, and Voice AI solutions for Life Sciences clients, designing end-to-end data strategies, identity resolution, agentic AI workflows, and CRM integrations across multi-year, high-stakes programs. Lead technical pre-sale responses, design governance, and mentor delivery teams across onshore/offshore distributed engagements. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Salesforce-Data-Cloud---AI-Architect-Senior-Manager_R00339990)_
-
-`Salesforce Data Cloud` `Agentforce` `Voice AI` `MuleSoft` `Data 360` `Identity Resolution` `Salesforce Health Cloud` `Veeva CRM`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
 ### [Junior AI Native Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Junior-AI-Native-Engineer_R00339263)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Junior`
 
 _Design and build production-grade full-stack software that integrates with agentic AI systems and LLM APIs, using AI coding assistants as a core part of daily engineering practice. Work across diverse client programs and enterprise technology stacks with structured mentorship toward forward-deployed engineering roles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Junior-AI-Native-Engineer_R00339263)_
 
 `Python` `TypeScript` `Java` `AWS` `Azure` `GCP` `Docker` `LangChain`
+
+<sub>August 5, 2026 at 14:29 UTC</sub>
+
+---
+
+### [Salesforce Data Cloud & AI Architect Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Salesforce-Data-Cloud---AI-Architect-Senior-Manager_R00339990)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$112k-$302k`
+
+_Architect enterprise-scale Salesforce Data Cloud, Agentforce, and Voice AI solutions for Life Sciences clients, designing end-to-end data strategies, identity resolution, agentic AI workflows, and CRM integrations across multi-year, high-stakes programs. Lead technical pre-sale responses, design governance, and mentor delivery teams across onshore/offshore distributed engagements. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Salesforce-Data-Cloud---AI-Architect-Senior-Manager_R00339990)_
+
+`Salesforce Data Cloud` `Agentforce` `Voice AI` `MuleSoft` `Data 360` `Identity Resolution` `Salesforce Health Cloud` `Veeva CRM`
 
 <sub>August 5, 2026 at 14:29 UTC</sub>
 
@@ -477,17 +488,6 @@ _Design, build, and deploy production-grade multi-agent AI systems end-to-end, i
 `Python` `LangGraph` `RAG` `Kubernetes` `Docker` `Terraform` `LLM APIs` `Production Observability`
 
 <sub>August 5, 2026 at 12:06 UTC</sub>
-
----
-
-### [SDK Engineer - JavaScript](https://jobs.ashbyhq.com/Supabase/f44742fb-18c6-478f-bf78-63707ed57db7)
-<a href="https://supabase.com"><img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Supabase** · `🟢 Remote` `Senior` `Equity`
-
-_Build and maintain the JavaScript/TypeScript SDKs that serve as the primary interface for developers accessing Supabase's backend platform (database, auth, storage, realtime, edge functions). Own the type experience across multiple runtimes (Node, Deno, Bun, browsers, Cloudflare Workers, React Native), manage WebSocket-based realtime subscriptions, and design public APIs with permanence—breaking changes require deprecation paths and migration guides. · [Apply →](https://jobs.ashbyhq.com/Supabase/f44742fb-18c6-478f-bf78-63707ed57db7)_
-
-`TypeScript` `JavaScript` `npm` `ESM/CJS builds` `Generics` `WebSocket` `Open-Source Maintenance` `API Design`
-
-<sub>August 5, 2026 at 09:43 UTC</sub>
 
 ---
 
