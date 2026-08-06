@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **419 open roles** (41 new) &nbsp;·&nbsp; 1754 companies searched
+### **400 open roles** (41 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -14,8 +14,85 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 6, 2026
 
+### [Sr. Platform Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Platform-Engineer_JR-000811)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Senior` `$145k-$165k`
+
+_Build and maintain reliability systems for a financial platform, investigating and remediating failures across microservices while maintaining observability through Datadog and distributed tracing. Focus on correctness under failure conditions, resilience patterns, and fault tolerance testing in a TypeScript/Node.js/Kubernetes environment. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Platform-Engineer_JR-000811)_
+
+`TypeScript` `Kubernetes` `GitHub Actions` `Datadog` `Distributed Tracing` `Kafka` `OpenTelemetry` `Terraform`
+
+<sub>August 6, 2026 at 15:22 UTC</sub>
+
+---
+
+### [Staff Platform Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Platform-Engineer--MANTL-_JR-000810)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$140k-$175k`
+
+_Lead platform reliability engineering for MANTL, a TypeScript/Node.js microservices platform serving U.S. banks and credit unions. Own the investigation and remediation of distributed system failures, design observability and resilience strategies across microservices, and define the technical direction for platform stability work across a regulated fintech environment. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Platform-Engineer--MANTL-_JR-000810)_
+
+`TypeScript` `Node.js` `Kubernetes` `GitHub Actions` `Datadog` `Distributed Tracing` `Microservices` `Kafka`
+
+<sub>August 6, 2026 at 15:22 UTC</sub>
+
+---
+
+### [Implementation Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Implementation-Engineer-II_JR-000812)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Mid`
+
+_Configure and support technical implementation of Alkami's digital banking platform and third-party integrations for client onboarding, troubleshooting system configurations and resolving integration issues across diverse banking environments. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Implementation-Engineer-II_JR-000812)_
+
+`SQL` `APIs` `PostgreSQL` `relational databases` `SaaS implementation` `digital banking` `C#`
+
+<sub>August 6, 2026 at 15:22 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://job-boards.greenhouse.io/cavnue/jobs/6117435004)
+<a href="https://cavnue.com"><img src="https://www.google.com/s2/favicons?domain=cavnue.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cavnue** · `🟢 Remote` `Senior` `$150k-$200k` `Equity`
+
+_Build real-time digital twin infrastructure for smart roadways, including low-latency C++ services for sensor fusion, object tracking, and AI model inference; operate containerized systems on Kubernetes processing data from edge sensors at scale. · [Apply →](https://job-boards.greenhouse.io/cavnue/jobs/6117435004)_
+
+`C++` `Python` `Go` `PostgreSQL` `Kubernetes` `Terraform` `Helm` `Argo`
+
+<sub>August 6, 2026 at 15:22 UTC</sub>
+
+---
+
+### [Triton Compiler Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Triton-Compiler-Engineer_JR0286282)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · `🟢 Remote` `Mid` `CAD 133k-189k`
+
+_Design and implement Triton compiler front-end and back-end components for Intel GPUs, including optimization passes for custom kernel generation. Work directly with hardware teams and open-source communities on a widely-adopted language used in PyTorch, vLLM, and SGLang. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Triton-Compiler-Engineer_JR0286282)_
+
+`C++` `Python` `LLVM` `MLIR` `Triton` `PyTorch` `Compiler Design` `GPU Programming`
+
+<sub>August 6, 2026 at 15:22 UTC</sub>
+
+---
+
+### [Lead, Customer Strategy Analytics & Applied AI](https://jobs.ashbyhq.com/owner/b935695a-b8e3-451b-ac09-6961b5c604d2)
+<a href="https://owner.com"><img src="https://www.google.com/s2/favicons?domain=owner.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Owner** · `🟢 Remote` `Senior` `$190k-$210k` `Equity`
+
+_Build data products and AI-powered systems that drive Customer Success strategy—churn risk scoring, CSM next-best-action tools, and automated retention playbooks. Lead analytics and applied AI strategy across the CS org alongside the SVP of Customer Success. · [Apply →](https://jobs.ashbyhq.com/owner/b935695a-b8e3-451b-ac09-6961b5c604d2)_
+
+`SQL` `Python` `Claude` `Snowflake` `dbt` `Distributed Systems` `Applied AI/ML` `SaaS`
+
+<sub>August 6, 2026 at 15:22 UTC</sub>
+
+---
+
+### [Bioinformatics Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Bioinformatics-Engineer-II_JR202600797-1)
+<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Senior` `$90k-$140k`
+
+_Design and develop bioinformatics software pipelines for analyzing next-generation sequencing data, including relational database integration and end-to-end system architecture from ideation to production release. Work with clinical genetics datasets and standard bioinformatics formats (FASTQ, BAM, VCF); mentorship of junior engineers expected. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Bioinformatics-Engineer-II_JR202600797-1)_
+
+`Python` `PostgreSQL` `MySQL` `AWS` `Docker` `Git` `Bash` `API Development`
+
+<sub>August 6, 2026 at 15:22 UTC</sub>
+
+---
+
 ### [Engineer III - Platform Data Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Engineer-III---Platform-Data-Engineer--Remote-_R29609)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
 
 _Build and operate the core data infrastructure and platform services for CrowdStrike's analytics ecosystem, managing Airflow, Superset, and data pipelines at scale. Requires CJIS clearance and 5+ years of combined infrastructure and data engineering experience. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NY/Engineer-III---Platform-Data-Engineer--Remote-_R29609)_
 
@@ -64,6 +141,17 @@ _Build agentic systems and AI-driven workflows that automate high-friction steps
 _Design and build Teleport's internal data platform, including pipelines, warehouse schemas, and data quality systems that integrate product usage, costs, budgets, and sales data across the company. Handle sensitive customer data with access controls and retention policies while enabling self-serve analytics for cross-functional teams. · [Apply →](https://jobs.ashbyhq.com/goteleport/973e9912-d411-46d5-b6af-e38b9ff20eba)_
 
 `SQL` `Python` `Go` `Snowflake` `BigQuery` `Redshift` `dbt` `Airflow`
+
+<sub>August 6, 2026 at 03:31 UTC</sub>
+
+---
+
+### [SAP Edge - AI Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/SAP-Edge---AI-Lead_R00348436)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$138k-$434k`
+
+_Lead the design and scaling of AI capabilities across Accenture's SAP consulting practice, embedding enterprise AI tools (Claude, Copilot, Joule) into pre-sales, solution architecture, and delivery workflows to reduce pursuit costs and accelerate time-to-solution. Requires deep SAP functional expertise, consulting practice leadership experience, and proven ability to translate GenAI tooling into measurable operational efficiency gains. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/SAP-Edge---AI-Lead_R00348436)_
+
+`SAP` `Claude API` `Microsoft Copilot` `SAP Joule` `GenAI` `SAP BTP` `Enterprise AI` `SAP Activate`
 
 <sub>August 6, 2026 at 03:31 UTC</sub>
 
@@ -161,23 +249,23 @@ _Own the enterprise Snowflake data platform architecture, administration, and EL
 
 ---
 
+### [Lead AI / ML Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Lead-AI---ML-Engineer_R00345340-1)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$293k`
+
+_Build and deploy responsible AI solutions for enterprise clients, focusing on fairness, explainability, robustness, and bias mitigation across the full AI development lifecycle. Work with Accenture's Global Responsible AI Practice on client-facing engagements addressing ethical AI challenges at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Lead-AI---ML-Engineer_R00345340-1)_
+
+`Python` `TensorFlow` `PyTorch` `Spark` `AWS` `Azure` `Google Cloud` `Machine Learning Interpretability`
+
+<sub>August 5, 2026 at 22:17 UTC</sub>
+
+---
+
 ### [Staff Software Engineer, Tax Engineering](https://careers.airbnb.com/positions/8095361?gh_jid=8095361)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k–$265k` `Equity`
 
 _Build and scale Airbnb's tax platform microservices and APIs supporting host-facing tax systems across global markets; own architectural decisions for a high-scale distributed system handling compliance across 200+ jurisdictions. · [Apply →](https://careers.airbnb.com/positions/8095361?gh_jid=8095361)_
 
 `Java` `Kotlin` `PostgreSQL` `Distributed Systems` `Microservices Architecture` `API Design` `Observability`
-
-<sub>August 5, 2026 at 20:36 UTC</sub>
-
----
-
-### [Fraud Risk Strategy Data Scientist](https://www.bill.com/job?6130169004&gh_jid=6130169004)
-<a href="https://bill.com"><img src="https://www.google.com/s2/favicons?domain=bill.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BILL** · `🟢 Remote` `Senior` `$95.8k–$135k USD` `Equity`
-
-_Build and deploy fraud detection models, risk monitoring systems, and automated control strategies for a fintech payments platform processing millions of transactions. Requires hands-on SQL/Python development and cross-functional collaboration with product and engineering teams to identify emerging fraud patterns and optimize loss prevention. · [Apply →](https://www.bill.com/job?6130169004&gh_jid=6130169004)_
-
-`Python` `SQL` `Tableau` `Fraud Detection` `Predictive Modeling` `LLM Integration` `Machine Learning` `Risk Analytics`
 
 <sub>August 5, 2026 at 20:36 UTC</sub>
 
@@ -260,12 +348,12 @@ _Lead the GTM analytics organization, building and managing a BI team that deliv
 
 ---
 
-### [Knowledge Modeler / Ontologist Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/WA---Seattle/Knowledge-Modeler---Ontologist-Manager_R00344278)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Remote / California / Colorado / Massachusetts / New Jersey / New York / Washington / Virginia / Illinois / Maryland / Minnesota / Maine / Cleveland / District of Columbia · `🟡 Hybrid` `Senior` `$80k-$293k`
+### [SCADA Migration & Integration Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SCADA-Migration---Integration-Lead_R00349554)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
 
-_Design, develop, and govern enterprise knowledge graphs and domain ontologies using semantic web standards (OWL, RDF, SPARQL); lead ontology lifecycle from requirements through deployment, working across business stakeholders, data engineering, and AI/ML teams. Requires hands-on modeling expertise in enterprise consulting context with 5+ years of practical ontology engineering experience. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/WA---Seattle/Knowledge-Modeler---Ontologist-Manager_R00344278)_
+_Lead the migration of heritage CygNet SCADA systems to the modern Ignition platform, owning script conversion, data mapping, and enterprise integration patterns (REST/API, Kafka, .NET) across regional cutover operations. Requires deep hands-on expertise in legacy SCADA systems, industrial historian integration, and live operational environments; travel up to 75%. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SCADA-Migration---Integration-Lead_R00349554)_
 
-`OWL 2` `RDF` `RDFS` `SKOS` `SPARQL` `SHACL` `Protégé` `GraphDB`
+`CygNet` `Ignition` `SCADA` `Kafka` `Python` `.NET` `SQL` `AVEVA PI`
 
 <sub>August 5, 2026 at 20:36 UTC</sub>
 
@@ -348,17 +436,6 @@ _Build V, an agentic interface that orchestrates work across Vercel's systems th
 
 ---
 
-### [Knowledge Architecture Lead / Senior Ontologist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Seattle-1191-2nd-Avenue-Corp/Knowledge-Architecture-Lead---Senior-Ontologist_R00344300)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations (California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington) · `🟡 Hybrid` `Principal` `$138k-$413k`
-
-_Lead enterprise knowledge graph strategy, semantic modeling, and ontology architecture for complex business transformations at a global consulting firm. Requires 12+ years of hands-on ontology engineering in production environments, with authority over technical standards, team development, and stakeholder alignment across cross-functional delivery teams; hybrid role with 20-80% travel. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Seattle-1191-2nd-Avenue-Corp/Knowledge-Architecture-Lead---Senior-Ontologist_R00344300)_
-
-`OWL 2` `RDF` `RDFS` `SKOS` `R2RML` `SHACL` `ShEx` `Knowledge Graphs`
-
-<sub>August 5, 2026 at 18:41 UTC</sub>
-
----
-
 ### [Enterprise AI Platform Engineer](https://www.csdisco.com/careers-listing?gh_jid=8656281002)
 <a href="https://csdisco.com"><img src="https://www.google.com/s2/favicons?domain=csdisco.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Disco** · `🟢 Remote` `Senior` `Equity`
 
@@ -389,83 +466,6 @@ _Direct security operations and incident response for Zcash and ZODL's protocol 
 `Rust` `Cryptography` `Security Incident Response` `Protocol Design` `Swift` `Kotlin` `Go`
 
 <sub>August 5, 2026 at 16:48 UTC</sub>
-
----
-
-### [Sr Staff Software Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Staff-Software-Engineer_JR-000805)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$145k-$176k`
-
-_Lead the design and delivery of scalable, cloud-native banking platform applications across microservices architecture, with on-call escalation and cross-team mentorship responsibilities. Requires 12+ years of software development experience and expertise in Kubernetes, cloud-native infrastructure, and observability systems at scale. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Staff-Software-Engineer_JR-000805)_
-
-`Java` `C#` `React` `Angular` `Kubernetes` `AWS` `OpenTelemetry` `Flutter`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
-### [Operations Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
-
-_Deploy, monitor, and troubleshoot software-defined radar systems and sensor fusion integration for U.S. military and DHS customers; requires active Secret clearance and willingness to travel 50-75% to field sites and forward operating locations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007)_
-
-`Python` `Bash` `Data Pipeline` `Sensor Fusion` `Radar Systems` `TS/SCI Clearance`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
-### [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204301007?gh_jid=5204301007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Implement and deploy real-time image processing software for infrared imaging systems on embedded, SWAP-limited hardware. Requires hands-on Linux kernel and NixOS expertise, C++/CUDA development, and active or eligibility for US security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5204301007?gh_jid=5204301007)_
-
-`C++` `CUDA` `Linux` `Nix/NixOS` `Rust` `Python` `CI/CD` `TS/SCI Clearance`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
-### [Senior Systems Engineer](https://job-boards.greenhouse.io/dragos/jobs/5362133008)
-<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Senior` `$165k` `Equity`
-
-_Build a high-performance, minimal-footprint network sensor to ingest and process Operational Technology (OT) and Industrial Control System (ICS) network traffic. Deploy AI/ML model serving infrastructure in constrained network environments protecting critical infrastructure systems. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5362133008)_
-
-`Linux` `Rust` `Python` `Bash` `Docker` `Kubernetes` `AWS` `CI/CD`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
-### [Senior Machine Learning (ML) Engineer (AI Insurtech)](https://job-boards.greenhouse.io/evolutioniq/jobs/6135244004)
-<a href="https://evolutioniq.com"><img src="https://www.google.com/s2/favicons?domain=evolutioniq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EvolutionIQ** · New York, New York / Remote · `🟢 Remote` `Senior` `$190k-$225k` `Equity`
-
-_Build production machine learning models for insurance claims forecasting and NLP text understanding, with focus on time series analysis and large-scale structured/unstructured data. Work on novel problems in a high-growth insurtech environment using modern ML infrastructure (Dagster, BigQuery, Vertex AI, GCP). · [Apply →](https://job-boards.greenhouse.io/evolutioniq/jobs/6135244004)_
-
-`Python` `PyTorch` `Keras` `scikit-learn` `Pandas` `BigQuery` `Vertex AI` `GCP`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
-### [Junior AI Native Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Junior-AI-Native-Engineer_R00339263)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Junior`
-
-_Design and build production-grade full-stack software that integrates with agentic AI systems and LLM APIs, using AI coding assistants as a core part of daily engineering practice. Work across diverse client programs and enterprise technology stacks with structured mentorship toward forward-deployed engineering roles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Junior-AI-Native-Engineer_R00339263)_
-
-`Python` `TypeScript` `Java` `AWS` `Azure` `GCP` `Docker` `LangChain`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
-### [Salesforce Data Cloud & AI Architect Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Salesforce-Data-Cloud---AI-Architect-Senior-Manager_R00339990)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$112k-$302k`
-
-_Architect enterprise-scale Salesforce Data Cloud, Agentforce, and Voice AI solutions for Life Sciences clients, designing end-to-end data strategies, identity resolution, agentic AI workflows, and CRM integrations across multi-year, high-stakes programs. Lead technical pre-sale responses, design governance, and mentor delivery teams across onshore/offshore distributed engagements. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Salesforce-Data-Cloud---AI-Architect-Senior-Manager_R00339990)_
-
-`Salesforce Data Cloud` `Agentforce` `Voice AI` `MuleSoft` `Data 360` `Identity Resolution` `Salesforce Health Cloud` `Veeva CRM`
-
-<sub>August 5, 2026 at 14:29 UTC</sub>
 
 ---
 
