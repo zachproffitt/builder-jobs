@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **415 open roles** (43 new) &nbsp;·&nbsp; 1754 companies searched
+### **419 open roles** (41 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -64,17 +64,6 @@ _Build agentic systems and AI-driven workflows that automate high-friction steps
 _Design and build Teleport's internal data platform, including pipelines, warehouse schemas, and data quality systems that integrate product usage, costs, budgets, and sales data across the company. Handle sensitive customer data with access controls and retention policies while enabling self-serve analytics for cross-functional teams. · [Apply →](https://jobs.ashbyhq.com/goteleport/973e9912-d411-46d5-b6af-e38b9ff20eba)_
 
 `SQL` `Python` `Go` `Snowflake` `BigQuery` `Redshift` `dbt` `Airflow`
-
-<sub>August 6, 2026 at 03:31 UTC</sub>
-
----
-
-### [SAP Edge - AI Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/SAP-Edge---AI-Lead_R00348436)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$138k-$434k`
-
-_Lead the design and scaling of AI capabilities across Accenture's SAP consulting practice, embedding enterprise AI tools (Claude, Copilot, Joule) into pre-sales, solution architecture, and delivery workflows to reduce pursuit costs and accelerate time-to-solution. Requires deep SAP functional expertise, consulting practice leadership experience, and proven ability to translate GenAI tooling into measurable operational efficiency gains. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/SAP-Edge---AI-Lead_R00348436)_
-
-`SAP` `Claude API` `Microsoft Copilot` `SAP Joule` `GenAI` `SAP BTP` `Enterprise AI` `SAP Activate`
 
 <sub>August 6, 2026 at 03:31 UTC</sub>
 
@@ -156,6 +145,17 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 _Build and maintain k6, an open-source performance testing tool written in Go, including features across the core codebase and distributed cloud services that run tests at global scale. Work on non-trivial systems requiring deep understanding of HTTP, gRPC, WebSockets, and networking concepts with direct impact on millions of users. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6135686004)_
 
 `Go` `gRPC` `WebSockets` `HTTP` `Docker` `AWS` `TypeScript` `Distributed Systems`
+
+<sub>August 5, 2026 at 22:17 UTC</sub>
+
+---
+
+### [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Own the enterprise Snowflake data platform architecture, administration, and ELT/ETL pipeline development supporting financial close, analytics, and AI initiatives across Finance, Sales, Product, and HR. Lead modernization of cloud data infrastructure on AWS with responsibility for security, governance, reliability, and mentoring the data engineering organization. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)_
+
+`Snowflake` `SQL` `Python` `Informatica` `AWS` `dbt` `Airflow` `Data Warehousing`
 
 <sub>August 5, 2026 at 22:17 UTC</sub>
 
@@ -249,12 +249,12 @@ _Lead a 40-person engineering organization across Integrations, Workflows/Orches
 
 ---
 
-### [SCADA Migration & Integration Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SCADA-Migration---Integration-Lead_R00349554)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+### [Senior Manager, GTM Intelligence and Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Manager` `$137.5k-$231.2k` `Equity`
 
-_Lead the migration of heritage CygNet SCADA systems to the modern Ignition platform, owning script conversion, data mapping, and enterprise integration patterns (REST/API, Kafka, .NET) across regional cutover operations. Requires deep hands-on expertise in legacy SCADA systems, industrial historian integration, and live operational environments; travel up to 75%. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SCADA-Migration---Integration-Lead_R00349554)_
+_Lead the GTM analytics organization, building and managing a BI team that delivers executive dashboards, funnel analysis, and customer health metrics across Zillow's agent software and advertising business. Set analytical standards for pre- and post-sales performance measurement and serve as the primary data thought partner to sales, success, and GTM leadership. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078)_
 
-`CygNet` `Ignition` `SCADA` `Kafka` `Python` `.NET` `SQL` `AVEVA PI`
+`SQL` `Tableau` `Looker (or Raplit)` `Financial Modeling` `Executive Dashboards` `Analytics Leadership`
 
 <sub>August 5, 2026 at 20:36 UTC</sub>
 
@@ -466,28 +466,6 @@ _Architect enterprise-scale Salesforce Data Cloud, Agentforce, and Voice AI solu
 `Salesforce Data Cloud` `Agentforce` `Voice AI` `MuleSoft` `Data 360` `Identity Resolution` `Salesforce Health Cloud` `Veeva CRM`
 
 <sub>August 5, 2026 at 14:29 UTC</sub>
-
----
-
-### [AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-Edificio-Hidalgo/AI-Engineer--Junior-Middle-_R00347456)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Junior`
-
-_Design and build production-grade full-stack software that integrates with LLM APIs and agentic AI systems, using AI-assisted coding as a core daily practice. Work across diverse client programs and industry verticals with direct pathway to forward-deployed engineering roles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-Edificio-Hidalgo/AI-Engineer--Junior-Middle-_R00347456)_
-
-`Python` `TypeScript` `Java` `LLM APIs` `Docker` `AWS` `LangChain` `LangGraph`
-
-<sub>August 5, 2026 at 12:06 UTC</sub>
-
----
-
-### [AI Native Engineer (Agentic / Applied)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Engineer--Agentic---Applied-_R00339260)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
-
-_Design, build, and deploy production-grade multi-agent AI systems end-to-end, including agentic orchestration, RAG pipelines, LLM provider integration, and LLMOps infrastructure for enterprise clients. Requires shipped production agentic systems and deep experience with orchestration frameworks like LangGraph, RAG pipelines, and multi-provider LLM abstractions at production scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Engineer--Agentic---Applied-_R00339260)_
-
-`Python` `LangGraph` `RAG` `Kubernetes` `Docker` `Terraform` `LLM APIs` `Production Observability`
-
-<sub>August 5, 2026 at 12:06 UTC</sub>
 
 ---
 
