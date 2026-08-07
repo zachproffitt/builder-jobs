@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **394 open roles** (37 new) &nbsp;·&nbsp; 1754 companies searched
+### **380 open roles** (38 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 7, 2026
+
+### [Senior Software Engineer - Core Experience, Growth](https://instacart.careers/job/?gh_jid=8113993)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$168k–$177k CAD` `Equity`
+
+_Design and build backend services and APIs powering Instacart's coupon merchandising platform, including end-to-end experimentation infrastructure for A/B testing across millions of users. Own reliability, performance, and cost optimization across distributed systems while collaborating with Product, Data Science, and frontend teams. · [Apply →](https://instacart.careers/job/?gh_jid=8113993)_
+
+`Go` `Python` `Java` `Node.js` `PostgreSQL` `Redis` `AWS` `Kubernetes`
+
+<sub>August 7, 2026 at 13:22 UTC</sub>
+
+---
 
 ### [Packaged App Development Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-App-Development-Senior-Analyst_R00338270-1)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
@@ -69,39 +80,6 @@ _Build and optimize threat detection, incident response, and security automation
 
 ---
 
-### [Chief Radar Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5205891007?gh_jid=5205891007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$189k-$251k` `Equity`
-
-_Own the technical strategy, architecture, and product roadmap for radar systems serving U.S. defense missions; requires deep expertise in radar system design, RF sensors, and ability to lead cross-functional teams from concept through deployment. Active TS/SCI clearance and 30% travel required. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5205891007?gh_jid=5205891007)_
-
-`Radar Systems` `RF Sensors` `Systems Architecture` `Technical Program Management` `JIRA` `Modeling and Simulation`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Platform Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Design and implement secure CI/CD pipelines, Infrastructure-as-Code frameworks, and containerization solutions for radar tracking software deployments across classified DoD/IC networks. Requires active TS/SCI clearance and hands-on experience in DoD/IC classified environments with DISA STIG and NIST 800-53 compliance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007)_
-
-`Python` `C++` `Terraform` `Ansible` `Docker` `Kubernetes` `GitLab CI` `Jenkins`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Software Engineer, Tooling](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Build secure CI/CD pipelines, Infrastructure-as-Code frameworks, and DevOps tooling for radar tracking software deployments in classified DoD and IC environments. Requires active TS/SCI clearance and experience with DoD security compliance (DISA STIG, NIST 800-53, ATO processes). · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007)_
-
-`GitLab CI` `Jenkins` `GitHub Actions` `Python` `C++` `Terraform` `Ansible` `Docker`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Security Research Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6134284004)
 <a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · `🟢 Remote` `Senior` `$175k—$263k`
 
@@ -124,10 +102,10 @@ _Design and operate distributed training systems for large neural networks acros
 
 ---
 
-### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
+### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
-_Design and build secure CI/CD pipelines with software supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes workloads on GCP and AWS. Lead security architecture for cloud-native products at scale, serving Fortune 500 enterprises. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)_
+_Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOM), and harden Kubernetes clusters and cloud infrastructure on GCP/AWS. Requires 7+ years of hands-on security engineering and production Kubernetes expertise. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)_
 
 `Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
 
@@ -311,17 +289,6 @@ _Own the end-to-end vehicle architecture and technical baseline for a hypersonic
 
 ---
 
-### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
-
-_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
-
-`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
 
@@ -333,12 +300,54 @@ _Build and scale distributed deep learning training infrastructure and libraries
 
 ---
 
+### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
+
+`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
 ### [Senior Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)
 <a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$170k-$230k` `Equity`
 
 _Build and operate large-scale data pipelines and foundational data products powering Komodo's Healthcare Map, processing complex healthcare datasets (claims, EHR, reference data) at scale. Requires deep healthcare data domain expertise (ICD-10, CPT, NDC, NPI coding systems) and production troubleshooting across computationally intensive workflows. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)_
 
 `Python` `SQL` `Airflow` `Spark` `AWS` `Healthcare Data (Claims/EHR/RWE)` `Data Quality & Observability`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity`
+
+_Develop and maintain Visa's ServiceNow CMDB platform, ITOM Discovery, and related infrastructure components, including data ingestion pipelines, integrations with cloud platforms (AWS, Azure, GCP), and automation scripts. Handle operational support, CI lifecycle management, and data accuracy across a multi-cloud enterprise environment. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W)_
+
+`ServiceNow` `JavaScript` `SQL` `REST APIs` `JSON` `PowerShell` `AWS` `Azure`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity`
+
+_Build and maintain commercial or end-user applications for payment systems, conducting analysis, design, programming, debugging, and modification of computer programs. Interface with users to define requirements and develop cost estimates for software projects. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W)_
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+
+_Build and prototype AI-native solutions and repeatable offerings for biopharma clients, turning emerging AI capabilities into tangible products and experiences. Serve as connective tissue across strategy, creative, technology, and operations—designing for scale and driving organizational adoption of AI-first approaches in a fast-moving consulting environment. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417)_
+
+`Claude` `ChatGPT` `Generative AI` `Prompt Engineering` `API Integration` `Low-Code Automation` `Agentic Workflows` `Rapid Prototyping`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 

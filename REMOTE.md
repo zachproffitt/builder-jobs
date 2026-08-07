@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **246 open roles** (22 new)
+### **241 open roles** (23 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,17 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 7, 2026
+
+### [Senior Software Engineer - Core Experience, Growth](https://instacart.careers/job/?gh_jid=8113993)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$168k–$177k CAD` `Equity`
+
+_Design and build backend services and APIs powering Instacart's coupon merchandising platform, including end-to-end experimentation infrastructure for A/B testing across millions of users. Own reliability, performance, and cost optimization across distributed systems while collaborating with Product, Data Science, and frontend teams. · [Apply →](https://instacart.careers/job/?gh_jid=8113993)_
+
+`Go` `Python` `Java` `Node.js` `PostgreSQL` `Redis` `AWS` `Kubernetes`
+
+<sub>August 7, 2026 at 13:22 UTC</sub>
+
+---
 
 ### [Senior, Engineering Manager - Perception & Auto-Tagging](https://job-boards.greenhouse.io/torcrobotics/jobs/8649369002)
 <a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Ann Arbor, Michigan / Remote · `🟢 Remote` `Manager` `$195k-$234k` `Equity`
@@ -56,10 +67,10 @@ _Design and operate distributed training systems for large neural networks acros
 
 ---
 
-### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
+### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
-_Design and build secure CI/CD pipelines with software supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes workloads on GCP and AWS. Lead security architecture for cloud-native products at scale, serving Fortune 500 enterprises. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)_
+_Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOM), and harden Kubernetes clusters and cloud infrastructure on GCP/AWS. Requires 7+ years of hands-on security engineering and production Kubernetes expertise. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)_
 
 `Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
 
@@ -166,23 +177,23 @@ _Build scalable Python web applications with Flask or Django, interfacing with r
 
 ---
 
-### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
-
-_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
-
-`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
 
 _Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
 
 `PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
+
+`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -330,17 +341,6 @@ _Build bioinformatics pipelines and statistical models for early cancer detectio
 _Lead research and development of bioinformatics pipelines for NGS data analysis to enable early cancer detection using cfDNA biomarkers. Design and execute computational studies collaborating with wet lab scientists to characterize assay performance and drive diagnostic product feasibility. · [Apply →](https://job-boards.greenhouse.io/freenome/jobs/8658763002)_
 
 `Python` `R` `NGS` `Bioinformatics` `DNA Methylation` `Machine Learning` `Statistics` `PhD Required`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
-
----
-
-### [Staff Software Engineer in Test, Product Engineering](https://job-boards.greenhouse.io/natera/jobs/6135368004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Principal`
-
-_Build comprehensive automated integration testing frameworks and AI-driven validation systems for Natera's multi-service oncology genomic profiling platform, spanning order ingestion through lab execution to patient reporting. Lead test architecture and root cause analysis across distributed microservices in a highly regulated healthcare environment requiring FDA design control compliance. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135368004)_
-
-`Java` `Python` `Go` `Playwright` `Docker` `Kubernetes` `AWS` `Kafka`
 
 <sub>August 6, 2026 at 00:06 UTC</sub>
 
@@ -915,17 +915,6 @@ _Design and build scalable features across Gusto's Time and Scheduling product d
 
 ---
 
-### [Staff Scientist, Bioinformatics/RWD](https://job-boards.greenhouse.io/natera/jobs/6128396004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$158k-$197.5k` `Equity`
-
-_Lead real-world evidence and predictive analytics across oncology, organ health, and women's health by developing AI/ML models to integrate genomics, clinical, and claims data; extract insights from unstructured EHR notes using NLP/LLMs; and manage large-scale multimodal datasets. Requires 10+ years bioinformatics experience with deep expertise in cancer genomics, genomic variant analysis, and healthcare data integration. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6128396004)_
-
-`Python` `R` `SQL` `PyTorch` `TensorFlow` `Keras` `NLP` `Machine Learning`
-
-<sub>August 4, 2026 at 03:29 UTC</sub>
-
----
-
 <br>
 
 ## August 3, 2026
@@ -1084,17 +1073,6 @@ _Design, build, and deploy machine learning models for cybersecurity use cases i
 
 ---
 
-### [Senior Software Engineer, PLM ](https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$166k-$220k` `Equity`
-
-_Build and architect mission-critical Teamcenter customizations, integrations, and enterprise platform solutions (ITK services, SOA integrations, Active Workspace) that connect CAD, ERP, MES, and manufacturing systems into a scalable unified production platform. Requires US Person status and eventual Top Secret clearance eligibility; greenfield, fast-moving environment at a defense technology company. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007)_
-
-`Teamcenter` `ITK` `C++` `Java` `C#` `BMIDE` `SOA` `Active Workspace`
-
-<sub>August 3, 2026 at 18:00 UTC</sub>
-
----
-
 ### [Staff Software Development Engineer - SDM](https://jobs.ashbyhq.com/delinea/ef2ec141-a5fb-432a-b49f-9033e4948b9e)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Staff`
 
@@ -1235,17 +1213,6 @@ _Drive technical implementation and integration of Federato's AI-native insuranc
 
 ---
 
-### [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior`
-
-_Own verification and validation strategy for bioinformatics pipelines and medical device software across NGS analysis, lab automation, and LIMS systems in a regulated diagnostic context. Design and execute comprehensive V&V test protocols for clinical diagnostics software under IEC 62304 and ISO 13485, with required travel to Boulder, CO lab for integration and testing activities. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6130601004)_
-
-`IEC 62304` `ISO 13485` `NGS bioinformatics` `Nextflow` `AWS` `GCP` `LIMS/LIS` `FDA regulatory compliance`
-
-<sub>August 1, 2026 at 13:46 UTC</sub>
-
----
-
 ### [Senior Snowflake Platform Administrator](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Snowflake-Platform-Administrator_R0061390)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
 
@@ -1366,17 +1333,6 @@ _Provide senior technical escalation for GPU cloud infrastructure, troubleshooti
 _Lead technical discovery, design integration architecture, and build POCs for enterprise logistics customers connecting to the Nash AI platform. Build and test AI agents, prompts, and workflows on realistic customer data; foundational hire building out the Solutions Engineering function from scratch. · [Apply →](https://jobs.ashbyhq.com/Nash/c485ac8a-9b1f-4d29-be99-2d0937bd0f14)_
 
 `REST APIs` `Webhooks` `JSON` `Python` `AI Agents` `Prompt Engineering` `System Architecture` `OMS/WMS/TMS integration`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$118k—$148k`
-
-_Develop novel algorithms and automated analysis workflows for genomic data to advance early cancer detection; analyze multi-omic datasets using high-performance pipelines and statistical models. Role requires deep expertise in NGS analysis, variant calling, and clinical-grade bioinformatics infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6122491004)_
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `WDL` `AWS` `NGS Analysis` `Variant Calling`
 
 <sub>July 31, 2026 at 21:16 UTC</sub>
 
@@ -2159,17 +2115,6 @@ _Lead the Detection & Response organization within Infrastructure Security, defi
 _Own the architectural integrity and code quality of AI-assisted products in a two-person pod; direct and verify agentically generated code at high volume while deciding what's safe to ship at pilot pace and hardening toward general availability. · [Apply →](https://jobs.ashbyhq.com/instructure/610803aa-4723-431e-9124-2c4aa340ca62)_
 
 `AI-assisted development` `Git` `Python` `TypeScript` `security` `scalability` `product sense`
-
-<sub>July 28, 2026 at 21:17 UTC</sub>
-
----
-
-### [Staff Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6115020004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Staff` `$152k-$190k` `Equity`
-
-_Build and deploy AI agent workflows that automate high-leverage business processes across domains (clinical operations, lab, commercial, etc.), connecting agents to enterprise systems and owning performance in production. Work embedded within business units to identify 10-100x productivity gains, design human-in-the-loop workflows, and measure impact on business KPIs; experience with regulated healthcare environments (HIPAA) is valuable. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6115020004)_
-
-`Python` `LLMs` `Retrieval-Augmented Generation (RAG)` `Agent Development` `MCP (Model Context Protocol)` `SQL` `Cloud Platforms` `LangChain`
 
 <sub>July 28, 2026 at 21:17 UTC</sub>
 

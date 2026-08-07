@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **151 companies** · **394 open roles** (37 new)
+### **150 companies** · **380 open roles** (38 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -34,6 +34,7 @@ Abbott creates medical devices and healthcare solutions for cardiovascular healt
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Packaged App Development Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-App-Development-Senior-Analyst_R00338270-1) · `🟢 Remote` `Senior` (Aug 7)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 7)
 
 ---
 
@@ -92,26 +93,6 @@ Airbnb operates a platform offering vacation rentals across 220+ countries and r
 - [Sr Staff Software Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Staff-Software-Engineer_JR-000805) · `🟢 Remote` `Staff` `$145k-$176k` (Aug 5)
 - [Software Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Software-Engineer--MANTL-_JR-000779) · `🟢 Remote` `Mid` `$120k-$145k` (Jul 24)
 - [Staff Software Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer--MANTL-_JR-000775) · `🟢 Remote` `Senior` `$150k-$175k` (Jul 24)
-
----
-
-## <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Anduril Industries](https://anduril.com)
-
-Anduril Industries builds autonomous systems and defense technology for US and allied forces.
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Chief Radar Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5205891007?gh_jid=5205891007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$189k-$251k` `Equity` (Aug 7)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Platform Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 7)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Tooling](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 7)
-- [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 5)
-- [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204301007?gh_jid=5204301007) · Boulder, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 5)
-- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 4)
-- [Senior Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5203172007?gh_jid=5203172007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 4)
-- [Senior Software Engineer, PLM ](https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007) · `🟢 Remote` `Senior` `$166k-$220k` `Equity` (Aug 3)
-- [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Jul 31)
-- [Senior Software Engineer, Radar](https://boards.greenhouse.io/andurilindustries/jobs/5201033007?gh_jid=5201033007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Jul 31)
-- [Senior System Architect, Space Electronics ](https://boards.greenhouse.io/andurilindustries/jobs/5199928007?gh_jid=5199928007) · Boulder, Colorado · `Senior` `$126k-$167k` `Equity` (Jul 30)
-- [Staff Systems Architect, Space Electronics ](https://boards.greenhouse.io/andurilindustries/jobs/5199933007?gh_jid=5199933007) · Boulder, Colorado · `Staff` `$143k-$191k` `Equity` (Jul 30)
-- [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5195728007?gh_jid=5195728007) · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$126k-$167k` `Equity` (Jul 24)
 
 ---
 
@@ -268,7 +249,7 @@ Cerence Inc. delivers conversational and agentic AI-powered user experiences for
 
 Chainguard provides hardened, secure, and production-ready open source software builds, container images, and language libraries that are built from source in a SLSA L3-compliant factory and verified with SBOMs and provenance.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696743006) · `🟢 Remote` `Staff` `$170k-$231k` `Equity` (Aug 7)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696748006) · `🟢 Remote` `Staff` `Equity` (Aug 7)
 - [Senior Software Engineer  (Guarded OS) ](https://job-boards.greenhouse.io/chainguard/jobs/4686153006) · `🟢 Remote` `Senior` `Equity` (Aug 4)
 - [Senior Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700937006) · `🟢 Remote` `Senior` `$157k–$184k` `Equity` (Jul 29)
 - [Staff Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700933006) · `🟢 Remote` `Staff` `$205k-$231k` `Equity` (Jul 29)
@@ -476,14 +457,6 @@ EvolutionIQ provides an insurance claims guidance platform that helps carriers p
 
 ---
 
-## <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[F5 Networks](https://f5.com)
-
-F5 Networks provides application services that ensure applications remain secure and perform consistently across any environment and device.
-
-- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
-
----
-
 ## <a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Federato](https://federato.com)
 
 Federato builds an AI-native insurance platform that handles the full policy lifecycle, including risk assessment, quoting, and portfolio management.
@@ -659,6 +632,7 @@ inKind is an app that helps users discover dining restaurants, browse menus, and
 
 Instacart operates a grocery delivery service that allows customers to order groceries and household goods for delivery, while also providing earnings opportunities for personal shoppers who fulfill those orders.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer - Core Experience, Growth](https://instacart.careers/job/?gh_jid=8113993) · `🟢 Remote` `Senior` `$168k–$177k CAD` `Equity` (Aug 7)
 - [Senior Android Engineer, Shopper Activation and Engagement](https://instacart.careers/job/?gh_jid=8099277) · `🟢 Remote` `Senior` `CAN$168k—$177k` `Equity` (Jul 31)
 - [Forward Deployed Engineer](https://instacart.careers/job/?gh_jid=8097510) · `🟢 Remote` `Senior` `$169k—$214k USD` `Equity` (Jul 30)
 - [Senior Risk & Compliance Engineer - Data](https://instacart.careers/job/?gh_jid=8091193) · `🟢 Remote` `Senior` `CAN$153k-CAN$187k` `Equity` (Jul 29)
@@ -881,15 +855,9 @@ Nash provides autonomic logistics software that unifies decision-making across f
 
 ---
 
-## <a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Natera](https://natera.com)
+## <a href="https://nginx.com"><img src="https://www.google.com/s2/favicons?domain=nginx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nginx](https://nginx.com)
 
-Natera develops cell-free DNA tests for oncology, women's health, and organ health to inform healthcare decisions.
-
-- [Staff Software Engineer in Test, Product Engineering](https://job-boards.greenhouse.io/natera/jobs/6135368004) · `🟢 Remote` `Principal` (Aug 6)
-- [Staff Scientist, Bioinformatics/RWD](https://job-boards.greenhouse.io/natera/jobs/6128396004) · `🟢 Remote` `Senior` `$158k-$197.5k` `Equity` (Aug 4)
-- [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004) · `🟢 Remote` `Senior` (Aug 1)
-- [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004) · `🟢 Remote` `Senior` `$118k—$148k` (Jul 31)
-- [Staff Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6115020004) · `🟢 Remote` `Staff` `$152k-$190k` `Equity` (Jul 28)
+- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
 
 ---
 
@@ -1390,6 +1358,15 @@ Vercel provides frameworks, workflows, and infrastructure that developers use to
 Verdigris uses 8 kHz waveform analysis to detect equipment degradation and prevent outages in AI data centers.
 
 - [Forward Deployed Engineer — Strategic Solutions, Integration & Delivery](https://jobs.lever.co/verdigris/9d1fa824-0e29-43f3-985a-0b3d7b1e05f4) · `🟢 Remote` `Principal` (Aug 4)
+
+---
+
+## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
+
+Visa provides personal payment solutions, payment cards, and rewards programs.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W) · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity` (Aug 7)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W) · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity` (Aug 7)
 
 ---
 
