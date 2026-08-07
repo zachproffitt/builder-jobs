@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **380 open roles** (38 new) &nbsp;·&nbsp; 1754 companies searched
+### **397 open roles** (44 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,83 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 7, 2026
+
+### [Staff Software Engineer,  Data Governance & Foundations](https://instacart.careers/job/?gh_jid=7778693)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k—$279k` `Equity`
+
+_Own the architecture and delivery of Instacart's open data lakehouse foundation, governance patterns, and multi-engine compute strategy serving Data Science, ML, Ads, and Finance teams at scale. Balance today's reliability with three to five years of scale, maturity, and cost efficiency across Apache Iceberg, Flink, Trino, ClickHouse, and Kafka. · [Apply →](https://instacart.careers/job/?gh_jid=7778693)_
+
+`Apache Iceberg` `Apache Flink` `Trino` `ClickHouse` `Apache Kafka` `Apache Spark` `Scala` `Python`
+
+<sub>August 7, 2026 at 15:03 UTC</sub>
+
+---
+
+### [Staff Engineer, Query Optimization](https://www.mongodb.com/careers/job/?gh_jid=7870876)
+<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · New York, New York / Dublin, Ireland / Seattle, Washington / Palo Alto, California / Chicago, Illinois / Remote · `Staff` `$151k-$297k` `Equity`
+
+_Design and build MongoDB's distributed query optimizer, rewriting core optimization and execution systems for a document database serving 67,000+ customers including 75% of the Fortune 100. Requires deep expertise in database internals, C++ systems programming, and distributed systems at scale. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=7870876)_
+
+`C++` `Distributed Systems` `Database Internals` `Query Optimization` `Large-scale Backend Engineering` `Compilers`
+
+<sub>August 7, 2026 at 15:03 UTC</sub>
+
+---
+
+### [MySQL Database Support Engineer (AMERICAS - Remote)](https://jobs.ashbyhq.com/percona/e2c7b0ce-e95e-45fe-8462-03a4e67460f7)
+<a href="https://percona.com"><img src="https://www.google.com/s2/favicons?domain=percona.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Percona** · `🟢 Remote` `Mid` `Equity`
+
+_Provide expert technical support to customers' DBA teams on MySQL, InnoDB, and database infrastructure issues, investigating problems and delivering detailed analysis via email, messaging, and screen-sharing sessions. Author technical content, maintain knowledge bases, and host webinars for the open-source database community. · [Apply →](https://jobs.ashbyhq.com/percona/e2c7b0ce-e95e-45fe-8462-03a4e67460f7)_
+
+`MySQL` `InnoDB` `Linux` `Xtrabackup` `mydumper` `Kubernetes` `AWS` `PostgreSQL`
+
+<sub>August 7, 2026 at 15:03 UTC</sub>
+
+---
+
+### [System Administrator (1503)](https://anaqua.bamboohr.com/careers/949)
+<a href="https://seeunity.com"><img src="https://www.google.com/s2/favicons?domain=seeunity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SeeUnity** · `🟢 Remote` `Mid` `$70k-$105k`
+
+_Lead migrations of enterprise SaaS applications from legacy hosting to modern cloud infrastructure while managing Windows Server environments, SQL Server databases, and cloud operations. Requires hands-on experience with Microsoft Azure and global team coordination across multiple time zones. · [Apply →](https://anaqua.bamboohr.com/careers/949)_
+
+`Windows Server` `Azure` `Microsoft SQL Server` `IIS` `Azure AD` `PowerShell`
+
+<sub>August 7, 2026 at 15:03 UTC</sub>
+
+---
+
+### [ML Engineer, II - Simulation Enablement](https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002)
+<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · `🟢 Remote` `Senior` `$153k-$183k` `Equity`
+
+_Build end-to-end data pipelines and simulation infrastructure to enable autonomous vehicle teams to replay, evaluate, and visualize perception and behavior models at scale. Embedded with autonomy teams, you'll debug full-stack issues from data ingestion through metrics evaluation and drive adoption of Torc Sim across the organization. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002)_
+
+`Python` `Data Pipelines` `Simulation` `Robotics` `Perception Models` `Ray` `Terraform` `GitHub Actions`
+
+<sub>August 7, 2026 at 15:03 UTC</sub>
+
+---
+
+### [Senior Software Developer, Book of Record (Core Balances)](https://jobs.ashbyhq.com/wealthsimple/4e35b213-2df8-4891-9e42-dd26d30af1dc)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Design and build the backend services that track client balances, reserves, and financial activity in real time across Wealthsimple's platform. Solve hard problems in real-time correctness, low latency, and high availability on live financial systems handling $155B+ in assets under administration. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/4e35b213-2df8-4891-9e42-dd26d30af1dc)_
+
+`Kotlin` `Java` `Kafka` `GraphQL` `PostgreSQL` `Event-Driven Architecture` `Stream Processing` `Kubernetes`
+
+<sub>August 7, 2026 at 15:03 UTC</sub>
+
+---
+
+### [SAP Platform Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
+
+_Design and implement SAP application security controls, including security roles, access controls, segregation of duties rules, and security analytics solutions for enterprise clients. Conduct security assessments and manage small components of SAP S/4HANA implementations with client-facing responsibilities and regular travel. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592)_
+
+`SAP S/4HANA` `SAP GRC` `SAP Fiori` `SAP BTP` `HANA DB` `Role-Based Access Control` `Segregation of Duties`
+
+<sub>August 7, 2026 at 15:03 UTC</sub>
+
+---
 
 ### [Senior Software Engineer - Core Experience, Growth](https://instacart.careers/job/?gh_jid=8113993)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$168k–$177k CAD` `Equity`
@@ -102,10 +179,10 @@ _Design and operate distributed training systems for large neural networks acros
 
 ---
 
-### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
+### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
 
-_Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOM), and harden Kubernetes clusters and cloud infrastructure on GCP/AWS. Requires 7+ years of hands-on security engineering and production Kubernetes expertise. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)_
+_Design and build secure CI/CD pipelines with software supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes workloads on GCP and AWS. Lead security architecture for cloud-native products at scale, serving Fortune 500 enterprises. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)_
 
 `Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
 
@@ -119,17 +196,6 @@ _Design and build secure CI/CD pipelines with supply chain security controls (SL
 _Build and maintain automation scripts and data pipelines for court hearing verification workflows, integrating AI tools to identify and eliminate manual, repetitive processes at scale. Requires browser automation experience (web scraping, API integration) and hands-on work with Python, SQL, or similar scripting languages to support a nationwide attorney network. · [Apply →](https://www.abclegal.com/job-openings/job?id=7832866003&gh_jid=7832866003)_
 
 `Python` `SQL` `BeautifulSoup` `Scrapy` `Puppeteer` `API Integration` `ETL` `Airflow`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Senior Verification Operations Specialist – AI & Automation](https://www.abclegal.com/job-openings/job?id=7832875003&gh_jid=7832875003)
-<a href="https://docketly.com"><img src="https://www.google.com/s2/favicons?domain=docketly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docketly** · Longmont, Colorado · `Senior` `$54k-$58k`
-
-_Build and maintain automation scripts and AI-powered workflows to verify hearing information at scale, reducing manual verification work through data pipeline improvements and intelligent tool integration. Work with web scraping, ETL processes, and AI platforms (Claude, OpenAI) to eliminate repetitive operations across a nationwide attorney network. · [Apply →](https://www.abclegal.com/job-openings/job?id=7832875003&gh_jid=7832875003)_
-
-`Python` `SQL` `BeautifulSoup` `Puppeteer` `Zapier` `n8n` `Airflow` `API integrations`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -245,6 +311,17 @@ _Build and operate AI inference deployments on Tenstorrent's RISC-V accelerators
 
 ---
 
+### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
+<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
+
+_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
+
+`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
 ### [Principal Software Engineer, Configuration Platform ](https://careers.toasttab.com/jobs?gh_jid=8103307)
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$230k-$368k` `Equity`
 
@@ -256,12 +333,12 @@ _Design and operate the high-concurrency configuration platform that powers live
 
 ---
 
-### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
-<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
+### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
 
-_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
+_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
 
-`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
+`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -289,17 +366,6 @@ _Own the end-to-end vehicle architecture and technical baseline for a hypersonic
 
 ---
 
-### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
-
-_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
-
-`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
 <a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
 
@@ -322,6 +388,17 @@ _Build and operate large-scale data pipelines and foundational data products pow
 
 ---
 
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141k-$237k` `Equity`
+
+_Lead end-to-end data science projects applying advanced statistical and machine learning techniques to build predictive, recommendation, and optimization models that improve Zillow's real estate platform and customer experiences. Develop scalable data pipelines, feature engineering frameworks, and experimentation systems in partnership with engineering teams to operationalize models at scale. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)_
+
+`Python` `R` `SQL` `Machine Learning` `Statistics` `Experimentation Design` `Causal Inference`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
 ### [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W)
 <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity`
 
@@ -337,17 +414,6 @@ _Develop and maintain Visa's ServiceNow CMDB platform, ITOM Discovery, and relat
 <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity`
 
 _Build and maintain commercial or end-user applications for payment systems, conducting analysis, design, programming, debugging, and modification of computer programs. Interface with users to define requirements and develop cost estimates for software projects. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W)_
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
-
-_Build and prototype AI-native solutions and repeatable offerings for biopharma clients, turning emerging AI capabilities into tangible products and experiences. Serve as connective tissue across strategy, creative, technology, and operations—designing for scale and driving organizational adoption of AI-first approaches in a fast-moving consulting environment. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417)_
-
-`Claude` `ChatGPT` `Generative AI` `Prompt Engineering` `API Integration` `Low-Code Automation` `Agentic Workflows` `Rapid Prototyping`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
