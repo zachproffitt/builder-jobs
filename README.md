@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **395 open roles** (24 new) &nbsp;·&nbsp; 1754 companies searched
+### **403 open roles** (23 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -247,6 +247,17 @@ _Lead a team of product engineers building the core developer experience and pla
 
 ---
 
+### [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build backend services and APIs that abstract AWS cloud complexity into self-service platforms for account provisioning, networking, IAM, and policy enforcement. Owns end-to-end reliability and observability; requires 6+ years platform/backend engineering experience and production AWS expertise. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)_
+
+`Go` `Python` `AWS` `Terraform` `CI/CD` `Distributed Systems` `API Design` `Infrastructure as Code`
+
+<sub>August 7, 2026 at 19:08 UTC</sub>
+
+---
+
 ### [Manager, Customer Engineering](https://job-boards.greenhouse.io/cortex/jobs/5383170008)
 <a href="https://cortex.io"><img src="https://www.google.com/s2/favicons?domain=cortex.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cortex** · `🟢 Remote` `Manager` `$150k-$175k` `Equity`
 
@@ -255,28 +266,6 @@ _Lead and scale the Customer Engineering team while serving as the technical esc
 `Git` `CI/CD` `Code Review`
 
 <sub>August 7, 2026 at 17:55 UTC</sub>
-
----
-
-### [Senior Cloud Security Engineer](https://jobs.ashbyhq.com/rescale/a457d07c-500c-4678-9347-4b7ce85c6482)
-<a href="https://rescale.com"><img src="https://www.google.com/s2/favicons?domain=rescale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rescale** · `🟢 Remote` `Senior`
-
-_Design and build cloud infrastructure security controls, identity systems, and detection pipelines across AWS, Okta, and GitHub Enterprise. Secure emerging AI-assisted and agentic tooling while maintaining Terraform-based IaC for compliance and access management. · [Apply →](https://jobs.ashbyhq.com/rescale/a457d07c-500c-4678-9347-4b7ce85c6482)_
-
-`AWS` `Terraform` `Python` `Bash` `Okta` `IAM` `CloudTrail` `Athena`
-
-<sub>August 7, 2026 at 17:02 UTC</sub>
-
----
-
-### [Staff Software Engineer, Catering & Events](https://careers.toasttab.com/jobs?gh_jid=8083274)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Staff` `$151k-$309k` `Equity`
-
-_Lead the design and delivery of distributed systems for Toast's Catering & Events platform, managing complex workflows across microservices architectures. Drive technical strategy, mentor engineers, and champion AI adoption to improve developer productivity and customer impact. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8083274)_
-
-`Java` `Kotlin` `Microservices` `System Design` `Distributed Systems`
-
-<sub>August 7, 2026 at 17:02 UTC</sub>
 
 ---
 
