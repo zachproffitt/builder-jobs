@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **395 open roles** (34 new) &nbsp;·&nbsp; 1754 companies searched
+### **403 open roles** (28 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -48,7 +48,7 @@ _Lead a team of 3+ data scientists and governance professionals to build and sca
 ---
 
 ### [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain virtualization infrastructure supporting thousands of VMs at scale, automating operations across open-source and VMware environments processing millions of daily events. Requires US citizenship or green card. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)_
 
@@ -85,7 +85,7 @@ _Lead the technical architecture and hands-on development of Toast's ML platform
 ## August 7, 2026
 
 ### [Principal Staff Engineer, AI Platform Research, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Principal` `$195k-$290k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Principal` `$195k-$290k` `Equity`
 
 _Design and build data infrastructure platforms for LLMs, RAG systems, and agentic AI workflows at exabyte scale, serving next-generation security products. Lead hands-on implementation of distributed data pipelines with MLOps best practices, mentoring engineers across cutting-edge AI platform technologies. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)_
 
@@ -247,6 +247,17 @@ _Lead a team of product engineers building the core developer experience and pla
 
 ---
 
+### [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build backend services and APIs that abstract AWS cloud complexity into self-service platforms for account provisioning, networking, IAM, and policy enforcement. Owns end-to-end reliability and observability; requires 6+ years platform/backend engineering experience and production AWS expertise. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)_
+
+`Go` `Python` `AWS` `Terraform` `CI/CD` `Distributed Systems` `API Design` `Infrastructure as Code`
+
+<sub>August 7, 2026 at 19:08 UTC</sub>
+
+---
+
 ### [Manager, Customer Engineering](https://job-boards.greenhouse.io/cortex/jobs/5383170008)
 <a href="https://cortex.io"><img src="https://www.google.com/s2/favicons?domain=cortex.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cortex** · `🟢 Remote` `Manager` `$150k-$175k` `Equity`
 
@@ -310,83 +321,6 @@ _Lead enterprise data and AI platform architecture for Fortune 500 customers on 
 `Snowflake` `Python` `SQL` `MLOps` `Machine Learning` `Data Engineering` `AWS` `Google Cloud`
 
 <sub>August 7, 2026 at 16:03 UTC</sub>
-
----
-
-### [Staff Software Engineer,  Data Governance & Foundations](https://instacart.careers/job/?gh_jid=7778693)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k—$279k` `Equity`
-
-_Own the architecture and delivery of Instacart's open data lakehouse foundation, governance patterns, and multi-engine compute strategy serving Data Science, ML, Ads, and Finance teams at scale. Balance today's reliability with three to five years of scale, maturity, and cost efficiency across Apache Iceberg, Flink, Trino, ClickHouse, and Kafka. · [Apply →](https://instacart.careers/job/?gh_jid=7778693)_
-
-`Apache Iceberg` `Apache Flink` `Trino` `ClickHouse` `Apache Kafka` `Apache Spark` `Scala` `Python`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
-
----
-
-### [Staff Engineer, Query Optimization](https://www.mongodb.com/careers/job/?gh_jid=7870876)
-<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · New York, New York / Dublin, Ireland / Seattle, Washington / Palo Alto, California / Chicago, Illinois / Remote · `Staff` `$151k-$297k` `Equity`
-
-_Design and build MongoDB's distributed query optimizer, rewriting core optimization and execution systems for a document database serving 67,000+ customers including 75% of the Fortune 100. Requires deep expertise in database internals, C++ systems programming, and distributed systems at scale. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=7870876)_
-
-`C++` `Distributed Systems` `Database Internals` `Query Optimization` `Large-scale Backend Engineering` `Compilers`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
-
----
-
-### [MySQL Database Support Engineer (AMERICAS - Remote)](https://jobs.ashbyhq.com/percona/e2c7b0ce-e95e-45fe-8462-03a4e67460f7)
-<a href="https://percona.com"><img src="https://www.google.com/s2/favicons?domain=percona.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Percona** · `🟢 Remote` `Mid` `Equity`
-
-_Provide expert technical support to customers' DBA teams on MySQL, InnoDB, and database infrastructure issues, investigating problems and delivering detailed analysis via email, messaging, and screen-sharing sessions. Author technical content, maintain knowledge bases, and host webinars for the open-source database community. · [Apply →](https://jobs.ashbyhq.com/percona/e2c7b0ce-e95e-45fe-8462-03a4e67460f7)_
-
-`MySQL` `InnoDB` `Linux` `Xtrabackup` `mydumper` `Kubernetes` `AWS` `PostgreSQL`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
-
----
-
-### [System Administrator (1503)](https://anaqua.bamboohr.com/careers/949)
-<a href="https://seeunity.com"><img src="https://www.google.com/s2/favicons?domain=seeunity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SeeUnity** · `🟢 Remote` `Mid` `$70k-$105k`
-
-_Lead migrations of enterprise SaaS applications from legacy hosting to modern cloud infrastructure while managing Windows Server environments, SQL Server databases, and cloud operations. Requires hands-on experience with Microsoft Azure and global team coordination across multiple time zones. · [Apply →](https://anaqua.bamboohr.com/careers/949)_
-
-`Windows Server` `Azure` `Microsoft SQL Server` `IIS` `Azure AD` `PowerShell`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
-
----
-
-### [ML Engineer, II - Simulation Enablement](https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · `🟢 Remote` `Senior` `$153k-$183k` `Equity`
-
-_Build end-to-end data pipelines and simulation infrastructure to enable autonomous vehicle teams to replay, evaluate, and visualize perception and behavior models at scale. Embedded with autonomy teams, you'll debug full-stack issues from data ingestion through metrics evaluation and drive adoption of Torc Sim across the organization. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002)_
-
-`Python` `Data Pipelines` `Simulation` `Robotics` `Perception Models` `Ray` `Terraform` `GitHub Actions`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
-
----
-
-### [Senior Software Developer, Book of Record (Core Balances)](https://jobs.ashbyhq.com/wealthsimple/4e35b213-2df8-4891-9e42-dd26d30af1dc)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
-
-_Design and build the backend services that track client balances, reserves, and financial activity in real time across Wealthsimple's platform. Solve hard problems in real-time correctness, low latency, and high availability on live financial systems handling $155B+ in assets under administration. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/4e35b213-2df8-4891-9e42-dd26d30af1dc)_
-
-`Kotlin` `Java` `Kafka` `GraphQL` `PostgreSQL` `Event-Driven Architecture` `Stream Processing` `Kubernetes`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
-
----
-
-### [SAP Platform Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
-
-_Design and implement SAP application security controls, including security roles, access controls, segregation of duties rules, and security analytics solutions for enterprise clients. Conduct security assessments and manage small components of SAP S/4HANA implementations with client-facing responsibilities and regular travel. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592)_
-
-`SAP S/4HANA` `SAP GRC` `SAP Fiori` `SAP BTP` `HANA DB` `Role-Based Access Control` `Segregation of Duties`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
 
 ---
 
