@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **402 open roles** (14 new) &nbsp;·&nbsp; 1754 companies searched
+### **397 open roles** (14 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -139,6 +139,17 @@ _Build Benepass's internal AI platform from the ground up, starting with enginee
 
 ---
 
+### [CCaaS Tech Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Junior` `$75k-$125k`
+
+_Support the technical design, configuration, and delivery of contact center (CCaaS) platforms and agentic AI workflows on AWS, working across architecture, integration, and cloud environment setup for enterprise transformation programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1)_
+
+`Amazon Connect` `AWS` `APIs` `Agentic AI` `IVR` `Contact Center Architecture` `CI/CD` `Infrastructure as Code`
+
+<sub>August 7, 2026 at 22:48 UTC</sub>
+
+---
+
 ### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742)
 <a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k—$290k` `Equity`
 
@@ -158,17 +169,6 @@ _Build AI-powered operational products and systems at scale, taking ownership of
 `Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Distributed Systems`
 
 <sub>August 7, 2026 at 21:49 UTC</sub>
-
----
-
-### [Senior Data Engineer](https://job-boards.greenhouse.io/inmarket/jobs/8114866)
-<a href="https://inmarket.com"><img src="https://www.google.com/s2/favicons?domain=inmarket.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**InMarket** · `🟢 Remote` `Senior` `$140k-$175k` `Equity`
-
-_Design and implement ETL pipelines in Apache Airflow, BigQuery, and Spark that power InMarket's real-time marketing activation platform, handling massive datasets across hundreds of top-brand clients. Lead technical architecture decisions for a distributed, high-performance data platform while mentoring fellow engineers. · [Apply →](https://job-boards.greenhouse.io/inmarket/jobs/8114866)_
-
-`Apache Airflow` `BigQuery` `Python` `Spark` `SQL` `Kubernetes` `Docker` `Hadoop`
-
-<sub>August 7, 2026 at 20:52 UTC</sub>
 
 ---
 
