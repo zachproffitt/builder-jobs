@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **333 open roles** (29 new) &nbsp;·&nbsp; 1754 companies searched
+### **393 open roles** (33 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 8, 2026
+
+### [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+
+_Build and maintain virtualization infrastructure supporting thousands of VMs at scale, automating operations across open-source and VMware environments processing millions of daily events. Requires US citizenship or green card. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)_
+
+`Python` `Go` `Chef` `Linux` `VMware` `Kubernetes` `Terraform`
+
+<sub>August 8, 2026 at 02:10 UTC</sub>
+
+---
 
 ### [Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows](https://job-boards.greenhouse.io/gitlab/jobs/8646573002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `Equity`
@@ -39,6 +50,17 @@ _Lead the technical architecture and hands-on development of Toast's ML platform
 <br>
 
 ## August 7, 2026
+
+### [Principal Staff Engineer, AI Platform Research, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Principal` `$195k-$290k` `Equity`
+
+_Design and build data infrastructure platforms for LLMs, RAG systems, and agentic AI workflows at exabyte scale, serving next-generation security products. Lead hands-on implementation of distributed data pipelines with MLOps best practices, mentoring engineers across cutting-edge AI platform technologies. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)_
+
+`Python` `Go` `Rust` `Spark` `Kafka` `Kubernetes` `AWS` `GCP`
+
+<sub>August 7, 2026 at 23:41 UTC</sub>
+
+---
 
 ### [Senior Site Reliability engineer](https://jobs.lever.co/filevine/9522044d-e855-4c22-abfe-d15c6e3aa377)
 <a href="https://filevine.com"><img src="https://www.google.com/s2/favicons?domain=filevine.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Filevine** · `🟢 Remote` `Senior`
@@ -128,6 +150,17 @@ _Build an agentic platform that transforms marketing briefs into fully realized 
 
 ---
 
+### [Front-End Design Engineer, Data Science & Applied Machine Learning (DSAML)](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Front-End-Design-Engineer--Data-Science---Applied-Machine-Learning--DSAML-_REQ23875)
+<a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · `🟢 Remote` `Mid` `$116k-$155k` `Equity`
+
+_Design and build front-end UI for internal clinical decision-support applications, combining user research, prototyping, and production React development. Work in a regulated biotech environment where code quality, testing, and documentation are audit requirements. · [Apply →](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Front-End-Design-Engineer--Data-Science---Applied-Machine-Learning--DSAML-_REQ23875)_
+
+`React` `JavaScript` `TypeScript` `Python` `Git` `Automated Testing` `UX/UI Design` `Figma`
+
+<sub>August 7, 2026 at 19:08 UTC</sub>
+
+---
+
 ### [Senior Data Engineer](https://job-boards.greenhouse.io/cortex/jobs/5380208008)
 <a href="https://cortex.io"><img src="https://www.google.com/s2/favicons?domain=cortex.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cortex** · `🟢 Remote` `Senior` `$175k-$205k` `Equity`
 
@@ -156,6 +189,17 @@ _Own the architecture and infrastructure platform for an engineering operations 
 _Triage, investigate, and respond to intrusions across 5M+ endpoints as part of Huntress's 24/7 Security Operations Center. Work on malware analysis, EDR telemetry review, M365 threat investigation, and detection engineering for enterprise-grade cybersecurity protecting businesses worldwide. · [Apply →](https://job-boards.greenhouse.io/huntress/jobs/7835867003)_
 
 `EDR` `MITRE ATT&CK` `PowerShell` `Windows Administration` `Active Directory` `malware analysis` `M365` `Linux`
+
+<sub>August 7, 2026 at 19:08 UTC</sub>
+
+---
+
+### [Senior RPG Software Engineer](https://taylor.wd1.myworkdayjobs.com/External/job/MN-Remote/Senior-RPG-Software-Engineer_R29538)
+<a href="https://neps.com"><img src="https://www.google.com/s2/favicons?domain=neps.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NEPS, LLC** · `🟢 Remote` `Senior` `$90k-$100k`
+
+_Build web and Windows applications using RPG IV/ILE, integrating with SQL Server databases and web services. Legacy IBM i systems platform with 10+ years programming experience required. · [Apply →](https://taylor.wd1.myworkdayjobs.com/External/job/MN-Remote/Senior-RPG-Software-Engineer_R29538)_
+
+`RPG IV` `ILE` `RPG FREE` `HTTPLIB` `SQL Server` `CL` `XML` `JSON`
 
 <sub>August 7, 2026 at 19:08 UTC</sub>
 
