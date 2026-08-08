@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **403 open roles** (28 new) &nbsp;·&nbsp; 1754 companies searched
+### **395 open roles** (24 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -48,7 +48,7 @@ _Lead a team of 3+ data scientists and governance professionals to build and sca
 ---
 
 ### [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain virtualization infrastructure supporting thousands of VMs at scale, automating operations across open-source and VMware environments processing millions of daily events. Requires US citizenship or green card. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)_
 
@@ -85,7 +85,7 @@ _Lead the technical architecture and hands-on development of Toast's ML platform
 ## August 7, 2026
 
 ### [Principal Staff Engineer, AI Platform Research, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Principal` `$195k-$290k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Principal` `$195k-$290k` `Equity`
 
 _Design and build data infrastructure platforms for LLMs, RAG systems, and agentic AI workflows at exabyte scale, serving next-generation security products. Lead hands-on implementation of distributed data pipelines with MLOps best practices, mentoring engineers across cutting-edge AI platform technologies. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)_
 
@@ -247,17 +247,6 @@ _Lead a team of product engineers building the core developer experience and pla
 
 ---
 
-### [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Build backend services and APIs that abstract AWS cloud complexity into self-service platforms for account provisioning, networking, IAM, and policy enforcement. Owns end-to-end reliability and observability; requires 6+ years platform/backend engineering experience and production AWS expertise. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)_
-
-`Go` `Python` `AWS` `Terraform` `CI/CD` `Distributed Systems` `API Design` `Infrastructure as Code`
-
-<sub>August 7, 2026 at 19:08 UTC</sub>
-
----
-
 ### [Manager, Customer Engineering](https://job-boards.greenhouse.io/cortex/jobs/5383170008)
 <a href="https://cortex.io"><img src="https://www.google.com/s2/favicons?domain=cortex.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cortex** · `🟢 Remote` `Manager` `$150k-$175k` `Equity`
 
@@ -288,39 +277,6 @@ _Lead the design and delivery of distributed systems for Toast's Catering & Even
 `Java` `Kotlin` `Microservices` `System Design` `Distributed Systems`
 
 <sub>August 7, 2026 at 17:02 UTC</sub>
-
----
-
-### [Senior Electrical Systems Engineer, Space ](https://boards.greenhouse.io/andurilindustries/jobs/5206872007?gh_jid=5206872007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$126k-$167k` `Equity`
-
-_Own the electrical architecture and end-to-end design of space-bound imaging payloads for EO/IR sensor systems, from concept through flight qualification in rapid 12-month cycles. Requires hands-on expertise in analog/digital/mixed-signal PCB design, space environment qualification (radiation, thermal, vacuum, vibration), and rad-hard/COTS tradeoff analysis for defense applications; must be eligible for Secret clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5206872007?gh_jid=5206872007)_
-
-`PCB Layout` `Analog Electronics` `Digital Electronics` `Power Electronics` `MATLAB` `Python` `C++` `TS/SCI Clearance`
-
-<sub>August 7, 2026 at 16:03 UTC</sub>
-
----
-
-### [Associate Triage Analyst](https://job-boards.greenhouse.io/huntress/jobs/7821492003)
-<a href="https://huntress.com"><img src="https://www.google.com/s2/favicons?domain=huntress.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Huntress** · `🟢 Remote` `Junior` `$55k-$70k` `Equity`
-
-_Triage high-volume security signals in a 24/7 SOC to distinguish benign system noise from genuine malicious activity, escalating qualified threats to senior analysts. Entry-level role designed as a talent incubator with structured learning and shadowing to advance into core security operations. · [Apply →](https://job-boards.greenhouse.io/huntress/jobs/7821492003)_
-
-`Security fundamentals` `Incident Response` `Playbook-based analysis`
-
-<sub>August 7, 2026 at 16:03 UTC</sub>
-
----
-
-### [Sr. Technical Architect](https://jobs.ashbyhq.com/snowflake/8a9aa154-50fc-4fde-b581-f24f291315fe)
-<a href="https://snowflake.com"><img src="https://www.google.com/s2/favicons?domain=snowflake.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Snowflake** · `🟢 Remote` `Senior`
-
-_Lead enterprise data and AI platform architecture for Fortune 500 customers on Snowflake, owning end-to-end solution design, MLOps implementation, and technical delivery across complex multi-workstream engagements. Requires deep hands-on expertise in production Snowflake deployments, ML/AI lifecycle management, and ability to influence senior technical and executive stakeholders at scale. · [Apply →](https://jobs.ashbyhq.com/snowflake/8a9aa154-50fc-4fde-b581-f24f291315fe)_
-
-`Snowflake` `Python` `SQL` `MLOps` `Machine Learning` `Data Engineering` `AWS` `Google Cloud`
-
-<sub>August 7, 2026 at 16:03 UTC</sub>
 
 ---
 
