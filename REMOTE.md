@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **226 open roles** (18 new)
+### **227 open roles** (18 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -534,6 +534,17 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 _Build and maintain k6, an open-source performance testing tool written in Go, including features across the core codebase and distributed cloud services that run tests at global scale. Work on non-trivial systems requiring deep understanding of HTTP, gRPC, WebSockets, and networking concepts with direct impact on millions of users. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6135686004)_
 
 `Go` `gRPC` `WebSockets` `HTTP` `Docker` `AWS` `TypeScript` `Distributed Systems`
+
+<sub>August 5, 2026 at 22:17 UTC</sub>
+
+---
+
+### [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Own the enterprise Snowflake data platform architecture, administration, and ELT/ETL pipeline development supporting financial close, analytics, and AI initiatives across Finance, Sales, Product, and HR. Lead modernization of cloud data infrastructure on AWS with responsibility for security, governance, reliability, and mentoring the data engineering organization. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)_
+
+`Snowflake` `SQL` `Python` `Informatica` `AWS` `dbt` `Airflow` `Data Warehousing`
 
 <sub>August 5, 2026 at 22:17 UTC</sub>
 
@@ -1472,23 +1483,23 @@ _Develop machine learning models and systems for Pinterest's search, recommendat
 
 ---
 
-### [Support Engineer (AMER)](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
-
-_Resolve customer issues in GitLab's DevSecOps platform across Self-managed and SaaS deployments, diving into codebase and infrastructure to diagnose root causes and contribute merge requests for fixes. Work embedded within the Engineering department with on-call rotation coverage and responsibilities for documentation, testing, and hiring. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)_
-
-`Ruby` `Bash` `Ruby on Rails` `Git` `Kubernetes` `Linux Systems Administration` `CI/CD` `GitLab`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
 ### [Senior Data Reliability Engineer AWS](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Reliability-Engineer-AWS_R0061387)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105.7k-$149.3k`
 
 _Own the reliability and stability of AWS-based production data pipelines and analytics platforms, diagnosing failures, performing root cause analysis, and implementing durable fixes across distributed systems like Spark, EMR, and Redshift. Requires 5+ years operating production data platforms and hands-on experience troubleshooting real-world pipeline failures. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Reliability-Engineer-AWS_R0061387)_
 
 `Python` `SQL` `AWS` `Apache Spark` `Amazon EMR` `Amazon Redshift` `Kafka` `Observability`
+
+<sub>July 31, 2026 at 19:46 UTC</sub>
+
+---
+
+### [Support Engineer (AMER)](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
+
+_Resolve customer issues in GitLab's DevSecOps platform across Self-managed and SaaS deployments, diving into codebase and infrastructure to diagnose root causes and contribute merge requests for fixes. Work embedded within the Engineering department with on-call rotation coverage and responsibilities for documentation, testing, and hiring. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)_
+
+`Ruby` `Bash` `Ruby on Rails` `Git` `Kubernetes` `Linux Systems Administration` `CI/CD` `GitLab`
 
 <sub>July 31, 2026 at 19:46 UTC</sub>
 

@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **332 open roles** (29 new) &nbsp;·&nbsp; 1754 companies searched
+### **333 open roles** (29 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -455,6 +455,17 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 _Build and maintain k6, an open-source performance testing tool written in Go, including features across the core codebase and distributed cloud services that run tests at global scale. Work on non-trivial systems requiring deep understanding of HTTP, gRPC, WebSockets, and networking concepts with direct impact on millions of users. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6135686004)_
 
 `Go` `gRPC` `WebSockets` `HTTP` `Docker` `AWS` `TypeScript` `Distributed Systems`
+
+<sub>August 5, 2026 at 22:17 UTC</sub>
+
+---
+
+### [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Own the enterprise Snowflake data platform architecture, administration, and ELT/ETL pipeline development supporting financial close, analytics, and AI initiatives across Finance, Sales, Product, and HR. Lead modernization of cloud data infrastructure on AWS with responsibility for security, governance, reliability, and mentoring the data engineering organization. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)_
+
+`Snowflake` `SQL` `Python` `Informatica` `AWS` `dbt` `Airflow` `Data Warehousing`
 
 <sub>August 5, 2026 at 22:17 UTC</sub>
 
@@ -1655,23 +1666,23 @@ _Develop machine learning models and systems for Pinterest's search, recommendat
 
 ---
 
-### [Support Engineer (AMER)](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
-
-_Resolve customer issues in GitLab's DevSecOps platform across Self-managed and SaaS deployments, diving into codebase and infrastructure to diagnose root causes and contribute merge requests for fixes. Work embedded within the Engineering department with on-call rotation coverage and responsibilities for documentation, testing, and hiring. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)_
-
-`Ruby` `Bash` `Ruby on Rails` `Git` `Kubernetes` `Linux Systems Administration` `CI/CD` `GitLab`
-
-<sub>July 31, 2026 at 19:46 UTC</sub>
-
----
-
 ### [Senior Data Reliability Engineer AWS](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Reliability-Engineer-AWS_R0061387)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105.7k-$149.3k`
 
 _Own the reliability and stability of AWS-based production data pipelines and analytics platforms, diagnosing failures, performing root cause analysis, and implementing durable fixes across distributed systems like Spark, EMR, and Redshift. Requires 5+ years operating production data platforms and hands-on experience troubleshooting real-world pipeline failures. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Reliability-Engineer-AWS_R0061387)_
 
 `Python` `SQL` `AWS` `Apache Spark` `Amazon EMR` `Amazon Redshift` `Kafka` `Observability`
+
+<sub>July 31, 2026 at 19:46 UTC</sub>
+
+---
+
+### [Support Engineer (AMER)](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
+
+_Resolve customer issues in GitLab's DevSecOps platform across Self-managed and SaaS deployments, diving into codebase and infrastructure to diagnose root causes and contribute merge requests for fixes. Work embedded within the Engineering department with on-call rotation coverage and responsibilities for documentation, testing, and hiring. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8654230002)_
+
+`Ruby` `Bash` `Ruby on Rails` `Git` `Kubernetes` `Linux Systems Administration` `CI/CD` `GitLab`
 
 <sub>July 31, 2026 at 19:46 UTC</sub>
 
@@ -2633,23 +2644,23 @@ _Lead expert-level adversary tracking and threat hunting for industrial control 
 
 ---
 
-### [Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/goguardian/jobs/4700561006)
-<a href="https://goguardian.com"><img src="https://www.google.com/s2/favicons?domain=goguardian.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoGuardian** · `🟢 Remote` `Senior` `$155k-$195k` `Equity`
-
-_Build scalable full-stack services for K-12 school safety and campus management, spanning React frontends, Node/Go backends, and real-time data pipelines serving hundreds of thousands of teachers and students. Integrate LLM/AI features for generative reporting and design high-performance APIs (gRPC, REST) with SQL optimization for large-scale analytics workloads. · [Apply →](https://job-boards.greenhouse.io/goguardian/jobs/4700561006)_
-
-`Node.js` `Go` `React` `TypeScript` `PostgreSQL` `gRPC` `REST APIs` `AWS`
-
-<sub>July 28, 2026 at 19:46 UTC</sub>
-
----
-
 ### [Principal Data Modeler](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Data-Modeler_R0061317)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$138k - $200k`
 
 _Design enterprise-wide data modeling standards and physical schemas on Snowflake to enable governed, performant data products consumed at scale across the organization. Lead the definition of canonical entities, conformed dimensions, and metric definitions aligned to business glossaries and ontologies, with responsibility for governance-by-design, data contracts, and CI/CD integration. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Data-Modeler_R0061317)_
 
 `Snowflake` `dbt` `SQL` `Data Vault` `Star Schema` `Data Governance` `Metadata Management` `Git`
+
+<sub>July 28, 2026 at 19:46 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/goguardian/jobs/4700561006)
+<a href="https://goguardian.com"><img src="https://www.google.com/s2/favicons?domain=goguardian.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoGuardian** · `🟢 Remote` `Senior` `$155k-$195k` `Equity`
+
+_Build scalable full-stack services for K-12 school safety and campus management, spanning React frontends, Node/Go backends, and real-time data pipelines serving hundreds of thousands of teachers and students. Integrate LLM/AI features for generative reporting and design high-performance APIs (gRPC, REST) with SQL optimization for large-scale analytics workloads. · [Apply →](https://job-boards.greenhouse.io/goguardian/jobs/4700561006)_
+
+`Node.js` `Go` `React` `TypeScript` `PostgreSQL` `gRPC` `REST APIs` `AWS`
 
 <sub>July 28, 2026 at 19:46 UTC</sub>
 

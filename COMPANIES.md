@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **132 companies** · **332 open roles** (29 new)
+### **133 companies** · **333 open roles** (29 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -751,6 +751,14 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 - [Senior Software V&V Engineer](https://job-boards.greenhouse.io/natera/jobs/6130601004) · `🟢 Remote` `Senior` (Aug 1)
 - [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004) · `🟢 Remote` `Senior` `$118k—$148k` (Jul 31)
 - [Staff Forward Deployed AI Solutions Engineer](https://job-boards.greenhouse.io/natera/jobs/6115020004) · `🟢 Remote` `Staff` `$152k-$190k` `Equity` (Jul 28)
+
+---
+
+## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+
+NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+
+- [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757) · `🟢 Remote` `Senior` (Aug 5)
 
 ---
 
