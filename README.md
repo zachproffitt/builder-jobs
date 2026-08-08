@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **397 open roles** (12 new) &nbsp;·&nbsp; 1754 companies searched
+### **395 open roles** (7 new) &nbsp;·&nbsp; 1754 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -59,7 +59,7 @@ _Lead a team of 3+ data scientists and governance professionals to build and sca
 ---
 
 ### [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain virtualization infrastructure supporting thousands of VMs at scale, automating operations across open-source and VMware environments processing millions of daily events. Requires US citizenship or green card. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)_
 
@@ -88,65 +88,6 @@ _Lead the technical architecture and hands-on development of Toast's ML platform
 `Java` `Kotlin` `Distributed Systems` `Feature Stores` `Model Serving` `Experimentation Platforms` `Kafka` `GPU Optimization`
 
 <sub>August 8, 2026 at 02:10 UTC</sub>
-
----
-
-<br>
-
-## August 7, 2026
-
-### [Principal Staff Engineer, AI Platform Research, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Principal` `$195k-$290k` `Equity`
-
-_Design and build data infrastructure platforms for LLMs, RAG systems, and agentic AI workflows at exabyte scale, serving next-generation security products. Lead hands-on implementation of distributed data pipelines with MLOps best practices, mentoring engineers across cutting-edge AI platform technologies. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540)_
-
-`Python` `Go` `Rust` `Spark` `Kafka` `Kubernetes` `AWS` `GCP`
-
-<sub>August 7, 2026 at 23:41 UTC</sub>
-
----
-
-### [Senior Site Reliability engineer](https://jobs.lever.co/filevine/9522044d-e855-4c22-abfe-d15c6e3aa377)
-<a href="https://filevine.com"><img src="https://www.google.com/s2/favicons?domain=filevine.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Filevine** · `🟢 Remote` `Senior`
-
-_Build and maintain the infrastructure, observability, and deployment systems that keep Filevine's Legal AI platform reliable at scale. Ensure production systems serving legal professionals operate with high availability and performance as the company scales. · [Apply →](https://jobs.lever.co/filevine/9522044d-e855-4c22-abfe-d15c6e3aa377)_
-
-`Kubernetes` `Terraform` `Python` `Go` `AWS` `PostgreSQL` `Observability`
-
-<sub>August 7, 2026 at 23:41 UTC</sub>
-
----
-
-### [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$230k-$322k` `Equity`
-
-_Lead end-to-end machine learning strategy and execution for Shopping Ads delivery, building models for targeting, retrieval, ranking, and conversion prediction across Dynamic Product Ads and Product Listing Ads. Design and optimize large-scale, low-latency production systems that balance model quality with serving constraints while mentoring engineers across multiple cross-functional teams. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8115838)_
-
-`Python` `PyTorch` `TensorFlow` `Recommendation Systems` `Conversion Modeling` `Multi-Task Learning` `Feature Engineering` `Production ML Systems`
-
-<sub>August 7, 2026 at 23:41 UTC</sub>
-
----
-
-### [Lead AI Systems Engineer](https://jobs.ashbyhq.com/benepass/e44e3219-9ff4-4283-9ab8-ac96ed39ec05)
-<a href="https://www.getbenepass.com"><img src="https://www.google.com/s2/favicons?domain=www.getbenepass.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benepass** · `🟢 Remote` `Staff` `$190k-$220k` `Equity`
-
-_Build Benepass's internal AI platform from the ground up, starting with engineering SDLC automation (coding assistants, CI/CD, testing) and evolving into company-wide agentic workflows and knowledge systems. Staff-level role requiring hands-on full-stack AI systems development, platform design, and cross-functional adoption leadership. · [Apply →](https://jobs.ashbyhq.com/benepass/e44e3219-9ff4-4283-9ab8-ac96ed39ec05)_
-
-`Python` `TypeScript` `LLM APIs` `Agents` `RAG` `CI/CD` `Observability` `Agentic Workflows`
-
-<sub>August 7, 2026 at 22:48 UTC</sub>
-
----
-
-### [CCaaS Tech Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Junior` `$75k-$125k`
-
-_Support the technical design, configuration, and delivery of contact center (CCaaS) platforms and agentic AI workflows on AWS, working across architecture, integration, and cloud environment setup for enterprise transformation programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1)_
-
-`Amazon Connect` `AWS` `APIs` `Agentic AI` `IVR` `Contact Center Architecture` `CI/CD` `Infrastructure as Code`
-
-<sub>August 7, 2026 at 22:48 UTC</sub>
 
 ---
 
