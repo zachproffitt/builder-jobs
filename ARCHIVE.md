@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **415 open roles** (4 new) &nbsp;·&nbsp; 1764 companies searched
+### **414 open roles** (1 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,39 @@ Remote and Colorado engineering roles posted more than 24 hours ago. Listings ar
 <br>
 
 ## August 8, 2026
+
+### [Quantitative Researcher, PhD New Grad](https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a)
+<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Junior` `$120k-$220k` `Equity`
+
+_Build machine learning models for fraud detection and financial risk assessment across SentiLink's product suite, from data acquisition through production deployment. Full-stack data science role with end-to-end ownership; domain depth and feature engineering drive competitive advantage over methodology optimization. · [Apply →](https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a)_
+
+`Python` `PostgreSQL` `AWS` `scikit-learn` `Machine Learning` `Statistics`
+
+<sub>August 8, 2026 at 14:40 UTC</sub>
+
+---
+
+### [Applied Scientist, PhD New Grad](https://jobs.ashbyhq.com/sentilink/cbe2397c-5e7a-4649-a8c0-07e5d1204e82)
+<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Junior` `$120k-$220k` `Equity`
+
+_Build machine learning models for fraud detection and financial risk assessment, deploying models to production that verify identities and identify fraudsters at scale. This is a full-stack role across the complete ML lifecycle—from data acquisition and feature engineering through model training, experimentation, productionalization, and monitoring—in a fast-moving fintech environment where domain understanding drives competitive advantage. · [Apply →](https://jobs.ashbyhq.com/sentilink/cbe2397c-5e7a-4649-a8c0-07e5d1204e82)_
+
+`Python` `PostgreSQL` `AWS` `scikit-learn` `Machine Learning` `Statistics`
+
+<sub>August 8, 2026 at 14:40 UTC</sub>
+
+---
+
+### [Manager, Model Risk and Governance](https://jobs.ashbyhq.com/sentilink/a20d1144-2aca-462d-a38c-9d7c4846cd20)
+<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$210k-$240k` `Equity`
+
+_Lead a team of 3+ data scientists and governance professionals to build and scale model risk management and governance infrastructure for fraud detection models serving financial institutions. Requires deep regulatory knowledge (SR 11-7, SR 26-2, OCC guidance) and hands-on technical depth in model validation, drift monitoring, and fair lending assessments. · [Apply →](https://jobs.ashbyhq.com/sentilink/a20d1144-2aca-462d-a38c-9d7c4846cd20)_
+
+`Python` `PostgreSQL` `AWS` `SQL` `Model Risk Management` `Fair Lending` `Regulatory Compliance`
+
+<sub>August 8, 2026 at 14:40 UTC</sub>
+
+---
 
 ### [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)
 <a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
@@ -476,10 +509,10 @@ _Design and operate distributed training systems for large neural networks acros
 
 ---
 
-### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
+### [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
-_Design and build secure CI/CD pipelines with software supply chain security controls (SLSA, Sigstore, SBOMs) and harden Kubernetes workloads on GCP and AWS. Lead security architecture for cloud-native products at scale, serving Fortune 500 enterprises. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696743006)_
+_Design and build secure CI/CD pipelines with supply chain security controls (SLSA, Sigstore, SBOM), and harden Kubernetes clusters and cloud infrastructure on GCP/AWS. Requires 7+ years of hands-on security engineering and production Kubernetes expertise. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696748006)_
 
 `Go` `Python` `Kubernetes` `GCP` `AWS` `GitHub Actions` `Sigstore` `SLSA`
 
@@ -652,6 +685,17 @@ _Own the end-to-end vehicle architecture and technical baseline for a hypersonic
 
 ---
 
+### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
+
+_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
+
+`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
 ### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
 <a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
 
@@ -680,17 +724,6 @@ _Develop application software for spatial intelligence systems; requires SECRET 
 _Build full-stack web applications with real-time geospatial data visualization and backend services for operational intelligence. Requires TS/SCI clearance and on-site work in Colorado Springs. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Colorado-Springs-CO/Full-Stack-Software-Developer_R24390)_
 
 `JavaScript` `C++` `Java` `Vue` `Angular` `Node.js` `Docker` `TS/SCI Clearance`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
-
-_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
-
-`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -1432,6 +1465,17 @@ _Design and deliver complex backend systems in Ruby on Rails, PostgreSQL, and Gr
 
 ---
 
+### [Principal Full Stack Software Engineer](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)
+<a href="https://www.jitx.com"><img src="https://www.google.com/s2/favicons?domain=www.jitx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JITX** · Remote / Bay Area, California · `🟡 Hybrid` `Principal`
+
+_Build and architect the user management platform and core runtime systems for a code-first circuit board design tool, handling full-stack infrastructure from TypeScript/React frontends to Python backends and complex computational geometry algorithms. Navigate deep technical challenges in graphics rendering, parallel computing optimization, and system architecture in an early-stage startup where you'll own large features end-to-end and raise engineering standards across the team. · [Apply →](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)_
+
+`TypeScript` `React` `Python` `PostgreSQL` `Electron` `PixiJS` `Computational Geometry` `Graph Algorithms`
+
+<sub>August 4, 2026 at 19:49 UTC</sub>
+
+---
+
 ### [Model-Based Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Model-Based-Systems-Engineer_R0245999)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
 
@@ -1449,17 +1493,6 @@ _Develop high-fidelity simulations of space Command and Control architectures fo
 _Develop and deploy security architectures for space sensing and mission-critical defense systems, leading assessments of security posture, vulnerability remediation, and cyber risk management across Major Defense Acquisition Programs. Requires TS clearance and direct work with Air Force warfighter systems. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cybersecurity-Architect_R0246032)_
 
 `Cyber Risk Assessment` `Risk Management Framework` `DoD 8140` `Security+` `Network Security` `Threat Modeling` `TS/SCI Clearance`
-
-<sub>August 4, 2026 at 19:49 UTC</sub>
-
----
-
-### [Principal Full Stack Software Engineer](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)
-<a href="https://www.jitx.com"><img src="https://www.google.com/s2/favicons?domain=www.jitx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**JITX** · Remote / Bay Area, California · `🟡 Hybrid` `Principal`
-
-_Build and architect the user management platform and core runtime systems for a code-first circuit board design tool, handling full-stack infrastructure from TypeScript/React frontends to Python backends and complex computational geometry algorithms. Navigate deep technical challenges in graphics rendering, parallel computing optimization, and system architecture in an early-stage startup where you'll own large features end-to-end and raise engineering standards across the team. · [Apply →](https://jobs.lever.co/jitxinc/58b4ceee-01c2-4397-80d7-48560d763d73)_
-
-`TypeScript` `React` `Python` `PostgreSQL` `Electron` `PixiJS` `Computational Geometry` `Graph Algorithms`
 
 <sub>August 4, 2026 at 19:49 UTC</sub>
 
@@ -2317,23 +2350,23 @@ _Provide senior technical escalation for GPU cloud infrastructure, troubleshooti
 
 ---
 
-### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$118k—$148k`
-
-_Develop novel algorithms and automated analysis workflows for genomic data to advance early cancer detection; analyze multi-omic datasets using high-performance pipelines and statistical models. Role requires deep expertise in NGS analysis, variant calling, and clinical-grade bioinformatics infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6122491004)_
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `WDL` `AWS` `NGS Analysis` `Variant Calling`
-
-<sub>July 31, 2026 at 21:16 UTC</sub>
-
----
-
 ### [Solutions Engineer](https://jobs.ashbyhq.com/Nash/c485ac8a-9b1f-4d29-be99-2d0937bd0f14)
 <a href="https://www.usenash.com"><img src="https://www.google.com/s2/favicons?domain=www.usenash.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nash** · `🟢 Remote` `Mid` `Equity`
 
 _Lead technical discovery, design integration architecture, and build POCs for enterprise logistics customers connecting to the Nash AI platform. Build and test AI agents, prompts, and workflows on realistic customer data; foundational hire building out the Solutions Engineering function from scratch. · [Apply →](https://jobs.ashbyhq.com/Nash/c485ac8a-9b1f-4d29-be99-2d0937bd0f14)_
 
 `REST APIs` `Webhooks` `JSON` `Python` `AI Agents` `Prompt Engineering` `System Architecture` `OMS/WMS/TMS integration`
+
+<sub>July 31, 2026 at 21:16 UTC</sub>
+
+---
+
+### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6122491004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$118k—$148k`
+
+_Develop novel algorithms and automated analysis workflows for genomic data to advance early cancer detection; analyze multi-omic datasets using high-performance pipelines and statistical models. Role requires deep expertise in NGS analysis, variant calling, and clinical-grade bioinformatics infrastructure at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6122491004)_
+
+`Python` `NumPy` `Pandas` `Scikit-learn` `WDL` `AWS` `NGS Analysis` `Variant Calling`
 
 <sub>July 31, 2026 at 21:16 UTC</sub>
 
@@ -2748,12 +2781,12 @@ _Lead design, configuration, and optimization of Workday solutions across payrol
 
 ---
 
-### [Forward Deployed Engineer](https://instacart.careers/job/?gh_jid=8097507)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$185k–$195k` `Equity`
+### [Forward Deployed Engineer](https://instacart.careers/job/?gh_jid=8097510)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$169k—$214k USD` `Equity`
 
-_Build and deploy agentic AI solutions tailored to enterprise retail customers' infrastructure, integrating Instacart's platform with messy, heterogeneous legacy systems. Requires embedded customer presence, bridge role between field implementation and R&D product evolution. · [Apply →](https://instacart.careers/job/?gh_jid=8097507)_
+_Build and deploy agentic AI solutions embedded within enterprise retail customer environments, integrating Instacart's platform capabilities with existing infrastructure systems. Serve as the technical bridge between R&D and customers, requiring hands-on code shipping, customer-facing technical leadership, and deep systems integration in undocumented or non-standard retail ecosystems. · [Apply →](https://instacart.careers/job/?gh_jid=8097510)_
 
-`Python` `LLM APIs` `RAG` `Agent Frameworks` `PostgreSQL` `REST APIs` `Data Integration`
+`Python` `LLM APIs` `RAG` `Agent Frameworks` `FastAPI` `PostgreSQL` `AWS` `Retail Systems`
 
 <sub>July 30, 2026 at 20:21 UTC</sub>
 
@@ -3126,12 +3159,12 @@ _Design and architect end-to-end Oracle EBS Financials solutions across billing,
 
 ---
 
-### [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075577)
+### [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075570)
 <a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Senior`
 
-_Build and deploy scalable Stripe integrations and standalone applications directly for Stripe's strategic customers, combining business logic with Stripe best practices and user-facing interfaces. Work across full-stack projects—backend systems, infrastructure, and frontends—with ownership over new features and technical direction in a brand-new consulting engineering team. · [Apply →](https://stripe.com/jobs/search?gh_jid=8075577)_
+_Build scalable Stripe integrations and standalone applications deployed directly in user environments, combining user business logic with Stripe best practices. Work across the full stack with strategic enterprise clients, establishing best practices and tooling for Stripe's new Forward Deployed Engineering offering. · [Apply →](https://stripe.com/jobs/search?gh_jid=8075570)_
 
-`JavaScript` `TypeScript` `React` `Ruby` `Go` `Java` `Distributed Systems` `API Design`
+`JavaScript` `TypeScript` `React` `Ruby` `Go` `Java` `API Design` `Distributed Systems`
 
 <sub>July 29, 2026 at 21:07 UTC</sub>
 
@@ -3181,12 +3214,12 @@ _Build AI-driven CI/CD security products including the Guardener and hardened Gi
 
 ---
 
-### [Staff Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700933006)
+### [Staff Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700929006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k-$231k` `Equity`
 
-_Build end-to-end AI-powered CI/CD products including the Guardener and hardened GitHub Actions that secure the software supply chain; requires 10+ years of software development experience with deep expertise in containers, Kubernetes, and CI/CD systems. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4700933006)_
+_Build AI-driven CI/CD products including the Guardener, hardened GitHub Actions, and agent skills that secure the software supply chain; own features end-to-end from design through implementation, working with Product and front-end teams. Ship iteratively with hard deadlines while extending Chainguard's agentic AI foundation into customer-facing experiences. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4700929006)_
 
-`Go` `Kubernetes` `Docker` `CI/CD` `AI/ML` `Container Security` `GitHub Actions`
+`Go` `Kubernetes` `Docker` `CI/CD` `Containers` `AI/ML` `GitHub Actions` `artifact registries`
 
 <sub>July 29, 2026 at 19:37 UTC</sub>
 
@@ -3434,12 +3467,12 @@ _Build and ship end-to-end product features for an enterprise SaaS GRC platform,
 
 ---
 
-### [Senior Risk & Compliance Engineer - Data](https://instacart.careers/job/?gh_jid=8091193)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$153k-CAN$187k` `Equity`
+### [Senior Risk & Compliance Engineer - Data](https://instacart.careers/job/?gh_jid=8091191)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$156k—$230k USD` `Equity`
 
-_Build automated signal ingestion pipelines and probabilistic risk models that transform raw security findings into quantified, confidence-backed risk scores driving remediation decisions and board-level reporting. Requires production-level data engineering with ML expertise to express security exposure in financial terms at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8091193)_
+_Build automated signal ingestion pipelines that normalize security tooling data into real-time risk intelligence, and develop probabilistic risk models that quantify breach likelihood and expected losses for board-level reporting. · [Apply →](https://instacart.careers/job/?gh_jid=8091191)_
 
-`Python` `SQL` `PostgreSQL` `Presto` `Machine Learning` `Bayesian Models` `Real-time Data Pipelines` `Probabilistic Risk Modeling`
+`Python` `SQL` `PostgreSQL` `Machine Learning` `Bayesian Models` `Data Engineering` `Spark` `Real-time Data Pipelines`
 
 <sub>July 29, 2026 at 15:16 UTC</sub>
 
@@ -3636,17 +3669,6 @@ _Build fast, scalable marketing websites and customer learning experiences using
 
 ---
 
-### [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity`
-
-_Lead data conversion strategy and execution for healthcare ERP implementations, translating customer business requirements into ETL pipelines and technical specifications. Requires hands-on SQL, Python, and legacy system experience (PeopleSoft, Epic, Meditech) across multi-year healthcare deployments. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957)_
-
-`SQL` `Python` `ETL` `PeopleSoft` `Workday` `Epic` `XSLT` `XML`
-
-<sub>July 28, 2026 at 21:17 UTC</sub>
-
----
-
 ### [Senior Manager, Simulation](https://www.agilityrobotics.com/about/job-post?gh_jid=6127736004)
 <a href="https://agilityrobotics.com"><img src="https://www.google.com/s2/favicons?domain=agilityrobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Agility Robotics** · Fremont, California / Salem, Oregon / Pittsburgh, Pennsylvania / Remote · `🟢 Remote` `Manager` `$208k-$324k` `Equity`
 
@@ -3766,23 +3788,23 @@ _Lead the technical strategy and architecture for Airbnb's host pricing and avai
 
 ---
 
-### [Senior Security Engineer (Cloud)](https://job-boards.greenhouse.io/chainguard/jobs/4700287006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Senior` `$137k-$160k` `Equity`
-
-_Architect and secure Chainguard's multi-cloud infrastructure (primarily GCP, with AWS and Azure) that powers the product platform, embedding security into developer tooling and identity strategies while securing AI/ML pipelines and agentic workflows across the software supply chain. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4700287006)_
-
-`GCP` `AWS` `Azure` `Terraform` `Kubernetes` `CI/CD` `SLSA` `IAM`
-
-<sub>July 28, 2026 at 17:43 UTC</sub>
-
----
-
 ### [Senior Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Machine-Learning-Engineer_R170802)
 <a href="https://adobe.com"><img src="https://www.google.com/s2/favicons?domain=adobe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Adobe** · `🟢 Remote` `Senior` `$172k-$306k` `Equity`
 
 _Lead the development of ML models for content understanding and recommendation across Adobe Stock, Behance, and Firefly. Work with product and engineering teams to deploy large-scale models serving Adobe's creative ecosystem. · [Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Machine-Learning-Engineer_R170802)_
 
 `Python` `PyTorch` `TensorFlow` `Machine Learning` `Deep Learning` `Model Deployment` `Computer Vision`
+
+<sub>July 28, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Senior Security Engineer (Cloud)](https://job-boards.greenhouse.io/chainguard/jobs/4700287006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Senior` `$137k-$160k` `Equity`
+
+_Architect and secure Chainguard's multi-cloud infrastructure (primarily GCP, with AWS and Azure) that powers the product platform, embedding security into developer tooling and identity strategies while securing AI/ML pipelines and agentic workflows across the software supply chain. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4700287006)_
+
+`GCP` `AWS` `Azure` `Terraform` `Kubernetes` `CI/CD` `SLSA` `IAM`
 
 <sub>July 28, 2026 at 17:43 UTC</sub>
 
