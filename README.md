@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **395 open roles** (7 new) &nbsp;·&nbsp; 1754 companies searched
+### **413 open roles** (4 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -55,39 +55,6 @@ _Lead a team of 3+ data scientists and governance professionals to build and sca
 `Python` `PostgreSQL` `AWS` `SQL` `Model Risk Management` `Fair Lending` `Regulatory Compliance`
 
 <sub>August 8, 2026 at 14:40 UTC</sub>
-
----
-
-### [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
-
-_Build and maintain virtualization infrastructure supporting thousands of VMs at scale, automating operations across open-source and VMware environments processing millions of daily events. Requires US citizenship or green card. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)_
-
-`Python` `Go` `Chef` `Linux` `VMware` `Kubernetes` `Terraform`
-
-<sub>August 8, 2026 at 02:10 UTC</sub>
-
----
-
-### [Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows](https://job-boards.greenhouse.io/gitlab/jobs/8646573002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `Equity`
-
-_Lead technical direction for the DAP Repository Flows team, designing and shipping autonomous agents that operate on customer codebases using LLMs and the Duo Agent Platform. Set architecture for onboarding flows and background agents while mentoring senior engineers and raising the engineering bar across the agentic systems space. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8646573002)_
-
-`Ruby` `Ruby on Rails` `LLM Integration` `Agentic Systems` `PostgreSQL` `Kubernetes` `Distributed Systems`
-
-<sub>August 8, 2026 at 02:10 UTC</sub>
-
----
-
-### [Senior Principal Software Engineer, Machine Learning](https://careers.toasttab.com/jobs?gh_jid=8054326)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$222k-$453k` `Equity`
-
-_Lead the technical architecture and hands-on development of Toast's ML platform infrastructure—feature store, model serving, experimentation, and training orchestration—influencing organizational ML strategy and shipping production ML systems at scale. Requires 10+ years building distributed backend/infrastructure systems and direct experience operating core ML platform components. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8054326)_
-
-`Java` `Kotlin` `Distributed Systems` `Feature Stores` `Model Serving` `Experimentation Platforms` `Kafka` `GPU Optimization`
-
-<sub>August 8, 2026 at 02:10 UTC</sub>
 
 ---
 

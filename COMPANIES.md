@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **153 companies** · **395 open roles** (7 new)
+### **159 companies** · **413 open roles** (4 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -39,6 +39,17 @@ Accenture is a professional services company that provides strategy, consulting,
 Acorns offers a micro-investing platform designed to help customers build wealth through automated investment programs. The company also provides Acorns Early, a related product offering, and serves families with various financial wellness tools.
 
 - [Senior Full-Stack Software Engineer, Community Building](https://jobs.ashbyhq.com/acorns/52115f06-c06f-4bc2-955a-941cb3895f91) · `🟢 Remote` `Senior` `$174k-$205k` `Equity` (Aug 4)
+
+---
+
+## <a href="https://adobe.com"><img src="https://www.google.com/s2/favicons?domain=adobe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Adobe](https://adobe.com)
+
+- [Software Development Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Software-Development-Engineer_R170523-1) · `🟢 Remote` `Senior` `$93k-$179k` `Equity` (Jul 31)
+- [Sr. iOS Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605) · `🟢 Remote` `Senior` `$139k-$257.55k` `Equity` (Jul 29)
+- [Senior Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Machine-Learning-Engineer_R170802) · `🟢 Remote` `Senior` `$172k-$306k` `Equity` (Jul 28)
+- [Software Engineer, ML Tech Transfer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Software-Engineer--ML-Tech-Transfer_R170714) · `🟢 Remote` `Senior` `$172k-$306k` `Equity` (Jul 27)
+- [Senior Full Stack Engineer – Agentic Product](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Full-Stack-Engineer---Agentic-Product_R170804) · `🟢 Remote` `Senior` `$159.2k-$301.6k` `Equity` (Jul 27)
+- [Senior Software Development Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Software-Development-Engineer_R170524) · `🟢 Remote` `Senior` `$159k - $301k` `Equity` (Jul 27)
 
 ---
 
@@ -116,6 +127,13 @@ Aptos Labs builds products, applications, and tooling on the Aptos blockchain.
 Array Health provides embedded finance products that help clients increase customer engagement and revenue.
 
 - [Senior Offensive Security Engineer](https://boards.greenhouse.io/array/jobs/6133568004?gh_jid=6133568004) · `🟢 Remote` `Senior` `$170k+` `Equity` (Aug 3)
+
+---
+
+## <a href="https://auditboard.com"><img src="https://www.google.com/s2/favicons?domain=auditboard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[AuditBoard](https://auditboard.com)
+
+- [Senior Software Engineer II (Full Stack), Fieldwork Automation (Remote Canada)](https://jobs.ashbyhq.com/optro/63a5fd8a-5607-4a64-a2cd-afd3603a6981) · `🟢 Remote` `Senior` (Aug 4)
+- [Senior Software Engineer II (Full Stack), Fieldwork Automation (Remote Ohio)](https://jobs.ashbyhq.com/optro/751ee312-ad32-4731-9356-d47d6b14b009) · `🟢 Remote` `Senior` (Jul 29)
 
 ---
 
@@ -373,6 +391,26 @@ Cortex makes an internal developer portal that helps developers by reducing over
 
 ---
 
+## <a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[CrowdStrike](https://crowdstrike.com)
+
+CrowdStrike provides a cloud-native cybersecurity platform that protects endpoints, cloud workloads, identities, and data.
+
+- [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 8)
+- [Principal Staff Engineer, AI Platform Research, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540) · `🟢 Remote` `Principal` `$195k-$290k` `Equity` (Aug 7)
+- [Manager, GTM Applications (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Manager--GTM-Applications--Remote-_R29586) · `🟢 Remote` `Manager` `$125k-$180k` `Equity` (Aug 4)
+- [Sr. Security Research II, DataOps (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Security-Research-II--DataOps--Remote-_R29597) · `🟢 Remote` `Senior` `$100k-$155k` `Equity` (Aug 4)
+- [Sr. Security Researcher (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Security-Researcher--Remote-_R29549) · `🟢 Remote` `Senior` `$85k-$120k` `Equity` (Aug 4)
+- [Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer--Application-Security--Remote-_R29569) · `🟢 Remote` `Mid` `$120k-$180k` `Equity` (Jul 30)
+- [Senior Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Product-Security-Engineer--Application-Security--Remote-_R29568-1) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
+- [Sr. Product Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
+- [CrowdStrike Platform Associate Resident Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426) · `🟢 Remote` `Junior` `$70k-$95k` `Equity` (Jul 29)
+- [Automation Engineer II, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Automation-Engineer-II--Falcon-Complete--Remote-_R29474) · `🟢 Remote` `Mid` `Equity` (Jul 29)
+- [Engineering Manager - Production Services Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineering-Manager---Production-Services-Infrastructure--Remote-_R29579-1) · `🟢 Remote` `Manager` `$120k-$180k` `Equity` (Jul 29)
+- [Engineer II, Advanced Research (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MA/Engineer-II--Advanced-Research--Remote-_R29440) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Jul 28)
+- [Sr. Infrastructure Engineer, TechOps CICD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Sr-Infrastructure-Engineer--TechOps-CICD--Remote-_R29465) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Jul 27)
+
+---
+
 ## <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Databricks](https://databricks.com)
 
 Databricks builds a data and AI platform that helps customers develop, deploy, and optimize generative AI applications and machine learning models at scale.
@@ -468,6 +506,12 @@ EnergyHub provides software that helps utilities scale virtual power plants to m
 
 ---
 
+## <a href="https://ermetic.com"><img src="https://www.google.com/s2/favicons?domain=ermetic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Ermetic](https://ermetic.com)
+
+- [Software/Site Reliability Engineer - FedRAMP](https://job-boards.greenhouse.io/tenableinc/jobs/5375168008) · `🟢 Remote` `Mid` `$131.5k-$175.5k` `Equity` (Jul 30)
+
+---
+
 ## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
 
 - [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
@@ -480,6 +524,14 @@ EvolutionIQ provides an insurance claims guidance platform that helps carriers p
 
 - [Senior Software Engineer (Python / AI Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/6138019004) · New York, New York / Remote · `🟢 Remote` `Senior` `$200k-$225k` `Equity` (Aug 7)
 - [Senior Machine Learning (ML) Engineer (AI Insurtech)](https://job-boards.greenhouse.io/evolutioniq/jobs/6135244004) · New York, New York / Remote · `🟢 Remote` `Senior` `$190k-$225k` `Equity` (Aug 5)
+
+---
+
+## <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[F5 Networks](https://f5.com)
+
+F5 Networks provides application services that ensure applications remain secure and perform consistently across any environment and device.
+
+- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
 
 ---
 
@@ -544,7 +596,7 @@ GameChanger offers live streaming, sports team management, and scorekeeping serv
 
 GitLab is a DevOps platform delivered as a single application that covers the full software development lifecycle.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows](https://job-boards.greenhouse.io/gitlab/jobs/8646573002) · `🟢 Remote` `Staff` `Equity` (Aug 8)
+- [Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows](https://job-boards.greenhouse.io/gitlab/jobs/8646573002) · `🟢 Remote` `Staff` `Equity` (Aug 8)
 - [Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity](https://job-boards.greenhouse.io/gitlab/jobs/8646556002) · `🟢 Remote` `Senior` `Equity` (Aug 6)
 - [Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity](https://job-boards.greenhouse.io/gitlab/jobs/8646544002) · `🟢 Remote` `Staff` `Equity` (Aug 6)
 - [Senior Backend Engineer, Platform Readiness](https://job-boards.greenhouse.io/gitlab/jobs/8644572002) · `🟢 Remote` `Senior` `Equity` (Aug 3)
@@ -558,6 +610,15 @@ GitLab is a DevOps platform delivered as a single application that covers the fu
 GoGuardian provides tools to K-12 schools for student safety and learning engagement.
 
 - [Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/goguardian/jobs/4700561006) · `🟢 Remote` `Senior` `$155k-$195k` `Equity` (Jul 28)
+
+---
+
+## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana](https://grafana.com)
+
+- [Senior Software Engineer - k6 Core | Canada, EST only | Remote ](https://job-boards.greenhouse.io/grafanalabs/jobs/6135758004) · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity` (Aug 5)
+- [Senior Software Engineer - k6 Core | USA, EST only | Remote ](https://job-boards.greenhouse.io/grafanalabs/jobs/6135686004) · `🟢 Remote` `Senior` `$154k-$185k` `Equity` (Aug 5)
+- [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004) · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity` (Jul 31)
+- [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004) · `🟢 Remote` `Senior` `$154k-$185k` `Equity` (Jul 31)
 
 ---
 
@@ -627,29 +688,9 @@ Horizon3 provides security testing software that simulates real-world attacks to
 
 ---
 
-## <a href="https://humaninterest.com"><img src="https://www.google.com/s2/favicons?domain=humaninterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Human Interest](https://humaninterest.com)
+## <a href="https://hortonworks.com"><img src="https://www.google.com/s2/favicons?domain=hortonworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Hortonworks](https://hortonworks.com)
 
-Human Interest builds 401(k) retirement plans for small and medium-sized businesses.
-
-- [Engineering Manager, CRM Systems](https://job-boards.greenhouse.io/humaninterest/jobs/8080734) · `🟢 Remote` `Manager` `$220k-$265k` `Equity` (Jul 25)
-
----
-
-## <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Humio (CrowdStrike)](https://humio.com)
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 8)
-- [Principal Staff Engineer, AI Platform Research, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540) · `🟢 Remote` `Principal` `$195k-$290k` `Equity` (Aug 7)
-- [Manager, GTM Applications (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Manager--GTM-Applications--Remote-_R29586) · `🟢 Remote` `Manager` `$125k-$180k` `Equity` (Aug 4)
-- [Sr. Security Research II, DataOps (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Security-Research-II--DataOps--Remote-_R29597) · `🟢 Remote` `Senior` `$100k-$155k` `Equity` (Aug 4)
-- [Sr. Security Researcher (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Security-Researcher--Remote-_R29549) · `🟢 Remote` `Senior` `$85k-$120k` `Equity` (Aug 4)
-- [Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer--Application-Security--Remote-_R29569) · `🟢 Remote` `Mid` `$120k-$180k` `Equity` (Jul 30)
-- [Senior Product Security Engineer, Application Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Senior-Product-Security-Engineer--Application-Security--Remote-_R29568-1) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
-- [Sr. Product Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555) · `🟢 Remote` `Senior` `$160k-$250k` `Equity` (Jul 30)
-- [CrowdStrike Platform Associate Resident Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426) · `🟢 Remote` `Junior` `$70k-$95k` `Equity` (Jul 29)
-- [Automation Engineer II, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Automation-Engineer-II--Falcon-Complete--Remote-_R29474) · `🟢 Remote` `Mid` `Equity` (Jul 29)
-- [Engineering Manager - Production Services Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineering-Manager---Production-Services-Infrastructure--Remote-_R29579-1) · `🟢 Remote` `Manager` `$120k-$180k` `Equity` (Jul 29)
-- [Engineer II, Advanced Research (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MA/Engineer-II--Advanced-Research--Remote-_R29440) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Jul 28)
-- [Sr. Infrastructure Engineer, TechOps CICD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Sr-Infrastructure-Engineer--TechOps-CICD--Remote-_R29465) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Jul 27)
+- [Forward Deployed AI Engineer (Senior/Principal Level)](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--New-York--New-York-City/Forward-Deployed-AI-Engineer_261076-1) · `🟢 Remote` `Senior` (Jul 28)
 
 ---
 
@@ -829,6 +870,17 @@ LiveKit builds infrastructure for voice-driven computing that enables developers
 
 ---
 
+## <a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Maxar Technologies](https://maxar.com)
+
+- [Software Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Colorado-Springs-CO/Software-Engineer_R24391) · Colorado Springs, Colorado · `Mid` `$66k-$97.35k` (Aug 7)
+- [Full Stack Software Developer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Colorado-Springs-CO/Full-Stack-Software-Developer_R24390) · Colorado Springs, Colorado · `Mid` `$105k-$154k` (Aug 7)
+- [Principal Satellite Systems Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Satellite-Systems-Engineer_R24329) · Westminster, Colorado · `Principal` `$135k-$198k` (Aug 4)
+- [Senior Satellite & Ground Systems Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Satellite---Ground-Systems-Engineer_R24317-1) · Westminster, Colorado · `Senior` `$109k-$159.5k` (Jul 31)
+- [Ground Systems Technical Manager (Secret clearance)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/El-Segundo-CA/Ground-Systems-Technical-Manager--Secret-clearance-_R24324-2) · Colorado / California · `Senior` `$105k-$154k (Colorado) / $121k-$177.1k (California)` (Jul 29)
+- [Model Based Systems Engineering (MBSE) and Digital Modeling Engineer (Secret clearance)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Model-Based-Systems-Engineering--MBSE--and-Digital-Modeling-Engineer--Secret-clearance-_R24322-3) · Remote / On-site (2-3 days/week required; specific location not specified) · `🟡 Hybrid` `Senior` `$95k-$201k` (Jul 29)
+
+---
+
 ## <a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[May Mobility](https://maymobility.com)
 
 May Mobility builds autonomous vehicles that use a Multi-Policy Decision Making system powered by reinforcement-learning AI to enable self-driving ride services. The company operates autonomous ride services in locations including Atlanta and Tokyo Bay, and partners with platforms like Lyft to provide autonomous rides to consumers.
@@ -900,9 +952,12 @@ NEPS, LLC operates printing press and die-cutting equipment in a manufacturing f
 
 ---
 
-## <a href="https://nginx.com"><img src="https://www.google.com/s2/favicons?domain=nginx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nginx](https://nginx.com)
+## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
 
-- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
+Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
+
+- [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034) · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity` (Aug 7)
+- [Senior Manager, Storage Production Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Production-Engineering_JR2021663) · `🟢 Remote` `Manager` `$272k-$431.25k` `Equity` (Jul 29)
 
 ---
 
@@ -911,7 +966,6 @@ NEPS, LLC operates printing press and die-cutting equipment in a manufacturing f
 Oklo develops and operates advanced nuclear reactors and is building a nuclear training organization to support safe and efficient plant operations for its advanced reactor facilities.
 
 - [Radiological Waste Engineering Lead - Early Deployments](https://job-boards.greenhouse.io/oklo/jobs/6130371004) · Idaho Falls, Idaho / Remote · `🟢 Remote` `Senior` `$140k-$180k` `Equity` (Aug 4)
-- [Instrumentation and Controls Engineer](https://job-boards.greenhouse.io/oklo/jobs/6127042004) · Santa Clara, California / Remote · `🟢 Remote` `Mid` `$115k-$190k` `Equity` (Jul 25)
 
 ---
 
@@ -1113,7 +1167,6 @@ Samsara builds a platform called the Connected Operations Cloud that collects In
 - [AI Architect - GTM Systems](https://www.samsara.com/company/careers/roles/7578952?gh_jid=7578952) · `🟢 Remote` `Senior` `$131k.50-$176k` `Equity` (Aug 3)
 - [Senior Marketing Analytics Manager - BI & Data Architecture](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653) · `🟢 Remote` `Senior` `$138k–$179k CAD` `Equity` (Jul 31)
 - [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8021301?gh_jid=8021301) · `🟢 Remote` `Senior` `$154700-$208000` `Equity` (Jul 30)
-- [Sr. Software Engineer II, AI Platform](https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373) · `🟢 Remote` `Senior` `$130k-$198k` `Equity` (Jul 25)
 
 ---
 
@@ -1282,7 +1335,7 @@ Thumbtack is a platform that helps users find local service professionals, compa
 
 Toast creates technology that helps restaurants and local businesses operate, increase sales, engage customers, and manage employees.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Principal Software Engineer, Machine Learning](https://careers.toasttab.com/jobs?gh_jid=8054326) · `🟢 Remote` `Principal` `$222k-$453k` `Equity` (Aug 8)
+- [Senior Principal Software Engineer, Machine Learning](https://careers.toasttab.com/jobs?gh_jid=8054326) · `🟢 Remote` `Principal` `$222k-$453k` `Equity` (Aug 8)
 - [Staff Software Engineer, Catering & Events](https://careers.toasttab.com/jobs?gh_jid=8083274) · `🟢 Remote` `Staff` `$151k-$309k` `Equity` (Aug 7)
 - [Principal Software Engineer, Configuration Platform ](https://careers.toasttab.com/jobs?gh_jid=8103307) · `🟢 Remote` `Principal` `$230k-$368k` `Equity` (Aug 7)
 - [Staff Salesforce DevOps Engineer](https://careers.toasttab.com/jobs?gh_jid=8092864) · `🟢 Remote` `Staff` `$122k-$248k` `Equity` (Jul 30)
@@ -1342,7 +1395,6 @@ Twilio delivers communications services including messaging, voice, and email to
 - [Software Engineer-Platform Engineering (L3)](https://job-boards.greenhouse.io/twilio/jobs/8026203) · `🟢 Remote` `Mid` `$138k-$203k` `Equity` (Aug 4)
 - [Software Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/8098945) · `🟢 Remote` `Staff` `$171k-$226k` `Equity` (Aug 3)
 - [Software Engineer (L2)](https://job-boards.greenhouse.io/twilio/jobs/8097672) · `🟢 Remote` `Mid` `$116k-$146k` `Equity` (Jul 30)
-- [Senior Principal Field Architect - AI Agents](https://job-boards.greenhouse.io/twilio/jobs/8039186) · `🟢 Remote` `Principal` `$284k-$405k` `Equity` (Jul 25)
 
 ---
 
