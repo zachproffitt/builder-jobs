@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **249 open roles** (0 new)
+### **250 open roles** (0 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -655,6 +655,17 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 _Build and maintain k6, an open-source performance testing tool written in Go, including features across the core codebase and distributed cloud services that run tests at global scale. Work on non-trivial systems requiring deep understanding of HTTP, gRPC, WebSockets, and networking concepts with direct impact on millions of users. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6135686004)_
 
 `Go` `gRPC` `WebSockets` `HTTP` `Docker` `AWS` `TypeScript` `Distributed Systems`
+
+<sub>August 5, 2026 at 22:17 UTC</sub>
+
+---
+
+### [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Own the enterprise Snowflake data platform architecture, administration, and ELT/ETL pipeline development supporting financial close, analytics, and AI initiatives across Finance, Sales, Product, and HR. Lead modernization of cloud data infrastructure on AWS with responsibility for security, governance, reliability, and mentoring the data engineering organization. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)_
+
+`Snowflake` `SQL` `Python` `Informatica` `AWS` `dbt` `Airflow` `Data Warehousing`
 
 <sub>August 5, 2026 at 22:17 UTC</sub>
 

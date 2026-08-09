@@ -935,6 +935,17 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 
 ---
 
+### [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Own the enterprise Snowflake data platform architecture, administration, and ELT/ETL pipeline development supporting financial close, analytics, and AI initiatives across Finance, Sales, Product, and HR. Lead modernization of cloud data infrastructure on AWS with responsibility for security, governance, reliability, and mentoring the data engineering organization. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)_
+
+`Snowflake` `SQL` `Python` `Informatica` `AWS` `dbt` `Airflow` `Data Warehousing`
+
+<sub>August 5, 2026 at 22:17 UTC</sub>
+
+---
+
 ### [Staff Software Engineer, Tax Engineering](https://careers.airbnb.com/positions/8095361?gh_jid=8095361)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k–$265k` `Equity`
 
@@ -3060,17 +3071,6 @@ _Lead a Storage Production Engineering team managing large-scale distributed sto
 
 ---
 
-### [Software Engineer III](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937)
-<a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**C.H. Robinson** · `🟢 Remote` `Senior` `$119k-$202k`
-
-_Design and deliver software solutions for global forwarding operations, partnering with product managers and engineers to build high-performance systems serving enterprise logistics customers. You'll conduct user research to inform technical decisions, optimize for scale and availability, and mentor junior engineers. · [Apply →](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937)_
-
-`C#` `.NET` `MS SQL` `Azure` `AWS` `Kafka` `RabbitMQ` `Git`
-
-<sub>July 29, 2026 at 21:07 UTC</sub>
-
----
-
 ### [Senior Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700937006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Senior` `$157k–$184k` `Equity`
 
@@ -3634,17 +3634,6 @@ _Lead the development of ML models for content understanding and recommendation 
 
 ---
 
-### [Senior Staff Software Engineer, iOS Platform](https://job-boards.greenhouse.io/gusto/jobs/8083826)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Seattle, Washington · `🟡 Hybrid` `Staff` `Equity`
-
-_Build and scale the iOS platform foundation for Gusto's payroll and HR apps, architecting shared services, mobile infrastructure (CI/CD, testing, release pipelines), and core features like push notifications and localization that enable feature teams to move faster. Work at scale across 1M+ monthly active users with cross-functional teams spanning product, identity, security, and infrastructure. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8083826)_
-
-`Swift` `iOS` `GraphQL` `CI/CD` `Automated Testing` `Mobile Infrastructure` `Accessibility` `Localization`
-
-<sub>July 28, 2026 at 17:43 UTC</sub>
-
----
-
 ### [Cyber Range Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Schriever-AFB-CO/Cyber-Range-Engineer_R0245481)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Schriever AFB, Colorado · `Senior` `$86k-$198k`
 
@@ -3662,6 +3651,17 @@ _Develop realistic cyberspace virtual and physical environments for the Space Fo
 _Design and develop ground systems software and real-time capabilities for space missions and GEOINT operations. Requires TS/SCI clearance with polygraph. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0245493)_
 
 `Python` `Java` `Vue` `Node.js` `AWS` `Azure` `GCP` `TS/SCI Clearance`
+
+<sub>July 28, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer, iOS Platform](https://job-boards.greenhouse.io/gusto/jobs/8083826)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Seattle, Washington · `🟡 Hybrid` `Staff` `Equity`
+
+_Build and scale the iOS platform foundation for Gusto's payroll and HR apps, architecting shared services, mobile infrastructure (CI/CD, testing, release pipelines), and core features like push notifications and localization that enable feature teams to move faster. Work at scale across 1M+ monthly active users with cross-functional teams spanning product, identity, security, and infrastructure. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8083826)_
+
+`Swift` `iOS` `GraphQL` `CI/CD` `Automated Testing` `Mobile Infrastructure` `Accessibility` `Localization`
 
 <sub>July 28, 2026 at 17:43 UTC</sub>
 

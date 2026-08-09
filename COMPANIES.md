@@ -208,14 +208,6 @@ ButterflyMX makes a property access system that allows users to view video feeds
 
 ---
 
-## <a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[C.H. Robinson](https://chrobinson.com)
-
-C.H. Robinson provides global logistics and supply chain management services.
-
-- [Software Engineer III](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937) · `🟢 Remote` `Senior` `$119k-$202k` (Jul 29)
-
----
-
 ## <a href="https://capitalone.com"><img src="https://www.google.com/s2/favicons?domain=capitalone.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Capital One](https://capitalone.com)
 
 - [Senior Distinguished Engineer (Remote-Eligible)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Distinguished-Engineer--Remote-Eligible-_R247739-1) · Remote / McLean, Virginia · `Principal` `$286k-$359k` `Equity` (Jul 27)
@@ -889,6 +881,14 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 NEPS, LLC operates printing press and die-cutting equipment in a manufacturing facility, performing tasks such as preparing equipment, maintaining machinery, preparing inks, and inspecting products for quality in a production environment.
 
 - [Senior RPG Software Engineer](https://taylor.wd1.myworkdayjobs.com/External/job/MN-Remote/Senior-RPG-Software-Engineer_R29538) · `🟢 Remote` `Senior` `$90k-$100k` (Aug 7)
+
+---
+
+## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+
+NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+
+- [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757) · `🟢 Remote` `Senior` (Aug 5)
 
 ---
 
