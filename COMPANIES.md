@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **153 companies** · **391 open roles** (1 new)
+### **152 companies** · **392 open roles** (1 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -205,14 +205,6 @@ Buildout provides a platform that helps commercial real estate brokers manage cl
 ButterflyMX makes a property access system that allows users to view video feeds and unlock doors or gates from a smartphone, with easy installation and operation.
 
 - [GRC Engineer](https://jobs.ashbyhq.com/butterflymx/b6fc5622-af7e-4176-a21a-7303846072c0) · `🟢 Remote` `Mid` `$130k-$170k` `Equity` (Aug 5)
-
----
-
-## <a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[C.H. Robinson](https://chrobinson.com)
-
-C.H. Robinson provides global logistics and supply chain management services.
-
-- [Software Engineer III](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937) · `🟢 Remote` `Senior` `$119k-$202k` (Jul 29)
 
 ---
 
@@ -466,6 +458,24 @@ EvolutionIQ provides an insurance claims guidance platform that helps carriers p
 
 - [Senior Software Engineer (Python / AI Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/6138019004) · New York, New York / Remote · `🟢 Remote` `Senior` `$200k-$225k` `Equity` (Aug 7)
 - [Senior Machine Learning (ML) Engineer (AI Insurtech)](https://job-boards.greenhouse.io/evolutioniq/jobs/6135244004) · New York, New York / Remote · `🟢 Remote` `Senior` `$190k-$225k` `Equity` (Aug 5)
+
+---
+
+## <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[F5 Networks](https://f5.com)
+
+F5 Networks provides application services that ensure applications remain secure and perform consistently across any environment and device.
+
+- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
+
+---
+
+## <a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Federato](https://federato.com)
+
+Federato builds an AI-native insurance platform that handles the full policy lifecycle, including risk assessment, quoting, and portfolio management.
+
+- [Director, Engineering - Infrastructure ](https://job-boards.greenhouse.io/federato/jobs/5382500008) · `🟢 Remote` `Manager` `$250k-$275k` `Equity` (Aug 7)
+- [Director, Engineering - AI Products](https://job-boards.greenhouse.io/federato/jobs/5374688008) · `🟢 Remote` `Manager` `$250k-$275k` `Equity` (Aug 3)
+- [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/federato/jobs/5375752008) · `🟢 Remote` `Senior` `$160k-$200k` `Equity` (Aug 1)
 
 ---
 
@@ -874,17 +884,12 @@ NEPS, LLC operates printing press and die-cutting equipment in a manufacturing f
 
 ---
 
-## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
 
-NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
 
-- [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757) · `🟢 Remote` `Senior` (Aug 5)
-
----
-
-## <a href="https://nginx.com"><img src="https://www.google.com/s2/favicons?domain=nginx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nginx](https://nginx.com)
-
-- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
+- [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034) · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity` (Aug 7)
+- [Senior Manager, Storage Production Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Production-Engineering_JR2021663) · `🟢 Remote` `Manager` `$272k-$431.25k` `Equity` (Jul 29)
 
 ---
 
@@ -1388,15 +1393,6 @@ Vercel provides frameworks, workflows, and infrastructure that developers use to
 Verdigris uses 8 kHz waveform analysis to detect equipment degradation and prevent outages in AI data centers.
 
 - [Forward Deployed Engineer — Strategic Solutions, Integration & Delivery](https://jobs.lever.co/verdigris/9d1fa824-0e29-43f3-985a-0b3d7b1e05f4) · `🟢 Remote` `Principal` (Aug 4)
-
----
-
-## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
-
-Visa provides personal payment solutions, payment cards, and rewards programs.
-
-- [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W) · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity` (Aug 7)
-- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W) · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity` (Aug 7)
 
 ---
 
