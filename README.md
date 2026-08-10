@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **421 open roles** (47 new) &nbsp;·&nbsp; 1764 companies searched
+### **426 open roles** (51 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 10, 2026
+
+### [Cloud Infrastructure Engineer/ Associate Engineer](https://jobs.lever.co/leantaas/0b42bbae-e6ae-475d-8ff8-868eb4e67430)
+<a href="https://leantaas.com"><img src="https://www.google.com/s2/favicons?domain=leantaas.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LeanTaaS** · `🟢 Remote` `Junior`
+
+_Build and maintain cloud infrastructure and deployment systems on AWS using infrastructure-as-code tools like Terraform and Ansible. Work across multiple product teams to manage serverless architecture, containerization, and CI/CD pipelines for a healthcare operations platform serving 1,200+ hospitals. · [Apply →](https://jobs.lever.co/leantaas/0b42bbae-e6ae-475d-8ff8-868eb4e67430)_
+
+`AWS` `Terraform` `Docker` `Jenkins` `Ansible` `IaC`
+
+<sub>August 10, 2026 at 21:52 UTC</sub>
+
+---
+
+### [Senior Software Engineer (SRE)](https://jobs.ashbyhq.com/uipath/b14e2af1-b75f-42e7-a01b-e0a512e09d4d)
+<a href="https://uipath.com"><img src="https://www.google.com/s2/favicons?domain=uipath.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**UiPath** · Denver, Colorado · `Senior`
+
+_Design and build SRE platform systems with AI that enforce cloud access policies, cost governance, observability, and reliability across UiPath's infrastructure, serving as a critical dependency for other engineering teams. Participate in livesite monitoring, drive architectural improvements from production learnings, and own adoption by integrating your systems directly into teams' critical paths. · [Apply →](https://jobs.ashbyhq.com/uipath/b14e2af1-b75f-42e7-a01b-e0a512e09d4d)_
+
+`C#` `C++` `Go` `Python` `Kubernetes` `Azure` `AWS` `Distributed Systems`
+
+<sub>August 10, 2026 at 21:52 UTC</sub>
+
+---
+
+### [Engineering Manager, AI Platform](https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007)
+<a href="https://vannevarlabs.com"><img src="https://www.google.com/s2/favicons?domain=vannevarlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vannevar Labs** · `🟢 Remote` `Manager`
+
+_Lead the AI Platform organization building machine learning pipelines, agent runtime systems, and shared infrastructure for agentic AI products used in national security missions. Requires hands-on ML and agentic AI production experience, ability to set platform strategy across data/ML/agents/cloud, and track record managing high-performing engineering teams; U.S. citizenship required. · [Apply →](https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007)_
+
+`Python` `PostgreSQL` `AWS` `Machine Learning` `Agentic AI Systems` `LLM Product Development` `Distributed Systems` `Workflow Orchestration`
+
+<sub>August 10, 2026 at 21:52 UTC</sub>
+
+---
+
+### [Senior Manager, Systems Engineering](https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Manager` `Equity`
+
+_Lead Corporate Engineering's systems team to build and own critical internal infrastructure including identity/access automation (Okta), device assurance (macOS/Windows), ITSM platforms, and AI tooling governance across the company. · [Apply →](https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4)_
+
+`Okta` `Intune` `Jamf` `GitHub` `Identity and Access Management` `Endpoint Management` `ITSM`
+
+<sub>August 10, 2026 at 21:52 UTC</sub>
+
+---
+
+### [Senior Manager, AI Corporate Engineering](https://jobs.ashbyhq.com/vanta/0efec8d2-094a-421d-bca6-1fa0da5ca5a0)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Manager` `Equity`
+
+_Lead the internal AI platform infrastructure team at Vanta, owning the identity, cost attribution, MCP governance, and enablement layers that let the company adopt AI safely and cost-effectively across 1,500+ employees. Requires hands-on technical depth in LLM tooling, agent architecture, and OAuth paired with the scope-holding and cross-functional influence to coordinate product AI, security, data, and finance teams without direct authority. · [Apply →](https://jobs.ashbyhq.com/vanta/0efec8d2-094a-421d-bca6-1fa0da5ca5a0)_
+
+`LLM Platforms` `OAuth` `Infrastructure as Code` `Agent Architecture` `MCP` `Cost Attribution` `Data Governance` `Kubernetes`
+
+<sub>August 10, 2026 at 21:52 UTC</sub>
+
+---
 
 ### [Staff Engineer – Distributed Systems – Flag Delivery](https://job-boards.greenhouse.io/launchdarkly/jobs/7849596003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Staff` `$182k-$295k` `Equity`
@@ -179,34 +234,12 @@ _Design and implement backend features for GitLab's work items platform, includi
 
 ---
 
-### [Senior Software Engineer, Marketing Platform Tooling](https://instacart.careers/job/?gh_jid=8119683)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · Remote (Ontario, Alberta, British Columbia, Nova Scotia) · `🟢 Remote` `Senior` `CAD$168k–$177k` `Equity`
-
-_Build and own the backend systems for Instacart's Targeting Platform and CRM Messaging Service, handling 46,000+ segment definitions and 8 million messages daily; architect the new Unified Marketing Backend as a shared composable foundation for the entire marketing platform. High-ownership role requiring end-to-end ownership of critical platform capabilities including real-time targeting, API integrations, and cross-retailer expansion to 80+ partners. · [Apply →](https://instacart.careers/job/?gh_jid=8119683)_
-
-`Ruby` `Python` `Go` `Rails` `Pandas` `PostgreSQL` `DynamoDB` `Snowflake`
-
-<sub>August 10, 2026 at 17:02 UTC</sub>
-
----
-
 ### [Data Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0246468)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
 
 _Build advanced ML and AI models, including LLM-based and agentic systems, to unlock insights from classified intelligence and defense data; requires active TS/SCI clearance and on-site presence at government/customer facilities. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0246468)_
 
 `Python` `SQL` `Machine Learning` `PyTorch` `Spark` `Kafka` `Plotly` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 17:02 UTC</sub>
-
----
-
-### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
-
-_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
-
-`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
 
 <sub>August 10, 2026 at 17:02 UTC</sub>
 
@@ -262,6 +295,17 @@ _Own WDL and Nextflow pipeline infrastructure on AWS for cell-free DNA research,
 _Lead a production support team for bioinformatics and data science algorithms in women's health and organ health diagnostics, resolving inconclusive reports and defining service commitments across Production Engineering, Product, laboratory, and R&D. Balance technical investigation with cross-functional leadership in a regulated diagnostic environment where decisions directly impact patient results. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135541004)_
 
 `Python` `SQL` `Bioinformatics` `Genomic Data Analysis` `Cell-free DNA` `WDL` `Nextflow` `Snakemake`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
+
+_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
+
+`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
 
 <sub>August 10, 2026 at 17:02 UTC</sub>
 
