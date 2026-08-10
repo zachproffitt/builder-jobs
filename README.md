@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **401 open roles** (21 new) &nbsp;·&nbsp; 1764 companies searched
+### **418 open roles** (34 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,149 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 10, 2026
+
+### [Senior Backend Engineer (Ruby), Plan: Portfolio Experience](https://job-boards.greenhouse.io/gitlab/jobs/8682707002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$139k–$235k` `Equity`
+
+_Design and implement backend features for GitLab's work items platform, including GraphQL APIs, real-time subscriptions, and portfolio planning capabilities serving millions of work items across tens of thousands of groups. Optimize PostgreSQL performance at scale through query optimization, indexing, and data movement to specialized databases like Elasticsearch and ClickHouse. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8682707002)_
+
+`Ruby` `Ruby on Rails` `PostgreSQL` `GraphQL` `Elasticsearch` `ClickHouse` `Python`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Marketing Platform Tooling](https://instacart.careers/job/?gh_jid=8119683)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · Remote (Ontario, Alberta, British Columbia, Nova Scotia) · `🟢 Remote` `Senior` `CAD$168k–$177k` `Equity`
+
+_Build and own the backend systems for Instacart's Targeting Platform and CRM Messaging Service, handling 46,000+ segment definitions and 8 million messages daily; architect the new Unified Marketing Backend as a shared composable foundation for the entire marketing platform. High-ownership role requiring end-to-end ownership of critical platform capabilities including real-time targeting, API integrations, and cross-retailer expansion to 80+ partners. · [Apply →](https://instacart.careers/job/?gh_jid=8119683)_
+
+`Ruby` `Python` `Go` `Rails` `Pandas` `PostgreSQL` `DynamoDB` `Snowflake`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Data Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0246390-1)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
+
+_Build advanced ML/AI models and data analytics systems for defense and intelligence clients, particularly leveraging LLMs and agentic AI on classified networks. Requires active TS/SCI clearance and ability to work on classified DoD/IC systems. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0246390-1)_
+
+`Python` `R` `SQL` `Spark` `Kafka` `PyTorch` `TensorFlow` `TS/SCI Clearance`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
+
+_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
+
+`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Senior DevOps Engineer, Developer Productivity](https://jobs.ashbyhq.com/themindcompany/119c57cf-bd17-430f-ad86-e3cbaf22a49f)
+<a href="https://mindsnacks.com"><img src="https://www.google.com/s2/favicons?domain=mindsnacks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MindSnacks** · `🟢 Remote` `Senior` `Equity`
+
+_Own infrastructure-as-code, CI/CD, mobile release automation, and data pipelines for a mental fitness app platform; drive AI adoption across engineering through shared tooling and workflows. · [Apply →](https://jobs.ashbyhq.com/themindcompany/119c57cf-bd17-430f-ad86-e3cbaf22a49f)_
+
+`GitHub Actions` `Fastlane` `Heroku` `AWS` `PostgreSQL` `Snowflake` `dbt` `Ruby on Rails`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Associate Director of Bioinformatics (Women's Health and Organ Health)](https://job-boards.greenhouse.io/natera/jobs/6138809004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$166k-$202k`
+
+_Lead a bioinformatics team developing NGS diagnostic assays for cell-free DNA analysis in women's health and organ health, moving research pipelines into CLIA-regulated production. Requires deep expertise in multi-modal sequencing data (short/long-read, methylation, fragmentomics), diagnostic product development in regulated settings, and team leadership of 3+ scientists. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6138809004)_
+
+`Python` `NGS Analysis` `Cell-free DNA` `Variant Calling` `Nextflow` `Snakemake` `WDL` `Docker`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$130k—$163k`
+
+_Develop and validate variant detection algorithms (SNVs, Indels, CNVs, SVs) for cell-free DNA diagnostic assays in low-fraction samples. Bridge bioinformatics, product, and clinical operations to advance algorithmic foundations for women's and organ health screening in a regulated diagnostic setting. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6138807004)_
+
+`Python` `Bioinformatics` `Variant Calling` `cfDNA` `Next-Generation Sequencing` `Human Genetics` `Algorithm Development` `Production Validation`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Lead Bioinformatician/Engineer (Pipelines and Infrastructure)](https://job-boards.greenhouse.io/natera/jobs/6138805004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$130k–$163k`
+
+_Own WDL and Nextflow pipeline infrastructure on AWS for cell-free DNA research, managing the complete system from workflow orchestration to Terraform-managed AWS Batch and HealthOmics compute. Enable scientists to run production genomics analyses independently while maintaining reliability and cost efficiency across the team's sequencing infrastructure. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6138805004)_
+
+`Python` `WDL` `Nextflow` `AWS` `Terraform` `Docker` `Snakemake` `CI/CD`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Manager of Bioinformatics (Women's Health and Organ Health)](https://job-boards.greenhouse.io/natera/jobs/6135541004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$140k–$175k`
+
+_Lead a production support team for bioinformatics and data science algorithms in women's health and organ health diagnostics, resolving inconclusive reports and defining service commitments across Production Engineering, Product, laboratory, and R&D. Balance technical investigation with cross-functional leadership in a regulated diagnostic environment where decisions directly impact patient results. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135541004)_
+
+`Python` `SQL` `Bioinformatics` `Genomic Data Analysis` `Cell-free DNA` `WDL` `Nextflow` `Snakemake`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [ Software Engineer III](https://job-boards.greenhouse.io/natera/jobs/6128466004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$116k—$145k`
+
+_Design and build full-stack web applications for Natera's genetic lab operations, processing protected health information (PHI) at scale. Work closely with operational stakeholders to optimize workflows and develop next-generation tools; requires HIPAA/PHI compliance and healthcare IT context. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6128466004)_
+
+`Java` `Spring Framework` `REST APIs` `MySQL` `AWS` `Docker` `React` `CI/CD`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Sr. Staff Software Engineer, Pinterest Assistant](https://www.pinterestcareers.com/jobs/?gh_jid=8088867)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Staff` `$208k–$429k` `Equity`
+
+_Define and build the backend platform architecture for Pinterest Assistant, a visual-first AI-powered conversational product serving millions of users, powering orchestration, memory, personalization, context management, and tool integrations. Lead foundational investments in LLM systems, establish best practices for production agentic systems, and mentor senior engineers across cross-functional teams. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8088867)_
+
+`Python` `TypeScript` `Node.js` `Distributed Systems` `LLM/RAG` `Retrieval-Augmented Generation` `Machine Learning Integration` `Observability`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Web Product Enablement ](https://www.pinterestcareers.com/jobs/?gh_jid=8075888)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$177k-$364k` `Equity`
+
+_Define and drive the technical direction of Pinterest's web development platform, focusing on data fetching architecture, frameworks, and developer experience across GraphQL/REST environments. Lead foundational platform investments serving millions of users and hundreds of product engineers at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8075888)_
+
+`JavaScript` `TypeScript` `GraphQL` `Relay` `Node.js` `React` `Server-Side Rendering` `REST APIs`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [ARG Engineering Manager](https://stripe.com/jobs/search?gh_jid=8113337)
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Manager`
+
+_Lead the Abuse Research Group at Stripe, managing threat intelligence analysts and fraud researchers to proactively identify emerging abuse vectors, track threat actors across payments systems, and translate findings into production detection rules and enforcement mechanisms. · [Apply →](https://stripe.com/jobs/search?gh_jid=8113337)_
+
+`Threat Intelligence` `OSINT` `Fraud Detection` `ATT&CK Framework` `Dark Web Investigation` `Fintech Security` `Detection Engineering` `Incident Response`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Orders Platform](https://instacart.careers/job/?gh_jid=8110286)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k-$279.5k` `Equity`
