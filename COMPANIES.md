@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **157 companies** · **426 open roles** (51 new)
+### **161 companies** · **437 open roles** (56 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -25,6 +25,7 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [MarTech Data Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MarTech-Data-Architect_R00342049) · Multiple US locations (California / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington / Cleveland) · `Senior` `$112k-$302k` (Aug 10)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data Scientist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Senior-Data-Scientist_R00345344) · Multiple US locations (California / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington / Cleveland) · `Senior` `$80k-$293k` (Aug 10)
 - [CCaaS Tech Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1) · `🟢 Remote` `Junior` `$75k-$125k` (Aug 7)
 - [SAP Platform Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592) · `🟢 Remote` `Mid` `$54k-$205k` (Aug 7)
@@ -101,7 +102,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Software Engineer, Tooling](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 7)
 - [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 5)
 - [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204301007?gh_jid=5204301007) · Boulder, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 5)
-- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 4)
+- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5207733007?gh_jid=5207733007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 4)
 - [Senior Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5203172007?gh_jid=5203172007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 4)
 - [Senior Software Engineer, PLM ](https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007) · `🟢 Remote` `Senior` `$166k-$220k` `Equity` (Aug 3)
 - [Research Scientist](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Jul 31)
@@ -216,14 +217,6 @@ Buildout provides a platform that helps commercial real estate brokers manage cl
 ButterflyMX makes a property access system that allows users to view video feeds and unlock doors or gates from a smartphone, with easy installation and operation.
 
 - [GRC Engineer](https://jobs.ashbyhq.com/butterflymx/b6fc5622-af7e-4176-a21a-7303846072c0) · `🟢 Remote` `Mid` `$130k-$170k` `Equity` (Aug 5)
-
----
-
-## <a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[C.H. Robinson](https://chrobinson.com)
-
-C.H. Robinson provides global logistics and supply chain management services.
-
-- [Software Engineer III](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937) · `🟢 Remote` `Senior` `$119k-$202k` (Jul 29)
 
 ---
 
@@ -469,6 +462,14 @@ Dragos provides industrial cybersecurity solutions that offer visibility and thr
 
 ---
 
+## <a href="https://elevenlabs.io"><img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[ElevenLabs](https://elevenlabs.io)
+
+ElevenLabs is an AI research and product company that builds voice generation models and platforms including ElevenAgents for deploying voice and chat agents at scale, ElevenCreative for generating and editing speech, music, images and video, and ElevenAPI providing access to AI audio foundational models. The company launched in January 2023 and serves millions of users and thousands of businesses.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Forward Deployed Engineer - Software Engineer - Canada](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024) · `🟢 Remote` `Mid` (Aug 10)
+
+---
+
 ## <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Empower Retirement](https://empower-retirement.com)
 
 Empower Retirement provides retirement planning advisory services to public employees, helping them achieve financial readiness through individual consultations and group presentations on defined contribution Government 457 plans. The company employs Retirement Plan Advisors who conduct retirement readiness reviews, develop stakeholder partnerships, and use data-driven analysis to improve retirement outcomes for plan participants.
@@ -491,26 +492,12 @@ EnergyHub provides software that helps utilities scale virtual power plants to m
 
 ---
 
-## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
-
-- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
-
----
-
 ## <a href="https://evolutioniq.com"><img src="https://www.google.com/s2/favicons?domain=evolutioniq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[EvolutionIQ](https://evolutioniq.com)
 
 EvolutionIQ provides an insurance claims guidance platform that helps carriers process claims faster and make better decisions.
 
 - [Senior Software Engineer (Python / AI Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/6138019004) · New York, New York / Remote · `🟢 Remote` `Senior` `$200k-$225k` `Equity` (Aug 7)
 - [Senior Machine Learning (ML) Engineer (AI Insurtech)](https://job-boards.greenhouse.io/evolutioniq/jobs/6135244004) · New York, New York / Remote · `🟢 Remote` `Senior` `$190k-$225k` `Equity` (Aug 5)
-
----
-
-## <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[F5 Networks](https://f5.com)
-
-F5 Networks provides application services that ensure applications remain secure and perform consistently across any environment and device.
-
-- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
 
 ---
 
@@ -537,6 +524,18 @@ Filevine builds a platform that combines data, documents, workflows, and teams f
 Five9 provides cloud contact center and AI services for organizations.
 
 - [Director, Solution Consulting Operations](https://www.five9.com/about/careers/job-detail?gh_jid=6129958004) · `🟢 Remote` `Manager` `$124k–$288k` `Equity` (Jul 29)
+
+---
+
+## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
+
+Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
+
+- [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 7)
+- [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1) · `🟢 Remote` `Senior` `$141k-$237k` `Equity` (Aug 7)
+- [Senior Manager, GTM Intelligence and Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078) · `🟢 Remote` `Manager` `$137.5k-$231.2k` `Equity` (Aug 5)
+- [Principal Analytics Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Analytics-Engineer_P751074-1) · `🟢 Remote` `Principal` `$136k-$229k` `Equity` (Aug 4)
+- [Data Scientist, Consumer Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1) · `🟢 Remote` `Senior` `$119k-$201k` `Equity` (Aug 3)
 
 ---
 
@@ -662,6 +661,14 @@ Horizon3 provides security testing software that simulates real-world attacks to
 ## <a href="https://hortonworks.com"><img src="https://www.google.com/s2/favicons?domain=hortonworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Hortonworks](https://hortonworks.com)
 
 - [Forward Deployed AI Engineer (Senior/Principal Level)](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--New-York--New-York-City/Forward-Deployed-AI-Engineer_261076-1) · `🟢 Remote` `Senior` (Jul 28)
+
+---
+
+## <a href="https://hubble.com"><img src="https://www.google.com/s2/favicons?domain=hubble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Hubble Network](https://hubble.com)
+
+Hubble Network builds a satellite network that enables Bluetooth devices to communicate with satellites, allowing wireless connectivity without traditional cellular or internet infrastructure.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Embedded Engineer- Developer Experience](https://hubble.com/careers?gh_jid=5385409008) · Remote / Seattle, Washington · `🟢 Remote` `Senior` `$130k-$179k` `Equity` (Aug 10)
 
 ---
 
@@ -939,6 +946,20 @@ NEPS, LLC operates printing press and die-cutting equipment in a manufacturing f
 
 ---
 
+## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+
+NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+
+- [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757) · `🟢 Remote` `Senior` (Aug 5)
+
+---
+
+## <a href="https://nginx.com"><img src="https://www.google.com/s2/favicons?domain=nginx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nginx](https://nginx.com)
+
+- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
+
+---
+
 ## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
 
 Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
@@ -1178,8 +1199,8 @@ SentiLink helps financial institutions detect and prevent identity fraud during 
 
 ServiceTitan builds all-in-one software for home and commercial contractors to manage their service visits and construction projects.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Software Engineer, Mobile](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Mobile_JR115706) · `🟢 Remote` `Principal` `$246k-$395k` `Equity` (Aug 10)
 - [Director, Software Engineering (Infrastructure)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Software-Engineering--Infrastructure-_JR115337-1) · `🟢 Remote` `Manager` `$246k-$395k` `Equity` (Jul 31)
-- [Manager, Software Engineering (Fintech)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Manager--Software-Engineering_JR112717-1) · `🟢 Remote` `Manager` `$185k-$297k` `Equity` (Jul 28)
 
 ---
 
@@ -1375,6 +1396,7 @@ TRM Labs provides tools and services used by government agencies and private ins
 
 True Anomaly develops capabilities for space superiority.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Mission Cloud Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5208701007) · Denver, Colorado / Long Beach, California · `Principal` `$205k-$305k (Colorado) / $220k-$320k (California)` `Equity` (Aug 10)
 - [GNC Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5206220007) · Denver, Colorado / Long Beach, California · `Senior` `$115k-$290k` `Equity` (Aug 7)
 - [Seeker Responsible Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5198035007) · Denver, Colorado / Long Beach, California · `Senior` `$155k-$230k` `Equity` (Jul 29)
 - [Electrical Engineer (Senior/Staff), Power Systems ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5196176007) · Centennial, Colorado / Long Beach, California · `Staff` `$135k-$250k` `Equity` (Jul 27)
@@ -1473,6 +1495,15 @@ Verdigris uses 8 kHz waveform analysis to detect equipment degradation and preve
 
 ---
 
+## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
+
+Visa provides personal payment solutions, payment cards, and rewards programs.
+
+- [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W) · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity` (Aug 7)
+- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W) · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity` (Aug 7)
+
+---
+
 ## <a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Wealthsimple](https://wealthsimple.com)
 
 Wealthsimple offers spending, trading, and investment services.
@@ -1480,6 +1511,14 @@ Wealthsimple offers spending, trading, and investment services.
 - [Senior Software Developer, Book of Record (Core Balances)](https://jobs.ashbyhq.com/wealthsimple/4e35b213-2df8-4891-9e42-dd26d30af1dc) · `🟢 Remote` `Senior` (Aug 7)
 - [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2) · `🟢 Remote` `Senior` (Aug 7)
 - [Senior Software Developer, Stablecoin](https://jobs.ashbyhq.com/wealthsimple/b5a82c7b-2053-48ea-b1dd-3913031171bb) · `🟢 Remote` `Senior` (Jul 30)
+
+---
+
+## <a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workday](https://workday.com)
+
+Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
+
+- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
 
 ---
 

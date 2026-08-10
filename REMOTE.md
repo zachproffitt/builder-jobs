@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **265 open roles** (26 new)
+### **273 open roles** (29 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,39 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 10, 2026
+
+### [Forward Deployed Engineer - Software Engineer - Canada](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024)
+<a href="https://elevenlabs.io"><img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ElevenLabs** · `🟢 Remote` `Mid`
+
+_Build full-scale integrations and technical solutions for ElevenLabs' strategic customers, taking ownership of end-to-end projects from architecture design to deployment. Work hands-on with customer engineering teams to solve complex problems using our AI audio and voice platforms. · [Apply →](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024)_
+
+`Python` `API integration` `Software Architecture`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
+
+### [Senior Embedded Engineer- Developer Experience](https://hubble.com/careers?gh_jid=5385409008)
+<a href="https://hubble.com"><img src="https://www.google.com/s2/favicons?domain=hubble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hubble Network** · Remote / Seattle, Washington · `🟢 Remote` `Senior` `$130k-$179k` `Equity`
+
+_Build and maintain the Hubble SDK across Zephyr, nRF Connect SDK, ESP-IDF, and vendor SDKs to collapse the distance from dev kit to satellite connectivity. Design firmware update, fleet management, and diagnostics systems for intermittent, power-constrained satellite links, and scale hardware-in-the-loop validation across 100+ embedded targets; requires US citizenship or green card for ITAR compliance. · [Apply →](https://hubble.com/careers?gh_jid=5385409008)_
+
+`C` `Zephyr` `nRF Connect SDK` `ESP-IDF` `CMake` `pytest` `Twister` `OTA Updates`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
+
+### [Principal Software Engineer, Mobile](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Mobile_JR115706)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Principal` `$246k-$395k` `Equity`
+
+_Design and own the technical architecture and long-term vision for ServiceTitan's iOS and Android mobile platform serving millions of field technicians; drive major investments in performance, reliability, observability, and developer tooling across multiple product teams. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Mobile_JR115706)_
+
+`Swift` `Kotlin` `iOS` `Android` `Xcode` `Jetpack` `Firebase Crashlytics` `Datadog`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
 
 ### [Engineering Manager, AI Platform](https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007)
 <a href="https://vannevarlabs.com"><img src="https://www.google.com/s2/favicons?domain=vannevarlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vannevar Labs** · `🟢 Remote` `Manager`
@@ -177,6 +210,17 @@ _Design and implement backend features for GitLab's work items platform, includi
 
 ---
 
+### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
+
+_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
+
+`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
 ### [Senior DevOps Engineer, Developer Productivity](https://jobs.ashbyhq.com/themindcompany/119c57cf-bd17-430f-ad86-e3cbaf22a49f)
 <a href="https://mindsnacks.com"><img src="https://www.google.com/s2/favicons?domain=mindsnacks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MindSnacks** · `🟢 Remote` `Senior` `Equity`
 
@@ -227,17 +271,6 @@ _Own WDL and Nextflow pipeline infrastructure on AWS for cell-free DNA research,
 _Lead a production support team for bioinformatics and data science algorithms in women's health and organ health diagnostics, resolving inconclusive reports and defining service commitments across Production Engineering, Product, laboratory, and R&D. Balance technical investigation with cross-functional leadership in a regulated diagnostic environment where decisions directly impact patient results. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135541004)_
 
 `Python` `SQL` `Bioinformatics` `Genomic Data Analysis` `Cell-free DNA` `WDL` `Nextflow` `Snakemake`
-
-<sub>August 10, 2026 at 17:02 UTC</sub>
-
----
-
-### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
-
-_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
-
-`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
 
 <sub>August 10, 2026 at 17:02 UTC</sub>
 
@@ -486,6 +519,17 @@ _Build web and Windows applications using RPG IV/ILE, integrating with SQL Serve
 <a href="https://render.com"><img src="https://www.google.com/s2/favicons?domain=render.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Render** · `🟢 Remote` `Manager`
 
 _Lead a team of product engineers building the core developer experience and platform features of Render's cloud infrastructure. This requires deep technical leadership on distributed systems and developer tools, with responsibility for translating user needs into scalable systems. · [Apply →](https://jobs.ashbyhq.com/render/f1ed029b-9119-4c3d-bd3c-2ce0b9717ee8)_
+
+<sub>August 7, 2026 at 19:08 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build backend services and APIs that abstract AWS cloud complexity into self-service platforms for account provisioning, networking, IAM, and policy enforcement. Owns end-to-end reliability and observability; requires 6+ years platform/backend engineering experience and production AWS expertise. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1)_
+
+`Go` `Python` `AWS` `Terraform` `CI/CD` `Distributed Systems` `API Design` `Infrastructure as Code`
 
 <sub>August 7, 2026 at 19:08 UTC</sub>
 
@@ -755,6 +799,17 @@ _Build and scale distributed deep learning training infrastructure and libraries
 
 ---
 
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141k-$237k` `Equity`
+
+_Lead end-to-end data science projects applying advanced statistical and machine learning techniques to build predictive, recommendation, and optimization models that improve Zillow's real estate platform and customer experiences. Develop scalable data pipelines, feature engineering frameworks, and experimentation systems in partnership with engineering teams to operationalize models at scale. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)_
+
+`Python` `R` `SQL` `Machine Learning` `Statistics` `Experimentation Design` `Causal Inference`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
 <br>
 
 ## August 6, 2026
@@ -950,6 +1005,17 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 
 ---
 
+### [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Own the enterprise Snowflake data platform architecture, administration, and ELT/ETL pipeline development supporting financial close, analytics, and AI initiatives across Finance, Sales, Product, and HR. Lead modernization of cloud data infrastructure on AWS with responsibility for security, governance, reliability, and mentoring the data engineering organization. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757)_
+
+`Snowflake` `SQL` `Python` `Informatica` `AWS` `dbt` `Airflow` `Data Warehousing`
+
+<sub>August 5, 2026 at 22:17 UTC</sub>
+
+---
+
 ### [GRC Engineer](https://jobs.ashbyhq.com/butterflymx/b6fc5622-af7e-4176-a21a-7303846072c0)
 <a href="https://butterflymx.com"><img src="https://www.google.com/s2/favicons?domain=butterflymx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ButterflyMX** · `🟢 Remote` `Mid` `$130k-$170k` `Equity`
 
@@ -989,6 +1055,17 @@ _Build and own computational fluid dynamics (CFD) and 1D lumped-parameter models
 _Lead a 40-person engineering organization across Integrations, Workflows/Orchestration, and Data Management, owning the architecture and strategy for ZoomInfo's data activation platform that connects to 50+ CRM, marketing automation, and data warehouse systems at enterprise scale. Requires deep expertise in distributed systems, event-driven architectures, and data quality infrastructure, plus proven ability to manage through directors in a high-velocity platform engineering environment. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8581886002)_
 
 `Java` `Spring Boot` `Node.js` `NestJS` `Kafka` `Temporal` `Google Cloud Workflows` `Salesforce`
+
+<sub>August 5, 2026 at 20:36 UTC</sub>
+
+---
+
+### [Senior Manager, GTM Intelligence and Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Manager` `$137.5k-$231.2k` `Equity`
+
+_Lead the GTM analytics organization, building and managing a BI team that delivers executive dashboards, funnel analysis, and customer health metrics across Zillow's agent software and advertising business. Set analytical standards for pre- and post-sales performance measurement and serve as the primary data thought partner to sales, success, and GTM leadership. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078)_
+
+`SQL` `Tableau` `Looker (or Raplit)` `Financial Modeling` `Executive Dashboards` `Analytics Leadership`
 
 <sub>August 5, 2026 at 20:36 UTC</sub>
 
@@ -1147,6 +1224,17 @@ _Lead a team of engineers building microservices on Delinea's identity security 
 _Develop measurement frameworks, optimize ML models, and guide product strategy for Pinterest's notifications system serving millions of users. Lead cross-functional initiatives and mentor other data scientists on a high-impact team. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8095343)_
 
 `Python` `R` `SQL` `Hive` `Machine Learning` `A/B Testing` `Statistics`
+
+<sub>August 4, 2026 at 23:12 UTC</sub>
+
+---
+
+### [Principal Analytics Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Analytics-Engineer_P751074-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$136k-$229k` `Equity`
+
+_Design and operationalize a semantic layer architecture that makes metrics and dimensions consistently consumable across BI tools, data science workflows, and AI systems at scale. Lead cross-organizational data initiatives that align analytics infrastructure with company strategy while mentoring senior analytics engineers and influencing tooling decisions. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Analytics-Engineer_P751074-1)_
+
+`SQL` `dbt` `Snowflake` `Databricks` `Data Modeling` `Semantic Layer Design` `Data Governance`
 
 <sub>August 4, 2026 at 23:12 UTC</sub>
 
@@ -1580,6 +1668,17 @@ _Own distributed systems in Prefect Cloud—orchestration, APIs, data paths, and
 _Design, build, and deploy machine learning models for cybersecurity use cases including threat detection, fraud intelligence, and risk scoring — own the full lifecycle from data preparation through production monitoring. Work with real-world security data (structured and unstructured) and production cloud infrastructure; requires hands-on ownership of data pipelines, feature engineering, and model lifecycle management. · [Apply →](https://job-boards.greenhouse.io/spycloud/jobs/7824305003)_
 
 `Python` `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `NLP` `Airflow` `AWS`
+
+<sub>August 3, 2026 at 19:49 UTC</sub>
+
+---
+
+### [Data Scientist, Consumer Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$119k-$201k` `Equity`
+
+_Build and deploy end-to-end ML solutions and analytical systems that address trust and safety challenges in Zillow's rental marketplace. Design and maintain production-quality models for fraud detection, user verification, or rental platform integrity, working with large datasets across distributed cloud-based data platforms. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1)_
+
+`Python` `SQL` `Machine Learning` `Feature Engineering` `A/B Testing` `Cloud Data Platforms` `Model Validation` `Experimentation`
 
 <sub>August 3, 2026 at 19:49 UTC</sub>
 
@@ -2671,17 +2770,6 @@ _Design enterprise-wide data modeling standards and physical schemas on Snowflak
 _Build and optimize data infrastructure and ETL/ELT pipelines that power fraud detection and identity verification products at scale. Own data ingestion, storage optimization, observability frameworks, and distributed processing across AWS (Spark, EMR, Redshift) for a fintech platform processing hundreds of millions of identity verifications. · [Apply →](https://jobs.ashbyhq.com/sentilink/17997e89-d67b-4365-b673-f7521ac4dcb0)_
 
 `Python` `Golang` `PostgreSQL` `Spark` `EMR` `Redshift` `AWS` `Kubernetes`
-
-<sub>July 28, 2026 at 19:46 UTC</sub>
-
----
-
-### [Manager, Software Engineering (Fintech)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Manager--Software-Engineering_JR112717-1)
-<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$185k-$297k` `Equity`
-
-_Lead an 8-person engineering team building lending, credit, and capital-access products on the Microsoft .NET platform for a 50,000+ business fintech customer base. Requires deep ownership of financial systems where reliability, compliance, and auditability are non-negotiable. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Manager--Software-Engineering_JR112717-1)_
-
-`C#` `ASP.NET` `SQL Server` `Git` `Distributed Systems` `Fintech` `Microservices`
 
 <sub>July 28, 2026 at 19:46 UTC</sub>
 

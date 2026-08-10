@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **426 open roles** (51 new) &nbsp;·&nbsp; 1764 companies searched
+### **437 open roles** (56 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 10, 2026
+
+### [Forward Deployed Engineer - Software Engineer - Canada](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024)
+<a href="https://elevenlabs.io"><img src="https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ElevenLabs** · `🟢 Remote` `Mid`
+
+_Build full-scale integrations and technical solutions for ElevenLabs' strategic customers, taking ownership of end-to-end projects from architecture design to deployment. Work hands-on with customer engineering teams to solve complex problems using our AI audio and voice platforms. · [Apply →](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024)_
+
+`Python` `API integration` `Software Architecture`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
+
+### [Senior Embedded Engineer- Developer Experience](https://hubble.com/careers?gh_jid=5385409008)
+<a href="https://hubble.com"><img src="https://www.google.com/s2/favicons?domain=hubble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hubble Network** · Remote / Seattle, Washington · `🟢 Remote` `Senior` `$130k-$179k` `Equity`
+
+_Build and maintain the Hubble SDK across Zephyr, nRF Connect SDK, ESP-IDF, and vendor SDKs to collapse the distance from dev kit to satellite connectivity. Design firmware update, fleet management, and diagnostics systems for intermittent, power-constrained satellite links, and scale hardware-in-the-loop validation across 100+ embedded targets; requires US citizenship or green card for ITAR compliance. · [Apply →](https://hubble.com/careers?gh_jid=5385409008)_
+
+`C` `Zephyr` `nRF Connect SDK` `ESP-IDF` `CMake` `pytest` `Twister` `OTA Updates`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
+
+### [Principal Software Engineer, Mobile](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Mobile_JR115706)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Principal` `$246k-$395k` `Equity`
+
+_Design and own the technical architecture and long-term vision for ServiceTitan's iOS and Android mobile platform serving millions of field technicians; drive major investments in performance, reliability, observability, and developer tooling across multiple product teams. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Mobile_JR115706)_
+
+`Swift` `Kotlin` `iOS` `Android` `Xcode` `Jetpack` `Firebase Crashlytics` `Datadog`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
+
+### [Principal Mission Cloud Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5208701007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Principal` `$205k-$305k (Colorado) / $220k-$320k (California)` `Equity`
+
+_Architect and operate multi-cloud infrastructure (AWS, Azure) across classified DoD environments at Impact Levels 4–6+ supporting critical U.S. national security space operations. Requires active Secret clearance with ability to obtain TS/SCI; deep expertise in cloud network design, IAM, RMF/ATO processes, and compliance with NIST 800-53 and NSS frameworks. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5208701007)_
+
+`AWS` `Azure` `Cloud Security` `IAM` `Network Architecture` `NIST 800-53` `TS/SCI Clearance` `CASP+ or CISSP or CISA`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
+
+### [MarTech Data Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MarTech-Data-Architect_R00342049)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations (California / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington / Cleveland) · `Senior` `$112k-$302k`
+
+_Lead enterprise cloud migrations and data architecture for Adobe Experience Cloud and customer data platforms, designing AI-driven marketing solutions that enable real-time personalization at scale. Requires 8+ years MarTech/CRM experience with hands-on expertise in Adobe AEM, AEP, and CDP solutions; primary residency within 90 minutes of an Accenture office. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MarTech-Data-Architect_R00342049)_
+
+`Adobe Experience Manager` `Adobe Experience Platform` `Customer Data Platform` `AWS` `GCP` `Azure` `Data Architecture` `API Design`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
 
 ### [Cloud Infrastructure Engineer/ Associate Engineer](https://jobs.lever.co/leantaas/0b42bbae-e6ae-475d-8ff8-868eb4e67430)
 <a href="https://leantaas.com"><img src="https://www.google.com/s2/favicons?domain=leantaas.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LeanTaaS** · `🟢 Remote` `Junior`
@@ -245,6 +300,17 @@ _Build advanced ML and AI models, including LLM-based and agentic systems, to un
 
 ---
 
+### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
+
+_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
+
+`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
 ### [Senior DevOps Engineer, Developer Productivity](https://jobs.ashbyhq.com/themindcompany/119c57cf-bd17-430f-ad86-e3cbaf22a49f)
 <a href="https://mindsnacks.com"><img src="https://www.google.com/s2/favicons?domain=mindsnacks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MindSnacks** · `🟢 Remote` `Senior` `Equity`
 
@@ -295,17 +361,6 @@ _Own WDL and Nextflow pipeline infrastructure on AWS for cell-free DNA research,
 _Lead a production support team for bioinformatics and data science algorithms in women's health and organ health diagnostics, resolving inconclusive reports and defining service commitments across Production Engineering, Product, laboratory, and R&D. Balance technical investigation with cross-functional leadership in a regulated diagnostic environment where decisions directly impact patient results. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135541004)_
 
 `Python` `SQL` `Bioinformatics` `Genomic Data Analysis` `Cell-free DNA` `WDL` `Nextflow` `Snakemake`
-
-<sub>August 10, 2026 at 17:02 UTC</sub>
-
----
-
-### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
-<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
-
-_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
-
-`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
 
 <sub>August 10, 2026 at 17:02 UTC</sub>
 
