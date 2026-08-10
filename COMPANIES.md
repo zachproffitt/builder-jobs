@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **155 companies** · **410 open roles** (12 new)
+### **155 companies** · **406 open roles** (12 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -25,11 +25,7 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
-- [AI/ML Computational Science Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/AI-ML-Computational-Science-Manager_R00322445) · `🟢 Remote` `Manager` `$80k-$293k` (Aug 8)
-- [CCaaS Tech Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1) · `🟢 Remote` `Junior` `$75k-$125k` (Aug 7)
-- [SAP Platform Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592) · `🟢 Remote` `Mid` `$54k-$205k` (Aug 7)
 - [Packaged App Development Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Packaged-App-Development-Senior-Analyst_R00338270-1) · `🟢 Remote` `Senior` (Aug 7)
-- [AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 7)
 - [AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-Edificio-Hidalgo/AI-Engineer--Junior-Middle-_R00347456) · `🟢 Remote` `Junior` (Aug 5)
 
 ---
@@ -217,14 +213,6 @@ Buildout provides a platform that helps commercial real estate brokers manage cl
 ButterflyMX makes a property access system that allows users to view video feeds and unlock doors or gates from a smartphone, with easy installation and operation.
 
 - [GRC Engineer](https://jobs.ashbyhq.com/butterflymx/b6fc5622-af7e-4176-a21a-7303846072c0) · `🟢 Remote` `Mid` `$130k-$170k` `Equity` (Aug 5)
-
----
-
-## <a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[C.H. Robinson](https://chrobinson.com)
-
-C.H. Robinson provides global logistics and supply chain management services.
-
-- [Software Engineer III](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937) · `🟢 Remote` `Senior` `$119k-$202k` (Jul 29)
 
 ---
 
@@ -488,6 +476,12 @@ EnergyHub provides software that helps utilities scale virtual power plants to m
 - [Principal Data Engineer](https://job-boards.greenhouse.io/energyhub/jobs/8685358002) · `🟢 Remote` `Principal` `$180k-$220k` (Aug 7)
 - [Staff Software Engineer, Data and Partner Platform](https://job-boards.greenhouse.io/energyhub/jobs/8659800002) · `🟢 Remote` `Staff` `$160k-$180k` (Jul 31)
 - [Software Engineer, SupportHub](https://job-boards.greenhouse.io/energyhub/jobs/8385899002) · `🟢 Remote` `Junior` `$90k-$110k` (Jul 27)
+
+---
+
+## <a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Evisort](https://evisort.com)
+
+- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
 
 ---
 
@@ -1227,7 +1221,7 @@ Stripe is a financial services platform that helps businesses accept payments, b
 
 - [Business Value Scale Analyst](https://stripe.com/jobs/search?gh_jid=8097047) · `🟢 Remote` `Junior` (Aug 5)
 - [Software Engineer, Vulnerability Management](https://stripe.com/jobs/search?gh_jid=8089353) · `🟢 Remote` `Mid` (Aug 5)
-- [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075570) · `🟢 Remote` `Senior` (Jul 29)
+- [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075577) · `🟢 Remote` `Senior` (Jul 29)
 - [Staff Software Engineer, Service Infrastructure](https://stripe.com/jobs/search?gh_jid=8090141) · `🟢 Remote` `Staff` (Jul 28)
 
 ---
@@ -1434,6 +1428,15 @@ Verdigris uses 8 kHz waveform analysis to detect equipment degradation and preve
 
 ---
 
+## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
+
+Visa provides personal payment solutions, payment cards, and rewards programs.
+
+- [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W) · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity` (Aug 7)
+- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W) · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity` (Aug 7)
+
+---
+
 ## <a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Wealthsimple](https://wealthsimple.com)
 
 Wealthsimple offers spending, trading, and investment services.
@@ -1442,14 +1445,6 @@ Wealthsimple offers spending, trading, and investment services.
 - [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2) · `🟢 Remote` `Senior` (Aug 7)
 - [Senior Software Developer, ML Ops](https://jobs.ashbyhq.com/wealthsimple/c51f3ae9-5861-44e7-ab04-264a135910a1) · `🟢 Remote` `Senior` (Aug 5)
 - [Senior Software Developer, Stablecoin](https://jobs.ashbyhq.com/wealthsimple/b5a82c7b-2053-48ea-b1dd-3913031171bb) · `🟢 Remote` `Senior` (Jul 30)
-
----
-
-## <a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Workday](https://workday.com)
-
-Workday builds an AI platform for managing people, money, and agents. Paradox, acquired by Workday, provides a conversational recruiting platform that automates high-volume recruiting tasks such as interview scheduling, candidate screening, and answering candidate questions across mobile, chat, and SMS.
-
-- [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957) · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity` (Jul 28)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **410 open roles** (12 new) &nbsp;·&nbsp; 1764 companies searched
+### **406 open roles** (12 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,17 +11,6 @@ Remote and Colorado engineering roles posted more than 24 hours ago. Listings ar
 <br>
 
 ## August 8, 2026
-
-### [AI/ML Computational Science Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/AI-ML-Computational-Science-Manager_R00322445)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$80k-$293k`
-
-_Lead the design and deployment of enterprise AI/ML solutions using cloud services, agentic architectures, and deep learning techniques. Manage cross-functional teams delivering conversational AI and cognitive services at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/AI-ML-Computational-Science-Manager_R00322445)_
-
-`Machine Learning` `Deep Learning` `NLP` `PyTorch` `TensorFlow` `AWS` `Azure` `GCP`
-
-<sub>August 8, 2026 at 20:40 UTC</sub>
-
----
 
 ### [Quantitative Researcher, PhD New Grad](https://jobs.ashbyhq.com/sentilink/4e28d1a3-75a8-4031-85eb-82b7847d365a)
 <a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Junior` `$120k-$220k` `Equity`
@@ -132,17 +121,6 @@ _Lead end-to-end machine learning strategy and execution for Shopping Ads delive
 _Build Benepass's internal AI platform from the ground up, starting with engineering SDLC automation (coding assistants, CI/CD, testing) and evolving into company-wide agentic workflows and knowledge systems. Staff-level role requiring hands-on full-stack AI systems development, platform design, and cross-functional adoption leadership. · [Apply →](https://jobs.ashbyhq.com/benepass/e44e3219-9ff4-4283-9ab8-ac96ed39ec05)_
 
 `Python` `TypeScript` `LLM APIs` `Agents` `RAG` `CI/CD` `Observability` `Agentic Workflows`
-
-<sub>August 7, 2026 at 22:48 UTC</sub>
-
----
-
-### [CCaaS Tech Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Junior` `$75k-$125k`
-
-_Support the technical design, configuration, and delivery of contact center (CCaaS) platforms and agentic AI workflows on AWS, working across architecture, integration, and cloud environment setup for enterprise transformation programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Toronto-40-King-St-W-Corp/CCaaS-Tech-Consultant_R00336564-1)_
-
-`Amazon Connect` `AWS` `APIs` `Agentic AI` `IVR` `Contact Center Architecture` `CI/CD` `Infrastructure as Code`
 
 <sub>August 7, 2026 at 22:48 UTC</sub>
 
@@ -399,17 +377,6 @@ _Design and build the backend services that track client balances, reserves, and
 
 ---
 
-### [SAP Platform Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
-
-_Design and implement SAP application security controls, including security roles, access controls, segregation of duties rules, and security analytics solutions for enterprise clients. Conduct security assessments and manage small components of SAP S/4HANA implementations with client-facing responsibilities and regular travel. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/SAP-Platform-Security-Consultant_R00349592)_
-
-`SAP S/4HANA` `SAP GRC` `SAP Fiori` `SAP BTP` `HANA DB` `Role-Based Access Control` `Segregation of Duties`
-
-<sub>August 7, 2026 at 15:03 UTC</sub>
-
----
-
 ### [Senior Software Engineer - Core Experience, Growth](https://instacart.careers/job/?gh_jid=8113993)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$168k–$177k CAD` `Equity`
 
@@ -652,23 +619,23 @@ _Design, implement, and scale endpoint security solutions (EDR, DLP, MDM, secure
 
 ---
 
-### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
-<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
-
-_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
-
-`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Staff Forward Deployed Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)
 <a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Santa Clara, California / Austin, Texas / Toronto, ON / Remote · `Staff` `$100k-$500k`
 
 _Build and operate AI inference deployments on Tenstorrent's RISC-V accelerators, debugging across the full stack from customer requests through hardware dispatch. Bridge customers, engineering, and production systems while scaling disaggregated inference on Kubernetes at HPC cluster scale; requires deep understanding of accelerator compute, memory, and networking constraints. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)_
 
 `Kubernetes` `Helm` `Python` `vLLM` `Prometheus` `Grafana` `OpenTelemetry` `RISC-V`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
+<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
+
+_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
+
+`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -707,23 +674,23 @@ _Own the end-to-end vehicle architecture and technical baseline for a hypersonic
 
 ---
 
-### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
-
-_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
-
-`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
 
 _Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
 
 `PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
+
+`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -751,12 +718,21 @@ _Lead end-to-end data science projects applying advanced statistical and machine
 
 ---
 
-### [AI Enablement & Offering Innovation Manager, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+### [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity`
 
-_Build and prototype AI-native solutions and repeatable offerings for biopharma clients, turning emerging AI capabilities into tangible products and experiences. Serve as connective tissue across strategy, creative, technology, and operations—designing for scale and driving organizational adoption of AI-first approaches in a fast-moving consulting environment. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417)_
+_Develop and maintain Visa's ServiceNow CMDB platform, ITOM Discovery, and related infrastructure components, including data ingestion pipelines, integrations with cloud platforms (AWS, Azure, GCP), and automation scripts. Handle operational support, CI lifecycle management, and data accuracy across a multi-cloud enterprise environment. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W)_
 
-`Claude` `ChatGPT` `Generative AI` `Prompt Engineering` `API Integration` `Low-Code Automation` `Agentic Workflows` `Rapid Prototyping`
+`ServiceNow` `JavaScript` `SQL` `REST APIs` `JSON` `PowerShell` `AWS` `Azure`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity`
+
+_Build and maintain commercial or end-user applications for payment systems, conducting analysis, design, programming, debugging, and modification of computer programs. Interface with users to define requirements and develop cost estimates for software projects. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W)_
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -3093,12 +3069,12 @@ _Design and architect end-to-end Oracle EBS Financials solutions across billing,
 
 ---
 
-### [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075570)
+### [Forward Deployed Engineer, Professional Services](https://stripe.com/jobs/search?gh_jid=8075577)
 <a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Senior`
 
-_Build scalable Stripe integrations and standalone applications deployed directly in user environments, combining user business logic with Stripe best practices. Work across the full stack with strategic enterprise clients, establishing best practices and tooling for Stripe's new Forward Deployed Engineering offering. · [Apply →](https://stripe.com/jobs/search?gh_jid=8075570)_
+_Build and deploy scalable Stripe integrations and standalone applications directly for Stripe's strategic customers, combining business logic with Stripe best practices and user-facing interfaces. Work across full-stack projects—backend systems, infrastructure, and frontends—with ownership over new features and technical direction in a brand-new consulting engineering team. · [Apply →](https://stripe.com/jobs/search?gh_jid=8075577)_
 
-`JavaScript` `TypeScript` `React` `Ruby` `Go` `Java` `API Design` `Distributed Systems`
+`JavaScript` `TypeScript` `React` `Ruby` `Go` `Java` `Distributed Systems` `API Design`
 
 <sub>July 29, 2026 at 21:07 UTC</sub>
 
@@ -3132,17 +3108,6 @@ _Design and maintain core operations datasets, data marts, and feature stores in
 _Lead a Storage Production Engineering team managing large-scale distributed storage systems (Lustre, Ceph, MinIO, S3-compatible platforms) that support NVIDIA's AI and HPC infrastructure. Requires direct hands-on expertise in storage architecture, networking protocols (NFS, SMB, iSCSI, RDMA, NVMe-oF), and operational excellence at mission-critical scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Production-Engineering_JR2021663)_
 
 `Lustre` `Ceph` `MinIO` `Terraform` `Ansible` `Prometheus` `NVMe-oF` `RDMA`
-
-<sub>July 29, 2026 at 21:07 UTC</sub>
-
----
-
-### [Software Engineer III](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937)
-<a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**C.H. Robinson** · `🟢 Remote` `Senior` `$119k-$202k`
-
-_Design and deliver software solutions for global forwarding operations, partnering with product managers and engineers to build high-performance systems serving enterprise logistics customers. You'll conduct user research to inform technical decisions, optimize for scale and availability, and mentor junior engineers. · [Apply →](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineer-III_R48937)_
-
-`C#` `.NET` `MS SQL` `Azure` `AWS` `Kafka` `RabbitMQ` `Git`
 
 <sub>July 29, 2026 at 21:07 UTC</sub>
 
@@ -3538,7 +3503,7 @@ _Own the architectural integrity and code quality of AI-assisted products in a t
 ---
 
 ### [Senior Technical Consultant - Data Conversion(Healthcare)](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957)
-<a href="https://workday.com"><img src="https://www.google.com/s2/favicons?domain=workday.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Workday** · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity`
+<a href="https://evisort.com"><img src="https://www.google.com/s2/favicons?domain=evisort.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Evisort** · `🟢 Remote` `Senior` `$111k-$197.3k` `Equity`
 
 _Lead data conversion strategy and execution for healthcare ERP implementations, translating customer business requirements into ETL pipelines and technical specifications. Requires hands-on SQL, Python, and legacy system experience (PeopleSoft, Epic, Meditech) across multi-year healthcare deployments. · [Apply →](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Remote/Senior-Technical-Consultant---Data-Conversion_JR-0108957)_
 
