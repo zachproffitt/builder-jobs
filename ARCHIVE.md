@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **404 open roles** (49 new) &nbsp;·&nbsp; 1764 companies searched
+### **407 open roles** (50 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -744,23 +744,23 @@ _Build scalable Python web applications with Flask or Django, interfacing with r
 
 ---
 
-### [GNC Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5206220007)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Senior` `$115k-$290k` `Equity`
-
-_Own Guidance, Navigation, and Control (GNC) system development for autonomous missile systems, from architecture and algorithm design through flight test and deployment. Develop navigation/state estimation algorithms, guidance laws, autopilot designs, and high-fidelity 6-DOF simulations; requires TS/SCI clearance and hands-on flight software development in C++/Python for real-time control systems. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5206220007)_
-
-`C++` `Python` `Kalman filters` `Control Systems` `Guidance Algorithms` `6-DOF Simulation` `TS/SCI Clearance` `Sensor Fusion`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Chief Engineer, Hypersonic Missile and Interceptor](https://ursamajor.com/careers/?gh_jid=4722095005)
 <a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Senior` `$175k-$230k` `Equity`
 
 _Own the end-to-end vehicle architecture and technical baseline for a hypersonic missile interceptor system, integrating propulsion, structures, avionics, GNC, thermal, and mission systems from design through flight operations. Requires active security clearance and experience leading complex aerospace systems at scale. · [Apply →](https://ursamajor.com/careers/?gh_jid=4722095005)_
 
 `Systems Engineering` `Propulsion Integration` `Vehicle Dynamics` `Thermal Management` `Avionics` `GNC` `Model-Based Systems Engineering` `AS9100`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [GNC Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5206220007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Senior` `$115k-$290k` `Equity`
+
+_Own Guidance, Navigation, and Control (GNC) system development for autonomous missile systems, from architecture and algorithm design through flight test and deployment. Develop navigation/state estimation algorithms, guidance laws, autopilot designs, and high-fidelity 6-DOF simulations; requires TS/SCI clearance and hands-on flight software development in C++/Python for real-time control systems. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5206220007)_
+
+`C++` `Python` `Kalman filters` `Control Systems` `Guidance Algorithms` `6-DOF Simulation` `TS/SCI Clearance` `Sensor Fusion`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -777,23 +777,23 @@ _Build and maintain CI/CD infrastructure, progressive delivery systems, and depl
 
 ---
 
-### [Senior Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)
-<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$170k-$230k` `Equity`
-
-_Build and operate large-scale data pipelines and foundational data products powering Komodo's Healthcare Map, processing complex healthcare datasets (claims, EHR, reference data) at scale. Requires deep healthcare data domain expertise (ICD-10, CPT, NDC, NPI coding systems) and production troubleshooting across computationally intensive workflows. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)_
-
-`Python` `SQL` `Airflow` `Spark` `AWS` `Healthcare Data (Claims/EHR/RWE)` `Data Quality & Observability`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
 
 _Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
 
 `PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Senior Data Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)
+<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$170k-$230k` `Equity`
+
+_Build and operate large-scale data pipelines and foundational data products powering Komodo's Healthcare Map, processing complex healthcare datasets (claims, EHR, reference data) at scale. Requires deep healthcare data domain expertise (ICD-10, CPT, NDC, NPI coding systems) and production troubleshooting across computationally intensive workflows. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)_
+
+`Python` `SQL` `Airflow` `Spark` `AWS` `Healthcare Data (Claims/EHR/RWE)` `Data Quality & Observability`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -1524,12 +1524,12 @@ _Build the social graphs, referral systems, engagement loops, and real-time infr
 
 ---
 
-### [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007)
+### [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5207733007?gh_jid=5207733007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
 
-_Design and implement advanced multi-target tracking algorithms and high-performance real-time systems that process radar sensor data for air and missile defense. Requires active TS/SCI clearance and involves deploying production systems for mission-critical military operations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007)_
+_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems for air and missile defense radar, processing massive sensor data streams in milliseconds. Requires TS/SCI security clearance and involves direct integration with military defense systems in production deployment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207733007?gh_jid=5207733007)_
 
-`C++` `Python` `Kalman Filters` `Signal Processing` `TS/SCI Clearance` `Linear Algebra` `MATLAB` `GPU Acceleration`
+`C++` `Python` `Kalman Filters` `Linear Algebra` `Signal Processing` `Distributed Systems` `TS/SCI Clearance`
 
 <sub>August 4, 2026 at 17:59 UTC</sub>
 
@@ -2349,6 +2349,17 @@ _Build the full-stack platform connecting Blissway's tolling hardware to million
 _Build and maintain cloud cost reporting, allocation, and optimization tooling across Azure, AWS, and GCP environments. Drive FinOps automation, data pipelines, and financial accountability systems using SQL, Power BI, and Microsoft Fabric. · [Apply →](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/FinOps-Engineer---Architect_R0006009)_
 
 `Azure` `AWS` `GCP` `SQL` `Power BI` `Microsoft Fabric` `Python` `CloudZero`
+
+<sub>July 31, 2026 at 17:48 UTC</sub>
+
+---
+
+### [Senior Hardware Test Automation Engineer](https://job-boards.greenhouse.io/ionq/jobs/6130359004)
+<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Louisville, Colorado · `Senior` `$126k–$181k` `Equity`
+
+_Develop automated test frameworks and execute verification campaigns for satellite hardware subsystems across power, communications, and autonomy. Design and deploy Python-based test automation controlling lab equipment, with hands-on responsibility for hardware-in-the-loop testing at scale in an aerospace environment. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6130359004)_
+
+`Python` `Git` `CI/CD` `GPIB` `Ethernet` `USB` `Hardware-in-the-loop (HIL)` `NumPy`
 
 <sub>July 31, 2026 at 17:48 UTC</sub>
 
@@ -3539,17 +3550,6 @@ _Lead the development of ML models for content understanding and recommendation 
 
 ---
 
-### [Senior Staff Software Engineer, iOS Platform](https://job-boards.greenhouse.io/gusto/jobs/8083826)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Seattle, Washington · `🟡 Hybrid` `Staff` `Equity`
-
-_Build and scale the iOS platform foundation for Gusto's payroll and HR apps, architecting shared services, mobile infrastructure (CI/CD, testing, release pipelines), and core features like push notifications and localization that enable feature teams to move faster. Work at scale across 1M+ monthly active users with cross-functional teams spanning product, identity, security, and infrastructure. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8083826)_
-
-`Swift` `iOS` `GraphQL` `CI/CD` `Automated Testing` `Mobile Infrastructure` `Accessibility` `Localization`
-
-<sub>July 28, 2026 at 17:43 UTC</sub>
-
----
-
 ### [Cyber Range Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Schriever-AFB-CO/Cyber-Range-Engineer_R0245481)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Schriever AFB, Colorado · `Senior` `$86k-$198k`
 
@@ -3567,6 +3567,17 @@ _Develop realistic cyberspace virtual and physical environments for the Space Fo
 _Design and develop ground systems software and real-time capabilities for space missions and GEOINT operations. Requires TS/SCI clearance with polygraph. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0245493)_
 
 `Python` `Java` `Vue` `Node.js` `AWS` `Azure` `GCP` `TS/SCI Clearance`
+
+<sub>July 28, 2026 at 17:43 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer, iOS Platform](https://job-boards.greenhouse.io/gusto/jobs/8083826)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Seattle, Washington · `🟡 Hybrid` `Staff` `Equity`
+
+_Build and scale the iOS platform foundation for Gusto's payroll and HR apps, architecting shared services, mobile infrastructure (CI/CD, testing, release pipelines), and core features like push notifications and localization that enable feature teams to move faster. Work at scale across 1M+ monthly active users with cross-functional teams spanning product, identity, security, and infrastructure. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8083826)_
+
+`Swift` `iOS` `GraphQL` `CI/CD` `Automated Testing` `Mobile Infrastructure` `Accessibility` `Localization`
 
 <sub>July 28, 2026 at 17:43 UTC</sub>
 
@@ -3592,6 +3603,17 @@ _Build threat detection and deception capabilities within NodeZero, focusing on 
 
 ---
 
+### [Senior HPC Cluster Engineer](https://job-boards.greenhouse.io/ionq/jobs/6123608004)
+<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · College Park, Maryland / Boulder, Colorado / Bothell, Washington · `🟡 Hybrid` `Senior` `$145k—$209k` `Equity`
+
+_Design, deploy, and operate high-performance computing clusters for quantum simulations and scientific applications, developing automation tooling and system configuration at scale across on-premises and cloud infrastructure. Work directly with researchers and application developers in a fast-moving quantum computing environment. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6123608004)_
+
+`HPC` `Slurm` `Python` `Bash` `Ansible` `Kubernetes` `NVIDIA GPUs` `AWS`
+
+<sub>July 28, 2026 at 15:28 UTC</sub>
+
+---
+
 ### [Senior Engineer ](https://job-boards.greenhouse.io/raft/jobs/6126724004)
 <a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · Remote; San Antonio, Texas · `🟢 Remote` `Senior` `$150k-$170k` `Equity`
 
@@ -3604,7 +3626,7 @@ _Implement and maintain cloud security solutions, CI/CD security tooling, and au
 ---
 
 ### [Forward Deployed AI Engineer (Senior/Principal Level)](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--New-York--New-York-City/Forward-Deployed-AI-Engineer_261076-1)
-<a href="https://cloudera.com"><img src="https://www.google.com/s2/favicons?domain=cloudera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cloudera** · `🟢 Remote` `Senior`
+<a href="https://hortonworks.com"><img src="https://www.google.com/s2/favicons?domain=hortonworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hortonworks** · `🟢 Remote` `Senior`
 
 _Build and deploy full-stack AI and agentic applications embedded with enterprise customers, from prototype through production. Architect scalable, enterprise-grade AI solutions using modern LLMs, RAG, and MLOps practices; requires hands-on AI engineering with 5+ years of systems-building experience including 2-3 years in generative AI. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/USA--New-York--New-York-City/Forward-Deployed-AI-Engineer_261076-1)_
 

@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **404 open roles** (49 new) &nbsp;·&nbsp; 1764 companies searched
+### **407 open roles** (50 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -20,6 +20,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 _Build and maintain cost and usage data pipelines across AWS, Azure, and Google Cloud, integrating non-cloud sources (VMware, Hyper-V, Nutanix, SAN/NAS, SD-WAN, Oracle, SQL Server, PostgreSQL). Configure FinOps platforms (Cloudability, CloudHealth, Flexera One) and BI dashboards (Power BI, Tableau) to deliver multi-domain cost visibility and optimization recommendations for enterprise clients. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Full-Stack-FinOps-Consultant_R00342713)_
 
 `AWS` `Azure` `Google Cloud` `Power BI` `Tableau` `Terraform` `Python` `SQL`
+
+<sub>August 11, 2026 at 04:34 UTC</sub>
+
+---
+
+### [FinOps AI / ML Engineer Assoc Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/FinOps-AI---ML-Engineer-Assoc-Director_R00342708)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$138k-$413k`
+
+_Design and operationalize agentic AI architectures for enterprise FinOps automation, including policy-as-code controls, IaC guardrails, and multi-cloud cost optimization pipelines. Lead delivery squads across Fortune 500 clients to implement scalable FinOps solutions with real-time monitoring, forecasting, and executive reporting—requires 12+ years cloud/platform engineering and 5+ years FinOps automation at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/FinOps-AI---ML-Engineer-Assoc-Director_R00342708)_
+
+`Python` `TypeScript` `Go` `Terraform` `Bicep` `LangGraph` `AutoGen` `OPA/Rego`
 
 <sub>August 11, 2026 at 04:34 UTC</sub>
 
@@ -293,23 +304,23 @@ _Work directly with US government and enterprise customers on data engineering a
 
 ---
 
-### [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Mid` `$160k-$200k (Denver); $190k-$240k (San Francisco, New York)` `Equity`
-
-_Build MLOps infrastructure and platforms to support the full ML lifecycle—model development, deployment, monitoring, and retraining—for Gusto's AI/ML engineers at scale. Requires hands-on experience with ML infrastructure, feature stores, and data pipelines. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8073232)_
-
-`Python` `AWS` `Kubernetes` `Data Pipelines` `Feature Stores` `CI/CD` `Model Serving` `MLflow`
-
-<sub>August 10, 2026 at 17:56 UTC</sub>
-
----
-
 ### [Computer Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Senior_R0246423)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
 
 _Lead data science and machine learning projects for Intelligence Community clients, building predictive models and analytics systems to operationalize AI across classified and unclassified environments. Requires active TS/SCI clearance and experience with large-scale data engineering and model deployment. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Senior_R0246423)_
 
 `Python` `R` `Git` `Machine Learning` `Data Engineering` `Predictive Modeling` `TS/SCI Clearance`
+
+<sub>August 10, 2026 at 17:56 UTC</sub>
+
+---
+
+### [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Mid` `$160k-$200k (Denver); $190k-$240k (San Francisco, New York)` `Equity`
+
+_Build MLOps infrastructure and platforms to support the full ML lifecycle—model development, deployment, monitoring, and retraining—for Gusto's AI/ML engineers at scale. Requires hands-on experience with ML infrastructure, feature stores, and data pipelines. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8073232)_
+
+`Python` `AWS` `Kubernetes` `Data Pipelines` `Feature Stores` `CI/CD` `Model Serving` `MLflow`
 
 <sub>August 10, 2026 at 17:56 UTC</sub>
 
