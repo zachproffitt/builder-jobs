@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **414 open roles** (49 new) &nbsp;·&nbsp; 1764 companies searched
+### **415 open roles** (52 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -33,6 +33,28 @@ _Design, build, and operationalize production-grade AI/ML solutions for enterpri
 `Snowflake Cortex AI` `Python` `TensorFlow` `PyTorch` `Machine Learning` `Distributed Systems` `MLOps` `Deep Learning`
 
 <sub>August 11, 2026 at 09:09 UTC</sub>
+
+---
+
+### [Full Stack FinOps Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Full-Stack-FinOps-Consultant_R00342713)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$196k`
+
+_Build and maintain cost and usage data pipelines across AWS, Azure, and Google Cloud, integrating non-cloud sources (VMware, Hyper-V, Nutanix, SAN/NAS, SD-WAN, Oracle, SQL Server, PostgreSQL). Configure FinOps platforms (Cloudability, CloudHealth, Flexera One) and BI dashboards (Power BI, Tableau) to deliver multi-domain cost visibility and optimization recommendations for enterprise clients. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Full-Stack-FinOps-Consultant_R00342713)_
+
+`AWS` `Azure` `Google Cloud` `Power BI` `Tableau` `Terraform` `Python` `SQL`
+
+<sub>August 11, 2026 at 04:34 UTC</sub>
+
+---
+
+### [FinOps AI / ML Engineer Assoc Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/FinOps-AI---ML-Engineer-Assoc-Director_R00342708)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$138k-$413k`
+
+_Design and operationalize agentic AI architectures for enterprise FinOps automation, including policy-as-code controls, IaC guardrails, and multi-cloud cost optimization pipelines. Lead delivery squads across Fortune 500 clients to implement scalable FinOps solutions with real-time monitoring, forecasting, and executive reporting—requires 12+ years cloud/platform engineering and 5+ years FinOps automation at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/FinOps-AI---ML-Engineer-Assoc-Director_R00342708)_
+
+`Python` `TypeScript` `Go` `Terraform` `Bicep` `LangGraph` `AutoGen` `OPA/Rego`
+
+<sub>August 11, 2026 at 04:34 UTC</sub>
 
 ---
 
@@ -123,6 +145,17 @@ _Design and own the technical architecture and long-term vision for ServiceTitan
 _Architect and operate multi-cloud infrastructure (AWS, Azure) across classified DoD environments at Impact Levels 4–6+ supporting critical U.S. national security space operations. Requires active Secret clearance with ability to obtain TS/SCI; deep expertise in cloud network design, IAM, RMF/ATO processes, and compliance with NIST 800-53 and NSS frameworks. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5208701007)_
 
 `AWS` `Azure` `Cloud Security` `IAM` `Network Architecture` `NIST 800-53` `TS/SCI Clearance` `CASP+ or CISSP or CISA`
+
+<sub>August 10, 2026 at 22:49 UTC</sub>
+
+---
+
+### [MarTech Data Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MarTech-Data-Architect_R00342049)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations (California / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington / Cleveland) · `Senior` `$112k-$302k`
+
+_Lead enterprise cloud migrations and data architecture for Adobe Experience Cloud and customer data platforms, designing AI-driven marketing solutions that enable real-time personalization at scale. Requires 8+ years MarTech/CRM experience with hands-on expertise in Adobe AEM, AEP, and CDP solutions; primary residency within 90 minutes of an Accenture office. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MarTech-Data-Architect_R00342049)_
+
+`Adobe Experience Manager` `Adobe Experience Platform` `Customer Data Platform` `AWS` `GCP` `Azure` `Data Architecture` `API Design`
 
 <sub>August 10, 2026 at 22:49 UTC</sub>
 
