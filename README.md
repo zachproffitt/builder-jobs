@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **418 open roles** (50 new) &nbsp;·&nbsp; 1764 companies searched
+### **404 open roles** (49 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -20,17 +20,6 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 _Build and maintain cost and usage data pipelines across AWS, Azure, and Google Cloud, integrating non-cloud sources (VMware, Hyper-V, Nutanix, SAN/NAS, SD-WAN, Oracle, SQL Server, PostgreSQL). Configure FinOps platforms (Cloudability, CloudHealth, Flexera One) and BI dashboards (Power BI, Tableau) to deliver multi-domain cost visibility and optimization recommendations for enterprise clients. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Full-Stack-FinOps-Consultant_R00342713)_
 
 `AWS` `Azure` `Google Cloud` `Power BI` `Tableau` `Terraform` `Python` `SQL`
-
-<sub>August 11, 2026 at 04:34 UTC</sub>
-
----
-
-### [FinOps AI / ML Engineer Assoc Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/FinOps-AI---ML-Engineer-Assoc-Director_R00342708)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$138k-$413k`
-
-_Design and operationalize agentic AI architectures for enterprise FinOps automation, including policy-as-code controls, IaC guardrails, and multi-cloud cost optimization pipelines. Lead delivery squads across Fortune 500 clients to implement scalable FinOps solutions with real-time monitoring, forecasting, and executive reporting—requires 12+ years cloud/platform engineering and 5+ years FinOps automation at scale. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/FinOps-AI---ML-Engineer-Assoc-Director_R00342708)_
-
-`Python` `TypeScript` `Go` `Terraform` `Bicep` `LangGraph` `AutoGen` `OPA/Rego`
 
 <sub>August 11, 2026 at 04:34 UTC</sub>
 
@@ -469,23 +458,23 @@ _Lead the Abuse Research Group at Stripe, managing threat intelligence analysts 
 
 ---
 
-### [Staff Software Engineer, Orders Platform](https://instacart.careers/job/?gh_jid=8110286)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k-$279.5k` `Equity`
-
-_Lead architectural evolution of the Orders Platform, a critical orchestration layer handling hundreds of millions of transactions annually across customers, shoppers, retailers, and partners. Drive distributed order workflow systems with event-driven patterns, state machines, and multi-tenant abstractions while ensuring payment integrity, correctness, and auditability at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8110286)_
-
-`Go` `Java` `Python` `Kafka` `PostgreSQL` `NoSQL` `Distributed Systems` `Event-Driven Architecture`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
 ### [Data Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Mid` `$61.9k-$141k`
 
 _Build scalable data pipelines to ingest, transform, and normalize multi-domain, multi-classification data sources for high-fidelity space operations simulations supporting USSPACECOM. Requires TS/SCI clearance and involves integrating disparate APIs into structured schemas for downstream analytics and mission-critical modeling. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)_
 
 `Python` `Java` `C++` `SQL` `Apache Kafka` `Apache Spark` `Palantir Foundry` `TS/SCI Clearance`
+
+<sub>August 10, 2026 at 15:09 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Orders Platform](https://instacart.careers/job/?gh_jid=8110286)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k-$279.5k` `Equity`
+
+_Lead architectural evolution of the Orders Platform, a critical orchestration layer handling hundreds of millions of transactions annually across customers, shoppers, retailers, and partners. Drive distributed order workflow systems with event-driven patterns, state machines, and multi-tenant abstractions while ensuring payment integrity, correctness, and auditability at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8110286)_
+
+`Go` `Java` `Python` `Kafka` `PostgreSQL` `NoSQL` `Distributed Systems` `Event-Driven Architecture`
 
 <sub>August 10, 2026 at 15:09 UTC</sub>
 
