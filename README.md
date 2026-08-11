@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **390 open roles** (54 new) &nbsp;·&nbsp; 1764 companies searched
+### **381 open roles** (48 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 11, 2026
+
+### [Development Operations Engineer](https://bullhorn.wd1.myworkdayjobs.com/BullhornCareers/job/Remote---NOAM/Development-Operations-Engineer_JR1432)
+<a href="https://bullhorn.com"><img src="https://www.google.com/s2/favicons?domain=bullhorn.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bullhorn** · `🟢 Remote` `Mid` `$105k-$115k`
+
+_Build release pipelines, CI/CD automation, and deployment tooling that enable engineering teams to safely deploy at scale. Own containerization and modernization of QA/staging environments, and partner with distributed teams across US and UK time zones. · [Apply →](https://bullhorn.wd1.myworkdayjobs.com/BullhornCareers/job/Remote---NOAM/Development-Operations-Engineer_JR1432)_
+
+`Python` `Bash` `GitLab CI` `Kubernetes` `Helm` `Docker` `ArgoCD` `Ansible`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
+
+### [DevOps Engineer I (Remote)](https://www.businessolver.com/careers/openings/?gh_jid=8099759)
+<a href="https://businessolver.com"><img src="https://www.google.com/s2/favicons?domain=businessolver.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Businessolver** · `🟢 Remote` `Junior` `$75k-$115k`
+
+_Build and maintain cloud infrastructure on AWS using infrastructure-as-code tools, automation, and monitoring solutions. Support Linux systems at scale with a focus on infrastructure optimization, security best practices, and CI/CD pipeline implementation. · [Apply →](https://www.businessolver.com/careers/openings/?gh_jid=8099759)_
+
+`AWS` `Linux` `Python` `Bash` `Terraform` `Kubernetes` `ECS` `GitLab`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
+
+### [Head of Data Engineering & Platform](https://job-boards.greenhouse.io/mercury/jobs/6141014004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Manager` `$289k-$362k (US) or CAD $273k-$342k (Canada)` `Equity`
+
+_Lead and architect Mercury's core data platform infrastructure, defining strategy and building semantic layers, metadata systems, and governance foundations that enable reliable analytics, AI/ML pipelines, and self-service data discovery across the organization. Requires experience scaling data platforms in regulated fintech environments and partnering with Security, Compliance, and Privacy teams. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6141014004)_
+
+`Data platform architecture` `Data modeling` `Data orchestration` `Streaming systems` `Data governance` `Metadata management` `Data quality` `SQL`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://jobs.ashbyhq.com/vanta/aa7512c2-fb94-4238-bb15-f0063307af53)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
+
+_Build and maintain trusted product data assets using dbt and Snowflake, defining measurement frameworks for product health and customer lifecycle while partnering with Product and Engineering to drive data-informed strategy. · [Apply →](https://jobs.ashbyhq.com/vanta/aa7512c2-fb94-4238-bb15-f0063307af53)_
+
+`dbt` `Snowflake` `SQL` `Python` `Statistics` `Machine Learning` `Snowflake Cortex` `Product Analytics`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
 
 ### [Principal Software Engineer](https://boards.greenhouse.io/array/jobs/4747055004?gh_jid=4747055004)
 <a href="https://array.com"><img src="https://www.google.com/s2/favicons?domain=array.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Array Health** · `🟢 Remote` `Principal` `$200k+` `Equity`
@@ -368,17 +412,6 @@ _Build MLOps infrastructure and platforms to support the full ML lifecycle—mod
 
 ---
 
-### [Computer Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Senior_R0246423)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
-
-_Lead data science and machine learning projects for Intelligence Community clients, building predictive models and analytics systems to operationalize AI across classified and unclassified environments. Requires active TS/SCI clearance and experience with large-scale data engineering and model deployment. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Senior_R0246423)_
-
-`Python` `R` `Git` `Machine Learning` `Data Engineering` `Predictive Modeling` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 17:56 UTC</sub>
-
----
-
 ### [Sr. Platform Infrastructure Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Platform-Infrastructure-Engineer_R24190)
 <a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `🟡 Hybrid` `Senior` `$128k-$187k`
 
@@ -412,12 +445,12 @@ _Design and implement backend features for GitLab's work items platform, includi
 
 ---
 
-### [Data Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0246468)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
+### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
 
-_Build advanced ML and AI models, including LLM-based and agentic systems, to unlock insights from classified intelligence and defense data; requires active TS/SCI clearance and on-site presence at government/customer facilities. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0246468)_
+_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
 
-`Python` `SQL` `Machine Learning` `PyTorch` `Spark` `Kafka` `Plotly` `TS/SCI Clearance`
+`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
 
 <sub>August 10, 2026 at 17:02 UTC</sub>
 
@@ -508,105 +541,6 @@ _Lead the Abuse Research Group at Stripe, managing threat intelligence analysts 
 `Threat Intelligence` `OSINT` `Fraud Detection` `ATT&CK Framework` `Dark Web Investigation` `Fintech Security` `Detection Engineering` `Incident Response`
 
 <sub>August 10, 2026 at 17:02 UTC</sub>
-
----
-
-### [Staff Software Engineer, Orders Platform](https://instacart.careers/job/?gh_jid=8110286)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k-$279.5k` `Equity`
-
-_Lead architectural evolution of the Orders Platform, a critical orchestration layer handling hundreds of millions of transactions annually across customers, shoppers, retailers, and partners. Drive distributed order workflow systems with event-driven patterns, state machines, and multi-tenant abstractions while ensuring payment integrity, correctness, and auditability at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8110286)_
-
-`Go` `Java` `Python` `Kafka` `PostgreSQL` `NoSQL` `Distributed Systems` `Event-Driven Architecture`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Data Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Mid` `$61.9k-$141k`
-
-_Build scalable data pipelines to ingest, transform, and normalize multi-domain, multi-classification data sources for high-fidelity space operations simulations supporting USSPACECOM. Requires TS/SCI clearance and involves integrating disparate APIs into structured schemas for downstream analytics and mission-critical modeling. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)_
-
-`Python` `Java` `C++` `SQL` `Apache Kafka` `Apache Spark` `Palantir Foundry` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Machine Learning Systems Engineer](https://motional.com/open-positions/?gh_jid=7848484003#/7848484003)
-<a href="https://motional.com"><img src="https://www.google.com/s2/favicons?domain=motional.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Motional** · Boston, Massachusetts / Pittsburgh, Pennsylvania / Las Vegas, Nevada / Remote · `🟢 Remote` `Mid` `$144k-$192k` `Equity`
-
-_Build high-performance systems for distributed training of frontier ML models, optimizing data pipelines, GPU kernels, and training frameworks for speed and throughput. Work at the intersection of ML research and systems engineering, with direct impact on model scaling and convergence time. · [Apply →](https://motional.com/open-positions/?gh_jid=7848484003#/7848484003)_
-
-`Python` `PyTorch` `CUDA` `Triton` `GPU Optimization` `Distributed Systems` `PyTorch Profiler` `Nsight`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Staff CPU Microarchitect, Vector and Matrix Compute](https://job-boards.greenhouse.io/tenstorrent/jobs/5204564007)
-<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · `🟢 Remote` `Staff` `$100k-$500k`
-
-_Design the next-generation RISC-V CPU vector, floating-point, and matrix execution units for AI and HPC workloads, optimizing performance, power, and area. Requires deep expertise in CPU micro-architecture, matrix acceleration, and RTL design; U.S. export compliance and on-site presence in North America required. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/5204564007)_
-
-`CPU Architecture` `RTL Design` `RISC-V` `Vector Processing` `Matrix Computation` `HPC` `AI Acceleration` `Cache Coherency`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Avionics Design Manager](https://ursamajor.com/careers/?gh_jid=4722623005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Longmont, Colorado · `Manager` `$160k-$200k` `Equity`
-
-_Lead a multidisciplinary avionics engineering team responsible for FPGA design, firmware development, verification, and automated test systems for aerospace and defense propulsion applications. Requires active or obtainable DoD security clearance and ITAR/EAR compliance authorization. · [Apply →](https://ursamajor.com/careers/?gh_jid=4722623005)_
-
-`FPGA` `SystemVerilog` `UVM` `Embedded Systems` `Hardware-in-the-Loop (HIL)` `Verilog` `DoD Security Clearance`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Senior Avionics Test Engineer ](https://ursamajor.com/careers/?gh_jid=4722627005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Longmont, Colorado · `Senior` `$110k-$133k` `Equity`
-
-_Design and develop automated test equipment (ATE), special test equipment (STE), and electrical ground support equipment (EGSE) for mission-critical aerospace and defense avionics, including custom signal conditioning circuits, relay matrices, fixture assemblies, and instrumentation integration. Requires US Person status and eligibility for DoD security clearance. · [Apply →](https://ursamajor.com/careers/?gh_jid=4722627005)_
-
-`PCB Design` `Signal Integrity` `LabVIEW` `Altium Designer` `FPGA Testing` `Embedded Systems` `CAN` `Ethernet`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Senior Test Software Engineer ](https://ursamajor.com/careers/?gh_jid=4722637005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Longmont, Colorado · `Senior` `$110k-$135k` `Equity`
-
-_Develop software for automated test systems (ATE, Hardware-in-the-Loop) that verify FPGA-based avionics and embedded systems for advanced aerospace and defense programs. Requires ITAR/EAR work authorization and ability to obtain U.S. security clearance. · [Apply →](https://ursamajor.com/careers/?gh_jid=4722637005)_
-
-`C#` `Python` `C++` `LabVIEW` `VISA` `GPIB` `PXI` `Git`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Senior Data Scientist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Senior-Data-Scientist_R00345344)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations (California / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington / Cleveland) · `Senior` `$80k-$293k`
-
-_Design, develop, and operationalize enterprise-scale AI solutions spanning machine learning, deep learning, generative AI, and agentic AI systems while establishing Responsible AI governance, risk frameworks, and regulatory compliance operating models. Work across industries translating emerging AI technologies and regulatory requirements into practical business outcomes, with deep expertise in AI ethics, governance, policy, and risk management required. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Senior-Data-Scientist_R00345344)_
-
-`Python` `PyTorch` `TensorFlow` `SQL` `Responsible AI` `AI Governance` `Generative AI` `Agentic AI`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
-### [Integrations Developer](https://job-boards.greenhouse.io/stackadapt/jobs/4357710009)
-<a href="https://stackadapt.com"><img src="https://www.google.com/s2/favicons?domain=stackadapt.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**StackAdapt** · `🟢 Remote` `Mid` `$76k-$104k CAD` `Equity`
-
-_Design and develop integrations between internal systems and third-party platforms (ERP, finance) using iPaaS platforms like Workato, Boomi, or MuleSoft. Build production automation solutions that bridge vendor systems with internal business processes while maintaining high code quality and participating in on-call support. · [Apply →](https://job-boards.greenhouse.io/stackadapt/jobs/4357710009)_
-
-`Python` `Java` `Go` `Node.js` `Workato` `Boomi` `MuleSoft` `REST`
-
-<sub>August 10, 2026 at 13:35 UTC</sub>
 
 ---
 

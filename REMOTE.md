@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **262 open roles** (34 new)
+### **266 open roles** (37 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,50 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 11, 2026
+
+### [Development Operations Engineer](https://bullhorn.wd1.myworkdayjobs.com/BullhornCareers/job/Remote---NOAM/Development-Operations-Engineer_JR1432)
+<a href="https://bullhorn.com"><img src="https://www.google.com/s2/favicons?domain=bullhorn.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bullhorn** · `🟢 Remote` `Mid` `$105k-$115k`
+
+_Build release pipelines, CI/CD automation, and deployment tooling that enable engineering teams to safely deploy at scale. Own containerization and modernization of QA/staging environments, and partner with distributed teams across US and UK time zones. · [Apply →](https://bullhorn.wd1.myworkdayjobs.com/BullhornCareers/job/Remote---NOAM/Development-Operations-Engineer_JR1432)_
+
+`Python` `Bash` `GitLab CI` `Kubernetes` `Helm` `Docker` `ArgoCD` `Ansible`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
+
+### [DevOps Engineer I (Remote)](https://www.businessolver.com/careers/openings/?gh_jid=8099759)
+<a href="https://businessolver.com"><img src="https://www.google.com/s2/favicons?domain=businessolver.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Businessolver** · `🟢 Remote` `Junior` `$75k-$115k`
+
+_Build and maintain cloud infrastructure on AWS using infrastructure-as-code tools, automation, and monitoring solutions. Support Linux systems at scale with a focus on infrastructure optimization, security best practices, and CI/CD pipeline implementation. · [Apply →](https://www.businessolver.com/careers/openings/?gh_jid=8099759)_
+
+`AWS` `Linux` `Python` `Bash` `Terraform` `Kubernetes` `ECS` `GitLab`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
+
+### [Head of Data Engineering & Platform](https://job-boards.greenhouse.io/mercury/jobs/6141014004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Manager` `$289k-$362k (US) or CAD $273k-$342k (Canada)` `Equity`
+
+_Lead and architect Mercury's core data platform infrastructure, defining strategy and building semantic layers, metadata systems, and governance foundations that enable reliable analytics, AI/ML pipelines, and self-service data discovery across the organization. Requires experience scaling data platforms in regulated fintech environments and partnering with Security, Compliance, and Privacy teams. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6141014004)_
+
+`Data platform architecture` `Data modeling` `Data orchestration` `Streaming systems` `Data governance` `Metadata management` `Data quality` `SQL`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://jobs.ashbyhq.com/vanta/aa7512c2-fb94-4238-bb15-f0063307af53)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
+
+_Build and maintain trusted product data assets using dbt and Snowflake, defining measurement frameworks for product health and customer lifecycle while partnering with Product and Engineering to drive data-informed strategy. · [Apply →](https://jobs.ashbyhq.com/vanta/aa7512c2-fb94-4238-bb15-f0063307af53)_
+
+`dbt` `Snowflake` `SQL` `Python` `Statistics` `Machine Learning` `Snowflake Cortex` `Product Analytics`
+
+<sub>August 11, 2026 at 15:09 UTC</sub>
+
+---
 
 ### [Principal Software Engineer](https://boards.greenhouse.io/array/jobs/4747055004?gh_jid=4747055004)
 <a href="https://array.com"><img src="https://www.google.com/s2/favicons?domain=array.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Array Health** · `🟢 Remote` `Principal` `$200k+` `Equity`
@@ -278,6 +322,17 @@ _Design and implement backend features for GitLab's work items platform, includi
 
 ---
 
+### [Staff Salesforce Architect](https://job-boards.greenhouse.io/marqeta/jobs/8096548)
+<a href="https://marqeta.com"><img src="https://www.google.com/s2/favicons?domain=marqeta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Marqeta** · `🟢 Remote` `Staff` `$138k-$172k` `Equity`
+
+_Own end-to-end Salesforce platform architecture across Sales Cloud, Service Cloud, Experience Cloud, and Revenue Cloud, writing Apex, Lightning Web Components, and integrations while leading architecture decisions, code reviews, and security hardening for GTM, support, and compliance functions. Requires 10+ years Salesforce experience with 2+ years in an architect capacity and hands-on leadership of a platform team. · [Apply →](https://job-boards.greenhouse.io/marqeta/jobs/8096548)_
+
+`Apex` `Lightning Web Components` `Salesforce REST/SOAP APIs` `Flows` `Revenue Cloud` `CPQ` `Agentforce` `Einstein AI`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
 ### [Senior DevOps Engineer, Developer Productivity](https://jobs.ashbyhq.com/themindcompany/119c57cf-bd17-430f-ad86-e3cbaf22a49f)
 <a href="https://mindsnacks.com"><img src="https://www.google.com/s2/favicons?domain=mindsnacks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MindSnacks** · `🟢 Remote` `Senior` `Equity`
 
@@ -484,12 +539,12 @@ _Lead end-to-end machine learning strategy and execution for Shopping Ads delive
 
 ---
 
-### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity`
+### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k—$290k` `Equity`
 
-_Own technically complex, mission-critical systems end-to-end across backend, frontend, and AI-powered features—design and ship full-stack products that turn IoT data (25+ trillion data points annually) into operational intelligence for fleet, equipment, and field service management. Zero-to-one product building at billion-dollar scale with deep customer context and domain expertise in real-world operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078)_
+_Build AI-powered full-stack products and platform capabilities for physical operations, shipping zero-to-one solutions that process 25+ trillion IoT data points annually. Define technical strategy across backend services, APIs, frontend, and ML systems while mentoring senior engineers and shaping engineering culture at a $2B ARR, 30%+ growth company. · [Apply →](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML systems` `Full-Stack Development` `PostgreSQL` `Kubernetes`
+`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Product Strategy` `Full-Stack Development`
 
 <sub>August 7, 2026 at 21:49 UTC</sub>
 
@@ -523,6 +578,17 @@ _Design and implement ETL pipelines in Apache Airflow, BigQuery, and Spark that 
 _Build an agentic platform that transforms marketing briefs into fully realized campaigns in minutes, enabling millions of Airbnb users to receive personalized content across email, push, SMS, and paid channels. Lead a full-stack team owning a complex CMS, no-code tools, rendering infrastructure, and AI-driven agents at massive scale; requires 10+ years of backend systems experience and hands-on expertise architecting agentic systems. · [Apply →](https://careers.airbnb.com/positions/8095436?gh_jid=8095436)_
 
 `Java` `Kotlin` `LangGraph` `GraphQL` `Redis` `agentic systems` `service-oriented architecture` `NoSQL databases`
+
+<sub>August 7, 2026 at 19:08 UTC</sub>
+
+---
+
+### [Front-End Design Engineer, Data Science & Applied Machine Learning (DSAML)](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Front-End-Design-Engineer--Data-Science---Applied-Machine-Learning--DSAML-_REQ23875)
+<a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · `🟢 Remote` `Mid` `$116k-$155k` `Equity`
+
+_Design and build front-end UI for internal clinical decision-support applications, combining user research, prototyping, and production React development. Work in a regulated biotech environment where code quality, testing, and documentation are audit requirements. · [Apply →](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Front-End-Design-Engineer--Data-Science---Applied-Machine-Learning--DSAML-_REQ23875)_
+
+`React` `JavaScript` `TypeScript` `Python` `Git` `Automated Testing` `UX/UI Design` `Figma`
 
 <sub>August 7, 2026 at 19:08 UTC</sub>
 
@@ -1030,7 +1096,7 @@ _Build end-to-end data pipelines and infrastructure that ingest high-bandwidth s
 ## August 5, 2026
 
 ### [Senior Software Engineer - k6 Core | Canada, EST only | Remote ](https://job-boards.greenhouse.io/grafanalabs/jobs/6135758004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `CAD 164k - CAD 197k` `Equity`
 
 _Build and maintain k6, an open-source performance testing tool written in Go, including distributed cloud services that execute tests across data centers worldwide. Work on a small, high-impact team owning the product end-to-end with direct visibility into user impact; strong concurrency, networking (HTTP, gRPC, WebSockets), and distributed systems expertise essential. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6135758004)_
 
@@ -1041,7 +1107,7 @@ _Build and maintain k6, an open-source performance testing tool written in Go, i
 ---
 
 ### [Senior Software Engineer - k6 Core | USA, EST only | Remote ](https://job-boards.greenhouse.io/grafanalabs/jobs/6135686004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
 
 _Build and maintain k6, an open-source performance testing tool written in Go, including features across the core codebase and distributed cloud services that run tests at global scale. Work on non-trivial systems requiring deep understanding of HTTP, gRPC, WebSockets, and networking concepts with direct impact on millions of users. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6135686004)_
 
@@ -2073,7 +2139,7 @@ _Lead the Business Applications team to build and maintain enterprise SaaS admin
 ---
 
 ### [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity`
 
 _Build end-to-end cloud integrations and observability features for Grafana Cloud, working across TypeScript/React frontends, Go backends, and Jsonnet monitoring mixins. Contribute to open-source observability standards (Prometheus, OpenTelemetry) and own features from user problem through production deployment and on-call support. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)_
 
@@ -2084,7 +2150,7 @@ _Build end-to-end cloud integrations and observability features for Grafana Clou
 ---
 
 ### [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
 
 _Develop end-to-end cloud integrations and observability apps for Grafana Cloud, shipping features across React frontends, Go backends, and Jsonnet monitoring mixins. Work with large-scale observability systems (Prometheus, OpenTelemetry) impacting 7,000+ customers; contribute upstream to open source projects. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)_
 
@@ -2126,17 +2192,6 @@ _Design and ship production-grade AI agents that investigate and reason over hig
 _Design, implement, and manage cloud-hosted device infrastructure and endpoint management systems at enterprise scale (500+ endpoints), driving automation initiatives and change management. Lead platform migrations, security compliance workflows, and phishing-resistant authentication implementations while applying AI tooling to reduce manual toil in fleet operations. · [Apply →](https://jobs.ashbyhq.com/1password/df6afe6a-7e62-4d57-be23-22583d0cdeb9)_
 
 `Apple MDM` `Bash` `Infrastructure as Code` `CI/CD` `Microsoft Intune` `PowerShell` `Device Trust` `Conditional Access`
-
-<sub>July 30, 2026 at 22:15 UTC</sub>
-
----
-
-### [Senior AI/LLM Engineer ](https://job-boards.greenhouse.io/censys/jobs/8540995002)
-<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Senior` `$148k-$201k` `Equity`
-
-_Build AI-powered investigation workflows and LLM-driven features that enhance threat intelligence analysis at internet scale, integrating RAG pipelines and real-time adversary infrastructure visibility into the Censys platform. Work with LLM evaluation frameworks (RAGAS, LangSmith) and deploy secure AI systems in a cybersecurity domain handling sensitive internet scan and threat intelligence data. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8540995002)_
-
-`Python` `RAG` `LLMs` `LangSmith` `RAGAS` `Prompt Engineering` `Vector Search` `CI/CD`
 
 <sub>July 30, 2026 at 22:15 UTC</sub>
 
@@ -2465,12 +2520,12 @@ _Build AI-driven CI/CD security products including the Guardener and hardened Gi
 
 ---
 
-### [Staff Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700933006)
+### [Staff Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4700929006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k-$231k` `Equity`
 
-_Build end-to-end AI-powered CI/CD products including the Guardener and hardened GitHub Actions that secure the software supply chain; requires 10+ years of software development experience with deep expertise in containers, Kubernetes, and CI/CD systems. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4700933006)_
+_Build AI-driven CI/CD products including the Guardener, hardened GitHub Actions, and agent skills that secure the software supply chain; own features end-to-end from design through implementation, working with Product and front-end teams. Ship iteratively with hard deadlines while extending Chainguard's agentic AI foundation into customer-facing experiences. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4700929006)_
 
-`Go` `Kubernetes` `Docker` `CI/CD` `AI/ML` `Container Security` `GitHub Actions`
+`Go` `Kubernetes` `Docker` `CI/CD` `Containers` `AI/ML` `GitHub Actions` `artifact registries`
 
 <sub>July 29, 2026 at 19:37 UTC</sub>
 
@@ -2542,12 +2597,12 @@ _Lead a Machine Learning Engineering team building retrieval and candidate inven
 
 ---
 
-### [Engineering Manager, Control Plane](https://job-boards.greenhouse.io/tailscale/jobs/4719601005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Manager` `$206k-$257k` `Equity`
+### [Engineering Manager, Control Plane](https://job-boards.greenhouse.io/tailscale/jobs/4719580005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Manager` `$276k—$344k CAD` `Equity`
 
-_Lead a team of 4-8 engineers building and operating Tailscale's control plane service—the critical infrastructure that manages network configuration and device coordination. Requires substantial prior people management experience and hands-on technical leadership in production systems with high availability requirements. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4719601005)_
+_Lead 6-9 software engineers across 2-3 product pods building Tailscale's control plane infrastructure, managing team development, hiring, on-call operations, and cross-functional collaboration with product and design. Requires demonstrated people management experience and hands-on technical leadership of production services at scale. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4719580005)_
 
-`Go` `Production Systems Management` `Incident Response` `On-Call Operations`
+`Go` `Production Systems` `Incident Response` `On-Call Management`
 
 <sub>July 29, 2026 at 19:37 UTC</sub>
 
@@ -2761,17 +2816,6 @@ _Build fast, scalable marketing websites and customer learning experiences using
 _Build and lead a simulation team from the ground up, architecting the hardware abstraction layer and physics simulation infrastructure that connects sensors, actuators, and hardware to development environments for humanoid robots. Own sim-to-real transfer pipelines and partner across AI, Controls, Perception, and Hardware teams to accelerate robot capability development and validation. · [Apply →](https://www.agilityrobotics.com/about/job-post?gh_jid=6127736004)_
 
 `C++` `Python` `MuJoCo` `IsaacSim` `Gazebo` `Robotics` `Git` `CI/CD`
-
-<sub>July 28, 2026 at 19:46 UTC</sub>
-
----
-
-### [Staff Application Security Engineer](https://job-boards.greenhouse.io/censys/jobs/8649187002)
-<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Staff` `$172k-$233k` `Equity`
-
-_Own the application security strategy and DevSecOps program across the engineering organization, designing shift-left practices, secure CI/CD pipelines, and infrastructure-as-code controls in Kubernetes and GCP. Lead security architecture for AI/ML workflows and set technical direction for hardened service templates, compliance frameworks (SOC 2, ISO27001), and incident response readiness. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8649187002)_
-
-`Kubernetes` `GCP` `Terraform` `Python` `GitHub Actions` `ArgoCD` `Infrastructure-as-Code` `Bash`
 
 <sub>July 28, 2026 at 19:46 UTC</sub>
 
