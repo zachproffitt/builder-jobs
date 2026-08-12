@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **404 open roles** (53 new) &nbsp;·&nbsp; 1764 companies searched
+### **389 open roles** (59 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,83 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 12, 2026
+
+### [Senior Software Engineer, Program](https://job-boards.greenhouse.io/energyhub/jobs/8696115002)
+<a href="https://energyhub.com"><img src="https://www.google.com/s2/favicons?domain=energyhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EnergyHub** · `🟢 Remote` `Senior` `$130k-$170k`
+
+_Own the design and migration of an authoritative configuration system for energy management products, building microservices and APIs that scale across utilities and distributed energy resources. Work at the intersection of platform engineering and climate impact, mentoring engineers on a team modernizing a critical system. · [Apply →](https://job-boards.greenhouse.io/energyhub/jobs/8696115002)_
+
+`Java` `Spring` `PostgreSQL` `MongoDB` `TypeScript` `React` `gRPC` `Protocol Buffers`
+
+<sub>August 12, 2026 at 21:55 UTC</sub>
+
+---
+
+### [Flight Software Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7830196003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Junior` `$85k-$100k` `Equity`
+
+_Develop flight software and hardware drivers for spacecraft and satellites launched on Rocket Lab's Electron and Neutron rockets, with opportunities to operate your code in orbit within weeks. Requires U.S. citizenship due to ITAR space technology export regulations. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7830196003)_
+
+`C` `C++` `RTOS` `Embedded Linux` `CAN/CAN-FD` `UDP/TCP` `Real-time systems` `Hardware drivers`
+
+<sub>August 12, 2026 at 21:55 UTC</sub>
+
+---
+
+### [Data Platform Engineer - AI Platform](https://jobs.ashbyhq.com/trm-labs/2a784630-702d-4b49-a033-5cbd0d9c8a94)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Mid`
+
+_Own performance tuning and reliability of the StarRocks-backed serving layer for government cloud investigations, including query optimization, data pipeline hardening, and incident response. Requires US citizenship for GovCloud access and hands-on distributed systems experience in a regulated, high-availability environment. · [Apply →](https://jobs.ashbyhq.com/trm-labs/2a784630-702d-4b49-a033-5cbd0d9c8a94)_
+
+`StarRocks` `Distributed Systems` `Data Pipeline Reliability` `Performance Tuning` `SQL` `GovCloud` `Claude` `Incident Response`
+
+<sub>August 12, 2026 at 21:55 UTC</sub>
+
+---
+
+### [Senior Data Platform Engineer - AI Platform](https://jobs.ashbyhq.com/trm-labs/cf1c3e90-d709-4a64-825f-7c0f0768965a)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Senior`
+
+_Own performance tuning, data pipeline reliability, and incident response for a StarRocks-backed serving layer in TRM's government cloud investigations platform. Requires U.S. citizenship for GovCloud data access and independent on-call ownership in a high-compliance environment. · [Apply →](https://jobs.ashbyhq.com/trm-labs/cf1c3e90-d709-4a64-825f-7c0f0768965a)_
+
+`StarRocks` `Distributed Systems` `Data Pipelines` `Query Optimization` `Claude` `Cursor` `Trino` `ClickHouse`
+
+<sub>August 12, 2026 at 21:55 UTC</sub>
+
+---
+
+### [Staff Data Platform Engineer - AI Platform](https://jobs.ashbyhq.com/trm-labs/a1ed36fb-8be9-40a9-8452-5641996130c3)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Staff`
+
+_Own performance tuning, reliability, and incident response for the StarRocks-backed serving layer powering government cloud investigations, working alongside the domain owner to reduce single-point-of-failure risk. Requires US citizenship for government cloud data access; operate in a high-compliance, regulated environment where reliability and rapid incident response directly prevent customer-facing outages. · [Apply →](https://jobs.ashbyhq.com/trm-labs/a1ed36fb-8be9-40a9-8452-5641996130c3)_
+
+`StarRocks` `Distributed Systems` `Query Optimization` `Data Pipelines` `Python` `Kubernetes` `Claude` `Incident Response`
+
+<sub>August 12, 2026 at 21:55 UTC</sub>
+
+---
+
+### [Software Engineer, Data Infrastructure - AI Platform](https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Mid`
+
+_Own performance tuning and reliability of the StarRocks-backed serving layer for government cloud investigations, including query optimization, data pipeline hardening, and production incident response in a regulated, high-availability environment. Requires U.S. citizenship for government cloud data access. · [Apply →](https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa)_
+
+`StarRocks` `Distributed Systems` `OLAP` `Query Optimization` `Data Pipelines` `Claude` `Python`
+
+<sub>August 12, 2026 at 21:55 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Data Infrastructure - AI Platform](https://jobs.ashbyhq.com/trm-labs/75699d68-f602-46f3-b51e-4ccc283a727d)
+<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Senior`
+
+_Own performance tuning and reliability of the StarRocks-backed serving layer for government cloud investigations, building distributed OLAP systems that power financial crime detection at scale. Requires U.S. citizenship for GovCloud data access and independent incident response in a regulated, high-availability environment. · [Apply →](https://jobs.ashbyhq.com/trm-labs/75699d68-f602-46f3-b51e-4ccc283a727d)_
+
+`StarRocks` `Distributed Systems` `Data Pipelines` `Query Optimization` `Python` `SQL` `Incident Response` `Claude`
+
+<sub>August 12, 2026 at 21:55 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, UX](https://job-boards.greenhouse.io/assemblyai/jobs/4723627005)
 <a href="https://assemblyai.com"><img src="https://www.google.com/s2/favicons?domain=assemblyai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AssemblyAI** · `🟢 Remote` `Senior` `$180k - $240k`
@@ -355,17 +432,6 @@ _Maintain and evolve the Termius Desktop SSH client, a cross-platform applicatio
 _Build agent-based workflows and AI-assisted tooling for privacy engineering processes including privacy review automation, data subject rights handling, and telemetry classification. Integrate privacy controls across SaaS cloud infrastructure while working with LLM systems to help engineering teams identify and mitigate privacy risks at scale. · [Apply →](https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7)_
 
 `Python` `TypeScript` `Go` `LLM systems` `API integration` `CI/CD` `GDPR` `CCPA`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5209227007?gh_jid=5209227007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Implement and deploy real-time image processing software for infrared imaging systems on resource-constrained embedded hardware. Requires active U.S. security clearance and expertise in Linux systems configuration, NixOS, and low-latency C++/CUDA pipelines for defense applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5209227007?gh_jid=5209227007)_
-
-`C++` `CUDA` `Linux` `Nix/NixOS` `Python` `Rust` `Computer Vision` `TS/SCI Clearance`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
