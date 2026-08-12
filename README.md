@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **398 open roles** (40 new) &nbsp;·&nbsp; 1764 companies searched
+### **412 open roles** (43 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 12, 2026
+
+### [Software Engineer II - Engineering Services (Full Stack)](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---Remote/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826)
+<a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Feedonomics** · `🟢 Remote` `Mid` `$111k-$167k` `Equity`
+
+_Build and maintain single-click apps for the BigCommerce App Marketplace, handling the full stack from backend services in Node/TypeScript and PHP to React frontends, while managing OAuth flows, webhooks, and multi-tenant scalability across thousands of merchant stores. Work with short feedback loops shipping code to production frequently, supporting apps through monitoring and merchant-impacting issue resolution. · [Apply →](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---Remote/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826)_
+
+`JavaScript` `TypeScript` `Node.js` `PHP` `React` `Next.js` `GraphQL` `REST APIs`
+
+<sub>August 12, 2026 at 06:21 UTC</sub>
+
+---
+
+### [Google Senior Data Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Albany-69-State-St-Corp/Google-Senior-Data-Engineer_R00350467)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+
+_Build data pipelines, ETL/ELT processes, and ML solutions on Google Cloud Platform using BigQuery, Dataflow, Vertex AI, and Gemini models. Work directly with clients on data modernization and AI implementation within a consulting delivery model. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Albany-69-State-St-Corp/Google-Senior-Data-Engineer_R00350467)_
+
+`BigQuery` `Python` `Dataflow` `Vertex AI` `SQL` `Pub/Sub` `Dataproc` `Looker`
+
+<sub>August 12, 2026 at 06:21 UTC</sub>
+
+---
 
 ### [GCP DevOps Engineer](https://jobs.lever.co/sonatype/eb00465e-e137-4d67-a0bc-30c2c70fdaa2)
 <a href="https://sonatype.com"><img src="https://www.google.com/s2/favicons?domain=sonatype.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sonatype** · `🟢 Remote` `Senior`
@@ -186,17 +208,6 @@ _Architect and build certificate lifecycle management systems spanning discovery
 
 ---
 
-### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
-<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
-
-_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
-
-`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
 ### [Principal UX Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/8122887)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Principal` `$245k–$344k` `Equity`
 
@@ -214,6 +225,17 @@ _Build sophisticated interactive prototypes and product experiences for Reddit's
 _Drive GenAI-powered recommendation and feed ranking systems leveraging Reddit's community data and engagement patterns for tens of millions of users. Set technical direction for Relevance and Feeds teams at organizational scale; requires 10+ years building relevance and ML systems at large scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8122606)_
 
 `Machine Learning` `Recommendation Systems` `Ranking Algorithms` `GenAI` `Python` `Distributed Systems` `Large Language Models`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
+
+_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
+
+`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -291,6 +313,17 @@ _Develop production machine learning models for Bird's Eye View (BEV) perception
 _Design and build shared platform components and internal engineering libraries that multiple product teams depend on, including event-driven architecture, APIs, and developer-facing abstractions. Work across two closely-aligned teams (Application Primitives for customer-facing components like notifications and audit trails; Libraries & Foundations for TypeScript-first internal libraries and golden-path patterns). · [Apply →](https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be)_
 
 `TypeScript` `Kafka` `Event-Driven Architecture` `API Design` `Distributed Systems` `SQS` `PostgreSQL`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity`
+
+_Lead full-stack integration architecture for DGX Cloud, defining control and data plane systems that deliver bare metal and virtualized accelerated computing across enterprise, sovereign, and neo-cloud datacenters. Requires 15-20+ years in systems integration spanning hardware, firmware, OS, and virtualization, plus 7-10+ years of technical leadership. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)_
+
+`Kubernetes` `Linux` `Virtualization` `Cloud Architecture` `IaaS/PaaS` `High-Performance Computing` `Distributed Systems` `Open Source Infrastructure`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 

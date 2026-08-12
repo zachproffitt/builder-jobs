@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **151 companies** · **398 open roles** (40 new)
+### **156 companies** · **412 open roles** (43 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -26,6 +26,7 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Google Senior Data Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Albany-69-State-St-Corp/Google-Senior-Data-Engineer_R00350467) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 12)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Lead Enterprise Security Recovery Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Lead-Enterprise-Security-Recovery-Architect_R00350539) · `🟢 Remote` `Senior` `$112k-$338k` (Aug 12)
 
 ---
@@ -458,14 +459,6 @@ EvolutionIQ provides an insurance claims guidance platform that helps carriers p
 
 ---
 
-## <a href="https://f5.com"><img src="https://www.google.com/s2/favicons?domain=f5.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[F5 Networks](https://f5.com)
-
-F5 Networks provides application services that ensure applications remain secure and perform consistently across any environment and device.
-
-- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
-
----
-
 ## <a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Federato](https://federato.com)
 
 Federato builds an AI-native insurance platform that handles the full policy lifecycle, including risk assessment, quoting, and portfolio management.
@@ -473,6 +466,14 @@ Federato builds an AI-native insurance platform that handles the full policy lif
 - [Director, Engineering - Infrastructure ](https://job-boards.greenhouse.io/federato/jobs/5382500008) · `🟢 Remote` `Manager` `$250k-$275k` `Equity` (Aug 7)
 - [Director, Engineering - AI Products](https://job-boards.greenhouse.io/federato/jobs/5374688008) · `🟢 Remote` `Manager` `$250k-$275k` `Equity` (Aug 3)
 - [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/federato/jobs/5375752008) · `🟢 Remote` `Senior` `$160k-$200k` `Equity` (Aug 1)
+
+---
+
+## <a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Feedonomics](https://feedonomics.com)
+
+Feedonomics optimizes product feed data to display products across multiple shopping discovery channels.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer II - Engineering Services (Full Stack)](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---Remote/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826) · `🟢 Remote` `Mid` `$111k-$167k` `Equity` (Aug 12)
 
 ---
 
@@ -489,6 +490,18 @@ Filevine builds a platform that combines data, documents, workflows, and teams f
 Five9 provides cloud contact center and AI services for organizations.
 
 - [Director, Solution Consulting Operations](https://www.five9.com/about/careers/job-detail?gh_jid=6129958004) · `🟢 Remote` `Manager` `$124k–$288k` `Equity` (Jul 29)
+
+---
+
+## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
+
+Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
+
+- [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 7)
+- [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1) · `🟢 Remote` `Senior` `$141k-$237k` `Equity` (Aug 7)
+- [Senior Manager, GTM Intelligence and Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078) · `🟢 Remote` `Manager` `$137.5k-$231.2k` `Equity` (Aug 5)
+- [Principal Analytics Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Analytics-Engineer_P751074-1) · `🟢 Remote` `Principal` `$136k-$229k` `Equity` (Aug 4)
+- [Data Scientist, Consumer Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1) · `🟢 Remote` `Senior` `$119k-$201k` `Equity` (Aug 3)
 
 ---
 
@@ -874,6 +887,31 @@ NEPS, LLC operates printing press and die-cutting equipment in a manufacturing f
 Nextdoor is a neighborhood hub where people exchange information, goods, and services with others in their area.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer - Android](https://about.nextdoor.com/careers-list/?gh_jid=8120327) · `🟢 Remote` `Senior` `$165k-$250k` `Equity` (Aug 11)
+
+---
+
+## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+
+NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+
+- [Senior Data Platform Engineer](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Senior-Data-Platform-Engineer_R-101757) · `🟢 Remote` `Senior` (Aug 5)
+
+---
+
+## <a href="https://nginx.com"><img src="https://www.google.com/s2/favicons?domain=nginx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nginx](https://nginx.com)
+
+- [Sr Web Developer](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Boulder-Louisville/Sr-Web-Developer_RP1038249-1) · Boulder, Colorado · `Senior` `$163.2k-$244.8k` `Equity` (Aug 4)
+
+---
+
+## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
+
+Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999) · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity` (Aug 12)
+- [Service Reliability Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Remote/Service-Reliability-Engineer_JR2021654-1) · `🟢 Remote` `Senior` `$168k-$333.5k` `Equity` (Aug 10)
+- [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034) · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity` (Aug 7)
+- [Senior Manager, Storage Production Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Storage-Production-Engineering_JR2021663) · `🟢 Remote` `Manager` `$272k-$431.25k` `Equity` (Jul 29)
 
 ---
 
@@ -1406,6 +1444,15 @@ Vercel provides frameworks, workflows, and infrastructure that developers use to
 Verdigris uses 8 kHz waveform analysis to detect equipment degradation and prevent outages in AI data centers.
 
 - [Forward Deployed Engineer — Strategic Solutions, Integration & Delivery](https://jobs.lever.co/verdigris/9d1fa824-0e29-43f3-985a-0b3d7b1e05f4) · `🟢 Remote` `Principal` (Aug 4)
+
+---
+
+## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
+
+Visa provides personal payment solutions, payment cards, and rewards programs.
+
+- [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W) · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity` (Aug 7)
+- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W) · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity` (Aug 7)
 
 ---
 
