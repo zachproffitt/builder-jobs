@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **404 open roles** (43 new) &nbsp;·&nbsp; 1764 companies searched
+### **387 open roles** (42 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,48 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 12, 2026
+
+### [Staff Security Analyst](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Security-Analyst_JR-000823)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$123.2k-$154k`
+
+_Lead threat detection engineering, incident response, and forensic investigations across Alkami's enterprise security operations. Mature SIEM and endpoint detection capabilities, develop detection standards, and mentor security analysts while advising technology teams on monitoring strategies and incident readiness. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Security-Analyst_JR-000823)_
+
+`SIEM` `Endpoint Detection and Response` `Microsoft Sentinel` `Splunk` `CrowdStrike` `MITRE ATT&CK` `Threat Hunting` `Digital Forensics`
+
+<sub>August 12, 2026 at 13:36 UTC</sub>
+
+---
+
+### [Associate Manager, Software Engineering](https://jobs.lever.co/CesiumAstro/6b959f3f-7081-405a-b565-0c0c5246cb70)
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Manager`
+
+_Lead a team of software engineers building communication systems for satellites, UAVs, and launch vehicles; requires US citizenship or equivalent authorization due to space technology export regulations. · [Apply →](https://jobs.lever.co/CesiumAstro/6b959f3f-7081-405a-b565-0c0c5246cb70)_
+
+<sub>August 12, 2026 at 13:36 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Java/Microservices](https://job-boards.greenhouse.io/tenableinc/jobs/5387057008)
+<a href="https://tenable.com"><img src="https://www.google.com/s2/favicons?domain=tenable.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenable** · Columbia, Maryland / Remote / Boston, Massachusetts / San Francisco, California · `🟢 Remote` `Senior` `$137k–$183k` `Equity`
+
+_Build cloud-native search solutions and microservices that handle data ingestion, storage, querying, and retrieval at scale for cybersecurity exposure management. Design distributed systems and infrastructure serving 40,000+ organizations with petabyte-scale data across containerized architectures. · [Apply →](https://job-boards.greenhouse.io/tenableinc/jobs/5387057008)_
+
+`Java` `Kotlin` `Kubernetes` `Elasticsearch` `PostgreSQL` `Kafka` `Distributed Systems` `Microservices Architecture`
+
+<sub>August 12, 2026 at 13:36 UTC</sub>
+
+---
+
+### [Framework Software Engineer](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6141938004)
+<a href="https://extrahop.com"><img src="https://www.google.com/s2/favicons?domain=extrahop.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ExtraHop** · Remote / Seattle, Washington · `🟢 Remote` `Senior` `$145k-$160k`
+
+_Design and develop high-performance network detection and monitoring systems written in C and C++, handling protocol parsing, packet capture, and time-series data at scale. Work on next-generation initiatives including performance optimization, data storage architecture evolution, and cloud enablement for ExtraHop's core NDR platform. · [Apply →](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6141938004)_
+
+`C` `C++` `Go` `Python` `Linux` `TCP/IP` `gdb` `AWS`
+
+<sub>August 12, 2026 at 13:36 UTC</sub>
+
+---
 
 ### [Software Engineer II - Engineering Services (Full Stack)](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---Remote/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826)
 <a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Feedonomics** · `🟢 Remote` `Mid` `$111k-$167k` `Equity`
@@ -62,17 +104,6 @@ _Maintain and evolve the Termius Desktop SSH client, a cross-platform applicatio
 _Build agent-based workflows and AI-assisted tooling for privacy engineering processes including privacy review automation, data subject rights handling, and telemetry classification. Integrate privacy controls across SaaS cloud infrastructure while working with LLM systems to help engineering teams identify and mitigate privacy risks at scale. · [Apply →](https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7)_
 
 `Python` `TypeScript` `Go` `LLM systems` `API integration` `CI/CD` `GDPR` `CCPA`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5209227007?gh_jid=5209227007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Implement and deploy real-time image processing software for infrared imaging systems on resource-constrained embedded hardware. Requires active U.S. security clearance and expertise in Linux systems configuration, NixOS, and low-latency C++/CUDA pipelines for defense applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5209227007?gh_jid=5209227007)_
-
-`C++` `CUDA` `Linux` `Nix/NixOS` `Python` `Rust` `Computer Vision` `TS/SCI Clearance`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -208,17 +239,6 @@ _Architect and build certificate lifecycle management systems spanning discovery
 
 ---
 
-### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
-<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
-
-_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
-
-`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
 ### [Principal UX Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/8122887)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Principal` `$245k–$344k` `Equity`
 
@@ -258,6 +278,17 @@ _Develop and analyze launch vehicle and spacecraft trajectories for Earth orbiti
 _Build production-grade generative AI applications for go-to-market operations, including AI-powered sales copilots, personalized outreach generation, and voice/chat interfaces. Work across the full stack from model experimentation to backend systems and infrastructure at a public company operating at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352)_
 
 `Python` `LangChain` `OpenAI SDK` `RAG systems` `Generative AI` `FastAPI` `PostgreSQL` `Salesforce`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
+
+_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
+
+`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -324,17 +355,6 @@ _Design and build shared platform components and internal engineering libraries 
 _Lead full-stack integration architecture for DGX Cloud, defining control and data plane systems that deliver bare metal and virtualized accelerated computing across enterprise, sovereign, and neo-cloud datacenters. Requires 15-20+ years in systems integration spanning hardware, firmware, OS, and virtualization, plus 7-10+ years of technical leadership. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)_
 
 `Kubernetes` `Linux` `Virtualization` `Cloud Architecture` `IaaS/PaaS` `High-Performance Computing` `Distributed Systems` `Open Source Infrastructure`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Senior Data Engineer](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Senior-Data-Engineer_R48008)
-<a href="https://chrobinson.com"><img src="https://www.google.com/s2/favicons?domain=chrobinson.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**C.H. Robinson** · `🟢 Remote` `Senior` `$113k-$254.2k` `Equity`
-
-_Design and build large-scale data solutions across multiple products, owning data architecture, ETL pipelines, and cloud infrastructure while mentoring engineering teams. Lead technical strategy for data systems handling millions of records in a logistics/supply chain environment. · [Apply →](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Minnesota-Remote/Senior-Data-Engineer_R48008)_
-
-`SQL` `Kafka` `Azure` `AWS` `PostgreSQL` `MongoDB` `C#` `Java`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -451,37 +471,6 @@ _Build and maintain trusted product data assets using dbt and Snowflake, definin
 `dbt` `Snowflake` `SQL` `Python` `Statistics` `Machine Learning` `Snowflake Cortex` `Product Analytics`
 
 <sub>August 11, 2026 at 15:09 UTC</sub>
-
----
-
-### [Principal Software Engineer](https://boards.greenhouse.io/array/jobs/4747055004?gh_jid=4747055004)
-<a href="https://array.com"><img src="https://www.google.com/s2/favicons?domain=array.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Array Health** · `🟢 Remote` `Principal` `$200k+` `Equity`
-
-_Drive consequential engineering problems across Array's fintech platform—designing systems for scale, simplifying architecture, and multiplying the effectiveness of senior engineers. Shape technical direction for a financial innovation platform serving digital brands, fintechs, and financial institutions through APIs and embeddable widgets. · [Apply →](https://boards.greenhouse.io/array/jobs/4747055004?gh_jid=4747055004)_
-
-<sub>August 11, 2026 at 13:24 UTC</sub>
-
----
-
-### [Senior Director, Enterprise Data (Remote)](https://jobs.ashbyhq.com/optro/556b68fa-5121-4e41-9183-7f909e3990ac)
-<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Manager`
-
-_Lead the enterprise data infrastructure, revenue systems (Salesforce, CPQ), and systems integration architecture for a $300M+ ARR SaaS company scaling globally. Build and govern the data platform serving Finance, HR, Sales, and Operations while architecting AI enablement across the business. · [Apply →](https://jobs.ashbyhq.com/optro/556b68fa-5121-4e41-9183-7f909e3990ac)_
-
-`Salesforce` `CPQ` `HRIS` `Workato` `Enterprise Data Platform` `Data Governance` `Distributed Systems`
-
-<sub>August 11, 2026 at 13:24 UTC</sub>
-
----
-
-### [Senior Staff Structural Analyst - Spacecraft Engineering](https://job-boards.greenhouse.io/ionq/jobs/6140238004)
-<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Louisville, Colorado / San Francisco, California · `🟡 Hybrid` `Staff` `$192k—$276k` `Equity`
-
-_Develop finite element analysis models and structural analysis frameworks for spacecraft and satellite hardware, supporting design validation, qualification, and launch certification. Lead structural dynamics, modal analysis, and Craig-Bampton model development for commercial and government spaceflight programs; requires U.S. Person status for ITAR-controlled space technology access. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6140238004)_
-
-`NASTRAN` `ANSYS` `HyperMesh` `Patran` `FEMAP` `Python` `MATLAB` `Solidworks`
-
-<sub>August 11, 2026 at 13:24 UTC</sub>
 
 ---
 
