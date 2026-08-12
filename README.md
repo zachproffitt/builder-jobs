@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **408 open roles** (41 new) &nbsp;·&nbsp; 1764 companies searched
+### **398 open roles** (40 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -280,17 +280,6 @@ _Build server-side systems and LLM orchestration layers powering intelligent, dy
 _Develop production machine learning models for Bird's Eye View (BEV) perception systems in autonomous trucks, using multi-modal sensor data (cameras, LiDAR) to enable safe environmental understanding. Work on scaling perception capabilities across Torc's autonomy stack with emphasis on robustness, accuracy, and generalization in real-world autonomous driving scenarios. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002)_
 
 `Python` `PyTorch` `Computer Vision` `3D Perception` `LiDAR` `Point Cloud Processing` `Sensor Fusion` `Deep Learning`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity`
-
-_Lead full-stack integration architecture for DGX Cloud, defining control and data plane systems that deliver bare metal and virtualized accelerated computing across enterprise, sovereign, and neo-cloud datacenters. Requires 15-20+ years in systems integration spanning hardware, firmware, OS, and virtualization, plus 7-10+ years of technical leadership. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)_
-
-`Kubernetes` `Linux` `Virtualization` `Cloud Architecture` `IaaS/PaaS` `High-Performance Computing` `Distributed Systems` `Open Source Infrastructure`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
