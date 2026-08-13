@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **410 open roles** (50 new) &nbsp;·&nbsp; 1764 companies searched
+### **439 open roles** (49 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,83 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 13, 2026
+
+### [Senior Software Engineer, Nix](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$191k-$253k` `Equity`
+
+_Maintain and improve Anduril's internal Nix package set for software distribution across development, hosted services, and embedded devices; establish packaging standards and train engineers. Requires proficiency with Nix at scale and active U.S. Secret security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)_
+
+`Nix` `Nixpkgs` `NixOS` `Rust` `C++` `Go` `Python` `TS/SCI Clearance`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer (Back-end)](https://jobs.lever.co/filevine/2b765f88-8dd7-4fef-b266-f0d58ae3220a)
+<a href="https://filevine.com"><img src="https://www.google.com/s2/favicons?domain=filevine.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Filevine** · `🟢 Remote` `Senior`
+
+_Build backend systems and APIs for Filevine's Legal Operating Intelligence platform, handling data processing, document management, and workflow automation at scale. Work on AI-powered legal tech infrastructure serving thousands of legal professionals and firms. · [Apply →](https://jobs.lever.co/filevine/2b765f88-8dd7-4fef-b266-f0d58ae3220a)_
+
+`Python` `Java` `PostgreSQL` `AWS` `Kubernetes` `Distributed Systems` `REST APIs`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
+### [Backend Engineer, Source Code Experience (Ruby)](https://job-boards.greenhouse.io/gitlab/jobs/8687926002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
+
+_Build backend services and APIs for GitLab's source code workflows using Ruby and GraphQL, supporting both AI agents and human developers across GitLab.com, self-managed instances, and GitLab Dedicated. Work in a high-complexity product area requiring expertise in database optimization, caching, and system reliability. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8687926002)_
+
+`Ruby` `GraphQL` `SQL` `PostgreSQL` `Redis` `Git` `Kafka` `Datadog`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
+### [Senior Backend Engineer, Create: Source Code Experience (Ruby)](https://job-boards.greenhouse.io/gitlab/jobs/8687910002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `Equity`
+
+_Build backend services, APIs, and data models for GitLab's source code workflows using Ruby and GraphQL, supporting both human developers and AI agents at scale across GitLab.com, self-managed instances, and Dedicated deployments. Requires hands-on work in one of GitLab's oldest and most complex product areas with focus on performance tuning, reliability, and on-call incident response. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8687910002)_
+
+`Ruby` `GraphQL` `PostgreSQL` `Redis` `Git` `Kubernetes` `Datadog`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
+### [Detection Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Peterson AFB, Colorado · `🟡 Hybrid` `Senior` `$69k-$158k`
+
+_Build detection systems and security solutions for Department of Defense Combatant Command networks using SIEM, IDS, and threat detection platforms. Requires TS/SCI clearance and focus on analyzing complex cyber threats to protect mission-critical defense infrastructure. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981)_
+
+`Security Onion` `Trellix` `Microsoft Defender` `SIEM` `IDS signatures` `MITRE ATT&CK` `TS/SCI Clearance` `DoD 8140 Cyber Defense Analyst Certifications`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
+### [Data Scientist](https://jobs.ashbyhq.com/openrouter/c8ee3a10-ae18-4d8b-9390-369ebea7b03f)
+<a href="https://openrouter.ai"><img src="https://www.google.com/s2/favicons?domain=openrouter.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenRouter** · `🟢 Remote` `Senior`
+
+_Build the intelligence layer and routing algorithms that optimize how millions of developers interact with LLMs across OpenRouter's model marketplace, processing billions of generations. Own data products end-to-end—from problem framing through shipping features that directly impact routing heuristics, customer analytics, and platform strategy. · [Apply →](https://jobs.ashbyhq.com/openrouter/c8ee3a10-ae18-4d8b-9390-369ebea7b03f)_
+
+`Python` `SQL` `ClickHouse` `dbt` `scikit-learn` `statistical modeling` `LLM evaluation` `TypeScript`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
+### [SQL Developer II](https://job-boards.greenhouse.io/precisionaq/jobs/6143437004)
+<a href="https://precisionvalue.com"><img src="https://www.google.com/s2/favicons?domain=precisionvalue.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**PRECISIONvalue** · `🟢 Remote` `Mid` `$75k-$95k`
+
+_Design and develop complex SQL Server data pipelines and ETL processes that power client deliverables in healthcare market access; build scalable datasets with rigorous data validation and quality checks. · [Apply →](https://job-boards.greenhouse.io/precisionaq/jobs/6143437004)_
+
+`Microsoft SQL Server` `T-SQL` `ETL` `Azure DevOps` `Git` `C#` `Data Modeling` `Query Optimization`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Service Tools](https://careers.airbnb.com/positions/8099292?gh_jid=8099292)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$230k` `Equity`
@@ -157,12 +234,12 @@ _Build and optimize Spire's internal developer platform on AWS, managing cloud i
 
 ---
 
-### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$133k-$197k` `Equity`
 
-_Build and operate ClickHouse Cloud's distributed multi-cloud, multi-region infrastructure platform, including compute, networking, and resource orchestration. Design cloud-native systems for cost optimization, scalability, and high availability at scale across AWS, Azure, and GCP. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)_
+_Build and operate a multi-cloud, multi-region distributed infrastructure platform for ClickHouse Cloud, managing compute, networking, and security across AWS, Azure, and GCP. Optimize cost efficiency and availability at scale through automation, Kubernetes orchestration, and high-impact infrastructure optimization initiatives. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)_
 
-`Go` `Kubernetes` `Terraform` `AWS` `GCP` `Azure` `Istio` `Envoy`
+`Go` `C++` `AWS` `Terraform` `Kubernetes` `Istio` `Envoy` `GCP`
 
 <sub>August 13, 2026 at 08:38 UTC</sub>
 
@@ -477,94 +554,6 @@ _Own performance tuning and reliability of the StarRocks-backed serving layer fo
 `StarRocks` `Distributed Systems` `Data Pipelines` `Query Optimization` `Python` `SQL` `Incident Response` `Claude`
 
 <sub>August 12, 2026 at 21:55 UTC</sub>
-
----
-
-### [Senior Product Designer ](https://job-boards.greenhouse.io/assemblyai/jobs/4723627005)
-<a href="https://assemblyai.com"><img src="https://www.google.com/s2/favicons?domain=assemblyai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AssemblyAI** · `🟢 Remote` `Senior` `$180k - $240k`
-
-_Build and own the visual and interaction design of AssemblyAI's core product surfaces (Playground, dashboard, developer tools) in production React and TypeScript, setting the bar for UX quality across an AI-native developer platform processing 1M+ hours of audio daily. Strong design background required alongside frontend engineering ability to ship polished experiences end-to-end without handing off to others. · [Apply →](https://job-boards.greenhouse.io/assemblyai/jobs/4723627005)_
-
-`React` `TypeScript` `Figma` `Product Design` `UX Design`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Forward Deployed Engineer - Strategic Search Accounts](https://job-boards.greenhouse.io/bloomreach/jobs/8126527)
-<a href="https://bloomreach.com"><img src="https://www.google.com/s2/favicons?domain=bloomreach.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bloomreach** · `🟢 Remote` `Senior` `$135k-$175k` `Equity`
-
-_Own the technical relationship and architecture for Bloomreach's largest Search customers across their full commerce stack — catalog systems, data pipelines, personalization tools, and site integrations — serving as a trusted advisor on implementation strategy, risk mitigation, and long-term platform health. · [Apply →](https://job-boards.greenhouse.io/bloomreach/jobs/8126527)_
-
-`SaaS platforms` `API integrations` `Data pipelines` `Search systems` `Enterprise architecture`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Associate Infrastructure Engineer](https://job-boards.greenhouse.io/webflow/jobs/8122601)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Junior` `$140k - $207k` `Equity`
-
-_Build and maintain infrastructure reliability for Webflow's customer-facing production platform serving 2M+ users across 190 countries. Work with Kubernetes, observability tools, and infrastructure-as-code to optimize scalability, fault tolerance, and incident response at millions of page views per hour. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8122601)_
-
-`Kubernetes` `Terraform` `AWS` `GCP` `Datadog` `OpenTelemetry` `ArgoCD` `Node.js`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Tech Lead, Simulation Engine](https://job-boards.greenhouse.io/maymobility/jobs/8359255002)
-<a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · Ann Arbor, Michigan / Remote · `🟢 Remote` `Senior` `$189k-$272k`
-
-_Architect and scale the core autonomous vehicle simulation engine, including vehicle dynamics, multi-body physics, sensor-simulation pipelines, and unified evaluation metrics backend. Lead a simulation engineering team while ensuring determinism, performance, and integration with autonomy middleware and Hardware-in-the-Loop systems. · [Apply →](https://job-boards.greenhouse.io/maymobility/jobs/8359255002)_
-
-`C++` `Python` `Vehicle Dynamics` `Multi-body Physics` `Robotics Middleware` `Simulation Architecture` `ROS2` `CUDA`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Senior Manager, SaaS Quality Engineering (AI-First SDLC)](https://job-boards.greenhouse.io/pingidentity/jobs/8696542002)
-<a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Manager` `$157k-$185k`
-
-_Lead AI-first SDLC transformation and quality platform strategy for PingOne Multi-tenant SaaS, including agentic workflows across requirements, test design, execution, and production readiness for identity and access management systems. Design validation and evaluation frameworks for AI-agent workflows, MCP servers, and identity-aligned product surfaces at enterprise scale with multi-tenant isolation and tenant blast-radius requirements. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8696542002)_
-
-`Kubernetes` `AWS` `Kafka` `Datadog` `TestNG` `Playwright` `k6` `Cassandra`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Senior Staff Site Reliability Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8686225002)
-<a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Staff` `$170k-$227k`
-
-_Design and build cloud infrastructure and CI/CD pipelines for one of the world's largest identity platforms, serving 50+ Fortune 100 companies at scale. Lead distributed systems architecture decisions across GCP and AWS with a DevOps-integrated team practicing continuous deployments. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8686225002)_
-
-`Go` `Kubernetes` `Docker` `GCP` `AWS` `Distributed Systems` `CI/CD` `Git`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Senior Data Engineer - AI Platform](https://jobs.ashbyhq.com/trm-labs/45e886bf-748d-41cb-9748-258440d12b61)
-<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Senior`
-
-_Own performance tuning, reliability, and incident response for the StarRocks-backed serving layer that powers government cloud crime investigation platforms. Build distributed systems expertise in a regulated, high-availability environment where you'll reduce single points of failure and use AI-assisted debugging to resolve production issues rapidly. · [Apply →](https://jobs.ashbyhq.com/trm-labs/45e886bf-748d-41cb-9748-258440d12b61)_
-
-`StarRocks` `Distributed Systems` `SQL` `Data Pipelines` `Python` `Cloud Infrastructure` `Incident Response` `Claude`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Staff Data Engineer - AI Platform](https://jobs.ashbyhq.com/trm-labs/74fc12c1-be22-496e-812d-1316276c91e8)
-<a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TRM Labs** · `🟢 Remote` `Staff`
-
-_Own performance tuning and reliability of the StarRocks-backed serving layer for government cloud investigations, operating a distributed OLAP system at scale in a regulated, high-availability environment. Requires U.S. citizenship for GovCloud data access and willingness to take on-call responsibility as the second engineer responsible for this critical infrastructure. · [Apply →](https://jobs.ashbyhq.com/trm-labs/74fc12c1-be22-496e-812d-1316276c91e8)_
-
-`StarRocks` `distributed systems` `query optimization` `data pipeline reliability` `incident response` `Python` `SQL` `Claude`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
 
 ---
 
