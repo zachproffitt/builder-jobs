@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **425 open roles** (52 new) &nbsp;·&nbsp; 1764 companies searched
+### **410 open roles** (50 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -14,7 +14,62 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 13, 2026
 
-### [Software Engineer, Security](https://careers.airbnb.com/positions/8127075?gh_jid=8127075)
+### [Senior Software Engineer, Service Tools](https://careers.airbnb.com/positions/8099292?gh_jid=8099292)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$230k` `Equity`
+
+_Build Airbnb's next-generation build system and developer experience infrastructure for backend engineers at scale, including Bazel integration, CI/CD tooling, and editor improvements; requires 6+ years experience with build systems, large monorepos, and JVM ecosystem. · [Apply →](https://careers.airbnb.com/positions/8099292?gh_jid=8099292)_
+
+`Bazel` `Java` `Build Systems` `Monorepos` `JVM` `CI/CD` `IntelliJ`
+
+<sub>August 13, 2026 at 19:15 UTC</sub>
+
+---
+
+### [Tech Lead, .net](https://job-boards.greenhouse.io/cayuse/jobs/8706918002)
+<a href="https://cayuse.com"><img src="https://www.google.com/s2/favicons?domain=cayuse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cayuse** · `🟢 Remote` `Senior`
+
+_Lead technical architecture and hands-on development (50%) for a large-scale SaaS research management platform built on the Microsoft stack; mentor distributed teams and drive adoption of modern practices like DevSecOps and AI-assisted development. · [Apply →](https://job-boards.greenhouse.io/cayuse/jobs/8706918002)_
+
+`ASP.NET Core` `.NET` `AWS` `TypeScript` `Angular` `Microsoft SQL Server` `Infrastructure as Code` `DevSecOps`
+
+<sub>August 13, 2026 at 19:15 UTC</sub>
+
+---
+
+### [Senior AI Engineer](https://job-boards.greenhouse.io/mitratech/jobs/8056298)
+<a href="https://inszoom.com"><img src="https://www.google.com/s2/favicons?domain=inszoom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**INSZoom** · `🟢 Remote` `Senior` `$170k-$190k` `Equity`
+
+_Design and operate LLM-powered agent systems end-to-end on AWS, shipping FastAPI services, Terraform infrastructure, MCP servers, and evaluation harnesses built on Bedrock with LangChain/LangGraph. Mentor across the team and set reliability, testing, and operational practices for production GenAI systems serving enterprise Legal, Risk, Compliance, and HR functions. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/8056298)_
+
+`Python` `FastAPI` `LangChain` `LangGraph` `AWS Bedrock` `Terraform` `PostgreSQL` `Redis`
+
+<sub>August 13, 2026 at 19:15 UTC</sub>
+
+---
+
+### [Senior Quantum Scientist](https://job-boards.greenhouse.io/ionq/jobs/6137809004)
+<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Boulder, Colorado · `🟡 Hybrid` `Senior` `$126k–$181k` `Equity`
+
+_Design, prototype, and validate coherent control schemes for trapped-ion qubits, calibrating quantum systems to achieve ultra-low gate errors and benchmarking performance across device modules. Requires hands-on experimental physics work with quantum hardware and strong background in atomic/qubit physics; US Person status required for export-controlled technology access. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6137809004)_
+
+`Quantum Control` `Trapped Ion Systems` `Experimental Physics` `Python` `Data Analysis` `Atomic/Molecular/Optical Physics` `Gate Fidelity Benchmarking` `Laser Systems`
+
+<sub>August 13, 2026 at 19:15 UTC</sub>
+
+---
+
+### [Senior QA Analyst, Secure Remote Access ](https://job-boards.greenhouse.io/keepersecurity/jobs/4368918009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
+
+_Design and execute comprehensive test plans for Keeper Connection Manager's secure remote access workflows, validating SSH, RDP, VNC and other protocols across enterprise environments, operating systems and deployment scenarios. Requires 5+ years QA experience and hands-on testing of infrastructure products; U.S. Person status mandatory due to GovCloud involvement. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4368918009)_
+
+`SSH` `RDP` `VNC` `Jira` `TestRail` `Python` `Kubernetes` `Docker`
+
+<sub>August 13, 2026 at 19:15 UTC</sub>
+
+---
+
+### [Software Engineer, Secure Development Engineering](https://careers.airbnb.com/positions/8127075?gh_jid=8127075)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$162k-$186k` `Equity`
 
 _Design and build the backend platform that runs code security checks in continuous integration for thousands of Airbnb engineers, handling tens of thousands of checks monthly across multiple repositories and languages. Optimize for latency and developer experience while scaling to new check types and supporting AI-assisted code review evaluation pipelines. · [Apply →](https://careers.airbnb.com/positions/8127075?gh_jid=8127075)_
@@ -425,7 +480,7 @@ _Own performance tuning and reliability of the StarRocks-backed serving layer fo
 
 ---
 
-### [Senior Software Engineer, UX](https://job-boards.greenhouse.io/assemblyai/jobs/4723627005)
+### [Senior Product Designer ](https://job-boards.greenhouse.io/assemblyai/jobs/4723627005)
 <a href="https://assemblyai.com"><img src="https://www.google.com/s2/favicons?domain=assemblyai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AssemblyAI** · `🟢 Remote` `Senior` `$180k - $240k`
 
 _Build and own the visual and interaction design of AssemblyAI's core product surfaces (Playground, dashboard, developer tools) in production React and TypeScript, setting the bar for UX quality across an AI-native developer platform processing 1M+ hours of audio daily. Strong design background required alongside frontend engineering ability to ship polished experiences end-to-end without handing off to others. · [Apply →](https://job-boards.greenhouse.io/assemblyai/jobs/4723627005)_
@@ -510,81 +565,6 @@ _Own performance tuning and reliability of the StarRocks-backed serving layer fo
 `StarRocks` `distributed systems` `query optimization` `data pipeline reliability` `incident response` `Python` `SQL` `Claude`
 
 <sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Oracle HCM Talent Management Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Oracle-HCM-Talent-Management-Lead_R00350121)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$62k-$218k`
-
-_Design and implement Oracle HCM Cloud Talent Management systems for enterprise clients, configuring end-to-end talent processes, approval workflows, integrations, and reporting. Requires Oracle HCM certification and minimum 6 years of hands-on implementation experience across 2+ full life-cycle projects. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Oracle-HCM-Talent-Management-Lead_R00350121)_
-
-`Oracle HCM Cloud` `Oracle Talent Management` `Redwood Pages` `VBS` `Oracle Core HR` `Oracle Learning` `Oracle Recruiting`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
-### [Director of Engineering](https://jobs.ashbyhq.com/buildout/d421d9fd-8050-4519-a8ac-01a3be66c8b6)
-<a href="https://buildout.com"><img src="https://www.google.com/s2/favicons?domain=buildout.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Buildout, Inc.** · `🟢 Remote` `Manager` `$160k-$180k`
-
-_Lead the performance, delivery, and people operations of the engineering organization across multiple product teams. Partner with the SVP of Engineering on technology strategy while owning day-to-day execution, hiring, performance management, and cross-functional delivery; drive adoption of AI-assisted development practices to improve productivity and quality. · [Apply →](https://jobs.ashbyhq.com/buildout/d421d9fd-8050-4519-a8ac-01a3be66c8b6)_
-
-<sub>August 12, 2026 at 19:14 UTC</sub>
-
----
-
-### [Senior Software Development Engineer - Iris AI](https://jobs.ashbyhq.com/delinea/ec88db58-f50a-47de-ba33-ed8ba00b0e99)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
-
-_Design and build scalable backend services powering Delinea's AI-driven identity security platform, integrating LLMs for inference, RAG, agents, and evaluation across C#/.NET, Python, and Go on Azure and Kubernetes. Handle the full stack from Terraform and CI/CD to production incident response for a multi-tenant SaaS serving Fortune 500 organizations. · [Apply →](https://jobs.ashbyhq.com/delinea/ec88db58-f50a-47de-ba33-ed8ba00b0e99)_
-
-`C#/.NET` `Python` `Go` `Azure` `Kubernetes` `Terraform` `LLM Integration` `RAG`
-
-<sub>August 12, 2026 at 19:14 UTC</sub>
-
----
-
-### [Modeling and Simulation Integrations Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Modeling-and-Simulation-Integrations-Engineer_R0246800)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Junior` `$61k-$141k`
-
-_Design and implement software integration solutions for USSPACECOM training environments, coordinating data flows across classified networks using visualization tools, APIs, and cloud infrastructure. Requires TS/SCI clearance and involves cybersecurity artifact development (network topologies, data-flow diagrams) for RMF/ATO compliance in a defense contracting environment. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Modeling-and-Simulation-Integrations-Engineer_R0246800)_
-
-`AWS GovCloud` `Network Architecture` `Distributed Interactive Simulation (DIS)` `High Level Architecture (HLA)` `Risk Management Framework (RMF)` `TS/SCI Clearance` `DoD 8570 Certification` `MBSE`
-
-<sub>August 12, 2026 at 19:14 UTC</sub>
-
----
-
-### [Director, Marketing Technology & Innovation](https://www.pinterestcareers.com/jobs/?gh_jid=7648650)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Manager` `$192k-$397k` `Equity`
-
-_Lead AI and MarTech strategy for Pinterest's marketing organization, owning end-to-end MarTech stack architecture (CRM, CDP, MAP, DAM), production-grade AI solution deployment across marketing workflows, and vendor ecosystem management. Requires hands-on AI implementation experience and technical leadership building enterprise marketing infrastructure at director scope. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7648650)_
-
-`MarTech Stack (CRM, CDP, MAP, DAM)` `API Integrations` `AI/LLM Integration (OpenAI, Gemini, Anthropic)` `Agentic AI Systems` `Server-side Tracking` `CI/CD` `Data Pipeline Integration`
-
-<sub>August 12, 2026 at 19:14 UTC</sub>
-
----
-
-### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
-
-_Design and build production AI systems including agent orchestration, retrieval pipelines, and evaluation frameworks; architect and maintain marketing databases, CDPs, and data pipelines to enable advanced analytics and automation. Requires hands-on experience shipping LLM/agentic systems in production and deep expertise with modern data warehousing. · [Apply →](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)_
-
-`Python` `SQL` `LLMs` `Agents` `Databricks` `dbt` `Snowflake` `BigQuery`
-
-<sub>August 12, 2026 at 19:14 UTC</sub>
-
----
-
-### [Software Engineer II - Build Tools ](https://job-boards.greenhouse.io/torcrobotics/jobs/8654323002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan · `🟢 Remote` `Mid` `$139k–$166k`
-
-_Build and maintain CI/CD pipelines, production infrastructure, and automation tooling that drive release velocity and reliability for safety-critical autonomous vehicle software. Requires hands-on DevOps expertise with containerization, cloud architecture, and build tools in a high-impact infrastructure role. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8654323002)_
-
-`Python` `AWS` `Kubernetes` `Docker` `GitHub Actions` `Bazel` `Datadog` `Go`
-
-<sub>August 12, 2026 at 19:14 UTC</sub>
 
 ---
 
