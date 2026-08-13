@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **401 open roles** (62 new) &nbsp;·&nbsp; 1764 companies searched
+### **425 open roles** (58 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 13, 2026
+
+### [Senior Staff System Engineer – Taikun APIs](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Wisconsin-Remote/Senior-Staff-System-Engineer---Taikun-APIs_261217)
+<a href="https://hortonworks.com"><img src="https://www.google.com/s2/favicons?domain=hortonworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hortonworks** · `🟢 Remote` `Staff`
+
+_Build and scale a hybrid cloud platform running AI and big data workloads on Kubernetes across thousands of nodes, with a focus on security compliance (FedRAMP), air-gapped deployments, and observability standardization across the enterprise. · [Apply →](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Wisconsin-Remote/Senior-Staff-System-Engineer---Taikun-APIs_261217)_
+
+`Kubernetes` `Golang` `GCP` `AWS` `Terraform` `Prometheus` `Grafana` `Istio`
+
+<sub>August 13, 2026 at 13:37 UTC</sub>
+
+---
 
 ### [Cloud Infrastructure Engineer](https://spire.com/careers/job-openings/job/?gh_jid=8124588&gh_jid=8124588)
 <a href="https://spire.com"><img src="https://www.google.com/s2/favicons?domain=spire.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Spire Global** · Boulder, Colorado · `🟡 Hybrid` `Mid` `$130k-$171k` `Equity`
@@ -25,12 +36,12 @@ _Build and optimize Spire's internal developer platform on AWS, managing cloud i
 
 ---
 
-### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$133k-$197k` `Equity`
+### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Build and operate a multi-cloud, multi-region distributed infrastructure platform for ClickHouse Cloud, managing compute, networking, and security across AWS, Azure, and GCP. Optimize cost efficiency and availability at scale through automation, Kubernetes orchestration, and high-impact infrastructure optimization initiatives. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)_
+_Build and operate ClickHouse Cloud's distributed multi-cloud, multi-region infrastructure platform, including compute, networking, and resource orchestration. Design cloud-native systems for cost optimization, scalability, and high availability at scale across AWS, Azure, and GCP. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)_
 
-`Go` `C++` `AWS` `Terraform` `Kubernetes` `Istio` `Envoy` `GCP`
+`Go` `Kubernetes` `Terraform` `AWS` `GCP` `Azure` `Istio` `Envoy`
 
 <sub>August 13, 2026 at 08:38 UTC</sub>
 
@@ -447,17 +458,6 @@ _Own performance tuning and reliability of the StarRocks-backed serving layer fo
 
 ---
 
-### [Oracle HCM Talent Management Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Oracle-HCM-Talent-Management-Lead_R00350121)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$62k-$218k`
-
-_Design and implement Oracle HCM Cloud Talent Management systems for enterprise clients, configuring end-to-end talent processes, approval workflows, integrations, and reporting. Requires Oracle HCM certification and minimum 6 years of hands-on implementation experience across 2+ full life-cycle projects. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Oracle-HCM-Talent-Management-Lead_R00350121)_
-
-`Oracle HCM Cloud` `Oracle Talent Management` `Redwood Pages` `VBS` `Oracle Core HR` `Oracle Learning` `Oracle Recruiting`
-
-<sub>August 12, 2026 at 20:56 UTC</sub>
-
----
-
 ### [Director of Engineering](https://jobs.ashbyhq.com/buildout/d421d9fd-8050-4519-a8ac-01a3be66c8b6)
 <a href="https://buildout.com"><img src="https://www.google.com/s2/favicons?domain=buildout.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Buildout, Inc.** · `🟢 Remote` `Manager` `$160k-$180k`
 
@@ -588,12 +588,12 @@ _Design and deploy end-to-end AI/ML pipelines for geospatial intelligence, produ
 
 ---
 
-### [Principal Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4698956006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `$229k-$258k` `Equity`
+### [Principal Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4698958006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Principal` `Equity`
 
-_Design and operate the multi-ecosystem platform that automatically builds, verifies, and serves hardened open-source libraries across language ecosystems (Java, JavaScript, Python, .NET, Go, Rust). Lead architectural decisions for remediation automation, agentic patch generation, and ecosystem-agnostic infrastructure that scales across package registries, build systems, and supply chain security at enterprise scale. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4698956006)_
+_Own technical strategy for multi-ecosystem scaling of a secure open-source build platform, designing architecture to onboard new language ecosystems (.NET, Go, Rust) and automating CVE remediation pipelines from detection through verified release with minimal manual intervention. Lead agentic systems for patch generation and set platform direction across package indexing, build orchestration, and registry services serving Fortune 500 customers. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4698958006)_
 
-`Go` `Kubernetes` `Terraform` `GitHub Actions` `Docker` `Cargo` `NuGet` `SLSA`
+`Go` `Kubernetes` `Docker` `Terraform` `CI/CD` `GitHub Actions` `Argo` `Tekton`
 
 <sub>August 12, 2026 at 15:07 UTC</sub>
 
@@ -651,48 +651,6 @@ _Troubleshoot and operate production network infrastructure (routers, switches, 
 `Juniper` `BGP` `OSPF` `Linux` `TCP/IP` `Firewalls` `GRE` `IPSec`
 
 <sub>August 12, 2026 at 15:07 UTC</sub>
-
----
-
-### [Staff Security Analyst](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Security-Analyst_JR-000823)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$123.2k-$154k`
-
-_Lead threat detection engineering, incident response, and forensic investigations across Alkami's enterprise security operations. Mature SIEM and endpoint detection capabilities, develop detection standards, and mentor security analysts while advising technology teams on monitoring strategies and incident readiness. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Security-Analyst_JR-000823)_
-
-`SIEM` `Endpoint Detection and Response` `Microsoft Sentinel` `Splunk` `CrowdStrike` `MITRE ATT&CK` `Threat Hunting` `Digital Forensics`
-
-<sub>August 12, 2026 at 13:36 UTC</sub>
-
----
-
-### [Associate Manager, Software Engineering](https://jobs.lever.co/CesiumAstro/6b959f3f-7081-405a-b565-0c0c5246cb70)
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Manager`
-
-_Lead a team of software engineers building communication systems for satellites, UAVs, and launch vehicles; requires US citizenship or equivalent authorization due to space technology export regulations. · [Apply →](https://jobs.lever.co/CesiumAstro/6b959f3f-7081-405a-b565-0c0c5246cb70)_
-
-<sub>August 12, 2026 at 13:36 UTC</sub>
-
----
-
-### [Senior Software Engineer - Java/Microservices](https://job-boards.greenhouse.io/tenableinc/jobs/5387057008)
-<a href="https://tenable.com"><img src="https://www.google.com/s2/favicons?domain=tenable.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenable** · Columbia, Maryland / Remote / Boston, Massachusetts / San Francisco, California · `🟢 Remote` `Senior` `$137k–$183k` `Equity`
-
-_Build cloud-native search solutions and microservices that handle data ingestion, storage, querying, and retrieval at scale for cybersecurity exposure management. Design distributed systems and infrastructure serving 40,000+ organizations with petabyte-scale data across containerized architectures. · [Apply →](https://job-boards.greenhouse.io/tenableinc/jobs/5387057008)_
-
-`Java` `Kotlin` `Kubernetes` `Elasticsearch` `PostgreSQL` `Kafka` `Distributed Systems` `Microservices Architecture`
-
-<sub>August 12, 2026 at 13:36 UTC</sub>
-
----
-
-### [Framework Software Engineer](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6141938004)
-<a href="https://extrahop.com"><img src="https://www.google.com/s2/favicons?domain=extrahop.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ExtraHop** · Remote / Seattle, Washington · `🟢 Remote` `Senior` `$145k-$160k`
-
-_Design and develop high-performance network detection and monitoring systems written in C and C++, handling protocol parsing, packet capture, and time-series data at scale. Work on next-generation initiatives including performance optimization, data storage architecture evolution, and cloud enablement for ExtraHop's core NDR platform. · [Apply →](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6141938004)_
-
-`C` `C++` `Go` `Python` `Linux` `TCP/IP` `gdb` `AWS`
-
-<sub>August 12, 2026 at 13:36 UTC</sub>
 
 ---
 
