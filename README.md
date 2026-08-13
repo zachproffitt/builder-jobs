@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **417 open roles** (62 new) &nbsp;·&nbsp; 1764 companies searched
+### **419 open roles** (60 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -671,28 +671,6 @@ _Design and develop high-performance network detection and monitoring systems wr
 `C` `C++` `Go` `Python` `Linux` `TCP/IP` `gdb` `AWS`
 
 <sub>August 12, 2026 at 13:36 UTC</sub>
-
----
-
-### [Software Engineer II - Engineering Services (Full Stack)](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---Remote/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826)
-<a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Feedonomics** · `🟢 Remote` `Mid` `$111k-$167k` `Equity`
-
-_Build and maintain single-click apps for the BigCommerce App Marketplace, handling the full stack from backend services in Node/TypeScript and PHP to React frontends, while managing OAuth flows, webhooks, and multi-tenant scalability across thousands of merchant stores. Work with short feedback loops shipping code to production frequently, supporting apps through monitoring and merchant-impacting issue resolution. · [Apply →](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/US---Remote/Software-Engineer-II---Engineering-Services--Full-Stack-_JR102826)_
-
-`JavaScript` `TypeScript` `Node.js` `PHP` `React` `Next.js` `GraphQL` `REST APIs`
-
-<sub>August 12, 2026 at 06:21 UTC</sub>
-
----
-
-### [Google Senior Data Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Albany-69-State-St-Corp/Google-Senior-Data-Engineer_R00350467)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
-
-_Build data pipelines, ETL/ELT processes, and ML solutions on Google Cloud Platform using BigQuery, Dataflow, Vertex AI, and Gemini models. Work directly with clients on data modernization and AI implementation within a consulting delivery model. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Albany-69-State-St-Corp/Google-Senior-Data-Engineer_R00350467)_
-
-`BigQuery` `Python` `Dataflow` `Vertex AI` `SQL` `Pub/Sub` `Dataproc` `Looker`
-
-<sub>August 12, 2026 at 06:21 UTC</sub>
 
 ---
 
