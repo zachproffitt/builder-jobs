@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **166 companies** · **435 open roles** (45 new)
+### **164 companies** · **434 open roles** (47 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -25,8 +25,8 @@ Engineering roles grouped by company, linking directly to each company's job boa
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Native Software Engineering Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Consultant_R00341058) · `🟢 Remote` `Senior` (Aug 14)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Native Software Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061) · `🟢 Remote` `Mid` (Aug 14)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Native Software Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Manager_R00340980) · `🟢 Remote` `Manager` (Aug 14)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Native Software Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061) · `🟢 Remote` `Mid` (Aug 14)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Google GECX Contact Center as a Service Senior Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1) · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$80k-$266k` (Aug 13)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Google GECX Contact Center as a Service Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069) · Multiple (California / Cleveland, Ohio / Colorado / District of Columbia, D.C. / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York, New York / New Jersey, New Jersey / Virginia / Washington, Washington) · `Senior` `$54k-$196k` (Aug 13)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Salesforce Data Cloud Technical Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Data-Cloud-Technical-Consultant_R00343042) · Chesterbrook, Pennsylvania / Orlando, Florida / Remote · `🟡 Hybrid` `Senior` `$62k-$218k` `Equity` (Aug 13)
@@ -55,6 +55,7 @@ AfterQuery curates data solutions to accelerate foundation model development.
 
 Airbnb operates a platform offering vacation rentals across 220+ countries and regions, with approximately 8 million properties listed on its service.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data Scientist - Payments (Inference)](https://careers.airbnb.com/positions/8123037?gh_jid=8123037) · `🟢 Remote` `Senior` `$179k-$210k` `Equity` (Aug 14)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Machine Learning Engineer, Traffic Intelligence](https://careers.airbnb.com/positions/8129371?gh_jid=8129371) · `🟢 Remote` `Staff` `$212k-$265k` `Equity` (Aug 13)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Service Tools](https://careers.airbnb.com/positions/8099292?gh_jid=8099292) · `🟢 Remote` `Senior` `$196k-$230k` `Equity` (Aug 13)
 - [Software Engineer, Secure Development Engineering](https://careers.airbnb.com/positions/8127075?gh_jid=8127075) · `🟢 Remote` `Mid` `$162k-$186k` `Equity` (Aug 13)
@@ -296,14 +297,6 @@ Cavnue, a Consor company, develops smart road technologies that create a real-ti
 
 ---
 
-## <a href="https://cayuse.com"><img src="https://www.google.com/s2/favicons?domain=cayuse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Cayuse](https://cayuse.com)
-
-Cayuse provides a cloud-based platform for research and grant administration that helps organizations manage compliance and streamline their processes.
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Tech Lead, .net](https://job-boards.greenhouse.io/cayuse/jobs/8706918002) · `🟢 Remote` `Senior` (Aug 13)
-
----
-
 ## <a href="https://cerence.com"><img src="https://www.google.com/s2/favicons?domain=cerence.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Cerence Inc.](https://cerence.com)
 
 Cerence Inc. delivers conversational and agentic AI-powered user experiences for automotive and other applications.
@@ -488,6 +481,7 @@ ElevenLabs is an AI research and product company that builds voice generation mo
 
 Empower Retirement provides retirement planning advisory services to public employees, helping them achieve financial readiness through individual consultations and group presentations on defined contribution Government 457 plans. The company employs Retirement Plan Advisors who conduct retirement readiness reviews, develop stakeholder partnerships, and use data-driven analysis to improve retirement outcomes for plan participants.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Site Reliability Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0061638-1) · `🟢 Remote` `Mid` `$87.4k-$123.4k` (Aug 14)
 - [Senior Data Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Engineer-Data_R0061234) · `🟢 Remote` `Senior` `$105k-$149k` (Aug 12)
 - [Lead Data Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Data-Engineer_R0061512-1) · `🟢 Remote` `Senior` (Aug 7)
 - [Senior Snowflake Platform Administrator](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Snowflake-Platform-Administrator_R0061390) · `🟢 Remote` `Senior` `$114k-$165.3k` (Aug 1)
@@ -624,9 +618,7 @@ GitLab is a DevOps platform delivered as a single application that covers the fu
 
 ---
 
-## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana Labs](https://grafana.com)
-
-Grafana Labs builds Grafana, an open-source visualization tool used by over 20 million users for monitoring and observability, and provides the Grafana LGTM Stack (featuring Mimir for metrics, Loki for logs, and Tempo for traces) that can be deployed as a fully managed cloud service or self-managed enterprise offering to help companies manage their observability strategies.
+## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana](https://grafana.com)
 
 - [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004) · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity` (Jul 31)
 - [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004) · `🟢 Remote` `Senior` `$154k-$185k` `Equity` (Jul 31)
@@ -637,6 +629,7 @@ Grafana Labs builds Grafana, an open-source visualization tool used by over 20 m
 
 Gusto provides online payroll, HR, and benefits services for small and medium-sized businesses, offering features including automated payroll processing, tax filing, time tracking, employee benefits administration, and hiring and onboarding tools.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data Engineer](https://job-boards.greenhouse.io/gusto/jobs/8099751) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$155k-$220k` `Equity` (Aug 14)
 - [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Mid` `$160k-$200k (Denver); $190k-$240k (San Francisco, New York)` `Equity` (Aug 10)
 - [Staff Software Engineer, Time and Scheduling](https://job-boards.greenhouse.io/gusto/jobs/8077301) · Remote (New York, New York / Atlanta, Georgia / Toronto, Ontario available) · `🟢 Remote` `Staff` `$163k-$204k (Denver & remote), $197k-$247k (San Francisco & New York)` `Equity` (Aug 4)
 
@@ -954,16 +947,7 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 - [Associate Director of Bioinformatics (Women's Health and Organ Health)](https://job-boards.greenhouse.io/natera/jobs/6138809004) · `🟢 Remote` `Manager` `$166k-$202k` (Aug 10)
 - [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) · `🟢 Remote` `Senior` `$130k—$163k` (Aug 10)
 - [Manager of Bioinformatics (Women's Health and Organ Health)](https://job-boards.greenhouse.io/natera/jobs/6135541004) · `🟢 Remote` `Manager` `$140k–$175k` (Aug 10)
-- [Staff Software Engineer in Test, Product Engineering](https://job-boards.greenhouse.io/natera/jobs/6135368004) · `🟢 Remote` `Principal` (Aug 6)
 - [Staff Scientist, Bioinformatics/RWD](https://job-boards.greenhouse.io/natera/jobs/6128396004) · `🟢 Remote` `Senior` `$158k-$197.5k` `Equity` (Aug 4)
-
----
-
-## <a href="https://neps.com"><img src="https://www.google.com/s2/favicons?domain=neps.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NEPS, LLC](https://neps.com)
-
-NEPS, LLC operates printing press and die-cutting equipment in a manufacturing facility, performing tasks such as preparing equipment, maintaining machinery, preparing inks, and inspecting products for quality in a production environment.
-
-- [Senior RPG Software Engineer](https://taylor.wd1.myworkdayjobs.com/External/job/MN-Remote/Senior-RPG-Software-Engineer_R29538) · `🟢 Remote` `Senior` `$90k-$100k` (Aug 7)
 
 ---
 
@@ -1198,14 +1182,13 @@ SailPoint builds a platform for managing and securing identities that dynamicall
 Samsara builds a platform called the Connected Operations Cloud that collects Internet of Things data from organizations in industries including agriculture, construction, field services, transportation, and manufacturing to provide actionable insights and improve their operations. The platform includes products for video-based safety, vehicle telematics, driver workflows, and equipment monitoring.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161) · `🟢 Remote` `Senior` `$142k-$168k CAD` `Equity` (Aug 13)
-- [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity` (Aug 12)
+- [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100) · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity` (Aug 12)
 - [Sr. AI Engineer](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352) · `🟢 Remote` `Senior` `$127k-$214k` `Equity` (Aug 12)
-- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078) · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity` (Aug 7)
+- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102) · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity` (Aug 7)
 - [Manager II, Data Platform](https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931) · `🟢 Remote` `Manager` `$154k-$234k` `Equity` (Aug 7)
 - [Staff Software Engineer, DevEx](https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358) · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity` (Aug 5)
 - [Solutions Integration Engineer IV](https://www.samsara.com/company/careers/roles/8094156?gh_jid=8094156) · `🟢 Remote` `Senior` `$105k-$160k` `Equity` (Aug 4)
 - [AI Architect - GTM Systems](https://www.samsara.com/company/careers/roles/7578952?gh_jid=7578952) · `🟢 Remote` `Senior` `$131k.50-$176k` `Equity` (Aug 3)
-- [Senior Marketing Analytics Manager - BI & Data Architecture](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653) · `🟢 Remote` `Senior` `$138k–$179k CAD` `Equity` (Jul 31)
 
 ---
 

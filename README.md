@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **435 open roles** (45 new) &nbsp;·&nbsp; 1764 companies searched
+### **434 open roles** (47 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Senior Data Scientist - Payments (Inference)](https://careers.airbnb.com/positions/8123037?gh_jid=8123037)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$179k-$210k` `Equity`
+
+_Lead quantitative measurement and causal inference initiatives across Airbnb's global payments platform, developing statistical frameworks and ML models to optimize fraud mitigation and payment strategies in a two-sided marketplace. Focus on experimental design, econometric analysis, and novel metrics to drive evidence-based decisions at enterprise scale. · [Apply →](https://careers.airbnb.com/positions/8123037?gh_jid=8123037)_
+
+`Python` `R` `SQL` `Causal Inference` `Statistical Modeling` `Machine Learning` `Experimentation` `Fraud Detection`
+
+<sub>August 14, 2026 at 17:58 UTC</sub>
+
+---
+
+### [Site Reliability Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0061638-1)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Mid` `$87.4k-$123.4k`
+
+_Build and maintain observability, monitoring, and incident response infrastructure for containerized applications running on AWS EKS. Establish SLIs, build proactive alerts, conduct capacity planning, and optimize infrastructure-as-code across high-availability financial services systems. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0061638-1)_
+
+`Kubernetes` `EKS` `Terraform` `Docker` `AWS` `Python` `Go` `Datadog`
+
+<sub>August 14, 2026 at 17:58 UTC</sub>
+
+---
+
+### [Senior Data Engineer](https://job-boards.greenhouse.io/gusto/jobs/8099751)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$155k-$220k` `Equity`
+
+_Build and maintain scalable data pipelines and ETL workflows that make Gusto's data consistent and actionable across payroll, HR, and benefits systems serving 500,000+ small businesses. Design durable, observable data solutions end-to-end—from problem framing through stakeholder alignment to production deployment—with hands-on work in dbt, cloud data warehouses, and CI/CD automation. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8099751)_
+
+`SQL` `Python` `dbt` `Snowflake` `BigQuery` `Redshift` `Databricks` `Airflow`
+
+<sub>August 14, 2026 at 17:58 UTC</sub>
+
+---
 
 ### [Staff Software Engineer (Customer Platform)](https://job-boards.greenhouse.io/chainguard/jobs/4705456006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k-$231k` `Equity`
@@ -58,23 +91,23 @@ _Design, build, and deploy production-grade multi-agent agentic systems across e
 
 ---
 
-### [AI Native Software Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid`
-
-_Design and ship production-grade full-stack software that integrates with agentic AI systems and LLM APIs, using AI-assisted coding daily as standard practice. Work across diverse client industries and enterprise technology stacks with vendor access inside Anthropic, OpenAI, Microsoft, and Google. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)_
-
-`Python` `TypeScript` `Java` `LLM APIs` `LangChain` `LangGraph` `Docker` `AWS`
-
-<sub>August 14, 2026 at 15:59 UTC</sub>
-
----
-
 ### [AI Native Software Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Manager_R00340980)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager`
 
 _Lead the design, deployment, and governance of production-grade multi-agent AI systems across enterprise clients—owning end-to-end agentic architecture, RAG pipelines, LLMOps standards, and measurement frameworks at programme scale. Requires hands-on experience shipping multi-agent systems in production and leading senior-level client engineering engagements; vendor fellowship access to Anthropic, OpenAI, Microsoft, and Google engineering teams. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Manager_R00340980)_
 
 `Python` `LangGraph` `CrewAI` `AutoGen` `OpenAI` `Anthropic` `Vertex AI` `Kubernetes`
+
+<sub>August 14, 2026 at 15:59 UTC</sub>
+
+---
+
+### [AI Native Software Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid`
+
+_Design and ship production-grade full-stack software that integrates with agentic AI systems and LLM APIs, using AI-assisted coding daily as standard practice. Work across diverse client industries and enterprise technology stacks with vendor access inside Anthropic, OpenAI, Microsoft, and Google. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)_
+
+`Python` `TypeScript` `Java` `LLM APIs` `LangChain` `LangGraph` `Docker` `AWS`
 
 <sub>August 14, 2026 at 15:59 UTC</sub>
 
@@ -464,17 +497,6 @@ _Design and develop complex SQL Server data pipelines and ETL processes that pow
 _Build Airbnb's next-generation build system and developer experience infrastructure for backend engineers at scale, including Bazel integration, CI/CD tooling, and editor improvements; requires 6+ years experience with build systems, large monorepos, and JVM ecosystem. · [Apply →](https://careers.airbnb.com/positions/8099292?gh_jid=8099292)_
 
 `Bazel` `Java` `Build Systems` `Monorepos` `JVM` `CI/CD` `IntelliJ`
-
-<sub>August 13, 2026 at 19:15 UTC</sub>
-
----
-
-### [Tech Lead, .net](https://job-boards.greenhouse.io/cayuse/jobs/8706918002)
-<a href="https://cayuse.com"><img src="https://www.google.com/s2/favicons?domain=cayuse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cayuse** · `🟢 Remote` `Senior`
-
-_Lead technical architecture and hands-on development (50%) for a large-scale SaaS research management platform built on the Microsoft stack; mentor distributed teams and drive adoption of modern practices like DevSecOps and AI-assisted development. · [Apply →](https://job-boards.greenhouse.io/cayuse/jobs/8706918002)_
-
-`ASP.NET Core` `.NET` `AWS` `TypeScript` `Angular` `Microsoft SQL Server` `Infrastructure as Code` `DevSecOps`
 
 <sub>August 13, 2026 at 19:15 UTC</sub>
 

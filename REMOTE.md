@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **284 open roles** (27 new)
+### **282 open roles** (28 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,28 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 14, 2026
+
+### [Senior Data Scientist - Payments (Inference)](https://careers.airbnb.com/positions/8123037?gh_jid=8123037)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$179k-$210k` `Equity`
+
+_Lead quantitative measurement and causal inference initiatives across Airbnb's global payments platform, developing statistical frameworks and ML models to optimize fraud mitigation and payment strategies in a two-sided marketplace. Focus on experimental design, econometric analysis, and novel metrics to drive evidence-based decisions at enterprise scale. · [Apply →](https://careers.airbnb.com/positions/8123037?gh_jid=8123037)_
+
+`Python` `R` `SQL` `Causal Inference` `Statistical Modeling` `Machine Learning` `Experimentation` `Fraud Detection`
+
+<sub>August 14, 2026 at 17:58 UTC</sub>
+
+---
+
+### [Site Reliability Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0061638-1)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Mid` `$87.4k-$123.4k`
+
+_Build and maintain observability, monitoring, and incident response infrastructure for containerized applications running on AWS EKS. Establish SLIs, build proactive alerts, conduct capacity planning, and optimize infrastructure-as-code across high-availability financial services systems. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0061638-1)_
+
+`Kubernetes` `EKS` `Terraform` `Docker` `AWS` `Python` `Go` `Datadog`
+
+<sub>August 14, 2026 at 17:58 UTC</sub>
+
+---
 
 ### [Staff Software Engineer (Customer Platform)](https://job-boards.greenhouse.io/chainguard/jobs/4705456006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k-$231k` `Equity`
@@ -277,17 +299,6 @@ _Design and develop complex SQL Server data pipelines and ETL processes that pow
 `Microsoft SQL Server` `T-SQL` `ETL` `Azure DevOps` `Git` `C#` `Data Modeling` `Query Optimization`
 
 <sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [Tech Lead, .net](https://job-boards.greenhouse.io/cayuse/jobs/8706918002)
-<a href="https://cayuse.com"><img src="https://www.google.com/s2/favicons?domain=cayuse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cayuse** · `🟢 Remote` `Senior`
-
-_Lead technical architecture and hands-on development (50%) for a large-scale SaaS research management platform built on the Microsoft stack; mentor distributed teams and drive adoption of modern practices like DevSecOps and AI-assisted development. · [Apply →](https://job-boards.greenhouse.io/cayuse/jobs/8706918002)_
-
-`ASP.NET Core` `.NET` `AWS` `TypeScript` `Angular` `Microsoft SQL Server` `Infrastructure as Code` `DevSecOps`
-
-<sub>August 13, 2026 at 19:15 UTC</sub>
 
 ---
 
@@ -733,12 +744,12 @@ _Lead AI and MarTech strategy for Pinterest's marketing organization, owning end
 
 ---
 
-### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
+### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
 
-_Design and build production AI systems including agent orchestration, retrieval pipelines, and evaluation frameworks; architect and maintain marketing databases, CDPs, and data pipelines to enable advanced analytics and automation. Requires hands-on experience shipping LLM/agentic systems in production and deep expertise with modern data warehousing. · [Apply →](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)_
+_Design and build production AI systems including agent orchestration and retrieval pipelines, while architecting marketing data infrastructure, ETL pipelines, and a Customer Data Platform to enable segmentation and analytics at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)_
 
-`Python` `SQL` `LLMs` `Agents` `Databricks` `dbt` `Snowflake` `BigQuery`
+`Python` `SQL` `LLMs` `Databricks` `dbt` `Snowflake` `BigQuery` `Agentic Coding Tools`
 
 <sub>August 12, 2026 at 19:14 UTC</sub>
 
@@ -1561,12 +1572,12 @@ _Lead end-to-end machine learning strategy and execution for Shopping Ads delive
 
 ---
 
-### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity`
+### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity`
 
-_Own technically complex, mission-critical systems end-to-end across backend, frontend, and AI-powered features—design and ship full-stack products that turn IoT data (25+ trillion data points annually) into operational intelligence for fleet, equipment, and field service management. Zero-to-one product building at billion-dollar scale with deep customer context and domain expertise in real-world operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078)_
+_Build AI-powered operational products and systems at scale, taking ownership of zero-to-one features across backend services, APIs, and frontend that process and transform 25+ trillion annual IoT data points into actionable intelligence for physical operations. Work across a billion-dollar dataset and growing product suite where technical decisions directly impact customer outcomes in fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML systems` `Full-Stack Development` `PostgreSQL` `Kubernetes`
+`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Distributed Systems`
 
 <sub>August 7, 2026 at 21:49 UTC</sub>
 
@@ -1600,17 +1611,6 @@ _Own end-to-end data pipelines and warehousing for Cortex's engineering operatio
 _Own the architecture and infrastructure platform for an engineering operations SaaS, including the deploy pipeline, multi-tenant isolation, database stability, and compliance-heavy deployments (FedRAMP-class). Lead the move to GitOps (Argo), design hardened multi-tenant systems, and set observability and operational standards across engineering. · [Apply →](https://job-boards.greenhouse.io/cortex/jobs/5379820008)_
 
 `Kubernetes` `Terraform` `PostgreSQL` `Argo` `GitOps` `IaC` `JVM` `Secrets Management`
-
-<sub>August 7, 2026 at 19:08 UTC</sub>
-
----
-
-### [Senior RPG Software Engineer](https://taylor.wd1.myworkdayjobs.com/External/job/MN-Remote/Senior-RPG-Software-Engineer_R29538)
-<a href="https://neps.com"><img src="https://www.google.com/s2/favicons?domain=neps.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NEPS, LLC** · `🟢 Remote` `Senior` `$90k-$100k`
-
-_Build web and Windows applications using RPG IV/ILE, integrating with SQL Server databases and web services. Legacy IBM i systems platform with 10+ years programming experience required. · [Apply →](https://taylor.wd1.myworkdayjobs.com/External/job/MN-Remote/Senior-RPG-Software-Engineer_R29538)_
-
-`RPG IV` `ILE` `RPG FREE` `HTTPLIB` `SQL Server` `CL` `XML` `JSON`
 
 <sub>August 7, 2026 at 19:08 UTC</sub>
 
@@ -2042,17 +2042,6 @@ _Build bioinformatics pipelines and statistical models for early cancer detectio
 _Lead research and development of bioinformatics pipelines for NGS data analysis to enable early cancer detection using cfDNA biomarkers. Design and execute computational studies collaborating with wet lab scientists to characterize assay performance and drive diagnostic product feasibility. · [Apply →](https://job-boards.greenhouse.io/freenome/jobs/8658763002)_
 
 `Python` `R` `NGS` `Bioinformatics` `DNA Methylation` `Machine Learning` `Statistics` `PhD Required`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
-
----
-
-### [Staff Software Engineer in Test, Product Engineering](https://job-boards.greenhouse.io/natera/jobs/6135368004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Principal`
-
-_Build comprehensive automated integration testing frameworks and AI-driven validation systems for Natera's multi-service oncology genomic profiling platform, spanning order ingestion through lab execution to patient reporting. Lead test architecture and root cause analysis across distributed microservices in a highly regulated healthcare environment requiring FDA design control compliance. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135368004)_
-
-`Java` `Python` `Go` `Playwright` `Docker` `Kubernetes` `AWS` `Kafka`
 
 <sub>August 6, 2026 at 00:06 UTC</sub>
 
@@ -3094,17 +3083,6 @@ _Build and maintain cloud cost reporting, allocation, and optimization tooling a
 
 ---
 
-### [Senior Marketing Analytics Manager - BI & Data Architecture](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$138k–$179k CAD` `Equity`
-
-_Build the semantic layers and "Gold Layer" data models in Databricks that enable self-serve BI and AI-driven analytics for Sales and Marketing teams. Design ETL pipelines and structured documentation optimized for agentic AI workflows across large-scale IoT and operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653)_
-
-`Python` `SQL` `Databricks` `dbt` `Tableau` `Streamlit` `Tableau` `PostgreSQL`
-
-<sub>July 31, 2026 at 17:48 UTC</sub>
-
----
-
 ### [Director, Software Engineering (Infrastructure)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Director--Software-Engineering--Infrastructure-_JR115337-1)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$246k-$395k` `Equity`
 
@@ -3139,7 +3117,7 @@ _Lead the Business Applications team to build and maintain enterprise SaaS admin
 ---
 
 ### [Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `CAD $164k-$197k` `Equity`
 
 _Build end-to-end cloud integrations and observability features for Grafana Cloud, working across TypeScript/React frontends, Go backends, and Jsonnet monitoring mixins. Contribute to open-source observability standards (Prometheus, OpenTelemetry) and own features from user problem through production deployment and on-call support. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130872004)_
 
@@ -3150,7 +3128,7 @@ _Build end-to-end cloud integrations and observability features for Grafana Clou
 ---
 
 ### [Senior FullStack Engineer - Grafana Cloud Observability| US | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Senior` `$154k-$185k` `Equity`
 
 _Develop end-to-end cloud integrations and observability apps for Grafana Cloud, shipping features across React frontends, Go backends, and Jsonnet monitoring mixins. Work with large-scale observability systems (Prometheus, OpenTelemetry) impacting 7,000+ customers; contribute upstream to open source projects. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6130907004)_
 
