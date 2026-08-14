@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **411 open roles** (34 new) &nbsp;·&nbsp; 1764 companies searched
+### **411 open roles** (36 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/7927646)
+<a href="https://humaninterest.com"><img src="https://www.google.com/s2/favicons?domain=humaninterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Human Interest** · `🟢 Remote` `Senior` `$190k-$230k` `Equity`
+
+_Build business-critical services and user experiences for a fintech retirement benefits platform serving small and medium-sized businesses. Work with Node, TypeScript, Kotlin, React, and PostgreSQL on systems requiring high reliability and auditability; leverage AI coding assistants to accelerate development. · [Apply →](https://job-boards.greenhouse.io/humaninterest/jobs/7927646)_
+
+`Node.js` `TypeScript` `Kotlin` `React` `AWS` `PostgreSQL` `Kafka`
+
+<sub>August 14, 2026 at 04:56 UTC</sub>
+
+---
 
 ### [Staff Security Engineer, Walrus ](https://jobs.ashbyhq.com/mystenlabs/1c64c5ab-eb2c-40a2-a825-22ffb81a9736)
 <a href="https://mystenlabs.com"><img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mysten Labs** · `🟢 Remote` `Staff`
@@ -79,6 +90,17 @@ _Design and build cloud-native applications and modernization solutions across p
 _Design and implement Gemini Enterprise for Customer Experience (GECX) solutions including AI agents, contact center platforms, and integrations with Google Cloud; client-facing delivery role managing end-to-end project execution. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1)_
 
 `Google Cloud Platform` `Gemini` `Vertex AI` `BigQuery` `Contact Center as a Service` `AI Agent Development` `Genesys` `NICE`
+
+<sub>August 13, 2026 at 22:54 UTC</sub>
+
+---
+
+### [Google GECX Contact Center as a Service Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple (California / Cleveland, Ohio / Colorado / District of Columbia, D.C. / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York, New York / New Jersey, New Jersey / Virginia / Washington, Washington) · `Senior` `$54k-$196k`
+
+_Design and implement Google Cloud-based Conversational AI and Contact Center as a Service (CCaaS) solutions for enterprise clients, including AI agents with retrieval, orchestration, and policy-based routing. Work hands-on with clients and delivery teams to architect end-to-end GECX implementations integrating Vertex AI, Gemini models, and BigQuery. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069)_
+
+`Google Cloud Platform (GCP)` `Vertex AI` `Gemini` `BigQuery` `Contact Center as a Service (CCaaS)` `Conversational AI` `Generative AI` `Agile`
 
 <sub>August 13, 2026 at 22:54 UTC</sub>
 

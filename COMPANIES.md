@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **159 companies** · **411 open roles** (34 new)
+### **159 companies** · **411 open roles** (36 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -25,6 +25,7 @@ Engineering roles grouped by company, linking directly to each company's job boa
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Google GECX Contact Center as a Service Senior Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1) · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$80k-$266k` (Aug 13)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Google GECX Contact Center as a Service Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069) · Multiple (California / Cleveland, Ohio / Colorado / District of Columbia, D.C. / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York, New York / New Jersey, New Jersey / Virginia / Washington, Washington) · `Senior` `$54k-$196k` (Aug 13)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Salesforce Data Cloud Technical Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Data-Cloud-Technical-Consultant_R00343042) · Chesterbrook, Pennsylvania / Orlando, Florida / Remote · `🟡 Hybrid` `Senior` `$62k-$218k` `Equity` (Aug 13)
 - [Enterprise & Client Solutions Manager, AI, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 7)
 
@@ -657,6 +658,14 @@ Hubble Network builds a satellite network that enables Bluetooth devices to comm
 Hudu builds a documentation and workflow platform for operations teams to manage standard operating procedures, runbooks, and team workflows.
 
 - [Flutter Engineer ](https://jobs.ashbyhq.com/hudu/30022059-d2c1-4427-8cd0-17cd628140c8) · `🟢 Remote` `Mid` (Aug 12)
+
+---
+
+## <a href="https://humaninterest.com"><img src="https://www.google.com/s2/favicons?domain=humaninterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Human Interest](https://humaninterest.com)
+
+Human Interest builds 401(k) retirement plans for small and medium-sized businesses.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/7927646) · `🟢 Remote` `Senior` `$190k-$230k` `Equity` (Aug 14)
 
 ---
 
@@ -1463,15 +1472,6 @@ Vercel provides frameworks, workflows, and infrastructure that developers use to
 Verdigris uses 8 kHz waveform analysis to detect equipment degradation and prevent outages in AI data centers.
 
 - [Forward Deployed Engineer — Strategic Solutions, Integration & Delivery](https://jobs.lever.co/verdigris/9d1fa824-0e29-43f3-985a-0b3d7b1e05f4) · `🟢 Remote` `Principal` (Aug 4)
-
----
-
-## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
-
-Visa provides personal payment solutions, payment cards, and rewards programs.
-
-- [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W) · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity` (Aug 7)
-- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W) · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity` (Aug 7)
 
 ---
 
