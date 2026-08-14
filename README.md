@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **411 open roles** (36 new) &nbsp;·&nbsp; 1764 companies searched
+### **412 open roles** (37 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Senior Analytics Engineer](https://job-boards.eu.greenhouse.io/lighthouse/jobs/4938486101)
+<a href="https://otainsight.com"><img src="https://www.google.com/s2/favicons?domain=otainsight.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OTA Insight** · Dallas, Texas / Denver, Colorado · `🟡 Hybrid` `Senior` `$113k-$125.5k` `Equity`
+
+_Build trusted data models for commercial and financial domains — modeling deals, accounts, opportunities, and revenue metrics — owning the full lifecycle from requirements through implementation, testing, and documentation. Work with AI tools responsibly to accelerate delivery while remaining accountable for quality across an organization serving 85,000+ users. · [Apply →](https://job-boards.eu.greenhouse.io/lighthouse/jobs/4938486101)_
+
+`SQL` `dbt` `Python` `Data Warehousing` `Analytics Engineering`
+
+<sub>August 14, 2026 at 08:23 UTC</sub>
+
+---
 
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/7927646)
 <a href="https://humaninterest.com"><img src="https://www.google.com/s2/favicons?domain=humaninterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Human Interest** · `🟢 Remote` `Senior` `$190k-$230k` `Equity`

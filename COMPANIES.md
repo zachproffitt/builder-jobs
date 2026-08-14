@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **159 companies** · **411 open roles** (36 new)
+### **160 companies** · **412 open roles** (37 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -980,6 +980,14 @@ Oneleet provides a security compliance platform that helps organizations with ce
 OpenRouter builds an AI routing and infrastructure layer that allows enterprises to access, manage, and optimize large language models across multiple providers without vendor lock-in or capacity constraints. The platform helps organizations operationalize LLMs across research, product, and production workloads while managing costs and maintaining flexibility as models evolve.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Data Scientist](https://jobs.ashbyhq.com/openrouter/c8ee3a10-ae18-4d8b-9390-369ebea7b03f) · `🟢 Remote` `Senior` (Aug 13)
+
+---
+
+## <a href="https://otainsight.com"><img src="https://www.google.com/s2/favicons?domain=otainsight.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[OTA Insight](https://otainsight.com)
+
+OTA Insight provides business intelligence and pricing solutions for revenue optimization.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Analytics Engineer](https://job-boards.eu.greenhouse.io/lighthouse/jobs/4938486101) · Dallas, Texas / Denver, Colorado · `🟡 Hybrid` `Senior` `$113k-$125.5k` `Equity` (Aug 14)
 
 ---
 
