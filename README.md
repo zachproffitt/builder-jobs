@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **424 open roles** (50 new) &nbsp;·&nbsp; 1764 companies searched
+### **435 open roles** (45 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Staff Software Engineer (Customer Platform)](https://job-boards.greenhouse.io/chainguard/jobs/4705456006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k-$231k` `Equity`
+
+_Design and build backend systems (Go, REST/gRPC APIs) for Chainguard's entitlement, policy, and customer onboarding services, serving as the technical integration layer between Customer Platform and internal engineering teams. Extend agentic AI into customer-facing product experiences and provide technical leadership to senior engineers; staff-level ownership of hard problems end-to-end at a company securing the software supply chain. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4705456006)_
+
+`Go` `REST APIs` `gRPC` `Kubernetes` `Backend Systems` `API Design` `Platform Infrastructure` `Cloud-native Environments`
+
+<sub>August 14, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Sr. Staff Quantitative Product Researcher](https://www.pinterestcareers.com/jobs/?gh_jid=7770911)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$163k-$336k` `Equity`
+
+_Lead end-to-end development of user-centered measurement and metrics for Pinterest's consumer experience, partnering with Data Science and Engineering to design surveys, validate constructs, build behavioral proxies and predictive models, and inform ML model stewardship. Requires deep expertise in survey methodology, statistical modeling, and experimentation at scale; PhD preferred in computational social science, statistics, or related field. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7770911)_
+
+`Python` `R` `SQL` `Survey Methodology` `Statistical Modeling` `Experimentation Design` `Behavioral Analysis` `ML Model Evaluation`
+
+<sub>August 14, 2026 at 17:02 UTC</sub>
+
+---
 
 ### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
@@ -91,34 +113,12 @@ _Lead analytical development and quality control strategy for protein therapeuti
 
 ---
 
-### [Senior Software Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8130034)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$166k—$210k USD` `Equity`
-
-_Design and build data ingestion, processing, and serving platforms that provide real-time inventory understanding across store networks by combining partner data, computer vision outputs, and machine learning models. Scale platforms to support both sophisticated models and data collection while handling ambiguous challenges across mapping, inventory, and logistics. · [Apply →](https://instacart.careers/job/?gh_jid=8130034)_
-
-`Python` `Java` `Scala` `Go` `SQL` `AWS` `GCP` `Azure`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
 ### [Senior Full Stack Software Engineer - Application Engineering](https://job-boards.greenhouse.io/ionq/jobs/6139928004)
 <a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · College Park, Maryland / Boulder, Colorado / Bothell, Washington / Toronto, Canada · `🟡 Hybrid` `Senior` `$145k–$209k` `Equity`
 
 _Build production-grade full-stack applications that translate quantum computing solutions into domain-specific tools, APIs, and SaaS products for real-world use cases like drug discovery and materials science. Work across visualization frameworks (Three.js, D3, WebGL) and backend services (Python, Go, JavaScript) in a hybrid role that bridges quantum computing with accessible user interfaces. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6139928004)_
 
 `Python` `Go` `JavaScript` `REST` `GraphQL` `gRPC` `Three.js` `D3`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [](https://intel.wd1.myworkdayjobs.com/External/job/Compiler-Engineer_JR0286164-1)
-<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · `🟢 Remote` `Senior` `CAD 155k-220k`
-
-_Build LLVM-based C, C++, SYCL, and Fortran compilers for Intel's CPUs and GPUs within the oneAPI software stack. Collaborate upstream with the open-source Clang community to deliver optimization passes, code generation, and frontend components that enable the latest language standards. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Compiler-Engineer_JR0286164-1)_
-
-`C++` `LLVM` `Clang` `Compiler Development` `oneAPI` `SYCL` `Fortran`
 
 <sub>August 14, 2026 at 15:01 UTC</sub>
 
@@ -510,61 +510,6 @@ _Design and execute comprehensive test plans for Keeper Connection Manager's sec
 `SSH` `RDP` `VNC` `Jira` `TestRail` `Python` `Kubernetes` `Docker`
 
 <sub>August 13, 2026 at 19:15 UTC</sub>
-
----
-
-### [Software Engineer, Secure Development Engineering](https://careers.airbnb.com/positions/8127075?gh_jid=8127075)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$162k-$186k` `Equity`
-
-_Design and build the backend platform that runs code security checks in continuous integration for thousands of Airbnb engineers, handling tens of thousands of checks monthly across multiple repositories and languages. Optimize for latency and developer experience while scaling to new check types and supporting AI-assisted code review evaluation pipelines. · [Apply →](https://careers.airbnb.com/positions/8127075?gh_jid=8127075)_
-
-`Java` `Kotlin` `Python` `Go` `JavaScript` `TypeScript` `SQL` `AWS`
-
-<sub>August 13, 2026 at 17:08 UTC</sub>
-
----
-
-### [Full Stack Web Developer, Marketing](https://jobs.ashbyhq.com/Deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23)
-<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Senior`
-
-_Own the deepgram.com codebase end-to-end — Next.js application architecture, Sanity CMS, design systems, and CI/CD — while optimizing for SEO, internationalization, and AI-driven experimentation. Role requires AI-native development practices and technical leadership directing agency developers on a high-velocity marketing site refresh. · [Apply →](https://jobs.ashbyhq.com/Deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23)_
-
-`Next.js` `React` `Sanity` `Vercel` `TypeScript` `GraphQL` `PostgreSQL` `Internationalization (i18n/l10n)`
-
-<sub>August 13, 2026 at 17:08 UTC</sub>
-
----
-
-### [Senior Software Engineer, Oracle/Netsuite](https://jobs.ashbyhq.com/delinea/7487d2b0-4e67-4367-a272-9375f2dc6907)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
-
-_Own the full lifecycle of Oracle NetSuite and EBS connectors for the Fastpath Assure identity security platform, from architecture and design through development, testing, and maintenance. Deep knowledge of NetSuite security frameworks (Roles, Permissions, multi-subsidiary controls) and Oracle EBS security constructs required to accurately capture access and risk data across diverse customer environments. · [Apply →](https://jobs.ashbyhq.com/delinea/7487d2b0-4e67-4367-a272-9375f2dc6907)_
-
-`SuiteScript` `PL/SQL` `NetSuite` `Oracle E-Business Suite` `SuiteTalk` `SuiteFlow` `JavaScript` `C# .NET`
-
-<sub>August 13, 2026 at 17:08 UTC</sub>
-
----
-
-### [Data Engineer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Senior_R0246521)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$77.6k-$176k`
-
-_Build and maintain scalable data pipelines and platforms that organize disparate structured and unstructured data from government sources for mission-critical applications including fraud detection and intelligence analysis. Requires active TS/SCI clearance and willingness to obtain polygraph; work involves multi-INT analytics and all-source data integration for defense and intelligence clients. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Senior_R0246521)_
-
-`Python` `R` `PostgreSQL` `SQLite` `Elasticsearch` `SQL` `NoSQL` `TS/SCI Clearance`
-
-<sub>August 13, 2026 at 17:08 UTC</sub>
-
----
-
-### [GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Centennial, Colorado / Long Beach, California · `Intern` `$56k-$64k`
-
-_Design, develop, and test ground support equipment for spacecraft systems including mechanical fixtures, electrical schematics, and data acquisition systems. ITAR-regulated defense aerospace work requiring U.S. citizenship. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007)_
-
-`Altium` `Python` `C++` `LabVIEW` `SolidWorks` `CAD` `PCB Design` `Ethernet`
-
-<sub>August 13, 2026 at 17:08 UTC</sub>
 
 ---
 
