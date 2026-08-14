@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **437 open roles** (46 new) &nbsp;·&nbsp; 1764 companies searched
+### **446 open roles** (53 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,83 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [AI Research Scientist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Research-Scientist--Remote-_R29829)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build post-trained LLMs and AI agents for cybersecurity threat analysis, training models on CrowdStrike's unique dataset of nearly a trillion behavioral events daily. Requires PhD-level machine learning mastery and hands-on expertise in LLM training, reinforcement learning (RLHF/RLAIF, PPO), and agentic systems design. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Research-Scientist--Remote-_R29829)_
+
+`PyTorch` `LLM Training` `Reinforcement Learning` `RLHF` `PPO` `Hugging Face Transformers` `DeepSpeed` `vLLM`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
+
+### [Sr. Network Development Engineer - IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Development-Engineer---IT-Cloud---Infrastructure--Remote-_R29738)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Staff` `$125k-$180k` `Equity`
+
+_Design and operate enterprise cloud architecture patterns, governance frameworks, and infrastructure-as-code standards across a 3-trillion-event-per-day global security platform. Lead cloud migration programs, multi-region networking design, and engineering enablement for infrastructure-as-code adoption at scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Development-Engineer---IT-Cloud---Infrastructure--Remote-_R29738)_
+
+`AWS` `Terraform` `Kubernetes` `GitLab CI/CD` `Transit Gateway` `ArgoCD` `Helm` `Cisco Certifications`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
+
+### [Senior Backend Software Engineer, Subscriptions Enablement](https://jobs.ashbyhq.com/gamechanger/b07c5dda-bf13-47b7-b916-cbacc7b67d26)
+<a href="https://gamechanger.com"><img src="https://www.google.com/s2/favicons?domain=gamechanger.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GameChanger** · `🟢 Remote` `Senior` `$140k-$155k` `Equity`
+
+_Own the subscriptions and payments platform—building foundational systems and APIs that enable revenue growth and new business opportunities. Lead architectural decisions, improve system reliability and scalability, and partner across Product, Design, and Data teams. · [Apply →](https://jobs.ashbyhq.com/gamechanger/b07c5dda-bf13-47b7-b916-cbacc7b67d26)_
+
+`TypeScript` `Node.js` `PostgreSQL` `Redis` `AWS`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
+
+### [Senior IT Engineer](https://posit.co/job-detail/?gh_jid=7871806003)
+<a href="https://rstudio.com"><img src="https://www.google.com/s2/favicons?domain=rstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**RStudio** · `🟢 Remote` `Senior` `$120k—$159k`
+
+_Own end-to-end operations of core IT platforms (Okta, Jamf Pro, Google Workspace, self-hosted automation platforms) including configuration, security, and roadmap; mentor junior engineers and drive GitOps practices across IT infrastructure. Requires deep expertise in identity management, MDM, and enterprise AI platform operations in a distributed, SaaS-first environment. · [Apply →](https://posit.co/job-detail/?gh_jid=7871806003)_
+
+`Okta` `Jamf Pro` `Google Workspace` `AWS` `Terraform` `GitOps` `SAML` `OIDC`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
+
+_Build end-to-end AI-powered products and full-stack systems for physical operations, from backend services and APIs to customer-facing UI, processing 25+ trillion IoT data points annually. Zero-to-one product development at billion-dollar scale with real-world stakes across fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)_
+
+`Go` `Python` `TypeScript` `React` `AI/ML systems` `Data ingestion` `APIs` `LLMs`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
+
+### [Senior Software Engineer (BE/Fullstack)](https://jobs.lever.co/teamsnap/86869664-1c38-4f5b-9a2a-555cdb565713)
+<a href="https://teamsnap.com"><img src="https://www.google.com/s2/favicons?domain=teamsnap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TeamSnap** · `🟢 Remote` `Senior`
+
+_Build scalable backend and fullstack systems serving 2+ million daily active users across a sports communication platform using service-oriented and event-driven architecture. · [Apply →](https://jobs.lever.co/teamsnap/86869664-1c38-4f5b-9a2a-555cdb565713)_
+
+`Node.js` `TypeScript` `Ruby` `Rails` `React` `SQL`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
+
+### [Sr Analytics Developer, Finance, Brokerage & Market Risk](https://jobs.ashbyhq.com/wealthsimple/6f8ab2cd-3426-4e9e-bc53-2b5534a29601)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+
+_Own the design and optimization of finance and market risk data marts, building robust ETL pipelines and dashboards that support brokerage operations, treasury management, and regulatory reporting for Canada's largest fintech. Domain expertise in financial services and market risk required. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/6f8ab2cd-3426-4e9e-bc53-2b5534a29601)_
+
+`SQL` `Python` `dbt` `Airflow` `AWS` `Redshift` `Snowflake` `Tableau`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
 
 ### [Mission Design Engineer (2-5 yrs) ](https://job-boards.greenhouse.io/advancedspace/jobs/4369105009)
 <a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `🟡 Hybrid` `Mid` `$88k-$116k` `Equity`
