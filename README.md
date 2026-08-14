@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **399 open roles** (39 new) &nbsp;·&nbsp; 1764 companies searched
+### **430 open roles** (47 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,116 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Staff Software Engineer, AI & Platform](https://jobs.ashbyhq.com/arketa/8c7c07cd-eb4d-4691-93f2-7b7282d9b5e2)
+<a href="https://arketa.com"><img src="https://www.google.com/s2/favicons?domain=arketa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Arketa** · `🟢 Remote` `Staff` `$180k-$220k` `Equity`
+
+_Build customer-facing AI products that automate studio operations, and establish agentic workflows, observability systems, and developer tooling that enable a small team to ship at startup velocity. Requires fluency in TypeScript/Node.js and AI-native engineering practices; remote US-based. · [Apply →](https://jobs.ashbyhq.com/arketa/8c7c07cd-eb4d-4691-93f2-7b7282d9b5e2)_
+
+`TypeScript` `JavaScript` `Node.js` `NestJS` `React` `PostgreSQL` `AI/ML systems` `Observability`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/83375d56-107e-4abe-b1c5-586912a7ff3d)
+<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
+
+_Design and build AI-driven test automation frameworks and infrastructure for a GRC platform used by Fortune 500 companies, leading the transition from legacy frameworks to self-healing, agentic testing ecosystems. Requires 9+ years in software development in test with deep expertise in Playwright/Cypress and infrastructure-as-code. · [Apply →](https://jobs.ashbyhq.com/optro/83375d56-107e-4abe-b1c5-586912a7ff3d)_
+
+`Playwright` `Cypress` `TypeScript` `JavaScript` `Terraform` `GitHub Actions` `ArgoCD` `AWS`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Senior Director, Analytical Development and Quality Control](https://generatebiomedicines.com/open-positions?gh_jid=4695456006)
+<a href="https://generatebiomedicines.com"><img src="https://www.google.com/s2/favicons?domain=generatebiomedicines.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Generate Biomedicines** · `🟢 Remote` `Manager` `$210k-$300k` `Equity`
+
+_Lead analytical development and quality control strategy for protein therapeutics from candidate selection through commercialization, managing a senior team and serving as technical lead across process development, manufacturing, regulatory, and external CDMO partners in a fully virtual, outsourced model. Requires PhD in analytical chemistry, biochemistry, or pharmaceutical sciences with 15+ years of biologics analytical expertise, including method development, GMP compliance, regulatory submissions, and hands-on leadership of critical manufacturing investigations and quality events. · [Apply →](https://generatebiomedicines.com/open-positions?gh_jid=4695456006)_
+
+`Analytical Chemistry` `Method Development & Validation` `Protein Characterization` `GMP Compliance` `Regulatory Affairs` `Quality Systems` `CDMO Management` `cGMP`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8130034)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$166k—$210k USD` `Equity`
+
+_Design and build data ingestion, processing, and serving platforms that provide real-time inventory understanding across store networks by combining partner data, computer vision outputs, and machine learning models. Scale platforms to support both sophisticated models and data collection while handling ambiguous challenges across mapping, inventory, and logistics. · [Apply →](https://instacart.careers/job/?gh_jid=8130034)_
+
+`Python` `Java` `Scala` `Go` `SQL` `AWS` `GCP` `Azure`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Senior Full Stack Software Engineer - Application Engineering](https://job-boards.greenhouse.io/ionq/jobs/6139928004)
+<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · College Park, Maryland / Boulder, Colorado / Bothell, Washington / Toronto, Canada · `🟡 Hybrid` `Senior` `$145k–$209k` `Equity`
+
+_Build production-grade full-stack applications that translate quantum computing solutions into domain-specific tools, APIs, and SaaS products for real-world use cases like drug discovery and materials science. Work across visualization frameworks (Three.js, D3, WebGL) and backend services (Python, Go, JavaScript) in a hybrid role that bridges quantum computing with accessible user interfaces. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6139928004)_
+
+`Python` `Go` `JavaScript` `REST` `GraphQL` `gRPC` `Three.js` `D3`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Compiler Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineer_JR0286164-1)
+<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · `🟢 Remote` `Senior` `CAD 155k-220k`
+
+_Build LLVM-based C, C++, SYCL, and Fortran compilers for Intel's CPUs and GPUs within the oneAPI software stack. Collaborate upstream with the open-source Clang community to deliver optimization passes, code generation, and frontend components that enable the latest language standards. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineer_JR0286164-1)_
+
+`C++` `LLVM` `Clang` `Compiler Development` `oneAPI` `SYCL` `Fortran`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Principal Engineer - Software Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Principal` `$150k-$220k` `Equity`
+
+_Lead the design and delivery of complex, cross-domain software systems spanning cloud platforms, distributed systems, AI-enabled products, and mission-critical environments. Balance systems engineering rigor with AI-accelerated development velocity while architecting for scalability, resilience, and organizational alignment across multiple engineering teams. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1)_
+
+`Distributed Systems` `Cloud-Native Architecture` `Kubernetes` `Systems Architecture` `Event-Driven Systems` `API Design` `Software Integration` `Geospatial or Aerospace Systems`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Senior AI Engineer](https://job-boards.greenhouse.io/osano/jobs/5390304008)
+<a href="https://wirewheel.io"><img src="https://www.google.com/s2/favicons?domain=wirewheel.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wirewheel** · `🟢 Remote` `Senior` `Equity`
+
+_Design and deploy autonomous AI agents, RAG systems, and evaluation frameworks for a privacy-first platform; architect backend services in FastAPI and LangGraph orchestrating LLM workloads at scale on AWS/Azure. · [Apply →](https://job-boards.greenhouse.io/osano/jobs/5390304008)_
+
+`Python` `FastAPI` `LangGraph` `AWS` `Azure` `LLM` `RAG` `PyTorch`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Sr. Principal Engineer, Platform](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Sr-Principal-Engineer--Platform_R013966)
+<a href="https://sailpoint.com"><img src="https://www.google.com/s2/favicons?domain=sailpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sailpoint** · `🟢 Remote` `Principal` `$185k-$312k` `Equity`
+
+_Design and architect the next-generation multi-tenant SaaS foundation for identity security, decomposing monolithic systems into cloud-native microservices on AWS while leading database scaling projects and optimizing performance at billion-scale. 15+ years hands-on Internet product experience with 5+ years Java required; experience with complex multi-tenant SaaS platforms essential. · [Apply →](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Sr-Principal-Engineer--Platform_R013966)_
+
+`Java` `AWS` `JavaScript` `Ruby` `Microservices Architecture` `NoSQL` `PostgreSQL` `Distributed Systems`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
+
+### [Manager, Software Development - Financial Risk](https://jobs.ashbyhq.com/wealthsimple/0fd2bdd4-87c1-4642-8111-52c878c8eeb9)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager`
+
+_Lead the Financial Risk Engineering team building fraud detection and prevention systems that balance security with user experience. Hands-on technical management role requiring direct contribution to architecture and code alongside team leadership and cross-functional coordination with product, compliance, data science, and fraud countermeasures. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/0fd2bdd4-87c1-4642-8111-52c878c8eeb9)_
+
+`Apache Kafka` `Apache Spark` `Apache Flink` `React` `Data Engineering` `Streaming Technologies`
+
+<sub>August 14, 2026 at 15:01 UTC</sub>
+
+---
 
 ### [Customer Reliability Engineer - Airflow](https://jobs.ashbyhq.com/astronomer/93fcb206-a045-4f03-9979-84b987ca84fa)
 <a href="https://astronomer.io"><img src="https://www.google.com/s2/favicons?domain=astronomer.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astronomer** · `🟢 Remote` `Mid` `$125k-$130k` `Equity`
@@ -249,34 +359,23 @@ _Lead end-to-end Salesforce Data 360 implementation projects, designing scalable
 
 ---
 
+### [Senior Software Engineer, Nix](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$191k-$253k` `Equity`
+
+_Maintain and improve Anduril's internal Nix package set for software distribution across development, hosted services, and embedded devices; establish packaging standards and train engineers. Requires proficiency with Nix at scale and active U.S. Secret security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)_
+
+`Nix` `Nixpkgs` `NixOS` `Rust` `C++` `Go` `Python` `TS/SCI Clearance`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
 ### [Senior Software Development Engineer (Back-end)](https://jobs.lever.co/filevine/2b765f88-8dd7-4fef-b266-f0d58ae3220a)
 <a href="https://filevine.com"><img src="https://www.google.com/s2/favicons?domain=filevine.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Filevine** · `🟢 Remote` `Senior`
 
 _Build backend systems and APIs for Filevine's Legal Operating Intelligence platform, handling data processing, document management, and workflow automation at scale. Work on AI-powered legal tech infrastructure serving thousands of legal professionals and firms. · [Apply →](https://jobs.lever.co/filevine/2b765f88-8dd7-4fef-b266-f0d58ae3220a)_
 
 `Python` `Java` `PostgreSQL` `AWS` `Kubernetes` `Distributed Systems` `REST APIs`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [Backend Engineer, Source Code Experience (Ruby)](https://job-boards.greenhouse.io/gitlab/jobs/8687926002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `Equity`
-
-_Build backend services and APIs for GitLab's source code workflows using Ruby and GraphQL, supporting both AI agents and human developers across GitLab.com, self-managed instances, and GitLab Dedicated. Work in a high-complexity product area requiring expertise in database optimization, caching, and system reliability. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8687926002)_
-
-`Ruby` `GraphQL` `SQL` `PostgreSQL` `Redis` `Git` `Kafka` `Datadog`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [Senior Backend Engineer, Create: Source Code Experience (Ruby)](https://job-boards.greenhouse.io/gitlab/jobs/8687910002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `Equity`
-
-_Build backend services, APIs, and data models for GitLab's source code workflows using Ruby and GraphQL, supporting both human developers and AI agents at scale across GitLab.com, self-managed instances, and Dedicated deployments. Requires hands-on work in one of GitLab's oldest and most complex product areas with focus on performance tuning, reliability, and on-call incident response. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8687910002)_
-
-`Ruby` `GraphQL` `PostgreSQL` `Redis` `Git` `Kubernetes` `Datadog`
 
 <sub>August 13, 2026 at 20:54 UTC</sub>
 
@@ -433,17 +532,6 @@ _Build and improve well-defined software features within the virtual care platfo
 `Java` `Python` `Git`
 
 <sub>August 13, 2026 at 16:07 UTC</sub>
-
----
-
-### [Senior Backend Software Engineer- Core Services](https://jobs.ashbyhq.com/gamechanger/346f1f91-5082-4eda-b176-03c06a3e7571)
-<a href="https://gamechanger.com"><img src="https://www.google.com/s2/favicons?domain=gamechanger.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GameChanger** · `🟢 Remote` `Senior` `$140k-$155k` `Equity`
-
-_Build and maintain the API server codebase and developer experience for GameChanger's youth sports platform, written in TypeScript and Node.js on AWS. Identify opportunities to improve performance, scalability, and architectural resilience as the system grows in complexity and scale. · [Apply →](https://jobs.ashbyhq.com/gamechanger/346f1f91-5082-4eda-b176-03c06a3e7571)_
-
-`TypeScript` `Node.js` `PostgreSQL` `Redis` `AWS` `GitHub`
-
-<sub>August 13, 2026 at 15:07 UTC</sub>
 
 ---
 
