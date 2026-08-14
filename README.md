@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **430 open roles** (47 new) &nbsp;·&nbsp; 1764 companies searched
+### **424 open roles** (50 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
+
+_Own Chainguard's vulnerability management pipeline, coordinating the disclosure, reporting, and CVE assignment for thousands of novel vulnerabilities discovered weekly across open source software. Lead industry coordination with Linux Foundation, CISA, and AI model vendors to shape supply chain security standards and practices. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)_
+
+`Python` `Java` `JavaScript` `Go` `Kubernetes` `Security Research` `CVE Management` `Responsible Disclosure`
+
+<sub>August 14, 2026 at 15:59 UTC</sub>
+
+---
+
+### [AI Native Software Engineering Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Consultant_R00341058)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
+
+_Design, build, and deploy production-grade multi-agent agentic systems across enterprise technology stacks, including orchestration frameworks, RAG pipelines, LLM provider integration, and LLMOps infrastructure. Requires 5+ years production software engineering and minimum 1 year hands-on experience shipping agentic AI systems in production with direct client engagement across Anthropic, OpenAI, and other LLM providers. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Consultant_R00341058)_
+
+`Python` `LangGraph` `CrewAI` `AutoGen` `RAG Pipelines` `LLMOps` `Kubernetes` `Terraform`
+
+<sub>August 14, 2026 at 15:59 UTC</sub>
+
+---
+
+### [AI Native Software Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid`
+
+_Design and ship production-grade full-stack software that integrates with agentic AI systems and LLM APIs, using AI-assisted coding daily as standard practice. Work across diverse client industries and enterprise technology stacks with vendor access inside Anthropic, OpenAI, Microsoft, and Google. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)_
+
+`Python` `TypeScript` `Java` `LLM APIs` `LangChain` `LangGraph` `Docker` `AWS`
+
+<sub>August 14, 2026 at 15:59 UTC</sub>
+
+---
+
+### [AI Native Software Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Manager_R00340980)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager`
+
+_Lead the design, deployment, and governance of production-grade multi-agent AI systems across enterprise clients—owning end-to-end agentic architecture, RAG pipelines, LLMOps standards, and measurement frameworks at programme scale. Requires hands-on experience shipping multi-agent systems in production and leading senior-level client engineering engagements; vendor fellowship access to Anthropic, OpenAI, Microsoft, and Google engineering teams. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Manager_R00340980)_
+
+`Python` `LangGraph` `CrewAI` `AutoGen` `OpenAI` `Anthropic` `Vertex AI` `Kubernetes`
+
+<sub>August 14, 2026 at 15:59 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, AI & Platform](https://jobs.ashbyhq.com/arketa/8c7c07cd-eb4d-4691-93f2-7b7282d9b5e2)
 <a href="https://arketa.com"><img src="https://www.google.com/s2/favicons?domain=arketa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Arketa** · `🟢 Remote` `Staff` `$180k-$220k` `Equity`
@@ -69,10 +113,10 @@ _Build production-grade full-stack applications that translate quantum computing
 
 ---
 
-### [Compiler Engineer](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineer_JR0286164-1)
+### [](https://intel.wd1.myworkdayjobs.com/External/job/Compiler-Engineer_JR0286164-1)
 <a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · `🟢 Remote` `Senior` `CAD 155k-220k`
 
-_Build LLVM-based C, C++, SYCL, and Fortran compilers for Intel's CPUs and GPUs within the oneAPI software stack. Collaborate upstream with the open-source Clang community to deliver optimization passes, code generation, and frontend components that enable the latest language standards. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineer_JR0286164-1)_
+_Build LLVM-based C, C++, SYCL, and Fortran compilers for Intel's CPUs and GPUs within the oneAPI software stack. Collaborate upstream with the open-source Clang community to deliver optimization passes, code generation, and frontend components that enable the latest language standards. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Compiler-Engineer_JR0286164-1)_
 
 `C++` `LLVM` `Clang` `Compiler Development` `oneAPI` `SYCL` `Fortran`
 
@@ -521,17 +565,6 @@ _Design, develop, and test ground support equipment for spacecraft systems inclu
 `Altium` `Python` `C++` `LabVIEW` `SolidWorks` `CAD` `PCB Design` `Ethernet`
 
 <sub>August 13, 2026 at 17:08 UTC</sub>
-
----
-
-### [Junior Software Engineering Program - Planning & Budget Associate Engineer](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Planning---Budget-Associate-Engineer_JR20899)
-<a href="https://teladoc.com"><img src="https://www.google.com/s2/favicons?domain=teladoc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teladoc Health** · `🟢 Remote` `Junior` `$80k`
-
-_Build and improve well-defined software features within the virtual care platform, applying core computer science principles to production systems under structured mentorship. Domain focus on planning and budget systems requires financial domain knowledge (finance, accounting, or bookkeeping background). · [Apply →](https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Planning---Budget-Associate-Engineer_JR20899)_
-
-`Java` `Python` `Git`
-
-<sub>August 13, 2026 at 16:07 UTC</sub>
 
 ---
 
