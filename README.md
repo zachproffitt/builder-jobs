@@ -2,13 +2,39 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **446 open roles** (38 new) &nbsp;·&nbsp; 1764 companies searched
+### **411 open roles** (34 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 14, 2026
+
+### [Staff Security Engineer, Walrus ](https://jobs.ashbyhq.com/mystenlabs/1c64c5ab-eb2c-40a2-a825-22ffb81a9736)
+<a href="https://mystenlabs.com"><img src="https://www.google.com/s2/favicons?domain=mystenlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mysten Labs** · `🟢 Remote` `Staff`
+
+_Lead security architecture and design reviews for Walrus, Mysten Labs' decentralized storage protocol, embedding security practices from the design phase through deployment. Build and deploy automated security tooling leveraging AI/ML to identify systemic risks across the Web3 infrastructure stack. · [Apply →](https://jobs.ashbyhq.com/mystenlabs/1c64c5ab-eb2c-40a2-a825-22ffb81a9736)_
+
+`Security Architecture` `Cryptographic Security` `Distributed Systems` `Static Analysis` `Dynamic Analysis` `AI/ML Security Tooling` `Design Review` `Infrastructure Security`
+
+<sub>August 14, 2026 at 02:36 UTC</sub>
+
+---
+
+### [Senior Backend Engineer, Compliance Engineering](https://job-boards.greenhouse.io/reddit/jobs/8128860)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
+
+_Build compliance and regulatory infrastructure for Reddit's platform, handling privacy, security, and trust features that impact millions of daily users. Design and implement distributed systems under high load using Go, Python, and Postgres; requires tech lead experience mentoring 3+ engineers and shipping complex systems end-to-end. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8128860)_
+
+`Go` `Python` `PostgreSQL` `Redis` `Thrift` `GraphQL` `Kubernetes` `AWS`
+
+<sub>August 14, 2026 at 02:36 UTC</sub>
+
+---
 
 <br>
 
@@ -36,23 +62,23 @@ _Build data pipelines, analytics dashboards, and compliance automation systems f
 
 ---
 
-### [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)
-<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Manager`
-
-_Lead strategy, administration, and governance of NextGen Healthcare's enterprise Salesforce platform across Sales, Service, Marketing, and other business functions while managing a team of Salesforce administrators. Requires hands-on platform expertise in Service Cloud, Sales Cloud, Marketing Cloud, and emerging capabilities like Agentforce; balance executive-level roadmap planning with detailed administrative work. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)_
-
-`Salesforce` `Service Cloud` `Sales Cloud` `Marketing Cloud` `Agentforce` `leadership` `stakeholder management`
-
-<sub>August 13, 2026 at 23:51 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/redapt/jobs/5389434008)
 <a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior` `$150k-$170k`
 
 _Design and build cloud-native applications and modernization solutions across public, private, and customer-managed environments using containers, serverless, and infrastructure-as-code. Lead full-stack development from architecture through production deployment, with hands-on expertise in front-end and back-end systems at scale. · [Apply →](https://job-boards.greenhouse.io/redapt/jobs/5389434008)_
 
 `C#` `Java` `Python` `React` `TypeScript` `AWS CDK` `Terraform` `GitHub Actions`
+
+<sub>August 13, 2026 at 22:54 UTC</sub>
+
+---
+
+### [Google GECX Contact Center as a Service Senior Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$80k-$266k`
+
+_Design and implement Gemini Enterprise for Customer Experience (GECX) solutions including AI agents, contact center platforms, and integrations with Google Cloud; client-facing delivery role managing end-to-end project execution. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1)_
+
+`Google Cloud Platform` `Gemini` `Vertex AI` `BigQuery` `Contact Center as a Service` `AI Agent Development` `Genesys` `NICE`
 
 <sub>August 13, 2026 at 22:54 UTC</sub>
 
@@ -355,80 +381,14 @@ _Build and optimize Spire's internal developer platform on AWS, managing cloud i
 
 ---
 
-### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$133k-$197k` `Equity`
+### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Build and operate a multi-cloud, multi-region distributed infrastructure platform for ClickHouse Cloud, managing compute, networking, and security across AWS, Azure, and GCP. Optimize cost efficiency and availability at scale through automation, Kubernetes orchestration, and high-impact infrastructure optimization initiatives. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)_
+_Build and operate ClickHouse Cloud's distributed multi-cloud, multi-region infrastructure platform, including compute, networking, and resource orchestration. Design cloud-native systems for cost optimization, scalability, and high availability at scale across AWS, Azure, and GCP. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)_
 
-`Go` `C++` `AWS` `Terraform` `Kubernetes` `Istio` `Envoy` `GCP`
+`Go` `Kubernetes` `Terraform` `AWS` `GCP` `Azure` `Istio` `Envoy`
 
 <sub>August 13, 2026 at 08:38 UTC</sub>
-
----
-
-### [Senior Software Engineer, Agent Core Products ](https://careers.airbnb.com/positions/8127109?gh_jid=8127109)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$195k-$220k` `Equity`
-
-_Build core frontend web applications and server-side APIs that power Airbnb's global support agent platform, directly impacting agent experience and service quality. Work across full-stack development with React/TypeScript, AI-driven features, and cross-functional teams at scale. · [Apply →](https://careers.airbnb.com/positions/8127109?gh_jid=8127109)_
-
-`JavaScript` `TypeScript` `React` `GraphQL` `Java` `Kotlin` `HTML` `CSS`
-
-<sub>August 13, 2026 at 02:37 UTC</sub>
-
----
-
-### [Senior Flight Dynamics Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7861728003)
-<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Senior` `$120k-$160k` `Equity`
-
-_Develop and analyze trajectories, orbital mechanics, and flight dynamics for Earth-orbiting, lunar, and interplanetary spacecraft and launch vehicles. Requires on-site work in Littleton, CO and U.S. citizenship due to ITAR space technology export regulations. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7861728003)_
-
-`Python` `Git` `Orbital Mechanics` `STK` `GMAT` `Astrogator` `Monte Carlo Simulation` `Kalman Filtering`
-
-<sub>August 13, 2026 at 02:37 UTC</sub>
-
----
-
-### [Data Scientist, Full Stack](https://jobs.ashbyhq.com/sentilink/e099e0c8-71ea-4dc0-9823-f055e0292804)
-<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · United States · `🟢 Remote` `Mid` `$180k-$220k` `Equity`
-
-_Build fraud detection models and financial risk products from data acquisition through production deployment, serving real-time identity verification APIs processing hundreds of millions of transactions. Deep domain expertise in identity verification and fintech required; full-stack ownership from experimentation to production code. · [Apply →](https://jobs.ashbyhq.com/sentilink/e099e0c8-71ea-4dc0-9823-f055e0292804)_
-
-`Python` `PostgreSQL` `AWS` `scikit-learn` `Fraud Detection` `Feature Engineering` `Machine Learning`
-
-<sub>August 13, 2026 at 02:37 UTC</sub>
-
----
-
-### [Applied ML Scientist](https://jobs.ashbyhq.com/sentilink/5217d6c6-2140-4956-89c3-640088c29ffe)
-<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Junior` `$180k-$220k` `Equity`
-
-_Build and deploy machine learning models for fraud detection and identity verification, operating across the full ML lifecycle from research through production serving at scale. Work on foundational modeling for financial risk products in a domain requiring deep understanding of fraud patterns and identity systems. · [Apply →](https://jobs.ashbyhq.com/sentilink/5217d6c6-2140-4956-89c3-640088c29ffe)_
-
-`Python` `PostgreSQL` `AWS` `scikit-learn` `TensorFlow or PyTorch` `Feature Engineering` `Fraud Detection`
-
-<sub>August 13, 2026 at 02:37 UTC</sub>
-
----
-
-### [Manager, Quantitative Risk Management](https://jobs.ashbyhq.com/sentilink/375d0414-3351-4eea-9b84-9d4e9c8f402b)
-<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$210k-$240k` `Equity`
-
-_Lead a team of data scientists and governance professionals to build and scale model governance and validation systems for financial fraud detection models serving banks and fintechs. Requires deep expertise in regulatory model risk management (SR 11-7, SR 26-2, OCC guidance) and firsthand experience validating ML models in regulated environments. · [Apply →](https://jobs.ashbyhq.com/sentilink/375d0414-3351-4eea-9b84-9d4e9c8f402b)_
-
-`Python` `PostgreSQL` `AWS` `SQL` `Model Risk Management` `Fair Lending` `Regulatory Compliance`
-
-<sub>August 13, 2026 at 02:37 UTC</sub>
-
----
-
-### [Manager, Risk Strategy](https://jobs.ashbyhq.com/sentilink/449bc040-6d00-4e35-aae6-be5972bcf7c9)
-<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$210k-$240k` `Equity`
-
-_Lead a team of data scientists and governance professionals to build and scale model governance and risk management across SentiLink's fraud detection and identity verification platform. Requires deep regulatory knowledge (SR 11-7, SR 26-2, fair lending) and hands-on technical depth in Python and SQL to validate ML models under scrutiny from customers' regulators and auditors. · [Apply →](https://jobs.ashbyhq.com/sentilink/449bc040-6d00-4e35-aae6-be5972bcf7c9)_
-
-`Python` `PostgreSQL` `SQL` `AWS` `Model Risk Management` `Financial Regulation (SR 11-7, SR 26-2)` `Fair Lending Compliance` `Model Validation`
-
-<sub>August 13, 2026 at 02:37 UTC</sub>
 
 ---
 
