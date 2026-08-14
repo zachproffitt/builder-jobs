@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **434 open roles** (47 new) &nbsp;·&nbsp; 1764 companies searched
+### **437 open roles** (46 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Mission Design Engineer (2-5 yrs) ](https://job-boards.greenhouse.io/advancedspace/jobs/4369105009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `🟡 Hybrid` `Mid` `$88k-$116k` `Equity`
+
+_Design mission architectures and optimize trajectories for Earth-orbiting, cislunar, and interplanetary spacecraft; develop astrodynamics software tools in Python and Julia to support mission analysis across the full lifecycle from concept through flight operations. Experience with spacecraft systems integration and real mission operations is valued; U.S. Person status required. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4369105009)_
+
+`Python` `Julia` `Astrodynamics` `Trajectory Optimization` `GMAT` `STK` `MONTE` `Matlab`
+
+<sub>August 14, 2026 at 19:06 UTC</sub>
+
+---
+
+### [Senior Backend Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8715968002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$139k-$235k` `Equity`
+
+_Design and implement moderate to complex backend features for a global DevSecOps platform used by 50+ million users, influencing technical direction across product, infrastructure, and data systems. Build production agentic AI systems and establish backend standards for a high-scale distributed architecture. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8715968002)_
+
+`Backend Architecture` `Distributed Systems` `PostgreSQL` `Kubernetes` `API Design` `Agentic AI` `Event-Driven Systems` `Production Systems`
+
+<sub>August 14, 2026 at 19:06 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Gustie Assist](https://job-boards.greenhouse.io/gusto/jobs/8095028)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Staff` `Equity`
+
+_Design and build Otto, an AI agent platform that reasons over customer payroll and compliance contexts, takes autonomous actions across Gusto's systems, and keeps itself trustworthy through eval and observability systems. Own the full stack from LLM runtime and tool layer through Rails/GraphQL backend to advocate-facing frontend, shipping weekly with confidence on live customer accounts. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8095028)_
+
+`Python` `LLM agents` `Tool-calling` `Ruby on Rails` `JavaScript` `React` `GraphQL` `LLM evaluation`
+
+<sub>August 14, 2026 at 19:06 UTC</sub>
+
+---
 
 ### [Senior Data Scientist - Payments (Inference)](https://careers.airbnb.com/positions/8123037?gh_jid=8123037)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$179k-$210k` `Equity`
@@ -69,12 +102,12 @@ _Lead end-to-end development of user-centered measurement and metrics for Pinter
 
 ---
 
-### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
+### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
-_Own Chainguard's vulnerability management pipeline, coordinating the disclosure, reporting, and CVE assignment for thousands of novel vulnerabilities discovered weekly across open source software. Lead industry coordination with Linux Foundation, CISA, and AI model vendors to shape supply chain security standards and practices. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)_
+_Own Chainguard's novel vulnerabilities pipeline, managing disclosure and reporting of thousands of vulnerabilities weekly discovered by frontier AI models and other sources. Coordinate with upstream maintainers, run the CNA program for CVE assignment, and guide industry standards bodies (Linux Foundation, CISA) on AI supply chain security—requires 7+ years in software security, open source, or vulnerability disclosure management. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)_
 
-`Python` `Java` `JavaScript` `Go` `Kubernetes` `Security Research` `CVE Management` `Responsible Disclosure`
+`Vulnerability disclosure management` `Open source maintenance` `Python` `Java` `JavaScript` `Go` `Security research`
 
 <sub>August 14, 2026 at 15:59 UTC</sub>
 
@@ -488,50 +521,6 @@ _Design and develop complex SQL Server data pipelines and ETL processes that pow
 `Microsoft SQL Server` `T-SQL` `ETL` `Azure DevOps` `Git` `C#` `Data Modeling` `Query Optimization`
 
 <sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [Senior Software Engineer, Service Tools](https://careers.airbnb.com/positions/8099292?gh_jid=8099292)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$230k` `Equity`
-
-_Build Airbnb's next-generation build system and developer experience infrastructure for backend engineers at scale, including Bazel integration, CI/CD tooling, and editor improvements; requires 6+ years experience with build systems, large monorepos, and JVM ecosystem. · [Apply →](https://careers.airbnb.com/positions/8099292?gh_jid=8099292)_
-
-`Bazel` `Java` `Build Systems` `Monorepos` `JVM` `CI/CD` `IntelliJ`
-
-<sub>August 13, 2026 at 19:15 UTC</sub>
-
----
-
-### [Senior AI Engineer](https://job-boards.greenhouse.io/mitratech/jobs/8056298)
-<a href="https://inszoom.com"><img src="https://www.google.com/s2/favicons?domain=inszoom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**INSZoom** · `🟢 Remote` `Senior` `$170k-$190k` `Equity`
-
-_Design and operate LLM-powered agent systems end-to-end on AWS, shipping FastAPI services, Terraform infrastructure, MCP servers, and evaluation harnesses built on Bedrock with LangChain/LangGraph. Mentor across the team and set reliability, testing, and operational practices for production GenAI systems serving enterprise Legal, Risk, Compliance, and HR functions. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/8056298)_
-
-`Python` `FastAPI` `LangChain` `LangGraph` `AWS Bedrock` `Terraform` `PostgreSQL` `Redis`
-
-<sub>August 13, 2026 at 19:15 UTC</sub>
-
----
-
-### [Senior Quantum Scientist](https://job-boards.greenhouse.io/ionq/jobs/6137809004)
-<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · Boulder, Colorado · `🟡 Hybrid` `Senior` `$126k–$181k` `Equity`
-
-_Design, prototype, and validate coherent control schemes for trapped-ion qubits, calibrating quantum systems to achieve ultra-low gate errors and benchmarking performance across device modules. Requires hands-on experimental physics work with quantum hardware and strong background in atomic/qubit physics; US Person status required for export-controlled technology access. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6137809004)_
-
-`Quantum Control` `Trapped Ion Systems` `Experimental Physics` `Python` `Data Analysis` `Atomic/Molecular/Optical Physics` `Gate Fidelity Benchmarking` `Laser Systems`
-
-<sub>August 13, 2026 at 19:15 UTC</sub>
-
----
-
-### [Senior QA Analyst, Secure Remote Access ](https://job-boards.greenhouse.io/keepersecurity/jobs/4368918009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
-
-_Design and execute comprehensive test plans for Keeper Connection Manager's secure remote access workflows, validating SSH, RDP, VNC and other protocols across enterprise environments, operating systems and deployment scenarios. Requires 5+ years QA experience and hands-on testing of infrastructure products; U.S. Person status mandatory due to GovCloud involvement. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4368918009)_
-
-`SSH` `RDP` `VNC` `Jira` `TestRail` `Python` `Kubernetes` `Docker`
-
-<sub>August 13, 2026 at 19:15 UTC</sub>
 
 ---
 
