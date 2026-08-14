@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **443 open roles** (38 new) &nbsp;·&nbsp; 1764 companies searched
+### **446 open roles** (38 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -14,34 +14,45 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 13, 2026
 
+### [Staff Machine Learning Engineer, Traffic Intelligence](https://careers.airbnb.com/positions/8129371?gh_jid=8129371)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k-$265k` `Equity`
+
+_Own end-to-end traffic classification ML systems at internet scale, building adversarial-resistant models for bot and scraper detection while architecting offline-to-online data pipelines deployed at Airbnb's edge. Requires expertise in non-stationary ML, large-scale data engineering, and cross-functional leadership to defend against adaptive threat actors handling billions of daily requests. · [Apply →](https://careers.airbnb.com/positions/8129371?gh_jid=8129371)_
+
+`Python` `SQL` `PyTorch` `TensorFlow` `Kafka` `Airflow` `Bayesian Methods` `Graph Neural Networks`
+
+<sub>August 13, 2026 at 23:51 UTC</sub>
+
+---
+
+### [Strategy Data Scientist - Compliance](https://www.bill.com/job?6142609004&gh_jid=6142609004)
+<a href="https://bill.com"><img src="https://www.google.com/s2/favicons?domain=bill.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BILL** · `🟢 Remote` `Mid` `$95k—$135k USD` `Equity`
+
+_Build data pipelines, analytics dashboards, and compliance automation systems for a fintech platform processing payments and financial transactions. Requires hands-on SQL, Python, and BI tooling to extract, transform, and analyze data from internal systems while supporting anti-money laundering and regulatory requirements across a rapidly expanding product portfolio. · [Apply →](https://www.bill.com/job?6142609004&gh_jid=6142609004)_
+
+`SQL` `Python` `Tableau` `Power BI` `dbt` `Fivetran` `ETL` `Risk & Compliance Systems`
+
+<sub>August 13, 2026 at 23:51 UTC</sub>
+
+---
+
+### [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Manager`
+
+_Lead strategy, administration, and governance of NextGen Healthcare's enterprise Salesforce platform across Sales, Service, Marketing, and other business functions while managing a team of Salesforce administrators. Requires hands-on platform expertise in Service Cloud, Sales Cloud, Marketing Cloud, and emerging capabilities like Agentforce; balance executive-level roadmap planning with detailed administrative work. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)_
+
+`Salesforce` `Service Cloud` `Sales Cloud` `Marketing Cloud` `Agentforce` `leadership` `stakeholder management`
+
+<sub>August 13, 2026 at 23:51 UTC</sub>
+
+---
+
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/redapt/jobs/5389434008)
 <a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior` `$150k-$170k`
 
 _Design and build cloud-native applications and modernization solutions across public, private, and customer-managed environments using containers, serverless, and infrastructure-as-code. Lead full-stack development from architecture through production deployment, with hands-on expertise in front-end and back-end systems at scale. · [Apply →](https://job-boards.greenhouse.io/redapt/jobs/5389434008)_
 
 `C#` `Java` `Python` `React` `TypeScript` `AWS CDK` `Terraform` `GitHub Actions`
-
-<sub>August 13, 2026 at 22:54 UTC</sub>
-
----
-
-### [Google GECX Contact Center as a Service Senior Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$80k-$266k`
-
-_Design and implement Gemini Enterprise for Customer Experience (GECX) solutions including AI agents, contact center platforms, and integrations with Google Cloud; client-facing delivery role managing end-to-end project execution. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1)_
-
-`Google Cloud Platform` `Gemini` `Vertex AI` `BigQuery` `Contact Center as a Service` `AI Agent Development` `Genesys` `NICE`
-
-<sub>August 13, 2026 at 22:54 UTC</sub>
-
----
-
-### [Google GECX Contact Center as a Service Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple (California / Cleveland, Ohio / Colorado / District of Columbia, D.C. / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York, New York / New Jersey, New Jersey / Virginia / Washington, Washington) · `Senior` `$54k-$196k`
-
-_Design and implement Google Cloud-based Conversational AI and Contact Center as a Service (CCaaS) solutions for enterprise clients, including AI agents with retrieval, orchestration, and policy-based routing. Work hands-on with clients and delivery teams to architect end-to-end GECX implementations integrating Vertex AI, Gemini models, and BigQuery. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069)_
-
-`Google Cloud Platform (GCP)` `Vertex AI` `Gemini` `BigQuery` `Contact Center as a Service (CCaaS)` `Conversational AI` `Generative AI` `Agile`
 
 <sub>August 13, 2026 at 22:54 UTC</sub>
 
@@ -163,6 +174,17 @@ _Build backend services and APIs for GitLab's source code workflows using Ruby a
 _Build backend services, APIs, and data models for GitLab's source code workflows using Ruby and GraphQL, supporting both human developers and AI agents at scale across GitLab.com, self-managed instances, and Dedicated deployments. Requires hands-on work in one of GitLab's oldest and most complex product areas with focus on performance tuning, reliability, and on-call incident response. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8687910002)_
 
 `Ruby` `GraphQL` `PostgreSQL` `Redis` `Git` `Kubernetes` `Datadog`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
+
+---
+
+### [Detection Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Peterson AFB, Colorado · `🟡 Hybrid` `Senior` `$69k-$158k`
+
+_Build detection systems and security solutions for Department of Defense Combatant Command networks using SIEM, IDS, and threat detection platforms. Requires TS/SCI clearance and focus on analyzing complex cyber threats to protect mission-critical defense infrastructure. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981)_
+
+`Security Onion` `Trellix` `Microsoft Defender` `SIEM` `IDS signatures` `MITRE ATT&CK` `TS/SCI Clearance` `DoD 8140 Cyber Defense Analyst Certifications`
 
 <sub>August 13, 2026 at 20:54 UTC</sub>
 
@@ -407,32 +429,6 @@ _Lead a team of data scientists and governance professionals to build and scale 
 `Python` `PostgreSQL` `SQL` `AWS` `Model Risk Management` `Financial Regulation (SR 11-7, SR 26-2)` `Fair Lending Compliance` `Model Validation`
 
 <sub>August 13, 2026 at 02:37 UTC</sub>
-
----
-
-<br>
-
-## August 12, 2026
-
-### [Senior Machine Learning Infrastructure Engineer, Embedding Platform](https://job-boards.greenhouse.io/reddit/jobs/8127022)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
-
-_Design and own end-to-end machine learning infrastructure for Reddit's recommendation and personalization systems, from data pipelines through distributed training to low-latency production deployment. Build large-scale deep learning models using modern architectures (sequence models, foundation models) serving 130M+ daily users at massive scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8127022)_
-
-`PyTorch` `TensorFlow` `Python` `Distributed Training` `Recommendation Systems` `Deep Learning` `A/B Testing` `Sequence Models`
-
-<sub>August 12, 2026 at 23:52 UTC</sub>
-
----
-
-### [Staff Android Engineer, Brand Ad Formats](https://job-boards.greenhouse.io/reddit/jobs/8127002)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$217k–$303k` `Equity`
-
-_Lead the technical strategy and development of Reddit's Video Ads platform on Android, building high-performance, interactive ad formats that scale to millions of users. Mentor senior engineers across ad tech teams and establish architectural best practices for modern Android development. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8127002)_
-
-`Kotlin` `Android` `Jetpack Compose` `Product Metrics` `BigQuery` `Firebase` `System Design` `AI/ML Integration`
-
-<sub>August 12, 2026 at 23:52 UTC</sub>
 
 ---
 
