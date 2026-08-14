@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **425 open roles** (53 new) &nbsp;·&nbsp; 1764 companies searched
+### **459 open roles** (59 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,116 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 14, 2026
+
+### [Developer, Rust](https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538)
+<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Mid` `$123k-$172k USD (US) / $111k-$155k CAD (Canada)` `Equity`
+
+_Build core product surfaces and backend systems for 1Password's password manager and identity platform using Rust. Own features end-to-end from design through production support across product UI, services, and infrastructure. · [Apply →](https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538)_
+
+`Rust` `Go` `AWS` `CI/CD` `Testing Infrastructure`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [[Internal] Developer, Rust](https://jobs.ashbyhq.com/1password/d19d8ac2-8f67-407e-ace1-7f07914e581c)
+<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Mid` `$123k-$172k USD / $111k-$155k CAD` `Equity`
+
+_Build and maintain core product experiences and backend services for 1Password's enterprise password manager and unified access management platform, working across product surfaces, infrastructure, and operational workflows. Own complex systems end-to-end from design through production support in a security-critical environment. · [Apply →](https://jobs.ashbyhq.com/1password/d19d8ac2-8f67-407e-ace1-7f07914e581c)_
+
+`Rust` `Go` `AWS` `Distributed Systems` `PostgreSQL` `Kubernetes`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Manager, Network Engineering - Transport (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Manager--Network-Engineering---Transport--Remote-_R29587)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Manager` `$140k-$215k` `Equity`
+
+_Lead a network engineering team building and operating large-scale IP and optical backbone infrastructure processing 3 trillion events per day across hybrid cloud environments (AWS, GCP, OCI). Requires expertise in hyper-scale networking technologies (DWDM, ROADM, MP-BGP, MPLS, Segment Routing) and eligible for CJIS clearance. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Manager--Network-Engineering---Transport--Remote-_R29587)_
+
+`DWDM` `ROADM` `MP-BGP` `MPLS` `Segment Routing` `Python` `Terraform` `CJIS Clearance`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Director, AI Security Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director--AI-Security-Science--Remote-_R29828)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Manager` `$195k-$290k` `Equity`
+
+_Lead research and development of agentic AI systems for autonomous cybersecurity operations, establishing evaluation methodologies and advancing post-training techniques for efficient security-focused models. Requires hands-on expertise in LLM post-training, agent design, and the ability to ground applied research in real operator workflows and adversarial threat conditions. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director--AI-Security-Science--Remote-_R29828)_
+
+`LLM post-training` `Reinforcement Learning` `Agent Design` `Evaluation Methodology` `PyTorch` `TensorFlow` `Python` `PhD Preferred`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Engineer II - Automation & Development (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II---Automation---Development--Remote-_R29760)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+
+_Build and deploy machine learning models for cloud cost attribution and financial accountability, analyzing large-scale datasets to help teams understand resource consumption and optimize spending. Work with distributed systems processing trillions of cloud events daily. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II---Automation---Development--Remote-_R29760)_
+
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Spark` `SQL` `AWS` `GCP`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Network Engineer III - Network Deployment Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Engineer-III---Network-Deployment-Engineer--Remote-_R29625)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Build and operate multi-vendor, multi-region hybrid cloud networks at hyperscale, processing trillions of events daily. Drive network automation initiatives using infrastructure-as-code and production code to improve deployment quality and velocity across FedRAMP-regulated environments. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Engineer-III---Network-Deployment-Engineer--Remote-_R29625)_
+
+`Ansible` `Terraform` `NETCONF/YANG` `gNMI/OpenConfig` `Python` `Go` `AWS` `GCP`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Data Scientist, Applied AI/ML](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Applied-AI-ML_R29843)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Lead the development of large-scale LLM applications and AI safety systems for cybersecurity threat detection, working hands-on with model training, post-training optimization, and production deployment. Position requires deep expertise in LLM scaling and GPU optimization across the platform processing 3 trillion security events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Applied-AI-ML_R29843)_
+
+`Python` `PyTorch` `TensorFlow` `LLM Training` `GPU Optimization` `CUDA` `Distributed Systems` `Machine Learning at Scale`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Sr. Data Scientist, Applied AI/ML](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Data-Scientist--Applied-AI-ML_R29842-1)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build production-grade LLM applications and AI safety systems for cybersecurity threat detection, leading research strategy and mentoring data scientists on large-scale model training, deployment, and evaluation. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Data-Scientist--Applied-AI-ML_R29842-1)_
+
+`Python` `PyTorch` `TensorFlow` `LLM Training` `GPU Optimization` `Distributed Systems` `Cloud Technologies` `Deep Learning`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Software Development Eng - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Eng---Full-Stack_R24423-1)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Mid` `$86k-$126.5k`
+
+_Design and build full-stack cloud-native applications using Java/Spring Boot, Vue.js, and Python/FastAPI, deployed on AWS with Docker and Kubernetes. Apply AI throughout the development lifecycle to accelerate implementation and testing while maintaining code quality; requires US Person status due to export control regulations. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Eng---Full-Stack_R24423-1)_
+
+`Java` `Spring Boot` `Vue.js` `Python` `FastAPI` `PostgreSQL` `AWS` `Kubernetes`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Staff Software Development Engineer - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Software-Development-Engineer---Full-Stack_R24422)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$105k-$154k`
+
+_Design, develop, and deploy full-stack cloud-native applications using Java/Spring Boot, Vue.js, and Python/FastAPI on AWS. Work in an AI-assisted software development lifecycle using AI tools throughout the engineering process while maintaining ownership of code quality and security; requires U.S. person status for export control compliance. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Software-Development-Engineer---Full-Stack_R24422)_
+
+`Java` `Spring Boot` `Vue.js` `Python` `FastAPI` `AWS` `Kubernetes` `Docker`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Passport & Commerce (Backend)](https://careers.airbnb.com/positions/8130817?gh_jid=8130817)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k-$265k` `Equity`
@@ -26,7 +136,7 @@ _Design and operate the core account platform and services that track state, eli
 ---
 
 ### [Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R29841)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build data pipelines, inference infrastructure, and ML systems supporting LLM post-training and enterprise AI applications at scale, processing trillions of events daily. Requires deep expertise in distributed systems, GPU scaling, and LLM computational architectures. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R29841)_
 
@@ -70,7 +180,7 @@ _Design and deploy highly scalable, event-driven microservices on AWS serving th
 ---
 
 ### [AI Research Scientist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Research-Scientist--Remote-_R29829)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build post-trained LLMs and AI agents for cybersecurity threat analysis, training models on CrowdStrike's unique dataset of nearly a trillion behavioral events daily. Requires PhD-level machine learning mastery and hands-on expertise in LLM training, reinforcement learning (RLHF/RLAIF, PPO), and agentic systems design. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Research-Scientist--Remote-_R29829)_
 
@@ -81,7 +191,7 @@ _Build post-trained LLMs and AI agents for cybersecurity threat analysis, traini
 ---
 
 ### [Sr. Network Development Engineer - IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Development-Engineer---IT-Cloud---Infrastructure--Remote-_R29738)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Staff` `$125k-$180k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Staff` `$125k-$180k` `Equity`
 
 _Design and operate enterprise cloud architecture patterns, governance frameworks, and infrastructure-as-code standards across a 3-trillion-event-per-day global security platform. Lead cloud migration programs, multi-region networking design, and engineering enablement for infrastructure-as-code adoption at scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Development-Engineer---IT-Cloud---Infrastructure--Remote-_R29738)_
 
@@ -102,12 +212,12 @@ _Own the subscriptions and payments platform—building foundational systems and
 
 ---
 
-### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
+### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k–$260k` `Equity`
 
-_Build end-to-end AI-powered products and full-stack systems for physical operations, from backend services and APIs to customer-facing UI, processing 25+ trillion IoT data points annually. Zero-to-one product development at billion-dollar scale with real-world stakes across fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)_
+_Build full-stack, AI-powered products for physical operations at scale, processing 25+ trillion IoT data points annually. Own zero-to-one product areas end-to-end across backend, frontend, and mobile, turning machine learning capabilities into mission-critical systems for fleet management, equipment monitoring, and field operations. · [Apply →](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML systems` `Data ingestion` `APIs` `LLMs`
+`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Product Leadership`
 
 <sub>August 14, 2026 at 19:52 UTC</sub>
 
@@ -223,23 +333,12 @@ _Lead end-to-end development of user-centered measurement and metrics for Pinter
 
 ---
 
-### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
+### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
-_Own Chainguard's vulnerability management pipeline, coordinating the disclosure, reporting, and CVE assignment for thousands of novel vulnerabilities discovered weekly across open source software. Lead industry coordination with Linux Foundation, CISA, and AI model vendors to shape supply chain security standards and practices. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)_
+_Own Chainguard's novel vulnerabilities pipeline, managing disclosure and reporting of thousands of vulnerabilities weekly discovered by frontier AI models and other sources. Coordinate with upstream maintainers, run the CNA program for CVE assignment, and guide industry standards bodies (Linux Foundation, CISA) on AI supply chain security—requires 7+ years in software security, open source, or vulnerability disclosure management. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)_
 
-`Python` `Java` `JavaScript` `Go` `Kubernetes` `Security Research` `CVE Management` `Responsible Disclosure`
-
-<sub>August 14, 2026 at 15:59 UTC</sub>
-
----
-
-### [AI Native Software Engineering Senior Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid`
-
-_Design and ship production-grade full-stack software that integrates with agentic AI systems and LLM APIs, using AI-assisted coding daily as standard practice. Work across diverse client industries and enterprise technology stacks with vendor access inside Anthropic, OpenAI, Microsoft, and Google. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Senior-Analyst_R00341061)_
-
-`Python` `TypeScript` `Java` `LLM APIs` `LangChain` `LangGraph` `Docker` `AWS`
+`Vulnerability disclosure management` `Open source maintenance` `Python` `Java` `JavaScript` `Go` `Security research`
 
 <sub>August 14, 2026 at 15:59 UTC</sub>
 
@@ -469,6 +568,17 @@ _Design and build cloud-native applications and modernization solutions across p
 
 ---
 
+### [Gemini Enterprise for CX Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple (California / Cleveland, Ohio / Colorado / District of Columbia, D.C. / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York, New York / New Jersey, New Jersey / Virginia / Washington, Washington) · `Senior` `$54k-$196k`
+
+_Design and implement Google Cloud-based Conversational AI and Contact Center as a Service (CCaaS) solutions for enterprise clients, including AI agents with retrieval, orchestration, and policy-based routing. Work hands-on with clients and delivery teams to architect end-to-end GECX implementations integrating Vertex AI, Gemini models, and BigQuery. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069)_
+
+`Google Cloud Platform (GCP)` `Vertex AI` `Gemini` `BigQuery` `Contact Center as a Service (CCaaS)` `Conversational AI` `Generative AI` `Agile`
+
+<sub>August 13, 2026 at 22:54 UTC</sub>
+
+---
+
 ### [Gemini Enterprise for CX Sr. Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$80k-$266k`
 
@@ -554,50 +664,6 @@ _Lead end-to-end Salesforce Data 360 implementation projects, designing scalable
 `Salesforce Data 360` `Apex` `Lightning Web Components` `SOQL` `MuleSoft` `Informatica` `Talend` `Snowflake`
 
 <sub>August 13, 2026 at 21:56 UTC</sub>
-
----
-
-### [Senior Software Development Engineer (Back-end)](https://jobs.lever.co/filevine/2b765f88-8dd7-4fef-b266-f0d58ae3220a)
-<a href="https://filevine.com"><img src="https://www.google.com/s2/favicons?domain=filevine.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Filevine** · `🟢 Remote` `Senior`
-
-_Build backend systems and APIs for Filevine's Legal Operating Intelligence platform, handling data processing, document management, and workflow automation at scale. Work on AI-powered legal tech infrastructure serving thousands of legal professionals and firms. · [Apply →](https://jobs.lever.co/filevine/2b765f88-8dd7-4fef-b266-f0d58ae3220a)_
-
-`Python` `Java` `PostgreSQL` `AWS` `Kubernetes` `Distributed Systems` `REST APIs`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [Detection Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Peterson AFB, Colorado · `🟡 Hybrid` `Senior` `$69k-$158k`
-
-_Build detection systems and security solutions for Department of Defense Combatant Command networks using SIEM, IDS, and threat detection platforms. Requires TS/SCI clearance and focus on analyzing complex cyber threats to protect mission-critical defense infrastructure. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981)_
-
-`Security Onion` `Trellix` `Microsoft Defender` `SIEM` `IDS signatures` `MITRE ATT&CK` `TS/SCI Clearance` `DoD 8140 Cyber Defense Analyst Certifications`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [Data Scientist](https://jobs.ashbyhq.com/openrouter/c8ee3a10-ae18-4d8b-9390-369ebea7b03f)
-<a href="https://openrouter.ai"><img src="https://www.google.com/s2/favicons?domain=openrouter.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenRouter** · `🟢 Remote` `Senior`
-
-_Build the intelligence layer and routing algorithms that optimize how millions of developers interact with LLMs across OpenRouter's model marketplace, processing billions of generations. Own data products end-to-end—from problem framing through shipping features that directly impact routing heuristics, customer analytics, and platform strategy. · [Apply →](https://jobs.ashbyhq.com/openrouter/c8ee3a10-ae18-4d8b-9390-369ebea7b03f)_
-
-`Python` `SQL` `ClickHouse` `dbt` `scikit-learn` `statistical modeling` `LLM evaluation` `TypeScript`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [SQL Developer II](https://job-boards.greenhouse.io/precisionaq/jobs/6143437004)
-<a href="https://precisionvalue.com"><img src="https://www.google.com/s2/favicons?domain=precisionvalue.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**PRECISIONvalue** · `🟢 Remote` `Mid` `$75k-$95k`
-
-_Design and develop complex SQL Server data pipelines and ETL processes that power client deliverables in healthcare market access; build scalable datasets with rigorous data validation and quality checks. · [Apply →](https://job-boards.greenhouse.io/precisionaq/jobs/6143437004)_
-
-`Microsoft SQL Server` `T-SQL` `ETL` `Azure DevOps` `Git` `C#` `Data Modeling` `Query Optimization`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
 
 ---
 
