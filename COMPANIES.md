@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **161 companies** · **412 open roles** (62 new)
+### **163 companies** · **447 open roles** (63 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -126,7 +126,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Platform Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 7)
 - [Software Engineer, Tooling](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 7)
 - [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 5)
-- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 4)
+- [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5207733007?gh_jid=5207733007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 4)
 - [Senior Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5203172007?gh_jid=5203172007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 4)
 - [Senior Software Engineer, PLM ](https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007) · `🟢 Remote` `Senior` `$166k-$220k` `Equity` (Aug 3)
 
@@ -230,6 +230,34 @@ Bloomreach makes Loomi AI, an agentic platform that personalizes customer experi
 
 ---
 
+## <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Booz Allen Hamilton](https://boozallen.com)
+
+Booz Allen Hamilton provides consulting and technology services for civil, defense, and national security missions.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Data and Proposals Quantum Applications Scientist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-and-Proposals-Quantum-Applications-Scientist_R0246914) · Colorado Springs, Colorado · `Mid` `$99k-$225k` (Aug 15)
+- [Detection Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981) · Peterson AFB, Colorado · `🟡 Hybrid` `Senior` `$69k-$158k` (Aug 13)
+- [Data Engineer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Senior_R0247077) · Aurora, Colorado · `Senior` `$77k-$176k` (Aug 13)
+- [Integration Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Integration-Engineer_R0246810) · Colorado Springs, Colorado · `Senior` `$77k-$176k` (Aug 12)
+- [Modeling and Simulation Integrations Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Modeling-and-Simulation-Integrations-Engineer_R0246800) · Colorado Springs, Colorado · `Junior` `$61k-$141k` (Aug 12)
+- [Test Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Test-Engineer_R0245588) · Colorado Springs, Colorado · `Senior` `$86k-$198k` (Aug 12)
+- [Defensive Cyber Operations Analyst](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Defensive-Cyber-Operations-Analyst_R0246700) · Peterson AFB, Colorado · `Mid` `$69k-$158k` (Aug 12)
+- [Data Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0247078) · Aurora, Colorado · `Mid` `$77.6k-$176k` (Aug 12)
+- [DevSecOps Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/DevSecOps-Engineer_R0246687) · Peterson AFB, Colorado · `Senior` `$99k-$225k` (Aug 12)
+- [Software Lead and Integration Manager](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Software-Lead-and-Integration-Manager_R0246688) · Peterson AFB, Colorado · `Manager` `$86k-$198k` (Aug 12)
+- [Statistician and Mathematician, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Statistician-and-Mathematician--Senior_R0246477) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 12)
+- [Computer Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0246983) · Aurora, Colorado · `Mid` `$69k-$158k` (Aug 11)
+- [Data Scientist, Lead](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Lead_R0246466) · Aurora, Colorado · `Senior` `$112k-$257k` (Aug 11)
+- [Computer Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Senior_R0246980) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 10)
+- [Data Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0247079) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 10)
+- [Data Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414) · Colorado Springs, Colorado · `Mid` `$61.9k-$141k` (Aug 10)
+- [Cybersecurity Network Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cybersecurity-Network-Engineer_R0246036) · Colorado Springs, Colorado · `Senior` `$86k-$198k` (Aug 4)
+- [Model-Based Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Model-Based-Systems-Engineer_R0245999) · Colorado Springs, Colorado · `Senior` `$86k-$198k` (Aug 4)
+- [Cybersecurity Architect](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cybersecurity-Architect_R0246032) · Colorado Springs, Colorado · `Senior` `$86k-$198k` (Aug 4)
+- [Modeling and Simulation Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Software-Developer_R0245998) · Colorado Springs, Colorado · `Senior` `$86k-$198k` (Aug 4)
+- [Chief Software Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Chief-Software-Systems-Engineer_R0245907) · Colorado Springs, Colorado · `Manager` `$99k-$225k` (Aug 3)
+
+---
+
 ## <a href="https://bridgebio.com"><img src="https://www.google.com/s2/favicons?domain=bridgebio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[BridgeBio](https://bridgebio.com)
 
 BridgeBio is a biotechnology company that designs medicines for patients with genetic diseases and cancers with clear genetic drivers.
@@ -300,7 +328,7 @@ CesiumAstro builds satellites, terminals, and software-defined systems for satel
 Chainguard provides hardened, secure, and production-ready open source software builds, container images, and language libraries that are built from source in a SLSA L3-compliant factory and verified with SBOMs and provenance.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer (Customer Platform)](https://job-boards.greenhouse.io/chainguard/jobs/4705456006) · `🟢 Remote` `Staff` `$205k-$231k` `Equity` (Aug 14)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696741006) · `🟢 Remote` `Staff` `Equity` (Aug 14)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006) · `🟢 Remote` `Staff` `$170k-$231k` `Equity` (Aug 14)
 - [Principal Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4698958006) · `🟢 Remote` `Principal` `Equity` (Aug 12)
 - [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696743006) · `🟢 Remote` `Staff` `$170k-$231k` `Equity` (Aug 7)
 - [Senior Software Engineer  (Guarded OS) ](https://job-boards.greenhouse.io/chainguard/jobs/4686153006) · `🟢 Remote` `Senior` `Equity` (Aug 4)
@@ -328,7 +356,7 @@ Cityblock Health provides healthcare services designed to be personalized around
 ClickHouse builds a real-time analytics and data warehousing platform used for analytics, observability, and AI workloads. The company serves over 3,000 customers including Meta, Sony, and Tesla.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Operations Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004) · `🟢 Remote` `Mid` `$170k-$250k` `Equity` (Aug 15)
-- [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004) · `🟢 Remote` `Senior` `Equity` (Aug 13)
+- [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004) · `🟢 Remote` `Senior` `$133k-$197k` `Equity` (Aug 13)
 - [Senior Consulting Engineer - AMER](https://job-boards.greenhouse.io/clickhouse/jobs/6140168004) · `🟢 Remote` `Senior` `$158k-$198k (base US); $176k-$220k (premium markets)` `Equity` (Aug 11)
 
 ---
@@ -473,7 +501,6 @@ Empower Retirement provides retirement planning advisory services to public empl
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Site Reliability Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Site-Reliability-Engineer_R0061638-1) · `🟢 Remote` `Mid` `$87.4k-$123.4k` (Aug 14)
 - [Senior Data Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Engineer-Data_R0061234) · `🟢 Remote` `Senior` `$105k-$149k` (Aug 12)
-- [Lead Data Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Data-Engineer_R0061512-1) · `🟢 Remote` `Senior` (Aug 7)
 - [Senior Snowflake Platform Administrator](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Snowflake-Platform-Administrator_R0061390) · `🟢 Remote` `Senior` `$114k-$165.3k` (Aug 1)
 
 ---
@@ -554,6 +581,18 @@ Filevine builds a platform that combines data, documents, workflows, and teams f
 First American Financial Corporation provides title insurance and settlement services for real estate transactions including home purchases, refinances, equity loans, and commercial property deals.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineering Intern](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260) · `🟢 Remote` `Intern` `$15.38-$20.48/hr` (Aug 14)
+
+---
+
+## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
+
+Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal Applied Scientist, Agentic AI](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P751035-1) · `🟢 Remote` `Principal` `$181k-$305k` `Equity` (Aug 14)
+- [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 7)
+- [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1) · `🟢 Remote` `Senior` `$141k-$237k` `Equity` (Aug 7)
+- [Principal Analytics Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Analytics-Engineer_P751074-1) · `🟢 Remote` `Principal` `$136k-$229k` `Equity` (Aug 4)
+- [Data Scientist, Consumer Analytics](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1) · `🟢 Remote` `Senior` `$119k-$201k` `Equity` (Aug 3)
 
 ---
 
@@ -653,7 +692,7 @@ Hudu builds a documentation and workflow platform for operations teams to manage
 
 Human Interest builds 401(k) retirement plans for small and medium-sized businesses.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/7927646) · `🟢 Remote` `Senior` `$190k-$230k` `Equity` (Aug 14)
+- [Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/7927646) · `🟢 Remote` `Senior` `$190k-$230k` `Equity` (Aug 14)
 
 ---
 
@@ -1144,15 +1183,15 @@ SailPoint builds a platform for managing and securing identities that dynamicall
 
 Samsara builds a platform called the Connected Operations Cloud that collects Internet of Things data from organizations in industries including agriculture, construction, field services, transportation, and manufacturing to provide actionable insights and improve their operations. The platform includes products for video-based safety, vehicle telematics, driver workflows, and equipment monitoring.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439) · `🟢 Remote` `Senior` `$154k–$260k` `Equity` (Aug 14)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819) · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity` (Aug 14)
 - [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161) · `🟢 Remote` `Senior` `$142k-$168k CAD` `Equity` (Aug 13)
 - [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity` (Aug 12)
 - [Sr. AI Engineer](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352) · `🟢 Remote` `Senior` `$127k-$214k` `Equity` (Aug 12)
-- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102) · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity` (Aug 7)
+- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078) · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity` (Aug 7)
 - [Manager II, Data Platform](https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931) · `🟢 Remote` `Manager` `$154k-$234k` `Equity` (Aug 7)
 - [Staff Software Engineer, DevEx](https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358) · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity` (Aug 5)
 - [Solutions Integration Engineer IV](https://www.samsara.com/company/careers/roles/8094156?gh_jid=8094156) · `🟢 Remote` `Senior` `$105k-$160k` `Equity` (Aug 4)
-- [AI Architect - GTM Systems](https://www.samsara.com/company/careers/roles/7578952?gh_jid=7578952) · `🟢 Remote` `Senior` `$131k.50-$176k` `Equity` (Aug 3)
+- [AI Architect - GTM Systems](https://www.samsara.com/company/careers/roles/8104166?gh_jid=8104166) · `🟢 Remote` `Senior` `$135k—$175k USD` `Equity` (Aug 3)
 
 ---
 
@@ -1250,7 +1289,7 @@ Striim provides real-time data integration across private and public cloud envir
 
 Stripe is a financial services platform that helps businesses accept payments, build billing models, and manage money movement.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Engineer, Link Balance](https://stripe.com/jobs/search?gh_jid=8082847) · `🟢 Remote` `Staff` (Aug 15)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer, Link](https://stripe.com/jobs/search?gh_jid=8082847) · `🟢 Remote` `Staff` (Aug 15)
 - [Full Stack Engineer, Expansion](https://stripe.com/jobs/search?gh_jid=6786568) · `🟢 Remote` `Senior` (Aug 12)
 - [ARG Engineering Manager](https://stripe.com/jobs/search?gh_jid=8113337) · `🟢 Remote` `Manager` (Aug 10)
 - [Business Value Scale Analyst](https://stripe.com/jobs/search?gh_jid=8097047) · `🟢 Remote` `Junior` (Aug 5)
@@ -1272,7 +1311,7 @@ Supabase provides a backend platform built on Postgres that includes database ma
 
 Tailscale builds software that securely interconnects people and their devices regardless of location, enabling teams to protect their networks and share access to internal tools. Founded in 2019 and fully distributed, the company is backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.
 
-- [Software Engineer, Strategic Projects](https://job-boards.greenhouse.io/tailscale/jobs/4721713005) · `🟢 Remote` `Mid` `$218k—$302k CAD` `Equity` (Aug 5)
+- [Software Engineer, Strategic Projects](https://job-boards.greenhouse.io/tailscale/jobs/4721714005) · `🟢 Remote` `Senior` `$163k–$226k` `Equity` (Aug 5)
 
 ---
 
