@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **440 open roles** (58 new) &nbsp;·&nbsp; 1764 companies searched
+### **448 open roles** (57 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -123,17 +123,6 @@ _Drive the strategy and technical implementation of ML-powered safety triage wor
 _Design and build the cloud data platform that ingests, processes, and serves massive datasets from a fleet of deployed humanoid robots operating in warehouses and manufacturing. Work with high-volume sensor telemetry and logs at scale across edge devices and cloud infrastructure, requiring expertise in distributed systems and IoT data collection. · [Apply →](https://www.agilityrobotics.com/about/job-post?gh_jid=6144405004)_
 
 `Spark` `Kafka` `AWS` `Python` `Java` `OpenTelemetry` `Parquet` `Protobuf`
-
-<sub>August 14, 2026 at 23:29 UTC</sub>
-
----
-
-### [Software Engineering Intern](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260)
-<a href="https://firstam.com"><img src="https://www.google.com/s2/favicons?domain=firstam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**First American** · `🟢 Remote` `Intern` `$15.38-$20.48/hr`
-
-_Build features across First American's real estate title and closing platform using full-stack technologies (backend, frontend, DevOps). Work on a digital transformation initiative modernizing core systems for one of the largest US real estate market players. · [Apply →](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260)_
-
-`C#` `TypeScript` `Python` `React` `NestJS` `SQL` `NoSQL` `Kubernetes`
 
 <sub>August 14, 2026 at 23:29 UTC</sub>
 
