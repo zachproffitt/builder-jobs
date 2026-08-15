@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **442 open roles** (61 new) &nbsp;·&nbsp; 1764 companies searched
+### **441 open roles** (61 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -368,12 +368,12 @@ _Build and optimize Spire's internal developer platform on AWS, managing cloud i
 
 ---
 
-### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$133k-$197k` `Equity`
+### [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Build and operate a multi-cloud, multi-region distributed infrastructure platform for ClickHouse Cloud, managing compute, networking, and security across AWS, Azure, and GCP. Optimize cost efficiency and availability at scale through automation, Kubernetes orchestration, and high-impact infrastructure optimization initiatives. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004)_
+_Build and operate ClickHouse Cloud's distributed multi-cloud, multi-region infrastructure platform, including compute, networking, and resource orchestration. Design cloud-native systems for cost optimization, scalability, and high availability at scale across AWS, Azure, and GCP. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004)_
 
-`Go` `C++` `AWS` `Terraform` `Kubernetes` `Istio` `Envoy` `GCP`
+`Go` `Kubernetes` `Terraform` `AWS` `GCP` `Azure` `Istio` `Envoy`
 
 <sub>August 13, 2026 at 08:38 UTC</sub>
 
@@ -526,17 +526,6 @@ _Own the distributed systems that stream feature-flag configuration to LaunchDar
 
 ---
 
-### [Director of Data Science and Bioinformatics](https://job-boards.greenhouse.io/natera/jobs/6135539004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$178k–$222k`
-
-_Lead and architect the bioinformatics function and AWS cloud infrastructure for cell-free DNA genomic testing pipelines in women's health and organ health products, ensuring clinical-grade quality and reproducibility of NGS algorithms. Requires 10+ years in data science/bioinformatics with 5+ years leading technical teams and hands-on experience with regulated biomedical software (CLIA/FDA). · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135539004)_
-
-`AWS` `Bioinformatics` `NGS Pipeline Development` `MLOps` `Docker` `Nextflow` `Machine Learning` `Statistical Inference`
-
-<sub>August 12, 2026 at 22:53 UTC</sub>
-
----
-
 ### [Sr Staff Software Systems Engineer - Core Mission Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-Software-Systems-Engineer---Core-Mission-Systems_R24387)
 <a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Staff` `$128k-$187k`
 
@@ -554,6 +543,17 @@ _Lead the architecture, integration, and evolution of complex software-intensive
 _Lead cybersecurity and compliance architecture across software-intensive mission systems for classified and unclassified defense environments, translating NIST/CMMC requirements into practical engineering solutions. Requires active TS/SCI clearance and work on Intelligence Community or DoD programs. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer--Cybersecurity-and-Compliance_R24398)_
 
 `Systems Engineering` `NIST 800-53` `CMMC` `Risk Management Framework` `DevSecOps` `Secure Cloud Architecture` `CISSP` `AWS`
+
+<sub>August 12, 2026 at 22:53 UTC</sub>
+
+---
+
+### [Director of Data Science and Bioinformatics](https://job-boards.greenhouse.io/natera/jobs/6135539004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$178k–$222k`
+
+_Lead and architect the bioinformatics function and AWS cloud infrastructure for cell-free DNA genomic testing pipelines in women's health and organ health products, ensuring clinical-grade quality and reproducibility of NGS algorithms. Requires 10+ years in data science/bioinformatics with 5+ years leading technical teams and hands-on experience with regulated biomedical software (CLIA/FDA). · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135539004)_
+
+`AWS` `Bioinformatics` `NGS Pipeline Development` `MLOps` `Docker` `Nextflow` `Machine Learning` `Statistical Inference`
 
 <sub>August 12, 2026 at 22:53 UTC</sub>
 
@@ -2576,6 +2576,17 @@ _Own the end-to-end vehicle architecture and technical baseline for a hypersonic
 
 ---
 
+### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
+
+_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
+
+`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
 ### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
 <a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
 
@@ -2593,17 +2604,6 @@ _Build and maintain CI/CD infrastructure, progressive delivery systems, and depl
 _Build and operate large-scale data pipelines and foundational data products powering Komodo's Healthcare Map, processing complex healthcare datasets (claims, EHR, reference data) at scale. Requires deep healthcare data domain expertise (ICD-10, CPT, NDC, NPI coding systems) and production troubleshooting across computationally intensive workflows. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)_
 
 `Python` `SQL` `Airflow` `Spark` `AWS` `Healthcare Data (Claims/EHR/RWE)` `Data Quality & Observability`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
-
-_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
-
-`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -3494,17 +3494,6 @@ _Lead a backend engineering team building scalable, high-performance distributed
 _Design and implement enterprise-grade B2B integrations with Samsara's IoT platform using APIs, webhooks, and data streaming technologies; lead complex system architecture projects for strategic customers including large trucking, food production, and utility companies. Requires 7+ years of software engineering or solutions engineering experience and expert-level command of Python, REST APIs, Kafka, and cloud infrastructure. · [Apply →](https://www.samsara.com/company/careers/roles/8094156?gh_jid=8094156)_
 
 `Python` `REST APIs` `Kafka` `AWS` `Azure` `GCP` `SQL` `NoSQL`
-
-<sub>August 4, 2026 at 15:31 UTC</sub>
-
----
-
-### [Healthcare Payer AI Decision Science Manager/Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Payer-AI-Decision-Science-Manager_R00339197)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations (California, Cleveland, Colorado, District of Columbia, Illinois, Maine, Maryland, Massachusetts, Minnesota, New York, New Jersey, Virginia, Washington) · `Senior` `$80k-$293k`
-
-_Lead end-to-end AI and data science projects for healthcare payer clients, designing decision-making systems and AI solutions that integrate with electronic medical records and clinical workflows. Manage distributed teams (onshore/offshore) and work forward-deployed with clients to move from concept to production in weeks, while originating new business opportunities and developing organizational talent. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Payer-AI-Decision-Science-Manager_R00339197)_
-
-`Python` `R` `SQL` `TensorFlow` `PyTorch` `scikit-learn` `AWS` `Azure`
 
 <sub>August 4, 2026 at 15:31 UTC</sub>
 

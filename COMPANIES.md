@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **162 companies** · **442 open roles** (61 new)
+### **162 companies** · **441 open roles** (61 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -33,7 +33,6 @@ Accenture is a professional services company that provides strategy, consulting,
 - [Gemini Enterprise for CX Sr. Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1) · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$80k-$266k` (Aug 13)
 - [Salesforce Data Cloud Technical Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Data-Cloud-Technical-Consultant_R00343042) · Chesterbrook, Pennsylvania / Orlando, Florida / Remote · `🟡 Hybrid` `Senior` `$62k-$218k` `Equity` (Aug 13)
 - [Enterprise & Client Solutions Manager, AI, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 7)
-- [Healthcare Payer AI Decision Science Manager/Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Payer-AI-Decision-Science-Manager_R00339197) · Multiple US locations (California, Cleveland, Colorado, District of Columbia, Illinois, Maine, Maryland, Massachusetts, Minnesota, New York, New Jersey, Virginia, Washington) · `Senior` `$80k-$293k` (Aug 4)
 
 ---
 
@@ -356,7 +355,7 @@ Cityblock Health provides healthcare services designed to be personalized around
 ClickHouse builds a real-time analytics and data warehousing platform used for analytics, observability, and AI workloads. The company serves over 3,000 customers including Meta, Sony, and Tesla.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Operations Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004) · `🟢 Remote` `Mid` `$170k-$250k` `Equity` (Aug 15)
-- [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142784004) · `🟢 Remote` `Senior` `$133k-$197k` `Equity` (Aug 13)
+- [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004) · `🟢 Remote` `Senior` `Equity` (Aug 13)
 - [Senior Consulting Engineer - AMER](https://job-boards.greenhouse.io/clickhouse/jobs/6140168004) · `🟢 Remote` `Senior` `$158k-$198k (base US); $176k-$220k (premium markets)` `Equity` (Aug 11)
 
 ---
