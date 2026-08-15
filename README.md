@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **450 open roles** (16 new) &nbsp;·&nbsp; 1764 companies searched
+### **446 open roles** (12 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -59,7 +59,7 @@ _Design and deploy production ML systems for risk assessment and underwriting in
 ---
 
 ### [Engineer II - Full Stack / Backend Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Engineer-II---Full-Stack---Backend-Engineer--Remote-_R29761)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build automation tools and infrastructure management systems for CrowdStrike's cloud platform, which processes 3 trillion events per day. Work on production infrastructure, APIs, and dashboards in a large-scale distributed systems environment. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Engineer-II---Full-Stack---Backend-Engineer--Remote-_R29761)_
 
@@ -70,7 +70,7 @@ _Build automation tools and infrastructure management systems for CrowdStrike's 
 ---
 
 ### [Sr Engineer, SRE TechOps CICD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Own the availability and reliability of critical CI/CD and infrastructure services processing 3 trillion events daily, managing load balancers, databases (PostgreSQL, MySQL, Cassandra, MongoDB), message queues (Kafka, Pulsar, RabbitMQ), and caching layers at scale. Requires CJIS clearance and 10+ years large-scale production SRE experience with proven AI-assisted workflow integration. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733)_
 
@@ -81,7 +81,7 @@ _Own the availability and reliability of critical CI/CD and infrastructure servi
 ---
 
 ### [Staff AI Security Scientist](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Staff` `$235k-$350k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Staff` `$235k-$350k` `Equity`
 
 _Lead the research agenda for agentic AI systems in cybersecurity, focusing on efficient model post-training, agent design, and rigorous evaluation methodologies. You'll advance the state of the art on open research problems spanning model optimization, reward modeling, and verification frameworks while partnering with security teams to ground research in real operator workflows. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827)_
 
@@ -147,50 +147,6 @@ _Lead the design and scaling of Vanta's integration platform ecosystem, which po
 `TypeScript` `Node.js` `React` `Backend Systems Design` `Platform Architecture` `API Design` `Distributed Systems`
 
 <sub>August 14, 2026 at 23:29 UTC</sub>
-
----
-
-### [Senior Database Engineer](https://job-boards.greenhouse.io/redapt/jobs/5392094008)
-<a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · Las Vegas, Nevada / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$130k-$150k`
-
-_Design, optimize, and operate scalable relational database solutions for enterprise cloud applications, with deep expertise in PostgreSQL, Amazon RDS/Aurora, and migrations from legacy platforms like Oracle and SQL Server. Requires hands-on experience tuning production workloads, implementing HA/DR architectures, and managing zero-downtime database modernization at scale. · [Apply →](https://job-boards.greenhouse.io/redapt/jobs/5392094008)_
-
-`PostgreSQL` `SQL` `AWS` `Amazon RDS` `Amazon Aurora` `Python` `Bash` `Terraform`
-
-<sub>August 14, 2026 at 22:32 UTC</sub>
-
----
-
-### [Staff Software Engineer](https://job-boards.greenhouse.io/federato/jobs/5392064008)
-<a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Federato** · `🟢 Remote` `Staff` `$210k-$260k` `Equity`
-
-_Lead a small engineering team building an AI-native insurance platform using React, TypeScript, Python (Django), and PostgreSQL across the full stack. Champion technical excellence and mentor engineers while shipping complex features that transform how insurance workflows operate. · [Apply →](https://job-boards.greenhouse.io/federato/jobs/5392064008)_
-
-`React` `TypeScript` `Python` `Django` `Node.js` `PostgreSQL` `Kubernetes` `Kafka`
-
-<sub>August 14, 2026 at 22:32 UTC</sub>
-
----
-
-### [Site Reliability Engineer, US Gov](https://jobs.ashbyhq.com/quindar/488886c2-a8d1-4d5f-872f-14188925fe78)
-<a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Quindar** · Denver, Colorado · `Mid`
-
-_Architect and maintain highly available cloud infrastructure on AWS GovCloud and AWS C2E, managing Kubernetes deployments, security compliance (SOC2, NIST 800-171, FedRAMP Moderate), and mission-critical systems for government space operations. Requires active US Security Clearance (Secret minimum, TS/SCI preferred) and US citizenship due to ITAR and defense contracting requirements. · [Apply →](https://jobs.ashbyhq.com/quindar/488886c2-a8d1-4d5f-872f-14188925fe78)_
-
-`Kubernetes` `AWS` `Terraform` `Python` `Datadog` `Grafana` `GitLab CI/CD` `AWS EKS`
-
-<sub>August 14, 2026 at 22:32 UTC</sub>
-
----
-
-### [Staff Software Engineer , Observability](https://job-boards.greenhouse.io/reddit/jobs/8131228)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$217k–$303k` `Equity`
-
-_Build Reddit's observability platform (Prometheus, Thanos, Vector, Clickhouse, OTEL) handling billions of data points per minute across monitoring, logging, and distributed tracing systems. Work on distributed systems at internet scale with Kubernetes operators and performance engineering on systems processing tens of millions of events daily. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8131228)_
-
-`Prometheus` `Thanos` `Kubernetes` `Distributed Systems` `Vector` `Clickhouse` `OTEL` `Go`
-
-<sub>August 14, 2026 at 22:32 UTC</sub>
 
 ---
 
