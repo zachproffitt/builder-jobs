@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **441 open roles** (61 new) &nbsp;·&nbsp; 1764 companies searched
+### **440 open roles** (58 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -403,12 +403,12 @@ _Own the subscriptions and payments platform—building foundational systems and
 
 ---
 
-### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
+### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k–$260k` `Equity`
 
-_Build end-to-end AI-powered products and full-stack systems for physical operations, from backend services and APIs to customer-facing UI, processing 25+ trillion IoT data points annually. Zero-to-one product development at billion-dollar scale with real-world stakes across fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)_
+_Build full-stack, AI-powered products for physical operations at scale, processing 25+ trillion IoT data points annually. Own zero-to-one product areas end-to-end across backend, frontend, and mobile, turning machine learning capabilities into mission-critical systems for fleet management, equipment monitoring, and field operations. · [Apply →](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML systems` `Data ingestion` `APIs` `LLMs`
+`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Product Leadership`
 
 <sub>August 14, 2026 at 19:52 UTC</sub>
 
@@ -524,12 +524,12 @@ _Lead end-to-end development of user-centered measurement and metrics for Pinter
 
 ---
 
-### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
+### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
 
-_Own Chainguard's vulnerability management pipeline, coordinating the disclosure, reporting, and CVE assignment for thousands of novel vulnerabilities discovered weekly across open source software. Lead industry coordination with Linux Foundation, CISA, and AI model vendors to shape supply chain security standards and practices. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)_
+_Own Chainguard's novel vulnerabilities pipeline, managing disclosure and reporting of thousands of vulnerabilities weekly discovered by frontier AI models and other sources. Coordinate with upstream maintainers, run the CNA program for CVE assignment, and guide industry standards bodies (Linux Foundation, CISA) on AI supply chain security—requires 7+ years in software security, open source, or vulnerability disclosure management. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)_
 
-`Python` `Java` `JavaScript` `Go` `Kubernetes` `Security Research` `CVE Management` `Responsible Disclosure`
+`Vulnerability disclosure management` `Open source maintenance` `Python` `Java` `JavaScript` `Go` `Security research`
 
 <sub>August 14, 2026 at 15:59 UTC</sub>
 
@@ -653,39 +653,6 @@ _Lead the Financial Risk Engineering team building fraud detection and preventio
 `Apache Kafka` `Apache Spark` `Apache Flink` `React` `Data Engineering` `Streaming Technologies`
 
 <sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Customer Reliability Engineer - Airflow](https://jobs.ashbyhq.com/astronomer/93fcb206-a045-4f03-9979-84b987ca84fa)
-<a href="https://astronomer.io"><img src="https://www.google.com/s2/favicons?domain=astronomer.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astronomer** · `🟢 Remote` `Mid` `$125k-$130k` `Equity`
-
-_Support enterprise customers running Apache Airflow on Astronomer's managed platform, solving complex data pipeline reliability issues and optimizing Airflow configurations across Kubernetes environments. Spend up to 20% of time contributing to the open-source Airflow project and Astronomer's internal systems. · [Apply →](https://jobs.ashbyhq.com/astronomer/93fcb206-a045-4f03-9979-84b987ca84fa)_
-
-`Python` `Apache Airflow` `Kubernetes` `Docker` `AWS` `GCP` `Azure` `PostgreSQL`
-
-<sub>August 14, 2026 at 13:24 UTC</sub>
-
----
-
-### [Director, Engineering](https://job-boards.greenhouse.io/dragos/jobs/5383386008)
-<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Manager` `$260k` `Equity`
-
-_Lead a 35–50-person multi-team engineering organization building Dragos Platform, an OT cybersecurity product protecting critical infrastructure; drive technical strategy, AI-assisted development practices, and cross-functional product delivery while coaching four+ engineering managers. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5383386008)_
-
-`Cybersecurity` `OT/ICS` `AI Development Tooling` `Frontend Architecture` `Backend Architecture` `Threat Detection` `Technical Leadership`
-
-<sub>August 14, 2026 at 13:24 UTC</sub>
-
----
-
-### [Site Reliability Engineer II](https://instacart.careers/job/?gh_jid=8121910)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Mid` `$133k-$169k` `Equity`
-
-_Build and maintain large-scale distributed systems ensuring high reliability and performance across Instacart's critical internal and external services. Develop automation tools, respond to incidents, and optimize infrastructure for fault tolerance at millions-of-user scale. · [Apply →](https://instacart.careers/job/?gh_jid=8121910)_
-
-`Ruby` `Go` `AWS` `GCP` `Azure` `Python` `Kubernetes` `Incident Management`
-
-<sub>August 14, 2026 at 13:24 UTC</sub>
 
 ---
 
