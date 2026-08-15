@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **448 open roles** (57 new) &nbsp;·&nbsp; 1764 companies searched
+### **450 open roles** (49 new) &nbsp;·&nbsp; 1764 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -392,12 +392,12 @@ _Own the subscriptions and payments platform—building foundational systems and
 
 ---
 
-### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k–$260k` `Equity`
+### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
 
-_Build full-stack, AI-powered products for physical operations at scale, processing 25+ trillion IoT data points annually. Own zero-to-one product areas end-to-end across backend, frontend, and mobile, turning machine learning capabilities into mission-critical systems for fleet management, equipment monitoring, and field operations. · [Apply →](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)_
+_Build end-to-end AI-powered products and full-stack systems for physical operations, from backend services and APIs to customer-facing UI, processing 25+ trillion IoT data points annually. Zero-to-one product development at billion-dollar scale with real-world stakes across fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Product Leadership`
+`Go` `Python` `TypeScript` `React` `AI/ML systems` `Data ingestion` `APIs` `LLMs`
 
 <sub>August 14, 2026 at 19:52 UTC</sub>
 
@@ -513,12 +513,12 @@ _Lead end-to-end development of user-centered measurement and metrics for Pinter
 
 ---
 
-### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `Equity`
+### [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$170k-$231k` `Equity`
 
-_Own Chainguard's novel vulnerabilities pipeline, managing disclosure and reporting of thousands of vulnerabilities weekly discovered by frontier AI models and other sources. Coordinate with upstream maintainers, run the CNA program for CVE assignment, and guide industry standards bodies (Linux Foundation, CISA) on AI supply chain security—requires 7+ years in software security, open source, or vulnerability disclosure management. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696741006)_
+_Own Chainguard's vulnerability management pipeline, coordinating the disclosure, reporting, and CVE assignment for thousands of novel vulnerabilities discovered weekly across open source software. Lead industry coordination with Linux Foundation, CISA, and AI model vendors to shape supply chain security standards and practices. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4696736006)_
 
-`Vulnerability disclosure management` `Open source maintenance` `Python` `Java` `JavaScript` `Go` `Security research`
+`Python` `Java` `JavaScript` `Go` `Kubernetes` `Security Research` `CVE Management` `Responsible Disclosure`
 
 <sub>August 14, 2026 at 15:59 UTC</sub>
 
@@ -554,94 +554,6 @@ _Design and ship production-grade full-stack software that integrates with agent
 `Python` `TypeScript` `Java` `LLM APIs` `LangChain` `LangGraph` `Docker` `AWS`
 
 <sub>August 14, 2026 at 15:59 UTC</sub>
-
----
-
-### [Staff Software Engineer, AI & Platform](https://jobs.ashbyhq.com/arketa/8c7c07cd-eb4d-4691-93f2-7b7282d9b5e2)
-<a href="https://arketa.com"><img src="https://www.google.com/s2/favicons?domain=arketa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Arketa** · `🟢 Remote` `Staff` `$180k-$220k` `Equity`
-
-_Build customer-facing AI products that automate studio operations, and establish agentic workflows, observability systems, and developer tooling that enable a small team to ship at startup velocity. Requires fluency in TypeScript/Node.js and AI-native engineering practices; remote US-based. · [Apply →](https://jobs.ashbyhq.com/arketa/8c7c07cd-eb4d-4691-93f2-7b7282d9b5e2)_
-
-`TypeScript` `JavaScript` `Node.js` `NestJS` `React` `PostgreSQL` `AI/ML systems` `Observability`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Senior SDET II, Quality Engineering (Remote Canada)](https://jobs.ashbyhq.com/optro/83375d56-107e-4abe-b1c5-586912a7ff3d)
-<a href="https://soxhub.com"><img src="https://www.google.com/s2/favicons?domain=soxhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SOXHUB, Inc** · `🟢 Remote` `Senior`
-
-_Design and build AI-driven test automation frameworks and infrastructure for a GRC platform used by Fortune 500 companies, leading the transition from legacy frameworks to self-healing, agentic testing ecosystems. Requires 9+ years in software development in test with deep expertise in Playwright/Cypress and infrastructure-as-code. · [Apply →](https://jobs.ashbyhq.com/optro/83375d56-107e-4abe-b1c5-586912a7ff3d)_
-
-`Playwright` `Cypress` `TypeScript` `JavaScript` `Terraform` `GitHub Actions` `ArgoCD` `AWS`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Senior Director, Analytical Development and Quality Control](https://generatebiomedicines.com/open-positions?gh_jid=4695456006)
-<a href="https://generatebiomedicines.com"><img src="https://www.google.com/s2/favicons?domain=generatebiomedicines.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Generate Biomedicines** · `🟢 Remote` `Manager` `$210k-$300k` `Equity`
-
-_Lead analytical development and quality control strategy for protein therapeutics from candidate selection through commercialization, managing a senior team and serving as technical lead across process development, manufacturing, regulatory, and external CDMO partners in a fully virtual, outsourced model. Requires PhD in analytical chemistry, biochemistry, or pharmaceutical sciences with 15+ years of biologics analytical expertise, including method development, GMP compliance, regulatory submissions, and hands-on leadership of critical manufacturing investigations and quality events. · [Apply →](https://generatebiomedicines.com/open-positions?gh_jid=4695456006)_
-
-`Analytical Chemistry` `Method Development & Validation` `Protein Characterization` `GMP Compliance` `Regulatory Affairs` `Quality Systems` `CDMO Management` `cGMP`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Senior Full Stack Software Engineer - Application Engineering](https://job-boards.greenhouse.io/ionq/jobs/6139928004)
-<a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**IonQ** · College Park, Maryland / Boulder, Colorado / Bothell, Washington / Toronto, Canada · `🟡 Hybrid` `Senior` `$145k–$209k` `Equity`
-
-_Build production-grade full-stack applications that translate quantum computing solutions into domain-specific tools, APIs, and SaaS products for real-world use cases like drug discovery and materials science. Work across visualization frameworks (Three.js, D3, WebGL) and backend services (Python, Go, JavaScript) in a hybrid role that bridges quantum computing with accessible user interfaces. · [Apply →](https://job-boards.greenhouse.io/ionq/jobs/6139928004)_
-
-`Python` `Go` `JavaScript` `REST` `GraphQL` `gRPC` `Three.js` `D3`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Principal Engineer - Software Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Principal` `$150k-$220k` `Equity`
-
-_Lead the design and delivery of complex, cross-domain software systems spanning cloud platforms, distributed systems, AI-enabled products, and mission-critical environments. Balance systems engineering rigor with AI-accelerated development velocity while architecting for scalability, resilience, and organizational alignment across multiple engineering teams. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1)_
-
-`Distributed Systems` `Cloud-Native Architecture` `Kubernetes` `Systems Architecture` `Event-Driven Systems` `API Design` `Software Integration` `Geospatial or Aerospace Systems`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Senior AI Engineer](https://job-boards.greenhouse.io/osano/jobs/5390304008)
-<a href="https://wirewheel.io"><img src="https://www.google.com/s2/favicons?domain=wirewheel.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wirewheel** · `🟢 Remote` `Senior` `Equity`
-
-_Design and deploy autonomous AI agents, RAG systems, and evaluation frameworks for a privacy-first platform; architect backend services in FastAPI and LangGraph orchestrating LLM workloads at scale on AWS/Azure. · [Apply →](https://job-boards.greenhouse.io/osano/jobs/5390304008)_
-
-`Python` `FastAPI` `LangGraph` `AWS` `Azure` `LLM` `RAG` `PyTorch`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Sr. Principal Engineer, Platform](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Sr-Principal-Engineer--Platform_R013966)
-<a href="https://sailpoint.com"><img src="https://www.google.com/s2/favicons?domain=sailpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sailpoint** · `🟢 Remote` `Principal` `$185k-$312k` `Equity`
-
-_Design and architect the next-generation multi-tenant SaaS foundation for identity security, decomposing monolithic systems into cloud-native microservices on AWS while leading database scaling projects and optimizing performance at billion-scale. 15+ years hands-on Internet product experience with 5+ years Java required; experience with complex multi-tenant SaaS platforms essential. · [Apply →](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Sr-Principal-Engineer--Platform_R013966)_
-
-`Java` `AWS` `JavaScript` `Ruby` `Microservices Architecture` `NoSQL` `PostgreSQL` `Distributed Systems`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
-
----
-
-### [Manager, Software Development - Financial Risk](https://jobs.ashbyhq.com/wealthsimple/0fd2bdd4-87c1-4642-8111-52c878c8eeb9)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager`
-
-_Lead the Financial Risk Engineering team building fraud detection and prevention systems that balance security with user experience. Hands-on technical management role requiring direct contribution to architecture and code alongside team leadership and cross-functional coordination with product, compliance, data science, and fraud countermeasures. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/0fd2bdd4-87c1-4642-8111-52c878c8eeb9)_
-
-`Apache Kafka` `Apache Spark` `Apache Flink` `React` `Data Engineering` `Streaming Technologies`
-
-<sub>August 14, 2026 at 15:01 UTC</sub>
 
 ---
 
