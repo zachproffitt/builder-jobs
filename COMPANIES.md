@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **162 companies** · **443 open roles** (0 new)
+### **162 companies** · **444 open roles** (0 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -29,6 +29,7 @@ Accenture is a professional services company that provides strategy, consulting,
 - [AI Native Software Engineering Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Consultant_R00341058) · `🟢 Remote` `Senior` (Aug 14)
 - [AI Native Software Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/AI-Native-Software-Engineering-Manager_R00340980) · `🟢 Remote` `Manager` (Aug 14)
 - [Gemini Enterprise for CX Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Specialist_R00351069) · Multiple (California / Cleveland, Ohio / Colorado / District of Columbia, D.C. / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York, New York / New Jersey, New Jersey / Virginia / Washington, Washington) · `Senior` `$54k-$196k` (Aug 13)
+- [Gemini Enterprise for CX Sr. Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Google-GECX-Contact-Center-as-a-Service-Senior-Engineer_R00351070-1) · California / Cleveland, Ohio / Colorado / District of Columbia / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York / New Jersey / Virginia / Washington · `Senior` `$80k-$266k` (Aug 13)
 - [Salesforce Data Cloud Technical Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chesterbrook-955-Chesterbrook-Blvd-MS/Salesforce-Data-Cloud-Technical-Consultant_R00343042) · Chesterbrook, Pennsylvania / Orlando, Florida / Remote · `🟡 Hybrid` `Senior` `$62k-$218k` `Equity` (Aug 13)
 - [Enterprise & Client Solutions Manager, AI, Song Life - part of Accenture Song](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/AI-Enablement---Offering-Innovation-Manager--Song-Life---part-of-Accenture-Song_R00346417) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 7)
 - [Healthcare Payer AI Decision Science Manager/Senior Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Payer-AI-Decision-Science-Manager_R00339197) · Multiple US locations (California, Cleveland, Colorado, District of Columbia, Illinois, Maine, Maryland, Massachusetts, Minnesota, New York, New Jersey, Virginia, Washington) · `Senior` `$80k-$293k` (Aug 4)
