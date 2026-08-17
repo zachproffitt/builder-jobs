@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **425 open roles** (16 new) &nbsp;·&nbsp; 1770 companies searched
+### **431 open roles** (20 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 17, 2026
+
+### [Salesforce Developer](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
+
+_Build custom Apex services, Agentforce AI actions, and OAuth 2.0 integrations within Salesforce Service Cloud and Experience Cloud platforms. Deliver production-quality code through automated testing, source-driven SFDX development, and DevOps Center pipelines supporting customer support and professional services operations. · [Apply →](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a)_
+
+`Salesforce` `Apex` `SOQL` `Lightning Web Components` `OAuth 2.0` `SFDX` `Git` `JavaScript`
+
+<sub>August 17, 2026 at 16:38 UTC</sub>
+
+---
+
+### [Data Enigneer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Enigneer--Mid_R0247099)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
+
+_Build advanced analytics and machine learning models on classified networks for defense and intelligence clients, turning complex datasets into actionable intelligence. Requires active TS/SCI clearance and ability to work with sensitive government data. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Enigneer--Mid_R0247099)_
+
+`Python` `SQL` `Spark` `Kafka` `Machine Learning` `NLP` `TS/SCI Clearance`
+
+<sub>August 17, 2026 at 16:38 UTC</sub>
+
+---
+
+### [Staff Frontend Engineer, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7886222003)
+<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Staff` `$182k - $295k` `Equity`
+
+_Own the consistency and quality of core flag management surfaces (flag list, targeting, segments, contexts) across teams, establishing shared interaction patterns and design system adoption as the primary lever for product improvement. Drive cross-team standards without authority, working from customer workflows backward; prototype and land patterns for hybrid human-agent workflows at enterprise scale with strict performance requirements for high-traffic surfaces. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7886222003)_
+
+`TypeScript` `React` `Design Systems` `Enterprise Product UI` `Distributed Systems` `Go` `Performance Optimization` `Agent Frameworks`
+
+<sub>August 17, 2026 at 16:38 UTC</sub>
+
+---
 
 ### [Staff Data Engineer - Integrations](https://job-boards.greenhouse.io/dragos/jobs/5392673008)
 <a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Staff` `$192k` `Equity`
@@ -152,6 +185,17 @@ _Write manual and automated test cases for a Ruby on Rails SaaS platform serving
 _Build and maintain security detection and response systems using SIEM, EDR/XDR, and SOAR platforms to protect enterprise infrastructure. Design SIEM integrations, threat detection rules, and automation workflows for a high-security environment serving Fortune 500 companies and government agencies. · [Apply →](https://www.unqork.com/career-details/?gh_jid=8714149002)_
 
 `Python` `SIEM` `EDR/XDR` `SOAR` `Threat Detection` `Incident Response` `MITRE ATT&CK`
+
+<sub>August 17, 2026 at 13:00 UTC</sub>
+
+---
+
+### [Forward Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Forward-Deployed-Engineer_R00339251)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
+
+_Own enterprise-wide AI platform deployment and adoption outcomes embedded at client sites, from architecture design through production scaling. Requires demonstrable end-to-end delivery ownership in production environments and ability to translate AI initiatives into measurable CFO-level business value. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Forward-Deployed-Engineer_R00339251)_
+
+`Cloud-Native Systems` `APIs` `Microservices` `Kubernetes` `Serverless` `LLM Orchestration` `RAG` `Multi-Model Integration`
 
 <sub>August 17, 2026 at 13:00 UTC</sub>
 
