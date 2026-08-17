@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **449 open roles** (6 new) &nbsp;·&nbsp; 1770 companies searched
+### **441 open roles** (7 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 17, 2026
+
+### [Staff Firmware Engineer](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k-$290k` `Equity`
+
+_Build firmware for battery-powered IoT sensors and Linux-based gateways deployed across millions of field devices in commercial fleets and industrial operations. Own hardware bring-up, peripheral drivers, power management, and secure bootloader implementations that determine device reliability and field lifetime. · [Apply →](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536)_
+
+`C` `Golang` `FreeRTOS` `Zephyr` `SPI` `I2C` `UART` `CAN`
+
+<sub>August 17, 2026 at 03:08 UTC</sub>
+
+---
 
 ### [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity`
