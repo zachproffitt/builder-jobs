@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **452 open roles** (28 new) &nbsp;·&nbsp; 1770 companies searched
+### **479 open roles** (35 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 17, 2026
+
+### [Senior Software Development Engineer - Platform Enablement](https://jobs.ashbyhq.com/delinea/f5d5569b-0e78-4f13-9353-1e0e45c5627f)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
+
+_Build and operate scalable backend services for the App Registration platform, enabling secure cloud provider integrations across microservices in C#/.NET on Azure and Kubernetes. Deep involvement in identity and access management with responsibility for infrastructure-as-code, CI/CD pipelines, and production systems handling identity security at enterprise scale. · [Apply →](https://jobs.ashbyhq.com/delinea/f5d5569b-0e78-4f13-9353-1e0e45c5627f)_
+
+`C#` `.NET` `Azure` `Kubernetes` `Terraform` `Datadog` `TypeScript` `SQL Server`
+
+<sub>August 17, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Staff Systems Engineer, IT ](https://job-boards.greenhouse.io/gitlab/jobs/8705017002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `$126k—$213k` `Equity`
+
+_Build end-to-end automation for employee lifecycle management (onboarding, provisioning, offboarding) and own GitLab's ITSM platform with AI-enabled virtual agents and agentic workflows. Apply SRE principles and infrastructure-as-code practices to scale IT operations across a distributed, all-remote organization. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8705017002)_
+
+`Terraform` `Python` `Okta` `AWS` `GCP` `Azure` `Kubernetes` `REST APIs`
+
+<sub>August 17, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Systems Operations Support Analyst](https://job-boards.greenhouse.io/hungryroot/jobs/6145795004)
+<a href="https://hungryroot.com"><img src="https://www.google.com/s2/favicons?domain=hungryroot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hungryroot** · `🟢 Remote` `Junior` `$85k-$100k` `Equity`
+
+_Support and maintain Hungryroot's fulfillment operations platform during off-hours, investigating production incidents across logs, databases, and APIs to keep grocery delivery systems running. Monitor alerts, troubleshoot WMS/OMS integrations, and develop Python automation tools to improve operational reliability. · [Apply →](https://job-boards.greenhouse.io/hungryroot/jobs/6145795004)_
+
+`Python` `SQL` `JSON` `Docker` `Jira`
+
+<sub>August 17, 2026 at 22:33 UTC</sub>
+
+---
 
 ### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Mid` `$170k-$180k` `Equity`
@@ -69,12 +102,12 @@ _Design and build scalable distributed backend platforms for healthcare patient 
 
 ---
 
-### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$201k—$335k CAD` `Equity`
+### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$150k—$250k` `Equity`
 
-_Embed with strategic customers to drive onboarding, adoption, and long-term success with Tailscale's secure network interconnection platform. Bridge customer needs with product and engineering teams, requiring deep expertise in networking, VPNs, cloud infrastructure, and DevOps tools. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)_
+_Embed with strategic enterprise customers to drive Tailscale adoption, providing hands-on technical onboarding, troubleshooting, and advisory services. Serve as the bridge between customer needs and product engineering, with deep ownership of customer success across networking, VPN, cloud infrastructure, and DevOps. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)_
 
-`Networking` `VPNs` `AWS` `GCP` `Azure` `Docker` `Kubernetes` `DevOps`
+`Networking` `VPNs` `Security` `AWS` `GCP` `Azure` `Docker` `Kubernetes`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -319,6 +352,54 @@ _Build firmware for battery-powered IoT sensors and Linux-based gateways deploye
 `C` `Golang` `FreeRTOS` `Zephyr` `SPI` `I2C` `UART` `CAN`
 
 <sub>August 17, 2026 at 03:08 UTC</sub>
+
+---
+
+### [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity`
+
+_Lead the design, development, and validation of advanced algorithmic capabilities (tracking, sensor management, battlespace optimization) for AI-powered command and control software serving military operations. Requires 12+ years of systems engineering in defense/aerospace and active Secret clearance eligibility. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007)_
+
+`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `C/C++` `Rust`
+
+<sub>August 17, 2026 at 01:49 UTC</sub>
+
+---
+
+### [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Waltham, Massachusetts · `Senior` `$143k-$191k` `Equity`
+
+_Design and validate advanced algorithmic capabilities for command and control systems including tracking, sensor management, and battlespace optimization. Lead requirements decomposition and modeling/simulation frameworks for mission-critical military software; requires active U.S. Secret clearance and travel to customer sites. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007)_
+
+`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `C/C++` `Rust`
+
+<sub>August 17, 2026 at 01:49 UTC</sub>
+
+---
+
+### [Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity`
+
+_Design, develop, and validate advanced algorithmic capabilities for command and control software including tracking, sensor management, and battlespace optimization. Requires modeling & simulation expertise, requirements decomposition across cross-functional teams, and field validation of mission-critical defense systems; requires TS/SCI clearance eligibility. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007)_
+
+`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `Statistics` `TS/SCI Clearance`
+
+<sub>August 17, 2026 at 01:49 UTC</sub>
+
+---
+
+<br>
+
+## August 16, 2026
+
+### [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
+
+_Build state-of-the-art target tracking and sensor fusion algorithms for AI-powered military robotics systems, from prototyping through production deployment. Requires active US Top Secret security clearance and expertise in Kalman filters, multi-sensor fusion, and real-time estimation systems for mission-critical applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)_
+
+`C++` `Python` `MATLAB` `Kalman Filters` `Sensor Fusion` `Bayesian Filtering` `Signal Processing` `TS/SCI Clearance`
+
+<sub>August 16, 2026 at 23:28 UTC</sub>
 
 ---
 
