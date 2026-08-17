@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **163 companies** · **479 open roles** (35 new)
+### **164 companies** · **483 open roles** (38 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -110,7 +110,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 17)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007) · Broomfield, Colorado / Waltham, Massachusetts · `Senior` `$143k-$191k` `Equity` (Aug 17)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Aug 17)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 16)
+- [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 16)
 - [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 16)
 - [Senior Software Engineer, Nix](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007) · `🟢 Remote` `Senior` `$191k-$253k` `Equity` (Aug 13)
 - [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5209227007?gh_jid=5209227007) · Boulder, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 12)
@@ -1089,6 +1089,7 @@ QueueDr, now called Phreesia Appointment Accelerator, provides software that aut
 
 Quindar builds command and control software and ground systems integration capabilities for commercial and government space operations. The company serves government and defense customers applying its platform to complex mission-critical use cases.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Backend Engineer](https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e) · Denver, Colorado · `Mid` (Aug 17)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Software Engineer, Command & Control](https://jobs.ashbyhq.com/quindar/d52070a1-887c-4a06-b6de-c1e84f683f96) · Arvada, Colorado / Washington, D.C. / Seattle, Washington · `🟡 Hybrid` `Senior` (Aug 17)
 - [Site Reliability Engineer, US Gov](https://jobs.ashbyhq.com/quindar/488886c2-a8d1-4d5f-872f-14188925fe78) · Denver, Colorado · `Mid` (Aug 14)
 
@@ -1231,6 +1232,15 @@ Snowflake builds a cloud data platform that enables organizations to store, proc
 - [Senior Security Engineer, AI Incident Response](https://jobs.ashbyhq.com/snowflake/6cb3d18f-da62-4465-9eda-1c2cec33b3a0) · `🟢 Remote` `Senior` (Aug 12)
 - [Sr. Technical Architect](https://jobs.ashbyhq.com/snowflake/8a9aa154-50fc-4fde-b581-f24f291315fe) · `🟢 Remote` `Senior` (Aug 7)
 - [Staff Security Engineer - Enterprise Security](https://jobs.ashbyhq.com/snowflake/8eb32064-6884-441f-a573-ea482d4c0e81) · `🟢 Remote` `Staff` (Aug 7)
+
+---
+
+## <a href="https://sonatype.com"><img src="https://www.google.com/s2/favicons?domain=sonatype.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Sonatype](https://sonatype.com)
+
+Sonatype provides intelligence and automated governance for open source and AI development, and created Nexus Repository.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Data Engineer](https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0) · `🟢 Remote` `Staff` (Aug 17)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer](https://jobs.lever.co/sonatype/8cf4355d-6dff-4e3b-bdc8-6eae924622d6) · `🟢 Remote` `Staff` (Aug 17)
 
 ---
 
@@ -1542,6 +1552,7 @@ Waymo makes autonomous vehicles for people and goods transportation.
 
 Wealthsimple offers spending, trading, and investment services.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Manager, Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22) · `🟢 Remote` `Manager` `Equity` (Aug 17)
 - [Sr Analytics Developer, Finance, Brokerage & Market Risk](https://jobs.ashbyhq.com/wealthsimple/6f8ab2cd-3426-4e9e-bc53-2b5534a29601) · `🟢 Remote` `Senior` (Aug 14)
 - [Manager, Software Development - Financial Risk](https://jobs.ashbyhq.com/wealthsimple/0fd2bdd4-87c1-4642-8111-52c878c8eeb9) · `🟢 Remote` `Manager` (Aug 14)
 - [Senior Software Developer, Book of Record (Core Balances)](https://jobs.ashbyhq.com/wealthsimple/4e35b213-2df8-4891-9e42-dd26d30af1dc) · `🟢 Remote` `Senior` (Aug 7)

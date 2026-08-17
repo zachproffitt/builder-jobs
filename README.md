@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **479 open roles** (35 new) &nbsp;·&nbsp; 1770 companies searched
+### **483 open roles** (38 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,46 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 17, 2026
+
+### [Backend Engineer](https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e)
+<a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Quindar** · Denver, Colorado · `Mid`
+
+_Build cloud-native satellite mission operations software using Python and AWS, replacing legacy ground systems with modern, automation-driven APIs. Requires U.S. Person status and ability to obtain security clearance due to ITAR export control regulations. · [Apply →](https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e)_
+
+`Python` `AWS` `GraphQL` `Docker` `Terraform` `Kubernetes` `Git` `PostgreSQL`
+
+<sub>August 17, 2026 at 23:30 UTC</sub>
+
+---
+
+### [Staff Data Engineer](https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0)
+<a href="https://sonatype.com"><img src="https://www.google.com/s2/favicons?domain=sonatype.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sonatype** · `🟢 Remote` `Staff`
+
+_Build data pipelines and infrastructure to power Sonatype's software supply chain security platform, serving 2,000+ organizations including 70% of the Fortune 100. · [Apply →](https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0)_
+
+<sub>August 17, 2026 at 23:30 UTC</sub>
+
+---
+
+### [Staff Software Engineer](https://jobs.lever.co/sonatype/8cf4355d-6dff-4e3b-bdc8-6eae924622d6)
+<a href="https://sonatype.com"><img src="https://www.google.com/s2/favicons?domain=sonatype.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sonatype** · `🟢 Remote` `Staff`
+
+_Build and scale security infrastructure for Sonatype's software supply chain platform, protecting enterprise software development at the dependency and artifact level. · [Apply →](https://jobs.lever.co/sonatype/8cf4355d-6dff-4e3b-bdc8-6eae924622d6)_
+
+<sub>August 17, 2026 at 23:30 UTC</sub>
+
+---
+
+### [Manager, Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
+
+_Own development, testing, and maintenance of quantitative risk models (VaR, SVaR, stress testing) for a CIRO-regulated brokerage managing $155B+ in assets; translate complex model outputs into actionable guidance for margin, capital, and risk reporting teams. Requires deep knowledge of CIRO 5000 margin rules and production-quality code development across multiple languages. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22)_
+
+`Python` `R` `VaR` `Stress Testing` `CIRO 5000` `Financial Risk Modeling` `Derivatives`
+
+<sub>August 17, 2026 at 23:30 UTC</sub>
+
+---
 
 ### [Senior Software Development Engineer - Platform Enablement](https://jobs.ashbyhq.com/delinea/f5d5569b-0e78-4f13-9353-1e0e45c5627f)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
@@ -385,21 +425,6 @@ _Design, develop, and validate advanced algorithmic capabilities for command and
 `Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `Statistics` `TS/SCI Clearance`
 
 <sub>August 17, 2026 at 01:49 UTC</sub>
-
----
-
-<br>
-
-## August 16, 2026
-
-### [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Build state-of-the-art target tracking and sensor fusion algorithms for AI-powered military robotics systems, from prototyping through production deployment. Requires active US Top Secret security clearance and expertise in Kalman filters, multi-sensor fusion, and real-time estimation systems for mission-critical applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)_
-
-`C++` `Python` `MATLAB` `Kalman Filters` `Sensor Fusion` `Bayesian Filtering` `Signal Processing` `TS/SCI Clearance`
-
-<sub>August 16, 2026 at 23:28 UTC</sub>
 
 ---
 

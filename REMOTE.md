@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **294 open roles** (21 new)
+### **295 open roles** (22 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,17 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 17, 2026
+
+### [Manager, Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
+
+_Own development, testing, and maintenance of quantitative risk models (VaR, SVaR, stress testing) for a CIRO-regulated brokerage managing $155B+ in assets; translate complex model outputs into actionable guidance for margin, capital, and risk reporting teams. Requires deep knowledge of CIRO 5000 margin rules and production-quality code development across multiple languages. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22)_
+
+`Python` `R` `VaR` `Stress Testing` `CIRO 5000` `Financial Risk Modeling` `Derivatives`
+
+<sub>August 17, 2026 at 23:30 UTC</sub>
+
+---
 
 ### [Senior Software Development Engineer - Platform Enablement](https://jobs.ashbyhq.com/delinea/f5d5569b-0e78-4f13-9353-1e0e45c5627f)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
