@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **450 open roles** (8 new) &nbsp;·&nbsp; 1770 companies searched
+### **450 open roles** (11 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 17, 2026
+
+### [Junior QA Analyst](https://jobs.ashbyhq.com/hudu/ce83d7b4-4f16-4985-bad9-c9b226071b5d)
+<a href="https://hudu.com"><img src="https://www.google.com/s2/favicons?domain=hudu.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hudu** · `🟢 Remote` `Junior`
+
+_Write manual and automated test cases for a Ruby on Rails SaaS platform serving IT teams, performing UI/UX testing across desktop and mobile with exploratory, regression, and cross-browser validation. Build test automation and CI/CD integration to support rapid feature delivery for a technical product used by thousands of companies. · [Apply →](https://jobs.ashbyhq.com/hudu/ce83d7b4-4f16-4985-bad9-c9b226071b5d)_
+
+`Ruby on Rails` `Automated Testing` `UI/UX Testing` `Git` `GitHub Actions` `AWS` `Kubernetes`
+
+<sub>August 17, 2026 at 13:00 UTC</sub>
+
+---
+
+### [Security Operations Analyst](https://www.unqork.com/career-details/?gh_jid=8714149002)
+<a href="https://unqork.com"><img src="https://www.google.com/s2/favicons?domain=unqork.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Unqork** · `🟢 Remote` `Mid` `$70k-$100k` `Equity`
+
+_Build and maintain security detection and response systems using SIEM, EDR/XDR, and SOAR platforms to protect enterprise infrastructure. Design SIEM integrations, threat detection rules, and automation workflows for a high-security environment serving Fortune 500 companies and government agencies. · [Apply →](https://www.unqork.com/career-details/?gh_jid=8714149002)_
+
+`Python` `SIEM` `EDR/XDR` `SOAR` `Threat Detection` `Incident Response` `MITRE ATT&CK`
+
+<sub>August 17, 2026 at 13:00 UTC</sub>
+
+---
+
+### [Forward Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Forward-Deployed-Engineer_R00339251)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
+
+_Own enterprise-wide AI platform deployment and adoption outcomes embedded at client sites, from architecture design through production scaling. Requires demonstrable end-to-end delivery ownership in production environments and ability to translate AI initiatives into measurable CFO-level business value. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Forward-Deployed-Engineer_R00339251)_
+
+`Cloud-Native Systems` `APIs` `Microservices` `Kubernetes` `Serverless` `LLM Orchestration` `RAG` `Multi-Model Integration`
+
+<sub>August 17, 2026 at 13:00 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Voice AI Platform](https://careers.toasttab.com/jobs?gh_jid=8131117)
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote / Boston, Massachusetts / New York, New York · `🟢 Remote` `Staff` `$125k-$254k` `Equity`
