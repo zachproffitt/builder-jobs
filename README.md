@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **441 open roles** (7 new) &nbsp;·&nbsp; 1770 companies searched
+### **444 open roles** (8 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 17, 2026
+
+### [Staff Software Engineer, Voice AI Platform](https://careers.toasttab.com/jobs?gh_jid=8131117)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote / Boston, Massachusetts / New York, New York · `🟢 Remote` `Staff` `$125k-$254k` `Equity`
+
+_Design and build highly resilient backend services and core platform components for Toast's Voice AI platform, enabling voice capabilities across the restaurant ecosystem. Lead complex, cross-cutting projects end-to-end with ownership of architecture, production reliability, and AI-system observability including LLM evaluation and cost management. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8131117)_
+
+`Java` `Kotlin` `DropWizard` `AWS` `DynamoDB` `PostgreSQL` `React` `Distributed Systems`
+
+<sub>August 17, 2026 at 04:52 UTC</sub>
+
+---
 
 ### [Staff Firmware Engineer](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536)
 <a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k-$290k` `Equity`
