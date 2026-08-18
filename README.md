@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **425 open roles** (33 new) &nbsp;·&nbsp; 1770 companies searched
+### **426 open roles** (29 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137846)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
+
+_Lead the Identity and Risk Platform team building core authentication, account lifecycle, identity verification, and fraud detection systems that secure Instacart's marketplace across millions of customers, shoppers, and retailers. Manage backend and platform engineers while partnering with Security, Fraud, Data Science, and external vendors on adversarial safety challenges at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8137846)_
+
+`Go` `Java` `Python` `AWS` `GCP` `PostgreSQL` `DynamoDB` `Redis`
+
+<sub>August 18, 2026 at 13:50 UTC</sub>
+
+---
 
 ### [Implementation Operations Engineer – AI Solutions](https://job-boards.greenhouse.io/komodohealth/jobs/8725146002)
 <a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · `🟢 Remote` `Mid`
@@ -135,12 +146,12 @@ _Support and maintain Hungryroot's fulfillment operations platform during off-ho
 
 ---
 
-### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)
+### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Mid` `$170k-$180k` `Equity`
 
-_Build AI-powered workflows, automations, and integrations across Salesforce, Agentforce, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement scalable solutions using object-oriented programming, APIs, and low-code platforms to turn GTM team pain points into production systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)_
+_Build AI-powered workflows and automations across Salesforce, Agentforce, Workato, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement data models for opportunity scoring, lead routing, and buyer-intent analytics integrated with external enrichment platforms. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)_
 
-`Salesforce` `Apex` `Python` `JavaScript` `Agentforce` `Workato` `Zapier` `REST APIs`
+`Salesforce` `Apex` `JavaScript` `Python` `Agentforce` `Workato` `Zapier` `REST APIs`
 
 <sub>August 17, 2026 at 21:33 UTC</sub>
 
@@ -190,12 +201,12 @@ _Design and build scalable distributed backend platforms for healthcare patient 
 
 ---
 
-### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$150k—$250k` `Equity`
+### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$201k—$335k CAD` `Equity`
 
-_Embed with strategic enterprise customers to drive Tailscale adoption, providing hands-on technical onboarding, troubleshooting, and advisory services. Serve as the bridge between customer needs and product engineering, with deep ownership of customer success across networking, VPN, cloud infrastructure, and DevOps. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)_
+_Embed with strategic customers to drive onboarding, adoption, and long-term success with Tailscale's secure network interconnection platform. Bridge customer needs with product and engineering teams, requiring deep expertise in networking, VPNs, cloud infrastructure, and DevOps tools. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)_
 
-`Networking` `VPNs` `Security` `AWS` `GCP` `Azure` `Docker` `Kubernetes`
+`Networking` `VPNs` `AWS` `GCP` `Azure` `Docker` `Kubernetes` `DevOps`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -240,17 +251,6 @@ _Develop operational and automated test code for the Mission Control System (MCS
 _Build custom Apex services, Agentforce AI actions, and OAuth 2.0 integrations within Salesforce Service Cloud and Experience Cloud platforms. Deliver production-quality code through automated testing, source-driven SFDX development, and DevOps Center pipelines supporting customer support and professional services operations. · [Apply →](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a)_
 
 `Salesforce` `Apex` `SOQL` `Lightning Web Components` `OAuth 2.0` `SFDX` `Git` `JavaScript`
-
-<sub>August 17, 2026 at 16:38 UTC</sub>
-
----
-
-### [Data Enigneer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Enigneer--Mid_R0247099)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
-
-_Build advanced analytics and machine learning models on classified networks for defense and intelligence clients, turning complex datasets into actionable intelligence. Requires active TS/SCI clearance and ability to work with sensitive government data. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Enigneer--Mid_R0247099)_
-
-`Python` `SQL` `Spark` `Kafka` `Machine Learning` `NLP` `TS/SCI Clearance`
 
 <sub>August 17, 2026 at 16:38 UTC</sub>
 
@@ -330,50 +330,6 @@ _Conduct real-world evidence studies for pharmaceutical and biotech clients—in
 `R` `Python` `SQL` `SAS` `Health Services Research` `Epidemiology` `Biostatistics`
 
 <sub>August 17, 2026 at 14:36 UTC</sub>
-
----
-
-### [Analytic Methodologist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Senior_R0247090)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
-
-_Build advanced analytics and machine learning models to extract insights from complex datasets for defense and intelligence clients. Requires active TS/SCI clearance and experience correlating technical findings into actionable intelligence products for classified networks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Senior_R0247090)_
-
-`Python` `R` `SQL` `Machine Learning` `NLP` `Spark` `Kafka` `TS/SCI Clearance`
-
-<sub>August 17, 2026 at 13:47 UTC</sub>
-
----
-
-### [Analytic Methodologist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Mid_R0247089)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
-
-_Build advanced analytics and ML/AI models to extract actionable insights from complex datasets for defense and intelligence clients. Requires active TS/SCI clearance and ability to work on classified networks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Mid_R0247089)_
-
-`Python` `R` `SQL` `Machine Learning` `NLP` `Spark` `Kafka` `PyTorch`
-
-<sub>August 17, 2026 at 13:47 UTC</sub>
-
----
-
-### [Simulation Content Creator](https://jobs.ashbyhq.com/onebrief/d60661f0-964b-4db0-8adc-647e82a34065)
-<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Mid`
-
-_Build high-fidelity military platform entities and wargaming scenarios within AtomEngine, Onebrief's proprietary cloud-based simulation engine for operational planning. Requires US citizenship due to federal contract requirements and direct collaboration with military customers in operational environments. · [Apply →](https://jobs.ashbyhq.com/onebrief/d60661f0-964b-4db0-8adc-647e82a34065)_
-
-`Game Engine Development` `Level Design` `Version Control` `Bug Tracking` `Data Analysis`
-
-<sub>August 17, 2026 at 13:47 UTC</sub>
-
----
-
-### [Senior Fullstack Software Engineer, Integrations Platform](https://jobs.ashbyhq.com/vanta/77aff9b6-4b9b-4ed6-b1fc-3b647227b16b)
-<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
-
-_Build and own full-stack features and platform primitives for Vanta's integration ecosystem, including authentication, data-ingestion, and schema-evolution services that enable internal teams, partners, and customers to build integrations across 400+ cloud providers, identity providers, MDM, and HRIS systems. Platform and API design at scale with focus on security, reliability, and developer experience for a rapidly-scaling security compliance platform. · [Apply →](https://jobs.ashbyhq.com/vanta/77aff9b6-4b9b-4ed6-b1fc-3b647227b16b)_
-
-`TypeScript` `React` `Node.js` `REST APIs` `OAuth` `API key management` `JWT` `data ingestion`
-
-<sub>August 17, 2026 at 13:47 UTC</sub>
 
 ---
 
