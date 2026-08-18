@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **450 open roles** (26 new) &nbsp;·&nbsp; 1770 companies searched
+### **433 open roles** (28 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8133955)
+<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
+
+_Build production-grade agentic AI workflows using LangGraph, Temporal, and Pydantic for enterprise-scale content management and digital experience orchestration. Enterprise reliability, observability (LangFuse), and multi-agent stateful workflows at SaaS scale are core to this role. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8133955)_
+
+`LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
+
+<sub>August 18, 2026 at 16:41 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Community Support Engineering (Agent Core Products)](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$195k-$220k` `Equity`
+
+_Build core software systems that empower Airbnb's global support agents, including frontend web components, server-side APIs, and AI-driven features that directly improve agent experience and service quality. · [Apply →](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)_
+
+`JavaScript` `TypeScript` `React` `GraphQL` `Java` `Kotlin` `HTML/CSS` `Machine Learning`
+
+<sub>August 18, 2026 at 16:41 UTC</sub>
+
+---
+
+### [Machine Learning Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Machine-Learning-Engineer_R0246351)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77.6k-$176k`
+
+_Train, test, deploy, and maintain machine learning models for space industry intelligence community projects. Requires TS/SCI clearance and hands-on work with cloud ML operationalization and Kubernetes in a mission-critical environment. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Machine-Learning-Engineer_R0246351)_
+
+`Python` `Java` `C++` `AWS` `Azure` `Google Cloud` `Kubernetes` `TS/SCI Clearance`
+
+<sub>August 18, 2026 at 16:41 UTC</sub>
+
+---
+
+### [Adobe Assets/DAM Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Assets-DAM-Architect_R00348245)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+
+_Architect enterprise AEM Assets and Digital Asset Management solutions across cloud and on-premises deployments, designing metadata schemas, Dynamic Media configurations, asset migration pipelines, and Adobe Content Supply Chain integrations. Lead technical strategy for large-scale DAM implementations and mentor junior developers on AEM fundamentals and cloud infrastructure. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Assets-DAM-Architect_R00348245)_
+
+`AEM Assets` `Dynamic Media` `Adobe Workfront` `Cloud Manager` `OSGi` `Sling` `HTL` `JCR`
+
+<sub>August 18, 2026 at 16:41 UTC</sub>
+
+---
 
 ### [Systems Engineer, Sr.](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---Oregon/Systems-Engineer--Sr_8406)
 <a href="https://avinc.com"><img src="https://www.google.com/s2/favicons?domain=avinc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AeroVironment** · `🟢 Remote` `Senior` `$111.5k-$170k`
@@ -179,12 +223,12 @@ _Support and maintain Hungryroot's fulfillment operations platform during off-ho
 
 ---
 
-### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8138869)
+### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Mid` `$170k-$180k` `Equity`
 
-_Build AI-powered workflows and automations across Salesforce, Agentforce, and the GTM technology stack to solve business problems for sales, marketing, and revenue operations teams. Requires hands-on Salesforce development experience and familiarity with agentic AI systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8138869)_
+_Build AI-powered workflows, automations, and integrations across Salesforce, Agentforce, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement scalable solutions using object-oriented programming, APIs, and low-code platforms to turn GTM team pain points into production systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)_
 
-`Salesforce` `Apex` `Python` `JavaScript` `Salesforce Agentforce` `Workato` `Zapier` `REST APIs`
+`Salesforce` `Apex` `Python` `JavaScript` `Agentforce` `Workato` `Zapier` `REST APIs`
 
 <sub>August 17, 2026 at 21:33 UTC</sub>
 
@@ -234,12 +278,12 @@ _Design and build scalable distributed backend platforms for healthcare patient 
 
 ---
 
-### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$201k—$335k CAD` `Equity`
+### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$150k—$250k` `Equity`
 
-_Embed with strategic customers to drive onboarding, adoption, and long-term success with Tailscale's secure network interconnection platform. Bridge customer needs with product and engineering teams, requiring deep expertise in networking, VPNs, cloud infrastructure, and DevOps tools. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)_
+_Embed with strategic enterprise customers to drive Tailscale adoption, providing hands-on technical onboarding, troubleshooting, and advisory services. Serve as the bridge between customer needs and product engineering, with deep ownership of customer success across networking, VPN, cloud infrastructure, and DevOps. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)_
 
-`Networking` `VPNs` `AWS` `GCP` `Azure` `Docker` `Kubernetes` `DevOps`
+`Networking` `VPNs` `Security` `AWS` `GCP` `Azure` `Docker` `Kubernetes`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -275,28 +319,6 @@ _Develop operational and automated test code for the Mission Control System (MCS
 `Python` `Ruby` `AWS` `Git`
 
 <sub>August 17, 2026 at 17:36 UTC</sub>
-
----
-
-### [Salesforce Developer](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
-
-_Build custom Apex services, Agentforce AI actions, and OAuth 2.0 integrations within Salesforce Service Cloud and Experience Cloud platforms. Deliver production-quality code through automated testing, source-driven SFDX development, and DevOps Center pipelines supporting customer support and professional services operations. · [Apply →](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a)_
-
-`Salesforce` `Apex` `SOQL` `Lightning Web Components` `OAuth 2.0` `SFDX` `Git` `JavaScript`
-
-<sub>August 17, 2026 at 16:38 UTC</sub>
-
----
-
-### [Staff Frontend Engineer, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7886222003)
-<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Staff` `$182k - $295k` `Equity`
-
-_Own the consistency and quality of core flag management surfaces (flag list, targeting, segments, contexts) across teams, establishing shared interaction patterns and design system adoption as the primary lever for product improvement. Drive cross-team standards without authority, working from customer workflows backward; prototype and land patterns for hybrid human-agent workflows at enterprise scale with strict performance requirements for high-traffic surfaces. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7886222003)_
-
-`TypeScript` `React` `Design Systems` `Enterprise Product UI` `Distributed Systems` `Go` `Performance Optimization` `Agent Frameworks`
-
-<sub>August 17, 2026 at 16:38 UTC</sub>
 
 ---
 
