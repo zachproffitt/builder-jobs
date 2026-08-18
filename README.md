@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **466 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
+### **438 open roles** (29 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Senior Linux Engineer, Privileged Access](https://job-boards.greenhouse.io/keepersecurity/jobs/4374346009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
+
+_Design and build low-level Linux endpoint privilege management capabilities across Rust, C, and .NET components, including kernel-facing agent functionality, PAM modules, and secure privilege-elevation workflows. Requires deep Linux internals knowledge and the ability to reason about process identity, permissions, and secure failure behavior in security-sensitive systems. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4374346009)_
+
+`Rust` `C` `Linux kernel internals` `PAM` `.NET` `Tokio` `systemd` `SELinux`
+
+<sub>August 18, 2026 at 18:50 UTC</sub>
+
+---
+
+### [Refueling Supplier Engineer](https://job-boards.greenhouse.io/oklo/jobs/6146512004)
+<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · `🟢 Remote` `Mid` `$78k-$200k` `Equity`
+
+_Own the design and fabrication oversight of advanced reactor fuel handling systems, partnering with suppliers to deliver high-quality hardware for Oklo's Aurora nuclear plant. Requires nuclear or aerospace systems experience and travel to fabricator facilities. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6146512004)_
+
+`Nuclear Engineering` `Mechanical Engineering` `CAD` `Project Management` `Technical Documentation` `Supplier Management` `Weldment Design` `Thermal-Mechanical Analysis`
+
+<sub>August 18, 2026 at 18:50 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Payments Compliance](https://careers.airbnb.com/positions/8130787?gh_jid=8130787)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k–$265k` `Equity`
@@ -31,17 +53,6 @@ _Build and architect Airbnb's global payments compliance platform that screens i
 _Lead the Product Insights engineering team building scalable platform pipelines for hosting and distributing satellite imagery analytics products. Experience required in production distributed systems, cloud infrastructure (AWS), and leading high-performing engineering teams in mission-critical environments; some roles require U.S. citizenship for ITAR compliance. · [Apply →](https://boards.greenhouse.io/blacksky/jobs/8694025002?gh_jid=8694025002)_
 
 `AWS` `Kubernetes` `Python` `Golang` `MLOps` `DataOps` `Distributed Systems` `Geospatial`
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
-
----
-
-### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
-
-_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
-
-`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
 
 <sub>August 18, 2026 at 17:35 UTC</sub>
 
@@ -155,10 +166,10 @@ _Own the React frontend for AMS (Athlete Management System), building data-inten
 
 ---
 
-### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137846)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
+### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137847)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAD$230k–$242k` `Equity`
 
-_Lead the Identity and Risk Platform team building core authentication, account lifecycle, identity verification, and fraud detection systems that secure Instacart's marketplace across millions of customers, shoppers, and retailers. Manage backend and platform engineers while partnering with Security, Fraud, Data Science, and external vendors on adversarial safety challenges at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8137846)_
+_Lead the Identity and Risk Platform team building and operating authentication, account lifecycle, identity verification, and fraud detection systems at scale. Manage backend and platform engineers while partnering cross-functionally to evolve Instacart's trust infrastructure and define technical strategy for identity and risk signal surfacing across AI systems and internal platforms. · [Apply →](https://instacart.careers/job/?gh_jid=8137847)_
 
 `Go` `Java` `Python` `AWS` `GCP` `PostgreSQL` `DynamoDB` `Redis`
 
@@ -298,7 +309,7 @@ _Build AI-powered workflows, automations, and integrations across Salesforce, Ag
 
 ---
 
-### [Senior Software Engineer - Crawler](https://www.zoominfo.com/careers?gh_jid=8687939002)
+### [Senior Software Engineer, Data Infrastructure](https://www.zoominfo.com/careers?gh_jid=8687939002)
 **ZoomInfo** · `🟢 Remote` `Senior` `$140k–$220k` `Equity`
 
 _Design and implement large-scale web crawling and data extraction pipelines processing billions of pages on GCP/AWS infrastructure. Build distributed ETL/ELT systems with emphasis on observability, reliability, and fault tolerance in a B2B data platform. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8687939002)_
@@ -317,50 +328,6 @@ _Build the backend Command & Control software that integrates heterogeneous spac
 `Python` `Rust` `CCSDS` `CSP` `CFDP` `XTCE` `Kubernetes` `PostgreSQL`
 
 <sub>August 17, 2026 at 19:35 UTC</sub>
-
----
-
-### [Data Scientist, Cybersecurity ](https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9)
-<a href="https://openai.com"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenAI** · `🟢 Remote` `Senior`
-
-_Define security metrics and evaluation frameworks for AI agents, measuring control effectiveness, detection quality, and emerging risks. Build data foundations for security decisions across OpenAI's products while designing rigorous experimentation strategies for high-stakes cybersecurity environments. · [Apply →](https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9)_
-
-`Python` `SQL` `Machine Learning` `Causal Inference` `Anomaly Detection` `Statistical Experimentation` `Data Infrastructure` `Cybersecurity`
-
-<sub>August 17, 2026 at 18:52 UTC</sub>
-
----
-
-### [Software Engineer 4](https://phreesia.wd1.myworkdayjobs.com/Phreesia/job/Remote-United-States/Software-Engineer-4_R4847-1)
-<a href="https://queuedr.com"><img src="https://www.google.com/s2/favicons?domain=queuedr.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**QueueDr** · `🟢 Remote` `Senior` `$145k-$155k`
-
-_Design and build scalable distributed backend platforms for healthcare patient engagement, leveraging cloud-native technologies and AI-assisted development tools. Senior IC role mentoring engineers and driving technical decisions across architecture, reliability, and operational excellence. · [Apply →](https://phreesia.wd1.myworkdayjobs.com/Phreesia/job/Remote-United-States/Software-Engineer-4_R4847-1)_
-
-`C#` `.NET` `Java` `AWS` `Azure` `GCP` `React` `PostgreSQL`
-
-<sub>August 17, 2026 at 18:52 UTC</sub>
-
----
-
-### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$201k—$335k CAD` `Equity`
-
-_Embed with strategic customers to drive onboarding, adoption, and long-term success with Tailscale's secure network interconnection platform. Bridge customer needs with product and engineering teams, requiring deep expertise in networking, VPNs, cloud infrastructure, and DevOps tools. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)_
-
-`Networking` `VPNs` `AWS` `GCP` `Azure` `Docker` `Kubernetes` `DevOps`
-
-<sub>August 17, 2026 at 18:52 UTC</sub>
-
----
-
-### [Trading, Investment & Optimization - QuantAI Full Stack Manager (Hybrid)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Seattle-1191-2nd-Avenue-Corp/Trading--Investment---Optimization---QuantAI-Full-Stack-Manager--Hybrid-_R00332780)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · California / Cleveland, Ohio / Colorado / Washington, D.C. / Illinois / Maine / Maryland / Massachusetts / Minnesota / New York, New York / New Jersey / Virginia / Washington · `🟡 Hybrid` `Senior` `$87400-$253000`
-
-_Build and productize full-stack AI-native decision systems for energy, commodities, trading, and industrial operations — turning quantitative prototypes into enterprise applications with frontend interfaces, backend services, deployment infrastructure, and agentic orchestration. Lead a hands-on builder-manager role within Accenture's QuantAI team, requiring fluency across modern full-stack technologies, AI/LLM application patterns, and the ability to navigate ambiguous requirements in a startup-like environment within a large enterprise. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Seattle-1191-2nd-Avenue-Corp/Trading--Investment---Optimization---QuantAI-Full-Stack-Manager--Hybrid-_R00332780)_
-
-`Python` `TypeScript` `React` `Next.js` `FastAPI` `FastAPI` `Docker` `Kubernetes`
-
-<sub>August 17, 2026 at 18:52 UTC</sub>
 
 ---
 
