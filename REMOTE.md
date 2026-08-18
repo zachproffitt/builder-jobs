@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **274 open roles** (18 new)
+### **278 open roles** (23 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,59 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 18, 2026
+
+### [Staff Software Engineer, Payments Compliance](https://careers.airbnb.com/positions/8130787?gh_jid=8130787)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k–$265k` `Equity`
+
+_Build and architect Airbnb's global payments compliance platform that screens individuals and businesses against regulatory requirements, manages customer data collection, and continuously audits compliance controls across 191 countries and 75 currencies. Requires deep expertise in large-scale distributed systems, cross-functional leadership, and regulatory compliance domain knowledge. · [Apply →](https://careers.airbnb.com/positions/8130787?gh_jid=8130787)_
+
+`Java` `Go` `React` `PostgreSQL` `Kafka` `Distributed Systems` `Regulatory Compliance`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Manager, Product Insights](https://boards.greenhouse.io/blacksky/jobs/8694025002?gh_jid=8694025002)
+<a href="https://blacksky.com"><img src="https://www.google.com/s2/favicons?domain=blacksky.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BlackSky** · Seattle, Washington / Herndon, Virginia / Remote · `🟢 Remote` `Manager` `$165k-$205k` `Equity`
+
+_Lead the Product Insights engineering team building scalable platform pipelines for hosting and distributing satellite imagery analytics products. Experience required in production distributed systems, cloud infrastructure (AWS), and leading high-performing engineering teams in mission-critical environments; some roles require U.S. citizenship for ITAR compliance. · [Apply →](https://boards.greenhouse.io/blacksky/jobs/8694025002?gh_jid=8694025002)_
+
+`AWS` `Kubernetes` `Python` `Golang` `MLOps` `DataOps` `Distributed Systems` `Geospatial`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
+
+_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
+
+`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Senior Director Software Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$151k-$220k`
+
+_Lead multiple software engineering teams building and maintaining complex financial systems and applications across the full development lifecycle. Strategic role requiring 10+ years of experience with 4+ years directly managing people. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)_
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Principal Software Engineer, Platform (DevEx)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Platform--DevEx-_JR115781)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Principal` `$246k-$395k` `Equity`
+
+_Build AI-native coding-agent infrastructure — orchestration layers, LLM reasoning loops, and runtime harnesses — that become the reference implementation for how ServiceTitan and its broader engineering org integrate autonomous agents into development workflows. Lead the full DevEx platform (environments, build systems, CI/CD, developer portal, guardrails) with 1–3 year technical foresight on agent-native tooling needs. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Platform--DevEx-_JR115781)_
+
+`LLM Orchestration` `Agent Runtimes` `CI/CD Systems` `Build Systems` `Python` `Go` `Kubernetes` `RBAC`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
 
 ### [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8133955)
 <a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
@@ -203,12 +256,12 @@ _Design and build scalable distributed backend platforms for healthcare patient 
 
 ---
 
-### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$150k—$250k` `Equity`
+### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$201k—$335k CAD` `Equity`
 
-_Embed with strategic enterprise customers to drive Tailscale adoption, providing hands-on technical onboarding, troubleshooting, and advisory services. Serve as the bridge between customer needs and product engineering, with deep ownership of customer success across networking, VPN, cloud infrastructure, and DevOps. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)_
+_Embed with strategic customers to drive onboarding, adoption, and long-term success with Tailscale's secure network interconnection platform. Bridge customer needs with product and engineering teams, requiring deep expertise in networking, VPNs, cloud infrastructure, and DevOps tools. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)_
 
-`Networking` `VPNs` `Security` `AWS` `GCP` `Azure` `Docker` `Kubernetes`
+`Networking` `VPNs` `AWS` `GCP` `Azure` `Docker` `Kubernetes` `DevOps`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -806,6 +859,17 @@ _Build machine learning models for risk scoring, threat intelligence, and vendor
 `Python` `scikit-learn` `XGBoost` `PyTorch` `AWS` `GCP` `MLFlow` `Scala`
 
 <sub>August 13, 2026 at 21:56 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Nix](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$191k-$253k` `Equity`
+
+_Maintain and improve Anduril's internal Nix package set for software distribution across development, hosted services, and embedded devices; establish packaging standards and train engineers. Requires proficiency with Nix at scale and active U.S. Secret security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)_
+
+`Nix` `Nixpkgs` `NixOS` `Rust` `C++` `Go` `Python` `TS/SCI Clearance`
+
+<sub>August 13, 2026 at 20:54 UTC</sub>
 
 ---
 
@@ -1829,17 +1893,6 @@ _Build data selection, packaging, and delivery pipelines that feed pseudo-labele
 
 ---
 
-### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250k` `Equity`
-
-_Work directly with US government and enterprise customers on data engineering and analytics projects using Databricks; design, build, and deploy distributed data architectures, manage technical project delivery, and provide escalated customer support. Requires US Secret clearance and up to 30% travel for on-site customer engagements. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)_
-
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
-
-<sub>August 10, 2026 at 17:56 UTC</sub>
-
----
-
 ### [Software Engineer, Expansion (all levels)](https://jobs.ashbyhq.com/render/06377f8a-a255-412a-8032-18ace1d005a5)
 <a href="https://render.com"><img src="https://www.google.com/s2/favicons?domain=render.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Render** · `🟢 Remote` `Senior`
 
@@ -2494,17 +2547,6 @@ _Build reliable AI-powered agentic systems that automate parts of GitLab's softw
 _Build agentic systems and AI-driven workflows that automate high-friction steps in GitLab's software development lifecycle, from code review acceleration to release automation. Own the technical foundation for a greenfield, generalist team under the CTO's direct sponsorship, including distributed systems design for multi-tenant, self-managed, and dedicated deployment topologies at scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8646544002)_
 
 `Go` `Rust` `Python` `LLM Systems` `Distributed Systems` `Agent Orchestration` `Multi-tenant Architecture`
-
-<sub>August 6, 2026 at 03:31 UTC</sub>
-
----
-
-### [Staff Data Engineer - US](https://jobs.ashbyhq.com/goteleport/973e9912-d411-46d5-b6af-e38b9ff20eba)
-<a href="https://goteleport.com"><img src="https://www.google.com/s2/favicons?domain=goteleport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teleport** · `🟢 Remote` `Staff`
-
-_Design and build Teleport's internal data platform, including pipelines, warehouse schemas, and data quality systems that integrate product usage, costs, budgets, and sales data across the company. Handle sensitive customer data with access controls and retention policies while enabling self-serve analytics for cross-functional teams. · [Apply →](https://jobs.ashbyhq.com/goteleport/973e9912-d411-46d5-b6af-e38b9ff20eba)_
-
-`SQL` `Python` `Go` `Snowflake` `BigQuery` `Redshift` `dbt` `Airflow`
 
 <sub>August 6, 2026 at 03:31 UTC</sub>
 

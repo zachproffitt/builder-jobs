@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **433 open roles** (28 new) &nbsp;·&nbsp; 1770 companies searched
+### **466 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,70 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Staff Software Engineer, Payments Compliance](https://careers.airbnb.com/positions/8130787?gh_jid=8130787)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k–$265k` `Equity`
+
+_Build and architect Airbnb's global payments compliance platform that screens individuals and businesses against regulatory requirements, manages customer data collection, and continuously audits compliance controls across 191 countries and 75 currencies. Requires deep expertise in large-scale distributed systems, cross-functional leadership, and regulatory compliance domain knowledge. · [Apply →](https://careers.airbnb.com/positions/8130787?gh_jid=8130787)_
+
+`Java` `Go` `React` `PostgreSQL` `Kafka` `Distributed Systems` `Regulatory Compliance`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Manager, Product Insights](https://boards.greenhouse.io/blacksky/jobs/8694025002?gh_jid=8694025002)
+<a href="https://blacksky.com"><img src="https://www.google.com/s2/favicons?domain=blacksky.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BlackSky** · Seattle, Washington / Herndon, Virginia / Remote · `🟢 Remote` `Manager` `$165k-$205k` `Equity`
+
+_Lead the Product Insights engineering team building scalable platform pipelines for hosting and distributing satellite imagery analytics products. Experience required in production distributed systems, cloud infrastructure (AWS), and leading high-performing engineering teams in mission-critical environments; some roles require U.S. citizenship for ITAR compliance. · [Apply →](https://boards.greenhouse.io/blacksky/jobs/8694025002?gh_jid=8694025002)_
+
+`AWS` `Kubernetes` `Python` `Golang` `MLOps` `DataOps` `Distributed Systems` `Geospatial`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
+
+_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
+
+`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Senior Director Software Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$151k-$220k`
+
+_Lead multiple software engineering teams building and maintaining complex financial systems and applications across the full development lifecycle. Strategic role requiring 10+ years of experience with 4+ years directly managing people. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)_
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Engineer_R0246339)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$61k-$141k`
+
+_Design and modernize space ground systems for the Intelligence Community, translating mission requirements into technical specifications and architectural solutions. Requires active TS/SCI clearance and experience with systems engineering across space, software, and hardware domains. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Engineer_R0246339)_
+
+`SysML` `MBSE` `UML` `Cloud Architecture` `DevOps` `DevSecOps` `TS/SCI Clearance`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
+### [Principal Software Engineer, Platform (DevEx)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Platform--DevEx-_JR115781)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Principal` `$246k-$395k` `Equity`
+
+_Build AI-native coding-agent infrastructure — orchestration layers, LLM reasoning loops, and runtime harnesses — that become the reference implementation for how ServiceTitan and its broader engineering org integrate autonomous agents into development workflows. Lead the full DevEx platform (environments, build systems, CI/CD, developer portal, guardrails) with 1–3 year technical foresight on agent-native tooling needs. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Platform--DevEx-_JR115781)_
+
+`LLM Orchestration` `Agent Runtimes` `CI/CD Systems` `Build Systems` `Python` `Go` `Kubernetes` `RBAC`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
 
 ### [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8133955)
 <a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
@@ -278,12 +342,12 @@ _Design and build scalable distributed backend platforms for healthcare patient 
 
 ---
 
-### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$150k—$250k` `Equity`
+### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$201k—$335k CAD` `Equity`
 
-_Embed with strategic enterprise customers to drive Tailscale adoption, providing hands-on technical onboarding, troubleshooting, and advisory services. Serve as the bridge between customer needs and product engineering, with deep ownership of customer success across networking, VPN, cloud infrastructure, and DevOps. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)_
+_Embed with strategic customers to drive onboarding, adoption, and long-term success with Tailscale's secure network interconnection platform. Bridge customer needs with product and engineering teams, requiring deep expertise in networking, VPNs, cloud infrastructure, and DevOps tools. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)_
 
-`Networking` `VPNs` `Security` `AWS` `GCP` `Azure` `Docker` `Kubernetes`
+`Networking` `VPNs` `AWS` `GCP` `Azure` `Docker` `Kubernetes` `DevOps`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -297,28 +361,6 @@ _Build and productize full-stack AI-native decision systems for energy, commodit
 `Python` `TypeScript` `React` `Next.js` `FastAPI` `FastAPI` `Docker` `Kubernetes`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
-
----
-
-### [Flight Software Engineer II, Space Systems ](https://job-boards.greenhouse.io/katalyst/jobs/6144881004)
-<a href="https://katalyst.com"><img src="https://www.google.com/s2/favicons?domain=katalyst.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Katalyst** · Broomfield, Colorado · `Mid` `$115k-$155k` `Equity`
-
-_Develop embedded flight software for multipurpose space vehicles, owning modules from requirements and architecture through launch and on-orbit operations. Mission-critical embedded systems with real-time constraints, deterministic behavior, and fault tolerance in a space domain requiring ITAR compliance. · [Apply →](https://job-boards.greenhouse.io/katalyst/jobs/6144881004)_
-
-`C` `C++` `RTOS` `Embedded Linux` `CAN` `SpaceWire` `Real-time systems` `FDIR`
-
-<sub>August 17, 2026 at 17:36 UTC</sub>
-
----
-
-### [Software Development Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Engineer_R24298-1)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Mid` `$105k-$154k`
-
-_Develop operational and automated test code for the Mission Control System (MCS), troubleshoot operational issues, and collaborate with Operations and Systems Engineers to maintain software systems. Requires U.S. citizenship and ability to obtain a U.S. Government Security clearance. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Engineer_R24298-1)_
-
-`Python` `Ruby` `AWS` `Git`
-
-<sub>August 17, 2026 at 17:36 UTC</sub>
 
 ---
 
