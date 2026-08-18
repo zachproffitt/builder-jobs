@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **426 open roles** (29 new) &nbsp;·&nbsp; 1770 companies searched
+### **458 open roles** (28 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Systems Engineer, Sr.](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---Oregon/Systems-Engineer--Sr_8406)
+<a href="https://avinc.com"><img src="https://www.google.com/s2/favicons?domain=avinc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AeroVironment** · `🟢 Remote` `Senior` `$111.5k-$170k`
+
+_Develop system architectures and manage requirements for autonomous unmanned systems across air, land, sea, and space platforms; requires ITAR compliance and U.S. citizenship. · [Apply →](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---Oregon/Systems-Engineer--Sr_8406)_
+
+`C++` `C` `MATLAB` `Simulink` `Ansys` `Solidworks` `Model-Based Systems Engineering` `GN&C Systems`
+
+<sub>August 18, 2026 at 14:43 UTC</sub>
+
+---
+
+### [Principal, AI Strategy & Engineering Transformation](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · `🟢 Remote` `Principal` `$150k-$220k` `Equity`
+
+_Design and operationalize AI-assisted software engineering workflows across Vantor's engineering organization—from prototype through governed adoption. Build agentic systems and developer tooling integrations while establishing security governance and measurement frameworks for AI use in regulated, export-controlled environments. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)_
+
+`Python` `Prompt Engineering` `LLMs` `Git` `CI/CD` `API Integration` `Responsible AI` `Enterprise Security`
+
+<sub>August 18, 2026 at 14:43 UTC</sub>
+
+---
+
+### [Software Engineer II (Frontend)](https://jobs.ashbyhq.com/teamworks/213fd24e-fdcf-4f66-ac49-8362d38341bc)
+<a href="https://teamworks.com"><img src="https://www.google.com/s2/favicons?domain=teamworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teamworks** · `🟢 Remote` `Mid`
+
+_Own the React frontend for AMS (Athlete Management System), building data-intensive dashboards, interactive grids, and forms that serve elite sports organizations and military performance programs. Requires US citizenship with willingness to pursue security clearance. · [Apply →](https://jobs.ashbyhq.com/teamworks/213fd24e-fdcf-4f66-ac49-8362d38341bc)_
+
+`React` `TypeScript` `AG Grid` `SurveyJS` `Tanstack Query` `RsPack` `pnpm` `Chart.js`
+
+<sub>August 18, 2026 at 14:43 UTC</sub>
+
+---
 
 ### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137846)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
@@ -201,12 +234,12 @@ _Design and build scalable distributed backend platforms for healthcare patient 
 
 ---
 
-### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Senior` `$201k—$335k CAD` `Equity`
+### [Forward Deployed Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$150k—$250k` `Equity`
 
-_Embed with strategic customers to drive onboarding, adoption, and long-term success with Tailscale's secure network interconnection platform. Bridge customer needs with product and engineering teams, requiring deep expertise in networking, VPNs, cloud infrastructure, and DevOps tools. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724854005)_
+_Embed with strategic enterprise customers to drive Tailscale adoption, providing hands-on technical onboarding, troubleshooting, and advisory services. Serve as the bridge between customer needs and product engineering, with deep ownership of customer success across networking, VPN, cloud infrastructure, and DevOps. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4724897005)_
 
-`Networking` `VPNs` `AWS` `GCP` `Azure` `Docker` `Kubernetes` `DevOps`
+`Networking` `VPNs` `Security` `AWS` `GCP` `Azure` `Docker` `Kubernetes`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -286,50 +319,6 @@ _Lead a data science and AI team building operational AI systems—agentic syste
 `Python` `SQL` `LLMs` `Agentic Systems` `dbt` `Claude` `scikit-learn` `PyTorch`
 
 <sub>August 17, 2026 at 15:33 UTC</sub>
-
----
-
-### [Technical Engineering Manager](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000829-1)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Manager` `$160k-$185k`
-
-_Lead a cross-functional engineering team building SaaS platform services for digital banking; hands-on role (20–30% coding) balancing team management, architecture design, and operational excellence across microservices, cloud infrastructure, and event-driven systems serving financial institutions. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Engineering-Manager_JR-000829-1)_
-
-`Java` `C#` `.NET` `Kubernetes` `PostgreSQL` `AWS` `Microservices Architecture` `Event-Driven Architecture`
-
-<sub>August 17, 2026 at 14:36 UTC</sub>
-
----
-
-### [Principal AI-Native Software Engineer ](https://jobs.ashbyhq.com/butterflymx/7810fd75-c722-4596-8b43-b2db3da4f490)
-<a href="https://butterflymx.com"><img src="https://www.google.com/s2/favicons?domain=butterflymx.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ButterflyMX** · `🟢 Remote` `Principal` `$215k-$250k` `Equity`
-
-_Build production software end-to-end using Claude Code and AI agents as a primary development environment, coordinating multiple parallel AI workflows to deliver secure, tested features from business requirements through deployment. Deep expertise in TypeScript/Node.js, MongoDB, AWS/GCP, and AI/LLM integration required; this role demands exceptional engineering judgment to review AI-generated code critically and maintain architectural standards at scale. · [Apply →](https://jobs.ashbyhq.com/butterflymx/7810fd75-c722-4596-8b43-b2db3da4f490)_
-
-`TypeScript` `Node.js` `MongoDB` `PostgreSQL` `AWS` `GCP` `Claude Code` `CI/CD`
-
-<sub>August 17, 2026 at 14:36 UTC</sub>
-
----
-
-### [Data Engineer, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Mid_R0247098)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
-
-_Build advanced analytics and ML systems for defense and intelligence clients, working with classified data to transform complex datasets into actionable intelligence for fraud detection, research, and national security applications. Requires active TS/SCI clearance and work on classified networks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Mid_R0247098)_
-
-`Python` `SQL` `Spark` `Kafka` `Machine Learning` `NLP` `TS/SCI Clearance` `Polygraph Exam`
-
-<sub>August 17, 2026 at 14:36 UTC</sub>
-
----
-
-### [Associate Research Scientist, Real World Evidence](https://job-boards.greenhouse.io/precisionaq/jobs/6128944004)
-<a href="https://precisionvalue.com"><img src="https://www.google.com/s2/favicons?domain=precisionvalue.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**PRECISIONvalue** · `🟢 Remote` `Junior` `$66k—$94k USD` `Equity`
-
-_Conduct real-world evidence studies for pharmaceutical and biotech clients—including data feasibility assessments, protocol development, dataset creation, and statistical analyses. Use Python, R, SQL, or SAS to prepare and analyze primary and secondary health data; requires Master's degree in health services research, epidemiology, biostatistics, or related field. · [Apply →](https://job-boards.greenhouse.io/precisionaq/jobs/6128944004)_
-
-`R` `Python` `SQL` `SAS` `Health Services Research` `Epidemiology` `Biostatistics`
-
-<sub>August 17, 2026 at 14:36 UTC</sub>
 
 ---
 
