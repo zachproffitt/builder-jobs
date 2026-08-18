@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **480 open roles** (42 new) &nbsp;·&nbsp; 1770 companies searched
+### **448 open roles** (45 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,72 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Lead Infrastructure Engineer](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847)
+<a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Feedonomics** · `🟢 Remote` `Senior` `$110k-$186k` `Equity`
+
+_Design and operate multi-data center infrastructure spanning on-prem hardware, GCP, and AWS environments; lead automation of infrastructure deployment and migration from legacy tooling to modern IaC. Requires 10+ years of hands-on infrastructure operations including physical hardware management, Linux systems administration, and core networking at scale. · [Apply →](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847)_
+
+`Terraform` `Ansible` `Puppet` `Python` `GCP` `Kubernetes` `Prometheus` `Grafana`
+
+<sub>August 18, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/federato/jobs/5394648008)
+<a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Federato** · `🟢 Remote` `Staff` `$210k-$250k` `Equity`
+
+_Design and implement scalable ML pipelines for insurance automation using LLMs and classical ML, serving as technical lead for a team deploying AI-native systems to production. Build reusable ML/LLM infrastructure, CI/CD pipelines, and observability systems for a rapidly growing platform backed by $180M in funding. · [Apply →](https://job-boards.greenhouse.io/federato/jobs/5394648008)_
+
+`Machine Learning` `LLM` `Python` `PyTorch` `TensorFlow` `Kubernetes` `AWS` `MLOps`
+
+<sub>August 18, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Security Engineer, Application Security](https://jobs.ashbyhq.com/gamechanger/8c2edc2c-6da1-4719-abbf-30fb302fce9f)
+<a href="https://gamechanger.com"><img src="https://www.google.com/s2/favicons?domain=gamechanger.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GameChanger** · `🟢 Remote` `Mid` `$120k-$140k` `Equity`
+
+_Build and operate application security systems across the SDLC, embedding threat modeling, secure code review, and DevSecOps tooling into CI/CD pipelines. Champion secure-by-design practices for AI/LLM integration and cloud infrastructure (AWS, Kubernetes, Terraform) while leading vulnerability triage and risk management across multiple security tools. · [Apply →](https://jobs.ashbyhq.com/gamechanger/8c2edc2c-6da1-4719-abbf-30fb302fce9f)_
+
+`TypeScript` `Swift` `Kotlin` `AWS` `Kubernetes` `Terraform` `GitHub Actions` `OWASP Top 10`
+
+<sub>August 18, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Technical Services Engineer - Weekend Shift](https://www.mongodb.com/careers/job/?gh_jid=8070616)
+<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · `🟢 Remote` `Mid` `$90k-$176k` `Equity`
+
+_Advise customers and resolve complex MongoDB database issues across architecture, performance, recovery, and security, working with mission-critical production systems at scale. Requires US citizenship and presence on US soil for FedRAMP compliance; weekend shift (Saturday–Wednesday) with 20% salary uplift. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=8070616)_
+
+`MongoDB` `Linux` `Python` `Java` `AWS` `Kubernetes` `Git`
+
+<sub>August 18, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Ground System Integration Engineer](https://jobs.ashbyhq.com/quindar/ada8bc6e-8d2b-4e64-a530-611307d94a8c)
+<a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Quindar** · Arvada, Colorado · `🟡 Hybrid` `Mid`
+
+_Develop and integrate Command & Control software solutions for satellite mission management platforms, integrating flight software and spacecraft into Quindar's platform. Deep expertise required in satellite communication protocols (CCSDS, CSP, CFDP), low-level hardware-software integration, and real-time embedded systems; requires ability to obtain U.S. Security Clearance and ITAR eligibility. · [Apply →](https://jobs.ashbyhq.com/quindar/ada8bc6e-8d2b-4e64-a530-611307d94a8c)_
+
+`Python` `C++` `Java` `CCSDS` `CSP` `CFDP` `XTCE` `AWS`
+
+<sub>August 18, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Senior Software Engineer I/II - Digital Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7893882003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Senior` `$120k-$165k` `Equity`
+
+_Design and develop simulation and modeling tools for aerospace systems, including flight software, ground software, and mission-level wargaming capabilities. Requires U.S. citizenship due to ITAR export regulations for space technology. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7893882003)_
+
+`C#` `.NET` `Angular` `TypeScript` `JavaScript` `SQL Server` `Docker` `Kubernetes`
+
+<sub>August 18, 2026 at 21:32 UTC</sub>
+
+---
 
 ### [Sr Salesforce Admin & Developer (Revenue Cloud)](https://anovasolutions.bamboohr.com/careers/463)
 <a href="https://anova.com"><img src="https://www.google.com/s2/favicons?domain=anova.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anova Technologies** · `🟢 Remote` `Senior`
@@ -42,17 +108,6 @@ _Build and operate Mimir's query engine, a distributed metrics database handling
 _Build and operate Mimir, a multi-tenant distributed metrics database serving millions of users at Grafana Cloud, optimizing query performance, reliability, and efficiency across Kubernetes and major cloud providers. Requires on-call participation and experience with large-scale distributed systems in production. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)_
 
 `Go` `Kubernetes` `Distributed Systems` `Prometheus` `PostgreSQL` `AWS` `Kafka` `Grafana`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Oracle Integration/Extension Developer](https://taylor.wd1.myworkdayjobs.com/External/job/TN-Remote/Oracle-Integration-Extension-Developer_R29699)
-<a href="https://neps.com"><img src="https://www.google.com/s2/favicons?domain=neps.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NEPS, LLC** · `🟢 Remote` `Senior` `$100k-$110k`
-
-_Develop and maintain integrations and extensions in Oracle Integration Cloud for Oracle Fusion ERP implementation. Design scalable solutions for complex enterprise system integrations across multiple Oracle modules and third-party systems. · [Apply →](https://taylor.wd1.myworkdayjobs.com/External/job/TN-Remote/Oracle-Integration-Extension-Developer_R29699)_
-
-`Oracle Integration Cloud` `VBCS` `REST APIs` `SOAP APIs` `SQL Server` `Oracle Fusion` `ATP databases` `Data transformation`
 
 <sub>August 18, 2026 at 20:33 UTC</sub>
 
@@ -139,17 +194,6 @@ _Build authorization and access control systems for 1Password's enterprise ident
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `Equity`
 
 _Lead a support engineering team delivering technical support and troubleshooting for GitLab's US Government customers operating in regulated environments. Manage hiring, team development, on-call rotation, and cross-functional partnerships with product and engineering teams to shape GitLab's government-focused support offerings. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8707385002)_
-
-<sub>August 18, 2026 at 19:34 UTC</sub>
-
----
-
-### [Agentic AI Engineer](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/Remote---US/Agentic-AI-Engineer_R-102263)
-<a href="https://pax8.com"><img src="https://www.google.com/s2/favicons?domain=pax8.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pax8** · `🟢 Remote` `Senior` `$200k-$250k` `Equity`
-
-_Shape engineering standards, AI adoption strategy, and developer productivity frameworks across Pax8's engineering organization. Lead architecture and governance decisions for AI-assisted development at scale, evaluating emerging agentic platforms and defining measurement frameworks for AI-assisted workflows. · [Apply →](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/Remote---US/Agentic-AI-Engineer_R-102263)_
-
-`Distributed Systems` `AI/ML Governance` `Autonomous Agents` `Retrieval-Augmented Generation` `Vector Databases` `Agentic Workflows` `DevEx / Developer Productivity` `Architecture Design`
 
 <sub>August 18, 2026 at 19:34 UTC</sub>
 
@@ -458,17 +502,6 @@ _Support and maintain Hungryroot's fulfillment operations platform during off-ho
 `Python` `SQL` `JSON` `Docker` `Jira`
 
 <sub>August 17, 2026 at 22:33 UTC</sub>
-
----
-
-### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)
-<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Mid` `$170k-$180k` `Equity`
-
-_Build AI-powered workflows, automations, and integrations across Salesforce, Agentforce, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement scalable solutions using object-oriented programming, APIs, and low-code platforms to turn GTM team pain points into production systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)_
-
-`Salesforce` `Apex` `Python` `JavaScript` `Agentforce` `Workato` `Zapier` `REST APIs`
-
-<sub>August 17, 2026 at 21:33 UTC</sub>
 
 ---
 
