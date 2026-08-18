@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **462 open roles** (50 new) &nbsp;·&nbsp; 1770 companies searched
+### **494 open roles** (49 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity`
+
+_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems that process radar sensor data to detect and track airborne threats at scale. Requires Top Secret SCI clearance and deep knowledge of tracking algorithms (Kalman filters, particle filters, multiple hypothesis tracking) applied to defense systems deployed operationally. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)_
+
+`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `MATLAB` `GPU Acceleration` `SQL`
+
+<sub>August 18, 2026 at 23:30 UTC</sub>
+
+---
+
+### [Senior Full Stack Engineer, Enterprise, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003)
+<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$163k-$263.67k` `Equity`
+
+_Own end-to-end feature development for LaunchDarkly's Enterprise platform, building governance, access control, and scalability systems that serve global banks and Fortune 100 manufacturers running thousands of engineers and tens of thousands of feature flags. Build across Go backend, TypeScript, and React frontend, working directly with named enterprise customers to turn their constraints into architectural solutions. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003)_
+
+`Go` `TypeScript` `React` `Multi-tenancy` `API Design` `PostgreSQL` `Kubernetes` `Terraform`
+
+<sub>August 18, 2026 at 23:30 UTC</sub>
+
+---
+
+### [Engineering Manager, Infrastructure](https://job-boards.greenhouse.io/pilothq/jobs/8723912002)
+<a href="https://pilot.com"><img src="https://www.google.com/s2/favicons?domain=pilot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pilot** · `🟢 Remote` `Manager` `$157k-$267k` `Equity`
+
+_Lead the Infrastructure team building core infrastructure, developer experience, the design system, frontend infrastructure, and security for Meridian, Pilot's bookkeeping platform serving thousands of accounting firms. Manage a remote team of engineers shipping Python backend and Vue.js/TypeScript frontend systems on AWS with Terraform, Docker, and PostgreSQL. · [Apply →](https://job-boards.greenhouse.io/pilothq/jobs/8723912002)_
+
+`Python` `TypeScript` `Vue.js` `Terraform` `AWS` `PostgreSQL` `Docker` `Honeycomb`
+
+<sub>August 18, 2026 at 23:30 UTC</sub>
+
+---
 
 ### [Manager of Information Security](https://jobs.ashbyhq.com/clasp-group/01461ef9-7278-435d-a9f2-4d729b8787c6)
 <a href="https://clasp.com"><img src="https://www.google.com/s2/favicons?domain=clasp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clasp** · `🟢 Remote` `Manager` `$170k-$190k` `Equity`
@@ -58,7 +91,7 @@ _Design and deploy machine learning models for customer intelligence, predictive
 
 ---
 
-### [Research Engineer](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)
+### [Research Engineer (Reinforcement Learning)](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)
 <a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Senior` `Equity`
 
 _Build post-training infrastructure for voice and text AI agents, including synthetic data pipelines, training environments, evaluators, and model production systems. Scale open-weight models through fine-tuning and reinforcement learning for reliable tool use and long-horizon reasoning in production voice AI. · [Apply →](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)_
@@ -513,50 +546,6 @@ _Build AI agents that analyze security telemetry, use security tools, and automa
 `Python` `TypeScript` `C#` `Large Language Models` `Retrieval-Augmented Generation` `Agentic Architectures` `MLOps` `LLMOps`
 
 <sub>August 18, 2026 at 01:44 UTC</sub>
-
----
-
-<br>
-
-## August 17, 2026
-
-### [Backend Engineer](https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e)
-<a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Quindar** · Denver, Colorado · `Mid`
-
-_Build cloud-native satellite mission operations software using Python and AWS, replacing legacy ground systems with modern, automation-driven APIs. Requires U.S. Person status and ability to obtain security clearance due to ITAR export control regulations. · [Apply →](https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e)_
-
-`Python` `AWS` `GraphQL` `Docker` `Terraform` `Kubernetes` `Git` `PostgreSQL`
-
-<sub>August 17, 2026 at 23:30 UTC</sub>
-
----
-
-### [Staff Data Engineer](https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0)
-<a href="https://sonatype.com"><img src="https://www.google.com/s2/favicons?domain=sonatype.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sonatype** · `🟢 Remote` `Staff`
-
-_Build data pipelines and infrastructure to power Sonatype's software supply chain security platform, serving 2,000+ organizations including 70% of the Fortune 100. · [Apply →](https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0)_
-
-<sub>August 17, 2026 at 23:30 UTC</sub>
-
----
-
-### [Staff Software Engineer](https://jobs.lever.co/sonatype/8cf4355d-6dff-4e3b-bdc8-6eae924622d6)
-<a href="https://sonatype.com"><img src="https://www.google.com/s2/favicons?domain=sonatype.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sonatype** · `🟢 Remote` `Staff`
-
-_Build and scale security infrastructure for Sonatype's software supply chain platform, protecting enterprise software development at the dependency and artifact level. · [Apply →](https://jobs.lever.co/sonatype/8cf4355d-6dff-4e3b-bdc8-6eae924622d6)_
-
-<sub>August 17, 2026 at 23:30 UTC</sub>
-
----
-
-### [Manager, Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
-
-_Own development, testing, and maintenance of quantitative risk models (VaR, SVaR, stress testing) for a CIRO-regulated brokerage managing $155B+ in assets; translate complex model outputs into actionable guidance for margin, capital, and risk reporting teams. Requires deep knowledge of CIRO 5000 margin rules and production-quality code development across multiple languages. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/5bec7e2a-249b-4e81-9e62-180a725e1e22)_
-
-`Python` `R` `VaR` `Stress Testing` `CIRO 5000` `Financial Risk Modeling` `Derivatives`
-
-<sub>August 17, 2026 at 23:30 UTC</sub>
 
 ---
 
