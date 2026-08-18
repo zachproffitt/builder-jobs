@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **280 open roles** (24 new)
+### **285 open roles** (29 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,72 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 18, 2026
+
+### [Staff Backend Engineer - Mimir Query, Databases | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
+
+_Build and operate Mimir's query engine, a distributed metrics database handling millions of queries per day at scale on Kubernetes across AWS, GCP, and Azure. Own reliability, performance, and availability of critical query path systems serving 7,000+ customers including Microsoft, NVIDIA, and Salesforce. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)_
+
+`Go` `Kubernetes` `Distributed Systems` `Prometheus` `Grafana` `Kafka` `PostgreSQL` `Claude`
+
+<sub>August 18, 2026 at 20:33 UTC</sub>
+
+---
+
+### [Staff Backend Engineer - Mimir Query, Databases | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+
+_Build and operate Mimir, a multi-tenant distributed metrics database serving millions of users at Grafana Cloud, optimizing query performance, reliability, and efficiency across Kubernetes and major cloud providers. Requires on-call participation and experience with large-scale distributed systems in production. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)_
+
+`Go` `Kubernetes` `Distributed Systems` `Prometheus` `PostgreSQL` `AWS` `Kafka` `Grafana`
+
+<sub>August 18, 2026 at 20:33 UTC</sub>
+
+---
+
+### [Oracle Integration/Extension Developer](https://taylor.wd1.myworkdayjobs.com/External/job/TN-Remote/Oracle-Integration-Extension-Developer_R29699)
+<a href="https://neps.com"><img src="https://www.google.com/s2/favicons?domain=neps.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NEPS, LLC** · `🟢 Remote` `Senior` `$100k-$110k`
+
+_Develop and maintain integrations and extensions in Oracle Integration Cloud for Oracle Fusion ERP implementation. Design scalable solutions for complex enterprise system integrations across multiple Oracle modules and third-party systems. · [Apply →](https://taylor.wd1.myworkdayjobs.com/External/job/TN-Remote/Oracle-Integration-Extension-Developer_R29699)_
+
+`Oracle Integration Cloud` `VBCS` `REST APIs` `SOAP APIs` `SQL Server` `Oracle Fusion` `ATP databases` `Data transformation`
+
+<sub>August 18, 2026 at 20:33 UTC</sub>
+
+---
+
+### [Software Engineer II, Fullstack](https://www.pinterestcareers.com/jobs/?gh_jid=4843547)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$123k-$254k` `Equity`
+
+_Design and implement full-stack user-facing features for Pinterest's discovery and inspiration platform. Own features end-to-end from prototyping through A/B testing and scalable release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=4843547)_
+
+`JavaScript` `React` `API Design` `PostgreSQL` `Redis` `Backend Frameworks` `Testing & QA`
+
+<sub>August 18, 2026 at 20:33 UTC</sub>
+
+---
+
+### [Software Engineer, Content Platform](https://job-boards.greenhouse.io/reddit/jobs/8139781)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k–$229k` `Equity`
+
+_Design and build scalable Go and Python services for Reddit's Content Platform, powering core user journeys like feeds, posting, and commenting across Tier-0 infrastructure serving 130M+ daily active users. Navigate complex monolith legacy systems and modern microservices while collaborating across product teams to improve availability, latency, and efficiency at massive scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8139781)_
+
+`Go` `Python` `Kubernetes` `PostgreSQL` `Cassandra` `Redis` `gRPC` `AWS`
+
+<sub>August 18, 2026 at 20:33 UTC</sub>
+
+---
+
+### [Senior Engineering Manager Twilio’s Conversational Agents](https://job-boards.greenhouse.io/twilio/jobs/7926887)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Manager` `$207.2k-$304.6k` `Equity`
+
+_Lead the Agent Implementations team building AI agents that consume Twilio platform capabilities and power internal business workflows. Requires hands-on experience shipping production code alongside managing and mentoring engineering teams in a rapidly evolving AI/LLM space. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7926887)_
+
+`Python` `LLMs` `Production Systems` `AI/ML Infrastructure`
+
+<sub>August 18, 2026 at 20:33 UTC</sub>
+
+---
 
 ### [Manager, Support Engineering, US Government](https://job-boards.greenhouse.io/gitlab/jobs/8707385002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `Equity`
@@ -328,17 +394,6 @@ _Own the consistency and quality of core flag management surfaces (flag list, ta
 `TypeScript` `React` `Design Systems` `Enterprise Product UI` `Distributed Systems` `Go` `Performance Optimization` `Agent Frameworks`
 
 <sub>August 17, 2026 at 16:38 UTC</sub>
-
----
-
-### [Sr Director, Data Science and Analytics](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Director--Data-Science-and-Analytics_JR115740)
-<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Manager` `$298k-$479k` `Equity`
-
-_Lead a data science and AI team building operational AI systems—agentic systems, forecasting, lead scoring, and finance analytics—for a B2B SaaS platform. You'll own the technical roadmap, hire and develop team members, and partner with operations and finance leadership to ship high-impact ML and LLM-driven products. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Director--Data-Science-and-Analytics_JR115740)_
-
-`Python` `SQL` `LLMs` `Agentic Systems` `dbt` `Claude` `scikit-learn` `PyTorch`
-
-<sub>August 17, 2026 at 15:33 UTC</sub>
 
 ---
 
@@ -1643,23 +1698,23 @@ _Develop production machine learning models for Bird's Eye View (BEV) perception
 
 ---
 
-### [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity`
-
-_Lead full-stack integration architecture for DGX Cloud, defining control and data plane systems that deliver bare metal and virtualized accelerated computing across enterprise, sovereign, and neo-cloud datacenters. Requires 15-20+ years in systems integration spanning hardware, firmware, OS, and virtualization, plus 7-10+ years of technical leadership. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)_
-
-`Kubernetes` `Linux` `Virtualization` `Cloud Architecture` `IaaS/PaaS` `High-Performance Computing` `Distributed Systems` `Open Source Infrastructure`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
 ### [Senior Software Engineer, Product Platform](https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be)
 <a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
 
 _Design and build shared platform components and internal engineering libraries that multiple product teams depend on, including event-driven architecture, APIs, and developer-facing abstractions. Work across two closely-aligned teams (Application Primitives for customer-facing components like notifications and audit trails; Libraries & Foundations for TypeScript-first internal libraries and golden-path patterns). · [Apply →](https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be)_
 
 `TypeScript` `Kafka` `Event-Driven Architecture` `API Design` `Distributed Systems` `SQS` `PostgreSQL`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity`
+
+_Lead full-stack integration architecture for DGX Cloud, defining control and data plane systems that deliver bare metal and virtualized accelerated computing across enterprise, sovereign, and neo-cloud datacenters. Requires 15-20+ years in systems integration spanning hardware, firmware, OS, and virtualization, plus 7-10+ years of technical leadership. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)_
+
+`Kubernetes` `Linux` `Virtualization` `Cloud Architecture` `IaaS/PaaS` `High-Performance Computing` `Distributed Systems` `Open Source Infrastructure`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -1913,12 +1968,12 @@ _Build data selection, packaging, and delivery pipelines that feed pseudo-labele
 
 ---
 
-### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250k` `Equity`
+### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
 
-_Work directly with US government and enterprise customers on data engineering and analytics projects using Databricks; design, build, and deploy distributed data architectures, manage technical project delivery, and provide escalated customer support. Requires US Secret clearance and up to 30% travel for on-site customer engagements. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)_
+_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
 
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
 
 <sub>August 10, 2026 at 17:56 UTC</sub>
 
