@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **448 open roles** (45 new) &nbsp;·&nbsp; 1770 companies searched
+### **462 open roles** (50 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,83 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Manager of Information Security](https://jobs.ashbyhq.com/clasp-group/01461ef9-7278-435d-a9f2-4d729b8787c6)
+<a href="https://clasp.com"><img src="https://www.google.com/s2/favicons?domain=clasp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clasp** · `🟢 Remote` `Manager` `$170k-$190k` `Equity`
+
+_Lead the information security program and IT/TechOps team for a Series B fintech company; build internal SIEM, IDS, and vulnerability management capabilities alongside SOC 2 compliance and cloud security hardening on GCP. · [Apply →](https://jobs.ashbyhq.com/clasp-group/01461ef9-7278-435d-a9f2-4d729b8787c6)_
+
+`CISSP` `GCP` `Terraform` `SIEM` `Vulnerability Management` `SOC 2` `IAM` `Incident Response`
+
+<sub>August 18, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Staff Software Engineer - AI - Platform Integrations](https://jobs.ashbyhq.com/delinea/15e29247-e9c3-44ef-b8fa-e0e7c55c0944)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Staff`
+
+_Build integrations that discover, identify, and govern AI agents across third-party platforms like Salesforce Agentforce, AWS, and Google Cloud by leveraging native identity signals and provider APIs. This requires solving complex integration problems at scale, reusing shared identity and policy infrastructure across multiple ecosystems. · [Apply →](https://jobs.ashbyhq.com/delinea/15e29247-e9c3-44ef-b8fa-e0e7c55c0944)_
+
+`C#` `Go` `Java` `Python` `OAuth` `Salesforce` `Microsoft Entra` `API Integration`
+
+<sub>August 18, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Agent Identity & Core Primitives](https://jobs.ashbyhq.com/delinea/55f9d530-e76b-4668-b77c-68a57a30a095)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Staff`
+
+_Design and build the identity model and real-time authorization engine for AI agents in Delinea's platform, including delegated actions, trust establishment with external identity providers, and the core interfaces that teams across the platform will depend on. This foundational role requires deep expertise in identity and authorization systems at scale, with direct reporting to the Director of Engineering for AI security. · [Apply →](https://jobs.ashbyhq.com/delinea/55f9d530-e76b-4668-b77c-68a57a30a095)_
+
+`OAuth` `OpenID Connect` `Authorization Engines` `Identity Standards` `Distributed Systems` `Cedar` `OPA` `SPIFFE/SPIRE`
+
+<sub>August 18, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior`
+
+_Design and deploy machine learning models for customer intelligence, predictive analytics, and value modeling across the financial services lifecycle. Lead end-to-end initiatives from problem framing through production deployment, experimentation, and measurement, incorporating advanced techniques like reinforcement learning and generative AI. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)_
+
+`Python` `R` `SQL` `Machine Learning` `PyTorch` `TensorFlow` `AWS` `Tableau`
+
+<sub>August 18, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Research Engineer](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)
+<a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Senior` `Equity`
+
+_Build post-training infrastructure for voice and text AI agents, including synthetic data pipelines, training environments, evaluators, and model production systems. Scale open-weight models through fine-tuning and reinforcement learning for reliable tool use and long-horizon reasoning in production voice AI. · [Apply →](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)_
+
+`Python` `PyTorch` `vLLM` `FSDP` `TRL` `Hugging Face` `GPU optimization` `reinforcement learning`
+
+<sub>August 18, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Senior Backend Engineer, Safety](https://job-boards.greenhouse.io/reddit/jobs/8093006)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
+
+_Build backend systems and APIs for Reddit's safety and moderation tools, enabling community moderators to manage 100,000+ communities at scale. Lead technical strategy and mentor engineers on one of the internet's largest platforms. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8093006)_
+
+`Go` `Python` `Rust` `Ruby` `GraphQL` `REST` `gRPC` `Thrift`
+
+<sub>August 18, 2026 at 22:33 UTC</sub>
+
+---
+
+### [Senior Systems Engineer ](https://ursamajor.com/careers/?gh_jid=4725524005)
+<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Senior` `$130k-$163k` `Equity`
+
+_Own system safety, reliability, and mission assurance for fielded solid rocket motors; develop hazard analyses, safety requirements, and risk management strategies for DoD weapons systems. Requires Secret Clearance and expertise with aerospace safety standards and weapons qualification boards. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725524005)_
+
+`Systems Engineering` `FMEA` `Risk Analysis` `MIL-STD-882` `Solid Rocket Motors` `Propulsion Systems` `Aerospace Safety` `Secret Clearance`
+
+<sub>August 18, 2026 at 22:33 UTC</sub>
+
+---
 
 ### [Lead Infrastructure Engineer](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847)
 <a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Feedonomics** · `🟢 Remote` `Senior` `$110k-$186k` `Equity`
@@ -296,6 +373,17 @@ _Build AI-native coding-agent infrastructure — orchestration layers, LLM reaso
 
 ---
 
+### [Senior Security Operations Engineer](https://jobs.lever.co/includedhealth/b3b5352c-0784-41c4-9e2f-062461aef44a)
+<a href="https://grandrounds.com"><img src="https://www.google.com/s2/favicons?domain=grandrounds.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grand Rounds** · `🟢 Remote` `Senior`
+
+_Design, implement, and operate Data Loss Prevention (DLP) systems across corporate and cloud environments, including endpoint, network, and SaaS protections. Lead incident investigation, policy tuning, and automation of security response playbooks to prevent data exfiltration. · [Apply →](https://jobs.lever.co/includedhealth/b3b5352c-0784-41c4-9e2f-062461aef44a)_
+
+`Data Loss Prevention (DLP)` `incident response` `security automation` `endpoint security` `cloud security`
+
+<sub>August 18, 2026 at 17:35 UTC</sub>
+
+---
+
 ### [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8133955)
 <a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
 
@@ -469,39 +557,6 @@ _Own development, testing, and maintenance of quantitative risk models (VaR, SVa
 `Python` `R` `VaR` `Stress Testing` `CIRO 5000` `Financial Risk Modeling` `Derivatives`
 
 <sub>August 17, 2026 at 23:30 UTC</sub>
-
----
-
-### [Senior Software Development Engineer - Platform Enablement](https://jobs.ashbyhq.com/delinea/f5d5569b-0e78-4f13-9353-1e0e45c5627f)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
-
-_Build and operate scalable backend services for the App Registration platform, enabling secure cloud provider integrations across microservices in C#/.NET on Azure and Kubernetes. Deep involvement in identity and access management with responsibility for infrastructure-as-code, CI/CD pipelines, and production systems handling identity security at enterprise scale. · [Apply →](https://jobs.ashbyhq.com/delinea/f5d5569b-0e78-4f13-9353-1e0e45c5627f)_
-
-`C#` `.NET` `Azure` `Kubernetes` `Terraform` `Datadog` `TypeScript` `SQL Server`
-
-<sub>August 17, 2026 at 22:33 UTC</sub>
-
----
-
-### [Staff Systems Engineer, IT ](https://job-boards.greenhouse.io/gitlab/jobs/8705017002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `$126k—$213k` `Equity`
-
-_Build end-to-end automation for employee lifecycle management (onboarding, provisioning, offboarding) and own GitLab's ITSM platform with AI-enabled virtual agents and agentic workflows. Apply SRE principles and infrastructure-as-code practices to scale IT operations across a distributed, all-remote organization. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8705017002)_
-
-`Terraform` `Python` `Okta` `AWS` `GCP` `Azure` `Kubernetes` `REST APIs`
-
-<sub>August 17, 2026 at 22:33 UTC</sub>
-
----
-
-### [Systems Operations Support Analyst](https://job-boards.greenhouse.io/hungryroot/jobs/6145795004)
-<a href="https://hungryroot.com"><img src="https://www.google.com/s2/favicons?domain=hungryroot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hungryroot** · `🟢 Remote` `Junior` `$85k-$100k` `Equity`
-
-_Support and maintain Hungryroot's fulfillment operations platform during off-hours, investigating production incidents across logs, databases, and APIs to keep grocery delivery systems running. Monitor alerts, troubleshoot WMS/OMS integrations, and develop Python automation tools to improve operational reliability. · [Apply →](https://job-boards.greenhouse.io/hungryroot/jobs/6145795004)_
-
-`Python` `SQL` `JSON` `Docker` `Jira`
-
-<sub>August 17, 2026 at 22:33 UTC</sub>
 
 ---
 
