@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **453 open roles** (37 new) &nbsp;·&nbsp; 1770 companies searched
+### **455 open roles** (37 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Field Software Engineer ](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5)
+<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Junior` `Equity`
+
+_Deploy and operate autonomous systems software at customer sites, integrating HavocAI platforms with customer hardware, communications, and sensors while writing field fixes for mission-critical problems. Requires US security clearance and 50-75% travel to support government and military autonomous vehicle deployments. · [Apply →](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5)_
+
+`Python` `C++` `ROS2` `Linux` `Docker` `Kubernetes` `DDS` `Git`
+
+<sub>August 18, 2026 at 03:03 UTC</sub>
+
+---
 
 ### [Director, Analytics Engineering](https://job-boards.greenhouse.io/webflow/jobs/8137782)
 <a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Manager` `$249k-$355k` `Equity`
@@ -407,17 +418,6 @@ _Design and build highly resilient backend services and core platform components
 `Java` `Kotlin` `DropWizard` `AWS` `DynamoDB` `PostgreSQL` `React` `Distributed Systems`
 
 <sub>August 17, 2026 at 04:52 UTC</sub>
-
----
-
-### [Staff Firmware Engineer](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k-$290k` `Equity`
-
-_Build firmware for battery-powered IoT sensors and Linux-based gateways deployed across millions of field devices in commercial fleets and industrial operations. Own hardware bring-up, peripheral drivers, power management, and secure bootloader implementations that determine device reliability and field lifetime. · [Apply →](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536)_
-
-`C` `Golang` `FreeRTOS` `Zephyr` `SPI` `I2C` `UART` `CAN`
-
-<sub>August 17, 2026 at 03:08 UTC</sub>
 
 ---
 
