@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **438 open roles** (29 new) &nbsp;·&nbsp; 1770 companies searched
+### **471 open roles** (33 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,59 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 18, 2026
+
+### [Developer, Authorization](https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41)
+<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Mid` `$123k-$172k (US) / $111k-$155k (CAD)` `Equity`
+
+_Build authorization and access control systems for 1Password's enterprise identity platform, handling cross-product authorization APIs and foundational access governance as the product ecosystem scales. · [Apply →](https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41)_
+
+`Go` `REST APIs` `PostgreSQL` `Kubernetes` `Authorization/Access Control` `Identity Systems` `Testing` `CI/CD`
+
+<sub>August 18, 2026 at 19:34 UTC</sub>
+
+---
+
+### [Manager, Support Engineering, US Government](https://job-boards.greenhouse.io/gitlab/jobs/8707385002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `Equity`
+
+_Lead a support engineering team delivering technical support and troubleshooting for GitLab's US Government customers operating in regulated environments. Manage hiring, team development, on-call rotation, and cross-functional partnerships with product and engineering teams to shape GitLab's government-focused support offerings. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8707385002)_
+
+<sub>August 18, 2026 at 19:34 UTC</sub>
+
+---
+
+### [Agentic AI Engineer](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/Remote---US/Agentic-AI-Engineer_R-102263)
+<a href="https://pax8.com"><img src="https://www.google.com/s2/favicons?domain=pax8.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pax8** · `🟢 Remote` `Senior` `$200k-$250k` `Equity`
+
+_Shape engineering standards, AI adoption strategy, and developer productivity frameworks across Pax8's engineering organization. Lead architecture and governance decisions for AI-assisted development at scale, evaluating emerging agentic platforms and defining measurement frameworks for AI-assisted workflows. · [Apply →](https://pax8inc.wd12.myworkdayjobs.com/Pax8Careers/job/Remote---US/Agentic-AI-Engineer_R-102263)_
+
+`Distributed Systems` `AI/ML Governance` `Autonomous Agents` `Retrieval-Augmented Generation` `Vector Databases` `Agentic Workflows` `DevEx / Developer Productivity` `Architecture Design`
+
+<sub>August 18, 2026 at 19:34 UTC</sub>
+
+---
+
+### [Backend Engineer, Payments](https://stripe.com/jobs/search?gh_jid=6692166)
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Mid`
+
+_Build backend APIs and services handling billions of money movement requests across Stripe's balance management and funds accessibility platforms. Requires expertise in large-scale financial systems and distributed systems at global scale. · [Apply →](https://stripe.com/jobs/search?gh_jid=6692166)_
+
+`gRPC` `GraphQL` `Docker` `Kubernetes` `AWS`
+
+<sub>August 18, 2026 at 19:34 UTC</sub>
+
+---
+
+### [Senior Instrumentation & Controls Engineer](https://ursamajor.com/careers/?gh_jid=4725408005)
+<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Senior` `$116k-$145k` `Equity`
+
+_Design and implement automated control and data acquisition systems for aerospace propulsion manufacturing, using cRIO/PXI platforms, LabVIEW, and Siemens PLCs integrated into SCADA layers. Requires hands-on commissioning of production equipment handling hazardous fluids, high pressures, and energetics in a national security context; U.S. Person status and security clearance eligibility required. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725408005)_
+
+`LabVIEW` `cRIO/PXI` `Siemens S7` `SCADA` `Ignition` `OPCUA` `EtherCAT` `Profinet`
+
+<sub>August 18, 2026 at 19:34 UTC</sub>
+
+---
 
 ### [Senior Linux Engineer, Privileged Access](https://job-boards.greenhouse.io/keepersecurity/jobs/4374346009)
 <a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
@@ -317,17 +370,6 @@ _Design and implement large-scale web crawling and data extraction pipelines pro
 `Java` `Python` `Apache Kafka` `GCP` `BigQuery` `Kubernetes` `Terraform` `Apache Airflow`
 
 <sub>August 17, 2026 at 20:36 UTC</sub>
-
----
-
-### [Sr. Software Engineer, Command & Control](https://jobs.ashbyhq.com/quindar/d52070a1-887c-4a06-b6de-c1e84f683f96)
-<a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Quindar** · Arvada, Colorado / Washington, D.C. / Seattle, Washington · `🟡 Hybrid` `Senior`
-
-_Build the backend Command & Control software that integrates heterogeneous spacecraft into Quindar's satellite operations platform, implementing machine-to-machine communication protocols, binary serialization, stateful command/telemetry handling, and hardware interfaces. Requires expertise in aerospace C2 standards (CCSDS, CSP, CFDP, XTCE) or equivalent systems integration experience in telecommunications, robotics, or defense. · [Apply →](https://jobs.ashbyhq.com/quindar/d52070a1-887c-4a06-b6de-c1e84f683f96)_
-
-`Python` `Rust` `CCSDS` `CSP` `CFDP` `XTCE` `Kubernetes` `PostgreSQL`
-
-<sub>August 17, 2026 at 19:35 UTC</sub>
 
 ---
 
