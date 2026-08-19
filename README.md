@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **438 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
+### **438 open roles** (45 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,17 +13,6 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
-
-### [Tech Architecture Specialist AWS (AI focussed)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
-
-_Design and implement enterprise-scale cloud-native AI solutions on AWS, including Generative AI and Agentic AI applications integrated with LLMs, RAG architectures, and enterprise systems. Architect secure, scalable solutions across modern cloud patterns (serverless, containerized, microservices) while applying governance, compliance, and Responsible AI principles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)_
-
-`AWS` `Python` `Generative AI` `LLMs` `RAG` `Vector Databases` `Kubernetes` `CI/CD`
-
-<sub>August 19, 2026 at 08:49 UTC</sub>
-
----
 
 ### [Software Engineer 2 - RCM (Remote)](https://jobs.ashbyhq.com/rula/9b0241a2-2ec5-4a15-a04d-70ac08d15c4c)
 <a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Mid`
@@ -471,17 +460,6 @@ _Build core software systems that empower Airbnb's global support agents, includ
 _Train, test, deploy, and maintain machine learning models for space industry intelligence community projects. Requires TS/SCI clearance and hands-on work with cloud ML operationalization and Kubernetes in a mission-critical environment. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Machine-Learning-Engineer_R0246351)_
 
 `Python` `Java` `C++` `AWS` `Azure` `Google Cloud` `Kubernetes` `TS/SCI Clearance`
-
-<sub>August 18, 2026 at 16:41 UTC</sub>
-
----
-
-### [Adobe Assets/DAM Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Assets-DAM-Architect_R00348245)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
-
-_Architect enterprise AEM Assets and Digital Asset Management solutions across cloud and on-premises deployments, designing metadata schemas, Dynamic Media configurations, asset migration pipelines, and Adobe Content Supply Chain integrations. Lead technical strategy for large-scale DAM implementations and mentor junior developers on AEM fundamentals and cloud infrastructure. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Assets-DAM-Architect_R00348245)_
-
-`AEM Assets` `Dynamic Media` `Adobe Workfront` `Cloud Manager` `OSGi` `Sling` `HTL` `JCR`
 
 <sub>August 18, 2026 at 16:41 UTC</sub>
 
