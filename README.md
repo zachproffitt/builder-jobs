@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **442 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
+### **438 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -528,17 +528,6 @@ _Lead the Identity and Risk Platform team building and operating authentication,
 `Go` `Java` `Python` `AWS` `GCP` `PostgreSQL` `DynamoDB` `Redis`
 
 <sub>August 18, 2026 at 13:50 UTC</sub>
-
----
-
-### [Implementation Operations Engineer – AI Solutions](https://job-boards.greenhouse.io/komodohealth/jobs/8725146002)
-<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · `🟢 Remote` `Mid`
-
-_Own end-to-end customer implementations and recurring data deliveries for a healthcare AI platform, including onboarding, production workflows, and operational support. Build automation improvements and AI-enabled delivery processes while working with SQL, APIs, and cloud platforms to validate data quality and troubleshoot workflows. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8725146002)_
-
-`SQL` `Python` `Snowflake` `AWS` `Airflow` `APIs` `GenAI tools`
-
-<sub>August 18, 2026 at 10:38 UTC</sub>
 
 ---
 
