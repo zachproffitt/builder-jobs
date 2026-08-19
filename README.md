@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **470 open roles** (33 new) &nbsp;·&nbsp; 1770 companies searched
+### **473 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Software Engineer, Trust](https://careers.airbnb.com/positions/8142827?gh_jid=8142827)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Mid` `$162k-$186k` `Equity`
+
+_Build backend systems and machine learning infrastructure to detect and prevent fraudulent listings across Airbnb's platform. Work at scale with data-driven heuristics and productionalized ML models while collaborating with data scientists, product managers, and operations teams to reduce fraud losses and protect users. · [Apply →](https://careers.airbnb.com/positions/8142827?gh_jid=8142827)_
+
+`Ruby` `Java` `JavaScript` `Python` `Scala` `Machine Learning` `High-scale Backend Systems`
+
+<sub>August 19, 2026 at 23:31 UTC</sub>
+
+---
 
 ### [Senior iOS Engineer, Passport & Commerce](https://careers.airbnb.com/positions/8135797?gh_jid=8135797)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$227k` `Equity`
@@ -292,12 +303,12 @@ _Build real-time image processing software for infrared imaging systems deployed
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
 
-_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
+_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
 
-`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
+`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
 
@@ -333,43 +344,6 @@ _Build scalable platforms and services for revenue cycle management, including p
 `React` `Node.js` `TypeScript` `Kafka` `AWS` `API Design` `Distributed Systems`
 
 <sub>August 19, 2026 at 01:46 UTC</sub>
-
----
-
-<br>
-
-## August 18, 2026
-
-### [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity`
-
-_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems that process radar sensor data to detect and track airborne threats at scale. Requires Top Secret SCI clearance and deep knowledge of tracking algorithms (Kalman filters, particle filters, multiple hypothesis tracking) applied to defense systems deployed operationally. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `MATLAB` `GPU Acceleration` `SQL`
-
-<sub>August 18, 2026 at 23:30 UTC</sub>
-
----
-
-### [Senior Full Stack Engineer, Enterprise, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003)
-<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$163k-$263.67k` `Equity`
-
-_Own end-to-end feature development for LaunchDarkly's Enterprise platform, building governance, access control, and scalability systems that serve global banks and Fortune 100 manufacturers running thousands of engineers and tens of thousands of feature flags. Build across Go backend, TypeScript, and React frontend, working directly with named enterprise customers to turn their constraints into architectural solutions. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003)_
-
-`Go` `TypeScript` `React` `Multi-tenancy` `API Design` `PostgreSQL` `Kubernetes` `Terraform`
-
-<sub>August 18, 2026 at 23:30 UTC</sub>
-
----
-
-### [Engineering Manager, Infrastructure](https://job-boards.greenhouse.io/pilothq/jobs/8723912002)
-<a href="https://pilot.com"><img src="https://www.google.com/s2/favicons?domain=pilot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pilot** · `🟢 Remote` `Manager` `$157k-$267k` `Equity`
-
-_Lead the Infrastructure team building core infrastructure, developer experience, the design system, frontend infrastructure, and security for Meridian, Pilot's bookkeeping platform serving thousands of accounting firms. Manage a remote team of engineers shipping Python backend and Vue.js/TypeScript frontend systems on AWS with Terraform, Docker, and PostgreSQL. · [Apply →](https://job-boards.greenhouse.io/pilothq/jobs/8723912002)_
-
-`Python` `TypeScript` `Vue.js` `Terraform` `AWS` `PostgreSQL` `Docker` `Honeycomb`
-
-<sub>August 18, 2026 at 23:30 UTC</sub>
 
 ---
 
