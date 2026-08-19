@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **460 open roles** (44 new) &nbsp;·&nbsp; 1770 companies searched
+### **464 open roles** (37 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Senior Migration Engineer - GitLab Dedicated](https://job-boards.greenhouse.io/gitlab/jobs/8710061002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$152k–$259k` `Equity`
+
+_Lead customer migrations from self-managed GitLab to GitLab Dedicated using GitLab Geo for data replication and Kubernetes-based infrastructure. Design and automate migration runbooks handling network connectivity, DNS configuration, and cutover validation across isolated cloud environments. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8710061002)_
+
+`Terraform` `Ansible` `Kubernetes` `GitLab` `AWS` `GCP` `Azure` `Go`
+
+<sub>August 19, 2026 at 20:38 UTC</sub>
+
+---
+
+### [Security Incident Response Engineer](https://stripe.com/jobs/search?gh_jid=8142302)
+<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Mid`
+
+_Build detection models and incident response systems that analyze user and entity behavior to identify and respond to threats at scale. Develop security analytics pipelines and signals enrichment logic to differentiate legitimate from malicious activity across Stripe's infrastructure. · [Apply →](https://stripe.com/jobs/search?gh_jid=8142302)_
+
+`Python` `SQL` `PySpark` `Pandas` `Splunk` `Databricks` `Log Analysis` `Digital Forensics`
+
+<sub>August 19, 2026 at 20:38 UTC</sub>
+
+---
 
 ### [Lead Machine Learning Engineer](https://job-boards.greenhouse.io/maymobility/jobs/8730957002)
 <a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · `🟢 Remote` `Senior` `$220k-$270k` `Equity`
@@ -161,7 +183,7 @@ _Build communication systems software for satellites, UAVs, and launch vehicles 
 ---
 
 ### [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)
-<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Senior` `$98k-$143k`
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$98k-$143k`
 
 _Build AI applications and agents that transform complex technical information into accurate customer documentation, using LLMs and automation to improve content creation and publishing workflows. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)_
 
@@ -392,105 +414,6 @@ _Design and develop simulation and modeling tools for aerospace systems, includi
 `C#` `.NET` `Angular` `TypeScript` `JavaScript` `SQL Server` `Docker` `Kubernetes`
 
 <sub>August 18, 2026 at 21:32 UTC</sub>
-
----
-
-### [Sr Salesforce Admin & Developer (Revenue Cloud)](https://anovasolutions.bamboohr.com/careers/463)
-<a href="https://anova.com"><img src="https://www.google.com/s2/favicons?domain=anova.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anova Technologies** · `🟢 Remote` `Senior`
-
-_Own the administration and custom development of Anova's unified Salesforce Revenue Cloud instance, including configuration, Apex/Lightning Web Components development, release management, and integrations across ERP, marketing automation, and order management systems. Lead a team of Salesforce admins/developers while reducing dependency on external implementation partners. · [Apply →](https://anovasolutions.bamboohr.com/careers/463)_
-
-`Salesforce` `Apex` `Lightning Web Components` `SOQL` `REST API` `Revenue Cloud` `Git` `Flows`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Staff Backend Engineer - Mimir Query, Databases | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
-
-_Build and operate Mimir's query engine, a distributed metrics database handling millions of queries per day at scale on Kubernetes across AWS, GCP, and Azure. Own reliability, performance, and availability of critical query path systems serving 7,000+ customers including Microsoft, NVIDIA, and Salesforce. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)_
-
-`Go` `Kubernetes` `Distributed Systems` `Prometheus` `Grafana` `Kafka` `PostgreSQL` `Claude`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Staff Backend Engineer - Mimir Query, Databases | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
-
-_Build and operate Mimir, a multi-tenant distributed metrics database serving millions of users at Grafana Cloud, optimizing query performance, reliability, and efficiency across Kubernetes and major cloud providers. Requires on-call participation and experience with large-scale distributed systems in production. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)_
-
-`Go` `Kubernetes` `Distributed Systems` `Prometheus` `PostgreSQL` `AWS` `Kafka` `Grafana`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Software Engineer II, Fullstack](https://www.pinterestcareers.com/jobs/?gh_jid=4843547)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Mid` `$123k-$254k` `Equity`
-
-_Design and implement full-stack user-facing features for Pinterest's discovery and inspiration platform. Own features end-to-end from prototyping through A/B testing and scalable release. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=4843547)_
-
-`JavaScript` `React` `API Design` `PostgreSQL` `Redis` `Backend Frameworks` `Testing & QA`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Software Engineer, Content Platform](https://job-boards.greenhouse.io/reddit/jobs/8139781)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k–$229k` `Equity`
-
-_Design and build scalable Go and Python services for Reddit's Content Platform, powering core user journeys like feeds, posting, and commenting across Tier-0 infrastructure serving 130M+ daily active users. Navigate complex monolith legacy systems and modern microservices while collaborating across product teams to improve availability, latency, and efficiency at massive scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8139781)_
-
-`Go` `Python` `Kubernetes` `PostgreSQL` `Cassandra` `Redis` `gRPC` `AWS`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Senior Engineering Manager Twilio’s Conversational Agents](https://job-boards.greenhouse.io/twilio/jobs/7926887)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Manager` `$207.2k-$304.6k` `Equity`
-
-_Lead the Agent Implementations team building AI agents that consume Twilio platform capabilities and power internal business workflows. Requires hands-on experience shipping production code alongside managing and mentoring engineering teams in a rapidly evolving AI/LLM space. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7926887)_
-
-`Python` `LLMs` `Production Systems` `AI/ML Infrastructure`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Controls Engineer II (PLC)](https://ursamajor.com/careers/?gh_jid=4725424005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Mid` `$90k-$113k` `Equity`
-
-_Design and deploy PLC-based automation systems and production equipment for propulsion manufacturing, including motion control, SCADA integration, and instrumentation across test fixtures and facility-scale systems. Requires hands-on commissioning of safety-critical equipment handling hazardous materials, high pressures, and energetics in an AS9100/ISO 9001 aerospace and defense environment. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725424005)_
-
-`PLC (Siemens S7)` `SCADA` `Motion Control Systems` `P&ID Design` `Electrical Schematics` `Ignition` `Industrial Communications` `FMEA`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Controls Engineer II (SCADA)](https://ursamajor.com/careers/?gh_jid=4725410005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Mid` `$90k-$113k` `Equity`
-
-_Develop Ursa Major's SCADA platform, HMI interfaces, and data historian for advanced propulsion manufacturing facilities in northern Colorado. Role requires hands-on integration of PLCs, sensors, and industrial control systems with security clearance eligibility and on-site presence in Berthoud, CO. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725410005)_
-
-`Ignition SCADA` `Siemens TIA Portal` `PLC programming` `PostgreSQL` `HMI design` `ISA standards` `Industrial Ethernet` `FMEA`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Propellant Development Engineer II](https://ursamajor.com/careers/?gh_jid=4725439005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Mid` `$90k-$112k` `Equity`
-
-_Develop and test solid rocket motor propellants through formulation, mixing, casting, and performance evaluation; scale formulations from lab to production. Requires hands-on work with energetic materials and hazardous chemical processing in a defense contractor environment; US Person status and security clearance eligibility required. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725439005)_
-
-`Chemistry` `Chemical Engineering` `Materials Science` `Polymer Chemistry` `Energetic Materials` `Root Cause Analysis`
-
-<sub>August 18, 2026 at 20:33 UTC</sub>
 
 ---
 
