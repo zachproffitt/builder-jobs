@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **450 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
+### **445 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -528,17 +528,6 @@ _Own end-to-end customer implementations and recurring data deliveries for a hea
 `SQL` `Python` `Snowflake` `AWS` `Airflow` `APIs` `GenAI tools`
 
 <sub>August 18, 2026 at 10:38 UTC</sub>
-
----
-
-### [Field Software Engineer ](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5)
-<a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Junior` `Equity`
-
-_Deploy and operate autonomous systems software at customer sites, integrating HavocAI platforms with customer hardware, communications, and sensors while writing field fixes for mission-critical problems. Requires US security clearance and 50-75% travel to support government and military autonomous vehicle deployments. · [Apply →](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5)_
-
-`Python` `C++` `ROS2` `Linux` `Docker` `Kubernetes` `DDS` `Git`
-
-<sub>August 18, 2026 at 03:03 UTC</sub>
 
 ---
 
