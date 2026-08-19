@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **433 open roles** (46 new) &nbsp;·&nbsp; 1770 companies searched
+### **460 open roles** (44 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Lead Machine Learning Engineer](https://job-boards.greenhouse.io/maymobility/jobs/8730957002)
+<a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · `🟢 Remote` `Senior` `$220k-$270k` `Equity`
+
+_Design, train, and evaluate machine learning models for autonomous vehicle perception, simulation, and decision-making at commercial scale (petabyte-scale datasets). Lead small teams advancing vision-language models, world models, and foundation models in robotics; requires 4+ years building commercial robotics systems and 1+ year mentoring ML engineers. · [Apply →](https://job-boards.greenhouse.io/maymobility/jobs/8730957002)_
+
+`Python` `PyTorch` `Vision Language Action Models` `Generative World Models` `LiDAR` `Camera Processing` `Radar Processing` `CUDA`
+
+<sub>August 19, 2026 at 19:33 UTC</sub>
+
+---
 
 ### [Sr. Lead Engineer, Integration & Automation](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Lead-Engineer--Integration---Automation_JR115776)
 <a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Senior` `$168k-$269k` `Equity`
@@ -150,7 +161,7 @@ _Build communication systems software for satellites, UAVs, and launch vehicles 
 ---
 
 ### [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$98k-$143k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Senior` `$98k-$143k`
 
 _Build AI applications and agents that transform complex technical information into accurate customer documentation, using LLMs and automation to improve content creation and publishing workflows. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)_
 
@@ -160,12 +171,23 @@ _Build AI applications and agents that transform complex technical information i
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
+### [Senior Embedded Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
 
-_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
+_Build real-time image processing software for infrared imaging systems deployed on embedded, SWAP-limited hardware; requires deep expertise in Linux systems, NixOS configuration, and C++/CUDA pipelines for defense applications, plus active or eligibility for U.S. security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007)_
 
-`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
+`C++` `CUDA` `Linux` `Nix/NixOS` `Python` `Rust` `C` `TS/SCI Clearance`
+
+<sub>August 19, 2026 at 13:51 UTC</sub>
+
+---
+
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+
+_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
+
+`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
 
@@ -208,6 +230,17 @@ _Build scalable platforms and services for revenue cycle management, including p
 
 ## August 18, 2026
 
+### [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity`
+
+_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems that process radar sensor data to detect and track airborne threats at scale. Requires Top Secret SCI clearance and deep knowledge of tracking algorithms (Kalman filters, particle filters, multiple hypothesis tracking) applied to defense systems deployed operationally. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)_
+
+`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `MATLAB` `GPU Acceleration` `SQL`
+
+<sub>August 18, 2026 at 23:30 UTC</sub>
+
+---
+
 ### [Senior Full Stack Engineer, Enterprise, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$163k-$263.67k` `Equity`
 
@@ -247,17 +280,6 @@ _Lead the information security program and IT/TechOps team for a Series B fintec
 _Build integrations that discover, identify, and govern AI agents across third-party platforms like Salesforce Agentforce, AWS, and Google Cloud by leveraging native identity signals and provider APIs. This requires solving complex integration problems at scale, reusing shared identity and policy infrastructure across multiple ecosystems. · [Apply →](https://jobs.ashbyhq.com/delinea/15e29247-e9c3-44ef-b8fa-e0e7c55c0944)_
 
 `C#` `Go` `Java` `Python` `OAuth` `Salesforce` `Microsoft Entra` `API Integration`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Staff Software Engineer - Agent Identity & Core Primitives](https://jobs.ashbyhq.com/delinea/55f9d530-e76b-4668-b77c-68a57a30a095)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Staff`
-
-_Design and build the identity model and real-time authorization engine for AI agents in Delinea's platform, including delegated actions, trust establishment with external identity providers, and the core interfaces that teams across the platform will depend on. This foundational role requires deep expertise in identity and authorization systems at scale, with direct reporting to the Director of Engineering for AI security. · [Apply →](https://jobs.ashbyhq.com/delinea/55f9d530-e76b-4668-b77c-68a57a30a095)_
-
-`OAuth` `OpenID Connect` `Authorization Engines` `Identity Standards` `Distributed Systems` `Cedar` `OPA` `SPIFFE/SPIRE`
 
 <sub>August 18, 2026 at 22:33 UTC</sub>
 
@@ -469,48 +491,6 @@ _Develop and test solid rocket motor propellants through formulation, mixing, ca
 `Chemistry` `Chemical Engineering` `Materials Science` `Polymer Chemistry` `Energetic Materials` `Root Cause Analysis`
 
 <sub>August 18, 2026 at 20:33 UTC</sub>
-
----
-
-### [Developer, Authorization](https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41)
-<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Mid` `$123k-$172k (US) / $111k-$155k (CAD)` `Equity`
-
-_Build authorization and access control systems for 1Password's enterprise identity platform, handling cross-product authorization APIs and foundational access governance as the product ecosystem scales. · [Apply →](https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41)_
-
-`Go` `REST APIs` `PostgreSQL` `Kubernetes` `Authorization/Access Control` `Identity Systems` `Testing` `CI/CD`
-
-<sub>August 18, 2026 at 19:34 UTC</sub>
-
----
-
-### [Manager, Support Engineering, US Government](https://job-boards.greenhouse.io/gitlab/jobs/8707385002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Manager` `Equity`
-
-_Lead a support engineering team delivering technical support and troubleshooting for GitLab's US Government customers operating in regulated environments. Manage hiring, team development, on-call rotation, and cross-functional partnerships with product and engineering teams to shape GitLab's government-focused support offerings. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8707385002)_
-
-<sub>August 18, 2026 at 19:34 UTC</sub>
-
----
-
-### [Backend Engineer, Payments](https://stripe.com/jobs/search?gh_jid=6692166)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Mid`
-
-_Build backend APIs and services handling billions of money movement requests across Stripe's balance management and funds accessibility platforms. Requires expertise in large-scale financial systems and distributed systems at global scale. · [Apply →](https://stripe.com/jobs/search?gh_jid=6692166)_
-
-`gRPC` `GraphQL` `Docker` `Kubernetes` `AWS`
-
-<sub>August 18, 2026 at 19:34 UTC</sub>
-
----
-
-### [Senior Instrumentation & Controls Engineer](https://ursamajor.com/careers/?gh_jid=4725408005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Senior` `$116k-$145k` `Equity`
-
-_Design and implement automated control and data acquisition systems for aerospace propulsion manufacturing, using cRIO/PXI platforms, LabVIEW, and Siemens PLCs integrated into SCADA layers. Requires hands-on commissioning of production equipment handling hazardous fluids, high pressures, and energetics in a national security context; U.S. Person status and security clearance eligibility required. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725408005)_
-
-`LabVIEW` `cRIO/PXI` `Siemens S7` `SCADA` `Ignition` `OPCUA` `EtherCAT` `Profinet`
-
-<sub>August 18, 2026 at 19:34 UTC</sub>
 
 ---
 
