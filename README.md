@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **469 open roles** (36 new) &nbsp;·&nbsp; 1770 companies searched
+### **470 open roles** (33 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Senior iOS Engineer, Passport & Commerce](https://careers.airbnb.com/positions/8135797?gh_jid=8135797)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$227k` `Equity`
+
+_Build iOS experiences for Airbnb's account and commerce platform, owning complex features end-to-end from design through launch for millions of guests and hosts. Establish patterns and iOS engineering practices for a newly formed team integrating identity, payments, and profile foundations. · [Apply →](https://careers.airbnb.com/positions/8135797?gh_jid=8135797)_
+
+`Swift` `SwiftUI` `iOS` `Kotlin` `Redux` `MVI/MVVM` `Dependency Injection` `Performance Optimization`
+
+<sub>August 19, 2026 at 22:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Takeoff](https://job-boards.greenhouse.io/pilothq/jobs/8729126002)
+<a href="https://pilot.com"><img src="https://www.google.com/s2/favicons?domain=pilot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pilot** · `🟢 Remote` `Senior` `$133k-$192k` `Equity`
+
+_Build and maintain core accounting systems for bookkeeping software, including transaction categorization, revenue recognition, and financial reporting. Work with a fully-typed Python backend and TypeScript/Vue frontend on a system that directly impacts customer financial accuracy; requires production experience with Python or Vue and strong systems judgment in a regulated fintech domain. · [Apply →](https://job-boards.greenhouse.io/pilothq/jobs/8729126002)_
+
+`Python` `TypeScript` `Vue.js` `PostgreSQL` `AWS` `Terraform` `Accounting Systems` `Revenue Recognition`
+
+<sub>August 19, 2026 at 22:34 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Takeoff](https://job-boards.greenhouse.io/pilothq/jobs/8729123002)
+<a href="https://pilot.com"><img src="https://www.google.com/s2/favicons?domain=pilot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pilot** · `🟢 Remote` `Staff` `$200k-$240k (most remote locations); $230k-$280k (San Francisco, CA / New York, NY)` `Equity`
+
+_Lead the design and evolution of Pilot's core accounting systems that categorize transactions, recognize revenue across platforms like Stripe and Shopify, and power accurate financial reporting for thousands of small businesses. Drive technical strategy across multiple teams for systems that sit at the foundation of the product, with daily deployment cadence and direct customer impact. · [Apply →](https://job-boards.greenhouse.io/pilothq/jobs/8729123002)_
+
+`Python` `TypeScript` `PostgreSQL` `AWS` `Terraform` `Vue.js` `Accounting Systems` `Revenue Recognition`
+
+<sub>August 19, 2026 at 22:34 UTC</sub>
+
+---
 
 ### [Staff AI Marketing Systems Engineer](https://jobs.ashbyhq.com/1password/c03b0c63-a5e1-49ad-9063-b05e50020acb)
 <a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Staff` `$139k-$202k USD / $124k-$180k CAD` `Equity`
@@ -337,72 +370,6 @@ _Lead the Infrastructure team building core infrastructure, developer experience
 `Python` `TypeScript` `Vue.js` `Terraform` `AWS` `PostgreSQL` `Docker` `Honeycomb`
 
 <sub>August 18, 2026 at 23:30 UTC</sub>
-
----
-
-### [Manager of Information Security](https://jobs.ashbyhq.com/clasp-group/01461ef9-7278-435d-a9f2-4d729b8787c6)
-<a href="https://clasp.com"><img src="https://www.google.com/s2/favicons?domain=clasp.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Clasp** · `🟢 Remote` `Manager` `$170k-$190k` `Equity`
-
-_Lead the information security program and IT/TechOps team for a Series B fintech company; build internal SIEM, IDS, and vulnerability management capabilities alongside SOC 2 compliance and cloud security hardening on GCP. · [Apply →](https://jobs.ashbyhq.com/clasp-group/01461ef9-7278-435d-a9f2-4d729b8787c6)_
-
-`CISSP` `GCP` `Terraform` `SIEM` `Vulnerability Management` `SOC 2` `IAM` `Incident Response`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Staff Software Engineer - AI - Platform Integrations](https://jobs.ashbyhq.com/delinea/15e29247-e9c3-44ef-b8fa-e0e7c55c0944)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Staff`
-
-_Build integrations that discover, identify, and govern AI agents across third-party platforms like Salesforce Agentforce, AWS, and Google Cloud by leveraging native identity signals and provider APIs. This requires solving complex integration problems at scale, reusing shared identity and policy infrastructure across multiple ecosystems. · [Apply →](https://jobs.ashbyhq.com/delinea/15e29247-e9c3-44ef-b8fa-e0e7c55c0944)_
-
-`C#` `Go` `Java` `Python` `OAuth` `Salesforce` `Microsoft Entra` `API Integration`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Senior Data Scientist](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior`
-
-_Design and deploy machine learning models for customer intelligence, predictive analytics, and value modeling across the financial services lifecycle. Lead end-to-end initiatives from problem framing through production deployment, experimentation, and measurement, incorporating advanced techniques like reinforcement learning and generative AI. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)_
-
-`Python` `R` `SQL` `Machine Learning` `PyTorch` `TensorFlow` `AWS` `Tableau`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Research Engineer (Reinforcement Learning)](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)
-<a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Senior` `Equity`
-
-_Build post-training infrastructure for voice and text AI agents, including synthetic data pipelines, training environments, evaluators, and model production systems. Scale open-weight models through fine-tuning and reinforcement learning for reliable tool use and long-horizon reasoning in production voice AI. · [Apply →](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)_
-
-`Python` `PyTorch` `vLLM` `FSDP` `TRL` `Hugging Face` `GPU optimization` `reinforcement learning`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Senior Backend Engineer, Safety](https://job-boards.greenhouse.io/reddit/jobs/8093006)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
-
-_Build backend systems and APIs for Reddit's safety and moderation tools, enabling community moderators to manage 100,000+ communities at scale. Lead technical strategy and mentor engineers on one of the internet's largest platforms. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8093006)_
-
-`Go` `Python` `Rust` `Ruby` `GraphQL` `REST` `gRPC` `Thrift`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Senior Systems Engineer ](https://ursamajor.com/careers/?gh_jid=4725524005)
-<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Senior` `$130k-$163k` `Equity`
-
-_Own system safety, reliability, and mission assurance for fielded solid rocket motors; develop hazard analyses, safety requirements, and risk management strategies for DoD weapons systems. Requires Secret Clearance and expertise with aerospace safety standards and weapons qualification boards. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725524005)_
-
-`Systems Engineering` `FMEA` `Risk Analysis` `MIL-STD-882` `Solid Rocket Motors` `Propulsion Systems` `Aerospace Safety` `Secret Clearance`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
 
 ---
 

@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **279 open roles** (21 new)
+### **282 open roles** (20 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,39 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 19, 2026
+
+### [Senior iOS Engineer, Passport & Commerce](https://careers.airbnb.com/positions/8135797?gh_jid=8135797)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$227k` `Equity`
+
+_Build iOS experiences for Airbnb's account and commerce platform, owning complex features end-to-end from design through launch for millions of guests and hosts. Establish patterns and iOS engineering practices for a newly formed team integrating identity, payments, and profile foundations. · [Apply →](https://careers.airbnb.com/positions/8135797?gh_jid=8135797)_
+
+`Swift` `SwiftUI` `iOS` `Kotlin` `Redux` `MVI/MVVM` `Dependency Injection` `Performance Optimization`
+
+<sub>August 19, 2026 at 22:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Takeoff](https://job-boards.greenhouse.io/pilothq/jobs/8729126002)
+<a href="https://pilot.com"><img src="https://www.google.com/s2/favicons?domain=pilot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pilot** · `🟢 Remote` `Senior` `$133k-$192k` `Equity`
+
+_Build and maintain core accounting systems for bookkeeping software, including transaction categorization, revenue recognition, and financial reporting. Work with a fully-typed Python backend and TypeScript/Vue frontend on a system that directly impacts customer financial accuracy; requires production experience with Python or Vue and strong systems judgment in a regulated fintech domain. · [Apply →](https://job-boards.greenhouse.io/pilothq/jobs/8729126002)_
+
+`Python` `TypeScript` `Vue.js` `PostgreSQL` `AWS` `Terraform` `Accounting Systems` `Revenue Recognition`
+
+<sub>August 19, 2026 at 22:34 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Takeoff](https://job-boards.greenhouse.io/pilothq/jobs/8729123002)
+<a href="https://pilot.com"><img src="https://www.google.com/s2/favicons?domain=pilot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pilot** · `🟢 Remote` `Staff` `$200k-$240k (most remote locations); $230k-$280k (San Francisco, CA / New York, NY)` `Equity`
+
+_Lead the design and evolution of Pilot's core accounting systems that categorize transactions, recognize revenue across platforms like Stripe and Shopify, and power accurate financial reporting for thousands of small businesses. Drive technical strategy across multiple teams for systems that sit at the foundation of the product, with daily deployment cadence and direct customer impact. · [Apply →](https://job-boards.greenhouse.io/pilothq/jobs/8729123002)_
+
+`Python` `TypeScript` `PostgreSQL` `AWS` `Terraform` `Vue.js` `Accounting Systems` `Revenue Recognition`
+
+<sub>August 19, 2026 at 22:34 UTC</sub>
+
+---
 
 ### [Staff AI Marketing Systems Engineer](https://jobs.ashbyhq.com/1password/c03b0c63-a5e1-49ad-9063-b05e50020acb)
 <a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Staff` `$139k-$202k USD / $124k-$180k CAD` `Equity`
@@ -555,12 +588,12 @@ _Support and maintain Hungryroot's fulfillment operations platform during off-ho
 
 ---
 
-### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)
+### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Mid` `$170k-$180k` `Equity`
 
-_Build AI-powered workflows, automations, and integrations across Salesforce, Agentforce, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement scalable solutions using object-oriented programming, APIs, and low-code platforms to turn GTM team pain points into production systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137884)_
+_Build AI-powered workflows and automations across Salesforce, Agentforce, Workato, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement data models for opportunity scoring, lead routing, and buyer-intent analytics integrated with external enrichment platforms. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)_
 
-`Salesforce` `Apex` `Python` `JavaScript` `Agentforce` `Workato` `Zapier` `REST APIs`
+`Salesforce` `Apex` `JavaScript` `Python` `Agentforce` `Workato` `Zapier` `REST APIs`
 
 <sub>August 17, 2026 at 21:33 UTC</sub>
 
