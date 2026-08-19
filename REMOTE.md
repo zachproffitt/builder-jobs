@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **275 open roles** (20 new)
+### **279 open roles** (21 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,50 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 19, 2026
+
+### [Staff AI Marketing Systems Engineer](https://jobs.ashbyhq.com/1password/c03b0c63-a5e1-49ad-9063-b05e50020acb)
+<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Staff` `$139k-$202k USD / $124k-$180k CAD` `Equity`
+
+_Build production AI agent systems that serve Sales and Marketing teams with signal-driven guidance, personalized messaging, and real-time content by designing agent architecture, integrating with Salesforce/Seismic/Gong/Snowflake, and operating reliability guardrails for trusted autonomous execution. Requires 6+ years shipping production AI systems with LLM APIs, tool calling, retrieval, and agent workflows; go-to-market domain knowledge preferred. · [Apply →](https://jobs.ashbyhq.com/1password/c03b0c63-a5e1-49ad-9063-b05e50020acb)_
+
+`LLMs` `Claude` `Agent Frameworks` `LangChain` `LangGraph` `Retrieval Systems` `Salesforce` `Seismic`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Payments Platform ](https://careers.airbnb.com/positions/8138002?gh_jid=8138002)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior`
+
+_Design and build scalable, highly available payment systems that orchestrate and record billions of dollars in transactions across 191 countries and 75 currencies. Lead cross-functional technical initiatives on the core billing and payouts platform; mentor junior engineers and drive systemic improvements across the payments ecosystem. · [Apply →](https://careers.airbnb.com/positions/8138002?gh_jid=8138002)_
+
+`Distributed Systems` `Payments/Fintech` `High Availability Systems` `Scalability` `Data-Driven Optimization` `System Design` `Technical Leadership`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
+
+### [IT Engineer](https://jobs.ashbyhq.com/livekit/e8c2864e-7b1c-4618-a46d-a9227339c82b)
+<a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Mid` `Equity`
+
+_Build and own identity, endpoint, and access governance systems across Okta, Workspace ONE, and Google Workspace; engineer automation that replaces manual IT work at scale. Internal systems are in audit scope for SOC 2, ISO 27001, and PCI — controls must hold up under auditor review. · [Apply →](https://jobs.ashbyhq.com/livekit/e8c2864e-7b1c-4618-a46d-a9227339c82b)_
+
+`Okta` `Workspace ONE` `Google Workspace` `Bash` `Python` `macOS` `Slack administration`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
+
+### [Principal Engineer, Core - Pinner Journeys](https://www.pinterestcareers.com/jobs/?gh_jid=8052679)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Principal` `$242k—$449k` `Equity`
+
+_Define technical strategy and architecture for Pinterest's Homefeed, Search, and AI Assistant, leading the design of large-scale retrieval, ranking, and LLM-integrated systems that serve hundreds of millions of users. Requires 15+ years in large-scale systems and ML with deep expertise in search, recommendations, or conversational AI, and a track record of driving cross-org architectural transformations. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8052679)_
+
+`Learning-to-Rank` `Large Language Models` `Retrieval Systems` `Representation Learning` `Multi-objective Optimization` `Search Systems` `Embeddings` `RAG`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
 
 ### [Senior Migration Engineer - GitLab Dedicated](https://job-boards.greenhouse.io/gitlab/jobs/8710061002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$152k–$259k` `Equity`
@@ -1603,12 +1647,12 @@ _Lead AI and MarTech strategy for Pinterest's marketing organization, owning end
 
 ---
 
-### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
+### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
 
-_Design and build production AI systems including agent orchestration, retrieval pipelines, and evaluation frameworks; architect and maintain marketing databases, CDPs, and data pipelines to enable advanced analytics and automation. Requires hands-on experience shipping LLM/agentic systems in production and deep expertise with modern data warehousing. · [Apply →](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)_
+_Design and build production AI systems including agent orchestration and retrieval pipelines, while architecting marketing data infrastructure, ETL pipelines, and a Customer Data Platform to enable segmentation and analytics at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)_
 
-`Python` `SQL` `LLMs` `Agents` `Databricks` `dbt` `Snowflake` `BigQuery`
+`Python` `SQL` `LLMs` `Databricks` `dbt` `Snowflake` `BigQuery` `Agentic Coding Tools`
 
 <sub>August 12, 2026 at 19:14 UTC</sub>
 

@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **464 open roles** (37 new) &nbsp;·&nbsp; 1770 companies searched
+### **469 open roles** (36 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Staff AI Marketing Systems Engineer](https://jobs.ashbyhq.com/1password/c03b0c63-a5e1-49ad-9063-b05e50020acb)
+<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Staff` `$139k-$202k USD / $124k-$180k CAD` `Equity`
+
+_Build production AI agent systems that serve Sales and Marketing teams with signal-driven guidance, personalized messaging, and real-time content by designing agent architecture, integrating with Salesforce/Seismic/Gong/Snowflake, and operating reliability guardrails for trusted autonomous execution. Requires 6+ years shipping production AI systems with LLM APIs, tool calling, retrieval, and agent workflows; go-to-market domain knowledge preferred. · [Apply →](https://jobs.ashbyhq.com/1password/c03b0c63-a5e1-49ad-9063-b05e50020acb)_
+
+`LLMs` `Claude` `Agent Frameworks` `LangChain` `LangGraph` `Retrieval Systems` `Salesforce` `Seismic`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Payments Platform ](https://careers.airbnb.com/positions/8138002?gh_jid=8138002)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior`
+
+_Design and build scalable, highly available payment systems that orchestrate and record billions of dollars in transactions across 191 countries and 75 currencies. Lead cross-functional technical initiatives on the core billing and payouts platform; mentor junior engineers and drive systemic improvements across the payments ecosystem. · [Apply →](https://careers.airbnb.com/positions/8138002?gh_jid=8138002)_
+
+`Distributed Systems` `Payments/Fintech` `High Availability Systems` `Scalability` `Data-Driven Optimization` `System Design` `Technical Leadership`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
+
+### [Astrodynamicist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Astrodynamicist_R0246353)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
+
+_Build astrodynamics simulations and analysis tools supporting space missions and intelligence community research. Requires active TS/SCI clearance and PhD in Physics or Astronautical Engineering. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Astrodynamicist_R0246353)_
+
+`Astrodynamics` `High-Performance Computing` `Cloud Computing` `Machine Learning` `AWS` `TS/SCI Clearance` `PhD Required`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
+
+### [IT Engineer](https://jobs.ashbyhq.com/livekit/e8c2864e-7b1c-4618-a46d-a9227339c82b)
+<a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Mid` `Equity`
+
+_Build and own identity, endpoint, and access governance systems across Okta, Workspace ONE, and Google Workspace; engineer automation that replaces manual IT work at scale. Internal systems are in audit scope for SOC 2, ISO 27001, and PCI — controls must hold up under auditor review. · [Apply →](https://jobs.ashbyhq.com/livekit/e8c2864e-7b1c-4618-a46d-a9227339c82b)_
+
+`Okta` `Workspace ONE` `Google Workspace` `Bash` `Python` `macOS` `Slack administration`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
+
+### [Principal Engineer, Core - Pinner Journeys](https://www.pinterestcareers.com/jobs/?gh_jid=8052679)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Principal` `$242k—$449k` `Equity`
+
+_Define technical strategy and architecture for Pinterest's Homefeed, Search, and AI Assistant, leading the design of large-scale retrieval, ranking, and LLM-integrated systems that serve hundreds of millions of users. Requires 15+ years in large-scale systems and ML with deep expertise in search, recommendations, or conversational AI, and a track record of driving cross-org architectural transformations. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8052679)_
+
+`Learning-to-Rank` `Large Language Models` `Retrieval Systems` `Representation Learning` `Multi-objective Optimization` `Search Systems` `Embeddings` `RAG`
+
+<sub>August 19, 2026 at 21:33 UTC</sub>
+
+---
 
 ### [Senior Migration Engineer - GitLab Dedicated](https://job-boards.greenhouse.io/gitlab/jobs/8710061002)
 <a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `$152k–$259k` `Equity`
@@ -348,72 +403,6 @@ _Own system safety, reliability, and mission assurance for fielded solid rocket 
 `Systems Engineering` `FMEA` `Risk Analysis` `MIL-STD-882` `Solid Rocket Motors` `Propulsion Systems` `Aerospace Safety` `Secret Clearance`
 
 <sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Lead Infrastructure Engineer](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847)
-<a href="https://feedonomics.com"><img src="https://www.google.com/s2/favicons?domain=feedonomics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Feedonomics** · `🟢 Remote` `Senior` `$110k-$186k` `Equity`
-
-_Design and operate multi-data center infrastructure spanning on-prem hardware, GCP, and AWS environments; lead automation of infrastructure deployment and migration from legacy tooling to modern IaC. Requires 10+ years of hands-on infrastructure operations including physical hardware management, Linux systems administration, and core networking at scale. · [Apply →](https://bigcommerce.wd12.myworkdayjobs.com/Commerce/job/United-States---Remote/Lead-Infrastructure-Engineer_JR102847)_
-
-`Terraform` `Ansible` `Puppet` `Python` `GCP` `Kubernetes` `Prometheus` `Grafana`
-
-<sub>August 18, 2026 at 21:32 UTC</sub>
-
----
-
-### [Staff Machine Learning Engineer](https://job-boards.greenhouse.io/federato/jobs/5394648008)
-<a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Federato** · `🟢 Remote` `Staff` `$210k-$250k` `Equity`
-
-_Design and implement scalable ML pipelines for insurance automation using LLMs and classical ML, serving as technical lead for a team deploying AI-native systems to production. Build reusable ML/LLM infrastructure, CI/CD pipelines, and observability systems for a rapidly growing platform backed by $180M in funding. · [Apply →](https://job-boards.greenhouse.io/federato/jobs/5394648008)_
-
-`Machine Learning` `LLM` `Python` `PyTorch` `TensorFlow` `Kubernetes` `AWS` `MLOps`
-
-<sub>August 18, 2026 at 21:32 UTC</sub>
-
----
-
-### [Security Engineer, Application Security](https://jobs.ashbyhq.com/gamechanger/8c2edc2c-6da1-4719-abbf-30fb302fce9f)
-<a href="https://gamechanger.com"><img src="https://www.google.com/s2/favicons?domain=gamechanger.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GameChanger** · `🟢 Remote` `Mid` `$120k-$140k` `Equity`
-
-_Build and operate application security systems across the SDLC, embedding threat modeling, secure code review, and DevSecOps tooling into CI/CD pipelines. Champion secure-by-design practices for AI/LLM integration and cloud infrastructure (AWS, Kubernetes, Terraform) while leading vulnerability triage and risk management across multiple security tools. · [Apply →](https://jobs.ashbyhq.com/gamechanger/8c2edc2c-6da1-4719-abbf-30fb302fce9f)_
-
-`TypeScript` `Swift` `Kotlin` `AWS` `Kubernetes` `Terraform` `GitHub Actions` `OWASP Top 10`
-
-<sub>August 18, 2026 at 21:32 UTC</sub>
-
----
-
-### [Technical Services Engineer - Weekend Shift](https://www.mongodb.com/careers/job/?gh_jid=8070616)
-<a href="https://mongodb.com"><img src="https://www.google.com/s2/favicons?domain=mongodb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MongoDB** · `🟢 Remote` `Mid` `$90k-$176k` `Equity`
-
-_Advise customers and resolve complex MongoDB database issues across architecture, performance, recovery, and security, working with mission-critical production systems at scale. Requires US citizenship and presence on US soil for FedRAMP compliance; weekend shift (Saturday–Wednesday) with 20% salary uplift. · [Apply →](https://www.mongodb.com/careers/job/?gh_jid=8070616)_
-
-`MongoDB` `Linux` `Python` `Java` `AWS` `Kubernetes` `Git`
-
-<sub>August 18, 2026 at 21:32 UTC</sub>
-
----
-
-### [Ground System Integration Engineer](https://jobs.ashbyhq.com/quindar/ada8bc6e-8d2b-4e64-a530-611307d94a8c)
-<a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Quindar** · Arvada, Colorado · `🟡 Hybrid` `Mid`
-
-_Develop and integrate Command & Control software solutions for satellite mission management platforms, integrating flight software and spacecraft into Quindar's platform. Deep expertise required in satellite communication protocols (CCSDS, CSP, CFDP), low-level hardware-software integration, and real-time embedded systems; requires ability to obtain U.S. Security Clearance and ITAR eligibility. · [Apply →](https://jobs.ashbyhq.com/quindar/ada8bc6e-8d2b-4e64-a530-611307d94a8c)_
-
-`Python` `C++` `Java` `CCSDS` `CSP` `CFDP` `XTCE` `AWS`
-
-<sub>August 18, 2026 at 21:32 UTC</sub>
-
----
-
-### [Senior Software Engineer I/II - Digital Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7893882003)
-<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Senior` `$120k-$165k` `Equity`
-
-_Design and develop simulation and modeling tools for aerospace systems, including flight software, ground software, and mission-level wargaming capabilities. Requires U.S. citizenship due to ITAR export regulations for space technology. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7893882003)_
-
-`C#` `.NET` `Angular` `TypeScript` `JavaScript` `SQL Server` `Docker` `Kubernetes`
-
-<sub>August 18, 2026 at 21:32 UTC</sub>
 
 ---
 
