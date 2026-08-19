@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **431 open roles** (50 new) &nbsp;·&nbsp; 1770 companies searched
+### **435 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Senior Software Engineer, Mobile Platform (React Native)](https://jobs.ashbyhq.com/frontcareers/09756e86-9fdc-4b9e-bcf7-da9e65165e21)
+<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · `🟢 Remote` `Senior` `Equity`
+
+_Build and maintain Front's React Native mobile app across Android and iOS, diving into native code to improve performance and expose platform APIs. Requires C/C++ and React Native expertise; work with cross-platform teams on a real-time customer operations platform serving 9,000+ companies. · [Apply →](https://jobs.ashbyhq.com/frontcareers/09756e86-9fdc-4b9e-bcf7-da9e65165e21)_
+
+`React Native` `C/C++` `TypeScript` `Kotlin` `Android NDK` `JNI` `JavaScript`
+
+<sub>August 19, 2026 at 17:34 UTC</sub>
+
+---
+
+### [Director of Data Science Production Engineering, Extended-Hours Support](https://job-boards.greenhouse.io/natera/jobs/6137671004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$186k–$232k`
+
+_Direct a 10+ person team of data science support engineers delivering analytics to production teams in a CLIA/FDA-regulated genomics testing environment. Build and maintain operational visibility and efficiency tools on Snowflake and AWS infrastructure while ensuring strict regulatory compliance. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6137671004)_
+
+`Python` `SQL` `Snowflake` `AWS (Redshift, Athena, S3, Batch, EC2)` `QuickSight` `Streamlit` `Master's degree in Statistics/Data Science/Bioinformatics/Computer Science/Mathematics/Operations Research`
+
+<sub>August 19, 2026 at 17:34 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6115665004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$137k–$171k` `Equity`
+
+_Build scalable microservices APIs and customer-facing web applications for genetic testing and diagnostics platforms, handling PHI/HIPAA-regulated healthcare data. Mentor engineering teams and drive complex system design across cloud infrastructure. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6115665004)_
+
+`Java` `Spring Framework` `React` `AWS` `PostgreSQL` `Docker` `Microservices Architecture` `REST APIs`
+
+<sub>August 19, 2026 at 17:34 UTC</sub>
+
+---
 
 ### [Platform Engineer](https://jobs.lever.co/atomcomputing/05ff2133-9b73-4352-a753-adf2bd7f5e2d)
 <a href="https://atom-computing.com"><img src="https://www.google.com/s2/favicons?domain=atom-computing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Atom Computing** · Boulder, Colorado · `🟡 Hybrid` `Mid`
@@ -489,70 +522,6 @@ _Own the design and fabrication oversight of advanced reactor fuel handling syst
 `Nuclear Engineering` `Mechanical Engineering` `CAD` `Project Management` `Technical Documentation` `Supplier Management` `Weldment Design` `Thermal-Mechanical Analysis`
 
 <sub>August 18, 2026 at 18:50 UTC</sub>
-
----
-
-### [Staff Software Engineer, Payments Compliance](https://careers.airbnb.com/positions/8130787?gh_jid=8130787)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Staff` `$212k–$265k` `Equity`
-
-_Build and architect Airbnb's global payments compliance platform that screens individuals and businesses against regulatory requirements, manages customer data collection, and continuously audits compliance controls across 191 countries and 75 currencies. Requires deep expertise in large-scale distributed systems, cross-functional leadership, and regulatory compliance domain knowledge. · [Apply →](https://careers.airbnb.com/positions/8130787?gh_jid=8130787)_
-
-`Java` `Go` `React` `PostgreSQL` `Kafka` `Distributed Systems` `Regulatory Compliance`
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
-
----
-
-### [Manager, Product Insights](https://boards.greenhouse.io/blacksky/jobs/8694025002?gh_jid=8694025002)
-<a href="https://blacksky.com"><img src="https://www.google.com/s2/favicons?domain=blacksky.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**BlackSky** · Seattle, Washington / Herndon, Virginia / Remote · `🟢 Remote` `Manager` `$165k-$205k` `Equity`
-
-_Lead the Product Insights engineering team building scalable platform pipelines for hosting and distributing satellite imagery analytics products. Experience required in production distributed systems, cloud infrastructure (AWS), and leading high-performing engineering teams in mission-critical environments; some roles require U.S. citizenship for ITAR compliance. · [Apply →](https://boards.greenhouse.io/blacksky/jobs/8694025002?gh_jid=8694025002)_
-
-`AWS` `Kubernetes` `Python` `Golang` `MLOps` `DataOps` `Distributed Systems` `Geospatial`
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
-
----
-
-### [Senior Director Software Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$151k-$220k`
-
-_Lead multiple software engineering teams building and maintaining complex financial systems and applications across the full development lifecycle. Strategic role requiring 10+ years of experience with 4+ years directly managing people. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)_
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
-
----
-
-### [Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Engineer_R0246339)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$61k-$141k`
-
-_Design and modernize space ground systems for the Intelligence Community, translating mission requirements into technical specifications and architectural solutions. Requires active TS/SCI clearance and experience with systems engineering across space, software, and hardware domains. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Engineer_R0246339)_
-
-`SysML` `MBSE` `UML` `Cloud Architecture` `DevOps` `DevSecOps` `TS/SCI Clearance`
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
-
----
-
-### [Principal Software Engineer, Platform (DevEx)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Platform--DevEx-_JR115781)
-<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Principal` `$246k-$395k` `Equity`
-
-_Build AI-native coding-agent infrastructure — orchestration layers, LLM reasoning loops, and runtime harnesses — that become the reference implementation for how ServiceTitan and its broader engineering org integrate autonomous agents into development workflows. Lead the full DevEx platform (environments, build systems, CI/CD, developer portal, guardrails) with 1–3 year technical foresight on agent-native tooling needs. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Platform--DevEx-_JR115781)_
-
-`LLM Orchestration` `Agent Runtimes` `CI/CD Systems` `Build Systems` `Python` `Go` `Kubernetes` `RBAC`
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
-
----
-
-### [Senior Security Operations Engineer](https://jobs.lever.co/includedhealth/b3b5352c-0784-41c4-9e2f-062461aef44a)
-<a href="https://grandrounds.com"><img src="https://www.google.com/s2/favicons?domain=grandrounds.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grand Rounds** · `🟢 Remote` `Senior`
-
-_Design, implement, and operate Data Loss Prevention (DLP) systems across corporate and cloud environments, including endpoint, network, and SaaS protections. Lead incident investigation, policy tuning, and automation of security response playbooks to prevent data exfiltration. · [Apply →](https://jobs.lever.co/includedhealth/b3b5352c-0784-41c4-9e2f-062461aef44a)_
-
-`Data Loss Prevention (DLP)` `incident response` `security automation` `endpoint security` `cloud security`
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
 
 ---
 
