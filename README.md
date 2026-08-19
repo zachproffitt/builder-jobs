@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **448 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
+### **453 open roles** (49 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,53 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Senior Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/e4831b15-5443-4217-8912-2ce1117552b5)
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Senior`
+
+_Build communication systems software for satellites, UAVs, and launch vehicles supporting Department of Defense and Intelligence Community programs. Requires U.S. citizenship or eligible immigration status per International Traffic in Arms Regulations (ITAR). · [Apply →](https://jobs.lever.co/CesiumAstro/e4831b15-5443-4217-8912-2ce1117552b5)_
+
+<sub>August 19, 2026 at 14:44 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/0c76d544-210f-47a6-92db-976612b0de86)
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Staff`
+
+_Build communication systems software for satellites, UAVs, and launch vehicles serving defense and intelligence community programs. Must be a U.S. citizen or eligible for State Department authorization. · [Apply →](https://jobs.lever.co/CesiumAstro/0c76d544-210f-47a6-92db-976612b0de86)_
+
+<sub>August 19, 2026 at 14:44 UTC</sub>
+
+---
+
+### [Software Engineer II - Fullstack](https://jobs.lever.co/CesiumAstro/d1543679-be8b-4abb-8a56-e546e9247a59)
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Mid`
+
+_Build communication systems software for satellites, UAVs, and launch vehicles supporting Department of War and Intelligence Community programs. · [Apply →](https://jobs.lever.co/CesiumAstro/d1543679-be8b-4abb-8a56-e546e9247a59)_
+
+<sub>August 19, 2026 at 14:44 UTC</sub>
+
+---
+
+### [Staff Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/0e5b29b1-e761-4b1c-b379-0aee29479e5c)
+<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Staff`
+
+_Build communication systems software for satellites, UAVs, and launch vehicles supporting Department of Defense and Intelligence Community programs. · [Apply →](https://jobs.lever.co/CesiumAstro/0e5b29b1-e761-4b1c-b379-0aee29479e5c)_
+
+<sub>August 19, 2026 at 14:44 UTC</sub>
+
+---
+
+### [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$98k-$143k`
+
+_Build AI applications and agents that transform complex technical information into accurate customer documentation, using LLMs and automation to improve content creation and publishing workflows. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)_
+
+`LLMs` `Python` `Agentic AI` `RAG` `API Integration` `Prompt Engineering`
+
+<sub>August 19, 2026 at 14:44 UTC</sub>
+
+---
 
 ### [Senior Embedded Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007)
 <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
@@ -250,7 +297,7 @@ _Own the administration and custom development of Anova's unified Salesforce Rev
 ---
 
 ### [Staff Backend Engineer - Mimir Query, Databases | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
 
 _Build and operate Mimir's query engine, a distributed metrics database handling millions of queries per day at scale on Kubernetes across AWS, GCP, and Azure. Own reliability, performance, and availability of critical query path systems serving 7,000+ customers including Microsoft, NVIDIA, and Salesforce. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)_
 
@@ -261,7 +308,7 @@ _Build and operate Mimir's query engine, a distributed metrics database handling
 ---
 
 ### [Staff Backend Engineer - Mimir Query, Databases | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Build and operate Mimir, a multi-tenant distributed metrics database serving millions of users at Grafana Cloud, optimizing query performance, reliability, and efficiency across Kubernetes and major cloud providers. Requires on-call participation and experience with large-scale distributed systems in production. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)_
 
@@ -465,23 +512,23 @@ _Design, implement, and operate Data Loss Prevention (DLP) systems across corpor
 
 ---
 
-### [Senior Software Engineer, Community Support Engineering (Agent Core Products)](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$195k-$220k` `Equity`
-
-_Build core software systems that empower Airbnb's global support agents, including frontend web components, server-side APIs, and AI-driven features that directly improve agent experience and service quality. · [Apply →](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)_
-
-`JavaScript` `TypeScript` `React` `GraphQL` `Java` `Kotlin` `HTML/CSS` `Machine Learning`
-
-<sub>August 18, 2026 at 16:41 UTC</sub>
-
----
-
 ### [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8133955)
 <a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
 
 _Build production-grade agentic AI workflows using LangGraph, Temporal, and Pydantic for enterprise-scale content management and digital experience orchestration. Enterprise reliability, observability (LangFuse), and multi-agent stateful workflows at SaaS scale are core to this role. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8133955)_
 
 `LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
+
+<sub>August 18, 2026 at 16:41 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Community Support Engineering (Agent Core Products)](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$195k-$220k` `Equity`
+
+_Build core software systems that empower Airbnb's global support agents, including frontend web components, server-side APIs, and AI-driven features that directly improve agent experience and service quality. · [Apply →](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)_
+
+`JavaScript` `TypeScript` `React` `GraphQL` `Java` `Kotlin` `HTML/CSS` `Machine Learning`
 
 <sub>August 18, 2026 at 16:41 UTC</sub>
 
@@ -495,50 +542,6 @@ _Train, test, deploy, and maintain machine learning models for space industry in
 `Python` `Java` `C++` `AWS` `Azure` `Google Cloud` `Kubernetes` `TS/SCI Clearance`
 
 <sub>August 18, 2026 at 16:41 UTC</sub>
-
----
-
-### [Adobe Assets/DAM Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Assets-DAM-Architect_R00348245)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
-
-_Architect enterprise AEM Assets and Digital Asset Management solutions across cloud and on-premises deployments, designing metadata schemas, Dynamic Media configurations, asset migration pipelines, and Adobe Content Supply Chain integrations. Lead technical strategy for large-scale DAM implementations and mentor junior developers on AEM fundamentals and cloud infrastructure. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Assets-DAM-Architect_R00348245)_
-
-`AEM Assets` `Dynamic Media` `Adobe Workfront` `Cloud Manager` `OSGi` `Sling` `HTL` `JCR`
-
-<sub>August 18, 2026 at 16:41 UTC</sub>
-
----
-
-### [Systems Engineer, Sr.](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---Oregon/Systems-Engineer--Sr_8406)
-<a href="https://avinc.com"><img src="https://www.google.com/s2/favicons?domain=avinc.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AeroVironment** · `🟢 Remote` `Senior` `$111.5k-$170k`
-
-_Develop system architectures and manage requirements for autonomous unmanned systems across air, land, sea, and space platforms; requires ITAR compliance and U.S. citizenship. · [Apply →](https://avav.wd1.myworkdayjobs.com/AVAV/job/Remote---Oregon/Systems-Engineer--Sr_8406)_
-
-`C++` `C` `MATLAB` `Simulink` `Ansys` `Solidworks` `Model-Based Systems Engineering` `GN&C Systems`
-
-<sub>August 18, 2026 at 14:43 UTC</sub>
-
----
-
-### [Principal, AI Strategy & Engineering Transformation](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · `🟢 Remote` `Principal` `$150k-$220k` `Equity`
-
-_Design and operationalize AI-assisted software engineering workflows across Vantor's engineering organization—from prototype through governed adoption. Build agentic systems and developer tooling integrations while establishing security governance and measurement frameworks for AI use in regulated, export-controlled environments. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)_
-
-`Python` `Prompt Engineering` `LLMs` `Git` `CI/CD` `API Integration` `Responsible AI` `Enterprise Security`
-
-<sub>August 18, 2026 at 14:43 UTC</sub>
-
----
-
-### [Software Engineer II (Frontend)](https://jobs.ashbyhq.com/teamworks/213fd24e-fdcf-4f66-ac49-8362d38341bc)
-<a href="https://teamworks.com"><img src="https://www.google.com/s2/favicons?domain=teamworks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teamworks** · `🟢 Remote` `Mid`
-
-_Own the React frontend for AMS (Athlete Management System), building data-intensive dashboards, interactive grids, and forms that serve elite sports organizations and military performance programs. Requires US citizenship with willingness to pursue security clearance. · [Apply →](https://jobs.ashbyhq.com/teamworks/213fd24e-fdcf-4f66-ac49-8362d38341bc)_
-
-`React` `TypeScript` `AG Grid` `SurveyJS` `Tanstack Query` `RsPack` `pnpm` `Chart.js`
-
-<sub>August 18, 2026 at 14:43 UTC</sub>
 
 ---
 
