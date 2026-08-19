@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **420 open roles** (46 new) &nbsp;·&nbsp; 1770 companies searched
+### **448 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Senior Embedded Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
+
+_Build real-time image processing software for infrared imaging systems deployed on embedded, SWAP-limited hardware; requires deep expertise in Linux systems, NixOS configuration, and C++/CUDA pipelines for defense applications, plus active or eligibility for U.S. security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007)_
+
+`C++` `CUDA` `Linux` `Nix/NixOS` `Python` `Rust` `C` `TS/SCI Clearance`
+
+<sub>August 19, 2026 at 13:51 UTC</sub>
+
+---
+
+### [Senior Software Engineer II, Marketing Enablement](https://instacart.careers/job/?gh_jid=8141535)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
+
+_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
+
+`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
+
+<sub>August 19, 2026 at 13:51 UTC</sub>
+
+---
 
 ### [Tech Architecture Specialist AWS (AI focussed)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
@@ -39,6 +61,17 @@ _Build scalable platforms and services for revenue cycle management, including p
 <br>
 
 ## August 18, 2026
+
+### [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity`
+
+_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems that process radar sensor data to detect and track airborne threats at scale. Requires Top Secret SCI clearance and deep knowledge of tracking algorithms (Kalman filters, particle filters, multiple hypothesis tracking) applied to defense systems deployed operationally. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)_
+
+`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `MATLAB` `GPU Acceleration` `SQL`
+
+<sub>August 18, 2026 at 23:30 UTC</sub>
+
+---
 
 ### [Senior Full Stack Engineer, Enterprise, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$163k-$263.67k` `Equity`
@@ -217,7 +250,7 @@ _Own the administration and custom development of Anova's unified Salesforce Rev
 ---
 
 ### [Staff Backend Engineer - Mimir Query, Databases | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity`
 
 _Build and operate Mimir's query engine, a distributed metrics database handling millions of queries per day at scale on Kubernetes across AWS, GCP, and Azure. Own reliability, performance, and availability of critical query path systems serving 7,000+ customers including Microsoft, NVIDIA, and Salesforce. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004)_
 
@@ -228,7 +261,7 @@ _Build and operate Mimir's query engine, a distributed metrics database handling
 ---
 
 ### [Staff Backend Engineer - Mimir Query, Databases | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)
-<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana Labs** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
+<a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grafana** · `🟢 Remote` `Staff` `$174k-$209k` `Equity`
 
 _Build and operate Mimir, a multi-tenant distributed metrics database serving millions of users at Grafana Cloud, optimizing query performance, reliability, and efficiency across Kubernetes and major cloud providers. Requires on-call participation and experience with large-scale distributed systems in production. · [Apply →](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004)_
 
@@ -432,23 +465,23 @@ _Design, implement, and operate Data Loss Prevention (DLP) systems across corpor
 
 ---
 
-### [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8133955)
-<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
-
-_Build production-grade agentic AI workflows using LangGraph, Temporal, and Pydantic for enterprise-scale content management and digital experience orchestration. Enterprise reliability, observability (LangFuse), and multi-agent stateful workflows at SaaS scale are core to this role. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8133955)_
-
-`LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
-
-<sub>August 18, 2026 at 16:41 UTC</sub>
-
----
-
 ### [Senior Software Engineer, Community Support Engineering (Agent Core Products)](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$195k-$220k` `Equity`
 
 _Build core software systems that empower Airbnb's global support agents, including frontend web components, server-side APIs, and AI-driven features that directly improve agent experience and service quality. · [Apply →](https://careers.airbnb.com/positions/8138069?gh_jid=8138069)_
 
 `JavaScript` `TypeScript` `React` `GraphQL` `Java` `Kotlin` `HTML/CSS` `Machine Learning`
+
+<sub>August 18, 2026 at 16:41 UTC</sub>
+
+---
+
+### [Staff AI Engineer](https://job-boards.greenhouse.io/acquia/jobs/8133955)
+<a href="https://acquia.com"><img src="https://www.google.com/s2/favicons?domain=acquia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Acquia** · `🟢 Remote` `Staff`
+
+_Build production-grade agentic AI workflows using LangGraph, Temporal, and Pydantic for enterprise-scale content management and digital experience orchestration. Enterprise reliability, observability (LangFuse), and multi-agent stateful workflows at SaaS scale are core to this role. · [Apply →](https://job-boards.greenhouse.io/acquia/jobs/8133955)_
+
+`LangGraph` `Temporal` `Pydantic` `LangFuse` `Python` `LangChain` `RAG` `AWS`
 
 <sub>August 18, 2026 at 16:41 UTC</sub>
 
@@ -506,17 +539,6 @@ _Own the React frontend for AMS (Athlete Management System), building data-inten
 `React` `TypeScript` `AG Grid` `SurveyJS` `Tanstack Query` `RsPack` `pnpm` `Chart.js`
 
 <sub>August 18, 2026 at 14:43 UTC</sub>
-
----
-
-### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137847)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAD$230k–$242k` `Equity`
-
-_Lead the Identity and Risk Platform team building and operating authentication, account lifecycle, identity verification, and fraud detection systems at scale. Manage backend and platform engineers while partnering cross-functionally to evolve Instacart's trust infrastructure and define technical strategy for identity and risk signal surfacing across AI systems and internal platforms. · [Apply →](https://instacart.careers/job/?gh_jid=8137847)_
-
-`Go` `Java` `Python` `AWS` `GCP` `PostgreSQL` `DynamoDB` `Redis`
-
-<sub>August 18, 2026 at 13:50 UTC</sub>
 
 ---
 
