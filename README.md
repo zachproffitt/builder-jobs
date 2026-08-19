@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **435 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
+### **433 open roles** (46 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 19, 2026
+
+### [Sr. Lead Engineer, Integration & Automation](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Lead-Engineer--Integration---Automation_JR115776)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Senior` `$168k-$269k` `Equity`
+
+_Lead the technical architecture and hands-on development of enterprise integrations across Finance, Revenue, and People Technology systems using Workato and Workday Studio. Own the integration estate's maturity roadmap, set engineering standards and SLAs, and guide a distributed team of integration engineers. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Lead-Engineer--Integration---Automation_JR115776)_
+
+`Workato` `Workday Studio` `REST APIs` `SOAP` `JSON` `XML` `XSLT` `Salesforce`
+
+<sub>August 19, 2026 at 18:47 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Mobile Platform (React Native)](https://jobs.ashbyhq.com/frontcareers/09756e86-9fdc-4b9e-bcf7-da9e65165e21)
 <a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · `🟢 Remote` `Senior` `Equity`
@@ -149,12 +160,12 @@ _Build AI applications and agents that transform complex technical information i
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
 
-_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
+_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
 
-`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
+`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
 
@@ -500,28 +511,6 @@ _Design and implement automated control and data acquisition systems for aerospa
 `LabVIEW` `cRIO/PXI` `Siemens S7` `SCADA` `Ignition` `OPCUA` `EtherCAT` `Profinet`
 
 <sub>August 18, 2026 at 19:34 UTC</sub>
-
----
-
-### [Senior Linux Engineer, Privileged Access](https://job-boards.greenhouse.io/keepersecurity/jobs/4374346009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
-
-_Design and build low-level Linux endpoint privilege management capabilities across Rust, C, and .NET components, including kernel-facing agent functionality, PAM modules, and secure privilege-elevation workflows. Requires deep Linux internals knowledge and the ability to reason about process identity, permissions, and secure failure behavior in security-sensitive systems. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4374346009)_
-
-`Rust` `C` `Linux kernel internals` `PAM` `.NET` `Tokio` `systemd` `SELinux`
-
-<sub>August 18, 2026 at 18:50 UTC</sub>
-
----
-
-### [Refueling Supplier Engineer](https://job-boards.greenhouse.io/oklo/jobs/6146512004)
-<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · `🟢 Remote` `Mid` `$78k-$200k` `Equity`
-
-_Own the design and fabrication oversight of advanced reactor fuel handling systems, partnering with suppliers to deliver high-quality hardware for Oklo's Aurora nuclear plant. Requires nuclear or aerospace systems experience and travel to fabricator facilities. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6146512004)_
-
-`Nuclear Engineering` `Mechanical Engineering` `CAD` `Project Management` `Technical Documentation` `Supplier Management` `Weldment Design` `Thermal-Mechanical Analysis`
-
-<sub>August 18, 2026 at 18:50 UTC</sub>
 
 ---
 
