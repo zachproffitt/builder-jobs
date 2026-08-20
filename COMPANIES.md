@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **151 companies** · **450 open roles** (30 new)
+### **151 companies** · **451 open roles** (31 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -393,6 +393,7 @@ Deepgram builds AI for speech transcription and understanding.
 
 Delinea builds a cloud-native identity security platform that discovers human and machine identities, assigns access levels, detects irregularities, and responds to threats across cloud and traditional infrastructure, data, SaaS applications, and AI systems.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer - AI Discovery & Posture](https://jobs.ashbyhq.com/delinea/c7908fbd-9c34-409e-a9e1-4d663631528d) · `🟢 Remote` `Staff` (Aug 20)
 - [Staff Software Engineer - AI - Platform Integrations](https://jobs.ashbyhq.com/delinea/15e29247-e9c3-44ef-b8fa-e0e7c55c0944) · `🟢 Remote` `Staff` (Aug 18)
 - [Senior Software Development Engineer - Platform Enablement](https://jobs.ashbyhq.com/delinea/f5d5569b-0e78-4f13-9353-1e0e45c5627f) · `🟢 Remote` `Senior` (Aug 17)
 - [Salesforce Developer](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a) · `🟢 Remote` `Senior` (Aug 17)

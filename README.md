@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **450 open roles** (30 new) &nbsp;·&nbsp; 1770 companies searched
+### **451 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 20, 2026
+
+### [Staff Software Engineer - AI Discovery & Posture](https://jobs.ashbyhq.com/delinea/c7908fbd-9c34-409e-a9e1-4d663631528d)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Staff`
+
+_Build AI agent discovery and security posture assessment systems across Azure, AWS, and Google Cloud platforms, integrating with Delinea's existing cloud discovery infrastructure. Work on both cloud-based and endpoint agent discovery, with security implications for enterprise AI governance at scale. · [Apply →](https://jobs.ashbyhq.com/delinea/c7908fbd-9c34-409e-a9e1-4d663631528d)_
+
+`C#` `Go` `Java` `Python` `Azure` `AWS` `Google Cloud` `API design`
+
+<sub>August 20, 2026 at 11:35 UTC</sub>
+
+---
 
 ### [Forward Deployed Engineer, Agentic AI](https://job-boards.greenhouse.io/redapt/jobs/5396488008)
 <a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior`
