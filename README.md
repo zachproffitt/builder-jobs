@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **453 open roles** (27 new) &nbsp;·&nbsp; 1770 companies searched
+### **455 open roles** (24 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -14,14 +14,25 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 20, 2026
 
-### [Senior Software Engineer, Front End / Full Stack](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)
-<a href="https://grove.com"><img src="https://www.google.com/s2/favicons?domain=grove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grove** · `🟢 Remote` `Senior` `$180k-$215k` `Equity`
+### [Engineering Manager, AI Intake](https://job-boards.greenhouse.io/parachutehealth/jobs/5217344007)
+<a href="https://parachute.com"><img src="https://www.google.com/s2/favicons?domain=parachute.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Parachute Health** · `🟢 Remote` `Manager` `$220k-$275k` `Equity`
 
-_Lead front end and full stack initiatives end-to-end for an e-commerce platform, from problem definition through architecture decisions to shipped, measured outcomes. Work across a modern stack (currently Shopify-based) with deep ownership of performance, accessibility, and ecosystem integration across mobile apps, subscriptions, and analytics. · [Apply →](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)_
+_Manage a team of up to 5 engineers building AI-powered document ingestion and data extraction systems for medical equipment ordering; allocate 10-20% of your time to hands-on code contributions through pairing and targeted tickets. · [Apply →](https://job-boards.greenhouse.io/parachutehealth/jobs/5217344007)_
 
-`JavaScript` `TypeScript` `React` `Shopify` `GraphQL` `Git` `GitHub Actions` `Accessibility`
+`Ruby on Rails` `React` `TypeScript` `LangSmith` `LangGraph` `AutoGen` `Prompt Engineering`
 
-<sub>August 20, 2026 at 14:46 UTC</sub>
+<sub>August 20, 2026 at 15:42 UTC</sub>
+
+---
+
+### [Staff Structural Analyst](https://ursamajor.com/careers/?gh_jid=4726071005)
+<a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Staff` `$140k-$175k` `Equity`
+
+_Lead structural and thermal-fluids analysis for aerospace vehicles and propulsion systems, including FEA/CFD modeling, verification against test data, and failure investigation. Requires 10+ years of analysis experience in aerospace/defense and active U.S. security clearance eligibility. · [Apply →](https://ursamajor.com/careers/?gh_jid=4726071005)_
+
+`FEA/FEM` `ANSYS` `Abaqus` `NASTRAN` `CFD` `Python` `MATLAB` `Fatigue Analysis`
+
+<sub>August 20, 2026 at 15:42 UTC</sub>
 
 ---
 
@@ -268,50 +279,6 @@ _Build and operate infrastructure systems that power quantum computing software 
 `Infrastructure as Code` `Kubernetes` `Cloud platforms (AWS or GCP)` `CI/CD` `Linux` `Python` `Terraform` `Docker`
 
 <sub>August 19, 2026 at 16:40 UTC</sub>
-
----
-
-### [Senior / Staff Software Engineer, Cloud & Real Time Infrastructure](https://job-boards.greenhouse.io/antora/jobs/6145671004)
-<a href="https://antoraenergy.com"><img src="https://www.google.com/s2/favicons?domain=antoraenergy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Antora Energy** · `🟢 Remote` `Senior` `$183k-$240k` `Equity`
-
-_Own the real-time cloud infrastructure connecting thermal battery software systems to physical hardware, spanning the full data path from edge telemetry ingestion through cloud warehouse into asset dispatch. Build AWS infrastructure, CI/CD systems, and developer tooling for AI-assisted development while establishing reliability and observability standards for systems with tangible operational consequences. · [Apply →](https://job-boards.greenhouse.io/antora/jobs/6145671004)_
-
-`AWS` `Terraform` `Python` `Go` `Kubernetes` `CI/CD` `Observability` `MQTT`
-
-<sub>August 19, 2026 at 15:39 UTC</sub>
-
----
-
-### [Senior / Staff Software Engineer, Full Stack Software Products](https://job-boards.greenhouse.io/antora/jobs/6145431004)
-<a href="https://antoraenergy.com"><img src="https://www.google.com/s2/favicons?domain=antoraenergy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Antora Energy** · `🟢 Remote` `Senior` `$183k-$240k` `Equity`
-
-_Build full-stack products powering Antora's thermal battery business—from customer-facing applications to internal tools for operations and R&D. Design data models and AI systems that connect business logic with user workflows; establish governance standards for data security, AI guardrails, and self-service product customization across the engineering ecosystem. · [Apply →](https://job-boards.greenhouse.io/antora/jobs/6145431004)_
-
-`Python` `TypeScript` `SQL` `dbt` `React or Vue` `PostgreSQL or similar` `LLM Integration` `Data Modeling`
-
-<sub>August 19, 2026 at 15:39 UTC</sub>
-
----
-
-### [Senior Infrastructure Engineer ](https://job-boards.greenhouse.io/komodohealth/jobs/8729911002)
-<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Senior` `$157k-$220k` `Equity`
-
-_Build and operate AWS and Kubernetes cloud infrastructure and Snowflake data platforms at scale, using infrastructure-as-code (Terraform, ArgoCD) to serve healthcare data pipelines. Drive cost optimization, security hardening (HIPAA/SOC2), and reliability improvements across production systems handling sensitive patient data. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8729911002)_
-
-`Terraform` `Kubernetes` `AWS` `Snowflake` `Python` `Go` `Bash` `GitHub Actions`
-
-<sub>August 19, 2026 at 15:39 UTC</sub>
-
----
-
-### [Staff Infrastructure Engineer ](https://job-boards.greenhouse.io/komodohealth/jobs/8729916002)
-<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Staff` `$187k-$265k` `Equity`
-
-_Build and operate the cloud infrastructure foundation for Komodo Health's healthcare platform, designing Terraform-based infrastructure-as-code, Kubernetes platforms, and shared services (identity, API gateway, network security) that scale reliably and securely across AWS. Requires deep AWS and Kubernetes platform ownership experience in a regulated healthcare environment (HIPAA, SOC2) with demonstrated ability to modernize inherited systems and lead through standards, reviews, and AI-assisted engineering patterns. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8729916002)_
-
-`Terraform` `AWS` `Kubernetes` `ArgoCD` `GitHub Actions` `Python` `Go` `Okta`
-
-<sub>August 19, 2026 at 15:39 UTC</sub>
 
 ---
 

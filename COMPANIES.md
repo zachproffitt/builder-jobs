@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **153 companies** · **453 open roles** (27 new)
+### **152 companies** · **455 open roles** (24 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -148,8 +148,8 @@ Anthropic is an AI safety and research company that builds reliable, interpretab
 
 Antora builds and deploys thermal energy storage systems that provide heat and power for industrial operations, with factory-built thermal batteries manufactured in the United States.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior / Staff Software Engineer, Cloud & Real Time Infrastructure](https://job-boards.greenhouse.io/antora/jobs/6145671004) · `🟢 Remote` `Senior` `$183k-$240k` `Equity` (Aug 19)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior / Staff Software Engineer, Full Stack Software Products](https://job-boards.greenhouse.io/antora/jobs/6145431004) · `🟢 Remote` `Senior` `$183k-$240k` `Equity` (Aug 19)
+- [Senior / Staff Software Engineer, Cloud & Real Time Infrastructure](https://job-boards.greenhouse.io/antora/jobs/6145671004) · `🟢 Remote` `Senior` `$183k-$240k` `Equity` (Aug 19)
+- [Senior / Staff Software Engineer, Full Stack Software Products](https://job-boards.greenhouse.io/antora/jobs/6145431004) · `🟢 Remote` `Senior` `$183k-$240k` `Equity` (Aug 19)
 
 ---
 
@@ -247,6 +247,7 @@ Booz Allen Hamilton provides consulting and technology services for civil, defen
 - [Analytic Methodologist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Senior_R0247090) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 17)
 - [Analytic Methodologist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Mid_R0247089) · Aurora, Colorado · `Mid` `$77k-$176k` (Aug 17)
 - [Data and Proposals Quantum Applications Scientist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-and-Proposals-Quantum-Applications-Scientist_R0246914) · Colorado Springs, Colorado · `Mid` `$99k-$225k` (Aug 15)
+- [Detection Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981) · Peterson AFB, Colorado · `🟡 Hybrid` `Senior` `$69k-$158k` (Aug 13)
 - [Data Engineer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Senior_R0247097) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 13)
 - [Integration Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Integration-Engineer_R0246810) · Colorado Springs, Colorado · `Senior` `$77k-$176k` (Aug 12)
 - [Modeling and Simulation Integrations Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Modeling-and-Simulation-Integrations-Engineer_R0246800) · Colorado Springs, Colorado · `Junior` `$61k-$141k` (Aug 12)
@@ -322,7 +323,7 @@ CesiumAstro builds satellites, terminals, and software-defined systems for satel
 Chainguard provides hardened, secure, and production-ready open source software builds, container images, and language libraries that are built from source in a SLSA L3-compliant factory and verified with SBOMs and provenance.
 
 - [Staff Software Engineer (Customer Platform)](https://job-boards.greenhouse.io/chainguard/jobs/4705456006) · `🟢 Remote` `Staff` `$205k-$231k` `Equity` (Aug 14)
-- [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696736006) · `🟢 Remote` `Staff` `$170k-$231k` `Equity` (Aug 14)
+- [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696741006) · `🟢 Remote` `Staff` `Equity` (Aug 14)
 - [Principal Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4698956006) · `🟢 Remote` `Principal` `$229k-$258k` `Equity` (Aug 12)
 - [Staff Product Security Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696748006) · `🟢 Remote` `Staff` `Equity` (Aug 7)
 
@@ -585,14 +586,6 @@ Included Health delivers integrated virtual care and healthcare navigation servi
 
 ---
 
-## <a href="https://grove.com"><img src="https://www.google.com/s2/favicons?domain=grove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grove](https://grove.com)
-
-Grove sells eco-friendly cleaning products, bamboo paper products, and vitamins and supplements from hundreds of brands, with all orders meeting ingredient standards and being carbon neutral while supporting plastic waste cleanup.
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Front End / Full Stack](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008) · `🟢 Remote` `Senior` `$180k-$215k` `Equity` (Aug 20)
-
----
-
 ## <a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Gusto](https://gusto.com)
 
 Gusto provides online payroll, HR, and benefits services for small and medium-sized businesses, offering features including automated payroll processing, tax filing, time tracking, employee benefits administration, and hiring and onboarding tools.
@@ -737,8 +730,8 @@ Juniper Networks makes Mist, an AI-native networking platform that improves conn
 
 Juro provides a platform for teams to agree on and manage contracts end-to-end using AI automation.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Infrastructure Engineer ](https://job-boards.greenhouse.io/komodohealth/jobs/8729911002) · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Senior` `$157k-$220k` `Equity` (Aug 19)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Infrastructure Engineer ](https://job-boards.greenhouse.io/komodohealth/jobs/8729916002) · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Staff` `$187k-$265k` `Equity` (Aug 19)
+- [Senior Infrastructure Engineer ](https://job-boards.greenhouse.io/komodohealth/jobs/8729911002) · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Senior` `$157k-$220k` `Equity` (Aug 19)
+- [Staff Infrastructure Engineer ](https://job-boards.greenhouse.io/komodohealth/jobs/8729916002) · San Francisco, California / New York, New York / Chicago, Illinois / Remote · `🟡 Hybrid` `Staff` `$187k-$265k` `Equity` (Aug 19)
 - [Implementation Operations Engineer – AI Solutions](https://job-boards.greenhouse.io/komodohealth/jobs/8725146002) · `🟢 Remote` `Mid` (Aug 18)
 - [Senior Data Platform Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002) · San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$170k-$230k` `Equity` (Aug 7)
 
@@ -969,6 +962,7 @@ Owner builds an AI-native system for restaurant owners that combines website, on
 
 Parachute Health operates a digital platform that allows users to order and ePrescribe durable medical equipment supplies.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Engineering Manager, AI Intake](https://job-boards.greenhouse.io/parachutehealth/jobs/5217344007) · `🟢 Remote` `Manager` `$220k-$275k` `Equity` (Aug 20)
 - [Director of AI Engineering](https://job-boards.greenhouse.io/parachutehealth/jobs/5206327007) · `🟢 Remote` `Manager` `Equity` (Aug 7)
 
 ---
@@ -1381,6 +1375,7 @@ Unqork builds a platform for developing enterprise applications that includes AI
 
 Ursa Major designs and delivers propulsion and defense systems, including high-performance propulsion for hypersonics, solid rocket motors, satellite maneuvering, and launch applications. The company develops these systems to address national security demands for America and its allies.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Structural Analyst](https://ursamajor.com/careers/?gh_jid=4726071005) · Berthoud, Colorado · `Staff` `$140k-$175k` `Equity` (Aug 20)
 - [Senior Systems Engineer ](https://ursamajor.com/careers/?gh_jid=4725524005) · Berthoud, Colorado · `Senior` `$130k-$163k` `Equity` (Aug 18)
 - [Controls Engineer II (PLC)](https://ursamajor.com/careers/?gh_jid=4725424005) · Berthoud, Colorado · `Mid` `$90k-$113k` `Equity` (Aug 18)
 - [Controls Engineer II (SCADA)](https://ursamajor.com/careers/?gh_jid=4725410005) · Berthoud, Colorado · `Mid` `$90k-$113k` `Equity` (Aug 18)
