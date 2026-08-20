@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **451 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **452 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 20, 2026
+
+### [Senior Software Engineer - Golang](https://jobs.ashbyhq.com/kong/74598ada-ce9e-4726-90fd-f9e25c793de3)
+<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · `🟢 Remote` `Senior`
+
+_Design and build highly scalable distributed backend systems in Golang, including distributed database provisioning, durable workflow orchestration, and LLM infrastructure for Kong's AI platform. Work on greenfield systems with direct influence on architecture and developer experience across microservices, Kubernetes, and cloud platforms. · [Apply →](https://jobs.ashbyhq.com/kong/74598ada-ce9e-4726-90fd-f9e25c793de3)_
+
+`Golang` `PostgreSQL` `Redis` `Distributed Systems` `Kubernetes` `AWS` `Microservices Architecture`
+
+<sub>August 20, 2026 at 13:04 UTC</sub>
+
+---
 
 ### [Staff Software Engineer - AI Discovery & Posture](https://jobs.ashbyhq.com/delinea/c7908fbd-9c34-409e-a9e1-4d663631528d)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Staff`
