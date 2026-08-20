@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **442 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
+### **449 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -337,17 +337,6 @@ _Lead the technical roadmap and architectural decisions for Instacart's Paid Mar
 `Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
-
----
-
-### [Tech Architecture Specialist AWS (AI focussed)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
-
-_Design and implement enterprise-scale cloud-native AI solutions on AWS, including Generative AI and Agentic AI applications integrated with LLMs, RAG architectures, and enterprise systems. Architect secure, scalable solutions across modern cloud patterns (serverless, containerized, microservices) while applying governance, compliance, and Responsible AI principles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)_
-
-`AWS` `Python` `Generative AI` `LLMs` `RAG` `Vector Databases` `Kubernetes` `CI/CD`
-
-<sub>August 19, 2026 at 08:49 UTC</sub>
 
 ---
 
