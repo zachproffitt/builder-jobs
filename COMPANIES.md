@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **152 companies** · **455 open roles** (24 new)
+### **155 companies** · **462 open roles** (30 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -18,6 +18,14 @@ Engineering roles grouped by company, linking directly to each company's job boa
 - [Developer, Authorization](https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41) · `🟢 Remote` `Mid` `$123k-$172k (US) / $111k-$155k (CAD)` `Equity` (Aug 18)
 - [Developer, Rust](https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538) · `🟢 Remote` `Mid` `$123k-$172k USD (US) / $111k-$155k CAD (Canada)` `Equity` (Aug 14)
 - [Privacy Engineer](https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7) · `🟢 Remote` `Mid` `$123k-$172k` `Equity` (Aug 12)
+
+---
+
+## <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Accenture](https://accenture.com)
+
+Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Reinvention Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Reinvention-Deployed-Engineer_R00351670) · `🟢 Remote` `Mid` `$80k-$316k` (Aug 20)
 
 ---
 
@@ -189,7 +197,7 @@ Astronomer provides Astro, a platform for building, running, and observing Apach
 
 Atom Computing builds quantum computers using arrays of optically trapped neutral atoms.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Platform Engineer](https://jobs.lever.co/atomcomputing/05ff2133-9b73-4352-a753-adf2bd7f5e2d) · Boulder, Colorado · `🟡 Hybrid` `Mid` (Aug 19)
+- [Platform Engineer](https://jobs.lever.co/atomcomputing/05ff2133-9b73-4352-a753-adf2bd7f5e2d) · Boulder, Colorado · `🟡 Hybrid` `Mid` (Aug 19)
 - [Principal Platform Engineer](https://jobs.lever.co/atomcomputing/f035d540-d76d-4afe-9300-61cc179059e5) · Boulder, Colorado · `🟡 Hybrid` `Principal` (Aug 19)
 
 ---
@@ -240,6 +248,7 @@ Bloomreach makes Loomi AI, an agentic platform that personalizes customer experi
 
 Booz Allen Hamilton provides consulting and technology services for civil, defense, and national security missions.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468) · Aurora, Colorado · `Senior` `$86k-$198k` (Aug 20)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Astrodynamicist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Astrodynamicist_R0246353) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 19)
 - [Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Engineer_R0246339) · Aurora, Colorado · `Mid` `$61k-$141k` (Aug 18)
 - [Machine Learning Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Machine-Learning-Engineer_R0246351) · Aurora, Colorado · `Mid` `$77.6k-$176k` (Aug 18)
@@ -586,6 +595,14 @@ Included Health delivers integrated virtual care and healthcare navigation servi
 
 ---
 
+## <a href="https://grove.com"><img src="https://www.google.com/s2/favicons?domain=grove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grove](https://grove.com)
+
+Grove sells eco-friendly cleaning products, bamboo paper products, and vitamins and supplements from hundreds of brands, with all orders meeting ingredient standards and being carbon neutral while supporting plastic waste cleanup.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Front End / Full Stack](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008) · `🟢 Remote` `Senior` `$180k-$215k` `Equity` (Aug 20)
+
+---
+
 ## <a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Gusto](https://gusto.com)
 
 Gusto provides online payroll, HR, and benefits services for small and medium-sized businesses, offering features including automated payroll processing, tax filing, time tracking, employee benefits administration, and hiring and onboarding tools.
@@ -798,6 +815,14 @@ LiveKit builds infrastructure for voice-driven computing that enables developers
 
 ---
 
+## <a href="https://loancrate.com"><img src="https://www.google.com/s2/favicons?domain=loancrate.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[LoanCrate](https://loancrate.com)
+
+LoanCrate builds an AI-powered Loan Origination System designed for mortgage teams to automate manual tasks, improve loan quality, and scale operations.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer - Onboarding Automation](https://jobs.ashbyhq.com/loancrate/e22f784f-c066-4b4c-aca9-b2e1017218b9) · `🟢 Remote` `Senior` (Aug 20)
+
+---
+
 ## <a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Mashape](https://mashape.com)
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer - Golang](https://jobs.ashbyhq.com/kong/74598ada-ce9e-4726-90fd-f9e25c793de3) · `🟢 Remote` `Senior` (Aug 20)
@@ -906,6 +931,7 @@ Nvidia manufactures datacenter products and operates engineering labs where thes
 
 Oklo develops and operates advanced nuclear reactors and is building a nuclear training organization to support safe and efficient plant operations for its advanced reactor facilities.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Process Equipment Engineer - Fuel Recycling](https://job-boards.greenhouse.io/oklo/jobs/6133618004) · Santa Clara, California / Remote · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 20)
 - [Refueling Supplier Engineer](https://job-boards.greenhouse.io/oklo/jobs/6146512004) · Santa Clara, California / Remote · `🟢 Remote` `Mid` `$78k-$200k` `Equity` (Aug 18)
 
 ---
@@ -1112,11 +1138,11 @@ SailPoint builds a platform for managing and securing identities that dynamicall
 Samsara builds a platform called the Connected Operations Cloud that collects Internet of Things data from organizations in industries including agriculture, construction, field services, transportation, and manufacturing to provide actionable insights and improve their operations. The platform includes products for video-based safety, vehicle telematics, driver workflows, and equipment monitoring.
 
 - [Staff Firmware Engineer](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536) · `🟢 Remote` `Staff` `$162k-$290k` `Equity` (Aug 17)
-- [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819) · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity` (Aug 14)
+- [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439) · `🟢 Remote` `Senior` `$154k–$260k` `Equity` (Aug 14)
 - [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161) · `🟢 Remote` `Senior` `$142k-$168k CAD` `Equity` (Aug 13)
 - [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity` (Aug 12)
 - [Sr. AI Engineer](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352) · `🟢 Remote` `Senior` `$127k-$214k` `Equity` (Aug 12)
-- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078) · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity` (Aug 7)
+- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102) · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity` (Aug 7)
 - [Manager II, Data Platform](https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931) · `🟢 Remote` `Manager` `$154k-$234k` `Equity` (Aug 7)
 
 ---
@@ -1307,6 +1333,7 @@ Toast creates technology that helps restaurants and local businesses operate, in
 
 Torc Robotics develops software for automated trucks that integrates with test vehicles to transform freight transportation. Now part of the Daimler family, the company focuses on commercializing autonomous driving solutions through direct partnerships with truck manufacturers.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer II, MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002) · `🟢 Remote` `Mid` `$139k-$166k` `Equity` (Aug 20)
 - [Software Engineer II - Build Tools ](https://job-boards.greenhouse.io/torcrobotics/jobs/8654323002) · Remote / Ann Arbor, Michigan · `🟢 Remote` `Mid` `$139k–$166k` (Aug 12)
 - [Software Engineer II - Business Intelligence](https://job-boards.greenhouse.io/torcrobotics/jobs/8651408002) · Ann Arbor, Michigan / Remote · `🟢 Remote` `Mid` `$139k-$166.8k` (Aug 12)
 - [Machine Learning Engineer, II - 3D Perception](https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002) · Remote / Ann Arbor, Michigan / Blacksburg, Virginia / Fort Worth, Texas · `🟢 Remote` `Mid` `$153k–$183k` `Equity` (Aug 12)
@@ -1460,6 +1487,7 @@ Wealthsimple offers spending, trading, and investment services.
 
 Webflow makes a website design and publishing platform that allows users to create and publish websites.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483) · `🟢 Remote` `Staff` `$204k-$290k` `Equity` (Aug 20)
 - [Director, Analytics Engineering](https://job-boards.greenhouse.io/webflow/jobs/8137782) · `🟢 Remote` `Manager` `$249k-$355k` `Equity` (Aug 18)
 - [Associate Infrastructure Engineer](https://job-boards.greenhouse.io/webflow/jobs/8122601) · `🟢 Remote` `Junior` `$140k - $207k` `Equity` (Aug 12)
 

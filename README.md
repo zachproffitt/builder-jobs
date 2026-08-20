@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **455 open roles** (24 new) &nbsp;·&nbsp; 1770 companies searched
+### **462 open roles** (30 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,72 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 20, 2026
+
+### [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$86k-$198k`
+
+_Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
+
+`Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
+
+_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
+
+`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Software Engineer - Onboarding Automation](https://jobs.ashbyhq.com/loancrate/e22f784f-c066-4b4c-aca9-b2e1017218b9)
+<a href="https://loancrate.com"><img src="https://www.google.com/s2/favicons?domain=loancrate.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LoanCrate** · `🟢 Remote` `Senior`
+
+_Build tenant provisioning and configuration-as-code systems that automate enterprise mortgage lender onboarding — turning multi-quarter manual implementations into hours-long declarative deployments. Requires shipping data migration tooling and infrastructure for a multi-tenant SaaS serving live lending pipelines. · [Apply →](https://jobs.ashbyhq.com/loancrate/e22f784f-c066-4b4c-aca9-b2e1017218b9)_
+
+`TypeScript` `React` `Node.js` `PostgreSQL` `Terraform` `GraphQL` `AWS` `Docker`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Process Equipment Engineer - Fuel Recycling](https://job-boards.greenhouse.io/oklo/jobs/6133618004)
+<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Lead engineering development of process equipment and integrated systems for an advanced nuclear fuel recycling facility, from conceptual design through detailed design and commissioning. Work on first-of-a-kind equipment involving vessels, heat exchangers, separations systems, and custom vendor solutions; requires US person status for export control compliance. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6133618004)_
+
+`Aspen Plus` `HYSYS` `ChemCAD` `process equipment design` `heat exchanger design` `pressure vessel specification` `compressor and blower selection` `adsorption systems`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Software Engineer II, MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002)
+<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · `🟢 Remote` `Mid` `$139k-$166k` `Equity`
+
+_Own model conversion and compilation pipelines using ONNX, TensorRT, and torch.compile to deploy ML models on edge hardware (NVIDIA Orin) for autonomous trucks. Build and maintain the model release registry and perform rigorous latency benchmarking and quality validation to ensure safety-critical performance standards. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002)_
+
+`ONNX` `TensorRT` `torch.compile` `PyTorch` `CUDA` `NVIDIA Orin` `C++` `Kubernetes`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Reinvention Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Reinvention-Deployed-Engineer_R00351670)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$80k-$316k`
+
+_Design, develop, and deploy custom cloud-native applications across AWS, Azure, and on-premises infrastructure for enterprise clients. Strong Linux systems administration and infrastructure-as-code expertise required; significant client-facing technical engagement with 0-100% travel. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Reinvention-Deployed-Engineer_R00351670)_
+
+`Linux` `Python` `Docker` `Kubernetes` `Terraform` `AWS` `Azure` `JavaScript`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
 
 ### [Engineering Manager, AI Intake](https://job-boards.greenhouse.io/parachutehealth/jobs/5217344007)
 <a href="https://parachute.com"><img src="https://www.google.com/s2/favicons?domain=parachute.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Parachute Health** · `🟢 Remote` `Manager` `$220k-$275k` `Equity`
@@ -33,6 +99,17 @@ _Lead structural and thermal-fluids analysis for aerospace vehicles and propulsi
 `FEA/FEM` `ANSYS` `Abaqus` `NASTRAN` `CFD` `Python` `MATLAB` `Fatigue Analysis`
 
 <sub>August 20, 2026 at 15:42 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Front End / Full Stack](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)
+<a href="https://grove.com"><img src="https://www.google.com/s2/favicons?domain=grove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grove** · `🟢 Remote` `Senior` `$180k-$215k` `Equity`
+
+_Lead front end and full stack initiatives end-to-end for an e-commerce platform, from problem definition through architecture decisions to shipped, measured outcomes. Work across a modern stack (currently Shopify-based) with deep ownership of performance, accessibility, and ecosystem integration across mobile apps, subscriptions, and analytics. · [Apply →](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)_
+
+`JavaScript` `TypeScript` `React` `Shopify` `GraphQL` `Git` `GitHub Actions` `Accessibility`
+
+<sub>August 20, 2026 at 14:46 UTC</sub>
 
 ---
 
@@ -268,17 +345,6 @@ _Build scalable microservices APIs and customer-facing web applications for gene
 `Java` `Spring Framework` `React` `AWS` `PostgreSQL` `Docker` `Microservices Architecture` `REST APIs`
 
 <sub>August 19, 2026 at 17:34 UTC</sub>
-
----
-
-### [Platform Engineer](https://jobs.lever.co/atomcomputing/05ff2133-9b73-4352-a753-adf2bd7f5e2d)
-<a href="https://atom-computing.com"><img src="https://www.google.com/s2/favicons?domain=atom-computing.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Atom Computing** · Boulder, Colorado · `🟡 Hybrid` `Mid`
-
-_Build and operate infrastructure systems that power quantum computing software and research workflows, supporting on-premises lab environments and cloud platforms. Requires on-site presence in Boulder, CO (3 days/week minimum) for collaboration with software, hardware, and control systems teams. · [Apply →](https://jobs.lever.co/atomcomputing/05ff2133-9b73-4352-a753-adf2bd7f5e2d)_
-
-`Infrastructure as Code` `Kubernetes` `Cloud platforms (AWS or GCP)` `CI/CD` `Linux` `Python` `Terraform` `Docker`
-
-<sub>August 19, 2026 at 16:40 UTC</sub>
 
 ---
 
