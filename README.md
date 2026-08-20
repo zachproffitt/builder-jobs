@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **459 open roles** (30 new) &nbsp;·&nbsp; 1770 companies searched
+### **461 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 20, 2026
+
+### [Staff Software Engineer ](https://jobs.ashbyhq.com/curri/d616afe4-311f-4c73-8dc9-87c40f8c7ea8)
+<a href="https://www.curri.com"><img src="https://www.google.com/s2/favicons?domain=www.curri.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Curri** · Ventura, California / Remote · `🟢 Remote` `Staff` `Equity`
+
+_Architect and lead technical direction for Curri's last-mile logistics platform across TypeScript/Node.js backend, React frontend, and infrastructure systems (Postgres, Redis, NATS); ship production code regularly while mentoring engineers and unblocking teams on complex system design. Scale experience through significant growth inflections and fluency with AI-paired development (Claude, Cursor) required. · [Apply →](https://jobs.ashbyhq.com/curri/d616afe4-311f-4c73-8dc9-87c40f8c7ea8)_
+
+`TypeScript` `Node.js` `React` `PostgreSQL` `Redis` `NATS` `React Native` `Distributed Systems`
+
+<sub>August 20, 2026 at 19:38 UTC</sub>
+
+---
+
+### [Senior Data Scientist, Data Flywheel](https://jobs.ashbyhq.com/Deepgram/ba60a541-fdf7-44bf-a6bb-0e821f15af54)
+<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Senior`
+
+_Build data characterization, active learning, and model improvement pipelines for speech-to-text and text-to-speech models; design systems to systematically select which conversational audio data to work on next based on model performance gains. Work with multilingual, code-switched, and noisy real-world speech data at scale across diverse acoustic conditions and speaker populations. · [Apply →](https://jobs.ashbyhq.com/Deepgram/ba60a541-fdf7-44bf-a6bb-0e821f15af54)_
+
+`Python` `Active Learning` `Data Pipeline` `Speech/Audio Models` `NLP` `ASR/TTS` `Data Characterization` `Pseudo-labeling`
+
+<sub>August 20, 2026 at 19:38 UTC</sub>
+
+---
+
+### [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143145)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$201k-$253.5k` `Equity`
+
+_Design and deploy machine learning models powering real-time inventory and shelf-stocking predictions across thousands of grocery stores at scale. Own the full ML lifecycle from problem framing through production deployment, collaborating with software engineers, computer vision teams, and data scientists to integrate computer vision signals and novel retail data into a high-throughput inference platform. · [Apply →](https://instacart.careers/job/?gh_jid=8143145)_
+
+`Python` `PyTorch` `TensorFlow` `AWS` `scikit-learn` `Computer Vision` `Temporal Modeling` `Real-time Inference`
+
+<sub>August 20, 2026 at 19:38 UTC</sub>
+
+---
 
 ### [Director Analytics Engineering](https://jobs.ashbyhq.com/1password/32eb8288-f53a-40f6-9c90-1a0063bcabca)
 <a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Manager` `$204k-$306k USD / $200k-$300k CAD` `Equity`
@@ -58,14 +91,14 @@ _Design and implement identity solutions for AI agents, MCP servers, and autonom
 
 ---
 
-### [Agentic Identity Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Agentic-Identity-Security-Consultant_R00335731)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$54k-$205k`
+### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
 
-_Design and implement identity solutions for AI agents, MCP servers, and autonomous workflows using OAuth 2.0, OIDC, and Zero Trust architectures. Build agentic AI identity infrastructure for enterprise clients leveraging emerging agent frameworks and secrets management systems. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Agentic-Identity-Security-Consultant_R00335731)_
+_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
 
-`Python` `OAuth 2.0` `OIDC` `MCP` `Zero Trust` `Identity Governance and Administration` `AWS` `GCP`
+`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
 
-<sub>August 20, 2026 at 18:53 UTC</sub>
+<sub>August 20, 2026 at 16:45 UTC</sub>
 
 ---
 
@@ -75,17 +108,6 @@ _Design and implement identity solutions for AI agents, MCP servers, and autonom
 _Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
 
 `Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
-### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
-
-_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
-
-`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
 
 <sub>August 20, 2026 at 16:45 UTC</sub>
 
@@ -169,7 +191,7 @@ _Lead front end and full stack initiatives end-to-end for an e-commerce platform
 ---
 
 ### [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
 
 _Build detection and response automation systems for CrowdStrike's security operations, processing 3 trillion events daily. Research attacker techniques and establish scalable detection coverage across enterprise infrastructure using data-driven security analytics. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320)_
 
@@ -334,17 +356,6 @@ _Lead customer migrations from self-managed GitLab to GitLab Dedicated using Git
 `Terraform` `Ansible` `Kubernetes` `GitLab` `AWS` `GCP` `Azure` `Go`
 
 <sub>August 19, 2026 at 20:38 UTC</sub>
-
----
-
-### [Lead Machine Learning Engineer](https://job-boards.greenhouse.io/maymobility/jobs/8730957002)
-<a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · `🟢 Remote` `Senior` `$220k-$270k` `Equity`
-
-_Design, train, and evaluate machine learning models for autonomous vehicle perception, simulation, and decision-making at commercial scale (petabyte-scale datasets). Lead small teams advancing vision-language models, world models, and foundation models in robotics; requires 4+ years building commercial robotics systems and 1+ year mentoring ML engineers. · [Apply →](https://job-boards.greenhouse.io/maymobility/jobs/8730957002)_
-
-`Python` `PyTorch` `Vision Language Action Models` `Generative World Models` `LiDAR` `Camera Processing` `Radar Processing` `CUDA`
-
-<sub>August 19, 2026 at 19:33 UTC</sub>
 
 ---
 
