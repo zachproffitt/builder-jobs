@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **446 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **450 open roles** (30 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -25,12 +25,12 @@ _Build production agentic AI systems embedded directly with client teams, writin
 
 ---
 
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
 
-_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
+_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
 
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
 
 <sub>August 20, 2026 at 01:45 UTC</sub>
 
@@ -329,25 +329,14 @@ _Build real-time image processing software for infrared imaging systems deployed
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
+_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
 
-`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
+`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
-
----
-
-### [Tech Architecture Specialist AWS (AI focussed)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
-
-_Design and implement enterprise-scale cloud-native AI solutions on AWS, including Generative AI and Agentic AI applications integrated with LLMs, RAG architectures, and enterprise systems. Architect secure, scalable solutions across modern cloud patterns (serverless, containerized, microservices) while applying governance, compliance, and Responsible AI principles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)_
-
-`AWS` `Python` `Generative AI` `LLMs` `RAG` `Vector Databases` `Kubernetes` `CI/CD`
-
-<sub>August 19, 2026 at 08:49 UTC</sub>
 
 ---
 
