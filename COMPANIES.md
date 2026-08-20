@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **155 companies** · **462 open roles** (30 new)
+### **154 companies** · **462 open roles** (27 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -386,7 +386,7 @@ Cortex makes an internal developer portal that helps developers by reducing over
 
 Databricks builds a data and AI platform that helps customers develop, deploy, and optimize generative AI applications and machine learning models at scale.
 
-- [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002) · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 10)
+- [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002) · `🟢 Remote` `Senior` `$182k-$250k` `Equity` (Aug 10)
 
 ---
 
@@ -541,7 +541,7 @@ Freenome develops blood tests that detect cancer early.
 
 Front provides a customer experience platform that combines client communication, automation, and analytics for service teams.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Mobile Platform (React Native)](https://jobs.ashbyhq.com/frontcareers/09756e86-9fdc-4b9e-bcf7-da9e65165e21) · `🟢 Remote` `Senior` `Equity` (Aug 19)
+- [Senior Software Engineer, Mobile Platform (React Native)](https://jobs.ashbyhq.com/frontcareers/09756e86-9fdc-4b9e-bcf7-da9e65165e21) · `🟢 Remote` `Senior` `Equity` (Aug 19)
 
 ---
 
@@ -578,9 +578,7 @@ GitLab is a DevOps platform delivered as a single application that covers the fu
 
 ---
 
-## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana Labs](https://grafana.com)
-
-Grafana Labs builds Grafana, an open-source visualization tool used by over 20 million users for monitoring and observability, and provides the Grafana LGTM Stack (featuring Mimir for metrics, Loki for logs, and Tempo for traces) that can be deployed as a fully managed cloud service or self-managed enterprise offering to help companies manage their observability strategies.
+## <a href="https://grafana.com"><img src="https://www.google.com/s2/favicons?domain=grafana.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Grafana](https://grafana.com)
 
 - [Staff Backend Engineer - Mimir Query, Databases | Canada | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004) · `🟢 Remote` `Staff` `CAD 186k - CAD 223k` `Equity` (Aug 18)
 - [Staff Backend Engineer - Mimir Query, Databases | USA | Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004) · `🟢 Remote` `Staff` `$174k-$209k` `Equity` (Aug 18)
@@ -815,14 +813,6 @@ LiveKit builds infrastructure for voice-driven computing that enables developers
 
 ---
 
-## <a href="https://loancrate.com"><img src="https://www.google.com/s2/favicons?domain=loancrate.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[LoanCrate](https://loancrate.com)
-
-LoanCrate builds an AI-powered Loan Origination System designed for mortgage teams to automate manual tasks, improve loan quality, and scale operations.
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer - Onboarding Automation](https://jobs.ashbyhq.com/loancrate/e22f784f-c066-4b4c-aca9-b2e1017218b9) · `🟢 Remote` `Senior` (Aug 20)
-
----
-
 ## <a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Mashape](https://mashape.com)
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer - Golang](https://jobs.ashbyhq.com/kong/74598ada-ce9e-4726-90fd-f9e25c793de3) · `🟢 Remote` `Senior` (Aug 20)
@@ -883,8 +873,8 @@ Mysten Labs develops infrastructure for decentralized internet applications.
 
 Natera develops cell-free DNA tests for oncology, women's health, and organ health to inform healthcare decisions.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Director of Data Science Production Engineering, Extended-Hours Support](https://job-boards.greenhouse.io/natera/jobs/6137671004) · `🟢 Remote` `Manager` `$186k–$232k` (Aug 19)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6115665004) · `🟢 Remote` `Senior` `$137k–$171k` `Equity` (Aug 19)
+- [Director of Data Science Production Engineering, Extended-Hours Support](https://job-boards.greenhouse.io/natera/jobs/6137671004) · `🟢 Remote` `Manager` `$186k–$232k` (Aug 19)
+- [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6115665004) · `🟢 Remote` `Senior` `$137k–$171k` `Equity` (Aug 19)
 - [Director of Data Science and Bioinformatics](https://job-boards.greenhouse.io/natera/jobs/6135539004) · `🟢 Remote` `Manager` `$178k–$222k` (Aug 12)
 - [Associate Director of Bioinformatics (Women's Health and Organ Health)](https://job-boards.greenhouse.io/natera/jobs/6138809004) · `🟢 Remote` `Manager` `$166k-$202k` (Aug 10)
 - [Lead Bioinformatician (cfDNA Algorithms and Pipelines)](https://job-boards.greenhouse.io/natera/jobs/6138807004) · `🟢 Remote` `Senior` `$130k—$163k` (Aug 10)
@@ -931,6 +921,7 @@ Nvidia manufactures datacenter products and operates engineering labs where thes
 
 Oklo develops and operates advanced nuclear reactors and is building a nuclear training organization to support safe and efficient plant operations for its advanced reactor facilities.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Neutronics Engineer - Isotope Production](https://job-boards.greenhouse.io/oklo/jobs/6145900004) · Santa Clara, California / Remote · `🟢 Remote` `Senior` `$130k-$220k` `Equity` (Aug 20)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Process Equipment Engineer - Fuel Recycling](https://job-boards.greenhouse.io/oklo/jobs/6133618004) · Santa Clara, California / Remote · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 20)
 - [Refueling Supplier Engineer](https://job-boards.greenhouse.io/oklo/jobs/6146512004) · Santa Clara, California / Remote · `🟢 Remote` `Mid` `$78k-$200k` `Equity` (Aug 18)
 
@@ -1015,7 +1006,7 @@ Pilot provides bookkeeping, CFO, and tax services for startups and small busines
 
 Ping Identity builds a cloud-based identity platform that enables secure access and digital experiences for enterprises, allowing users to shop, work, bank, and interact securely while protecting digital identities. The company serves more than half of the Fortune 100 and is headquartered in Denver, Colorado.
 
-- [Senior Manager, SaaS Quality Engineering (AI-First SDLC)](https://job-boards.greenhouse.io/pingidentity/jobs/8696542002) · `🟢 Remote` `Manager` `$157k-$185k` (Aug 12)
+- [Senior Manager, SaaS Engineering (Tools & AI)](https://job-boards.greenhouse.io/pingidentity/jobs/8696542002) · `🟢 Remote` `Manager` `$157k-$185k` (Aug 12)
 - [Senior Staff Site Reliability Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8686225002) · `🟢 Remote` `Staff` `$170k-$227k` (Aug 12)
 
 ---
@@ -1142,7 +1133,7 @@ Samsara builds a platform called the Connected Operations Cloud that collects In
 - [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161) · `🟢 Remote` `Senior` `$142k-$168k CAD` `Equity` (Aug 13)
 - [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity` (Aug 12)
 - [Sr. AI Engineer](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352) · `🟢 Remote` `Senior` `$127k-$214k` `Equity` (Aug 12)
-- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102) · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity` (Aug 7)
+- [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742) · `🟢 Remote` `Staff` `$162k—$290k` `Equity` (Aug 7)
 - [Manager II, Data Platform](https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931) · `🟢 Remote` `Manager` `$154k-$234k` `Equity` (Aug 7)
 
 ---
@@ -1151,7 +1142,7 @@ Samsara builds a platform called the Connected Operations Cloud that collects In
 
 SecurityScorecard provides cybersecurity ratings for organizations, continuously rating over 12 million companies across 64 countries. The company's patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting.
 
-- [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517) · `🟢 Remote` `Mid` `$170k-$180k` `Equity` (Aug 17)
+- [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8138869) · `🟢 Remote` `Mid` `$170k-$180k` `Equity` (Aug 17)
 - [Senior Data Scientist ](https://job-boards.greenhouse.io/securityscorecard/jobs/8126399) · `🟢 Remote` `Senior` `$150k-$175k` `Equity` (Aug 13)
 
 ---
@@ -1385,7 +1376,7 @@ True Anomaly develops capabilities for space superiority.
 
 Twilio delivers communications services including messaging, voice, and email to hundreds of thousands of businesses and empowers millions of developers worldwide to build customer experiences.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120) · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD` (Aug 20)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644) · `🟢 Remote` `Senior` `$106k-$156k` `Equity` (Aug 20)
 - [Senior Engineering Manager Twilio’s Conversational Agents](https://job-boards.greenhouse.io/twilio/jobs/7926887) · `🟢 Remote` `Manager` `$207.2k-$304.6k` `Equity` (Aug 18)
 
 ---

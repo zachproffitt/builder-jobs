@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **462 open roles** (30 new) &nbsp;·&nbsp; 1770 companies searched
+### **462 open roles** (27 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,17 +13,6 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 20, 2026
-
-### [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$86k-$198k`
-
-_Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
-
-`Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
 
 ### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
 <a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
@@ -36,12 +25,23 @@ _Lead the technical architecture and evolution of high-throughput distributed sy
 
 ---
 
-### [Senior Software Engineer - Onboarding Automation](https://jobs.ashbyhq.com/loancrate/e22f784f-c066-4b4c-aca9-b2e1017218b9)
-<a href="https://loancrate.com"><img src="https://www.google.com/s2/favicons?domain=loancrate.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LoanCrate** · `🟢 Remote` `Senior`
+### [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$86k-$198k`
 
-_Build tenant provisioning and configuration-as-code systems that automate enterprise mortgage lender onboarding — turning multi-quarter manual implementations into hours-long declarative deployments. Requires shipping data migration tooling and infrastructure for a multi-tenant SaaS serving live lending pipelines. · [Apply →](https://jobs.ashbyhq.com/loancrate/e22f784f-c066-4b4c-aca9-b2e1017218b9)_
+_Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
 
-`TypeScript` `React` `Node.js` `PostgreSQL` `Terraform` `GraphQL` `AWS` `Docker`
+`Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Neutronics Engineer - Isotope Production](https://job-boards.greenhouse.io/oklo/jobs/6145900004)
+<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · `🟢 Remote` `Senior` `$130k-$220k` `Equity`
+
+_Develop and execute neutronics analyses for an isotope production reactor, including core design, fuel cycle optimization, target performance, and shielding using Monte Carlo and deterministic transport methods. Requires hands-on expertise with MCNP, Serpent, and SCALE, and the ability to operate independently in a fast-paced startup environment. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6145900004)_
+
+`Python` `MCNP` `Serpent` `SCALE` `Monte Carlo methods` `High Performance Computing` `Sensitivity and Uncertainty Analysis` `Reactor Physics`
 
 <sub>August 20, 2026 at 16:45 UTC</sub>
 
@@ -157,12 +157,12 @@ _Build production agentic AI systems embedded directly with client teams, writin
 
 ---
 
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
 
-_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
+_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
 
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
 
 <sub>August 20, 2026 at 01:45 UTC</sub>
 
@@ -312,39 +312,6 @@ _Lead the technical architecture and hands-on development of enterprise integrat
 `Workato` `Workday Studio` `REST APIs` `SOAP` `JSON` `XML` `XSLT` `Salesforce`
 
 <sub>August 19, 2026 at 18:47 UTC</sub>
-
----
-
-### [Senior Software Engineer, Mobile Platform (React Native)](https://jobs.ashbyhq.com/frontcareers/09756e86-9fdc-4b9e-bcf7-da9e65165e21)
-<a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Front** · `🟢 Remote` `Senior` `Equity`
-
-_Build and maintain Front's React Native mobile app across Android and iOS, diving into native code to improve performance and expose platform APIs. Requires C/C++ and React Native expertise; work with cross-platform teams on a real-time customer operations platform serving 9,000+ companies. · [Apply →](https://jobs.ashbyhq.com/frontcareers/09756e86-9fdc-4b9e-bcf7-da9e65165e21)_
-
-`React Native` `C/C++` `TypeScript` `Kotlin` `Android NDK` `JNI` `JavaScript`
-
-<sub>August 19, 2026 at 17:34 UTC</sub>
-
----
-
-### [Director of Data Science Production Engineering, Extended-Hours Support](https://job-boards.greenhouse.io/natera/jobs/6137671004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$186k–$232k`
-
-_Direct a 10+ person team of data science support engineers delivering analytics to production teams in a CLIA/FDA-regulated genomics testing environment. Build and maintain operational visibility and efficiency tools on Snowflake and AWS infrastructure while ensuring strict regulatory compliance. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6137671004)_
-
-`Python` `SQL` `Snowflake` `AWS (Redshift, Athena, S3, Batch, EC2)` `QuickSight` `Streamlit` `Master's degree in Statistics/Data Science/Bioinformatics/Computer Science/Mathematics/Operations Research`
-
-<sub>August 19, 2026 at 17:34 UTC</sub>
-
----
-
-### [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6115665004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$137k–$171k` `Equity`
-
-_Build scalable microservices APIs and customer-facing web applications for genetic testing and diagnostics platforms, handling PHI/HIPAA-regulated healthcare data. Mentor engineering teams and drive complex system design across cloud infrastructure. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6115665004)_
-
-`Java` `Spring Framework` `React` `AWS` `PostgreSQL` `Docker` `Microservices Architecture` `REST APIs`
-
-<sub>August 19, 2026 at 17:34 UTC</sub>
 
 ---
 
