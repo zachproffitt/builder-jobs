@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **449 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **451 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -377,15 +377,6 @@ _Lead the Product Insights engineering team building scalable platform pipelines
 
 ---
 
-### [Senior Director Software Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$151k-$220k`
-
-_Lead multiple software engineering teams building and maintaining complex financial systems and applications across the full development lifecycle. Strategic role requiring 10+ years of experience with 4+ years directly managing people. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Software-Engineering_R0061683)_
-
-<sub>August 18, 2026 at 17:35 UTC</sub>
-
----
-
 ### [Systems Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Engineer_R0246339)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$61k-$141k`
 
@@ -485,10 +476,10 @@ _Own the React and TypeScript frontend for AMS (Athlete Management System), buil
 
 ---
 
-### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137846)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
+### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137847)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAD$230k–$242k` `Equity`
 
-_Lead the Identity and Risk Platform team building core authentication, account lifecycle, identity verification, and fraud detection systems that secure Instacart's marketplace across millions of customers, shoppers, and retailers. Manage backend and platform engineers while partnering with Security, Fraud, Data Science, and external vendors on adversarial safety challenges at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8137846)_
+_Lead the Identity and Risk Platform team building and operating authentication, account lifecycle, identity verification, and fraud detection systems at scale. Manage backend and platform engineers while partnering cross-functionally to evolve Instacart's trust infrastructure and define technical strategy for identity and risk signal surfacing across AI systems and internal platforms. · [Apply →](https://instacart.careers/job/?gh_jid=8137847)_
 
 `Go` `Java` `Python` `AWS` `GCP` `PostgreSQL` `DynamoDB` `Redis`
 
@@ -628,12 +619,12 @@ _Support and maintain Hungryroot's fulfillment operations platform during off-ho
 
 ---
 
-### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)
+### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8138869)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Mid` `$170k-$180k` `Equity`
 
-_Build AI-powered workflows and automations across Salesforce, Agentforce, Workato, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement data models for opportunity scoring, lead routing, and buyer-intent analytics integrated with external enrichment platforms. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)_
+_Build AI-powered workflows and automations across Salesforce, Agentforce, and the GTM technology stack to solve business problems for sales, marketing, and revenue operations teams. Requires hands-on Salesforce development experience and familiarity with agentic AI systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8138869)_
 
-`Salesforce` `Apex` `JavaScript` `Python` `Agentforce` `Workato` `Zapier` `REST APIs`
+`Salesforce` `Apex` `Python` `JavaScript` `Salesforce Agentforce` `Workato` `Zapier` `REST APIs`
 
 <sub>August 17, 2026 at 21:33 UTC</sub>
 
@@ -1245,12 +1236,12 @@ _Own the subscriptions and payments platform—building foundational systems and
 
 ---
 
-### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k–$260k` `Equity`
+### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
 
-_Build full-stack, AI-powered products for physical operations at scale, processing 25+ trillion IoT data points annually. Own zero-to-one product areas end-to-end across backend, frontend, and mobile, turning machine learning capabilities into mission-critical systems for fleet management, equipment monitoring, and field operations. · [Apply →](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)_
+_Build end-to-end AI-powered products and full-stack systems for physical operations, from backend services and APIs to customer-facing UI, processing 25+ trillion IoT data points annually. Zero-to-one product development at billion-dollar scale with real-world stakes across fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Product Leadership`
+`Go` `Python` `TypeScript` `React` `AI/ML systems` `Data ingestion` `APIs` `LLMs`
 
 <sub>August 14, 2026 at 19:52 UTC</sub>
 
@@ -2230,12 +2221,12 @@ _Lead AI and MarTech strategy for Pinterest's marketing organization, owning end
 
 ---
 
-### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
+### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
 
-_Design and build production AI systems including agent orchestration and retrieval pipelines, while architecting marketing data infrastructure, ETL pipelines, and a Customer Data Platform to enable segmentation and analytics at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)_
+_Design and build production AI systems including agent orchestration, retrieval pipelines, and evaluation frameworks; architect and maintain marketing databases, CDPs, and data pipelines to enable advanced analytics and automation. Requires hands-on experience shipping LLM/agentic systems in production and deep expertise with modern data warehousing. · [Apply →](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)_
 
-`Python` `SQL` `LLMs` `Databricks` `dbt` `Snowflake` `BigQuery` `Agentic Coding Tools`
+`Python` `SQL` `LLMs` `Agents` `Databricks` `dbt` `Snowflake` `BigQuery`
 
 <sub>August 12, 2026 at 19:14 UTC</sub>
 
@@ -2477,28 +2468,6 @@ _Lead global Site Reliability Engineering and Development & Reliability Engineer
 
 ---
 
-### [Senior Software Engineer, Data Systems](https://jobs.ashbyhq.com/hive.co/701d62d6-39ba-4afc-a06e-ebdbdee2e1b4)
-<a href="https://www.hive.co"><img src="https://www.google.com/s2/favicons?domain=www.hive.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hive** · `🟢 Remote` `Senior` `Equity`
-
-_Design and operate a cloud-native big data platform handling audience data for millions of attendees and billions of interactions annually, alongside ML infrastructure for feature stores, training pipelines, and model serving. 8+ years of distributed systems and production ML experience required, with opportunity to shape data/ML infrastructure at a high-growth event marketing SaaS. · [Apply →](https://jobs.ashbyhq.com/hive.co/701d62d6-39ba-4afc-a06e-ebdbdee2e1b4)_
-
-`Python` `Airflow` `Dagster` `Clickhouse` `PostgreSQL` `MongoDB` `Redshift` `PyTorch`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Staff Field Reliability Engineer](https://job-boards.greenhouse.io/honeycomb/jobs/5378517008)
-<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Staff` `$200k-$240k` `Equity`
-
-_Build and operate managed infrastructure (Refinery as a Service, Honeycomb Private Cloud) across multi-region AWS environments, architect standards and automation for the field reliability engineering team, and serve as technical escalation for the company's most complex customer infrastructure and observability challenges. Lead OpenTelemetry ecosystem initiatives, mentor senior engineers, and drive strategic roadmap priorities based on field signal from Fortune 500 customers. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5378517008)_
-
-`Kubernetes` `AWS` `Terraform` `Go` `Python` `OpenTelemetry` `Distributed Systems` `Incident Command`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
 ### [Data Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0247100)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
 
@@ -2538,6 +2507,28 @@ _Lead a cross-functional team of physicists and software engineers developing mi
 _Build statistical models and machine learning algorithms to extract actionable intelligence from classified government datasets; requires active TS/SCI clearance and experience supporting Department of Defense or Intelligence Community clients. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Statistician-and-Mathematician--Senior_R0246477)_
 
 `Python` `R` `SQL` `Machine Learning` `Statistics` `Spark` `Kafka` `TS/SCI Clearance`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Data Systems](https://jobs.ashbyhq.com/hive.co/701d62d6-39ba-4afc-a06e-ebdbdee2e1b4)
+<a href="https://www.hive.co"><img src="https://www.google.com/s2/favicons?domain=www.hive.co&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hive** · `🟢 Remote` `Senior` `Equity`
+
+_Design and operate a cloud-native big data platform handling audience data for millions of attendees and billions of interactions annually, alongside ML infrastructure for feature stores, training pipelines, and model serving. 8+ years of distributed systems and production ML experience required, with opportunity to shape data/ML infrastructure at a high-growth event marketing SaaS. · [Apply →](https://jobs.ashbyhq.com/hive.co/701d62d6-39ba-4afc-a06e-ebdbdee2e1b4)_
+
+`Python` `Airflow` `Dagster` `Clickhouse` `PostgreSQL` `MongoDB` `Redshift` `PyTorch`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Staff Field Reliability Engineer](https://job-boards.greenhouse.io/honeycomb/jobs/5378517008)
+<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Staff` `$200k-$240k` `Equity`
+
+_Build and operate managed infrastructure (Refinery as a Service, Honeycomb Private Cloud) across multi-region AWS environments, architect standards and automation for the field reliability engineering team, and serve as technical escalation for the company's most complex customer infrastructure and observability challenges. Lead OpenTelemetry ecosystem initiatives, mentor senior engineers, and drive strategic roadmap priorities based on field signal from Fortune 500 customers. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5378517008)_
+
+`Kubernetes` `AWS` `Terraform` `Go` `Python` `OpenTelemetry` `Distributed Systems` `Incident Command`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -2598,6 +2589,17 @@ _Architect and build certificate lifecycle management systems spanning discovery
 
 ---
 
+### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
+
+_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
+
+`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
 ### [Principal UX Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/8122887)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Principal` `$245k–$344k` `Equity`
 
@@ -2626,17 +2628,6 @@ _Drive GenAI-powered recommendation and feed ranking systems leveraging Reddit's
 _Develop and analyze launch vehicle and spacecraft trajectories for Earth orbiting, lunar, and interplanetary missions; perform orbital propagation, rendezvous planning, and collision avoidance design. Requires U.S. citizenship and security clearance eligibility for ITAR-regulated aerospace work. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7856496003)_
 
 `Python` `STK` `GMAT` `Astrogator` `Git` `Orbital Mechanics` `Monte Carlo Simulation` `TS/SCI Clearance`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
-<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
-
-_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
-
-`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -2711,6 +2702,17 @@ _Lead full-stack integration architecture for DGX Cloud, defining control and da
 <br>
 
 ## August 11, 2026
+
+### [Machine Learning Programmer, Memory](https://epicgames.com/careers/jobs/6141148004?gh_jid=6141148004)
+<a href="https://epicgames.com"><img src="https://www.google.com/s2/favicons?domain=epicgames.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Epic Games** · `🟢 Remote` `Senior` `$184k-$270k`
+
+_Design and implement memory architectures for foundation models that enable long-horizon reasoning and experience retention across vision and language tasks. Deploy production-ready ML systems at scale across multiple modalities; requires PhD in CS/Math or 3+ years industry ML experience. · [Apply →](https://epicgames.com/careers/jobs/6141148004?gh_jid=6141148004)_
+
+`Python` `PyTorch` `Foundational Models` `Reinforcement Learning` `Computer Vision` `NLP` `numpy` `scipy`
+
+<sub>August 11, 2026 at 17:07 UTC</sub>
+
+---
 
 ### [Computer Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
@@ -3033,23 +3035,23 @@ _Own end-to-end production data and AI solutions for federal government customer
 
 ---
 
-### [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Mid` `$160k-$200k (Denver); $190k-$240k (San Francisco, New York)` `Equity`
-
-_Build MLOps infrastructure and platforms to support the full ML lifecycle—model development, deployment, monitoring, and retraining—for Gusto's AI/ML engineers at scale. Requires hands-on experience with ML infrastructure, feature stores, and data pipelines. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8073232)_
-
-`Python` `AWS` `Kubernetes` `Data Pipelines` `Feature Stores` `CI/CD` `Model Serving` `MLflow`
-
-<sub>August 10, 2026 at 17:56 UTC</sub>
-
----
-
 ### [Computer Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Senior_R0247093)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
 
 _Build and operationalize machine learning models and AI systems for Intelligence Community missions, applying data science methodologies to complex classified datasets. Requires active TS/SCI clearance and work on-site at government facilities. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Senior_R0247093)_
 
 `Python` `R` `Git` `Machine Learning` `Data Engineering` `Statistics` `TS/SCI Clearance`
+
+<sub>August 10, 2026 at 17:56 UTC</sub>
+
+---
+
+### [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Mid` `$160k-$200k (Denver); $190k-$240k (San Francisco, New York)` `Equity`
+
+_Build MLOps infrastructure and platforms to support the full ML lifecycle—model development, deployment, monitoring, and retraining—for Gusto's AI/ML engineers at scale. Requires hands-on experience with ML infrastructure, feature stores, and data pipelines. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8073232)_
+
+`Python` `AWS` `Kubernetes` `Data Pipelines` `Feature Stores` `CI/CD` `Model Serving` `MLflow`
 
 <sub>August 10, 2026 at 17:56 UTC</sub>
 
@@ -3374,10 +3376,10 @@ _Design and implement real-time multi-target tracking algorithms and high-perfor
 
 ---
 
-### [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
+### [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity`
 
-_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems that process radar sensor data to detect and track airborne threats at scale. Requires active TS/SCI clearance and involves building production systems for mission-critical defense applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007)_
+_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems for air and missile defense radar that process massive sensor data streams to detect and track airborne threats in milliseconds. Requires active TS/SCI clearance and involves production-grade systems deployed for mission-critical military operations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007)_
 
 `C++` `Python` `Kalman filters` `Linear algebra` `Signal processing` `MATLAB` `GPU acceleration` `TS/SCI Clearance`
 
@@ -3525,12 +3527,12 @@ _Build Benepass's internal AI platform from the ground up, starting with enginee
 
 ---
 
-### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k—$290k` `Equity`
+### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity`
 
-_Build AI-powered full-stack products and platform capabilities for physical operations, shipping zero-to-one solutions that process 25+ trillion IoT data points annually. Define technical strategy across backend services, APIs, frontend, and ML systems while mentoring senior engineers and shaping engineering culture at a $2B ARR, 30%+ growth company. · [Apply →](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742)_
+_Build AI-powered operational products and systems at scale, taking ownership of zero-to-one features across backend services, APIs, and frontend that process and transform 25+ trillion annual IoT data points into actionable intelligence for physical operations. Work across a billion-dollar dataset and growing product suite where technical decisions directly impact customer outcomes in fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Product Strategy` `Full-Stack Development`
+`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Distributed Systems`
 
 <sub>August 7, 2026 at 21:49 UTC</sub>
 
@@ -3696,6 +3698,17 @@ _Design and build backend services and APIs powering Instacart's coupon merchand
 `Go` `Python` `Java` `Node.js` `PostgreSQL` `Redis` `AWS` `Kubernetes`
 
 <sub>August 7, 2026 at 13:22 UTC</sub>
+
+---
+
+### [Senior Android Developer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cluj-Napoca/Senior-Android-Developer_R00299263)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
+
+_Build regulated Android applications for medical devices and healthcare platforms using Kotlin, integrating Bluetooth/IoT hardware and secure backend APIs. Requires proven experience in GxP/FDA-compliant software development and healthcare regulatory frameworks (ISO 13485, IEC 62304, FDA 21 CFR Part 11, EU MDR). · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cluj-Napoca/Senior-Android-Developer_R00299263)_
+
+`Kotlin` `Jetpack Compose` `Android Architecture Components` `Coroutines` `Flows` `Bluetooth LE` `Hilt` `HIPAA`
+
+<sub>August 7, 2026 at 11:02 UTC</sub>
 
 ---
 
@@ -3886,23 +3899,23 @@ _Design, implement, and scale endpoint security solutions (EDR, DLP, MDM, secure
 
 ---
 
-### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
-<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
-
-_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
-
-`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Staff Forward Deployed Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)
 <a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Santa Clara, California / Austin, Texas / Toronto, ON / Remote · `Staff` `$100k-$500k`
 
 _Build and operate AI inference deployments on Tenstorrent's RISC-V accelerators, debugging across the full stack from customer requests through hardware dispatch. Bridge customers, engineering, and production systems while scaling disaggregated inference on Kubernetes at HPC cluster scale; requires deep understanding of accelerator compute, memory, and networking constraints. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)_
 
 `Kubernetes` `Helm` `Python` `vLLM` `Prometheus` `Grafana` `OpenTelemetry` `RISC-V`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
+<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
+
+_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
+
+`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 

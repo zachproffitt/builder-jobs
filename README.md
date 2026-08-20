@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **449 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **451 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -329,14 +329,25 @@ _Build real-time image processing software for infrared imaging systems deployed
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
 
-_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
+_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
 
-`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
+`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
+
+---
+
+### [Tech Architecture Specialist AWS (AI focussed)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior`
+
+_Design and implement enterprise-scale cloud-native AI solutions on AWS, including Generative AI and Agentic AI applications integrated with LLMs, RAG architectures, and enterprise systems. Architect secure, scalable solutions across modern cloud patterns (serverless, containerized, microservices) while applying governance, compliance, and Responsible AI principles. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Tech-Architecture-Specialist-AWS--AI-focussed-_R00351585)_
+
+`AWS` `Python` `Generative AI` `LLMs` `RAG` `Vector Databases` `Kubernetes` `CI/CD`
+
+<sub>August 19, 2026 at 08:49 UTC</sub>
 
 ---
 
