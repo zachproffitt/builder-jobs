@@ -2,13 +2,39 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **473 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **444 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 20, 2026
+
+### [Forward Deployed Engineer, Agentic AI](https://job-boards.greenhouse.io/redapt/jobs/5396488008)
+<a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior`
+
+_Build production agentic AI systems embedded directly with client teams, writing Python code to integrate Claude models into customer business processes. Handle the full engagement arc from coding to deployment optimization, security hardening, and ROI advisory across Azure Foundry, AWS Bedrock, and Anthropic platforms. · [Apply →](https://job-boards.greenhouse.io/redapt/jobs/5396488008)_
+
+`Python` `Claude API` `Azure AI Foundry` `AWS Bedrock` `LangGraph` `LangChain` `CrewAI` `MCP`
+
+<sub>August 20, 2026 at 01:45 UTC</sub>
+
+---
+
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
+
+_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
+
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
+
+<sub>August 20, 2026 at 01:45 UTC</sub>
+
+---
 
 <br>
 
@@ -333,17 +359,6 @@ _Design and operate infrastructure spanning on-prem lab environments and cloud p
 `Infrastructure as Code` `Kubernetes` `Cloud Platform (AWS/GCP/Azure)` `Systems Design` `Distributed Systems`
 
 <sub>August 19, 2026 at 06:58 UTC</sub>
-
----
-
-### [Software Engineer 2 - RCM (Remote)](https://jobs.ashbyhq.com/rula/9b0241a2-2ec5-4a15-a04d-70ac08d15c4c)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Mid`
-
-_Build scalable platforms and services for revenue cycle management, including payments, claims submission, and operational workflows. Strong architectural fundamentals required; on-call support for critical business systems. · [Apply →](https://jobs.ashbyhq.com/rula/9b0241a2-2ec5-4a15-a04d-70ac08d15c4c)_
-
-`React` `Node.js` `TypeScript` `Kafka` `AWS` `API Design` `Distributed Systems`
-
-<sub>August 19, 2026 at 01:46 UTC</sub>
 
 ---
 
