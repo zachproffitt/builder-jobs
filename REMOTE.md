@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **267 open roles** (20 new)
+### **264 open roles** (20 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -23,12 +23,12 @@ _Build production agentic AI systems embedded directly with client teams, writin
 
 ---
 
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
 
-_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
+_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
 
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
 
 <sub>August 20, 2026 at 01:45 UTC</sub>
 
@@ -225,12 +225,12 @@ _Build full-stack products powering Antora's thermal battery business—from cus
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
 
-_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
+_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
 
-`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
+`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
 
@@ -524,10 +524,10 @@ _Own the React and TypeScript frontend for AMS (Athlete Management System), buil
 
 ---
 
-### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137846)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `$192k—$242k USD` `Equity`
+### [Engineering Manager, Fraud & Identity Platform](https://instacart.careers/job/?gh_jid=8137847)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `CAD$230k–$242k` `Equity`
 
-_Lead the Identity and Risk Platform team building core authentication, account lifecycle, identity verification, and fraud detection systems that secure Instacart's marketplace across millions of customers, shoppers, and retailers. Manage backend and platform engineers while partnering with Security, Fraud, Data Science, and external vendors on adversarial safety challenges at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8137846)_
+_Lead the Identity and Risk Platform team building and operating authentication, account lifecycle, identity verification, and fraud detection systems at scale. Manage backend and platform engineers while partnering cross-functionally to evolve Instacart's trust infrastructure and define technical strategy for identity and risk signal surfacing across AI systems and internal platforms. · [Apply →](https://instacart.careers/job/?gh_jid=8137847)_
 
 `Go` `Java` `Python` `AWS` `GCP` `PostgreSQL` `DynamoDB` `Redis`
 
@@ -616,12 +616,12 @@ _Support and maintain Hungryroot's fulfillment operations platform during off-ho
 
 ---
 
-### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)
+### [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8138869)
 <a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Mid` `$170k-$180k` `Equity`
 
-_Build AI-powered workflows and automations across Salesforce, Agentforce, Workato, and the GTM technology stack to streamline sales, marketing, and revenue operations processes. Design and implement data models for opportunity scoring, lead routing, and buyer-intent analytics integrated with external enrichment platforms. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517)_
+_Build AI-powered workflows and automations across Salesforce, Agentforce, and the GTM technology stack to solve business problems for sales, marketing, and revenue operations teams. Requires hands-on Salesforce development experience and familiarity with agentic AI systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8138869)_
 
-`Salesforce` `Apex` `JavaScript` `Python` `Agentforce` `Workato` `Zapier` `REST APIs`
+`Salesforce` `Apex` `Python` `JavaScript` `Salesforce Agentforce` `Workato` `Zapier` `REST APIs`
 
 <sub>August 17, 2026 at 21:33 UTC</sub>
 
@@ -976,12 +976,12 @@ _Own the subscriptions and payments platform—building foundational systems and
 
 ---
 
-### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k–$260k` `Equity`
+### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
 
-_Build full-stack, AI-powered products for physical operations at scale, processing 25+ trillion IoT data points annually. Own zero-to-one product areas end-to-end across backend, frontend, and mobile, turning machine learning capabilities into mission-critical systems for fleet management, equipment monitoring, and field operations. · [Apply →](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)_
+_Build end-to-end AI-powered products and full-stack systems for physical operations, from backend services and APIs to customer-facing UI, processing 25+ trillion IoT data points annually. Zero-to-one product development at billion-dollar scale with real-world stakes across fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Product Leadership`
+`Go` `Python` `TypeScript` `React` `AI/ML systems` `Data ingestion` `APIs` `LLMs`
 
 <sub>August 14, 2026 at 19:52 UTC</sub>
 
@@ -1127,17 +1127,6 @@ _Build and maintain large-scale distributed systems ensuring high reliability an
 `Ruby` `Go` `AWS` `GCP` `Azure` `Python` `Kubernetes` `Incident Management`
 
 <sub>August 14, 2026 at 13:24 UTC</sub>
-
----
-
-### [Principal Applied Scientist, Agentic AI](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P751035-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$181k-$305k` `Equity`
-
-_Set the science direction for advanced reasoning and long-running agent systems; translate emerging agentic AI advances into reliable, differentiated customer experiences through agent architecture, evaluation frameworks, and production deployment. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P751035-1)_
-
-`Large Language Models` `Agentic AI` `Agent Architecture` `Evaluation Frameworks` `Post-training` `Test-time Scaling` `Multi-step Reasoning` `Memory Engineering`
-
-<sub>August 14, 2026 at 10:12 UTC</sub>
 
 ---
 
@@ -1708,12 +1697,12 @@ _Lead AI and MarTech strategy for Pinterest's marketing organization, owning end
 
 ---
 
-### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
+### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
 
-_Design and build production AI systems including agent orchestration and retrieval pipelines, while architecting marketing data infrastructure, ETL pipelines, and a Customer Data Platform to enable segmentation and analytics at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)_
+_Design and build production AI systems including agent orchestration, retrieval pipelines, and evaluation frameworks; architect and maintain marketing databases, CDPs, and data pipelines to enable advanced analytics and automation. Requires hands-on experience shipping LLM/agentic systems in production and deep expertise with modern data warehousing. · [Apply →](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)_
 
-`Python` `SQL` `LLMs` `Databricks` `dbt` `Snowflake` `BigQuery` `Agentic Coding Tools`
+`Python` `SQL` `LLMs` `Agents` `Databricks` `dbt` `Snowflake` `BigQuery`
 
 <sub>August 12, 2026 at 19:14 UTC</sub>
 
@@ -2514,12 +2503,12 @@ _Lead end-to-end machine learning strategy and execution for Shopping Ads delive
 
 ---
 
-### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k—$290k` `Equity`
+### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity`
 
-_Build AI-powered full-stack products and platform capabilities for physical operations, shipping zero-to-one solutions that process 25+ trillion IoT data points annually. Define technical strategy across backend services, APIs, frontend, and ML systems while mentoring senior engineers and shaping engineering culture at a $2B ARR, 30%+ growth company. · [Apply →](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742)_
+_Build AI-powered operational products and systems at scale, taking ownership of zero-to-one features across backend services, APIs, and frontend that process and transform 25+ trillion annual IoT data points into actionable intelligence for physical operations. Work across a billion-dollar dataset and growing product suite where technical decisions directly impact customer outcomes in fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Product Strategy` `Full-Stack Development`
+`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Distributed Systems`
 
 <sub>August 7, 2026 at 21:49 UTC</sub>
 
@@ -2562,17 +2551,6 @@ _Build web and Windows applications using RPG IV/ILE, integrating with SQL Serve
 <a href="https://render.com"><img src="https://www.google.com/s2/favicons?domain=render.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Render** · `🟢 Remote` `Manager`
 
 _Lead a team of product engineers building the core developer experience and platform features of Render's cloud infrastructure. This requires deep technical leadership on distributed systems and developer tools, with responsibility for translating user needs into scalable systems. · [Apply →](https://jobs.ashbyhq.com/render/f1ed029b-9119-4c3d-bd3c-2ce0b9717ee8)_
-
-<sub>August 7, 2026 at 19:08 UTC</sub>
-
----
-
-### [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Design and build evaluation frameworks, tracing systems, and observability infrastructure for Zillow's production agentic AI agents. Partner with applied scientists and ML engineers to measure and improve AI quality, reliability, and trustworthiness at scale; requires deep familiarity with LLM evaluation paradigms and production ML systems. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)_
-
-`Python` `LangChain` `LangGraph` `MLflow` `LangSmith` `Kubernetes` `PostgreSQL` `Observability`
 
 <sub>August 7, 2026 at 19:08 UTC</sub>
 
@@ -2815,17 +2793,6 @@ _Build and maintain CI/CD infrastructure, progressive delivery systems, and depl
 _Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
 
 `PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141k-$237k` `Equity`
-
-_Lead end-to-end data science projects applying advanced statistical and machine learning techniques to build predictive, recommendation, and optimization models that improve Zillow's real estate platform and customer experiences. Develop scalable data pipelines, feature engineering frameworks, and experimentation systems in partnership with engineering teams to operationalize models at scale. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)_
-
-`Python` `R` `SQL` `Machine Learning` `Statistics` `Experimentation Design` `Causal Inference`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
