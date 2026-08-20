@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **453 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **453 open roles** (27 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 20, 2026
+
+### [Senior Software Engineer, Front End / Full Stack](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)
+<a href="https://grove.com"><img src="https://www.google.com/s2/favicons?domain=grove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grove** · `🟢 Remote` `Senior` `$180k-$215k` `Equity`
+
+_Lead front end and full stack initiatives end-to-end for an e-commerce platform, from problem definition through architecture decisions to shipped, measured outcomes. Work across a modern stack (currently Shopify-based) with deep ownership of performance, accessibility, and ecosystem integration across mobile apps, subscriptions, and analytics. · [Apply →](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)_
+
+`JavaScript` `TypeScript` `React` `Shopify` `GraphQL` `Git` `GitHub Actions` `Accessibility`
+
+<sub>August 20, 2026 at 14:46 UTC</sub>
+
+---
 
 ### [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320)
 <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
@@ -301,53 +312,6 @@ _Build and operate the cloud infrastructure foundation for Komodo Health's healt
 `Terraform` `AWS` `Kubernetes` `ArgoCD` `GitHub Actions` `Python` `Go` `Okta`
 
 <sub>August 19, 2026 at 15:39 UTC</sub>
-
----
-
-### [Senior Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/e4831b15-5443-4217-8912-2ce1117552b5)
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Senior`
-
-_Build communication systems software for satellites, UAVs, and launch vehicles supporting Department of Defense and Intelligence Community programs. Requires U.S. citizenship or eligible immigration status per International Traffic in Arms Regulations (ITAR). · [Apply →](https://jobs.lever.co/CesiumAstro/e4831b15-5443-4217-8912-2ce1117552b5)_
-
-<sub>August 19, 2026 at 14:44 UTC</sub>
-
----
-
-### [Senior Staff Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/0c76d544-210f-47a6-92db-976612b0de86)
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Staff`
-
-_Build communication systems software for satellites, UAVs, and launch vehicles serving defense and intelligence community programs. Must be a U.S. citizen or eligible for State Department authorization. · [Apply →](https://jobs.lever.co/CesiumAstro/0c76d544-210f-47a6-92db-976612b0de86)_
-
-<sub>August 19, 2026 at 14:44 UTC</sub>
-
----
-
-### [Software Engineer II - Fullstack](https://jobs.lever.co/CesiumAstro/d1543679-be8b-4abb-8a56-e546e9247a59)
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Mid`
-
-_Build communication systems software for satellites, UAVs, and launch vehicles supporting Department of War and Intelligence Community programs. · [Apply →](https://jobs.lever.co/CesiumAstro/d1543679-be8b-4abb-8a56-e546e9247a59)_
-
-<sub>August 19, 2026 at 14:44 UTC</sub>
-
----
-
-### [Staff Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/0e5b29b1-e761-4b1c-b379-0aee29479e5c)
-<a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Staff`
-
-_Build communication systems software for satellites, UAVs, and launch vehicles supporting Department of Defense and Intelligence Community programs. · [Apply →](https://jobs.lever.co/CesiumAstro/0e5b29b1-e761-4b1c-b379-0aee29479e5c)_
-
-<sub>August 19, 2026 at 14:44 UTC</sub>
-
----
-
-### [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$98k-$143k`
-
-_Build AI applications and agents that transform complex technical information into accurate customer documentation, using LLMs and automation to improve content creation and publishing workflows. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)_
-
-`LLMs` `Python` `Agentic AI` `RAG` `API Integration` `Prompt Engineering`
-
-<sub>August 19, 2026 at 14:44 UTC</sub>
 
 ---
 
