@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **462 open roles** (27 new) &nbsp;·&nbsp; 1770 companies searched
+### **459 open roles** (30 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -14,14 +14,58 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 20, 2026
 
-### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
+### [Director Analytics Engineering](https://jobs.ashbyhq.com/1password/32eb8288-f53a-40f6-9c90-1a0063bcabca)
+<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Manager` `$204k-$306k USD / $200k-$300k CAD` `Equity`
 
-_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
+_Lead the analytics engineering function, managing team and technical strategy for 1Password's trusted data foundations across dimensional modeling, semantic layers, and BI tooling serving Finance, Marketing, Product, and AI initiatives. Requires hands-on SQL and dbt expertise in complex B2B SaaS environments at scale. · [Apply →](https://jobs.ashbyhq.com/1password/32eb8288-f53a-40f6-9c90-1a0063bcabca)_
 
-`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
+`SQL` `dbt` `Snowflake` `Databricks` `BigQuery` `Redshift` `Airflow` `Dimensional Modeling`
 
-<sub>August 20, 2026 at 16:45 UTC</sub>
+<sub>August 20, 2026 at 18:53 UTC</sub>
+
+---
+
+### [Staff Software Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer--MANTL-_JR-000837)
+<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$140k-$175k`
+
+_Lead cross-team delivery of complex software capabilities across Alkami's digital banking platform, designing scalable system architectures, secure APIs, microservices, and third-party integrations for financial institutions. Role requires hands-on coding in TypeScript/Node.js or Python/Go and technical leadership across product, design, security, and engineering teams in a regulated fintech environment. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer--MANTL-_JR-000837)_
+
+`TypeScript` `Node.js` `Python` `Go` `Microservices` `REST APIs` `Distributed Systems` `Domain-Driven Design`
+
+<sub>August 20, 2026 at 18:53 UTC</sub>
+
+---
+
+### [Director of Data Science - Patient Experience (Remote)](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Manager`
+
+_Lead data science initiatives to optimize patient experience and marketplace balance in a mental healthcare platform serving hundreds of thousands of users. Drive analytics, A/B testing, and product experimentation across clinical operations, customer experience, and revenue metrics while managing a dedicated analytics team. · [Apply →](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a)_
+
+`Python` `SQL` `A/B Testing` `Product Analytics` `Statistical Analysis` `Looker` `Tableau` `Machine Learning`
+
+<sub>August 20, 2026 at 18:53 UTC</sub>
+
+---
+
+### [Senior Agentic Identity Security Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Senior-Agentic-Identity-Security-Manager_R00335757)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80.4k-$293.8k` `Equity`
+
+_Design and implement identity solutions for AI agents, MCP servers, and autonomous workflows, integrating OAuth 2.0/OIDC with agentic AI frameworks and Zero Trust architectures. Requires hands-on Python development and 5+ years of cloud platform, containerization, and security infrastructure experience. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Senior-Agentic-Identity-Security-Manager_R00335757)_
+
+`Python` `OAuth 2.0` `OIDC` `LangGraph` `Claude Agent SDK` `MCP` `Zero Trust Architecture` `Kubernetes`
+
+<sub>August 20, 2026 at 18:53 UTC</sub>
+
+---
+
+### [Agentic Identity Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Agentic-Identity-Security-Consultant_R00335731)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$54k-$205k`
+
+_Design and implement identity solutions for AI agents, MCP servers, and autonomous workflows using OAuth 2.0, OIDC, and Zero Trust architectures. Build agentic AI identity infrastructure for enterprise clients leveraging emerging agent frameworks and secrets management systems. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Agentic-Identity-Security-Consultant_R00335731)_
+
+`Python` `OAuth 2.0` `OIDC` `MCP` `Zero Trust` `Identity Governance and Administration` `AWS` `GCP`
+
+<sub>August 20, 2026 at 18:53 UTC</sub>
 
 ---
 
@@ -31,6 +75,17 @@ _Lead the technical architecture and evolution of high-throughput distributed sy
 _Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
 
 `Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
+
+_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
+
+`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
 
 <sub>August 20, 2026 at 16:45 UTC</sub>
 
@@ -114,7 +169,7 @@ _Lead front end and full stack initiatives end-to-end for an e-commerce platform
 ---
 
 ### [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
 
 _Build detection and response automation systems for CrowdStrike's security operations, processing 3 trillion events daily. Research attacker techniques and establish scalable detection coverage across enterprise infrastructure using data-driven security analytics. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320)_
 
@@ -282,17 +337,6 @@ _Lead customer migrations from self-managed GitLab to GitLab Dedicated using Git
 
 ---
 
-### [Security Incident Response Engineer](https://stripe.com/jobs/search?gh_jid=8142302)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Mid`
-
-_Build detection models and incident response systems that analyze user and entity behavior to identify and respond to threats at scale. Develop security analytics pipelines and signals enrichment logic to differentiate legitimate from malicious activity across Stripe's infrastructure. · [Apply →](https://stripe.com/jobs/search?gh_jid=8142302)_
-
-`Python` `SQL` `PySpark` `Pandas` `Splunk` `Databricks` `Log Analysis` `Digital Forensics`
-
-<sub>August 19, 2026 at 20:38 UTC</sub>
-
----
-
 ### [Lead Machine Learning Engineer](https://job-boards.greenhouse.io/maymobility/jobs/8730957002)
 <a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**May Mobility** · `🟢 Remote` `Senior` `$220k-$270k` `Equity`
 
@@ -301,17 +345,6 @@ _Design, train, and evaluate machine learning models for autonomous vehicle perc
 `Python` `PyTorch` `Vision Language Action Models` `Generative World Models` `LiDAR` `Camera Processing` `Radar Processing` `CUDA`
 
 <sub>August 19, 2026 at 19:33 UTC</sub>
-
----
-
-### [Sr. Lead Engineer, Integration & Automation](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Lead-Engineer--Integration---Automation_JR115776)
-<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Senior` `$168k-$269k` `Equity`
-
-_Lead the technical architecture and hands-on development of enterprise integrations across Finance, Revenue, and People Technology systems using Workato and Workday Studio. Own the integration estate's maturity roadmap, set engineering standards and SLAs, and guide a distributed team of integration engineers. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Lead-Engineer--Integration---Automation_JR115776)_
-
-`Workato` `Workday Studio` `REST APIs` `SOAP` `JSON` `XML` `XSLT` `Salesforce`
-
-<sub>August 19, 2026 at 18:47 UTC</sub>
 
 ---
 
