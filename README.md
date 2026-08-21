@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **487 open roles** (45 new) &nbsp;·&nbsp; 1770 companies searched
+### **517 open roles** (44 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 21, 2026
+
+### [Sr. IT Solution Architect, Access Automation](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-IT-Solution-Architect--Access-Automation_REQ23976-1)
+<a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · `🟢 Remote` `Senior` `$133k-$178k` `Equity`
+
+_Design and lead enterprise-wide Identity Governance and Administration solutions using SailPoint Identity Security Cloud, integrating with Active Directory, HR systems (Workday), ERP (Oracle), and cloud applications. Requires 6+ years of hands-on SailPoint expertise and delivery of large-scale IAM transformation programs in a regulated (GxP/SOX) pharma environment. · [Apply →](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-IT-Solution-Architect--Access-Automation_REQ23976-1)_
+
+`SailPoint Identity Security Cloud` `Identity Governance and Administration` `Active Directory` `Azure AD` `Java` `BeanShell` `ServiceNow` `REST APIs`
+
+<sub>August 21, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Product Security Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Design and architect network security patterns across CrowdStrike's hybrid cloud infrastructure (AWS, GCP, Azure, physical data centers) processing 3 trillion events daily. Build scalable monitoring, alerting, and automation solutions to identify security gaps, reduce attack surface, and establish zero-trust architecture at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)_
+
+`AWS` `GCP` `Azure` `Python` `Go` `Network Security` `Cloud Security` `Zero Trust Architecture`
+
+<sub>August 21, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Test Core](https://jobs.ashbyhq.com/vanta/b5c4b58a-0b6b-40a2-b0de-328e4f943060)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
+
+_Build the runtime platform powering Vanta's security and compliance test execution, handling tens of millions of API calls daily across hundreds of thousands of agent nodes. Own the systems for scheduling, execution, result persistence, and reliability as the platform scales to monitor thousands of companies. · [Apply →](https://jobs.ashbyhq.com/vanta/b5c4b58a-0b6b-40a2-b0de-328e4f943060)_
+
+`TypeScript` `GraphQL` `MongoDB` `Datadog` `Backend Systems Design` `Distributed Systems` `API Design`
+
+<sub>August 21, 2026 at 21:32 UTC</sub>
+
+---
+
+### [Principal Software Engineer - PA058](https://www.zoominfo.com/careers?gh_jid=8737995002)
+**ZoomInfo** · `🟢 Remote` `Principal` `$163k–$257k` `Equity`
+
+_Own the design, architecture, and evolution of ZoomInfo's CI/CD deployment tooling and services (TypeScript/Node, ArgoCD, Cloud Run)—GitOps APIs, self-service deployment capabilities, and shared monorepo infrastructure that large portions of the company depend on. Lead technical direction across delivery tooling and Go-based automation platforms, architect highest-leverage components yourself, and mentor senior engineers while influencing cross-organizational alignment; 12+ years backend/platform/infrastructure experience required. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8737995002)_
+
+`TypeScript` `Node.js` `Go` `NestJS` `Kubernetes` `ArgoCD` `Helm` `GCP Cloud Run`
+
+<sub>August 21, 2026 at 21:32 UTC</sub>
+
+---
 
 ### [Software Engineer, Payments](https://careers.airbnb.com/positions/8146265?gh_jid=8146265)
 <a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$162k-$180k` `Equity`
@@ -455,61 +499,6 @@ _Build the research-to-production pipeline for threat intelligence at scale—ta
 `Python` `TypeScript` `YARA` `Sigma` `STIX 2.1` `TAXII 2.1` `AWS` `PostgreSQL`
 
 <sub>August 20, 2026 at 22:37 UTC</sub>
-
----
-
-### [Backend Engineer, AI Engineering: Duo Chat](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$115k—$194k` `Equity`
-
-_Build the agentic runtime and API integrations for GitLab Duo Chat, including LangGraph flows, the Flow Registry, and the Duo Workflow Service. Scale AI-powered conversational experiences across GitLab's platform with Python and Rails integration; requires on-call support and security-minded development in a fully remote, globally distributed environment. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)_
-
-`Python` `Ruby on Rails` `LangGraph` `GraphQL` `RSpec` `LLM/Agentic AI` `API Design` `PostgreSQL`
-
-<sub>August 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Data Engineer II](https://job-boards.greenhouse.io/goguardian/jobs/4706562006)
-<a href="https://goguardian.com"><img src="https://www.google.com/s2/favicons?domain=goguardian.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoGuardian** · `🟢 Remote` `Mid` `$130k-$150k` `Equity`
-
-_Design and build ETL pipelines and MLOps infrastructure on Databricks to power analytics, data science, and machine learning workflows across the company. Support large-scale data systems for model training, inference, and monitoring in production environments. · [Apply →](https://job-boards.greenhouse.io/goguardian/jobs/4706562006)_
-
-`Python` `SQL` `PySpark` `Databricks` `Airflow` `dbt` `AWS` `Terraform`
-
-<sub>August 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Staff Software Engineer - School Safety Platform](https://job-boards.greenhouse.io/goguardian/jobs/4706571006)
-<a href="https://goguardian.com"><img src="https://www.google.com/s2/favicons?domain=goguardian.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoGuardian** · `🟢 Remote` `Staff` `$190k-$220k` `Equity`
-
-_Lead architecture and implementation of distributed school safety products integrating hardware devices, third-party platforms, and real-time operational systems serving millions of K-12 students and educators. Build systems where reliability, security, and compliance are architectural requirements in safety-critical workflows. · [Apply →](https://job-boards.greenhouse.io/goguardian/jobs/4706571006)_
-
-`Distributed Systems` `Event-Driven Architecture` `APIs` `OAuth/SAML/SSO` `IoT/Device Integration` `Cloud-Native Systems` `Real-Time Systems` `PostgreSQL`
-
-<sub>August 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Machine Learning Engineer II, Ads - Response Prediction](https://instacart.careers/job/?gh_jid=8143263)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Mid` `$154k–$162k CAD` `Equity`
-
-_Build ML systems for Instacart's ads platform—designing and deploying models for ads selection, ranking, bidding, and auction across consumer-facing surfaces. Work on sequential modeling, foundation models, and LLM integrations at scale with large datasets. · [Apply →](https://instacart.careers/job/?gh_jid=8143263)_
-
-`Python` `SQL` `Spark` `PyTorch` `TensorFlow` `Transformers` `LLMs` `Recommendation Systems`
-
-<sub>August 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Staff Software Engineer, Platform (DevEx)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer--Platform--DevEx-_JR115782)
-<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Staff` `$185k-$297k` `Equity`
-
-_Build the foundational developer platform for enterprise SaaS, owning cloud development environments, CI/CD infrastructure, internal developer portals, AI-assisted coding agent runtimes, and compliance guardrails across a multi-hundred engineer organization. Requires hands-on production experience with DevX systems at scale and the ability to set technical direction through influence without management authority. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer--Platform--DevEx-_JR115782)_
-
-`Kubernetes` `Docker` `AWS` `GCP` `CI/CD` `Build Systems` `RBAC` `Coding Agent Runtimes`
-
-<sub>August 20, 2026 at 21:36 UTC</sub>
 
 ---
 
