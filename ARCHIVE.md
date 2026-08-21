@@ -2,11 +2,37 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **497 open roles** (43 new) &nbsp;·&nbsp; 1770 companies searched
+### **462 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 [← Recent jobs](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 20, 2026
+
+### [Forward Deployed Engineer, Agentic AI](https://job-boards.greenhouse.io/redapt/jobs/5396488008)
+<a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior`
+
+_Build production agentic AI systems embedded directly with client teams, writing Python code to integrate Claude models into customer business processes. Handle the full engagement arc from coding to deployment optimization, security hardening, and ROI advisory across Azure Foundry, AWS Bedrock, and Anthropic platforms. · [Apply →](https://job-boards.greenhouse.io/redapt/jobs/5396488008)_
+
+`Python` `Claude API` `Azure AI Foundry` `AWS Bedrock` `LangGraph` `LangChain` `CrewAI` `MCP`
+
+<sub>August 20, 2026 at 01:45 UTC</sub>
+
+---
+
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
+
+_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
+
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
+
+<sub>August 20, 2026 at 01:45 UTC</sub>
+
+---
 
 <br>
 
@@ -268,17 +294,6 @@ _Build AI applications and agents that transform complex technical information i
 
 ---
 
-### [Senior Embedded Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Build real-time image processing software for infrared imaging systems deployed on embedded, SWAP-limited hardware; requires deep expertise in Linux systems, NixOS configuration, and C++/CUDA pipelines for defense applications, plus active or eligibility for U.S. security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007)_
-
-`C++` `CUDA` `Linux` `Nix/NixOS` `Python` `Rust` `C` `TS/SCI Clearance`
-
-<sub>August 19, 2026 at 13:51 UTC</sub>
-
----
-
 ### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
@@ -315,17 +330,6 @@ _Build scalable platforms and services for revenue cycle management, including p
 <br>
 
 ## August 18, 2026
-
-### [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity`
-
-_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems that process radar sensor data to detect and track airborne threats at scale. Requires Top Secret SCI clearance and deep knowledge of tracking algorithms (Kalman filters, particle filters, multiple hypothesis tracking) applied to defense systems deployed operationally. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `MATLAB` `GPU Acceleration` `SQL`
-
-<sub>August 18, 2026 at 23:30 UTC</sub>
-
----
 
 ### [Senior Full Stack Engineer, Enterprise, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$163k-$263.67k` `Equity`
@@ -787,17 +791,6 @@ _Own end-to-end customer implementations and recurring data deliveries for a hea
 
 ---
 
-### [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5214396007?gh_jid=5214396007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Boulder, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Implement and deploy real-time image processing software for infrared imaging systems on embedded, SWAP-limited hardware; integrate with NixOS-based infrastructure and defense command-and-control systems requiring active security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5214396007?gh_jid=5214396007)_
-
-`C++` `CUDA` `Linux` `Nix/NixOS` `Python` `Rust` `Computer Vision` `TS/SCI Clearance`
-
-<sub>August 18, 2026 at 03:03 UTC</sub>
-
----
-
 ### [Field Software Engineer ](https://jobs.ashbyhq.com/havocai/f7e2a1b3-8999-40ae-93d7-fc3ed79750f5)
 <a href="https://havoc.ai"><img src="https://www.google.com/s2/favicons?domain=havoc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Havoc AI** · `🟢 Remote` `Junior` `Equity`
 
@@ -1150,64 +1143,9 @@ _Build firmware for battery-powered IoT sensors and Linux-based gateways deploye
 
 ---
 
-### [Lead Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Lead the design, development, and validation of advanced algorithmic capabilities (tracking, sensor management, battlespace optimization) for AI-powered command and control software serving military operations. Requires 12+ years of systems engineering in defense/aerospace and active Secret clearance eligibility. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007)_
-
-`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `C/C++` `Rust`
-
-<sub>August 17, 2026 at 01:49 UTC</sub>
-
----
-
-### [Senior Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Waltham, Massachusetts · `Senior` `$143k-$191k` `Equity`
-
-_Design and validate advanced algorithmic capabilities for command and control systems including tracking, sensor management, and battlespace optimization. Lead requirements decomposition and modeling/simulation frameworks for mission-critical military software; requires active U.S. Secret clearance and travel to customer sites. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007)_
-
-`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `C/C++` `Rust`
-
-<sub>August 17, 2026 at 01:49 UTC</sub>
-
----
-
-### [Systems Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity`
-
-_Design, develop, and validate advanced algorithmic capabilities for command and control software including tracking, sensor management, and battlespace optimization. Requires modeling & simulation expertise, requirements decomposition across cross-functional teams, and field validation of mission-critical defense systems; requires TS/SCI clearance eligibility. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007)_
-
-`Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `Statistics` `TS/SCI Clearance`
-
-<sub>August 17, 2026 at 01:49 UTC</sub>
-
----
-
 <br>
 
 ## August 16, 2026
-
-### [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Build state-of-the-art target tracking and sensor fusion algorithms for AI-powered military robotics systems, from prototyping through production deployment. Requires active US Top Secret security clearance and expertise in Kalman filters, multi-sensor fusion, and real-time estimation systems for mission-critical applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)_
-
-`C++` `Python` `MATLAB` `Kalman Filters` `Sensor Fusion` `Bayesian Filtering` `Signal Processing` `TS/SCI Clearance`
-
-<sub>August 16, 2026 at 23:28 UTC</sub>
-
----
-
-### [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Build state-of-the-art target tracking and sensor fusion algorithms for autonomous defense systems, including Kalman filters, particle filters, and multi-target tracking. Requires active TS/SCI clearance and will work on mission-critical real-time systems processing diverse sensor data (radar, lidar, EO/IR) at scale. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007)_
-
-`C++` `Python` `Kalman filters` `Sensor fusion` `Bayesian filtering` `Target tracking` `Machine learning` `TS/SCI Clearance`
-
-<sub>August 16, 2026 at 22:31 UTC</sub>
-
----
 
 ### [Backend Engineering Manager](https://job-boards.greenhouse.io/dragos/jobs/5387412008)
 <a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Manager` `$220k` `Equity`
@@ -1536,7 +1474,7 @@ _Build full-stack, AI-powered products for physical operations at scale, process
 
 ---
 
-### [Senior Software Engineer (BE/Fullstack)](https://jobs.lever.co/teamsnap/86869664-1c38-4f5b-9a2a-555cdb565713)
+### [Senior Software Engineer (Backend)](https://jobs.lever.co/teamsnap/86869664-1c38-4f5b-9a2a-555cdb565713)
 <a href="https://teamsnap.com"><img src="https://www.google.com/s2/favicons?domain=teamsnap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TeamSnap** · `🟢 Remote` `Senior`
 
 _Build scalable backend and fullstack systems serving 2+ million daily active users across a sports communication platform using service-oriented and event-driven architecture. · [Apply →](https://jobs.lever.co/teamsnap/86869664-1c38-4f5b-9a2a-555cdb565713)_
@@ -1837,17 +1775,6 @@ _Own end-to-end traffic classification ML systems at internet scale, building ad
 
 ---
 
-### [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)
-<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Manager`
-
-_Lead strategy, administration, and governance of NextGen Healthcare's enterprise Salesforce platform across Sales, Service, Marketing, and other business functions while managing a team of Salesforce administrators. Requires hands-on platform expertise in Service Cloud, Sales Cloud, Marketing Cloud, and emerging capabilities like Agentforce; balance executive-level roadmap planning with detailed administrative work. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)_
-
-`Salesforce` `Service Cloud` `Sales Cloud` `Marketing Cloud` `Agentforce` `leadership` `stakeholder management`
-
-<sub>August 13, 2026 at 23:51 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/redapt/jobs/5389434008)
 <a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior` `$150k-$170k`
 
@@ -1922,17 +1849,6 @@ _Deploy and operate TRM's AI-powered investigation platform across US government
 `Python` `Node.js` `TypeScript` `Kubernetes` `AWS` `PostgreSQL` `Terraform` `Argo CD`
 
 <sub>August 13, 2026 at 21:56 UTC</sub>
-
----
-
-### [Senior Software Engineer, Nix](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$191k-$253k` `Equity`
-
-_Maintain and improve Anduril's internal Nix package set for software distribution across development, hosted services, and embedded devices; establish packaging standards and train engineers. Requires proficiency with Nix at scale and active U.S. Secret security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)_
-
-`Nix` `Nixpkgs` `NixOS` `Rust` `C++` `Go` `Python` `TS/SCI Clearance`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
 
 ---
 
@@ -2889,6 +2805,17 @@ _Architect and build certificate lifecycle management systems spanning discovery
 
 ---
 
+### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
+
+_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
+
+`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
 ### [Principal UX Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/8122887)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Principal` `$245k–$344k` `Equity`
 
@@ -2906,17 +2833,6 @@ _Build sophisticated interactive prototypes and product experiences for Reddit's
 _Drive GenAI-powered recommendation and feed ranking systems leveraging Reddit's community data and engagement patterns for tens of millions of users. Set technical direction for Relevance and Feeds teams at organizational scale; requires 10+ years building relevance and ML systems at large scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8122606)_
 
 `Machine Learning` `Recommendation Systems` `Ranking Algorithms` `GenAI` `Python` `Distributed Systems` `Large Language Models`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
-<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
-
-_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
-
-`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -3324,12 +3240,12 @@ _Build data selection, packaging, and delivery pipelines that feed pseudo-labele
 
 ---
 
-### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250k` `Equity`
+### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
 
-_Work directly with US government and enterprise customers on data engineering and analytics projects using Databricks; design, build, and deploy distributed data architectures, manage technical project delivery, and provide escalated customer support. Requires US Secret clearance and up to 30% travel for on-site customer engagements. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)_
+_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
 
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
 
 <sub>August 10, 2026 at 17:56 UTC</sub>
 
@@ -3563,149 +3479,6 @@ _Design and develop integrations between internal systems and third-party platfo
 `Python` `Java` `Go` `Node.js` `Workato` `Boomi` `MuleSoft` `REST`
 
 <sub>August 10, 2026 at 13:35 UTC</sub>
-
----
-
-### [Algorithm Developer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207731007?gh_jid=5207731007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
-
-_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems that process radar sensor data to detect and track airborne threats at scale. Requires U.S. Top Secret/SCI security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207731007?gh_jid=5207731007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `MATLAB` `GPU Acceleration` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Algorithm Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207732007?gh_jid=5207732007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$126k-$167k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems that process radar sensor data to detect and track dozens to hundreds of simultaneous airborne threats. Requires active TS/SCI clearance and involves integrating novel tracking solutions into production defense systems operating at millisecond-scale latency. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207732007?gh_jid=5207732007)_
-
-`C++` `Python` `Kalman Filters` `Linear Algebra` `Signal Processing` `MATLAB` `TS/SCI Clearance` `GPU Acceleration`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$126k-$167k` `Equity`
-
-_Develop state-of-the-art algorithms and high-performance software for AI-powered command and control systems, sensor fusion, and autonomy deployed in mission-critical military applications. Requires active TS/SCI clearance and work on systems processing thousands of data streams in real-time tactical environments. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007)_
-
-`Rust` `C++` `Python` `Applied Mathematics` `Controls Theory` `Signal Processing` `Machine Learning` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5207733007?gh_jid=5207733007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
-
-_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems for air and missile defense radar, processing massive sensor data streams in milliseconds. Requires TS/SCI security clearance and involves direct integration with military defense systems in production deployment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207733007?gh_jid=5207733007)_
-
-`C++` `Python` `Kalman Filters` `Linear Algebra` `Signal Processing` `Distributed Systems` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Senior Algorithm Developer](https://boards.greenhouse.io/andurilindustries/jobs/5207725007?gh_jid=5207725007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and real-time software systems that detect, track, and characterize airborne threats from radar sensor data. Requires active TS/SCI clearance and strong foundation in estimation theory, signal processing, and high-performance computing for millisecond-latency defense systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207725007?gh_jid=5207725007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `GPU Acceleration` `TS/SCI Clearance` `MATLAB`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Senior Algorithm Engineer, Battlespace](https://boards.greenhouse.io/andurilindustries/jobs/5193979007?gh_jid=5193979007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and real-time software systems for air and missile defense radar, processing massive sensor data streams to detect and track airborne threats in milliseconds. Requires active TS/SCI clearance and involves direct customer deployment and field testing. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5193979007?gh_jid=5193979007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `GPU Acceleration` `MATLAB` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Senior Research Scientist, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5207730007?gh_jid=5207730007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Develop state-of-the-art target tracking algorithms and high-performance software for AI-powered military command and control systems. Requires active TS/SCI clearance and expertise in applied mathematics, controls, signal processing, and machine learning at scale. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207730007?gh_jid=5207730007)_
-
-`Rust` `C++` `Python` `Applied Mathematics` `Controls Theory` `Signal Processing` `Machine Learning` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Senior Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5207726007?gh_jid=5207726007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems for air and missile defense radar that process massive sensor data streams in milliseconds. Requires active TS/SCI clearance and involves direct integration with production defense systems deployed by government customers. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207726007?gh_jid=5207726007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `Distributed Systems` `GPU Acceleration` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5207728007?gh_jid=5207728007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems for air and missile defense radar that process massive sensor data streams in milliseconds. Requires active TS/SCI clearance and involves deploying production systems for mission-critical military operations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207728007?gh_jid=5207728007)_
-
-`C++` `Python` `Kalman filters` `signal processing` `linear algebra` `GPU acceleration` `distributed systems` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Senior Software Engineer, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5207727007?gh_jid=5207727007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Design and implement real-time multi-target tracking algorithms and high-performance distributed systems for air and missile defense radar, processing sensor data from dozens to hundreds of simultaneous targets in milliseconds. Requires active TS/SCI clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207727007?gh_jid=5207727007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `Linear Algebra` `MATLAB` `GPU Acceleration` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems that process radar sensor data to detect and track airborne threats at scale. Requires active TS/SCI clearance and involves building production systems for mission-critical defense applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007)_
-
-`C++` `Python` `Kalman filters` `Linear algebra` `Signal processing` `MATLAB` `GPU acceleration` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5207735007?gh_jid=5207735007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and high-performance distributed systems for real-time air and missile defense radar processing. Requires TS/SCI clearance and involves mission-critical defense applications where millisecond-level performance is essential. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207735007?gh_jid=5207735007)_
-
-`C++` `Python` `Kalman Filters` `Linear Algebra` `Signal Processing` `TS/SCI Clearance` `MATLAB` `GPU Acceleration`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
-
----
-
-### [Software Engineer, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5207736007?gh_jid=5207736007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
-
-_Design and implement advanced multi-target tracking algorithms and high-performance distributed systems that process radar sensor data to detect and track airborne threats in real-time. Requires U.S. Top Secret/SCI clearance and experience with signal processing, filtering algorithms, or estimation theory in mission-critical defense systems. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207736007?gh_jid=5207736007)_
-
-`C++` `Python` `Kalman Filters` `Signal Processing` `MATLAB` `GPU Acceleration` `SQL` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 02:27 UTC</sub>
 
 ---
 
@@ -4045,39 +3818,6 @@ _Build and optimize threat detection, incident response, and security automation
 
 ---
 
-### [Chief Radar Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5205891007?gh_jid=5205891007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$189k-$251k` `Equity`
-
-_Own the technical strategy, architecture, and product roadmap for radar systems serving U.S. defense missions; requires deep expertise in radar system design, RF sensors, and ability to lead cross-functional teams from concept through deployment. Active TS/SCI clearance and 30% travel required. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5205891007?gh_jid=5205891007)_
-
-`Radar Systems` `RF Sensors` `Systems Architecture` `Technical Program Management` `JIRA` `Modeling and Simulation`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Platform Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Design and implement secure CI/CD pipelines, Infrastructure-as-Code frameworks, and containerization solutions for radar tracking software deployments across classified DoD/IC networks. Requires active TS/SCI clearance and hands-on experience in DoD/IC classified environments with DISA STIG and NIST 800-53 compliance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007)_
-
-`Python` `C++` `Terraform` `Ansible` `Docker` `Kubernetes` `GitLab CI` `Jenkins`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-### [Software Engineer, Tooling](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Build secure CI/CD pipelines, Infrastructure-as-Code frameworks, and DevOps tooling for radar tracking software deployments in classified DoD and IC environments. Requires active TS/SCI clearance and experience with DoD security compliance (DISA STIG, NIST 800-53, ATO processes). · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007)_
-
-`GitLab CI` `Jenkins` `GitHub Actions` `Python` `C++` `Terraform` `Ansible` `Docker`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Security Research Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6134284004)
 <a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · `🟢 Remote` `Senior` `$175k—$263k`
 
@@ -4188,23 +3928,23 @@ _Design, implement, and scale endpoint security solutions (EDR, DLP, MDM, secure
 
 ---
 
-### [Staff Forward Deployed Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)
-<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Santa Clara, California / Austin, Texas / Toronto, ON / Remote · `Staff` `$100k-$500k`
-
-_Build and operate AI inference deployments on Tenstorrent's RISC-V accelerators, debugging across the full stack from customer requests through hardware dispatch. Bridge customers, engineering, and production systems while scaling disaggregated inference on Kubernetes at HPC cluster scale; requires deep understanding of accelerator compute, memory, and networking constraints. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)_
-
-`Kubernetes` `Helm` `Python` `vLLM` `Prometheus` `Grafana` `OpenTelemetry` `RISC-V`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
 <a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
 
 _Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
 
 `Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Staff Forward Deployed Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)
+<a href="https://tenstorrent.com"><img src="https://www.google.com/s2/favicons?domain=tenstorrent.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tenstorrent** · Santa Clara, California / Austin, Texas / Toronto, ON / Remote · `Staff` `$100k-$500k`
+
+_Build and operate AI inference deployments on Tenstorrent's RISC-V accelerators, debugging across the full stack from customer requests through hardware dispatch. Bridge customers, engineering, and production systems while scaling disaggregated inference on Kubernetes at HPC cluster scale; requires deep understanding of accelerator compute, memory, and networking constraints. · [Apply →](https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007)_
+
+`Kubernetes` `Helm` `Python` `vLLM` `Prometheus` `Grafana` `OpenTelemetry` `RISC-V`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -4254,23 +3994,23 @@ _Build and maintain CI/CD infrastructure, progressive delivery systems, and depl
 
 ---
 
-### [Senior Data Platform Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)
-<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$170k-$230k` `Equity`
-
-_Build and operate large-scale data pipelines and foundational data products powering Komodo's Healthcare Map, processing complex healthcare datasets (claims, EHR, reference data) at scale. Requires deep healthcare data domain expertise (ICD-10, CPT, NDC, NPI coding systems) and production troubleshooting across computationally intensive workflows. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)_
-
-`Python` `SQL` `Airflow` `Spark` `AWS` `Healthcare Data (Claims/EHR/RWE)` `Data Quality & Observability`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
 
 _Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
 
 `PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Senior Data Platform Engineer](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)
+<a href="https://juro.com"><img src="https://www.google.com/s2/favicons?domain=juro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juro** · San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$170k-$230k` `Equity`
+
+_Build and operate large-scale data pipelines and foundational data products powering Komodo's Healthcare Map, processing complex healthcare datasets (claims, EHR, reference data) at scale. Requires deep healthcare data domain expertise (ICD-10, CPT, NDC, NPI coding systems) and production troubleshooting across computationally intensive workflows. · [Apply →](https://job-boards.greenhouse.io/komodohealth/jobs/8687460002)_
+
+`Python` `SQL` `Airflow` `Spark` `AWS` `Healthcare Data (Claims/EHR/RWE)` `Data Quality & Observability`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -4304,175 +4044,6 @@ _Develop and maintain Visa's ServiceNow CMDB platform, ITOM Discovery, and relat
 _Build and maintain commercial or end-user applications for payment systems, conducting analysis, design, programming, debugging, and modification of computer programs. Interface with users to define requirements and develop cost estimates for software projects. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W)_
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
-<br>
-
-## August 6, 2026
-
-### [Sr. Platform Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Platform-Engineer_JR-000811)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Senior` `$145k-$165k`
-
-_Build and maintain reliability systems for a financial platform, investigating and remediating failures across microservices while maintaining observability through Datadog and distributed tracing. Focus on correctness under failure conditions, resilience patterns, and fault tolerance testing in a TypeScript/Node.js/Kubernetes environment. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Platform-Engineer_JR-000811)_
-
-`TypeScript` `Kubernetes` `GitHub Actions` `Datadog` `Distributed Tracing` `Kafka` `OpenTelemetry` `Terraform`
-
-<sub>August 6, 2026 at 15:22 UTC</sub>
-
----
-
-### [Staff Platform Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Platform-Engineer--MANTL-_JR-000810)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$140k-$175k`
-
-_Lead platform reliability engineering for MANTL, a TypeScript/Node.js microservices platform serving U.S. banks and credit unions. Own the investigation and remediation of distributed system failures, design observability and resilience strategies across microservices, and define the technical direction for platform stability work across a regulated fintech environment. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Platform-Engineer--MANTL-_JR-000810)_
-
-`TypeScript` `Node.js` `Kubernetes` `GitHub Actions` `Datadog` `Distributed Tracing` `Microservices` `Kafka`
-
-<sub>August 6, 2026 at 15:22 UTC</sub>
-
----
-
-### [Implementation Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Implementation-Engineer-II_JR-000812)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Mid`
-
-_Configure and support technical implementation of Alkami's digital banking platform and third-party integrations for client onboarding, troubleshooting system configurations and resolving integration issues across diverse banking environments. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Technical-Implementation-Engineer-II_JR-000812)_
-
-`SQL` `APIs` `PostgreSQL` `relational databases` `SaaS implementation` `digital banking` `C#`
-
-<sub>August 6, 2026 at 15:22 UTC</sub>
-
----
-
-### [Senior Software Engineer](https://job-boards.greenhouse.io/cavnue/jobs/6117435004)
-<a href="https://cavnue.com"><img src="https://www.google.com/s2/favicons?domain=cavnue.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cavnue** · `🟢 Remote` `Senior` `$150k-$200k` `Equity`
-
-_Build real-time digital twin infrastructure for smart roadways, including low-latency C++ services for sensor fusion, object tracking, and AI model inference; operate containerized systems on Kubernetes processing data from edge sensors at scale. · [Apply →](https://job-boards.greenhouse.io/cavnue/jobs/6117435004)_
-
-`C++` `Python` `Go` `PostgreSQL` `Kubernetes` `Terraform` `Helm` `Argo`
-
-<sub>August 6, 2026 at 15:22 UTC</sub>
-
----
-
-### [Lead, Customer Strategy Analytics & Applied AI](https://jobs.ashbyhq.com/owner/b935695a-b8e3-451b-ac09-6961b5c604d2)
-<a href="https://owner.com"><img src="https://www.google.com/s2/favicons?domain=owner.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Owner** · `🟢 Remote` `Senior` `$190k-$210k` `Equity`
-
-_Build data products and AI-powered systems that drive Customer Success strategy—churn risk scoring, CSM next-best-action tools, and automated retention playbooks. Lead analytics and applied AI strategy across the CS org alongside the SVP of Customer Success. · [Apply →](https://jobs.ashbyhq.com/owner/b935695a-b8e3-451b-ac09-6961b5c604d2)_
-
-`SQL` `Python` `Claude` `Snowflake` `dbt` `Distributed Systems` `Applied AI/ML` `SaaS`
-
-<sub>August 6, 2026 at 15:22 UTC</sub>
-
----
-
-### [Bioinformatics Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Bioinformatics-Engineer-II_JR202600797-1)
-<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Senior` `$90k-$140k`
-
-_Design and develop bioinformatics software pipelines for analyzing next-generation sequencing data, including relational database integration and end-to-end system architecture from ideation to production release. Work with clinical genetics datasets and standard bioinformatics formats (FASTQ, BAM, VCF); mentorship of junior engineers expected. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Bioinformatics-Engineer-II_JR202600797-1)_
-
-`Python` `PostgreSQL` `MySQL` `AWS` `Docker` `Git` `Bash` `API Development`
-
-<sub>August 6, 2026 at 15:22 UTC</sub>
-
----
-
-### [Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity](https://job-boards.greenhouse.io/gitlab/jobs/8646556002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Senior` `Equity`
-
-_Build reliable AI-powered agentic systems that automate parts of GitLab's software development lifecycle — code review acceleration, release automation, and workflow optimization. Requires hands-on experience shipping production LLM/agentic systems and distributed systems expertise to handle self-managed, multi-tenant, and SaaS deployments at scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8646556002)_
-
-`Go` `Rust` `Python` `LLM Systems` `Agentic AI` `Distributed Systems` `Production ML Systems` `DevSecOps`
-
-<sub>August 6, 2026 at 03:31 UTC</sub>
-
----
-
-### [Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity](https://job-boards.greenhouse.io/gitlab/jobs/8646544002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `Equity`
-
-_Build agentic systems and AI-driven workflows that automate high-friction steps in GitLab's software development lifecycle, from code review acceleration to release automation. Own the technical foundation for a greenfield, generalist team under the CTO's direct sponsorship, including distributed systems design for multi-tenant, self-managed, and dedicated deployment topologies at scale. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8646544002)_
-
-`Go` `Rust` `Python` `LLM Systems` `Distributed Systems` `Agent Orchestration` `Multi-tenant Architecture`
-
-<sub>August 6, 2026 at 03:31 UTC</sub>
-
----
-
-### [Staff Data Engineer - US](https://jobs.ashbyhq.com/goteleport/973e9912-d411-46d5-b6af-e38b9ff20eba)
-<a href="https://goteleport.com"><img src="https://www.google.com/s2/favicons?domain=goteleport.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Teleport** · `🟢 Remote` `Staff`
-
-_Design and build Teleport's internal data platform, including pipelines, warehouse schemas, and data quality systems that integrate product usage, costs, budgets, and sales data across the company. Handle sensitive customer data with access controls and retention policies while enabling self-serve analytics for cross-functional teams. · [Apply →](https://jobs.ashbyhq.com/goteleport/973e9912-d411-46d5-b6af-e38b9ff20eba)_
-
-`SQL` `Python` `Go` `Snowflake` `BigQuery` `Redshift` `dbt` `Airflow`
-
-<sub>August 6, 2026 at 03:31 UTC</sub>
-
----
-
-### [Sr. Software Engineer](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Software-Engineer_JR-000803)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Senior` `$120k-$140k`
-
-_Build and maintain scalable backend and frontend systems for a digital banking platform, with responsibility for end-to-end feature ownership spanning Kafka-based data pipelines, Spring Boot services, and Vue.js/React frontends. On-call support and mentoring of junior engineers required. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Sr-Software-Engineer_JR-000803)_
-
-`Java` `Kotlin` `Vue.js` `React` `Spring Boot` `Kafka` `AWS` `Kubernetes`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
-
----
-
-### [Computational Biologist](https://job-boards.greenhouse.io/freenome/jobs/8658848002)
-<a href="https://freenome.com"><img src="https://www.google.com/s2/favicons?domain=freenome.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Freenome** · `🟢 Remote` `Mid` `$131k-$189k` `Equity`
-
-_Build bioinformatics pipelines and statistical models for early cancer detection using cfDNA and NGS data; apply computational biology expertise to drive assay development and diagnostic product feasibility in a collaborative oncology research environment. · [Apply →](https://job-boards.greenhouse.io/freenome/jobs/8658848002)_
-
-`Python` `R` `NGS` `Bioinformatics` `DNA Methylation` `Machine Learning` `Statistics` `PhD Required`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
-
----
-
-### [Staff Computational Biologist](https://job-boards.greenhouse.io/freenome/jobs/8658763002)
-<a href="https://freenome.com"><img src="https://www.google.com/s2/favicons?domain=freenome.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Freenome** · `🟢 Remote` `Staff` `$188k-$270k` `Equity`
-
-_Lead research and development of bioinformatics pipelines for NGS data analysis to enable early cancer detection using cfDNA biomarkers. Design and execute computational studies collaborating with wet lab scientists to characterize assay performance and drive diagnostic product feasibility. · [Apply →](https://job-boards.greenhouse.io/freenome/jobs/8658763002)_
-
-`Python` `R` `NGS` `Bioinformatics` `DNA Methylation` `Machine Learning` `Statistics` `PhD Required`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
-
----
-
-### [Staff Software Engineer in Test, Product Engineering](https://job-boards.greenhouse.io/natera/jobs/6135368004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Principal`
-
-_Build comprehensive automated integration testing frameworks and AI-driven validation systems for Natera's multi-service oncology genomic profiling platform, spanning order ingestion through lab execution to patient reporting. Lead test architecture and root cause analysis across distributed microservices in a highly regulated healthcare environment requiring FDA design control compliance. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135368004)_
-
-`Java` `Python` `Go` `Playwright` `Docker` `Kubernetes` `AWS` `Kafka`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
-
----
-
-### [Senior Engineering Manager, Backend/Platform](https://jobs.ashbyhq.com/sentilink/70988c63-5a7a-4b5d-9c8f-27ca0da03318)
-<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$200k-$260k` `Equity`
-
-_Lead a backend/platform engineering team building API-driven systems and core infrastructure powering identity verification products at scale. Requires strong hands-on backend expertise (Golang, Python) and experience shipping complex systems in fintech environments. · [Apply →](https://jobs.ashbyhq.com/sentilink/70988c63-5a7a-4b5d-9c8f-27ca0da03318)_
-
-`Golang` `Python` `PostgreSQL` `Docker` `AWS` `OpenSearch` `Distributed Systems` `API Design`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
-
----
-
-### [Software Engineer, II - Autonomy Data ](https://job-boards.greenhouse.io/torcrobotics/jobs/8677422002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Blacksburg, Virginia · `🟢 Remote` `Mid` `$139k–$166k` `Equity`
-
-_Build end-to-end data pipelines and infrastructure that ingest high-bandwidth sensor logs from autonomous trucks into cloud storage, curate datasets for model training, and provide visualization tooling for autonomy engineers. High-scale sensor data processing from vehicles operating in demanding environments; requires U.S. citizenship. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8677422002)_
-
-`Python` `SQL` `AWS` `Terraform` `Parquet` `Time-series Data` `Data Validation` `IaC`
-
-<sub>August 6, 2026 at 00:06 UTC</sub>
 
 ---
 

@@ -2,13 +2,94 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **497 open roles** (43 new) &nbsp;·&nbsp; 1770 companies searched
+### **462 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 21, 2026
+
+### [Engineering Manager](https://job-boards.greenhouse.io/censys/jobs/8730724002)
+<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Manager` `$151k-$218k` `Equity`
+
+_Lead the Data Collection team building and operating Internet-scale scanning, orchestration, and data pipeline systems that power Censys's Internet Map; requires deep knowledge of distributed systems, networking, and data-intensive infrastructure at Internet scale. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8730724002)_
+
+`Distributed Systems` `TCP/IP` `DNS` `HTTP` `TLS` `Kafka` `GCP` `Pub/Sub`
+
+<sub>August 21, 2026 at 01:51 UTC</sub>
+
+---
+
+### [Staff Scanning Engineer](https://job-boards.greenhouse.io/censys/jobs/8730687002)
+<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Staff` `$172k-$233k` `Equity`
+
+_Design, build, and operate Internet-scale scanning, DNS resolution, and data pipeline systems that discover and enrich IP, domain, certificate, and cloud infrastructure data. Requires deep expertise in distributed systems, large-scale data ingestion, and production reliability; this is a staff-level role mentoring engineers across backend infrastructure and Internet measurement. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8730687002)_
+
+`Go` `AWS` `GCP` `Kafka` `Pub/Sub` `PostgreSQL` `Kubernetes` `gRPC`
+
+<sub>August 21, 2026 at 01:51 UTC</sub>
+
+---
+
+### [Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK](https://job-boards.greenhouse.io/gitlab/jobs/8698330002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$115k–$194k` `Equity`
+
+_Build the Duo Client SDK—a set of versioned TypeScript packages that power AI features across GitLab editors, web chat, and external applications. Design and extract core Node.js services with careful attention to APIs, versioning, and backward compatibility for external consumers. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8698330002)_
+
+`TypeScript` `Node.js` `Vue 3` `ECMAScript modules (ESM)` `monorepos` `API design` `isomorphic JavaScript` `semantic versioning`
+
+<sub>August 21, 2026 at 01:51 UTC</sub>
+
+---
+
+### [GTM Systems Manager](https://jobs.ashbyhq.com/scribe/59c73008-74d4-49cf-a860-d8656230ec14)
+<a href="https://scribe.com"><img src="https://www.google.com/s2/favicons?domain=scribe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribe** · `🟢 Remote` `Mid` `Equity`
+
+_Build and maintain Salesforce automation, flows, and configuration within existing architectural patterns; own production support for the GTM systems stack including LeanData routing, enrichment infrastructure, and HubSpot administration on the critical path for revenue and invoicing. · [Apply →](https://jobs.ashbyhq.com/scribe/59c73008-74d4-49cf-a860-d8656230ec14)_
+
+`Salesforce` `Flows` `Validation Rules` `Permission Sets` `LeanData` `HubSpot` `CPQ` `Clay`
+
+<sub>August 21, 2026 at 01:51 UTC</sub>
+
+---
+
+### [Head of Applied Machine Learning - Application Fraud](https://jobs.ashbyhq.com/sentilink/ba414a52-687a-45ad-9e2c-eae5b977cfaf)
+<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$210k-$260k` `Equity`
+
+_Lead a team of 4-6 applied ML scientists building fraud detection and identity verification models for the US financial system. Requires hands-on technical leadership with deep expertise in production ML, model governance, and fintech risk domains; must be US-based. · [Apply →](https://jobs.ashbyhq.com/sentilink/ba414a52-687a-45ad-9e2c-eae5b977cfaf)_
+
+`Python` `PostgreSQL` `AWS` `XGBoost` `scikit-learn` `pandas` `Elasticsearch` `Neo4j`
+
+<sub>August 21, 2026 at 01:51 UTC</sub>
+
+---
+
+### [Applied Machine Learning Manager - Application Fraud](https://jobs.ashbyhq.com/sentilink/8365ef3f-8fac-4b52-b528-b5274f9ca39d)
+<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$200k-$250k` `Equity`
+
+_Lead a team of applied ML scientists building fraud detection and identity verification models for the financial services industry. Own the full ML lifecycle from data acquisition through production deployment, research emerging fraud patterns, and drive product strategy in your domain. · [Apply →](https://jobs.ashbyhq.com/sentilink/8365ef3f-8fac-4b52-b528-b5274f9ca39d)_
+
+`Python` `PostgreSQL` `AWS` `XGBoost` `scikit-learn` `pandas` `Elasticsearch` `Neo4j`
+
+<sub>August 21, 2026 at 01:51 UTC</sub>
+
+---
+
+### [Engineering Manager, Propulsion Development and Test](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Centennial, Colorado / Long Beach, California · `Manager` `$140k-$250k` `Equity`
+
+_Lead a team of propulsion development engineers building and testing autonomous spacecraft propulsion systems, including hypergolic propellant test facilities and flight hardware integration. Requires US citizenship and ITAR compliance for space defense applications. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007)_
+
+`Hypergolic Propulsion` `Propulsion Test Systems` `Safety-Critical Systems` `OSHA/EPA/NFPA Compliance` `DoD Standards` `Team Leadership` `Hardware Procurement`
+
+<sub>August 21, 2026 at 01:51 UTC</sub>
+
+---
 
 <br>
 
@@ -462,28 +543,6 @@ _Build AI agent discovery and security posture assessment systems across Azure, 
 `C#` `Go` `Java` `Python` `Azure` `AWS` `Google Cloud` `API design`
 
 <sub>August 20, 2026 at 11:35 UTC</sub>
-
----
-
-### [Forward Deployed Engineer, Agentic AI](https://job-boards.greenhouse.io/redapt/jobs/5396488008)
-<a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior`
-
-_Build production agentic AI systems embedded directly with client teams, writing Python code to integrate Claude models into customer business processes. Handle the full engagement arc from coding to deployment optimization, security hardening, and ROI advisory across Azure Foundry, AWS Bedrock, and Anthropic platforms. · [Apply →](https://job-boards.greenhouse.io/redapt/jobs/5396488008)_
-
-`Python` `Claude API` `Azure AI Foundry` `AWS Bedrock` `LangGraph` `LangChain` `CrewAI` `MCP`
-
-<sub>August 20, 2026 at 01:45 UTC</sub>
-
----
-
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
-
-_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
-
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
-
-<sub>August 20, 2026 at 01:45 UTC</sub>
 
 ---
 
