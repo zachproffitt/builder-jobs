@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **465 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
+### **491 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -271,12 +271,12 @@ _Build account management, integration, and data visualization UI for an enterpr
 
 ---
 
-### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Build and operate distributed systems for telemetry ingestion, processing, and storage at scale—handling trillions of events per day. Own the reliability, performance, and cost-efficiency of observability pipelines while responding to production incidents and automating operational work; requires 5+ years production systems experience and strong Go proficiency. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)_
+_Build and operate distributed telemetry ingestion, processing, and storage systems handling trillions of events per day at hundreds of millions of events per second scale. Design for reliability, performance, and cost-efficiency while participating in on-call rotations and turning operational problems into durable automation. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)_
 
-`Go` `Kubernetes` `Terraform` `Helm` `Argo CD` `AWS` `GCP` `Azure`
+`Go` `Kubernetes` `Terraform` `Argo CD` `OpenTelemetry` `Prometheus` `Grafana` `AWS`
 
 <sub>August 20, 2026 at 20:38 UTC</sub>
 
@@ -532,17 +532,6 @@ _Build detection and response automation systems for CrowdStrike's security oper
 `Python` `GoLang` `Splunk` `LogScale` `Kubernetes` `Terraform` `SOAR` `SIEM`
 
 <sub>August 20, 2026 at 13:54 UTC</sub>
-
----
-
-### [Senior Software Engineer - Golang](https://jobs.ashbyhq.com/kong/74598ada-ce9e-4726-90fd-f9e25c793de3)
-<a href="https://mashape.com"><img src="https://www.google.com/s2/favicons?domain=mashape.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mashape** · `🟢 Remote` `Senior`
-
-_Design and build highly scalable distributed backend systems in Golang, including distributed database provisioning, durable workflow orchestration, and LLM infrastructure for Kong's AI platform. Work on greenfield systems with direct influence on architecture and developer experience across microservices, Kubernetes, and cloud platforms. · [Apply →](https://jobs.ashbyhq.com/kong/74598ada-ce9e-4726-90fd-f9e25c793de3)_
-
-`Golang` `PostgreSQL` `Redis` `Distributed Systems` `Kubernetes` `AWS` `Microservices Architecture`
-
-<sub>August 20, 2026 at 13:04 UTC</sub>
 
 ---
 
