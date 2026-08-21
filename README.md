@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **465 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
+### **490 open roles** (46 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -26,7 +26,7 @@ _Lead the engineering team building code-native Webflow — a high-fidelity code
 ---
 
 ### [Software Engineer 3, Sensor - Platform API (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
 
 _Design and implement cross-platform APIs and abstractions for the CrowdStrike Falcon Sensor across Windows, Linux, and macOS. Build shared on-sensor ML inference infrastructure enabling model deployment at global scale processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)_
 
@@ -37,7 +37,7 @@ _Design and implement cross-platform APIs and abstractions for the CrowdStrike F
 ---
 
 ### [Systems Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Engineer and maintain production systems infrastructure for large-scale distributed platforms processing 3 trillion events per day, including bare metal orchestration, Kubernetes container management, and automation across thousands of servers. Requires US citizenship or Green Card and periodic government background checks for work with government customers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)_
 
@@ -282,12 +282,12 @@ _Build account management, integration, and data visualization UI for an enterpr
 
 ---
 
-### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Build and operate distributed systems for telemetry ingestion, processing, and storage at scale—handling trillions of events per day. Own the reliability, performance, and cost-efficiency of observability pipelines while responding to production incidents and automating operational work; requires 5+ years production systems experience and strong Go proficiency. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)_
+_Build and operate distributed telemetry ingestion, processing, and storage systems handling trillions of events per day at hundreds of millions of events per second scale. Design for reliability, performance, and cost-efficiency while participating in on-call rotations and turning operational problems into durable automation. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)_
 
-`Go` `Kubernetes` `Terraform` `Helm` `Argo CD` `AWS` `GCP` `Azure`
+`Go` `Kubernetes` `Terraform` `Argo CD` `OpenTelemetry` `Prometheus` `Grafana` `AWS`
 
 <sub>August 20, 2026 at 20:38 UTC</sub>
 
@@ -436,23 +436,23 @@ _Lead data science initiatives to optimize patient experience and marketplace ba
 
 ---
 
-### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
-
-_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
-
-`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
 ### [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$86k-$198k`
 
 _Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
 
 `Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
+
+_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
+
+`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
 
 <sub>August 20, 2026 at 16:45 UTC</sub>
 
@@ -521,17 +521,6 @@ _Lead structural and thermal-fluids analysis for aerospace vehicles and propulsi
 `FEA/FEM` `ANSYS` `Abaqus` `NASTRAN` `CFD` `Python` `MATLAB` `Fatigue Analysis`
 
 <sub>August 20, 2026 at 15:42 UTC</sub>
-
----
-
-### [Senior Software Engineer, Front End / Full Stack](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)
-<a href="https://grove.com"><img src="https://www.google.com/s2/favicons?domain=grove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grove** · `🟢 Remote` `Senior` `$180k-$215k` `Equity`
-
-_Lead front end and full stack initiatives end-to-end for an e-commerce platform, from problem definition through architecture decisions to shipped, measured outcomes. Work across a modern stack (currently Shopify-based) with deep ownership of performance, accessibility, and ecosystem integration across mobile apps, subscriptions, and analytics. · [Apply →](https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008)_
-
-`JavaScript` `TypeScript` `React` `Shopify` `GraphQL` `Git` `GitHub Actions` `Accessibility`
-
-<sub>August 20, 2026 at 14:46 UTC</sub>
 
 ---
 
