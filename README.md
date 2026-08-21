@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **499 open roles** (49 new) &nbsp;·&nbsp; 1770 companies searched
+### **474 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 21, 2026
+
+### [Support Engineer, U.S. Government Support](https://job-boards.greenhouse.io/gitlab/jobs/8707353002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$95k—$160k` `Equity`
+
+_Diagnose and resolve complex GitLab deployments in highly secure U.S. government environments (FedRAMP, air-gapped, classified), working directly with national security missions through deep Linux troubleshooting, log analysis, and occasional merge requests. Requires U.S. citizenship and active TS/SCI clearance eligibility for work with Intelligence Community and Department of Defense customers. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8707353002)_
+
+`Linux` `Bash` `Ruby` `Ruby on Rails` `Git` `CI/CD` `Kubernetes` `OpenShift`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Software Engineer - Infrastructure](https://job-boards.greenhouse.io/mercury/jobs/6150432004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Mid` `$122k-$158k USD` `Equity`
+
+_Build Mercury's Infrastructure Platform to enable AI agents and engineers to safely deploy code on AWS, managing networking, container orchestration, and infrastructure-as-code at scale. Requires deep Linux and cloud-native fundamentals with hands-on infrastructure code contributions. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6150432004)_
+
+`AWS` `Terraform` `Kubernetes` `Docker` `Python` `Go` `Prometheus` `Grafana`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)
 <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
@@ -119,17 +141,6 @@ _Develop and maintain automated test suites using Playwright for Keeper's enterp
 _Build FORGE Job Cost, a multi-tenant SaaS web application for job costing and project accounting on Microsoft Azure and Azure AI Foundry, integrating with Dynamics 365 Business Central and Power Platform. Requires designing and owning full-stack implementation, data models, APIs, integrations, and security for business-critical financial software where data integrity, tenant isolation, and auditability are essential. · [Apply →](https://volarisgroup.wd3.myworkdayjobs.com/WennSoft/job/Remote-United-States-Wisconsin/Senior-Software-Developer_R70469)_
 
 `C#` `Azure` `Azure AI Foundry` `Microsoft Dynamics 365` `REST APIs` `SQL Server` `Distributed Systems`
-
-<sub>August 21, 2026 at 15:42 UTC</sub>
-
----
-
-### [Healthcare Provider AI Decision Science Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Provider-AI-Decision-Science-Consultant_R00339153)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
-
-_Build AI and machine learning solutions for healthcare provider organizations, focusing on clinical workflows, electronic medical records integration, and healthcare interoperability standards. Work forward-deployed with clients to design decision-making systems that automate or augment documentation, orders, and care coordination; requires understanding of EMR/EHR systems and healthcare standards like FHIR and HL7. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Provider-AI-Decision-Science-Consultant_R00339153)_
-
-`Python` `R` `SQL` `TensorFlow` `PyTorch` `scikit-learn` `Claude` `AWS`
 
 <sub>August 21, 2026 at 15:42 UTC</sub>
 
@@ -521,39 +532,6 @@ _Design and deploy machine learning models powering real-time inventory understa
 `Python` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `GCP` `Azure` `Computer Vision`
 
 <sub>August 20, 2026 at 19:38 UTC</sub>
-
----
-
-### [Director Analytics Engineering](https://jobs.ashbyhq.com/1password/32eb8288-f53a-40f6-9c90-1a0063bcabca)
-<a href="https://1password.com"><img src="https://www.google.com/s2/favicons?domain=1password.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**1Password** · `🟢 Remote` `Manager` `$204k-$306k USD / $200k-$300k CAD` `Equity`
-
-_Lead the analytics engineering function, managing team and technical strategy for 1Password's trusted data foundations across dimensional modeling, semantic layers, and BI tooling serving Finance, Marketing, Product, and AI initiatives. Requires hands-on SQL and dbt expertise in complex B2B SaaS environments at scale. · [Apply →](https://jobs.ashbyhq.com/1password/32eb8288-f53a-40f6-9c90-1a0063bcabca)_
-
-`SQL` `dbt` `Snowflake` `Databricks` `BigQuery` `Redshift` `Airflow` `Dimensional Modeling`
-
-<sub>August 20, 2026 at 18:53 UTC</sub>
-
----
-
-### [Staff Software Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer--MANTL-_JR-000837)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Staff` `$140k-$175k`
-
-_Lead cross-team delivery of complex software capabilities across Alkami's digital banking platform, designing scalable system architectures, secure APIs, microservices, and third-party integrations for financial institutions. Role requires hands-on coding in TypeScript/Node.js or Python/Go and technical leadership across product, design, security, and engineering teams in a regulated fintech environment. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Staff-Software-Engineer--MANTL-_JR-000837)_
-
-`TypeScript` `Node.js` `Python` `Go` `Microservices` `REST APIs` `Distributed Systems` `Domain-Driven Design`
-
-<sub>August 20, 2026 at 18:53 UTC</sub>
-
----
-
-### [Director of Data Science - Patient Experience (Remote)](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Manager`
-
-_Lead data science initiatives to optimize patient experience and marketplace balance in a mental healthcare platform serving hundreds of thousands of users. Drive analytics, A/B testing, and product experimentation across clinical operations, customer experience, and revenue metrics while managing a dedicated analytics team. · [Apply →](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a)_
-
-`Python` `SQL` `A/B Testing` `Product Analytics` `Statistical Analysis` `Looker` `Tableau` `Machine Learning`
-
-<sub>August 20, 2026 at 18:53 UTC</sub>
 
 ---
 

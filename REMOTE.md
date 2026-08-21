@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **294 open roles** (37 new)
+### **295 open roles** (36 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,28 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 21, 2026
+
+### [Support Engineer, U.S. Government Support](https://job-boards.greenhouse.io/gitlab/jobs/8707353002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$95k—$160k` `Equity`
+
+_Diagnose and resolve complex GitLab deployments in highly secure U.S. government environments (FedRAMP, air-gapped, classified), working directly with national security missions through deep Linux troubleshooting, log analysis, and occasional merge requests. Requires U.S. citizenship and active TS/SCI clearance eligibility for work with Intelligence Community and Department of Defense customers. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8707353002)_
+
+`Linux` `Bash` `Ruby` `Ruby on Rails` `Git` `CI/CD` `Kubernetes` `OpenShift`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Software Engineer - Infrastructure](https://job-boards.greenhouse.io/mercury/jobs/6150432004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Mid` `$122k-$158k USD` `Equity`
+
+_Build Mercury's Infrastructure Platform to enable AI agents and engineers to safely deploy code on AWS, managing networking, container orchestration, and infrastructure-as-code at scale. Requires deep Linux and cloud-native fundamentals with hands-on infrastructure code contributions. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6150432004)_
+
+`AWS` `Terraform` `Kubernetes` `Docker` `Python` `Go` `Prometheus` `Grafana`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
 
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)
 <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
@@ -1721,17 +1743,6 @@ _Build machine learning models for risk scoring, threat intelligence, and vendor
 
 ---
 
-### [Senior Software Engineer, Nix](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · `🟢 Remote` `Senior` `$191k-$253k` `Equity`
-
-_Maintain and improve Anduril's internal Nix package set for software distribution across development, hosted services, and embedded devices; establish packaging standards and train engineers. Requires proficiency with Nix at scale and active U.S. Secret security clearance. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007)_
-
-`Nix` `Nixpkgs` `NixOS` `Rust` `C++` `Go` `Python` `TS/SCI Clearance`
-
-<sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
 ### [Data Scientist](https://jobs.ashbyhq.com/openrouter/c8ee3a10-ae18-4d8b-9390-369ebea7b03f)
 <a href="https://openrouter.ai"><img src="https://www.google.com/s2/favicons?domain=openrouter.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OpenRouter** · `🟢 Remote` `Senior`
 
@@ -2174,12 +2185,12 @@ _Lead AI and MarTech strategy for Pinterest's marketing organization, owning end
 
 ---
 
-### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
+### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
 
-_Design and build production AI systems including agent orchestration and retrieval pipelines, while architecting marketing data infrastructure, ETL pipelines, and a Customer Data Platform to enable segmentation and analytics at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)_
+_Design and build production AI systems including agent orchestration, retrieval pipelines, and evaluation frameworks; architect and maintain marketing databases, CDPs, and data pipelines to enable advanced analytics and automation. Requires hands-on experience shipping LLM/agentic systems in production and deep expertise with modern data warehousing. · [Apply →](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)_
 
-`Python` `SQL` `LLMs` `Databricks` `dbt` `Snowflake` `BigQuery` `Agentic Coding Tools`
+`Python` `SQL` `LLMs` `Agents` `Databricks` `dbt` `Snowflake` `BigQuery`
 
 <sub>August 12, 2026 at 19:14 UTC</sub>
 
@@ -2741,12 +2752,12 @@ _Build data selection, packaging, and delivery pipelines that feed pseudo-labele
 
 ---
 
-### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250k` `Equity`
+### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
 
-_Work directly with US government and enterprise customers on data engineering and analytics projects using Databricks; design, build, and deploy distributed data architectures, manage technical project delivery, and provide escalated customer support. Requires US Secret clearance and up to 30% travel for on-site customer engagements. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)_
+_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
 
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
 
 <sub>August 10, 2026 at 17:56 UTC</sub>
 
@@ -2969,12 +2980,12 @@ _Lead end-to-end machine learning strategy and execution for Shopping Ads delive
 
 ---
 
-### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$154k-$212k CAD` `Equity`
+### [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$154k–$212k CAD` `Equity`
 
-_Build AI-powered operational products and systems at scale, taking ownership of zero-to-one features across backend services, APIs, and frontend that process and transform 25+ trillion annual IoT data points into actionable intelligence for physical operations. Work across a billion-dollar dataset and growing product suite where technical decisions directly impact customer outcomes in fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102)_
+_Own technically complex, mission-critical systems end-to-end across backend, frontend, and AI-powered features—design and ship full-stack products that turn IoT data (25+ trillion data points annually) into operational intelligence for fleet, equipment, and field service management. Zero-to-one product building at billion-dollar scale with deep customer context and domain expertise in real-world operational data. · [Apply →](https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Distributed Systems`
+`Go` `Python` `TypeScript` `React` `AI/ML systems` `Full-Stack Development` `PostgreSQL` `Kubernetes`
 
 <sub>August 7, 2026 at 21:49 UTC</sub>
 
@@ -3231,17 +3242,6 @@ _Design, implement, and scale endpoint security solutions (EDR, DLP, MDM, secure
 
 ---
 
-### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
-<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
-
-_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
-
-`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Principal Software Engineer, Configuration Platform ](https://careers.toasttab.com/jobs?gh_jid=8103307)
 <a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$230k-$368k` `Equity`
 
@@ -3253,12 +3253,12 @@ _Design and operate the high-concurrency configuration platform that powers live
 
 ---
 
-### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
+### [Software Engineer II](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)
+<a href="https://tempus.com"><img src="https://www.google.com/s2/favicons?domain=tempus.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tempus AI** · `🟢 Remote` `Mid` `$85k-$130k`
 
-_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
+_Build scalable Python web applications with Flask or Django, interfacing with relational and NoSQL databases to support lab workflows and data processing. Focus on full-stack development from REST APIs to React frontends; domain involves genetic testing and lab data management. · [Apply →](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Remote---California/Software-Engineer-II_JR202600801-1)_
 
-`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
+`Python` `Flask` `Django` `React` `MySQL` `MongoDB` `Docker` `REST APIs`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
@@ -3275,12 +3275,23 @@ _Build and scale distributed deep learning training infrastructure and libraries
 
 ---
 
-### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141k-$237k` `Equity`
+### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
 
-_Lead end-to-end data science projects applying advanced statistical and machine learning techniques to build predictive, recommendation, and optimization models that improve Zillow's real estate platform and customer experiences. Develop scalable data pipelines, feature engineering frameworks, and experimentation systems in partnership with engineering teams to operationalize models at scale. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)_
+_Build and maintain CI/CD infrastructure, progressive delivery systems, and deployment observability platforms that enable hundreds of engineers to ship code safely and reliably to millions of users. Architect Kubernetes, ArgoCD, and Argo Rollouts systems at scale while implementing deployment gates, canary strategies, and automated rollback mechanisms. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)_
 
-`Python` `R` `SQL` `Machine Learning` `Statistics` `Experimentation Design` `Causal Inference`
+`Kubernetes` `ArgoCD` `Argo Rollouts` `GitHub Actions` `Datadog` `Terraform` `AWS` `TypeScript`
+
+<sub>August 7, 2026 at 00:10 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity`
+
+_Design and own broker-level success metrics, causal inference frameworks, and measurement strategy for Zillow's B2B broker data products and go-to-market initiatives. Build scalable analytical pipelines and predictive models that quantify enterprise product impact and inform senior leadership investment decisions in a high-visibility strategic priority. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)_
+
+`Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 
