@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **159 companies** · **517 open roles** (44 new)
+### **160 companies** · **519 open roles** (40 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -19,6 +19,14 @@ Engineering roles grouped by company, linking directly to each company's job boa
 - [Developer, Authorization](https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41) · `🟢 Remote` `Mid` `$123k-$172k (US) / $111k-$155k (CAD)` `Equity` (Aug 18)
 - [Developer, Rust](https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538) · `🟢 Remote` `Mid` `$123k-$172k USD (US) / $111k-$155k CAD (Canada)` `Equity` (Aug 14)
 - [Privacy Engineer](https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7) · `🟢 Remote` `Mid` `$123k-$172k` `Equity` (Aug 12)
+
+---
+
+## <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Accenture](https://accenture.com)
+
+Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
+
+- [Reinvention Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Reinvention-Deployed-Engineer_R00351670) · `🟢 Remote` `Mid` `$80k-$316k` (Aug 20)
 
 ---
 
@@ -119,7 +127,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Senior Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5207726007?gh_jid=5207726007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 10)
 - [Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5207728007?gh_jid=5207728007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 10)
 - [Senior Software Engineer, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5207727007?gh_jid=5207727007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 10)
-- [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007) · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity` (Aug 10)
+- [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 10)
 - [Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5207735007?gh_jid=5207735007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 10)
 - [Software Engineer, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5207736007?gh_jid=5207736007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 10)
 - [Chief Radar Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5205891007?gh_jid=5205891007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$189k-$251k` `Equity` (Aug 7)
@@ -621,7 +629,7 @@ Grove sells eco-friendly cleaning products, bamboo paper products, and vitamins 
 
 Gusto provides online payroll, HR, and benefits services for small and medium-sized businesses, offering features including automated payroll processing, tax filing, time tracking, employee benefits administration, and hiring and onboarding tools.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer, Salesforce Developer](https://job-boards.greenhouse.io/gusto/jobs/8144140) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Staff` `$163k-$204k (Denver & most remote), $197k-$247k (San Francisco & New York)` `Equity` (Aug 20)
+- [Staff Software Engineer, Salesforce Developer](https://job-boards.greenhouse.io/gusto/jobs/8144140) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Staff` `$163k-$204k (Denver & most remote), $197k-$247k (San Francisco & New York)` `Equity` (Aug 20)
 - [Staff Software Engineer, Gustie Assist](https://job-boards.greenhouse.io/gusto/jobs/8095028) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Staff` `Equity` (Aug 14)
 - [Senior Data Engineer](https://job-boards.greenhouse.io/gusto/jobs/8099751) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$155k-$220k` `Equity` (Aug 14)
 - [Software Engineer, ML Platform](https://job-boards.greenhouse.io/gusto/jobs/8073232) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Mid` `$160k-$200k (Denver); $190k-$240k (San Francisco, New York)` `Equity` (Aug 10)
@@ -718,10 +726,10 @@ Huntress provides a managed security platform that offers 24/7 security operatio
 Instacart operates a grocery delivery service that allows customers to order groceries and household goods for delivery, while also providing earnings opportunities for personal shoppers who fulfill those orders.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147298) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 21)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8145998) · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity` (Aug 20)
+- [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8146070) · `🟢 Remote` `Senior` `CAN$126k—CAN$133k` `Equity` (Aug 20)
 - [Machine Learning Engineer II, Ads - Response Prediction](https://instacart.careers/job/?gh_jid=8143263) · `🟢 Remote` `Mid` `$154k–$162k CAD` `Equity` (Aug 20)
 - [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143147) · `🟢 Remote` `Senior` `$206k-$217k CAD` `Equity` (Aug 20)
-- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 19)
+- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535) · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity` (Aug 19)
 - [Senior Software Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8130034) · `🟢 Remote` `Senior` `$166k—$210k USD` `Equity` (Aug 14)
 - [Site Reliability Engineer II](https://instacart.careers/job/?gh_jid=8121910) · `🟢 Remote` `Mid` `$133k-$169k` `Equity` (Aug 14)
 - [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846) · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity` (Aug 12)
@@ -813,7 +821,7 @@ Key2Act provides job costing, project management, and field service software for
 LaunchDarkly provides feature management and automation software that helps teams control and manage software features.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Engineer, Experience Engineering](https://job-boards.greenhouse.io/launchdarkly/jobs/7919873003) · `🟢 Remote` `Staff` `$182k-$295k` `Equity` (Aug 20)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Backend Engineer, Experimentation](https://job-boards.greenhouse.io/launchdarkly/jobs/7920039003) · `🟢 Remote` `Senior` `$163k-$263.7k` `Equity` (Aug 20)
+- [Senior Backend Engineer, Experimentation](https://job-boards.greenhouse.io/launchdarkly/jobs/7920039003) · `🟢 Remote` `Senior` `$163k-$263.7k` `Equity` (Aug 20)
 - [Senior Full Stack Engineer, Enterprise, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7887684003) · `🟢 Remote` `Senior` `$163k-$263.67k` `Equity` (Aug 18)
 - [Staff Frontend Engineer, Feature Management](https://job-boards.greenhouse.io/launchdarkly/jobs/7886222003) · `🟢 Remote` `Staff` `$182k - $295k` `Equity` (Aug 17)
 - [Backend Engineer, Flag Delivery](https://job-boards.greenhouse.io/launchdarkly/jobs/7861151003) · `🟢 Remote` `Mid` `$145k-$235k` `Equity` (Aug 12)
@@ -1101,7 +1109,7 @@ QueueDr, now called Phreesia Appointment Accelerator, provides software that aut
 
 Quindar builds command and control software and ground systems integration capabilities for commercial and government space operations. The company serves government and defense customers applying its platform to complex mission-critical use cases.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [QA Engineer](https://jobs.ashbyhq.com/quindar/f1b540a9-8f41-4330-a23d-23cd694783db) · Denver, Colorado · `Mid` (Aug 20)
+- [QA Engineer](https://jobs.ashbyhq.com/quindar/f1b540a9-8f41-4330-a23d-23cd694783db) · Denver, Colorado · `Mid` (Aug 20)
 - [Ground System Integration Engineer](https://jobs.ashbyhq.com/quindar/ada8bc6e-8d2b-4e64-a530-611307d94a8c) · Arvada, Colorado · `🟡 Hybrid` `Mid` (Aug 18)
 - [Backend Engineer](https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e) · Denver, Colorado · `Mid` (Aug 17)
 - [Sr. Software Engineer, Command & Control](https://jobs.ashbyhq.com/quindar/d52070a1-887c-4a06-b6de-c1e84f683f96) · Arvada, Colorado / Washington, D.C. / Seattle, Washington · `🟡 Hybrid` `Senior` (Aug 17)
@@ -1178,6 +1186,7 @@ Posit provides an enterprise data science platform for developing, deploying, an
 
 Rula provides remote mental healthcare services and operates as a remote-first company that currently hires in most U.S. states except Hawaii.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d) · `🟢 Remote` `Staff` (Aug 21)
 - [Director of Data Science - Patient Experience (Remote)](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a) · `🟢 Remote` `Manager` (Aug 20)
 - [Software Engineer 2 - RCM (Remote)](https://jobs.ashbyhq.com/rula/9b0241a2-2ec5-4a15-a04d-70ac08d15c4c) · `🟢 Remote` `Mid` (Aug 19)
 - [Sr. Mobile Engineer (Remote)](https://jobs.ashbyhq.com/rula/3cc82c07-f7cc-42c9-b90c-cdd455aaf59d) · `🟢 Remote` `Senior` (Aug 13)
@@ -1221,7 +1230,7 @@ Scribe makes software that automatically documents processes by creating visual 
 
 SecurityScorecard provides cybersecurity ratings for organizations, continuously rating over 12 million companies across 64 countries. The company's patented rating technology is used by over 25,000 organizations for self-monitoring, third-party risk management, board reporting, and cyber insurance underwriting.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8146113) · `🟢 Remote` `Senior` `$140k-$180k` `Equity` (Aug 20)
+- [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8146113) · `🟢 Remote` `Senior` `$140k-$180k` `Equity` (Aug 20)
 - [GTM Engineer](https://job-boards.greenhouse.io/securityscorecard/jobs/8137517) · `🟢 Remote` `Mid` `$170k-$180k` `Equity` (Aug 17)
 - [Senior Data Scientist ](https://job-boards.greenhouse.io/securityscorecard/jobs/8126399) · `🟢 Remote` `Senior` `$150k-$175k` `Equity` (Aug 13)
 

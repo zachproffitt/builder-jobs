@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **517 open roles** (44 new) &nbsp;·&nbsp; 1770 companies searched
+### **519 open roles** (40 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 21, 2026
+
+### [Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Staff`
+
+_Design and build scalable marketplace systems for the Marketplace Health Engine, improving provider utilization and patient access to mental healthcare. Lead technical strategy across multiple teams while remaining hands-on; requires 8+ years building distributed systems at scale. · [Apply →](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d)_
+
+`AWS` `Node.js` `TypeScript` `Kafka` `Distributed Systems` `Backend Services` `APIs` `SaaS`
+
+<sub>August 21, 2026 at 22:34 UTC</sub>
+
+---
 
 ### [Sr. IT Solution Architect, Access Automation](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-IT-Solution-Architect--Access-Automation_REQ23976-1)
 <a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · `🟢 Remote` `Senior` `$133k-$178k` `Equity`
@@ -444,61 +455,6 @@ _Design and build the next generation platform for user interactions across Laun
 `Go` `Python` `Event-driven Architectures` `Kafka` `AWS` `GCP` `ClickHouse` `Redis`
 
 <sub>August 20, 2026 at 23:34 UTC</sub>
-
----
-
-### [Staff Software Engineer, Salesforce Developer](https://job-boards.greenhouse.io/gusto/jobs/8144140)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Staff` `$163k-$204k (Denver & most remote), $197k-$247k (San Francisco & New York)` `Equity`
-
-_Design and build scalable Apex solutions on Salesforce that power Sales and CX operations for 500k+ small businesses. Balance Salesforce platform work with occasional full-stack contributions; requires fluent daily use of AI coding assistants and 4+ years Salesforce development experience. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8144140)_
-
-`Salesforce Apex` `Salesforce Platform Architecture` `sf CLI` `Ruby on Rails` `AI Coding Assistants` `Salesforce Change Management` `Event-Driven Systems` `High-Throughput Systems`
-
-<sub>August 20, 2026 at 22:37 UTC</sub>
-
----
-
-### [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8145998)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity`
-
-_Build AI-native solutions to transform core Marketing workflows—from campaign planning narratives and launch automation to brief quality assurance—then drive adoption across the organization. This role requires shipping agentic systems and multi-step AI workflows at scale, with accountability for measurable impact and organizational behavior change. · [Apply →](https://instacart.careers/job/?gh_jid=8145998)_
-
-`Claude` `GPT-4o` `Gemini` `Prompt Engineering` `Agentic Systems` `Multi-Agent Orchestration` `AI Vendor Evaluation`
-
-<sub>August 20, 2026 at 22:37 UTC</sub>
-
----
-
-### [Senior Backend Engineer, Experimentation](https://job-boards.greenhouse.io/launchdarkly/jobs/7920039003)
-<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Senior` `$163k-$263.7k` `Equity`
-
-_Design and operate scalable backend services powering LaunchDarkly's experimentation platform, handling event ingestion, metric computation, and results analysis at massive scale. Work on data-intensive systems at the intersection of distributed systems, data pipelines, and analytics; requires on-call ownership and production troubleshooting in a you-build-it-you-run-it culture. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7920039003)_
-
-`Go` `Python` `Rust` `PostgreSQL` `Snowflake` `BigQuery` `Kubernetes` `Observability`
-
-<sub>August 20, 2026 at 22:37 UTC</sub>
-
----
-
-### [QA Engineer](https://jobs.ashbyhq.com/quindar/f1b540a9-8f41-4330-a23d-23cd694783db)
-<a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Quindar** · Denver, Colorado · `Mid`
-
-_Own functional, integration, and exploratory testing for satellite operations software, testing mission-critical workflows including contact planning, collision avoidance, and task automation across APIs and user-facing features. Domain requires ITAR compliance (US citizenship or equivalent work authorization). · [Apply →](https://jobs.ashbyhq.com/quindar/f1b540a9-8f41-4330-a23d-23cd694783db)_
-
-`TestRail` `Postman` `REST APIs` `Git` `API Testing` `Browser Developer Tools` `Test Automation`
-
-<sub>August 20, 2026 at 22:37 UTC</sub>
-
----
-
-### [Senior Research Engineer, Threat Intelligence](https://job-boards.greenhouse.io/securityscorecard/jobs/8146113)
-<a href="https://securityscorecard.com"><img src="https://www.google.com/s2/favicons?domain=securityscorecard.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SecurityScorecard** · `🟢 Remote` `Senior` `$140k-$180k` `Equity`
-
-_Build the research-to-production pipeline for threat intelligence at scale—taking malware findings, infrastructure clusters, and behavioral patterns into shipped detection rules, distributed feeds, and scoring signals. Own STIX/TAXII adoption as unified schemas, build detection content (YARA, Sigma, STIX patterns), and engineer workflows that blend security research with language models, cost accounting, and schema validation; requires 5-8 years hands-on engineering in threat intel or detection systems. · [Apply →](https://job-boards.greenhouse.io/securityscorecard/jobs/8146113)_
-
-`Python` `TypeScript` `YARA` `Sigma` `STIX 2.1` `TAXII 2.1` `AWS` `PostgreSQL`
-
-<sub>August 20, 2026 at 22:37 UTC</sub>
 
 ---
 

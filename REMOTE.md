@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **311 open roles** (37 new)
+### **312 open roles** (35 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,17 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 21, 2026
+
+### [Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Staff`
+
+_Design and build scalable marketplace systems for the Marketplace Health Engine, improving provider utilization and patient access to mental healthcare. Lead technical strategy across multiple teams while remaining hands-on; requires 8+ years building distributed systems at scale. · [Apply →](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d)_
+
+`AWS` `Node.js` `TypeScript` `Kafka` `Distributed Systems` `Backend Services` `APIs` `SaaS`
+
+<sub>August 21, 2026 at 22:34 UTC</sub>
+
+---
 
 ### [Sr. IT Solution Architect, Access Automation](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-IT-Solution-Architect--Access-Automation_REQ23976-1)
 <a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · `🟢 Remote` `Senior` `$133k-$178k` `Equity`
@@ -390,12 +401,12 @@ _Design and build the next generation platform for user interactions across Laun
 
 ---
 
-### [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8145998)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity`
+### [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8146070)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$126k—CAN$133k` `Equity`
 
-_Build AI-native solutions to transform core Marketing workflows—from campaign planning narratives and launch automation to brief quality assurance—then drive adoption across the organization. This role requires shipping agentic systems and multi-step AI workflows at scale, with accountability for measurable impact and organizational behavior change. · [Apply →](https://instacart.careers/job/?gh_jid=8145998)_
+_Build AI-native solutions that transform Marketing's manual workflows—including automated leadership narratives, campaign launch processes, and brief quality systems—then drive adoption across the org. This role requires shipping production agentic systems and managing change at scale; candidates must demonstrate hands-on AI builder experience with frontier models. · [Apply →](https://instacart.careers/job/?gh_jid=8146070)_
 
-`Claude` `GPT-4o` `Gemini` `Prompt Engineering` `Agentic Systems` `Multi-Agent Orchestration` `AI Vendor Evaluation`
+`Claude` `GPT-4o` `Prompt Engineering` `Agentic Systems` `AI Orchestration` `Marketing Operations` `Change Management`
 
 <sub>August 20, 2026 at 22:37 UTC</sub>
 
@@ -889,12 +900,12 @@ _Build full-stack products powering Antora's thermal battery business—from cus
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
 
-_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
+_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
 
-`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
+`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
 
