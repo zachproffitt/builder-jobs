@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **485 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
+### **491 open roles** (43 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 21, 2026
+
+### [Staff Full Stack Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007)
+<a href="https://carbon-direct.com"><img src="https://www.google.com/s2/favicons?domain=carbon-direct.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Carbon Direct** · `🟢 Remote` `Staff` `$184k-$225k`
+
+_Build full-stack web applications and internal systems for a carbon management platform, shipping AI-augmented features from discovery through production at enterprise scale. Work in an ISO 27001 and SOC 2 compliant environment where data protection and auditability are built in from the start. · [Apply →](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007)_
+
+`Python` `JavaScript` `React` `PostgreSQL` `Kubernetes` `AWS` `AI/ML systems` `Distributed Systems`
+
+<sub>August 21, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Vice President of Engineering ](https://job-boards.greenhouse.io/katalyst/jobs/6144878004)
+<a href="https://katalyst.com"><img src="https://www.google.com/s2/favicons?domain=katalyst.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Katalyst** · Broomfield, Colorado · `Manager` `$214k-$284k` `Equity`
+
+_Lead the engineering organization building robotic spacecraft for orbital servicing, refueling, and resupply operations; own technical baselines, decision-making rigor, and multi-disciplinary integration across hardware and software. Requires direct spacecraft mission experience through on-orbit operations and ability to scale a deep-tech aerospace organization under ITAR restrictions. · [Apply →](https://job-boards.greenhouse.io/katalyst/jobs/6144878004)_
+
+`Aerospace Systems Engineering` `Spacecraft Architecture` `GNC` `Configuration Management` `ITAR Compliance`
+
+<sub>August 21, 2026 at 16:45 UTC</sub>
+
+---
 
 ### [Senior Software Development Engineer - Agent Identity & Core Primitives](https://jobs.ashbyhq.com/delinea/e2017264-990f-458b-b8e2-4b434a97afb5)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
@@ -47,17 +69,6 @@ _Build FORGE Job Cost, a multi-tenant SaaS web application for job costing and p
 
 ---
 
-### [Healthcare Provider AI Decision Science Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Provider-AI-Decision-Science-Consultant_R00339153)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
-
-_Build AI and machine learning solutions for healthcare provider organizations, focusing on clinical workflows, electronic medical records integration, and healthcare interoperability standards. Work forward-deployed with clients to design decision-making systems that automate or augment documentation, orders, and care coordination; requires understanding of EMR/EHR systems and healthcare standards like FHIR and HL7. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Provider-AI-Decision-Science-Consultant_R00339153)_
-
-`Python` `R` `SQL` `TensorFlow` `PyTorch` `scikit-learn` `Claude` `AWS`
-
-<sub>August 21, 2026 at 15:42 UTC</sub>
-
----
-
 ### [Senior Manager, Engineering](https://job-boards.greenhouse.io/webflow/jobs/8142841)
 <a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Manager` `$248k-$310k (US Zone A); $233.6k-$292k (US Zone B); $217k-$272k (US Zone C); CAD $270k-$338k (Canada)` `Equity`
 
@@ -70,7 +81,7 @@ _Lead the engineering team building code-native Webflow — a high-fidelity code
 ---
 
 ### [Software Engineer 3, Sensor - Platform API (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
 
 _Design and implement cross-platform APIs and abstractions for the CrowdStrike Falcon Sensor across Windows, Linux, and macOS. Build shared on-sensor ML inference infrastructure enabling model deployment at global scale processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)_
 
@@ -81,7 +92,7 @@ _Design and implement cross-platform APIs and abstractions for the CrowdStrike F
 ---
 
 ### [Systems Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Engineer and maintain production systems infrastructure for large-scale distributed platforms processing 3 trillion events per day, including bare metal orchestration, Kubernetes container management, and automation across thousands of servers. Requires US citizenship or Green Card and periodic government background checks for work with government customers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)_
 
@@ -205,12 +216,12 @@ _Design and build scalable Apex solutions on Salesforce that power Sales and CX 
 
 ---
 
-### [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8146070)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$126k—CAN$133k` `Equity`
+### [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8145998)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity`
 
-_Build AI-native solutions that transform Marketing's manual workflows—including automated leadership narratives, campaign launch processes, and brief quality systems—then drive adoption across the org. This role requires shipping production agentic systems and managing change at scale; candidates must demonstrate hands-on AI builder experience with frontier models. · [Apply →](https://instacart.careers/job/?gh_jid=8146070)_
+_Build AI-native solutions to transform core Marketing workflows—from campaign planning narratives and launch automation to brief quality assurance—then drive adoption across the organization. This role requires shipping agentic systems and multi-step AI workflows at scale, with accountability for measurable impact and organizational behavior change. · [Apply →](https://instacart.careers/job/?gh_jid=8145998)_
 
-`Claude` `GPT-4o` `Prompt Engineering` `Agentic Systems` `AI Orchestration` `Marketing Operations` `Change Management`
+`Claude` `GPT-4o` `Gemini` `Prompt Engineering` `Agentic Systems` `Multi-Agent Orchestration` `AI Vendor Evaluation`
 
 <sub>August 20, 2026 at 22:37 UTC</sub>
 
@@ -249,17 +260,6 @@ _Build the research-to-production pipeline for threat intelligence at scale—ta
 
 ---
 
-### [Backend Engineer, AI Engineering: Duo Chat](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$115k—$194k` `Equity`
-
-_Build the agentic runtime and API integrations for GitLab Duo Chat, including LangGraph flows, the Flow Registry, and the Duo Workflow Service. Scale AI-powered conversational experiences across GitLab's platform with Python and Rails integration; requires on-call support and security-minded development in a fully remote, globally distributed environment. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)_
-
-`Python` `Ruby on Rails` `LangGraph` `GraphQL` `RSpec` `LLM/Agentic AI` `API Design` `PostgreSQL`
-
-<sub>August 20, 2026 at 21:36 UTC</sub>
-
----
-
 ### [Data Engineer II](https://job-boards.greenhouse.io/goguardian/jobs/4706562006)
 <a href="https://goguardian.com"><img src="https://www.google.com/s2/favicons?domain=goguardian.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoGuardian** · `🟢 Remote` `Mid` `$130k-$150k` `Equity`
 
@@ -277,6 +277,17 @@ _Design and build ETL pipelines and MLOps infrastructure on Databricks to power 
 _Lead architecture and implementation of distributed school safety products integrating hardware devices, third-party platforms, and real-time operational systems serving millions of K-12 students and educators. Build systems where reliability, security, and compliance are architectural requirements in safety-critical workflows. · [Apply →](https://job-boards.greenhouse.io/goguardian/jobs/4706571006)_
 
 `Distributed Systems` `Event-Driven Architecture` `APIs` `OAuth/SAML/SSO` `IoT/Device Integration` `Cloud-Native Systems` `Real-Time Systems` `PostgreSQL`
+
+<sub>August 20, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Backend Engineer, AI Engineering: Duo Chat](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$115k—$194k` `Equity`
+
+_Build the agentic runtime and API integrations for GitLab Duo Chat, including LangGraph flows, the Flow Registry, and the Duo Workflow Service. Scale AI-powered conversational experiences across GitLab's platform with Python and Rails integration; requires on-call support and security-minded development in a fully remote, globally distributed environment. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)_
+
+`Python` `Ruby on Rails` `LangGraph` `GraphQL` `RSpec` `LLM/Agentic AI` `API Design` `PostgreSQL`
 
 <sub>August 20, 2026 at 21:36 UTC</sub>
 
@@ -326,12 +337,12 @@ _Build account management, integration, and data visualization UI for an enterpr
 
 ---
 
-### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Build and operate distributed systems for telemetry ingestion, processing, and storage at scale—handling trillions of events per day. Own the reliability, performance, and cost-efficiency of observability pipelines while responding to production incidents and automating operational work; requires 5+ years production systems experience and strong Go proficiency. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)_
+_Build and operate distributed telemetry ingestion, processing, and storage systems handling trillions of events per day at hundreds of millions of events per second scale. Design for reliability, performance, and cost-efficiency while participating in on-call rotations and turning operational problems into durable automation. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)_
 
-`Go` `Kubernetes` `Terraform` `Helm` `Argo CD` `AWS` `GCP` `Azure`
+`Go` `Kubernetes` `Terraform` `Argo CD` `OpenTelemetry` `Prometheus` `Grafana` `AWS`
 
 <sub>August 20, 2026 at 20:38 UTC</sub>
 
@@ -477,72 +488,6 @@ _Lead data science initiatives to optimize patient experience and marketplace ba
 `Python` `SQL` `A/B Testing` `Product Analytics` `Statistical Analysis` `Looker` `Tableau` `Machine Learning`
 
 <sub>August 20, 2026 at 18:53 UTC</sub>
-
----
-
-### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
-
-_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
-
-`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
-### [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$86k-$198k`
-
-_Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
-
-`Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
-### [Senior Neutronics Engineer - Isotope Production](https://job-boards.greenhouse.io/oklo/jobs/6145900004)
-<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · `🟢 Remote` `Senior` `$130k-$220k` `Equity`
-
-_Develop and execute neutronics analyses for an isotope production reactor, including core design, fuel cycle optimization, target performance, and shielding using Monte Carlo and deterministic transport methods. Requires hands-on expertise with MCNP, Serpent, and SCALE, and the ability to operate independently in a fast-paced startup environment. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6145900004)_
-
-`Python` `MCNP` `Serpent` `SCALE` `Monte Carlo methods` `High Performance Computing` `Sensitivity and Uncertainty Analysis` `Reactor Physics`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
-### [Senior Process Equipment Engineer - Fuel Recycling](https://job-boards.greenhouse.io/oklo/jobs/6133618004)
-<a href="https://oklo.com"><img src="https://www.google.com/s2/favicons?domain=oklo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oklo** · Santa Clara, California / Remote · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
-
-_Lead engineering development of process equipment and integrated systems for an advanced nuclear fuel recycling facility, from conceptual design through detailed design and commissioning. Work on first-of-a-kind equipment involving vessels, heat exchangers, separations systems, and custom vendor solutions; requires US person status for export control compliance. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6133618004)_
-
-`Aspen Plus` `HYSYS` `ChemCAD` `process equipment design` `heat exchanger design` `pressure vessel specification` `compressor and blower selection` `adsorption systems`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
-### [Software Engineer II, MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · `🟢 Remote` `Mid` `$139k-$166k` `Equity`
-
-_Own model conversion and compilation pipelines using ONNX, TensorRT, and torch.compile to deploy ML models on edge hardware (NVIDIA Orin) for autonomous trucks. Build and maintain the model release registry and perform rigorous latency benchmarking and quality validation to ensure safety-critical performance standards. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002)_
-
-`ONNX` `TensorRT` `torch.compile` `PyTorch` `CUDA` `NVIDIA Orin` `C++` `Kubernetes`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
-### [Reinvention Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Reinvention-Deployed-Engineer_R00351670)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$80k-$316k`
-
-_Design, develop, and deploy custom cloud-native applications across AWS, Azure, and on-premises infrastructure for enterprise clients. Strong Linux systems administration and infrastructure-as-code expertise required; significant client-facing technical engagement with 0-100% travel. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Reinvention-Deployed-Engineer_R00351670)_
-
-`Linux` `Python` `Docker` `Kubernetes` `Terraform` `AWS` `Azure` `JavaScript`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
 
 ---
 
