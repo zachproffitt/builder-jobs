@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **155 companies** · **489 open roles** (48 new)
+### **153 companies** · **483 open roles** (48 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -530,16 +530,6 @@ Filevine builds a platform that combines data, documents, workflows, and teams f
 
 ---
 
-## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
-
-Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
-
-- [Principal Applied Scientist, Agentic AI](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P751035-1) · `🟢 Remote` `Principal` `$181k-$305k` `Equity` (Aug 14)
-- [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 7)
-- [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1) · `🟢 Remote` `Senior` `$141k-$237k` `Equity` (Aug 7)
-
----
-
 ## <a href="https://front.app"><img src="https://www.google.com/s2/favicons?domain=front.app&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Front](https://front.app)
 
 Front provides a customer experience platform that combines client communication, automation, and analytics for service teams.
@@ -918,14 +908,6 @@ Nextdoor is a neighborhood hub where people exchange information, goods, and ser
 
 ---
 
-## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
-
-NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
-
-- [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762) · `🟢 Remote` `Manager` (Aug 13)
-
----
-
 ## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
 
 Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
@@ -1128,6 +1110,14 @@ Rocket Lab delivers launch services, spacecraft, and satellite components.
 
 ---
 
+## <a href="https://rstudio.com"><img src="https://www.google.com/s2/favicons?domain=rstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[RStudio](https://rstudio.com)
+
+Posit provides an enterprise data science platform for developing, deploying, and governing R and Python workflows and AI-powered applications.
+
+- [Senior IT Engineer](https://posit.co/job-detail/?gh_jid=7871806003) · `🟢 Remote` `Senior` `$120k—$159k` (Aug 14)
+
+---
+
 ## <a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Rula](https://rula.com)
 
 Rula provides remote mental healthcare services and operates as a remote-first company that currently hires in most U.S. states except Hawaii.
@@ -1156,7 +1146,7 @@ Samsara builds a platform called the Connected Operations Cloud that collects In
 - [Staff Firmware Engineer](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536) · `🟢 Remote` `Staff` `$162k-$290k` `Equity` (Aug 17)
 - [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439) · `🟢 Remote` `Senior` `$154k–$260k` `Equity` (Aug 14)
 - [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161) · `🟢 Remote` `Senior` `$142k-$168k CAD` `Equity` (Aug 13)
-- [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity` (Aug 12)
+- [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100) · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity` (Aug 12)
 - [Sr. AI Engineer](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352) · `🟢 Remote` `Senior` `$127k-$214k` `Equity` (Aug 12)
 - [Staff Software Engineer](https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742) · `🟢 Remote` `Staff` `$162k—$290k` `Equity` (Aug 7)
 - [Manager II, Data Platform](https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931) · `🟢 Remote` `Manager` `$154k-$234k` `Equity` (Aug 7)
@@ -1469,15 +1459,6 @@ Vantor makes spatial intelligence products that combine spatial data, AI, and so
 - [Senior Staff Software Systems Engineer, Cybersecurity and Compliance](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer--Cybersecurity-and-Compliance_R24398) · Westminster, Colorado · `Staff` `$128k-$187k` (Aug 12)
 - [Applied AI Scientist](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Applied-AI-Scientist_R24427) · `🟢 Remote` `Senior` `$128k-$215.6k` (Aug 12)
 - [Sr. Platform Infrastructure Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Platform-Infrastructure-Engineer_R24190) · Westminster, Colorado · `🟡 Hybrid` `Senior` `$128k-$187k` (Aug 10)
-
----
-
-## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
-
-Visa provides personal payment solutions, payment cards, and rewards programs.
-
-- [Staff Site Reliability Engineer, CMDB](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W) · Denver, Colorado · `🟡 Hybrid` `Staff` `$124k-$198k` `Equity` (Aug 7)
-- [Software Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer_REF085267W) · Denver, Colorado · `🟡 Hybrid` `Mid` `$83k-$129k` `Equity` (Aug 7)
 
 ---
 

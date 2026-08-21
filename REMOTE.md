@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **286 open roles** (36 new)
+### **283 open roles** (36 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -1354,6 +1354,17 @@ _Own the subscriptions and payments platform—building foundational systems and
 
 ---
 
+### [Senior IT Engineer](https://posit.co/job-detail/?gh_jid=7871806003)
+<a href="https://rstudio.com"><img src="https://www.google.com/s2/favicons?domain=rstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**RStudio** · `🟢 Remote` `Senior` `$120k—$159k`
+
+_Own end-to-end operations of core IT platforms (Okta, Jamf Pro, Google Workspace, self-hosted automation platforms) including configuration, security, and roadmap; mentor junior engineers and drive GitOps practices across IT infrastructure. Requires deep expertise in identity management, MDM, and enterprise AI platform operations in a distributed, SaaS-first environment. · [Apply →](https://posit.co/job-detail/?gh_jid=7871806003)_
+
+`Okta` `Jamf Pro` `Google Workspace` `AWS` `Terraform` `GitOps` `SAML` `OIDC`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
+
+---
+
 ### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)
 <a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k–$260k` `Equity`
 
@@ -1508,17 +1519,6 @@ _Build and maintain large-scale distributed systems ensuring high reliability an
 
 ---
 
-### [Principal Applied Scientist, Agentic AI](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P751035-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$181k-$305k` `Equity`
-
-_Set the science direction for advanced reasoning and long-running agent systems; translate emerging agentic AI advances into reliable, differentiated customer experiences through agent architecture, evaluation frameworks, and production deployment. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Applied-Scientist--Agentic-AI_P751035-1)_
-
-`Large Language Models` `Agentic AI` `Agent Architecture` `Evaluation Frameworks` `Post-training` `Test-time Scaling` `Multi-step Reasoning` `Memory Engineering`
-
-<sub>August 14, 2026 at 10:12 UTC</sub>
-
----
-
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/7927646)
 <a href="https://humaninterest.com"><img src="https://www.google.com/s2/favicons?domain=humaninterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Human Interest** · `🟢 Remote` `Senior` `$190k-$230k` `Equity`
 
@@ -1555,17 +1555,6 @@ _Build compliance and regulatory infrastructure for Reddit's platform, handling 
 <br>
 
 ## August 13, 2026
-
-### [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)
-<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Manager`
-
-_Lead strategy, administration, and governance of NextGen Healthcare's enterprise Salesforce platform across Sales, Service, Marketing, and other business functions while managing a team of Salesforce administrators. Requires hands-on platform expertise in Service Cloud, Sales Cloud, Marketing Cloud, and emerging capabilities like Agentforce; balance executive-level roadmap planning with detailed administrative work. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)_
-
-`Salesforce` `Service Cloud` `Sales Cloud` `Marketing Cloud` `Agentforce` `leadership` `stakeholder management`
-
-<sub>August 13, 2026 at 23:51 UTC</sub>
-
----
 
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/redapt/jobs/5389434008)
 <a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior` `$150k-$170k`
@@ -2086,12 +2075,12 @@ _Lead AI and MarTech strategy for Pinterest's marketing organization, owning end
 
 ---
 
-### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity`
+### [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$119k-$154k CAD` `Equity`
 
-_Design and build production AI systems including agent orchestration, retrieval pipelines, and evaluation frameworks; architect and maintain marketing databases, CDPs, and data pipelines to enable advanced analytics and automation. Requires hands-on experience shipping LLM/agentic systems in production and deep expertise with modern data warehousing. · [Apply →](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855)_
+_Design and build production AI systems including agent orchestration and retrieval pipelines, while architecting marketing data infrastructure, ETL pipelines, and a Customer Data Platform to enable segmentation and analytics at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100)_
 
-`Python` `SQL` `LLMs` `Agents` `Databricks` `dbt` `Snowflake` `BigQuery`
+`Python` `SQL` `LLMs` `Databricks` `dbt` `Snowflake` `BigQuery` `Agentic Coding Tools`
 
 <sub>August 12, 2026 at 19:14 UTC</sub>
 
@@ -2934,17 +2923,6 @@ _Lead a team of product engineers building the core developer experience and pla
 
 ---
 
-### [Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Design and build evaluation frameworks, tracing systems, and observability infrastructure for Zillow's production agentic AI agents. Partner with applied scientists and ML engineers to measure and improve AI quality, reliability, and trustworthiness at scale; requires deep familiarity with LLM evaluation paradigms and production ML systems. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)_
-
-`Python` `LangChain` `LangGraph` `MLflow` `LangSmith` `Kubernetes` `PostgreSQL` `Observability`
-
-<sub>August 7, 2026 at 19:08 UTC</sub>
-
----
-
 ### [Manager, Customer Engineering](https://job-boards.greenhouse.io/cortex/jobs/5383170008)
 <a href="https://cortex.io"><img src="https://www.google.com/s2/favicons?domain=cortex.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cortex** · `🟢 Remote` `Manager` `$150k-$175k` `Equity`
 
@@ -3165,17 +3143,6 @@ _Design and operate the high-concurrency configuration platform that powers live
 
 ---
 
-### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
-
-_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
-
-`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
-
-<sub>August 7, 2026 at 00:10 UTC</sub>
-
----
-
 ### [Senior Software Developer, Delivery Platform](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2)
 <a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Senior`
 
@@ -3187,12 +3154,12 @@ _Build and maintain CI/CD infrastructure, progressive delivery systems, and depl
 
 ---
 
-### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141k-$237k` `Equity`
+### [Senior Deep Learning Sofware Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$224k-$431.25k` `Equity`
 
-_Lead end-to-end data science projects applying advanced statistical and machine learning techniques to build predictive, recommendation, and optimization models that improve Zillow's real estate platform and customer experiences. Develop scalable data pipelines, feature engineering frameworks, and experimentation systems in partnership with engineering teams to operationalize models at scale. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P750993-1)_
+_Build and scale distributed deep learning training infrastructure and libraries for autonomous driving models running on thousand-GPU clusters. Own orchestration, distributed training frameworks, and fault-resilient systems that enable rapid experimentation on massive video datasets. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Deep-Learning-Sofware-Infrastructure-Engineer_JR2022034)_
 
-`Python` `R` `SQL` `Machine Learning` `Statistics` `Experimentation Design` `Causal Inference`
+`PyTorch` `Python` `NCCL` `Kubernetes` `Slurm` `RoCE` `Lustre` `CUDA`
 
 <sub>August 7, 2026 at 00:10 UTC</sub>
 

@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **489 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
+### **483 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -414,23 +414,23 @@ _Design and implement identity solutions for AI agents, MCP servers, and autonom
 
 ---
 
-### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
-
-_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
-
-`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
 ### [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$86k-$198k`
 
 _Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
 
 `Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
+
+_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
+
+`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
 
 <sub>August 20, 2026 at 16:45 UTC</sub>
 
