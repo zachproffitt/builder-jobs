@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **154 companies** · **491 open roles** (43 new)
+### **157 companies** · **499 open roles** (49 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -19,6 +19,14 @@ Engineering roles grouped by company, linking directly to each company's job boa
 - [Developer, Authorization](https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41) · `🟢 Remote` `Mid` `$123k-$172k (US) / $111k-$155k (CAD)` `Equity` (Aug 18)
 - [Developer, Rust](https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538) · `🟢 Remote` `Mid` `$123k-$172k USD (US) / $111k-$155k CAD (Canada)` `Equity` (Aug 14)
 - [Privacy Engineer](https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7) · `🟢 Remote` `Mid` `$123k-$172k` `Equity` (Aug 12)
+
+---
+
+## <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Accenture](https://accenture.com)
+
+Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Healthcare Provider AI Decision Science Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Provider-AI-Decision-Science-Consultant_R00339153) · `🟢 Remote` `Mid` `$54k-$205k` (Aug 21)
 
 ---
 
@@ -661,6 +669,7 @@ Human Interest builds 401(k) retirement plans for small and medium-sized busines
 
 ## <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Humio (CrowdStrike)](https://humio.com)
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 21)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer 3, Sensor - Platform API (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896) · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 21)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Systems Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 21)
 - [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320) · `🟢 Remote` `Junior` `$70k-$95k` `Equity` (Aug 20)
@@ -697,10 +706,11 @@ Huntress provides a managed security platform that offers 24/7 security operatio
 
 Instacart operates a grocery delivery service that allows customers to order groceries and household goods for delivery, while also providing earnings opportunities for personal shoppers who fulfill those orders.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147298) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 21)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8145998) · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity` (Aug 20)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Machine Learning Engineer II, Ads - Response Prediction](https://instacart.careers/job/?gh_jid=8143263) · `🟢 Remote` `Mid` `$154k–$162k CAD` `Equity` (Aug 20)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143145) · `🟢 Remote` `Senior` `$201k-$253.5k` `Equity` (Aug 20)
-- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535) · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity` (Aug 19)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143147) · `🟢 Remote` `Senior` `$206k-$217k CAD` `Equity` (Aug 20)
+- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 19)
 - [Senior Software Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8130034) · `🟢 Remote` `Senior` `$166k—$210k USD` `Equity` (Aug 14)
 - [Site Reliability Engineer II](https://instacart.careers/job/?gh_jid=8121910) · `🟢 Remote` `Mid` `$133k-$169k` `Equity` (Aug 14)
 - [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846) · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity` (Aug 12)
@@ -826,6 +836,14 @@ LiveKit builds infrastructure for voice-driven computing that enables developers
 
 - [IT Engineer](https://jobs.ashbyhq.com/livekit/e8c2864e-7b1c-4618-a46d-a9227339c82b) · `🟢 Remote` `Mid` `Equity` (Aug 19)
 - [Research Engineer (Reinforcement Learning)](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367) · `🟢 Remote` `Senior` `Equity` (Aug 18)
+
+---
+
+## <a href="https://loadsmart.com"><img src="https://www.google.com/s2/favicons?domain=loadsmart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Loadsmart](https://loadsmart.com)
+
+Loadsmart offers transportation services and software solutions for shippers, carriers, and warehouses.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Forward Deployed Engineer](https://jobs.lever.co/loadsmart/152abf3a-d8b3-4289-b746-3c16dbabc703) · `🟢 Remote` `Mid` (Aug 21)
 
 ---
 
@@ -1247,6 +1265,14 @@ Spire Global builds a space-powered data and analytics platform that uses a prop
 
 ---
 
+## <a href="https://stackadapt.com"><img src="https://www.google.com/s2/favicons?domain=stackadapt.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[StackAdapt](https://stackadapt.com)
+
+StackAdapt is an AI-powered marketing platform used by digital marketers.
+
+- [Integrations Developer](https://job-boards.greenhouse.io/stackadapt/jobs/4357710009) · `🟢 Remote` `Mid` `$76k-$104k CAD` `Equity` (Aug 10)
+
+---
+
 ## <a href="https://standardbots.com"><img src="https://www.google.com/s2/favicons?domain=standardbots.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Standard Bots](https://standardbots.com)
 
 Standard Bots makes industrial collaborative robots (cobots).
@@ -1387,6 +1413,7 @@ TRM Labs provides tools and services used by government agencies and private ins
 
 True Anomaly develops capabilities for space superiority.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Autonomy Engineer, Ops Research (Senior - Principal)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218560007) · Denver, Colorado / Long Beach, California · `Senior` `$180k-$360k` `Equity` (Aug 21)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Engineering Manager, Propulsion Development and Test](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007) · Centennial, Colorado / Long Beach, California · `Manager` `$140k-$250k` `Equity` (Aug 21)
 - [GSE Engineering Intern](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007) · Centennial, Colorado / Long Beach, California · `Intern` `$56k-$64k` (Aug 13)
 - [Principal Mission Cloud Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5208701007) · Denver, Colorado / Long Beach, California · `Principal` `$205k-$305k (Colorado) / $220k-$320k (California)` `Equity` (Aug 10)
@@ -1520,6 +1547,7 @@ Osano helps organizations build, manage, and scale their privacy programs to com
 
 ZoomInfo provides go-to-market intelligence and sales acceleration software that helps sales, marketing, operations, and recruiting teams identify and engage potential customers.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Manager, Data Platform](https://www.zoominfo.com/careers?gh_jid=8730205002) · `🟢 Remote` `Manager` `$140k-$220k` `Equity` (Aug 21)
 - [Senior Software Engineer, Data Infrastructure](https://www.zoominfo.com/careers?gh_jid=8687939002) · `🟢 Remote` `Senior` `$140k–$220k` `Equity` (Aug 17)
 
 ---

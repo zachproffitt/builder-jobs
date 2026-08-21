@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **491 open roles** (43 new) &nbsp;·&nbsp; 1770 companies searched
+### **499 open roles** (49 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 21, 2026
+
+### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+
+_Build and maintain security controls and tooling for CrowdStrike's software supply chain, focusing on open-source risk mitigation, GitHub organization hardening, and dependency security across the enterprise. Work at scale processing 3 trillion security events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)_
+
+`Python` `Golang` `Shell` `GitHub` `GitHub Actions` `Linux` `Supply Chain Security` `Open-source Security (SCA)`
+
+<sub>August 21, 2026 at 17:37 UTC</sub>
+
+---
+
+### [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147298)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+
+_Design and own Android applications for real-time shelf intelligence and in-store data collection, including standalone scanning apps and Connected Stores integrations like Caper Carts. Work at the intersection of physical retail and cutting-edge technology, setting architectural direction for a rapidly scaling platform that powers inventory intelligence across the Instacart ecosystem. · [Apply →](https://instacart.careers/job/?gh_jid=8147298)_
+
+`Kotlin` `Java` `Android SDK` `Jetpack` `Bluetooth` `NFC` `Camera APIs` `Real-time Data Pipelines`
+
+<sub>August 21, 2026 at 17:37 UTC</sub>
+
+---
+
+### [Forward Deployed Engineer](https://jobs.lever.co/loadsmart/152abf3a-d8b3-4289-b746-3c16dbabc703)
+<a href="https://loadsmart.com"><img src="https://www.google.com/s2/favicons?domain=loadsmart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Loadsmart** · `🟢 Remote` `Mid`
+
+_Build integrations and tune AI agents for freight logistics workflows, deploying AI-driven automation from the Loadsmart platform into production client environments. Bridge between platform engineers and operations stakeholders, handling real-world edge cases and feeding learnings back to the core platform. · [Apply →](https://jobs.lever.co/loadsmart/152abf3a-d8b3-4289-b746-3c16dbabc703)_
+
+`Python` `TypeScript` `API Integration` `Machine Learning` `Distributed Systems` `PostgreSQL` `AWS`
+
+<sub>August 21, 2026 at 17:37 UTC</sub>
+
+---
+
+### [Autonomy Engineer, Ops Research (Senior - Principal)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218560007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Senior` `$180k-$360k` `Equity`
+
+_Design and deploy optimization algorithms for autonomous spacecraft fleet planning, mission scheduling, and uncooperative rendezvous operations. Requires hands-on implementation across game theory, trajectory optimization, reinforcement learning, and distributed optimization for space domain applications with real-world operational constraints. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218560007)_
+
+`C++` `Python` `Reinforcement Learning` `Game Theory` `Mixed-Integer Programming` `Convex Optimization` `Trajectory Optimization` `Kalman Filtering`
+
+<sub>August 21, 2026 at 17:37 UTC</sub>
+
+---
+
+### [Manager, Data Platform](https://www.zoominfo.com/careers?gh_jid=8730205002)
+**ZoomInfo** · `🟢 Remote` `Manager` `$140k-$220k` `Equity`
+
+_Lead architecture, strategy, and execution of a modern data platform built on Databricks, Snowflake, AWS, and Spark, serving analytics, ML, and AI workloads across the organization. Manage a team of data platform engineers while remaining hands-on in critical technical initiatives, architecture reviews, and complex troubleshooting. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8730205002)_
+
+`Databricks` `Snowflake` `AWS` `Spark` `dbt` `Airflow` `Fivetran` `Python`
+
+<sub>August 21, 2026 at 17:37 UTC</sub>
+
+---
 
 ### [Staff Full Stack Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007)
 <a href="https://carbon-direct.com"><img src="https://www.google.com/s2/favicons?domain=carbon-direct.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Carbon Direct** · `🟢 Remote` `Staff` `$184k-$225k`
@@ -64,6 +119,17 @@ _Develop and maintain automated test suites using Playwright for Keeper's enterp
 _Build FORGE Job Cost, a multi-tenant SaaS web application for job costing and project accounting on Microsoft Azure and Azure AI Foundry, integrating with Dynamics 365 Business Central and Power Platform. Requires designing and owning full-stack implementation, data models, APIs, integrations, and security for business-critical financial software where data integrity, tenant isolation, and auditability are essential. · [Apply →](https://volarisgroup.wd3.myworkdayjobs.com/WennSoft/job/Remote-United-States-Wisconsin/Senior-Software-Developer_R70469)_
 
 `C#` `Azure` `Azure AI Foundry` `Microsoft Dynamics 365` `REST APIs` `SQL Server` `Distributed Systems`
+
+<sub>August 21, 2026 at 15:42 UTC</sub>
+
+---
+
+### [Healthcare Provider AI Decision Science Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Provider-AI-Decision-Science-Consultant_R00339153)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
+
+_Build AI and machine learning solutions for healthcare provider organizations, focusing on clinical workflows, electronic medical records integration, and healthcare interoperability standards. Work forward-deployed with clients to design decision-making systems that automate or augment documentation, orders, and care coordination; requires understanding of EMR/EHR systems and healthcare standards like FHIR and HL7. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Healthcare-Provider-AI-Decision-Science-Consultant_R00339153)_
+
+`Python` `R` `SQL` `TensorFlow` `PyTorch` `scikit-learn` `Claude` `AWS`
 
 <sub>August 21, 2026 at 15:42 UTC</sub>
 
@@ -260,6 +326,17 @@ _Build the research-to-production pipeline for threat intelligence at scale—ta
 
 ---
 
+### [Backend Engineer, AI Engineering: Duo Chat](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$115k—$194k` `Equity`
+
+_Build the agentic runtime and API integrations for GitLab Duo Chat, including LangGraph flows, the Flow Registry, and the Duo Workflow Service. Scale AI-powered conversational experiences across GitLab's platform with Python and Rails integration; requires on-call support and security-minded development in a fully remote, globally distributed environment. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)_
+
+`Python` `Ruby on Rails` `LangGraph` `GraphQL` `RSpec` `LLM/Agentic AI` `API Design` `PostgreSQL`
+
+<sub>August 20, 2026 at 21:36 UTC</sub>
+
+---
+
 ### [Data Engineer II](https://job-boards.greenhouse.io/goguardian/jobs/4706562006)
 <a href="https://goguardian.com"><img src="https://www.google.com/s2/favicons?domain=goguardian.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GoGuardian** · `🟢 Remote` `Mid` `$130k-$150k` `Equity`
 
@@ -277,17 +354,6 @@ _Design and build ETL pipelines and MLOps infrastructure on Databricks to power 
 _Lead architecture and implementation of distributed school safety products integrating hardware devices, third-party platforms, and real-time operational systems serving millions of K-12 students and educators. Build systems where reliability, security, and compliance are architectural requirements in safety-critical workflows. · [Apply →](https://job-boards.greenhouse.io/goguardian/jobs/4706571006)_
 
 `Distributed Systems` `Event-Driven Architecture` `APIs` `OAuth/SAML/SSO` `IoT/Device Integration` `Cloud-Native Systems` `Real-Time Systems` `PostgreSQL`
-
-<sub>August 20, 2026 at 21:36 UTC</sub>
-
----
-
-### [Backend Engineer, AI Engineering: Duo Chat](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$115k—$194k` `Equity`
-
-_Build the agentic runtime and API integrations for GitLab Duo Chat, including LangGraph flows, the Flow Registry, and the Duo Workflow Service. Scale AI-powered conversational experiences across GitLab's platform with Python and Rails integration; requires on-call support and security-minded development in a fully remote, globally distributed environment. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8698314002)_
-
-`Python` `Ruby on Rails` `LangGraph` `GraphQL` `RSpec` `LLM/Agentic AI` `API Design` `PostgreSQL`
 
 <sub>August 20, 2026 at 21:36 UTC</sub>
 
@@ -447,12 +513,12 @@ _Build data characterization, active learning, and model improvement pipelines f
 
 ---
 
-### [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143145)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$201k-$253.5k` `Equity`
+### [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143147)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$206k-$217k CAD` `Equity`
 
-_Design and deploy machine learning models powering real-time inventory and shelf-stocking predictions across thousands of grocery stores at scale. Own the full ML lifecycle from problem framing through production deployment, collaborating with software engineers, computer vision teams, and data scientists to integrate computer vision signals and novel retail data into a high-throughput inference platform. · [Apply →](https://instacart.careers/job/?gh_jid=8143145)_
+_Design and deploy machine learning models powering real-time inventory understanding across thousands of retail locations; develop the full ML lifecycle from problem framing through production serving at scale. Handle complex spatial-temporal modeling of shelf stocking dynamics with computer vision signals integrated into live product systems. · [Apply →](https://instacart.careers/job/?gh_jid=8143147)_
 
-`Python` `PyTorch` `TensorFlow` `AWS` `scikit-learn` `Computer Vision` `Temporal Modeling` `Real-time Inference`
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `GCP` `Azure` `Computer Vision`
 
 <sub>August 20, 2026 at 19:38 UTC</sub>
 
