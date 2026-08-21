@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **483 open roles** (48 new) &nbsp;·&nbsp; 1770 companies searched
+### **486 open roles** (47 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -249,12 +249,12 @@ _Build account management, integration, and data visualization UI for an enterpr
 
 ---
 
-### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
+### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
 
-_Build and operate distributed systems for telemetry ingestion, processing, and storage at scale—handling trillions of events per day. Own the reliability, performance, and cost-efficiency of observability pipelines while responding to production incidents and automating operational work; requires 5+ years production systems experience and strong Go proficiency. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)_
+_Build and operate distributed telemetry ingestion, processing, and storage systems handling trillions of events per day at hundreds of millions of events per second scale. Design for reliability, performance, and cost-efficiency while participating in on-call rotations and turning operational problems into durable automation. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)_
 
-`Go` `Kubernetes` `Terraform` `Helm` `Argo CD` `AWS` `GCP` `Azure`
+`Go` `Kubernetes` `Terraform` `Argo CD` `OpenTelemetry` `Prometheus` `Grafana` `AWS`
 
 <sub>August 20, 2026 at 20:38 UTC</sub>
 
@@ -398,17 +398,6 @@ _Lead cross-team delivery of complex software capabilities across Alkami's digit
 _Lead data science initiatives to optimize patient experience and marketplace balance in a mental healthcare platform serving hundreds of thousands of users. Drive analytics, A/B testing, and product experimentation across clinical operations, customer experience, and revenue metrics while managing a dedicated analytics team. · [Apply →](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a)_
 
 `Python` `SQL` `A/B Testing` `Product Analytics` `Statistical Analysis` `Looker` `Tableau` `Machine Learning`
-
-<sub>August 20, 2026 at 18:53 UTC</sub>
-
----
-
-### [Agentic Identity Security Consultant](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Agentic-Identity-Security-Consultant_R00335731)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$54k-$205k`
-
-_Design and implement identity solutions for AI agents, MCP servers, and autonomous workflows using OAuth 2.0, OIDC, and Zero Trust architectures. Build agentic AI identity infrastructure for enterprise clients leveraging emerging agent frameworks and secrets management systems. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/TX---Irving/Agentic-Identity-Security-Consultant_R00335731)_
-
-`Python` `OAuth 2.0` `OIDC` `MCP` `Zero Trust` `Identity Governance and Administration` `AWS` `GCP`
 
 <sub>August 20, 2026 at 18:53 UTC</sub>
 
