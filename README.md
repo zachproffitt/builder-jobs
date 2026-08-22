@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **465 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **470 open roles** (33 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -14,10 +14,10 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 22, 2026
 
-### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
 
-_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
+_Build production-grade data and AI solutions embedded with enterprise customers, owning end-to-end architecture from data pipelines and ML models to application deployment on the Databricks platform. Requires 6+ years in data engineering or software engineering, deep Spark expertise, and ability to manage complex technical projects with C-suite stakeholders across multiple cloud platforms. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)_
 
 `Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
 
@@ -150,6 +150,17 @@ _Build and maintain backend services and APIs for Twilio's communications platfo
 
 ---
 
+### [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Architect and deploy enterprise intelligent automation and agentic AI solutions by integrating LLMs (Claude, Gemini) with workflow platforms (UiPath, N8N, Decisions) to scale digital workforce automation across complex business processes. Lead code reviews and mentorship of citizen developers while managing production automation environments at scale. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)_
+
+`Python` `C#` `SQL` `UiPath` `N8N` `Claude` `Gemini` `Intelligent Document Processing`
+
+<sub>August 21, 2026 at 20:34 UTC</sub>
+
+---
+
 ### [Verifications Specialist III](https://www.abclegal.com/job-openings/job?id=7930998003&gh_jid=7930998003)
 <a href="https://docketly.com"><img src="https://www.google.com/s2/favicons?domain=docketly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docketly** · Longmont, Colorado · `Junior` `$58k-$69k`
 
@@ -233,6 +244,17 @@ _Diagnose and resolve complex GitLab deployments in highly secure U.S. governmen
 _Build Mercury's Infrastructure Platform to enable AI agents and engineers to safely deploy code on AWS, managing networking, container orchestration, and infrastructure-as-code at scale. Requires deep Linux and cloud-native fundamentals with hands-on infrastructure code contributions. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6150432004)_
 
 `AWS` `Terraform` `Kubernetes` `Docker` `Python` `Go` `Prometheus` `Grafana`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity`
+
+_Design and own broker-level success metrics, causal inference frameworks, and measurement strategy for Zillow's B2B broker data products and go-to-market initiatives. Build scalable analytical pipelines and predictive models that quantify enterprise product impact and inform senior leadership investment decisions in a high-visibility strategic priority. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)_
+
+`Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
 
 <sub>August 21, 2026 at 18:49 UTC</sub>
 
