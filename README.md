@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **469 open roles** (33 new) &nbsp;·&nbsp; 1770 companies searched
+### **472 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -271,6 +271,17 @@ _Build Mercury's Infrastructure Platform to enable AI agents and engineers to sa
 
 ---
 
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity`
+
+_Design and own broker-level success metrics, causal inference frameworks, and measurement strategy for Zillow's B2B broker data products and go-to-market initiatives. Build scalable analytical pipelines and predictive models that quantify enterprise product impact and inform senior leadership investment decisions in a high-visibility strategic priority. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)_
+
+`Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
+
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)
 <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
@@ -345,39 +356,6 @@ _Lead the engineering organization building robotic spacecraft for orbital servi
 `Aerospace Systems Engineering` `Spacecraft Architecture` `GNC` `Configuration Management` `ITAR Compliance`
 
 <sub>August 21, 2026 at 16:45 UTC</sub>
-
----
-
-### [Senior Software Development Engineer - Agent Identity & Core Primitives](https://jobs.ashbyhq.com/delinea/e2017264-990f-458b-b8e2-4b434a97afb5)
-<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
-
-_Design and build the core identity model and real-time authorization engine for AI agents, including delegated actions, trust establishment with external identity platforms, and the interfaces that other platform teams depend on. Securing emerging AI/agentic systems at scale; reports to Director of Engineering. · [Apply →](https://jobs.ashbyhq.com/delinea/e2017264-990f-458b-b8e2-4b434a97afb5)_
-
-`OAuth` `OpenID Connect` `SPIFFE` `Cedar` `OPA` `Distributed Systems` `Authorization Engines`
-
-<sub>August 21, 2026 at 15:42 UTC</sub>
-
----
-
-### [Software Development Engineer in Test (SDET), Vault ](https://job-boards.greenhouse.io/keepersecurity/jobs/4378237009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Mid`
-
-_Develop and maintain automated test suites using Playwright for Keeper's enterprise password and secrets management platform, testing web applications across multiple browsers. Partner with software engineers to design end-to-end automation strategies and improve testability for security-sensitive products trusted by thousands of organizations globally. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4378237009)_
-
-`Playwright` `JavaScript` `TypeScript` `Python` `Git` `CI/CD` `MySQL` `SQL Server`
-
-<sub>August 21, 2026 at 15:42 UTC</sub>
-
----
-
-### [Senior Software Developer](https://volarisgroup.wd3.myworkdayjobs.com/WennSoft/job/Remote-United-States-Wisconsin/Senior-Software-Developer_R70469)
-<a href="https://key2act.com"><img src="https://www.google.com/s2/favicons?domain=key2act.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Key2Act** · `🟢 Remote` `Senior`
-
-_Build FORGE Job Cost, a multi-tenant SaaS web application for job costing and project accounting on Microsoft Azure and Azure AI Foundry, integrating with Dynamics 365 Business Central and Power Platform. Requires designing and owning full-stack implementation, data models, APIs, integrations, and security for business-critical financial software where data integrity, tenant isolation, and auditability are essential. · [Apply →](https://volarisgroup.wd3.myworkdayjobs.com/WennSoft/job/Remote-United-States-Wisconsin/Senior-Software-Developer_R70469)_
-
-`C#` `Azure` `Azure AI Foundry` `Microsoft Dynamics 365` `REST APIs` `SQL Server` `Distributed Systems`
-
-<sub>August 21, 2026 at 15:42 UTC</sub>
 
 ---
 
