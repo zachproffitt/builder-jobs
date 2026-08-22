@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **282 open roles** (28 new)
+### **284 open roles** (29 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -34,23 +34,23 @@ _Design and build production-grade security services, automated policy enforceme
 
 ---
 
-### [Director of Research, Text to Speech](https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323)
-<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Manager`
-
-_Own the text-to-speech research program end-to-end—set the technical direction, design and train neural audio models, and ship production improvements across naturalness, expressiveness, voice consistency, and inference efficiency. Lead a team of researchers and tech leads while staying deeply technical on the highest-leverage problems; requires deep expertise in modern TTS and speech generation at scale, plus experience setting research direction under uncertainty and building high-performing AI research organizations. · [Apply →](https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323)_
-
-`TTS` `Speech Generation` `Neural Audio Modeling` `Audio Generative Modeling` `PyTorch` `Distributed Systems` `HPC`
-
-<sub>August 22, 2026 at 01:44 UTC</sub>
-
----
-
 ### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
 
 _Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
 
 `Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+
+<sub>August 22, 2026 at 01:44 UTC</sub>
+
+---
+
+### [Director of Research, Text to Speech](https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323)
+<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Manager`
+
+_Own the text-to-speech research program end-to-end—set the technical direction, design and train neural audio models, and ship production improvements across naturalness, expressiveness, voice consistency, and inference efficiency. Lead a team of researchers and tech leads while staying deeply technical on the highest-leverage problems; requires deep expertise in modern TTS and speech generation at scale, plus experience setting research direction under uncertainty and building high-performing AI research organizations. · [Apply →](https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323)_
+
+`TTS` `Speech Generation` `Neural Audio Modeling` `Audio Generative Modeling` `PyTorch` `Distributed Systems` `HPC`
 
 <sub>August 22, 2026 at 01:44 UTC</sub>
 
@@ -165,6 +165,17 @@ _Lead the development of high-performance Salesforce solutions including CPQ, Ap
 _Build and maintain backend services and APIs for Twilio's communications platform, serving thousands of customers across multiple channels. Work on production systems requiring on-call rotation and operational excellence at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/7816159)_
 
 `Go` `Java` `AWS` `Kubernetes` `Docker` `DynamoDB` `Temporal`
+
+<sub>August 21, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Architect and deploy enterprise intelligent automation and agentic AI solutions by integrating LLMs (Claude, Gemini) with workflow platforms (UiPath, N8N, Decisions) to scale digital workforce automation across complex business processes. Lead code reviews and mentorship of citizen developers while managing production automation environments at scale. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)_
+
+`Python` `C#` `SQL` `UiPath` `N8N` `Claude` `Gemini` `Intelligent Document Processing`
 
 <sub>August 21, 2026 at 20:34 UTC</sub>
 
@@ -1878,6 +1889,17 @@ _Build compliance and regulatory infrastructure for Reddit's platform, handling 
 <br>
 
 ## August 13, 2026
+
+### [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Manager`
+
+_Lead strategy, administration, and governance of NextGen Healthcare's enterprise Salesforce platform across Sales, Service, Marketing, and other business functions while managing a team of Salesforce administrators. Requires hands-on platform expertise in Service Cloud, Sales Cloud, Marketing Cloud, and emerging capabilities like Agentforce; balance executive-level roadmap planning with detailed administrative work. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)_
+
+`Salesforce` `Service Cloud` `Sales Cloud` `Marketing Cloud` `Agentforce` `leadership` `stakeholder management`
+
+<sub>August 13, 2026 at 23:51 UTC</sub>
+
+---
 
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/redapt/jobs/5389434008)
 <a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior` `$150k-$170k`

@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **467 open roles** (32 new) &nbsp;·&nbsp; 1770 companies searched
+### **469 open roles** (33 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -2395,6 +2395,17 @@ _Own end-to-end traffic classification ML systems at internet scale, building ad
 
 ---
 
+### [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Manager`
+
+_Lead strategy, administration, and governance of NextGen Healthcare's enterprise Salesforce platform across Sales, Service, Marketing, and other business functions while managing a team of Salesforce administrators. Requires hands-on platform expertise in Service Cloud, Sales Cloud, Marketing Cloud, and emerging capabilities like Agentforce; balance executive-level roadmap planning with detailed administrative work. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762)_
+
+`Salesforce` `Service Cloud` `Sales Cloud` `Marketing Cloud` `Agentforce` `leadership` `stakeholder management`
+
+<sub>August 13, 2026 at 23:51 UTC</sub>
+
+---
+
 ### [Senior Software Engineer](https://job-boards.greenhouse.io/redapt/jobs/5389434008)
 <a href="https://attunix.com"><img src="https://www.google.com/s2/favicons?domain=attunix.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Attunix** · `🟢 Remote` `Senior` `$150k-$170k`
 
@@ -3348,50 +3359,6 @@ _Build and operate scalable ML infrastructure powering grocery recommendations a
 
 ---
 
-### [Senior Federal Platform Engineer ](https://job-boards.greenhouse.io/keepersecurity/jobs/4364146009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
-
-_Build and maintain CI/CD pipelines, deployment automation, and infrastructure-as-code for Keeper's cybersecurity platform across IL5, IL6, and classified U.S. Government environments. Requires hands-on DevOps/SRE expertise in high-security federal networks and ability to obtain Top Secret clearance. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364146009)_
-
-`Terraform` `Ansible` `CloudFormation` `Python` `Bash` `PowerShell` `AWS GovCloud` `Azure Government`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Senior Infrastructure Test Engineer, DevOps](https://job-boards.greenhouse.io/keepersecurity/jobs/4364317009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
-
-_Design and build automated test frameworks for AWS infrastructure, infrastructure-as-code (Terraform, CloudFormation, Ansible), and CI/CD pipelines to validate deployment configurations, security controls, and compliance requirements before production. Work with DevOps and Platform Engineering teams to test containerized and Kubernetes environments at scale for a cybersecurity company protecting millions of users globally. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364317009)_
-
-`Python` `Bash` `Go` `AWS` `Terraform` `CloudFormation` `Kubernetes` `Docker`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Senior Software Engineer, Identity & Access Discovery](https://job-boards.greenhouse.io/keepersecurity/jobs/4364199009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · Remote / Chicago, Illinois / El Dorado Hills, California · `🟢 Remote` `Senior` `Equity`
-
-_Build the Python-based discovery engine and Java/Kotlin cloud services that identify and inventory privileged accounts, service accounts, keys and machines across Active Directory, cloud IAM, databases and endpoints for secure management and rotation. Design secure data-processing workflows that operate within Keeper's zero-knowledge architecture, handling identity correlation and reconciliation while maintaining resilience in customer-deployed environments you cannot directly access or debug. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364199009)_
-
-`Python` `Java` `Kotlin` `TypeScript` `Active Directory` `LDAP` `AWS IAM` `Microsoft Entra ID`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
-### [Staff Software Engineer, Certificate Lifecycle Management](https://job-boards.greenhouse.io/keepersecurity/jobs/4364209009)
-<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Staff`
-
-_Architect and build certificate lifecycle management systems spanning discovery, inventory, enrollment, issuance, deployment, renewal, rotation and revocation across enterprise PKI environments. Deep hands-on experience with X.509 certificates, certificate authorities, PKI protocols (ACME, SCEP, EST, OCSP) and machine identity security required. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364209009)_
-
-`Java` `Go` `Python` `C++` `C#` `PKI` `X.509 Certificates` `ACME`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
 ### [Data Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0247100)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
 
@@ -3431,6 +3398,50 @@ _Lead a cross-functional team of physicists and software engineers developing mi
 _Build statistical models and machine learning algorithms to extract actionable intelligence from classified government datasets; requires active TS/SCI clearance and experience supporting Department of Defense or Intelligence Community clients. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Statistician-and-Mathematician--Senior_R0246477)_
 
 `Python` `R` `SQL` `Machine Learning` `Statistics` `Spark` `Kafka` `TS/SCI Clearance`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Senior Federal Platform Engineer ](https://job-boards.greenhouse.io/keepersecurity/jobs/4364146009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
+
+_Build and maintain CI/CD pipelines, deployment automation, and infrastructure-as-code for Keeper's cybersecurity platform across IL5, IL6, and classified U.S. Government environments. Requires hands-on DevOps/SRE expertise in high-security federal networks and ability to obtain Top Secret clearance. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364146009)_
+
+`Terraform` `Ansible` `CloudFormation` `Python` `Bash` `PowerShell` `AWS GovCloud` `Azure Government`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Senior Infrastructure Test Engineer, DevOps](https://job-boards.greenhouse.io/keepersecurity/jobs/4364317009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
+
+_Design and build automated test frameworks for AWS infrastructure, infrastructure-as-code (Terraform, CloudFormation, Ansible), and CI/CD pipelines to validate deployment configurations, security controls, and compliance requirements before production. Work with DevOps and Platform Engineering teams to test containerized and Kubernetes environments at scale for a cybersecurity company protecting millions of users globally. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364317009)_
+
+`Python` `Bash` `Go` `AWS` `Terraform` `CloudFormation` `Kubernetes` `Docker`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Identity & Access Discovery](https://job-boards.greenhouse.io/keepersecurity/jobs/4364199009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · Remote / Chicago, Illinois / El Dorado Hills, California · `🟢 Remote` `Senior` `Equity`
+
+_Build the Python-based discovery engine and Java/Kotlin cloud services that identify and inventory privileged accounts, service accounts, keys and machines across Active Directory, cloud IAM, databases and endpoints for secure management and rotation. Design secure data-processing workflows that operate within Keeper's zero-knowledge architecture, handling identity correlation and reconciliation while maintaining resilience in customer-deployed environments you cannot directly access or debug. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364199009)_
+
+`Python` `Java` `Kotlin` `TypeScript` `Active Directory` `LDAP` `AWS IAM` `Microsoft Entra ID`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Certificate Lifecycle Management](https://job-boards.greenhouse.io/keepersecurity/jobs/4364209009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Staff`
+
+_Architect and build certificate lifecycle management systems spanning discovery, inventory, enrollment, issuance, deployment, renewal, rotation and revocation across enterprise PKI environments. Deep hands-on experience with X.509 certificates, certificate authorities, PKI protocols (ACME, SCEP, EST, OCSP) and machine identity security required. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4364209009)_
+
+`Java` `Go` `Python` `C++` `C#` `PKI` `X.509 Certificates` `ACME`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
