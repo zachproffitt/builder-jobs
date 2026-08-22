@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **448 open roles** (6 new) &nbsp;·&nbsp; 1770 companies searched
+### **449 open roles** (5 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -66,21 +66,6 @@ _Build and operate an AI-enriched security operations pipeline, writing detectio
 `Python` `GCP` `AWS` `Threat Hunting` `Detection Engineering` `Incident Response` `Tines` `n8n`
 
 <sub>August 22, 2026 at 01:44 UTC</sub>
-
----
-
-<br>
-
-## August 21, 2026
-
-### [Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d)
-<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Staff`
-
-_Design and build scalable marketplace systems for the Marketplace Health Engine, improving provider utilization and patient access to mental healthcare. Lead technical strategy across multiple teams while remaining hands-on; requires 8+ years building distributed systems at scale. · [Apply →](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d)_
-
-`AWS` `Node.js` `TypeScript` `Kafka` `Distributed Systems` `Backend Services` `APIs` `SaaS`
-
-<sub>August 21, 2026 at 22:34 UTC</sub>
 
 ---
 

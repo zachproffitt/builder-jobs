@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **146 companies** · **448 open roles** (6 new)
+### **147 companies** · **449 open roles** (5 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -247,6 +247,14 @@ Businessolver provides employee benefits technology that serves over 18 million 
 ButterflyMX makes a property access system that allows users to view video feeds and unlock doors or gates from a smartphone, with easy installation and operation.
 
 - [Principal AI-Native Software Engineer ](https://jobs.ashbyhq.com/butterflymx/7810fd75-c722-4596-8b43-b2db3da4f490) · `🟢 Remote` `Principal` `$215k-$250k` `Equity` (Aug 17)
+
+---
+
+## <a href="https://carbon-direct.com"><img src="https://www.google.com/s2/favicons?domain=carbon-direct.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Carbon Direct](https://carbon-direct.com)
+
+Carbon Direct offers carbon management services including carbon measurement, emissions reduction, and carbon removal solutions.
+
+- [Staff Full Stack Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007) · `🟢 Remote` `Staff` `$184k-$225k` (Aug 21)
 
 ---
 
@@ -1052,7 +1060,7 @@ Posit provides an enterprise data science platform for developing, deploying, an
 
 Rula provides remote mental healthcare services and operates as a remote-first company that currently hires in most U.S. states except Hawaii.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d) · `🟢 Remote` `Staff` (Aug 21)
+- [Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d) · `🟢 Remote` `Staff` (Aug 21)
 - [Director of Data Science - Patient Experience (Remote)](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a) · `🟢 Remote` `Manager` (Aug 20)
 - [Software Engineer 2 - RCM (Remote)](https://jobs.ashbyhq.com/rula/9b0241a2-2ec5-4a15-a04d-70ac08d15c4c) · `🟢 Remote` `Mid` (Aug 19)
 - [Sr. Mobile Engineer (Remote)](https://jobs.ashbyhq.com/rula/3cc82c07-f7cc-42c9-b90c-cdd455aaf59d) · `🟢 Remote` `Senior` (Aug 13)
