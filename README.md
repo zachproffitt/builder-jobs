@@ -2,13 +2,50 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **519 open roles** (38 new) &nbsp;·&nbsp; 1770 companies searched
+### **471 open roles** (35 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 22, 2026
+
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
+
+_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
+
+`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+
+<sub>August 22, 2026 at 01:44 UTC</sub>
+
+---
+
+### [Director of Research, Text to Speech](https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323)
+<a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Manager`
+
+_Own the text-to-speech research program end-to-end—set the technical direction, design and train neural audio models, and ship production improvements across naturalness, expressiveness, voice consistency, and inference efficiency. Lead a team of researchers and tech leads while staying deeply technical on the highest-leverage problems; requires deep expertise in modern TTS and speech generation at scale, plus experience setting research direction under uncertainty and building high-performing AI research organizations. · [Apply →](https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323)_
+
+`TTS` `Speech Generation` `Neural Audio Modeling` `Audio Generative Modeling` `PyTorch` `Distributed Systems` `HPC`
+
+<sub>August 22, 2026 at 01:44 UTC</sub>
+
+---
+
+### [Security Engineer](https://www.five9.com/about/careers/job-detail?gh_jid=6150849004)
+<a href="https://five9.com"><img src="https://www.google.com/s2/favicons?domain=five9.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Five9** · `🟢 Remote` `Mid` `$66k–$174k` `Equity`
+
+_Build and operate an AI-enriched security operations pipeline, writing detection logic, automation playbooks, and AI-assisted tooling to automate incident response workflows. Own security incidents end-to-end from scoping through remediation in a code-first security engineering role. · [Apply →](https://www.five9.com/about/careers/job-detail?gh_jid=6150849004)_
+
+`Python` `GCP` `AWS` `Threat Hunting` `Detection Engineering` `Incident Response` `Tines` `n8n`
+
+<sub>August 22, 2026 at 01:44 UTC</sub>
+
+---
 
 <br>
 
@@ -37,7 +74,7 @@ _Design and lead enterprise-wide Identity Governance and Administration solution
 ---
 
 ### [Product Security Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
 
 _Design and architect network security patterns across CrowdStrike's hybrid cloud infrastructure (AWS, GCP, Azure, physical data centers) processing 3 trillion events daily. Build scalable monitoring, alerting, and automation solutions to identify security gaps, reduce attack surface, and establish zero-trust architecture at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)_
 
@@ -212,8 +249,19 @@ _Build Mercury's Infrastructure Platform to enable AI agents and engineers to sa
 
 ---
 
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity`
+
+_Design and own broker-level success metrics, causal inference frameworks, and measurement strategy for Zillow's B2B broker data products and go-to-market initiatives. Build scalable analytical pipelines and predictive models that quantify enterprise product impact and inform senior leadership investment decisions in a high-visibility strategic priority. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)_
+
+`Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
+
 ### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Build and maintain security controls and tooling for CrowdStrike's software supply chain, focusing on open-source risk mitigation, GitHub organization hardening, and dependency security across the enterprise. Work at scale processing 3 trillion security events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)_
 
@@ -223,12 +271,12 @@ _Build and maintain security controls and tooling for CrowdStrike's software sup
 
 ---
 
-### [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147298)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147300)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k–CAN$207k` `Equity`
 
-_Design and own Android applications for real-time shelf intelligence and in-store data collection, including standalone scanning apps and Connected Stores integrations like Caper Carts. Work at the intersection of physical retail and cutting-edge technology, setting architectural direction for a rapidly scaling platform that powers inventory intelligence across the Instacart ecosystem. · [Apply →](https://instacart.careers/job/?gh_jid=8147298)_
+_Design and build Android applications for real-time shelf inventory management, including standalone scanning apps and Connected Stores integrations like Caper Carts. Set architectural direction for Android development across the Digital Twin Platform while collaborating with inventory intelligence, fulfillment, and hardware teams to deliver production-quality systems. · [Apply →](https://instacart.careers/job/?gh_jid=8147300)_
 
-`Kotlin` `Java` `Android SDK` `Jetpack` `Bluetooth` `NFC` `Camera APIs` `Real-time Data Pipelines`
+`Kotlin` `Java` `Android SDK` `Jetpack` `MVVM` `Bluetooth` `NFC` `Camera APIs`
 
 <sub>August 21, 2026 at 17:37 UTC</sub>
 
@@ -334,7 +382,7 @@ _Lead the engineering team building code-native Webflow — a high-fidelity code
 ---
 
 ### [Software Engineer 3, Sensor - Platform API (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
 
 _Design and implement cross-platform APIs and abstractions for the CrowdStrike Falcon Sensor across Windows, Linux, and macOS. Build shared on-sensor ML inference infrastructure enabling model deployment at global scale processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)_
 
@@ -345,90 +393,13 @@ _Design and implement cross-platform APIs and abstractions for the CrowdStrike F
 ---
 
 ### [Systems Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
 
 _Engineer and maintain production systems infrastructure for large-scale distributed platforms processing 3 trillion events per day, including bare metal orchestration, Kubernetes container management, and automation across thousands of servers. Requires US citizenship or Green Card and periodic government background checks for work with government customers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)_
 
 `Python` `Go` `Kubernetes` `OpenStack` `Ansible` `Chef` `GitLab CI/CD` `Jenkins`
 
 <sub>August 21, 2026 at 07:51 UTC</sub>
-
----
-
-### [Engineering Manager](https://job-boards.greenhouse.io/censys/jobs/8730724002)
-<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Manager` `$151k-$218k` `Equity`
-
-_Lead the Data Collection team building and operating Internet-scale scanning, orchestration, and data pipeline systems that power Censys's Internet Map; requires deep knowledge of distributed systems, networking, and data-intensive infrastructure at Internet scale. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8730724002)_
-
-`Distributed Systems` `TCP/IP` `DNS` `HTTP` `TLS` `Kafka` `GCP` `Pub/Sub`
-
-<sub>August 21, 2026 at 01:51 UTC</sub>
-
----
-
-### [Staff Scanning Engineer](https://job-boards.greenhouse.io/censys/jobs/8730687002)
-<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Staff` `$172k-$233k` `Equity`
-
-_Design, build, and operate Internet-scale scanning, DNS resolution, and data pipeline systems that discover and enrich IP, domain, certificate, and cloud infrastructure data. Requires deep expertise in distributed systems, large-scale data ingestion, and production reliability; this is a staff-level role mentoring engineers across backend infrastructure and Internet measurement. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8730687002)_
-
-`Go` `AWS` `GCP` `Kafka` `Pub/Sub` `PostgreSQL` `Kubernetes` `gRPC`
-
-<sub>August 21, 2026 at 01:51 UTC</sub>
-
----
-
-### [Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK](https://job-boards.greenhouse.io/gitlab/jobs/8698330002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Mid` `$115k–$194k` `Equity`
-
-_Build the Duo Client SDK—a set of versioned TypeScript packages that power AI features across GitLab editors, web chat, and external applications. Design and extract core Node.js services with careful attention to APIs, versioning, and backward compatibility for external consumers. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8698330002)_
-
-`TypeScript` `Node.js` `Vue 3` `ECMAScript modules (ESM)` `monorepos` `API design` `isomorphic JavaScript` `semantic versioning`
-
-<sub>August 21, 2026 at 01:51 UTC</sub>
-
----
-
-### [GTM Systems Manager](https://jobs.ashbyhq.com/scribe/59c73008-74d4-49cf-a860-d8656230ec14)
-<a href="https://scribe.com"><img src="https://www.google.com/s2/favicons?domain=scribe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Scribe** · `🟢 Remote` `Mid` `Equity`
-
-_Build and maintain Salesforce automation, flows, and configuration within existing architectural patterns; own production support for the GTM systems stack including LeanData routing, enrichment infrastructure, and HubSpot administration on the critical path for revenue and invoicing. · [Apply →](https://jobs.ashbyhq.com/scribe/59c73008-74d4-49cf-a860-d8656230ec14)_
-
-`Salesforce` `Flows` `Validation Rules` `Permission Sets` `LeanData` `HubSpot` `CPQ` `Clay`
-
-<sub>August 21, 2026 at 01:51 UTC</sub>
-
----
-
-### [Head of Applied Machine Learning - Application Fraud](https://jobs.ashbyhq.com/sentilink/ba414a52-687a-45ad-9e2c-eae5b977cfaf)
-<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$210k-$260k` `Equity`
-
-_Lead a team of 4-6 applied ML scientists building fraud detection and identity verification models for the US financial system. Requires hands-on technical leadership with deep expertise in production ML, model governance, and fintech risk domains; must be US-based. · [Apply →](https://jobs.ashbyhq.com/sentilink/ba414a52-687a-45ad-9e2c-eae5b977cfaf)_
-
-`Python` `PostgreSQL` `AWS` `XGBoost` `scikit-learn` `pandas` `Elasticsearch` `Neo4j`
-
-<sub>August 21, 2026 at 01:51 UTC</sub>
-
----
-
-### [Applied Machine Learning Manager - Application Fraud](https://jobs.ashbyhq.com/sentilink/8365ef3f-8fac-4b52-b528-b5274f9ca39d)
-<a href="https://sentilink.com"><img src="https://www.google.com/s2/favicons?domain=sentilink.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**SentiLink** · `🟢 Remote` `Manager` `$200k-$250k` `Equity`
-
-_Lead a team of applied ML scientists building fraud detection and identity verification models for the financial services industry. Own the full ML lifecycle from data acquisition through production deployment, research emerging fraud patterns, and drive product strategy in your domain. · [Apply →](https://jobs.ashbyhq.com/sentilink/8365ef3f-8fac-4b52-b528-b5274f9ca39d)_
-
-`Python` `PostgreSQL` `AWS` `XGBoost` `scikit-learn` `pandas` `Elasticsearch` `Neo4j`
-
-<sub>August 21, 2026 at 01:51 UTC</sub>
-
----
-
-### [Engineering Manager, Propulsion Development and Test](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Centennial, Colorado / Long Beach, California · `Manager` `$140k-$250k` `Equity`
-
-_Lead a team of propulsion development engineers building and testing autonomous spacecraft propulsion systems, including hypergolic propellant test facilities and flight hardware integration. Requires US citizenship and ITAR compliance for space defense applications. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007)_
-
-`Hypergolic Propulsion` `Propulsion Test Systems` `Safety-Critical Systems` `OSHA/EPA/NFPA Compliance` `DoD Standards` `Team Leadership` `Hardware Procurement`
-
-<sub>August 21, 2026 at 01:51 UTC</sub>
 
 ---
 
