@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **132 companies** · **375 open roles** (26 new)
+### **134 companies** · **389 open roles** (30 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -581,6 +581,24 @@ Human Interest builds 401(k) retirement plans for small and medium-sized busines
 
 ---
 
+## <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Humio (CrowdStrike)](https://humio.com)
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Product Security Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866) · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 21)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 21)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer 3, Sensor - Platform API (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896) · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 21)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Systems Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 21)
+- [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320) · `🟢 Remote` `Junior` `$70k-$95k` `Equity` (Aug 20)
+- [Staff AI Security Scientist](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827) · `🟢 Remote` `Staff` `$235k-$350k` `Equity` (Aug 15)
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Aug 15)
+- [Network Engineering Manager - Backbone and Cloud  (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Manager--Network-Engineering---Transport--Remote-_R29587) · `🟢 Remote` `Manager` `$140k-$215k` `Equity` (Aug 14)
+- [Network Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Engineer-III---Network-Deployment-Engineer--Remote-_R29625) · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 14)
+- [Data Scientist, Applied AI/ML](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Applied-AI-ML_R29843) · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 14)
+- [Sr. Data Scientist, Applied AI/ML](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Data-Scientist--Applied-AI-ML_R29842-1) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Aug 14)
+- [Sr. Network Development Engineer - IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Development-Engineer---IT-Cloud---Infrastructure--Remote-_R29738) · `🟢 Remote` `Staff` `$125k-$180k` `Equity` (Aug 14)
+- [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 8)
+
+---
+
 ## <a href="https://hungryroot.com"><img src="https://www.google.com/s2/favicons?domain=hungryroot.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Hungryroot](https://hungryroot.com)
 
 Hungryroot delivers groceries and simple recipes personalized to individual customers based on their preferences.
@@ -622,6 +640,14 @@ IonQ delivers trapped ion quantum computing systems and cloud access for quantum
 - [Senior Full Stack Software Engineer - Application Engineering](https://job-boards.greenhouse.io/ionq/jobs/6139928004) · College Park, Maryland / Boulder, Colorado / Bothell, Washington / Toronto, Canada · `🟡 Hybrid` `Senior` `$145k–$209k` `Equity` (Aug 14)
 - [Senior Quantum Scientist](https://job-boards.greenhouse.io/ionq/jobs/6137809004) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$126k–$181k` `Equity` (Aug 13)
 - [Senior Staff Structural Analyst - Spacecraft Engineering](https://job-boards.greenhouse.io/ionq/jobs/6140238004) · Louisville, Colorado / San Francisco, California · `🟡 Hybrid` `Staff` `$192k—$276k` `Equity` (Aug 11)
+
+---
+
+## <a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Juniper Networks](https://juniper.net)
+
+Juniper Networks makes Mist, an AI-native networking platform that improves connection reliability, measurability, and security for businesses.
+
+- [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2) · `🟢 Remote` `Senior` `$111k-$211k` (Aug 12)
 
 ---
 

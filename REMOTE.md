@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **252 open roles** (22 new)
+### **265 open roles** (26 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -57,6 +57,17 @@ _Design and build scalable marketplace systems for the Marketplace Health Engine
 `AWS` `Node.js` `TypeScript` `Kafka` `Distributed Systems` `Backend Services` `APIs` `SaaS`
 
 <sub>August 21, 2026 at 22:34 UTC</sub>
+
+---
+
+### [Product Security Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Design and architect network security patterns across CrowdStrike's hybrid cloud infrastructure (AWS, GCP, Azure, physical data centers) processing 3 trillion events daily. Build scalable monitoring, alerting, and automation solutions to identify security gaps, reduce attack surface, and establish zero-trust architecture at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)_
+
+`AWS` `GCP` `Azure` `Python` `Go` `Network Security` `Cloud Security` `Zero Trust Architecture`
+
+<sub>August 21, 2026 at 21:32 UTC</sub>
 
 ---
 
@@ -192,6 +203,17 @@ _Build Mercury's Infrastructure Platform to enable AI agents and engineers to sa
 
 ---
 
+### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+
+_Build and maintain security controls and tooling for CrowdStrike's software supply chain, focusing on open-source risk mitigation, GitHub organization hardening, and dependency security across the enterprise. Work at scale processing 3 trillion security events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)_
+
+`Python` `Golang` `Shell` `GitHub` `GitHub Actions` `Linux` `Supply Chain Security` `Open-source Security (SCA)`
+
+<sub>August 21, 2026 at 17:37 UTC</sub>
+
+---
+
 ### [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147300)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k–CAN$207k` `Equity`
 
@@ -255,6 +277,28 @@ _Lead the engineering team building code-native Webflow — a high-fidelity code
 `Compilers` `Code Generation` `Language Tooling` `Developer Infrastructure` `AI/Agentic Systems` `IDE Development`
 
 <sub>August 21, 2026 at 13:53 UTC</sub>
+
+---
+
+### [Software Engineer 3, Sensor - Platform API (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Design and implement cross-platform APIs and abstractions for the CrowdStrike Falcon Sensor across Windows, Linux, and macOS. Build shared on-sensor ML inference infrastructure enabling model deployment at global scale processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer-3--Sensor---Platform-API--Remote-_R29896)_
+
+`C` `C++` `Windows` `Linux` `macOS` `API Design` `ML Inference` `ABI Stability`
+
+<sub>August 21, 2026 at 07:51 UTC</sub>
+
+---
+
+### [Systems Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+
+_Engineer and maintain production systems infrastructure for large-scale distributed platforms processing 3 trillion events per day, including bare metal orchestration, Kubernetes container management, and automation across thousands of servers. Requires US citizenship or Green Card and periodic government background checks for work with government customers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877)_
+
+`Python` `Go` `Kubernetes` `OpenStack` `Ansible` `Chef` `GitLab CI/CD` `Jenkins`
+
+<sub>August 21, 2026 at 07:51 UTC</sub>
 
 ---
 
@@ -622,6 +666,17 @@ _Lead front end and full stack initiatives end-to-end for an e-commerce platform
 `JavaScript` `TypeScript` `React` `Shopify` `GraphQL` `Git` `GitHub Actions` `Accessibility`
 
 <sub>August 20, 2026 at 14:46 UTC</sub>
+
+---
+
+### [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Junior` `$70k-$95k` `Equity`
+
+_Build detection and response automation systems for CrowdStrike's security operations, processing 3 trillion events daily. Research attacker techniques and establish scalable detection coverage across enterprise infrastructure using data-driven security analytics. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320)_
+
+`Python` `GoLang` `Splunk` `LogScale` `Kubernetes` `Terraform` `SOAR` `SIEM`
+
+<sub>August 20, 2026 at 13:54 UTC</sub>
 
 ---
 
@@ -1310,6 +1365,28 @@ _Design and deploy production ML systems for risk assessment and underwriting in
 
 ---
 
+### [Staff AI Security Scientist](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Staff` `$235k-$350k` `Equity`
+
+_Lead the research agenda for agentic AI systems in cybersecurity, focusing on efficient model post-training, agent design, and rigorous evaluation methodologies. You'll advance the state of the art on open research problems spanning model optimization, reward modeling, and verification frameworks while partnering with security teams to ground research in real operator workflows. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827)_
+
+`Python` `PyTorch` `LLM Post-Training` `Reinforcement Learning` `Agent Design` `Evaluation Methodology` `TensorFlow` `JAX`
+
+<sub>August 15, 2026 at 01:44 UTC</sub>
+
+---
+
+### [Sr Engineer, SRE TechOps CICD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Own the availability and reliability of critical CI/CD and infrastructure services processing 3 trillion events daily, managing load balancers, databases (PostgreSQL, MySQL, Cassandra, MongoDB), message queues (Kafka, Pulsar, RabbitMQ), and caching layers at scale. Requires CJIS clearance and 10+ years large-scale production SRE experience with proven AI-assisted workflow integration. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733)_
+
+`Kubernetes` `Terraform` `Ansible` `Python` `Go` `Bash` `Datadog` `Prometheus`
+
+<sub>August 15, 2026 at 01:44 UTC</sub>
+
+---
+
 ### [Staff Software Quality Safety Operations Specialist](https://careers.withwaymo.com/jobs?gh_jid=7816014)
 <a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California / Remote · `🟢 Remote` `Staff` `$190k–$234k` `Equity`
 
@@ -1388,6 +1465,61 @@ _Build core product surfaces and backend systems for 1Password's password manage
 `Rust` `Go` `AWS` `CI/CD` `Testing Infrastructure`
 
 <sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Network Engineering Manager - Backbone and Cloud  (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Manager--Network-Engineering---Transport--Remote-_R29587)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Manager` `$140k-$215k` `Equity`
+
+_Lead a network engineering team building and operating large-scale IP and optical backbone infrastructure processing 3 trillion events per day across hybrid cloud environments (AWS, GCP, OCI). Requires expertise in hyper-scale networking technologies (DWDM, ROADM, MP-BGP, MPLS, Segment Routing) and eligible for CJIS clearance. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Manager--Network-Engineering---Transport--Remote-_R29587)_
+
+`DWDM` `ROADM` `MP-BGP` `MPLS` `Segment Routing` `Python` `Terraform` `CJIS Clearance`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Network Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Engineer-III---Network-Deployment-Engineer--Remote-_R29625)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Build and operate multi-vendor, multi-region hybrid cloud networks at hyperscale, processing trillions of events daily. Drive network automation initiatives using infrastructure-as-code and production code to improve deployment quality and velocity across FedRAMP-regulated environments. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Engineer-III---Network-Deployment-Engineer--Remote-_R29625)_
+
+`Ansible` `Terraform` `NETCONF/YANG` `gNMI/OpenConfig` `Python` `Go` `AWS` `GCP`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Data Scientist, Applied AI/ML](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Applied-AI-ML_R29843)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+
+_Lead the development of large-scale LLM applications and AI safety systems for cybersecurity threat detection, working hands-on with model training, post-training optimization, and production deployment. Position requires deep expertise in LLM scaling and GPU optimization across the platform processing 3 trillion security events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Applied-AI-ML_R29843)_
+
+`Python` `PyTorch` `TensorFlow` `LLM Training` `GPU Optimization` `CUDA` `Distributed Systems` `Machine Learning at Scale`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Sr. Data Scientist, Applied AI/ML](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Data-Scientist--Applied-AI-ML_R29842-1)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build production-grade LLM applications and AI safety systems for cybersecurity threat detection, leading research strategy and mentoring data scientists on large-scale model training, deployment, and evaluation. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Data-Scientist--Applied-AI-ML_R29842-1)_
+
+`Python` `PyTorch` `TensorFlow` `LLM Training` `GPU Optimization` `Distributed Systems` `Cloud Technologies` `Deep Learning`
+
+<sub>August 14, 2026 at 21:34 UTC</sub>
+
+---
+
+### [Sr. Network Development Engineer - IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Development-Engineer---IT-Cloud---Infrastructure--Remote-_R29738)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Staff` `$125k-$180k` `Equity`
+
+_Design and operate enterprise cloud architecture patterns, governance frameworks, and infrastructure-as-code standards across a 3-trillion-event-per-day global security platform. Lead cloud migration programs, multi-region networking design, and engineering enablement for infrastructure-as-code adoption at scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Network-Development-Engineer---IT-Cloud---Infrastructure--Remote-_R29738)_
+
+`AWS` `Terraform` `Kubernetes` `GitLab CI/CD` `Transit Gateway` `ArgoCD` `Helm` `Cisco Certifications`
+
+<sub>August 14, 2026 at 19:52 UTC</sub>
 
 ---
 
@@ -2801,6 +2933,17 @@ _Lead a team of 3+ data scientists and governance professionals to build and sca
 `Python` `PostgreSQL` `AWS` `SQL` `Model Risk Management` `Fair Lending` `Regulatory Compliance`
 
 <sub>August 8, 2026 at 14:40 UTC</sub>
+
+---
+
+### [Engineer II - Virtualization (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
+
+_Build and maintain virtualization infrastructure supporting thousands of VMs at scale, automating operations across open-source and VMware environments processing millions of daily events. Requires US citizenship or green card. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Engineer-II---Virtualization--Remote-_R29626)_
+
+`Python` `Go` `Chef` `Linux` `VMware` `Kubernetes` `Terraform`
+
+<sub>August 8, 2026 at 02:10 UTC</sub>
 
 ---
 
