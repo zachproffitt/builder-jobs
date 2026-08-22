@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **472 open roles** (29 new) &nbsp;·&nbsp; 1770 companies searched
+### **472 open roles** (24 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -36,10 +36,10 @@ _Design and build production-grade security services, automated policy enforceme
 
 ---
 
-### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
 
-_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
+_Build production-grade data and AI solutions embedded with enterprise customers, owning end-to-end architecture from data pipelines and ML models to application deployment on the Databricks platform. Requires 6+ years in data engineering or software engineering, deep Spark expertise, and ability to manage complex technical projects with C-suite stakeholders across multiple cloud platforms. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)_
 
 `Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
 
@@ -96,7 +96,7 @@ _Design and lead enterprise-wide Identity Governance and Administration solution
 ---
 
 ### [Product Security Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$120k-$180k` `Equity`
 
 _Design and architect network security patterns across CrowdStrike's hybrid cloud infrastructure (AWS, GCP, Azure, physical data centers) processing 3 trillion events daily. Build scalable monitoring, alerting, and automation solutions to identify security gaps, reduce attack surface, and establish zero-trust architecture at enterprise scale. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866)_
 
@@ -279,61 +279,6 @@ _Design and own broker-level success metrics, causal inference frameworks, and m
 `Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
 
 <sub>August 21, 2026 at 18:49 UTC</sub>
-
----
-
-### [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$100k-$145k` `Equity`
-
-_Build and maintain security controls and tooling for CrowdStrike's software supply chain, focusing on open-source risk mitigation, GitHub organization hardening, and dependency security across the enterprise. Work at scale processing 3 trillion security events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908)_
-
-`Python` `Golang` `Shell` `GitHub` `GitHub Actions` `Linux` `Supply Chain Security` `Open-source Security (SCA)`
-
-<sub>August 21, 2026 at 17:37 UTC</sub>
-
----
-
-### [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147300)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k–CAN$207k` `Equity`
-
-_Design and build Android applications for real-time shelf inventory management, including standalone scanning apps and Connected Stores integrations like Caper Carts. Set architectural direction for Android development across the Digital Twin Platform while collaborating with inventory intelligence, fulfillment, and hardware teams to deliver production-quality systems. · [Apply →](https://instacart.careers/job/?gh_jid=8147300)_
-
-`Kotlin` `Java` `Android SDK` `Jetpack` `MVVM` `Bluetooth` `NFC` `Camera APIs`
-
-<sub>August 21, 2026 at 17:37 UTC</sub>
-
----
-
-### [Forward Deployed Engineer](https://jobs.lever.co/loadsmart/152abf3a-d8b3-4289-b746-3c16dbabc703)
-<a href="https://loadsmart.com"><img src="https://www.google.com/s2/favicons?domain=loadsmart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Loadsmart** · `🟢 Remote` `Mid`
-
-_Build integrations and tune AI agents for freight logistics workflows, deploying AI-driven automation from the Loadsmart platform into production client environments. Bridge between platform engineers and operations stakeholders, handling real-world edge cases and feeding learnings back to the core platform. · [Apply →](https://jobs.lever.co/loadsmart/152abf3a-d8b3-4289-b746-3c16dbabc703)_
-
-`Python` `TypeScript` `API Integration` `Machine Learning` `Distributed Systems` `PostgreSQL` `AWS`
-
-<sub>August 21, 2026 at 17:37 UTC</sub>
-
----
-
-### [Autonomy Engineer, Ops Research (Senior - Principal)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218560007)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Senior` `$180k-$360k` `Equity`
-
-_Design and deploy optimization algorithms for autonomous spacecraft fleet planning, mission scheduling, and uncooperative rendezvous operations. Requires hands-on implementation across game theory, trajectory optimization, reinforcement learning, and distributed optimization for space domain applications with real-world operational constraints. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218560007)_
-
-`C++` `Python` `Reinforcement Learning` `Game Theory` `Mixed-Integer Programming` `Convex Optimization` `Trajectory Optimization` `Kalman Filtering`
-
-<sub>August 21, 2026 at 17:37 UTC</sub>
-
----
-
-### [Manager, Data Platform](https://www.zoominfo.com/careers?gh_jid=8730205002)
-**ZoomInfo** · `🟢 Remote` `Manager` `$140k-$220k` `Equity`
-
-_Lead architecture, strategy, and execution of a modern data platform built on Databricks, Snowflake, AWS, and Spark, serving analytics, ML, and AI workloads across the organization. Manage a team of data platform engineers while remaining hands-on in critical technical initiatives, architecture reviews, and complex troubleshooting. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8730205002)_
-
-`Databricks` `Snowflake` `AWS` `Spark` `dbt` `Airflow` `Fivetran` `Python`
-
-<sub>August 21, 2026 at 17:37 UTC</sub>
 
 ---
 
