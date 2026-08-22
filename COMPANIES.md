@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **148 companies** · **472 open roles** (31 new)
+### **148 companies** · **472 open roles** (29 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -283,7 +283,7 @@ ButterflyMX makes a property access system that allows users to view video feeds
 
 Carbon Direct offers carbon management services including carbon measurement, emissions reduction, and carbon removal solutions.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Full Stack Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007) · `🟢 Remote` `Staff` `$184k-$225k` (Aug 21)
+- [Staff Full Stack Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007) · `🟢 Remote` `Staff` `$184k-$225k` (Aug 21)
 
 ---
 
@@ -729,7 +729,7 @@ Juro provides a platform for teams to agree on and manage contracts end-to-end u
 
 Katalyst builds robotic spacecraft that perform operations such as maneuvering, upgrading, refueling, and exploration in space. The company develops foundational capabilities to enable sustained and responsive space operations.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Vice President of Engineering ](https://job-boards.greenhouse.io/katalyst/jobs/6144878004) · Broomfield, Colorado · `Manager` `$214k-$284k` `Equity` (Aug 21)
+- [Vice President of Engineering ](https://job-boards.greenhouse.io/katalyst/jobs/6144878004) · Broomfield, Colorado · `Manager` `$214k-$284k` `Equity` (Aug 21)
 - [Flight Software Engineer II, Space Systems ](https://job-boards.greenhouse.io/katalyst/jobs/6144881004) · Broomfield, Colorado · `Mid` `$115k-$155k` `Equity` (Aug 17)
 
 ---

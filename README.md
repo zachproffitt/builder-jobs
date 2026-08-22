@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **472 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **472 open roles** (29 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -334,28 +334,6 @@ _Lead architecture, strategy, and execution of a modern data platform built on D
 `Databricks` `Snowflake` `AWS` `Spark` `dbt` `Airflow` `Fivetran` `Python`
 
 <sub>August 21, 2026 at 17:37 UTC</sub>
-
----
-
-### [Staff Full Stack Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007)
-<a href="https://carbon-direct.com"><img src="https://www.google.com/s2/favicons?domain=carbon-direct.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Carbon Direct** · `🟢 Remote` `Staff` `$184k-$225k`
-
-_Build full-stack web applications and internal systems for a carbon management platform, shipping AI-augmented features from discovery through production at enterprise scale. Work in an ISO 27001 and SOC 2 compliant environment where data protection and auditability are built in from the start. · [Apply →](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007)_
-
-`Python` `JavaScript` `React` `PostgreSQL` `Kubernetes` `AWS` `AI/ML systems` `Distributed Systems`
-
-<sub>August 21, 2026 at 16:45 UTC</sub>
-
----
-
-### [Vice President of Engineering ](https://job-boards.greenhouse.io/katalyst/jobs/6144878004)
-<a href="https://katalyst.com"><img src="https://www.google.com/s2/favicons?domain=katalyst.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Katalyst** · Broomfield, Colorado · `Manager` `$214k-$284k` `Equity`
-
-_Lead the engineering organization building robotic spacecraft for orbital servicing, refueling, and resupply operations; own technical baselines, decision-making rigor, and multi-disciplinary integration across hardware and software. Requires direct spacecraft mission experience through on-orbit operations and ability to scale a deep-tech aerospace organization under ITAR restrictions. · [Apply →](https://job-boards.greenhouse.io/katalyst/jobs/6144878004)_
-
-`Aerospace Systems Engineering` `Spacecraft Architecture` `GNC` `Configuration Management` `ITAR Compliance`
-
-<sub>August 21, 2026 at 16:45 UTC</sub>
 
 ---
 

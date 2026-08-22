@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **472 open roles** (31 new) &nbsp;·&nbsp; 1770 companies searched
+### **472 open roles** (29 new) &nbsp;·&nbsp; 1770 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,28 @@ Remote and Colorado engineering roles posted more than 24 hours ago. Listings ar
 <br>
 
 ## August 21, 2026
+
+### [Staff Full Stack Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007)
+<a href="https://carbon-direct.com"><img src="https://www.google.com/s2/favicons?domain=carbon-direct.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Carbon Direct** · `🟢 Remote` `Staff` `$184k-$225k`
+
+_Build full-stack web applications and internal systems for a carbon management platform, shipping AI-augmented features from discovery through production at enterprise scale. Work in an ISO 27001 and SOC 2 compliant environment where data protection and auditability are built in from the start. · [Apply →](https://job-boards.greenhouse.io/carbondirect/jobs/5216848007)_
+
+`Python` `JavaScript` `React` `PostgreSQL` `Kubernetes` `AWS` `AI/ML systems` `Distributed Systems`
+
+<sub>August 21, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Vice President of Engineering ](https://job-boards.greenhouse.io/katalyst/jobs/6144878004)
+<a href="https://katalyst.com"><img src="https://www.google.com/s2/favicons?domain=katalyst.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Katalyst** · Broomfield, Colorado · `Manager` `$214k-$284k` `Equity`
+
+_Lead the engineering organization building robotic spacecraft for orbital servicing, refueling, and resupply operations; own technical baselines, decision-making rigor, and multi-disciplinary integration across hardware and software. Requires direct spacecraft mission experience through on-orbit operations and ability to scale a deep-tech aerospace organization under ITAR restrictions. · [Apply →](https://job-boards.greenhouse.io/katalyst/jobs/6144878004)_
+
+`Aerospace Systems Engineering` `Spacecraft Architecture` `GNC` `Configuration Management` `ITAR Compliance`
+
+<sub>August 21, 2026 at 16:45 UTC</sub>
+
+---
 
 ### [Senior Software Development Engineer - Agent Identity & Core Primitives](https://jobs.ashbyhq.com/delinea/e2017264-990f-458b-b8e2-4b434a97afb5)
 <a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
@@ -3189,23 +3211,23 @@ _Build data infrastructure and pipelines supporting financial services platforms
 
 ---
 
-### [Test Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Test-Engineer_R0245588)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
-
-_Build and execute comprehensive test plans and automation for radar systems tracking satellites and space debris for the U.S. Space Force. Requires Top Secret clearance and 5+ years software/hardware testing experience in defense or space domain awareness. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Test-Engineer_R0245588)_
-
-`Test Automation` `Requirements Verification` `System Integration Testing` `Software Testing` `Hardware Testing` `Modeling and Simulation` `Agile` `CompTIA Security+`
-
-<sub>August 12, 2026 at 17:08 UTC</sub>
-
----
-
 ### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8126023)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$188k—$198k` `Equity`
 
 _Build and own financial data integration pipelines and warehouse models supporting monthly/quarterly book close, retailer invoicing, and financial reporting across Instacart's products. Shape the finance data strategy and platform from design through execution for a small, high-ownership team; requires expertise in complex financial data modeling and SOX-controlled systems. · [Apply →](https://instacart.careers/job/?gh_jid=8126023)_
 
 `Python` `Airflow` `Spark` `Snowflake` `dbt` `SQL` `Iceberg` `Delta Lake`
+
+<sub>August 12, 2026 at 17:08 UTC</sub>
+
+---
+
+### [Test Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Test-Engineer_R0245588)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
+
+_Build and execute comprehensive test plans and automation for radar systems tracking satellites and space debris for the U.S. Space Force. Requires Top Secret clearance and 5+ years software/hardware testing experience in defense or space domain awareness. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Test-Engineer_R0245588)_
+
+`Test Automation` `Requirements Verification` `System Integration Testing` `Software Testing` `Hardware Testing` `Modeling and Simulation` `Agile` `CompTIA Security+`
 
 <sub>August 12, 2026 at 17:08 UTC</sub>
 
@@ -3502,17 +3524,6 @@ _Architect and build certificate lifecycle management systems spanning discovery
 
 ---
 
-### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
-<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
-
-_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
-
-`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
 ### [Principal UX Engineer, Ads](https://job-boards.greenhouse.io/reddit/jobs/8122887)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Principal` `$245k–$344k` `Equity`
 
@@ -3541,6 +3552,17 @@ _Drive GenAI-powered recommendation and feed ranking systems leveraging Reddit's
 _Develop and analyze launch vehicle and spacecraft trajectories for Earth orbiting, lunar, and interplanetary missions; perform orbital propagation, rendezvous planning, and collision avoidance design. Requires U.S. citizenship and security clearance eligibility for ITAR-regulated aerospace work. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7856496003)_
 
 `Python` `STK` `GMAT` `Astrogator` `Git` `Orbital Mechanics` `Monte Carlo Simulation` `TS/SCI Clearance`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
+
+_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
+
+`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -3816,17 +3838,6 @@ _Architect and operate multi-cloud infrastructure (AWS, Azure) across classified
 
 ---
 
-### [Engineering Manager, AI Platform](https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007)
-<a href="https://vannevarlabs.com"><img src="https://www.google.com/s2/favicons?domain=vannevarlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vannevar Labs** · `🟢 Remote` `Manager`
-
-_Lead the AI Platform organization building machine learning pipelines, agent runtime systems, and shared infrastructure for agentic AI products used in national security missions. Requires hands-on ML and agentic AI production experience, ability to set platform strategy across data/ML/agents/cloud, and track record managing high-performing engineering teams; U.S. citizenship required. · [Apply →](https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007)_
-
-`Python` `PostgreSQL` `AWS` `Machine Learning` `Agentic AI Systems` `LLM Product Development` `Distributed Systems` `Workflow Orchestration`
-
-<sub>August 10, 2026 at 21:52 UTC</sub>
-
----
-
 ### [Senior Manager, Systems Engineering](https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4)
 <a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Manager` `Equity`
 
@@ -3844,6 +3855,17 @@ _Lead Corporate Engineering's systems team to build and own critical internal in
 _Lead the internal AI platform infrastructure team at Vanta, owning the identity, cost attribution, MCP governance, and enablement layers that let the company adopt AI safely and cost-effectively across 1,500+ employees. Requires hands-on technical depth in LLM tooling, agent architecture, and OAuth paired with the scope-holding and cross-functional influence to coordinate product AI, security, data, and finance teams without direct authority. · [Apply →](https://jobs.ashbyhq.com/vanta/0efec8d2-094a-421d-bca6-1fa0da5ca5a0)_
 
 `LLM Platforms` `OAuth` `Infrastructure as Code` `Agent Architecture` `MCP` `Cost Attribution` `Data Governance` `Kubernetes`
+
+<sub>August 10, 2026 at 21:52 UTC</sub>
+
+---
+
+### [Engineering Manager, AI Platform](https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007)
+<a href="https://vannevarlabs.com"><img src="https://www.google.com/s2/favicons?domain=vannevarlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vannevar Labs** · `🟢 Remote` `Manager`
+
+_Lead the AI Platform organization building machine learning pipelines, agent runtime systems, and shared infrastructure for agentic AI products used in national security missions. Requires hands-on ML and agentic AI production experience, ability to set platform strategy across data/ML/agents/cloud, and track record managing high-performing engineering teams; U.S. citizenship required. · [Apply →](https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007)_
+
+`Python` `PostgreSQL` `AWS` `Machine Learning` `Agentic AI Systems` `LLM Product Development` `Distributed Systems` `Workflow Orchestration`
 
 <sub>August 10, 2026 at 21:52 UTC</sub>
 
@@ -3992,23 +4014,23 @@ _Design and implement backend features for GitLab's work items platform, includi
 
 ---
 
-### [Data Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0247079)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
-
-_Build advanced analytics and AI/ML systems for defense and intelligence clients, particularly leveraging LLMs and agentic AI for data retrieval, modeling, and analysis on classified networks. Requires active TS/SCI clearance and ability to work with sensitive government data. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0247079)_
-
-`Python` `R` `SQL` `Spark` `Kafka` `PyTorch` `TensorFlow` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 17:02 UTC</sub>
-
----
-
 ### [Senior Software Engineer, Marketing Platform Tooling](https://instacart.careers/job/?gh_jid=8119683)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · Remote (Ontario, Alberta, British Columbia, Nova Scotia) · `🟢 Remote` `Senior` `CAD$168k–$177k` `Equity`
 
 _Build and own the backend systems for Instacart's Targeting Platform and CRM Messaging Service, handling 46,000+ segment definitions and 8 million messages daily; architect the new Unified Marketing Backend as a shared composable foundation for the entire marketing platform. High-ownership role requiring end-to-end ownership of critical platform capabilities including real-time targeting, API integrations, and cross-retailer expansion to 80+ partners. · [Apply →](https://instacart.careers/job/?gh_jid=8119683)_
 
 `Ruby` `Python` `Go` `Rails` `Pandas` `PostgreSQL` `DynamoDB` `Snowflake`
+
+<sub>August 10, 2026 at 17:02 UTC</sub>
+
+---
+
+### [Data Scientist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0247079)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$99k-$225k`
+
+_Build advanced analytics and AI/ML systems for defense and intelligence clients, particularly leveraging LLMs and agentic AI for data retrieval, modeling, and analysis on classified networks. Requires active TS/SCI clearance and ability to work with sensitive government data. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Senior_R0247079)_
+
+`Python` `R` `SQL` `Spark` `Kafka` `PyTorch` `TensorFlow` `TS/SCI Clearance`
 
 <sub>August 10, 2026 at 17:02 UTC</sub>
 
@@ -4080,23 +4102,23 @@ _Lead the Abuse Research Group at Stripe, managing threat intelligence analysts 
 
 ---
 
-### [Data Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Mid` `$61.9k-$141k`
-
-_Build scalable data pipelines to ingest, transform, and normalize multi-domain, multi-classification data sources for high-fidelity space operations simulations supporting USSPACECOM. Requires TS/SCI clearance and involves integrating disparate APIs into structured schemas for downstream analytics and mission-critical modeling. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)_
-
-`Python` `Java` `C++` `SQL` `Apache Kafka` `Apache Spark` `Palantir Foundry` `TS/SCI Clearance`
-
-<sub>August 10, 2026 at 15:09 UTC</sub>
-
----
-
 ### [Staff Software Engineer, Orders Platform](https://instacart.careers/job/?gh_jid=8110286)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Staff` `$221k-$279.5k` `Equity`
 
 _Lead architectural evolution of the Orders Platform, a critical orchestration layer handling hundreds of millions of transactions annually across customers, shoppers, retailers, and partners. Drive distributed order workflow systems with event-driven patterns, state machines, and multi-tenant abstractions while ensuring payment integrity, correctness, and auditability at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8110286)_
 
 `Go` `Java` `Python` `Kafka` `PostgreSQL` `NoSQL` `Distributed Systems` `Event-Driven Architecture`
+
+<sub>August 10, 2026 at 15:09 UTC</sub>
+
+---
+
+### [Data Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Mid` `$61.9k-$141k`
+
+_Build scalable data pipelines to ingest, transform, and normalize multi-domain, multi-classification data sources for high-fidelity space operations simulations supporting USSPACECOM. Requires TS/SCI clearance and involves integrating disparate APIs into structured schemas for downstream analytics and mission-critical modeling. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-Engineer_R0246414)_
+
+`Python` `Java` `C++` `SQL` `Apache Kafka` `Apache Spark` `Palantir Foundry` `TS/SCI Clearance`
 
 <sub>August 10, 2026 at 15:09 UTC</sub>
 
