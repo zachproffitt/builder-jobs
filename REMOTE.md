@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **299 open roles** (2 new)
+### **300 open roles** (2 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -68,6 +68,17 @@ _Design and build scalable marketplace systems for the Marketplace Health Engine
 `AWS` `Node.js` `TypeScript` `Kafka` `Distributed Systems` `Backend Services` `APIs` `SaaS`
 
 <sub>August 21, 2026 at 22:34 UTC</sub>
+
+---
+
+### [Sr. IT Solution Architect, Access Automation](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-IT-Solution-Architect--Access-Automation_REQ23976-1)
+<a href="https://biogen.com"><img src="https://www.google.com/s2/favicons?domain=biogen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Biogen** · `🟢 Remote` `Senior` `$133k-$178k` `Equity`
+
+_Design and lead enterprise-wide Identity Governance and Administration solutions using SailPoint Identity Security Cloud, integrating with Active Directory, HR systems (Workday), ERP (Oracle), and cloud applications. Requires 6+ years of hands-on SailPoint expertise and delivery of large-scale IAM transformation programs in a regulated (GxP/SOX) pharma environment. · [Apply →](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Sr-IT-Solution-Architect--Access-Automation_REQ23976-1)_
+
+`SailPoint Identity Security Cloud` `Identity Governance and Administration` `Active Directory` `Azure AD` `Java` `BeanShell` `ServiceNow` `REST APIs`
+
+<sub>August 21, 2026 at 21:32 UTC</sub>
 
 ---
 
