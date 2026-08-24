@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **485 open roles** (28 new) &nbsp;·&nbsp; 1771 companies searched
+### **499 open roles** (37 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,105 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [2027 Systems Engineering Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4376394009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$26-$35/hour`
+
+_Support systems engineering activities for spacecraft and lunar mission development, including requirements management, architecture design, and integration/verification work. Real-world experience on NASA CAPSTONE and AFRL Oracle missions. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376394009)_
+
+`Systems Engineering` `Requirements Management` `MATLAB` `Python` `Mission Architecture` `Spacecraft Systems` `Orbital Mechanics`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [Cloud and DevOps Engineer (5–8 yrs)](https://job-boards.greenhouse.io/advancedspace/jobs/4376621009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `🟡 Hybrid` `Senior` `$116k-$150k` `Equity`
+
+_Architect and maintain secure, scalable AWS cloud infrastructure and CI/CD pipelines supporting NASA and national security space missions. Requires ability to obtain security clearance and work on-site in Westminster, CO 3–5 days/week. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376621009)_
+
+`AWS` `Terraform` `Kubernetes` `Docker` `Python` `Bash` `Ansible` `GitLab`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [IT Systems Engineer, Mobile Client Platform Engineer ](https://job-boards.greenhouse.io/anthropic/jobs/5396384008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Boston, Massachusetts / Seattle, Washington / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Senior` `$285k-$325k` `Equity`
+
+_Design and build a global corporate-issued mobile device program from scratch, managing device enrollment, policy-as-code, fleet telemetry, and MDM infrastructure across multiple regions at thousands-of-devices scale. Requires deep iOS platform expertise, self-hosted MDM infrastructure experience, and multi-region logistics ownership. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5396384008)_
+
+`Python` `Bash` `iOS Platform Internals` `Android Platform Internals` `Jamf` `Terraform` `AWS` `GitOps`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [Software Development Engineer in Test (SDET) with a Performance Focus](https://job-boards.greenhouse.io/cayuse/jobs/8743421002)
+<a href="https://cayuse.com"><img src="https://www.google.com/s2/favicons?domain=cayuse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cayuse** · `🟢 Remote` `Mid`
+
+_Build and maintain performance testing frameworks and automated test infrastructure for research management platforms, evaluating reliability, scalability, and responsiveness under varying load conditions. Design end-to-end test strategies across functional automation, load testing, stress testing, and scalability testing while collaborating with engineering teams to identify and resolve performance bottlenecks. · [Apply →](https://job-boards.greenhouse.io/cayuse/jobs/8743421002)_
+
+`k6` `Playwright` `Python` `Java` `TypeScript` `Postman` `Jenkins` `Grafana`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [Principal Incident Response Security Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Incident-Response-Security-Engineer_R0061881)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Principal` `$138k-$200.1k`
+
+_Lead enterprise incident response operations—design detection and automation frameworks, conduct forensic investigations, and mentor security analysts across a financial services environment. Requires CISSP certification and hands-on technical depth in EDR, SIEM, and cloud security at scale; on-call incident response rotation expected. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Incident-Response-Security-Engineer_R0061881)_
+
+`Python` `PowerShell` `AWS` `EDR` `SIEM` `Incident Response` `CISSP` `Terraform`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Data Warehouse Foundation ](https://www.pinterestcareers.com/jobs/?gh_jid=8076015)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Palo Alto, California / Remote · `🟢 Remote` `Staff` `$177k–$364k` `Equity`
+
+_Design and lead Pinterest's exadata-scale data warehouse architecture, storage patterns, and access infrastructure while building agentic analytical tools that accelerate data-driven decision-making across the company. Requires hands-on expertise in large-scale data platforms (Spark, Trino, Flink, Airflow) and AI-assisted development tooling. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8076015)_
+
+`Spark` `Trino` `Flink` `Airflow` `Python` `SQL` `Distributed Systems`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Storage Services](https://www.pinterestcareers.com/jobs/?gh_jid=8047425)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$177k-$364k` `Equity`
+
+_Lead the design and evolution of Pinterest's distributed SQL and graph storage platform serving 100TB+ datasets and 1.5M+ queries per second. Drive technical strategy for modernizing the storage stack, improve query performance at massive scale, and mentor senior engineers building infrastructure for business-critical applications. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8047425)_
+
+`Java` `Python` `C++` `Distributed SQL` `TiDB` `Graph Databases` `Distributed Systems` `Performance Engineering`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Foundations](https://jobs.ashbyhq.com/vanta/87d75493-1d6e-490e-b5ac-d807f5fb5621)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Staff` `Equity`
+
+_Lead the migration of Vanta's resource data platform from MongoDB to PostgreSQL while running both systems in parallel, preserving all public APIs and customer data integrity. Design distributed data ingestion pipelines processing terabyte-scale compliance streams with correctness guarantees suitable for SOC 2 and FedRAMP audits. · [Apply →](https://jobs.ashbyhq.com/vanta/87d75493-1d6e-490e-b5ac-d807f5fb5621)_
+
+`PostgreSQL` `MongoDB` `Kafka` `TypeScript` `Node.js` `AWS` `Redis` `Distributed Systems`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
+
+### [Curam Solution Architects](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Ottawa/Curam-Solution-Architects_R00350736)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$108k-$220k CAD`
+
+_Design and oversee implementation of Curam Social Program Management solutions, leading architecture decisions and technical standards for large-scale government service delivery platforms. Requires hands-on Curam expertise and Reliability security clearance. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Ottawa/Curam-Solution-Architects_R00350736)_
+
+`Curam` `Java` `J2EE` `SQL` `Rational Application Developer (RAD)` `Oracle Service Bus` `Curam Technical Certification`
+
+<sub>August 24, 2026 at 21:37 UTC</sub>
+
+---
 
 ### [2027 DevOps Summer Internship ](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)
 <a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$26-$35/hr`
@@ -288,7 +387,7 @@ _Build and maintain core Ubuntu and open source infrastructure across the full s
 ---
 
 ### [Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
 
 _Build and operate cloud networking infrastructure across multi-region AWS environments, including Transit Gateway, VPC patterns, and hybrid connectivity supporting CrowdStrike's global security platform processing 3 trillion events daily. Work with infrastructure-as-code, Terraform, and Kubernetes to implement scalable, secure patterns across a mission-critical, high-growth environment. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)_
 
@@ -299,7 +398,7 @@ _Build and operate cloud networking infrastructure across multi-region AWS envir
 ---
 
 ### [Sr. Linux Systems Engineer - Object Storage (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Design, build, and operate a custom S3-compatible object storage infrastructure spanning 3,000+ Linux servers across hybrid cloud environments, handling 3 trillion events per day. Requires US citizenship or green card; will mentor junior engineers and lead cross-functional technical initiatives. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)_
 
