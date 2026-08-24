@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **454 open roles** (18 new) &nbsp;·&nbsp; 1771 companies searched
+### **483 open roles** (20 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [Staff Software Engineer, Applied AI](https://job-boards.greenhouse.io/parachutehealth/jobs/5220321007)
+<a href="https://parachute.com"><img src="https://www.google.com/s2/favicons?domain=parachute.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Parachute Health** · `🟢 Remote` `Staff` `$200k-$260k` `Equity`
+
+_Design and build agentic LLM pipelines and full-stack product features (Python/FastAPI backend, TypeScript/React frontend) across Parachute's AI-powered medical equipment ordering platform. Ship reliable production AI workflows with strong evaluation frameworks, observability, and prompt iteration; requires 5+ years experience shipping end-to-end features in fast-paced 0-to-1 environments. · [Apply →](https://job-boards.greenhouse.io/parachutehealth/jobs/5220321007)_
+
+`Python` `FastAPI` `TypeScript` `React` `LangGraph` `LLM evaluation` `Prompt engineering` `AI-powered coding tools`
+
+<sub>August 24, 2026 at 19:37 UTC</sub>
+
+---
 
 ### [Senior Web Developer](https://jobs.ashbyhq.com/horizon3ai/d51d66d3-3d79-4a46-9fac-7ccd22347f87)
 <a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$160k-$189k` `Equity`
@@ -75,6 +86,17 @@ _Build and operate detection systems that identify threats across Instacart's cl
 _Implement and configure RingCentral Contact Center solutions (RingCX, RCCC) end-to-end for enterprise customers, including IVR/ACD routing, PBX/CTI integration, and AI-powered features. Integrate with Salesforce, ServiceNow, Zendesk, and other platforms via REST APIs; manage concurrent projects across geographies with minimal oversight. · [Apply →](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Professional-Services-Contact-Center-Engineer_R078454)_
 
 `JavaScript` `REST APIs` `IVR` `ACD` `CTI` `PBX` `VoIP` `Salesforce`
+
+<sub>August 24, 2026 at 16:49 UTC</sub>
+
+---
+
+### [Software Solutions Architect, NVIS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Software-Solutions-Architect--NVIS_JR2019884-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$152k-$287.5k` `Equity`
+
+_Build agentic AI solutions and LLM-powered agents for NVIS Central, an internal platform that automates delivery workflows, project visibility, and operational tasks across NVIDIA's infrastructure. Work with retrieval-augmented generation, multi-agent orchestration, function calling, and enterprise system integrations at scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Software-Solutions-Architect--NVIS_JR2019884-1)_
+
+`Python` `LLM` `RAG` `Agentic AI` `REST APIs` `Docker` `Kubernetes` `SQL`
 
 <sub>August 24, 2026 at 16:49 UTC</sub>
 
@@ -178,7 +200,7 @@ _Build and maintain core Ubuntu and open source infrastructure across the full s
 ---
 
 ### [Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
 
 _Build and operate cloud networking infrastructure across multi-region AWS environments, including Transit Gateway, VPC patterns, and hybrid connectivity supporting CrowdStrike's global security platform processing 3 trillion events daily. Work with infrastructure-as-code, Terraform, and Kubernetes to implement scalable, secure patterns across a mission-critical, high-growth environment. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)_
 
@@ -189,7 +211,7 @@ _Build and operate cloud networking infrastructure across multi-region AWS envir
 ---
 
 ### [Sr. Linux Systems Engineer - Object Storage (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Design, build, and operate a custom S3-compatible object storage infrastructure spanning 3,000+ Linux servers across hybrid cloud environments, handling 3 trillion events per day. Requires US citizenship or green card; will mentor junior engineers and lead cross-functional technical initiatives. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)_
 
