@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **467 open roles** (3 new) &nbsp;·&nbsp; 1771 companies searched
+### **468 open roles** (4 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/8142329)
+<a href="https://canonical.com"><img src="https://www.google.com/s2/favicons?domain=canonical.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Canonical** · `🟢 Remote` `Junior`
+
+_Build and maintain core Ubuntu and open source infrastructure across the full stack—from BIOS and kernel to cloud platforms and desktop applications. Work on systems serving millions of users in enterprise, cloud, AI, and IoT, with exposure to kernel development, packaging, security, and compilers across Python, Rust, C/C++, Go, and JavaScript. · [Apply →](https://job-boards.greenhouse.io/canonical/jobs/8142329)_
+
+`Python` `Rust` `C/C++` `Go` `JavaScript` `Linux` `Ubuntu` `Kubernetes`
+
+<sub>August 24, 2026 at 09:57 UTC</sub>
+
+---
 
 ### [Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)
 <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
