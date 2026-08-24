@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **499 open roles** (37 new) &nbsp;·&nbsp; 1771 companies searched
+### **498 open roles** (38 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [Business Intelligence Engineer II](https://jobs.ashbyhq.com/kafene/be1109d1-7ee9-47e8-9ff6-e65515dcb736)
+<a href="https://kafene.com"><img src="https://www.google.com/s2/favicons?domain=kafene.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kafene** · `🟢 Remote` `Mid` `$130k-$150k`
+
+_Build and maintain data warehouses, ETL pipelines, and BI dashboards that power real-time decision-making across Kafene's lease-to-own platform processing 20,000+ data inputs. Work with AWS, Snowflake, and Python to extract, integrate, and analyze critical business data for Risk, Technology, Sales, and Product teams. · [Apply →](https://jobs.ashbyhq.com/kafene/be1109d1-7ee9-47e8-9ff6-e65515dcb736)_
+
+`SQL` `Python` `Snowflake` `AWS` `ETL` `dbt` `Tableau`
+
+<sub>August 24, 2026 at 22:36 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Maps Services](https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k–$290k` `Equity`
+
+_Build the geospatial data platform that powers location-aware features across Samsara's IoT operations cloud—ingesting, enriching, and serving map data via APIs used by internal product teams. Scale distributed systems handling real-time geospatial queries and consolidate team-specific solutions into a company-wide platform. · [Apply →](https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269)_
+
+`Geospatial data` `PostGIS` `PostgreSQL` `Distributed Systems` `Python` `Data pipelines` `GeoParquet` `OpenStreetMap`
+
+<sub>August 24, 2026 at 22:36 UTC</sub>
+
+---
 
 ### [2027 Systems Engineering Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4376394009)
 <a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$26-$35/hour`
@@ -387,7 +409,7 @@ _Build and maintain core Ubuntu and open source infrastructure across the full s
 ---
 
 ### [Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
 
 _Build and operate cloud networking infrastructure across multi-region AWS environments, including Transit Gateway, VPC patterns, and hybrid connectivity supporting CrowdStrike's global security platform processing 3 trillion events daily. Work with infrastructure-as-code, Terraform, and Kubernetes to implement scalable, secure patterns across a mission-critical, high-growth environment. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)_
 
@@ -398,28 +420,13 @@ _Build and operate cloud networking infrastructure across multi-region AWS envir
 ---
 
 ### [Sr. Linux Systems Engineer - Object Storage (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Design, build, and operate a custom S3-compatible object storage infrastructure spanning 3,000+ Linux servers across hybrid cloud environments, handling 3 trillion events per day. Requires US citizenship or green card; will mentor junior engineers and lead cross-functional technical initiatives. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)_
 
 `Linux` `Kubernetes` `AWS S3` `Python` `Go` `Chef` `Ansible` `Prometheus`
 
 <sub>August 24, 2026 at 07:14 UTC</sub>
-
----
-
-<br>
-
-## August 23, 2026
-
-### [Staff Software Engineer- Retirement](https://job-boards.greenhouse.io/gusto/jobs/8121732)
-<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$163k-$204k (Denver & remote), $197k-$247k (San Francisco & New York)` `Equity`
-
-_Build and own end-to-end services and APIs powering 401(k) management for tens of thousands of small businesses, handling complex financial regulations and retirement infrastructure at scale. Partner with product, compliance, and operations to ship production code while maintaining high reliability for hundreds of thousands of people's retirement savings. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8121732)_
-
-`Ruby on Rails` `React` `GraphQL` `Sidekiq` `PostgreSQL` `AWS` `Redis` `RSpec`
-
-<sub>August 23, 2026 at 23:29 UTC</sub>
 
 ---
 
