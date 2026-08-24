@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **452 open roles** (15 new) &nbsp;·&nbsp; 1771 companies searched
+### **454 open roles** (18 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [Senior Web Developer](https://jobs.ashbyhq.com/horizon3ai/d51d66d3-3d79-4a46-9fac-7ccd22347f87)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$160k-$189k` `Equity`
+
+_Build and maintain the Horizon3 marketing website in WordPress, owning front-end development, page performance, conversion optimization, and technical SEO to drive enterprise pipeline. Own site speed, Core Web Vitals, analytics tracking, accessibility compliance, and A/B testing on a high-conversion B2B SaaS marketing property. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/d51d66d3-3d79-4a46-9fac-7ccd22347f87)_
+
+`WordPress` `HTML` `CSS` `JavaScript` `Google Tag Manager` `Google Analytics` `Git` `Figma`
+
+<sub>August 24, 2026 at 18:52 UTC</sub>
+
+---
+
+### [Principal Data Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Principal` `$200k-$290k` `Equity`
+
+_Design and build scalable enterprise data platforms supporting batch, streaming, analytics, and AI/ML workloads for autonomous spacecraft and space-based defense systems. ITAR-regulated defense contractor; U.S. citizenship or equivalent authorization required. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007)_
+
+`Python` `SQL` `Snowflake` `Databricks` `Redshift` `AWS` `dbt` `Airflow`
+
+<sub>August 24, 2026 at 18:52 UTC</sub>
+
+---
 
 ### [Security Engineer ](https://job-boards.greenhouse.io/chainguard/jobs/4707450006)
 <a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Mid` `$105k-$123k` `Equity`
@@ -36,12 +58,12 @@ _Design and implement solutions for Honeycomb's query and data storage infrastru
 
 ---
 
-### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154300)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154308)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k-$207k` `Equity`
 
-_Build and operate detection systems across Instacart's cloud-native infrastructure to identify and respond to security threats at scale. Develop detection-as-code logic for endpoint, cloud, container, and SaaS telemetry; hunt novel attacker techniques; and mentor detection engineers on forensic investigation and threat response. · [Apply →](https://instacart.careers/job/?gh_jid=8154300)_
+_Build and operate detection systems that identify threats across Instacart's cloud-native platform, developing high-fidelity detection logic, automating response workflows, and hunting novel attacker techniques across endpoint, cloud, container, and SaaS environments. Requires deep expertise in cloud security, macOS internals, and detection-as-code practices in a complex, high-scale environment. · [Apply →](https://instacart.careers/job/?gh_jid=8154308)_
 
-`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `Detection-as-Code` `Incident Response`
+`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `detection-as-code` `macOS internals`
 
 <sub>August 24, 2026 at 16:49 UTC</sub>
 
@@ -58,23 +80,23 @@ _Implement and configure RingCentral Contact Center solutions (RingCX, RCCC) end
 
 ---
 
-### [Software Solutions Architect, NVIS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Software-Solutions-Architect--NVIS_JR2019884-1)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$152k-$287.5k` `Equity`
-
-_Build agentic AI solutions and LLM-powered agents for NVIS Central, an internal platform that automates delivery workflows, project visibility, and operational tasks across NVIDIA's infrastructure. Work with retrieval-augmented generation, multi-agent orchestration, function calling, and enterprise system integrations at scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Software-Solutions-Architect--NVIS_JR2019884-1)_
-
-`Python` `LLM` `RAG` `Agentic AI` `REST APIs` `Docker` `Kubernetes` `SQL`
-
-<sub>August 24, 2026 at 16:49 UTC</sub>
-
----
-
 ### [Product Engineer - Manufacturing Operations](https://job-boards.greenhouse.io/anthropic/jobs/5399162008)
 <a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · `🟢 Remote` `Senior` `$320k-$405k` `Equity`
 
 _Own manufacturing quality and yield for custom AI accelerator hardware from early evaluation through mass production at ODM partners. Travel up to 50% to partner factories in the US and internationally to debug test failures, qualify new components, drive corrective actions, and scale production across multiple manufacturing sites. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5399162008)_
 
 `DFM` `FMEA` `SPC` `8D Root Cause Analysis` `Test Planning` `Manufacturing Process Design` `Supply Chain & Component Qualification` `Liquid-Cooled Systems`
+
+<sub>August 24, 2026 at 15:49 UTC</sub>
+
+---
+
+### [Manager - Developer Productivity, AI Tools](https://job-boards.greenhouse.io/gusto/jobs/8120017)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `$240k-$260k / $290k-$305k` `Equity`
+
+_Lead the engineering team building Gusto's agentic coding platform — including agent runtimes, automated code review, and CI/security infrastructure — making autonomy and risk tradeoff decisions on AI systems while owning the technical strategy end-to-end. Requires daily hands-on experience with agentic coding tools (Claude Code, Cursor, etc.) and comfort making security posture decisions without a dedicated security team. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8120017)_
+
+`Agentic AI Systems` `Claude Code / Cursor` `AI Infrastructure` `Security Architecture` `Vendor Contract Negotiation`
 
 <sub>August 24, 2026 at 15:49 UTC</sub>
 
@@ -156,7 +178,7 @@ _Build and maintain core Ubuntu and open source infrastructure across the full s
 ---
 
 ### [Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
 
 _Build and operate cloud networking infrastructure across multi-region AWS environments, including Transit Gateway, VPC patterns, and hybrid connectivity supporting CrowdStrike's global security platform processing 3 trillion events daily. Work with infrastructure-as-code, Terraform, and Kubernetes to implement scalable, secure patterns across a mission-critical, high-growth environment. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)_
 
@@ -167,13 +189,28 @@ _Build and operate cloud networking infrastructure across multi-region AWS envir
 ---
 
 ### [Sr. Linux Systems Engineer - Object Storage (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Design, build, and operate a custom S3-compatible object storage infrastructure spanning 3,000+ Linux servers across hybrid cloud environments, handling 3 trillion events per day. Requires US citizenship or green card; will mentor junior engineers and lead cross-functional technical initiatives. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)_
 
 `Linux` `Kubernetes` `AWS S3` `Python` `Go` `Chef` `Ansible` `Prometheus`
 
 <sub>August 24, 2026 at 07:14 UTC</sub>
+
+---
+
+<br>
+
+## August 23, 2026
+
+### [Staff Software Engineer- Retirement](https://job-boards.greenhouse.io/gusto/jobs/8121732)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$163k-$204k (Denver & remote), $197k-$247k (San Francisco & New York)` `Equity`
+
+_Build and own end-to-end services and APIs powering 401(k) management for tens of thousands of small businesses, handling complex financial regulations and retirement infrastructure at scale. Partner with product, compliance, and operations to ship production code while maintaining high reliability for hundreds of thousands of people's retirement savings. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8121732)_
+
+`Ruby on Rails` `React` `GraphQL` `Sidekiq` `PostgreSQL` `AWS` `Redis` `RSpec`
+
+<sub>August 23, 2026 at 23:29 UTC</sub>
 
 ---
 
