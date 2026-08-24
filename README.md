@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **442 open roles** (8 new) &nbsp;·&nbsp; 1771 companies searched
+### **475 open roles** (12 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [Product Engineer - Manufacturing Operations](https://job-boards.greenhouse.io/anthropic/jobs/5399162008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · `🟢 Remote` `Senior` `$320k-$405k` `Equity`
+
+_Own manufacturing quality and yield for custom AI accelerator hardware from early evaluation through mass production at ODM partners. Travel up to 50% to partner factories in the US and internationally to debug test failures, qualify new components, drive corrective actions, and scale production across multiple manufacturing sites. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5399162008)_
+
+`DFM` `FMEA` `SPC` `8D Root Cause Analysis` `Test Planning` `Manufacturing Process Design` `Supply Chain & Component Qualification` `Liquid-Cooled Systems`
+
+<sub>August 24, 2026 at 15:49 UTC</sub>
+
+---
+
+### [Manager - Developer Productivity, AI Tools](https://job-boards.greenhouse.io/gusto/jobs/8120017)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `$240k-$260k / $290k-$305k` `Equity`
+
+_Lead the engineering team building Gusto's agentic coding platform — including agent runtimes, automated code review, and CI/security infrastructure — making autonomy and risk tradeoff decisions on AI systems while owning the technical strategy end-to-end. Requires daily hands-on experience with agentic coding tools (Claude Code, Cursor, etc.) and comfort making security posture decisions without a dedicated security team. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8120017)_
+
+`Agentic AI Systems` `Claude Code / Cursor` `AI Infrastructure` `Security Architecture` `Vendor Contract Negotiation`
+
+<sub>August 24, 2026 at 15:49 UTC</sub>
+
+---
+
+### [Senior Platform Engineer, Infrastructure](https://job-boards.greenhouse.io/webflow/jobs/8148362)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Senior` `$186k-$255k` `Equity`
+
+_Design and own Webflow's corporate cloud landing zone, multi-account architecture, networking, PKI, and secrets management infrastructure. Build Infrastructure as Code pipelines and self-service pathways (code hosting, deployment, observability) that scale safely to engineers and non-technical builders across the company, with policy-as-code and cost controls as core design constraints. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8148362)_
+
+`AWS` `Terraform` `GitHub Actions` `Infrastructure as Code` `Networking` `PKI` `GitOps` `Datadog`
+
+<sub>August 24, 2026 at 15:49 UTC</sub>
+
+---
+
+### [Program Engineer, Federal Platform & IT Services](https://job-boards.greenhouse.io/keepersecurity/jobs/4377759009)
+<a href="https://keepersecurity.com"><img src="https://www.google.com/s2/favicons?domain=keepersecurity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Keeper Security** · `🟢 Remote` `Senior`
+
+_Lead end-to-end execution of federal platform, IT services, and cloud infrastructure initiatives spanning FedRAMP High and DoD IL5 delivery, disaster recovery, Infrastructure-as-Code automation, and Zero Trust identity programs. Requires U.S. citizenship and demonstrated experience delivering against federal compliance frameworks in high-security environments. · [Apply →](https://job-boards.greenhouse.io/keepersecurity/jobs/4377759009)_
+
+`AWS` `Terraform` `FedRAMP` `DoD Impact Levels` `Datadog` `Kubernetes` `Infrastructure-as-Code` `Compliance-as-Code`
+
+<sub>August 24, 2026 at 15:49 UTC</sub>
+
+---
 
 ### [Engineering Manager](https://jobs.lever.co/SwiftlySystems/16451e78-1ea3-4b33-afcd-02b2324c1481)
 <a href="https://swiftly.com"><img src="https://www.google.com/s2/favicons?domain=swiftly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Swiftly** · `🟢 Remote` `Manager`
