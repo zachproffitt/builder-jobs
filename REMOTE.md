@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **276 open roles** (3 new)
+### **277 open roles** (3 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -48,6 +48,39 @@ _Design, build, and operate a custom S3-compatible object storage infrastructure
 <br>
 
 ## August 22, 2026
+
+### [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity`
+
+_Lead and grow a distributed team of senior security and infrastructure engineers who engineer security controls and autonomous operations for a GPU fleet at cloud scale. Requires deep technical credibility in infrastructure, distributed systems, and security to earn trust of senior engineers and guide architectural decisions across a multi-tenant AI supercomputing platform. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)_
+
+`Kubernetes` `Cloud-Native Architecture` `Security Engineering` `Distributed Systems` `Identity and Access Management` `Policy Enforcement` `Vulnerability Management`
+
+<sub>August 22, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity`
+
+_Design and build production-grade security services, automated policy enforcement systems, and orchestration guardrails for NVIDIA's DGX Cloud GPU infrastructure. Architect security control planes with IaC/Policy-as-Code, threat model complex distributed systems, and deliver security-as-a-service primitives at cloud scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)_
+
+`Kubernetes` `Linux Internals` `eBPF` `Go` `Python` `Terraform` `IaC` `Distributed Systems`
+
+<sub>August 22, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
+
+_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
+
+`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+
+<sub>August 22, 2026 at 01:44 UTC</sub>
+
+---
 
 ### [Director of Research, Text to Speech](https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323)
 <a href="https://deepgram.com"><img src="https://www.google.com/s2/favicons?domain=deepgram.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Deepgram** · `🟢 Remote` `Manager`
@@ -202,17 +235,6 @@ _Lead a DevOps team building data platforms, cloud infrastructure, and automatio
 _Design and deploy machine learning models for nuclear reactor simulation and digital twins, including surrogate models, physics-informed ML, and LLM-based workflows. Lead a team of software engineers on AI initiatives in a regulated nuclear industry context requiring export control compliance. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6150355004)_
 
 `Python` `PyTorch` `TensorFlow` `Rust` `TypeScript` `GitLab CI/CD` `Physics-informed Machine Learning` `Kubernetes`
-
-<sub>August 21, 2026 at 19:32 UTC</sub>
-
----
-
-### [Founding AI Forward Deployed Engineer](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Founding-AI-Forward-Deployed-Engineer_R078453-1)
-<a href="https://ringcentral.com"><img src="https://www.google.com/s2/favicons?domain=ringcentral.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**RingCentral** · `🟢 Remote` `Senior` `$147k-$215k` `Equity`
-
-_Deploy and iterate on production agentic AI systems inside enterprise customer environments, owning end-to-end voice and digital agent workflows, integrations to CRMs/EHRs/ticketing systems, and evaluation frameworks that drive measurable business outcomes. Requires shipping production LLM systems at scale, deep hands-on ownership of customer deployments, and direct influence on product roadmap. · [Apply →](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Founding-AI-Forward-Deployed-Engineer_R078453-1)_
-
-`Python` `TypeScript` `LLM Orchestration` `RAG` `API Integration` `Production ML Systems` `Voice/Telephony` `Prompt Engineering`
 
 <sub>August 21, 2026 at 19:32 UTC</sub>
 
@@ -1219,7 +1241,7 @@ _Build production-grade agentic AI workflows using LangGraph, Temporal, and Pyda
 ---
 
 ### [Principal, AI Strategy & Engineering Transformation](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · `🟢 Remote` `Principal` `$150k-$220k` `Equity`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · `🟢 Remote` `Principal` `$150k-$220k` `Equity`
 
 _Design and operationalize AI-assisted software engineering workflows across Vantor's engineering organization—from prototype through governed adoption. Build agentic systems and developer tooling integrations while establishing security governance and measurement frameworks for AI use in regulated, export-controlled environments. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)_
 
@@ -1268,6 +1290,17 @@ _Design and own Webflow's enterprise data architecture, semantic layer, and anal
 _Design and build evaluation frameworks, tracing systems, and observability infrastructure for Zillow's production agentic AI agents. Partner with applied scientists and ML engineers to measure and improve AI quality, reliability, and trustworthiness at scale; requires deep familiarity with LLM evaluation paradigms and production ML systems. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)_
 
 `Python` `LangChain` `LangGraph` `MLflow` `LangSmith` `Kubernetes` `PostgreSQL` `Observability`
+
+<sub>August 18, 2026 at 01:44 UTC</sub>
+
+---
+
+### [Senior Applied AI Engineer, Cybersecurity](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$184k-$287.5k (L4) or $224k-$356.5k (L5)` `Equity`
+
+_Build AI agents that analyze security telemetry, use security tools, and automate detection, investigation, and response workflows for enterprise security operations. Develop from experimentation through production deployment using LLMs, RAG, agentic architectures, and MLOps practices; requires 8+ years shipping production AI systems and hands-on cybersecurity or adversarial domain experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1)_
+
+`Python` `TypeScript` `C#` `Large Language Models` `Retrieval-Augmented Generation` `Agentic Architectures` `MLOps` `LLMOps`
 
 <sub>August 18, 2026 at 01:44 UTC</sub>
 
@@ -1349,17 +1382,6 @@ _Design and implement large-scale web crawling and data extraction pipelines pro
 _Define security metrics and evaluation frameworks for AI agents, measuring control effectiveness, detection quality, and emerging risks. Build data foundations for security decisions across OpenAI's products while designing rigorous experimentation strategies for high-stakes cybersecurity environments. · [Apply →](https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9)_
 
 `Python` `SQL` `Machine Learning` `Causal Inference` `Anomaly Detection` `Statistical Experimentation` `Data Infrastructure` `Cybersecurity`
-
-<sub>August 17, 2026 at 18:52 UTC</sub>
-
----
-
-### [Software Engineer 4](https://phreesia.wd1.myworkdayjobs.com/Phreesia/job/Remote-United-States/Software-Engineer-4_R4847-1)
-<a href="https://queuedr.com"><img src="https://www.google.com/s2/favicons?domain=queuedr.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**QueueDr** · `🟢 Remote` `Senior` `$145k-$155k`
-
-_Design and build scalable distributed backend platforms for healthcare patient engagement, leveraging cloud-native technologies and AI-assisted development tools. Senior IC role mentoring engineers and driving technical decisions across architecture, reliability, and operational excellence. · [Apply →](https://phreesia.wd1.myworkdayjobs.com/Phreesia/job/Remote-United-States/Software-Engineer-4_R4847-1)_
-
-`C#` `.NET` `Java` `AWS` `Azure` `GCP` `React` `PostgreSQL`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -2228,28 +2250,6 @@ _Design and lead large-scale machine learning infrastructure for Reddit's embedd
 
 ---
 
-### [AI Software Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/AI-Software-Engineer_R57160)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · `🟢 Remote` `Mid` `$136.4k-$187.5k` `Equity`
-
-_Build enterprise workflow automation systems and APIs that embed AI capabilities into Trimble's core tools, replacing legacy task automation with intelligent, scalable solutions. Design secure identity and authorization layers for integration with enterprise platforms like Workday and third-party SaaS products. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/AI-Software-Engineer_R57160)_
-
-`Python` `TypeScript` `OAuth2` `Okta` `API Development` `CI/CD` `Workflow Automation` `Enterprise Architecture`
-
-<sub>August 12, 2026 at 22:53 UTC</sub>
-
----
-
-### [Enterprise AI DevOps SRE](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/Enterprise-AI-DevOps-SRE_R57159)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · `🟢 Remote` `Senior` `$115k–$158k` `Equity`
-
-_Architect and deploy scalable Infrastructure as Code (IaC) and multi-cloud CI/CD pipelines across AWS, Azure, and GCP to integrate AI-driven workflows with enterprise platforms like Workday and Salesforce. Lead intelligent automation initiatives leveraging Agentic AI and observability platforms (Grafana, Prometheus, New Relic) across a global organization. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/Enterprise-AI-DevOps-SRE_R57159)_
-
-`Kubernetes` `Docker` `AWS` `Azure` `GCP` `GitHub Actions` `Helm` `Flux CD`
-
-<sub>August 12, 2026 at 22:53 UTC</sub>
-
----
-
 ### [Senior Software Engineer, Programs](https://job-boards.greenhouse.io/energyhub/jobs/8696115002)
 <a href="https://energyhub.com"><img src="https://www.google.com/s2/favicons?domain=energyhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EnergyHub** · `🟢 Remote` `Senior` `$130k-$170k`
 
@@ -2491,7 +2491,7 @@ _Build and maintain Hudu's iOS and Android mobile app in Flutter, and develop Da
 ---
 
 ### [Applied AI Scientist](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Applied-AI-Scientist_R24427)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · `🟢 Remote` `Senior` `$128k-$215.6k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · `🟢 Remote` `Senior` `$128k-$215.6k`
 
 _Design and deploy end-to-end AI/ML systems that transform large-scale geospatial data into actionable intelligence, including vision-language models, multimodal learning, and reasoning systems. Requires productionizing foundation models and building enterprise-grade training frameworks for Earth observation and spatial intelligence applications; US person status required due to export control regulations. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Applied-AI-Scientist_R24427)_
 
@@ -2716,6 +2716,17 @@ _Develop production machine learning models for Bird's Eye View (BEV) perception
 _Design and build shared platform components and internal engineering libraries that multiple product teams depend on, including event-driven architecture, APIs, and developer-facing abstractions. Work across two closely-aligned teams (Application Primitives for customer-facing components like notifications and audit trails; Libraries & Foundations for TypeScript-first internal libraries and golden-path patterns). · [Apply →](https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be)_
 
 `TypeScript` `Kafka` `Event-Driven Architecture` `API Design` `Distributed Systems` `SQS` `PostgreSQL`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity`
+
+_Lead full-stack integration architecture for DGX Cloud, defining control and data plane systems that deliver bare metal and virtualized accelerated computing across enterprise, sovereign, and neo-cloud datacenters. Requires 15-20+ years in systems integration spanning hardware, firmware, OS, and virtualization, plus 7-10+ years of technical leadership. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)_
+
+`Kubernetes` `Linux` `Virtualization` `Cloud Architecture` `IaaS/PaaS` `High-Performance Computing` `Distributed Systems` `Open Source Infrastructure`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -2958,12 +2969,12 @@ _Build data selection, packaging, and delivery pipelines that feed pseudo-labele
 
 ---
 
-### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250k` `Equity`
+### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
 
-_Work directly with US government and enterprise customers on data engineering and analytics projects using Databricks; design, build, and deploy distributed data architectures, manage technical project delivery, and provide escalated customer support. Requires US Secret clearance and up to 30% travel for on-site customer engagements. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)_
+_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
 
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
 
 <sub>August 10, 2026 at 17:56 UTC</sub>
 

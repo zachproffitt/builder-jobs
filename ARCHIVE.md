@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **423 open roles** (7 new) &nbsp;·&nbsp; 1771 companies searched
+### **421 open roles** (7 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -12,10 +12,32 @@ Remote and Colorado engineering roles posted more than 24 hours ago. Listings ar
 
 ## August 22, 2026
 
-### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)
+### [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity`
+
+_Lead and grow a distributed team of senior security and infrastructure engineers who engineer security controls and autonomous operations for a GPU fleet at cloud scale. Requires deep technical credibility in infrastructure, distributed systems, and security to earn trust of senior engineers and guide architectural decisions across a multi-tenant AI supercomputing platform. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)_
+
+`Kubernetes` `Cloud-Native Architecture` `Security Engineering` `Distributed Systems` `Identity and Access Management` `Policy Enforcement` `Vulnerability Management`
+
+<sub>August 22, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity`
+
+_Design and build production-grade security services, automated policy enforcement systems, and orchestration guardrails for NVIDIA's DGX Cloud GPU infrastructure. Architect security control planes with IaC/Policy-as-Code, threat model complex distributed systems, and deliver security-as-a-service primitives at cloud scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)_
+
+`Kubernetes` `Linux Internals` `eBPF` `Go` `Python` `Terraform` `IaC` `Distributed Systems`
+
+<sub>August 22, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
 
-_Build production-grade data and AI solutions embedded with enterprise customers, owning end-to-end architecture from data pipelines and ML models to application deployment on the Databricks platform. Requires 6+ years in data engineering or software engineering, deep Spark expertise, and ability to manage complex technical projects with C-suite stakeholders across multiple cloud platforms. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)_
+_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
 
 `Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
 
@@ -187,17 +209,6 @@ _Lead a DevOps team building data platforms, cloud infrastructure, and automatio
 _Design and deploy machine learning models for nuclear reactor simulation and digital twins, including surrogate models, physics-informed ML, and LLM-based workflows. Lead a team of software engineers on AI initiatives in a regulated nuclear industry context requiring export control compliance. · [Apply →](https://job-boards.greenhouse.io/oklo/jobs/6150355004)_
 
 `Python` `PyTorch` `TensorFlow` `Rust` `TypeScript` `GitLab CI/CD` `Physics-informed Machine Learning` `Kubernetes`
-
-<sub>August 21, 2026 at 19:32 UTC</sub>
-
----
-
-### [Founding AI Forward Deployed Engineer](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Founding-AI-Forward-Deployed-Engineer_R078453-1)
-<a href="https://ringcentral.com"><img src="https://www.google.com/s2/favicons?domain=ringcentral.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**RingCentral** · `🟢 Remote` `Senior` `$147k-$215k` `Equity`
-
-_Deploy and iterate on production agentic AI systems inside enterprise customer environments, owning end-to-end voice and digital agent workflows, integrations to CRMs/EHRs/ticketing systems, and evaluation frameworks that drive measurable business outcomes. Requires shipping production LLM systems at scale, deep hands-on ownership of customer deployments, and direct influence on product roadmap. · [Apply →](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Founding-AI-Forward-Deployed-Engineer_R078453-1)_
-
-`Python` `TypeScript` `LLM Orchestration` `RAG` `API Integration` `Production ML Systems` `Voice/Telephony` `Prompt Engineering`
 
 <sub>August 21, 2026 at 19:32 UTC</sub>
 
@@ -1161,7 +1172,7 @@ _Build communication systems software for satellites, UAVs, and launch vehicles 
 ---
 
 ### [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$98k-$143k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Senior` `$98k-$143k`
 
 _Build AI applications and agents that transform complex technical information into accurate customer documentation, using LLMs and automation to improve content creation and publishing workflows. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478)_
 
@@ -1592,7 +1603,7 @@ _Build core software systems that empower Airbnb's global support agents, includ
 ---
 
 ### [Principal, AI Strategy & Engineering Transformation](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · `🟢 Remote` `Principal` `$150k-$220k` `Equity`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · `🟢 Remote` `Principal` `$150k-$220k` `Equity`
 
 _Design and operationalize AI-assisted software engineering workflows across Vantor's engineering organization—from prototype through governed adoption. Build agentic systems and developer tooling integrations while establishing security governance and measurement frameworks for AI use in regulated, export-controlled environments. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444)_
 
@@ -1663,6 +1674,17 @@ _Design and own Webflow's enterprise data architecture, semantic layer, and anal
 _Design and build evaluation frameworks, tracing systems, and observability infrastructure for Zillow's production agentic AI agents. Partner with applied scientists and ML engineers to measure and improve AI quality, reliability, and trustworthiness at scale; requires deep familiarity with LLM evaluation paradigms and production ML systems. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)_
 
 `Python` `LangChain` `LangGraph` `MLflow` `LangSmith` `Kubernetes` `PostgreSQL` `Observability`
+
+<sub>August 18, 2026 at 01:44 UTC</sub>
+
+---
+
+### [Senior Applied AI Engineer, Cybersecurity](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$184k-$287.5k (L4) or $224k-$356.5k (L5)` `Equity`
+
+_Build AI agents that analyze security telemetry, use security tools, and automate detection, investigation, and response workflows for enterprise security operations. Develop from experimentation through production deployment using LLMs, RAG, agentic architectures, and MLOps practices; requires 8+ years shipping production AI systems and hands-on cybersecurity or adversarial domain experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1)_
+
+`Python` `TypeScript` `C#` `Large Language Models` `Retrieval-Augmented Generation` `Agentic Architectures` `MLOps` `LLMOps`
 
 <sub>August 18, 2026 at 01:44 UTC</sub>
 
@@ -1784,17 +1806,6 @@ _Build the backend Command & Control software that integrates heterogeneous spac
 _Define security metrics and evaluation frameworks for AI agents, measuring control effectiveness, detection quality, and emerging risks. Build data foundations for security decisions across OpenAI's products while designing rigorous experimentation strategies for high-stakes cybersecurity environments. · [Apply →](https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9)_
 
 `Python` `SQL` `Machine Learning` `Causal Inference` `Anomaly Detection` `Statistical Experimentation` `Data Infrastructure` `Cybersecurity`
-
-<sub>August 17, 2026 at 18:52 UTC</sub>
-
----
-
-### [Software Engineer 4](https://phreesia.wd1.myworkdayjobs.com/Phreesia/job/Remote-United-States/Software-Engineer-4_R4847-1)
-<a href="https://queuedr.com"><img src="https://www.google.com/s2/favicons?domain=queuedr.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**QueueDr** · `🟢 Remote` `Senior` `$145k-$155k`
-
-_Design and build scalable distributed backend platforms for healthcare patient engagement, leveraging cloud-native technologies and AI-assisted development tools. Senior IC role mentoring engineers and driving technical decisions across architecture, reliability, and operational excellence. · [Apply →](https://phreesia.wd1.myworkdayjobs.com/Phreesia/job/Remote-United-States/Software-Engineer-4_R4847-1)_
-
-`C#` `.NET` `Java` `AWS` `Azure` `GCP` `React` `PostgreSQL`
 
 <sub>August 17, 2026 at 18:52 UTC</sub>
 
@@ -2231,7 +2242,7 @@ _Build production-grade LLM applications and AI safety systems for cybersecurity
 ---
 
 ### [Software Development Eng - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Eng---Full-Stack_R24423-1)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Mid` `$86k-$126.5k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Mid` `$86k-$126.5k`
 
 _Design and build full-stack cloud-native applications using Java/Spring Boot, Vue.js, and Python/FastAPI, deployed on AWS with Docker and Kubernetes. Apply AI throughout the development lifecycle to accelerate implementation and testing while maintaining code quality; requires US Person status due to export control regulations. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Eng---Full-Stack_R24423-1)_
 
@@ -2242,7 +2253,7 @@ _Design and build full-stack cloud-native applications using Java/Spring Boot, V
 ---
 
 ### [Staff Software Development Engineer - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Software-Development-Engineer---Full-Stack_R24422)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Senior` `$105k-$154k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Senior` `$105k-$154k`
 
 _Design, develop, and deploy full-stack cloud-native applications using Java/Spring Boot, Vue.js, and Python/FastAPI on AWS. Work in an AI-assisted software development lifecycle using AI tools throughout the engineering process while maintaining ownership of code quality and security; requires U.S. person status for export control compliance. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Software-Development-Engineer---Full-Stack_R24422)_
 
@@ -2263,19 +2274,8 @@ _Design and operate the core account platform and services that track state, eli
 
 ---
 
-### [Compiler Engineering](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineering_JR0286167-1)
-<a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Intel** · Remote, Ontario, Canada · `🟡 Hybrid` `Mid` `CAD 133k-189k`
-
-_Design and implement offloading technologies—binary formats, device code generation, and GPU/accelerator code generation—for Intel's LLVM-based C, C++, SYCL, and Fortran compilers. Work upstream with the LLVM and SYCL communities on production compiler infrastructure for heterogeneous compute across CPUs, GPUs, and accelerators. · [Apply →](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineering_JR0286167-1)_
-
-`C++` `LLVM` `SYCL` `Clang` `SPIR-V` `Compiler Design` `GPU Programming` `OpenMP`
-
-<sub>August 14, 2026 at 20:38 UTC</sub>
-
----
-
 ### [Software Engineering Manager (TS/SCI)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Customer-Site-Colorado-Springs-CO/Software-Engineering-Manager--TS-SCI-_R24436)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Colorado Springs, Colorado · `Manager` `$128k-$187k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Colorado Springs, Colorado · `Manager` `$128k-$187k`
 
 _Lead a cross-functional engineering team evaluating and building physics-based software solutions for U.S. Space Force operations, with hands-on responsibility for full-stack development spanning RF systems, space weather modeling, and signal processing. Requires active TS/SCI clearance, on-site presence at Peterson AFB, and deep technical expertise in radar systems, simulation frameworks, and scientific computing. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Customer-Site-Colorado-Springs-CO/Software-Engineering-Manager--TS-SCI-_R24436)_
 
@@ -2506,7 +2506,7 @@ _Build production-grade full-stack applications that translate quantum computing
 ---
 
 ### [Principal Engineer - Software Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Principal` `$150k-$220k` `Equity`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Principal` `$150k-$220k` `Equity`
 
 _Lead the design and delivery of complex, cross-domain software systems spanning cloud platforms, distributed systems, AI-enabled products, and mission-critical environments. Balance systems engineering rigor with AI-accelerated development velocity while architecting for scalability, resilience, and organizational alignment across multiple engineering teams. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1)_
 
@@ -2997,19 +2997,8 @@ _Own the distributed systems that stream feature-flag configuration to LaunchDar
 
 ---
 
-### [Director of Data Science and Bioinformatics](https://job-boards.greenhouse.io/natera/jobs/6135539004)
-<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$178k–$222k`
-
-_Lead and architect the bioinformatics function and AWS cloud infrastructure for cell-free DNA genomic testing pipelines in women's health and organ health products, ensuring clinical-grade quality and reproducibility of NGS algorithms. Requires 10+ years in data science/bioinformatics with 5+ years leading technical teams and hands-on experience with regulated biomedical software (CLIA/FDA). · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135539004)_
-
-`AWS` `Bioinformatics` `NGS Pipeline Development` `MLOps` `Docker` `Nextflow` `Machine Learning` `Statistical Inference`
-
-<sub>August 12, 2026 at 22:53 UTC</sub>
-
----
-
 ### [Sr Staff Software Systems Engineer - Core Mission Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-Software-Systems-Engineer---Core-Mission-Systems_R24387)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Staff` `$128k-$187k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Staff` `$128k-$187k`
 
 _Lead the architecture, integration, and evolution of complex software-intensive mission systems spanning cloud infrastructure, networking, cybersecurity, and data management for U.S. Government customers. Requires active TS/SCI clearance and experience with national security space, intelligence community, or DoD programs. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-Software-Systems-Engineer---Core-Mission-Systems_R24387)_
 
@@ -3020,11 +3009,22 @@ _Lead the architecture, integration, and evolution of complex software-intensive
 ---
 
 ### [Senior Staff Software Systems Engineer, Cybersecurity and Compliance](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer--Cybersecurity-and-Compliance_R24398)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Staff` `$128k-$187k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `Staff` `$128k-$187k`
 
 _Lead cybersecurity and compliance architecture across software-intensive mission systems for classified and unclassified defense environments, translating NIST/CMMC requirements into practical engineering solutions. Requires active TS/SCI clearance and work on Intelligence Community or DoD programs. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer--Cybersecurity-and-Compliance_R24398)_
 
 `Systems Engineering` `NIST 800-53` `CMMC` `Risk Management Framework` `DevSecOps` `Secure Cloud Architecture` `CISSP` `AWS`
+
+<sub>August 12, 2026 at 22:53 UTC</sub>
+
+---
+
+### [Director of Data Science and Bioinformatics](https://job-boards.greenhouse.io/natera/jobs/6135539004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$178k–$222k`
+
+_Lead and architect the bioinformatics function and AWS cloud infrastructure for cell-free DNA genomic testing pipelines in women's health and organ health products, ensuring clinical-grade quality and reproducibility of NGS algorithms. Requires 10+ years in data science/bioinformatics with 5+ years leading technical teams and hands-on experience with regulated biomedical software (CLIA/FDA). · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6135539004)_
+
+`AWS` `Bioinformatics` `NGS Pipeline Development` `MLOps` `Docker` `Nextflow` `Machine Learning` `Statistical Inference`
 
 <sub>August 12, 2026 at 22:53 UTC</sub>
 
@@ -3058,28 +3058,6 @@ _Lead measurement, experimentation, and causal analysis for Reddit's consumer pr
 _Design and lead large-scale machine learning infrastructure for Reddit's embedding platform, architecting distributed training systems and real-time serving infrastructure for recommendation models at 130M+ daily active user scale. Drive ML strategy for personalization across feed ranking, ads, and content understanding; requires 8+ years of ML systems experience and demonstrated leadership. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8126982)_
 
 `Python` `C++` `PyTorch` `TensorFlow` `Distributed Systems` `Kubernetes` `GPU Computing` `A/B Testing`
-
-<sub>August 12, 2026 at 22:53 UTC</sub>
-
----
-
-### [AI Software Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/AI-Software-Engineer_R57160)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · `🟢 Remote` `Mid` `$136.4k-$187.5k` `Equity`
-
-_Build enterprise workflow automation systems and APIs that embed AI capabilities into Trimble's core tools, replacing legacy task automation with intelligent, scalable solutions. Design secure identity and authorization layers for integration with enterprise platforms like Workday and third-party SaaS products. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/AI-Software-Engineer_R57160)_
-
-`Python` `TypeScript` `OAuth2` `Okta` `API Development` `CI/CD` `Workflow Automation` `Enterprise Architecture`
-
-<sub>August 12, 2026 at 22:53 UTC</sub>
-
----
-
-### [Enterprise AI DevOps SRE](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/Enterprise-AI-DevOps-SRE_R57159)
-<a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Trimble** · `🟢 Remote` `Senior` `$115k–$158k` `Equity`
-
-_Architect and deploy scalable Infrastructure as Code (IaC) and multi-cloud CI/CD pipelines across AWS, Azure, and GCP to integrate AI-driven workflows with enterprise platforms like Workday and Salesforce. Lead intelligent automation initiatives leveraging Agentic AI and observability platforms (Grafana, Prometheus, New Relic) across a global organization. · [Apply →](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/Enterprise-AI-DevOps-SRE_R57159)_
-
-`Kubernetes` `Docker` `AWS` `Azure` `GCP` `GitHub Actions` `Helm` `Flux CD`
 
 <sub>August 12, 2026 at 22:53 UTC</sub>
 
@@ -3348,7 +3326,7 @@ _Build and maintain Hudu's iOS and Android mobile app in Flutter, and develop Da
 ---
 
 ### [Applied AI Scientist](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Applied-AI-Scientist_R24427)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · `🟢 Remote` `Senior` `$128k-$215.6k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · `🟢 Remote` `Senior` `$128k-$215.6k`
 
 _Design and deploy end-to-end AI/ML systems that transform large-scale geospatial data into actionable intelligence, including vision-language models, multimodal learning, and reasoning systems. Requires productionizing foundation models and building enterprise-grade training frameworks for Earth observation and spatial intelligence applications; US person status required due to export control regulations. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Applied-AI-Scientist_R24427)_
 
@@ -3397,17 +3375,6 @@ _Build and maintain operational technology lab environments simulating real indu
 _Lead a high-impact Machine Learning Engineering team building feed relevance, personalization, and discovery systems for video and audio content serving 120M+ daily Reddit users. Requires hands-on expertise with large-scale production ML systems including transformer architectures and LLMs, plus deep knowledge of recommender systems (candidate retrieval, ranking, value modeling). · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8125507)_
 
 `Machine Learning` `Transformer Architectures` `LLMs` `Recommender Systems` `Ranking Systems` `Production ML Systems` `Python`
-
-<sub>August 12, 2026 at 15:07 UTC</sub>
-
----
-
-### [Network Engineer, NetOps Infrastructure](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Denver-Colorado/Network-Engineer--NetOps-Infrastructure_R078407)
-<a href="https://ringcentral.com"><img src="https://www.google.com/s2/favicons?domain=ringcentral.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**RingCentral** · Denver, Colorado · `Mid` `$108k-$132k` `Equity`
-
-_Troubleshoot and operate production network infrastructure (routers, switches, firewalls, load balancers) across global data centers maintaining 99.999% availability for real-time voice, video, and messaging. Requires deep TCP/IP expertise, hands-on Juniper experience, and strong Linux network stack knowledge to diagnose issues end-to-end from routing tables through host-level networking. · [Apply →](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Denver-Colorado/Network-Engineer--NetOps-Infrastructure_R078407)_
-
-`Juniper` `BGP` `OSPF` `Linux` `TCP/IP` `Firewalls` `GRE` `IPSec`
 
 <sub>August 12, 2026 at 15:07 UTC</sub>
 
@@ -3594,17 +3561,6 @@ _Drive GenAI-powered recommendation and feed ranking systems leveraging Reddit's
 
 ---
 
-### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
-<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
-
-_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
-
-`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
-
-<sub>August 12, 2026 at 01:20 UTC</sub>
-
----
-
 ### [Senior Flight Dynamics Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7856496003)
 <a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Senior` `$135k–$175k` `Equity`
 
@@ -3622,6 +3578,17 @@ _Develop and analyze launch vehicle and spacecraft trajectories for Earth orbiti
 _Build production-grade generative AI applications for go-to-market operations, including AI-powered sales copilots, personalized outreach generation, and voice/chat interfaces. Work across the full stack from model experimentation to backend systems and infrastructure at a public company operating at scale. · [Apply →](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352)_
 
 `Python` `LangChain` `OpenAI SDK` `RAG systems` `Generative AI` `FastAPI` `PostgreSQL` `Salesforce`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Sr. Resident Engineer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)
+<a href="https://juniper.net"><img src="https://www.google.com/s2/favicons?domain=juniper.net&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Juniper Networks** · `🟢 Remote` `Senior` `$111k-$211k`
+
+_Serve as the primary technical support engineer for enterprise customers, diagnosing and resolving complex network infrastructure issues on Juniper routing and switching platforms; master Junos automation and network design to drive customer outcomes at scale. · [Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Colorado-United-States-of-America/Sr-Resident-Engineer_1208048-2)_
+
+`Juniper Networks` `Python` `Bash` `MPLS` `BGP` `IS-IS` `Junos` `SLAX`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -3666,6 +3633,17 @@ _Develop production machine learning models for Bird's Eye View (BEV) perception
 _Design and build shared platform components and internal engineering libraries that multiple product teams depend on, including event-driven architecture, APIs, and developer-facing abstractions. Work across two closely-aligned teams (Application Primitives for customer-facing components like notifications and audit trails; Libraries & Foundations for TypeScript-first internal libraries and golden-path patterns). · [Apply →](https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be)_
 
 `TypeScript` `Kafka` `Event-Driven Architecture` `API Design` `Distributed Systems` `SQS` `PostgreSQL`
+
+<sub>August 12, 2026 at 01:20 UTC</sub>
+
+---
+
+### [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity`
+
+_Lead full-stack integration architecture for DGX Cloud, defining control and data plane systems that deliver bare metal and virtualized accelerated computing across enterprise, sovereign, and neo-cloud datacenters. Requires 15-20+ years in systems integration spanning hardware, firmware, OS, and virtualization, plus 7-10+ years of technical leadership. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999)_
+
+`Kubernetes` `Linux` `Virtualization` `Cloud Architecture` `IaaS/PaaS` `High-Performance Computing` `Distributed Systems` `Open Source Infrastructure`
 
 <sub>August 12, 2026 at 01:20 UTC</sub>
 
@@ -3963,12 +3941,12 @@ _Build data selection, packaging, and delivery pipelines that feed pseudo-labele
 
 ---
 
-### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250k` `Equity`
+### [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
 
-_Work directly with US government and enterprise customers on data engineering and analytics projects using Databricks; design, build, and deploy distributed data architectures, manage technical project delivery, and provide escalated customer support. Requires US Secret clearance and up to 30% travel for on-site customer engagements. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002)_
+_Own end-to-end production data and AI solutions for federal government customers, designing and building reference architectures, data pipelines, ML/AI integrations, and custom applications on the Databricks platform. Requires active Secret or Top Secret clearance and 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002)_
 
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
+`Python` `Scala` `JavaScript` `TypeScript` `Apache Spark` `AWS` `Azure` `GCP`
 
 <sub>August 10, 2026 at 17:56 UTC</sub>
 
@@ -3986,7 +3964,7 @@ _Build MLOps infrastructure and platforms to support the full ML lifecycle—mod
 ---
 
 ### [Sr. Platform Infrastructure Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Platform-Infrastructure-Engineer_R24190)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `🟡 Hybrid` `Senior` `$128k-$187k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Westminster, Colorado · `🟡 Hybrid` `Senior` `$128k-$187k`
 
 _Design, deploy, and operate mission-critical cloud and on-premise infrastructure platforms across AWS and customer-owned environments for defense and commercial spatial intelligence systems. Requires active U.S. Government security clearance and U.S. citizenship; role involves architecting hybrid cloud deployments, Kubernetes orchestration, and infrastructure automation for disconnected and classified operational environments. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Platform-Infrastructure-Engineer_R24190)_
 
@@ -4282,10 +4260,10 @@ _Design and implement real-time multi-target tracking algorithms and high-perfor
 
 ---
 
-### [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity`
+### [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity`
 
-_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems that process radar sensor data to detect and track airborne threats at scale. Requires active TS/SCI clearance and involves building production systems for mission-critical defense applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007)_
+_Design and implement advanced multi-target tracking algorithms and high-performance real-time software systems for air and missile defense radar that process massive sensor data streams to detect and track airborne threats in milliseconds. Requires active TS/SCI clearance and involves production-grade systems deployed for mission-critical military operations. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007)_
 
 `C++` `Python` `Kalman filters` `Linear algebra` `Signal processing` `MATLAB` `GPU acceleration` `TS/SCI Clearance`
 

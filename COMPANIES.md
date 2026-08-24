@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **146 companies** · **423 open roles** (7 new)
+### **143 companies** · **421 open roles** (7 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -102,7 +102,7 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Senior Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5207726007?gh_jid=5207726007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 10)
 - [Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5207728007?gh_jid=5207728007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 10)
 - [Senior Software Engineer, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5207727007?gh_jid=5207727007) · Broomfield, Colorado / Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 10)
-- [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 10)
+- [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007) · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity` (Aug 10)
 - [Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5207735007?gh_jid=5207735007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 10)
 - [Software Engineer, Target Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5207736007?gh_jid=5207736007) · Broomfield, Colorado / Fort Collins, Colorado · `Mid` `$126k-$167k` `Equity` (Aug 10)
 
@@ -328,8 +328,8 @@ Curri is a construction and industrial logistics platform.
 
 Databricks builds a data and AI platform that helps customers develop, deploy, and optimize generative AI applications and machine learning models at scale.
 
-- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
-- [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002) · `🟢 Remote` `Senior` `$182k-$250k` `Equity` (Aug 10)
+- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
+- [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002) · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 10)
 
 ---
 
@@ -650,14 +650,6 @@ INSZoom provides software for managing global immigration cases and compliance w
 
 ---
 
-## <a href="https://intel.com"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Intel](https://intel.com)
-
-Intel builds semiconductor fabrication equipment and develops manufacturing processes for microchip production, including advanced technology nodes like Intel 18A and legacy technologies for foundry customers. The company operates fabrication facilities, including a state-of-the-art facility in Chandler, Arizona, and works with customers and suppliers on process development, optimization, and high-volume manufacturing.
-
-- [Compiler Engineering](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Compiler-Engineering_JR0286167-1) · Remote, Ontario, Canada · `🟡 Hybrid` `Mid` `CAD 133k-189k` (Aug 14)
-
----
-
 ## <a href="https://ionq.com"><img src="https://www.google.com/s2/favicons?domain=ionq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[IonQ](https://ionq.com)
 
 IonQ delivers trapped ion quantum computing systems and cloud access for quantum applications.
@@ -779,6 +771,22 @@ LoanCrate builds an AI-powered Loan Origination System designed for mortgage tea
 
 ---
 
+## <a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Maxar Technologies](https://maxar.com)
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Satellite Operations Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/Satellite-Operations-Engineer_R24446) · Longmont, Colorado · `Mid` `$74k-$107.8k` (Aug 24)
+- [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478) · Westminster, Colorado · `Senior` `$98k-$143k` (Aug 19)
+- [Principal, AI Strategy & Engineering Transformation](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444) · `🟢 Remote` `Principal` `$150k-$220k` `Equity` (Aug 18)
+- [Software Development Eng - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Eng---Full-Stack_R24423-1) · Westminster, Colorado · `Mid` `$86k-$126.5k` (Aug 14)
+- [Staff Software Development Engineer - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Software-Development-Engineer---Full-Stack_R24422) · Westminster, Colorado · `Senior` `$105k-$154k` (Aug 14)
+- [Software Engineering Manager (TS/SCI)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Customer-Site-Colorado-Springs-CO/Software-Engineering-Manager--TS-SCI-_R24436) · Colorado Springs, Colorado · `Manager` `$128k-$187k` (Aug 14)
+- [Principal Engineer - Software Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1) · Westminster, Colorado · `Principal` `$150k-$220k` `Equity` (Aug 14)
+- [Sr Staff Software Systems Engineer - Core Mission Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-Software-Systems-Engineer---Core-Mission-Systems_R24387) · Westminster, Colorado · `Staff` `$128k-$187k` (Aug 12)
+- [Senior Staff Software Systems Engineer, Cybersecurity and Compliance](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer--Cybersecurity-and-Compliance_R24398) · Westminster, Colorado · `Staff` `$128k-$187k` (Aug 12)
+- [Applied AI Scientist](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Applied-AI-Scientist_R24427) · `🟢 Remote` `Senior` `$128k-$215.6k` (Aug 12)
+- [Sr. Platform Infrastructure Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Platform-Infrastructure-Engineer_R24190) · Westminster, Colorado · `🟡 Hybrid` `Senior` `$128k-$187k` (Aug 10)
+
+---
+
 ## <a href="https://maymobility.com"><img src="https://www.google.com/s2/favicons?domain=maymobility.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[May Mobility](https://maymobility.com)
 
 May Mobility builds autonomous vehicles that use a Multi-Policy Decision Making system powered by reinforcement-learning AI to enable self-driving ride services. The company operates autonomous ride services in locations including Atlanta and Tokyo Bay, and partners with platforms like Lyft to provide autonomous rides to consumers.
@@ -857,6 +865,17 @@ NextGen Healthcare provides cloud-based electronic health record (EHR) and elect
 
 - [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776) · `🟢 Remote` `Senior` (Aug 21)
 - [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762) · `🟢 Remote` `Manager` (Aug 13)
+
+---
+
+## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
+
+Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
+
+- [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1) · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity` (Aug 22)
+- [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1) · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity` (Aug 22)
+- [Senior Applied AI Engineer, Cybersecurity](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1) · `🟢 Remote` `Senior` `$184k-$287.5k (L4) or $224k-$356.5k (L5)` `Equity` (Aug 18)
+- [Distinguished Engineer, System Software Integration](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Distinguished-Engineer--System-Software-Integration_JR2022999) · `🟢 Remote` `Principal` `$320k-$488.75k` `Equity` (Aug 12)
 
 ---
 
@@ -960,14 +979,6 @@ PRECISIONvalue provides healthcare access and drug commercialization services th
 
 ---
 
-## <a href="https://queuedr.com"><img src="https://www.google.com/s2/favicons?domain=queuedr.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[QueueDr](https://queuedr.com)
-
-QueueDr, now called Phreesia Appointment Accelerator, provides software that automatically fills unexpected cancellations, rebooks no-shows, and balances schedules to help patients access care sooner.
-
-- [Software Engineer 4](https://phreesia.wd1.myworkdayjobs.com/Phreesia/job/Remote-United-States/Software-Engineer-4_R4847-1) · `🟢 Remote` `Senior` `$145k-$155k` (Aug 17)
-
----
-
 ## <a href="https://www.quindar.space"><img src="https://www.google.com/s2/favicons?domain=www.quindar.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Quindar](https://www.quindar.space)
 
 Quindar builds command and control software and ground systems integration capabilities for commercial and government space operations. The company serves government and defense customers applying its platform to complex mission-critical use cases.
@@ -1005,15 +1016,6 @@ Reddit is a community platform where users submit, vote, and comment on topics a
 Render provides cloud infrastructure for deploying and scaling applications and agents.
 
 - [Software Engineer, Expansion (all levels)](https://jobs.ashbyhq.com/render/06377f8a-a255-412a-8032-18ace1d005a5) · `🟢 Remote` `Senior` (Aug 10)
-
----
-
-## <a href="https://ringcentral.com"><img src="https://www.google.com/s2/favicons?domain=ringcentral.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[RingCentral](https://ringcentral.com)
-
-RingCentral provides agentic voice AI products, including an AI Receptionist, AI Virtual Assistant, and AI Conversation Expert, that enable businesses to automate voice communications.
-
-- [Founding AI Forward Deployed Engineer](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Founding-AI-Forward-Deployed-Engineer_R078453-1) · `🟢 Remote` `Senior` `$147k-$215k` `Equity` (Aug 21)
-- [Network Engineer, NetOps Infrastructure](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Denver-Colorado/Network-Engineer--NetOps-Infrastructure_R078407) · Denver, Colorado · `Mid` `$108k-$132k` `Equity` (Aug 12)
 
 ---
 
@@ -1263,15 +1265,6 @@ Torc Robotics develops software for automated trucks that integrates with test v
 
 ---
 
-## <a href="https://trimble.com"><img src="https://www.google.com/s2/favicons?domain=trimble.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Trimble](https://trimble.com)
-
-Trimble builds data pipelines, analytics, and automation solutions on Snowflake that integrate with ERP and revenue accounting platforms to support enterprise financial and revenue processes. The company seeks a Senior Snowflake/AI Automation Engineer to design and optimize data models and workflows that automate revenue recognition, forecasting, and reporting while ensuring data accuracy and compliance with audit requirements.
-
-- [AI Software Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/AI-Software-Engineer_R57160) · `🟢 Remote` `Mid` `$136.4k-$187.5k` `Equity` (Aug 12)
-- [Enterprise AI DevOps SRE](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-CO/Enterprise-AI-DevOps-SRE_R57159) · `🟢 Remote` `Senior` `$115k–$158k` `Equity` (Aug 12)
-
----
-
 ## <a href="https://trmlabs.com"><img src="https://www.google.com/s2/favicons?domain=trmlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[TRM Labs](https://trmlabs.com)
 
 TRM Labs provides tools and services used by government agencies and private institutions to investigate and combat illicit activity, including criminal networks, sanctioned actors, and state-backed threats.
@@ -1353,24 +1346,6 @@ Vanta provides automated compliance software for startups.
 - [Senior Data Scientist](https://jobs.ashbyhq.com/vanta/aa7512c2-fb94-4238-bb15-f0063307af53) · `🟢 Remote` `Senior` `Equity` (Aug 11)
 - [Senior Manager, Systems Engineering](https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4) · `🟢 Remote` `Manager` `Equity` (Aug 10)
 - [Senior Manager, AI Corporate Engineering](https://jobs.ashbyhq.com/vanta/0efec8d2-094a-421d-bca6-1fa0da5ca5a0) · `🟢 Remote` `Manager` `Equity` (Aug 10)
-
----
-
-## <a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Vantor](https://vantor.com)
-
-Vantor makes spatial intelligence products that combine spatial data, AI, and software for defense, intelligence, and commercial applications.
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Satellite Operations Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/Satellite-Operations-Engineer_R24446) · Longmont, Colorado · `Mid` `$74k-$107.8k` (Aug 24)
-- [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478) · Westminster, Colorado · `Senior` `$98k-$143k` (Aug 19)
-- [Principal, AI Strategy & Engineering Transformation](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Principal--AI-Strategy---Engineering-Transformation_R24444) · `🟢 Remote` `Principal` `$150k-$220k` `Equity` (Aug 18)
-- [Software Development Eng - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Software-Development-Eng---Full-Stack_R24423-1) · Westminster, Colorado · `Mid` `$86k-$126.5k` (Aug 14)
-- [Staff Software Development Engineer - Full Stack](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Software-Development-Engineer---Full-Stack_R24422) · Westminster, Colorado · `Senior` `$105k-$154k` (Aug 14)
-- [Software Engineering Manager (TS/SCI)](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Customer-Site-Colorado-Springs-CO/Software-Engineering-Manager--TS-SCI-_R24436) · Colorado Springs, Colorado · `Manager` `$128k-$187k` (Aug 14)
-- [Principal Engineer - Software Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Principal-Engineer---Software-Systems_R24397-1) · Westminster, Colorado · `Principal` `$150k-$220k` `Equity` (Aug 14)
-- [Sr Staff Software Systems Engineer - Core Mission Systems](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Staff-Software-Systems-Engineer---Core-Mission-Systems_R24387) · Westminster, Colorado · `Staff` `$128k-$187k` (Aug 12)
-- [Senior Staff Software Systems Engineer, Cybersecurity and Compliance](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer--Cybersecurity-and-Compliance_R24398) · Westminster, Colorado · `Staff` `$128k-$187k` (Aug 12)
-- [Applied AI Scientist](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Applied-AI-Scientist_R24427) · `🟢 Remote` `Senior` `$128k-$215.6k` (Aug 12)
-- [Sr. Platform Infrastructure Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Sr-Platform-Infrastructure-Engineer_R24190) · Westminster, Colorado · `🟡 Hybrid` `Senior` `$128k-$187k` (Aug 10)
 
 ---
 

@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **423 open roles** (7 new) &nbsp;·&nbsp; 1771 companies searched
+### **421 open roles** (7 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -15,7 +15,7 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 ## August 24, 2026
 
 ### [Satellite Operations Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/Satellite-Operations-Engineer_R24446)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Longmont, Colorado · `Mid` `$74k-$107.8k`
+<a href="https://maxar.com"><img src="https://www.google.com/s2/favicons?domain=maxar.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Maxar Technologies** · Longmont, Colorado · `Mid` `$74k-$107.8k`
 
 _Monitor and command a satellite constellation through ground control systems, performing pre-contact verification, spacecraft tasking, in-contact commanding, telemetry analysis, and anomaly investigation to maintain spacecraft health and safety. Requires active Secret clearance and on-site presence in Longmont, CO on rotating 24/7 shifts. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/Satellite-Operations-Engineer_R24446)_
 
