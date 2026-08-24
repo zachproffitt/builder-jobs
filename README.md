@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **483 open roles** (20 new) &nbsp;·&nbsp; 1771 companies searched
+### **485 open roles** (28 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,94 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [2027 DevOps Summer Internship ](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$26-$35/hr`
+
+_Support cloud infrastructure, automation, and DevOps tooling for aerospace mission software development. Work on AWS environment maintenance, Infrastructure as Code, CI/CD pipelines, and containerization technologies supporting real lunar and Mars exploration missions. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)_
+
+`AWS` `Terraform` `CloudFormation` `Kubernetes` `Docker` `GitLab` `Python` `Bash`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
+
+### [2027 Machine Learning Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$58k-$77k`
+
+_Build machine learning models for aerospace applications including spacecraft autonomy, anomaly detection, and natural language processing supporting Moon and Mars exploration missions. Work on real mission-focused projects with mentorship from experienced aerospace engineers. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009)_
+
+`Python` `PyTorch` `TensorFlow` `Pandas` `NumPy` `Scikit-learn` `CUDA` `Computer Vision`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
+
+### [2027 Mission Design Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324900009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$52k-$70k`
+
+_Support spacecraft mission design and astrodynamics research for lunar and interplanetary missions, including trajectory analysis, orbit optimization, and navigation algorithms. Work on real active space missions including NASA's CAPSTONE and AFRL's Oracle. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324900009)_
+
+`Python` `MATLAB` `Orbital Mechanics` `Trajectory Optimization` `Three-Body Dynamics` `Machine Learning` `Astrodynamics`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
+
+### [2027 Navigation Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324913009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$52k-$70k`
+
+_Support spacecraft navigation and astrodynamics projects for lunar and interplanetary missions, including trajectory analysis, orbit determination, and optimization algorithms. Apply orbital mechanics and programming to real NASA and AFRL space missions. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324913009)_
+
+`Python` `MATLAB` `Orbital Mechanics` `Astrodynamics` `Spacecraft Navigation` `Trajectory Optimization` `Machine Learning`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
+
+### [2027 Software Engineering Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009)
+<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$52k-$70k`
+
+_Build software systems supporting real lunar and deep-space missions, including onboard spacecraft software, ML applications, visualization tools, and flight software development infrastructure. Onsite internship at aerospace company operating NASA's CAPSTONE mission. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009)_
+
+`Python` `C++` `Bash` `Linux` `Git` `Machine Learning` `Embedded Software` `Flight Software`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
+
+### [Senior Distributed Systems Engineer](https://job-boards.greenhouse.io/censys/jobs/8684280002)
+<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Senior` `$151k-$206k` `Equity`
+
+_Build large-scale, real-time data-driven services and distributed infrastructure for Internet-wide scanning, DNS resolution, and certificate ingestion; requires designing highly-available systems that integrate machine learning and security research at global scale. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8684280002)_
+
+`Go` `AWS` `GCP` `Azure` `Kafka` `Kinesis` `Pub/Sub` `Kubernetes`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
+
+### [Staff Corporate Security Engineer ](https://job-boards.greenhouse.io/gitlab/jobs/8734888002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `$168k-$238k` `Equity`
+
+_Build secure-by-default endpoint and infrastructure controls for GitLab's fully remote organization using Infrastructure-as-Code and GitOps workflows. Lead macOS security architecture across 50+ million users while automating endpoint hardening, patching, and compliance through Terraform and code-based systems. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8734888002)_
+
+`Terraform` `Jamf Pro` `Infrastructure-as-Code` `Python` `bash` `PowerShell` `Go` `GitOps`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
+
+### [Sr. Manager, Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6908633)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Seattle, Washington / Palo Alto, California / San Francisco, California / Remote · `🟢 Remote` `Manager` `$208k-$429k` `Equity`
+
+_Lead the engineering organization building AI foundations, proactive experiences, and agentic systems at Pinterest—defining technical strategy, scaling teams, and driving execution across LLM integration, personalization, and AI infrastructure to power the next generation of user-facing AI experiences. Requires deep technical credibility in AI/ML systems and proven experience managing managers across complex, cross-functional organizations at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=6908633)_
+
+`Foundation Models` `LLM Systems` `Personalization` `Agentic Systems` `Generative AI` `Distributed Systems`
+
+<sub>August 24, 2026 at 20:40 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Applied AI](https://job-boards.greenhouse.io/parachutehealth/jobs/5220321007)
 <a href="https://parachute.com"><img src="https://www.google.com/s2/favicons?domain=parachute.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Parachute Health** · `🟢 Remote` `Staff` `$200k-$260k` `Equity`
