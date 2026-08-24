@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **498 open roles** (38 new) &nbsp;·&nbsp; 1771 companies searched
+### **504 open roles** (41 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 24, 2026
+
+### [Staff Software Engineer, Developer Platform ](https://job-boards.greenhouse.io/chainguard/jobs/4707850006)
+<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k-$231k` `Equity`
+
+_Build and operate internal developer platform infrastructure powering CI/CD, agentic AI systems, and monorepo orchestration that accelerates Chainguard's engineering velocity. Scale change throughput beyond traditional PR workflows, optimize build system reliability, and productionize AI agent observability and context-engineering patterns. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4707850006)_
+
+`Go` `CI/CD` `Kubernetes` `GitHub Actions` `Argo Workflows` `Buildkite` `LLM/Agentic AI` `Container Orchestration`
+
+<sub>August 24, 2026 at 23:29 UTC</sub>
+
+---
+
+### [Senior Back End Engineer, Data and Cloud](https://job-boards.greenhouse.io/learnlux/jobs/5400343008)
+<a href="https://learnlux.com"><img src="https://www.google.com/s2/favicons?domain=learnlux.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LearnLux** · `🟢 Remote` `Senior` `$145k–$190k USD`
+
+_Design and build scalable backend systems and data infrastructure powering an enterprise financial wellness SaaS platform, including SQL databases, data pipelines, cloud infrastructure on GCP, and AI-enabled features. Experience with regulated, compliance-heavy fintech environments and ability to operate in a fast-moving startup are required. · [Apply →](https://job-boards.greenhouse.io/learnlux/jobs/5400343008)_
+
+`Python` `Node.js` `GCP` `AWS` `SQL` `Pulumi` `Terraform` `PostgreSQL`
+
+<sub>August 24, 2026 at 23:29 UTC</sub>
+
+---
+
+### [Senior Staff Software Systems Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer_R24404)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Staff` `$128k-$187k` `Equity`
+
+_Serve as technical authority for a product or major product evolution, defining system architecture and leading cross-team technical decisions for complex, spatially-intelligent software systems. Work directly with product and customers to validate requirements, resolve integration risks, and guide deployment from concept through operational readiness; requires US person status for ITAR compliance. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer_R24404)_
+
+`Distributed Systems` `Cloud-Native Platforms` `Kubernetes` `System Architecture` `Event-Driven Architecture` `Operational Readiness` `Model-Based Systems Engineering`
+
+<sub>August 24, 2026 at 23:29 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Foundations - CAN](https://jobs.ashbyhq.com/vanta/a59302dc-b7ea-4bba-af3c-ddab91489848)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Staff` `Equity`
+
+_Lead the re-platforming of Vanta's resource data layer from MongoDB to PostgreSQL, migrating from a Mongo-centric to a schema-aware, Postgres-backed architecture on Kafka and S3 pipelines while preserving all public API contracts and maintaining data integrity for compliance audits. Design and operate data ingestion infrastructure handling tens of thousands of resources per second with single-customer bursts into the millions, ensuring correctness under eventual consistency across distributed systems at terabyte scale. · [Apply →](https://jobs.ashbyhq.com/vanta/a59302dc-b7ea-4bba-af3c-ddab91489848)_
+
+`PostgreSQL` `MongoDB` `Kafka` `TypeScript` `Node.js` `AWS` `Redis` `Distributed Systems`
+
+<sub>August 24, 2026 at 23:29 UTC</sub>
+
+---
 
 ### [Business Intelligence Engineer II](https://jobs.ashbyhq.com/kafene/be1109d1-7ee9-47e8-9ff6-e65515dcb736)
 <a href="https://kafene.com"><img src="https://www.google.com/s2/favicons?domain=kafene.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kafene** · `🟢 Remote` `Mid` `$130k-$150k`
@@ -234,17 +278,6 @@ _Design and build agentic LLM pipelines and full-stack product features (Python/
 
 ---
 
-### [Senior Web Developer](https://jobs.ashbyhq.com/horizon3ai/d51d66d3-3d79-4a46-9fac-7ccd22347f87)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$160k-$189k` `Equity`
-
-_Build and maintain the Horizon3 marketing website in WordPress, owning front-end development, page performance, conversion optimization, and technical SEO to drive enterprise pipeline. Own site speed, Core Web Vitals, analytics tracking, accessibility compliance, and A/B testing on a high-conversion B2B SaaS marketing property. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/d51d66d3-3d79-4a46-9fac-7ccd22347f87)_
-
-`WordPress` `HTML` `CSS` `JavaScript` `Google Tag Manager` `Google Analytics` `Git` `Figma`
-
-<sub>August 24, 2026 at 18:52 UTC</sub>
-
----
-
 ### [Principal Data Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007)
 <a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Principal` `$200k-$290k` `Equity`
 
@@ -278,12 +311,12 @@ _Design and implement solutions for Honeycomb's query and data storage infrastru
 
 ---
 
-### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154308)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k-$207k` `Equity`
+### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154300)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Build and operate detection systems that identify threats across Instacart's cloud-native platform, developing high-fidelity detection logic, automating response workflows, and hunting novel attacker techniques across endpoint, cloud, container, and SaaS environments. Requires deep expertise in cloud security, macOS internals, and detection-as-code practices in a complex, high-scale environment. · [Apply →](https://instacart.careers/job/?gh_jid=8154308)_
+_Build and operate detection systems across Instacart's cloud-native infrastructure to identify and respond to security threats at scale. Develop detection-as-code logic for endpoint, cloud, container, and SaaS telemetry; hunt novel attacker techniques; and mentor detection engineers on forensic investigation and threat response. · [Apply →](https://instacart.careers/job/?gh_jid=8154300)_
 
-`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `detection-as-code` `macOS internals`
+`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `Detection-as-Code` `Incident Response`
 
 <sub>August 24, 2026 at 16:49 UTC</sub>
 
@@ -409,7 +442,7 @@ _Build and maintain core Ubuntu and open source infrastructure across the full s
 ---
 
 ### [Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
 
 _Build and operate cloud networking infrastructure across multi-region AWS environments, including Transit Gateway, VPC patterns, and hybrid connectivity supporting CrowdStrike's global security platform processing 3 trillion events daily. Work with infrastructure-as-code, Terraform, and Kubernetes to implement scalable, secure patterns across a mission-critical, high-growth environment. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)_
 
@@ -420,7 +453,7 @@ _Build and operate cloud networking infrastructure across multi-region AWS envir
 ---
 
 ### [Sr. Linux Systems Engineer - Object Storage (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Design, build, and operate a custom S3-compatible object storage infrastructure spanning 3,000+ Linux servers across hybrid cloud environments, handling 3 trillion events per day. Requires US citizenship or green card; will mentor junior engineers and lead cross-functional technical initiatives. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)_
 
