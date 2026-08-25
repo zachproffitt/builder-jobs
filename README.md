@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **483 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
+### **471 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [AI Engineer](https://jobs.ashbyhq.com/ditto/50646667-e435-4245-9194-588138ae886a)
+<a href="https://ditto.com"><img src="https://www.google.com/s2/favicons?domain=ditto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ditto Labs** · `🟢 Remote` `Senior` `Equity`
+
+_Build Symphony, the agent execution runtime and developer platform that compiles briefs into running agent teams with typed tool surfaces, deterministic gates, and measurable evaluation loops. Own the end-to-end system from prompt and context design through sandboxing, CI/CD plumbing, and cost attribution — your users are Ditto's engineers, and you'll ship the thing they run every day. · [Apply →](https://jobs.ashbyhq.com/ditto/50646667-e435-4245-9194-588138ae886a)_
+
+`Python` `LLM Systems` `Agentic Systems` `MCP` `Pydantic` `OpenTelemetry` `Rust` `Swift`
+
+<sub>August 25, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Manager II, Config Deployments](https://www.pinterestcareers.com/jobs/?gh_jid=8104117)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Manager` `$177k-$364k` `Equity`
+
+_Lead an engineering team building high-scale configuration distribution and feature flag infrastructure platforms that serve thousands of internal engineers and power Pinterest's flagship product. The role requires deep expertise in distributed systems and feature flag/configuration management, with emphasis on balancing safety, velocity, and developer experience at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8104117)_
+
+`Feature Flags` `Configuration Management` `Distributed Systems` `CI/CD` `Infrastructure`
+
+<sub>August 25, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Senior Machine Learning Engineer](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Remote-Canada/Senior-Machine-Learning-Engineer_REQ-12666)
+<a href="https://q2.com"><img src="https://www.google.com/s2/favicons?domain=q2.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Q2** · `🟢 Remote` `Senior`
+
+_Design and deliver production-ready AI solutions, APIs, and microservices for financial services platforms, including evaluation frameworks, deployment pipelines, and agentic workflows. Work across the full stack from cloud infrastructure to LLM integration at enterprise scale. · [Apply →](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Remote-Canada/Senior-Machine-Learning-Engineer_REQ-12666)_
+
+`Python` `Kubernetes` `Docker` `MLOps` `LLM` `RAG` `FastAPI` `PostgreSQL`
+
+<sub>August 25, 2026 at 21:36 UTC</sub>
+
+---
+
+### [SAA UI/Backend Team Lead and Architect](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/SAA-UI-Backend-Team-Lead-and-Architect_R014005)
+<a href="https://sailpoint.com"><img src="https://www.google.com/s2/favicons?domain=sailpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sailpoint** · `🟢 Remote` `Senior` `$97k - $164k` `Equity`
+
+_Build and architect foundational identity governance solutions for SailPoint's largest enterprise customers, combining implementation expertise with AI tooling to solve complex access management problems. Requires leading customer engagements, mastering agentic AI technologies, and serving as a technical advisor across strategic accounts. · [Apply →](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/SAA-UI-Backend-Team-Lead-and-Architect_R014005)_
+
+`Java` `Python` `JavaScript` `TypeScript` `Node.js` `React` `Angular` `SQL`
+
+<sub>August 25, 2026 at 21:36 UTC</sub>
+
+---
+
+### [Senior Manager, Enterprise Security](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221875007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Manager` `$165k-$250k` `Equity`
+
+_Lead and mentor a team of security engineers building enterprise security programs, vulnerability management, and Linux fleet security for autonomous spacecraft and space-based systems. Requires active security clearance and ITAR authorization. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221875007)_
+
+`Python` `Go` `Bash` `Rust` `Terraform` `Cloud Security` `SIEM` `Vulnerability Management`
+
+<sub>August 25, 2026 at 21:36 UTC</sub>
+
+---
 
 ### [Sr. Software Engineer, Linux Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)
 <a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
@@ -278,12 +333,12 @@ _Design and implement secure, end-to-end Kubernetes and Docker-based cluster lif
 
 ---
 
-### [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128891004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$169k-$225k` `Equity`
+### [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Build detection, incident response, and security automation infrastructure for a cloud analytics platform serving 4,000+ customers including Meta, Tesla, and Capital One. Handle threat modeling, security logging, and attack surface management across large-scale cloud infrastructure. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6128891004)_
+_Build detection and incident response automation systems for a cloud analytics platform serving thousands of customers. Develop threat modeling processes and security logging infrastructure to scale detection capabilities across large-scale customer-facing cloud infrastructure. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004)_
 
-`Python` `Golang` `AWS` `GCP` `Azure` `Incident Response` `Threat Modeling` `Security Automation`
+`Python` `Golang` `AWS` `GCP` `Azure` `Incident Response` `Threat Modeling`
 
 <sub>August 25, 2026 at 13:04 UTC</sub>
 
@@ -433,83 +488,6 @@ _Build the geospatial data platform that powers location-aware features across S
 `Geospatial data` `PostGIS` `PostgreSQL` `Distributed Systems` `Python` `Data pipelines` `GeoParquet` `OpenStreetMap`
 
 <sub>August 24, 2026 at 22:36 UTC</sub>
-
----
-
-### [2027 Systems Engineering Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4376394009)
-<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$26-$35/hour`
-
-_Support systems engineering activities for spacecraft and lunar mission development, including requirements management, architecture design, and integration/verification work. Real-world experience on NASA CAPSTONE and AFRL Oracle missions. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376394009)_
-
-`Systems Engineering` `Requirements Management` `MATLAB` `Python` `Mission Architecture` `Spacecraft Systems` `Orbital Mechanics`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [Cloud and DevOps Engineer (5–8 yrs)](https://job-boards.greenhouse.io/advancedspace/jobs/4376621009)
-<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `🟡 Hybrid` `Senior` `$116k-$150k` `Equity`
-
-_Architect and maintain secure, scalable AWS cloud infrastructure and CI/CD pipelines supporting NASA and national security space missions. Requires ability to obtain security clearance and work on-site in Westminster, CO 3–5 days/week. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376621009)_
-
-`AWS` `Terraform` `Kubernetes` `Docker` `Python` `Bash` `Ansible` `GitLab`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [IT Systems Engineer, Mobile Client Platform Engineer ](https://job-boards.greenhouse.io/anthropic/jobs/5396384008)
-<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Boston, Massachusetts / Seattle, Washington / New York, New York / Washington, D.C. / Remote · `🟢 Remote` `Senior` `$285k-$325k` `Equity`
-
-_Design and build a global corporate-issued mobile device program from scratch, managing device enrollment, policy-as-code, fleet telemetry, and MDM infrastructure across multiple regions at thousands-of-devices scale. Requires deep iOS platform expertise, self-hosted MDM infrastructure experience, and multi-region logistics ownership. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5396384008)_
-
-`Python` `Bash` `iOS Platform Internals` `Android Platform Internals` `Jamf` `Terraform` `AWS` `GitOps`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [Principal Incident Response Security Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Incident-Response-Security-Engineer_R0061881)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Principal` `$138k-$200.1k`
-
-_Lead enterprise incident response operations—design detection and automation frameworks, conduct forensic investigations, and mentor security analysts across a financial services environment. Requires CISSP certification and hands-on technical depth in EDR, SIEM, and cloud security at scale; on-call incident response rotation expected. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Incident-Response-Security-Engineer_R0061881)_
-
-`Python` `PowerShell` `AWS` `EDR` `SIEM` `Incident Response` `CISSP` `Terraform`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [Staff Software Engineer, Data Warehouse Foundation ](https://www.pinterestcareers.com/jobs/?gh_jid=8076015)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Palo Alto, California / Remote · `🟢 Remote` `Staff` `$177k–$364k` `Equity`
-
-_Design and lead Pinterest's exadata-scale data warehouse architecture, storage patterns, and access infrastructure while building agentic analytical tools that accelerate data-driven decision-making across the company. Requires hands-on expertise in large-scale data platforms (Spark, Trino, Flink, Airflow) and AI-assisted development tooling. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8076015)_
-
-`Spark` `Trino` `Flink` `Airflow` `Python` `SQL` `Distributed Systems`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [Staff Software Engineer, Storage Services](https://www.pinterestcareers.com/jobs/?gh_jid=8047425)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Staff` `$177k-$364k` `Equity`
-
-_Lead the design and evolution of Pinterest's distributed SQL and graph storage platform serving 100TB+ datasets and 1.5M+ queries per second. Drive technical strategy for modernizing the storage stack, improve query performance at massive scale, and mentor senior engineers building infrastructure for business-critical applications. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8047425)_
-
-`Java` `Python` `C++` `Distributed SQL` `TiDB` `Graph Databases` `Distributed Systems` `Performance Engineering`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [Staff Software Engineer, Foundations](https://jobs.ashbyhq.com/vanta/87d75493-1d6e-490e-b5ac-d807f5fb5621)
-<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Staff` `Equity`
-
-_Lead the migration of Vanta's resource data platform from MongoDB to PostgreSQL while running both systems in parallel, preserving all public APIs and customer data integrity. Design distributed data ingestion pipelines processing terabyte-scale compliance streams with correctness guarantees suitable for SOC 2 and FedRAMP audits. · [Apply →](https://jobs.ashbyhq.com/vanta/87d75493-1d6e-490e-b5ac-d807f5fb5621)_
-
-`PostgreSQL` `MongoDB` `Kafka` `TypeScript` `Node.js` `AWS` `Redis` `Distributed Systems`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
 
 ---
 
