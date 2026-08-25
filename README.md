@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **458 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
+### **445 open roles** (44 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -381,12 +381,12 @@ _Design and implement solutions for Honeycomb's query and data storage infrastru
 
 ---
 
-### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154300)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154308)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k-$207k` `Equity`
 
-_Build and operate detection systems across Instacart's cloud-native infrastructure to identify and respond to security threats at scale. Develop detection-as-code logic for endpoint, cloud, container, and SaaS telemetry; hunt novel attacker techniques; and mentor detection engineers on forensic investigation and threat response. · [Apply →](https://instacart.careers/job/?gh_jid=8154300)_
+_Build and operate detection systems that identify threats across Instacart's cloud-native platform, developing high-fidelity detection logic, automating response workflows, and hunting novel attacker techniques across endpoint, cloud, container, and SaaS environments. Requires deep expertise in cloud security, macOS internals, and detection-as-code practices in a complex, high-scale environment. · [Apply →](https://instacart.careers/job/?gh_jid=8154308)_
 
-`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `Detection-as-Code` `Incident Response`
+`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `detection-as-code` `macOS internals`
 
 <sub>August 24, 2026 at 16:49 UTC</sub>
 
@@ -497,17 +497,6 @@ _Lead the integration implementation team, establishing and maintaining critical
 `Zapier` `QuickBooks Online` `Procore` `CompanyCam` `Sage` `Macro integrations` `Integration troubleshooting` `API integrations`
 
 <sub>August 24, 2026 at 13:06 UTC</sub>
-
----
-
-### [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://job-boards.greenhouse.io/canonical/jobs/8142329)
-<a href="https://canonical.com"><img src="https://www.google.com/s2/favicons?domain=canonical.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Canonical** · `🟢 Remote` `Junior`
-
-_Build and maintain core Ubuntu and open source infrastructure across the full stack—from BIOS and kernel to cloud platforms and desktop applications. Work on systems serving millions of users in enterprise, cloud, AI, and IoT, with exposure to kernel development, packaging, security, and compilers across Python, Rust, C/C++, Go, and JavaScript. · [Apply →](https://job-boards.greenhouse.io/canonical/jobs/8142329)_
-
-`Python` `Rust` `C/C++` `Go` `JavaScript` `Linux` `Ubuntu` `Kubernetes`
-
-<sub>August 24, 2026 at 09:57 UTC</sub>
 
 ---
 
