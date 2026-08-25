@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **445 open roles** (44 new) &nbsp;·&nbsp; 1771 companies searched
+### **445 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128891004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$169k-$225k` `Equity`
+
+_Build detection, incident response, and security automation infrastructure for a cloud analytics platform serving 4,000+ customers including Meta, Tesla, and Capital One. Handle threat modeling, security logging, and attack surface management across large-scale cloud infrastructure. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6128891004)_
+
+`Python` `Golang` `AWS` `GCP` `Azure` `Incident Response` `Threat Modeling` `Security Automation`
+
+<sub>August 25, 2026 at 13:04 UTC</sub>
+
+---
+
+### [Senior Data Engineer](https://job-boards.greenhouse.io/dragos/jobs/5372226008)
+<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Senior` `$165k` `Equity`
+
+_Design and build data pipelines and transformation layers for critical infrastructure cybersecurity analytics, modeling complex industrial control system data at scale. Work involves data contracts, dimensional modeling, and observability frameworks in a Kubernetes environment serving threat detection and intelligence platforms. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5372226008)_
+
+`Python` `Go` `Kubernetes` `Docker` `dbt` `Airflow` `Spark` `PostgreSQL`
+
+<sub>August 25, 2026 at 13:04 UTC</sub>
+
+---
 
 ### [Senior Field Engineer (Pre-Sales/Forward Deployed)](https://job-boards.eu.greenhouse.io/cognite/jobs/4959734101)
 <a href="https://cognite.com"><img src="https://www.google.com/s2/favicons?domain=cognite.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cognite LLC** · Houston, Texas / Remote · `🟢 Remote` `Senior`
@@ -381,12 +403,12 @@ _Design and implement solutions for Honeycomb's query and data storage infrastru
 
 ---
 
-### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154308)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k-$207k` `Equity`
+### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154300)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Build and operate detection systems that identify threats across Instacart's cloud-native platform, developing high-fidelity detection logic, automating response workflows, and hunting novel attacker techniques across endpoint, cloud, container, and SaaS environments. Requires deep expertise in cloud security, macOS internals, and detection-as-code practices in a complex, high-scale environment. · [Apply →](https://instacart.careers/job/?gh_jid=8154308)_
+_Build and operate detection systems across Instacart's cloud-native infrastructure to identify and respond to security threats at scale. Develop detection-as-code logic for endpoint, cloud, container, and SaaS telemetry; hunt novel attacker techniques; and mentor detection engineers on forensic investigation and threat response. · [Apply →](https://instacart.careers/job/?gh_jid=8154300)_
 
-`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `detection-as-code` `macOS internals`
+`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `Detection-as-Code` `Incident Response`
 
 <sub>August 24, 2026 at 16:49 UTC</sub>
 
@@ -464,39 +486,6 @@ _Lead end-to-end execution of federal platform, IT services, and cloud infrastru
 _Lead a small infrastructure team responsible for operating and modernizing Swiftly's production platform, balancing hands-on technical contribution (50%) with people management, coaching, and strategic direction. · [Apply →](https://jobs.lever.co/SwiftlySystems/16451e78-1ea3-4b33-afcd-02b2324c1481)_
 
 <sub>August 24, 2026 at 14:52 UTC</sub>
-
----
-
-### [Satellite Operations Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/Satellite-Operations-Engineer_R24446)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Longmont, Colorado · `Mid` `$74k-$107.8k`
-
-_Monitor and command a satellite constellation through ground control systems, performing pre-contact verification, spacecraft tasking, in-contact commanding, telemetry analysis, and anomaly investigation to maintain spacecraft health and safety. Requires active Secret clearance and on-site presence in Longmont, CO on rotating 24/7 shifts. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/Satellite-Operations-Engineer_R24446)_
-
-`Satellite Operations` `Spacecraft Systems` `Telemetry Analysis` `Mission Control Systems` `Secret Clearance`
-
-<sub>August 24, 2026 at 13:06 UTC</sub>
-
----
-
-### [Solutions Integration Engineer II](https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$73k-$111k` `Equity`
-
-_Design and develop enterprise B2B integrations with Samsara's IoT platform APIs, building scalable solutions for fleet, logistics, and industrial customers. Lead complex integration projects end-to-end from requirements gathering through deployment, including real-time data streaming, event subscriptions, and batch processing architecture. · [Apply →](https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615)_
-
-`Python` `JavaScript` `AWS` `Azure` `GCP` `REST APIs` `SQL` `GitHub`
-
-<sub>August 24, 2026 at 13:06 UTC</sub>
-
----
-
-### [Integration Team Manager](https://alignops.bamboohr.com/careers/131)
-<a href="https://toolwatch.com"><img src="https://www.google.com/s2/favicons?domain=toolwatch.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ToolWatch** · `🟢 Remote` `Manager` `$75k-$90k`
-
-_Lead the integration implementation team, establishing and maintaining critical integrations between AlignOps' platform and enterprise software (QuickBooks, Procore, CompanyCam, Sage) while managing macro scoping, testing, and troubleshooting. Hands-on leadership role that combines technical integration work with team coaching and cross-functional collaboration across sales engineering and product teams. · [Apply →](https://alignops.bamboohr.com/careers/131)_
-
-`Zapier` `QuickBooks Online` `Procore` `CompanyCam` `Sage` `Macro integrations` `Integration troubleshooting` `API integrations`
-
-<sub>August 24, 2026 at 13:06 UTC</sub>
 
 ---
 
