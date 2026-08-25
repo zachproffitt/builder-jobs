@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **456 open roles** (42 new) &nbsp;·&nbsp; 1771 companies searched
+### **425 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,72 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Staff AI Data Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004)
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · `🟢 Remote` `Staff` `$177k—$265k` `Equity`
+
+_Design and build data infrastructure, pipelines, and services powering AI/ML workflows across PlayStation Studios, including LLM applications, agentic systems, and production analytics. Operate at Staff level influencing architecture and engineering standards across multiple teams. · [Apply →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004)_
+
+`Python` `Terraform` `AWS` `GCP` `PostgreSQL` `Snowflake` `Airflow` `Kafka`
+
+<sub>August 25, 2026 at 16:48 UTC</sub>
+
+---
+
+### [Senior GTM Systems & AI Engineer](https://job-boards.greenhouse.io/cobaltio/jobs/8743072002)
+<a href="https://cobalt.io"><img src="https://www.google.com/s2/favicons?domain=cobalt.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cobalt** · `🟢 Remote` `Senior` `$135k-$160k` `Equity`
+
+_Own the Salesforce, HubSpot, and GTM technology ecosystem for a B2B SaaS pentesting platform — design integrations, data pipelines, and workflow automation connecting Marketing, Sales, and Customer Success systems. Build AI-enabled workflows and automation using n8n, Zapier, and APIs to improve GTM operations at scale. · [Apply →](https://job-boards.greenhouse.io/cobaltio/jobs/8743072002)_
+
+`Salesforce` `HubSpot` `n8n` `Zapier` `APIs` `Webhooks` `SQL` `Python`
+
+<sub>August 25, 2026 at 16:48 UTC</sub>
+
+---
+
+### [Sr. Forward Deployed Engineer - National Security Professional Services ](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · Boston, Massachusetts / Delaware / Maryland / Virginia / West Virginia / Remote · `🟢 Remote` `Senior` `$182k–$250k` `Equity`
+
+_Build and productionize end-to-end data engineering, ML/AI, and application solutions for federal government customers on the Databricks platform, owning architecture and design decisions. Requires US citizenship and Secret clearance eligibility for classified information access; hybrid with 20-25% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002)_
+
+`Python` `Scala` `JavaScript/TypeScript` `Apache Spark` `AWS` `Azure` `GCP` `MLOps`
+
+<sub>August 25, 2026 at 16:48 UTC</sub>
+
+---
+
+### [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
+
+_Build scalable automation solutions that integrate compliance controls across CrowdStrike's systems and processes, automating audit workflows and compliance attestations at scale processing 3 trillion security events daily. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)_
+
+`Python` `Bash` `PowerShell` `Workflow Automation` `SOC 2` `ISO/IEC 27001` `AI toolsets`
+
+<sub>August 25, 2026 at 16:48 UTC</sub>
+
+---
+
+### [Senior AI / ML Engineer (LLMs)](https://job-boards.greenhouse.io/evolutioniq/jobs/6161432004)
+<a href="https://evolutioniq.com"><img src="https://www.google.com/s2/favicons?domain=evolutioniq.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EvolutionIQ** · New York, New York / Remote · `🟢 Remote` `Senior` `$200k-$235k` `Equity`
+
+_Design and build AI-powered claim synthesis features using LLMs, RAG, and statistical machine learning, leading technical projects end-to-end from architecture through production deployment. Work with medical documents at scale in a fast-paced healthtech startup. · [Apply →](https://job-boards.greenhouse.io/evolutioniq/jobs/6161432004)_
+
+`Python` `LLMs` `RAG` `PyTorch` `TensorFlow` `Prompt Engineering` `Vector Databases` `Microservices`
+
+<sub>August 25, 2026 at 16:48 UTC</sub>
+
+---
+
+### [Staff Analytics Engineer (Remote)](https://jobs.ashbyhq.com/rula/bb8f5624-a8a0-40fe-a21a-89226281a930)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Staff`
+
+_Lead the architectural design and execution of Rula's migration to Snowflake and Medallion data platforms, establishing structural blueprints and enforcement gates that scale reliably across domain teams. Own warehouse optimization, cost governance, CI/CD testing infrastructure, and drive organization-wide adoption of AI-assisted engineering tools in a healthcare data environment. · [Apply →](https://jobs.ashbyhq.com/rula/bb8f5624-a8a0-40fe-a21a-89226281a930)_
+
+`Snowflake` `dbt` `SQL` `Medallion Architecture` `GitHub` `CI/CD` `Python` `HIPAA`
+
+<sub>August 25, 2026 at 16:48 UTC</sub>
+
+---
 
 ### [Engineer](https://job-boards.greenhouse.io/raft/jobs/6150200004)
 <a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · Colorado Springs, Colorado · `Mid` `$80k-$110k`
@@ -25,10 +91,10 @@ _Design and develop test automation scripts and infrastructure for performance a
 
 ---
 
-### [Security Operations Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4727446005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$163k-$204k` `Equity`
+### [Security Operations Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4727397005)
+<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$218k—$273k CAD` `Equity`
 
-_Build and maintain security infrastructure for device management, access control, and data loss prevention across Tailscale's distributed organization. Automate security processes including MDM policy enforcement, endpoint patching, and identity/access management integrations (OIDC, SAML, SCIM). · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4727446005)_
+_Build and maintain security infrastructure for Tailscale's distributed organization, including device management (MDM), identity systems, and automation across macOS, Linux, and Windows endpoints. Coordinate with engineering leadership on security tech decisions and DLP policies for a fully remote team across multiple countries. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4727397005)_
 
 `MDM (Jamf, Kandji, Fleet, Intune)` `OIDC` `SAML` `SCIM` `Google Workspace` `Python` `Bash` `Go`
 
@@ -422,61 +488,6 @@ _Design and build scalable enterprise data platforms supporting batch, streaming
 `Python` `SQL` `Snowflake` `Databricks` `Redshift` `AWS` `dbt` `Airflow`
 
 <sub>August 24, 2026 at 18:52 UTC</sub>
-
----
-
-### [Security Engineer ](https://job-boards.greenhouse.io/chainguard/jobs/4707450006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Mid` `$105k-$123k` `Equity`
-
-_Design and deploy detection systems, threat hunting logic, and security automation across cloud-native infrastructure; build SOAR integrations and agentic AI-driven incident response playbooks. Work on a high-impact security platform serving Fortune 500 enterprises, with hands-on incident response and forensic analysis of production environments. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4707450006)_
-
-`Python` `Go` `shell scripting` `Cloud-native Security` `Endpoint Detection and Response` `Digital Forensics` `Incident Response` `Threat Intelligence`
-
-<sub>August 24, 2026 at 16:49 UTC</sub>
-
----
-
-### [Senior Software Engineer II - Storage](https://job-boards.greenhouse.io/honeycomb/jobs/5389580008)
-<a href="https://honeycomb.io"><img src="https://www.google.com/s2/favicons?domain=honeycomb.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Honeycomb** · `🟢 Remote` `Senior` `Equity`
-
-_Design and implement solutions for Honeycomb's query and data storage infrastructure, improving query performance, reliability, and scalability of systems handling billions of events. Own high-impact storage systems end-to-end from design through production support, with deep debugging expertise required for the most complex distributed systems challenges. · [Apply →](https://job-boards.greenhouse.io/honeycomb/jobs/5389580008)_
-
-`Go` `Kubernetes` `Database Engineering` `Distributed Systems` `High-Throughput Systems`
-
-<sub>August 24, 2026 at 16:49 UTC</sub>
-
----
-
-### [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154308)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k-$207k` `Equity`
-
-_Build and operate detection systems that identify threats across Instacart's cloud-native platform, developing high-fidelity detection logic, automating response workflows, and hunting novel attacker techniques across endpoint, cloud, container, and SaaS environments. Requires deep expertise in cloud security, macOS internals, and detection-as-code practices in a complex, high-scale environment. · [Apply →](https://instacart.careers/job/?gh_jid=8154308)_
-
-`Python` `Golang` `AWS` `Azure` `GCP` `SOAR` `detection-as-code` `macOS internals`
-
-<sub>August 24, 2026 at 16:49 UTC</sub>
-
----
-
-### [Professional Services Contact Center Engineer](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Professional-Services-Contact-Center-Engineer_R078454)
-<a href="https://ringcentral.com"><img src="https://www.google.com/s2/favicons?domain=ringcentral.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**RingCentral** · `🟢 Remote` `Mid` `$88k-$115k` `Equity`
-
-_Implement and configure RingCentral Contact Center solutions (RingCX, RCCC) end-to-end for enterprise customers, including IVR/ACD routing, PBX/CTI integration, and AI-powered features. Integrate with Salesforce, ServiceNow, Zendesk, and other platforms via REST APIs; manage concurrent projects across geographies with minimal oversight. · [Apply →](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Remote-USA/Professional-Services-Contact-Center-Engineer_R078454)_
-
-`JavaScript` `REST APIs` `IVR` `ACD` `CTI` `PBX` `VoIP` `Salesforce`
-
-<sub>August 24, 2026 at 16:49 UTC</sub>
-
----
-
-### [Software Solutions Architect, NVIS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Software-Solutions-Architect--NVIS_JR2019884-1)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `$152k-$287.5k` `Equity`
-
-_Build agentic AI solutions and LLM-powered agents for NVIS Central, an internal platform that automates delivery workflows, project visibility, and operational tasks across NVIDIA's infrastructure. Work with retrieval-augmented generation, multi-agent orchestration, function calling, and enterprise system integrations at scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NC-Remote/Software-Solutions-Architect--NVIS_JR2019884-1)_
-
-`Python` `LLM` `RAG` `Agentic AI` `REST APIs` `Docker` `Kubernetes` `SQL`
-
-<sub>August 24, 2026 at 16:49 UTC</sub>
 
 ---
 
