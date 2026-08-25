@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **482 open roles** (52 new) &nbsp;·&nbsp; 1771 companies searched
+### **483 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Sr. Software Engineer, Linux Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Build core endpoint detection and response features for the Linux sensor component of Falcon Host, processing thousands of events per second across file system, memory, process, and networking subsystems. Work on a distributed system handling 3 trillion events daily with cross-platform architecture across Windows, macOS, and Linux. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)_
+
+`C++` `Linux Kernel` `eBPF` `C` `Distributed Systems` `Memory Debugging` `System Performance Tuning`
+
+<sub>August 25, 2026 at 20:38 UTC</sub>
+
+---
+
+### [Cryptography Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cryptography-Engineer_R0247869)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Senior` `$86k-$198k`
+
+_Design and evaluate cryptographic strategies and architectures for U.S. Space Force missile warning, surveillance, and environmental monitoring systems. Requires TS/SCI clearance and direct collaboration with senior government officials on critical national security missions. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cryptography-Engineer_R0247869)_
+
+`Cryptography` `COMSEC` `Controlled Cryptographic Items (CCI)` `TS/SCI Clearance` `Security+` `DoD 8140 Intermediate Certification`
+
+<sub>August 25, 2026 at 20:38 UTC</sub>
+
+---
 
 ### [Senior Quality Automation Engineer](https://cotality.wd115.myworkdayjobs.com/Global/job/United-States/Senior-Quality-Automation-Engineer_REQ19351)
 <a href="https://corelogic.com"><img src="https://www.google.com/s2/favicons?domain=corelogic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CoreLogic** · `🟢 Remote` `Senior` `$107k-$150k`
@@ -69,7 +91,7 @@ _Lead the technical strategy for end-to-end ML systems across feature developmen
 
 ---
 
-### [Principal AI Engineer (Remote)](https://jobs.ashbyhq.com/rula/f9a905bb-e477-4679-923f-ba8aada1b9de)
+### [Principal AI Engineer - Personalization and Recommendation (Remote)](https://jobs.ashbyhq.com/rula/f9a905bb-e477-4679-923f-ba8aada1b9de)
 <a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Principal`
 
 _Build production-grade AI systems powering patient-provider matching, clinical workflows, and personalization in mental healthcare. Design and optimize search ranking, recommendation engines, and LLM-integrated features while establishing ML infrastructure and AI safety standards in a regulated (HIPAA) healthcare environment. · [Apply →](https://jobs.ashbyhq.com/rula/f9a905bb-e477-4679-923f-ba8aada1b9de)_
@@ -169,7 +191,7 @@ _Build and productionize end-to-end data engineering, ML/AI, and application sol
 ---
 
 ### [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
 
 _Build scalable automation solutions that integrate compliance controls across CrowdStrike's systems and processes, automating audit workflows and compliance attestations at scale processing 3 trillion security events daily. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)_
 
@@ -488,105 +510,6 @@ _Lead the migration of Vanta's resource data platform from MongoDB to PostgreSQL
 `PostgreSQL` `MongoDB` `Kafka` `TypeScript` `Node.js` `AWS` `Redis` `Distributed Systems`
 
 <sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [Curam Solution Architects](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Ottawa/Curam-Solution-Architects_R00350736)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$108k-$220k CAD`
-
-_Design and oversee implementation of Curam Social Program Management solutions, leading architecture decisions and technical standards for large-scale government service delivery platforms. Requires hands-on Curam expertise and Reliability security clearance. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Ottawa/Curam-Solution-Architects_R00350736)_
-
-`Curam` `Java` `J2EE` `SQL` `Rational Application Developer (RAD)` `Oracle Service Bus` `Curam Technical Certification`
-
-<sub>August 24, 2026 at 21:37 UTC</sub>
-
----
-
-### [2027 DevOps Summer Internship ](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)
-<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$26-$35/hr`
-
-_Support cloud infrastructure, automation, and DevOps tooling for aerospace mission software development. Work on AWS environment maintenance, Infrastructure as Code, CI/CD pipelines, and containerization technologies supporting real lunar and Mars exploration missions. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)_
-
-`AWS` `Terraform` `CloudFormation` `Kubernetes` `Docker` `GitLab` `Python` `Bash`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [2027 Machine Learning Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009)
-<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$58k-$77k`
-
-_Build machine learning models for aerospace applications including spacecraft autonomy, anomaly detection, and natural language processing supporting Moon and Mars exploration missions. Work on real mission-focused projects with mentorship from experienced aerospace engineers. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009)_
-
-`Python` `PyTorch` `TensorFlow` `Pandas` `NumPy` `Scikit-learn` `CUDA` `Computer Vision`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [2027 Mission Design Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324900009)
-<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$52k-$70k`
-
-_Support spacecraft mission design and astrodynamics research for lunar and interplanetary missions, including trajectory analysis, orbit optimization, and navigation algorithms. Work on real active space missions including NASA's CAPSTONE and AFRL's Oracle. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324900009)_
-
-`Python` `MATLAB` `Orbital Mechanics` `Trajectory Optimization` `Three-Body Dynamics` `Machine Learning` `Astrodynamics`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [2027 Navigation Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324913009)
-<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$52k-$70k`
-
-_Support spacecraft navigation and astrodynamics projects for lunar and interplanetary missions, including trajectory analysis, orbit determination, and optimization algorithms. Apply orbital mechanics and programming to real NASA and AFRL space missions. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324913009)_
-
-`Python` `MATLAB` `Orbital Mechanics` `Astrodynamics` `Spacecraft Navigation` `Trajectory Optimization` `Machine Learning`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [2027 Software Engineering Summer Internship](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009)
-<a href="https://advanced-space.com"><img src="https://www.google.com/s2/favicons?domain=advanced-space.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Advanced Space** · Westminster, Colorado · `Intern` `$52k-$70k`
-
-_Build software systems supporting real lunar and deep-space missions, including onboard spacecraft software, ML applications, visualization tools, and flight software development infrastructure. Onsite internship at aerospace company operating NASA's CAPSTONE mission. · [Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009)_
-
-`Python` `C++` `Bash` `Linux` `Git` `Machine Learning` `Embedded Software` `Flight Software`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [Senior Distributed Systems Engineer](https://job-boards.greenhouse.io/censys/jobs/8684280002)
-<a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Senior` `$151k-$206k` `Equity`
-
-_Build large-scale, real-time data-driven services and distributed infrastructure for Internet-wide scanning, DNS resolution, and certificate ingestion; requires designing highly-available systems that integrate machine learning and security research at global scale. · [Apply →](https://job-boards.greenhouse.io/censys/jobs/8684280002)_
-
-`Go` `AWS` `GCP` `Azure` `Kafka` `Kinesis` `Pub/Sub` `Kubernetes`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [Staff Corporate Security Engineer ](https://job-boards.greenhouse.io/gitlab/jobs/8734888002)
-<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `$168k-$238k` `Equity`
-
-_Build secure-by-default endpoint and infrastructure controls for GitLab's fully remote organization using Infrastructure-as-Code and GitOps workflows. Lead macOS security architecture across 50+ million users while automating endpoint hardening, patching, and compliance through Terraform and code-based systems. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8734888002)_
-
-`Terraform` `Jamf Pro` `Infrastructure-as-Code` `Python` `bash` `PowerShell` `Go` `GitOps`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [Sr. Manager, Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=6908633)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · Seattle, Washington / Palo Alto, California / San Francisco, California / Remote · `🟢 Remote` `Manager` `$208k-$429k` `Equity`
-
-_Lead the engineering organization building AI foundations, proactive experiences, and agentic systems at Pinterest—defining technical strategy, scaling teams, and driving execution across LLM integration, personalization, and AI infrastructure to power the next generation of user-facing AI experiences. Requires deep technical credibility in AI/ML systems and proven experience managing managers across complex, cross-functional organizations at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=6908633)_
-
-`Foundation Models` `LLM Systems` `Personalization` `Agentic Systems` `Generative AI` `Distributed Systems`
-
-<sub>August 24, 2026 at 20:40 UTC</sub>
 
 ---
 
