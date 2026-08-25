@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **464 open roles** (47 new) &nbsp;·&nbsp; 1771 companies searched
+### **480 open roles** (50 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Senior Software Engineer, Core Experience](https://instacart.careers/job/?gh_jid=8155585)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$214k-$221k` `Equity`
+
+_Design and build scalable backend systems for the Instacart platform, optimizing SQL queries and implementing data-driven features that adapt to customer shopping behavior. Lead cross-functional development projects from inception through deployment on a platform serving millions of users. · [Apply →](https://instacart.careers/job/?gh_jid=8155585)_
+
+`Java` `Python` `Ruby` `PostgreSQL` `MySQL` `GraphQL` `Machine Learning`
+
+<sub>August 25, 2026 at 18:51 UTC</sub>
+
+---
+
+### [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Staff` `$292k–$409k` `Equity`
+
+_Lead the technical strategy for end-to-end ML systems across feature development, training data generation, offline experimentation, and model iteration workflows for Reddit's Ads ML platform. Build distributed infrastructure abstractions and platform capabilities that accelerate ML engineering velocity across batch/streaming computation, lineage, quality, and observability. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8157275)_
+
+`Spark` `Kafka` `Flink` `Ray` `Airflow` `Kubernetes` `Databricks` `Machine Learning Infrastructure`
+
+<sub>August 25, 2026 at 18:51 UTC</sub>
+
+---
+
+### [Principal AI Engineer (Remote)](https://jobs.ashbyhq.com/rula/f9a905bb-e477-4679-923f-ba8aada1b9de)
+<a href="https://rula.com"><img src="https://www.google.com/s2/favicons?domain=rula.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rula** · `🟢 Remote` `Principal`
+
+_Build production-grade AI systems powering patient-provider matching, clinical workflows, and personalization in mental healthcare. Design and optimize search ranking, recommendation engines, and LLM-integrated features while establishing ML infrastructure and AI safety standards in a regulated (HIPAA) healthcare environment. · [Apply →](https://jobs.ashbyhq.com/rula/f9a905bb-e477-4679-923f-ba8aada1b9de)_
+
+`Python` `TypeScript` `Learning-to-Rank` `Elasticsearch` `Pinecone` `Weaviate` `PyTorch` `LLMs`
+
+<sub>August 25, 2026 at 18:51 UTC</sub>
+
+---
+
+### [ML Engineer, I - MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002)
+<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · `🟢 Remote` `Junior` `$132k` `Equity`
+
+_Support ML model development operations at scale for autonomous trucking, triaging pipeline issues, debugging model workflows, and maintaining MLOps infrastructure that keeps model development teams moving fast. Work on complex model infrastructure in autonomous driving with exposure across the full ML stack. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002)_
+
+`Python` `PyTorch` `CI/CD` `Kubernetes` `Ray` `Terraform` `MCAP` `PyArrow`
+
+<sub>August 25, 2026 at 18:51 UTC</sub>
+
+---
 
 ### [Lead Solutions Engineer](https://job-boards.greenhouse.io/coinme/jobs/5405586008)
 <a href="https://coinme.com"><img src="https://www.google.com/s2/favicons?domain=coinme.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Coinme** · `🟢 Remote` `Senior`
@@ -521,17 +565,6 @@ _Design and build agentic LLM pipelines and full-stack product features (Python/
 `Python` `FastAPI` `TypeScript` `React` `LangGraph` `LLM evaluation` `Prompt engineering` `AI-powered coding tools`
 
 <sub>August 24, 2026 at 19:37 UTC</sub>
-
----
-
-### [Principal Data Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Principal` `$200k-$290k` `Equity`
-
-_Design and build scalable enterprise data platforms supporting batch, streaming, analytics, and AI/ML workloads for autonomous spacecraft and space-based defense systems. ITAR-regulated defense contractor; U.S. citizenship or equivalent authorization required. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007)_
-
-`Python` `SQL` `Snowflake` `Databricks` `Redshift` `AWS` `dbt` `Airflow`
-
-<sub>August 24, 2026 at 18:52 UTC</sub>
 
 ---
 
