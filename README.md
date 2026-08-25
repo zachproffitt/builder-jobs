@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **480 open roles** (50 new) &nbsp;·&nbsp; 1771 companies searched
+### **482 open roles** (52 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Senior Quality Automation Engineer](https://cotality.wd115.myworkdayjobs.com/Global/job/United-States/Senior-Quality-Automation-Engineer_REQ19351)
+<a href="https://corelogic.com"><img src="https://www.google.com/s2/favicons?domain=corelogic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CoreLogic** · `🟢 Remote` `Senior` `$107k-$150k`
+
+_Build and maintain advanced test automation frameworks using Selenium, Java, and JavaScript across web and mobile platforms. Lead test automation strategy, API testing, performance testing, and CI/CD integration for a large-scale property intelligence platform serving the real estate ecosystem. · [Apply →](https://cotality.wd115.myworkdayjobs.com/Global/job/United-States/Senior-Quality-Automation-Engineer_REQ19351)_
+
+`Selenium` `Java` `JavaScript` `Postman` `API Testing` `Jenkins` `GitHub` `JMeter`
+
+<sub>August 25, 2026 at 19:39 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Media Creation](https://job-boards.greenhouse.io/reddit/jobs/8100220)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
+
+_Build the backend infrastructure and APIs powering Reddit's media creation tools, handling real-time video and image capture, editing, and publishing at scale. Architect asynchronous media processing pipelines and state management systems that translate complex user workflows into robust distributed systems. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8100220)_
+
+`Go` `Python` `Java` `C++` `GraphQL` `REST` `gRPC` `Redis`
+
+<sub>August 25, 2026 at 19:39 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Media Foundations](https://job-boards.greenhouse.io/reddit/jobs/8048988)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
+
+_Build the video and audio ingestion, processing, storage, and delivery infrastructure serving Reddit's 130M+ daily active users. Tackle large-scale distributed systems challenges across media compression, streaming protocols, and client-side optimization. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8048988)_
+
+`Go` `Python` `Java` `C++` `GraphQL` `gRPC` `Redis` `FFmpeg`
+
+<sub>August 25, 2026 at 19:39 UTC</sub>
+
+---
 
 ### [Senior Software Engineer, Core Experience](https://instacart.careers/job/?gh_jid=8155585)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$214k-$221k` `Equity`
@@ -554,17 +587,6 @@ _Lead the engineering organization building AI foundations, proactive experience
 `Foundation Models` `LLM Systems` `Personalization` `Agentic Systems` `Generative AI` `Distributed Systems`
 
 <sub>August 24, 2026 at 20:40 UTC</sub>
-
----
-
-### [Staff Software Engineer, Applied AI](https://job-boards.greenhouse.io/parachutehealth/jobs/5220321007)
-<a href="https://parachute.com"><img src="https://www.google.com/s2/favicons?domain=parachute.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Parachute Health** · `🟢 Remote` `Staff` `$200k-$260k` `Equity`
-
-_Design and build agentic LLM pipelines and full-stack product features (Python/FastAPI backend, TypeScript/React frontend) across Parachute's AI-powered medical equipment ordering platform. Ship reliable production AI workflows with strong evaluation frameworks, observability, and prompt iteration; requires 5+ years experience shipping end-to-end features in fast-paced 0-to-1 environments. · [Apply →](https://job-boards.greenhouse.io/parachutehealth/jobs/5220321007)_
-
-`Python` `FastAPI` `TypeScript` `React` `LangGraph` `LLM evaluation` `Prompt engineering` `AI-powered coding tools`
-
-<sub>August 24, 2026 at 19:37 UTC</sub>
 
 ---
 
