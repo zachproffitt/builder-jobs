@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **425 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
+### **464 open roles** (47 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Lead Solutions Engineer](https://job-boards.greenhouse.io/coinme/jobs/5405586008)
+<a href="https://coinme.com"><img src="https://www.google.com/s2/favicons?domain=coinme.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Coinme** · `🟢 Remote` `Senior`
+
+_Build and prototype crypto payment integrations for enterprise customers, translating complex legacy payments systems into Polygon-based payment architectures using AI-assisted development. Requires hands-on coding with payments infrastructure, fund flows, and settlement systems at scale. · [Apply →](https://job-boards.greenhouse.io/coinme/jobs/5405586008)_
+
+`Python` `JavaScript` `REST APIs` `PostgreSQL` `Polygon` `Solidity` `Web3.js` `Payments Infrastructure`
+
+<sub>August 25, 2026 at 17:39 UTC</sub>
+
+---
+
+### [Staff AI Researcher ](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8155679)
+<a href="https://recursion.com"><img src="https://www.google.com/s2/favicons?domain=recursion.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Recursion** · `🟢 Remote` `Staff` `$239k - $322k` `Equity`
+
+_Develop AI models and machine learning systems for end-to-end drug discovery and biomedical research, integrating large-scale biological data with frontier AI techniques to accelerate precision medicine. Work on a clinical-stage platform operating one of the largest AI compute clusters in biopharma, with direct feedback loops to real-world clinical outcomes. · [Apply →](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8155679)_
+
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Large-scale Data Processing` `Drug Discovery` `PyTorch` `TensorFlow`
+
+<sub>August 25, 2026 at 17:39 UTC</sub>
+
+---
+
+### [SOC Analyst](https://jobs.ashbyhq.com/horizon3ai/2fc84029-d765-4f41-a998-1d43ef1d2aba)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Mid` `$123k-$161k` `Equity`
+
+_Monitor and respond to security events using enterprise SIEM platforms, triage alerts, tune detection rules, and perform incident investigations across cloud, endpoint, and network environments. Requires US person eligible for federal security clearance. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/2fc84029-d765-4f41-a998-1d43ef1d2aba)_
+
+`Elastic SIEM` `Splunk` `Microsoft Sentinel` `KQL` `Python` `Bash` `AWS` `MITRE ATT&CK`
+
+<sub>August 25, 2026 at 17:39 UTC</sub>
+
+---
+
+### [Senior Software Engineer, GMS App Team](https://job-boards.greenhouse.io/planetlabs/jobs/8155646)
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Senior` `$142k–$203k` `Equity`
+
+_Build scalable backend services, frontend applications, and data solutions for Planet's next-generation global monitoring application serving defense and intelligence customers. Requires ITAR export control compliance and experience integrating complex geospatial systems. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/8155646)_
+
+`Go` `Python` `PostgreSQL` `React` `AWS` `GCP` `Terraform` `Geospatial Technologies`
+
+<sub>August 25, 2026 at 17:39 UTC</sub>
+
+---
 
 ### [Staff AI Data Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004)
 <a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · `🟢 Remote` `Staff` `$177k—$265k` `Equity`
