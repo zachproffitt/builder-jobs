@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **447 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
+### **464 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Senior Manager Quality Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager-Quality-Engineering_R0061391)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$105k-$149k`
+
+_Lead a quality assurance team responsible for testing strategy, automation, metrics, and defect reduction across organizational projects. Manage both onshore and offshore QA teams while establishing quality standards and best practices across cross-functional teams. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager-Quality-Engineering_R0061391)_
+
+`Test Automation` `Test Strategy` `Agile` `Quality Assurance`
+
+<sub>August 25, 2026 at 14:55 UTC</sub>
+
+---
+
+### [Lead Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061715)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
+
+_Lead the design and development of microservices-based architectures using Spring and Apache Kafka for enterprise financial applications. Mentor engineering teams and drive adoption of TDD/BDD practices across the organization. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061715)_
+
+`Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `MongoDB` `Hibernate` `Docker` `Kubernetes`
+
+<sub>August 25, 2026 at 14:55 UTC</sub>
+
+---
+
+### [Senior Engineer](https://job-boards.greenhouse.io/raft/jobs/6145257004)
+<a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · `🟢 Remote` `Senior` `$130k-$150k`
+
+_Design and implement secure, end-to-end Kubernetes and Docker-based cluster lifecycles with GitOps-driven CI/CD pipelines for U.S. federal and defense clients. Requires active security clearance and on-site presence within continental U.S.; defense contractor environment with DevSecOps, penetration testing, and ATO package responsibilities. · [Apply →](https://job-boards.greenhouse.io/raft/jobs/6145257004)_
+
+`Kubernetes` `Docker` `AWS` `GitOps` `CI/CD` `Ansible` `GitLab` `Istio`
+
+<sub>August 25, 2026 at 14:55 UTC</sub>
+
+---
 
 ### [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128891004)
 <a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$169k-$225k` `Equity`
@@ -477,15 +510,6 @@ _Lead end-to-end execution of federal platform, IT services, and cloud infrastru
 `AWS` `Terraform` `FedRAMP` `DoD Impact Levels` `Datadog` `Kubernetes` `Infrastructure-as-Code` `Compliance-as-Code`
 
 <sub>August 24, 2026 at 15:49 UTC</sub>
-
----
-
-### [Engineering Manager](https://jobs.lever.co/SwiftlySystems/16451e78-1ea3-4b33-afcd-02b2324c1481)
-<a href="https://swiftly.com"><img src="https://www.google.com/s2/favicons?domain=swiftly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Swiftly** · `🟢 Remote` `Manager`
-
-_Lead a small infrastructure team responsible for operating and modernizing Swiftly's production platform, balancing hands-on technical contribution (50%) with people management, coaching, and strategic direction. · [Apply →](https://jobs.lever.co/SwiftlySystems/16451e78-1ea3-4b33-afcd-02b2324c1481)_
-
-<sub>August 24, 2026 at 14:52 UTC</sub>
 
 ---
 
