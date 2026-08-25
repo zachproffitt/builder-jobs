@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **476 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
+### **482 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,50 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [AI Engineer, GTM Claudification ](https://job-boards.greenhouse.io/anthropic/jobs/5390966008)
+<a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anthropic** · San Francisco, California / Seattle, Washington / Remote · `🟢 Remote` `Senior` `$320k–$405k` `Equity`
+
+_Build autonomous agents that run complete go-to-market motions (inbound, outbound, pipeline management) end-to-end, with production observability, evaluation frameworks, and MCP servers that connect to revenue systems. This is a senior technical leadership role requiring production LLM systems experience and expertise in agent evaluation at scale. · [Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5390966008)_
+
+`Python` `TypeScript` `LLMs` `MCP` `Claude API` `SQL` `Agent Development` `Evaluation Frameworks`
+
+<sub>August 25, 2026 at 23:32 UTC</sub>
+
+---
+
+### [Oracle Fusion ERP Technical Analyst](https://instacart.careers/job/?gh_jid=8157911)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$126k–CAN$133k` `Equity`
+
+_Design, develop, and deliver custom reports, data integration interfaces, document templates, and REST/SOAP API solutions within Oracle Fusion Cloud to support Order-to-Cash, Record-to-Report, and Procure-to-Pay transformation initiatives. Requires hands-on Oracle Fusion expertise and deep knowledge of BIP, FBDI, BICC, and Oracle Integration Cloud. · [Apply →](https://instacart.careers/job/?gh_jid=8157911)_
+
+`Oracle Fusion Cloud` `Oracle BIP` `FBDI` `BICC` `XML` `XSLT` `Oracle Integration Cloud (OIC)` `REST/SOAP APIs`
+
+<sub>August 25, 2026 at 23:32 UTC</sub>
+
+---
+
+### [GTM Engineer - Data & Attribution](https://jobs.ashbyhq.com/oneleet/6febf32a-f037-4bb0-b350-cb7fa9bb8cd3)
+<a href="https://www.oneleet.com"><img src="https://www.google.com/s2/favicons?domain=www.oneleet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oneleet** · `🟢 Remote` `Senior` `Equity`
+
+_Build and own the data pipeline unifying marketing and sales data from HubSpot, Google Ads, LinkedIn, PostHog, and Dreamdata into BigQuery, then translate that data into executive dashboards and attribution models that drive GTM decisions. Deep expertise in cross-platform tracking, browser mechanics, and multi-touch attribution required to reconcile conflicting data sources and explain discrepancies to stakeholders. · [Apply →](https://jobs.ashbyhq.com/oneleet/6febf32a-f037-4bb0-b350-cb7fa9bb8cd3)_
+
+`SQL` `BigQuery` `Google Tag Manager` `Dreamdata` `HubSpot` `Looker` `Python` `Looker Studio`
+
+<sub>August 25, 2026 at 23:32 UTC</sub>
+
+---
+
+### [Staff Software Engineer ](https://job-boards.greenhouse.io/parachutehealth/jobs/5222042007)
+<a href="https://parachute.com"><img src="https://www.google.com/s2/favicons?domain=parachute.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Parachute Health** · `🟢 Remote` `Staff` `$200k-$260k` `Equity`
+
+_Build and lead the order management platform connecting health systems, health plans, and medical equipment suppliers to serve 15M+ patients. Requires staff-level technical leadership, mentoring, and healthcare domain experience; remote-first with no visa sponsorship. · [Apply →](https://job-boards.greenhouse.io/parachutehealth/jobs/5222042007)_
+
+`Ruby on Rails` `Python` `Golang` `JavaScript` `AWS` `TDD` `Healthcare Technologies (FHIR/HL7)`
+
+<sub>August 25, 2026 at 23:32 UTC</sub>
+
+---
 
 ### [Senior Frontend Engineer, Media](https://job-boards.greenhouse.io/reddit/jobs/8120262)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
@@ -92,7 +136,7 @@ _Lead and mentor a team of security engineers building enterprise security progr
 ---
 
 ### [Sr. Software Engineer, Linux Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build core endpoint detection and response features for the Linux sensor component of Falcon Host, processing thousands of events per second across file system, memory, process, and networking subsystems. Work on a distributed system handling 3 trillion events daily with cross-platform architecture across Windows, macOS, and Linux. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)_
 
@@ -268,7 +312,7 @@ _Build and productionize end-to-end data engineering, ML/AI, and application sol
 ---
 
 ### [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
 
 _Build scalable automation solutions that integrate compliance controls across CrowdStrike's systems and processes, automating audit workflows and compliance attestations at scale processing 3 trillion security events daily. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)_
 
@@ -440,54 +484,6 @@ _Build and scale backend APIs and services supporting millions of daily users an
 `Node.js` `TypeScript` `Elixir` `Ruby` `PostgreSQL` `React` `AWS` `Event-Driven Architecture`
 
 <sub>August 25, 2026 at 01:46 UTC</sub>
-
----
-
-<br>
-
-## August 24, 2026
-
-### [Staff Software Engineer, Developer Platform ](https://job-boards.greenhouse.io/chainguard/jobs/4707850006)
-<a href="https://chainguard.dev"><img src="https://www.google.com/s2/favicons?domain=chainguard.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Chainguard** · `🟢 Remote` `Staff` `$205k-$231k` `Equity`
-
-_Build and operate internal developer platform infrastructure powering CI/CD, agentic AI systems, and monorepo orchestration that accelerates Chainguard's engineering velocity. Scale change throughput beyond traditional PR workflows, optimize build system reliability, and productionize AI agent observability and context-engineering patterns. · [Apply →](https://job-boards.greenhouse.io/chainguard/jobs/4707850006)_
-
-`Go` `CI/CD` `Kubernetes` `GitHub Actions` `Argo Workflows` `Buildkite` `LLM/Agentic AI` `Container Orchestration`
-
-<sub>August 24, 2026 at 23:29 UTC</sub>
-
----
-
-### [Senior Back End Engineer, Data and Cloud](https://job-boards.greenhouse.io/learnlux/jobs/5400343008)
-<a href="https://learnlux.com"><img src="https://www.google.com/s2/favicons?domain=learnlux.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LearnLux** · `🟢 Remote` `Senior` `$145k–$190k USD`
-
-_Design and build scalable backend systems and data infrastructure powering an enterprise financial wellness SaaS platform, including SQL databases, data pipelines, cloud infrastructure on GCP, and AI-enabled features. Experience with regulated, compliance-heavy fintech environments and ability to operate in a fast-moving startup are required. · [Apply →](https://job-boards.greenhouse.io/learnlux/jobs/5400343008)_
-
-`Python` `Node.js` `GCP` `AWS` `SQL` `Pulumi` `Terraform` `PostgreSQL`
-
-<sub>August 24, 2026 at 23:29 UTC</sub>
-
----
-
-### [Senior Staff Software Systems Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer_R24404)
-<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `Staff` `$128k-$187k` `Equity`
-
-_Serve as technical authority for a product or major product evolution, defining system architecture and leading cross-team technical decisions for complex, spatially-intelligent software systems. Work directly with product and customers to validate requirements, resolve integration risks, and guide deployment from concept through operational readiness; requires US person status for ITAR compliance. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer_R24404)_
-
-`Distributed Systems` `Cloud-Native Platforms` `Kubernetes` `System Architecture` `Event-Driven Architecture` `Operational Readiness` `Model-Based Systems Engineering`
-
-<sub>August 24, 2026 at 23:29 UTC</sub>
-
----
-
-### [Staff Software Engineer, Foundations - CAN](https://jobs.ashbyhq.com/vanta/a59302dc-b7ea-4bba-af3c-ddab91489848)
-<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Staff` `Equity`
-
-_Lead the re-platforming of Vanta's resource data layer from MongoDB to PostgreSQL, migrating from a Mongo-centric to a schema-aware, Postgres-backed architecture on Kafka and S3 pipelines while preserving all public API contracts and maintaining data integrity for compliance audits. Design and operate data ingestion infrastructure handling tens of thousands of resources per second with single-customer bursts into the millions, ensuring correctness under eventual consistency across distributed systems at terabyte scale. · [Apply →](https://jobs.ashbyhq.com/vanta/a59302dc-b7ea-4bba-af3c-ddab91489848)_
-
-`PostgreSQL` `MongoDB` `Kafka` `TypeScript` `Node.js` `AWS` `Redis` `Distributed Systems`
-
-<sub>August 24, 2026 at 23:29 UTC</sub>
 
 ---
 
