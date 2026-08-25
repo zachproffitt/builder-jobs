@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **451 open roles** (44 new) &nbsp;·&nbsp; 1771 companies searched
+### **441 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Manager, Adversary Intelligence](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Manager--Adversary-Intelligence_R013973)
+<a href="https://sailpoint.com"><img src="https://www.google.com/s2/favicons?domain=sailpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sailpoint** · Austin, Texas / Remote · `🟡 Hybrid` `Manager` `$124k-$209k` `Equity`
+
+_Lead a unified Adversary Intelligence team combining Red Team and Cyber Threat Intelligence functions, architecting AI-driven automation for threat intelligence collection, adversary emulation, and detection engineering. Requires FedRAMP access and deep technical expertise in offensive security frameworks, threat intelligence platforms, and custom tool development. · [Apply →](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Manager--Adversary-Intelligence_R013973)_
+
+`Red Team Operations` `Threat Intelligence Platforms` `Generative AI` `Large Language Models` `Attack Simulation Frameworks` `Python` `CISSP` `FedRAMP Clearance`
+
+<sub>August 25, 2026 at 03:07 UTC</sub>
+
+---
 
 ### [Applied Research Scientist, AI Research](https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003)
 <a href="https://descript.com"><img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Descript** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$261k–$299k` `Equity`
