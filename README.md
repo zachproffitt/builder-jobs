@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **471 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
+### **476 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 25, 2026
+
+### [Senior Frontend Engineer, Media](https://job-boards.greenhouse.io/reddit/jobs/8120262)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k–$267k` `Equity`
+
+_Build the web media player and backend APIs powering video and audio delivery across Reddit, optimizing for low-latency playback and interactive creator tools. Focus on full-stack architecture (React/TypeScript frontend, Go/Python backend) with deep knowledge of streaming protocols (HLS, DASH) and video compression standards required. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8120262)_
+
+`React` `TypeScript` `Go` `Python` `GraphQL` `Next.js` `HLS` `MPEG-DASH`
+
+<sub>August 25, 2026 at 22:37 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
+
+`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
+
+<sub>August 25, 2026 at 22:37 UTC</sub>
+
+---
 
 ### [AI Engineer](https://jobs.ashbyhq.com/ditto/50646667-e435-4245-9194-588138ae886a)
 <a href="https://ditto.com"><img src="https://www.google.com/s2/favicons?domain=ditto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ditto Labs** · `🟢 Remote` `Senior` `Equity`
@@ -70,7 +92,7 @@ _Lead and mentor a team of security engineers building enterprise security progr
 ---
 
 ### [Sr. Software Engineer, Linux Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build core endpoint detection and response features for the Linux sensor component of Falcon Host, processing thousands of events per second across file system, memory, process, and networking subsystems. Work on a distributed system handling 3 trillion events daily with cross-platform architecture across Windows, macOS, and Linux. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)_
 
@@ -113,7 +135,7 @@ _Build the backend infrastructure and APIs powering Reddit's media creation tool
 
 ---
 
-### [Senior Software Engineer, Media Foundations](https://job-boards.greenhouse.io/reddit/jobs/8048988)
+### [Senior Software Engineer, Media Experience](https://job-boards.greenhouse.io/reddit/jobs/8048988)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
 
 _Build the video and audio ingestion, processing, storage, and delivery infrastructure serving Reddit's 130M+ daily active users. Tackle large-scale distributed systems challenges across media compression, streaming protocols, and client-side optimization. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8048988)_
@@ -246,7 +268,7 @@ _Build and productionize end-to-end data engineering, ML/AI, and application sol
 ---
 
 ### [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
 
 _Build scalable automation solutions that integrate compliance controls across CrowdStrike's systems and processes, automating audit workflows and compliance attestations at scale processing 3 trillion security events daily. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)_
 
@@ -466,28 +488,6 @@ _Lead the re-platforming of Vanta's resource data layer from MongoDB to PostgreS
 `PostgreSQL` `MongoDB` `Kafka` `TypeScript` `Node.js` `AWS` `Redis` `Distributed Systems`
 
 <sub>August 24, 2026 at 23:29 UTC</sub>
-
----
-
-### [Business Intelligence Engineer II](https://jobs.ashbyhq.com/kafene/be1109d1-7ee9-47e8-9ff6-e65515dcb736)
-<a href="https://kafene.com"><img src="https://www.google.com/s2/favicons?domain=kafene.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Kafene** · `🟢 Remote` `Mid` `$130k-$150k`
-
-_Build and maintain data warehouses, ETL pipelines, and BI dashboards that power real-time decision-making across Kafene's lease-to-own platform processing 20,000+ data inputs. Work with AWS, Snowflake, and Python to extract, integrate, and analyze critical business data for Risk, Technology, Sales, and Product teams. · [Apply →](https://jobs.ashbyhq.com/kafene/be1109d1-7ee9-47e8-9ff6-e65515dcb736)_
-
-`SQL` `Python` `Snowflake` `AWS` `ETL` `dbt` `Tableau`
-
-<sub>August 24, 2026 at 22:36 UTC</sub>
-
----
-
-### [Staff Software Engineer, Maps Services](https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k–$290k` `Equity`
-
-_Build the geospatial data platform that powers location-aware features across Samsara's IoT operations cloud—ingesting, enriching, and serving map data via APIs used by internal product teams. Scale distributed systems handling real-time geospatial queries and consolidate team-specific solutions into a company-wide platform. · [Apply →](https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269)_
-
-`Geospatial data` `PostGIS` `PostgreSQL` `Distributed Systems` `Python` `Data pipelines` `GeoParquet` `OpenStreetMap`
-
-<sub>August 24, 2026 at 22:36 UTC</sub>
 
 ---
 
