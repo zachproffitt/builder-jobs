@@ -2,13 +2,50 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **504 open roles** (41 new) &nbsp;·&nbsp; 1771 companies searched
+### **451 open roles** (44 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 25, 2026
+
+### [Applied Research Scientist, AI Research](https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003)
+<a href="https://descript.com"><img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Descript** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$261k–$299k` `Equity`
+
+_Design and implement deep learning models for generative media synthesis—video regeneration, lipsync, video translation, voice cloning, and multimodal understanding systems—shipped as production features used by millions of creators. Requires strong publication record or shipped production ML work, and ability to own research direction end-to-end from framing through production deployment. · [Apply →](https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003)_
+
+`PyTorch` `TensorFlow` `Generative Modeling` `Computer Vision` `Speech/Audio Modeling` `Multimodal Learning` `Video Synthesis` `PhD Preferred`
+
+<sub>August 25, 2026 at 01:46 UTC</sub>
+
+---
+
+### [Staff Software Engineer, Full-stack](https://jobs.ashbyhq.com/onebrief/76221bf3-7563-49cd-82e4-ce224d207dbf)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Staff`
+
+_Lead technical strategy and architecture across multiple squads for military planning and operational coordination software, shaping foundational systems that teams depend on. Mission-critical domain with high stakes for reliability and decision quality; requires thoughtful integration of AI-assisted development practices into engineering standards. · [Apply →](https://jobs.ashbyhq.com/onebrief/76221bf3-7563-49cd-82e4-ce224d207dbf)_
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Kubernetes` `AWS` `Terraform` `distributed systems architecture`
+
+<sub>August 25, 2026 at 01:46 UTC</sub>
+
+---
+
+### [Staff Backend Engineer](https://jobs.lever.co/teamsnap/077075ce-80a4-4429-96ab-dd4c22b62136)
+<a href="https://teamsnap.com"><img src="https://www.google.com/s2/favicons?domain=teamsnap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TeamSnap** · `🟢 Remote` `Staff`
+
+_Build and scale backend APIs and services supporting millions of daily users and tens of thousands of sports organizations. Lead technical design in ambiguous areas, mentor engineers, and improve production reliability and observability across a service-oriented, event-driven system. · [Apply →](https://jobs.lever.co/teamsnap/077075ce-80a4-4429-96ab-dd4c22b62136)_
+
+`Node.js` `TypeScript` `Elixir` `Ruby` `PostgreSQL` `React` `AWS` `Event-Driven Architecture`
+
+<sub>August 25, 2026 at 01:46 UTC</sub>
+
+---
 
 <br>
 
@@ -442,7 +479,7 @@ _Build and maintain core Ubuntu and open source infrastructure across the full s
 ---
 
 ### [Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$85k-$120k` `Equity`
 
 _Build and operate cloud networking infrastructure across multi-region AWS environments, including Transit Gateway, VPC patterns, and hybrid connectivity supporting CrowdStrike's global security platform processing 3 trillion events daily. Work with infrastructure-as-code, Terraform, and Kubernetes to implement scalable, secure patterns across a mission-critical, high-growth environment. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897)_
 
@@ -453,7 +490,7 @@ _Build and operate cloud networking infrastructure across multi-region AWS envir
 ---
 
 ### [Sr. Linux Systems Engineer - Object Storage (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Design, build, and operate a custom S3-compatible object storage infrastructure spanning 3,000+ Linux servers across hybrid cloud environments, handling 3 trillion events per day. Requires US citizenship or green card; will mentor junior engineers and lead cross-functional technical initiatives. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937)_
 
