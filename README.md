@@ -2,13 +2,39 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **482 open roles** (43 new) &nbsp;·&nbsp; 1771 companies searched
+### **473 open roles** (41 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 26, 2026
+
+### [Sr. Staff Software Engineer, Big Data Platform](https://www.pinterestcareers.com/jobs/?gh_jid=7494956)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Palo Alto, California / Seattle, Washington / New York, New York / Remote · `🟢 Remote` `Staff`
+
+_Lead Pinterest's big data and AI infrastructure strategy, building and scaling frameworks to process petabyte-scale datasets across Flink, Spark, Kubernetes, and related technologies. Provide technical direction for mission-critical systems serving millions of users at exabyte scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7494956)_
+
+`Kubernetes` `Spark` `Flink` `Java` `Go` `Scala` `Python` `AWS`
+
+<sub>August 26, 2026 at 01:51 UTC</sub>
+
+---
+
+### [Compliance Engineering Lead](https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e)
+<a href="https://socket.dev"><img src="https://www.google.com/s2/favicons?domain=socket.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socket** · `🟢 Remote` `Senior` `Equity`
+
+_Own Socket's compliance program as engineered systems—build automated evidence collection pipelines from GCP, GitHub, and identity providers; lead SOC 2 Type II audits, ISO 27001 certification, and risk management with code-driven control monitoring instead of manual checklists. You'll hire and lead your first team member while reporting to the CISO, shaping GRC infrastructure at a security-vendor company held to a higher bar by customers like Anthropic and Figma. · [Apply →](https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e)_
+
+`GCP` `GitHub` `Drata` `Vanta` `ISO 27001` `SOC 2 Type II` `Automation`
+
+<sub>August 26, 2026 at 01:51 UTC</sub>
+
+---
 
 <br>
 
@@ -64,17 +90,6 @@ _Build and lead the order management platform connecting health systems, health 
 _Build the web media player and backend APIs powering video and audio delivery across Reddit, optimizing for low-latency playback and interactive creator tools. Focus on full-stack architecture (React/TypeScript frontend, Go/Python backend) with deep knowledge of streaming protocols (HLS, DASH) and video compression standards required. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8120262)_
 
 `React` `TypeScript` `Go` `Python` `GraphQL` `Next.js` `HLS` `MPEG-DASH`
-
-<sub>August 25, 2026 at 22:37 UTC</sub>
-
----
-
-### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
-
-`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
 
 <sub>August 25, 2026 at 22:37 UTC</sub>
 
@@ -451,39 +466,6 @@ _Lead a unified Adversary Intelligence team combining Red Team and Cyber Threat 
 `Red Team Operations` `Threat Intelligence Platforms` `Generative AI` `Large Language Models` `Attack Simulation Frameworks` `Python` `CISSP` `FedRAMP Clearance`
 
 <sub>August 25, 2026 at 03:07 UTC</sub>
-
----
-
-### [Applied Research Scientist, AI Research](https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003)
-<a href="https://descript.com"><img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Descript** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$261k–$299k` `Equity`
-
-_Design and implement deep learning models for generative media synthesis—video regeneration, lipsync, video translation, voice cloning, and multimodal understanding systems—shipped as production features used by millions of creators. Requires strong publication record or shipped production ML work, and ability to own research direction end-to-end from framing through production deployment. · [Apply →](https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003)_
-
-`PyTorch` `TensorFlow` `Generative Modeling` `Computer Vision` `Speech/Audio Modeling` `Multimodal Learning` `Video Synthesis` `PhD Preferred`
-
-<sub>August 25, 2026 at 01:46 UTC</sub>
-
----
-
-### [Staff Software Engineer, Full-stack](https://jobs.ashbyhq.com/onebrief/76221bf3-7563-49cd-82e4-ce224d207dbf)
-<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Staff`
-
-_Lead technical strategy and architecture across multiple squads for military planning and operational coordination software, shaping foundational systems that teams depend on. Mission-critical domain with high stakes for reliability and decision quality; requires thoughtful integration of AI-assisted development practices into engineering standards. · [Apply →](https://jobs.ashbyhq.com/onebrief/76221bf3-7563-49cd-82e4-ce224d207dbf)_
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Kubernetes` `AWS` `Terraform` `distributed systems architecture`
-
-<sub>August 25, 2026 at 01:46 UTC</sub>
-
----
-
-### [Staff Backend Engineer](https://jobs.lever.co/teamsnap/077075ce-80a4-4429-96ab-dd4c22b62136)
-<a href="https://teamsnap.com"><img src="https://www.google.com/s2/favicons?domain=teamsnap.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**TeamSnap** · `🟢 Remote` `Staff`
-
-_Build and scale backend APIs and services supporting millions of daily users and tens of thousands of sports organizations. Lead technical design in ambiguous areas, mentor engineers, and improve production reliability and observability across a service-oriented, event-driven system. · [Apply →](https://jobs.lever.co/teamsnap/077075ce-80a4-4429-96ab-dd4c22b62136)_
-
-`Node.js` `TypeScript` `Elixir` `Ruby` `PostgreSQL` `React` `AWS` `Event-Driven Architecture`
-
-<sub>August 25, 2026 at 01:46 UTC</sub>
 
 ---
 
