@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **154 companies** · **481 open roles** (42 new)
+### **155 companies** · **482 open roles** (42 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -455,6 +455,14 @@ Ditto Labs makes a mobile database that includes built-in edge device connectivi
 Docketly connects appearance attorneys and high-volume law firms through a platform that helps manage court appearances.
 
 - [Verifications Specialist III](https://www.abclegal.com/job-openings/job?id=7930998003&gh_jid=7930998003) · Longmont, Colorado · `Junior` `$58k-$69k` (Aug 21)
+
+---
+
+## <a href="https://doma.com"><img src="https://www.google.com/s2/favicons?domain=doma.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Doma](https://doma.com)
+
+Doma Technology LLC offers solutions for lenders, real estate professionals, title agents, and homeowners that simplify and make closings more efficient, reducing cost and increasing customer satisfaction.
+
+- [Staff Machine Learning Engineer ](https://job-boards.greenhouse.io/doma/jobs/8109028) · `🟢 Remote` `Staff` `$165k-$236k` `Equity` (Aug 15)
 
 ---
 
