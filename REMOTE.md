@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **321 open roles** (34 new)
+### **329 open roles** (37 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -11,6 +11,149 @@ Remote engineering roles only — linking directly to each company's job board. 
 <br>
 
 ## August 26, 2026
+
+### [Senior Manager, Learning from Demonstration](https://www.agilityrobotics.com/about/job-post?gh_jid=6164697004)
+<a href="https://agilityrobotics.com"><img src="https://www.google.com/s2/favicons?domain=agilityrobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Agility Robotics** · `🟢 Remote` `Manager` `$268k-$364k` `Equity`
+
+_Lead AI/ML research and engineering teams building learning from demonstration systems for humanoid robots deployed in warehouses and manufacturing. Drive innovation from concept to deployment across real-time planning, whole-body control, and adaptive motor control on resource-constrained edge devices. · [Apply →](https://www.agilityrobotics.com/about/job-post?gh_jid=6164697004)_
+
+`Computer Vision` `Reinforcement Learning` `Robotics` `Real-time AI` `Edge Deployment` `LLMs` `Python` `PyTorch`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Staff+ Software Engineer, Product](https://jobs.ashbyhq.com/aleph/a61b0752-2c82-4f3d-ba78-d47c330f4323)
+<a href="https://getaleph.com"><img src="https://www.google.com/s2/favicons?domain=getaleph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aleph** · `🟢 Remote` `Staff`
+
+_Own and ship full-stack product features for an AI-native FP&A platform, from conception through launch—building performant UIs over large financial datasets, designing data models and APIs that scale across product lines, and integrating AI orchestration and retrieval systems. Work directly with customers like Webflow, Notion, and Zapier to solve complex financial data challenges. · [Apply →](https://jobs.ashbyhq.com/aleph/a61b0752-2c82-4f3d-ba78-d47c330f4323)_
+
+`Full-stack development` `React` `TypeScript` `Python` `PostgreSQL` `API design` `UI performance optimization` `AI/LLM integration`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Staff+ Software Engineer, AI](https://jobs.ashbyhq.com/aleph/5fe31833-c89e-405a-b9b3-53df20863295)
+<a href="https://getaleph.com"><img src="https://www.google.com/s2/favicons?domain=getaleph.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Aleph** · `🟢 Remote` `Staff`
+
+_Own the AI foundation for Aleph's FP&A platform — build model routing, context management, eval infrastructure, and agentic workflows that finance teams depend on. Ship production LLM systems where correctness is critical; wrong answers end up in board decks. · [Apply →](https://jobs.ashbyhq.com/aleph/5fe31833-c89e-405a-b9b3-53df20863295)_
+
+`LLM APIs` `Agent frameworks` `Python` `Prompt engineering` `Evals` `Multi-model routing` `Context management` `Observability`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Staff Backend Engineer](https://job-boards.greenhouse.io/carbondirect/jobs/5223026007)
+<a href="https://carbon-direct.com"><img src="https://www.google.com/s2/favicons?domain=carbon-direct.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Carbon Direct** · `🟢 Remote` `Staff` `$184k-$225k`
+
+_Design and own backend services, data pipelines, and APIs across the full data path through Carbon Direct's carbon management platform, ensuring they scale reliably in an ISO 27001 and SOC 2 compliant environment. Lead technical direction for a team working with AI-augmented systems and non-engineering contributors, balancing rapid prototyping with production hardening and enterprise reliability. · [Apply →](https://job-boards.greenhouse.io/carbondirect/jobs/5223026007)_
+
+`Python` `PostgreSQL` `Kubernetes` `Terraform` `Datadog` `FastAPI` `CI/CD` `AWS`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://job-boards.greenhouse.io/federato/jobs/5400069008)
+<a href="https://federato.com"><img src="https://www.google.com/s2/favicons?domain=federato.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Federato** · `🟢 Remote` `Senior` `$170k-$210k` `Equity`
+
+_Design and develop full-stack software for an AI-native insurance platform, building complex systems that integrate agentic AI throughout the policy lifecycle. Work on event-driven architectures at scale with one of the most advanced AI teams in the industry. · [Apply →](https://job-boards.greenhouse.io/federato/jobs/5400069008)_
+
+`React` `TypeScript` `Node.js` `Kafka` `Full-Stack Development`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [GTM AI Agent Builder](https://job-boards.greenhouse.io/gusto/jobs/8157333)
+<a href="https://gusto.com"><img src="https://www.google.com/s2/favicons?domain=gusto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Gusto** · San Francisco, California / Denver, Colorado / New York, New York / Atlanta, Georgia / Phoenix, Arizona · `🟢 Remote` `Mid` `$189k-$242k` `Equity`
+
+_Build AI-powered workflows and automation systems that enhance Gusto's sales, marketing, and revenue operations; integrate Salesforce, GTM tools, and data warehouse systems with AI agents to accelerate productivity and measurable business outcomes. · [Apply →](https://job-boards.greenhouse.io/gusto/jobs/8157333)_
+
+`Salesforce` `AI agents` `LLMs` `workflow automation` `Python` `data integration` `GTM operations` `business analytics`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Senior Security Engineer](https://jobs.ashbyhq.com/Jasper%20AI/f5a4a890-e544-4a85-bd45-f75ad40b0d35)
+<a href="https://jasper.ai"><img src="https://www.google.com/s2/favicons?domain=jasper.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Jasper** · `🟢 Remote` `Senior` `$174k-$205k` `Equity`
+
+_Build security controls, threat models, and automation for AI infrastructure and agents; design guardrails for AI systems handling sensitive data at scale. Lead AI-specific security engineering across infrastructure, product security, and compliance for an enterprise AI platform trusted by 20% of Fortune 500. · [Apply →](https://jobs.ashbyhq.com/Jasper%20AI/f5a4a890-e544-4a85-bd45-f75ad40b0d35)_
+
+`AI/ML Security` `Cloud Security (GCP, AWS)` `Kubernetes` `GitHub Security` `Wiz` `Terraform` `Python` `Detection Engineering`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [AI Ops Lead - Forward Deploy](https://job-boards.greenhouse.io/mercury/jobs/6147716004)
+<a href="https://mercury.com"><img src="https://www.google.com/s2/favicons?domain=mercury.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Mercury** · San Francisco, California / New York, New York / Portland, Oregon / Remote · `🟢 Remote` `Senior` `$162k—$225k USD / $170k—$212k CAD` `Equity`
+
+_Embed with internal teams across Mercury to identify high-leverage problems, then build and ship AI-powered workflows and automations using the AI Engineering platform until they drive measurable business outcomes. Partner with functional leaders on change management, documentation, and durable handoffs; help define what makes AI Operations successful across the organization. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6147716004)_
+
+`AI agents` `Python` `SQL` `APIs` `low-code/no-code platforms` `Business Operations` `Change Management` `Workflow Automation`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Staff Simulation Data Modeler](https://jobs.ashbyhq.com/onebrief/4a3713c2-1c90-42ed-8a08-b79d9907c1ce)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Staff`
+
+_Own the entity catalog and simulation data integrity for AtomEngine, a proprietary game engine used for military planning and operational coordination. Direct AI agents to research and construct military entities at scale, codify parametric performance models (weapon effects, fuel consumption, survivability), establish verification and validation standards, and run competitive wargames to stress-test assumptions before customer deployment. · [Apply →](https://jobs.ashbyhq.com/onebrief/4a3713c2-1c90-42ed-8a08-b79d9907c1ce)_
+
+`Quantitative Modeling` `Verification & Validation (VV&A)` `AI Agent Direction` `Game Engine Environments` `Military Doctrine` `Wargaming` `Version Control` `Test Automation`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Staff Enterprise Security Engineer, AI Security](https://job-boards.greenhouse.io/twilio/jobs/8160279)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Staff` `$155k-$228k` `Equity`
+
+_Design and build secure reference architectures for enterprise AI platforms, establishing frameworks for AI vetting and agentic AI identity/posture management. Drive foundational security infrastructure through code (Python, Go) and IaC while mentoring junior engineers on evolving AI security threats at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8160279)_
+
+`Python` `Go` `AWS` `GCP` `Kubernetes` `Infrastructure as Code` `Security Architecture` `Cloud Security`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Senior Fullstack Software Engineer, Authoring Experience](https://jobs.ashbyhq.com/vanta/ed632c31-2a66-4c91-8d29-f450bbd4de67)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
+
+_Own backend services and customer-facing APIs for Vanta's security automation platform, designing service boundaries and driving large-scale rollouts across a rapidly scaling compliance and security platform. Mentorship and technical leadership required; experience with security/compliance products preferred. · [Apply →](https://jobs.ashbyhq.com/vanta/ed632c31-2a66-4c91-8d29-f450bbd4de67)_
+
+`TypeScript` `Node.js` `React` `MongoDB` `API Design` `System Design` `Distributed Systems`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Compliance Engineer - Public Sector](https://www.wiz.io/careers/job/4707353006/:title?gh_jid=4707353006)
+<a href="https://wiz.io"><img src="https://www.google.com/s2/favicons?domain=wiz.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wiz** · `🟢 Remote` `Senior` `$174k—$238k` `Equity`
+
+_Lead the technical roadmap for FedRAMP CR26 compliance automation by architecting compliance-as-code solutions that translate NIST 800-53 Rev. 5 requirements into scalable engineering systems. Requires deep expertise in FedRAMP High baselines, DoW SRG, and federal compliance frameworks; must be a US person meeting EAR/ITAR requirements and reside in contiguous US. · [Apply →](https://www.wiz.io/careers/job/4707353006/:title?gh_jid=4707353006)_
+
+`Python` `Terraform` `Shell Scripting` `Kubernetes` `CI/CD` `AWS GovCloud` `NIST SP 800-53` `FedRAMP`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Software Engineer III ](https://www.zoominfo.com/careers?gh_jid=8738002002)
+**ZoomInfo** · `🟢 Remote` `Mid`
+
+_Build data visualization and charting interfaces for ZoomInfo's Conversation Intelligence platform, turning analyzed sales calls into actionable insights for salespeople. Primary focus on frontend UI/UX with full-stack capability; work with millions of conversation data points at scale. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8738002002)_
+
+`React` `TypeScript` `REST APIs` `Node.js` `Python` `Elasticsearch` `component design` `state management`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
 
 ### [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/censys/jobs/8731027002)
 <a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Senior` `$151k-$206k` `Equity`
@@ -244,7 +387,7 @@ _Build backend services and APIs for the client activation and onboarding proces
 ---
 
 ### [Off-Cycle Fall 2026 Cybersecurity Internship](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004)
-<a href="https://galaxydigital.io"><img src="https://www.google.com/s2/favicons?domain=galaxydigital.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy Digital** · `🟢 Remote` `Intern` `$110k`
+<a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy** · `🟢 Remote` `Intern` `$110k`
 
 _Support the development and refinement of secure engineering standards for software and production teams, including authentication, authorization, API security, and secure coding practices. May develop custom libraries and resources to help engineering teams implement these standards effectively. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004)_
 
@@ -291,12 +434,12 @@ _Build autonomous agents that run complete go-to-market motions (inbound, outbou
 
 ---
 
-### [Oracle Fusion ERP Technical Analyst](https://instacart.careers/job/?gh_jid=8157831)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity`
+### [Oracle Fusion ERP Technical Analyst](https://instacart.careers/job/?gh_jid=8157911)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$126k–CAN$133k` `Equity`
 
-_Build and maintain Oracle Fusion Cloud custom reports, data integration interfaces, document templates, and API solutions to enable Order-to-Cash, Record-to-Report, and Procure-to-Pay transformation initiatives. Requires deep expertise in Oracle BIP, FBDI, BICC, XML/XSLT, and Oracle Integration Cloud across high-scale financial operations. · [Apply →](https://instacart.careers/job/?gh_jid=8157831)_
+_Design, develop, and deliver custom reports, data integration interfaces, document templates, and REST/SOAP API solutions within Oracle Fusion Cloud to support Order-to-Cash, Record-to-Report, and Procure-to-Pay transformation initiatives. Requires hands-on Oracle Fusion expertise and deep knowledge of BIP, FBDI, BICC, and Oracle Integration Cloud. · [Apply →](https://instacart.careers/job/?gh_jid=8157911)_
 
-`Oracle Fusion Cloud` `Oracle BIP` `FBDI` `BICC` `XML` `XSLT` `Oracle Integration Cloud` `RTF`
+`Oracle Fusion Cloud` `Oracle BIP` `FBDI` `BICC` `XML` `XSLT` `Oracle Integration Cloud (OIC)` `REST/SOAP APIs`
 
 <sub>August 25, 2026 at 23:32 UTC</sub>
 
@@ -478,17 +621,6 @@ _Build scalable backend services, frontend applications, and data solutions for 
 
 ---
 
-### [Staff AI Data Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004)
-<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · `🟢 Remote` `Staff` `$177k—$265k` `Equity`
-
-_Design and build data infrastructure, pipelines, and services powering AI/ML workflows across PlayStation Studios, including LLM applications, agentic systems, and production analytics. Operate at Staff level influencing architecture and engineering standards across multiple teams. · [Apply →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004)_
-
-`Python` `Terraform` `AWS` `GCP` `PostgreSQL` `Snowflake` `Airflow` `Kafka`
-
-<sub>August 25, 2026 at 16:48 UTC</sub>
-
----
-
 ### [Senior GTM Systems & AI Engineer](https://job-boards.greenhouse.io/cobaltio/jobs/8743072002)
 <a href="https://cobalt.io"><img src="https://www.google.com/s2/favicons?domain=cobalt.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cobalt** · `🟢 Remote` `Senior` `$135k-$160k` `Equity`
 
@@ -555,23 +687,23 @@ _Build and maintain security infrastructure for Tailscale's distributed organiza
 
 ---
 
+### [Lead Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061716)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
+
+_Lead the design and development of microservices-based architectures and real-time streaming applications using Spring Boot and Apache Kafka, guiding engineering teams and defining technical strategy for scalable enterprise systems. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061716)_
+
+`Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `MongoDB` `Docker` `Kubernetes` `AWS`
+
+<sub>August 25, 2026 at 14:55 UTC</sub>
+
+---
+
 ### [Senior Manager Quality Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager-Quality-Engineering_R0061391)
 <a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$105k-$149k`
 
 _Lead a quality assurance team responsible for testing strategy, automation, metrics, and defect reduction across organizational projects. Manage both onshore and offshore QA teams while establishing quality standards and best practices across cross-functional teams. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager-Quality-Engineering_R0061391)_
 
 `Test Automation` `Test Strategy` `Agile` `Quality Assurance`
-
-<sub>August 25, 2026 at 14:55 UTC</sub>
-
----
-
-### [Lead Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061715)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
-
-_Lead the design and development of microservices-based architectures using Spring and Apache Kafka for enterprise financial applications. Mentor engineering teams and drive adoption of TDD/BDD practices across the organization. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061715)_
-
-`Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `MongoDB` `Hibernate` `Docker` `Kubernetes`
 
 <sub>August 25, 2026 at 14:55 UTC</sub>
 
@@ -921,17 +1053,6 @@ _Design and build production-grade security services, automated policy enforceme
 `Kubernetes` `Linux Internals` `eBPF` `Go` `Python` `Terraform` `IaC` `Distributed Systems`
 
 <sub>August 22, 2026 at 14:30 UTC</sub>
-
----
-
-### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
-
-_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
-
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
-
-<sub>August 22, 2026 at 01:44 UTC</sub>
 
 ---
 
@@ -1493,12 +1614,12 @@ _Build data characterization, active learning, and model improvement pipelines f
 
 ---
 
-### [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143147)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$206k-$217k CAD` `Equity`
+### [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143145)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$201k-$253.5k` `Equity`
 
-_Design and deploy machine learning models powering real-time inventory understanding across thousands of retail locations; develop the full ML lifecycle from problem framing through production serving at scale. Handle complex spatial-temporal modeling of shelf stocking dynamics with computer vision signals integrated into live product systems. · [Apply →](https://instacart.careers/job/?gh_jid=8143147)_
+_Design and deploy machine learning models powering real-time inventory and shelf-stocking predictions across thousands of grocery stores at scale. Own the full ML lifecycle from problem framing through production deployment, collaborating with software engineers, computer vision teams, and data scientists to integrate computer vision signals and novel retail data into a high-throughput inference platform. · [Apply →](https://instacart.careers/job/?gh_jid=8143145)_
 
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `GCP` `Azure` `Computer Vision`
+`Python` `PyTorch` `TensorFlow` `AWS` `scikit-learn` `Computer Vision` `Temporal Modeling` `Real-time Inference`
 
 <sub>August 20, 2026 at 19:38 UTC</sub>
 
@@ -1827,12 +1948,12 @@ _Build full-stack products powering Antora's thermal battery business—from cus
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
 
-_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
+_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
 
-`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
+`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
 
@@ -2339,17 +2460,6 @@ _Build and maintain security detection and response systems using SIEM, EDR/XDR,
 
 ---
 
-### [Staff Software Engineer, Voice AI Platform](https://careers.toasttab.com/jobs?gh_jid=8131117)
-<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · Remote / Boston, Massachusetts / New York, New York · `🟢 Remote` `Staff` `$125k-$254k` `Equity`
-
-_Design and build highly resilient backend services and core platform components for Toast's Voice AI platform, enabling voice capabilities across the restaurant ecosystem. Lead complex, cross-cutting projects end-to-end with ownership of architecture, production reliability, and AI-system observability including LLM evaluation and cost management. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8131117)_
-
-`Java` `Kotlin` `DropWizard` `AWS` `DynamoDB` `PostgreSQL` `React` `Distributed Systems`
-
-<sub>August 17, 2026 at 04:52 UTC</sub>
-
----
-
 ### [Staff Firmware Engineer](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536)
 <a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Staff` `$162k-$290k` `Equity`
 
@@ -2534,17 +2644,6 @@ _Design and operate enterprise cloud architecture patterns, governance framework
 
 ---
 
-### [Senior Backend Software Engineer, Subscriptions Enablement](https://jobs.ashbyhq.com/gamechanger/b07c5dda-bf13-47b7-b916-cbacc7b67d26)
-<a href="https://gamechanger.com"><img src="https://www.google.com/s2/favicons?domain=gamechanger.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GameChanger** · `🟢 Remote` `Senior` `$140k-$155k` `Equity`
-
-_Own the subscriptions and payments platform—building foundational systems and APIs that enable revenue growth and new business opportunities. Lead architectural decisions, improve system reliability and scalability, and partner across Product, Design, and Data teams. · [Apply →](https://jobs.ashbyhq.com/gamechanger/b07c5dda-bf13-47b7-b916-cbacc7b67d26)_
-
-`TypeScript` `Node.js` `PostgreSQL` `Redis` `AWS`
-
-<sub>August 14, 2026 at 19:52 UTC</sub>
-
----
-
 ### [Senior IT Engineer](https://posit.co/job-detail/?gh_jid=7871806003)
 <a href="https://rstudio.com"><img src="https://www.google.com/s2/favicons?domain=rstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**RStudio** · `🟢 Remote` `Senior` `$120k—$159k`
 
@@ -2556,12 +2655,12 @@ _Own end-to-end operations of core IT platforms (Okta, Jamf Pro, Google Workspac
 
 ---
 
-### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)
-<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$154k–$260k` `Equity`
+### [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)
+<a href="https://samsara.com"><img src="https://www.google.com/s2/favicons?domain=samsara.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Samsara** · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity`
 
-_Build full-stack, AI-powered products for physical operations at scale, processing 25+ trillion IoT data points annually. Own zero-to-one product areas end-to-end across backend, frontend, and mobile, turning machine learning capabilities into mission-critical systems for fleet management, equipment monitoring, and field operations. · [Apply →](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439)_
+_Build end-to-end AI-powered products and full-stack systems for physical operations, from backend services and APIs to customer-facing UI, processing 25+ trillion IoT data points annually. Zero-to-one product development at billion-dollar scale with real-world stakes across fleet management, equipment monitoring, and safety. · [Apply →](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819)_
 
-`Go` `Python` `TypeScript` `React` `AI/ML Systems` `Full-Stack Development` `Product Leadership`
+`Go` `Python` `TypeScript` `React` `AI/ML systems` `Data ingestion` `APIs` `LLMs`
 
 <sub>August 14, 2026 at 19:52 UTC</sub>
 
@@ -2865,17 +2964,6 @@ _Design and develop complex SQL Server data pipelines and ETL processes that pow
 `Microsoft SQL Server` `T-SQL` `ETL` `Azure DevOps` `Git` `C#` `Data Modeling` `Query Optimization`
 
 <sub>August 13, 2026 at 20:54 UTC</sub>
-
----
-
-### [Senior AI Engineer](https://job-boards.greenhouse.io/mitratech/jobs/8056298)
-<a href="https://inszoom.com"><img src="https://www.google.com/s2/favicons?domain=inszoom.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**INSZoom** · `🟢 Remote` `Senior` `$170k-$190k` `Equity`
-
-_Design and operate LLM-powered agent systems end-to-end on AWS, shipping FastAPI services, Terraform infrastructure, MCP servers, and evaluation harnesses built on Bedrock with LangChain/LangGraph. Mentor across the team and set reliability, testing, and operational practices for production GenAI systems serving enterprise Legal, Risk, Compliance, and HR functions. · [Apply →](https://job-boards.greenhouse.io/mitratech/jobs/8056298)_
-
-`Python` `FastAPI` `LangChain` `LangGraph` `AWS Bedrock` `Terraform` `PostgreSQL` `Redis`
-
-<sub>August 13, 2026 at 19:15 UTC</sub>
 
 ---
 
@@ -3321,12 +3409,12 @@ _Lead engineering teams building governance and identity administration solution
 
 ---
 
-### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity`
+### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8126023)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$188k—$198k` `Equity`
 
-_Build critical financial data integration pipelines and models powering Instacart's monthly/quarterly book close, retailer invoicing, and financial reporting across millions of daily requests. Own design through execution of complex ETL systems handling accounting, billing, and revenue data at scale with auditability and compliance requirements. · [Apply →](https://instacart.careers/job/?gh_jid=8132846)_
+_Build and own financial data integration pipelines and warehouse models supporting monthly/quarterly book close, retailer invoicing, and financial reporting across Instacart's products. Shape the finance data strategy and platform from design through execution for a small, high-ownership team; requires expertise in complex financial data modeling and SOX-controlled systems. · [Apply →](https://instacart.careers/job/?gh_jid=8126023)_
 
-`Python` `Airflow` `Spark` `SQL` `dbt` `Snowflake` `Iceberg` `Delta Lake`
+`Python` `Airflow` `Spark` `Snowflake` `dbt` `SQL` `Iceberg` `Delta Lake`
 
 <sub>August 12, 2026 at 17:08 UTC</sub>
 
