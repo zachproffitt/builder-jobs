@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **489 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
+### **484 open roles** (46 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -14,23 +14,56 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 ## August 26, 2026
 
+### [Senior Scientist, Clinical Biostatistics & Genetic Risk Prediction](https://myome.com/about-us/careers?gh_jid=4382407009)
+<a href="https://myome.com"><img src="https://www.google.com/s2/favicons?domain=myome.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**MyOme** · Menlo Park, California / Remote · `🟢 Remote` `Senior` `$160k-$180k` `Equity`
+
+_Design and execute clinical trials to validate genetic risk prediction models, including study design, Statistical Analysis Plans, and end-to-end reproducible statistical analysis of biobank and EHR data. Requires PhD in biostatistics or statistical genetics with demonstrated clinical trial design experience and regulatory knowledge (ICH E9, FDA interactions). · [Apply →](https://myome.com/about-us/careers?gh_jid=4382407009)_
+
+`Python` `R` `Git` `Statistical Genetics` `Survival Analysis` `Causal Inference` `AWS` `GCP`
+
+<sub>August 26, 2026 at 16:25 UTC</sub>
+
+---
+
+### [Sr Software Engineer in Test](https://job-boards.greenhouse.io/natera/jobs/6163319004)
+<a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Senior` `$136k–$170k`
+
+_Design and develop scalable test automation frameworks using Jest and Playwright for front-end and end-to-end testing. Build CI/CD-integrated testing infrastructure for a genomics diagnostics platform processing cell-free DNA testing at scale. · [Apply →](https://job-boards.greenhouse.io/natera/jobs/6163319004)_
+
+`Jest` `Playwright` `JavaScript` `TypeScript` `CI/CD`
+
+<sub>August 26, 2026 at 16:25 UTC</sub>
+
+---
+
+### [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8106198)
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · `🟢 Remote` `Senior` `$142k–$203k` `Equity`
+
+_Build and deploy critical compute software infrastructure for satellite operations and image processing platforms in customer on-premises and cloud environments, supporting air-gapped deployments at scale. Requires expertise in Kubernetes, infrastructure-as-code tooling, and distributed systems observability in sensitive, export-controlled environments. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/8106198)_
+
+`Kubernetes` `Terraform` `Ansible` `Helm` `Python` `Bash` `Prometheus` `Grafana`
+
+<sub>August 26, 2026 at 16:25 UTC</sub>
+
+---
+
+### [Senior Backend Software Engineer, Integrations Platform [Canada]](https://jobs.ashbyhq.com/vanta/bb2dc07f-eae3-44b3-8f7e-144d54571e03)
+<a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
+
+_Build the authentication, data ingestion, and schema evolution primitives powering Vanta's 400+ integration ecosystem across cloud providers, identity systems, and enterprise platforms. Drive platform abstraction and API design to enable rapid, AI-accelerated integration development at scale. · [Apply →](https://jobs.ashbyhq.com/vanta/bb2dc07f-eae3-44b3-8f7e-144d54571e03)_
+
+`TypeScript` `Node.js` `React` `RESTful APIs` `GraphQL` `OAuth` `PostgreSQL` `Kubernetes`
+
+<sub>August 26, 2026 at 16:25 UTC</sub>
+
+---
+
 ### [Engineering Manager, AgentControl](https://job-boards.greenhouse.io/launchdarkly/jobs/7977701003)
 <a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Manager` `$163k-$263k` `Equity`
 
 _Lead the Evaluations team building offline evaluation systems, LLM-as-judges, and benchmarking infrastructure for agent control and deployment at scale. Technical depth in distributed systems, AI tooling integration, and production observability required for infrastructure spanning Go, Python, AWS, and CockroachDB. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7977701003)_
 
 `Go` `Python` `AWS` `CockroachDB` `Datadog` `TypeScript` `Observability & Incident Response`
-
-<sub>August 26, 2026 at 14:53 UTC</sub>
-
----
-
-### [Mulesoft Developer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Developer_R00352832)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$196k`
-
-_Develop, test, and deploy MuleSoft APIs and integrations using Anypoint Platform, DataWeave, and enterprise connectors for large-scale client modernization initiatives. Work across complex integration challenges in distributed delivery teams with exposure to AI-powered agentic architectures and modern cloud technologies. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Developer_R00352832)_
-
-`MuleSoft` `Java` `REST APIs` `DataWeave` `Git` `Anypoint Platform` `AWS` `Azure`
 
 <sub>August 26, 2026 at 14:53 UTC</sub>
 
@@ -183,7 +216,7 @@ _Design, develop, and deliver custom reports, data integration interfaces, docum
 
 ---
 
-### [GTM Engineer - Data & Attribution](https://jobs.ashbyhq.com/oneleet/6febf32a-f037-4bb0-b350-cb7fa9bb8cd3)
+### [GTM AI Engineer - Data & Attribution](https://jobs.ashbyhq.com/oneleet/6febf32a-f037-4bb0-b350-cb7fa9bb8cd3)
 <a href="https://www.oneleet.com"><img src="https://www.google.com/s2/favicons?domain=www.oneleet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Oneleet** · `🟢 Remote` `Senior` `Equity`
 
 _Build and own the data pipeline unifying marketing and sales data from HubSpot, Google Ads, LinkedIn, PostHog, and Dreamdata into BigQuery, then translate that data into executive dashboards and attribution models that drive GTM decisions. Deep expertise in cross-platform tracking, browser mechanics, and multi-touch attribution required to reconcile conflicting data sources and explain discrepancies to stakeholders. · [Apply →](https://jobs.ashbyhq.com/oneleet/6febf32a-f037-4bb0-b350-cb7fa9bb8cd3)_
@@ -488,28 +521,6 @@ _Lead the architectural design and execution of Rula's migration to Snowflake an
 `Snowflake` `dbt` `SQL` `Medallion Architecture` `GitHub` `CI/CD` `Python` `HIPAA`
 
 <sub>August 25, 2026 at 16:48 UTC</sub>
-
----
-
-### [Engineer](https://job-boards.greenhouse.io/raft/jobs/6150200004)
-<a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · Colorado Springs, Colorado · `Mid` `$80k-$110k`
-
-_Design and develop test automation scripts and infrastructure for performance and security testing of web services; requires active Secret Security Clearance and on-site presence in Colorado Springs. · [Apply →](https://job-boards.greenhouse.io/raft/jobs/6150200004)_
-
-`Java` `Python` `React` `Angular` `GitLab` `RHEL` `JSON` `XML`
-
-<sub>August 25, 2026 at 15:53 UTC</sub>
-
----
-
-### [Security Operations Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4727397005)
-<a href="https://tailscale.com"><img src="https://www.google.com/s2/favicons?domain=tailscale.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Tailscale** · `🟢 Remote` `Mid` `$218k—$273k CAD` `Equity`
-
-_Build and maintain security infrastructure for Tailscale's distributed organization, including device management (MDM), identity systems, and automation across macOS, Linux, and Windows endpoints. Coordinate with engineering leadership on security tech decisions and DLP policies for a fully remote team across multiple countries. · [Apply →](https://job-boards.greenhouse.io/tailscale/jobs/4727397005)_
-
-`MDM (Jamf, Kandji, Fleet, Intune)` `OIDC` `SAML` `SCIM` `Google Workspace` `Python` `Bash` `Go`
-
-<sub>August 25, 2026 at 15:53 UTC</sub>
 
 ---
 
