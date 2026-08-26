@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **156 companies** · **484 open roles** (46 new)
+### **158 companies** · **514 open roles** (51 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -26,6 +26,13 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [SAP Development Consultant - Resources/Chemicals & Natural Resources](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Chemicals---Natural-Resources_R00352795) · `🟢 Remote` `Mid` `$54.4k-$205.8k` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [SAP Development Consultant - Resources/Energy](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Energy_R00352794) · `🟢 Remote` `Mid` `$54k-$205k` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [SAP Development Consultant - Consumer Goods](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Consumer-Goods_R00351017) · `🟢 Remote` `Mid` `$54k-$205k` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [SAP Development Senior Manager - Chemicals & Natural Resources](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Senior-Manager---Chemicals---Natural-Resources_R00352735) · `🟢 Remote` `Manager` `$112k-$338k` `Equity` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [SAP Development Manager/Architect - Industrial](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---Industrial_R00351010) · `🟢 Remote` `Senior` `$80k-$293k` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [SAP Development Manager/Architect - CMT](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---CMT_R00352986) · `🟢 Remote` `Senior` `$80k-$266k` `Equity` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Mulesoft Developer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Developer_R00352832) · `🟢 Remote` `Mid` `$54k-$196k` (Aug 26)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [MuleSoft Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MuleSoft-Architect_R00352838) · `🟢 Remote` `Senior` `$80k-$266k` `Equity` (Aug 26)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Mulesoft Sr. Developer / Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Sr-Developer---Architect_R00352834) · `🟢 Remote` `Senior` `$62k-$218k` (Aug 26)
 - [Curam Solution Architects](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Ottawa/Curam-Solution-Architects_R00350736) · `🟢 Remote` `Senior` `$108k-$220k CAD` (Aug 24)
@@ -67,6 +74,7 @@ AeroVironment manufactures unmanned aircraft systems, unmanned aerial vehicles, 
 
 Agility Robotics builds humanoid robots that are deployed in manufacturing, distribution, and logistics environments for industrial automation.
 
+- [Senior Software Engineer, AI/ML Platform](https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004) · `🟢 Remote` `Senior` `$197k–$307k` `Equity` (Aug 20)
 - [Staff Software Engineer, Data Platform](https://www.agilityrobotics.com/about/job-post?gh_jid=6144405004) · Remote / Salem, Oregon / Pittsburgh, Pennsylvania / Fremont, California · `🟢 Remote` `Staff` `$191k-$299k` `Equity` (Aug 14)
 
 ---
@@ -100,6 +108,23 @@ Airbnb operates a platform offering vacation rentals across 220+ countries and r
 Amplitude provides a digital analytics platform and experimentation tools that help companies analyze user data to understand product performance and test changes.
 
 - [Staff Software Engineer- UI Foundations Team](https://job-boards.greenhouse.io/amplitude/jobs/8709027002) · `🟢 Remote` `Staff` `$173k-$264k` `Equity` (Aug 13)
+
+---
+
+## <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Anduril Industries](https://anduril.com)
+
+Anduril Industries builds autonomous systems and defense technology for US and allied forces.
+
+- [Senior Embedded Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5215952007?gh_jid=5215952007) · Boulder, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 19)
+- [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007) · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity` (Aug 18)
+- [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007) · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity` (Aug 18)
+- [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5214396007?gh_jid=5214396007) · Boulder, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 18)
+- [Lead Systems Engineer, Integration & Test](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 17)
+- [Senior System Engineering Integration & Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007) · Broomfield, Colorado / Waltham, Massachusetts · `Senior` `$143k-$191k` `Equity` (Aug 17)
+- [System Engineering Integration & Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Aug 17)
+- [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 16)
+- [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 16)
+- [Senior Software Engineer, Nix](https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007) · `🟢 Remote` `Senior` `$191k-$253k` `Equity` (Aug 13)
 
 ---
 
@@ -170,7 +195,7 @@ insufficient The source text is a job description for a Forward Deployed Enginee
 
 Bend Studio is a Sony first-party AAA game developer located in Oregon that has been operating for over 25 years.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff AI Data Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004) · `🟢 Remote` `Staff` `$177k—$265k` `Equity` (Aug 25)
+- [Staff AI Data Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6143128004) · `🟢 Remote` `Staff` `$177k—$265k` `Equity` (Aug 25)
 
 ---
 
@@ -279,6 +304,7 @@ Carbon Direct offers carbon management services including carbon measurement, em
 
 Censys provides security teams with internet mapping and threat hunting capabilities to help them defend their attack surfaces.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/censys/jobs/8731027002) · `🟢 Remote` `Senior` `$151k-$206k` `Equity` (Aug 26)
 - [Senior Distributed Systems Engineer](https://job-boards.greenhouse.io/censys/jobs/8684280002) · `🟢 Remote` `Senior` `$151k-$206k` `Equity` (Aug 24)
 - [Engineering Manager](https://job-boards.greenhouse.io/censys/jobs/8730724002) · `🟢 Remote` `Manager` `$151k-$218k` `Equity` (Aug 21)
 - [Staff Scanning Engineer](https://job-boards.greenhouse.io/censys/jobs/8730687002) · `🟢 Remote` `Staff` `$172k-$233k` `Equity` (Aug 21)
@@ -322,8 +348,8 @@ Clasp provides student loan debt repayment assistance to help companies build a 
 
 ClickHouse builds a real-time analytics and data warehousing platform used for analytics, observability, and AI workloads. The company serves over 3,000 customers including Meta, Sony, and Tesla.
 
-- [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004) · `🟢 Remote` `Senior` `Equity` (Aug 25)
-- [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004) · `🟢 Remote` `Senior` `$141k-$208k` `Equity` (Aug 20)
+- [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128891004) · `🟢 Remote` `Senior` `$169k-$225k` `Equity` (Aug 25)
+- [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004) · `🟢 Remote` `Senior` `Equity` (Aug 20)
 - [AI Operations Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004) · `🟢 Remote` `Mid` `$170k-$250k` `Equity` (Aug 15)
 - [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004) · `🟢 Remote` `Senior` `Equity` (Aug 13)
 
@@ -333,7 +359,7 @@ ClickHouse builds a real-time analytics and data warehousing platform used for a
 
 Cobalt provides a SaaS platform that connects global offensive security talent to deliver penetration testing and security services.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior GTM Systems & AI Engineer](https://job-boards.greenhouse.io/cobaltio/jobs/8743072002) · `🟢 Remote` `Senior` `$135k-$160k` `Equity` (Aug 25)
+- [Senior GTM Systems & AI Engineer](https://job-boards.greenhouse.io/cobaltio/jobs/8743072002) · `🟢 Remote` `Senior` `$135k-$160k` `Equity` (Aug 25)
 
 ---
 
@@ -357,7 +383,15 @@ Cognite LLC builds AI and data solutions, including its Cognite Data Fusion plat
 
 Coinme provides technology that enables platforms to allow their customers to buy, sell, and store cryptocurrency through websites, customer portals, or mobile apps.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Lead Solutions Engineer](https://job-boards.greenhouse.io/coinme/jobs/5405586008) · `🟢 Remote` `Senior` (Aug 25)
+- [Lead Solutions Engineer](https://job-boards.greenhouse.io/coinme/jobs/5405586008) · `🟢 Remote` `Senior` (Aug 25)
+
+---
+
+## <a href="https://companycam.com"><img src="https://www.google.com/s2/favicons?domain=companycam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[CompanyCam](https://companycam.com)
+
+CompanyCam provides photo documentation and AI tools that allow field teams to capture work, track job progress, and communicate between field and office locations.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer (Ruby on Rails/React)](https://companycam.com/job?gh_jid=7978395003) · `🟢 Remote` `Senior` `$175k-$200k` `Equity` (Aug 26)
 
 ---
 
@@ -389,7 +423,7 @@ Curri is a construction and industrial logistics platform.
 
 Databricks builds a data and AI platform that helps customers develop, deploy, and optimize generative AI applications and machine learning models at scale.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Forward Deployed Engineer - National Security Professional Services ](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) · Boston, Massachusetts / Delaware / Maryland / Virginia / West Virginia / Remote · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 25)
+- [Sr. Forward Deployed Engineer - National Security Professional Services ](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) · Boston, Massachusetts / Delaware / Maryland / Virginia / West Virginia / Remote · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 25)
 - [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
 - [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002) · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 18)
 
@@ -433,6 +467,14 @@ Descript is a tool that allows users to record, transcribe, edit, and publish vi
 Ditto Labs makes a mobile database that includes built-in edge device connectivity and resiliency.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Engineer](https://jobs.ashbyhq.com/ditto/50646667-e435-4245-9194-588138ae886a) · `🟢 Remote` `Senior` `Equity` (Aug 25)
+
+---
+
+## <a href="https://docker.com"><img src="https://www.google.com/s2/favicons?domain=docker.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Docker](https://docker.com)
+
+Docker is a software development platform.
+
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Manager, Engineering, Secure Build and SCS Services (East Coast Preferred)](https://jobs.ashbyhq.com/docker/f73a7001-4c94-439f-907e-fd29e1105f1c) · `🟢 Remote` `Manager` `CA$244k–CA$392k / $174k–$282k` `Equity` (Aug 26)
 
 ---
 
@@ -495,7 +537,7 @@ Everbridge provides a critical event and business continuity suite that helps or
 
 EvolutionIQ provides an insurance claims guidance platform that helps carriers process claims faster and make better decisions.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior AI / ML Engineer (LLMs)](https://job-boards.greenhouse.io/evolutioniq/jobs/6161432004) · New York, New York / Remote · `🟢 Remote` `Senior` `$200k-$235k` `Equity` (Aug 25)
+- [Senior AI / ML Engineer (LLMs)](https://job-boards.greenhouse.io/evolutioniq/jobs/6161432004) · New York, New York / Remote · `🟢 Remote` `Senior` `$200k-$235k` `Equity` (Aug 25)
 
 ---
 
@@ -606,6 +648,7 @@ GoGuardian provides tools to K-12 schools for student safety and learning engage
 
 Included Health delivers integrated virtual care and healthcare navigation services for employers and health plans.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Web](https://jobs.lever.co/includedhealth/11e68ef6-c38e-40db-af57-44ea32d87786) · `🟢 Remote` `Senior` (Aug 26)
 - [Senior Security Operations Engineer](https://jobs.lever.co/includedhealth/b3b5352c-0784-41c4-9e2f-062461aef44a) · `🟢 Remote` `Senior` (Aug 18)
 
 ---
@@ -623,6 +666,7 @@ Grove sells eco-friendly cleaning products, bamboo paper products, and vitamins 
 Gusto provides online payroll, HR, and benefits services for small and medium-sized businesses, offering features including automated payroll processing, tax filing, time tracking, employee benefits administration, and hiring and onboarding tools.
 
 - [Manager - Developer Productivity, AI Tools](https://job-boards.greenhouse.io/gusto/jobs/8120017) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Manager` `$240k-$260k / $290k-$305k` `Equity` (Aug 24)
+- [Staff Software Engineer, Retirement](https://job-boards.greenhouse.io/gusto/jobs/8121732) · Denver, Colorado / San Francisco, California / New York, New York / Remote · `🟡 Hybrid` `Senior` `$163k-$204k (Denver & remote), $197k-$247k (San Francisco & New York)` `Equity` (Aug 23)
 - [Staff Software Engineer, Salesforce Developer](https://job-boards.greenhouse.io/gusto/jobs/8144140) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Staff` `$163k-$204k (Denver & most remote), $197k-$247k (San Francisco & New York)` `Equity` (Aug 20)
 - [Staff Software Engineer, Gustie Assist](https://job-boards.greenhouse.io/gusto/jobs/8095028) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Staff` `Equity` (Aug 14)
 - [Senior Data Engineer](https://job-boards.greenhouse.io/gusto/jobs/8099751) · Denver, Colorado / San Francisco, California / New York, New York · `🟡 Hybrid` `Senior` `$155k-$220k` `Equity` (Aug 14)
@@ -658,7 +702,7 @@ Honeycomb is a service for observability that helps developers understand and tr
 
 Horizon3 provides security testing software that simulates real-world attacks to demonstrate vulnerabilities in a customer's environment and help identify what needs to be fixed.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [SOC Analyst](https://jobs.ashbyhq.com/horizon3ai/2fc84029-d765-4f41-a998-1d43ef1d2aba) · `🟢 Remote` `Mid` `$123k-$161k` `Equity` (Aug 25)
+- [SOC Analyst](https://jobs.ashbyhq.com/horizon3ai/2fc84029-d765-4f41-a998-1d43ef1d2aba) · `🟢 Remote` `Mid` `$123k-$161k` `Equity` (Aug 25)
 
 ---
 
@@ -682,7 +726,7 @@ Human Interest builds 401(k) retirement plans for small and medium-sized busines
 ## <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Humio (CrowdStrike)](https://humio.com)
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Software Engineer, Linux Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Aug 25)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936) · `🟢 Remote` `Senior` `$100k-$155k` `Equity` (Aug 25)
+- [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936) · `🟢 Remote` `Senior` `$100k-$155k` `Equity` (Aug 25)
 - [Sr. Linux Systems Engineer - Object Storage (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Linux-Systems-Engineer---Object-Storage--Remote-_R29937) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Aug 24)
 - [Product Security Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Engineer-III--Remote-_R29866) · `🟢 Remote` `Senior` `$120k-$180k` `Equity` (Aug 21)
 - [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 21)
@@ -711,17 +755,17 @@ Hungryroot delivers groceries and simple recipes personalized to individual cust
 
 Instacart operates a grocery delivery service that allows customers to order groceries and household goods for delivery, while also providing earnings opportunities for personal shoppers who fulfill those orders.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Oracle Fusion ERP Technical Analyst](https://instacart.careers/job/?gh_jid=8157911) · `🟢 Remote` `Senior` `CAN$126k–CAN$133k` `Equity` (Aug 25)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Core Experience](https://instacart.careers/job/?gh_jid=8155585) · `🟢 Remote` `Senior` `$214k-$221k` `Equity` (Aug 25)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Oracle Fusion ERP Technical Analyst](https://instacart.careers/job/?gh_jid=8157831) · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity` (Aug 25)
+- [Senior Software Engineer, Core Experience](https://instacart.careers/job/?gh_jid=8155585) · `🟢 Remote` `Senior` `$214k-$221k` `Equity` (Aug 25)
 - [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154300) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 24)
 - [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147298) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 21)
 - [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8146070) · `🟢 Remote` `Senior` `CAN$126k—CAN$133k` `Equity` (Aug 20)
 - [Machine Learning Engineer II, Ads - Response Prediction](https://instacart.careers/job/?gh_jid=8143263) · `🟢 Remote` `Mid` `$154k–$162k CAD` `Equity` (Aug 20)
-- [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143145) · `🟢 Remote` `Senior` `$201k-$253.5k` `Equity` (Aug 20)
-- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535) · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity` (Aug 19)
+- [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143147) · `🟢 Remote` `Senior` `$206k-$217k CAD` `Equity` (Aug 20)
+- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 19)
 - [Senior Software Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8130034) · `🟢 Remote` `Senior` `$166k—$210k USD` `Equity` (Aug 14)
 - [Site Reliability Engineer II](https://instacart.careers/job/?gh_jid=8121910) · `🟢 Remote` `Mid` `$133k-$169k` `Equity` (Aug 14)
-- [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8126023) · `🟢 Remote` `Senior` `CAN$188k—$198k` `Equity` (Aug 12)
+- [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846) · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity` (Aug 12)
 
 ---
 
@@ -745,6 +789,7 @@ Intel builds semiconductor fabrication equipment and develops manufacturing proc
 
 IonQ delivers trapped ion quantum computing systems and cloud access for quantum applications.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Client Engineer](https://job-boards.greenhouse.io/ionq/jobs/6107170004) · Seattle, Washington / College Park, Maryland / Remote · `🟢 Remote` `Staff` `$126k-$166k` `Equity` (Aug 26)
 - [Senior Full Stack Software Engineer - Application Engineering](https://job-boards.greenhouse.io/ionq/jobs/6139928004) · College Park, Maryland / Boulder, Colorado / Bothell, Washington / Toronto, Canada · `🟡 Hybrid` `Senior` `$145k–$209k` `Equity` (Aug 14)
 - [Senior Quantum Scientist](https://job-boards.greenhouse.io/ionq/jobs/6137809004) · Boulder, Colorado · `🟡 Hybrid` `Senior` `$126k–$181k` `Equity` (Aug 13)
 
@@ -846,14 +891,6 @@ LiveKit builds infrastructure for voice-driven computing that enables developers
 
 - [IT Engineer](https://jobs.ashbyhq.com/livekit/e8c2864e-7b1c-4618-a46d-a9227339c82b) · `🟢 Remote` `Mid` `Equity` (Aug 19)
 - [Research Engineer (Reinforcement Learning)](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367) · `🟢 Remote` `Senior` `Equity` (Aug 18)
-
----
-
-## <a href="https://loadsmart.com"><img src="https://www.google.com/s2/favicons?domain=loadsmart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Loadsmart](https://loadsmart.com)
-
-Loadsmart offers transportation services and software solutions for shippers, carriers, and warehouses.
-
-- [Forward Deployed Engineer](https://jobs.lever.co/loadsmart/152abf3a-d8b3-4289-b746-3c16dbabc703) · `🟢 Remote` `Mid` (Aug 21)
 
 ---
 
@@ -1064,8 +1101,10 @@ Pinterest is a platform where millions of people find creative ideas, plan proje
 
 Planet Labs operates a satellite imaging service that provides daily imagery and insights about Earth's surface to support decision-making across various applications.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Missions Software](https://job-boards.greenhouse.io/planetlabs/jobs/8160311) · `🟢 Remote` `Mid` `$82k—$102k CAD` `Equity` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer - Platform, Mission Systems](https://job-boards.greenhouse.io/planetlabs/jobs/8160328) · `🟢 Remote` `Mid` `$103k—$129k CAD` `Equity` (Aug 26)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8106198) · `🟢 Remote` `Senior` `$142k–$203k` `Equity` (Aug 26)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, GMS App Team](https://job-boards.greenhouse.io/planetlabs/jobs/8155646) · `🟢 Remote` `Senior` `$142k–$203k` `Equity` (Aug 25)
+- [Senior Software Engineer, GMS App Team](https://job-boards.greenhouse.io/planetlabs/jobs/8155646) · `🟢 Remote` `Senior` `$142k–$203k` `Equity` (Aug 25)
 
 ---
 
@@ -1119,7 +1158,7 @@ Raft is a U.S.-based defense technology company that builds AI/ML and data solut
 
 Recursion is an AI drug discovery company that uses artificial intelligence to decode biology and develop drugs.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff AI Researcher ](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8155679) · `🟢 Remote` `Staff` `$239k - $322k` `Equity` (Aug 25)
+- [Staff AI Researcher ](https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8155679) · `🟢 Remote` `Staff` `$239k - $322k` `Equity` (Aug 25)
 
 ---
 
@@ -1127,10 +1166,13 @@ Recursion is an AI drug discovery company that uses artificial intelligence to d
 
 Reddit is a community platform where users submit, vote, and comment on topics across more than 100,000 active communities, serving approximately 126 million daily active unique visitors. The company operates a Trust & Safety organization that works to protect users from harmful content and behaviors across the site.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior iOS Engineer, Community Builders](https://job-boards.greenhouse.io/reddit/jobs/7977052) · `🟢 Remote` `Senior` `$190k-$267k` `Equity` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Home Experience](https://job-boards.greenhouse.io/reddit/jobs/8155661) · `🟢 Remote` `Senior` `$190k—$267k` `Equity` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, PDP Experience](https://job-boards.greenhouse.io/reddit/jobs/8148431) · `🟢 Remote` `Mid` `$164k-$229k` `Equity` (Aug 26)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Frontend Engineer, Media](https://job-boards.greenhouse.io/reddit/jobs/8120262) · `🟢 Remote` `Senior` `$190k–$267k` `Equity` (Aug 25)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Media Creation](https://job-boards.greenhouse.io/reddit/jobs/8100220) · `🟢 Remote` `Senior` `$190k-$267k` `Equity` (Aug 25)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer, Media Experience](https://job-boards.greenhouse.io/reddit/jobs/8048988) · `🟢 Remote` `Senior` `$190k-$267k` `Equity` (Aug 25)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) · `🟢 Remote` `Staff` `$292k–$409k` `Equity` (Aug 25)
+- [Senior Staff Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8157275) · `🟢 Remote` `Staff` `$292k–$409k` `Equity` (Aug 25)
 - [Senior Backend Engineer, Safety](https://job-boards.greenhouse.io/reddit/jobs/8093006) · `🟢 Remote` `Senior` `$190k-$267k` `Equity` (Aug 18)
 - [Software Engineer, Content Platform](https://job-boards.greenhouse.io/reddit/jobs/8139781) · `🟢 Remote` `Mid` `$164k–$229k` `Equity` (Aug 18)
 - [Staff Software Engineer , Observability](https://job-boards.greenhouse.io/reddit/jobs/8131228) · `🟢 Remote` `Staff` `$217k–$303k` `Equity` (Aug 14)
@@ -1178,8 +1220,8 @@ Posit provides an enterprise data science platform for developing, deploying, an
 
 Rula provides remote mental healthcare services and operates as a remote-first company that currently hires in most U.S. states except Hawaii.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Principal AI Engineer - Personalization and Recommendation (Remote)](https://jobs.ashbyhq.com/rula/f9a905bb-e477-4679-923f-ba8aada1b9de) · `🟢 Remote` `Principal` (Aug 25)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Analytics Engineer (Remote)](https://jobs.ashbyhq.com/rula/bb8f5624-a8a0-40fe-a21a-89226281a930) · `🟢 Remote` `Staff` (Aug 25)
+- [Principal AI Engineer - Personalization and Recommendation (Remote)](https://jobs.ashbyhq.com/rula/f9a905bb-e477-4679-923f-ba8aada1b9de) · `🟢 Remote` `Principal` (Aug 25)
+- [Staff Analytics Engineer (Remote)](https://jobs.ashbyhq.com/rula/bb8f5624-a8a0-40fe-a21a-89226281a930) · `🟢 Remote` `Staff` (Aug 25)
 - [Staff Software Engineer (Remote)](https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d) · `🟢 Remote` `Staff` (Aug 21)
 - [Director of Data Science - Patient Experience (Remote)](https://jobs.ashbyhq.com/rula/0de04e18-abd0-4748-ab59-050420cfe98a) · `🟢 Remote` `Manager` (Aug 20)
 - [Software Engineer 2 - RCM (Remote)](https://jobs.ashbyhq.com/rula/9b0241a2-2ec5-4a15-a04d-70ac08d15c4c) · `🟢 Remote` `Mid` (Aug 19)
@@ -1207,7 +1249,7 @@ Samsara builds a platform called the Connected Operations Cloud that collects In
 - [Staff Software Engineer, Maps Services](https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269) · `🟢 Remote` `Staff` `$162k–$290k` `Equity` (Aug 24)
 - [Solutions Integration Engineer II](https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615) · `🟢 Remote` `Senior` `$73k-$111k` `Equity` (Aug 24)
 - [Staff Firmware Engineer](https://www.samsara.com/company/careers/roles/8074536?gh_jid=8074536) · `🟢 Remote` `Staff` `$162k-$290k` `Equity` (Aug 17)
-- [Senior Software Engineer](https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819) · `🟢 Remote` `Senior` `$142k-$184k CAD` `Equity` (Aug 14)
+- [Senior Software Engineer](https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439) · `🟢 Remote` `Senior` `$154k–$260k` `Equity` (Aug 14)
 - [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161) · `🟢 Remote` `Senior` `$142k-$168k CAD` `Equity` (Aug 13)
 - [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) · `🟢 Remote` `Senior` `$118k.50-$178k` `Equity` (Aug 12)
 - [Sr. AI Engineer](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352) · `🟢 Remote` `Senior` `$127k-$214k` `Equity` (Aug 12)
@@ -1266,6 +1308,7 @@ Snowflake builds a cloud data platform that enables organizations to store, proc
 
 Socket builds tools that help development and security teams find, audit, and manage open source code to reduce security busywork. Founded by Feross Aboukhadijeh, Socket has raised $125M in funding and serves customers including Anthropic, xAI, Figma, and Vercel.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Member of Technical Staff ](https://jobs.ashbyhq.com/socket/5c724458-efef-4d8f-8f18-8c33dcd21ffe) · `🟢 Remote` `Senior` `Equity` (Aug 26)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Compliance Engineering Lead](https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e) · `🟢 Remote` `Senior` `Equity` (Aug 26)
 
 ---
@@ -1378,7 +1421,7 @@ ToolWatch is an asset management software that provides real-time tracking of eq
 
 Torc Robotics develops software for automated trucks that integrates with test vehicles to transform freight transportation. Now part of the Daimler family, the company focuses on commercializing autonomous driving solutions through direct partnerships with truck manufacturers.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [ML Engineer, I - MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) · `🟢 Remote` `Junior` `$132k` `Equity` (Aug 25)
+- [ML Engineer, I - MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) · `🟢 Remote` `Junior` `$132k` `Equity` (Aug 25)
 - [Senior Motion Planning Engineer - Trajectory Optimization](https://job-boards.greenhouse.io/torcrobotics/jobs/8596552002) · Remote / Ann Arbor, Michigan / Fort Worth, Texas / Blacksburg, Virginia · `🟢 Remote` `Senior` `$160k–$193k` `Equity` (Aug 21)
 - [Software Engineer II, MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002) · `🟢 Remote` `Mid` `$139k-$166k` `Equity` (Aug 20)
 - [Software Engineer II - Build Tools ](https://job-boards.greenhouse.io/torcrobotics/jobs/8654323002) · Remote / Ann Arbor, Michigan · `🟢 Remote` `Mid` `$139k–$166k` (Aug 12)
@@ -1456,6 +1499,7 @@ Ursa Major designs and delivers propulsion and defense systems, including high-p
 
 Vanta provides automated compliance software for startups.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Integrations Platform, Vanta For Government (V4G)](https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a) · `🟢 Remote` `Senior` `Equity` (Aug 26)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Backend Software Engineer, Integrations Platform [Canada]](https://jobs.ashbyhq.com/vanta/bb2dc07f-eae3-44b3-8f7e-144d54571e03) · `🟢 Remote` `Senior` `Equity` (Aug 26)
 - [Staff Software Engineer, Foundations - CAN](https://jobs.ashbyhq.com/vanta/a59302dc-b7ea-4bba-af3c-ddab91489848) · `🟢 Remote` `Staff` `Equity` (Aug 24)
 - [Staff Software Engineer, Foundations](https://jobs.ashbyhq.com/vanta/87d75493-1d6e-490e-b5ac-d807f5fb5621) · `🟢 Remote` `Staff` `Equity` (Aug 24)
