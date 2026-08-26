@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **476 open roles** (41 new) &nbsp;·&nbsp; 1771 companies searched
+### **482 open roles** (42 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -112,6 +112,17 @@ _Build and lead the order management platform connecting health systems, health 
 _Build the web media player and backend APIs powering video and audio delivery across Reddit, optimizing for low-latency playback and interactive creator tools. Focus on full-stack architecture (React/TypeScript frontend, Go/Python backend) with deep knowledge of streaming protocols (HLS, DASH) and video compression standards required. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8120262)_
 
 `React` `TypeScript` `Go` `Python` `GraphQL` `Next.js` `HLS` `MPEG-DASH`
+
+<sub>August 25, 2026 at 22:37 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
+
+`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
 
 <sub>August 25, 2026 at 22:37 UTC</sub>
 
