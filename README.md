@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **482 open roles** (42 new) &nbsp;·&nbsp; 1771 companies searched
+### **477 open roles** (41 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,17 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 26, 2026
+
+### [Customer Reliability Engineer, Infrastructure](https://jobs.ashbyhq.com/astronomer/c9261f1a-8f90-4d9e-a5b2-2123bfd6e77b)
+<a href="https://astronomer.io"><img src="https://www.google.com/s2/favicons?domain=astronomer.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astronomer** · `🟢 Remote` `Senior` `$125k-$130k` `Equity`
+
+_Build and operate monitoring, alerting, and automation systems for Astronomer's managed Airflow platform running on Kubernetes across AWS, GCP, and Azure. Respond to production incidents, troubleshoot customer environments at scale, and directly improve platform reliability through infrastructure work and observability enhancements. · [Apply →](https://jobs.ashbyhq.com/astronomer/c9261f1a-8f90-4d9e-a5b2-2123bfd6e77b)_
+
+`Kubernetes` `Python` `AWS` `GCP` `Azure` `Linux` `Distributed Systems` `Terraform`
+
+<sub>August 26, 2026 at 08:55 UTC</sub>
+
+---
 
 ### [Software Engineer, Activations (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Software-Engineer--Activations--MANTL-_JR-000851)
 <a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Mid` `$130k-$145k`
@@ -117,17 +128,6 @@ _Build the web media player and backend APIs powering video and audio delivery a
 
 ---
 
-### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
-
-`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
-
-<sub>August 25, 2026 at 22:37 UTC</sub>
-
----
-
 ### [AI Engineer](https://jobs.ashbyhq.com/ditto/50646667-e435-4245-9194-588138ae886a)
 <a href="https://ditto.com"><img src="https://www.google.com/s2/favicons?domain=ditto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ditto Labs** · `🟢 Remote` `Senior` `Equity`
 
@@ -184,7 +184,7 @@ _Lead and mentor a team of security engineers building enterprise security progr
 ---
 
 ### [Sr. Software Engineer, Linux Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build core endpoint detection and response features for the Linux sensor component of Falcon Host, processing thousands of events per second across file system, memory, process, and networking subsystems. Work on a distributed system handling 3 trillion events daily with cross-platform architecture across Windows, macOS, and Linux. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)_
 
@@ -360,7 +360,7 @@ _Build and productionize end-to-end data engineering, ML/AI, and application sol
 ---
 
 ### [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
+<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
 
 _Build scalable automation solutions that integrate compliance controls across CrowdStrike's systems and processes, automating audit workflows and compliance attestations at scale processing 3 trillion security events daily. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)_
 
@@ -466,17 +466,6 @@ _Design and build data pipelines and transformation layers for critical infrastr
 `Python` `Go` `Kubernetes` `Docker` `dbt` `Airflow` `Spark` `PostgreSQL`
 
 <sub>August 25, 2026 at 13:04 UTC</sub>
-
----
-
-### [Senior Field Engineer (Pre-Sales/Forward Deployed)](https://job-boards.eu.greenhouse.io/cognite/jobs/4959734101)
-<a href="https://cognite.com"><img src="https://www.google.com/s2/favicons?domain=cognite.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Cognite LLC** · Houston, Texas / Remote · `🟢 Remote` `Senior`
-
-_Lead the design and deployment of industrial AI agents and data solutions for enterprise customers, translating their operational challenges into live prototypes using Cognite's Atlas AI and Data Fusion platforms. Requires deep expertise in GenAI architectures, LLM integration, and the ability to architect scalable solutions across siloed IT/OT/ET systems in energy, oil & gas, and chemicals industries. · [Apply →](https://job-boards.eu.greenhouse.io/cognite/jobs/4959734101)_
-
-`Python` `LLMs (Gemini, Claude, GPT-4)` `RAG` `Prompt Engineering` `GenAI` `Industrial Data Architecture` `Kubernetes`
-
-<sub>August 25, 2026 at 08:53 UTC</sub>
 
 ---
 
