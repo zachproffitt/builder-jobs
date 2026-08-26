@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **477 open roles** (41 new) &nbsp;·&nbsp; 1771 companies searched
+### **482 open roles** (44 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 26, 2026
+
+### [Staff Software Engineer, Backend](https://jobs.ashbyhq.com/Nango/cc65bf5d-988e-4b82-827a-eb13eacb83a0)
+<a href="https://nango.dev"><img src="https://www.google.com/s2/favicons?domain=nango.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nango** · `🟢 Remote` `Staff`
+
+_Design and scale backend systems and APIs for Nango's integration platform that powers AI agents and applications. Build high-traffic developer infrastructure handling integrations for 400+ paying customers including Replit and Ramp. · [Apply →](https://jobs.ashbyhq.com/Nango/cc65bf5d-988e-4b82-827a-eb13eacb83a0)_
+
+`Node.js` `API Design` `Database Systems` `Scalability` `Performance Optimization` `Open Source Development`
+
+<sub>August 26, 2026 at 11:37 UTC</sub>
+
+---
+
+### [Staff Platform Engineer](https://jobs.ashbyhq.com/Nango/8df55632-71d5-481e-8424-1f7491f9e96d)
+<a href="https://nango.dev"><img src="https://www.google.com/s2/favicons?domain=nango.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nango** · `🟢 Remote` `Staff`
+
+_Own the cloud infrastructure, Kubernetes platform, and data layer for an API integration platform serving 400+ customers including Replit and Ramp. Lead BYOC (bring-your-own-cloud) deployments, operationalize IaC/GitOps for a small autonomous team, and establish SLOs and compliance frameworks (SOC 2, GDPR, HIPAA) as the first dedicated platform engineer at a YC-backed company. · [Apply →](https://jobs.ashbyhq.com/Nango/8df55632-71d5-481e-8424-1f7491f9e96d)_
+
+`Kubernetes` `Terraform` `AWS` `PostgreSQL` `Redis` `Elasticsearch` `ClickHouse` `TypeScript`
+
+<sub>August 26, 2026 at 11:37 UTC</sub>
+
+---
+
+### [Staff Engineer, Platform & Infrastructure](https://jobs.ashbyhq.com/Nango/09421bc9-987b-4fe3-aeac-bd183afc5b8e)
+<a href="https://nango.dev"><img src="https://www.google.com/s2/favicons?domain=nango.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nango** · `🟢 Remote` `Staff`
+
+_Own the cloud infrastructure and BYOC/private cloud deployments for an API integration platform serving AI applications and developer tools. Lead Kubernetes, data layer (Postgres, Redis, Elasticsearch, ClickHouse), IaC/GitOps, and compliance/security infrastructure at growing scale; requires 10+ years platform/SRE experience and production Kubernetes expertise. · [Apply →](https://jobs.ashbyhq.com/Nango/09421bc9-987b-4fe3-aeac-bd183afc5b8e)_
+
+`Kubernetes` `Terraform` `AWS` `PostgreSQL` `Redis` `Elasticsearch` `ClickHouse` `TypeScript`
+
+<sub>August 26, 2026 at 11:37 UTC</sub>
+
+---
 
 ### [Customer Reliability Engineer, Infrastructure](https://jobs.ashbyhq.com/astronomer/c9261f1a-8f90-4d9e-a5b2-2123bfd6e77b)
 <a href="https://astronomer.io"><img src="https://www.google.com/s2/favicons?domain=astronomer.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astronomer** · `🟢 Remote` `Senior` `$125k-$130k` `Equity`
@@ -184,7 +217,7 @@ _Lead and mentor a team of security engineers building enterprise security progr
 ---
 
 ### [Sr. Software Engineer, Linux Sensor - CTIO (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
 
 _Build core endpoint detection and response features for the Linux sensor component of Falcon Host, processing thousands of events per second across file system, memory, process, and networking subsystems. Work on a distributed system handling 3 trillion events daily with cross-platform architecture across Windows, macOS, and Linux. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Sr-Software-Engineer--Linux-Sensor---CTIO--Remote-_R29890)_
 
@@ -360,7 +393,7 @@ _Build and productionize end-to-end data engineering, ML/AI, and application sol
 ---
 
 ### [Sr. Governance, Risk, and Compliance Specialist (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)
-<a href="https://crowdstrike.com"><img src="https://www.google.com/s2/favicons?domain=crowdstrike.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CrowdStrike** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
 
 _Build scalable automation solutions that integrate compliance controls across CrowdStrike's systems and processes, automating audit workflows and compliance attestations at scale processing 3 trillion security events daily. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Governance--Risk--and-Compliance-Specialist--Remote-_R29936)_
 
