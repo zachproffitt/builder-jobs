@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **482 open roles** (44 new) &nbsp;·&nbsp; 1771 companies searched
+### **483 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,39 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 26, 2026
+
+### [DAF Support Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/DAF-Support-Engineer_R24445)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Longmont, Colorado · `Junior` `$74k-$107.8k`
+
+_Support mission operations for satellite ground systems and remote sensing platforms, executing tasking requests, monitoring spacecraft access windows, and troubleshooting Tier 1/2 issues for defense and commercial customers. Requires active Secret clearance and U.S. citizenship; 24/7 rotational shift work in high-pressure operational environment. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/DAF-Support-Engineer_R24445)_
+
+`Python` `Ruby` `XML` `JSON` `Windows` `Unix/Linux` `GIS` `Geospatial Analysis`
+
+<sub>August 26, 2026 at 13:09 UTC</sub>
+
+---
+
+### [MuleSoft Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MuleSoft-Architect_R00352838)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k` `Equity`
+
+_Design and lead enterprise integration architectures using MuleSoft, guiding client teams through API-led connectivity patterns and establishing standards for scalable, governed ecosystems. Requires 7+ years of integration architecture experience, hands-on MuleSoft development, and MuleSoft Certified Platform Architect certification. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MuleSoft-Architect_R00352838)_
+
+`MuleSoft` `Anypoint Platform` `API-led connectivity` `REST` `SOAP` `OAuth` `JWT` `GenAI tools`
+
+<sub>August 26, 2026 at 13:09 UTC</sub>
+
+---
+
+### [Mulesoft Sr. Developer / Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Sr-Developer---Architect_R00352834)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$62k-$218k`
+
+_Design, develop, and deploy enterprise APIs and integrations using MuleSoft Anypoint Platform, guiding development teams and mentoring junior developers across the full software development lifecycle. Work on complex integration initiatives across industries with variable travel (0-100%) depending on client needs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Sr-Developer---Architect_R00352834)_
+
+`MuleSoft` `Anypoint Platform` `DataWeave` `API security` `OAuth` `JWT` `CI/CD` `Git`
+
+<sub>August 26, 2026 at 13:09 UTC</sub>
+
+---
 
 ### [Staff Software Engineer, Backend](https://jobs.ashbyhq.com/Nango/cc65bf5d-988e-4b82-827a-eb13eacb83a0)
 <a href="https://nango.dev"><img src="https://www.google.com/s2/favicons?domain=nango.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nango** · `🟢 Remote` `Staff`
@@ -477,28 +510,6 @@ _Design and implement secure, end-to-end Kubernetes and Docker-based cluster lif
 `Kubernetes` `Docker` `AWS` `GitOps` `CI/CD` `Ansible` `GitLab` `Istio`
 
 <sub>August 25, 2026 at 14:55 UTC</sub>
-
----
-
-### [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
-
-_Build detection and incident response automation systems for a cloud analytics platform serving thousands of customers. Develop threat modeling processes and security logging infrastructure to scale detection capabilities across large-scale customer-facing cloud infrastructure. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004)_
-
-`Python` `Golang` `AWS` `GCP` `Azure` `Incident Response` `Threat Modeling`
-
-<sub>August 25, 2026 at 13:04 UTC</sub>
-
----
-
-### [Senior Data Engineer](https://job-boards.greenhouse.io/dragos/jobs/5372226008)
-<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Senior` `$165k` `Equity`
-
-_Design and build data pipelines and transformation layers for critical infrastructure cybersecurity analytics, modeling complex industrial control system data at scale. Work involves data contracts, dimensional modeling, and observability frameworks in a Kubernetes environment serving threat detection and intelligence platforms. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5372226008)_
-
-`Python` `Go` `Kubernetes` `Docker` `dbt` `Airflow` `Spark` `PostgreSQL`
-
-<sub>August 25, 2026 at 13:04 UTC</sub>
 
 ---
 

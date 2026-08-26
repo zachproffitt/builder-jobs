@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **155 companies** · **482 open roles** (44 new)
+### **154 companies** · **483 open roles** (45 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -26,6 +26,8 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [MuleSoft Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/MuleSoft-Architect_R00352838) · `🟢 Remote` `Senior` `$80k-$266k` `Equity` (Aug 26)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Mulesoft Sr. Developer / Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Sr-Developer---Architect_R00352834) · `🟢 Remote` `Senior` `$62k-$218k` (Aug 26)
 - [Curam Solution Architects](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Ottawa/Curam-Solution-Architects_R00350736) · `🟢 Remote` `Senior` `$108k-$220k CAD` (Aug 24)
 
 ---
@@ -321,7 +323,7 @@ Chainguard provides hardened, secure, and production-ready open source software 
 - [Security Engineer ](https://job-boards.greenhouse.io/chainguard/jobs/4707450006) · `🟢 Remote` `Mid` `$105k-$123k` `Equity` (Aug 24)
 - [Staff Software Engineer (Customer Platform)](https://job-boards.greenhouse.io/chainguard/jobs/4705456006) · `🟢 Remote` `Staff` `$205k-$231k` `Equity` (Aug 14)
 - [Staff Vulnerability Management Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4696741006) · `🟢 Remote` `Staff` `Equity` (Aug 14)
-- [Principal Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4698956006) · `🟢 Remote` `Principal` `$229k-$258k` `Equity` (Aug 12)
+- [Principal Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4698958006) · `🟢 Remote` `Principal` `Equity` (Aug 12)
 
 ---
 
@@ -337,7 +339,7 @@ Clasp provides student loan debt repayment assistance to help companies build a 
 
 ClickHouse builds a real-time analytics and data warehousing platform used for analytics, observability, and AI workloads. The company serves over 3,000 customers including Meta, Sony, and Tesla.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004) · `🟢 Remote` `Senior` `Equity` (Aug 25)
+- [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004) · `🟢 Remote` `Senior` `Equity` (Aug 25)
 - [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004) · `🟢 Remote` `Senior` `Equity` (Aug 20)
 - [AI Operations Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004) · `🟢 Remote` `Mid` `$170k-$250k` `Equity` (Aug 15)
 - [Senior Cloud Software Engineer - Efficiency Engineering](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004) · `🟢 Remote` `Senior` `Equity` (Aug 13)
@@ -471,7 +473,7 @@ Doma Technology LLC offers solutions for lenders, real estate professionals, tit
 
 Dragos provides industrial cybersecurity solutions that offer visibility and threat detection for operational technology environments.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Data Engineer](https://job-boards.greenhouse.io/dragos/jobs/5372226008) · `🟢 Remote` `Senior` `$165k` `Equity` (Aug 25)
+- [Senior Data Engineer](https://job-boards.greenhouse.io/dragos/jobs/5372226008) · `🟢 Remote` `Senior` `$165k` `Equity` (Aug 25)
 - [Staff Data Engineer - Integrations](https://job-boards.greenhouse.io/dragos/jobs/5392673008) · `🟢 Remote` `Staff` `$192k` `Equity` (Aug 17)
 - [Backend Engineering Manager](https://job-boards.greenhouse.io/dragos/jobs/5387412008) · `🟢 Remote` `Manager` `$220k` `Equity` (Aug 16)
 - [Director, Engineering](https://job-boards.greenhouse.io/dragos/jobs/5383386008) · `🟢 Remote` `Manager` `$260k` `Equity` (Aug 14)
@@ -925,15 +927,6 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 - [Senior Manager of Data Science Production Engineering, DevOps](https://job-boards.greenhouse.io/natera/jobs/6137673004) · `🟢 Remote` `Manager` `$151k–$188.7k` (Aug 21)
 - [Director of Production Engineering, Extended-Hours Support (Data Science)](https://job-boards.greenhouse.io/natera/jobs/6137671004) · `🟢 Remote` `Manager` `$186k–$232k` (Aug 19)
 - [Director of Data Science and Bioinformatics](https://job-boards.greenhouse.io/natera/jobs/6135539004) · `🟢 Remote` `Manager` `$178k–$222k` (Aug 12)
-
----
-
-## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
-
-NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
-
-- [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776) · `🟢 Remote` `Senior` (Aug 21)
-- [Manager, Enterprise Applications](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Manager--Enterprise-Applications_R-101762) · `🟢 Remote` `Manager` (Aug 13)
 
 ---
 
@@ -1463,6 +1456,7 @@ Vanta provides automated compliance software for startups.
 
 Vantor makes spatial intelligence products that combine spatial data, AI, and software for defense, intelligence, and commercial applications.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [DAF Support Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/DAF-Support-Engineer_R24445) · Longmont, Colorado · `Junior` `$74k-$107.8k` (Aug 26)
 - [Senior Staff Software Systems Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Senior-Staff-Software-Systems-Engineer_R24404) · Westminster, Colorado · `Staff` `$128k-$187k` `Equity` (Aug 24)
 - [Satellite Operations Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/Satellite-Operations-Engineer_R24446) · Longmont, Colorado · `Mid` `$74k-$107.8k` (Aug 24)
 - [AI Content Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478) · Westminster, Colorado · `Senior` `$98k-$143k` (Aug 19)
