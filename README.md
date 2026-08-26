@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **483 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
+### **489 open roles** (45 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,28 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 26, 2026
+
+### [Engineering Manager, AgentControl](https://job-boards.greenhouse.io/launchdarkly/jobs/7977701003)
+<a href="https://launchdarkly.com"><img src="https://www.google.com/s2/favicons?domain=launchdarkly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LaunchDarkly** · `🟢 Remote` `Manager` `$163k-$263k` `Equity`
+
+_Lead the Evaluations team building offline evaluation systems, LLM-as-judges, and benchmarking infrastructure for agent control and deployment at scale. Technical depth in distributed systems, AI tooling integration, and production observability required for infrastructure spanning Go, Python, AWS, and CockroachDB. · [Apply →](https://job-boards.greenhouse.io/launchdarkly/jobs/7977701003)_
+
+`Go` `Python` `AWS` `CockroachDB` `Datadog` `TypeScript` `Observability & Incident Response`
+
+<sub>August 26, 2026 at 14:53 UTC</sub>
+
+---
+
+### [Mulesoft Developer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Developer_R00352832)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$196k`
+
+_Develop, test, and deploy MuleSoft APIs and integrations using Anypoint Platform, DataWeave, and enterprise connectors for large-scale client modernization initiatives. Work across complex integration challenges in distributed delivery teams with exposure to AI-powered agentic architectures and modern cloud technologies. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Mulesoft-Developer_R00352832)_
+
+`MuleSoft` `Java` `REST APIs` `DataWeave` `Git` `Anypoint Platform` `AWS` `Azure`
+
+<sub>August 26, 2026 at 14:53 UTC</sub>
+
+---
 
 ### [DAF Support Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Longmont-CO/DAF-Support-Engineer_R24445)
 <a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Longmont, Colorado · `Junior` `$74k-$107.8k`
@@ -189,6 +211,17 @@ _Build and lead the order management platform connecting health systems, health 
 _Build the web media player and backend APIs powering video and audio delivery across Reddit, optimizing for low-latency playback and interactive creator tools. Focus on full-stack architecture (React/TypeScript frontend, Go/Python backend) with deep knowledge of streaming protocols (HLS, DASH) and video compression standards required. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8120262)_
 
 `React` `TypeScript` `Go` `Python` `GraphQL` `Next.js` `HLS` `MPEG-DASH`
+
+<sub>August 25, 2026 at 22:37 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
+
+`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
 
 <sub>August 25, 2026 at 22:37 UTC</sub>
 
@@ -477,39 +510,6 @@ _Build and maintain security infrastructure for Tailscale's distributed organiza
 `MDM (Jamf, Kandji, Fleet, Intune)` `OIDC` `SAML` `SCIM` `Google Workspace` `Python` `Bash` `Go`
 
 <sub>August 25, 2026 at 15:53 UTC</sub>
-
----
-
-### [Senior Manager Quality Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager-Quality-Engineering_R0061391)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Manager` `$105k-$149k`
-
-_Lead a quality assurance team responsible for testing strategy, automation, metrics, and defect reduction across organizational projects. Manage both onshore and offshore QA teams while establishing quality standards and best practices across cross-functional teams. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager-Quality-Engineering_R0061391)_
-
-`Test Automation` `Test Strategy` `Agile` `Quality Assurance`
-
-<sub>August 25, 2026 at 14:55 UTC</sub>
-
----
-
-### [Lead Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061715)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
-
-_Lead the design and development of microservices-based architectures using Spring and Apache Kafka for enterprise financial applications. Mentor engineering teams and drive adoption of TDD/BDD practices across the organization. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061715)_
-
-`Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `MongoDB` `Hibernate` `Docker` `Kubernetes`
-
-<sub>August 25, 2026 at 14:55 UTC</sub>
-
----
-
-### [Senior Engineer](https://job-boards.greenhouse.io/raft/jobs/6145257004)
-<a href="https://teamraft.com"><img src="https://www.google.com/s2/favicons?domain=teamraft.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Raft** · `🟢 Remote` `Senior` `$130k-$150k`
-
-_Design and implement secure, end-to-end Kubernetes and Docker-based cluster lifecycles with GitOps-driven CI/CD pipelines for U.S. federal and defense clients. Requires active security clearance and on-site presence within continental U.S.; defense contractor environment with DevSecOps, penetration testing, and ATO package responsibilities. · [Apply →](https://job-boards.greenhouse.io/raft/jobs/6145257004)_
-
-`Kubernetes` `Docker` `AWS` `GitOps` `CI/CD` `Ansible` `GitLab` `Istio`
-
-<sub>August 25, 2026 at 14:55 UTC</sub>
 
 ---
 
