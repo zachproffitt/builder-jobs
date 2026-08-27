@@ -2,13 +2,83 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **528 open roles** (52 new) &nbsp;·&nbsp; 1771 companies searched
+### **452 open roles** (53 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 
 [By company →](COMPANIES.md) &nbsp;·&nbsp; [Remote only →](REMOTE.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 27, 2026
+
+### [Sr Platform Monitoring Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior`
+
+_Lead incident investigation, root cause analysis, and observability architecture for the Databricks data platform serving thousands of enterprise customers. Design monitoring solutions, alerting pipelines, and automation tools to enhance platform reliability and reduce detection latency across distributed infrastructure at scale. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002)_
+
+`Python` `Kubernetes` `Docker` `AWS` `Prometheus` `Grafana` `ELK Stack` `PagerDuty`
+
+<sub>August 27, 2026 at 09:27 UTC</sub>
+
+---
+
+### [Engineering Manager, Rapid Response](https://jobs.ashbyhq.com/horizon3ai/35b5f49f-67a4-47ee-b2a3-9f9d9d5b6c10)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Manager`
+
+_Lead a team of Attack Engineers building AI-driven vulnerability research and exploit automation pipelines; establish operational excellence in triaging and weaponizing zero-days within hours of disclosure, bridging offensive security research with product delivery. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/35b5f49f-67a4-47ee-b2a3-9f9d9d5b6c10)_
+
+`Python` `SQL` `PostgreSQL` `Neo4j` `Docker` `Kubernetes` `AWS` `Reverse Engineering`
+
+<sub>August 27, 2026 at 09:27 UTC</sub>
+
+---
+
+### [Engineering Manager, Web Application Discovery](https://jobs.ashbyhq.com/horizon3ai/65f5ec2e-9ee9-40c1-96ce-435bb1d1aa3e)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Manager` `$225k–$265k` `Equity`
+
+_Lead a team of 4-8+ engineers building web application discovery and crawling capabilities for the NodeZero autonomous pentesting platform, handling modern frameworks, SPAs, multi-step authentication, and API enumeration at scale. Requires hands-on technical depth in web security and web crawling alongside team management and product partnership. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/65f5ec2e-9ee9-40c1-96ce-435bb1d1aa3e)_
+
+`Python` `Web Application Security` `Web Crawling` `Playwright` `Puppeteer` `Selenium` `PostgreSQL` `Neo4j`
+
+<sub>August 27, 2026 at 09:27 UTC</sub>
+
+---
+
+### [Sr. Platform Engineer (Infra Pod)](https://job-boards.greenhouse.io/pairteam/jobs/8642973002)
+<a href="https://pairteam.com"><img src="https://www.google.com/s2/favicons?domain=pairteam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pair Team** · `🟢 Remote` `Senior` `$180k-$220k` `Equity`
+
+_Build and operate the foundational platform layer—cloud infrastructure, core backend services, authentication/RBAC, CI/CD, and integrations—that enables Pair Team's product teams to scale safely and independently. Own Ruby on Rails services, AWS infrastructure, and Postgres/Snowflake systems supporting a healthcare platform serving 115M+ Medicaid and Medicare beneficiaries. · [Apply →](https://job-boards.greenhouse.io/pairteam/jobs/8642973002)_
+
+`Ruby on Rails` `AWS` `Terraform` `PostgreSQL` `Snowflake` `RBAC` `CI/CD` `Distributed Systems`
+
+<sub>August 27, 2026 at 09:27 UTC</sub>
+
+---
+
+### [Data Engineer I](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Junior` `$80k-$115k` `Equity`
+
+_Build and maintain data pipelines and ingestion systems using Python, SQL, and cloud data platforms for autonomous spacecraft and space-based defense systems. Defense contractor requiring US citizenship or permanent residency and compliance with ITAR export regulations. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007)_
+
+`Python` `SQL` `Git` `Spark` `Airflow` `dbt` `Kafka` `Cloud Data Platforms`
+
+<sub>August 27, 2026 at 09:27 UTC</sub>
+
+---
+
+### [Staff Software Engineer, AI Solutions](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Software-Engineer--AI-Solutions_REF087949W)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Senior` `Equity`
+
+_Design and build AI-powered solutions integrated with ServiceNow, including custom MCP tooling, agentic systems, and LLM orchestration (OpenAI, Google Gemini) to drive intelligent automation and enterprise digital transformation. Requires hands-on expertise in generative AI, agent design, and ServiceNow platform development at scale. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Software-Engineer--AI-Solutions_REF087949W)_
+
+`Python` `ServiceNow` `JavaScript` `REST APIs` `GenAI` `Agentic AI` `LLMs` `Prompt Engineering`
+
+<sub>August 27, 2026 at 09:27 UTC</sub>
+
+---
 
 <br>
 
@@ -20,17 +90,6 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 _Lead AI/ML research and engineering teams building learning from demonstration systems for humanoid robots deployed in warehouses and manufacturing. Drive innovation from concept to deployment across real-time planning, whole-body control, and adaptive motor control on resource-constrained edge devices. · [Apply →](https://www.agilityrobotics.com/about/job-post?gh_jid=6164697004)_
 
 `Computer Vision` `Reinforcement Learning` `Robotics` `Real-time AI` `Edge Deployment` `LLMs` `Python` `PyTorch`
-
-<sub>August 26, 2026 at 23:20 UTC</sub>
-
----
-
-### [Senior Data Engineering, Payments](https://careers.airbnb.com/positions/8158533?gh_jid=8158533)
-<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$227k` `Equity`
-
-_Build and maintain production ETL pipelines that ingest, reconcile, and transform insurance partner data into trustworthy analytics models supporting AirCover's guest and host protection programs across multiple markets. Scale data foundations for claims operations, financial reconciliation, experimentation, and executive reporting as AirCover expands into new markets and protection offerings. · [Apply →](https://careers.airbnb.com/positions/8158533?gh_jid=8158533)_
-
-`Python` `Scala` `SQL` `Spark` `Airflow` `ETL/ELT` `Data Modeling` `Distributed Systems`
 
 <sub>August 26, 2026 at 23:20 UTC</sub>
 
@@ -53,6 +112,17 @@ _Own and ship full-stack product features for an AI-native FP&A platform, from c
 _Own the AI foundation for Aleph's FP&A platform — build model routing, context management, eval infrastructure, and agentic workflows that finance teams depend on. Ship production LLM systems where correctness is critical; wrong answers end up in board decks. · [Apply →](https://jobs.ashbyhq.com/aleph/5fe31833-c89e-405a-b9b3-53df20863295)_
 
 `LLM APIs` `Agent frameworks` `Python` `Prompt engineering` `Evals` `Multi-model routing` `Context management` `Observability`
+
+<sub>August 26, 2026 at 23:20 UTC</sub>
+
+---
+
+### [Senior Data Engineering, Payments](https://careers.airbnb.com/positions/8158533?gh_jid=8158533)
+<a href="https://airbnb.com"><img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Airbnb** · `🟢 Remote` `Senior` `$196k-$227k` `Equity`
+
+_Build and maintain production ETL pipelines that ingest, reconcile, and transform insurance partner data into trustworthy analytics models supporting AirCover's guest and host protection programs across multiple markets. Scale data foundations for claims operations, financial reconciliation, experimentation, and executive reporting as AirCover expands into new markets and protection offerings. · [Apply →](https://careers.airbnb.com/positions/8158533?gh_jid=8158533)_
+
+`Python` `Scala` `SQL` `Spark` `Airflow` `ETL/ELT` `Data Modeling` `Distributed Systems`
 
 <sub>August 26, 2026 at 23:20 UTC</sub>
 
@@ -267,6 +337,17 @@ _Build and maintain the cloud-based infrastructure and microservices that automa
 
 ---
 
+### [Backend Software Engineer, PDP Experience](https://job-boards.greenhouse.io/reddit/jobs/8148431)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k-$229k` `Equity`
+
+_Build and scale the Comments page experience for one of the internet's largest platforms, handling 130M+ daily active users. Architect and execute on the full product lifecycle from design through launch, balancing rapid iteration with quality at massive scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8148431)_
+
+`Go` `Python` `Rust` `GraphQL` `REST` `gRPC` `Distributed Systems`
+
+<sub>August 26, 2026 at 19:14 UTC</sub>
+
+---
+
 ### [Senior iOS Engineer, Community Builders](https://job-boards.greenhouse.io/reddit/jobs/7977052)
 <a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k-$267k` `Equity`
 
@@ -284,17 +365,6 @@ _Build iOS features and services for Reddit's community builder platform, enabli
 _Build backend services and full-stack features for Reddit's Feed pages, serving hundreds of millions of daily active users across mobile and web clients. Own the complete development cycle from design through launch, including metrics-driven experimentation and system observability at massive scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8155661)_
 
 `Python` `Go` `Kotlin` `Swift` `Rust` `BigQuery` `Firebase` `Distributed Systems`
-
-<sub>August 26, 2026 at 19:14 UTC</sub>
-
----
-
-### [Software Engineer, PDP Experience](https://job-boards.greenhouse.io/reddit/jobs/8148431)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Mid` `$164k-$229k` `Equity`
-
-_Build and scale the Comments page experience for one of the internet's largest platforms, handling 130M+ daily active users. Architect and execute on the full product lifecycle from design through launch, balancing rapid iteration with quality at massive scale. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8148431)_
-
-`Go` `Python` `Rust` `GraphQL` `REST` `gRPC` `Distributed Systems`
 
 <sub>August 26, 2026 at 19:14 UTC</sub>
 
@@ -526,61 +596,6 @@ _Own the cloud infrastructure and BYOC/private cloud deployments for an API inte
 `Kubernetes` `Terraform` `AWS` `PostgreSQL` `Redis` `Elasticsearch` `ClickHouse` `TypeScript`
 
 <sub>August 26, 2026 at 11:37 UTC</sub>
-
----
-
-### [Customer Reliability Engineer, Infrastructure](https://jobs.ashbyhq.com/astronomer/c9261f1a-8f90-4d9e-a5b2-2123bfd6e77b)
-<a href="https://astronomer.io"><img src="https://www.google.com/s2/favicons?domain=astronomer.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Astronomer** · `🟢 Remote` `Senior` `$125k-$130k` `Equity`
-
-_Build and operate monitoring, alerting, and automation systems for Astronomer's managed Airflow platform running on Kubernetes across AWS, GCP, and Azure. Respond to production incidents, troubleshoot customer environments at scale, and directly improve platform reliability through infrastructure work and observability enhancements. · [Apply →](https://jobs.ashbyhq.com/astronomer/c9261f1a-8f90-4d9e-a5b2-2123bfd6e77b)_
-
-`Kubernetes` `Python` `AWS` `GCP` `Azure` `Linux` `Distributed Systems` `Terraform`
-
-<sub>August 26, 2026 at 08:55 UTC</sub>
-
----
-
-### [Software Engineer, Activations (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Software-Engineer--Activations--MANTL-_JR-000851)
-<a href="https://alkami.com"><img src="https://www.google.com/s2/favicons?domain=alkami.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Alkami** · `🟢 Remote` `Mid` `$130k-$145k`
-
-_Build backend services and APIs for the client activation and onboarding process, integrating with core banking provider systems and third-party services like check ordering and ACH transfers. Work within a microservices architecture to discover client requirements and translate them into production-ready solutions. · [Apply →](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Software-Engineer--Activations--MANTL-_JR-000851)_
-
-`NodeJS` `REST APIs` `Microservices Architecture` `System Design`
-
-<sub>August 26, 2026 at 04:49 UTC</sub>
-
----
-
-### [Off-Cycle Fall 2026 Cybersecurity Internship](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004)
-<a href="https://galaxy.com"><img src="https://www.google.com/s2/favicons?domain=galaxy.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Galaxy** · `🟢 Remote` `Intern` `$110k`
-
-_Support the development and refinement of secure engineering standards for software and production teams, including authentication, authorization, API security, and secure coding practices. May develop custom libraries and resources to help engineering teams implement these standards effectively. · [Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6163325004)_
-
-`Python` `Rust` `C++` `Solidity` `Claude` `Cursor`
-
-<sub>August 26, 2026 at 04:49 UTC</sub>
-
----
-
-### [Sr. Staff Software Engineer, Big Data Platform](https://www.pinterestcareers.com/jobs/?gh_jid=7494956)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Palo Alto, California / Seattle, Washington / New York, New York / Remote · `🟢 Remote` `Staff`
-
-_Lead Pinterest's big data and AI infrastructure strategy, building and scaling frameworks to process petabyte-scale datasets across Flink, Spark, Kubernetes, and related technologies. Provide technical direction for mission-critical systems serving millions of users at exabyte scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=7494956)_
-
-`Kubernetes` `Spark` `Flink` `Java` `Go` `Scala` `Python` `AWS`
-
-<sub>August 26, 2026 at 01:51 UTC</sub>
-
----
-
-### [Compliance Engineering Lead](https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e)
-<a href="https://socket.dev"><img src="https://www.google.com/s2/favicons?domain=socket.dev&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Socket** · `🟢 Remote` `Senior` `Equity`
-
-_Own Socket's compliance program as engineered systems—build automated evidence collection pipelines from GCP, GitHub, and identity providers; lead SOC 2 Type II audits, ISO 27001 certification, and risk management with code-driven control monitoring instead of manual checklists. You'll hire and lead your first team member while reporting to the CISO, shaping GRC infrastructure at a security-vendor company held to a higher bar by customers like Anthropic and Figma. · [Apply →](https://jobs.ashbyhq.com/socket/983b52ce-83ad-4af5-a494-65fbfbd7e38e)_
-
-`GCP` `GitHub` `Drata` `Vanta` `ISO 27001` `SOC 2 Type II` `Automation`
-
-<sub>August 26, 2026 at 01:51 UTC</sub>
 
 ---
 
