@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **451 open roles** (48 new) &nbsp;·&nbsp; 1771 companies searched
+### **463 open roles** (58 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,171 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 28, 2026
+
+### [Senior Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5225306007?gh_jid=5225306007)
+<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Colorado Springs, Colorado · `Senior` `$165k-$218k` `Equity`
+
+_Own the architecture and operation of ground command-and-control software for satellite missions, building backend services in Go that plan missions, command spacecraft, ingest telemetry, and drive ground stations in production. Requires top secret/SCI clearance and deep integration with spacecraft, RF systems, and astrodynamics algorithms in a defense environment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225306007?gh_jid=5225306007)_
+
+`Go` `gRPC` `Protobuf` `Kubernetes` `Distributed Systems` `Space Domain Awareness` `TS/SCI Clearance`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Data Engineer](https://jobs.ashbyhq.com/benchling/f0c70d09-5a30-4380-a3a6-c73f4fd75f40)
+<a href="https://benchling.com"><img src="https://www.google.com/s2/favicons?domain=benchling.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benchling** · `🟢 Remote` `Senior`
+
+_Build and operate production data pipelines ingesting from Benchling's product, Salesforce, and third-party systems into Snowflake, modeled with dbt and deployed to enterprise scale. Partner with AIDE's AI engineering team to curate governed, trustworthy datasets for internal AI agents and agentic applications. · [Apply →](https://jobs.ashbyhq.com/benchling/f0c70d09-5a30-4380-a3a6-c73f4fd75f40)_
+
+`Python` `SQL` `dbt` `Snowflake` `Airflow` `AWS` `Data Governance` `ETL`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Senior Software Engineer – Marketing (USA Only & 100% Remote)](https://jobs.ashbyhq.com/Close/6d680d21-e779-4b3d-9771-23eb04d65f81)
+<a href="https://close.com"><img src="https://www.google.com/s2/favicons?domain=close.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Close** · `🟢 Remote` `Senior`
+
+_Build and own Close.com's marketing website, optimizing for conversion, performance, and technical SEO using Astro and Sanity. Partner with Marketing on measurement, experiments, and tooling that enables self-service page deployment and continuous site improvement. · [Apply →](https://jobs.ashbyhq.com/Close/6d680d21-e779-4b3d-9771-23eb04d65f81)_
+
+`Astro` `Sanity` `JavaScript` `TypeScript` `CSS` `SEO` `Analytics` `Conversion Optimization`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Software Engineer, Back-End (Pentest Platform)](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$199k-$235k` `Equity`
+
+_Design and operate event-driven microservices to transform Horizon3's pentest data processing from batch to real-time streaming, handling hundreds of thousands of hosts and enabling customers to see findings in hours instead of weeks. This requires building distributed systems at scale while translating complex cybersecurity domain logic into streaming-friendly architectures. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857)_
+
+`Python` `Go` `PostgreSQL` `Kubernetes` `Docker` `AWS` `Kafka` `Datadog`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [University, 2027 Summer Games Cyber Security Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Intern` `$52.9k-$108k`
+
+_Develop cybersecurity solutions for a pressing government or commercial challenge as part of a competitive summer internship program; requires ability to obtain Secret clearance and work on-site in a team environment. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131)_
+
+`Linux` `Windows` `Networking` `Virtualization` `Cybersecurity` `Secret Clearance`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [University, 2027 Summer Games Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Intern` `$61k-$141k`
+
+_Develop data analysis and visualization solutions for complex client challenges during an intensive 8-week summer internship program, culminating in a competitive presentation to senior leadership. Requires Secret clearance eligibility and hands-on work with structured/unstructured data across defense and intelligence domains. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132)_
+
+`Data Analysis` `Data Visualization` `Python` `SQL` `Statistical Analysis` `Secret Clearance`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [University, 2027 Summer Games Software Developer Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Intern` `$52k-$108k`
+
+_Develop software solutions for defense and intelligence challenges in a competitive internship program, working in teams on real-world problems with mentorship from senior leaders. Requires ability to obtain Secret clearance and work on classified systems. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130)_
+
+`Java` `JavaScript` `C` `C++` `Python` `Machine Learning` `Secret Clearance`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Spacecraft GNC Engineer I/II](https://job-boards.greenhouse.io/rocketlab/jobs/7850299003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Junior` `$95k—$130k` `Equity`
+
+_Design guidance, navigation, and control (GNC) algorithms, flight software, and autonomous systems for Rocket Lab's spacecraft fleet serving NASA, Space Development Agency, and U.S. Space Force missions. Requires U.S. citizenship and involvement across the full spacecraft lifecycle from concept through on-orbit operations. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7850299003)_
+
+`GNC/ADCS` `Flight Software` `Spacecraft Autonomy` `Attitude Control` `Sensor Fusion` `Monte Carlo Simulation` `Hardware-in-the-Loop Testing` `Jira`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Senior DevOps Engineer ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007)
+<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `Senior` `$150k-$225k` `Equity`
+
+_Build and scale CI/CD infrastructure, Kubernetes orchestration, and cloud systems (primarily Azure) for autonomous spacecraft control and mission-critical simulation software. Requires DoD compliance understanding (CMMC/FedRAMP preferred) and US citizenship for ITAR export control. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007)_
+
+`Kubernetes` `Terraform` `Azure` `Docker` `GitHub Actions` `Prometheus` `Grafana` `Bash`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [AI Integrations Staff Engineer](https://jobs.ashbyhq.com/Vetcove/2be13241-43f5-4774-b421-f5e6e9e8fbec)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$150k-$230k` `Equity`
+
+_Integrate cutting-edge AI models into veterinary practice management and procurement platforms, designing evaluation frameworks and production monitoring systems. Build AI-powered features serving 25,000+ veterinary hospitals across the US. · [Apply →](https://jobs.ashbyhq.com/Vetcove/2be13241-43f5-4774-b421-f5e6e9e8fbec)_
+
+`Python` `AI/ML Integration` `LLM APIs` `Agent Frameworks` `Production ML Systems` `Backend Development` `Observability`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Senior Engineering Manager](https://jobs.ashbyhq.com/Vetcove/e2659573-d815-4572-99f1-5321e1ec9026)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Manager` `$170k-$230k` `Equity`
+
+_Lead a high-impact engineering team building veterinary software and infrastructure across Vetcove's marketplace, ecommerce, and practice management platforms. Requires hands-on technical leadership with direct involvement in architecture, code reviews, and system design decisions at scale serving 25,000+ hospitals. · [Apply →](https://jobs.ashbyhq.com/Vetcove/e2659573-d815-4572-99f1-5321e1ec9026)_
+
+`System Design` `Database Optimization` `Architecture Review` `Code Review` `Team Leadership`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Senior Software Engineer](https://jobs.ashbyhq.com/Vetcove/bc5ec53c-b1e3-4154-bf4a-f6f27889904f)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Senior` `$115k-$180k` `Equity`
+
+_Build interactive React applications and React Native mobile experiences for a veterinary procurement and practice management platform serving 25,000+ hospitals. Work across a modern full-stack (Python/Django backend, React/Redux frontend, PostgreSQL/Elasticsearch) to ship features for tens of thousands of daily users managing billions in orders. · [Apply →](https://jobs.ashbyhq.com/Vetcove/bc5ec53c-b1e3-4154-bf4a-f6f27889904f)_
+
+`React` `React Native` `Python` `Django` `PostgreSQL` `JavaScript` `Elasticsearch` `Redux`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Staff Software Engineer ](https://jobs.ashbyhq.com/Vetcove/41ed06fc-98fc-479c-8b85-43880ac36788)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$170k-$230k` `Equity`
+
+_Lead the design and delivery of complex product initiatives across Vetcove's web and mobile platforms serving 25,000+ veterinary hospitals; own major systems managing billions in transactions while mentoring engineers across the stack (Python/Django backend, React/React Native frontend, PostgreSQL/Elasticsearch datastores). · [Apply →](https://jobs.ashbyhq.com/Vetcove/41ed06fc-98fc-479c-8b85-43880ac36788)_
+
+`Python` `Django` `JavaScript` `React` `React Native` `PostgreSQL` `Elasticsearch` `TypeScript`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Staff Frontend Engineer](https://jobs.ashbyhq.com/Vetcove/7c0557ca-fadf-4e6d-8769-c39f87ee5f0d)
+<a href="https://www.vetcove.com"><img src="https://www.google.com/s2/favicons?domain=www.vetcove.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vetcove** · `🟢 Remote` `Staff` `$170k-$230k` `Equity`
+
+_Lead the architecture and evolution of frontend systems powering veterinary clinic operations and pet parent experiences across web and mobile platforms serving 25,000+ hospitals. Scale React and React Native applications handling tens of thousands of daily users while defining frontend strategy and building shared component libraries. · [Apply →](https://jobs.ashbyhq.com/Vetcove/7c0557ca-fadf-4e6d-8769-c39f87ee5f0d)_
+
+`React` `React Native` `TypeScript` `JavaScript` `React Query` `GraphQL` `Performance Optimization` `Design Systems`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Responsible AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Responsible-AI-Engineer_R00329071)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$68k-$220k`
+
+_Build and deploy AI systems with embedded responsible AI safeguards—fairness, explainability, robustness, and privacy—for enterprise clients. Work across the full ML lifecycle from data preparation through production support, identifying and mitigating bias and ethical risks in models and datasets. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Responsible-AI-Engineer_R00329071)_
+
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `FastAPI` `AWS` `Azure` `Google Cloud`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
 
 ### [Senior Safety Software Engineer](https://www.agilityrobotics.com/about/job-post?gh_jid=6161662004)
 <a href="https://agilityrobotics.com"><img src="https://www.google.com/s2/favicons?domain=agilityrobotics.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Agility Robotics** · `🟢 Remote` `Senior` `$175k-$274k` `Equity`
@@ -212,23 +377,23 @@ _Lead the design and architecture of healthcare data pipelines and normalization
 
 ---
 
-### [Manager, Software Developer -  Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
-
-_Build and deploy production quantitative risk models—VaR engines, options pricing, and CIRO 5000 margin rules—as containerized microservices with end-to-end ownership from development through CI/CD pipeline execution. Lead a small quantitative team while owning the full stack from Monte Carlo backtesting and derivatives valuation to real-time monitoring and regulatory governance for Canada's largest brokerage. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)_
-
-`Python` `SQL` `Docker` `Kubernetes` `FastAPI` `Snowflake` `PostgreSQL` `dbt`
-
-<sub>August 28, 2026 at 05:17 UTC</sub>
-
----
-
 ### [Applied AI Security Engineer](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)
 <a href="https://waabi.ai"><img src="https://www.google.com/s2/favicons?domain=waabi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waabi** · `🟢 Remote` `Mid`
 
 _Design and implement security guardrails, sandboxing, and access controls for AI tools and integrations across the company, ensuring safe adoption of AI-native workflows. Focus on threat modeling and red-teaming in a safety-critical autonomous vehicle context. · [Apply →](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)_
 
 `Python` `Security Architecture` `Threat Modeling` `Prompt Injection` `MCP` `API Security` `Sandboxing` `LLM Security`
+
+<sub>August 28, 2026 at 05:17 UTC</sub>
+
+---
+
+### [Manager, Software Developer - Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
+
+_Build and deploy production quantitative risk models—VaR engines, options pricing, and CIRO 5000 margin rules—as containerized microservices with end-to-end ownership from development through CI/CD pipeline execution. Lead a small quantitative team while owning the full stack from Monte Carlo backtesting and derivatives valuation to real-time monitoring and regulatory governance for Canada's largest brokerage. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)_
+
+`Python` `SQL` `Docker` `Kubernetes` `FastAPI` `Snowflake` `PostgreSQL` `dbt`
 
 <sub>August 28, 2026 at 05:17 UTC</sub>
 
@@ -484,61 +649,6 @@ _Lead the design, architecture, and implementation of generative AI solutions wi
 `SAP BTP` `SAP Business AI` `SAP Joule` `Generative AI` `LLMs` `Retrieval-Augmented Generation (RAG)` `SAP GenAI Hub` `Python`
 
 <sub>August 27, 2026 at 20:18 UTC</sub>
-
----
-
-### [Sr Platform Monitoring Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior`
-
-_Lead incident investigation, root cause analysis, and observability architecture for the Databricks data platform serving thousands of enterprise customers. Design monitoring solutions, alerting pipelines, and automation tools to enhance platform reliability and reduce detection latency across distributed infrastructure at scale. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002)_
-
-`Python` `Kubernetes` `Docker` `AWS` `Prometheus` `Grafana` `ELK Stack` `PagerDuty`
-
-<sub>August 27, 2026 at 09:27 UTC</sub>
-
----
-
-### [Senior Engineering Manager, Rapid Response](https://jobs.ashbyhq.com/horizon3ai/35b5f49f-67a4-47ee-b2a3-9f9d9d5b6c10)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Manager`
-
-_Lead a team of Attack Engineers building AI-driven vulnerability research and exploit automation pipelines; establish operational excellence in triaging and weaponizing zero-days within hours of disclosure, bridging offensive security research with product delivery. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/35b5f49f-67a4-47ee-b2a3-9f9d9d5b6c10)_
-
-`Python` `SQL` `PostgreSQL` `Neo4j` `Docker` `Kubernetes` `AWS` `Reverse Engineering`
-
-<sub>August 27, 2026 at 09:27 UTC</sub>
-
----
-
-### [Engineering Manager, Web Application Discovery](https://jobs.ashbyhq.com/horizon3ai/65f5ec2e-9ee9-40c1-96ce-435bb1d1aa3e)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Manager` `$225k–$265k` `Equity`
-
-_Lead a team of 4-8+ engineers building web application discovery and crawling capabilities for the NodeZero autonomous pentesting platform, handling modern frameworks, SPAs, multi-step authentication, and API enumeration at scale. Requires hands-on technical depth in web security and web crawling alongside team management and product partnership. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/65f5ec2e-9ee9-40c1-96ce-435bb1d1aa3e)_
-
-`Python` `Web Application Security` `Web Crawling` `Playwright` `Puppeteer` `Selenium` `PostgreSQL` `Neo4j`
-
-<sub>August 27, 2026 at 09:27 UTC</sub>
-
----
-
-### [Sr. Platform Engineer (Infra Pod)](https://job-boards.greenhouse.io/pairteam/jobs/8642973002)
-<a href="https://pairteam.com"><img src="https://www.google.com/s2/favicons?domain=pairteam.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pair Team** · `🟢 Remote` `Senior` `$180k-$220k` `Equity`
-
-_Build and operate the foundational platform layer—cloud infrastructure, core backend services, authentication/RBAC, CI/CD, and integrations—that enables Pair Team's product teams to scale safely and independently. Own Ruby on Rails services, AWS infrastructure, and Postgres/Snowflake systems supporting a healthcare platform serving 115M+ Medicaid and Medicare beneficiaries. · [Apply →](https://job-boards.greenhouse.io/pairteam/jobs/8642973002)_
-
-`Ruby on Rails` `AWS` `Terraform` `PostgreSQL` `Snowflake` `RBAC` `CI/CD` `Distributed Systems`
-
-<sub>August 27, 2026 at 09:27 UTC</sub>
-
----
-
-### [Data Engineer I](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007)
-<a href="https://trueanomaly.space"><img src="https://www.google.com/s2/favicons?domain=trueanomaly.space&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**True Anomaly** · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Junior` `$80k-$115k` `Equity`
-
-_Build and maintain data pipelines and ingestion systems using Python, SQL, and cloud data platforms for autonomous spacecraft and space-based defense systems. Defense contractor requiring US citizenship or permanent residency and compliance with ITAR export regulations. · [Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007)_
-
-`Python` `SQL` `Git` `Spark` `Airflow` `dbt` `Kafka` `Cloud Data Platforms`
-
-<sub>August 27, 2026 at 09:27 UTC</sub>
 
 ---
 
