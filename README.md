@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **425 open roles** (32 new) &nbsp;·&nbsp; 1771 companies searched
+### **415 open roles** (31 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -202,17 +202,6 @@ _Deploy and manage cloud-native data streaming and analytics infrastructure on K
 <br>
 
 ## August 28, 2026
-
-### [Senior Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5225306007?gh_jid=5225306007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Colorado Springs, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Own the architecture and operation of ground command-and-control software for satellite missions, building backend services in Go that plan missions, command spacecraft, ingest telemetry, and drive ground stations in production. Requires top secret/SCI clearance and deep integration with spacecraft, RF systems, and astrodynamics algorithms in a defense environment. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225306007?gh_jid=5225306007)_
-
-`Go` `gRPC` `Protobuf` `Kubernetes` `Distributed Systems` `Space Domain Awareness` `TS/SCI Clearance`
-
-<sub>August 28, 2026 at 18:33 UTC</sub>
-
----
 
 ### [Data Engineer](https://jobs.ashbyhq.com/benchling/f0c70d09-5a30-4380-a3a6-c73f4fd75f40)
 <a href="https://benchling.com"><img src="https://www.google.com/s2/favicons?domain=benchling.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Benchling** · `🟢 Remote` `Senior`
