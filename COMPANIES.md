@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **151 companies** · **415 open roles** (31 new)
+### **152 companies** · **425 open roles** (17 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -24,7 +24,7 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Responsible AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Responsible-AI-Engineer_R00329071) · `🟢 Remote` `Mid` `$68k-$220k` (Aug 28)
+- [Responsible AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Responsible-AI-Engineer_R00329071) · `🟢 Remote` `Mid` `$68k-$220k` (Aug 28)
 - [SAP Integration Manager - Consumer Goods](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Integration-Manager---Consumer-Goods_R00351808) · `🟢 Remote` `Senior` `$80k-$293k` (Aug 27)
 - [SAP BTP/AI Development Manager - Life Sciences](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-BTP-AI-Development-Manager---Life-Sciences_R00351026) · `🟢 Remote` `Senior` `$80k-$293k` `Equity` (Aug 27)
 - [Adobe Digital Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Digital-Architect_R00346777) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 26)
@@ -106,6 +106,23 @@ Aleph makes financial planning and analysis software that provides on-demand dat
 
 ---
 
+## <a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Anduril Industries](https://anduril.com)
+
+Anduril Industries builds autonomous systems and defense technology for US and allied forces.
+
+- [Senior Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5225306007?gh_jid=5225306007) · Colorado Springs, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 28)
+- [Senior Embedded Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5223713007?gh_jid=5223713007) · Boulder, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 28)
+- [Senior Realtime Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5223714007?gh_jid=5223714007) · Boulder, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 28)
+- [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007) · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity` (Aug 18)
+- [Software Engineer, Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007) · Broomfield, Colorado / Fort Collins, Colorado · `Junior` `$111k-$147k` `Equity` (Aug 18)
+- [Lead Systems Engineer, Integration & Test](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 17)
+- [Senior System Engineering Integration & Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007) · Broomfield, Colorado / Waltham, Massachusetts · `Senior` `$143k-$191k` `Equity` (Aug 17)
+- [System Engineering Integration & Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Aug 17)
+- [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 16)
+- [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 16)
+
+---
+
 ## <a href="https://anthropic.com"><img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Anthropic](https://anthropic.com)
 
 Anthropic is an AI safety and research company that builds reliable, interpretable, and steerable AI systems.
@@ -172,7 +189,7 @@ insufficient The source text is a job description for a Forward Deployed Enginee
 
 Benchling makes a cloud-based platform for biotechnology research and development that handles scientific data, collaboration, and insights.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Data Engineer](https://jobs.ashbyhq.com/benchling/f0c70d09-5a30-4380-a3a6-c73f4fd75f40) · `🟢 Remote` `Senior` (Aug 28)
+- [Data Engineer](https://jobs.ashbyhq.com/benchling/f0c70d09-5a30-4380-a3a6-c73f4fd75f40) · `🟢 Remote` `Senior` (Aug 28)
 
 ---
 
@@ -220,9 +237,9 @@ Bonterra builds software solutions for nonprofits, public agencies, corporations
 
 Booz Allen Hamilton provides consulting and technology services for civil, defense, and national security missions.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [University, 2027 Summer Games Cyber Security Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131) · Colorado Springs, Colorado · `Intern` `$52.9k-$108k` (Aug 28)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [University, 2027 Summer Games Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) · Colorado Springs, Colorado · `Intern` `$61k-$141k` (Aug 28)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [University, 2027 Summer Games Software Developer Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130) · Colorado Springs, Colorado · `Intern` `$52k-$108k` (Aug 28)
+- [University, 2027 Summer Games Cyber Security Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131) · Colorado Springs, Colorado · `Intern` `$52.9k-$108k` (Aug 28)
+- [University, 2027 Summer Games Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) · Colorado Springs, Colorado · `Intern` `$61k-$141k` (Aug 28)
+- [University, 2027 Summer Games Software Developer Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130) · Colorado Springs, Colorado · `Intern` `$52k-$108k` (Aug 28)
 - [Cryptography Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cryptography-Engineer_R0247869) · Colorado Springs, Colorado · `Senior` `$86k-$198k` (Aug 25)
 - [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468) · Aurora, Colorado · `Senior` `$86k-$198k` (Aug 20)
 - [Astrodynamicist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Astrodynamicist_R0246353) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 19)
@@ -317,7 +334,7 @@ ClickHouse builds a real-time analytics and data warehousing platform used for a
 
 Close builds CRM and sales automation tools for startups and small to medium-sized businesses.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer – Marketing (USA Only & 100% Remote)](https://jobs.ashbyhq.com/Close/6d680d21-e779-4b3d-9771-23eb04d65f81) · `🟢 Remote` `Senior` (Aug 28)
+- [Senior Software Engineer – Marketing (USA Only & 100% Remote)](https://jobs.ashbyhq.com/Close/6d680d21-e779-4b3d-9771-23eb04d65f81) · `🟢 Remote` `Senior` (Aug 28)
 
 ---
 
@@ -375,7 +392,7 @@ Databricks builds a data and AI platform that helps customers develop, deploy, a
 
 - [Sr Platform Monitoring Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002) · `🟢 Remote` `Senior` (Aug 27)
 - [Sr. Forward Deployed Engineer - National Security](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) · Boston, Massachusetts / Delaware / Maryland / Virginia / West Virginia / Remote · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 25)
-- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
+- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
 - [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002) · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 18)
 
 ---
@@ -616,7 +633,7 @@ Honeycomb is a service for observability that helps developers understand and tr
 
 Horizon3 provides security testing software that simulates real-world attacks to demonstrate vulnerabilities in a customer's environment and help identify what needs to be fixed.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Software Engineer, Back-End (Pentest Platform)](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857) · `🟢 Remote` `Senior` `$199k-$235k` `Equity` (Aug 28)
+- [Software Engineer, Back-End (Pentest Platform)](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857) · `🟢 Remote` `Senior` `$199k-$235k` `Equity` (Aug 28)
 - [Senior Engineer, Back-End (Security Controls)](https://jobs.ashbyhq.com/horizon3ai/7305c82f-fddd-4e11-a539-34a401cc9cc5) · `🟢 Remote` `Senior` `$199k-$270k` `Equity` (Aug 27)
 - [Senior Data Infrastructure Engineer](https://jobs.ashbyhq.com/horizon3ai/4651e6b3-a8b5-484f-ac87-5b6ca04581d1) · `🟢 Remote` `Senior` `$202190-$237870` `Equity` (Aug 27)
 - [Senior Engineering Manager, Rapid Response](https://jobs.ashbyhq.com/horizon3ai/35b5f49f-67a4-47ee-b2a3-9f9d9d5b6c10) · `🟢 Remote` `Manager` (Aug 27)
@@ -1098,7 +1115,7 @@ RingCentral provides agentic voice AI products, including an AI Receptionist, AI
 Rocket Lab delivers launch services, spacecraft, and satellite components.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Spacecraft Operations Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7980707003) · Littleton, Colorado · `Mid` `$81.6k-$102k` `Equity` (Aug 29)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Spacecraft GNC Engineer I/II](https://job-boards.greenhouse.io/rocketlab/jobs/7850299003) · Littleton, Colorado · `Junior` `$95k—$130k` `Equity` (Aug 28)
+- [Spacecraft GNC Engineer I/II](https://job-boards.greenhouse.io/rocketlab/jobs/7850299003) · Littleton, Colorado · `Junior` `$95k—$130k` `Equity` (Aug 28)
 - [Flight Dynamics Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7979986003) · Littleton, Colorado · `Mid` `$100k-$130k` `Equity` (Aug 28)
 - [Senior Network Software Engineer I/II -Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7979966003) · Littleton, Colorado · `Senior` `$120k-$165k` `Equity` (Aug 28)
 - [Senior Software Engineer I/II - Simulation Engineering ](https://job-boards.greenhouse.io/rocketlab/jobs/7893884003) · Littleton, Colorado · `Senior` `$115k-$165k` `Equity` (Aug 27)
@@ -1289,7 +1306,7 @@ Torc Robotics develops software for automated trucks that integrates with test v
 True Anomaly develops capabilities for space superiority.
 
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Mission Network Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5225857007) · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Staff` `$170k-$260k` `Equity` (Aug 29)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior DevOps Engineer ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007) · Denver, Colorado / Long Beach, California · `Senior` `$150k-$225k` `Equity` (Aug 28)
+- [Senior DevOps Engineer ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007) · Denver, Colorado / Long Beach, California · `Senior` `$150k-$225k` `Equity` (Aug 28)
 - [Engineering Manager, Autonomy](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007) · Denver, Colorado / Long Beach, California · `Manager` `$205k-$315k` `Equity` (Aug 27)
 - [Senior Front End Graphics Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221498007) · Long Beach, California / Denver, Colorado / Washington DC · `🟡 Hybrid` `Senior` `$135k-$195k` `Equity` (Aug 27)
 - [Data Engineer I](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007) · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Junior` `$80k-$115k` `Equity` (Aug 27)
@@ -1383,11 +1400,11 @@ Verily builds an AI-native platform that transforms complex health data for rese
 
 Vetcove provides software and services for the animal health supply chain.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [AI Integrations Staff Engineer](https://jobs.ashbyhq.com/Vetcove/2be13241-43f5-4774-b421-f5e6e9e8fbec) · `🟢 Remote` `Staff` `$150k-$230k` `Equity` (Aug 28)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Engineering Manager](https://jobs.ashbyhq.com/Vetcove/e2659573-d815-4572-99f1-5321e1ec9026) · `🟢 Remote` `Manager` `$170k-$230k` `Equity` (Aug 28)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Software Engineer](https://jobs.ashbyhq.com/Vetcove/bc5ec53c-b1e3-4154-bf4a-f6f27889904f) · `🟢 Remote` `Senior` `$115k-$180k` `Equity` (Aug 28)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer ](https://jobs.ashbyhq.com/Vetcove/41ed06fc-98fc-479c-8b85-43880ac36788) · `🟢 Remote` `Staff` `$170k-$230k` `Equity` (Aug 28)
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Frontend Engineer](https://jobs.ashbyhq.com/Vetcove/7c0557ca-fadf-4e6d-8769-c39f87ee5f0d) · `🟢 Remote` `Staff` `$170k-$230k` `Equity` (Aug 28)
+- [AI Integrations Staff Engineer](https://jobs.ashbyhq.com/Vetcove/2be13241-43f5-4774-b421-f5e6e9e8fbec) · `🟢 Remote` `Staff` `$150k-$230k` `Equity` (Aug 28)
+- [Senior Engineering Manager](https://jobs.ashbyhq.com/Vetcove/e2659573-d815-4572-99f1-5321e1ec9026) · `🟢 Remote` `Manager` `$170k-$230k` `Equity` (Aug 28)
+- [Senior Software Engineer](https://jobs.ashbyhq.com/Vetcove/bc5ec53c-b1e3-4154-bf4a-f6f27889904f) · `🟢 Remote` `Senior` `$115k-$180k` `Equity` (Aug 28)
+- [Staff Software Engineer ](https://jobs.ashbyhq.com/Vetcove/41ed06fc-98fc-479c-8b85-43880ac36788) · `🟢 Remote` `Staff` `$170k-$230k` `Equity` (Aug 28)
+- [Staff Frontend Engineer](https://jobs.ashbyhq.com/Vetcove/7c0557ca-fadf-4e6d-8769-c39f87ee5f0d) · `🟢 Remote` `Staff` `$170k-$230k` `Equity` (Aug 28)
 
 ---
 

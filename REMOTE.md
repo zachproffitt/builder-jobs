@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **266 open roles** (20 new)
+### **265 open roles** (12 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -355,23 +355,23 @@ _Own the architecture and operations of procurement, planning, and finance data 
 
 ---
 
-### [Manager, Software Developer - Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
-
-_Build and deploy production quantitative risk models—VaR engines, options pricing, and CIRO 5000 margin rules—as containerized microservices with end-to-end ownership from development through CI/CD pipeline execution. Lead a small quantitative team while owning the full stack from Monte Carlo backtesting and derivatives valuation to real-time monitoring and regulatory governance for Canada's largest brokerage. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)_
-
-`Python` `SQL` `Docker` `Kubernetes` `FastAPI` `Snowflake` `PostgreSQL` `dbt`
-
-<sub>August 28, 2026 at 05:17 UTC</sub>
-
----
-
 ### [Staff Clinical Informatics Data Architect](https://verily.wd1.myworkdayjobs.com/Verily_Careers/job/Remote-United-States/Staff-Clinical-Informatics-Data-Architect_REQ-843)
 <a href="https://verily.com"><img src="https://www.google.com/s2/favicons?domain=verily.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Verily** · `🟢 Remote` `Staff`
 
 _Lead the design and architecture of healthcare data pipelines and normalization systems that integrate multi-source clinical data into FHIR, OMOP, and STDM standards. Champion data quality initiatives and clinical terminology standardization (SNOMED, LOINC, RxNorm) to support AI-enabled precision health solutions at scale. · [Apply →](https://verily.wd1.myworkdayjobs.com/Verily_Careers/job/Remote-United-States/Staff-Clinical-Informatics-Data-Architect_REQ-843)_
 
 `SQL` `Python` `R` `dbt` `ETL` `FHIR` `OMOP` `HL7`
+
+<sub>August 28, 2026 at 05:17 UTC</sub>
+
+---
+
+### [Manager, Software Developer - Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
+
+_Build and deploy production quantitative risk models—VaR engines, options pricing, and CIRO 5000 margin rules—as containerized microservices with end-to-end ownership from development through CI/CD pipeline execution. Lead a small quantitative team while owning the full stack from Monte Carlo backtesting and derivatives valuation to real-time monitoring and regulatory governance for Canada's largest brokerage. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)_
+
+`Python` `SQL` `Docker` `Kubernetes` `FastAPI` `Snowflake` `PostgreSQL` `dbt`
 
 <sub>August 28, 2026 at 05:17 UTC</sub>
 
@@ -500,23 +500,23 @@ _Build production agent observability systems—eval infrastructure, retrieval p
 
 ---
 
-### [Machine Learning Engineer II, Responsible AI](https://www.pinterestcareers.com/jobs/?gh_jid=8162046)
-<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$138k—$285k` `Equity`
-
-_Build fairness measurement, bias detection, and responsible AI safeguards for Pinterest's large-scale ML systems serving 535M+ monthly active users. Requires experience deploying fairness interventions and ML bias mitigations in production recommender and generative AI systems at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8162046)_
-
-`PyTorch` `TensorFlow` `LLMs` `Recommender Systems` `Fairness/Bias Detection` `SQL` `Python` `Distributed Systems`
-
-<sub>August 27, 2026 at 20:18 UTC</sub>
-
----
-
 ### [Staff Site Reliability Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8739025002)
 <a href="https://pingidentity.com"><img src="https://www.google.com/s2/favicons?domain=pingidentity.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ping Identity** · `🟢 Remote` `Staff` `$136k-$181k`
 
 _Design and operate cloud infrastructure for a large-scale identity platform serving 50+ Fortune 100 companies, implementing CI/CD pipelines, containerization, and distributed systems at enterprise scale. Navigate mission-critical services with requirements for high availability, security, and cost optimization across a globally distributed platform. · [Apply →](https://job-boards.greenhouse.io/pingidentity/jobs/8739025002)_
 
 `Go` `Kubernetes` `Docker` `Cloud Platforms` `CI/CD` `Distributed Systems` `Git` `Terraform`
+
+<sub>August 27, 2026 at 20:18 UTC</sub>
+
+---
+
+### [Machine Learning Engineer II, Responsible AI](https://www.pinterestcareers.com/jobs/?gh_jid=8162046)
+<a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · San Francisco, California / Remote · `🟢 Remote` `Senior` `$138k—$285k` `Equity`
+
+_Build fairness measurement, bias detection, and responsible AI safeguards for Pinterest's large-scale ML systems serving 535M+ monthly active users. Requires experience deploying fairness interventions and ML bias mitigations in production recommender and generative AI systems at scale. · [Apply →](https://www.pinterestcareers.com/jobs/?gh_jid=8162046)_
+
+`PyTorch` `TensorFlow` `LLMs` `Recommender Systems` `Fairness/Bias Detection` `SQL` `Python` `Distributed Systems`
 
 <sub>August 27, 2026 at 20:18 UTC</sub>
 
@@ -1558,17 +1558,6 @@ _Design and build production-grade security services, automated policy enforceme
 `Kubernetes` `Linux Internals` `eBPF` `Go` `Python` `Terraform` `IaC` `Distributed Systems`
 
 <sub>August 22, 2026 at 14:30 UTC</sub>
-
----
-
-### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
-<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
-
-_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
-
-`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
-
-<sub>August 22, 2026 at 01:44 UTC</sub>
 
 ---
 
