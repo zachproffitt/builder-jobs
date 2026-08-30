@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **260 open roles** (0 new)
+### **261 open roles** (0 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -1648,6 +1648,17 @@ _Lead a Data Engineering & Delivery team to build and maintain petabyte-scale da
 _Lead the development of high-performance Salesforce solutions including CPQ, Apex, LWC, and complex integrations across Toast's enterprise platform. Mentor junior developers, oversee release management and CI/CD processes, and serve as the technical authority for production troubleshooting; requires 10+ years Salesforce enterprise experience and team leadership background. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8121665)_
 
 `Salesforce` `Apex` `LWC` `Salesforce CPQ` `DocuSign` `REST/SOAP APIs` `GitHub` `Salesforce Platform Developer I & II Certification`
+
+<sub>August 21, 2026 at 20:34 UTC</sub>
+
+---
+
+### [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Architect and deploy enterprise intelligent automation and agentic AI solutions by integrating LLMs (Claude, Gemini) with workflow platforms (UiPath, N8N, Decisions) to scale digital workforce automation across complex business processes. Lead code reviews and mentorship of citizen developers while managing production automation environments at scale. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)_
+
+`Python` `C#` `SQL` `UiPath` `N8N` `Claude` `Gemini` `Intelligent Document Processing`
 
 <sub>August 21, 2026 at 20:34 UTC</sub>
 

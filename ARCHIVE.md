@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **416 open roles** (0 new) &nbsp;·&nbsp; 1776 companies searched
+### **417 open roles** (0 new) &nbsp;·&nbsp; 1776 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -2379,6 +2379,17 @@ _Lead the development of high-performance Salesforce solutions including CPQ, Ap
 
 ---
 
+### [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Architect and deploy enterprise intelligent automation and agentic AI solutions by integrating LLMs (Claude, Gemini) with workflow platforms (UiPath, N8N, Decisions) to scale digital workforce automation across complex business processes. Lead code reviews and mentorship of citizen developers while managing production automation environments at scale. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)_
+
+`Python` `C#` `SQL` `UiPath` `N8N` `Claude` `Gemini` `Intelligent Document Processing`
+
+<sub>August 21, 2026 at 20:34 UTC</sub>
+
+---
+
 ### [Verifications Specialist III](https://www.abclegal.com/job-openings/job?id=7930998003&gh_jid=7930998003)
 <a href="https://docketly.com"><img src="https://www.google.com/s2/favicons?domain=docketly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docketly** · Longmont, Colorado · `Junior` `$58k-$69k`
 
@@ -4009,23 +4020,23 @@ _Embed with strategic enterprise customers to drive Tailscale adoption, providin
 
 ---
 
-### [Computer Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
-
-_Build advanced analytics and AI/ML models for Intelligence Community clients, including data retrieval, model training, accuracy evaluation, and visualization of complex findings for non-technical leadership. Requires active TS/SCI clearance and experience operationalizing models on classified networks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)_
-
-`Python` `R` `SQL` `Spark` `Kafka` `Machine Learning` `NLP` `TS/SCI Clearance`
-
-<sub>August 17, 2026 at 17:36 UTC</sub>
-
----
-
 ### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846)
 <a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity`
 
 _Build critical financial data integration pipelines and models powering Instacart's monthly/quarterly book close, retailer invoicing, and financial reporting across millions of daily requests. Own design through execution of complex ETL systems handling accounting, billing, and revenue data at scale with auditability and compliance requirements. · [Apply →](https://instacart.careers/job/?gh_jid=8132846)_
 
 `Python` `Airflow` `Spark` `SQL` `dbt` `Snowflake` `Iceberg` `Delta Lake`
+
+<sub>August 17, 2026 at 17:36 UTC</sub>
+
+---
+
+### [Computer Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)
+<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
+
+_Build advanced analytics and AI/ML models for Intelligence Community clients, including data retrieval, model training, accuracy evaluation, and visualization of complex findings for non-technical leadership. Requires active TS/SCI clearance and experience operationalizing models on classified networks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)_
+
+`Python` `R` `SQL` `Spark` `Kafka` `Machine Learning` `NLP` `TS/SCI Clearance`
 
 <sub>August 17, 2026 at 17:36 UTC</sub>
 

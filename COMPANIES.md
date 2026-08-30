@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **149 companies** · **416 open roles** (0 new)
+### **150 companies** · **417 open roles** (0 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -880,6 +880,14 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 - [Manager of Data Science Production Engineering, Data Engineering & Delivery](https://job-boards.greenhouse.io/natera/jobs/6137669004) · `🟢 Remote` `Manager` `$127k—$159k` (Aug 21)
 - [Senior Manager of Data Science Production Engineering, DevOps](https://job-boards.greenhouse.io/natera/jobs/6137673004) · `🟢 Remote` `Manager` `$151k–$188.7k` (Aug 21)
 - [Director of Production Engineering, Extended-Hours Support (Data Science)](https://job-boards.greenhouse.io/natera/jobs/6137671004) · `🟢 Remote` `Manager` `$186k–$232k` (Aug 19)
+
+---
+
+## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
+
+NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
+
+- [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776) · `🟢 Remote` `Senior` (Aug 21)
 
 ---
 
