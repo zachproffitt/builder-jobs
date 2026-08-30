@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **152 companies** · **423 open roles** (2 new)
+### **149 companies** · **416 open roles** (0 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -390,7 +390,7 @@ Databricks builds a data and AI platform that helps customers develop, deploy, a
 
 - [Sr Platform Monitoring Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002) · `🟢 Remote` `Senior` (Aug 27)
 - [Sr. Forward Deployed Engineer - National Security](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) · Boston, Massachusetts / Delaware / Maryland / Virginia / West Virginia / Remote · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 25)
-- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
+- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
 - [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002) · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 18)
 
 ---
@@ -523,17 +523,6 @@ Filevine builds a platform that combines data, documents, workflows, and teams f
 Five9 provides cloud contact center and AI services for organizations.
 
 - [Security Engineer](https://www.five9.com/about/careers/job-detail?gh_jid=6150849004) · `🟢 Remote` `Mid` `$66k–$174k` `Equity` (Aug 22)
-
----
-
-## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
-
-Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
-
-- [Agentic AI, Principal Machine Learning Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1) · `🟢 Remote` `Principal` `$194k-$326k` `Equity` (Aug 29)
-- [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 25)
-- [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1) · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity` (Aug 21)
-- [Agentic AI, Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 18)
 
 ---
 
@@ -894,14 +883,6 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 
 ---
 
-## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
-
-NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
-
-- [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776) · `🟢 Remote` `Senior` (Aug 21)
-
----
-
 ## <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Nvidia](https://nvidia.com)
 
 Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
@@ -1188,7 +1169,6 @@ SentiLink helps financial institutions detect and prevent identity fraud during 
 ServiceTitan builds all-in-one software for home and commercial contractors to manage their service visits and construction projects.
 
 - [Senior AI Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer--Mobile_JR112973) · `🟢 Remote` `Senior` `$168k-$269k` `Equity` (Aug 29)
-- [Staff Software Engineer, Platform (DevEx)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Software-Engineer--Platform--DevEx-_JR115782) · `🟢 Remote` `Staff` `$185k-$297k` `Equity` (Aug 20)
 - [Sr. Lead Engineer, Integration & Automation](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Lead-Engineer--Integration---Automation_JR115776) · `🟢 Remote` `Senior` `$168k-$269k` `Equity` (Aug 19)
 
 ---
@@ -1303,7 +1283,7 @@ Torc Robotics develops software for automated trucks that integrates with test v
 
 True Anomaly develops capabilities for space superiority.
 
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Mission Network Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5225857007) · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Staff` `$170k-$260k` `Equity` (Aug 29)
+- [Staff Mission Network Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5225857007) · Denver, Colorado / Long Beach, California · `🟡 Hybrid` `Staff` `$170k-$260k` `Equity` (Aug 29)
 - [Senior DevOps Engineer ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007) · Denver, Colorado / Long Beach, California · `Senior` `$150k-$225k` `Equity` (Aug 28)
 - [Engineering Manager, Autonomy](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007) · Denver, Colorado / Long Beach, California · `Manager` `$205k-$315k` `Equity` (Aug 27)
 - [Senior Front End Graphics Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221498007) · Long Beach, California / Denver, Colorado / Washington DC · `🟡 Hybrid` `Senior` `$135k-$195k` `Equity` (Aug 27)
@@ -1403,14 +1383,6 @@ Vetcove provides software and services for the animal health supply chain.
 - [Senior Software Engineer](https://jobs.ashbyhq.com/Vetcove/bc5ec53c-b1e3-4154-bf4a-f6f27889904f) · `🟢 Remote` `Senior` `$115k-$180k` `Equity` (Aug 28)
 - [Staff Software Engineer ](https://jobs.ashbyhq.com/Vetcove/41ed06fc-98fc-479c-8b85-43880ac36788) · `🟢 Remote` `Staff` `$170k-$230k` `Equity` (Aug 28)
 - [Staff Frontend Engineer](https://jobs.ashbyhq.com/Vetcove/7c0557ca-fadf-4e6d-8769-c39f87ee5f0d) · `🟢 Remote` `Staff` `$170k-$230k` `Equity` (Aug 28)
-
----
-
-## <a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Visa](https://visa.com)
-
-Visa provides personal payment solutions, payment cards, and rewards programs.
-
-- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Software Engineer, AI Solutions](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Software-Engineer--AI-Solutions_REF087977W-1) · Denver, Colorado · `🟡 Hybrid` `Staff` `Equity` (Aug 30)
 
 ---
 
