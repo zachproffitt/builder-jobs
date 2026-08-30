@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **150 companies** · **417 open roles** (0 new)
+### **151 companies** · **422 open roles** (1 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -295,6 +295,7 @@ Censys provides security teams with internet mapping and threat hunting capabili
 
 CesiumAstro builds satellites, terminals, and software-defined systems for satellite communication missions.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Manager, Hardware Engineering](https://jobs.lever.co/CesiumAstro/c92e1873-0fd2-40ea-a643-77523ac875c3) · Westminster, Colorado · `Manager` (Aug 30)
 - [Senior Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/e4831b15-5443-4217-8912-2ce1117552b5) · Westminster, Colorado · `Senior` (Aug 19)
 - [Senior Staff Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/0c76d544-210f-47a6-92db-976612b0de86) · Westminster, Colorado · `Staff` (Aug 19)
 - [Software Engineer II - Fullstack](https://jobs.lever.co/CesiumAstro/d1543679-be8b-4abb-8a56-e546e9247a59) · Westminster, Colorado · `Mid` (Aug 19)
@@ -523,6 +524,17 @@ Filevine builds a platform that combines data, documents, workflows, and teams f
 Five9 provides cloud contact center and AI services for organizations.
 
 - [Security Engineer](https://www.five9.com/about/careers/job-detail?gh_jid=6150849004) · `🟢 Remote` `Mid` `$66k–$174k` `Equity` (Aug 22)
+
+---
+
+## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
+
+Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
+
+- [Agentic AI, Principal Machine Learning Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1) · `🟢 Remote` `Principal` `$194k-$326k` `Equity` (Aug 29)
+- [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 25)
+- [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1) · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity` (Aug 21)
+- [Agentic AI, Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 18)
 
 ---
 
