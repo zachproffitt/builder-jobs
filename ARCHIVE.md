@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **425 open roles** (17 new) &nbsp;·&nbsp; 1771 companies searched
+### **417 open roles** (17 new) &nbsp;·&nbsp; 1771 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -364,23 +364,23 @@ _Lead the design and architecture of healthcare data pipelines and normalization
 
 ---
 
-### [Manager, Software Developer - Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)
-<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
-
-_Build and deploy production quantitative risk models—VaR engines, options pricing, and CIRO 5000 margin rules—as containerized microservices with end-to-end ownership from development through CI/CD pipeline execution. Lead a small quantitative team while owning the full stack from Monte Carlo backtesting and derivatives valuation to real-time monitoring and regulatory governance for Canada's largest brokerage. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)_
-
-`Python` `SQL` `Docker` `Kubernetes` `FastAPI` `Snowflake` `PostgreSQL` `dbt`
-
-<sub>August 28, 2026 at 05:17 UTC</sub>
-
----
-
 ### [Applied AI Security Engineer](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)
 <a href="https://waabi.ai"><img src="https://www.google.com/s2/favicons?domain=waabi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waabi** · `🟢 Remote` `Mid`
 
 _Design and implement security guardrails, sandboxing, and access controls for AI tools and integrations across the company, ensuring safe adoption of AI-native workflows. Focus on threat modeling and red-teaming in a safety-critical autonomous vehicle context. · [Apply →](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)_
 
 `Python` `Security Architecture` `Threat Modeling` `Prompt Injection` `MCP` `API Security` `Sandboxing` `LLM Security`
+
+<sub>August 28, 2026 at 05:17 UTC</sub>
+
+---
+
+### [Manager, Software Developer - Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)
+<a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
+
+_Build and deploy production quantitative risk models—VaR engines, options pricing, and CIRO 5000 margin rules—as containerized microservices with end-to-end ownership from development through CI/CD pipeline execution. Lead a small quantitative team while owning the full stack from Monte Carlo backtesting and derivatives valuation to real-time monitoring and regulatory governance for Canada's largest brokerage. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)_
+
+`Python` `SQL` `Docker` `Kubernetes` `FastAPI` `Snowflake` `PostgreSQL` `dbt`
 
 <sub>August 28, 2026 at 05:17 UTC</sub>
 
@@ -2289,12 +2289,12 @@ _Build and maintain security controls and tooling for CrowdStrike's software sup
 
 ---
 
-### [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147300)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAN$196k–CAN$207k` `Equity`
+### [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147298)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Design and build Android applications for real-time shelf inventory management, including standalone scanning apps and Connected Stores integrations like Caper Carts. Set architectural direction for Android development across the Digital Twin Platform while collaborating with inventory intelligence, fulfillment, and hardware teams to deliver production-quality systems. · [Apply →](https://instacart.careers/job/?gh_jid=8147300)_
+_Design and own Android applications for real-time shelf intelligence and in-store data collection, including standalone scanning apps and Connected Stores integrations like Caper Carts. Work at the intersection of physical retail and cutting-edge technology, setting architectural direction for a rapidly scaling platform that powers inventory intelligence across the Instacart ecosystem. · [Apply →](https://instacart.careers/job/?gh_jid=8147298)_
 
-`Kotlin` `Java` `Android SDK` `Jetpack` `MVVM` `Bluetooth` `NFC` `Camera APIs`
+`Kotlin` `Java` `Android SDK` `Jetpack` `Bluetooth` `NFC` `Camera APIs` `Real-time Data Pipelines`
 
 <sub>August 21, 2026 at 17:37 UTC</sub>
 
@@ -2634,12 +2634,12 @@ _Build the foundational ML infrastructure and platform for fleet-scale humanoid 
 
 ---
 
-### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `$141k-$208k` `Equity`
+### [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)
+<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Senior` `Equity`
 
-_Build and operate distributed telemetry ingestion, processing, and storage systems handling trillions of events per day at hundreds of millions of events per second scale. Design for reliability, performance, and cost-efficiency while participating in on-call rotations and turning operational problems into durable automation. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004)_
+_Build and operate distributed systems for telemetry ingestion, processing, and storage at scale—handling trillions of events per day. Own the reliability, performance, and cost-efficiency of observability pipelines while responding to production incidents and automating operational work; requires 5+ years production systems experience and strong Go proficiency. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004)_
 
-`Go` `Kubernetes` `Terraform` `Argo CD` `OpenTelemetry` `Prometheus` `Grafana` `AWS`
+`Go` `Kubernetes` `Terraform` `Helm` `Argo CD` `AWS` `GCP` `Azure`
 
 <sub>August 20, 2026 at 20:38 UTC</sub>
 
@@ -2733,12 +2733,12 @@ _Build data characterization, active learning, and model improvement pipelines f
 
 ---
 
-### [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143145)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$201k-$253.5k` `Equity`
+### [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143147)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$206k-$217k CAD` `Equity`
 
-_Design and deploy machine learning models powering real-time inventory and shelf-stocking predictions across thousands of grocery stores at scale. Own the full ML lifecycle from problem framing through production deployment, collaborating with software engineers, computer vision teams, and data scientists to integrate computer vision signals and novel retail data into a high-throughput inference platform. · [Apply →](https://instacart.careers/job/?gh_jid=8143145)_
+_Design and deploy machine learning models powering real-time inventory understanding across thousands of retail locations; develop the full ML lifecycle from problem framing through production serving at scale. Handle complex spatial-temporal modeling of shelf stocking dynamics with computer vision signals integrated into live product systems. · [Apply →](https://instacart.careers/job/?gh_jid=8143147)_
 
-`Python` `PyTorch` `TensorFlow` `AWS` `scikit-learn` `Computer Vision` `Temporal Modeling` `Real-time Inference`
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `AWS` `GCP` `Azure` `Computer Vision`
 
 <sub>August 20, 2026 at 19:38 UTC</sub>
 
@@ -2777,23 +2777,23 @@ _Lead data science initiatives to optimize patient experience and marketplace ba
 
 ---
 
-### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
-<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
-
-_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
-
-`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
-
-<sub>August 20, 2026 at 16:45 UTC</sub>
-
----
-
 ### [Software Engineer](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Senior` `$86k-$198k`
 
 _Develop embedded software systems and containerized applications for government clients' mission-critical infrastructure, including LLM-based tools and cloud-deployed data pipelines. Requires active TS/SCI clearance and on-site presence in Aurora, CO. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468)_
 
 `Python` `Java` `AWS` `Kubernetes` `Terraform` `Docker` `Git` `TS/SCI Clearance`
+
+<sub>August 20, 2026 at 16:45 UTC</sub>
+
+---
+
+### [Senior Staff Software Engineer](https://job-boards.greenhouse.io/webflow/jobs/8136483)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$204k-$290k` `Equity`
+
+_Lead the technical architecture and evolution of high-throughput distributed systems powering experimentation, personalization, and analytics infrastructure at scale. Partner with data science and ML teams to productionize real-time capabilities; mentor senior engineers and shape engineering strategy across the Convert product pillar. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8136483)_
+
+`Python` `Java` `Go` `Distributed Systems` `Data Infrastructure` `Machine Learning Infrastructure` `Real-time Analytics` `PostgreSQL`
 
 <sub>August 20, 2026 at 16:45 UTC</sub>
 
@@ -2920,12 +2920,12 @@ _Build production agentic AI systems embedded directly with client teams, writin
 
 ---
 
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
 
-_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
+_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
 
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
 
 <sub>August 20, 2026 at 01:45 UTC</sub>
 
@@ -3169,12 +3169,12 @@ _Build AI applications and agents that transform complex technical information i
 
 ---
 
-### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity`
+### [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity`
 
-_Lead technical roadmap and architectural decisions for Instacart's Paid Marketing technology platform—campaign feeds, audience targeting, event pipelines, and QA automation. Mentor senior engineers, drive cross-team initiatives with Product and Marketing leaders, and establish scalable patterns for high-throughput systems handling millions of transactions. · [Apply →](https://instacart.careers/job/?gh_jid=8141535)_
+_Lead the technical roadmap and architectural decisions for Instacart's Paid Marketing platform, building scalable APIs, data pipelines, and campaign infrastructure that power one of the company's core growth levers. Mentor senior engineers, drive cross-functional partnerships with Product and Marketing leadership, and champion observability, resilience, and security across the marketing technology stack. · [Apply →](https://instacart.careers/job/?gh_jid=8141533)_
 
-`Python` `Scalable Systems Design` `Marketing Technology` `Event Pipelines` `Observability` `API Design` `Data Pipelines` `Chaos Engineering`
+`Python` `APIs` `Data Pipelines` `Scalable Systems` `Observability` `Ad Tech` `Marketing Technology` `Chaos Engineering`
 
 <sub>August 19, 2026 at 13:51 UTC</sub>
 
@@ -3831,23 +3831,23 @@ _Embed with strategic enterprise customers to drive Tailscale adoption, providin
 
 ---
 
-### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity`
-
-_Build critical financial data integration pipelines and models powering Instacart's monthly/quarterly book close, retailer invoicing, and financial reporting across millions of daily requests. Own design through execution of complex ETL systems handling accounting, billing, and revenue data at scale with auditability and compliance requirements. · [Apply →](https://instacart.careers/job/?gh_jid=8132846)_
-
-`Python` `Airflow` `Spark` `SQL` `dbt` `Snowflake` `Iceberg` `Delta Lake`
-
-<sub>August 17, 2026 at 17:36 UTC</sub>
-
----
-
 ### [Computer Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
 
 _Build advanced analytics and AI/ML models for Intelligence Community clients, including data retrieval, model training, accuracy evaluation, and visualization of complex findings for non-technical leadership. Requires active TS/SCI clearance and experience operationalizing models on classified networks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)_
 
 `Python` `R` `SQL` `Spark` `Kafka` `Machine Learning` `NLP` `TS/SCI Clearance`
+
+<sub>August 17, 2026 at 17:36 UTC</sub>
+
+---
+
+### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity`
+
+_Build critical financial data integration pipelines and models powering Instacart's monthly/quarterly book close, retailer invoicing, and financial reporting across millions of daily requests. Own design through execution of complex ETL systems handling accounting, billing, and revenue data at scale with auditability and compliance requirements. · [Apply →](https://instacart.careers/job/?gh_jid=8132846)_
+
+`Python` `Airflow` `Spark` `SQL` `dbt` `Snowflake` `Iceberg` `Delta Lake`
 
 <sub>August 17, 2026 at 17:36 UTC</sub>
 
@@ -4118,98 +4118,6 @@ _Lead the backend engineering team responsible for streaming data ingest, detect
 `Rust` `Microservices` `Distributed Systems` `Apache Flink` `RabbitMQ` `Hashicorp Vault`
 
 <sub>August 16, 2026 at 20:32 UTC</sub>
-
----
-
-<br>
-
-## August 15, 2026
-
-### [Staff Software Engineer, Link](https://stripe.com/jobs/search?gh_jid=8082847)
-<a href="https://stripe.com"><img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stripe** · `🟢 Remote` `Staff`
-
-_Lead the design and delivery of money-movement capabilities for Link, Stripe's consumer financial platform built on stablecoins and digital dollars. Own large, cross-functional projects from technical definition through launch, building backend services and consumer-facing experiences while navigating complex fintech infrastructure and regulatory requirements at scale. · [Apply →](https://stripe.com/jobs/search?gh_jid=8082847)_
-
-`Java` `Ruby` `TypeScript` `Backend Systems` `Financial Infrastructure` `API Design`
-
-<sub>August 15, 2026 at 03:48 UTC</sub>
-
----
-
-### [Data and Proposals Quantum Applications Scientist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-and-Proposals-Quantum-Applications-Scientist_R0246914)
-<a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Mid` `$99k-$225k`
-
-_Build data analysis and modeling systems for quantum sensing applications in national security. Requires TS/SCI clearance and hands-on work with optical and atomic sensing experimental data. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-and-Proposals-Quantum-Applications-Scientist_R0246914)_
-
-`Python` `MATLAB` `TS/SCI Clearance` `Numerical Analysis` `Data Visualization`
-
-<sub>August 15, 2026 at 02:59 UTC</sub>
-
----
-
-### [AI Operations Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004)
-<a href="https://clickhouse.com"><img src="https://www.google.com/s2/favicons?domain=clickhouse.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ClickHouse** · `🟢 Remote` `Mid` `$170k-$250k` `Equity`
-
-_Build and maintain AI-driven solutions and agents across business and engineering systems (HRIS, ATS, ERP, legal infrastructure) at ClickHouse, including integrations, cost visibility dashboards, model evaluation frameworks, and org-wide training programs. Hands-on execution in a newly formed AI Ops function within IT Operations. · [Apply →](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004)_
-
-`Python` `LLMs` `API Integration` `AWS` `GCP` `Azure` `Cost Visibility & Optimization` `Data Privacy & Security`
-
-<sub>August 15, 2026 at 01:44 UTC</sub>
-
----
-
-### [Staff Machine Learning Engineer ](https://job-boards.greenhouse.io/doma/jobs/8109028)
-<a href="https://doma.com"><img src="https://www.google.com/s2/favicons?domain=doma.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Doma** · `🟢 Remote` `Staff` `$165k-$236k` `Equity`
-
-_Design and deploy production ML systems for risk assessment and underwriting in title insurance, owning the full model lifecycle from data ingestion through monitoring. Requires 6+ years in cloud-based production ML with deep expertise in supervised learning on tabular data, model monitoring and drift detection, and proficiency with modern LLM-based development tools. · [Apply →](https://job-boards.greenhouse.io/doma/jobs/8109028)_
-
-`Python` `SQL` `Docker` `PyTorch or TensorFlow` `scikit-learn` `Kubernetes` `MLflow` `Tabular Data`
-
-<sub>August 15, 2026 at 01:44 UTC</sub>
-
----
-
-### [Staff AI Security Scientist](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Staff` `$235k-$350k` `Equity`
-
-_Lead the research agenda for agentic AI systems in cybersecurity, focusing on efficient model post-training, agent design, and rigorous evaluation methodologies. You'll advance the state of the art on open research problems spanning model optimization, reward modeling, and verification frameworks while partnering with security teams to ground research in real operator workflows. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827)_
-
-`Python` `PyTorch` `LLM Post-Training` `Reinforcement Learning` `Agent Design` `Evaluation Methodology` `TensorFlow` `JAX`
-
-<sub>August 15, 2026 at 01:44 UTC</sub>
-
----
-
-### [Sr Engineer, SRE TechOps CICD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733)
-<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
-
-_Own the availability and reliability of critical CI/CD and infrastructure services processing 3 trillion events daily, managing load balancers, databases (PostgreSQL, MySQL, Cassandra, MongoDB), message queues (Kafka, Pulsar, RabbitMQ), and caching layers at scale. Requires CJIS clearance and 10+ years large-scale production SRE experience with proven AI-assisted workflow integration. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733)_
-
-`Kubernetes` `Terraform` `Ansible` `Python` `Go` `Bash` `Datadog` `Prometheus`
-
-<sub>August 15, 2026 at 01:44 UTC</sub>
-
----
-
-### [Forward Deployed Engineer (New Grad)](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)
-<a href="https://www.litellm.ai"><img src="https://www.google.com/s2/favicons?domain=www.litellm.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiteLLM** · `🟢 Remote` `Junior`
-
-_Own the support queue and resolve customer issues with LiteLLM's AI gateway, diagnosing root causes and submitting pull requests for bug fixes. This role requires deep technical fundamentals to support enterprise customers like Netflix and NASA in production environments. · [Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)_
-
-`LLM APIs` `Python` `API debugging` `Git`
-
-<sub>August 15, 2026 at 01:44 UTC</sub>
-
----
-
-### [Staff Software Quality Safety Operations Specialist](https://careers.withwaymo.com/jobs?gh_jid=7816014)
-<a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waymo** · Mountain View, California / Remote · `🟢 Remote` `Staff` `$190k–$234k` `Equity`
-
-_Drive the strategy and technical implementation of ML-powered safety triage workflows for autonomous vehicles, designing human-in-the-loop systems and deploying cutting-edge ML/GenAI models to automate issue detection and quality assurance as Waymo scales to 20+ cities. Requires deep expertise in ML operations, safety-critical systems validation, and autonomous vehicle domain knowledge. · [Apply →](https://careers.withwaymo.com/jobs?gh_jid=7816014)_
-
-`Machine Learning` `ML Operations` `Python` `SQL` `LLM / Transformer Models` `ML Testing & Validation` `Autonomous Vehicle Systems` `Statistical Analysis`
-
-<sub>August 15, 2026 at 01:44 UTC</sub>
 
 ---
 

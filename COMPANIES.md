@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **152 companies** · **425 open roles** (17 new)
+### **149 companies** · **417 open roles** (17 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -252,7 +252,6 @@ Booz Allen Hamilton provides consulting and technology services for civil, defen
 - [Data Engineer, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Engineer--Senior_R0247097) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 17)
 - [Analytic Methodologist, Senior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Senior_R0247090) · Aurora, Colorado · `Senior` `$99k-$225k` (Aug 17)
 - [Analytic Methodologist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Analytic-Methodologist--Mid_R0247089) · Aurora, Colorado · `Mid` `$77k-$176k` (Aug 17)
-- [Data and Proposals Quantum Applications Scientist](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Data-and-Proposals-Quantum-Applications-Scientist_R0246914) · Colorado Springs, Colorado · `Mid` `$99k-$225k` (Aug 15)
 
 ---
 
@@ -325,8 +324,7 @@ Clasp provides student loan debt repayment assistance to help companies build a 
 ClickHouse builds a real-time analytics and data warehousing platform used for analytics, observability, and AI workloads. The company serves over 3,000 customers including Meta, Sony, and Tesla.
 
 - [Incident Response Security Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6128892004) · `🟢 Remote` `Senior` `Equity` (Aug 25)
-- [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004) · `🟢 Remote` `Senior` `$141k-$208k` `Equity` (Aug 20)
-- [AI Operations Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6143997004) · `🟢 Remote` `Mid` `$170k-$250k` `Equity` (Aug 15)
+- [Cloud Software Engineer - Observability Platform](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004) · `🟢 Remote` `Senior` `Equity` (Aug 20)
 
 ---
 
@@ -447,14 +445,6 @@ Docker is a software development platform.
 Docketly connects appearance attorneys and high-volume law firms through a platform that helps manage court appearances.
 
 - [Verifications Specialist III](https://www.abclegal.com/job-openings/job?id=7930998003&gh_jid=7930998003) · Longmont, Colorado · `Junior` `$58k-$69k` (Aug 21)
-
----
-
-## <a href="https://doma.com"><img src="https://www.google.com/s2/favicons?domain=doma.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Doma](https://doma.com)
-
-Doma Technology LLC offers solutions for lenders, real estate professionals, title agents, and homeowners that simplify and make closings more efficient, reducing cost and increasing customer satisfaction.
-
-- [Staff Machine Learning Engineer ](https://job-boards.greenhouse.io/doma/jobs/8109028) · `🟢 Remote` `Staff` `$165k-$236k` `Equity` (Aug 15)
 
 ---
 
@@ -659,8 +649,6 @@ Hudu builds a documentation and workflow platform for operations teams to manage
 - [Engineer II, Software Assurance, Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 21)
 - [Systems Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877) · `🟢 Remote` `Mid` `$100k-$145k` `Equity` (Aug 21)
 - [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320) · `🟢 Remote` `Junior` `$70k-$95k` `Equity` (Aug 20)
-- [Staff AI Security Scientist](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827) · `🟢 Remote` `Staff` `$235k-$350k` `Equity` (Aug 15)
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer--SRE-TechOps-CICD--Remote-_R29733) · `🟢 Remote` `Senior` `$140k-$215k` `Equity` (Aug 15)
 
 ---
 
@@ -697,11 +685,11 @@ Instacart operates a grocery delivery service that allows customers to order gro
 - [Oracle Fusion ERP Technical Analyst](https://instacart.careers/job/?gh_jid=8157911) · `🟢 Remote` `Senior` `CAN$126k–CAN$133k` `Equity` (Aug 25)
 - [Senior Software Engineer, Core Experience](https://instacart.careers/job/?gh_jid=8155585) · `🟢 Remote` `Senior` `$214k-$221k` `Equity` (Aug 25)
 - [Senior Detection Engineer II](https://instacart.careers/job/?gh_jid=8154308) · `🟢 Remote` `Senior` `CAN$196k-$207k` `Equity` (Aug 24)
-- [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147300) · `🟢 Remote` `Senior` `CAN$196k–CAN$207k` `Equity` (Aug 21)
+- [Senior Android Engineer II, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8147298) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 21)
 - [AI Solutions Lead, Marketing](https://instacart.careers/job/?gh_jid=8145998) · `🟢 Remote` `Senior` `$131k—$165k USD` `Equity` (Aug 20)
 - [Machine Learning Engineer II, Ads - Response Prediction](https://instacart.careers/job/?gh_jid=8143263) · `🟢 Remote` `Mid` `$154k–$162k CAD` `Equity` (Aug 20)
-- [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143145) · `🟢 Remote` `Senior` `$201k-$253.5k` `Equity` (Aug 20)
-- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141535) · `🟢 Remote` `Senior` `CAD$196k–$207k` `Equity` (Aug 19)
+- [Senior Machine Learning Engineer, Digital Twin Platform](https://instacart.careers/job/?gh_jid=8143147) · `🟢 Remote` `Senior` `$206k-$217k CAD` `Equity` (Aug 20)
+- [Senior Software Engineer II, Marketing Enablement & Technology](https://instacart.careers/job/?gh_jid=8141533) · `🟢 Remote` `Senior` `$192k—$242k USD` `Equity` (Aug 19)
 - [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846) · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity` (Aug 17)
 
 ---
@@ -799,14 +787,6 @@ LaunchDarkly provides feature management and automation software that helps team
 LearnLux provides financial wellbeing services and financial planning resources for workforce employees.
 
 - [Senior Back End Engineer, Data and Cloud](https://job-boards.greenhouse.io/learnlux/jobs/5400343008) · `🟢 Remote` `Senior` `$145k–$190k USD` (Aug 24)
-
----
-
-## <a href="https://www.litellm.ai"><img src="https://www.google.com/s2/favicons?domain=www.litellm.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[LiteLLM](https://www.litellm.ai)
-
-LiteLLM provides a unified interface that allows users to call over 100 different language model APIs using OpenAI's API format.
-
-- [Forward Deployed Engineer (New Grad)](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3) · `🟢 Remote` `Junior` (Aug 15)
 
 ---
 
@@ -1234,7 +1214,6 @@ Stripe is a financial services platform that helps businesses accept payments, b
 
 - [Security Incident Response Engineer](https://stripe.com/jobs/search?gh_jid=8142302) · `🟢 Remote` `Mid` (Aug 19)
 - [Backend Engineer, Payments](https://stripe.com/jobs/search?gh_jid=6692166) · `🟢 Remote` `Mid` (Aug 18)
-- [Staff Software Engineer, Link](https://stripe.com/jobs/search?gh_jid=8082847) · `🟢 Remote` `Staff` (Aug 15)
 
 ---
 
@@ -1322,7 +1301,7 @@ True Anomaly develops capabilities for space superiority.
 Twilio delivers communications services including messaging, voice, and email to hundreds of thousands of businesses and empowers millions of developers worldwide to build customer experiences.
 
 - [Staff Enterprise Security Engineer, AI Security](https://job-boards.greenhouse.io/twilio/jobs/8160279) · `🟢 Remote` `Staff` `$155k-$228k` `Equity` (Aug 26)
-- [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120) · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD` (Aug 20)
+- [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644) · `🟢 Remote` `Senior` `$106k-$156k` `Equity` (Aug 20)
 - [Senior Engineering Manager Twilio’s Conversational Agents](https://job-boards.greenhouse.io/twilio/jobs/7926887) · `🟢 Remote` `Manager` `$207.2k-$304.6k` `Equity` (Aug 18)
 
 ---
@@ -1413,14 +1392,6 @@ Vetcove provides software and services for the animal health supply chain.
 Waabi develops autonomous trucks using an end-to-end AI model powered by a neural simulator to reduce development time and resources needed for self-driving vehicles.
 
 - [Applied AI Security Engineer](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0) · `🟢 Remote` `Mid` (Aug 28)
-
----
-
-## <a href="https://waymo.com"><img src="https://www.google.com/s2/favicons?domain=waymo.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Waymo](https://waymo.com)
-
-Waymo makes autonomous vehicles for people and goods transportation.
-
-- [Staff Software Quality Safety Operations Specialist](https://careers.withwaymo.com/jobs?gh_jid=7816014) · Mountain View, California / Remote · `🟢 Remote` `Staff` `$190k–$234k` `Equity` (Aug 15)
 
 ---
 
