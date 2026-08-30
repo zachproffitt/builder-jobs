@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **151 companies** · **422 open roles** (1 new)
+### **149 companies** · **420 open roles** (5 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -295,6 +295,10 @@ Censys provides security teams with internet mapping and threat hunting capabili
 
 CesiumAstro builds satellites, terminals, and software-defined systems for satellite communication missions.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Embedded Software Engineer II](https://jobs.lever.co/CesiumAstro/52b83227-f294-444b-a1dc-63ed25600f97) · Westminster, Colorado · `Mid` (Aug 30)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Communication Systems Engineer - Spacecraft](https://jobs.lever.co/CesiumAstro/3627655e-0d63-465f-a1d6-9f3d261bba4e) · Westminster, Colorado · `Senior` (Aug 30)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Spacecraft Systems Engineer – Software](https://jobs.lever.co/CesiumAstro/eb4c8437-4e93-458b-bb3a-705eed05e249) · Westminster, Colorado · `Senior` (Aug 30)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Communication Systems Engineer](https://jobs.lever.co/CesiumAstro/48ead2e9-a6dd-47ac-b1d2-147d09cd7149) · Westminster, Colorado · `Principal` (Aug 30)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Manager, Hardware Engineering](https://jobs.lever.co/CesiumAstro/c92e1873-0fd2-40ea-a643-77523ac875c3) · Westminster, Colorado · `Manager` (Aug 30)
 - [Senior Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/e4831b15-5443-4217-8912-2ce1117552b5) · Westminster, Colorado · `Senior` (Aug 19)
 - [Senior Staff Software Engineer - Fullstack](https://jobs.lever.co/CesiumAstro/0c76d544-210f-47a6-92db-976612b0de86) · Westminster, Colorado · `Staff` (Aug 19)
@@ -524,17 +528,6 @@ Filevine builds a platform that combines data, documents, workflows, and teams f
 Five9 provides cloud contact center and AI services for organizations.
 
 - [Security Engineer](https://www.five9.com/about/careers/job-detail?gh_jid=6150849004) · `🟢 Remote` `Mid` `$66k–$174k` `Equity` (Aug 22)
-
----
-
-## <a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[Follow Up Boss](https://followupboss.com)
-
-Follow Up Boss is a real estate CRM platform that helps users organize contacts and teams, engage with prospects and clients, and track business activities.
-
-- [Agentic AI, Principal Machine Learning Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1) · `🟢 Remote` `Principal` `$194k-$326k` `Equity` (Aug 29)
-- [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 25)
-- [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1) · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity` (Aug 21)
-- [Agentic AI, Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1) · `🟢 Remote` `Senior` `$152k-$257k` `Equity` (Aug 18)
 
 ---
 
@@ -892,14 +885,6 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 - [Manager of Data Science Production Engineering, Data Engineering & Delivery](https://job-boards.greenhouse.io/natera/jobs/6137669004) · `🟢 Remote` `Manager` `$127k—$159k` (Aug 21)
 - [Senior Manager of Data Science Production Engineering, DevOps](https://job-boards.greenhouse.io/natera/jobs/6137673004) · `🟢 Remote` `Manager` `$151k–$188.7k` (Aug 21)
 - [Director of Production Engineering, Extended-Hours Support (Data Science)](https://job-boards.greenhouse.io/natera/jobs/6137671004) · `🟢 Remote` `Manager` `$186k–$232k` (Aug 19)
-
----
-
-## <a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;[NextGen Healthcare](https://nextgen.com)
-
-NextGen Healthcare provides cloud-based electronic health record (EHR) and electronic medical record (EMR) solutions with specialty-specific services designed to help medical practices streamline workflows and manage patient care.
-
-- [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776) · `🟢 Remote` `Senior` (Aug 21)
 
 ---
 
@@ -1294,7 +1279,6 @@ ToolWatch is an asset management software that provides real-time tracking of eq
 Torc Robotics develops software for automated trucks that integrates with test vehicles to transform freight transportation. Now part of the Daimler family, the company focuses on commercializing autonomous driving solutions through direct partnerships with truck manufacturers.
 
 - [ML Engineer, I - MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) · `🟢 Remote` `Junior` `$132k` `Equity` (Aug 25)
-- [Senior Motion Planning Engineer - Trajectory Optimization](https://job-boards.greenhouse.io/torcrobotics/jobs/8596552002) · Remote / Ann Arbor, Michigan / Fort Worth, Texas / Blacksburg, Virginia · `🟢 Remote` `Senior` `$160k–$193k` `Equity` (Aug 21)
 - [Software Engineer II, MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728727002) · `🟢 Remote` `Mid` `$139k-$166k` `Equity` (Aug 20)
 
 ---

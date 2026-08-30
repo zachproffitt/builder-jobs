@@ -2,7 +2,7 @@
 
 Remote engineering roles only — linking directly to each company's job board. Classified by Claude, updated hourly, and removed after 14 days.
 
-### **265 open roles** (0 new)
+### **259 open roles** (0 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -137,17 +137,6 @@ _Design and develop Vannevar's search and information retrieval systems, advanci
 _Deploy and manage cloud-native data streaming and analytics infrastructure on Kubernetes (EKS/GKE) with Terraform, Kinesis, Dataflow, and BigQuery. Drive SRE practices, CI/CD automation, and cost optimization across multi-cloud AWS and GCP environments; 7+ years required. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8733991002)_
 
 `Kubernetes` `Terraform` `AWS` `GCP` `Python` `Jenkins` `ArgoCD` `Datadog`
-
-<sub>August 29, 2026 at 02:04 UTC</sub>
-
----
-
-### [Agentic AI, Principal Machine Learning Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$194k-$326k` `Equity`
-
-_Build large-scale, fault-tolerant multimodal agentic AI systems that serve millions of real estate customers, including Voice AI and Deep Research agents. Pioneer evaluation frameworks, safety guardrails, and tracing systems for highly-visible AI systems while bridging applied research and scalable production engineering. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1)_
-
-`LLMs` `LangGraph` `AutoGen` `PyTorch` `TensorFlow` `Kubernetes` `Python` `Distributed Systems`
 
 <sub>August 29, 2026 at 02:04 UTC</sub>
 
@@ -322,6 +311,17 @@ _Design and implement backend systems and platform architecture for Pinterest's 
 
 ---
 
+### [Senior Data Scientist, Ads Integrity](https://job-boards.greenhouse.io/reddit/jobs/8157580)
+<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k—$267k` `Equity`
+
+_Lead the measurement, detection, and enforcement strategy for ads fraud at scale, building production detection pipelines, ML models, and investigative tools to protect Reddit's ads ecosystem. Requires deep expertise in fraud detection methods, production ML systems, and cross-functional influence in a high-impact greenfield program. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8157580)_
+
+`Python` `SQL` `Machine Learning` `LLM` `Graph Analysis` `Statistical Analysis` `Fraud Detection` `Production ML Systems`
+
+<sub>August 28, 2026 at 05:17 UTC</sub>
+
+---
+
 ### [Engineering Manager, Object Storage](https://jobs.ashbyhq.com/render/d326d138-568f-49b7-a560-da42a0742886)
 <a href="https://render.com"><img src="https://www.google.com/s2/favicons?domain=render.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Render** · `🟢 Remote` `Manager`
 
@@ -339,17 +339,6 @@ _Lead a team of engineers building an object storage product and higher-level ab
 _Lead a team of engineers building and maintaining Render's Postgres product, a stateful service relied on by hundreds of thousands of developers. Partner with product and infrastructure teams to translate customer needs into scalable technical solutions while mentoring engineers and driving execution from ideation through launch. · [Apply →](https://jobs.ashbyhq.com/render/e1f2d6a2-b9e2-4f16-b863-3ca228c83e75)_
 
 `Postgres` `Distributed Systems` `Stateful Services` `System Design` `Product Leadership`
-
-<sub>August 28, 2026 at 05:17 UTC</sub>
-
----
-
-### [Senior Data Scientist, Ads Integrity](https://job-boards.greenhouse.io/reddit/jobs/8157580)
-<a href="https://reddit.com"><img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Reddit** · `🟢 Remote` `Senior` `$190k—$267k` `Equity`
-
-_Lead the measurement, detection, and enforcement strategy for ads fraud at scale, building production detection pipelines, ML models, and investigative tools to protect Reddit's ads ecosystem. Requires deep expertise in fraud detection methods, production ML systems, and cross-functional influence in a high-impact greenfield program. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8157580)_
-
-`Python` `SQL` `Machine Learning` `LLM` `Graph Analysis` `Statistical Analysis` `Fraud Detection` `Production ML Systems`
 
 <sub>August 28, 2026 at 05:17 UTC</sub>
 
@@ -1058,17 +1047,6 @@ _Build the web media player and backend APIs powering video and audio delivery a
 
 ---
 
-### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
-
-`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
-
-<sub>August 25, 2026 at 22:37 UTC</sub>
-
----
-
 ### [Manager II, Config Deployments](https://www.pinterestcareers.com/jobs/?gh_jid=8104117)
 <a href="https://pinterest.com"><img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Pinterest** · `🟢 Remote` `Manager` `$177k-$364k` `Equity`
 
@@ -1675,17 +1653,6 @@ _Lead the development of high-performance Salesforce solutions including CPQ, Ap
 
 ---
 
-### [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)
-<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
-
-_Architect and deploy enterprise intelligent automation and agentic AI solutions by integrating LLMs (Claude, Gemini) with workflow platforms (UiPath, N8N, Decisions) to scale digital workforce automation across complex business processes. Lead code reviews and mentorship of citizen developers while managing production automation environments at scale. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)_
-
-`Python` `C#` `SQL` `UiPath` `N8N` `Claude` `Gemini` `Intelligent Document Processing`
-
-<sub>August 21, 2026 at 20:34 UTC</sub>
-
----
-
 ### [Senior Manager of Data Science Production Engineering, DevOps](https://job-boards.greenhouse.io/natera/jobs/6137673004)
 <a href="https://natera.com"><img src="https://www.google.com/s2/favicons?domain=natera.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Natera** · `🟢 Remote` `Manager` `$151k–$188.7k`
 
@@ -1719,17 +1686,6 @@ _Deploy and iterate on production agentic AI systems inside enterprise customer 
 
 ---
 
-### [Senior Motion Planning Engineer - Trajectory Optimization](https://job-boards.greenhouse.io/torcrobotics/jobs/8596552002)
-<a href="https://torc.ai"><img src="https://www.google.com/s2/favicons?domain=torc.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Torc Robotics** · Remote / Ann Arbor, Michigan / Fort Worth, Texas / Blacksburg, Virginia · `🟢 Remote` `Senior` `$160k–$193k` `Equity`
-
-_Design and develop motion planning algorithms for autonomous trucks, including trajectory generation, trajectory optimization, and behavior planning using techniques like graph search, sampling-based planning, and convex optimization. Work across the full autonomy stack with focus on real-world validation in simulation and on-vehicle environments. · [Apply →](https://job-boards.greenhouse.io/torcrobotics/jobs/8596552002)_
-
-`C++` `Linux` `Motion Planning` `Trajectory Optimization` `Convex Optimization` `Python` `ROS2` `CUDA`
-
-<sub>August 21, 2026 at 19:32 UTC</sub>
-
----
-
 ### [Senior Product Builder, Organizational Intelligence](https://jobs.ashbyhq.com/vanta/c986dc01-e886-4bfe-bbe9-068b7af9d2d3)
 <a href="https://vanta.com"><img src="https://www.google.com/s2/favicons?domain=vanta.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vanta** · `🟢 Remote` `Senior` `Equity`
 
@@ -1758,17 +1714,6 @@ _Diagnose and resolve complex GitLab deployments in highly secure U.S. governmen
 _Build Mercury's Infrastructure Platform to enable AI agents and engineers to safely deploy code on AWS, managing networking, container orchestration, and infrastructure-as-code at scale. Requires deep Linux and cloud-native fundamentals with hands-on infrastructure code contributions. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6150432004)_
 
 `AWS` `Terraform` `Kubernetes` `Docker` `Python` `Go` `Prometheus` `Grafana`
-
-<sub>August 21, 2026 at 18:49 UTC</sub>
-
----
-
-### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity`
-
-_Design and own broker-level success metrics, causal inference frameworks, and measurement strategy for Zillow's B2B broker data products and go-to-market initiatives. Build scalable analytical pipelines and predictive models that quantify enterprise product impact and inform senior leadership investment decisions in a high-visibility strategic priority. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)_
-
-`Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
 
 <sub>August 21, 2026 at 18:49 UTC</sub>
 
@@ -2725,17 +2670,6 @@ _Design and own Webflow's enterprise data architecture, semantic layer, and anal
 _Build AI agents that analyze security telemetry, use security tools, and automate detection, investigation, and response workflows for enterprise security operations. Develop from experimentation through production deployment using LLMs, RAG, agentic architectures, and MLOps practices; requires 8+ years shipping production AI systems and hands-on cybersecurity or adversarial domain experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1)_
 
 `Python` `TypeScript` `C#` `Large Language Models` `Retrieval-Augmented Generation` `Agentic Architectures` `MLOps` `LLMOps`
-
-<sub>August 18, 2026 at 01:44 UTC</sub>
-
----
-
-### [Agentic AI, Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)
-<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
-
-_Design and build evaluation frameworks, tracing systems, and observability infrastructure for Zillow's production agentic AI agents. Partner with applied scientists and ML engineers to measure and improve AI quality, reliability, and trustworthiness at scale; requires deep familiarity with LLM evaluation paradigms and production ML systems. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)_
-
-`Python` `LangChain` `LangGraph` `MLflow` `LangSmith` `Kubernetes` `PostgreSQL` `Observability`
 
 <sub>August 18, 2026 at 01:44 UTC</sub>
 
