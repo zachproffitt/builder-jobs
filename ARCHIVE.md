@@ -2,11 +2,200 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **417 open roles** (17 new) &nbsp;·&nbsp; 1771 companies searched
+### **423 open roles** (2 new) &nbsp;·&nbsp; 1776 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 [← Recent jobs](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 29, 2026
+
+### [Senior Software Engineer, Inference](https://job-boards.greenhouse.io/assemblyai/jobs/4728911005)
+<a href="https://assemblyai.com"><img src="https://www.google.com/s2/favicons?domain=assemblyai.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**AssemblyAI** · `🟢 Remote` `Senior` `$190k-$225k`
+
+_Design and ship customer-facing APIs that expose new Voice AI model capabilities, scaling inference infrastructure to handle 1M+ API calls daily while partnering with researchers to productionize new techniques from proof-of-concept to production. Work across backend services, inference infrastructure, and SDKs at a company processing 2M+ hours of audio daily. · [Apply →](https://job-boards.greenhouse.io/assemblyai/jobs/4728911005)_
+
+`Python` `FastAPI` `Kubernetes` `PostgreSQL` `AWS` `Machine Learning` `Inference Optimization` `API Design`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Lead Character Tools Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6166111004)
+<a href="https://bendstudio.com"><img src="https://www.google.com/s2/favicons?domain=bendstudio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bend Studio** · `🟢 Remote` `Senior` `$143k-$215k`
+
+_Lead the development and deployment of character creation, rigging, and animation tools for PlayStation game studios, integrating AI/ML workflows to accelerate artist-facing pipelines. Deep expertise in Maya, C++, and game development workflows required; position involves prototyping, hardening tools, and collaborating across internal teams and external studios. · [Apply →](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6166111004)_
+
+`C++` `Python` `Maya` `PyQt` `Perforce` `Git` `Houdini` `HLSL`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [EA- Forward Deployed Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA--Forward-Deployed-Engineer_R2026-0367-2)
+<a href="https://bonterratech.com"><img src="https://www.google.com/s2/favicons?domain=bonterratech.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Bonterra** · `🟢 Remote` `Mid` `$130k-$145k`
+
+_Build agentic AI skills and integrations atop NGP VAN's platform, embedding with Democratic campaigns, nonprofits, and political organizations to automate workflows and drive adoption. Requires ecosystem fluency in progressive politics and willingness to travel on-site for client engagements. · [Apply →](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA--Forward-Deployed-Engineer_R2026-0367-2)_
+
+`Python` `Node.js` `REST APIs` `LLM APIs` `Claude` `MCP` `NGP VAN API` `Agentic AI Frameworks`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Salesforce Developer III](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6167235004)
+<a href="https://extrahop.com"><img src="https://www.google.com/s2/favicons?domain=extrahop.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ExtraHop** · `🟢 Remote` `Senior` `$130k-$149k`
+
+_Design, develop, and deploy customized Salesforce solutions including Apex, Lightning Web Components, and integrations between Salesforce and external systems. Requires Salesforce Platform Developer I certification and hands-on experience with CPQ implementations and Partner Community integrations at enterprise scale. · [Apply →](https://job-boards.greenhouse.io/extrahopnetworks/jobs/6167235004)_
+
+`Apex` `Salesforce` `Lightning Web Components` `SOQL` `Visualforce` `REST/SOAP APIs` `Git` `Salesforce Platform Developer I Certification`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Software Engineer, Applied AI Research](https://job-boards.greenhouse.io/hightouch/jobs/6174215004)
+<a href="https://hightouch.com"><img src="https://www.google.com/s2/favicons?domain=hightouch.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Hightouch** · `🟢 Remote` `Senior` `$180k-$400k`
+
+_Design and build experimental AI systems for marketing workflows, focusing on generative video, brand asset creation, and agentic AI applications. Ground research in customer product needs rather than pure theory; requires strong backend architecture and probabilistic systems thinking. · [Apply →](https://job-boards.greenhouse.io/hightouch/jobs/6174215004)_
+
+`LLM` `Python` `Machine Learning` `Backend Architecture` `Generative AI` `Video Generation` `Probabilistic Systems` `Product Sense`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Software Engineer, Database Reliability & Performance](https://jobs.ashbyhq.com/Influxdata/c2b30d69-ba41-427a-b789-e811f566e177)
+<a href="https://influxdata.com"><img src="https://www.google.com/s2/favicons?domain=influxdata.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**InfluxData** · `🟢 Remote` `Senior`
+
+_Build and maintain automated testing infrastructure for InfluxDB Enterprise 3, including performance regression detection, reliability validation, and correctness testing across distributed data systems. Requires hands-on Rust development and deep expertise in database internals at scale. · [Apply →](https://jobs.ashbyhq.com/Influxdata/c2b30d69-ba41-427a-b789-e811f566e177)_
+
+`Rust` `Golang` `C++` `Kubernetes` `Docker` `CircleCI` `Distributed Systems` `Database Internals`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Senior Platform Engineer ](https://job-boards.greenhouse.io/inkind/jobs/5405458008)
+<a href="https://inkind.com"><img src="https://www.google.com/s2/favicons?domain=inkind.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**inKind** · `🟢 Remote` `Senior` `$190k-$200k`
+
+_Design, implement, and operate AWS cloud infrastructure for a financial and hospitality platform handling millions of users; ensure high availability, security, and cost efficiency across compute, networking, storage, and managed services. Lead infrastructure migrations, on-call operations, and set standards for deployment safety and observability as the platform scales. · [Apply →](https://job-boards.greenhouse.io/inkind/jobs/5405458008)_
+
+`AWS` `Terraform` `ECS` `EKS` `Kubernetes` `PostgreSQL` `Observability` `Infrastructure as Code`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Senior Engineering Manager, Enterprise Fulfillment](https://instacart.careers/job/?gh_jid=8084350)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Manager` `Equity`
+
+_Lead a team of software engineers building enterprise fulfillment systems that power Instacart's grocery delivery logistics and operations at scale. · [Apply →](https://instacart.careers/job/?gh_jid=8084350)_
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Staff Data Engineer](https://job-boards.greenhouse.io/webflow/jobs/8165290)
+<a href="https://webflow.com"><img src="https://www.google.com/s2/favicons?domain=webflow.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Webflow** · `🟢 Remote` `Staff` `$186k-$255k` `Equity`
+
+_Design and build production data pipelines and cloud data infrastructure (Spark, Kafka, Iceberg, Airflow) for a web marketing platform, handling batch, streaming, and real-time workloads at scale. Lead data platform evolution including lake architecture, event instrumentation, quality, governance, and PII/GDPR compliance; mentor engineers and embed data engineering standards into AI-assisted development workflows. · [Apply →](https://job-boards.greenhouse.io/webflow/jobs/8165290)_
+
+`Spark` `Kafka` `Airflow` `Iceberg` `Python` `SQL` `AWS` `Druid`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Spacecraft Operations Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7980707003)
+<a href="https://rocketlabusa.com"><img src="https://www.google.com/s2/favicons?domain=rocketlabusa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rocket Lab** · Littleton, Colorado · `Mid` `$81.6k-$102k` `Equity`
+
+_Design and develop ground and flight software for spacecraft operations, including automation systems, fault detection/isolation/recovery (FDIR), telemetry configuration, and test infrastructure for a growing fleet of satellites across commercial and government missions. · [Apply →](https://job-boards.greenhouse.io/rocketlab/jobs/7980707003)_
+
+`Python` `C++` `Git` `CI/CD` `Hardware-in-the-Loop (HIL)` `Software-in-the-Loop (SIL)` `TS/SCI Clearance`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Senior AI Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer--Mobile_JR112973)
+<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Senior` `$168k-$269k` `Equity`
+
+_Design and implement scalable ML inference services and training infrastructure that support real-time applications including LLMs, NLP, speech, and forecasting models. Deploy production ML systems on Azure with emphasis on low-latency performance and MLOps best practices. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer--Mobile_JR112973)_
+
+`Python` `Azure` `PyTorch` `TensorFlow` `Kafka` `PostgreSQL` `Snowflake` `Kubernetes`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Senior Quality Engineer — Investigate & Respond](https://jobs.lever.co/sophos/99b3a5f1-76b9-4fbf-8022-511ca11d4cf6)
+<a href="https://sophos.com"><img src="https://www.google.com/s2/favicons?domain=sophos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sophos** · `🟢 Remote` `Senior`
+
+_Build and own automated testing infrastructure for Sophos's Investigate & Respond product suite, spanning backend services, APIs, and user-facing workflows to improve detection coverage and reduce customer-impacting defects. · [Apply →](https://jobs.lever.co/sophos/99b3a5f1-76b9-4fbf-8022-511ca11d4cf6)_
+
+`test automation` `API testing` `CI/CD` `Python` `JavaScript` `distributed systems`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Principal Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8159140)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Principal` `$180k–$368k USD` `Equity`
+
+_Lead architectural design and technical execution for Toast's Payroll and Team Management platform, owning identity/access architecture and driving the evolution from traditional SaaS to agentic systems. Deep multi-tenant SaaS experience required, particularly in authentication, authorization, and organizational hierarchy at scale. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8159140)_
+
+`Java` `Kotlin` `React` `Microservices` `Multi-tenant SaaS Architecture` `Authentication & Authorization` `API Design` `LLM Integration`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Senior Software Engineering Manager, ToastNow](https://careers.toasttab.com/jobs?gh_jid=8144016)
+<a href="https://toasttab.com"><img src="https://www.google.com/s2/favicons?domain=toasttab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Toast** · `🟢 Remote` `Manager` `$180k-$368k` `Equity`
+
+_Lead a high-performing mobile engineering team building the Toast Now app (4.9-star native iOS/Android experience) that empowers restaurant operators to manage their business in real-time. Drive delivery across iOS, Android, GraphQL, and microservices while championing AI-first development practices and mentoring engineers. · [Apply →](https://careers.toasttab.com/jobs?gh_jid=8144016)_
+
+`iOS` `Android` `GraphQL` `Microservices`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Senior Software Engineer, Search ](https://job-boards.greenhouse.io/vannevarlabs/jobs/5225653007)
+<a href="https://vannevarlabs.com"><img src="https://www.google.com/s2/favicons?domain=vannevarlabs.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vannevar Labs** · `🟢 Remote` `Senior` `$150k-$215k` `Equity`
+
+_Design and develop Vannevar's search and information retrieval systems, advancing full-text search, vector databases, and LLM-powered retrieval for mission-critical defense intelligence applications. Requires deep expertise in search ranking, NLP, and large-scale system performance optimization; U.S. Person status required for access to classified defense systems. · [Apply →](https://job-boards.greenhouse.io/vannevarlabs/jobs/5225653007)_
+
+`Elasticsearch` `OpenSearch` `NLP` `Machine Learning` `Vector Search` `Information Retrieval` `Backend Systems` `Python`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Senior DevOps Engineer - PA166](https://www.zoominfo.com/careers?gh_jid=8733991002)
+**ZoomInfo** · `🟢 Remote` `Senior` `$133k-$209k` `Equity`
+
+_Deploy and manage cloud-native data streaming and analytics infrastructure on Kubernetes (EKS/GKE) with Terraform, Kinesis, Dataflow, and BigQuery. Drive SRE practices, CI/CD automation, and cost optimization across multi-cloud AWS and GCP environments; 7+ years required. · [Apply →](https://www.zoominfo.com/careers?gh_jid=8733991002)_
+
+`Kubernetes` `Terraform` `AWS` `GCP` `Python` `Jenkins` `ArgoCD` `Datadog`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
+### [Agentic AI, Principal Machine Learning Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$194k-$326k` `Equity`
+
+_Build large-scale, fault-tolerant multimodal agentic AI systems that serve millions of real estate customers, including Voice AI and Deep Research agents. Pioneer evaluation frameworks, safety guardrails, and tracing systems for highly-visible AI systems while bridging applied research and scalable production engineering. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1)_
+
+`LLMs` `LangGraph` `AutoGen` `PyTorch` `TensorFlow` `Kubernetes` `Python` `Distributed Systems`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
 
 <br>
 
@@ -364,23 +553,23 @@ _Lead the design and architecture of healthcare data pipelines and normalization
 
 ---
 
-### [Applied AI Security Engineer](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)
-<a href="https://waabi.ai"><img src="https://www.google.com/s2/favicons?domain=waabi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waabi** · `🟢 Remote` `Mid`
-
-_Design and implement security guardrails, sandboxing, and access controls for AI tools and integrations across the company, ensuring safe adoption of AI-native workflows. Focus on threat modeling and red-teaming in a safety-critical autonomous vehicle context. · [Apply →](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)_
-
-`Python` `Security Architecture` `Threat Modeling` `Prompt Injection` `MCP` `API Security` `Sandboxing` `LLM Security`
-
-<sub>August 28, 2026 at 05:17 UTC</sub>
-
----
-
 ### [Manager, Software Developer - Quantitative Market Risk](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)
 <a href="https://wealthsimple.com"><img src="https://www.google.com/s2/favicons?domain=wealthsimple.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Wealthsimple** · `🟢 Remote` `Manager` `Equity`
 
 _Build and deploy production quantitative risk models—VaR engines, options pricing, and CIRO 5000 margin rules—as containerized microservices with end-to-end ownership from development through CI/CD pipeline execution. Lead a small quantitative team while owning the full stack from Monte Carlo backtesting and derivatives valuation to real-time monitoring and regulatory governance for Canada's largest brokerage. · [Apply →](https://jobs.ashbyhq.com/wealthsimple/2e3579c9-f4d6-4094-a384-3043beb8ce04)_
 
 `Python` `SQL` `Docker` `Kubernetes` `FastAPI` `Snowflake` `PostgreSQL` `dbt`
+
+<sub>August 28, 2026 at 05:17 UTC</sub>
+
+---
+
+### [Applied AI Security Engineer](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)
+<a href="https://waabi.ai"><img src="https://www.google.com/s2/favicons?domain=waabi.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Waabi** · `🟢 Remote` `Mid`
+
+_Design and implement security guardrails, sandboxing, and access controls for AI tools and integrations across the company, ensuring safe adoption of AI-native workflows. Focus on threat modeling and red-teaming in a safety-critical autonomous vehicle context. · [Apply →](https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0)_
+
+`Python` `Security Architecture` `Threat Modeling` `Prompt Injection` `MCP` `API Security` `Sandboxing` `LLM Security`
 
 <sub>August 28, 2026 at 05:17 UTC</sub>
 
@@ -1272,6 +1461,17 @@ _Build the web media player and backend APIs powering video and audio delivery a
 
 ---
 
+### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
+
+`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
+
+<sub>August 25, 2026 at 22:37 UTC</sub>
+
+---
+
 ### [AI Engineer](https://jobs.ashbyhq.com/ditto/50646667-e435-4245-9194-588138ae886a)
 <a href="https://ditto.com"><img src="https://www.google.com/s2/favicons?domain=ditto.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ditto Labs** · `🟢 Remote` `Senior` `Equity`
 
@@ -2087,10 +2287,10 @@ _Design and build production-grade security services, automated policy enforceme
 
 ---
 
-### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
 
-_Build production-grade data and AI solutions embedded with enterprise customers, owning end-to-end architecture from data pipelines and ML models to application deployment on the Databricks platform. Requires 6+ years in data engineering or software engineering, deep Spark expertise, and ability to manage complex technical projects with C-suite stakeholders across multiple cloud platforms. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)_
+_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
 
 `Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
 
@@ -2190,6 +2390,17 @@ _Lead the development of high-performance Salesforce solutions including CPQ, Ap
 
 ---
 
+### [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Architect and deploy enterprise intelligent automation and agentic AI solutions by integrating LLMs (Claude, Gemini) with workflow platforms (UiPath, N8N, Decisions) to scale digital workforce automation across complex business processes. Lead code reviews and mentorship of citizen developers while managing production automation environments at scale. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)_
+
+`Python` `C#` `SQL` `UiPath` `N8N` `Claude` `Gemini` `Intelligent Document Processing`
+
+<sub>August 21, 2026 at 20:34 UTC</sub>
+
+---
+
 ### [Verifications Specialist III](https://www.abclegal.com/job-openings/job?id=7930998003&gh_jid=7930998003)
 <a href="https://docketly.com"><img src="https://www.google.com/s2/favicons?domain=docketly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docketly** · Longmont, Colorado · `Junior` `$58k-$69k`
 
@@ -2273,6 +2484,17 @@ _Diagnose and resolve complex GitLab deployments in highly secure U.S. governmen
 _Build Mercury's Infrastructure Platform to enable AI agents and engineers to safely deploy code on AWS, managing networking, container orchestration, and infrastructure-as-code at scale. Requires deep Linux and cloud-native fundamentals with hands-on infrastructure code contributions. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6150432004)_
 
 `AWS` `Terraform` `Kubernetes` `Docker` `Python` `Go` `Prometheus` `Grafana`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity`
+
+_Design and own broker-level success metrics, causal inference frameworks, and measurement strategy for Zillow's B2B broker data products and go-to-market initiatives. Build scalable analytical pipelines and predictive models that quantify enterprise product impact and inform senior leadership investment decisions in a high-visibility strategic priority. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)_
+
+`Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
 
 <sub>August 21, 2026 at 18:49 UTC</sub>
 
@@ -3672,6 +3894,17 @@ _Design and own Webflow's enterprise data architecture, semantic layer, and anal
 _Build AI agents that analyze security telemetry, use security tools, and automate detection, investigation, and response workflows for enterprise security operations. Develop from experimentation through production deployment using LLMs, RAG, agentic architectures, and MLOps practices; requires 8+ years shipping production AI systems and hands-on cybersecurity or adversarial domain experience. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1)_
 
 `Python` `TypeScript` `C#` `Large Language Models` `Retrieval-Augmented Generation` `Agentic Architectures` `MLOps` `LLMOps`
+
+<sub>August 18, 2026 at 01:44 UTC</sub>
+
+---
+
+### [Agentic AI, Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Design and build evaluation frameworks, tracing systems, and observability infrastructure for Zillow's production agentic AI agents. Partner with applied scientists and ML engineers to measure and improve AI quality, reliability, and trustworthiness at scale; requires deep familiarity with LLM evaluation paradigms and production ML systems. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)_
+
+`Python` `LangChain` `LangGraph` `MLflow` `LangSmith` `Kubernetes` `PostgreSQL` `Observability`
 
 <sub>August 18, 2026 at 01:44 UTC</sub>
 
