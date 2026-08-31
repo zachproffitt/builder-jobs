@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **427 open roles** (17 new) &nbsp;·&nbsp; 1776 companies searched
+### **432 open roles** (22 new) &nbsp;·&nbsp; 1776 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,61 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 31, 2026
+
+### [GovCloud Data Infrastructure Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/GovCloud-Data-Infrastructure-Engineer--Remote-_R29607)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
+
+_Build AWS GovCloud infrastructure from scratch, establishing PostgreSQL database platforms, infrastructure-as-code automation with Chef, and multi-environment systems aligned with FedRAMP and FISMA compliance requirements. Requires security clearance eligibility and hands-on greenfield deployment experience at scale processing 3 trillion events per day. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/GovCloud-Data-Infrastructure-Engineer--Remote-_R29607)_
+
+`AWS` `PostgreSQL` `Chef` `Python` `Bash` `Google SAML` `Tableau Server` `CloudWatch`
+
+<sub>August 31, 2026 at 13:31 UTC</sub>
+
+---
+
+### [Sr. Platform Engineer - Kubernetes (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Platform-Engineer---Kubernetes--Remote-_R29970)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$140k-$215k` `Equity`
+
+_Design and operate scalable hybrid multi-cloud Kubernetes platforms processing trillions of events per day for a global cybersecurity leader. Requires CJIS clearance (U.S. citizenship or permanent resident status) and 5+ years managing Kubernetes clusters at massive scale across AWS, GCP, OCI, and custom data centers. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Platform-Engineer---Kubernetes--Remote-_R29970)_
+
+`Kubernetes` `Prometheus` `Thanos` `Alertmanager` `Golang` `AWS` `GCP` `OCI`
+
+<sub>August 31, 2026 at 13:31 UTC</sub>
+
+---
+
+### [Staff Security Engineer, IAM](https://job-boards.greenhouse.io/gitlab/jobs/8761409002)
+<a href="https://gitlab.com"><img src="https://www.google.com/s2/favicons?domain=gitlab.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**GitLab** · `🟢 Remote` `Staff` `$168k-$238k` `Equity`
+
+_Design and implement enterprise-scale identity and access management solutions, migrating from low-code platforms to infrastructure-as-code and Python services on GCP Cloud Run. Lead governance frameworks for AI agents and non-human identities across Okta, Lumos, and cloud platforms (GCP/AWS), with expertise in zero-trust architecture and compliance-driven security. · [Apply →](https://job-boards.greenhouse.io/gitlab/jobs/8761409002)_
+
+`Okta` `Terraform` `Python` `GCP` `AWS` `Lumos` `IaC` `Claude`
+
+<sub>August 31, 2026 at 13:31 UTC</sub>
+
+---
+
+### [Network Engineer I - IN](https://rackspace.wd1.myworkdayjobs.com/External/job/IND-Work-from-Home-Remote/Network-Engineer-I---IN_R-23430)
+<a href="https://rackspace.com"><img src="https://www.google.com/s2/favicons?domain=rackspace.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Rackspace** · `🟢 Remote` `Junior`
+
+_Monitor and troubleshoot Rackspace's multi-vendor network infrastructure (Cisco, Nexus, Arista) at scale, responding to performance issues, DDoS attacks, and hardware failures across distributed data centers. Requires on-call shift work including weekends and holidays. · [Apply →](https://rackspace.wd1.myworkdayjobs.com/External/job/IND-Work-from-Home-Remote/Network-Engineer-I---IN_R-23430)_
+
+`Cisco IOS` `BGP` `OSPF` `Nexus` `Arista` `SolarWinds` `DDoS Mitigation`
+
+<sub>August 31, 2026 at 13:31 UTC</sub>
+
+---
+
+### [SAP BASIS](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jakarta/SAP-BASIS_R00353390)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote`
+
+_Administer and optimize SAP enterprise environments including S/4HANA and SAP HANA, managing installations, upgrades, migrations, performance tuning, and cloud transformations across global client landscapes. Work across multiple industries with opportunities to contribute as individual contributor, technical specialist, or team lead depending on experience level. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jakarta/SAP-BASIS_R00353390)_
+
+`SAP NetWeaver` `SAP S/4HANA` `SAP HANA` `Azure` `AWS` `GCP`
+
+<sub>August 31, 2026 at 13:31 UTC</sub>
+
+---
 
 ### [Embedded Software Engineer II - SATCOM](https://jobs.lever.co/CesiumAstro/78be955f-96c3-4ee5-9ab0-0386bc8aa0d8)
 <a href="https://cesiumastro.com"><img src="https://www.google.com/s2/favicons?domain=cesiumastro.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**CesiumAstro** · Westminster, Colorado · `Mid`
@@ -113,17 +168,6 @@ _Build satellite flight software and mission operations systems for space platfo
 
 ---
 
-### [Palantir Forward Deployed Senior Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Senior-Engineer_R00352364)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$316k`
-
-_Deploy Palantir Foundry and AIP solutions for government and enterprise clients, building end-to-end data pipelines, ETL systems, and AI-driven applications that directly transform client operations. Embedded client-facing role requiring hands-on engineering across data integration, full-stack development, and LLM applications; 0-100% travel depending on client needs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Senior-Engineer_R00352364)_
-
-`Python` `PySpark` `Palantir Foundry` `Palantir AIP` `AWS` `Azure` `GCP` `TypeScript`
-
-<sub>August 31, 2026 at 05:20 UTC</sub>
-
----
-
 ### [Palantir Forward Deployed Engineer -Assoc Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Engineer--Assoc-Director_R00352372)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · Multiple US locations (California, Colorado, District of Columbia, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Virginia, Washington, Maine, Cleveland) · `Manager` `$138k-$434k`
 
@@ -141,6 +185,17 @@ _Deploy and build Palantir Foundry and AIP solutions for government and enterpri
 _Deploy Palantir Foundry and AIP solutions for government, healthcare, energy, and manufacturing clients, building production data pipelines, applications, and decision-support systems that transform client operations. Embedded client engagement with travel up to 100% depending on business need. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Engineer_R00352354)_
 
 `Python` `PySpark` `Java` `Palantir Foundry` `Palantir Gotham` `Palantir AIP` `AWS` `Azure`
+
+<sub>August 31, 2026 at 05:20 UTC</sub>
+
+---
+
+### [Palantir Forward Deployed Senior Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Senior-Engineer_R00352364)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$316k`
+
+_Deploy Palantir Foundry and AIP solutions for government and enterprise clients, building end-to-end data pipelines, ETL systems, and AI-driven applications that directly transform client operations. Embedded client-facing role requiring hands-on engineering across data integration, full-stack development, and LLM applications; 0-100% travel depending on client needs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Senior-Engineer_R00352364)_
+
+`Python` `PySpark` `Palantir Foundry` `Palantir AIP` `AWS` `Azure` `GCP` `TypeScript`
 
 <sub>August 31, 2026 at 05:20 UTC</sub>
 

@@ -2,11 +2,26 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **427 open roles** (17 new) &nbsp;·&nbsp; 1776 companies searched
+### **432 open roles** (22 new) &nbsp;·&nbsp; 1776 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
 [← Recent jobs](README.md) &nbsp;·&nbsp; [By company →](COMPANIES.md) &nbsp;·&nbsp; [How it works →](https://github.com/zachproffitt/builder-jobs-scraper)
+
+<br>
+
+## August 30, 2026
+
+### [Staff Software Engineer, AI Solutions](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Software-Engineer--AI-Solutions_REF087977W-1)
+<a href="https://visa.com"><img src="https://www.google.com/s2/favicons?domain=visa.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Visa** · Denver, Colorado · `🟡 Hybrid` `Staff` `Equity`
+
+_Design and build AI-powered solutions integrated with ServiceNow, including custom agentic systems, LLM orchestration, and enterprise automation. Requires deep expertise in generative AI, agent architecture, and ServiceNow platform development at scale across Visa's global payments infrastructure. · [Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Software-Engineer--AI-Solutions_REF087977W-1)_
+
+`Python` `ServiceNow` `Generative AI` `Agentic AI` `Large Language Models` `RAG` `Prompt Engineering` `JavaScript`
+
+<sub>August 30, 2026 at 06:31 UTC</sub>
+
+---
 
 <br>
 
@@ -131,17 +146,6 @@ _Design and develop ground and flight software for spacecraft operations, includ
 
 ---
 
-### [Senior AI Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer--Mobile_JR112973)
-<a href="https://servicetitan.com"><img src="https://www.google.com/s2/favicons?domain=servicetitan.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**ServiceTitan** · `🟢 Remote` `Senior` `$168k-$269k` `Equity`
-
-_Design and implement scalable ML inference services and training infrastructure that support real-time applications including LLMs, NLP, speech, and forecasting models. Deploy production ML systems on Azure with emphasis on low-latency performance and MLOps best practices. · [Apply →](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer--Mobile_JR112973)_
-
-`Python` `Azure` `PyTorch` `TensorFlow` `Kafka` `PostgreSQL` `Snowflake` `Kubernetes`
-
-<sub>August 29, 2026 at 02:04 UTC</sub>
-
----
-
 ### [Senior Quality Engineer — Investigate & Respond](https://jobs.lever.co/sophos/99b3a5f1-76b9-4fbf-8022-511ca11d4cf6)
 <a href="https://sophos.com"><img src="https://www.google.com/s2/favicons?domain=sophos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sophos** · `🟢 Remote` `Senior`
 
@@ -197,6 +201,17 @@ _Deploy and manage cloud-native data streaming and analytics infrastructure on K
 
 ---
 
+### [Agentic AI, Principal Machine Learning Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Principal` `$194k-$326k` `Equity`
+
+_Build large-scale, fault-tolerant multimodal agentic AI systems that serve millions of real estate customers, including Voice AI and Deep Research agents. Pioneer evaluation frameworks, safety guardrails, and tracing systems for highly-visible AI systems while bridging applied research and scalable production engineering. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Agentic-AI--Principal-Machine-Learning-Engineer_P751278-1)_
+
+`LLMs` `LangGraph` `AutoGen` `PyTorch` `TensorFlow` `Kubernetes` `Python` `Distributed Systems`
+
+<sub>August 29, 2026 at 02:04 UTC</sub>
+
+---
+
 <br>
 
 ## August 28, 2026
@@ -234,17 +249,6 @@ _Build and own Close.com's marketing website, optimizing for conversion, perform
 
 ---
 
-### [Software Engineer, Back-End (Pentest Platform)](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857)
-<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$199k-$235k` `Equity`
-
-_Design and operate event-driven microservices to transform Horizon3's pentest data processing from batch to real-time streaming, handling hundreds of thousands of hosts and enabling customers to see findings in hours instead of weeks. This requires building distributed systems at scale while translating complex cybersecurity domain logic into streaming-friendly architectures. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857)_
-
-`Python` `Go` `PostgreSQL` `Kubernetes` `Docker` `AWS` `Kafka` `Datadog`
-
-<sub>August 28, 2026 at 18:33 UTC</sub>
-
----
-
 ### [University, 2027 Summer Games Cyber Security Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Colorado Springs, Colorado · `Intern` `$52.9k-$108k`
 
@@ -273,6 +277,17 @@ _Develop data analysis and visualization solutions for complex client challenges
 _Develop software solutions for defense and intelligence challenges in a competitive internship program, working in teams on real-world problems with mentorship from senior leaders. Requires ability to obtain Secret clearance and work on classified systems. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130)_
 
 `Java` `JavaScript` `C` `C++` `Python` `Machine Learning` `Secret Clearance`
+
+<sub>August 28, 2026 at 18:33 UTC</sub>
+
+---
+
+### [Software Engineer, Back-End (Pentest Platform)](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857)
+<a href="https://horizon3.ai"><img src="https://www.google.com/s2/favicons?domain=horizon3.ai&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Horizon3** · `🟢 Remote` `Senior` `$199k-$235k` `Equity`
+
+_Design and operate event-driven microservices to transform Horizon3's pentest data processing from batch to real-time streaming, handling hundreds of thousands of hosts and enabling customers to see findings in hours instead of weeks. This requires building distributed systems at scale while translating complex cybersecurity domain logic into streaming-friendly architectures. · [Apply →](https://jobs.ashbyhq.com/horizon3ai/7ba09c64-7d14-43c1-9f0a-fcf2d8449857)_
+
+`Python` `Go` `PostgreSQL` `Kubernetes` `Docker` `AWS` `Kafka` `Datadog`
 
 <sub>August 28, 2026 at 18:33 UTC</sub>
 
@@ -1041,17 +1056,6 @@ _Build data visualization and charting interfaces for ZoomInfo's Conversation In
 
 ---
 
-### [Adobe Digital Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Digital-Architect_R00346777)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
-
-_Design and implement modern digital platform solutions across web, APIs, and cloud platforms, translating business requirements into scalable enterprise architecture. Lead technical decisions for large-scale delivery engagements with Fortune 500 clients in a hands-on, client-facing consulting role. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Digital-Architect_R00346777)_
-
-`Adobe Experience Manager` `React` `CI/CD` `Azure` `AWS` `Akamai`
-
-<sub>August 26, 2026 at 23:20 UTC</sub>
-
----
-
 ### [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/censys/jobs/8731027002)
 <a href="https://censys.com"><img src="https://www.google.com/s2/favicons?domain=censys.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Censys** · `🟢 Remote` `Senior` `$151k-$206k` `Equity`
 
@@ -1177,61 +1181,6 @@ _Build and own full-stack integrations platform primitives and services that pow
 <a href="https://grandrounds.com"><img src="https://www.google.com/s2/favicons?domain=grandrounds.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Grand Rounds** · `🟢 Remote` `Senior`
 
 _Build the next generation of member-facing web experiences for Included Health's healthcare platform, including core applications, homepage, and care navigation interfaces. Full-stack role with front-end focus; opportunity to shape technical direction and grow toward Staff scope. · [Apply →](https://jobs.lever.co/includedhealth/11e68ef6-c38e-40db-af57-44ea32d87786)_
-
-<sub>August 26, 2026 at 19:14 UTC</sub>
-
----
-
-### [SAP Development Consultant - Resources/Chemicals & Natural Resources](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Chemicals---Natural-Resources_R00352795)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54.4k-$205.8k`
-
-_Design and build SAP custom development and extensions using ABAP Cloud, RAP, CDS, OData, and Fiori on S/4HANA and SAP Business Technology Platform, following Clean Core principles. Requires minimum 3 years SAP ABAP development experience and 2 years BTP tools experience; travel 0-100% depending on client requirements. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Chemicals---Natural-Resources_R00352795)_
-
-`ABAP` `ABAP Cloud` `SAP S/4HANA` `SAP BTP` `RAP` `CDS` `OData` `Fiori`
-
-<sub>August 26, 2026 at 19:14 UTC</sub>
-
----
-
-### [SAP Development Consultant - Resources/Energy](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Energy_R00352794)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
-
-_Design and build SAP custom development and extensions using ABAP Cloud, RAP, CDS, OData, and Fiori on S/4HANA and BTP following Clean Core principles. Requires minimum 3 years SAP ABAP development with 2+ years BTP tools and consulting experience, often with travel up to 100%. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Energy_R00352794)_
-
-`ABAP` `ABAP Cloud` `RAP` `CDS` `OData` `Fiori` `SAP S/4HANA` `SAP BTP`
-
-<sub>August 26, 2026 at 19:14 UTC</sub>
-
----
-
-### [SAP Development Senior Manager - Chemicals & Natural Resources](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Senior-Manager---Chemicals---Natural-Resources_R00352735)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$112k-$338k` `Equity`
-
-_Lead SAP technical architecture and custom development strategy across S/4HANA Cloud, ABAP Cloud, and BTP—owning Clean Core extensibility, RAP/CAP implementation, and the transition from classic ABAP for enterprise transformation clients. Requires 8+ years SAP ABAP development, 5+ years BTP, 3+ years technical leadership, and client-facing architecture advisory for complex digitization programs. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Senior-Manager---Chemicals---Natural-Resources_R00352735)_
-
-`ABAP` `ABAP Cloud` `SAP S/4HANA` `SAP BTP` `CDS views` `RAP` `Fiori` `OData`
-
-<sub>August 26, 2026 at 19:14 UTC</sub>
-
----
-
-### [SAP Development Manager/Architect - Industrial](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---Industrial_R00351010)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$293k`
-
-_Lead design, build, and testing of SAP S/4HANA custom development and extensibility solutions using ABAP Cloud, RAP, CAP, Fiori, and Clean Core methodologies across global delivery teams. Architect and mentor on Clean Core migration and drive adoption of SAP's Generative AI Hub and Joule Studio in SAP development practices. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---Industrial_R00351010)_
-
-`ABAP` `ABAP Cloud` `SAP S/4HANA` `SAP BTP` `CDS Views` `RAP` `Fiori` `CAP`
-
-<sub>August 26, 2026 at 19:14 UTC</sub>
-
----
-
-### [SAP Development Manager/Architect - CMT](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---CMT_R00352986)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k` `Equity`
-
-_Lead design, development, and technical architecture for SAP S/4HANA and BTP solutions using ABAP Cloud, RAP, CAP, and Clean Core methodologies. Mentor global delivery teams and guide enterprise clients through custom-code remediation and released-API adoption; requires 5+ years SAP ABAP development and 2+ years technical leadership experience. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---CMT_R00352986)_
-
-`ABAP` `ABAP Cloud` `SAP S/4HANA` `BTP` `RAP` `CAP` `CDS` `Fiori`
 
 <sub>August 26, 2026 at 19:14 UTC</sub>
 
@@ -1445,6 +1394,17 @@ _Build and lead the order management platform connecting health systems, health 
 _Build the web media player and backend APIs powering video and audio delivery across Reddit, optimizing for low-latency playback and interactive creator tools. Focus on full-stack architecture (React/TypeScript frontend, Go/Python backend) with deep knowledge of streaming protocols (HLS, DASH) and video compression standards required. · [Apply →](https://job-boards.greenhouse.io/reddit/jobs/8120262)_
 
 `React` `TypeScript` `Go` `Python` `GraphQL` `Next.js` `HLS` `MPEG-DASH`
+
+<sub>August 25, 2026 at 22:37 UTC</sub>
+
+---
+
+### [Senior Software Development Engineer, ZHL Operating System](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Build the operator-facing micro-frontend platform and data-fetching layer for Zillow Home Loans, unifying dozens of independently-deployed experiences for loan officers and processors. Architect modern front-end frameworks, shared component patterns, and scalable back-end APIs while operating at full business speed. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer--ZHL-Operating-System_P751122-1)_
+
+`React` `TypeScript` `Node.js` `Micro-frontends` `Distributed Systems` `Cloud Architecture` `CI/CD` `PostgreSQL`
 
 <sub>August 25, 2026 at 22:37 UTC</sub>
 
@@ -2368,6 +2328,17 @@ _Lead the development of high-performance Salesforce solutions including CPQ, Ap
 
 ---
 
+### [Sr. Engineer II, Enterprise Intelligent Automation](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)
+<a href="https://nextgen.com"><img src="https://www.google.com/s2/favicons?domain=nextgen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**NextGen Healthcare** · `🟢 Remote` `Senior`
+
+_Architect and deploy enterprise intelligent automation and agentic AI solutions by integrating LLMs (Claude, Gemini) with workflow platforms (UiPath, N8N, Decisions) to scale digital workforce automation across complex business processes. Lead code reviews and mentorship of citizen developers while managing production automation environments at scale. · [Apply →](https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Remote-GA/Sr-Engineer-II--Enterprise-Intelligent-Automation_R-101776)_
+
+`Python` `C#` `SQL` `UiPath` `N8N` `Claude` `Gemini` `Intelligent Document Processing`
+
+<sub>August 21, 2026 at 20:34 UTC</sub>
+
+---
+
 ### [Verifications Specialist III](https://www.abclegal.com/job-openings/job?id=7930998003&gh_jid=7930998003)
 <a href="https://docketly.com"><img src="https://www.google.com/s2/favicons?domain=docketly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docketly** · Longmont, Colorado · `Junior` `$58k-$69k`
 
@@ -2440,6 +2411,17 @@ _Diagnose and resolve complex GitLab deployments in highly secure U.S. governmen
 _Build Mercury's Infrastructure Platform to enable AI agents and engineers to safely deploy code on AWS, managing networking, container orchestration, and infrastructure-as-code at scale. Requires deep Linux and cloud-native fundamentals with hands-on infrastructure code contributions. · [Apply →](https://job-boards.greenhouse.io/mercury/jobs/6150432004)_
 
 `AWS` `Terraform` `Kubernetes` `Docker` `Python` `Go` `Prometheus` `Grafana`
+
+<sub>August 21, 2026 at 18:49 UTC</sub>
+
+---
+
+### [Senior Data Scientist](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$141.2k-$237.4k` `Equity`
+
+_Design and own broker-level success metrics, causal inference frameworks, and measurement strategy for Zillow's B2B broker data products and go-to-market initiatives. Build scalable analytical pipelines and predictive models that quantify enterprise product impact and inform senior leadership investment decisions in a high-visibility strategic priority. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1)_
+
+`Python` `SQL` `Spark` `Databricks` `Causal Inference` `A/B Testing` `Statistics` `Tableau`
 
 <sub>August 21, 2026 at 18:49 UTC</sub>
 
@@ -3076,12 +3058,12 @@ _Build production agentic AI systems embedded directly with client teams, writin
 
 ---
 
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
 
-_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
+_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
 
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
 
 <sub>August 20, 2026 at 01:45 UTC</sub>
 
@@ -3822,6 +3804,17 @@ _Build AI agents that analyze security telemetry, use security tools, and automa
 
 ---
 
+### [Agentic AI, Senior Software Development Engineer](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)
+<a href="https://followupboss.com"><img src="https://www.google.com/s2/favicons?domain=followupboss.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Follow Up Boss** · `🟢 Remote` `Senior` `$152k-$257k` `Equity`
+
+_Design and build evaluation frameworks, tracing systems, and observability infrastructure for Zillow's production agentic AI agents. Partner with applied scientists and ML engineers to measure and improve AI quality, reliability, and trustworthiness at scale; requires deep familiarity with LLM evaluation paradigms and production ML systems. · [Apply →](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Software-Development-Engineer_P751037-1)_
+
+`Python` `LangChain` `LangGraph` `MLflow` `LangSmith` `Kubernetes` `PostgreSQL` `Observability`
+
+<sub>August 18, 2026 at 01:44 UTC</sub>
+
+---
+
 <br>
 
 ## August 17, 2026
@@ -3976,23 +3969,23 @@ _Embed with strategic enterprise customers to drive Tailscale adoption, providin
 
 ---
 
-### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846)
-<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity`
-
-_Build critical financial data integration pipelines and models powering Instacart's monthly/quarterly book close, retailer invoicing, and financial reporting across millions of daily requests. Own design through execution of complex ETL systems handling accounting, billing, and revenue data at scale with auditability and compliance requirements. · [Apply →](https://instacart.careers/job/?gh_jid=8132846)_
-
-`Python` `Airflow` `Spark` `SQL` `dbt` `Snowflake` `Iceberg` `Delta Lake`
-
-<sub>August 17, 2026 at 17:36 UTC</sub>
-
----
-
 ### [Computer Scientist, Mid](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)
 <a href="https://boozallen.com"><img src="https://www.google.com/s2/favicons?domain=boozallen.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Booz Allen Hamilton** · Aurora, Colorado · `Mid` `$77k-$176k`
 
 _Build advanced analytics and AI/ML models for Intelligence Community clients, including data retrieval, model training, accuracy evaluation, and visualization of complex findings for non-technical leadership. Requires active TS/SCI clearance and experience operationalizing models on classified networks. · [Apply →](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247094)_
 
 `Python` `R` `SQL` `Spark` `Kafka` `Machine Learning` `NLP` `TS/SCI Clearance`
+
+<sub>August 17, 2026 at 17:36 UTC</sub>
+
+---
+
+### [Senior Data Engineer II, Finance](https://instacart.careers/job/?gh_jid=8132846)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Senior` `$183k—$232k USD` `Equity`
+
+_Build critical financial data integration pipelines and models powering Instacart's monthly/quarterly book close, retailer invoicing, and financial reporting across millions of daily requests. Own design through execution of complex ETL systems handling accounting, billing, and revenue data at scale with auditability and compliance requirements. · [Apply →](https://instacart.careers/job/?gh_jid=8132846)_
+
+`Python` `Airflow` `Spark` `SQL` `dbt` `Snowflake` `Iceberg` `Delta Lake`
 
 <sub>August 17, 2026 at 17:36 UTC</sub>
 
@@ -4017,6 +4010,17 @@ _Develop operational and automated test code for the Mission Control System (MCS
 `Python` `Ruby` `AWS` `Git`
 
 <sub>August 17, 2026 at 17:36 UTC</sub>
+
+---
+
+### [Salesforce Developer](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a)
+<a href="https://delinea.com"><img src="https://www.google.com/s2/favicons?domain=delinea.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Delinea** · `🟢 Remote` `Senior`
+
+_Build custom Apex services, Agentforce AI actions, and OAuth 2.0 integrations within Salesforce Service Cloud and Experience Cloud platforms. Deliver production-quality code through automated testing, source-driven SFDX development, and DevOps Center pipelines supporting customer support and professional services operations. · [Apply →](https://jobs.ashbyhq.com/delinea/e72b7dca-99d3-469a-9b3f-b78f139daf8a)_
+
+`Salesforce` `Apex` `SOQL` `Lightning Web Components` `OAuth 2.0` `SFDX` `Git` `JavaScript`
+
+<sub>August 17, 2026 at 16:38 UTC</sub>
 
 ---
 
