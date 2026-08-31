@@ -2,7 +2,7 @@
 
 Remote and Colorado engineering roles posted more than 24 hours ago. Listings are removed after 14 days. Each listing links directly to the company's job board.
 
-### **420 open roles** (5 new) &nbsp;·&nbsp; 1776 companies searched
+### **427 open roles** (17 new) &nbsp;·&nbsp; 1776 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -1204,17 +1204,6 @@ _Design and build SAP custom development and extensions using ABAP Cloud, RAP, C
 
 ---
 
-### [SAP Development Consultant - Consumer Goods](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Consumer-Goods_R00351017)
-<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Mid` `$54k-$205k`
-
-_Design and build SAP custom development and extensions using ABAP Cloud, RAP, CDS, OData, and Fiori on S/4HANA and BTP following Clean Core principles. Requires minimum 3 years SAP ABAP development and consulting experience with Consumer Goods industry exposure. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Consumer-Goods_R00351017)_
-
-`ABAP` `ABAP Cloud` `RAP` `CDS` `OData` `Fiori` `SAP BTP` `S/4HANA`
-
-<sub>August 26, 2026 at 19:14 UTC</sub>
-
----
-
 ### [SAP Development Senior Manager - Chemicals & Natural Resources](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Senior-Manager---Chemicals---Natural-Resources_R00352735)
 <a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Manager` `$112k-$338k` `Equity`
 
@@ -2254,17 +2243,6 @@ _Build and own end-to-end services and APIs powering 401(k) management for tens 
 
 ## August 22, 2026
 
-### [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity`
-
-_Lead and grow a distributed team of senior security and infrastructure engineers who engineer security controls and autonomous operations for a GPU fleet at cloud scale. Requires deep technical credibility in infrastructure, distributed systems, and security to earn trust of senior engineers and guide architectural decisions across a multi-tenant AI supercomputing platform. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)_
-
-`Kubernetes` `Cloud-Native Architecture` `Security Engineering` `Distributed Systems` `Identity and Access Management` `Policy Enforcement` `Vulnerability Management`
-
-<sub>August 22, 2026 at 14:30 UTC</sub>
-
----
-
 ### [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity`
 
@@ -2276,10 +2254,21 @@ _Design and build production-grade security services, automated policy enforceme
 
 ---
 
-### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)
+### [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity`
+
+_Lead and grow a distributed team of senior security and infrastructure engineers who engineer security controls and autonomous operations for a GPU fleet at cloud scale. Requires deep technical credibility in infrastructure, distributed systems, and security to earn trust of senior engineers and guide architectural decisions across a multi-tenant AI supercomputing platform. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)_
+
+`Kubernetes` `Cloud-Native Architecture` `Security Engineering` `Distributed Systems` `Identity and Access Management` `Policy Enforcement` `Vulnerability Management`
+
+<sub>August 22, 2026 at 14:30 UTC</sub>
+
+---
+
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
 <a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
 
-_Build production-grade data and AI solutions embedded with enterprise customers, owning end-to-end architecture from data pipelines and ML models to application deployment on the Databricks platform. Requires 6+ years in data engineering or software engineering, deep Spark expertise, and ability to manage complex technical projects with C-suite stakeholders across multiple cloud platforms. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002)_
+_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
 
 `Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
 
@@ -3087,12 +3076,12 @@ _Build production agentic AI systems embedded directly with client teams, writin
 
 ---
 
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
 
-_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
+_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
 
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
 
 <sub>August 20, 2026 at 01:45 UTC</sub>
 
@@ -3439,17 +3428,6 @@ _Build integrations that discover, identify, and govern AI agents across third-p
 
 ---
 
-### [Senior Data Scientist](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior`
-
-_Design and deploy machine learning models for customer intelligence, predictive analytics, and value modeling across the financial services lifecycle. Lead end-to-end initiatives from problem framing through production deployment, experimentation, and measurement, incorporating advanced techniques like reinforcement learning and generative AI. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)_
-
-`Python` `R` `SQL` `Machine Learning` `PyTorch` `TensorFlow` `AWS` `Tableau`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
 ### [Research Engineer (Reinforcement Learning)](https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367)
 <a href="https://livekit.io"><img src="https://www.google.com/s2/favicons?domain=livekit.io&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**LiveKit** · `🟢 Remote` `Senior` `Equity`
 
@@ -3646,7 +3624,7 @@ _Build backend APIs and services handling billions of money movement requests ac
 
 ---
 
-### [Senior Instrumentation & Controls Engineer](https://ursamajor.com/careers/?gh_jid=4725408005)
+### [Staff Instrumentation & Controls Engineer](https://ursamajor.com/careers/?gh_jid=4725408005)
 <a href="https://ursamajor.com"><img src="https://www.google.com/s2/favicons?domain=ursamajor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Ursa Major** · Berthoud, Colorado · `Senior` `$116k-$145k` `Equity`
 
 _Design and implement automated control and data acquisition systems for aerospace propulsion manufacturing, using cRIO/PXI platforms, LabVIEW, and Siemens PLCs integrated into SCADA layers. Requires hands-on commissioning of production equipment handling hazardous fluids, high pressures, and energetics in a national security context; U.S. Person status and security clearance eligibility required. · [Apply →](https://ursamajor.com/careers/?gh_jid=4725408005)_
@@ -4248,43 +4226,6 @@ _Design, develop, and validate advanced algorithmic capabilities for command and
 `Python` `MATLAB` `Simulink` `JAMA` `Cameo` `AFSIM` `Statistics` `TS/SCI Clearance`
 
 <sub>August 17, 2026 at 01:49 UTC</sub>
-
----
-
-<br>
-
-## August 16, 2026
-
-### [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity`
-
-_Build state-of-the-art target tracking and sensor fusion algorithms for AI-powered military robotics systems, from prototyping through production deployment. Requires active US Top Secret security clearance and expertise in Kalman filters, multi-sensor fusion, and real-time estimation systems for mission-critical applications. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007)_
-
-`C++` `Python` `MATLAB` `Kalman Filters` `Sensor Fusion` `Bayesian Filtering` `Signal Processing` `TS/SCI Clearance`
-
-<sub>August 16, 2026 at 23:28 UTC</sub>
-
----
-
-### [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007)
-<a href="https://anduril.com"><img src="https://www.google.com/s2/favicons?domain=anduril.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Anduril Industries** · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity`
-
-_Build state-of-the-art target tracking and sensor fusion algorithms for autonomous defense systems, including Kalman filters, particle filters, and multi-target tracking. Requires active TS/SCI clearance and will work on mission-critical real-time systems processing diverse sensor data (radar, lidar, EO/IR) at scale. · [Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007)_
-
-`C++` `Python` `Kalman filters` `Sensor fusion` `Bayesian filtering` `Target tracking` `Machine learning` `TS/SCI Clearance`
-
-<sub>August 16, 2026 at 22:31 UTC</sub>
-
----
-
-### [Backend Engineering Manager](https://job-boards.greenhouse.io/dragos/jobs/5387412008)
-<a href="https://dragos.com"><img src="https://www.google.com/s2/favicons?domain=dragos.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Dragos** · `🟢 Remote` `Manager` `$220k` `Equity`
-
-_Lead the backend engineering team responsible for streaming data ingest, detection processing, and core platform APIs for critical infrastructure cybersecurity systems. Requires hands-on technical depth in distributed systems and microservice architectures, with occasional development and troubleshooting responsibilities. · [Apply →](https://job-boards.greenhouse.io/dragos/jobs/5387412008)_
-
-`Rust` `Microservices` `Distributed Systems` `Apache Flink` `RabbitMQ` `Hashicorp Vault`
-
-<sub>August 16, 2026 at 20:32 UTC</sub>
 
 ---
 

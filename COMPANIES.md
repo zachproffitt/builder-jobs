@@ -2,7 +2,7 @@
 
 Engineering roles grouped by company, linking directly to each company's job board. Only companies with active openings are shown. Listings older than 14 days are removed automatically.
 
-### **149 companies** · **420 open roles** (5 new)
+### **149 companies** · **427 open roles** (17 new)
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -24,13 +24,15 @@ Engineering roles grouped by company, linking directly to each company's job boa
 
 Accenture is a professional services company that provides strategy, consulting, technology, and operations services to help organizations build their digital capabilities, optimize operations, and accelerate growth.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Palantir Forward Deployed Senior Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Senior-Engineer_R00352364) · `🟢 Remote` `Senior` `$80k-$316k` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Palantir Forward Deployed Engineer -Assoc Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Engineer--Assoc-Director_R00352372) · Multiple US locations (California, Colorado, District of Columbia, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Virginia, Washington, Maine, Cleveland) · `Manager` `$138k-$434k` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Palantir Forward Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Palantir-Forward-Deployed-Engineer_R00352354) · `🟢 Remote` `Mid` `$54k-$235k` (Aug 31)
 - [Responsible AI Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Responsible-AI-Engineer_R00329071) · `🟢 Remote` `Mid` `$68k-$220k` (Aug 28)
 - [SAP Integration Manager - Consumer Goods](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Integration-Manager---Consumer-Goods_R00351808) · `🟢 Remote` `Senior` `$80k-$293k` (Aug 27)
 - [SAP BTP/AI Development Manager - Life Sciences](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-BTP-AI-Development-Manager---Life-Sciences_R00351026) · `🟢 Remote` `Senior` `$80k-$293k` `Equity` (Aug 27)
 - [Adobe Digital Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Adobe-Digital-Architect_R00346777) · `🟢 Remote` `Senior` `$80k-$266k` (Aug 26)
 - [SAP Development Consultant - Resources/Chemicals & Natural Resources](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Chemicals---Natural-Resources_R00352795) · `🟢 Remote` `Mid` `$54.4k-$205.8k` (Aug 26)
 - [SAP Development Consultant - Resources/Energy](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Resources-Energy_R00352794) · `🟢 Remote` `Mid` `$54k-$205k` (Aug 26)
-- [SAP Development Consultant - Consumer Goods](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Consultant---Consumer-Goods_R00351017) · `🟢 Remote` `Mid` `$54k-$205k` (Aug 26)
 - [SAP Development Senior Manager - Chemicals & Natural Resources](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Senior-Manager---Chemicals---Natural-Resources_R00352735) · `🟢 Remote` `Manager` `$112k-$338k` `Equity` (Aug 26)
 - [SAP Development Manager/Architect - Industrial](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---Industrial_R00351010) · `🟢 Remote` `Senior` `$80k-$293k` (Aug 26)
 - [SAP Development Manager/Architect - CMT](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/SAP-Development-Manager-Architect---CMT_R00352986) · `🟢 Remote` `Senior` `$80k-$266k` `Equity` (Aug 26)
@@ -118,8 +120,6 @@ Anduril Industries builds autonomous systems and defense technology for US and a
 - [Lead Systems Engineer, Integration & Test](https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007) · Broomfield, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 17)
 - [Senior System Engineering Integration & Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007) · Broomfield, Colorado / Waltham, Massachusetts · `Senior` `$143k-$191k` `Equity` (Aug 17)
 - [System Engineering Integration & Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007) · Broomfield, Colorado · `Senior` `$126k-$167k` `Equity` (Aug 17)
-- [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007) · Fort Collins, Colorado · `Senior` `$190k-$252k` `Equity` (Aug 16)
-- [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007) · Fort Collins, Colorado · `Senior` `$165k-$218k` `Equity` (Aug 16)
 
 ---
 
@@ -295,6 +295,15 @@ Censys provides security teams with internet mapping and threat hunting capabili
 
 CesiumAstro builds satellites, terminals, and software-defined systems for satellite communication missions.
 
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Embedded Software Engineer II - SATCOM](https://jobs.lever.co/CesiumAstro/78be955f-96c3-4ee5-9ab0-0386bc8aa0d8) · Westminster, Colorado · `Mid` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Embedded Software Engineer](https://jobs.lever.co/CesiumAstro/1d57aee9-f32e-468a-896f-72cf8ff52d80) · Westminster, Colorado · `🟡 Hybrid` `Senior` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Embedded Software Engineer - SATCOM](https://jobs.lever.co/CesiumAstro/6267451f-9f3a-42cf-9bd8-c282e92eb767) · Westminster, Colorado · `Senior` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Embedded Software Engineer - Spacecraft](https://jobs.lever.co/CesiumAstro/eb0388f4-a5c7-43d4-a255-99ce4c9adf7e) · Westminster, Colorado · `Senior` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Flight Dynamics Engineer](https://jobs.lever.co/CesiumAstro/da995f70-dc02-42a9-92a4-74b22be02390) · Westminster, Colorado · `Senior` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Flight Software Engineer](https://jobs.lever.co/CesiumAstro/6d961e0a-b451-474b-a03a-c1e935521c11) · Westminster, Colorado · `Senior` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Staff Embedded Software Engineer - SATCOM](https://jobs.lever.co/CesiumAstro/7d39b832-b262-4c21-a342-866105626423) · Westminster, Colorado · `Staff` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Embedded Software Engineer](https://jobs.lever.co/CesiumAstro/28cda017-5894-478e-b186-52ca542bbc89) · Westminster, Colorado · `Staff` (Aug 31)
+- <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Staff Flight Software Engineer](https://jobs.lever.co/CesiumAstro/5753d358-1d84-4fa2-b31f-1ef000bc8a0e) · Westminster, Colorado · `Staff` (Aug 31)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Embedded Software Engineer II](https://jobs.lever.co/CesiumAstro/52b83227-f294-444b-a1dc-63ed25600f97) · Westminster, Colorado · `Mid` (Aug 30)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Communication Systems Engineer - Spacecraft](https://jobs.lever.co/CesiumAstro/3627655e-0d63-465f-a1d6-9f3d261bba4e) · Westminster, Colorado · `Senior` (Aug 30)
 - <img src="https://img.shields.io/badge/New-FF69B4?style=flat-square" alt="New" align="absmiddle"> [Senior Spacecraft Systems Engineer – Software](https://jobs.lever.co/CesiumAstro/eb4c8437-4e93-458b-bb3a-705eed05e249) · Westminster, Colorado · `Senior` (Aug 30)
@@ -395,7 +404,7 @@ Databricks builds a data and AI platform that helps customers develop, deploy, a
 
 - [Sr Platform Monitoring Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002) · `🟢 Remote` `Senior` (Aug 27)
 - [Sr. Forward Deployed Engineer - National Security](https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002) · Boston, Massachusetts / Delaware / Maryland / Virginia / West Virginia / Remote · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 25)
-- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
+- [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002) · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity` (Aug 22)
 - [Sr. Forward Deployed Engineer (FDE) - Public Sector ](https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002) · Remote - Virginia / Remote - Washington D.C. · `🟢 Remote` `Senior` `$182k–$250k` `Equity` (Aug 18)
 
 ---
@@ -459,7 +468,6 @@ Dragos provides industrial cybersecurity solutions that offer visibility and thr
 
 - [Senior Data Engineer](https://job-boards.greenhouse.io/dragos/jobs/5372226008) · `🟢 Remote` `Senior` `$165k` `Equity` (Aug 25)
 - [Staff Data Engineer - Integrations](https://job-boards.greenhouse.io/dragos/jobs/5392673008) · `🟢 Remote` `Staff` `$192k` `Equity` (Aug 17)
-- [Backend Engineering Manager](https://job-boards.greenhouse.io/dragos/jobs/5387412008) · `🟢 Remote` `Manager` `$220k` `Equity` (Aug 16)
 
 ---
 
@@ -478,7 +486,6 @@ Empower Retirement provides retirement planning advisory services to public empl
 - [Senior Data Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Engineer_R0061857-1) · `🟢 Remote` `Senior` `$105700-$149275` (Aug 28)
 - [Lead Software Engineer](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0061864) · `🟢 Remote` `Senior` `$114k-$165.3k` (Aug 25)
 - [Senior Manager Quality Engineering](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Manager-Quality-Engineering_R0061391) · `🟢 Remote` `Manager` `$105k-$149k` (Aug 25)
-- [Senior Data Scientist](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193) · `🟢 Remote` `Senior` (Aug 18)
 
 ---
 
@@ -893,8 +900,8 @@ Natera develops cell-free DNA tests for oncology, women's health, and organ heal
 Nvidia manufactures datacenter products and operates engineering labs where these systems are developed, tested, and validated. The company seeks a Lab Operations Site Supervisor to manage the physical infrastructure of these labs, oversee server assembly and system validation testing, and coordinate with engineering teams to support the deployment and debugging of datacenter equipment.
 
 - [Software Solutions Architect, NVIS](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Solutions-Architect--NVIS_JR2019884-1) · `🟢 Remote` `Senior` `$152k-$287.5k` `Equity` (Aug 24)
-- [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1) · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity` (Aug 22)
 - [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1) · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity` (Aug 22)
+- [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1) · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity` (Aug 22)
 - [Senior Applied AI Engineer, Cybersecurity](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Applied-Scientist-Cyber-Defense_JR2022761-1) · `🟢 Remote` `Senior` `$184k-$287.5k (L4) or $224k-$356.5k (L5)` `Equity` (Aug 18)
 
 ---
@@ -1304,7 +1311,7 @@ True Anomaly develops capabilities for space superiority.
 Twilio delivers communications services including messaging, voice, and email to hundreds of thousands of businesses and empowers millions of developers worldwide to build customer experiences.
 
 - [Staff Enterprise Security Engineer, AI Security](https://job-boards.greenhouse.io/twilio/jobs/8160279) · `🟢 Remote` `Staff` `$155k-$228k` `Equity` (Aug 26)
-- [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644) · `🟢 Remote` `Senior` `$106k-$156k` `Equity` (Aug 20)
+- [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120) · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD` (Aug 20)
 - [Senior Engineering Manager Twilio’s Conversational Agents](https://job-boards.greenhouse.io/twilio/jobs/7926887) · `🟢 Remote` `Manager` `$207.2k-$304.6k` `Equity` (Aug 18)
 
 ---
@@ -1326,7 +1333,7 @@ Ursa Major designs and delivers propulsion and defense systems, including high-p
 - [Controls Engineer II (PLC)](https://ursamajor.com/careers/?gh_jid=4725424005) · Berthoud, Colorado · `Mid` `$90k-$113k` `Equity` (Aug 18)
 - [Controls Engineer II (SCADA)](https://ursamajor.com/careers/?gh_jid=4725410005) · Berthoud, Colorado · `Mid` `$90k-$113k` `Equity` (Aug 18)
 - [Propellant Development Engineer II](https://ursamajor.com/careers/?gh_jid=4725439005) · Berthoud, Colorado · `Mid` `$90k-$112k` `Equity` (Aug 18)
-- [Senior Instrumentation & Controls Engineer](https://ursamajor.com/careers/?gh_jid=4725408005) · Berthoud, Colorado · `Senior` `$116k-$145k` `Equity` (Aug 18)
+- [Staff Instrumentation & Controls Engineer](https://ursamajor.com/careers/?gh_jid=4725408005) · Berthoud, Colorado · `Senior` `$116k-$145k` `Equity` (Aug 18)
 
 ---
 

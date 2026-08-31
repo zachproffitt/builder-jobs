@@ -1539,6 +1539,17 @@ _Design, build, and operate a custom S3-compatible object storage infrastructure
 
 ## August 22, 2026
 
+### [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)
+<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity`
+
+_Design and build production-grade security services, automated policy enforcement systems, and orchestration guardrails for NVIDIA's DGX Cloud GPU infrastructure. Architect security control planes with IaC/Policy-as-Code, threat model complex distributed systems, and deliver security-as-a-service primitives at cloud scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)_
+
+`Kubernetes` `Linux Internals` `eBPF` `Go` `Python` `Terraform` `IaC` `Distributed Systems`
+
+<sub>August 22, 2026 at 14:30 UTC</sub>
+
+---
+
 ### [Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Engineering-Manager--Infrastructure-Security-Engineering---DGX-Cloud_JR2023147-1)
 <a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Manager` `245000 CAD - 295000 CAD` `Equity`
 
@@ -1550,14 +1561,14 @@ _Lead and grow a distributed team of senior security and infrastructure engineer
 
 ---
 
-### [Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)
-<a href="https://nvidia.com"><img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Nvidia** · `🟢 Remote` `Senior` `170k CAD - 275k CAD` `Equity`
+### [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)
+<a href="https://databricks.com"><img src="https://www.google.com/s2/favicons?domain=databricks.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Databricks** · `🟢 Remote` `Senior` `$182k-$250.2k` `Equity`
 
-_Design and build production-grade security services, automated policy enforcement systems, and orchestration guardrails for NVIDIA's DGX Cloud GPU infrastructure. Architect security control planes with IaC/Policy-as-Code, threat model complex distributed systems, and deliver security-as-a-service primitives at cloud scale. · [Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1)_
+_Build and deploy end-to-end data and AI solutions for enterprise customers using the Databricks platform, owning architecture design and implementation across data pipelines, ML models, and applications. Requires 6+ years in data engineering or software engineering with deep Spark expertise and hands-on delivery of production systems; 20% travel to customer sites. · [Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002)_
 
-`Kubernetes` `Linux Internals` `eBPF` `Go` `Python` `Terraform` `IaC` `Distributed Systems`
+`Python` `Scala` `Apache Spark` `AWS` `Azure` `GCP` `MLOps` `CI/CD`
 
-<sub>August 22, 2026 at 14:30 UTC</sub>
+<sub>August 22, 2026 at 01:44 UTC</sub>
 
 ---
 
@@ -2218,12 +2229,12 @@ _Build production agentic AI systems embedded directly with client teams, writin
 
 ---
 
-### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8141644)
-<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · `🟢 Remote` `Senior` `$106k-$156k` `Equity`
+### [Senior Data and AI Specialist](https://job-boards.greenhouse.io/twilio/jobs/8143120)
+<a href="https://twilio.com"><img src="https://www.google.com/s2/favicons?domain=twilio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Twilio** · Remote - Canada (Ontario, British Columbia, Alberta) · `🟢 Remote` `Senior` `$99k CAD - $124k CAD`
 
-_Build agentic AI workflows and automated data pipelines to optimize margins, fight fraud, and improve network quality across Twilio's telecommunications infrastructure. Architect and deploy LLM-based agents and multi-step automations that transform manual data investigations into scalable self-serve insights for business partners. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8141644)_
+_Build agentic AI workflows and data automation systems to optimize telecommunications operations, reduce fraud, and improve network quality across Twilio's global customer base. Work with complex SQL datasets, LLM-powered tools, and multi-step investigations requiring strong data governance and safety frameworks at scale. · [Apply →](https://job-boards.greenhouse.io/twilio/jobs/8143120)_
 
-`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `Agentic AI`
+`Python` `SQL` `Claude` `OpenAI` `Tableau` `Looker` `LLM agents` `API development`
 
 <sub>August 20, 2026 at 01:45 UTC</sub>
 
@@ -2430,17 +2441,6 @@ _Lead the Infrastructure team building core infrastructure, developer experience
 _Build integrations that discover, identify, and govern AI agents across third-party platforms like Salesforce Agentforce, AWS, and Google Cloud by leveraging native identity signals and provider APIs. This requires solving complex integration problems at scale, reusing shared identity and policy infrastructure across multiple ecosystems. · [Apply →](https://jobs.ashbyhq.com/delinea/15e29247-e9c3-44ef-b8fa-e0e7c55c0944)_
 
 `C#` `Go` `Java` `Python` `OAuth` `Salesforce` `Microsoft Entra` `API Integration`
-
-<sub>August 18, 2026 at 22:33 UTC</sub>
-
----
-
-### [Senior Data Scientist](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)
-<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior`
-
-_Design and deploy machine learning models for customer intelligence, predictive analytics, and value modeling across the financial services lifecycle. Lead end-to-end initiatives from problem framing through production deployment, experimentation, and measurement, incorporating advanced techniques like reinforcement learning and generative AI. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Data-Scientist_R0061193)_
-
-`Python` `R` `SQL` `Machine Learning` `PyTorch` `TensorFlow` `AWS` `Tableau`
 
 <sub>August 18, 2026 at 22:33 UTC</sub>
 
