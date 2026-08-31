@@ -2,7 +2,7 @@
 
 A curated index of remote and Colorado engineering roles from YC startups, VC-backed companies, and major tech — classified by Claude, updated hourly, and removed after 14 days. Each listing links directly to the company's job board.
 
-### **432 open roles** (22 new) &nbsp;·&nbsp; 1776 companies searched
+### **440 open roles** (40 new) &nbsp;·&nbsp; 1776 companies searched
 
 > **Scope: remote and Colorado roles only.** This board is currently filtered to remote positions and roles based in Colorado. Openings elsewhere are not indexed.
 
@@ -13,6 +13,202 @@ Showing last 24 hours — [Archive →](ARCHIVE.md) for older listings
 <br>
 
 ## August 31, 2026
+
+### [AI Enablement Engineer](https://jobs.ashbyhq.com/Coder/44d219cc-c54f-48f6-a118-17909461ed30)
+<a href="https://coder.com"><img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Coder** · `🟢 Remote` `Mid`
+
+_Build and maintain an internal AI development platform by creating reusable journeys, skills, templates, and infrastructure improvements that help Coder employees build with AI more effectively. Partner with users to identify blockers, gather requirements, and execute roadmap priorities while fostering an internal AI community through enablement sessions and documentation. · [Apply →](https://jobs.ashbyhq.com/Coder/44d219cc-c54f-48f6-a118-17909461ed30)_
+
+`Claude` `AI-assisted development` `API integrations` `Model Context Protocol (MCP)` `Slack integrations` `GitHub integrations` `DevOps/infrastructure` `Technical documentation`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Software Engineering Manager (Core Workspaces)](https://jobs.ashbyhq.com/Coder/0d951b83-8763-4f9e-81f3-9f44af680b65)
+<a href="https://coder.com"><img src="https://www.google.com/s2/favicons?domain=coder.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Coder** · `🟢 Remote` `Manager`
+
+_Lead a team building agentic development infrastructure—agent harness, integrations, and developer workflows for LLM-driven systems. Requires hands-on contributions to architecture decisions, distributed systems design, and multi-model provider abstractions at scale. · [Apply →](https://jobs.ashbyhq.com/Coder/0d951b83-8763-4f9e-81f3-9f44af680b65)_
+
+`Go` `TypeScript` `React` `AWS` `Kubernetes` `Prometheus` `PostgreSQL`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Senior Java Developer — Enterprise API Integrations](https://www.abclegal.com/job-openings/job?id=7980883003&gh_jid=7980883003)
+<a href="https://docketly.com"><img src="https://www.google.com/s2/favicons?domain=docketly.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Docketly** · `🟢 Remote` `Senior` `$140k-$150k`
+
+_Design, build, and maintain REST APIs and integration services connecting ABC Legal's platform with customers, partners, and internal systems using Java, Spring Boot, and event-driven architecture. Work with relational databases, business rules engines (Drools), OAuth 2.0 security, and handle real-world integration challenges like retries, rate limiting, and idempotency at scale. · [Apply →](https://www.abclegal.com/job-openings/job?id=7980883003&gh_jid=7980883003)_
+
+`Java` `Spring Boot` `REST APIs` `OAuth 2.0` `PostgreSQL` `Apache ActiveMQ` `Drools` `MyBatis`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Red Team Services Consultant (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29997)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$95k-$140k` `Equity`
+
+_Perform penetration testing and red team assessments simulating threat actors across enterprise infrastructure — operating systems, applications, databases, and networks — to help customers evaluate security posture against MITRE ATT&CK framework tactics. Requires 3+ years of red team/penetration testing experience and advanced proficiency with security tools (Metasploit, Cobalt Strike, Burp Suite, etc.). · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Red-Team-Services-Consultant--Remote-_R29997)_
+
+`Metasploit` `Cobalt Strike` `Burp Suite` `Nessus` `NMAP` `Python` `Bash` `Windows`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Threat Analyst, Machine Learning Operations & Detection Efficacy (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964)
+<a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Mid` `$120k-$180k` `Equity`
+
+_Analyze malware, detection events, and machine learning model outputs to improve detection capability and reduce false positives for a platform processing 3 trillion security events daily. Requires hands-on reverse engineering, binary analysis, and close collaboration with data science and threat research teams to validate detection efficacy. · [Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964)_
+
+`Python` `Reverse Engineering` `Malware Analysis` `Binary Analysis` `Windows API` `Machine Learning` `C` `Assembly`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Energy Data Scientist](https://job-boards.greenhouse.io/energyhub/jobs/8747080002)
+<a href="https://energyhub.com"><img src="https://www.google.com/s2/favicons?domain=energyhub.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**EnergyHub** · `🟢 Remote` `Mid` `$100k-$156.75k`
+
+_Build data science models and measurement & verification (M&V) methodologies to evaluate the performance of distributed energy resources at scale, coordinating and forecasting grid value from millions of IoT devices. Write production code to ingest and analyze terabytes of distributed energy data and apply ML algorithms to translate insights for utilities and grid operators. · [Apply →](https://job-boards.greenhouse.io/energyhub/jobs/8747080002)_
+
+`Python` `pandas` `NumPy` `scikit-learn` `TensorFlow` `SQL` `Snowflake` `dbt`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Architect](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Architect_R0062083)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$114k-$165.3k`
+
+_Design and architect Empower's cloud and data platforms, including data pipelines, storage systems, and modern data stack solutions. Partner with enterprise teams to shape solution architectures, evaluate emerging technologies like Generative AI, and guide delivery teams through migration and modernization initiatives. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Architect_R0062083)_
+
+`AWS` `Snowflake` `Redshift` `Kafka` `Spark` `Kubernetes` `Terraform` `Python`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Lead Analyst Data Analytics](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Analyst-Data-Analytics_R0061563)
+<a href="https://empower-retirement.com"><img src="https://www.google.com/s2/favicons?domain=empower-retirement.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Empower Retirement** · `🟢 Remote` `Senior` `$105k-$149k`
+
+_Build reporting, dashboards, and analytics solutions from the ground up for workplace financial planning and stock plan products. Design and own end-to-end analytics capabilities for a relatively new product line, working directly with business stakeholders to translate requirements into scalable reporting processes across Redshift, Salesforce, and other enterprise data systems. · [Apply →](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Analyst-Data-Analytics_R0061563)_
+
+`SQL` `Amazon Redshift` `Amazon QuickSight` `Tableau` `Power BI` `Salesforce` `Python`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Senior Site Reliability Specialist II](https://jobs.lever.co/everbridge/d03df51e-c022-40ab-8cef-6682fabdbc1b)
+<a href="https://everbridge.com"><img src="https://www.google.com/s2/favicons?domain=everbridge.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Everbridge** · `🟢 Remote` `Senior`
+
+_Build and improve infrastructure platforms that ensure reliability and resilience for critical communications systems used during emergencies. Mentor engineering teams on secure, scalable system design while reducing operational toil across the organization. · [Apply →](https://jobs.lever.co/everbridge/d03df51e-c022-40ab-8cef-6682fabdbc1b)_
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Analytics Engineer II](https://instacart.careers/job/?gh_jid=8167458)
+<a href="https://instacart.com"><img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Instacart** · `🟢 Remote` `Mid` `CAD$145k–$153k` `Equity`
+
+_Build and maintain high-quality dimensional data models and ETL pipelines for marketing analytics across Paid Marketing, SEO, and attribution, delivering complete data assets end-to-end. Work with modern data stack tools (dbt, Snowflake, Airflow) to support hundreds of millions in marketing spend allocation and measurement. · [Apply →](https://instacart.careers/job/?gh_jid=8167458)_
+
+`dbt` `Snowflake` `Airflow` `SQL` `Python` `Data Modeling` `ETL` `Analytics Engineering`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Staff Systems Engineer and Product  - Flight Operations Software](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Systems-Engineer-and-Product----Flight-Operations-Software_R24420)
+<a href="https://vantor.com"><img src="https://www.google.com/s2/favicons?domain=vantor.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Vantor** · Westminster, Colorado · `🟡 Hybrid` `Senior` `$105k-$154k` `Equity`
+
+_Own systems engineering and product ownership for spacecraft Flight Operations Software, defining command-and-control architectures, real-time telemetry flows, and service APIs while translating mission needs into executable software roadmaps. Requires Secret Security Clearance and U.S. person status for export-controlled aerospace work. · [Apply →](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Staff-Systems-Engineer-and-Product----Flight-Operations-Software_R24420)_
+
+`Model-Based Systems Engineering (MBSE)` `SysML` `Service-Oriented Architecture (SOA)` `gRPC` `REST` `CCSDS` `Agile` `Jira`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Senior Corporate Security Systems Engineer ](https://jobs.ashbyhq.com/onebrief/694ac1b4-a678-4007-9140-ca0287835537)
+<a href="https://onebrief.com"><img src="https://www.google.com/s2/favicons?domain=onebrief.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**OneBrief** · `🟢 Remote` `Senior`
+
+_Own and mature enterprise security systems across endpoints, identity, SaaS applications, and Zero Trust infrastructure—deploying and configuring EDR, MDM, SIEM, and identity platforms while building API-driven automation to enforce security baselines and eliminate manual compliance work. Role requires hands-on security engineering in regulated, defense-adjacent environments with CMMC 2.0 and NIST alignment. · [Apply →](https://jobs.ashbyhq.com/onebrief/694ac1b4-a678-4007-9140-ca0287835537)_
+
+`CrowdStrike` `Splunk` `Okta` `Zscaler` `Workspace One` `REST APIs` `Infrastructure as Code` `CMMC 2.0`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Vice President Defense and Intelligence Engineering](https://job-boards.greenhouse.io/planetlabs/jobs/8167760)
+<a href="https://planet.com"><img src="https://www.google.com/s2/favicons?domain=planet.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Planet Labs** · Denver, Colorado · `🟡 Hybrid` `Manager` `$257k–$366k` `Equity`
+
+_Lead the software engineering organization building Planet's end-to-end dual-use geospatial products (Global Monitoring Service, Marine Domain Awareness, automated change detection) serving defense and intelligence customers. Requires active high-level government security clearance, ITAR/EAR compliance expertise, and experience architecting large-scale satellite imagery processing and AI/ML integration systems. · [Apply →](https://job-boards.greenhouse.io/planetlabs/jobs/8167760)_
+
+`Distributed Systems` `Geospatial Analytics` `Machine Learning Integration` `Cloud Architecture` `ITAR/EAR Compliance` `Computer Vision` `High-Throughput Data Processing` `API Infrastructure`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Data Platform Infrastructure Manager](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Data-Platform-Infrastructure-Manager_R013962)
+<a href="https://sailpoint.com"><img src="https://www.google.com/s2/favicons?domain=sailpoint.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Sailpoint** · `🟢 Remote` `Manager` `$124k-$210k` `Equity`
+
+_Lead the data infrastructure platform team operating Airflow, Flink, Spark on EMR, Kafka, Snowflake, and Iceberg at scale for SailPoint's cloud identity security platform. Balance platform reliability, developer experience, cost efficiency, and team delivery across production data systems serving thousands of enterprises. · [Apply →](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/United-States/Data-Platform-Infrastructure-Manager_R013962)_
+
+`AWS` `Kubernetes` `Terraform` `Apache Airflow` `Apache Kafka` `Apache Spark` `Snowflake` `Python`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Engineering Manager, SDET](https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/Remote-United-States/Engineering-Manager--SDET_JR103010)
+<a href="https://stord.com"><img src="https://www.google.com/s2/favicons?domain=stord.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Stord** · `🟢 Remote` `Manager`
+
+_Build and lead the SDET team establishing test framework standards, AI-assisted test generation strategy, and CI-gated automation infrastructure across web, API, and event-driven systems at Stord's $10B annual commerce platform. Set testing standards and technical direction from zero before hiring additional SDETs, requiring expertise in E2E framework design, contract/API testing, event-driven systems testing, and CI/CD test gating. · [Apply →](https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/Remote-United-States/Engineering-Manager--SDET_JR103010)_
+
+`Playwright` `GitHub Actions` `Kafka` `Contract Testing` `API Testing` `Coverage Tools` `AI-Assisted Test Generation` `CI/CD`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [Remote Principal Full Stack Software Engineer](https://www.butterflynetwork.com/careers?gh_jid=7982117003)
+<a href="https://butterflynetwork.com"><img src="https://www.google.com/s2/favicons?domain=butterflynetwork.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Butterfly Network** · `🟢 Remote` `Principal` `$200k-$230k` `Equity`
+
+_Build enterprise clinical workflows and distributed systems powering Butterfly's cloud platform, managing patient data access, user administration, global search, and audit logging for 40M+ physicians. Requires 10+ years in distributed systems and web development; HIPAA/PHI/PII compliance expertise essential for healthcare-scale operations. · [Apply →](https://www.butterflynetwork.com/careers?gh_jid=7982117003)_
+
+`GraphQL` `React` `TypeScript` `Docker` `Kubernetes` `Redis` `OpenSearch` `HIPAA`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [OneStream Integration Lead](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/OneStream-Integration-Lead_R00335839)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$80k-$266k`
+
+_Design and build end-to-end data integration solutions connecting OneStream XF with enterprise ERP systems (SAP, Oracle, Workday, Dynamics); develop data management workflows, transformation rules, and custom integrations using REST APIs and file-based exchange. Mentor junior developers and drive platform best practices across full implementation lifecycle including integration testing, hypercare, and post-production support. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/OneStream-Integration-Lead_R00335839)_
+
+`OneStream XF` `REST APIs` `Data Integration` `SAP` `Oracle` `Workday` `C#` `XML`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
+
+### [ServiceNow Technical Architect](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Technical-Architect_R00327998)
+<a href="https://accenture.com"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Accenture** · `🟢 Remote` `Senior` `$112k-$302k`
+
+_Lead enterprise ServiceNow platform architecture and implementation at Fortune 500 clients as a senior technical advisor. Architect end-to-end solutions, mentor developer teams, and drive platform governance and technical standards across large-scale consulting engagements. · [Apply →](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Arlington-1201-Wilson-Corp/ServiceNow-Technical-Architect_R00327998)_
+
+`ServiceNow` `JavaScript` `SQL` `AWS` `Azure` `Agile` `ITIL` `ITSM`
+
+<sub>August 31, 2026 at 19:57 UTC</sub>
+
+---
 
 ### [GovCloud Data Infrastructure Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/GovCloud-Data-Infrastructure-Engineer--Remote-_R29607)
 <a href="https://humio.com"><img src="https://www.google.com/s2/favicons?domain=humio.com&sz=32" width="16" height="16" align="absmiddle"></a>&ensp;**Humio (CrowdStrike)** · `🟢 Remote` `Senior` `$100k-$155k` `Equity`
